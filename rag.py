@@ -8,8 +8,7 @@ from langchain.prompts import PromptTemplate
 from langchain.embeddings import HuggingFaceBgeEmbeddings
 from langchain.llms import HuggingFacePipeline
 from langchain.vectorstores import FAISS
-from trafilatura import fetch_url, extract
-from langchain_community.document_loaders import WebBaseLoader
+from langchain_community.document_loaders import WebBaseLoader, UnstructuredFileLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 from langchain_core.output_parsers import StrOutputParser
@@ -18,15 +17,19 @@ from transformers import AutoTokenizer, pipeline
 import torch
 import chainlit as cl
 from chainlit.playground.providers.langchain import LangchainGenericProvider
+import preprocessing
 
-db = None
+retriever = preprocessing.retriever
 
+custom_prompt_template = """
+    Bạn là một trợ lý ảo giúp trả lời chính xác các quy trình bằng tiếng Việt.
+    Sử dụng các bối cảnh sau để trả lời câu hỏi ở cuối.
 
+    Trả lời chỉ từ bối cảnh đã cho. Nếu bạn không biết câu trả lời, hãy nói bạn không biết trả lời câu hỏi này.
 
-custom_prompt_template = """Sử dụng các bối cảnh dưới đây để trả lời câu hỏi ở cuối. Trả lời chỉ từ bối cảnh đã cho. Nếu bạn không biết câu trả lời, hãy nói bạn không biết trả lời câu hỏi này.
-    Bối cảnh: {context}
-    Trả lời ngắn gọn.
+    bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
     Câu hỏi: {question}
+    Trả lời đầy đủ nhất.
     """
 
 def set_custom_prompt():
@@ -69,15 +72,23 @@ def load_llm(model):
 
 
 
-def create_db(link):
-    loader = WebBaseLoader(link)
-    docs = loader.load()
-    downloaded = fetch_url(link)
-    text = extract(downloaded)
-    docs[0].page_content = text
-    #text splitter
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    documents = text_splitter.split_documents(docs)
+# def create_db():
+#     # loader = WebBaseLoader(link)
+#     loader  = UnstructuredFileLoader("./data/ChiTietTTHC_1.004194.docx")
+#     docs = loader.load()
+#     doc_text = "\n\n".join([d.page_content for d in docs])
+#     docs[0].page_content = doc_text
+
+#     # downloaded = fetch_url(link)
+#     # text = extract(downloaded)
+#     # docs[0].page_content = text
+    
+    
+#     #text splitter
+#     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+#     documents = text_splitter.split_documents(docs)
+    
+    
     # Embed
     model_id = "sentence-transformers/distiluse-base-multilingual-cased-v2"
     embeddings = HuggingFaceBgeEmbeddings(model_name= model_id,
@@ -102,17 +113,15 @@ def create_chain(retriever,llm):
 async def init():
 
     await cl.Message(content="Xin chào, tôi là chatbot hỗ trợ bạn trong việc thực hiện các thủ tục của các dịch vụ công. Vui lòng hãy hỏi tôi một câu hỏi.").send()
-    link = None
-    while link == None:
-        link = await cl.AskUserMessage(
-            content = "Nhập vào một link ..."
-        ).send()
+    # link = None
+    # while link == None:
+    #     link = await cl.AskUserMessage(
+    #         content = "Nhập vào một link ..."
+    #     ).send()
         
-    await cl.Message(content="Đang khởi tạo, vui lòng đợi ...").send()
+    # await cl.Message(content="Đang khởi tạo, vui lòng đợi ...").send()
     # Load, chunk and index the contents of the blog.
-    global db 
-    db = create_db(link['content'])
-    retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
+    # db = create_db(link['content'])
     llm = load_llm("gemini-pro")
     qa_chain = create_chain(retriever,llm)
     # Create user session to store data
@@ -124,6 +133,16 @@ async def init():
 async def main(message: str):
 
     qa_chain = cl.user_session.get("qa_chain")
-    res = qa_chain.invoke(message.content)
-    res_full = cl.Message(cl.Text(name="ChatGPT", content="https://chat.openai.com/c/221c00d2-bbcb-4453-94c7-cab52d47ff1a", display="inline"))
+    response = qa_chain.invoke(message.content)
+    source_documents = response['source_documents']
+
+    # Source Retrieval
+    document=source_documents[0]
+    metadata = document.metadata
+    source = metadata.get('source', None)
+
+    if source:
+        res_full = cl.Message(response['result'] + '\nNguồn: ' + source)
+    else:
+        res_full = cl.Message(response['result'])
     await res_full.send()
