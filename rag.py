@@ -7,7 +7,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
 from langchain.embeddings import HuggingFaceBgeEmbeddings
 from langchain.llms import HuggingFacePipeline
-from langchain.vectorstores import FAISS
+# from langchain.vectorstores import FAISS
 from langchain_community.document_loaders import WebBaseLoader, UnstructuredFileLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
@@ -25,7 +25,7 @@ custom_prompt_template = """
     Bạn là một trợ lý ảo giúp trả lời chính xác các quy trình bằng tiếng Việt.
     Sử dụng các bối cảnh sau để trả lời câu hỏi ở cuối.
 
-    Trả lời chỉ từ bối cảnh đã cho. Nếu bạn không biết câu trả lời, hãy nói bạn không biết trả lời câu hỏi này.
+    Trả lời chỉ từ bối cảnh đã cho. Nếu bạn không biết câu trả lời, hãy nói "Tôi không biết trả lời câu hỏi này.".
 
     bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
     Câu hỏi: {question}
@@ -90,11 +90,11 @@ def load_llm(model):
     
     
     # Embed
-    model_id = "sentence-transformers/distiluse-base-multilingual-cased-v2"
-    embeddings = HuggingFaceBgeEmbeddings(model_name= model_id,
-    model_kwargs = {"device":"cpu"})
-    db = FAISS.from_documents(documents=documents, embedding=embeddings)
-    return db
+    # model_id = "sentence-transformers/distiluse-base-multilingual-cased-v2"
+    # embeddings = HuggingFaceBgeEmbeddings(model_name= model_id,
+    # model_kwargs = {"device":"cpu"})
+    # db = FAISS.from_documents(documents=documents, embedding=embeddings)
+    # return db
 
 
 def create_chain(retriever,llm):
@@ -140,9 +140,19 @@ async def main(message: str):
     document=source_documents[0]
     metadata = document.metadata
     source = metadata.get('source', None)
-
+    name, source = source.split(" - ")
     if source:
-        res_full = cl.Message(response['result'] + '\nNguồn: ' + source)
+        if (response['result'] != "Tôi không biết trả lời câu hỏi này."):
+            res_full = cl.Message(response['result'] + '\nNguồn: ' + "["+name+"]("+source+")")
+        else:
+            res_full = cl.Message(response['result'])        
     else:
         res_full = cl.Message(response['result'])
     await res_full.send()
+    # elements = [
+    #     cl.Text(name="["+name+"]("+source+")", content="Nguồn", display="inline")
+    # ]
+    # await cl.Message(
+    #     content=response['result'],
+    #     elements=elements,
+    # ).send()
