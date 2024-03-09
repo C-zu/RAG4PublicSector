@@ -4,6 +4,7 @@ os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
 os.environ['HF_HOME'] = 'D:/RAG4'
 
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_community.llms import HuggingFaceEndpoint
 from langchain.prompts import PromptTemplate
 from langchain.embeddings import HuggingFaceBgeEmbeddings
 from langchain.llms import HuggingFacePipeline
@@ -29,7 +30,9 @@ custom_prompt_template = """
 
     bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
     Câu hỏi: {question}
-    Trả lời đầy đủ nhất.
+    Trả lời đầy đủ nhất, và bao gồm các yêu cầu sau:
+    - Nếu câu hỏi dạng liệt kê thông tin trong bối cảnh có trường hợp đặc biệt thì hãy nêu rõ ra các trường hợp.
+    - Nếu như câu trả lời dạng bảng thì hãy in ra dạng bảng bằng markdown.
     """
 
 def set_custom_prompt():
@@ -46,8 +49,8 @@ def set_custom_prompt():
 # Loading the model
 def load_llm(model):
     # Load the locally downloaded model here
-    llm = ChatGoogleGenerativeAI(model=model,convert_system_message_to_human=True,google_api_key="AIzaSyCSIVSP2hj6L0h-LZWCEhF5LQ6b9_jPgt4",temperature=0.01)
-    
+    llm = ChatGoogleGenerativeAI(model=model,convert_system_message_to_human=True,google_api_key="AIzaSyCSIVSP2hj6L0h-LZWCEhF5LQ6b9_jPgt4",temperature=0.5)
+    # llm = HuggingFaceEndpoint(repo_id=model, temperature = 0.1, max_new_tokens = 250)
     # tokenizer = AutoTokenizer.from_pretrained(model,token="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", trust_remote_code=True)
     
     # pl = pipeline(
@@ -143,14 +146,21 @@ async def main(message: str):
     name, source = source.split(" - ")
     if source:
         if (response['result'] != "Tôi không biết trả lời câu hỏi này."):
-            res_full = cl.Message(response['result'] + '\nNguồn: ' + "["+name+"]("+source+")")
+            elements = [
+                cl.Text(name="Nguồn", content="["+name+"]("+source+")", display="inline")
+            ]
+            await cl.Message(
+                content=response['result'],
+                elements=elements,
+            ).send()
         else:
-            res_full = cl.Message(response['result'])        
+            res_full = cl.Message(response['result'])
+            await res_full.send()      
     else:
         res_full = cl.Message(response['result'])
-    await res_full.send()
+        await res_full.send()
     # elements = [
-    #     cl.Text(name="["+name+"]("+source+")", content="Nguồn", display="inline")
+    #     cl.Text(name="Nguồn", content="["+name+"]("+source+")", display="inline")
     # ]
     # await cl.Message(
     #     content=response['result'],
