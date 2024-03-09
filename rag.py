@@ -1,7 +1,7 @@
 import bs4
 import os
 os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
-os.environ['HF_HOME'] = 'D:/RAG4'
+# os.environ['HF_HOME'] = 'D:/RAG4'
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.llms import HuggingFaceEndpoint
