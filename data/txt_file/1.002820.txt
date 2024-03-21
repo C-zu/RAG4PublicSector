@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002820
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp lại Giấy phép lái xe
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Người lái xe nộp hồ sơ đề nghị cấp lại Giấy phép lái xe đến Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải. Cấp lại Giấy phép lái xe áp dụng trong các trường hợp sau:
++ Giấy phép lái xe quá thời hạn sử dụng;
++ Giấy phép lái xe bị mất;
+b) Giải quyết TTHC:
+- Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải tiếp nhận, kiểm tra hồ sơ; xác minh Giấy phép lái xe (nếu Giấy phép lái xe không do cơ quan đó cấp); xét cấp lại Giấy phép lái xe hoặc yêu cầu sát hạch lại theo quy định để cấp lại Giấy phép lái xe.
+(Khi đến thực hiện thủ tục cấp lại giấy phép lái xe được chụp ảnh trực tiếp và xuất trình các bản chính hồ sơ để đối chiếu, trừ các bản chính đã gửi).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : 135.000 đ/lần Đồng  Lệ phí : - Phí sát hạch lái xe: + Đối với thi sát hạch lái xe mô tô (hạng xe A1, A2, A3, A4): sát hạch lý thuyết: 40.000đ/lần; sát hạch thực hành: 50.000đ/lần. + Đối với thi sát hạch lái xe ô tô (hạng xe B1, B2, C, D, E, F): sát hạch lý thuyết: 90.000đ/lần; sát hạch trong hình: 300.000 đ/lần; sát hạch trên đường giao thông công cộng: 60.000 đ/lần Đồng|- Trường hợp giấy phép lái xe bị mất, quá thời hạn sử dụng từ 03 tháng trở lên: + Sau 02 tháng kể từ ngày nộp đủ hồ sơ hợp lệ theo quy định, phải dự sát hạch lại các nội dung: a) Quá hạn sử dụng từ 03 tháng đến dưới 01 năm, phải dự sát hạch lại lý thuyết; b) Quá hạn sử dụng từ 01 năm trở lên, phải sát hạch lại cả lý thuyết và thực hành. + Thời gian cấp giấy phép lái xe chậm nhất không quá 10 ngày làm việc, kể từ ngày kết thúc kỳ sát hạch.|
+|Trực tiếp|02 Tháng|Lệ phí : 135.000 đ/lần Đồng|- Trường hợp giấy phép lái xe bị mất, còn thời hạn sử dụng hoặc quá thời hạn sử dụng dưới 03 tháng: Sau thời gian 02 tháng kể từ ngày nộp đủ hồ sơ, chụp ảnh và nộp lệ phí theo quy định, nếu không phát hiện giấy phép lái xe đang bị các cơ quan có thẩm quyền thu giữ, xử lý; có tên trong hồ sơ của cơ quan quản lý sát hạch, thì được cấp lại giấy phép lái xe.|
+
+Thành phần hồ sơ:
+
+Trường hợp Giấy phép lái xe bị mất, còn thời hạn sử dụng hoặc quá thời hạn sử dụng dưới 3 tháng:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Hồ sơ gốc phù hợp với giấy phép lái xe (nếu có)||Bản chính: 1Bản sao: 0|
+|Giấy khám sức khoẻ của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp cấp lại giấy phép lái xe không thời hạn các hạng A1, A2, A3||Bản chính: 1Bản sao: 0|
+|Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân (đối với người Việt Nam) hoặc hộ chiếu còn thời hạn sử dụng (đối với người nước ngoài, người Việt Nam định cư ở nước ngoài)||Bản chính: 0Bản sao: 1|
+|Đơn đề nghị đổi (cấp lại) giấy phép lái xe theo mẫu|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec3d4d720dfb86'">Mau.doc</a>|Bản chính: 1Bản sao: 0|
+
+
+Trường hợp Giấy phép lái xe bị mất, quá thời hạn sử dụng từ 3 tháng trở lên, có tên trong hồ sơ của cơ quan quản lý sát hạch, không thuộc trường hợp đang bị cơ quan có thẩm quyền thu giữ, xử lý:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài||Bản chính: 0Bản sao: 1|
+|Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài||Bản chính: 0Bản sao: 1|
+|Giấy khám sức khoẻ của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định||Bản chính: 1Bản sao: 0|
+|Đơn đề nghị đổi (cấp lại) giấy phép lái xe theo mẫu|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe650a7df045533'">Mau.doc</a>|Bản chính: 1Bản sao: 0|
+
+
+Trường hợp Giấy phép lái xe quá thời hạn sử dụng:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài||Bản chính: 0Bản sao: 1|
+|Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài||Bản chính: 0Bản sao: 1|
+|Giấy khám sức khoẻ của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định.||Bản chính: 1Bản sao: 0|
+|Đơn đề nghị đổi (cấp lại) giấy phép lái xe theo mẫu|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5eb8eca54cb10'">Mau.doc</a>|Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+http://csdl.thutuchanhchinh.vn/tw/Pages/chi-tiet-thu-tuc-hanh-chinh.aspx?ItemID=475353&Keyword=B-BGT-285617-TT&filter=1&tthcDonVi=B%E1%BB%99%20Giao%20th%C3%B4ng%20v%E1%BA%ADn%20t%E1%BA%A3i
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|12/2017/TT-BGTVT|Quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ|15-04-2017|Bộ Giao thông vận tải|
+|38/2019/TT-BGTVT|Bổ sung, sửa đổi Thông tư số 12/2017/TT-BGTVT|08-10-2019|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Người có giấy phép lái xe quá thời hạn sử dụng từ 03 tháng đến dưới 01 năm, kể từ ngày hết hạn, phải sát hạch lại lý thuyết để cấp lại giấy phép lái xe; Từ 01 năm trở lên, kể từ ngày hết hạn, phải sát hạch lại cả lý thuyết và thực hành để cấp lại giấy phép lái xe
+Từ khóa:
+Bằng lái
+Mô tả:
+Không có thông tin

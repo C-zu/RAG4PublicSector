@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001613
+Số quyết định:
+222/QĐ-BHXH
+Tên thủ tục:
+Giải quyết hưởng bảo hiểm xã hội một lần
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thực hiện chính sách BHXH
+Trình tự thực hiện:
+Bước 1. Lập, nộp hồ sơ
+NLĐ lập hồ sơ theo quy định tại mục Thành phần hồ sơ và nộp cho cơ quan BHXH nơi cư trú
+Bước 2.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+Bước 3. Nhận kết quả giải quyết
+NLĐ nhận kết quả giải quyết, gồm: Quyết định về việc hưởng BHXH một lần; Bản quá trình đóng BHXH; Tiền trợ cấp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||1. Nộp hồ sơ: NLĐ nộp hồ sơ trực tiếp tại cơ quan BHXH. 2. Nhận kết quả: NLĐ nhận: - Hồ sơ giấy tờ liên quan: theo hình thức đã đăng ký - Tiền trợ cấp: + Trực tiếp tại cơ quan BHXH hoặc thông qua dịch vụ bưu chính công ích hoặc thông qua tài khoản cá nhân; + Trường hợp ủy quyền cho người khác lĩnh thay, thực hiện theo quy định tại thủ tục “Ủy quyền lĩnh thay các chế độ BHXH, trợ cấp thất nghiệp” hoặc bản chính Hợp đồng ủy quyền theo quy định của pháp luật.|
+|Trực tuyến|5 Ngày làm việc||1. Nộp hồ sơ: NLĐ nộp hồ sơ qua giao dịch điện tử: NLĐ đăng ký nhận mã xác thực và gửi hồ sơ điện tử đến Cổng Thông tin điện tử BHXH Việt Nam hoặc qua Tổ chức I-VAN (nếu đã đăng ký sử dụng dịch vụ I-VAN); trường hợp không chuyển hồ sơ giấy sang định dạng điện tử thì gửi toàn bộ hồ sơ giấy cho cơ quan BHXH qua dịch vụ bưu chính công ích; 2. Nhận kết quả: NLĐ nhận: - Hồ sơ giấy tờ liên quan: theo hình thức đã đăng ký - Tiền trợ cấp: + Trực tiếp tại cơ quan BHXH hoặc thông qua dịch vụ bưu chính công ích hoặc thông qua tài khoản cá nhân; + Trường hợp ủy quyền cho người khác lĩnh thay, thực hiện theo quy định tại thủ tục “Ủy quyền lĩnh thay các chế độ BHXH, trợ cấp thất nghiệp” hoặc bản chính Hợp đồng ủy quyền theo quy định của pháp luật.|
+|Dịch vụ bưu chính|5 Ngày làm việc||1. Nộp hồ sơ: NLĐ nộp hồ sơ qua dịch vụ bưu chính công ích; 2. Nhận kết quả: NLĐ nhận: - Hồ sơ giấy tờ liên quan: theo hình thức đã đăng ký - Tiền trợ cấp: + Trực tiếp tại cơ quan BHXH hoặc thông qua dịch vụ bưu chính công ích hoặc thông qua tài khoản cá nhân; + Trường hợp ủy quyền cho người khác lĩnh thay, thực hiện theo quy định tại thủ tục “Ủy quyền lĩnh thay các chế độ BHXH, trợ cấp thất nghiệp” hoặc bản chính Hợp đồng ủy quyền theo quy định của pháp luật.|
+
+Thành phần hồ sơ:
+
+1. Trường hợp hưởng BHXH một lần
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|a) Sổ BHXH||Bản chính: 1Bản sao: 0|
+|b) Đơn đề nghị (Mẫu số 14-HSB)|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe76269875d3cab'">14_HSB.docx</a>|Bản chính: 1Bản sao: 0|
+|c) Đối với người ra nước ngoài để định cư phải nộp thêm bản sao Giấy xác nhận của cơ quan có thẩm quyền về việc thôi quốc tịch Việt Nam hoặc bản dịch tiếng Việt được chứng thực hoặc công chứng một trong các giấy tờ sau đây: - Hộ chiếu do nước ngoài cấp. - Thị thực của cơ quan nước ngoài có thẩm quyền cấp có xác nhận việc cho phép nhập cảnh với lý do định cư ở nước ngoài. - Giấy tờ xác nhận về việc đang làm thủ tục nhập quốc tịch nước ngoài; giấy tờ xác nhận hoặc thẻ thường trú, cư trú có thời hạn từ 05 năm trở lên của cơ quan nước ngoài có thẩm quyền cấp.||Bản chính: 0Bản sao: 1|
+|d) Trường hợp bị mắc những bệnh nguy hiểm đến tính mạng như: Ung thư, bại liệt, xơ gan cổ chướng, phong, lao nặng, nhiễm HIV đã chuyển sang giai đoạn AIDS thì có thêm trích sao/tóm tắt hồ sơ bệnh án thể hiện tình trạng không tự phục vụ được; nếu bị mắc các bệnh khác thì thay bằng Biên bản giám định mức suy giảm từ 81% KNLĐ trở lên của Hội đồng GĐYK thể hiện tình trạng không tự phục vụ được.||Bản chính: 1Bản sao: 1|
+|đ) Trường hợp thanh toán phí GĐYK thì có thêm hóa đơn, chứng từ thu phí giám định kèm theo bản chính bảng kê các nội dung giám định của cơ sở thực hiện GĐYK.||Bản chính: 1Bản sao: 0|
+|e) Bản chính Bản khai cá nhân về thời gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (Mẫu số 04B – HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP ngày 29/10/2020) đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực.||Bản chính: 1Bản sao: 0|
+
+
+2. Đối với người lao động là công dân nước ngoài làm việc tại Việt Nam hưởng BHXH một lần
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Hồ sơ như nêu tại nội dung 1b, 1d, 1đ.||Bản chính: 1Bản sao: 0|
+
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Trường hợp không quy định rõ bản chính thì có thể nộp bản sao hợp lệ||Bản chính: 0Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc hưởng BHXH một lần (Mẫu số 07B-HSB); - Bản quá trình đóng BHXH (Mẫu số 04-HSB); - Tiền trợ cấp., Bản quá trình đóng BHXH, Quyết định về việc hưởng BHXH một lần
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2016/TT-BLĐTBXH|Thông tư 01/2016/TT-BLĐTBXH|18-02-2016|Bộ Lao động - Thương binh và Xã hội|
+|93/2015/QH13|Nghị quyết 93/2015/QH13|22-06-2015|Quốc Hội|
+|58/2014/QH13|Luật 58/2014/QH13 - Bảo hiểm xã hội|20-11-2014|Quốc Hội|
+|115/2015/NĐ-CP|Nghị định 115/2015/NĐ-CP - Quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc|11-11-2015|Chính phủ|
+|59/2015/TT-BLĐTBXH|Thông tư 59/2015/TT-BLĐTBXH - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật bảo hiểm xã hội về bảo hiểm xã hội bắt buộc|29-12-2015|Bộ Lao động - Thương binh và Xã hội|
+|143/2018/NĐ-CP|Nghị định 143/2018/NĐ-CP - Quy định chi tiết Luật bảo hiểm xã hội và Luật an toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam|15-10-2018|Chính phủ|
+|134/2015/NĐ-CP|Nghị định 134/2015/NĐ-CP - Quy định chi tiết một số điều của luật bảo hiểm xã hội về bảo hiểm xã hội tự nguyện|29-12-2015|Bộ Lao động - Thương binh và Xã hội|
+|33/2016/NĐ-CP|Nghị định 33/2016/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân|10-05-2016|Chính phủ|
+|166/2016/NĐ-CP|Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp|24-12-2016|Chính phủ|
+|56/2017/TT-BYT|Thông tư 56/2017/TT-BYT - quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế|01-03-2018|Bộ Y tế|
+|105/2016/TTLT-BQP-BCA-BLĐTBXH|Thông tư liên tịch 105/2016/TTLT-BQP-BCA-BLĐTBXH|30-06-2016||
+|136/2020/TT-BQP|Thông tư 136/2020/TT-BQP|29-10-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Điều 60, 77 Luật BHXH; Điều 1 Nghị quyết số 93/2015/QH13, Điều 8 Nghị định số 115/2015/NĐ-CP; Khoản 2 Điều 17 Thông tư liên tịch số 105/2016/TTLT-BQP-BCA- BLĐTBXH
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

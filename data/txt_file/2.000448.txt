@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000448
+Số quyết định:
+1050/QĐ-BTP
+Tên thủ tục:
+Cấp Phiếu lý lịch tư pháp cho người nước ngoài đã cư trú tại Việt Nam hoặc công dân Việt Nam mà không xác định được nơi thường trú hoặc nơi tạm trú
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Lý lịch tư pháp
+Trình tự thực hiện:
+Nộp hồ sơ tại Trung tâm Lý lịch tư pháp quốc gia, Bộ Tư pháp
+Nhận kết quả tại nơi nộp hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người. Trường hợp người được cấp Phiếu lý lịch tư pháp đề nghị cấp trên 02 Phiếu trong một lần yêu cầu, thì kể từ Phiếu thứ 03 trở đi cơ quan cấp Phiếu lý lịch tư pháp thu thêm 5.000 đồng/Phiếu, để bù đắp chi phí cần thiết cho việc in mẫu Phiếu lý lịch tư pháp.|Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+|Trực tuyến|15 Ngày làm việc|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người. Trường hợp người được cấp Phiếu lý lịch tư pháp đề nghị cấp trên 02 Phiếu trong một lần yêu cầu, thì kể từ Phiếu thứ 03 trở đi cơ quan cấp Phiếu lý lịch tư pháp thu thêm 5.000 đồng/Phiếu, để bù đắp chi phí cần thiết cho việc in mẫu Phiếu lý lịch tư pháp.)|Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người. Trường hợp người được cấp Phiếu lý lịch tư pháp đề nghị cấp trên 02 Phiếu trong một lần yêu cầu, thì kể từ Phiếu thứ 03 trở đi cơ quan cấp Phiếu lý lịch tư pháp thu thêm 5.000 đồng/Phiếu, để bù đắp chi phí cần thiết cho việc in mẫu Phiếu lý lịch tư pháp.)|Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|+ Tờ khai yêu cầu cấp Phiếu lý lịch tư pháp theo mẫu quy định (Mẫu số 03/2013/TT-LLTP; Mẫu số 04/2013/TT-LLTP);|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcef6702d9771fc'">Mẫu số 03.2013.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd26000c0de72a8'">Mẫu số 04.2013.docx</a>|Bản chính: 1Bản sao: 0|
+|+ Bản chụp Chứng minh nhân dân hoặc thẻ Căn cước công dân hoặc hộ chiếu của công dân Việt Nam mà không xác định được nơi thường trú hoặc nơi tạm trú/ bản chụp Hộ chiếu của người nước ngoài đã cư trú tại Việt Nam (Trường hợp nộp bản chụp thì phải xuất trình bản chính để đối chiếu. Trường hợp không có bản chính để đối chiếu thì nộp bản sao có chứng thực theo quy định của pháp luật). Đối với người nước ngoài đã cư trú tại Việt Nam, hộ chiếu phải được đơn vị kiểm soát xuất nhập cảnh của Việt Nam đóng dấu vào.||Bản chính: 0Bản sao: 1|
+|+ Văn bản ủy quyền trong trường hợp ủy quyền cho người khác làm thủ tục yêu cầu cấp Phiếu lý lịch tư pháp số 1 (trường hợp người được ủy quyền là cha, mẹ, vợ, chồng, con của người ủy quyền thì không cần văn bản ủy quyền). Văn bản ủy quyền phải được công chứng, chứng thực theo quy định của pháp luật Việt Nam hoặc pháp luật của nước nơi người đó là công dân hoặc thường trú. Trường hợp ủy quyền theo quy định của pháp luật của nước mà người đó là công dân hoặc thường trú thì văn bản ủy quyền phải được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam và dịch ra tiếng Việt.||Bản chính: 1Bản sao: 0|
+|Cá nhân yêu cầu cấp Phiếu lý lịch tư pháp số 2 không được ủy quyền cho người khác làm thủ tục yêu cầu cấp Phiếu lý lịch tư pháp.||Bản chính: 0Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện:
+Trung tâm Lý lịch tư pháp quốc gia
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Số 9 Trần Vĩ, Mai Dịch, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phiếu lý lịch tư pháp số 1, Phiếu lý lịch tư pháp số 2
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2009/QH12|Luật 28/2009/QH12|17-06-2009|Quốc Hội|
+|111/2010/NĐ-CP|Nghị định 111/2010/NĐ-CP|23-11-2010|Chính phủ|
+|13/2011/TT-BTP|Thông tư 13/2011/TT-BTP|27-06-2011|Bộ Tư pháp|
+|04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP|Thông tư liên tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP|10-05-2012|Bộ Quốc phòng|
+|16/2013/TT-BTP|Thông tư 16/2013/TT-BTP|11-11-2013|Bộ Tư pháp|
+|47/2014/QH13|Luật 47/2014/QH13|16-06-2014|Quốc Hội|
+|59/2014/QH13|Luật 59/2014/QH13|20-11-2014|Quốc Hội|
+|244/2016/TT-BTC|Thông tư 244/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|51/2019/QH14|Luật 51/2019/QH14|25-11-2019||
+|68/2020/QH14|Luật 68/2020/QH14|13-11-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

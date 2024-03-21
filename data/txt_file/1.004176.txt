@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004176
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Đăng ký xe từ điểm đăng ký xe khác chuyển đến (thực hiện tại cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01A/58) và nhận mã số thứ tự, lịch hẹn giải quyết hồ sơ qua địa chỉ thư điện tử hoặc qua tin nhắn điện thoại để làm thủ tục đăng ký xe tại cơ quan đăng ký xe. 
+Trường hợp đến trực tiếp nộp hồ sơ sang tên và kê khai giấy khai đăng ký xe  (mẫu 01) theo quy định.
+Bước 3: Nộp hồ sơ tại bộ phận tiếp nhận và trả kết quả Công an cấp huyện.  Cán bộ, chiến sĩ tiếp nhận và nhập mã hồ sơ đăng ký trực tuyến của chủ xe trên hệ thống đăng ký, quản lý xe để kiểm tra thông tin khai báo đăng ký trực tuyến của chủ xe; in Giấy khai đăng ký xe điện tử trên hệ thống; đối chiếu giấy tờ chủ xe theo quy định tại Thông tư số 58/2020/TT-BCA ngày 16/6/2020; Thông tư 15/2022/TT-BCA ngày 06/4/2022. 
+Đối chiếu giấy tờ chủ xe, giấy khai đăng ký xe với các giấy tờ của xe. Sắp xếp hồ sơ theo thứ tự: Giấy khai đăng ký xe, giấy tờ lệ phí trước bạ, giấy tờ chuyển quyền sở hữu, Giấy chứng nhận thu hồi đăng ký, biển số xe (đối với sang tên từ Công an đơn vị khác chuyển đến) hoặc kiểm tra thông tin điện tử của xe và các giấy tờ của xe liên quan đến chủ xe (nếu có), đánh số thứ tự, thống kê, trích yếu tài liệu vào bìa hồ sơ. 
+Nếu hồ sơ đăng ký xe không đảm bảo thủ tục theo quy định thì hướng dẫn cụ thể, đầy đủ một lần cho chủ xe hoàn thiện hồ sơ theo quy định.
+Bước 4: Kiểm tra thực tế xe: 
+a) Trực tiếp đối chiếu nội dung trong giấy khai đăng ký xe với thực tế xe, gồm: Nhãn hiệu, loại xe, số máy, số khung, màu sơn, số chỗ ngồi và các thông số kỹ thuật khác; kiểm tra toàn bộ, chi tiết hình dáng kích thước, tổng thành khung, tổng thành máy của xe;
+b) Chà số khung dán vào giấy khai đăng ký xe, đối chiếu số máy thực tế so với bản chà số máy dán tại giấy khai đăng ký xe và ký xác nhận kiểm tra lên bản chà số máy, số khung đó (một phần chữ ký trên bản chà, phần còn lại trên giấy khai đăng ký xe); ghi rõ ngày, tháng, năm và họ, tên cán bộ kiểm tra xe.
+Bước 5: Kiểm tra nhập thông tin chủ mới trên hệ thống đăng ký quản lý xe; đối chiếu giấy chứng nhận thu hồi đăng ký xe, giấy tờ chuyển quyền sở hữu, giấy tờ lệ phí trước bạ với dữ liệu đăng ký xe.  
+Bước 6: Hướng dẫn chủ xe kiểm tra thông tin, Cấp biển số xe trên hệ thống đăng ký, quản lý xe, ghi biển số vào giấy khai đăng ký xe. 
+Bước 7: Cấp giấy hẹn cho chủ xe; trường hợp chủ xe có yêu cầu chuyển chứng nhận đăng ký xe qua Bưu điện thì hướng dẫn chủ xe làm thủ tục đăng ký sử dụng dịch vụ chuyển phát chứng nhận đăng ký xe.
+Bước 8: Thu lệ phí đăng ký xe theo quy định, trả giấy chứng nhận đăng ký xe cho chủ xe.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : Đồng Thu theo Thông tư 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông cơ giới đường bộ.|+ Trực tiếp tại trụ sở trụ sở Công an cấp huyện. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). - Thời hạn giải quyết: Cấp ngay biển số sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ; cấp giấy chứng nhận đăng ký xe thì thời hạn hoàn thành thủ tục không quá 2 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+|Trực tuyến|02 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp Giấy khai đăng ký xe điện tử trên Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an. Cấp ngay biển số sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ; cấp giấy chứng nhận đăng ký xe thì thời hạn hoàn thành thủ tục không quá 2 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|02 Ngày làm việc||+ Trả kết quả qua dịch vụ bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Giấy khai đăng ký xe (Mẫu số 01 ban hành kèm theo Thông tư số 58/2020/TT-BCA)|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5e0f72270996c'">Mẫu số 1 Giay khai đăng ký xe.doc</a>|Bản chính: 1Bản sao: 0|
+|b) Giấy tờ lệ phí trước bạ.||Bản chính: 1Bản sao: 0|
+|c) Giấy tờ chuyển quyền sở hữu.||Bản chính: 1Bản sao: 0|
+|d) Giấy chứng nhận thu hồi đăng ký, biển số xe.||Bản chính: 1Bản sao: 0|
+|đ) Giấy tờ của chủ xe.||Bản chính: 1Bản sao: 0|
+|Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ, ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.||Bản chính: 0Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an huyện
+Cơ quan có thẩm quyền:
+Công an huyện
+Địa chỉ tiếp nhận HS:
+Công an cấp huyện; Cổng Dịch vụ công quốc gia; Cổng dịch vụ công Bộ Công an.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe, Biển số xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật 23/2008/QH12 - Giao thông đường bộ|13-11-2008|Quốc Hội|
+|229/2016/TT-BTC|Thông tư số 229/2016/TT-BTC quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông cơ giới đường bộ|11-11-2016|Bộ Tài chính|
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

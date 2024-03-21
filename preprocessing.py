@@ -55,7 +55,7 @@ def load_chunk(directory_path):
     model_id = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
     embeddings = HuggingFaceBgeEmbeddings(model_name=model_id, model_kwargs={"device": "cpu"})
 
-    text_splitter = RecursiveCharacterTextSplitter(separators='[END]', chunk_size=2000, chunk_overlap=200)
+    text_splitter = RecursiveCharacterTextSplitter(separators='\n', chunk_size=1000, chunk_overlap=200)
 
     chunked_documents = []
 
@@ -63,7 +63,7 @@ def load_chunk(directory_path):
         if file_path.is_file():
             loader = TextLoader(file_path, encoding='utf8')
             data = loader.load()
-            data[0].metadata['source'] = 'https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FC-zu%2FRAG4PublicSector%2Fblob%2Fmain%2Fdata%2F' + os.path.splitext(os.path.basename(file_path))[0] + '.doc'
+            data[0].metadata['source'] = os.path.splitext(os.path.basename(file_path))[0] + '.doc - ' + 'https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2FC-zu%2FRAG4PublicSector%2Fblob%2Fmain%2Fdata%2F' + os.path.splitext(os.path.basename(file_path))[0] + '.doc'
             chunked_documents.extend(text_splitter.split_documents(data))
     bm25_retriever = BM25Retriever.from_documents(chunked_documents)
     bm25_retriever.k = 5
@@ -87,9 +87,9 @@ def load_chunk(directory_path):
 
     return compression_retriever
 
-def save_retriever_to_pickle(retriever, filename):
-    with open(filename, 'wb') as file:
-        pickle.dump(retriever, file)
+# def save_retriever_to_pickle(retriever, filename):
+#     with open(filename, 'wb') as file:
+#         pickle.dump(retriever, file)
         
 
 txt_path = './data/txt_file'

@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000677
+Số quyết định:
+5947/QĐ-BCA-C06
+Tên thủ tục:
+Xác nhận số Chứng minh nhân dân, Căn cước công dân (thực hiện tại cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Cấp, quản lý căn cước công dân
+Trình tự thực hiện:
+- Bước 1: Công dân đã được cấp thẻ Căn cước công dân có nhu cầu được xác nhận số Chứng minh nhân dân, số Căn cước công dân chuẩn bị hồ sơ theo quy định.
+- Bước 2: Nộp hồ sơ tại Công an huyện, quận, thành phố, thị xã thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương hoặc đăng ký cấp giấy xác nhận số Chứng minh nhân dân, số Căn cước công dân trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an khi công dân có thông tin về số Chứng minh nhân dân, số Căn cước công dân trong Cơ sở dữ liệu quốc gia về dân cư.
+- Bước 3: Nhận kết quả tại Công an huyện, quận, thành phố, thị xã thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương hoặc qua đường chuyển phát đến địa chỉ theo yêu cầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||+ Trực tiếp tại trụ sở Công an.|
+|Trực tuyến|07 Ngày làm việc||Thông qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an khi công dân có thông tin về số Chứng minh nhân dân, số Căn cước công dân trong Cơ sở dữ liệu quốc gia về dân cư.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Giấy đề nghị xác nhận số Chứng minh nhân dân (Mẫu CC13 ban hành kèm theo Thông tư số 41/2019/TT-BCA ngày 01/10/2019 của Bộ trưởng Bộ Công an).|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbf2493548a46e'">Mẫu CC13 kèm theo TT41.doc</a>|Bản chính: 1Bản sao: 0|
+|Trường hợp thông tin về số Chứng minh nhân dân, số Căn cước công dân chưa có trong Cơ sở dữ liệu quốc gia về dân cư thì đề nghị công dân cung cấp bản chính hoặc bản sao thẻ Căn cước công dân, bản sao Chứng minh nhân dân (nếu có).||Bản chính: 0Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Công an huyện
+Cơ quan có thẩm quyền:
+Công an huyện
+Địa chỉ tiếp nhận HS:
+Công an huyện, quận, thành phố, thị xã thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận số Chứng minh nhân dân, số Căn cước công dân (Mẫu CC07 ban hành kèm theo Thông tư số 41/2019/TT-BCA ngày 01/10/2019 của Bộ trưởng Bộ Công an).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư 66/2015/TT-BCA|Quy định về biểu mẫu sử dụng trong công tác cấp, quản lý thẻ Căn cước công dân, tàng thư căn cước công dân và Cơ sở dữ liệu quốc gia về dân cư|15-12-2015|Bộ Công an|
+|59/2014/QH13|Luật 59/2014/QH13|20-11-2014|Quốc Hội|
+|Thông tư số 41/2019/TT-BCA|Sửa đổi, bổ sung một số điều của Thông tư số 66/2015/TT-BCA ngày 15/12/2015 của Bộ Công an quy định về biểu mẫu sử dụng trong công tác cấp, quản lý thẻ Căn cước công dân, tàng thư căn cước công dân và Cơ sở dữ liệu quốc gia về dân cư;|01-10-2019|Bộ Công an|
+|37/2021/NĐ-CP|Nghị định 37/2021/NĐ-CP|29-03-2021||
+|59/2021/TT-BCA|Thông tư 59/2021/TT-BCA|15-05-2021||
+|137/2015/NĐ-CP|Nghị định 137/2015/NĐ-CP|31-12-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Không.
+Từ khóa:
+Xác nhận số Chứng minh nhân dân, Căn cước công dân
+Mô tả:
+Không có thông tin

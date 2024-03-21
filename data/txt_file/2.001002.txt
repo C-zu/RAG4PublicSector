@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001002
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy phép lái xe quốc tế
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+Cá nhân nộp đơn đề nghị cấp Giấy phép lái xe quốc tế (sau đây viết tắt là IDP) đến Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải
+b) Giải quyết TTHC
+- Cá nhân khi nộp đơn trực tiếp tại Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải, phải xuất trình bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) để thực hiện kiểm tra tính chính xác, hợp pháp của việc cấp IDP và phải hoàn thành nghĩa vụ nộp lệ phí khi được tiếp nhận hồ sơ theo quy định; khi nộp đơn qua hệ thống dịch vụ công trực tuyến, cá nhân kê khai theo hướng dẫn và phải chịu trách nhiệm về tính chính xác, tính hợp pháp của nội dung đã kê khai, phải hoàn thành nghĩa vụ nộp lệ phí thông qua chức năng thanh toán lệ phí của hệ thống dịch vụ công trực tuyến và nộp phí sử dụng dịch vụ khác theo nhu cầu của cá nhân. Trường hợp đơn đề nghị không đúng theo quy định, cơ quan tiếp nhận đơn có trách nhiệm thông báo trực tiếp hoặc bằng văn bản hoặc qua hệ thống dịch vụ công trực tuyến những nội dung cần bổ sung hoặc sửa đổi cho cá nhân trong thời hạn 02 ngày làm việc, kể từ ngày tiếp nhận đơn.
+Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP đúng theo quy định, Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 135.000 Đồng Lệ phí 135.000 đồng/lần.|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP đúng theo quy định|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 135.000 Đồng Lệ phí 135.000 đồng/lần.|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP đúng theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Đơn đề nghị cấp Giấy phép lái xe quốc tế theo mẫu quy định|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe87ab04d202b8a'">M1.docx</a>|Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái xe quốc tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|29/2015/TT-BGTVT|Quy định về cấp, sử dụng giấy phép lái xe quốc tế|06-07-2015|Bộ Giao thông vận tải|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|01/2021/TT-BGTVT|Thông tư 01/2021/TT-BGTVT|27-01-2021||
+
+Yêu cầu, điều kiện thực hiện:
+-  Đối tượng được cấp Giấy phép lái xe quốc tế: Người Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có giấy phép lái xe quốc gia do Việt Nam cấp bằng vật liệu PET. còn giá trị sử dụng.
+- Trường hợp Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng; Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định thì sẽ không được cấp Giấy phép lái xe quốc tế.
+-  Đối tượng được cấp Giấy phép lái xe quốc tế: Người Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có giấy phép lái xe quốc gia do Việt Nam cấp bằng vật liệu PET. còn giá trị sử dụng.
+- Trường hợp Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng; Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định thì sẽ không được cấp Giấy phép lái xe quốc tế.
+Từ khóa:
+Bằng lái
+Mô tả:
+Không có thông tin

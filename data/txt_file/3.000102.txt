@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000102
+Số quyết định:
+505
+Tên thủ tục:
+Chấm dứt hợp đồng mua bán điện
+Cấp thực hiện:
+Cấp Bộ, Cơ quan khác
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Dịch vụ trong quá trình thực hiện HĐMBĐ
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Chốt chỉ số
+Ký Biên bản chấm dứt HĐMBĐ
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Mức giá : Miễn phí||
+|Trực tuyến|2 Ngày làm việc|Mức giá : Miễn phí||
+|Dịch vụ bưu chính|2 Ngày làm việc|Mức giá : Miễn phí||
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Giấy đề nghị|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbc532eb2e6b888'">02.PhieuDeNghiDichVuDienDungChung.docx</a>|Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Tập đoàn Điện lực Việt Nam
+Cơ quan có thẩm quyền:
+Tập đoàn Điện lực Việt Nam
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Biên bản chấm dứt HĐMBĐ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|137/2013/NĐ-CP|Quy định chi tiết thi hành một số điều của Luật Điện lực và Luật sửa đổi, bổ sung một số điều của Luật Điện lực|21-10-2013|Chính phủ|
+|24/2012/QH13|Sửa đổi, bổ sung một số điều của Luật Điện lực|20-11-2012|Quốc Hội|
+|Luật số 28/2004/QH11|Luật Điện lực|03-12-2004|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Không có yêu cầu điều kiện
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

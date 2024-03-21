@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001195
+Số quyết định:
+5947/QĐ-BCA-C06
+Tên thủ tục:
+Đổi thẻ Căn cước công dân (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Cấp, quản lý căn cước công dân
+Trình tự thực hiện:
+- Bước 1: Công dân đến địa điểm làm thủ tục cấp Căn cước công dân của Phòng Cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh, thành phố trực thuộc Trung ương, Trung tâm phục vụ hành chính công tỉnh, thành phố trực thuộc Trung ương (nếu triển khai) hoặc thông qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an để đăng ký thời gian, địa điểm làm thủ tục đề nghị đổi thẻ Căn cước công dân.
+Trường hợp công dân không đủ điều kiện đổi thẻ Căn cước công dân thì từ chối tiếp nhận và nêu rõ lý do. Trường hợp công dân đủ điều kiện đổi thẻ Căn cước công dân thì thực hiện các bước sau.
+- Bước 2: Cán bộ thu nhận thông tin công dân tìm kiếm thông tin trong Cơ sở dữ liệu quốc gia về dân cư để lập hồ sơ đổi thẻ Căn cước công dân.
++ Trường hợp thông tin công dân không có sự thay đổi, điều chỉnh thì sử dụng thông tin của công dân trong cơ sở dữ liệu quốc gia về dân cư để lập hồ sơ đổi thẻ Căn cước công dân.
++ Trường hợp thông tin công dân có sự thay đổi, điều chỉnh thì đề nghị công dân xuất trình giấy tờ pháp lý chứng minh nội dung thay đổi để cập nhật, bổ sung thông tin trong hồ sơ đổi thẻ Căn cước công dân.
+- Bước 3: Tiến hành thu nhận vân tay, chụp ảnh chân dung của công dân. 
+- Bước 4: In Phiếu thu nhận thông tin Căn cước công dân chuyển cho công dân kiểm tra, ký xác nhận; in Phiếu cập nhật, chỉnh sửa thông tin dân cư (nếu có) cho công dân kiểm tra, ký xác nhận.
+- Bước 5: Thu Căn cước công dân cũ, thu lệ phí (nếu có) và cấp giấy hẹn trả thẻ Căn cước công dân cho công dân Mẫu CC03 ban hành kèm theo Thông tư số 66/2015/TT-BCA ngày 15/5/2021 của Bộ trưởng Bộ Công an. 
+- Thời gian tiếp nhận hồ sơ và thời gian trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày lễ, tết).
+- Bước 6: Nhận kết quả trực tiếp tại cơ quan Công an nơi tiếp nhận hồ sơ hoặc trả qua đường chuyển phát đến địa chỉ theo yêu cầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Lệ phí : 0 Đồng Các trường hợp không phải nộp lệ phí - Đổi thẻ Căn cước công dân theo quy định tại Điều 21 và điểm a khoản 3 Điều 32 Luật Căn cước công dân; - Đổi thẻ Căn cước công dân khi có sai sót về thông tin trên thẻ Căn cước công dân do lỗi của cơ quan quản lý Căn cước công dân;  Lệ phí : 0 Đồng Các trường hợp miễn lệ phí - Đổi thẻ Căn cước công dân khi Nhà nước quy định thay đổi địa giới hành chính; - Đổi thẻ Căn cước công dân cho công dân là bố, mẹ, vợ, chồng, con dưới 18 tuổi của liệt sỹ; thương binh, người hưởng chính sách như thương binh; con dưới 18 tuổi của thương binh và người hưởng chính sách như thương binh; bệnh binh; công dân thường trú tại các xã biên giới; các huyện đảo; đồng bào dân tộc thiểu số ở các xã có điều kiện kinh tế - xã hội đặc biệt khó khăn; công dân thuộc hộ nghèo theo quy định của pháp luật; - Đổi thẻ Căn cước công dân cho công dân dưới 18 tuổi, mồ côi cả cha lẫn mẹ, không nơi nương tựa.  Lệ phí : 50.000 Đồng Đổi thẻ Căn cước công dân khi bị hư hỏng không sử dụng được; thay đổi thông tin về họ, chữ đệm, tên; đặc điểm nhân dạng; xác định lại giới tính, quê quán; có sai sót về thông tin trên thẻ; khi công dân có yêu cầu: 50.000 đồng/thẻ Căn cước công dân.|+ Trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội hoặc Trung tâm phục vụ hành chính công tỉnh, thành phố trực thuộc Trung ương; + Cấp lưu động tại các địa điểm cần thiết.|
+|Trực tuyến|07 Ngày làm việc||+ Thông qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an để đăng ký thời gian, địa điểm làm thủ tục đề nghị cấp thẻ Căn cước công dân.|
+
+Thành phần hồ sơ:
+
+Trường hợp thông tin công dân có sự thay đổi, điều chỉnh so với thông tin trong cơ sở dữ liệu quốc gia về dân cư thì hồ sơ còn có:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Phiếu cập nhật, chỉnh sửa thông tin dân cư (Mẫu DC02 ban hành kèm theo Thông tư số 104/2020/TT-BCA ngày 30/9/2020 của Bộ trưởng Bộ Công an)|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5e3311caea4b1'">Mẫu DC02 kèm theo TT104.docx</a>|Bản chính: 1Bản sao: 0|
+|Giấy tờ pháp lý chứng minh nội dung thay đổi thông tin công dân.||Bản chính: 1Bản sao: 0|
+
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Phiếu thu nhận thông tin Căn cước công dân (mẫu CC02 ban hành kèm theo Thông tư số 66/2015/TT-BCA ngày 15/12/2015 của Bộ trưởng Bộ Công an)||Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Cục cảnh sát quản lý hành chính về trật tự, xã hội
+Địa chỉ tiếp nhận HS:
+Phòng Cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh, thành phố trực thuộc trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thẻ căn cước công dân, Giấy xác nhận số Chứng minh nhân dân, số Căn cước công dân (Mẫu CC07 ban hành kèm theo Thông tư số 41/2019/TT-BCA ngày 01/10/2019 của Bộ trưởng Bộ Công an).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư 66/2015/TT-BCA|Quy định về biểu mẫu sử dụng trong công tác cấp, quản lý thẻ Căn cước công dân, tàng thư căn cước công dân và Cơ sở dữ liệu quốc gia về dân cư|15-12-2015|Bộ Công an|
+|Nghị định 137/2015/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước công dân|31-12-2015|Chính phủ|
+|59/2014/QH13|Luật 59/2014/QH13|20-11-2014|Quốc Hội|
+|Thông tư 59/2019/TT-BTC|Quy định mức thu, chế độ thu, nộp và quản lý lệ phí cấp Căn cước công dân|30-08-2019|Bộ Tài chính|
+|Thông tư số 41/2019/TT-BCA|Sửa đổi, bổ sung một số điều của Thông tư số 66/2015/TT-BCA ngày 15/12/2015 của Bộ Công an quy định về biểu mẫu sử dụng trong công tác cấp, quản lý thẻ Căn cước công dân, tàng thư căn cước công dân và Cơ sở dữ liệu quốc gia về dân cư|01-10-2019|Bộ Công an|
+|37/2021/NĐ-CP|Nghị định 37/2021/NĐ-CP|29-03-2021||
+|59/2021/TT-BCA|Thông tư 59/2021/TT-BCA|15-05-2021||
+|60/2021/TT-BCA|Thông tư 60/2021/TT-BCA|15-05-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Đổi thẻ Căn cước công dân
+Mô tả:
+Không có thông tin
