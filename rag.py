@@ -47,7 +47,6 @@ custom_prompt_template2 = """
     bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
     Câu hỏi: {question}
     Trả lời đầy đủ nhất, và bao gồm các yêu cầu sau:
-    - Nếu câu trả lời nằm trong nhiều bảng, hãy in đầy đủ tất cả bảng ra, còn nếu không phải bảng thì trả lời bình thường.
     - Nếu như câu trả lời dạng bảng thì hãy in ra dạng bảng bằng markdown.
     - Nếu gặp hyperlink dạng HTML "<a href="url">link text</a>", hãy thay nó sang dạng markdown [link text](url).
     """
@@ -78,7 +77,7 @@ def set_custom_prompt():
     Prompt template for QA retrieval for each vectorstore
     """
     prompt = PromptTemplate(
-        template=custom_prompt_template3, input_variables=["context", "question"]
+        template=custom_prompt_template2, input_variables=["context", "question"]
     )
     return prompt
 
@@ -159,19 +158,8 @@ def load_llm1(model):
     # return db
 
 
-def create_chain(retriever,llm):
+def create_conversational_chain(retriever,llm):
     # Create chain
-    # prompt = set_custom_prompt()
-    # qa_chain = RetrievalQA.from_chain_type(llm=llm,
-    #                               chain_type="stuff",
-    #                               retriever=retriever,
-    #                               return_source_documents=True,
-    #                               chain_type_kwargs={
-    #                                     "prompt": prompt,
-    #                                     # "memory": ConversationBufferMemory(
-    #                                     #     memory_key="history",
-    #                                     #     input_key="question"),
-    #                                 },)  
     memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True, output_key='answer')
     messages = [
         SystemMessagePromptTemplate.from_template(custom_prompt_template3),
@@ -187,6 +175,18 @@ def create_chain(retriever,llm):
         combine_docs_chain_kwargs={"prompt": qa_prompt},
         return_source_documents=True)
     
+    return qa_chain
+
+def create_chain(retriever,llm):
+    # Create chain
+    prompt = set_custom_prompt()
+    qa_chain = RetrievalQA.from_chain_type(llm=llm,
+                                  chain_type="stuff",
+                                  retriever=retriever,
+                                  return_source_documents=True,
+                                  chain_type_kwargs={
+                                        "prompt": prompt,
+                                    },)  
     return qa_chain
 
 
