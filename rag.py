@@ -21,6 +21,7 @@ import chainlit as cl
 from chainlit.playground.providers.langchain import LangchainGenericProvider
 import preprocessing1
 
+
 retriever = preprocessing1.retriever
 
 custom_prompt_template1 = """
@@ -52,23 +53,23 @@ custom_prompt_template2 = """
     """
 
 custom_prompt_template3 = """
-    Bạn là một trợ lý ảo giúp trả lời chính xác các quy trình bằng tiếng Việt.
+    Bạn là một trợ lý ảo trợ giúp trả lời các câu hỏi về các thủ tục dịch vụ công chính xác bằng tiếng Việt.
     Sử dụng các bối cảnh sau để trả lời câu hỏi ở cuối, và có thể sử dụng lịch sử trò chuyện để cải thiện câu trả lời từ câu trả lời trước đó. 
 
-    Trả lời chỉ từ bối cảnh đã cho. Nếu bạn không biết câu trả lời, đừng cố trả lời mà hãy nói "Tôi không biết trả lời câu hỏi này.".
+    Hãy trả lời chỉ từ bối cảnh đã cho và nếu câu hỏi mơ hồ không bao gồm tên của một thủ tục cụ thể thì đừng trả lời mà hãy nói "Hãy cung cấp thêm thông tin về câu hỏi" mà đừng cố gắng trả lời.
+    Nếu bạn không biết câu trả lời, đừng cố trả lời mà hãy nói "Tôi không biết trả lời câu hỏi này.".
 
-    bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
+    Bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
     Câu hỏi: {question}
     Lịch sử trò chuyện: {chat_history}
     Trả lời đầy đủ nhất, và bao gồm các yêu cầu sau:
     - Nếu câu trả lời nằm trong nhiều bảng, hãy in đầy đủ tất cả bảng ra, còn nếu không phải bảng thì trả lời bình thường.
     - Nếu như câu trả lời dạng bảng thì hãy in ra dạng bảng bằng markdown.
     - Nếu gặp hyperlink dạng HTML "<a href="url">link text</a>", hãy thay nó sang dạng markdown [link text](url).
-    - Nếu câu hỏi mơ hồ, không cụ thể thì hãy hỏi lại người dùng mà không cố gắng trả lời.
     """
     
 custom_prompt_template4 = """
-    Bạn là một trợ lý ảo giúp đặt câu hỏi từ bối cảnh được cung cấp {context}.
+    Bạn là một trợ lý ảo giúp đặt câu hỏi vấn đề liên quan tới các thủ tục dịch vụ công từ bối cảnh được cung cấp {context}, lưu ý rằng câu hỏi đặt ra phải có thông tin trả lời trong bối cảnh.
     Với {question} là số lượng câu hỏi được yêu cầu.
     """
 
@@ -205,7 +206,7 @@ async def init():
     # Load, chunk and index the contents of the blog.
     # db = create_db(link['content'])
     llm = load_llm("gemini-pro")
-    qa_chain = create_chain(retriever,llm)
+    qa_chain = create_conversational_chain(retriever,llm)
     # Create user session to store data
     cl.user_session.set("qa_chain", qa_chain)
     # Send response back to user
