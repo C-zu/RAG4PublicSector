@@ -22,20 +22,18 @@ class Evaluator():
 
     def load_json(self):
         with open(self.path_to_data, "r", encoding="utf-8") as infile: 
-            data = json.load(infile)
-        self.output["data"] = data 
-        return data
+            self.output = json.load(infile)
     
     def load_dataset(self):
         dataset = EvaluationDataset()
-        data = self.load_json()
+        self.load_json()
 
-        for i in range(0, len(data["questions"])):
+        for i in range(0, len(self.output["questions"])):
             testcase = LLMTestCase(
-                input=data["questions"][i], 
-                actual_output=data["answers"][i],
-                expected_output=data["ground_truths"][i],
-                retrieval_context=data["contexts"][i])
+                input=self.output["questions"][i], 
+                actual_output=self.output["answers"][i],
+                expected_output=self.output["ground_truths"][i],
+                retrieval_context=self.output["contexts"][i])
             dataset.add_test_case(testcase)
         return dataset
     
@@ -97,13 +95,13 @@ class Evaluator():
             context_precision_scores.append(context_precision.score)
             context_recall_scores.append(context_recall.score)
             time.sleep(3)
-        
         self.output["answer_relevancy"] = answer_relevancy_scores
         self.output["faithfulness"] = faithfulness_scores
         self.output["context_precision"] = context_precision_scores
         self.output["context_recall"] = context_recall_scores
 
     def get_evaluate_output(self):
+        print(self.output)
         df = pd.DataFrame.from_dict(self.output)
         return df
         
