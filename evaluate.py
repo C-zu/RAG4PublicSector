@@ -88,15 +88,15 @@ class Evaluator():
         dataset = self.load_dataset()
 
         for i in range(0, len(dataset.test_cases)):
-            await answer_relevancy.measure(dataset.test_cases[i])
-            await faithfulness.measure(dataset.test_cases[i])
-            await context_precision.measure(dataset.test_cases[i])
-            await context_recall.measure(dataset.test_cases[i])
+            answer_relevancy.measure(dataset.test_cases[i])
+            faithfulness.measure(dataset.test_cases[i])
+            context_precision.measure(dataset.test_cases[i])
+            context_recall.measure(dataset.test_cases[i])
             answer_relevancy_scores.append(answer_relevancy.score)
             faithfulness_scores.append(faithfulness.score)
             context_precision_scores.append(context_precision.score)
             context_recall_scores.append(context_recall.score)
-            time.sleep(60)
+            time.sleep(3)
         
         self.output["answer_relevancy"] = answer_relevancy_scores
         self.output["faithfulness"] = faithfulness_scores
@@ -130,7 +130,7 @@ class CustomModel(DeepEvalBaseLLM):
         return "Custom model"
     
 # Init
-gemini_chat = ChatGoogleGenerativeAI(model='gemini-pro',google_api_key="AIzaSyCSIVSP2hj6L0h-LZWCEhF5LQ6b9_jPgt4",temperature=0.1)
+gemini_chat = ChatGoogleGenerativeAI(model='gemini-pro',google_api_key="AIzaSyD3NCZLaMXUpG1UvStJMN8eYB1QeleOg6Y",temperature=0.1)
 model = CustomModel(gemini_chat)
 path_to_evaluate_data = "./data/testset.json"
 evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=model)
