@@ -14,7 +14,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
-from transformers import AutoTokenizer, pipeline
 import torch
 from langchain.memory import ConversationBufferMemory
 import chainlit as cl
