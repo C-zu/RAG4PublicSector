@@ -16,15 +16,19 @@ from langchain.embeddings import HuggingFaceBgeEmbeddings
 from langchain_community.vectorstores import Qdrant
 from langchain.retrievers.document_compressors import CohereRerank
 from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
-os.environ['COHERE_API_KEY'] = '7THPmgAjpjThSPmqNcpcER8T4h1FJNgZNEzpLGzv'
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
-myclient = pymongo.MongoClient("mongodb+srv://gogorun235:nhathuy@rag-publicsector.amgor2s.mongodb.net/")
+
+os.environ['COHERE_API_KEY'] = '7THPmgAjpjThSPmqNcpcER8T4h1FJNgZNEzpLGzv'
+myclient = pymongo.MongoClient("mongodb+srv://nghia:nghia@rag-db.3zxzfye.mongodb.net/")
 mydb = myclient["rag-db"]
 mycol = mydb["documents"]
 
 def load_chunk(directory_path):
-    model_id = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-    embeddings = SpacyEmbeddings(model_name="en_core_web_sm")
+    embedding = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004",google_api_key=os.getenv("GOOGLE_API_KEY"), task_type="retrieval_document")
+    embedding_2 = SpacyEmbeddings(model_name="en_core_web_sm")
+    model_id = "sentence-transformers/distiluse-base-multilingual-cased-v2"
+    hf_embedding = HuggingFaceBgeEmbeddings(model_name= model_id, model_kwargs = {"device":"cpu"})
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=1000)
 
     chunked_documents = []
@@ -35,19 +39,12 @@ def load_chunk(directory_path):
             data = loader.load()
             data[0].metadata['source'] = "https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=" + os.path.splitext(os.path.basename(file_path))[0]
             chunked_documents.extend(text_splitter.split_documents(data))
-    bm25_retriever = BM25Retriever.from_documents(chunked_documents, k = 5)
-    # Qdrant.from_documents(
-    #     chunked_documents,
-    #     embeddings,
-    #     path="./Qdrant",  # Local mode with in-memory storage only
-    #     collection_name="my_documents",
-    # )
+
     vectorstore = MongoDBAtlasVectorSearch.from_documents(
         chunked_documents,
-        embeddings,
+        embedding,
         collection=mycol,
+        index_name=os.getenv('ATLAS_VECTOR_SEARCH_INDEX_NAME')
     )
-    with open('./data/bm25_retriever.pkl', 'wb') as f:
-        pickle.dump(bm25_retriever, f)
     
-load_chunk('D:\\RAG4\\data\\txt_file')
+load_chunk('E:\\thesis\\Rag4PublicSector\\data\\txt_file')

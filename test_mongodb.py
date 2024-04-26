@@ -1,7 +1,5 @@
 import pymongo
-
 client = pymongo.MongoClient("mongodb+srv://gogorun235:nhathuy@rag-publicsector.amgor2s.mongodb.net/")
-
 db = client["rag-db"]
 
 # Chọn collection "documents"

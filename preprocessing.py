@@ -6,13 +6,13 @@ from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain import hub
-from langchain.retrievers import BM25Retriever, EnsembleRetriever
+from langchain_community.retrievers import BM25Retriever
+from langchain.retrievers import EnsembleRetriever
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter
 from pathlib import Path
 import pickle
 import os
-os.environ['COHERE_API_KEY'] = '7THPmgAjpjThSPmqNcpcER8T4h1FJNgZNEzpLGzv'
 
 
 def extract_text_and_tables_from_docx(file, txt_path):

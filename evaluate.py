@@ -10,20 +10,25 @@ import time
 import pandas as pd
 import asyncio
 
+from dotenv import load_dotenv
+load_dotenv()
+
 class Evaluator():
     def __init__(
             self,
             path_to_data,
             model,
+            filename,
     ):
         self.path_to_data = path_to_data
         self.output = {}
         self.model = model
+        self.file_name = filename
 
     def load_json(self):
         with open(self.path_to_data, "r", encoding="utf-8") as infile: 
             data = json.load(infile)
-        self.output["data"] = data 
+        self.output = data 
         return data
     
     def load_dataset(self):
@@ -88,15 +93,15 @@ class Evaluator():
         dataset = self.load_dataset()
 
         for i in range(0, len(dataset.test_cases)):
-            await answer_relevancy.measure(dataset.test_cases[i])
-            await faithfulness.measure(dataset.test_cases[i])
-            await context_precision.measure(dataset.test_cases[i])
-            await context_recall.measure(dataset.test_cases[i])
+            answer_relevancy.measure(dataset.test_cases[i])
+            faithfulness.measure(dataset.test_cases[i])
+            context_precision.measure(dataset.test_cases[i])
+            context_recall.measure(dataset.test_cases[i])
             answer_relevancy_scores.append(answer_relevancy.score)
             faithfulness_scores.append(faithfulness.score)
             context_precision_scores.append(context_precision.score)
             context_recall_scores.append(context_recall.score)
-            time.sleep(60)
+            time.sleep(3)
         
         self.output["answer_relevancy"] = answer_relevancy_scores
         self.output["faithfulness"] = faithfulness_scores
@@ -105,8 +110,20 @@ class Evaluator():
 
     def get_evaluate_output(self):
         df = pd.DataFrame.from_dict(self.output)
+        df.to_csv("./output" + self.file_name)
         return df
         
+    def get_relevance_score(self):
+        average_answer_relevancy = sum(self.output["answer_relevancy"]) / len(self.output["answer_relevancy"])
+        average_faithfulness = sum(self.output["faithfulness"]) / len( self.output["faithfulness"])
+        average_context_precision = sum(self.output["context_precision"]) / len(self.output["context_precision"])
+        average_context_recall = sum(self.output["context_precision"]) / len(self.output["context_precision"])
+
+        print("Trung bình của các chỉ số:")
+        print("Answer Relevancy:", average_answer_relevancy)
+        print("Faithfulness:", average_faithfulness)
+        print("Context Precision:", average_context_precision)
+        print("Context Recall:", average_context_recall)
 
 class CustomModel(DeepEvalBaseLLM):
     def __init__(
@@ -130,7 +147,7 @@ class CustomModel(DeepEvalBaseLLM):
         return "Custom model"
     
 # Init
-gemini_chat = ChatGoogleGenerativeAI(model='gemini-pro',google_api_key="AIzaSyCSIVSP2hj6L0h-LZWCEhF5LQ6b9_jPgt4",temperature=0.1)
+gemini_chat = ChatGoogleGenerativeAI(model='gemini-pro',google_api_key="AIzaSyD3NCZLaMXUpG1UvStJMN8eYB1QeleOg6Y",temperature=0.1)
 model = CustomModel(gemini_chat)
 path_to_evaluate_data = "./data/testset.json"
 evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=model)
@@ -140,4 +157,6 @@ asyncio.run(evaluator.eval())
 
 # Get Dataframe
 result = evaluator.get_evaluate_output()
-result.to_csv("./data/eval_class.csv")
+result.to_csv("./data/eval_class_19_4.csv")
+evaluator.get_relevance_score()
+
