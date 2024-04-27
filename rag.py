@@ -1,6 +1,13 @@
 from typing import Any
 import rag_init
 import chainlit as cl
+from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
+from langchain.memory import ConversationKGMemory
+from langchain.memory import ConversationBufferMemory
+
+
+
 
 class Prompt():
     def __init__(self, template=None) -> None:
@@ -59,13 +66,14 @@ class RAG():
         if retriever is not None:
             self.retriever = retriever
 
-        memory = rag_init.ConversationBufferMemory(memory_key='chat_history', return_messages=True, output_key='answer')
+        memory=ConversationBufferWindowMemory(memory_key="chat_history", output_key="answer", k = 5)        
         messages = [
             rag_init.SystemMessagePromptTemplate.from_template(self.prompt),
             rag_init.HumanMessagePromptTemplate.from_template("{question}")
         ]
         qa_prompt = rag_init.ChatPromptTemplate.from_messages(messages)
-        self.chain = rag_init.ConversationalRetrievalChain.from_llm(
+
+        self.chain = ConversationalRetrievalChain.from_llm(
             self.llm.llm, 
             self.retriever, 
             memory=memory,
@@ -75,3 +83,6 @@ class RAG():
         
     def __getattribute__(self, name: str) -> Any:
         return super().__getattribute__(name)
+    
+    def __str__(self):
+        return f"RAG Object with prompt: {self.prompt}, LLM: {self.llm}, Retriever: {self.retriever}"

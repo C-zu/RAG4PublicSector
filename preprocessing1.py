@@ -1,21 +1,19 @@
 from docx import Document
-from langchain.embeddings import HuggingFaceBgeEmbeddings
-from langchain_community.vectorstores import Qdrant
+from langchain_community.vectorstores.qdrant import Qdrant
 from langchain_cohere import CohereRerank
-from langchain_community.document_loaders import DirectoryLoader
-from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders.text import TextLoader
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain import hub
-from langchain_community.retrievers import BM25Retriever
+from langchain_community.retrievers.bm25 import BM25Retriever
 from langchain.retrievers import EnsembleRetriever
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate   
 from langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter
 from pathlib import Path
 import pickle
 import os
 import qdrant_client
 import pymongo
-from langchain_community.vectorstores import MongoDBAtlasVectorSearch
+from langchain_community.vectorstores.mongodb_atlas import MongoDBAtlasVectorSearch
 from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
 from dotenv import load_dotenv
 load_dotenv()
@@ -40,7 +38,7 @@ class VectorDatabase():
 
         if db is None:
             chunked_documents = []
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=7000, chunk_overlap=700)
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=1000)
             for file_path in Path(data_path).rglob('*.*'):
                 if file_path.is_file():
                     loader = TextLoader(file_path, encoding='utf8')
@@ -65,7 +63,7 @@ class VectorDatabase():
                 raise ValueError("Data path is required!")
             
             chunked_documents = []
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=7000, chunk_overlap=700)
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=7000, chunk_overlap=1000)
             for file_path in Path(data_path).rglob('*.*'):
                 if file_path.is_file():
                     loader = TextLoader(file_path, encoding='utf8')
@@ -96,10 +94,10 @@ class Retriever():
             self.type_retriever = "indexing"
 
             if name_retriever == "bm25":
-                self.retriever = BM25Retriever.from_documents(db.db, k = 5)
+                self.retriever = BM25Retriever.from_documents(db.db, k = 3)
 
         else:
-            self.retriever = db.db.as_retriever(search_kwargs={"k": 5})
+            self.retriever = db.db.as_retriever(search_kwargs={"k": 3})
       
     def __getattribute__(self, retriever):
         return super().__getattribute__(retriever)
@@ -121,7 +119,7 @@ class CompressedRetriever():
         return self.compressed_retriever
     
     def re_ranking(self):
-        compressor = CohereRerank(user_agent='langchain')
+        compressor = CohereRerank(user_agent='langchain', cohere_api_key=os.getenv('COHERE_API_KEY'), model="rerank-multilingual-v2.0",top_n=1)
         compression_retriever = ContextualCompressionRetriever(
             base_compressor=compressor,
             base_retriever=self.compressed_retriever,

@@ -17,7 +17,7 @@ from langchain_community.vectorstores import Qdrant
 from langchain.retrievers.document_compressors import CohereRerank
 from langchain_community.embeddings.spacy_embeddings import SpacyEmbeddings
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-
+from langchain_cohere import CohereEmbeddings
 
 os.environ['COHERE_API_KEY'] = '7THPmgAjpjThSPmqNcpcER8T4h1FJNgZNEzpLGzv'
 myclient = pymongo.MongoClient("mongodb+srv://nghia:nghia@rag-db.3zxzfye.mongodb.net/")
@@ -29,6 +29,10 @@ def load_chunk(directory_path):
     embedding_2 = SpacyEmbeddings(model_name="en_core_web_sm")
     model_id = "sentence-transformers/distiluse-base-multilingual-cased-v2"
     hf_embedding = HuggingFaceBgeEmbeddings(model_name= model_id, model_kwargs = {"device":"cpu"})
+    cohere_embedding = CohereEmbeddings(
+        model="embed-multilingual-v3.0",
+        cohere_api_key=os.getenv("COHERE_API_KEY")
+    )
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=1000)
 
     chunked_documents = []
@@ -42,7 +46,7 @@ def load_chunk(directory_path):
 
     vectorstore = MongoDBAtlasVectorSearch.from_documents(
         chunked_documents,
-        embedding,
+        cohere_embedding,
         collection=mycol,
         index_name=os.getenv('ATLAS_VECTOR_SEARCH_INDEX_NAME')
     )
