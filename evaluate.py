@@ -1,82 +1,129 @@
 from deepeval.models.base_model import DeepEvalBaseLLM
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_google_genai import (
+    ChatGoogleGenerativeAI,
+    HarmBlockThreshold,
+    HarmCategory
+)
 import json
 from deepeval.test_case import LLMTestCase
 from deepeval.dataset import EvaluationDataset
-from deepeval.metrics import GEval
+from deepeval.metrics import GEval, AnswerRelevancyMetric, FaithfulnessMetric, ContextualPrecisionMetric, ContextualRecallMetric
 from deepeval.test_case import LLMTestCaseParams
 from deepeval.test_case import LLMTestCase
 import time
 import pandas as pd
 import asyncio
+import os
+from dotenv import load_dotenv
+import nest_asyncio
+nest_asyncio.apply()
+load_dotenv()
 
 class Evaluator():
     def __init__(
             self,
             path_to_data,
             model,
+            filename
     ):
         self.path_to_data = path_to_data
         self.output = {}
         self.model = model
+        self.filename = filename
 
     def load_json(self):
         with open(self.path_to_data, "r", encoding="utf-8") as infile: 
-            self.output = json.load(infile)
+            data = json.load(infile)
+        self.output = data 
+        return data
     
     def load_dataset(self):
         dataset = EvaluationDataset()
-        self.load_json()
+        data = self.load_json()
 
-        for i in range(0, len(self.output["questions"])):
+        for i in range(0, len(data["questions"])):
             testcase = LLMTestCase(
-                input=self.output["questions"][i], 
-                actual_output=self.output["answers"][i],
-                expected_output=self.output["ground_truths"][i],
-                retrieval_context=self.output["contexts"][i])
+                input=data["questions"][i], 
+                actual_output=data["answers"][i],
+                expected_output=data["ground_truths"][i],
+                retrieval_context=data["contexts"][i])
             dataset.add_test_case(testcase)
         return dataset
     
     async def eval(self):
         answer_relevancy = GEval(
             name="Answer Relevancy",
-            criteria="Answer Relevancy - evaluating how relevant the actual output is compared to the input.",
-            evaluation_params=[LLMTestCaseParams.INPUT, 
-                            LLMTestCaseParams.ACTUAL_OUTPUT, 
-                            LLMTestCaseParams.EXPECTED_OUTPUT,
-                            LLMTestCaseParams.RETRIEVAL_CONTEXT],
+            criteria="Evaluate how well the actual output addresses and aligns with the input query and retrieval context.",
+            evaluation_steps=[
+                "Check if 'actual_output' directly addresses the 'input' query.",
+                "Evaluate the completeness of 'actual_output' in providing the requested information.",
+                "Ensure 'actual_output' incorporates key information from 'retrieval_context' relevant to 'input'.",
+                "Assess the relevance of each piece of information in 'actual_output' to the 'input' query.",
+                "Measure the overall coherence and pertinence of 'actual_output' in relation to 'input'.",
+            ],
+            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
             model=self.model
         )
 
         faithfulness = GEval(
             name="Faithfulness",
-            criteria="Faithfulness - evaluating  whether the actual output factually aligns with the contents of the retrieval context.",
-            evaluation_params=[LLMTestCaseParams.INPUT, 
-                            LLMTestCaseParams.ACTUAL_OUTPUT, 
-                            LLMTestCaseParams.EXPECTED_OUTPUT,
-                            LLMTestCaseParams.RETRIEVAL_CONTEXT],
+            criteria="Assess whether the actual output faithfully represents information found in the retrieval context.",
+            evaluation_steps=[
+                "Verify that 'actual_output' accurately represents information found in 'retrieval_context'.",
+                "Ensure that 'actual_output' does not contain any information that contradicts the 'retrieval_context'.",
+                "Check that 'actual_output' is free from hallucinations or fabricated information not supported by 'retrieval_context'.",
+                "Assess whether 'actual_output' correctly interprets the 'input' query in the context of 'retrieval_context'.",
+            ],
+            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
             model=self.model
         )
 
         context_precision = GEval(
-            name="Context precision",
-            criteria="Context precision - evaluating whether nodes in the retrieval context that are relevant to the given input are ranked higher than irrelevant ones.",
-            evaluation_params=[LLMTestCaseParams.INPUT, 
-                            LLMTestCaseParams.ACTUAL_OUTPUT, 
-                            LLMTestCaseParams.EXPECTED_OUTPUT,
-                            LLMTestCaseParams.RETRIEVAL_CONTEXT],
+            name="Contextual Precision",
+            criteria="Evaluate how accurately the retrieval context identifies and ranks relevant nodes for the input query.",
+            evaluation_steps=[
+                "Identify nodes in 'retrieval_context' that are relevant to 'input'.",
+                "Rank nodes based on their relevance to 'input'.",
+                "Evaluate whether relevant nodes are ranked higher than irrelevant ones in 'retrieval_context'.",
+                "Measure the proportion of relevant nodes in the top N positions.",
+            ],
+            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
             model=self.model
         )
 
         context_recall = GEval(
-            name="Context recall",
-            criteria="Context recall -  evaluating the extent of which the retrieval context aligns with the expected output.",
-            evaluation_params=[LLMTestCaseParams.INPUT, 
-                            LLMTestCaseParams.ACTUAL_OUTPUT, 
-                            LLMTestCaseParams.EXPECTED_OUTPUT,
-                            LLMTestCaseParams.RETRIEVAL_CONTEXT],
+            name="Contextual Recall",
+            criteria="Assess how well the retrieval context covers the necessary information to generate the expected output.",
+            evaluation_steps=[
+                "Identify key elements in 'expected_output' that should be supported by 'retrieval_context'.",
+                "Evaluate whether 'retrieval_context' contains all key elements necessary to generate 'expected_output'.",
+                "Check the completeness of 'retrieval_context' in covering the necessary information for 'expected_output'.",
+                "Assess the coverage of 'retrieval_context' by comparing it to 'expected_output'.",
+                "Compute recall metrics such as Precision@N, Recall@N, and F1-score to quantify the retriever's performance.",
+            ],
+            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.EXPECTED_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
             model=self.model
         )
+        
+        # answer_relevancy = AnswerRelevancyMetric(
+        #     threshold=0.7,
+        #     model=self.model,
+        # )
+        
+        # faithfulness = FaithfulnessMetric(
+        #     threshold=0.7,
+        #     model=self.model,
+        # )
+        
+        # context_precision = ContextualPrecisionMetric(
+        #     threshold=0.7,
+        #     model=self.model,
+        # )
+        
+        # context_recall = ContextualRecallMetric(
+        #     threshold=0.3,
+        #     model=self.model,
+        # )
 
         answer_relevancy_scores = []
         faithfulness_scores = []
@@ -95,18 +142,30 @@ class Evaluator():
             context_precision_scores.append(context_precision.score)
             context_recall_scores.append(context_recall.score)
             time.sleep(3)
+        
         self.output["answer_relevancy"] = answer_relevancy_scores
         self.output["faithfulness"] = faithfulness_scores
         self.output["context_precision"] = context_precision_scores
         self.output["context_recall"] = context_recall_scores
 
     def get_evaluate_output(self):
-        print(self.output)
         df = pd.DataFrame.from_dict(self.output)
+        df.to_csv("./output/" + self.filename)
         return df
         
+    def get_relevance_score(self):
+        average_answer_relevancy = sum(self.output["answer_relevancy"]) / len(self.output["answer_relevancy"])
+        average_faithfulness = sum(self.output["faithfulness"]) / len( self.output["faithfulness"])
+        average_context_precision = sum(self.output["context_precision"]) / len(self.output["context_precision"])
+        average_context_recall = sum(self.output["context_precision"]) / len(self.output["context_precision"])
 
-class CustomModel(DeepEvalBaseLLM):
+        print("Trung bình của các chỉ số:")
+        print("Answer Relevancy:", average_answer_relevancy)
+        print("Faithfulness:", average_faithfulness)
+        print("Context Precision:", average_context_precision)
+        print("Context Recall:", average_context_recall)
+
+class GeminiChatModel(DeepEvalBaseLLM):
     def __init__(
         self,
         model
@@ -114,7 +173,10 @@ class CustomModel(DeepEvalBaseLLM):
         self.model = model
 
     def load_model(self):
-        return self.model
+        return ChatGoogleGenerativeAI(model=self.model,
+                                      temperature=0,
+                                      kwargs={"trust_remote_code": True})
+
     def generate(self, prompt: str) -> str:
         chat_model = self.load_model()
         return chat_model.invoke(prompt).content
@@ -125,17 +187,25 @@ class CustomModel(DeepEvalBaseLLM):
         return res.content
 
     def get_model_name(self):
-        return "Custom model"
+        return "Gemini 1.0 Model"
     
 # Init
-gemini_chat = ChatGoogleGenerativeAI(model='gemini-pro',google_api_key="AIzaSyD3NCZLaMXUpG1UvStJMN8eYB1QeleOg6Y",temperature=0.1)
-model = CustomModel(gemini_chat)
+# safety_settings = {
+#     HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+#     HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+#     HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+#     HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+# }
+# gemini_chat = ChatGoogleGenerativeAI(model='gemini-1.5-pro',google_api_key=os.getenv("GOOGLE_API_KEY"),safety_settings=safety_settings,temperature=0.1)
+gemini_model = GeminiChatModel(model="gemini-1.0-pro")
 path_to_evaluate_data = "./data/testset.json"
-evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=model)
+evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=gemini_model,filename="eval_newest.csv")
 
 # Evaluation
 asyncio.run(evaluator.eval())
 
 # Get Dataframe
 result = evaluator.get_evaluate_output()
-result.to_csv("./data/eval_class.csv")
+# result.to_csv("./data/eval_newest.csv")
+evaluator.get_relevance_score()
+
