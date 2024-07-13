@@ -1,15 +1,12 @@
 from typing import Any
 import rag_init
 import chainlit as cl
-from langchain.chains.conversation.memory import ConversationBufferWindowMemory, ConversationSummaryBufferMemory
 from langchain.chains.conversational_retrieval.base import ConversationalRetrievalChain
-from langchain_core.prompts import PromptTemplate
-from langchain.memory import ConversationKGMemory
-from langchain.memory import ConversationBufferMemory
 import os
 from google.generativeai.types.safety_types import HarmBlockThreshold, HarmCategory
-
-
+from langchain.memory import ChatMessageHistory, ConversationBufferMemory
+from langchain_community.chat_models import ChatOllama
+from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 class Prompt():
     def __init__(self, template=None) -> None:
         self.prompt_template = rag_init.custom_prompt_template2
@@ -32,11 +29,14 @@ class LLM():
             HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE, 
             HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
         }
-        self.llm = rag_init.ChatGoogleGenerativeAI(model="gemini-pro",convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1)
+        self.callbacks = [StreamingStdOutCallbackHandler()]
+        self.llm = rag_init.ChatGoogleGenerativeAI(model="gemini-pro",convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, sstream=True,callbacks=self.callbacks)
 
         if llm is not None:
-            if llm == "gemini-pro":
-                self.llm = rag_init.ChatGoogleGenerativeAI(model="gemini-pro",convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1)
+            if llm == 'llama3' or llm =='gemma2':
+                self.llm = ChatOllama(model=llm, streaming=True,callbacks=self.callbacks,temperature=0.1)
+            else:
+                self.llm = rag_init.ChatGoogleGenerativeAI(model=llm,convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, stream=True,callbacks=self.callbacks)
     def __getattribute__(self, any: str) -> Any:
         return super().__getattribute__(any)
 
@@ -44,7 +44,7 @@ class RAG():
     def __init__(self, prompt=None, llm = None, retriever = None) -> None:
         self.chain = None
         self.prompt = rag_init.custom_prompt_template2
-        self.llm = LLM("gemini-pro")
+        self.llm = LLM(llm=llm)
         self.retriever = rag_init.retriever
         
         if prompt is not None:
@@ -55,13 +55,21 @@ class RAG():
         
         if retriever is not None:
             self.retriever = retriever      
-        qa_prompt = rag_init.PromptTemplate(template=self.prompt, input_variables=["question", "context"])
-
+        qa_prompt = Prompt(template=self.prompt).set_prompt()
+        message_history = ChatMessageHistory()
+        memory = ConversationBufferMemory(
+            llm = self.llm,
+            memory_key="chat_history",
+            input_key='question',
+            output_key="answer",
+            chat_memory=message_history,
+            return_messages=True,
+        )
         self.chain = ConversationalRetrievalChain.from_llm(
             self.llm.llm, 
             self.retriever, 
             combine_docs_chain_kwargs={"prompt": qa_prompt},
-            get_chat_history=lambda h : h,
+            memory=memory,
             return_source_documents=True,
         )
         

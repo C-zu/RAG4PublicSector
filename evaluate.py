@@ -10,6 +10,7 @@ from deepeval.dataset import EvaluationDataset
 from deepeval.metrics import GEval, AnswerRelevancyMetric, FaithfulnessMetric, ContextualPrecisionMetric, ContextualRecallMetric
 from deepeval.test_case import LLMTestCaseParams
 from deepeval.test_case import LLMTestCase
+from langchain_community.chat_models import ChatOllama
 import time
 import pandas as pd
 import asyncio
@@ -34,8 +35,9 @@ class Evaluator():
     def load_json(self):
         with open(self.path_to_data, "r", encoding="utf-8") as infile: 
             data = json.load(infile)
-        self.output = data 
-        return data
+        sliced_dict = {key: value[:5] for key, value in data.items()}
+        self.output = sliced_dict 
+        return sliced_dict
     
     def load_dataset(self):
         dataset = EvaluationDataset()
@@ -51,79 +53,57 @@ class Evaluator():
         return dataset
     
     async def eval(self):
-        answer_relevancy = GEval(
-            name="Answer Relevancy",
-            criteria="Evaluate how well the actual output addresses and aligns with the input query and retrieval context.",
-            evaluation_steps=[
-                "Check if 'actual_output' directly addresses the 'input' query.",
-                "Evaluate the completeness of 'actual_output' in providing the requested information.",
-                "Ensure 'actual_output' incorporates key information from 'retrieval_context' relevant to 'input'.",
-                "Assess the relevance of each piece of information in 'actual_output' to the 'input' query.",
-                "Measure the overall coherence and pertinence of 'actual_output' in relation to 'input'.",
-            ],
-            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
-            model=self.model
-        )
+        # answer_relevancy = GEval(
+        #     name="Answer Relevancy",
+        #     criteria="Evaluate how well the actual output addresses and aligns with the input query and retrieval context.",
+        #     threshold=0.5,
+        #     evaluation_params=[LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
+        #     model=self.model
+        # )
 
-        faithfulness = GEval(
-            name="Faithfulness",
-            criteria="Assess whether the actual output faithfully represents information found in the retrieval context.",
-            evaluation_steps=[
-                "Verify that 'actual_output' accurately represents information found in 'retrieval_context'.",
-                "Ensure that 'actual_output' does not contain any information that contradicts the 'retrieval_context'.",
-                "Check that 'actual_output' is free from hallucinations or fabricated information not supported by 'retrieval_context'.",
-                "Assess whether 'actual_output' correctly interprets the 'input' query in the context of 'retrieval_context'.",
-            ],
-            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
-            model=self.model
-        )
+        # faithfulness = GEval(
+        #     name="Faithfulness",
+        #     criteria="Assess whether the actual output faithfully represents information found in the retrieval context.",
+        #     threshold=0.5,
+        #     evaluation_params=[LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
+        #     model=self.model
+        # )
 
-        context_precision = GEval(
-            name="Contextual Precision",
-            criteria="Evaluate how accurately the retrieval context identifies and ranks relevant nodes for the input query.",
-            evaluation_steps=[
-                "Identify nodes in 'retrieval_context' that are relevant to 'input'.",
-                "Rank nodes based on their relevance to 'input'.",
-                "Evaluate whether relevant nodes are ranked higher than irrelevant ones in 'retrieval_context'.",
-                "Measure the proportion of relevant nodes in the top N positions.",
-            ],
-            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
-            model=self.model
-        )
+        # context_precision = GEval(
+        #     name="Contextual Precision",
+        #     criteria="Evaluate how accurately the retrieval context identifies and ranks relevant nodes for the input query.",
+        #     threshold=0.5,
+        #     evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
+        #     model=self.model
+        # )
 
-        context_recall = GEval(
-            name="Contextual Recall",
-            criteria="Assess how well the retrieval context covers the necessary information to generate the expected output.",
-            evaluation_steps=[
-                "Identify key elements in 'expected_output' that should be supported by 'retrieval_context'.",
-                "Evaluate whether 'retrieval_context' contains all key elements necessary to generate 'expected_output'.",
-                "Check the completeness of 'retrieval_context' in covering the necessary information for 'expected_output'.",
-                "Assess the coverage of 'retrieval_context' by comparing it to 'expected_output'.",
-                "Compute recall metrics such as Precision@N, Recall@N, and F1-score to quantify the retriever's performance.",
-            ],
-            evaluation_params=[LLMTestCaseParams.INPUT, LLMTestCaseParams.ACTUAL_OUTPUT, LLMTestCaseParams.EXPECTED_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
-            model=self.model
+        # context_recall = GEval(
+        #     name="Contextual Recall",
+        #     criteria="Assess how well the retrieval context covers the necessary information to generate the expected output.",
+        #     threshold=0.5,
+        #     evaluation_params=[LLMTestCaseParams.EXPECTED_OUTPUT, LLMTestCaseParams.RETRIEVAL_CONTEXT],
+        #     model=self.model
+        # )
+        
+        answer_relevancy = AnswerRelevancyMetric(
+            threshold=0.5,
+            model=self.model,
         )
         
-        # answer_relevancy = AnswerRelevancyMetric(
-        #     threshold=0.7,
-        #     model=self.model,
-        # )
+        faithfulness = FaithfulnessMetric(
+            threshold=0.5,
+            model=self.model,
+        )
         
-        # faithfulness = FaithfulnessMetric(
-        #     threshold=0.7,
-        #     model=self.model,
-        # )
+        context_precision = ContextualPrecisionMetric(
+            threshold=0.5,
+            model=self.model,
+        )
         
-        # context_precision = ContextualPrecisionMetric(
-        #     threshold=0.7,
-        #     model=self.model,
-        # )
-        
-        # context_recall = ContextualRecallMetric(
-        #     threshold=0.3,
-        #     model=self.model,
-        # )
+        context_recall = ContextualRecallMetric(
+            threshold=0.5,
+            model=self.model,
+        )
 
         answer_relevancy_scores = []
         faithfulness_scores = []
@@ -175,7 +155,8 @@ class GeminiChatModel(DeepEvalBaseLLM):
     def load_model(self):
         return ChatGoogleGenerativeAI(model=self.model,
                                       temperature=0,
-                                      kwargs={"trust_remote_code": True})
+                                      google_api_key="AIzaSyBg-vNAHIFM52uannoCK8sruEQn3zzh6Ec")
+        # return ChatOllama(model=self.model,temperature=0)
 
     def generate(self, prompt: str) -> str:
         chat_model = self.load_model()
@@ -197,15 +178,14 @@ class GeminiChatModel(DeepEvalBaseLLM):
 #     HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
 # }
 # gemini_chat = ChatGoogleGenerativeAI(model='gemini-1.5-pro',google_api_key=os.getenv("GOOGLE_API_KEY"),safety_settings=safety_settings,temperature=0.1)
-gemini_model = GeminiChatModel(model="gemini-1.0-pro")
+gemini_model = GeminiChatModel(model="gemini-1.5-pro")
 path_to_evaluate_data = "./data/testset.json"
-evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=gemini_model,filename="eval_newest.csv")
+evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=gemini_model,filename="eval_12_7.csv")
 
 # Evaluation
 asyncio.run(evaluator.eval())
 
 # Get Dataframe
 result = evaluator.get_evaluate_output()
-# result.to_csv("./data/eval_newest.csv")
 evaluator.get_relevance_score()
 
