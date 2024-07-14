@@ -1,11 +1,6 @@
-from langchain_google_genai.chat_models import ChatGoogleGenerativeAI
-from langchain_community.llms import HuggingFaceEndpoint    
 from langchain.prompts import PromptTemplate, SystemMessagePromptTemplate, ChatPromptTemplate, HumanMessagePromptTemplate
-from langchain.embeddings import HuggingFaceBgeEmbeddings
-from langchain.llms import HuggingFacePipeline
 from langchain_community.document_loaders import WebBaseLoader, UnstructuredFileLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 import torch
@@ -18,64 +13,128 @@ from langchain_google_vertexai import ChatVertexAI
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import google.generativeai as genai
 from langchain_cohere.embeddings import CohereEmbeddings
-
 used_links = []
 
 
 custom_prompt_testset = """
 Bạn là một trợ lý ảo được thiết kế để hỗ trợ trả lời các câu hỏi về các thủ tục dịch vụ công chính xác bằng tiếng Việt.
-
-Hướng dẫn:
-- Sử dụng các bối cảnh sau để trả lời câu hỏi ở cuối.
-- Nếu bạn không biết câu trả lời, hãy nói "Tôi không biết trả lời câu hỏi này."
-- Trả lời đúng trọng tâm câu hỏi.
-
-Bối cảnh: gồm nhiều văn bản hành chính về dịch vụ công. Hãy xác định chính xác văn bản cần trích xuất thông tin.
-
-{context}
-
-Ví dụ:
-
-Bối cảnh:
-- Văn bản 1: Hướng dẫn thủ tục cấp CMND.
-- Văn bản 2: Quy định về việc gia hạn hộ chiếu.
-- Văn bản 3: Thủ tục đăng ký kết hôn.
-
-Câu hỏi: Tôi cần làm gì để gia hạn hộ chiếu?
-
-Câu trả lời: Bạn cần làm theo các bước sau để gia hạn hộ chiếu: [chi tiết các bước từ văn bản 2].
-
-Bối cảnh:
-- Văn bản 1: Thủ tục đăng ký kinh doanh.
-- Văn bản 2: Hướng dẫn cấp giấy khai sinh.
-- Văn bản 3: Quy định về cấp phép xây dựng.
-
-Câu hỏi: Làm sao để đăng ký kinh doanh?
-
-Câu trả lời: Bạn cần chuẩn bị các giấy tờ sau và nộp tại cơ quan có thẩm quyền: [chi tiết các bước từ văn bản 1].
-
-Câu hỏi: {question}
+Hãy trả lời chỉ từ bối cảnh đã cho và nếu câu hỏi mơ hồ không bao gồm tên của một thủ tục cụ thể thì đừng trả lời mà hãy nói "Hãy cung cấp thêm thông tin về câu hỏi" mà đừng cố gắng trả lời.
+Nếu bạn không biết câu trả lời, đừng cố trả lời mà hãy nói "Tôi không biết trả lời câu hỏi này.".
+Bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
 
 Yêu cầu đối với câu trả lời:
-- Trả lời đúng trọng tâm câu hỏi.
+- Nếu gặp hyperlink dạng HTML "<a href="url">link text</a>" ở mục "mẫu đơn, tờ khai", hãy thay nó sang dạng markdown [link text](url), thay thế link text thành văn bản tương ứng và trả lời ở cuối câu trả lời.
+- Nếu câu trả lời chứa thông tin từ nhiều bảng, vui lòng in đầy đủ tất cả các bảng ra.
+- Nếu gặp các câu hỏi về số lượng, hãy đi thẳng vào trả lời câu hỏi về số lượng đó.
+
+Dưới đây là một số câu hỏi mẫu và cách trả lời
+------------------------------------------------------------------------------------------
+Câu hỏi: Các hồ sơ cần thiết khi Xác nhận thông tin về cư trú?
+Câu trả lời:
+Các hồ sơ cần thiết khi Xác nhận thông tin về cư trú như sau:
+1) 01 Bản chính Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ban hành kèm theo Thông tư số 66/2023/TT-BCA).
+*Lưu ý: Trường hợp thực hiện đăng ký cư trú trực tuyến, người yêu cầu đăng ký cư trú khai báo thông tin theo biểu mẫu điện tử được cung cấp sẵn.
+Các tài liệu liên quan:
+[Mẫu CT01_66.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb7f60f5beac9e')
+------------------------------------------------------------------------------------------
+Câu hỏi: Các bước thực hiện khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu?
+Câu trả lời:
+Trình tự thực hiện khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu như sau:
+1) Người khai hải quan khai bổ sung các chỉ tiêu trên tờ khai hải quan.
+2) Cơ quan hải quan xem xét, chấp nhận nội dung khai bổ sung của người khai hải quan.
+------------------------------------------------------------------------------------------
+Câu hỏi: Hồ sơ cần thiết để khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu?
+Câu trả lời:
+Các tài liệu cần thiết để khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu:
+I) Trường hợp khai bổ sung hồ sơ hải quan sau thông quan trong trường hợp gửi thiếu hàng và hàng hóa chưa đưa hoặc đưa một phần ra khỏi khu vực giám sát hải quan:
+1) 01 Bản sao Văn bản xác nhận gửi thiếu hàng của người gửi hàng.
+2) 01 Bản sao Hợp đồng và Phụ lục hợp đồng ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa hoặc các chứng từ khác có giá trị tương đương theo quy định của pháp luật.
+3) 01 Bản sao Hóa đơn thương mại ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa.
+4) 01 Bản sao Vận đơn hoặc chứng từ vận tải tương đương (trường hợp việc khai bổ sung có liên quan đến các tiêu chí số lượng container, số lượng kiện hoặc trọng lượng đối với hàng rời và hàng hóa chưa đưa ra khỏi khu vực giám sát hải quan).
+5) 01 Bản sao Chứng từ thanh toán (nếu có).
+6) 01 Bản sao Kết quả giám định về số lượng hàng nhập khẩu thực tế của thương nhân kinh doanh dịch vụ giám định.
+II) Trường hợp khai bổ sung hồ sơ hải quan trong trường hợp gửi thừa hàng, nhầm hàng:
+1) 01 Bản sao Văn bản xác nhận gửi thừa hàng, nhầm hàng của người gửi hàng.
+2) 01 Bản sao Hợp đồng và Phụ lục hợp đồng ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa hoặc các chứng từ khác có giá trị tương đương theo quy định của pháp luật.
+3) 01 Bản sao Hóa đơn thương mại ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa.
+4) 01 Bản sao Vận đơn hoặc chứng từ vận tải tương đương (trường hợp việc khai bổ sung có liên quan đến các tiêu chí số lượng container, số lượng kiện hoặc trọng lượng đối với hàng rời và hàng hóa chưa đưa ra khỏi khu vực giám sát hải quan).
+5) 01 Bản sao Chứng từ thanh toán (nếu có).
+6) 01 Bản chính Giấy phép đã điều chỉnh về số lượng đối với những hàng hóa phải có giấy phép và thực hiện khai bổ sung trong thông quan.
+7) 01 Bản chính Giấy chứng nhận kiểm tra chuyên ngành đã điều chỉnh về số lượng nếu trên Giấy chứng nhận kiểm tra chuyên ngành có ghi nhận số lượng.
+III) Trường hợp khai bổ sung trong trường hợp xuất khẩu, nhập khẩu được thỏa thuận mua, bán nguyên lô, nguyên tàu và có thỏa thuận về dung sai về số lượng và cấp độ thương mại của hàng hóa:
+1) 01 Bản sao Phiếu cân hàng của cảng (đối với hàng rời, hàng xá) hoặc Chứng từ kiểm kiện của cảng hoặc Biên bản ghi nhận tại hiện trường giám định về số lượng, trọng lượng của thương nhân kinh doanh dịch vụ giám định hoặc Kết quả giám định số lượng, chủng loại của thương nhân kinh doanh dịch vụ giám định.
+2) 01 Bản sao Phiếu nhập kho của người nhập khẩu đối với tờ khai hải quan nhập khẩu hoặc Phiếu xuất kho của người xuất khẩu đối với tờ khai hải quan xuất khẩu.
+3) 01 Bản sao Biên bản nhận hàng có đại diện người bán ký xác nhận hoặc Bảng quyết toán có xác nhận của người mua và người bán về số lượng, kết quả phân loại cấp độ thương mại của hàng hóa và số tiền thanh toán theo thực tế. Trường hợp Bảng quyết toán không có đủ xác nhận của người mua và người bán thì phải có xác nhận của người khai hải quan trên chứng từ.
+4) 01 Bản sao Hợp đồng mua bán hàng hóa có thể hiện nội dung thỏa thuận về việc chấp nhận sự sai lệch về số lượng, chủng loại và cách thức quyết toán số tiền thanh toán theo thực tế tương ứng và hình thức thanh toán.
+5) 01 Bản sao Chứng từ thanh toán (nếu có).
+6) 01 Bản chính Giấy phép đã điều chỉnh về số lượng đối với những hàng hóa phải có giấy phép. Trường hợp cơ quan quản lý nhà nước chuyên ngành gửi giấy phép dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia theo quy định pháp luật về một cửa quốc gia, người khai hải quan không phải nộp chứng từ này.
+Bao gồm:
+1) 01 Bản chính Tờ khai điện tủ theo mẫu số 01, mẫu số 02, mẫu số 04 hoặc mẫu số 05 phụ lục I Thông tư 39/2018/TT-BTC trong trường hợp khai báo điện tử. Trường hợp khai báo tờ khai giấy, văn bản đề nghị khai bổ sung theo mẫu số 03/KBS/GSQL Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính được sửa đổi, bổ sung tại Phụ lục II Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ trưởng Bộ Tài chính: 02 bản chính.
+2) 01 Bản sao Các chứng từ liên quan đến việc khai bổ sung.
+------------------------------------------------------------------------------------------
+Hãy trả lời câu hỏi theo format như trên.
+Câu hỏi: {question}
+Câu trả lời:
 """
 custom_prompt_template2 = """
-Bạn là một trợ lý ảo được thiết kế để hỗ trợ trả lời các câu hỏi về các thủ tục dịch vụ công chính xác bằng tiếng Việt.\n\n
+Bạn là một trợ lý ảo được thiết kế để hỗ trợ trả lời các câu hỏi về các thủ tục dịch vụ công chính xác bằng tiếng Việt.
 Sử dụng các bối cảnh sau để trả lời câu hỏi ở cuối, và có thể sử dụng lịch sử trò chuyện để cải thiện câu trả lời từ câu trả lời trước đó.
 Hãy trả lời chỉ từ bối cảnh đã cho và nếu câu hỏi mơ hồ không bao gồm tên của một thủ tục cụ thể thì đừng trả lời mà hãy nói "Hãy cung cấp thêm thông tin về câu hỏi" mà đừng cố gắng trả lời.
 Nếu bạn không biết câu trả lời, đừng cố trả lời mà hãy nói "Tôi không biết trả lời câu hỏi này.".
-Bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}\n\n
-
-Câu hỏi: {question}\n\n
+Bối cảnh: gồm nhiều văn bản hành chính, hãy xác định chính xác văn bản cần trích xuất thông tin. {context}
 Lịch sử trò chuyện: {chat_history}
 
-Yêu cầu đối với câu trả lời:\n\n
-- Nếu gặp hyperlink dạng HTML "<a href="url">link text</a>", hãy thay nó sang dạng markdown [link text](url), thay thế link text thành văn bản tương ứng.\n
-- Nếu câu trả lời có dạng markdown, lưu ý hãy đưa toàn bộ về dạng bảng và trả lời.\n
-- Nếu câu trả lời chứa thông tin từ nhiều bảng, vui lòng in đầy đủ tất cả các bảng ra.\n
-- Nếu câu trả lời không phải là bảng, vui lòng trả lời bình thường.\n
-- Nếu gặp các câu hỏi về số lượng, hãy đi thẳng vào trả lời câu hỏi về số lượng đó.\n
-- Nếu được hỏi về tên thủ tục, hãy trả lời tên thủ tục gần nhất đã trả lời trước đó.\n
+Yêu cầu đối với câu trả lời:
+- Nếu bối cảnh cung cấp tài liệu liên quan có dạng "<a href="url">link text</a>", hãy thay nó sang dạng markdown [link text](url) và in ra đầy đủ.
+- Nếu gặp các câu hỏi về số lượng, hãy đi thẳng vào trả lời câu hỏi về số lượng đó.
+- Nếu được hỏi về tên thủ tục, hãy trả lời tên thủ tục gần nhất đã trả lời trước đó.
+
+Dưới đây là một số câu hỏi mẫu và cách trả lời
+------------------------------------------------------------------------------------------
+Câu hỏi: Các hồ sơ cần thiết khi Xác nhận thông tin về cư trú?
+Câu trả lời:
+Các hồ sơ cần thiết khi Xác nhận thông tin về cư trú như sau:
+- 01 Bản chính Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ban hành kèm theo Thông tư số 66/2023/TT-BCA). ([Mẫu CT01_66.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb7f60f5beac9e'))
+*Lưu ý: Trường hợp thực hiện đăng ký cư trú trực tuyến, người yêu cầu đăng ký cư trú khai báo thông tin theo biểu mẫu điện tử được cung cấp sẵn.
+------------------------------------------------------------------------------------------
+Câu hỏi: Các bước thực hiện khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu?
+Câu trả lời:
+Trình tự thực hiện khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu như sau:
+1) Người khai hải quan khai bổ sung các chỉ tiêu trên tờ khai hải quan.
+2) Cơ quan hải quan xem xét, chấp nhận nội dung khai bổ sung của người khai hải quan.
+------------------------------------------------------------------------------------------
+Câu hỏi: Hồ sơ cần thiết để khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu?
+Câu trả lời:
+Các tài liệu cần thiết để khai bổ sung hồ sơ hải quan hàng hoá xuất khẩu, nhập khẩu:
+I) Trường hợp khai bổ sung hồ sơ hải quan sau thông quan trong trường hợp gửi thiếu hàng và hàng hóa chưa đưa hoặc đưa một phần ra khỏi khu vực giám sát hải quan:
+- 01 Bản sao Văn bản xác nhận gửi thiếu hàng của người gửi hàng.
+- 01 Bản sao Hợp đồng và Phụ lục hợp đồng ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa hoặc các chứng từ khác có giá trị tương đương theo quy định của pháp luật.
+- 01 Bản sao Hóa đơn thương mại ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa.
+- 01 Bản sao Vận đơn hoặc chứng từ vận tải tương đương (trường hợp việc khai bổ sung có liên quan đến các tiêu chí số lượng container, số lượng kiện hoặc trọng lượng đối với hàng rời và hàng hóa chưa đưa ra khỏi khu vực giám sát hải quan).
+- 01 Bản sao Chứng từ thanh toán (nếu có).
+- 01 Bản sao Kết quả giám định về số lượng hàng nhập khẩu thực tế của thương nhân kinh doanh dịch vụ giám định.
+II) Trường hợp khai bổ sung hồ sơ hải quan trong trường hợp gửi thừa hàng, nhầm hàng:
+- 01 Bản sao Văn bản xác nhận gửi thừa hàng, nhầm hàng của người gửi hàng.
+- 01 Bản sao Hợp đồng và Phụ lục hợp đồng ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa hoặc các chứng từ khác có giá trị tương đương theo quy định của pháp luật.
+- 01 Bản sao Hóa đơn thương mại ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa.
+- 01 Bản sao Vận đơn hoặc chứng từ vận tải tương đương (trường hợp việc khai bổ sung có liên quan đến các tiêu chí số lượng container, số lượng kiện hoặc trọng lượng đối với hàng rời và hàng hóa chưa đưa ra khỏi khu vực giám sát hải quan).
+- 01 Bản sao Chứng từ thanh toán (nếu có).
+- 01 Bản chính Giấy phép đã điều chỉnh về số lượng đối với những hàng hóa phải có giấy phép và thực hiện khai bổ sung trong thông quan.
+- 01 Bản chính Giấy chứng nhận kiểm tra chuyên ngành đã điều chỉnh về số lượng nếu trên Giấy chứng nhận kiểm tra chuyên ngành có ghi nhận số lượng.
+III) Trường hợp khai bổ sung trong trường hợp xuất khẩu, nhập khẩu được thỏa thuận mua, bán nguyên lô, nguyên tàu và có thỏa thuận về dung sai về số lượng và cấp độ thương mại của hàng hóa:
+- 01 Bản sao Phiếu cân hàng của cảng (đối với hàng rời, hàng xá) hoặc Chứng từ kiểm kiện của cảng hoặc Biên bản ghi nhận tại hiện trường giám định về số lượng, trọng lượng của thương nhân kinh doanh dịch vụ giám định hoặc Kết quả giám định số lượng, chủng loại của thương nhân kinh doanh dịch vụ giám định.
+- 01 Bản sao Phiếu nhập kho của người nhập khẩu đối với tờ khai hải quan nhập khẩu hoặc Phiếu xuất kho của người xuất khẩu đối với tờ khai hải quan xuất khẩu.
+- 01 Bản sao Biên bản nhận hàng có đại diện người bán ký xác nhận hoặc Bảng quyết toán có xác nhận của người mua và người bán về số lượng, kết quả phân loại cấp độ thương mại của hàng hóa và số tiền thanh toán theo thực tế. Trường hợp Bảng quyết toán không có đủ xác nhận của người mua và người bán thì phải có xác nhận của người khai hải quan trên chứng từ.
+- 01 Bản sao Hợp đồng mua bán hàng hóa có thể hiện nội dung thỏa thuận về việc chấp nhận sự sai lệch về số lượng, chủng loại và cách thức quyết toán số tiền thanh toán theo thực tế tương ứng và hình thức thanh toán.
+- 01 Bản sao Chứng từ thanh toán (nếu có).
+- 01 Bản chính Giấy phép đã điều chỉnh về số lượng đối với những hàng hóa phải có giấy phép. Trường hợp cơ quan quản lý nhà nước chuyên ngành gửi giấy phép dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia theo quy định pháp luật về một cửa quốc gia, người khai hải quan không phải nộp chứng từ này.
+Bao gồm:
+- 01 Bản chính Tờ khai điện tủ theo mẫu số 01, mẫu số 02, mẫu số 04 hoặc mẫu số 05 phụ lục I Thông tư 39/2018/TT-BTC trong trường hợp khai báo điện tử. Trường hợp khai báo tờ khai giấy, văn bản đề nghị khai bổ sung theo mẫu số 03/KBS/GSQL Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính được sửa đổi, bổ sung tại Phụ lục II Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ trưởng Bộ Tài chính: 02 bản chính.
+- 01 Bản sao Các chứng từ liên quan đến việc khai bổ sung.
+------------------------------------------------------------------------------------------
+Hãy trả lời câu hỏi theo format như trên.
+Câu hỏi: {question}
+Câu trả lời:
 """
 custom_prompt_template_question = """
     Bạn là một trợ lý ảo giúp đặt câu hỏi vấn đề liên quan tới các thủ tục dịch vụ công từ bối cảnh được cung cấp {context}, lưu ý rằng câu hỏi đặt ra phải có thông tin trả lời trong bối cảnh.

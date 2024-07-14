@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-rag = RAG(prompt=rag_init.custom_prompt_template2, llm = "gemini-1.5-pro", retriever=rag_init.retriever)
+rag = RAG(prompt=rag_init.custom_prompt_template2, llm = "command-r-plus", retriever=rag_init.retriever)
 print(rag)
 history = []
 @cl.on_chat_start
@@ -30,23 +30,23 @@ async def main(message: str):
     
     list_acc = [i.metadata.get('relevance_score', 0) for i in source_documents]
     print(list_acc)
-    if (source[1] <= 0.05):
-        res_full = cl.Message("Tôi không biết trả lời câu hỏi này.")
-        await res_full.send()  
-    elif (source[1] <= 0.1):
-        res_full = cl.Message("Tôi không biết bạn đang hỏi về thủ tục nào, hãy nêu rõ tên thủ tục.")
-        await res_full.send()  
+    # if (source[1] <= 0.05):
+    #     res_full = cl.Message("Tôi không biết trả lời câu hỏi này.")
+    #     await res_full.send()  
+    # elif (source[1] <= 0.1):
+    #     res_full = cl.Message("Tôi không biết bạn đang hỏi về thủ tục nào, hãy nêu rõ tên thủ tục.")
+    #     await res_full.send()  
+    # else:
+    elements = [
+            cl.Text(name="Nguồn", content=source[0], display="inline")
+        ]
+    # await cl.Message(
+    #     content=response['answer'],
+    #     elements=elements,
+    # ).send()
+    if cb.has_streamed_final_answer:
+        cb.final_stream.content = response['answer']
+        cb.final_stream.elements = elements
+        await cb.final_stream.update()
     else:
-        elements = [
-                cl.Text(name="Nguồn", content=source[0], display="inline")
-            ]
-        # await cl.Message(
-        #     content=response['answer'],
-        #     elements=elements,
-        # ).send()
-        if cb.has_streamed_final_answer:
-            cb.final_stream.content = response['answer']
-            cb.final_stream.elements = elements
-            await cb.final_stream.update()
-        else:
-            await cl.Message(content=response['answer'], elements=elements).send()
+        await cl.Message(content=response['answer'], elements=elements).send()

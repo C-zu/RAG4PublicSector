@@ -11,6 +11,7 @@ from deepeval.metrics import GEval, AnswerRelevancyMetric, FaithfulnessMetric, C
 from deepeval.test_case import LLMTestCaseParams
 from deepeval.test_case import LLMTestCase
 from langchain_community.chat_models import ChatOllama
+from langchain_together import ChatTogether
 import time
 import pandas as pd
 import asyncio
@@ -121,7 +122,6 @@ class Evaluator():
             faithfulness_scores.append(faithfulness.score)
             context_precision_scores.append(context_precision.score)
             context_recall_scores.append(context_recall.score)
-            time.sleep(3)
         
         self.output["answer_relevancy"] = answer_relevancy_scores
         self.output["faithfulness"] = faithfulness_scores
@@ -145,7 +145,7 @@ class Evaluator():
         print("Context Precision:", average_context_precision)
         print("Context Recall:", average_context_recall)
 
-class GeminiChatModel(DeepEvalBaseLLM):
+class CustomChatModel(DeepEvalBaseLLM):
     def __init__(
         self,
         model
@@ -153,10 +153,10 @@ class GeminiChatModel(DeepEvalBaseLLM):
         self.model = model
 
     def load_model(self):
-        return ChatGoogleGenerativeAI(model=self.model,
-                                      temperature=0,
-                                      google_api_key="AIzaSyBg-vNAHIFM52uannoCK8sruEQn3zzh6Ec")
-        # return ChatOllama(model=self.model,temperature=0)
+        # return ChatGoogleGenerativeAI(model=self.model,
+        #                               temperature=0,
+        #                               google_api_key="AIzaSyBg-vNAHIFM52uannoCK8sruEQn3zzh6Ec")
+        return ChatOllama(model=self.model,temperature=0)
 
     def generate(self, prompt: str) -> str:
         chat_model = self.load_model()
@@ -168,7 +168,7 @@ class GeminiChatModel(DeepEvalBaseLLM):
         return res.content
 
     def get_model_name(self):
-        return "Gemini 1.0 Model"
+        return "Custom Model"
     
 # Init
 # safety_settings = {
@@ -178,7 +178,7 @@ class GeminiChatModel(DeepEvalBaseLLM):
 #     HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
 # }
 # gemini_chat = ChatGoogleGenerativeAI(model='gemini-1.5-pro',google_api_key=os.getenv("GOOGLE_API_KEY"),safety_settings=safety_settings,temperature=0.1)
-gemini_model = GeminiChatModel(model="gemini-1.5-pro")
+gemini_model = CustomChatModel(model="mistral")
 path_to_evaluate_data = "./data/testset.json"
 evaluator = Evaluator(path_to_data=path_to_evaluate_data, model=gemini_model,filename="eval_12_7.csv")
 

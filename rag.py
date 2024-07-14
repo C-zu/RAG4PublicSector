@@ -7,6 +7,8 @@ from google.generativeai.types.safety_types import HarmBlockThreshold, HarmCateg
 from langchain.memory import ChatMessageHistory, ConversationBufferMemory
 from langchain_community.chat_models import ChatOllama
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
+from langchain_cohere.chat_models import ChatCohere
+from langchain_google_genai.chat_models import ChatGoogleGenerativeAI
 class Prompt():
     def __init__(self, template=None) -> None:
         self.prompt_template = rag_init.custom_prompt_template2
@@ -30,13 +32,22 @@ class LLM():
             HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
         }
         self.callbacks = [StreamingStdOutCallbackHandler()]
-        self.llm = rag_init.ChatGoogleGenerativeAI(model="gemini-pro",convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, sstream=True,callbacks=self.callbacks)
+        self.llm = ChatGoogleGenerativeAI(model="gemini-pro",convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, stream=True,callbacks=self.callbacks)
 
         if llm is not None:
             if llm == 'llama3' or llm =='gemma2':
-                self.llm = ChatOllama(model=llm, streaming=True,callbacks=self.callbacks,temperature=0.1)
+                self.llm = ChatOllama(model=llm, streaming=True,callbacks=self.callbacks,temperature=0.2)
+            elif llm == "command-r-plus":
+                self.llm = ChatCohere(
+                    model="command-r-plus",
+                    temperature=0.1,
+                    max_tokens=None,
+                    timeout=None,
+                    streaming=True,
+                    callbacks=self.callbacks
+                )
             else:
-                self.llm = rag_init.ChatGoogleGenerativeAI(model=llm,convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, stream=True,callbacks=self.callbacks)
+                self.llm = ChatGoogleGenerativeAI(model=llm,convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, stream=True,callbacks=self.callbacks)
     def __getattribute__(self, any: str) -> Any:
         return super().__getattribute__(any)
 
