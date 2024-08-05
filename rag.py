@@ -46,6 +46,13 @@ class LLM():
                     streaming=True,
                     callbacks=self.callbacks
                 )
+            elif llm == "command-r-plus-no-streaming":
+                self.llm = ChatCohere(
+                    model="command-r-plus",
+                    temperature=0.1,
+                    max_tokens=None,
+                    timeout=None,
+                )
             else:
                 self.llm = ChatGoogleGenerativeAI(model=llm,convert_system_message_to_human=True,google_api_key=os.getenv("GOOGLE_API_KEY"), safety_settings=self.safety_settings, temperature=0.1, stream=True,callbacks=self.callbacks)
     def __getattribute__(self, any: str) -> Any:
