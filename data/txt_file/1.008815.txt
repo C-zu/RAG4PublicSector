@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008815
+Số quyết định:
+1545/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại Giấy chứng nhận tên định danh
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+- Tổ chức, cá nhân khai đăng ký cấp tên định danh với các thông tin cập nhật theo mẫu số 01 Phụ lục Nghị định số 91/2020/NĐ-CP.
+- Tổ chức, cá nhân nộp Hồ sơ đến Bộ Thông tin và Truyền thông (Cục An toàn thông tin).
+- Sau khi hồ sơ được tiếp nhận, trong thời hạn một (01) ngày làm việc Bộ Thông tin và Truyền thông (Cục An toàn thông tin) cấp lại Giấy chứng nhận tên định danh theo quy định tại Điều 26 Nghị định này với thời hạn giữ nguyên như giấy chứng nhận tên định danh đã được cấp trước đây.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ Tài chính|01 ngày kề từ khi nộp Hồ sơ theo quy định.|
+|Trực tuyến|01 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ Tài chính|01 ngày kề từ khi nộp Hồ sơ theo quy định.|
+|Dịch vụ bưu chính|01 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ Tài chính|01 ngày kề từ khi nộp Hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp lại Giấy chứng nhận tên định danh
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Bản khai cấp lại tên định danh|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1b8f58fce18e2'">Bản khai đăng ký tên định danh.docx</a>|Bản chính: 1Bản sao: 1|
+|Các giấy tờ khác có liên quan|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7d80de1d58706'">Giấy ủy quyền.docx</a>|Bản chính: 1Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục An toàn thông tin, Tầng 8, Tòa nhà Cục Tần số Vô tuyến điện, 115 Trần Duy Hưng, Trung Hòa, Cầu giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận tên định danh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|91/2020/NĐ-CP|Nghị định 91/2020/NĐ-CP|14-08-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000726
+Số quyết định:
+2609/QĐ-BCA-C08
+Tên thủ tục:
+Đăng ký xe tạm thời (thực hiện tại cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Nộp hồ sơ đề nghị đăng ký xe tạm thời tại bộ phận tiếp nhận và trả kết quả Cục Cảnh sát giao thông, tầng 1, số 112 Lê Duẩn, phường Cửa Nam, quận Hoàn Kiếm, thành phố Hà Nội.
+Cán bộ tiếp nhận hồ sơ: Kiểm tra giấy tờ của chủ xe, Giấy khai đăng ký xe, giấy tờ theo quy định tại Điều 13 Thông tư số 58/2020/TT-BCA ngày 16/6/2020 của Bộ trưởng Bộ Công an quy định quy trình cấp, thu hồi đăng ký, biển số phương tiện giao thông cơ giới đường bộ.
+Nếu hồ sơ đăng ký xe không đảm bảo thủ tục theo quy định thì hướng dẫn cụ thể, đầy đủ một lần cho chủ xe hoàn thiện hồ sơ theo quy định.
+Bước 3: Hướng dẫn chủ xe kiểm tra thông tin: Chủ xe và xe, cấp biển số tạm thời trên hệ thống đăng ký, quản lý xe, ghi biển số vào giấy khai đăng ký xe.
+Bước 4: Thu lệ phí đăng ký xe theo quy định, trả giấy chứng nhận đăng ký xe tạm thời cho chủ xe.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Lệ phí : Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|Cấp ngay biển số tạm thời và giấy chứng nhận đăng ký xe tạm thời trong ngày.|
+|Trực tuyến|01 Ngày làm việc||+ Nộp Giấy khai đăng ký xe điện tử trên Cổng Dịch vụ công trực tuyến (sau khi triển khai).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|a) Giấy khai đăng ký xe (theo mẫu).|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf9383509447f0'">Mẫu số 1 Giấy khai đăng ký xe.doc</a>|Bản chính: 1Bản sao: 0|
+|b) Hồ sơ theo quy định tại Điều 13 Thông tư số 58/2020/TT-BCA, ngày 16/6/2020 của Bộ Công an.||Bản chính: 1Bản sao: 0|
+|Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ, ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.||Bản chính: 0Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục cảnh sát giao thông
+Cơ quan có thẩm quyền:
+Cục cảnh sát giao thông
+Địa chỉ tiếp nhận HS:
+tại trụ sở Cục Cảnh sát giao thông địa chỉ tầng 1 số 112 Lê Duẩn, phường Cửa Nam, quận Hoàn Kiếm, thành phố Hà Nội.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe tạm thời, Biển số xe tạm thời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật 23/2008/QH12 - Giao thông đường bộ|13-11-2008|Quốc Hội|
+|Thông tư số 229/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ|11-11-2016||
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+
+Yêu cầu, điều kiện thực hiện:
+không
+Từ khóa:
+Đăng ký xe tạm thời (thực hiện tại cấp Trung ương)
+Mô tả:
+Không có thông tin

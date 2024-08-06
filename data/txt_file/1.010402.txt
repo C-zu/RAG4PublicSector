@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010402
+Số quyết định:
+2103/QĐ-UBND_ĐT
+Tên thủ tục:
+Xác nhận cấp thẻ Bảo hiểm y tế cho trẻ em dưới 06 tuổi (cấp mới và cấp đổi do sai lệch thông tin về nhân thân của trẻ như: họ, chữ đệm, tên, ngày, tháng, năm sinh so với giấy khai sinh của trẻ) (cấp xã, phường)
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo trợ xã hội
+Trình tự thực hiện:
+Bước 1: Cá nhân nộp hồ sơ (bản sao giấy khai sinh; trường hợp cấp đổi có thêm thẻ BHYT) tại Bộ phận Tiếp nhận và trả kết quả xã, phường để đăng ký làm thẻ BHYT cho trẻ em. Bộ phận Tiếp nhận và trả kết quả chuyển hồ sơ cho công chức Gia đình - Trẻ em xã, phường. Hoặc sau khi giải quyết thủ tục đăng ký khai sinh, công chức Tư pháp - hộ tịch chuyển một bản sao giấy khai sinh cho công chức Gia đình -  Trẻ em xã, phường.
+Bước 2: Công chức thụ lý hồ sơ kiểm tra, rà soát chống trùng, lập hồ sơ gửi Bảo hiểm xã hội quận, huyện. 
+Bước 3: Bảo hiểm xã hội quận, huyện kiểm tra, đối chiếu chống trùng trong dữ liệu quản lý của ngành (thông báo cho xã, phường những trường hợp trùng hoặc không đủ điều kiện cấp thẻ để phối hợp giải quyết trước khi làm thủ tục cấp thẻ), tiến hành in thẻ và chuyển giao thẻ cho UBND xã, phường.
+Bước 4:  Công chức Gia đình - Trẻ em kiểm tra thẻ Bảo hiểm y tế đã in, gửi lại Bộ phận Tiếp nhận và trả kết quả để trả cho công dân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Tại UBND phường, xã: 04 ngày (kể từ ngày nhận được hồ sơ đến khi chuyển hồ sơ cho Bảo hiểm xã hội cấp huyện, bao gồm cả thời gian luân chuyển hồ sơ) - Tại Bảo hiểm xã hội cấp huyện: 05 ngày đối với trường hợp cấp mới và 03 ngày đối với cấp đổi do sai lệch thông tin về nhân thân (kể từ ngày nhận hồ sơ đến khi cấp thẻ Bảo hiểm y tế). Trong thời gian 01 ngày kể từ ngày có thẻ bảo hiểm y tế tại Bảo hiểm xã hội cấp huyện, UBND phường, xã có trách nhiệm nhận lại thẻ và trả cho công dân, tổ chức.||Hồ sơ nộp trực tiếp tại Bộ phận Tiếp nhận và trả kết quả thuộc UBND cấp xã|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Bản sao Giấy khai sinh của trẻ em. Trường hợp cấp đổi thì nộp thêm thẻ Bảo hiểm y tế của trẻ em và Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT theo mẫu TK1-TS ban hành kèm theo Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Bảo hiểm xã hội Việt Nam.|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8f75a1f1ffe99'">To khai tham gia, dieu chinh thong tin BHXH, BHYT (mau TK1-TS).docx</a>|Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp xã
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc UBND cấp xã
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thẻ Bảo hiểm y tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2008/QH12|Luật 25/2008/QH12|14-11-2008||
+|46/2014/QH13|Luật 46/2014/QH13|13-06-2014||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,94 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003198
+Số quyết định:
+2687/QĐ-BTP
+Tên thủ tục:
+Thủ tục Cấp giấy xác nhận công dân Việt Nam ở trong nước đủ điều kiện nhận trẻ em nước ngoài làm con nuôi
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nuôi con nuôi
+Trình tự thực hiện:
+- Công dân Việt Nam ở trong nước nộp hồ sơ tại Bộ Tư pháp (Vụ Con nuôi) để được xem xét, cấp giấy xác nhận đủ điều kiện nhận trẻ em nước ngoài làm con nuôi;
+- Bộ Tư pháp xem xét, cấp giấy xác nhận người nhận con nuôi có đủ điều kiện nuôi con nuôi theo quy định của pháp luật Việt Nam.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo mô tả||Trong thời hạn 30 ngày, kể từ ngày nhận được đủ hồ sơ hợp lệ. Trường hợp cần xác minh thì thời hạn có thể kéo dài nhưng không quá 60 ngày.|
+|Trực tuyến|Theo mô tả||Trong thời hạn 30 ngày, kể từ ngày nhận được đủ hồ sơ hợp lệ. Trường hợp cần xác minh thì thời hạn có thể kéo dài nhưng không quá 60 ngày.|
+|Dịch vụ bưu chính|Theo mô tả||Trong thời hạn 30 ngày, kể từ ngày nhận được đủ hồ sơ hợp lệ. Trường hợp cần xác minh thì thời hạn có thể kéo dài nhưng không quá 60 ngày.|
+
+Thành phần hồ sơ:
+
+* Lưu ý đối với trường hợp người yêu cầu lựa chọn hồ sơ theo hình thức trực tuyến thì người yêu cầu cung cấp thông tin theo hướng dẫn trên Cổng dịch vụ công theo biểu mẫu điện tử tương tác dưới đây:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Biểu mẫu điện tử tương tác Cấp giấy xác nhận công dân Việt Nam ở trong nước đủ điều kiện nhận trẻ em nước ngoài làm con nuôi|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc763d8e04ab200'">7.NỘI DUNG MẪU ĐIỆN TỬ CẤP GIẤY XÁC NHẬN CÔNG DÂN VN Ở TRONG NƯỚC ĐỦ ĐK NHẬN TE NN LÀM CN.docx</a>|Bản chính: 1Bản sao: 1|
+
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Đơn xin nhận con nuôi trong nước (nếu người yêu cầu lựa chọn nộp hồ sơ theo hình thức trực tiếp)|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaab9cbe29b24e'">2.Đơn xin con nuôi trong nước.doc</a>|Bản chính: 1Bản sao: 1|
+|- Bản sao Hộ chiếu, Chứng minh nhân dân hoặc giấy tờ có giá trị thay thế;||Bản chính: 1Bản sao: 1|
+|- Phiếu lý lịch tư pháp;||Bản chính: 1Bản sao: 1|
+|- Văn bản xác nhận tình trạng hôn nhân:||Bản chính: 0Bản sao: 0|
+|Trường hợp người nhận con nuôi là cặp vợ chồng nhận con nuôi:||Bản chính: 1Bản sao: 0|
+|Trường hợp người nhận con nuôi là người độc thân nhận con nuôi:||Bản chính: 1Bản sao: 0|
+|- Giấy khám sức khỏe do cơ sở y tế cấp huyện trở lên cấp;||Bản chính: 1Bản sao: 0|
+|- Văn bản xác nhận hoàn cảnh gia đình, tình trạng chỗ ở, điều kiện kinh tế do UBND cấp xã nơi người nhận con nuôi thường trú cấp.||Bản chính: 1Bản sao: 0|
+|Lưu ý: Trường hợp phải chứng minh nơi thường trú của người nhận con nuôi khi đề nghị UBND cấp xã cấp Văn bản xác nhận hoàn cảnh gia đình, tình trạng chỗ ở, điều kiện kinh tế, cán bộ, công chức, viên chức, cá nhân được giao trách nhiệm tiếp nhận, giải quyết phải khai thác, sử dụng thông tin về cư trú của công dân trong Cơ sở dữ liệu quốc gia về dân cư theo các phương thức nêu tại khoản 2 Điều 14 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ. Trường hợp không thể khai thác được thông tin cư trú của công dân theo các phương thức trên thì có thể yêu cầu người nhận con nuôi nộp bản sao hoặc xuất trình một trong các giấy tờ chứng minh thông tin về cư trú, bao gồm: Thẻ căn cước công dân; Chứng minh nhân dân; Giấy xác nhận thông tin về cư trú, Giấy thông báo số định danh cá nhân và thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư.||Bản chính: 0Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Bộ Tư pháp, Vụ Con nuôi
+Cơ quan có thẩm quyền:
+Bộ Tư pháp
+Địa chỉ tiếp nhận HS:
+Trụ sở Bộ Tư pháp, 60 Trần Phú, Ba Đình, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Sở Tư pháp
+Kết quả thực hiện:
+Giấy xác nhận đủ điều kiện nhận trẻ em nước ngoài làm con nuôi
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư số 267/2016/TT-BTC|hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác nuôi con nuôi và cấp, gia hạn, sửa đổi giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam|14-11-2016|Bộ Tài chính|
+|52/2010/QH12|Luật 52/2010/QH12|17-06-2010||
+|19/2011/NĐ-CP|Nghị định 19/2011/NĐ-CP|21-03-2011||
+|10/2020/TT-BTP|Thông tư 10/2020/TT-BTP|28-12-2020||
+|104/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của các nghị định liên quan đến việc nộp, xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công|21-12-2022|Chính phủ|
+|98/2022/NĐ-CP|Nghị định số 98/2022/NĐ-CP ngày 29 tháng 11 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp;|29-11-2022|Chính phủ|
+|07/2023/TT-BTP|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 10/2020/TT-BTP về việc ban hành, hướng dẫn việc ghi chép, sử dụng, quản lý và lưu trữ sổ, mẫu giấy tờ, hồ sơ nuôi con nuôi.|29-09-2023|Bộ trưởng Bộ Tư pháp|
+
+Yêu cầu, điều kiện thực hiện:
+Người xin nhận con nuôi phải có đủ các điều kiện sau đây:
+     	- Có năng lực hành vi dân sự đầy đủ;
+      	- Hơn con nuôi từ 20 tuổi trở lên – không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú bác ruột nhận cháu làm con nuôi;
+      	- Có điều kiện về sức khỏe, kinh tế, chỗ ở bảo đảm việc chăm sóc, nuôi dưỡng, giáo dục con nuôi - không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu,dì, chú bác ruột nhận cháu làm con nuôi;
+      	-  Có tư cách đạo đức tốt.
+Các trường hợp không được nhận con nuôi
+- Đang bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên;
+- Đang chấp hành quyết định xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh;
+- Đang chấp hành hình phạt tù;
+- Chưa được xóa án tích về một trong các tội cố ý xâm phạm tính mạng, sức khoẻ, nhân phẩm, danh dự của người khác; ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình; dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật; mua bán, đánh tráo, chiếm đoạt trẻ em.
+Người xin nhận con nuôi phải có đủ các điều kiện sau đây:
+     	- Có năng lực hành vi dân sự đầy đủ;
+      	- Hơn con nuôi từ 20 tuổi trở lên – không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú bác ruột nhận cháu làm con nuôi;
+      	- Có điều kiện về sức khỏe, kinh tế, chỗ ở bảo đảm việc chăm sóc, nuôi dưỡng, giáo dục con nuôi - không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu,dì, chú bác ruột nhận cháu làm con nuôi;
+      	-  Có tư cách đạo đức tốt.
+Các trường hợp không được nhận con nuôi
+- Đang bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên;
+- Đang chấp hành quyết định xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh;
+- Đang chấp hành hình phạt tù;
+- Chưa được xóa án tích về một trong các tội cố ý xâm phạm tính mạng, sức khoẻ, nhân phẩm, danh dự của người khác; ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình; dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật; mua bán, đánh tráo, chiếm đoạt trẻ em.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -6,7 +6,7 @@ Số quyết định:
 Tên thủ tục:
 Cấp bản sao Trích lục hộ tịch
 Cấp thực hiện:
-Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã, Cơ quan khác
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
 Loại thủ tục:
 TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
 Lĩnh vực:
@@ -103,7 +103,7 @@ Căn cứ pháp lý:
 |Thông tư số 03/2023/TT-BTP|Thông tư số 03/2023/TT-BTP ngày 02/8/2023 của Bộ trưởng Bộ Tư pháp|02-08-2023|Bộ trưởng Bộ Tư pháp|
 
 Yêu cầu, điều kiện thực hiện:
-Không có thông tin
+Không
 Từ khóa:
 Không có thông tin
 Mô tả:

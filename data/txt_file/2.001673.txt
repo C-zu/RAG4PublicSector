@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001673
+Số quyết định:
+3573/QĐ-BNN-BVTV
+Tên thủ tục:
+Cấp Giấy phép kiểm dịch thực vật nhập khẩu đối với vật thể trong Danh mục vật thể thuộc diện kiểm dịch thực vật phải phân tích nguy cơ dịch hại trước khi nhập khẩu vào Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Bảo vệ thực vật
+Trình tự thực hiện:
+Bước 1: Thương nhân gửi 1 bộ hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu có áp dụng) đến Cục Bảo vệ thực vật.
+Bước 2: Trường hợp hồ sơ chưa đầy đủ, đúng quy định hoặc cần bổ sung tài liệu giải trình, trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ Cục Bảo vệ thực vật thông báo để thương nhân hoàn thiện hồ sơ.
+Bước 3: Trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định, Cục Bảo vệ thực vật cấp Giấy phép kiểm dịch thực vật nhập khẩu theo Mẫu số 05/BVTV Phụ lục IV ban hành kèm theo Thông tư số 43/2018/TT-BNNPTNT. Trường hợp từ chối cấp phép, cơ quan tiếp nhận hồ sơ có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến (nếu có áp dụng).|
+|Trực tuyến|10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến (nếu có áp dụng).|
+|Dịch vụ bưu chính|10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến (nếu có áp dụng).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Đơn đề nghị cấp Giấy phép kiểm dịch thực vật nhập khẩu theo Phụ lục IV ban hành kèm theo Thông tư số 11/2022/TT-BNNPTNT;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8acd03571cfc4'">Phụ lục IV.docx</a>|Bản chính: 1Bản sao: 0|
+|- Bản sao Hợp đồng thương mại, trừ trường hợp nhập khẩu cho mục đích nghiên cứu, khảo nghiệm, hợp tác quốc tế;||Bản chính: 0Bản sao: 1|
+|- Bản sao Giấy chứng nhận đầu tư của thương nhân (chỉ nộp khi nhập khẩu lần đầu).||Bản chính: 0Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Bảo vệ thực vật - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Cục Bảo vệ thực vật - Bộ NN-PTNT
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kiểm dịch thực vật nhập khẩu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2017/QH14|Luật 05/2017/QH14|12-06-2017|Quốc Hội|
+|69/2018/NĐ-CP|Nghị định 69/2018/NĐ-CP|15-05-2018|Chính phủ|
+|41/2013/QH13|Luật 41/2013/QH13|29-08-2019|Quốc Hội|
+|30/2014/TT-BNNPTNT|Thông tư 30/2014/TT-BNNPTNT|05-09-2014|Bộ Nông nghiệp và Phát triển nông thôn|
+|43/2018/TT-BNNPTNT|Thông tư 43/2018/TT-BNNPTNT|28-12-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|11/2022/TT-BNNPTNT|Thông tư số 11/2022/TT-BNNPTNT ngày 20 tháng 9 năm 2022 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung một số quy định về thủ tục hành chính trong lĩnh vực bảo vệ và kiểm dịch thực vật.|20-09-2022|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+- Vật thể thuộc diện kiểm dịch thực vật trong Danh mục vật thể thuộc diện kiểm dịch thực vật phải phân tích nguy cơ dịch hại trước khi nhập khẩu vào Việt Nam phải được phân tích nguy cơ dịch hại.
+
+- Cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương của Việt Nam có trách nhiệm tổ chức thực hiện phân tích nguy cơ dịch hại trên cơ sở thông tin do cơ quan có thẩm quyền về kiểm dịch thực vật của nước xuất khẩu cung cấp và các nguồn thông tin hiện có khác.
+
+- Căn cứ kết quả phân tích nguy cơ dịch hại, cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương của Việt Nam cho phép nhập khẩu vật thể thuộc diện kiểm dịch thực vật và thông báo bằng văn bản cho cơ quan có thẩm quyền về kiểm dịch thực vật của nước xuất khẩu và tổ chức, cá nhân có liên quan biết.
+- Vật thể thuộc diện kiểm dịch thực vật trong Danh mục vật thể thuộc diện kiểm dịch thực vật phải phân tích nguy cơ dịch hại trước khi nhập khẩu vào Việt Nam phải được phân tích nguy cơ dịch hại.
+
+- Cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương của Việt Nam có trách nhiệm tổ chức thực hiện phân tích nguy cơ dịch hại trên cơ sở thông tin do cơ quan có thẩm quyền về kiểm dịch thực vật của nước xuất khẩu cung cấp và các nguồn thông tin hiện có khác.
+
+- Căn cứ kết quả phân tích nguy cơ dịch hại, cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương của Việt Nam cho phép nhập khẩu vật thể thuộc diện kiểm dịch thực vật và thông báo bằng văn bản cho cơ quan có thẩm quyền về kiểm dịch thực vật của nước xuất khẩu và tổ chức, cá nhân có liên quan biết.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

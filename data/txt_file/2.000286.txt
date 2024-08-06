@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000286
+Số quyết định:
+635/QĐ-LĐTBXH
+Tên thủ tục:
+Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Bảo trợ xã hội
+Trình tự thực hiện:
+- Bước 1: Đối tượng hoặc người giám hộ chuẩn bị hồ sơ theo quy định gửi Chủ tịch Ủy ban nhân dân cấp xã.
+- Bước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ của đối tượng, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm xét duyệt và niêm yết công khai kết quả xét duyệt tại trụ sở Ủy ban nhân dân cấp xã trong thời gian 07 ngày làm việc, trừ những thông tin về HIV của đối tượng.
+- Bước 3: Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được hồ sơ của đối tượng và văn bản đề nghị của Chủ tịch Ủy ban nhân dân cấp xã, Phòng Lao động - Thương binh và Xã hội thẩm định, trình Chủ tịch Ủy ban nhân dân cấp huyện.
+- Bước 4: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản trình của Phòng Lao động - Thương binh và Xã hội, Chủ tịch Ủy ban nhân dân cấp huyện quyết định đưa đối tượng vào cơ sở trợ giúp xã hội thuộc thẩm quyền quản lý hoặc có văn bản đề nghị Sở Lao động - Thương binh và Xã hội xem xét chuyển hồ sơ đến người đứng đầu cơ sở trợ giúp xã hội tiếp nhận đối tượng vào cơ sở.
+- Bước 5: Trong thời hạn 07 ngày làm việc, kể từ khi nhận được hồ sơ của đối tượng và văn bản đề nghị của Chủ tịch Ủy ban nhân dân cấp huyện, Sở Lao động - Thương binh và Xã hội thẩm định và chuyển hồ sơ của đối tượng đến cơ sở trợ giúp xã hội trên địa bàn quản lý; sau khi nhận đầy đủ hồ sơ, người đứng đầu cơ sở trợ giúp xã hội quyết định tiếp nhận đối tượng vào cơ sở.
+Trường hợp đối tượng không được tiếp nhận vào cơ sở trợ giúp xã hội thì trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|34 Ngày làm việc||Đối với tiếp nhận đối tượng vào cơ sở cấp tỉnh|
+|Trực tiếp|27 Ngày làm việc||Đối với tiếp nhận đối tượng vào cơ sở cấp huyện|
+|Trực tuyến|34 Ngày làm việc||Đối với tiếp nhận đối tượng vào cơ sở cấp tỉnh (nếu điều kiện cho phép)|
+|Trực tuyến|27 Ngày làm việc||Đối với tiếp nhận đối tượng vào cơ sở cấp huyện (nếu điều kiện cho phép)|
+|Dịch vụ bưu chính|34 Ngày làm việc||Đối với tiếp nhận đối tượng vào cơ sở cấp tỉnh|
+|Dịch vụ bưu chính|27 Ngày làm việc||Đối với tiếp nhận đối tượng vào cơ sở cấp huyện|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Tờ khai của đối tượng hoặc người giám hộ (theo Mẫu số 07 ban hành kèm theo Nghị định số 20/2021/NĐ-CP); - Bản sao giấy khai sinh đối với trẻ em, trường hợp trẻ em bị bỏ rơi phải làm thủ tục đăng ký khai sinh theo quy định của pháp luật về đăng ký hộ tịch; - Bản sao Giấy xác nhận khuyết tật đối với trường hợp là người khuyết tật. - Xác nhận của cơ quan y tế có thẩm quyền đối với trường hợp nhiễm HIV; - Giấy tờ liên quan khác (nếu có).|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd3261b3cfd89c'">Mau so 07.docx</a>|Bản chính: 1Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Chủ tịch Ủy ban nhân dân cấp huyện, Cơ sở trợ giúp xã hội, Ủy ban nhân dân cấp xã, Sở Lao động - Thương binh và Xã hội Thanh Hóa, Phòng Lao động - Thương binh và Xã hội
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Ủy ban nhân dân cấp xã
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định tiếp nhận đối tượng vào cơ sở trợ giúp xã hội.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2021/NĐ-CP|QUY ĐỊNH CHÍNH SÁCH TRỢ GIÚP XÃ HỘI ĐỐI VỚI ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI|15-03-2021|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn theo quy định tại  Nghị định số 20/2021/NĐ-CP (khoản 1 Điều 24), cụ thể:
+- Đối tượng quy định tại các khoản 1 và 3 Điều 5 của Nghị định số 20/2021/NĐ-CP thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng;
+- Người cao tuổi thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người cao tuổi;
+- Trẻ em khuyết tật, người khuyết tật thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người khuyết tật.
+Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn theo quy định tại  Nghị định số 20/2021/NĐ-CP (khoản 1 Điều 24), cụ thể:
+- Đối tượng quy định tại các khoản 1 và 3 Điều 5 của Nghị định số 20/2021/NĐ-CP thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng;
+- Người cao tuổi thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người cao tuổi;
+- Trẻ em khuyết tật, người khuyết tật thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người khuyết tật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

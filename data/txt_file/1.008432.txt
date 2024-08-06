@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008432
+Số quyết định:
+808/QĐ-BXD
+Tên thủ tục:
+Cung cấp thông tin về quy hoạch xây dựng thuộc thẩm quyền của UBND cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc
+Trình tự thực hiện:
+- Các cơ quan, tổ chức, cá nhân có nhu cầu cung cấp thông tin quy hoạch bằng văn bản gửi 01 bộ hồ sơ qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp tại bộ phận tiếp nhận và trả hồ sơ của UBND cấp tỉnh.
+- Bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh tiếp nhận và kiểm tra nội dung và tính pháp lý của hồ sơ:                                                    
++ Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy hẹn trao cho người nộp.
++ Trường hợp hồ sơ thiếu hoặc không hợp lệ thì công chức tiếp nhận hồ sơ hướng dẫn đầy đủ một lần để người nộp hoàn thiện hồ sơ.
+-  Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan quản lý quy hoạch xây dựng cấp tỉnh có trách nhiệm rà soát thông tin về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng, các thông tin khác liên quan đến quy hoạch và cung cấp thông tin quy hoạch cho cơ quan, tổ chức, cá nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Gửi hồ sơ trực tiếp tại bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|15 Ngày||Gửi hồ sơ trực tuyến tại bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày||Gửi hồ sơ qua dịch vụ bưu chính đến bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Đơn đề nghị cung cấp thông tin quy hoạch (trong đó ghi rõ thông tin về vị trí, địa điểm lô đất cần cung cấp thông tin).||Bản chính: 1Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cơ quan quản lý quy hoạch tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả tại kết quả của UBND cấp tỉnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+VB cung cấp thông tin QH về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng và thông tin khác liên quan đến quy hoạch
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|30/2009/QH12|Luật Quy hoạch Đô thị|17-06-2009|Quốc Hội|
+|35/2018/QH14|Luật 35/2018/QH14|20-11-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

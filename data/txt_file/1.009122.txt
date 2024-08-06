@@ -1,0 +1,103 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009122
+Số quyết định:
+1404/QĐ-UBND_ĐT
+Tên thủ tục:
+Cấp giấy phép xây dựng có thời hạn đối với công trình, nhà ở riêng lẻ (công trình cấp III, cấp IV)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+Bước 1: Chủ đầu tư nộp hồ sơ tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.
+Bước 2: Bộ phận Tiếp nhận và trả kết quả tiếp nhận hồ sơ; kiểm tra hồ sơ; ghi giấy biên nhận đối với trường hợp hồ sơ đáp ứng theo quy định hoặc hướng dẫn để chủ đầu tư hoàn thiện hồ sơ đối với trường hợp hồ sơ không đáp ứng theo quy định. Sau đó chuyển hồ sơ cho Phòng Quản lý Đô thị.
+Bước 3: Phòng Quản lý Đô thị tham mưu xử lý hồ sơ và trình UBND cấp quận, huyện quyết định việc cấp giấy phép xây dựng có thời hạn công trình, nhà ở riêng lẻ; chuyển kết quả cho Bộ phận Tiếp nhận và trả kết quả để trả cho chủ đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|+ Đối với công trình: Không quá 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. + Đối với nhà ở riêng lẻ tại đô thị: Không quá 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : + Đối với công trình: 100.000 đồng/giấy phép  Phí : + Đối với nhà ở riêng lẻ tại đô thị: 50.000 đồng/giấy phép|Hồ sơ nộp tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|
+
+Thành phần hồ sơ:
+
+Đối với công trình
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|1. Đơn đề nghị cấp giấy phép xây dựng có thời hạn theo mẫu;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd30056f7a15280'">MAU 01-Cap phep xay dung co thoi han su dung cho cong trinh.doc</a>|Bản chính: 1Bản sao: 0|
+|2. Bản sao được công chứng hoặc chứng thực một trong những giấy tờ về quyền sử dụng đất theo quy định của pháp luật về đất đai;||Bản chính: 0Bản sao: 1|
+|3. Hai bộ bản vẽ thiết kế, mỗi bộ gồm:||Bản chính: 2Bản sao: 0|
+|- Bản vẽ mặt bằng vị trí công trình trên lô đất tỷ lệ 1/100 - 1/500, kèm theo sơ đồ vị trí công trình;||Bản chính: 1Bản sao: 0|
+|- Bản vẽ các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình, tỷ lệ 1/50 - 1/200;||Bản chính: 1Bản sao: 0|
+|- Bản vẽ mặt bằng móng tỷ lệ 1/100 - 1/200 và mặt cắt móng tỷ lệ 1/50, kèm theo sơ đồ đấu nối với hệ thống hạ tầng kỹ thuật về giao thông; cấp nước; thoát nước mưa, nước bẩn; xử lý nước thải; cấp điện; thông tin liên lạc; các hệ thống hạ tầng kỹ thuật khác liên quan đến dự án, tỷ lệ 1/50 - 1/200.||Bản chính: 1Bản sao: 0|
+|* Tùy từng trường hợp phải bổ sung: Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.||Bản chính: 0Bản sao: 1|
+
+
+Đối với nhà ở riêng lẻ tại đô thị:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|1. Đơn đề nghị cấp giấy phép xây dựng có thời hạn theo mẫu;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2b352ad4bc861'">Mau 2-Cap giay phep xay dung co thoi han su dung cho nha o rieng le.doc</a>|Bản chính: 1Bản sao: 0|
+|2. Bản sao được công chứng hoặc chứng thực một trong những giấy tờ về quyền sử dụng đất theo quy định của pháp luật về đất đai;||Bản chính: 0Bản sao: 1|
+|3. Bản sao hoặc tệp tin chứa bản chụp chính hai bộ bản vẽ thiết kế, mỗi bộ gồm:||Bản chính: 2Bản sao: 2|
+|- Bản vẽ mặt bằng công trình trên lô đất tỷ lệ 1/50 - 1/500, kèm theo sơ đồ vị trí công trình;||Bản chính: 1Bản sao: 1|
+|- Bản vẽ mặt bằng các tầng, các mặt đứng và mặt cắt chính của công trình, tỷ lệ 1/50 - 1/200;||Bản chính: 1Bản sao: 1|
+|- Bản vẽ mặt bằng móng tỷ lệ 1/50 - 1/200 và mặt cắt móng tỷ lệ 1/50, kèm theo sơ đồ đấu nối hệ thống thoát nước mưa, xử lý nước thải, cấp nước, cấp điện, thông tin tỷ lệ 1/50 - 1/200.||Bản chính: 1Bản sao: 1|
+|- Trường hợp thiết kế xây dựng của công trình đã được cơ quan chuyên môn về xây dựng thẩm định, các bản vẽ thiết kế quy định tại nêu trên là bản sao hoặc tệp tin chứa bản chụp các bản vẽ thiết kế xây dựng đã được cơ quan chuyên môn về xây dựng thẩm định.||Bản chính: 1Bản sao: 1|
+|- Đối với công trình xây chen có tầng hầm, ngoài các tài liệu quy định tại Khoản 1, 2, 3 Điều 11 Thông tư số 15/2016/TT-BXD, hồ sơ còn phải bổ sung bản sao hoặc tệp tin chứa bản chụp chính văn bản chấp thuận biện pháp thi công móng của chủ đầu tư đảm bảo an toàn cho công trình và công trình lân cận.||Bản chính: 1Bản sao: 1|
+|- Đối với công trình xây dựng có công trình liền kề phải có bản cam kết của chủ đầu tư bảo đảm an toàn đối với công trình liền kề.||Bản chính: 1Bản sao: 1|
+|* Tùy từng trường hợp phải bổ sung: Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.||Bản chính: 0Bản sao: 1|
+
+
+Đối với trường hợp sửa chữa, cải tạo:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|1. Đơn đề nghị cấp giấy phép xây dựng có thời hạn theo mẫu;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7fa2fda60b83c'">Mau 3-Cap phep xay dung co thoi han su dung cho truong hop sua chua, cai tao.doc</a>|Bản chính: 1Bản sao: 0|
+|2. Bản sao hoặc tệp tin chứa bản chụp chính một trong những giấy tờ chứng minh về quyền sở hữu, quản lý, sử dụng công trình, nhà ở theo quy định của pháp luật hoặc bản sao giấy phép xây dựng đã được cơ quan nhà nước có thẩm quyền cấp;||Bản chính: 1Bản sao: 1|
+|3. Bản sao hoặc tệp tin chứa bản chụp chính bản vẽ hiện trạng của bộ phận, hạng Mục công trình sửa chữa, cải tạo đã được phê duyệt theo quy định có tỷ lệ tương ứng với tỷ lệ các bản vẽ của hồ sơ đề nghị cấp phép sửa chữa, cải tạo và ảnh chụp (10 x 15 cm) hiện trạng công trình và công trình lân cận trước khi sửa chữa, cải tạo;||Bản chính: 1Bản sao: 1|
+|4. Đối với các công trình di tích lịch sử, văn hóa và danh lam, thắng cảnh đã được xếp hạng, thì phải có bản sao hoặc tệp tin chứa bản chụp chính văn bản chấp thuận của cơ quan quản lý nhà nước có thẩm quyền theo phân cấp.||Bản chính: 1Bản sao: 1|
+|* Tùy từng trường hợp phải bổ sung: Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.||Bản chính: 0Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Uỷ ban nhân dân huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xây dựng có thời hạn hoặc văn bản trả lời đối với trường hợp không đủ điều kiện để cấp giấy phép xây dựng có thời hạn.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2016/TT-BXD|Hướng dẫn về cấp giấy phép xây dựng|30-06-2016|Bộ Xây dựng|
+|59/2015/NĐ-CP|Nghị định 59/2015/NĐ-CP|18-06-2015|Chính phủ|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|57/2016/NQ-HĐND|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy phép xây dựng trên địa bàn thành phố Đà Nẵng|08-12-2016|Hội đồng nhân dân tỉnh|
+
+Yêu cầu, điều kiện thực hiện:
+1. Nằm trong khu vực đã có quy hoạch chi tiết xây dựng được cấp có thẩm quyền phê duyệt và công bố nhưng chưa có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền.
+2. Phù hợp với quy mô công trình do Ủy ban nhân dân thành phố quy định cho từng khu vực và thời hạn tồn tại của công trình theo kế hoạch thực hiện quy hoạch phân khu xây dựng đã được phê duyệt;
+3. Phù hợp với mục đích sử dụng đất theo quy hoạch sử dụng đất được phê duyệt.
+4. Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+5. Hồ sơ thiết kế xây dựng phải được tổ chức, cá nhân có đủ điều kiện năng lực theo quy định thực hiện; thiết kế phải được thẩm định, phê duyệt theo quy định. Đối với nhà ở riêng lẻ có tổng diện tích sàn nhỏ hơn 250 m2, dưới 3 tầng và không nằm trong khu vực bảo vệ di tích lịch sử, văn hóa thì chủ đầu tư được tự tổ chức thiết kế xây dựng và tự chịu trách nhiệm về an toàn của công trình và các công trình lân cận. 
+6. Chủ đầu tư phải có cam kết tự phá dỡ công trình khi hết thời hạn tồn tại của công trình ghi trong giấy phép xây dựng có thời hạn. Trường hợp không tự phá dỡ thì bị cưỡng chế và chủ đầu tư phải chịu mọi chi phí cho việc phá dỡ công trình.
+7. Đối với công trình, nhà ở riêng lẻ được cấp giấy phép xây dựng có thời hạn, khi hết thời hạn mà kế hoạch thực hiện quy hoạch xây dựng chưa được triển khai thì cơ quan đã cấp giấy phép xây dựng có trách nhiệm thông báo cho chủ sở hữu công trình hoặc người được giao sử dụng công trình về điều chỉnh quy hoạch xây dựng và thực hiện gia hạn giấy phép xây dựng có thời hạn.
+8. Đối với công trình, nhà ở riêng lẻ thuộc khu vực đã có quy hoạch phân khu xây dựng được cơ quan nhà nước có thẩm quyền phê duyệt và có kế hoạch sử dụng đất hàng năm của cấp huyện thì không cấp giấy phép xây dựng có thời hạn cho việc xây dựng mới mà chỉ cấp giấy phép xây dựng có thời hạn để sửa chữa, cải tạo.
+1. Nằm trong khu vực đã có quy hoạch chi tiết xây dựng được cấp có thẩm quyền phê duyệt và công bố nhưng chưa có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền.
+2. Phù hợp với quy mô công trình do Ủy ban nhân dân thành phố quy định cho từng khu vực và thời hạn tồn tại của công trình theo kế hoạch thực hiện quy hoạch phân khu xây dựng đã được phê duyệt;
+3. Phù hợp với mục đích sử dụng đất theo quy hoạch sử dụng đất được phê duyệt.
+4. Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thủy lợi, đê điều, năng lượng, giao thông, khu di sản văn hóa, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+5. Hồ sơ thiết kế xây dựng phải được tổ chức, cá nhân có đủ điều kiện năng lực theo quy định thực hiện; thiết kế phải được thẩm định, phê duyệt theo quy định. Đối với nhà ở riêng lẻ có tổng diện tích sàn nhỏ hơn 250 m2, dưới 3 tầng và không nằm trong khu vực bảo vệ di tích lịch sử, văn hóa thì chủ đầu tư được tự tổ chức thiết kế xây dựng và tự chịu trách nhiệm về an toàn của công trình và các công trình lân cận. 
+6. Chủ đầu tư phải có cam kết tự phá dỡ công trình khi hết thời hạn tồn tại của công trình ghi trong giấy phép xây dựng có thời hạn. Trường hợp không tự phá dỡ thì bị cưỡng chế và chủ đầu tư phải chịu mọi chi phí cho việc phá dỡ công trình.
+7. Đối với công trình, nhà ở riêng lẻ được cấp giấy phép xây dựng có thời hạn, khi hết thời hạn mà kế hoạch thực hiện quy hoạch xây dựng chưa được triển khai thì cơ quan đã cấp giấy phép xây dựng có trách nhiệm thông báo cho chủ sở hữu công trình hoặc người được giao sử dụng công trình về điều chỉnh quy hoạch xây dựng và thực hiện gia hạn giấy phép xây dựng có thời hạn.
+8. Đối với công trình, nhà ở riêng lẻ thuộc khu vực đã có quy hoạch phân khu xây dựng được cơ quan nhà nước có thẩm quyền phê duyệt và có kế hoạch sử dụng đất hàng năm của cấp huyện thì không cấp giấy phép xây dựng có thời hạn cho việc xây dựng mới mà chỉ cấp giấy phép xây dựng có thời hạn để sửa chữa, cải tạo.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

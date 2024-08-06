@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010847
+Số quyết định:
+1924/QĐ-BQP
+Tên thủ tục:
+Thủ tục cấp mới chứng thư số cho cá nhân
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng thực điện tử
+Trình tự thực hiện:
+Bước 1. Cá nhân có văn bản đề nghị cấp mới chứng thư số, có xác nhận của cơ quan, tổ chức quản lý trực tiếp, gửi Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ.
+
+Bước 2. Trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ hợp lệ, Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ có trách nhiệm kiểm tra hồ sơ, tổ chức tạo cặp khóa, tạo chứng thư số, bảo đảm thiết bị lưu khóa bí mật cho thuê bao. Thông báo thời gian, địa điểm tiếp nhận thiết bị lưu khóa bí mật cho cơ quan, tổ chức quản lý trực tiếp thuê bao.
+
+Bước 3. Cơ quan, tổ chức quản lý trực tiếp thuê bao, có trách nhiệm tiếp nhận thiết bị lưu khóa bí mật từ tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ. Sau khi bàn giao thiết bị lưu khóa bí mật cho thuê bao, cơ quan, tổ chức quản lý trực tiếp gửi đề nghị thời điểm có hiệu lực của chứng thư số về Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ.
+
+Bước 4. Trong thời hạn 01 ngày làm việc, kể từ khi nhận được đề nghị thời điểm có hiệu lực của chứng thư số, Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ có trách nhiệm công bố chứng thư số của thuê bao trên Trang thông tin điện tử của Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ. Chứng thư số của thuê bao có hiệu lực kể từ thời điểm được Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ công bố.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|04 Ngày làm việc|Lệ phí : 0 Đồng|04 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định (Trừ Thứ bảy, Chủ nhật và ngày nghỉ lễ)|
+|Trực tuyến|04 Ngày làm việc|Lệ phí : 0 Đồng|04 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định (Trừ Thứ bảy, Chủ nhật và ngày nghỉ lễ)|
+|Dịch vụ bưu chính|04 Ngày làm việc|Lệ phí : 0 Đồng|04 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định (Trừ Thứ bảy, Chủ nhật và ngày nghỉ lễ)|
+
+Thành phần hồ sơ:
+
+Văn bản đề nghị cấp chứng thư số cho cá nhân có xác nhận của cơ quan, tổ chức quản lý trực tiếp.
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Văn bản đề nghị cấp chứng thư số cho cá nhân có xác nhận của cơ quan, tổ chức quản lý trực tiếp.|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9991f3d0a5888'">Mau 02.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdff2031a278ed2'">Mau 01.docx</a>|Bản chính: 1Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ
+Cơ quan có thẩm quyền:
+Cục Chứng thực số và Bảo mật thông tin/Ban Cơ yếu Chính phủ
+Địa chỉ tiếp nhận HS:
+23 Ngụy Như Kon Tum, Thanh Xuân, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Các cơ quan, tổ chức liên quan
+Kết quả thực hiện:
+Chứng thư số cho cá nhân, thiết bị lưu khóa bí mật.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|185/2019/TT-BQP|Thông tư 185/2019/TT-BQP|04-12-2019|Bộ Quốc phòng|
+|130/2018/NĐ-CP|Nghị định 130/2018/NĐ-CP|27-09-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
++ Phải là cán bộ, công chức, viên chức thuộc các cơ quan Đảng, Nhà nước có nhu cầu giao dịch điện tử;
+
++ Có văn bản đề nghị và được người đứng đầu cơ quan, tổ chức quản lý trực tiếp xác nhận.
++ Phải là cán bộ, công chức, viên chức thuộc các cơ quan Đảng, Nhà nước có nhu cầu giao dịch điện tử;
+
++ Có văn bản đề nghị và được người đứng đầu cơ quan, tổ chức quản lý trực tiếp xác nhận.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

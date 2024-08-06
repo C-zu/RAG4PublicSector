@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009099
+Số quyết định:
+1402/QĐ-UBND_ĐT
+Tên thủ tục:
+Cấp bản sao trích lục hộ tịch (UBND quận, huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hộ tịch
+Trình tự thực hiện:
+Bước 1: cá nhân, tổ chức có yêu cầu cấp bản sao trích lục hộ tịch, bản sao giấy khai sinh (sau đây gọi tắt là trích lục hộ tịch) nộp hồ sơ tại UBND cấp huyện có thẩm quyền.
+Bước 2: Bộ phận Tiếp nhận và trả kết quả có trách nhiệm tiếp nhận, kiểm tra ngay toàn bộ hồ sơ, đối chiếu thông tin trong Tờ khai và tính hợp lệ của giấy tờ trong hồ sơ do người yêu cầu nộp, xuất trình. 
+Nếu hồ sơ đầy đủ, hợp lệ thì tiếp nhận hồ sơ và viết giấy tiếp nhận; nếu hồ sơ chưa đầy đủ, hoàn thiện thì hướng dẫn người nộp hồ sơ bổ sung, hoàn thiện theo quy định.
+Bước 3: Phòng Tư pháp kiểm tra, công chức làm công tác hộ tịch căn cứ vào Cơ sở dữ liệu hộ tịch, ghi nội dung bản sao trích lục hộ tịch, báo cáo Chủ tịch UBND cấp huyện ký cấp bản sao trích lục hộ tịch cho người yêu cầu; chuyển kết quả cho Bộ phận tiếp nhận trả kết quả.
+Bước 4: Bộ phận Tiếp nhận và trả kết quả trả kết quả cho cá nhân, tổ chức.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Ngay trong ngày tiếp nhận hồ sơ; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả vào 09 giờ ngày làm việc tiếp theo.|Phí : 8.000 đồng/bản sao trích lục/sự kiện hộ tịch đã đăng ký Phí khai thác, sử dụng thông tin trong cơ sở dữ liệu hộ tịch|1. Người có yêu cầu cấp bản sao trích lục hộ tịch trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện yêu cầu cấp bản sao trích lục hộ tịch; 2. Người thực hiện yêu cầu cấp bản sao trích lục hộ tịch có thể trực tiếp nộp hồ sơ tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện có thẩm quyền.|
+|Dịch vụ bưu chính|Ngay trong ngày tiếp nhận hồ sơ; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả vào 09 giờ ngày làm việc tiếp theo.|Phí : 8.000 đồng/bản sao trích lục/sự kiện hộ tịch đã đăng ký Phí khai thác, sử dụng thông tin trong cơ sở dữ liệu hộ tịch|1. Người có yêu cầu cấp bản sao trích lục hộ tịch trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện yêu cầu cấp bản sao trích lục hộ tịch; 2. Người thực hiện yêu cầu cấp bản sao trích lục hộ tịch có thể gửi hồ sơ, văn bản yêu cầu qua hệ thống bưu chính đến Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận,huyện có thẩm quyền.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|1. Tờ khai cấp bản sao trích lục hộ tịch theo mẫu đối với trường hợp người yêu cầu là cá nhân;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1e6cbdcbb6cdb'">TO KHAI CAP BAN SAO TRICH LUC HO TICH.docx</a>|Bản chính: 1Bản sao: 0|
+|2. Văn bản yêu cầu cấp bản sao trích lục hộ tịch nêu rõ lý do trong trường hợp người yêu cầu là cơ quan, tổ chức;||Bản chính: 1Bản sao: 0|
+|3. Văn bản ủy quyền theo quy định của pháp luật trong trường hợp ủy quyền thực hiện yêu cầu cấp bản sao trích lục hộ tịch. Trường hợp người được ủy quyền là ông, bà, cha, mẹ, con, vợ, chồng, anh, chị, em ruột của người ủy quyền thì văn bản ủy quyền không phải công chứng, chứng thực;||Bản chính: 1Bản sao: 0|
+|4. Xuất trình các giấy tờ sau khi nộp hồ sơ: Hộ chiếu hoặc chứng minh nhân dân hoặc chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc thẻ căn cước công dân hoặc các giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người có yêu cầu cấp bản sao trích lục hộ tịch.||Bản chính: 1Bản sao: 0|
+|Trường hợp gửi hồ sơ qua hệ thống bưu chính thì phải gửi kèm theo bản sao có chứng thực giấy tờ phải xuất trình nêu trên.||Bản chính: 0Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Uỷ ban nhân dân huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận,huyện
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao trích lục hộ tịch, bản sao giấy khai sinh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật Hộ tịch|Luật Hộ tịch|20-11-2014|Quốc Hội|
+|04/2020/TT-BTP|Thông tư 04/2020/TT-BTP|28-05-2020||
+|123/2015/NĐ-CP|Nghị định 123/2015/NĐ-CP|15-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

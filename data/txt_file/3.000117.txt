@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000117
+Số quyết định:
+230/QĐ-BTC
+Tên thủ tục:
+Thủ tục kiểm soát cam kết chi ngân sách nhà nước qua KBNN
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Kho bạc
+Trình tự thực hiện:
+Đơn vị sử dụng ngân sách nhà nước gửi hồ sơ đề nghị cam kết chi hoặc đề nghị điều chỉnh cam kết chi tới KBNN nơi giao dịch. Sau đó, KBNN thực hiện kiểm tra tính hợp lệ, hợp pháp của hồ sơ. Trường hợp hồ sơ đảm bảo đúng chế độ quy định, KBNN làm thủ tục cam kết chi và gửi 01 liên giấy đề nghị hoặc điều chỉnh cam kết chi có xác nhận của KBNN cho đơn vị bằng văn bản giấy hoặc qua Trang thông tin dịch vụ công của KBNN. Trường hợp hồ sơ không đảm bảo đúng chế độ quy định, KBNN gửi thông báo từ chối cam kết chi ngân sách nhà nước cho đơn vị (trong đó nêu rõ lý do từ chối) bằng văn bản giấy hoặc qua Trang thông tin dịch vụ công của KBNN
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày|Phí : Đồng Không|Trong vòng 01 ngày làm việc, kể từ khi KBNN nhận đủ hồ sơ hợp lệ, hợp pháp của đơn vị.|
+|Trực tuyến|01 Ngày|Phí : Đồng Không|Trong vòng 01 ngày làm việc, kể từ khi KBNN nhận đủ hồ sơ hợp lệ, hợp pháp của đơn vị.|
+
+Thành phần hồ sơ:
+
+Trường hợp đề nghị cam kết chi
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Dự toán năm (đối với chi thường xuyên), kế hoạch vốn đầu tư năm (đối với chi đầu tư)||Bản chính: 1Bản sao:|
+|giấy đề nghị cam kết chi ngân sách nhà nước||Bản chính: 2Bản sao:|
+|hợp đồng (gửi một lần khi có phát sinh hoặc thay đổi)||Bản chính: 1Bản sao:|
+
+
+Trường hợp đề nghị điều chỉnh cam kết chi
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Dự toán năm (đối với chi thường xuyên nếu có điều chỉnh), kế hoạch vốn đầu tư năm (đối với chi đầu tư nếu có điều chỉnh)||Bản chính: 1Bản sao:|
+|hợp đồng (nếu có điều chỉnh)||Bản chính: 1Bản sao:|
+|giấy điều chỉnh cam kết chi ngân sách nhà nước||Bản chính: 2Bản sao:|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Kho bạc nhà nước các cấp
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận của KBNN trực tiếp trên giấy đề nghị hoặc điều chỉnh cam kết chi ngân sách nhà nước; trường hợp đơn vị có tham gia giao dịch điện tử với KBNN, KBNN gửi xác nhận chấp thuận đề nghị hoặc điều chỉnh cam kết chi qua Trang thông tin dịch vụ công của KBNN, Trường hợp KBNN từ chối đề nghị hoặc điều chỉnh cam kết chi của đơn vị: Thông báo từ chối đề nghị hoặc điều chỉnh cam kết chi bằng văn bản của KBNN; trường hợp đơn vị có tham gia giao dịch điện tử với KBNN, KBNN gửi thông báo từ chối đề nghị hoặc điều chỉnh cam kết chi qua Trang thông tin dịch vụ công của KBNN
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|11/2020/NĐ-CP|thủ tục hành chính thuộc lĩnh vực Kho bạc nhà nước|20-01-2020|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

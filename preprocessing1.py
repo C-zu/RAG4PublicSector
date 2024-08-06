@@ -81,8 +81,10 @@ class VectorDatabase():
 
     def __getattribute__(self, db):
         return super().__getattribute__(db)
-
-
+    
+    def save_db(self):
+        return
+        
 class Retriever():
     def __init__(self, type_retriever = None, name_retriever = None, db = None) -> None:
         self.retriever = None

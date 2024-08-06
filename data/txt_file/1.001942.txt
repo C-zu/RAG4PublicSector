@@ -1,0 +1,188 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001942
+Số quyết định:
+1864/QĐ-BGDĐT
+Tên thủ tục:
+Đăng ký xét tuyển trình độ đại học, trình độ cao đẳng ngành giáo dục mầm non
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thi, tuyển sinh
+Trình tự thực hiện:
+Bước 1:  Đăng ký xét tuyển  
+         *)  Đối tượng xét tuyển thẳng: 
+ - Căn cứ đề án tuyển sinh đã công bố, cơ sở đào tạo tổ chức cho thí sinh thuộc đối tượng được xét tuyển thẳng theo quy định tại Điều 8 của Quy chế này đăng ký dự tuyển bằng hình thức trực tuyến hoặc trực tiếp tại cơ sở đào tạo. 
+        *) Đối tượng xét tuyển sớm:
+  - Cơ sở đào tạo có kế hoạch xét tuyển sớm đối với một số phương thức tuyển sinh, tổ chức cho thí sinh đăng ký dự tuyển bằng hình thức trực tuyến hoặc trực tiếp tại cơ sở đào tạo.
+          - Thí sinh đã dự tuyển vào cơ sở đào tạo theo kế hoạch xét tuyển sớm sau đó phải tiếp tục đăng ký nguyện vọng trên hệ thống theo kế hoạch chung của Bộ GDĐT.
+	*) Đối tượng xét tuyển theo kế hoạch chung:
+         - Thí sinh dự tuyển đợt 1 đào tạo chính quy (bao gồm cả những thí sinh đã dự tuyển theo kế hoạch xét tuyển sớm của cơ sở đào tạo) thực hiện đăng ký xét tuyển trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia) theo kế hoạch chung và hướng dẫn của Bộ GDĐT.
+         - Thí sinh được đăng ký nguyện vọng vào nhiều ngành, nhiều trường khác nhau không hạn chế số lượng, nhưng phải sắp xếp các nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp. Trong trường hợp nhiều nguyện vọng đủ điều kiện trúng tuyển, thí sinh chỉ được công nhận trúng tuyển và gọi nhập học theo nguyện vọng cao nhất.
+         - Thí sinh thể hiện nguyện vọng của mình qua những lựa chọn trên hệ thống hỗ trợ tuyển sinh (theo hướng dẫn của Bộ GDĐT) như sau:
+a) Thứ tự ưu tiên của nguyện vọng (số 1 thể hiện nguyện vọng cao nhất);
+b) Lựa chọn về cơ sở đào tạo, đơn vị tuyển sinh (mã trường);
+c) Lựa chọn ngành, nhóm ngành, chương trình đào tạo (mã ngành);
+d) Lựa chọn phương thức tuyển sinh (mã phương thức);
+đ) Lựa chọn tổ hợp xét tuyển (mã tổ hợp) đối với phương thức xét tuyển dựa trên kết quả kỳ thi theo bài thi/môn thi, hoặc phương thức xét tuyển dựa trên kết quả học tập các môn học cấp THPT.
+- Thí sinh đăng ký xét tuyển vào các trường trực thuộc Bộ Quốc phòng, Bộ Công an thực hiện các quy định tại Điều này và quy định, hướng dẫn của Bộ Quốc phòng, Bộ Công an.
+Bước 2: Điểm tiếp nhận tại địa phương rà soát dữ liệu của thí sinh 
+a) Tổ chức rà soát, kiểm tra và bổ sung, cập nhật thông tin cá nhân, dữ liệu kết quả học tập cấp THPT của thí sinh trên hệ thống cơ sở dữ liệu ngành;
+b) Kiểm tra dữ liệu, hướng dẫn thí sinh khai đúng thông tin, bao gồm cả thông tin khu vực và đối tượng ưu tiên;
+c) Hỗ trợ việc đăng ký nguyện vọng cho những thí sinh không có điều kiện đăng ký trực tuyến;
+d) Hỗ trợ các cơ sở đào tạo có tuyển sinh theo kế hoạch riêng trong việc xác nhận kết quả học tập cấp THPT cho những thí sinh dự tuyển.
+Bước 3: Nộp lệ phí xét tuyển
+	Hoàn thành thanh toán lệ phí tuyển sinh trước khi kết thúc thủ tục đăng ký dự tuyển.
+Bước 4: Xét tuyển         
+*)  Đối tượng xét tuyển thẳng:
+- Cơ sở đào tạo tổ chức xét tuyển thẳng cho những thí sinh đủ điều kiện, công bố kết quả theo kế hoạch chung.
+*)  Đối tượng xét tuyển sớm:
+          - Cơ sở đào tạo tổ chức xét tuyển cho những thí sinh đã hoàn thành thủ tục dự tuyển, nhưng không được yêu cầu thí sinh xác nhận nhập học sớm hơn lịch trình theo kế hoạch chung. Cơ sở đào tạo công bố và tải danh sách thí sinh đủ điều kiện trúng tuyển (trừ điều kiện tốt nghiệp THPT) lên hệ thống để xử lý nguyện vọng cùng với các phương thức xét tuyển khác theo kế hoạch chung, hoàn thành trước khi thí sinh đăng ký xét tuyển trên hệ thống.
+	*) Đối tượng xét tuyển theo kế hoạch chung:
+- Các cơ sở đào tạo tự chủ tổ chức xét tuyển theo các phương thức và tiêu chí xét tuyển riêng, hoặc tự nguyện phối hợp theo nhóm để tổ chức xét tuyển theo các phương thức và tiêu chí xét tuyển chung. Bộ GDĐT hướng dẫn lịch trình xét tuyển và hỗ trợ việc xử lý nguyện vọng trên hệ thống.
+          - Sau khi kết thúc thời gian đăng ký nguyện vọng trên hệ thống, cơ sở đào tạo tải thông tin, dữ liệu từ hệ thống để phục vụ xét tuyển, bao gồm dữ liệu đăng ký nguyện vọng và kết quả thi tốt nghiệp THPT, kết quả học tập cấp THPT của những thí sinh dự tuyển vào cơ sở đào tạo theo các phương thức tuyển sinh.
+          - Nguyên tắc xét tuyển:
+a) Điểm trúng tuyển được xác định để số lượng tuyển được theo từng ngành, chương trình đào tạo phù hợp với số lượng chỉ tiêu đã công bố, nhưng không thấp hơn ngưỡng đầu vào;
+b) Đối với một ngành đào tạo (hoặc một chương trình đào tạo) theo một phương thức và tổ hợp môn, tất cả thí sinh được xét chọn bình đẳng theo điểm xét không phân biệt thứ tự ưu tiên của nguyện vọng đăng ký, trừ trường hợp quy định tại điểm c khoản này;
+c) Trường hợp nhiều thí sinh có cùng điểm xét ở cuối danh sách, cơ sở đào tạo có thể sử dụng tiêu chí phụ là thứ tự nguyện vọng (để xét chọn những thí sinh có thứ tự nguyện vọng cao hơn);
+d) Việc sử dụng điểm ưu tiên khu vực, đối tượng để xét tuyển đảm bảo thống nhất, đồng bộ với quy định về điểm ưu tiên được quy định tại Điều 7 của Quy chế này.
+- Sau mỗi chu kỳ xét tuyển, cơ sở đào tạo tải lên hệ thống danh sách thí sinh dự kiến đủ điều kiện trúng tuyển các ngành, chương trình đào tạo (theo các phương thức tuyển sinh). Hệ thống xử lý nguyện vọng sẽ tự động loại bỏ khỏi danh sách những nguyện vọng thấp của thí sinh đủ điều kiện trúng tuyển nhiều nguyện vọng, trả lại danh sách thí sinh dự kiến trúng tuyển theo nguyện vọng cao nhất.
+- Căn cứ kết quả xử lý nguyện vọng, cơ sở đào tạo lặp lại quy trình xét tuyển ở chu kỳ sau, điều chỉnh điểm trúng tuyển cho phù hợp với chỉ tiêu trong thời hạn quy định. Ở chu kỳ cuối, cơ sở đào tạo quyết định điểm trúng tuyển vào các ngành, chương trình đào tạo (theo các phương thức tuyển sinh) và tải lên hệ thống danh sách (chính thức) thí sinh đủ điều kiện trúng tuyển. Trên cơ sở kết quả xử lý nguyện vọng cuối cùng, cơ sở đào tạo quyết định danh sách thí sinh trúng tuyển vào các ngành, chương trình đào tạo.
+- Cơ sở đào tạo công bố điểm trúng tuyển (và các điều kiện, tiêu chí phụ nếu có) vào các ngành, chương trình đào tạo theo các phương thức tuyển sinh; tổ chức cho thí sinh tra cứu kết quả xét tuyển của cá nhân trên trang thông tin điện tử của cơ sở đào tạo (hoặc của nhóm cơ sở đào tạo phối hợp xét tuyển).
+Bước 5: Thông báo trúng tuyển tuyển 
+	- Cơ sở đào tạo gửi giấy báo trúng tuyển cho những thí sinh trúng tuyển, trong đó ghi rõ những thủ tục cần thiết đối với thí sinh khi nhập học và phương thức nhập học của thí sinh.
+Bước 6: Xác nhận nhập học
+*)  Đối tượng xét tuyển thẳng:
+	 - Thí sinh trúng tuyển thẳng có thể xác nhận nhập học sớm (khi đủ điều kiện), hoặc theo kế hoạch chung như những thí sinh khác; cơ sở đào tạo không được yêu cầu bắt buộc thí sinh xác nhận nhập học sớm hơn lịch trình theo kế hoạch chung. 
+          - Thí sinh trúng tuyển thẳng chưa xác nhận nhập học vẫn được sử dụng quyền đăng ký xét tuyển trên hệ thống chung để có thêm cơ hội trúng tuyển như những thí sinh khác.
+*) Đối tượng xét tuyển theo kế hoạch chung:
+- Thí sinh xác nhận nhập học bằng hình thức trực tuyến trên hệ thống, trước khi nhập học tại cơ sở đào tạo.
+-  Đối với những thí sinh không xác nhận nhập học trong thời hạn quy định: 
+a) Nếu không có lý do chính đáng thì coi như thí sinh từ chối nhập học và cơ sở đào tạo có quyền không tiếp nhận;
+b) Nếu do ốm đau, tai nạn, có giấy xác nhận của bệnh viện quận, huyện trở lên hoặc do thiên tai có xác nhận của UBND quận, huyện trở lên, cơ sở đào tạo xem xét quyết định tiếp nhận thí sinh vào học hoặc bảo lưu kết quả tuyển sinh để thí sinh vào học sau;
+c) Nếu do sai sót, nhầm lẫn của cán bộ thực hiện công tác tuyển sinh hoặc cá nhân thí sinh gây ra, cơ sở đào tạo chủ động phối hợp với các cá nhân, tổ chức liên quan xem xét các minh chứng và quyết định việc tiếp nhận thí sinh vào học hoặc bảo lưu kết quả tuyển sinh để thí sinh vào học sau.
+- Thí sinh đã xác nhận nhập học tại một cơ sở đào tạo không được tham gia xét tuyển ở nơi khác hoặc ở các đợt xét tuyển bổ sung, trừ trường hợp được cơ sở đào tạo cho phép.
+Bước 7: Tổ chức đăng ký và xét tuyển các đợt bổ sung
+ 	- Căn cứ chỉ tiêu tuyển sinh và số thí sinh trúng tuyển đã xác nhận nhập học vào các ngành, chương trình đào tạo, hội đồng tuyển sinh của cơ sở đào tạo xem xét, quyết định xét tuyển các đợt bổ sung. Cơ sở đào tạo công bố kế hoạch xét tuyển, phương thức xét tuyển và hình thức đăng ký xét tuyển các đợt bổ sung; điều kiện xét tuyển đối với các ngành, chương trình đào tạo theo từng phương thức xét tuyển nhưng không thấp hơn điều kiện trúng tuyển đợt trước.
+- Thí sinh chưa trúng tuyển hoặc đã trúng tuyển nhưng chưa xác nhận nhập học vào bất cứ nơi nào có thể đăng ký xét tuyển các đợt bổ sung theo kế hoạch và hướng dẫn của cơ sở đào tạo.
+- Kết thúc mỗi đợt xét tuyển, cơ sở đào tạo công bố trên trang thông tin điện tử điểm trúng tuyển (và các điều kiện, tiêu chí phụ nếu có) vào các ngành, chương trình đào tạo theo các phương thức tuyển sinh; tổ chức cho thí sinh tra cứu kết quả xét tuyển của cá nhân; gửi giấy báo trúng tuyển và hướng dẫn cho thí sinh trúng tuyển nhập học.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Theo Kế hoạch tuyển sinh hàng năm||*) Đối tượng xét tuyển thẳng: Thực hiện đăng ký xét tuyển trực tuyến trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia) hoặc trực tiếp tại cơ sở đào tạo. *) Đối tượng xét sớm: Thực hiện đăng ký xét tuyển trực tuyến trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia) hoặc trực tiếp tại cơ sở đào tạo. *) Đối tượng xét tuyển theo kế hoạch chung: Thực hiện đăng ký xét tuyển trực tuyến trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Đăng ký trực tuyến||Bản chính: 1Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Bộ Giáo dục và Đào tạo, Cơ sở giáo dục, Sở Giáo dục và Đào tạo - Tỉnh Bạc Liêu
+Cơ quan có thẩm quyền:
+Bộ Giáo dục và Đào tạo, Cơ sở giáo dục, Sở Giáo dục và Đào tạo, Sở Giáo dục và Đào tạo - Tỉnh Bạc Liêu
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Danh sách thí sinh trúng tuyển vào các ngành của cơ sở đào tạo
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2022/TT-BGDĐT|Thông tư 08/2022/TT-BGDĐT|06-06-2022||
+
+Yêu cầu, điều kiện thực hiện:
+*)  Đối tượng xét tuyển thẳng:
+1. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình do cơ sở đào tạo quy định.
+2. Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia hoặc quốc tế, do Bộ GDĐT, Bộ Văn hóa, Thể thao và Du lịch tổ chức, cử tham gia, được xét tuyển thẳng trong năm tốt nghiệp THPT (hoặc tốt nghiệp trung cấp) vào các ngành phù hợp với môn thi, nội dung đề tài hoặc nghề dự thi, thi đấu, đoạt giải; cụ thể trong các trường hợp sau:
+a) Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng;
+b) Thí sinh đoạt giải chính thức trong các cuộc thi nghệ thuật quốc tế về ca, múa, nhạc, mỹ thuật được Bộ Văn hóa, Thể thao và Du lịch công nhận; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển thẳng;
+c) Thí sinh tham gia đội tuyển quốc gia thi đấu tại các giải quốc tế chính thức được Bộ Văn hoá, Thể thao và Du lịch xác nhận đã hoàn thành nhiệm vụ, bao gồm: Giải vô địch thế giới, Cúp thế giới, Thế vận hội Olympic, Đại hội Thể thao châu Á (ASIAD), Giải vô địch châu Á, Cúp châu Á, Giải vô địch Đông Nam Á, Đại hội Thể thao Đông Nam Á (SEA Games), Cúp Đông Nam Á; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển thẳng;
+d) Thí sinh đoạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ Lao động - Thương binh và Xã hội cử đi; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
+3. Thí sinh có bằng trung cấp ngành sư phạm loại giỏi trở lên, hoặc có bằng trung cấp ngành sư phạm loại khá và có ít nhất 02 năm làm việc đúng ngành được xét tuyển thẳng vào ngành Giáo dục Mầm non trình độ cao đẳng.
+4. Hiệu trưởng, giám đốc cơ sở đào tạo căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu của ngành đào tạo để xem xét, quyết định nhận vào học những trường hợp quy định dưới đây (trường hợp cần thiết kèm theo điều kiện thí sinh phải học 01 năm bổ sung kiến thức trước khi vào học chính thức):
+a) Thí sinh là người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định, có khả năng theo học một số ngành do cơ sở đào tạo quy định nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường;
+b) Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ và thí sinh 20 huyện nghèo biên giới, hải đảo thuộc khu vực Tây Nam Bộ;
+c) Thí sinh có nơi thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại các huyện nghèo (học sinh học phổ thông dân tộc nội trú tính theo nơi thường trú) theo quy định của Chính phủ, Thủ tướng Chính phủ;
+d) Thí sinh là người nước ngoài có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ GDĐT.
+5. Cơ sở đào tạo quy định hình thức ưu tiên xét tuyển khác (được ưu tiên xét tuyển trong năm tốt nghiệp THPT hoặc tốt nghiệp trung cấp) đối với các trường hợp sau đây:
+a) Thí sinh quy định tại khoản 1, 2 Điều này dự tuyển vào các ngành theo nguyện vọng (không dùng quyền ưu tiên tuyển thẳng);
+b) Thí sinh đoạt giải khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đoạt giải tư trong cuộc thi khoa học, kỹ thuật cấp quốc gia dự tuyển vào ngành phù hợp với môn thi hoặc nội dung đề tài dự thi đã đoạt giải; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển;
+c) Thí sinh đoạt huy chương vàng, bạc, đồng các giải thể dục thể thao cấp quốc gia tổ chức một lần trong năm và thí sinh được Tổng cục Thể dục thể thao có quyết định công nhận là kiện tướng quốc gia dự tuyển vào các ngành thể dục thể thao phù hợp; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển;
+d) Thí sinh đoạt giải chính thức trong các cuộc thi nghệ thuật chuyên nghiệp chính thức toàn quốc về ca, múa, nhạc, mỹ thuật dự tuyển vào các ngành nghệ thuật phù hợp; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển;
+đ) Thí sinh đoạt giải nhất, nhì, ba tại các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế dự tuyển vào các ngành phù hợp với nghề đã đoạt giải; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển.
+6. Các cơ sở đào tạo quy định cụ thể và công bố trong đề án tuyển sinh, kế hoạch tuyển sinh, đối tượng, chỉ tiêu, tiêu chí, phạm vi tuyển sinh, ngành, chương trình đào tạo để xét tuyển thẳng, ưu tiên xét tuyển.
+*)  Đối tượng xét tuyển theo kế hoạch chung:
+1. Ngưỡng đầu vào đối với ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề do Bộ GDĐT công bố hàng năm cho các phương thức tuyển sinh đào tạo hình thức chính quy sử dụng kết quả thi tốt nghiệp THPT. 
+2. Đối với tuyển sinh đào tạo hình thức khác chính quy hoặc phương thức tuyển sinh không sử dụng kết quả thi tốt nghiệp THPT, thí sinh đạt ngưỡng đầu vào đối với ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề khi:
+a) Học lực lớp 12 xếp loại từ giỏi trở lên hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên, trừ các trường hợp quy định tại điểm b khoản này;
+b) Học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên đối với các ngành Giáo dục thể chất và Huấn luyện thể thao, Sư phạm âm nhạc, Sư phạm mỹ thuật; ngành Giáo dục Mầm non trình độ cao đẳng và các ngành Điều dưỡng, Y học dự phòng, Hộ sinh, Kỹ thuật phục hình răng, Kỹ thuật xét nghiệm y học, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng.
+3. Thí sinh là vận động viên cấp 1, kiện tướng, vận động viên đã từng đoạt huy chương tại Hội khỏe Phù Đổng, các giải trẻ quốc gia và quốc tế, thí sinh ngành sư phạm Âm nhạc, Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) khi đăng ký xét tuyển vào các ngành phù hợp không phải áp dụng ngưỡng đầu vào.
+4. Đối với thí sinh đã tốt nghiệp trung cấp sư phạm dự tuyển vào cao đẳng ngành Giáo dục Mầm non, cơ sở đào tạo quy định và chịu trách nhiệm giải trình về ngưỡng đầu vào.
+5. Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển được áp dụng quy định ngưỡng đầu vào như sau:
+a) Đối với thí sinh dự tuyển vào đại học nhóm ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề trừ các trường hợp quy định tại điểm b khoản này, ngưỡng đầu vào được áp dụng một trong các tiêu chí sau:  
+- Học lực lớp 12 đạt loại giỏi trở lên hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,0 trở lên;
+- Tốt nghiệp THPT loại giỏi trở lên hoặc học lực lớp 12 đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo;
+- Tốt nghiệp trung cấp, cao đẳng, đại học đạt loại giỏi trở lên; 
+- Tốt nghiệp trình độ trung cấp, hoặc trình độ cao đẳng hoặc trình độ đại học đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo;
+ b) Đối với thí sinh dự tuyển vào đại học các ngành Điều dưỡng, Y học dự phòng, Hộ sinh, Kỹ thuật phục hình răng, Kỹ thuật xét nghiệm y học, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng, Sư phạm Âm nhạc, Sư phạm Mỹ thuật, Giáo dục Thể chất, Huấn luyện thể thao, ngưỡng đầu vào được áp dụng một trong các tiêu chí sau:  
+- Học lực lớp 12 đạt loại khá hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 6,5 trở lên;
+- Tốt nghiệp THPT loại khá, hoặc có học lực lớp 12 đạt loại trung bình và có 5 năm kinh nghiệm công tác đúng với chuyên môn đào tạo;
+- Tốt nghiệp trình độ trung cấp, trình độ cao đẳng, trình độ đại học đạt loại khá trở lên.
+6. Đối với người đã trúng tuyển hoặc đã tốt nghiệp các ngành đào tạo giáo viên trước ngày 07 tháng 5 năm 2020 nếu dự tuyển vào học đại học để đạt trình độ chuẩn theo quy định tại Điều 72 Luật Giáo dục năm 2019, ngưỡng đầu vào do cơ sở đào tạo quy định.
+7. Căn cứ yêu cầu bảo đảm chất lượng, cơ sở đào tạo xác định và công bố ngưỡng đầu vào cho các ngành, nhóm ngành và phương thức tuyển sinh trước thời gian kết thúc đăng ký dự tuyển ít nhất 10 ngày. Đối với ngưỡng đầu vào ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề, ngưỡng đầu vào do cơ sở đào tạo xác định không được thấp hơn quy định tại khoản 1, khoản 2, khoản 5 Điều này.
+8. Có đủ sức khoẻ để học tập theo quy định hiện hành;
+9. Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.
+*)  Đối tượng xét tuyển thẳng:
+1. Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc được tuyển thẳng vào các ngành, chương trình do cơ sở đào tạo quy định.
+2. Thí sinh đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia hoặc quốc tế, do Bộ GDĐT, Bộ Văn hóa, Thể thao và Du lịch tổ chức, cử tham gia, được xét tuyển thẳng trong năm tốt nghiệp THPT (hoặc tốt nghiệp trung cấp) vào các ngành phù hợp với môn thi, nội dung đề tài hoặc nghề dự thi, thi đấu, đoạt giải; cụ thể trong các trường hợp sau:
+a) Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng;
+b) Thí sinh đoạt giải chính thức trong các cuộc thi nghệ thuật quốc tế về ca, múa, nhạc, mỹ thuật được Bộ Văn hóa, Thể thao và Du lịch công nhận; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển thẳng;
+c) Thí sinh tham gia đội tuyển quốc gia thi đấu tại các giải quốc tế chính thức được Bộ Văn hoá, Thể thao và Du lịch xác nhận đã hoàn thành nhiệm vụ, bao gồm: Giải vô địch thế giới, Cúp thế giới, Thế vận hội Olympic, Đại hội Thể thao châu Á (ASIAD), Giải vô địch châu Á, Cúp châu Á, Giải vô địch Đông Nam Á, Đại hội Thể thao Đông Nam Á (SEA Games), Cúp Đông Nam Á; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển thẳng;
+d) Thí sinh đoạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ Lao động - Thương binh và Xã hội cử đi; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
+3. Thí sinh có bằng trung cấp ngành sư phạm loại giỏi trở lên, hoặc có bằng trung cấp ngành sư phạm loại khá và có ít nhất 02 năm làm việc đúng ngành được xét tuyển thẳng vào ngành Giáo dục Mầm non trình độ cao đẳng.
+4. Hiệu trưởng, giám đốc cơ sở đào tạo căn cứ kết quả học tập cấp THPT của thí sinh và yêu cầu của ngành đào tạo để xem xét, quyết định nhận vào học những trường hợp quy định dưới đây (trường hợp cần thiết kèm theo điều kiện thí sinh phải học 01 năm bổ sung kiến thức trước khi vào học chính thức):
+a) Thí sinh là người khuyết tật đặc biệt nặng có giấy xác nhận khuyết tật của cơ quan có thẩm quyền cấp theo quy định, có khả năng theo học một số ngành do cơ sở đào tạo quy định nhưng không có khả năng dự tuyển theo phương thức tuyển sinh bình thường;
+b) Thí sinh là người dân tộc thiểu số rất ít người theo quy định hiện hành của Chính phủ và thí sinh 20 huyện nghèo biên giới, hải đảo thuộc khu vực Tây Nam Bộ;
+c) Thí sinh có nơi thường trú từ 3 năm trở lên, học 3 năm và tốt nghiệp THPT tại các huyện nghèo (học sinh học phổ thông dân tộc nội trú tính theo nơi thường trú) theo quy định của Chính phủ, Thủ tướng Chính phủ;
+d) Thí sinh là người nước ngoài có kết quả kiểm tra kiến thức và năng lực Tiếng Việt đáp ứng quy định hiện hành của Bộ trưởng Bộ GDĐT.
+5. Cơ sở đào tạo quy định hình thức ưu tiên xét tuyển khác (được ưu tiên xét tuyển trong năm tốt nghiệp THPT hoặc tốt nghiệp trung cấp) đối với các trường hợp sau đây:
+a) Thí sinh quy định tại khoản 1, 2 Điều này dự tuyển vào các ngành theo nguyện vọng (không dùng quyền ưu tiên tuyển thẳng);
+b) Thí sinh đoạt giải khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia; thí sinh đoạt giải tư trong cuộc thi khoa học, kỹ thuật cấp quốc gia dự tuyển vào ngành phù hợp với môn thi hoặc nội dung đề tài dự thi đã đoạt giải; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển;
+c) Thí sinh đoạt huy chương vàng, bạc, đồng các giải thể dục thể thao cấp quốc gia tổ chức một lần trong năm và thí sinh được Tổng cục Thể dục thể thao có quyết định công nhận là kiện tướng quốc gia dự tuyển vào các ngành thể dục thể thao phù hợp; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển;
+d) Thí sinh đoạt giải chính thức trong các cuộc thi nghệ thuật chuyên nghiệp chính thức toàn quốc về ca, múa, nhạc, mỹ thuật dự tuyển vào các ngành nghệ thuật phù hợp; thời gian đoạt giải không quá 4 năm tính tới thời điểm xét tuyển;
+đ) Thí sinh đoạt giải nhất, nhì, ba tại các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế dự tuyển vào các ngành phù hợp với nghề đã đoạt giải; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển.
+6. Các cơ sở đào tạo quy định cụ thể và công bố trong đề án tuyển sinh, kế hoạch tuyển sinh, đối tượng, chỉ tiêu, tiêu chí, phạm vi tuyển sinh, ngành, chương trình đào tạo để xét tuyển thẳng, ưu tiên xét tuyển.
+*)  Đối tượng xét tuyển theo kế hoạch chung:
+1. Ngưỡng đầu vào đối với ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề do Bộ GDĐT công bố hàng năm cho các phương thức tuyển sinh đào tạo hình thức chính quy sử dụng kết quả thi tốt nghiệp THPT. 
+2. Đối với tuyển sinh đào tạo hình thức khác chính quy hoặc phương thức tuyển sinh không sử dụng kết quả thi tốt nghiệp THPT, thí sinh đạt ngưỡng đầu vào đối với ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề khi:
+a) Học lực lớp 12 xếp loại từ giỏi trở lên hoặc điểm xét tốt nghiệp THPT từ 8,0 trở lên, trừ các trường hợp quy định tại điểm b khoản này;
+b) Học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên đối với các ngành Giáo dục thể chất và Huấn luyện thể thao, Sư phạm âm nhạc, Sư phạm mỹ thuật; ngành Giáo dục Mầm non trình độ cao đẳng và các ngành Điều dưỡng, Y học dự phòng, Hộ sinh, Kỹ thuật phục hình răng, Kỹ thuật xét nghiệm y học, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng.
+3. Thí sinh là vận động viên cấp 1, kiện tướng, vận động viên đã từng đoạt huy chương tại Hội khỏe Phù Đổng, các giải trẻ quốc gia và quốc tế, thí sinh ngành sư phạm Âm nhạc, Mỹ thuật có điểm thi năng khiếu do cơ sở đào tạo tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) khi đăng ký xét tuyển vào các ngành phù hợp không phải áp dụng ngưỡng đầu vào.
+4. Đối với thí sinh đã tốt nghiệp trung cấp sư phạm dự tuyển vào cao đẳng ngành Giáo dục Mầm non, cơ sở đào tạo quy định và chịu trách nhiệm giải trình về ngưỡng đầu vào.
+5. Thí sinh đã tốt nghiệp trình độ trung cấp trở lên cùng nhóm ngành dự tuyển được áp dụng quy định ngưỡng đầu vào như sau:
+a) Đối với thí sinh dự tuyển vào đại học nhóm ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề trừ các trường hợp quy định tại điểm b khoản này, ngưỡng đầu vào được áp dụng một trong các tiêu chí sau:  
+- Học lực lớp 12 đạt loại giỏi trở lên hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 8,0 trở lên;
+- Tốt nghiệp THPT loại giỏi trở lên hoặc học lực lớp 12 đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo;
+- Tốt nghiệp trung cấp, cao đẳng, đại học đạt loại giỏi trở lên; 
+- Tốt nghiệp trình độ trung cấp, hoặc trình độ cao đẳng hoặc trình độ đại học đạt loại khá và có 3 năm kinh nghiệm công tác đúng với chuyên môn đào tạo;
+ b) Đối với thí sinh dự tuyển vào đại học các ngành Điều dưỡng, Y học dự phòng, Hộ sinh, Kỹ thuật phục hình răng, Kỹ thuật xét nghiệm y học, Kỹ thuật hình ảnh y học, Kỹ thuật phục hồi chức năng, Sư phạm Âm nhạc, Sư phạm Mỹ thuật, Giáo dục Thể chất, Huấn luyện thể thao, ngưỡng đầu vào được áp dụng một trong các tiêu chí sau:  
+- Học lực lớp 12 đạt loại khá hoặc điểm trung bình chung các môn văn hóa cấp THPT đạt từ 6,5 trở lên;
+- Tốt nghiệp THPT loại khá, hoặc có học lực lớp 12 đạt loại trung bình và có 5 năm kinh nghiệm công tác đúng với chuyên môn đào tạo;
+- Tốt nghiệp trình độ trung cấp, trình độ cao đẳng, trình độ đại học đạt loại khá trở lên.
+6. Đối với người đã trúng tuyển hoặc đã tốt nghiệp các ngành đào tạo giáo viên trước ngày 07 tháng 5 năm 2020 nếu dự tuyển vào học đại học để đạt trình độ chuẩn theo quy định tại Điều 72 Luật Giáo dục năm 2019, ngưỡng đầu vào do cơ sở đào tạo quy định.
+7. Căn cứ yêu cầu bảo đảm chất lượng, cơ sở đào tạo xác định và công bố ngưỡng đầu vào cho các ngành, nhóm ngành và phương thức tuyển sinh trước thời gian kết thúc đăng ký dự tuyển ít nhất 10 ngày. Đối với ngưỡng đầu vào ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe có cấp chứng chỉ hành nghề, ngưỡng đầu vào do cơ sở đào tạo xác định không được thấp hơn quy định tại khoản 1, khoản 2, khoản 5 Điều này.
+8. Có đủ sức khoẻ để học tập theo quy định hiện hành;
+9. Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

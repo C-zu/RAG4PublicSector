@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010425
+Số quyết định:
+2103/QĐ-UBND_ĐT
+Tên thủ tục:
+Mua bảo hiểm y tế đối với người có công và thân nhân (cấp xã, phường)
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Người có công
+Trình tự thực hiện:
+Bước 1: Bộ phận Tiếp nhận và trả kết quả hướng dẫn hoàn thiện và tiếp nhận hồ sơ, chuyển công chức xử lý
+Bước 2: Công chức xử lý, trình Chủ tịch UBND cấp xã ký và gửi văn bản xác nhận cùng hồ sơ liên quan đến UBND cấp huyện 
+Bước 3: Công chức chuyên môn nhận kết quả từ UBND cấp huyện, chuyển cho Bộ phận Tiếp nhận và trả kết quả để trả cho công dân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|16 ngày + Tại UBND phường, xã: 05 ngày (kể từ ngày nhận hồ sơ đến khi chuyển hồ sơ cho cấp huyện- bao gồm cả thời gian luân chuyển hồ sơ). + Tại UBND cấp huyện: 04 ngày (kể từ ngày nhận đủ hồ sơ hợp lệ đến khi chuyển hồ sơ cho Bảo hiểm xã hội quận, huyện- bao gồm cả thời gian luân chuyển hồ sơ). + Tại Bảo hiểm Xã hội quận, huyện: 05 ngày (kể từ ngày nhận được hồ sơ hợp lệ đến khi có kết quả xử lý) Trong thời gian không quá 02 ngày sau khi có kết quả xử lý, Phòng Lao động Thương binh và Xã hội phải nhận kết quả từ Bảo hiểm xã hội quận, huyện và bàn giao cho UBND phường, xã. UBND cấp xã có trách nhiệm cấp thẻ cho đối tượng ngay sau khi nhận được thẻ bảo hiểm.||Hồ sơ nộp tại Bộ phận Tiếp nhận và trả kết quả thuộc UBND cấp xã|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|1. Bản khai cá nhân (mẫu BH1 hoặc mẫu BH2)|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4e3cba2479b18'">Ban khai ca nhan (Mau HB2).docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe78b2c1093fa60'">Ban khai ca nhan (Mau BH1).docx</a>|Bản chính: 1Bản sao: 0|
+|2. Các loại giấy tờ liên quan đối với người có công với cách mạng||Bản chính: 1Bản sao: 0|
+|3. Xuất trình hộ khẩu.||Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp xã
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc UBND cấp xã
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Tại UBND cấp xã: Nội dung xác nhận, Kết quả cuối cùng: Thẻ bảo hiểm y tế.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 46/2014/QH13|46/2014/QH13 Sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế|13-06-2014|Quốc Hội|
+|31/2013/NĐ-CP|31/2013/NĐ-CP - Hướng dẫn Pháp lệnh ưu đãi người có công với cách mạng|09-04-2013|Chính phủ|
+|05/2013/TT-BLĐTBXH|05/2013/TT-BLĐTBXH - Hướng dẫn về thủ tục lập hồ sơ, quản lý hồ sơ, thực hiện chế độ ưu đãi người có công với cách mạng và thân nhân|15-05-2013|Bộ Lao động - Thương binh và Xã hội|
+|30/2019/TT-BLĐTBXH|Thông tư 30/2019/TT-BLĐTBXH|26-12-2019||
+|25/2008/QH12|Luật 25/2008/QH12|14-11-2008||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

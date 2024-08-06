@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002809
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Đổi Giấy phép lái xe do ngành Giao thông vận tải cấp
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Cá nhân nộp hồ sơ đề nghị đổi Giấy phép lái xe đến Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải.
+Giải quyết thủ tục:
+- Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải kiểm tra hồ sơ khi tiếp nhận; trường hợp hồ sơ không đúng theo quy định, phải thông báo trực tiếp hoặc bằng văn bản hoặc qua hệ thống dịch vụ công trực tuyến những nội dung cần bổ sung hoặc sửa đổi cho cá nhân trong thời hạn 02 ngày làm việc, kể từ ngày nhận hồ sơ;
+- Cá nhân nộp hồ sơ trực tiếp có trách nhiệm hoàn thành nghĩa vụ nộp lệ phí cấp giấy phép lái xe khi được tiếp nhận hồ sơ theo quy định; khi nộp hồ sơ qua hệ thống dịch vụ công trực tuyến phải hoàn thành nghĩa vụ nộp lệ phí cấp giấy phép lái xe thông qua chức năng thanh toán của hệ thống dịch vụ công trực tuyến theo quy định và nộp phí sử dụng dịch vụ khác theo nhu cầu của cá nhân;
+- Khi đến nộp hồ sơ, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh trực tiếp tại cơ quan cấp giấy phép lái xe và xuất trình bản chính các hồ sơ để đối chiếu, trừ các bản chính đã gửi;
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc đổi giấy phép lái xe; trường hợp không đổi giấy phép lái xe thì phải trả lời và nêu rõ lý do;
+- Khi đổi giấy phép lái xe, cơ quan cấp giấy phép lái xe lưu trữ hồ sơ đổi giấy phép lái xe (bản chính)trong thời hạn 02 năm kể từ ngày cấp giấy phép lái xe; cắt góc giấy phép lái xe cũ, giao cho người lái xe bảo quản (trừ trường hợp nộp hồ sơ trực tuyến).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 135.000 đ/lần.|05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 135.000 đ/lần.|05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Đơn đề nghị đổi giấy phép lái xe theo mẫu quy định;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feebd23e78a4741'">M4,5,6.docx</a>|Bản chính: 1Bản sao: 0|
+|- Bản sao giấy phép lái xe, giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân (đối với người Việt Nam) hoặc hộ chiếu còn thời hạn sử dụng (đối với người nước ngoài, người Việt Nam định cư ở nước ngoài).||Bản chính: 0Bản sao: 1|
+|Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định, trừ trường hợp đổi giấy phép lái xe hạng A1, A2, A3.||Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải;
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|12/2017/TT-BGTVT|Quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ|15-04-2017|Bộ Giao thông vận tải|
+|01/2021/TT-BGTVT|Thông tư 01/2021/TT-BGTVT|27-01-2021||
+|04/2022/TT-BGTVT|Thông tư Bộ trưởng Bộ GTVT|26-04-2022|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+- Giấy phép lái xe bằng giấy bìa đang lưu hành còn thời hạn sử dụng được đổi sang giấy phép lái xe bằng vật liệu PET.
+- Người có Giấy phép lái xe có thời hạn thực hiện việc đổi giấy phép lái xe trước khi hết thời hạn sử dụng; Giấy phép lái xe bị hỏng còn thời hạn sử dụng.
+- Người có Giấy phép lái xe hạng E đủ 55 tuổi đối với nam và 50 tuổi đối với nữ được đổi Giấy phép lái xe từ hạng D trở xuống.
+- Trường hợp năm sinh, họ, tên, tên đệm ghi trên Giấy phép lái xe có sai lệch so với năm sinh, họ, tên, tên đệm trên giấy chứng minh nhân dân.
+-  Giấy phép lái xe có số phôi, ngày cấp, ngày hết hạn in trên giấy phép lái xe trùng với số phôi, ngày cấp, ngày hết hạn trong hệ thống thông tin quản lý giấy phép lái xe (Giấy phép lái xe hợp lệ).
+- Giấy phép lái xe bằng giấy bìa đang lưu hành còn thời hạn sử dụng được đổi sang giấy phép lái xe bằng vật liệu PET.
+- Người có Giấy phép lái xe có thời hạn thực hiện việc đổi giấy phép lái xe trước khi hết thời hạn sử dụng; Giấy phép lái xe bị hỏng còn thời hạn sử dụng.
+- Người có Giấy phép lái xe hạng E đủ 55 tuổi đối với nam và 50 tuổi đối với nữ được đổi Giấy phép lái xe từ hạng D trở xuống.
+- Trường hợp năm sinh, họ, tên, tên đệm ghi trên Giấy phép lái xe có sai lệch so với năm sinh, họ, tên, tên đệm trên giấy chứng minh nhân dân.
+-  Giấy phép lái xe có số phôi, ngày cấp, ngày hết hạn in trên giấy phép lái xe trùng với số phôi, ngày cấp, ngày hết hạn trong hệ thống thông tin quản lý giấy phép lái xe (Giấy phép lái xe hợp lệ).
+Từ khóa:
+Bằng lái
+Mô tả:
+Không có thông tin

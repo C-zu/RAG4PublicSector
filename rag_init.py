@@ -99,9 +99,9 @@ cohere_embedding = CohereEmbeddings(
 # hf_embedding = HuggingFaceBgeEmbeddings(model_name= model_id, model_kwargs = {"device":"cpu"})
 
 # Init
-db = VectorDatabase(txt_data, cohere_embedding)
-mongo_db = VectorDatabase(txt_data, cohere_embedding, "mongo")
-qdrant_db = VectorDatabase(txt_data, cohere_embedding, "qdrant")
+db = VectorDatabase(txt_data, cohere_embedding) #index search
+mongo_db = VectorDatabase(txt_data, cohere_embedding, "mongo") #vector search
+qdrant_db = VectorDatabase(txt_data, cohere_embedding, "qdrant") #vector search
 
 # Retrievers
 index_retriever = Retriever("indexing", "bm25", db)

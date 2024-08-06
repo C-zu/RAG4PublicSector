@@ -6,9 +6,6 @@ from langchain.chains.conversational_retrieval.base import ConversationalRetriev
 from langchain.memory import ConversationKGMemory
 from langchain.memory import ConversationBufferMemory
 
-
-
-
 class Prompt():
     def __init__(self, template=None) -> None:
         self.prompt_template = rag_init.custom_prompt_template2

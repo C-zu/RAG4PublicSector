@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002981
+Số quyết định:
+5652/QĐ-BYT
+Tên thủ tục:
+Công bố đủ điều kiện tư vấn về kỹ thuật trang thiết bị y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trang thiết bị và công trình y tế
+Trình tự thực hiện:
+Bước 1: Trước khi thực hiện tư vấn về kỹ thuật trang thiết bị y tế, người đề nghị công bố đủ điều kiện tư vấn về kỹ thuật trang thiết bị y tế có trách nhiệm nộp hồ sơ công bố về Bộ Y tế trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Y tế (https://dichvucong.moh.gov.vn) hoặc Cổng thông tin điện tử về quản lý trang thiết bị y tế (https://dmec.moh.gov.vn/).
+Bước 2: Khi nhận hồ sơ (bao gồm cả giấy tờ xác nhận đã nộp phí theo quy định của Bộ Tài chính), Bộ Y tế đăng tải công khai trên Cổng thông tin điện tử về quản lý trang thiết bị y tế các thông tin và hồ sơ công bố đủ điều kiện tư vấn về kỹ thuật trang thiết bị y tế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|0 Ngày|Phí : 3.000.000 Đồng Phí thẩm định Điều kiện kinh doanh thuộc lĩnh vực trang thiết bị y tế||
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Văn bản công bố đủ điều kiện tư vấn về kỹ thuật trang thiết bị y tế theo Mẫu số 06 quy định tại Phụ lục I ban hành kèm theo Thông tư 19/2021/TT-BYT;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd61130e2fd43ec'">mẫu số 06.docx</a>|Bản chính: 1Bản sao: 0|
+|Bản sao có chứng thực văn bằng, chứng chỉ theo quy định tại điểm a và điểm c khoản 2 Điều 53 Nghị định 98/2021/NĐ-CP;||Bản chính: 0Bản sao: 1|
+|Bản xác nhận thời gian công tác theo mẫu tại Phụ lục III ban hành kèm theo Thông tư 19/2021/TT-BYT.||Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Bộ Y tế, Cục Cơ sở hạ tầng và Trang thiết bị y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+công khai trên Cổng thông tin điện tử về quản lý trang thiết bị y tế các thông tin và hồ sơ công bố
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC|14-11-2016||
+|98/2021/NĐ-CP|Nghị định về trang thiết bị y tế số 98/2021/NĐ-CP (link trên thư viện pl vì trên cơ sở dữ liệu về văn bản QPPL ko có)|08-11-2021|Chính phủ|
+|19/2021/TT-BYT|Thông tư 19/2021/TT-BYT quy định về mẫu văn bản, báo cáo thực hiện Nghị định 98/2021/NĐ-CP về quản lý trang thiết bị y tế do Bộ trưởng Bộ Y tế ban hành (link lấy từ thuvienphapluat.vn vì cơ sở dữ liệu về văn bản qppl ko có)|16-11-2021|Bộ Y tế|
+
+Yêu cầu, điều kiện thực hiện:
+Điều 53 Nghị định số 98/2021/NĐ-CP:  Điều kiện thực hiện dịch vụ tư vấn về kỹ thuật trang thiết bị y tế
+1. Việc thực hiện dịch vụ tư vấn về lập danh mục và xây dựng cấu hình, tính năng kỹ thuật trang thiết bị y tế phải được thực hiện bởi cá nhân đã được cấp giấy chứng nhận đã qua đào tạo về tư vấn kỹ thuật trang thiết bị y tế.
+2. Điều kiện của cá nhân thực hiện tư vấn kỹ thuật trang thiết bị y tế:
+a) Có trình độ từ đại học chuyên ngành kỹ thuật hoặc chuyên ngành y, dược trở lên;
+b) Có thời gian công tác trực tiếp về kỹ thuật trang thiết bị y tế tại cơ sở y tế từ 05 năm trở lên;
+c) Đã được cơ sở đào tạo kiểm tra và công nhận đủ khả năng tư vấn về kỹ thuật trang thiết bị y tế theo chương trình đào tạo do Bộ Y tế ban hành.
+3. Người tư vấn chỉ được tư vấn về kỹ thuật trang thiết bị y tế sau khi đã được Bộ Y tế công khai thông tin và hồ sơ công bố đủ điều kiện tư vấn về kỹ thuật trang thiết bị y tế theo quy định tại điểm b khoản 2 Điều 54 Nghị định này.
+Điều 53 Nghị định số 98/2021/NĐ-CP:  Điều kiện thực hiện dịch vụ tư vấn về kỹ thuật trang thiết bị y tế
+1. Việc thực hiện dịch vụ tư vấn về lập danh mục và xây dựng cấu hình, tính năng kỹ thuật trang thiết bị y tế phải được thực hiện bởi cá nhân đã được cấp giấy chứng nhận đã qua đào tạo về tư vấn kỹ thuật trang thiết bị y tế.
+2. Điều kiện của cá nhân thực hiện tư vấn kỹ thuật trang thiết bị y tế:
+a) Có trình độ từ đại học chuyên ngành kỹ thuật hoặc chuyên ngành y, dược trở lên;
+b) Có thời gian công tác trực tiếp về kỹ thuật trang thiết bị y tế tại cơ sở y tế từ 05 năm trở lên;
+c) Đã được cơ sở đào tạo kiểm tra và công nhận đủ khả năng tư vấn về kỹ thuật trang thiết bị y tế theo chương trình đào tạo do Bộ Y tế ban hành.
+3. Người tư vấn chỉ được tư vấn về kỹ thuật trang thiết bị y tế sau khi đã được Bộ Y tế công khai thông tin và hồ sơ công bố đủ điều kiện tư vấn về kỹ thuật trang thiết bị y tế theo quy định tại điểm b khoản 2 Điều 54 Nghị định này.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

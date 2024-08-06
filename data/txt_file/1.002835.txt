@@ -1,0 +1,118 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002835
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp mới Giấy phép lái xe
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+- Người học lái xe lần đầu; học lái xe nâng hạng; người đồng bào dân tộc thiểu số không biết đọc, viết tiếng Việt học lái xe mô tô hạng A1, hạng A4 nộp hồ sơ tại cơ sở đào tạo lái xe;
+- Người học lái xe khi đến nộp hồ sơ được cơ sở đào tạo chụp ảnh trực tiếp lưu giữ trong cơ sở dữ liệu giấy phép lái xe.
+- Cơ sở đào tạo lái xe lập 01 bộ hồ sơ, gửi trực tiếp tại Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải.
+Giải quyết TTHC
+- Căn cứ quyết định công nhận trúng tuyển kỳ sát hạch, Cục trưởng Cục Đường bộ Việt Nam, Giám đốc Sở Giao thông vận tải cấp giấy phép lái xe cho người trúng tuyển.
+Ngày trúng tuyển ghi tại mặt sau giấy phép lái xe là ngày ký quyết định công nhận trúng tuyển kỳ sát hạch.
+- Người đạt kết quả kỳ sát hạch được cấp giấy phép lái xe đúng hạng đã trúng tuyển; đối với trường hợp nâng hạng phải xuất trình bản chính giấy phép lái xe khi đến nhận giấy phép lái xe.
+- Thời gian cấp giấy phép lái xe chậm nhất không quá 10 ngày làm việc, kể từ ngày kết thúc kỳ sát hạch.
+- Cá nhân đạt kết quả sát hạch có nhu cầu nhận giấy phép lái xe tại nhà, trong vòng 03 ngày kể từ ngày kết thúc kỳ sát hạch, thực hiện đăng ký qua hệ thống dịch vụ công trực tuyến đến Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : 135.000 đồng/lần. Lệ phí cấp giấy phép lái xe: 135.000 đồng/lần.  Phí : - Phí sát hạch lái xe: + Đối với thi sát hạch lái xe mô tô (hạng xe A1, A2, A3, A4): sát hạch lý thuyết: 40.000đồng/lần; sát hạch thực hành: 50.000đồng/lần. + Đối với thi sát hạch lái xe ô tô (hạng xe B1, B2, C, D, E, F): sát hạch lý thuyết: 90.000đồng/lần; sát hạch trong hình: 300.000 đồng/lần; sát hạch trên đường giao thông công cộng: 60.000 đồng/lần.|Chậm nhất không quá 10 ngày làm việc, kể từ ngày kết thúc kỳ sát hạch.|
+
+Thành phần hồ sơ:
+
+Đối với người dự sát hạch lái xe lần đầu:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Hồ sơ do người học lái xe nộp:||Bản chính: 0Bản sao: 0|
+|+ Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1af182376a8ca'">M3.1.docx</a>|Bản chính: 1Bản sao: 0|
+|+ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài;||Bản chính: 0Bản sao: 1|
+|+ Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài;||Bản chính: 0Bản sao: 1|
+|+ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định.||Bản chính: 1Bản sao: 0|
+|- Hồ sơ do cơ sở đào tạo lái xe nộp:||Bản chính: 0Bản sao: 0|
+|+ Hồ sơ của người học lái xe;||Bản chính: 1Bản sao: 0|
+|+ Chứng chỉ sơ cấp hoặc chứng chỉ đào tạo đối với người dự sát hạch lái xe hạng A4, B1, B2 và C;||Bản chính: 1Bản sao: 0|
+|+ Danh sách đề nghị sát hạch của cơ sở đào tạo lái xe có tên của người dự sát hạch.||Bản chính: 1Bản sao: 0|
+
+
+Đối với người dự sát hạch nâng hạng Giấy phép lái xe lên hạng B1, B2, C, D, E và các hạng F:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Hồ sơ do người học nâng hạng Giấy phép lái xe nộp:||Bản chính: 0Bản sao: 0|
+|+ Đơn đề nghị học, sát hạch để cấp giấy phép lái xe theo mẫu quy định;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7f1db2e8d488e'">M3.1.docx</a>|Bản chính: 1Bản sao: 0|
+|+ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài;||Bản chính: 0Bản sao: 1|
+|+ Bản sao hộ chiếu còn thời hạn trên 06 tháng và thẻ tạm trú hoặc thẻ thường trú hoặc chứng minh thư ngoại giao hoặc chứng minh thư công vụ đối với người nước ngoài;||Bản chính: 0Bản sao: 1|
+|+ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định;||Bản chính: 1Bản sao: 0|
+|+ Bản khai thời gian hành nghề và số km lái xe an toàn theo mẫu quy định và phải chịu trách nhiệm về nội dung khai trước pháp luật;|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbbaec7409f7b48'">M3.2.docx</a>|Bản chính: 1Bản sao: 0|
+|+ Bản sao bằng tốt nghiệp trung học cơ sở hoặc bằng cấp tương đương trở lên đối với trường hợp nâng hạng giấy phép lái xe lên các hạng D, E (xuất trình bản chính khi kiểm tra hồ sơ dự sát hạch).||Bản chính: 0Bản sao: 1|
+|- Hồ sơ do cơ sở đào tạo lái xe nộp:||Bản chính: 0Bản sao: 0|
+|+ Hồ sơ của người học nâng hạng Giấy phép lái xe;||Bản chính: 1Bản sao: 0|
+|+ Chứng chỉ đào tạo nâng hạng;||Bản chính: 1Bản sao: 0|
+|+ Danh sách đề nghị sát hạch của cơ sở đào tạo lái xe có tên của người dự sát hạch nâng hạng.||Bản chính: 1Bản sao: 0|
+
+
+Đối với người đồng bào dân tộc thiểu số không biết đọc, viết tiếng Việt học lái xe mô tô hạng A1, hạng A4:
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Hồ sơ do người học lái xe nộp:||Bản chính: 0Bản sao: 0|
+|+ Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu còn thời hạn có ghi số giấy chứng minh nhân dân hoặc thẻ căn cước công dân đối với người Việt Nam; hộ chiếu còn thời hạn đối với người Việt Nam định cư ở nước ngoài;||Bản chính: 0Bản sao: 1|
+|+ Giấy khám sức khỏe của người lái xe do cơ sở y tế có thẩm quyền cấp theo quy định;||Bản chính: 1Bản sao: 0|
+|+ Giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn nơi cư trú, xác nhận là người đồng bào dân tộc thiểu số không biết đọc, viết tiếng Việt theo mẫu quy định; giấy xác nhận có giá trị 01 năm kể từ ngày ký xác nhận; cá nhân ký tên hoặc điểm chỉ vào giấy xác nhận.|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed2e4164d14f8b'">M3.3.docx</a>|Bản chính: 1Bản sao: 0|
+|- Hồ sơ do cơ sở đào tạo lái xe nộp:||Bản chính: 0Bản sao: 0|
+|+ Hồ sơ của người học lái xe;||Bản chính: 1Bản sao: 0|
+|+ Chứng chỉ sơ cấp hoặc chứng chỉ đào tạo đối với người dự sát hạch lái xe hạng A4, B1, B2 và C;||Bản chính: 1Bản sao: 0|
+|+ Danh sách đề nghị sát hạch của cơ sở đào tạo lái xe có tên của người dự sát hạch.||Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái xe. - Thời hạn của Giấy phép lái xe: + Giấy phép lái xe hạng A1, A2, A3 không có thời hạn. + Giấy phép lái xe hạng B1 có thời hạn đến khi người lái xe đủ 55 tuổi đối với nữ và đủ 60 tuổi đối với nam; trường hợp người lái xe trên 45 tuổi đối với nữ và trên 50 tuổi đối với nam thì giấy phép lái xe được cấp có thời hạn 10 năm, kể từ ngày cấp. + Giấy phép lái xe hạng A4, B2 có thời hạn 10 năm, kể từ ngày cấp. + Giấy phép lái xe hạng C, D, E, FB2, FC, FD, FE có thời hạn 05 năm, kể từ ngày cấp; + Thời hạn của giấy phép lái xe được ghi trên giấy phép lái xe.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|12/2017/TT-BGTVT|Quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ|15-04-2017|Bộ Giao thông vận tải|
+|38/2019/TT-BGTVT|Bổ sung, sửa đổi Thông tư số 12/2017/TT-BGTVT|08-10-2019|Bộ Giao thông vận tải|
+|01/2021/TT-BGTVT|Thông tư 01/2021/TT-BGTVT|27-01-2021||
+
+Yêu cầu, điều kiện thực hiện:
+- Là công dân Việt Nam, người nước ngoài được phép cư trú hoặc đang làm việc, học tập tại Việt Nam.
+- Đủ tuổi (tính đến ngày dự sát hạch lái xe), sức khoẻ, trình độ văn hóa theo quy định; đối với người học để nâng hạng giấy phép lái xe, có thể học trước nhưng chỉ được dự sát hạch khi đủ tuổi theo quy định.
+- Người học để nâng hạng giấy phép lái xe phải có đủ thời gian hành nghề và số km lái xe an toàn như sau: 
++ Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên;
++ Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên;
++ Hạng B2 lên C, C lên D, D lên E; các hạng B2, C, D, E lên hạng F tương ứng; các hạng D, E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên;
++ Hạng B2 lên D, C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên. 
++ Trường hợp người học nâng hạng vi phạm hành chính trong lĩnh vực giao thông đường bộ với hình thức tước quyền sử dụng giấy phép lái xe, thời gian lái xe an toàn được tính từ ngày chấp hành xong các quyết định xử phạt vi phạm hành chính.
+- Người học để nâng hạng giấy phép lái xe lên các hạng D, E phải có bằng tốt nghiệp trung học cơ sở hoặc tương đương trở lên.
+- Là công dân Việt Nam, người nước ngoài được phép cư trú hoặc đang làm việc, học tập tại Việt Nam.
+- Đủ tuổi (tính đến ngày dự sát hạch lái xe), sức khoẻ, trình độ văn hóa theo quy định; đối với người học để nâng hạng giấy phép lái xe, có thể học trước nhưng chỉ được dự sát hạch khi đủ tuổi theo quy định.
+- Người học để nâng hạng giấy phép lái xe phải có đủ thời gian hành nghề và số km lái xe an toàn như sau: 
++ Hạng B1 số tự động lên B1: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên;
++ Hạng B1 lên B2: thời gian lái xe từ 01 năm trở lên và 12.000 km lái xe an toàn trở lên;
++ Hạng B2 lên C, C lên D, D lên E; các hạng B2, C, D, E lên hạng F tương ứng; các hạng D, E lên FC: thời gian hành nghề từ 03 năm trở lên và 50.000 km lái xe an toàn trở lên;
++ Hạng B2 lên D, C lên E: thời gian hành nghề từ 05 năm trở lên và 100.000 km lái xe an toàn trở lên. 
++ Trường hợp người học nâng hạng vi phạm hành chính trong lĩnh vực giao thông đường bộ với hình thức tước quyền sử dụng giấy phép lái xe, thời gian lái xe an toàn được tính từ ngày chấp hành xong các quyết định xử phạt vi phạm hành chính.
+- Người học để nâng hạng giấy phép lái xe lên các hạng D, E phải có bằng tốt nghiệp trung học cơ sở hoặc tương đương trở lên.
+Từ khóa:
+Bằng lái
+Mô tả:
+Không có thông tin

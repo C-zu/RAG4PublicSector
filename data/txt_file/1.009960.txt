@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009960
+Số quyết định:
+1105/QĐ-BXD
+Tên thủ tục:
+Cấp chứng chỉ hành nghề hoạt động xây dựng lần đầu hạng I
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+- Cá nhân nộp trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến (nếu có) 01 bộ hồ sơ đề nghị cấp chứng chỉ hành nghề hoạt động xây dựng cho Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Bộ Xây dựng.
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị trường hợp hồ sơ không đầy đủ hoặc không hợp lệ, cơ quan có thẩm quyền cấp chứng chỉ hành nghề phải thông báo một lần bằng văn bản tới cá nhân đề nghị cấp chứng chỉ hành nghề.
+-  Kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan chuyên môn về xây dựng có trách nhiệm cấp chứng chỉ hành nghề hoạt động xây dựng lần đầu (đối với trường hợp đã có kết quả sát hạch đạt).
+- Đối với cá nhân nộp hồ sơ đề nghị cấp chứng chỉ hành nghề hoạt động xây dựng nhưng chưa có kết quả sát hạch, cơ quan có thẩm quyền cấp chứng chỉ trong thời hạn 20 ngày có trách nhiệm tổ chức sát hạch cho cá nhân đề nghị cấp chứng chỉ hành nghề. Việc sát hạch được thực hiện thông qua hình thức sát hạch trực tiếp hoặc sát hạch trực tuyến. Việc sát hạch được tiến hành định kỳ hàng tháng hoặc đột xuất. Cơ quan có thẩm quyền cấp chứng chỉ hành nghề thông báo kết quả xét hồ sơ đề nghị cấp chứng chỉ hành nghề, danh sách, địa điểm sát hạch trước thời gian tổ chức sát hạch ít nhất 03 ngày làm việc. Nội dung sát hạch bao gồm 05 câu hỏi về kiến thức pháp luật và 20 câu hỏi về kiến thức chuyên môn có liên quan đến việc đề nghị cấp chứng chỉ hành nghề.
+- Cá nhân có kết quả sát hạch phần kiến thức pháp luật tối thiểu 16 điểm và tổng điểm từ 80 điểm trở lên thì đạt yêu cầu để xem xét cấp chứng chỉ hành nghề. Trong thời hạn 20 ngày kể từ ngày có kết quả sát hạch đạt yêu cầu cơ quan có thẩm quyền xem xét cấp chứng chỉ hành nghề.
+- Trong thời hạn 05 ngày làm việc kể từ ngày cấp chứng chỉ, cơ quan có thẩm quyền cấp chứng chỉ có trách nhiệm đăng tải thông tin về cá nhân lên trang thông tin điện tử do mình quản lý, đồng thời gửi thông tin đến cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng để tích hợp trên trang thông tin điện tử của Bộ Xây dựng. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được thông tin của cơ quan có thẩm quyền cấp chứng chỉ cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng thực hiện tích hợp trên trang Thông tin điện tử của Bộ Xây dựng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính và Bộ Xây dựng.|20 ngày đối với trường hợp cấp chứng chỉ hành nghề lần đầu kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính và Bộ Xây dựng.|20 ngày đối với trường hợp cấp chứng chỉ hành nghề lần đầu kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính và Bộ Xây dựng.|20 ngày đối với trường hợp cấp chứng chỉ hành nghề lần đầu kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|- Đơn đề nghị cấp chứng chỉ hành nghề theo Mẫu số 1 Phụ lục số IV Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faa8e2f6b142b90'">DON_DE_NGHI_CAP_CHUNG_CHI_HANH_NGHE_HOAT_DONG_XAY_DUNG_(MAU_SO_1) (5).docx</a>|Bản chính: 1Bản sao: 1|
+|- 02 ảnh màu cỡ 4 x 6 cm và tệp tin ảnh có nền màu trắng chân dung của người đề nghị được chụp trong thời gian không quá 06 tháng.||Bản chính: 1Bản sao: 1|
+|- Bản sao có chứng thực hoặc tệp tin chứa ảnh màu chụp từ bản chính hoặc bản sao, xuất trình bản chính để đối chiếu: Văn bằng do cơ sở đào tạo hợp pháp cấp phù hợp với loại, hạng chứng chỉ đề nghị cấp; trường hợp trên văn bằng không ghi chuyên ngành đào tạo thì phải nộp kèm bảng điểm để làm cơ sở kiểm tra, đánh giá. Đối với văn bằng do cơ sở đào tạo nước ngoài cấp, phải đảm bảo được hợp pháp hóa lãnh sự theo quy đinh và có bản dịch sang tiếng Việt được công chứng, chứng thực theo quy định của pháp luật Việt Nam.||Bản chính: 1Bản sao: 1|
+|Bản sao có chứng thực hoặc tệp tin chứa ảnh màu chụp từ bản chính hoặc bản sao, xuất trình bản chính để đối chiếu: Các quyết định phân công công việc (giao nhiệm vụ) của tổ chức cho cá nhân hoặc văn bản xác nhận của đại diện theo pháp luật của chủ đầu tư về các công việc tiêu biểu mà cá nhân đã hoàn thành theo nội dung kê khai. Người ký xác nhận phải chịu trách nhiệm về sự trung thực của nội dung xác nhận. Trường hợp cá nhân hành nghề độc lập thì phải có hợp đồng và biên bản nghiệm thu các công việc thực hiện tiêu biểu đã kê khai.||Bản chính: 1Bản sao: 1|
+|- Bản sao có chứng thực hoặc tệp tin chứa ảnh màu chụp từ bản chính hoặc bản sao, xuất trình bản chính để đối chiếu: Giấy tờ hợp pháp về cư trú hoặc giấy phép lao động do cơ quan có thẩm quyền của Việt Nam cấp đối với trường hợp cá nhân là người nước ngoài.||Bản chính: 1Bản sao: 1|
+|- Bản sao kết quả sát hạch đạt yêu cầu trong trường hợp đã sát hạch trước ngày nộp hồ sơ đề nghị cấp chứng chỉ hành nghề.||Bản chính: 1Bản sao: 1|
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Bộ Xây dựng
+Cơ quan có thẩm quyền:
+Bộ Xây dựng
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận hồ sơ và trả kết quả giải quyết TTHC của Bộ Xây dựng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng chỉ hành nghề hoạt động xây dựng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|62/2020/QH14|Luật 62/2020/QH14|17-06-2020||
+|15/2021/NĐ-CP|Quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|35/2023/NĐ-CP|Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng|20-06-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Có đủ năng lực hành vi dân sự theo quy định của pháp luật; có giấy tờ về cư trú hoặc giấy phép lao động tại Việt Nam đối với người nước ngoài và người Việt Nam định cư ở nước ngoài.
+- Có trình độ chuyên môn được đào tạo, thời gian và kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề như sau:
++ Hạng I: Có trình độ đại học thuộc chuyên ngành phù hợp, có thời gian kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề từ 07 năm trở lên.
+- Đồng thời đáp ứng thêm các yêu cầu, điều kiện theo từng loại chứng chỉ cụ thể tại các Điều 67, Điều 68, Điều 69, Điều 70, Điều 71, Điều 72, Điều 73, Điều 74, Điều 75 của Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
+- Có đủ năng lực hành vi dân sự theo quy định của pháp luật; có giấy tờ về cư trú hoặc giấy phép lao động tại Việt Nam đối với người nước ngoài và người Việt Nam định cư ở nước ngoài.
+- Có trình độ chuyên môn được đào tạo, thời gian và kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề như sau:
++ Hạng I: Có trình độ đại học thuộc chuyên ngành phù hợp, có thời gian kinh nghiệm tham gia công việc phù hợp với nội dung đề nghị cấp chứng chỉ hành nghề từ 07 năm trở lên.
+- Đồng thời đáp ứng thêm các yêu cầu, điều kiện theo từng loại chứng chỉ cụ thể tại các Điều 67, Điều 68, Điều 69, Điều 70, Điều 71, Điều 72, Điều 73, Điều 74, Điều 75 của Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

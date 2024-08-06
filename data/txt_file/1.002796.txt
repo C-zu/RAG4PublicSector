@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002796
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Đổi Giấy phép lái xe hoặc bằng lái xe của nước ngoài cấp
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Người có Giấy phép lái xe hoặc bằng lái xe của nước ngoài nộp hồ sơ đề nghị đổi Giấy phép lái xe hoặc bằng lái xe của nước ngoài cấp đến Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải (nơi đăng ký cư trú, lưu trú, tạm trú hoặc định cư lâu dài)
+b) Giải quyết TTHC:
+- Cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải tiếp nhận hồ sơ, thẩm định hồ sơ, cấp đổi Giấy phép lái xe và trả hồ sơ đổi Giấy phép lái xe cho người có giấy phép lái xe.
+- Trường hợp phát hiện có nghi vấn về hộ chiếu, giấy chứng minh nhân dân hoặc thẻ căn cước công dân, giấy chứng minh thư ngoại giao, cơ quan cấp đổi giấy phép lái xe có văn bản đề nghị Bộ Ngoại giao, Cục Quản lý Xuất nhập cảnh thuộc Bộ Công an, Phòng Quản lý xuất nhập Cảnh thuộc Công an tỉnh, thành phố trực thuộc Trung ương xác minh.
+(Khi đến nộp hồ sơ, người lái xe được cơ quan cấp giấy phép lái xe chụp ảnh trực tiếp tại cơ quan cấp giấy phép lái xe và xuất trình bản chính các hồ sơ để đối chiếu, trừ các bản chính đã gửi).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 135.000đ/ lần.|Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+|Tên giấy tờ|Mẫu đơn, tờ khai|Số lượng|
+|--|--|-|
+|Đơn đề nghị đổi giấy phép lái xe theo mẫu|<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd33390489f6080'">Mau 1.2.doc</a>|Bản chính: 0Bản sao: 0|
+|Bản sao hộ chiếu (phần số hộ chiếu, họ tên và ảnh người được cấp, thời hạn sử dụng và trang thị thực nhập cảnh vào Việt Nam), giấy chứng minh nhân dân hoặc thẻ căn cước công dân, giấy chứng minh thư ngoại giao hoặc công vụ do Bộ Ngoại giao Việt Nam cấp hoặc bản sao thẻ cư trú, thẻ lưu trú, thẻ tạm trú, thẻ thường trú, giấy tờ xác minh định cư lâu dài tại Việt Nam đối với người nước ngoài||Bản chính: 0Bản sao: 1|
+|Bản dịch giấy phép lái xe nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan Công chứng hoặc Đại sứ quán, Lãnh sự quán tại Việt Nam mà người dịch làm việc, đóng dấu giáp lai với bản sao giấy phép lái xe; đối với người Việt Nam xuất trình hợp pháp hóa lãnh sự giấy phép lái xe hoặc bằng lái xe của nước ngoài theo quy định của pháp luật về chứng nhận lãnh sự, hợp pháp hóa lãnh sự, trừ các trường hợp được miễn trừ theo quy định của pháp luật||Bản chính: 1Bản sao: 0|
+
+Đối tượng thực hiện:
+Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|12/2017/TT-BGTVT|Quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ|15-04-2017|Bộ Giao thông vận tải|
+|38/2019/TT-BGTVT|Bổ sung, sửa đổi Thông tư số 12/2017/TT-BGTVT|08-10-2019|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+- Người nước ngoài cư trú, làm việc, học tập tại Việt Nam, có giấy chứng minh thư ngoại giao, giấy chứng minh thư công vụ, thẻ tạm trú, thẻ cư trú, thẻ lưu trú, thẻ thường trú với thời gian từ 03 tháng trở lên, có giấy phép lái xe quốc gia còn thời hạn sử dụng.
+- Giấy phép lái xe của nước ngoài không bị tẩy xóa, rách nát; còn đủ các yếu tố cần thiết để đổi giấy phép lái xe hoặc không có sự khác biệt về nhận dạng.
+- Người nước ngoài cư trú, làm việc, học tập tại Việt Nam, có giấy chứng minh thư ngoại giao, giấy chứng minh thư công vụ, thẻ tạm trú, thẻ cư trú, thẻ lưu trú, thẻ thường trú với thời gian từ 03 tháng trở lên, có giấy phép lái xe quốc gia còn thời hạn sử dụng.
+- Giấy phép lái xe của nước ngoài không bị tẩy xóa, rách nát; còn đủ các yếu tố cần thiết để đổi giấy phép lái xe hoặc không có sự khác biệt về nhận dạng.
+Từ khóa:
+Bằng lái, Bằng lái nước ngoài
+Mô tả:
+Không có thông tin
