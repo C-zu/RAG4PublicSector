@@ -12,7 +12,7 @@ import asyncio
 import shutil
 
 together_api_key = "b2364e8538f36185c3c7551f17ca2f730e3d0b495b5850faa4888a7043e0fc11" #trongnghiakazuhatran@gmail.com
-gemini_api_key = "AIzaSyAokJTNFmApBzp6tHEaX9P_cbvkkxkj6r8"
+gemini_api_key = "AIzaSyAzYDnRtHu1t0WmAazdzAq-VNJ93IUMwi4"
 mistral_api_key = "jDVi03OCpbFVWaAZAd8gpa9JOL8mjdqU"
 groq_api_key = "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"
 open_router_api_key = "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"
@@ -81,7 +81,7 @@ class DataPipeline:
                 raise ValueError(llm + "is not supported")
             self.LLM_list = LLM_list
 
-        # return valuable
+        # return valuabl
         self.api_key_dictionary = api_key_dictionary
         self.context = context
         self.QA_dataframe = []
@@ -110,7 +110,7 @@ class DataPipeline:
     async def qa_generation(self):
         tasks = []
 
-        for llm_name in self.LLM_list:
+        for index, llm_name in enumerate(self.LLM_list):
             print(f"Generating QA data using model: {llm_name}")
 
             qa_generator = Question_Generation(
@@ -118,7 +118,7 @@ class DataPipeline:
                 llm_name,
                 output_path=self.output_path + f'/{llm_name.split("/")[0]}.parquet',
                 batch_size=8,
-                # prompt=qa_prompt, 
+                # prompt=qa_prompt,
                 api_key_dictionary=self.api_key_dictionary
             )
 
@@ -127,17 +127,39 @@ class DataPipeline:
         await asyncio.gather(*tasks)
 
     async def generate_and_verify(self, qa_generator, llm_name):
-        llm_csv_name = llm_name.split('/')[0]
-
         qa_dataframe = await qa_generator.run()
         self.QA_dataframe.append(qa_dataframe)
 
-        await self.question_and_answer_verification(qa_dataframe, self.LLM_list.index(llm_name))
+        await self.question_and_answer_verification_run(self.LLM_list.index(llm_name))
 
-        # Optionally return the dataframe if needed
-        return qa_dataframe
+    async def question_and_answer_verification_run(self, llm_index):
+        tasks = [
+            self.question_and_answer_verification(df, index)
+            for index, df in enumerate(self.QA_dataframe)
+        ]
 
+        await asyncio.gather(*tasks)
+        await self.answer_verification(self.question_verification_dataframe, llm_index)
+        return None
+    
+    async def answer_verification(self, list_verified_question, llm_index):
+        df_name = self.LLM_list[llm_index].split('/')[0]
+        print(len(list_verified_question))
 
+        for df in list_verified_question:
+            sim_checker = SimilarityCheck(
+                df,
+                batch_size=8,
+                output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
+                llm='gemini-1.5-flash-8b-exp-0924',
+                # prompt=sim_prompt,  # Uncomment if needed
+                api_key_dictionary=self.api_key_dictionary
+            )
+            verified_answers_df = await sim_checker.pipeline_check_similarity()  
+            self.answer_verification_dataframe.append(verified_answers_df)
+
+        return None
+    
     async def question_and_answer_verification(self, df, index):
         # Get the name of the LLM and create list of checkers
         list_llm_checkers = self.LLM_list[:index] + self.LLM_list[index + 1:]
@@ -160,39 +182,6 @@ class DataPipeline:
 
         # Store the result in the question verification dataframe list
         self.question_verification_dataframe.append(verified_questions_df)
-
-        # After question verification, proceed to answer verification
-        print(f"Verifying answers from {df_name} Verified questions dataframe...")
-
-        # Create an instance of SimilarityCheck for answer verification
-        sim_checker = SimilarityCheck(
-            verified_questions_df,
-            batch_size=8,
-            output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
-            llm = 'gemini-1.5-flash-8b-exp-0924',
-            # prompt=sim_prompt,  # Uncomment if needed
-            api_key_dictionary=self.api_key_dictionary
-        )
-
-        # Perform answer verification and await the result
-        verified_answers_df = await sim_checker.pipeline_check_similarity()
-
-        # Store the result in the answer verification dataframe list
-        self.answer_verification_dataframe.append(verified_answers_df)
-
-    async def question_and_answer_verification_run(self):
-        # Create tasks for each dataframe to perform question and answer verification in parallel
-        tasks = [
-            self.question_and_answer_verification(df, index)
-            for index, df in enumerate(self.QA_dataframe)
-        ]
-
-        # Use asyncio.gather to run all tasks in parallel
-        await asyncio.gather(*tasks)
-
-        # After all tasks are complete, return the final answer verification dataframe
-        return self.answer_verification_dataframe
-
         
     def aggregation_dataframe(self):
         combination_interface = AggregationDataframe(self.answer_verification_dataframe, output_path=self.output_path+f'/final_dataframe_{self.start_index}_{self.end_index}.csv')

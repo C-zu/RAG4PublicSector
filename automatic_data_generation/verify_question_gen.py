@@ -21,24 +21,25 @@ import csv
 from typing import List
 import pandas as pd
 import asyncio
-verified_prompt = """Bạn sẽ được cung cấp một đoạn văn bản và 5 câu hỏi. Hãy xác nhận liệu các câu hỏi có liên quan đến đoạn văn bản này không. Nếu câu hỏi có liên quan và hợp lệ, hãy cung cấp câu trả lời dựa trên thông tin trong context. Nếu câu hỏi không liên quan, phải trả lời "Không".
-
+verified_prompt = """Bạn sẽ được cung cấp một đoạn văn bản và 5 câu hỏi. Hãy xác nhận liệu các câu hỏi có liên quan đến đoạn văn bản này không. Nếu câu hỏi có liên quan và hợp lệ, hãy cung cấp câu trả lời dựa trên thông tin trong context, tuân theo các <answer_requirements> được cung cấp. Nếu câu hỏi không liên quan, phải trả lời "Không".
+Bạn được cung cấp một <example> để có thể hiểu hơn.
 Hướng dẫn:
 
 Các câu hỏi sai quy định: (Hãy trả lời "Không" nếu gặp những câu hỏi sai qui định này)
 1. Câu hỏi mơ hồ, không có tên thủ tục.
 2. Nếu câu hỏi không chứa tên thủ tục mà thay vào đó là chữ "này".
 
-Yêu cầu về các câu trả lời tạo ra:
+<answer_requirements>
 1. Sau mỗi câu trả lời đều phải có thêm kí tự '[END]'.
 2. Câu trả lời phải có chủ ngữ và phải trả lời đầy đủ.
 3. Trực tiếp đưa ra câu trả lời, không dược đưa bất kỳ câu hỏi nào vào câu trả lời.
 4. Nếu câu hỏi không liên quan, hãy trả lời "Không".
 5. Nếu không biết trả lời, hãy trả lời "Không".
 6. Số lượng câu trả lời luôn luôn phải là 5.
+7. Nếu ngữ cảnh cung cấp tài liệu liên quan có dạng "<a href="url">link text</a>", hãy thay nó sang dạng markdown [link text](url) và in ra đầy đủ.
+<answer_requirements>
 
-Ví dụ cụ thể:
-
+<example>
 Đoạn văn bản:
 Chi tiết thủ tục hành chính:
 Mã thủ tục:
@@ -69,12 +70,17 @@ Không [END]
 Không [END]
 Lĩnh vực thực hiện của báo cáo giải trình nhu cầu, thay đổi nhu cầu sử dụng người lao động nước ngoài là Việc làm. [END]
 
+Bạn sẽ được cung cấp <explaination> cho việc đánh giá này để có thể hiểu hơn lí do đánh giá như vậy.
+<example/>
+
+<explaination>
 Giải thích lí do:
 Câu hỏi "Thủ tục này thuộc loại thủ tục gì?" không hợp lệ vì không có tên thủ tục.
 Câu hỏi "Mã thủ tục báo cáo giải trình nhu cầu, thay đổi nhu cầu sử dụng người lao động nước ngoài là gì?" có liên quan nên trả lời.
 Câu hỏi "Thủ tục trên được thực hiện ở đâu?" không hợp lệ vì không có tên thủ tục.
 Câu hỏi "Văn bản trên có mã thủ tục là gì?" không hợp lệ vì không có mã thủ tục.
 Câu hỏi "Lĩnh vực thực hiện của báo cáo giải trình nhu cầu, thay đổi nhu cầu sử dụng người lao động nước ngoài là gì?" có liên quan nên trả lời.
+<explaination/>
 
 Đoạn văn bản:
 {context}

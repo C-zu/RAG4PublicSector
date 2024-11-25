@@ -10,8 +10,9 @@ import re
 sim_prompt = """
 Bạn là một trợ lý giúp đánh giá độ tương đồng về mặt ngữ nghĩa của {num_answer} câu trả lời từ một câu hỏi. Hãy đánh giá từng cặp.
 Câu trả lời chỉ gồm 3 chữ số, không giải thích bất cứ thứ gì.
+Bạn được cung cấp các <instruction> để hướng dẫn bạn cách đánh giá.
 
-Cách đánh giá:
+<instruction>
 - Trả lời theo mẫu gợi ý bên dưới.
 - Kết quả phải là của đồng thời 3 câu trả lời, không tách riêng ra thành từng cặp. Chỉ có 1 điểm số duy nhất với 3 con số trong mọi trường hợp.
 - Nếu thấy trong câu trả lời nào có lặp lại câu hỏi, ngay lập tức trả về 0 0 0.
@@ -19,6 +20,7 @@ Cách đánh giá:
 - Đầu vào là {num_answer} câu trả lời, đầu ra là điểm số đánh giá từ 0 hoặc 1 của từng cặp lần lượt. Ví dụ 3 câu trả lời thì điểm của 1 với 2, 1 với 3, 2 với 3.
 - Nếu 1 trong hai câu trả lời đang so sánh được tóm tắt hơn nhưng vẫn tương đồng về mặt ngữ nghĩa thì hãy cho điểm số 1.
 - Chỉ trả lời điểm số ví dụ 3 câu trả lời thì đầu ra là "1 1 1" và không trả lời gì hơn.
+<instruction/>
 
 Câu hỏi:
 {question}
@@ -26,13 +28,13 @@ Các câu trả lời:
 {answers}
 Điểm số:
 """
-gemini_api_key = "AIzaSyAokJTNFmApBzp6tHEaX9P_cbvkkxkj6r8"
+gemini_api_key = "AIzaSyDfhj0gtSA4JlxZ-bVIu4b_TydFtb3StmE"
 
 class SimilarityCheck:
     def __init__(
         self,
         input_dataframe: pd.DataFrame,
-        llm: str = None,
+        llm: str,
         output_path: str = 'output.csv',
         # prompt: str = 'default prompt',
         batch_size: int = None,
@@ -50,6 +52,7 @@ class SimilarityCheck:
 
         self.api_key_dictionary = api_key_dictionary
         self.input_dataframe = input_dataframe
+
         if api_key_dictionary:
             if self.llm_name == "pixtral-12b-2409" or self.llm_name =='mistral-large-latest' or self.llm_name == 'mistral-small-latest':
                 self.llm = OpenAI(api_key=self.api_key_dictionary[llm],base_url="https://api.mistral.ai/v1")
@@ -66,7 +69,7 @@ class SimilarityCheck:
             if self.llm_name == 'gemini-1.5-flash-8b-exp-0924':
                 self.llm = Gemini(model='models/'+self.llm_name,api_key=api_key_dictionary[self.llm_name],temperature=0.1)
         else:
-            self.llm = Gemini(model=self.llm_name,api_key=gemini_api_key,temperature=0)
+            self.llm = Gemini(model='models/'+self.llm_name,api_key=gemini_api_key,temperature=0)
     
         self.result_dataframe = pd.DataFrame()
         self.output_path = output_path
@@ -123,7 +126,7 @@ class SimilarityCheck:
         return self.result_dataframe
     
     async def calculate_similarity(self, answers, question):
-        retries = 3
+        retries = 4
         delay = 20
         
         for attempt in range(retries):
@@ -144,17 +147,6 @@ class SimilarityCheck:
                         model=self.llm_name,
                         temperature=0   
                     )
-                    
-                    print(output.choices[0].message.content)
-                    pattern = r"\d \d \d"
-                    match = re.findall(pattern, output.choices[0].message.content)
-                    print("Kết quả: ")
-                    print(match)
-                    print(type(match))
-                    result = " ".join(" ".join(tup) for tup in match)
-                    print("Result: ", result)
-                    print("\n")
-                    scores = list(map(float, result.split()))
                 
                 # print(scores)
                 if len(scores) == 0:
@@ -165,7 +157,7 @@ class SimilarityCheck:
                 return average_similarity
             
             except Exception as e:
-                print(f"Attempt {attempt + 1} failed with error: {e}")
+                print(f"Attempt {attempt + 1}/{retries} failed with error: {e}")
 
                 if attempt < retries - 1:
                     print(f"Retrying in {delay} seconds...")
@@ -208,7 +200,6 @@ class SimilarityCheck:
                 
                 for row, result in zip(batch, results):
                     if isinstance(result, Exception) or result == -1:
-                        # Log the failed row in failed_dataframe
                         failed_dataframe = pd.concat([failed_dataframe, pd.DataFrame([row])], ignore_index=True)
                     else:
                         average_similarity = result
@@ -220,10 +211,9 @@ class SimilarityCheck:
                             self.result_dataframe = pd.concat([self.result_dataframe, pd.DataFrame([new_row])], ignore_index=True)
                             await asyncio.to_thread(self.result_dataframe.to_csv, self.output_path, index=False)
 
-                # Reset the batch after processing
                 batch = []
 
-            pbar.update(len(batch))  # Update progress bar for each batch processed
+            pbar.update(len(batch))  
 
         pbar.close()
 
@@ -235,10 +225,29 @@ class SimilarityCheck:
         print(f"Verified answers dataframe is saved to: {self.output_path}\n")
 
         return self.result_dataframe
+    
+# together_api_key = "b2364e8538f36185c3c7551f17ca2f730e3d0b495b5850faa4888a7043e0fc11" #trongnghiakazuhatran@gmail.com
+# gemini_api_key = "AIzaSyAokJTNFmApBzp6tHEaX9P_cbvkkxkj6r8"
+# mistral_api_key = "jDVi03OCpbFVWaAZAd8gpa9JOL8mjdqU"
+# groq_api_key = "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"
+# open_router_api_key = "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"
 
+# api_key_dictionary = {
+#     'pixtral-12b-2409': mistral_api_key,
+#     'meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo': together_api_key,
+#     'Qwen/Qwen2-72B-Instruct': together_api_key,
+#     'gemini': gemini_api_key,
+#     'gemma2-9b-it': groq_api_key,
+#     'qwen/qwen-2.5-72b-instruct': open_router_api_key,
+#     'qwen/qwen-2-vl-72b-instruct': open_router_api_key,
+#     'open-mistral-nemo-2407': open_router_api_key,
+#     'google/gemma-2-9b-it:free':open_router_api_key,
+#     'google/gemini-flash-8b-1.5-exp': open_router_api_key,
+#     'gemini-1.5-flash-8b-exp-0924': gemini_api_key,
+#     'mistral-large-latest':mistral_api_key,
+#     'mistral-small-latest': mistral_api_key
+# }
 
-
-
-# df = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_10_50/meta-llama_verified_question_dataframe.csv")
-# sim_checker = SimilarityCheck(df, output_path='E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_10_50/meta-llama_verified_answer_dataframe.csv')
+# df = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_400_500/mistral-large-latest_verified_question_dataframe.csv")
+# sim_checker = SimilarityCheck(df, llm = 'gemini-1.5-flash-8b-exp-0924', output_path='E:/thesis/RAG4PublicSector/data/mistral-large-latest_verified_answer_dataframe.csv', batch_size=8, api_key_dictionary=api_key_dictionary)
 # asyncio.run(sim_checker.check_similarity())

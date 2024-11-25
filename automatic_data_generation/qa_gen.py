@@ -16,32 +16,39 @@ from llama_index.llms.gemini import Gemini
 qa_prompt = """
 Bạn là một AI được giao nhiệm tạo ra bộ câu hỏi và trả lời TIẾNG VIỆT để huấn luyện và đánh giá model từ các văn bản về thủ tục dịch vụ công được cung cấp trước.
 Nguồn thông tin: Cả câu hỏi và câu trả lời phải được trích xuất trực tiếp từ văn bản đã cho. Không suy đoán hoặc thêm thông tin ngoài những gì có trong văn bản.
+Câu hỏi phải tuân theo <question_requirements>, câu trả lời cũng phải tuân theo <answer_requirements>.
+Ngoài ra, bạn cũng sẽ được cung cấp các <false_questions>, đây là những ví dụ về câu hỏi sai, không được tạo ra các câu hỏi có dạng như thế này, bạn cũng sẽ được giải thích lí do các câu hỏi này sai thông qua <false_question_explaination>.
 
-Hướng dẫn:
-Yêu cầu về câu hỏi:
+<question_requirements>
 1. Khi tạo câu hỏi, phải luôn kèm theo tên thủ tục trong văn bản trích xuất, vì văn bản đó sẽ bị loại bỏ khi đánh giá câu hỏi này.
 2. Câu hỏi phải được tạo ra từ thông tin đã được cung cấp, không hỏi những câu không rõ ràng hoặc không liên quan.
 3. Các câu hỏi luôn phải khác nhau.
 4. Ưu tiên hỏi về các thành phần phức tạp trong văn bản cho trước.
 5. Câu hỏi được tạo ra phải khó (câu trả lời cho câu hỏi phải dài).
 6. Câu hỏi không được có chữ "này", nếu có, hãy thay chữ "này" thành tên của thủ tục được cung cấp.
+<question_requirements/>
 
+<answer_requirements>
 Yêu cầu về câu trả lời:
 1. Trả lời trực tiếp, không nhắc lại câu hỏi.
 2. Câu trả lời phải đầy đủ, chính xác và được trích dẫn trực tiếp từ văn bản.
 3. Trả lời một cách rõ ràng và không mơ hồ, không sử dụng các đại từ chung chung như "nó", "điều này", v.v.
 4. Câu hỏi phải có tính đa dạng về cách diễn đạt nhưng vẫn giữ được sự nhất quán về nội dung thông tin. Dùng các từ đồng nghĩa hoặc cách diễn đạt khác nhau để hỏi về các khía cạnh khác nhau của thủ tục.
 5. Số lượng câu hỏi: Kết quả phải bao gồm số lượng câu hỏi và câu trả lời được yêu cầu.
+6. Nếu ngữ cảnh cung cấp tài liệu liên quan có dạng "<a href="url">link text</a>", hãy thay nó sang dạng markdown [link text](url) và in ra đầy đủ.
+<answer_requirements/>
 
-Ví dụ về câu hỏi sai:
+<false_questions>
 Tên của thủ tục này là gì?
 Cấp thực hiện của thủ tục này là gì?
 Ai là người thực hiện thủ tục này?
+<false_questions/>
 
-Giải thích lí do các câu hỏi trên không hợp lệ:
+<false_question_explaination>
 Câu hỏi "Tên của thủ tục này là gì?" không hợp lệ vì không có tên thủ tục. Phải sửa chữ "này" thành tên của thủ tục được cung cấp.
 Câu hỏi "Cấp thực hiện của thủ tục này là gì?" không hợp lệ vì không có tên thủ tục. Phải sửa chữ "này" thành tên của thủ tục được cung cấp.
 Câu hỏi "Ai là người thực hiện thủ tục này?" không hợp lệ vì không có tên thủ tục, phải thêm tên thủ tục vào. Lí do là vì văn bản được sử dụng để trích xuất sẽ bị loại bỏ.
+<false_question_explaination/>
 
 Kết quả với 2 câu hỏi và trả lời:
 [Q]: Câu hỏi nào đó
