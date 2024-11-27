@@ -263,7 +263,7 @@ class Question_Generation:
                     tqdm.write(f"Retry {attempt + 1}/{max_retries} due to error: {e}")
                     if attempt == max_retries - 1:
                         tqdm.write(f"Skip index {idx} due to {e}")
-                    await asyncio.sleep(10)
+                    await asyncio.sleep(2)
                     continue
         pbar.close()
         if output_filepath is not None:

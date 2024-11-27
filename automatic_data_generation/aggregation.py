@@ -1,47 +1,3 @@
-# import pandas as pd
-# import ast
-
-# # Converting
-# def convert_to_list(answer_str):
-#     try:
-#         return ast.literal_eval(answer_str)
-#     except (ValueError, SyntaxError):
-#         return []
-
-# def aggregate_answers(list_of_lists):
-#     combined_list = []
-#     seen_items = set()
-#     for sublist in list_of_lists:
-#         for item in sublist:
-#             if item not in seen_items:
-#                 seen_items.add(item)
-#                 combined_list.append(item)
-#     return combined_list
-
-# verifed_answer_mistral = pd.read_csv("mistral_sim_dataframe.csv")
-# verifed_answer_llama3  = pd.read_csv("llama3_sim_dataframe.csv")
-# verifed_answer_qwen = pd.read_csv("qwen_sim_dataframe.csv")
-
-# intersection_df = pd.merge(verifed_answer_mistral, verifed_answer_llama3, on='Context', how='inner')
-# intersection_df = pd.merge(intersection_df, verifed_answer_qwen, on='Context', how='inner')
-# grouped_df = intersection_df.groupby('Context')
-# grouped_result = grouped_df.size().reset_index(name='Counts')
-
-# common_contexts = intersection_df['Context']
-
-# # Filter
-# filtered_mistral = verifed_answer_mistral[verifed_answer_mistral['Context'].isin(common_contexts)]
-# filtered_llama3 = verifed_answer_llama3[verifed_answer_llama3['Context'].isin(common_contexts)]
-# filtered_qwen = verifed_answer_qwen[verifed_answer_qwen['Context'].isin(common_contexts)]
-
-# # Combine
-# combined_df = pd.concat([filtered_mistral, filtered_llama3, filtered_qwen])
-  
-# # Aggregation
-# combined_df['Answers'] = combined_df['Answers'].apply(convert_to_list)
-# grouped_df = combined_df.groupby(['Context', 'Question'], as_index=False)
-# grouped_df = grouped_df.agg({'Answers': aggregate_answers})
-
 import pandas as pd
 import ast
 
@@ -83,8 +39,12 @@ class AggregationDataframe:
         Merges all DataFrames in the list on the 'Context' column using an inner join.
         """
         self.intersection_df = self.dataframes[0]
+        # for i, df in enumerate(self.dataframes):
+        #     print(f"DataFrame {i+1}:")
+        #     print(df.columns.tolist())
+        #     print("-" * 20)
         for df in self.dataframes[1:]:
-            self.intersection_df = pd.merge(self.intersection_df, df, on='Context', how='inner')
+            self.intersection_df = pd.merge(self.intersection_df, df, on='Context', how='inner', suffixes=('_left', '_right'))
 
     # Filter the DataFrames to keep only the common 'Context' values
     def filter_common_contexts(self):
@@ -145,9 +105,9 @@ class AggregationDataframe:
             self.grouped_df.to_csv(self.output_path)
         return self.grouped_df
 
-# df1 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_400_500/gemini-1.5-flash-8b-exp-0924_verified_answer_dataframe.csv")
-# df2 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_400_500/meta-llama_verified_answer_dataframe.csv")
-# df3 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_400_500/mistral-large-latest_verified_answer_dataframe.csv")
+# df1 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/gemini-1.5-flash-8b-exp-0924_verified_answer_dataframe.csv")
+# df2 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/meta-llama_verified_answer_dataframe.csv")
+# df3 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/mistral-large-latest_verified_answer_dataframe.csv")
 # dataframes = [df1, df2, df3]
-# aggregator = AggregationDataframe(dataframes, "E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_400_500/final_non_processed_3_answer_dataframe_400_500.csv")
+# aggregator = AggregationDataframe(dataframes, "E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/final_non_processed_3_answer_dataframe.csv")
 # result_df = aggregator.run()

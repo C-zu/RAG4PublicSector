@@ -28,7 +28,7 @@ Các câu trả lời:
 {answers}
 Điểm số:
 """
-gemini_api_key = "AIzaSyDfhj0gtSA4JlxZ-bVIu4b_TydFtb3StmE"
+gemini_api_key = "AIzaSyBJCmUGCqboT3AWVHp-7qUGejIrmfdSfCw" #nghiadeptrai1804
 
 class SimilarityCheck:
     def __init__(
@@ -66,8 +66,14 @@ class SimilarityCheck:
             if self.llm_name == 'qwen/qwen-2.5-72b-instruct' or self.llm_name == 'qwen/qwen-2-vl-72b-instruct' or self.llm_name == "open-mistral-nemo-2407" or self.llm_name == "google/gemma-2-9b-it:free" or self.llm_name == "google/gemini-flash-8b-1.5-exp":
                 self.llm = OpenAI(api_key=self.api_key_dictionary[llm],base_url="https://openrouter.ai/api/v1")
             
+            # Using different API key instead
             if self.llm_name == 'gemini-1.5-flash-8b-exp-0924':
-                self.llm = Gemini(model='models/'+self.llm_name,api_key=api_key_dictionary[self.llm_name],temperature=0.1)
+                # self.llm = Gemini(model='models/'+self.llm_name,api_key=api_key_dictionary[self.llm_name],temperature=0.1)
+                self.llm = Gemini(model='models/'+self.llm_name,api_key=gemini_api_key,temperature=0.1)
+            
+            if self.llm_name == 'gemini-1.5-flash':
+                # self.llm = Gemini(model='models/'+self.llm_name,api_key=api_key_dictionary[self.llm_name],temperature=0.1)
+                self.llm = Gemini(model='models/'+self.llm_name,api_key=gemini_api_key,temperature=0.1)
         else:
             self.llm = Gemini(model='models/'+self.llm_name,api_key=gemini_api_key,temperature=0)
     
@@ -80,8 +86,8 @@ class SimilarityCheck:
         return f"SimilarityCheck(input_dataframe={self.input_dataframe}, model_name={self.model_name})"
 
     async def check_similarity(self):
-        total_batches = len(self.input_dataframe)
-        pbar = tqdm(total=total_batches, ncols=100, desc="Processing")
+        total_batches = len(self.input_dataframe/self.batch_size)
+        pbar = tqdm(total=total_batches, ncols=100, desc="Processing", position=0)
 
         # Initialize the failed_dataframe and failed_dataframe to store skipped and failed rows
         failed_dataframe = pd.DataFrame()
@@ -127,13 +133,13 @@ class SimilarityCheck:
     
     async def calculate_similarity(self, answers, question):
         retries = 4
-        delay = 20
-        
-        for attempt in range(retries):
+        delay = 60
+        attempt = 0
+        while attempt < retries:
             try:
                 answer_replacements = "/n".join([f"Câu {i+1}: {answers[i]}" for i in range(len(answers))]) + "/n"
 
-                if self.llm_name == 'gemini-1.5-flash-8b-exp-0924':
+                if self.llm_name == 'gemini-1.5-flash-8b-exp-0924' or self.llm_name == 'gemini-1.5-flash':
                     output = await self.llm.acomplete(self.prompt.replace("{num_answer}", str(len(answers))).replace("{question}", question).replace("{answers}", answer_replacements))
                     scores = list(map(float, output.text.split()))
                 else:
@@ -157,15 +163,20 @@ class SimilarityCheck:
                 return average_similarity
             
             except Exception as e:
-                print(f"Attempt {attempt + 1}/{retries} failed with error: {e}")
-
-                if attempt < retries - 1:
-                    print(f"Retrying in {delay} seconds...")
+                if "429" in str(e) or getattr(e, 'code', None) == 429:
+                    # tqdm.write("Error 429 detected. Retrying without counting this attempt.")
                     await asyncio.sleep(delay)
+                    continue
                 else:
-                    print("Max retries reached. Logging failed case.")
-                    
-                    return -1 
+                    tqdm.write(f"Attempt {attempt + 1}/{retries} failed with error: {e}")
+                
+                if attempt < retries - 1:
+                    tqdm(f"Retrying in {delay} seconds...")
+                    await asyncio.sleep(delay)
+                    attempt += 1 
+                else:
+                    tqdm.write("Max retries reached. Logging failed case.")
+                    return -1
 
     async def batch_process(self, batch, failed_dataframe):
         tasks = []
@@ -186,7 +197,7 @@ class SimilarityCheck:
 
     async def pipeline_check_similarity(self):
         batch_size = self.batch_size
-        total_batches = len(range(0, len(self.input_dataframe), batch_size))
+        total_batches = (len(self.input_dataframe) + batch_size - 1) // batch_size
         pbar = tqdm(total=total_batches, ncols=100, desc="Processing")
 
         failed_dataframe = pd.DataFrame()
@@ -213,7 +224,7 @@ class SimilarityCheck:
 
                 batch = []
 
-            pbar.update(len(batch))  
+                pbar.update(1)  
 
         pbar.close()
 

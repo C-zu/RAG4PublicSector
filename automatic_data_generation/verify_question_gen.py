@@ -136,7 +136,7 @@ class CrossCheckingLLMs:
             llm_interface = Gemini(model='models/'+llm,api_key=self.api_key_dictionary[llm],temperature=0.1)
         else:
             llm_interface = self.get_model_OpenAI(llm)
-        time_delay = 20
+        time_delay = 2
 
         while True:
             try:
@@ -158,8 +158,8 @@ class CrossCheckingLLMs:
                     result = [s.strip() for s in result]    
                 return result
             except Exception as e:
-                print(f"Error in check_relevent: {e}")
-                print(f"Retry after {time_delay}s")
+                tqdm.write(f"Error in check_relevent: {e}")
+                tqdm.write(f"Retry after {time_delay}s")
                 await asyncio.sleep(time_delay)
 
     async def cross_check(self):

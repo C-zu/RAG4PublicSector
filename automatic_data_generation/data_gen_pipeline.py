@@ -6,13 +6,15 @@ from qa_gen import Question_Generation
 from paraphase_question import ParaphrasingQuestion
 import os
 import pandas as pd
-import pandas as pd
 from openai import OpenAI
 import asyncio
 import shutil
+import re
+from tqdm import tqdm
+import ast
 
 together_api_key = "b2364e8538f36185c3c7551f17ca2f730e3d0b495b5850faa4888a7043e0fc11" #trongnghiakazuhatran@gmail.com
-gemini_api_key = "AIzaSyAzYDnRtHu1t0WmAazdzAq-VNJ93IUMwi4"
+gemini_api_key = "AIzaSyD8zWm_BwywzU5uvjsqeMhLSKk6XmoWW40" #bapngan
 mistral_api_key = "jDVi03OCpbFVWaAZAd8gpa9JOL8mjdqU"
 groq_api_key = "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"
 open_router_api_key = "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"
@@ -105,111 +107,226 @@ class DataPipeline:
                     elif os.path.isdir(file_path):
                         shutil.rmtree(file_path) 
                 except Exception as e:
-                    print(f"Failed to delete {file_path}. Reason: {e}")
+                    tqdm.write(f"Failed to delete {file_path}. Reason: {e}")
         
     async def qa_generation(self):
         tasks = []
 
         for index, llm_name in enumerate(self.LLM_list):
-            print(f"Generating QA data using model: {llm_name}")
+            tqdm.write(f"Generating QA data using model: {llm_name}")
 
             qa_generator = Question_Generation(
                 self.context,
                 llm_name,
                 output_path=self.output_path + f'/{llm_name.split("/")[0]}.parquet',
-                batch_size=8,
+                batch_size=2,
                 # prompt=qa_prompt,
                 api_key_dictionary=self.api_key_dictionary
             )
 
-            tasks.append(self.generate_and_verify(qa_generator, llm_name))
+            tasks.append(self.generate_question(qa_generator, llm_name))
 
         await asyncio.gather(*tasks)
 
-    async def generate_and_verify(self, qa_generator, llm_name):
+    async def generate_question(self, qa_generator, llm_name):
         qa_dataframe = await qa_generator.run()
         self.QA_dataframe.append(qa_dataframe)
 
-        await self.question_and_answer_verification_run(self.LLM_list.index(llm_name))
+    async def async_question_verification(self):
+        q_tasks = []
+        for index, df in enumerate(self.QA_dataframe):
+            list_llm_checkers = self.LLM_list[:index] + self.LLM_list[index + 1:]
+            df_name = self.LLM_list[index].split('/')[0]
 
-    async def question_and_answer_verification_run(self, llm_index):
-        tasks = [
-            self.question_and_answer_verification(df, index)
-            for index, df in enumerate(self.QA_dataframe)
-        ]
-
-        await asyncio.gather(*tasks)
-        await self.answer_verification(self.question_verification_dataframe, llm_index)
-        return None
-    
-    async def answer_verification(self, list_verified_question, llm_index):
-        df_name = self.LLM_list[llm_index].split('/')[0]
-        print(len(list_verified_question))
-
-        for df in list_verified_question:
-            sim_checker = SimilarityCheck(
+            checker = CrossCheckingLLMs(
+                self.context,
                 df,
-                batch_size=8,
-                output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
-                llm='gemini-1.5-flash-8b-exp-0924',
-                # prompt=sim_prompt,  # Uncomment if needed
-                api_key_dictionary=self.api_key_dictionary
+                None,
+                list_llm_checkers,
+                output_path=self.output_path + f'/{df_name}_verified_question_dataframe.csv',
+                api_key_dictionary=self.api_key_dictionary,
             )
-            verified_answers_df = await sim_checker.pipeline_check_similarity()  
-            self.answer_verification_dataframe.append(verified_answers_df)
 
+            q_tasks.append(checker.cross_check())
+
+        # Thực thi tất cả các nhiệm vụ cùng lúc
+        local_results = await asyncio.gather(*q_tasks)
+
+        # Lưu kết quả vào `self.question_verification_dataframe`
+        self.question_verification_dataframe.extend(local_results)
+        for index, df in enumerate(self.question_verification_dataframe):
+            df.to_csv(f"{self.output_path}/{index}.csv")
         return None
-    
-    async def question_and_answer_verification(self, df, index):
-        # Get the name of the LLM and create list of checkers
-        list_llm_checkers = self.LLM_list[:index] + self.LLM_list[index + 1:]
-        df_name = self.LLM_list[index].split('/')[0]
+
         
-        print(f"Verifying questions from {df_name} QA dataframe...")
 
-        # Create an instance of CrossCheckingLLMs for question verification
-        checker = CrossCheckingLLMs(
-            self.context,
-            df,
-            None,
-            list_llm_checkers,
-            output_path=self.output_path + f'/{df_name}_verified_question_dataframe.csv',
-            api_key_dictionary=self.api_key_dictionary,
-        )
+    # async def answer_verification(self, list_verified_question):
+    #         print(f"list_verified_question length: {len(list_verified_question)}")
+    #         print(f"self.LLM_list length: {len(self.LLM_list)}") 
+    #         df1 = pd.read_csv(f"{self.output_path}/gemini-1.5-flash-8b-exp-0924_verified_question_dataframe.csv")
+    #         df2 = pd.read_csv(f"{self.output_path}/meta-llama_verified_question_dataframe.csv")
+    #         df3 = pd.read_csv(f"{self.output_path}/mistral-large-latest_verified_question_dataframe.csv")
+    #         list_verified_question = [df1,df2,df3]
+            
+    #         for index, df in enumerate(list_verified_question):
+    #             df_name = self.LLM_list[index].split('/')[0]
+    #             sim_checker = SimilarityCheck(
+    #                 df,
+    #                 batch_size=8,
+    #                 output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
+    #                 llm='gemini-1.5-flash',
+    #                 # prompt=sim_prompt,  # Uncomment if needed
+    #                 api_key_dictionary=self.api_key_dictionary
+    #             )
+    #             verified_answers_df = await sim_checker.pipeline_check_similarity()  
+    #             self.answer_verification_dataframe.append(verified_answers_df)
+    #         return None
+    
+    async def answer_verification(self, list_verified_question):
+        print(f"list_verified_question length: {len(list_verified_question)}")
+        print(f"self.LLM_list length: {len(self.LLM_list)}") 
 
-        # Perform question verification and await the result
-        verified_questions_df = await checker.cross_check()
-
-        # Store the result in the question verification dataframe list
-        self.question_verification_dataframe.append(verified_questions_df)
+        try:
+            for index, df in enumerate(list_verified_question):
+                df_name = self.LLM_list[index].split('/')[0]
+                sim_checker = SimilarityCheck(
+                    df,
+                    batch_size=8,
+                    output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
+                    llm='gemini-1.5-flash',
+                    # prompt=sim_prompt,  # Uncomment if needed
+                    api_key_dictionary=self.api_key_dictionary
+                )
+                verified_answers_df = await sim_checker.pipeline_check_similarity()  
+                self.answer_verification_dataframe.append(verified_answers_df)
+        except Exception as e:
+            print(f"Error processing DataFrame for index {index}: {e}")
+            # Read all DataFrames from files
+            try:
+                df1 = pd.read_csv(f"{self.output_path}/gemini-1.5-flash-8b-exp-0924_verified_question_dataframe.csv")
+                df2 = pd.read_csv(f"{self.output_path}/meta-llama_verified_question_dataframe.csv")
+                df3 = pd.read_csv(f"{self.output_path}/mistral-large-latest_verified_question_dataframe.csv")
+                list_verified_question = [df1, df2, df3]
+                print("Successfully reloaded all DataFrames from files.")
+                for index, df in enumerate(list_verified_question):
+                    df_name = self.LLM_list[index].split('/')[0]
+                    sim_checker = SimilarityCheck(
+                        df,
+                        batch_size=8,
+                        output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
+                        llm='gemini-1.5-flash',
+                        # prompt=sim_prompt,  # Uncomment if needed
+                        api_key_dictionary=self.api_key_dictionary
+                    )
+                    verified_answers_df = await sim_checker.pipeline_check_similarity()  
+                    self.answer_verification_dataframe.append(verified_answers_df)
+            except Exception as reload_error:
+                print(f"Failed to reload DataFrames from files: {reload_error}")
+                return None  # Exit the function if reloading fails
+        return None
         
     def aggregation_dataframe(self):
-        combination_interface = AggregationDataframe(self.answer_verification_dataframe, output_path=self.output_path+f'/final_dataframe_{self.start_index}_{self.end_index}.csv')
-        self.final_dataframe = combination_interface.pipeline_run()
-
-    async def paraphrase_phase(self):
-        pq = ParaphrasingQuestion(
-            self.final_dataframe,
-            output_path=self.output_path+f'_paraphased_final_dataframe.csv',
-            api_key_dictionary=self.api_key_dictionary,
-            batch_size=8
-        )
-        self.paraphrased_dataframe = await pq.pipeline_paraphrasing_run()
+        try:
+            combination_interface = AggregationDataframe(
+                self.answer_verification_dataframe, 
+                output_path=self.output_path + f'/final_dataframe_{self.start_index}_{self.end_index}.csv'
+            )
+            self.final_dataframe = combination_interface.pipeline_run()
+        except Exception as e:
+            tqdm.write(f"Error occurred in pipeline run: {e}")
             
+            try:
+                df1 = pd.read_csv(f"{self.output_path}/gemini-1.5-flash-8b-exp-0924_verified_answer_dataframe.csv")
+                df2 = pd.read_csv(f"{self.output_path}/meta-llama_verified_answer_dataframe.csv")
+                df3 = pd.read_csv(f"{self.output_path}/mistral-large-latest_verified_answer_dataframe.csv")
+                dataframes = [df1, df2, df3]
+                aggregator = AggregationDataframe(
+                    dataframes, 
+                    f"{self.output_path}/final_non_processed_3_answer_dataframe.csv"
+                )
+                self.final_dataframe = aggregator.run()
+                tqdm.write("Successfully ran aggregation from fallback method.")
+            except Exception as fallback_error:
+                tqdm.write(f"Error occurred in fallback aggregation: {fallback_error}")
+    
+        # async def paraphrase_phase(self):
+        #     pq = ParaphrasingQuestion(
+        #         self.final_dataframe,
+        #         output_path=self.output_path+f'_paraphased_final_dataframe.csv',
+        #         api_key_dictionary=self.api_key_dictionary,
+        #         batch_size=8
+        #     )
+        #     self.paraphrased_dataframe = await pq.pipeline_paraphrasing_run()
+                
+    def clean_data(self, line):
+        line = line.replace("*","")
+        line = line.replace("-","")
+        return line
+
+    def process_final_data(self):
+        processed_data = self.final_dataframe.copy()
+        # processed_data = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_500_502/final_non_processed_3_answer_dataframe_400_500.csv")
+
+        processed_data ['Answers'] = processed_data ['Answers'].apply(lambda x: max(x, key=len) if x else x[0])
+        processed_data['Answers'] = processed_data['Answers'].apply(self.clean_data)
+        processed_data['Question'] = processed_data['Question'].apply(self.clean_data)
+
+        for index, row in processed_data.iterrows():
+            if "thủ tục này" in row['Question']:
+                result = re.search(r"Tên thủ tục:\r\n(.*?)\r\nCấp thực hiện", row['Context'], re.DOTALL)
+
+                if result:
+                    extracted_string = result.group(1).strip()
+                    row['Question'] = row['Question'].replace("thủ tục này", extracted_string)
+        
+        for index, row in processed_data.iterrows():
+            result = re.search(r'\d+\..+?\?', row['Answers'], re.DOTALL)
+
+            if result:
+                pattern = r'\d+\..+?\?'
+                cleaned_answer = re.sub(pattern, '', row['Answers']).strip()
+                cleaned_answer = cleaned_answer.replace('-', '').strip()
+                processed_data.at[index, 'Answers'] = cleaned_answer
+            
+        for index, row in processed_data.iterrows():
+            result = re.search(r'^\d+\.\s*', row['Answers'])
+
+            if result:
+                pattern = r'^\d+\.\s*'
+                cleaned_answer = re.sub(pattern, '', row['Answers']).strip()
+                processed_data.at[index, 'Answers'] = cleaned_answer
+
+        if processed_data is not None:
+            tqdm.write("Processed data has been saved!")
+            output_path=self.output_path+f'/final_processed_dataframe_{self.start_index}_{self.end_index}.csv'
+            processed_data.to_csv(output_path)
 
     def run(self):
+        print("=======================================")
         print("Starting QA Generation phase")
         asyncio.run(self.qa_generation())
+        print("=======================================\n")
+
+        print("Starting Verifying Question dataframes")
         print("=======================================")
+        asyncio.run(self.async_question_verification())
+
+        print("Starting Verifying Answer dataframes")
+        print("=======================================\n")
+        asyncio.run(self.answer_verification(self.question_verification_dataframe))
 
         print("Starting Aggregation all dataframes")
         print("=======================================")
         self.aggregation_dataframe()
-        print("=======================================")
+        print("=======================================\n")
 
-        print("Starting Paraphrase final dataframes")
+        print("Starting Cleaning all dataframes")
         print("=======================================")
-        asyncio.run(self.paraphrase_phase())
+        self.process_final_data()
+        print("=======================================\n")
+        # print("Starting Paraphrase final dataframes")
+        # print("=======================================")
+        # asyncio.run(self.paraphrase_phase())
 
     
 def main():
@@ -234,6 +351,7 @@ def main():
                        end_index=args.corpus_end,
                        output_path='/data/data_gen_from_pipeline')
     
+    # asyncio.run(pipepline.answer_verification(1))
     pipepline.run()
 
 if __name__ == "__main__":
