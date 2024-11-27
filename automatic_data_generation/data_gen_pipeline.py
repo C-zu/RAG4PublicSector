@@ -154,33 +154,9 @@ class DataPipeline:
 
         # Lưu kết quả vào `self.question_verification_dataframe`
         self.question_verification_dataframe.extend(local_results)
-        for index, df in enumerate(self.question_verification_dataframe):
-            df.to_csv(f"{self.output_path}/{index}.csv")
+        # for index, df in enumerate(self.question_verification_dataframe):
+        #     df.to_csv(f"{self.output_path}/{index}.csv")
         return None
-
-        
-
-    # async def answer_verification(self, list_verified_question):
-    #         print(f"list_verified_question length: {len(list_verified_question)}")
-    #         print(f"self.LLM_list length: {len(self.LLM_list)}") 
-    #         df1 = pd.read_csv(f"{self.output_path}/gemini-1.5-flash-8b-exp-0924_verified_question_dataframe.csv")
-    #         df2 = pd.read_csv(f"{self.output_path}/meta-llama_verified_question_dataframe.csv")
-    #         df3 = pd.read_csv(f"{self.output_path}/mistral-large-latest_verified_question_dataframe.csv")
-    #         list_verified_question = [df1,df2,df3]
-            
-    #         for index, df in enumerate(list_verified_question):
-    #             df_name = self.LLM_list[index].split('/')[0]
-    #             sim_checker = SimilarityCheck(
-    #                 df,
-    #                 batch_size=8,
-    #                 output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
-    #                 llm='gemini-1.5-flash',
-    #                 # prompt=sim_prompt,  # Uncomment if needed
-    #                 api_key_dictionary=self.api_key_dictionary
-    #             )
-    #             verified_answers_df = await sim_checker.pipeline_check_similarity()  
-    #             self.answer_verification_dataframe.append(verified_answers_df)
-    #         return None
     
     async def answer_verification(self, list_verified_question):
         print(f"list_verified_question length: {len(list_verified_question)}")
@@ -214,7 +190,7 @@ class DataPipeline:
                         df,
                         batch_size=8,
                         output_path=self.output_path + f'/{df_name}_verified_answer_dataframe.csv',
-                        llm='gemini-1.5-flash',
+                        llm='gemini-1.5-flash-8b-exp-0924',
                         # prompt=sim_prompt,  # Uncomment if needed
                         api_key_dictionary=self.api_key_dictionary
                     )
@@ -304,24 +280,31 @@ class DataPipeline:
     def run(self):
         print("=======================================")
         print("Starting QA Generation phase")
+        print("=======================================")
         asyncio.run(self.qa_generation())
         print("=======================================\n")
 
-        print("Starting Verifying Question dataframes")
         print("=======================================")
+        print("Starting Verifying Question dataframes")
+        print("=======================================\n")
         asyncio.run(self.async_question_verification())
+        print("=======================================\n")
 
+        print("=======================================")
         print("Starting Verifying Answer dataframes")
         print("=======================================\n")
         asyncio.run(self.answer_verification(self.question_verification_dataframe))
+        print("=======================================\n")
 
+        print("=======================================")
         print("Starting Aggregation all dataframes")
         print("=======================================")
         self.aggregation_dataframe()
         print("=======================================\n")
 
-        print("Starting Cleaning all dataframes")
         print("=======================================")
+        print("Starting Cleaning all dataframes")
+        print("=======================================\n")
         self.process_final_data()
         print("=======================================\n")
         # print("Starting Paraphrase final dataframes")

@@ -53,6 +53,7 @@ class AggregationDataframe:
         """
         common_contexts = self.intersection_df['Context']
         self.dataframes = [df[df['Context'].isin(common_contexts)] for df in self.dataframes]
+        # print(len(self.dataframes))
 
     # Combine all filtered DataFrames
     def combine_dataframes(self):
@@ -79,7 +80,7 @@ class AggregationDataframe:
         self.grouped_df = self.grouped_df.agg({'Answers': self.aggregate_answers})
 
     # Run the full pipeline
-    def run(self):
+    def     run(self):
         """
         Runs the full pipeline: merge, filter, combine, and aggregate.
         """
@@ -105,9 +106,9 @@ class AggregationDataframe:
             self.grouped_df.to_csv(self.output_path)
         return self.grouped_df
 
-# df1 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/gemini-1.5-flash-8b-exp-0924_verified_answer_dataframe.csv")
-# df2 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/meta-llama_verified_answer_dataframe.csv")
-# df3 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/mistral-large-latest_verified_answer_dataframe.csv")
+# df1 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_5/gemini-1.5-flash-8b-exp-0924_verified_answer_dataframe.csv")
+# df2 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_5/meta-llama_verified_answer_dataframe.csv")
+# df3 = pd.read_csv("E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_5/mistral-large-latest_verified_answer_dataframe.csv")
 # dataframes = [df1, df2, df3]
-# aggregator = AggregationDataframe(dataframes, "E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_4/final_non_processed_3_answer_dataframe.csv")
+# aggregator = AggregationDataframe(dataframes, "E:/thesis/RAG4PublicSector/data/data_gen_from_pipeline/pipeline_index_0_5/final_non_processed_3_answer_dataframe.csv")
 # result_df = aggregator.run()
