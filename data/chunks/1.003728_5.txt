@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu không dùng làm thực phẩm
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan kiểm dịch động vật cửa khẩu
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 79/2015/QH13|Luật Thú y|19-06-2015|Quốc Hội|
+|36/2018/TT-BNNPTNT|Sửa đổi, bổ sung một số điều của Thông tư 26/2016/TT-BNNPTNT quy định về kiểm dịch động vật, sản phẩm động vật thủy sản|25-12-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|26/2016/TT-BNNPTNT|Quy định về kiểm dịch động vật, sản phẩm động vật thủy sản|30-06-2016|Bộ Nông nghiệp và Phát triển nông thôn|
+|283/2016/TT-BTC|QQuy định khung giá dịch vụ tiêm phòng, tiêu độc, khử trùng cho động vật, chẩn đoán thú y và dịch vụ kiểm nghiệm thuốc dùng cho động vật|14-11-2016|Bộ Tài chính|
+|101/2020/TT-BTC|Thông tư 101/2020/TT-BTC|23-11-2020||
+|06/2022/TT-BNNPTNT|Thông tư|28-07-2022|Bộ Nông nghiệp và Phát triển nông thôn|

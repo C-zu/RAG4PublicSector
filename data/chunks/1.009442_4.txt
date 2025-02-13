@@ -1,0 +1,9 @@
+Tên thủ tục: Thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfb0547f2d0588'">1.docx</a>)
+- 01 Bản chính - Bản sao văn bản chấp thuận chủ trương đầu tư dự án của cơ quan có thẩm quyền (nếu có);
+- 01 Bản chính - Hồ sơ thiết kế sơ bộ luồng đường thủy nội địa.

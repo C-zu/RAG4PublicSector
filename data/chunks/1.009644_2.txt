@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục điều chỉnh văn bản chấp thuận nhà đầu tư của UBND cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư chuyển nhượng dự án nộp hồ sơ theo quy định tại khoản 5 Điều 48 Nghị định số 31/2021/NĐ-CP cho Sở Kế hoạch và Đầu tư, trong đó văn bản đề nghị điều chỉnh dự án đầu tư được thay thế bằng văn bản đề nghị chấp thuận điều chỉnh nhà đầu tư;
+- Bước 2: Sở Kế hoạch và Đầu tư gửi hồ sơ lấy ý kiến của cơ quan nhà nước có thẩm quyền cùng cấp có liên quan về việc đáp ứng yêu cầu quy định tại các điểm b, c và d khoản 4 Điều 33 của Luật Đầu tư;
+- Bước 3: Các cơ quan được lấy ý kiến có ý kiến về nội dung thuộc phạm vi quản lý nhà nước của cơ quan đó, gửi Sở Kế hoạch và Đầu tư;
+- Bước 4: Sở Kế hoạch và Đầu tư lập báo cáo thẩm định gồm nội dung theo quy định tại các điểm b, c và d khoản 4 Điều 33 của Luật Đầu tư, trình Ủy ban nhân dân cấp tỉnh;
+- Bước 5: Ủy ban nhân dân cấp tỉnh quyết định chấp thuận điều chỉnh nhà đầu tư;

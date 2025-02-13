@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục đăng ký tham gia hội nghị, hội thảo khoa học quốc tế do Quỹ Phát triển khoa học và công nghệ Quốc gia hỗ trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Thư mời trình bày báo cáo khoa học tại hội nghị, hội thảo;
+ - Báo cáo khoa học sẽ trình bày tại hội nghị, hội thảo;
+- 01 Bản chính - Lý lịch khoa học; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f8bde69230f4780'">Mẫu NCNLQG 02.docx</a>)
+- 01 Bản chính - Các tài liệu chứng minh là nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập (nếu có);
+- 01 Bản chính - Dự toán kinh phí. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef6cddc8cf452'">Mẫu NCNLQG 03.docx</a>)
+- 01 Bản chính - Đơn đề nghị hỗ trợ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaa11babfce256'">Mẫu NCNLQG 01.docx</a>)

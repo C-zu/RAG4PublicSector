@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Đăng ký tham gia kiểm toán cho đơn vị có lợi ích công chúng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|trước ngày 15/11 hàng năm||+ Nộp Trực tiếp tại trụ sở cơ quan hành chính nhà nước (Bộ Tài chính). + Thời hạn giải quyết: - Tổ chức kiểm toán có nhu cầu tham gia kiểm toán cho đơn vị có lợi ích công chúng nộp hồ sơ đăng ký cho Bộ Tài chính từ ngày 01/10 đến ngày 20/10. - Trường hợp hồ sơ chưa đúng theo quy định thì Bộ Tài chính yêu cầu tổ chức kiểm toán hoàn thiện hồ sơ trước ngày 05/11. - Trường hợp không chấp thuận thì trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ Bộ Tài chính có văn bản trả lời nêu rõ lý do không chấp thuận. - Bộ Tài chính công bố công khai danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề của tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng trước ngày 15/11.|

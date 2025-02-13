@@ -1,0 +1,14 @@
+Tên thủ tục: Đăng ký tham gia tuyển chọn, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước (thẩm quyền giải quyết của Sở Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký chủ trì nghiệm thu nhiệm vụ khoa học & công nghệ cấp tỉnh (Biểu B1-1-Đơn). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd28865beaacd20'">Biểu B1-1-ĐON.doc</a>)
+- 01 Bản chính - Thuyết minh đề tài nghiên cứu ứng dụng và phát triển công nghệ (Biểu B1-2a-TMĐTCN). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7d00f480b825e'">Biểu B1-2a-TMĐTCN.doc</a>)
+- 01 Bản chính - Thuyết minh đề tài nghiên cứu khoa học và xã hội nhân văn (Biểu B1-2b-TMĐTXH). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8c97159d760d6'">Biểu B1-2b-TMĐTXH.doc</a>)
+- 01 Bản chính - Thuyết minh dự án sản xuất thử nghiệm (Biểu B1-2c-TMDA). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd797236ae97142'">Biểu B1-2c-TMDA.doc</a>)
+- 01 Bản chính - Thuyết minh đề án khoa học (Biểu B1-2d-TMĐA). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed6cc3e0ca88f0'">Biểu B1-2d-TMĐA.doc</a>)
+- 01 Bản chính - Lý lịch hoạt động khoa học và công nghệ của tổ chức chủ trì (B1-3-LLTC). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc22e466130e18'">Biểu B1-3-LLTC.doc</a>)
+- 01 Bản chính - Lý lịch khoa học của cá nhân đăng ký chủ nhiệm và tham gia (B1-4-LLCN). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd21da844fc0dee'">BiÓu B1-4-LLCN.doc</a>)
+- 01 Bản chính - Giấy xác nhận phối hợp nghiên cứu (B1-5-PHNC) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec36ff2fccfa03'">BiÓu B1-5-PHNC.doc</a>)

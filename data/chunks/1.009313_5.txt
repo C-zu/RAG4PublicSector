@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục cấp lại, chỉnh sửa số nhà
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp xã
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện
+Địa chỉ tiếp nhận HS:
+Ủy ban nhân dân cấp xã.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+1. Quyết định hành chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|108/2007/QĐ-UBND|Ban hành quy định đánh số và gắn biển số nhà trên địa bàn tỉnh Bình Dương.|11-10-2007|UBND tỉnh Bình Dương|
+|05/2006/QĐ-BXD|Quyết định số 05/2006/QĐ-BXD ngày 08/03/2006 của Bộ Trưởng Bộ xây dựng về việc ban hành quy chế đánh số nhà và gắn số nhà|08-03-2006|Bộ Xây dựng|

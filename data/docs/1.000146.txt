@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000146
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân nộp hồ sơ cho Cục ATBXHN
+Bước 2: Cục ATBXHN xem xét hồ sơ và tổ chức thẩm định:
++ Nếu đủ điều kiện theo quy định hiện hành, Cục ATBXHN trình Bộ Khoa học và Công nghệ cấp giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân).
++ Trong trường hợp không cấp giấy phép, Bộ Khoa học và Công nghệ trả lời bằng văn bản và nêu rõ lý do
+Bước 3: Cục ATBXHN cấp Giấy phép tiến hành công việc bức xạ
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị ([Đơn đề nghị.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a0225f8d5bb9'))
+- 01 Bản chính Báo cáo đánh giá an toàn
+- 01 Bản sao Bản sao quyết định thành lập tổ chức, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặc giấy đăng ký hành nghề
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất cung cấp thông tin như được khai trong phiếu khai báo vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân
+- 01 Bản sao Bản sao hợp đồng mua bán và văn bản thỏa thuận về việc chuyển giao, tiếp nhận nguồn phóng xạ giữa tổ chức, cá nhân xuất khẩu phía Việt Nam với tổ chức, cá nhân tiếp nhận nguồn ở nước ngoài
+- 01 Bản sao Bản sao giấy phép nhập khẩu của cơ quan có thẩm quyền nước nhập khẩu cấp cho tổ chức, cá nhân nhập khẩu đối với chất phóng xạ có mức nguy hiểm trên trung bình
+- 01 Bản chính Bản dịch các tài liệu tiếng nước ngoài
+- 01 Bản chính + Phiếu khai báo vật liệu hạt nhân nguồn ([Phieu khai bao vat lieu hat nhan nguon.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c05c0275d946'))
+- 01 Bản chính Phiếu khai báo vật liệu hạt nhân ([Phieu khai bao vat lieu hat nhan.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd92146aa7df11e'))
+- 01 Bản chính Phiếu khai báo thiết bị hạt nhân ([Phieu khai bao thiet bi hat nhan.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4fed8519799f9'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|08/2010/TT-BKHCN|Hướng dẫn về việc khai báo, cấp giấy phép tiến hành công việc bức xạ và cấp chứng chỉ nhân viên bức xạ|22-07-2010|Bộ Khoa học và Công nghệ|
+|287/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực năng lượng nguyên tử|15-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân)
+Mô tả:
+Không có thông tin

@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008115
+Số quyết định:
+150a/QĐ-UBND
+Tên thủ tục:
+Thẩm định Thiết kế Bản vẽ thi công – Dự toán công trình.
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện đến Bộ phận một cửa Sở Giao thông vận tải- Trung tâm Phục vụ hành chính công tỉnh Bắc Giang, nếu đủ và hợp lệ cán bộ tiếp nhận viết giấy hẹn trả kết quả.
+- Địa chỉ: Bộ phận một cửa Sở Giao thông vận tải- Trung tâm Phục vụ hành chính công tỉnh Bắc Giang, Khu liên cơ quan tỉnh Bắc Giang, Quảng trường 3/2, phường Ngô Quyền, thành phố Bắc Giang, tỉnh Bắc Giang;
+- Điện thoại: 0204.3.662.002;
+- Thời gian tiếp nhận: Trong giờ hành chính, từ thứ 2 đến thứ 6 hàng tuần.
+Bước 2: Lãnh đạo P.QLCLCTGT căn cứ vào năng lực chuyên viên trong phòng, mức độ phức tạp của từng công trình trong dự án để phân công nhiệm vụ xem xét hồ sơ hoàn công cho chuyên viên (phê trực tiếp). Việc phân công thực hiện ngay trong ngày tiếp nhận hồ sơ. Lãnh đạo P.QLCLCTGT ghi biểu theo dõi quá trình xử lý công việc của Chuyên viên.
+Bước 3: Công chức chuyên môn của phòng xử lý có trách nhiệm tổ chức kiểm tra hiện trường (nếu cần), xem xét, thẩm định hồ sơ:
+- Trường hợp hồ sơ tài liệu còn thiếu, không đúng so với quy định hoặc không đúng so với thực tế tham mưu Lãnh đạo Sở ký văn bản gửi Bộ phận một cửa đề nghị tổ chức, công dân hoàn thiện hồ sơ theo quy định.
+- Nếu thẩm định đạt yêu cầu công chức thụ lý hồ sơ dự thảo văn bản trình Lãnh đạo Sở ký thẩm định.
+- Nếu hồ sơ không đạt yêu cầu, chuyên viên trao đổi với lãnh dạo phòng, lãnh đạo Sở, có thông báo trả lời công dân và trả hồ sơ lại bộ phận TN&TKQ.
+- Nếu hồ sơ cần giải trình làm rõ, chỉnh sửa…sẽ mời chủ đầu tư để thực hiện.
+Bước 4: Lãnh đạo phòng xem xét hồ sơ, dự thảo thông báo kết quả thẩm định, nếu đạt yêu cầu tiến hành ký nháy vào dự thảo, trình lãnh đạo Sở phê duyệt.
+Bước 5: Lãnh đạo Sở kiểm tra, soát xét hồ sơ ký duyệt kết quả giải quyết.
+Bước 6: Công chức thụ lý hồ sơ tiếp nhận kết quả chuyển văn thư lấy số, vào sổ phát hành văn bản và chuyển kết quả về bộ phận tiếp nhận và trả kết quả.
+Bước 7: Trả kết quả giải quyết cho tổ chức, công dân.
+- Thời gian trả kết quả: Trong giờ hành chính, từ thứ 2 đến thứ 6 hàng tuần.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|18 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+*. Đối với công trình thẩm định thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán công trình (điều 29-Nghị định 59/2015/NĐ-CP):
+- 01 Bản chính - Tờ trình thẩm định thiết kế xây dựng theo biểu số 01 (theo phụ lục số II, Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 của Chính phủ). ([Biểu mẫu số 01.To trinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea8644b4eee240'))
+- 01 Bản chính - Hồ sơ thiết kế cơ sở, hồ sơ khảo sát xây dựng, hồ sơ năng lực của đơn vị tư vấn khảo sát, lập dự án (bản chính có đóng dấu của Chủ đầu tư).
+- 01 Bản chính Hồ sơ thiết kế kỹ thuật (trường hợp thiết kế 3 bước), hồ sơ thiết kế bản vẽ thi công (trường hợp thiết kế 2 bước) có xác nhận của Chủ đầu tư.
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư theo biểu mẫu số 02(theo biểu mẫu số 01, thông tư số 18/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng). ([Biểu mẫu số 02.Bao cao.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcde526a14c39e'))
+- 01 Bản chính Văn bản thẩm duyệt phòng cháy chữa cháy, báo cáo đánh giá tác động môi trường (nếu có).
+- 01 Bản chính Các bản vẽ thiết kế và thuyết minh thiết kế xây dựng công trình.
+- 01 Bản chính Dự toán xây dựng công trình.
+
+
+*. Đối với thẩm định điều chỉnh thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán công trình (theo điều 84-Luật xây dựng 2014):
+- 01 Bản chính Tờ trình thẩm định điều chỉnh thiết kế xây dựng theo biểu số 03. ([Biểu mẫu số 01.To trinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2e127dcf9e350'))
+- 01 Bản chính Hồ sơ điều chỉnh dự án, thiết kế cơ sở đã được phê duyệt. Hồ sơ điều chỉnh thiết kế kỹ thuật (trong trường hợp thiết kế 3 bước), thiết kế bản vẽ thi công (trường hợp thiết kế 2 bước), hồ sơ khảo sát điều chỉnh theo dự án đã được phê duyệt điều chỉnh.
+- 01 Bản chính Dự toán điều chỉnh và thuyết minh thiết kế xây dựng.
+- 01 Bản chính Báo cáo của Chủ đầu tư, phương án giải trình về điều chỉnh thiết kế chứng minh hiệu quả kinh tế, đảm bảo chất lượng công trình. ([Biểu mẫu số 02.Bao cao.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca03a9d10a22d4'))
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư theo biểu mẫu số 02(theo biểu mẫu số 01, thông tư số 18/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng).
+- 01 Bản chính Văn bản thẩm duyệt phòng cháy chữa cháy, báo cáo đánh giá tác động môi trường (nếu có).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải - tỉnh Bắc Giang
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải - tỉnh Bắc Giang
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Bắc Giang
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thông báo kết quả thẩm định thiết kế BVTC-DT.
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

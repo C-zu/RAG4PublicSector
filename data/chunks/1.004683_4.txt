@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đăng ký theo Mẫu số 17.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefd93eb21a17ef'">MAU SO 17.docx</a>)
+- 01 Bản chính b) Đề cương khảo nghiệm theo Mẫu số 18.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd00ac7a3df79d4'">MAU SO 18.docx</a>)
+- 01 Bản chính c) Bản thuyết minh điều kiện của cơ sở thực hiện khảo nghiệm theo Mẫu số 19.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb2263054236bf0'">Mau so 19.docx</a>)

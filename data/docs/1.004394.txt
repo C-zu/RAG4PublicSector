@@ -1,0 +1,99 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004394
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+Bước 2: Bộ Thông tin và Truyền thông kiểm tra và thông báo cho doanh nghiệp nộp hồ sơ biết về tính hợp lệ của hồ sơ sau 03 ngày làm việc kể từ khi nhận được hồ sơ. Đối với hồ sơ không hợp lệ, Bộ Thông tin và Truyền thông có văn bản thông báo cho doanh nghiệp nộp hồ  sơ và nêu rõ yếu tố không hợp lệ. Doanh nghiệp có quyền nộp lại hồ sơ bổ sung hoặc văn bản giải trình tính hợp lệ.
+Bước 3: Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với bộ, ngành có liên quan thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ kinh doanh sản phẩm, dịch vụ quy định tại điểm c, điểm d khoản 1 và điểm a khoản 2 Điều 41 của Luật an toàn thông tin mạng; trường hợp từ chối cấp thì phải thông báo bằng văn bản nêu rõ lý do.
+Bước 1: Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng nộp hồ sơ đề nghị cấp Giấy phép tại Bộ Thông tin và Truyền thông.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 2.000.000 Đồng Thêm một loại hình sản phẩm hoặc dịch vụ  Phí : 8.000.000 Đồng Một loại hình sản phẩm hoặc dịch vụ|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|15 Ngày làm việc|Phí : 2.000.000 Đồng Thêm một loại hình sản phẩm hoặc dịch vụ  Phí : 8.000.000 Đồng Một loại hình sản phẩm hoặc dịch vụ|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 2.000.000 Đồng Thêm một loại hình sản phẩm hoặc dịch vụ  Phí : 8.000.000 Đồng Một loại hình sản phẩm hoặc dịch vụ|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 04 Bản sao Phương án kỹ thuật ([Mẫu số 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e91952eac4f9'))
+- 01 Bản chính, 04 Bản sao Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc541b496b43568'))
+- 01 Bản chính, 04 Bản sao Phương án kinh doanh ([Mẫu số 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdac2bb9db97798'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông Số 18 Nguyễn Du, Hai Bà Trưng, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|86/2015/QH13|Luật 86/2015/QH13|19-11-2015|Quốc Hội|
+|108/2016/NĐ-CP|Nghị định 108/2016/NĐ-CP|01-07-2016|Chính phủ|
+|269/2016/TT-BTC|Thông tư 269/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự), khi đáp ứng đủ các điều kiện sau đây:
+1. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý, điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về kiểm tra, đánh giá an toàn thông tin.
+2. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ bảo mật thông tin không sử dụng mật mã dân sự:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về bảo mật thông tin.
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự), khi đáp ứng đủ các điều kiện sau đây:
+1. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý, điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về kiểm tra, đánh giá an toàn thông tin.
+2. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ bảo mật thông tin không sử dụng mật mã dân sự:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về bảo mật thông tin.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

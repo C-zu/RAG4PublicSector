@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp thông báo xác nhận công bố sản phẩm hàng hóa nhóm 2 phù hợp với quy chuẩn kỹ thuật tương ứng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản công bố hợp quy theo mẫu quy định tại Phụ lục 01 của Thông tư số 48/2011/TT-BCT ngày 30 tháng 12 năm 2011 của Bộ Công Thương quy định quản lý chất lượng các sản phẩm, hàng hóa nhóm 2 thuộc phạm vi quản lý của Bộ Công Thương. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc307800df90db4'">ban cong bo hop quy.doc</a>)
+- 01 Bản sao Bản sao chứng chỉ chứng nhận sự phù hợp của sản phẩm, hàng hoá với quy chuẩn kỹ thuật tương ứng do tổ chức chứng nhận hợp quy cấp.
+- 01 Bản chính Bản mô tả chung về sản phẩm, hàng hoá.
+- 01 Bản sao Các tiêu chuẩn liên quan trực tiếp đến sản phẩm, hàng hóa (tiêu chuẩn TCVN, TCCS hoặc áp dụng tiêu chuẩn nước ngoài) hoặc quy định kỹ thuật khác.
+- 01 Bản chính Bản hướng dẫn sử dụng sản phẩm, hàng hóa.

@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004157
+Số quyết định:
+1322/QĐ-BGTVT
+Tên thủ tục:
+Công bố mở bến cảng, cầu cảng, bến phao và các khu nước, vùng nước (bao gồm cả việc đưa kết cấu hạ tầng cảng biển tạm thời vào sử dụng)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Sau khi hoàn thành việc xây dựng bến cảng, cầu cảng, bến phao, khu nước, vùng nước, chủ đầu tư gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác 01 bộ hồ sơ đến Cục Hàng hải Việt Nam đề nghị công bố mở bến cảng, cầu cảng, bến phao, khu nước, vùng nước.
+b) Giải quyết TTHC:
+Cục Hàng hải Việt Nam tiếp nhận hồ sơ, nếu hồ sơ chưa hợp lệ thì chậm nhất 03 ngày làm việc, kể từ ngày nhận hồ sơ, Cục Hàng hải Việt Nam hướng dẫn hoàn thiện hồ sơ theo quy định tại Nghị định này. Nếu hồ sơ hợp lệ thì chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Hàng hải Việt Nam công bố mở bến cảng, cầu cảng, khu nước, vùng nước theo Mẫu số 07 quy định tại Phụ lục ban hành kèm theo Nghị định số 58/2017/NĐ-CP và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến chủ đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 6.000.000 đồng/lần. Đồng Phí thẩm định công bố bến cảng, cầu cảng, khu nước, vùng nước:|Chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|3 Ngày làm việc|Phí : 6.000.000 Đồng Phí thẩm định công bố bến cảng, cầu cảng, khu nước, vùng nước|Chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 6.000.000 Đồng Phí thẩm định công bố bến cảng, cầu cảng, khu nước, vùng nước|Chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị công bố theo mẫu; ([mẫu tờ khai.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed367efafaf148'))
+- 01 Bản chính, 01 Bản sao - Biên bản nghiệm thu để đưa công trình đã hoàn thành xây dựng vào sử dụng có kèm theo Văn bản chấp thuận kết quả nghiệm thu công trình đưa vào sử dụng theo quy định, bản vẽ hoàn công mặt bằng, mặt chiếu đứng và mặt cắt ngang công trình bến cảng, cầu cảng và các khu nước, vùng nước;
+- 01 Bản chính, 01 Bản sao - Thông báo hàng hải kèm theo bình đồ của luồng hàng hải cho tàu thuyền vào, rời bến cảng, cầu cảng và các khu nước, vùng nước; biên bản nghiệm thu giữa chủ đầu tư và cơ quan, tổ chức có thẩm quyền về kết quả khảo sát mặt đáy vùng nước trước bến cảng, cầu cảng và các khu nước, vùng nước;
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt báo cáo đánh giá tác động môi trường của dự án (trừ trường hợp đối với khu nước, vùng nước, công trình chỉ phục vụ việc đón trả hoa tiêu, vùng kiểm dịch, tránh trú bão hay neo đậu tàu thuyền để chờ vào cảng, bến cảng, cầu cảng, neo đậu tàu công vụ, không thực hiện chuyển tải bốc xếp hàng hóa hoặc các dịch vụ vận tải khác);
+- 01 Bản chính, 01 Bản sao - Văn bản nghiệm thu về phòng cháy và chữa cháy (trừ trường hợp đối với khu nước, vùng nước, công trình chỉ phục vụ việc đón trả hoa tiêu, vùng kiểm dịch, tránh trú bão hay neo đậu tàu thuyền để chờ vào cảng, bến cảng, cầu cảng, neo đậu tàu công vụ, không thực hiện chuyển tải bốc xếp hàng hóa hoặc các dịch vụ vận tải khác);
+- 01 Bản chính, 01 Bản sao - Bản sao văn bản chứng nhận an ninh bến cảng theo quy định (trừ trường hợp đối với khu nước, vùng nước, công trình chỉ phục vụ việc đón trả hoa tiêu, vùng kiểm dịch, tránh trú bão hay neo đậu tàu thuyền để chờ vào cảng, bến cảng, cầu cảng, neo đậu tàu công vụ, không thực hiện chuyển tải bốc xếp hàng hóa hoặc các dịch vụ vận tải khác).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục hàng hải Việt nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc mở bến cảng, cầu cảng, khu nước, vùng nước.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|189/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải|08-11-2016|Bộ Tài chính|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|69/2022/NĐ-CP|Nghị định 69/2022/NĐ-CP|23-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

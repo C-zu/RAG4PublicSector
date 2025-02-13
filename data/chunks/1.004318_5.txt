@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm định thiết kế công trình biển
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2005/QH11|Hàng hải Việt Nam|14-06-2005|Quốc Hội|
+|33/2011/TT-BGTVT|Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển do Bộ Giao thông vận tải ban hành|19-04-2011|Bộ Giao thông vận tải|
+|32/2011/TT-BGTVT|Sửa đổi, bổ sung một số điều của Quy định về đăng kiểm tàu biển Việt Nam ban hành kèm theo Quyết định số 51/2005/QĐ-BGTVT ngày 12 tháng 10 năm 2005 của Bộ trưởng Bộ Giao thông vận tải|19-04-2011|Bộ Giao thông vận tải|
+|165/2013/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý, sử dụng phí trong lĩnh vực đăng kiểm tàu biển, công trình biển; phí đánh giá, chứng nhận hệ thống quản lý an toàn, an ninh tàu biển, công trình biển và phí phê duyệt, kiểm tra, đánh giá và chứng nhận lao động hàng hải thuộc phạm vi giám sát của Cục Đăng kiểm Việt Nam|15-11-2013|Bộ Tài chính|
+|16/2022/TT-BGTVT|Thông tư 16/2022/TT-BGTVT|30-06-2022||

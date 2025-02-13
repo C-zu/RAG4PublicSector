@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại văn bản xác nhận thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được (Cấp bộ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại văn bản xác nhận thông báo hoạt động bưu chính (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac7bfcb735d520'">Mãu giay de nghi cap lai Văn ban XNTB.docx</a>)
+ Số lượng hồ sơ: 01 bộ là bản gốc

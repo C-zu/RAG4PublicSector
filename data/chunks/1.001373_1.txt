@@ -1,0 +1,16 @@
+Tên thủ tục: Khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo thông qua mạng điện tử (cấp TW)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001373
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo thông qua mạng điện tử (cấp TW)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Biển và hải đảo

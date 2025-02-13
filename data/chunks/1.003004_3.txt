@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động chứng nhận
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Tổng cục Tiêu chuẩn Đo lường Chất lượng thông báo bằng văn bản yêu cầu tổ chức chứng nhận sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ Khoa học và Công nghệ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức chứng nhận.|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Tổng cục Tiêu chuẩn Đo lường Chất lượng thông báo bằng văn bản yêu cầu tổ chức chứng nhận sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ Khoa học và Công nghệ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức chứng nhận.|

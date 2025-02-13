@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|13|Phí : 15000000 Đồng Đối với sân bay trực thăng, sân bay chuyên dùng  Phí : 40000000 Đồng Đối với cảng hàng không khác  Phí : 70000000 Đồng Đối với cảng hàng không quốc tế|Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ. Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay|
+|Trực tuyến|13|Phí : 15000000 Đồng Đối với sân bay trực thăng, sân bay chuyên dùng  Phí : 40000000 Đồng Đối với cảng hàng không khác  Phí : 70000000 Đồng Đối với cảng hàng không quốc tế|Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ. Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay|
+|Dịch vụ bưu chính|13|Phí : 15000000 Đồng Đối với sân bay trực thăng, sân bay chuyên dùng  Phí : 40000000 Đồng Đối với cảng hàng không khác  Phí : 70000000 Đồng Đối với cảng hàng không quốc tế|Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ. Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay|

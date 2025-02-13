@@ -1,0 +1,9 @@
+Tên thủ tục: Đánh giá duy trì đáp ứng thực hành tốt phân phối thuốc, nguyên liệu làm thuốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đánh giá định kỳ việc duy trì đáp ứng GDP theo Mẫu số 01 tại Phụ lục IV kèm theo Thông tư 03/2018/TT-BYT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8318ad29c0480'">mẫu đơn.docx</a>)
+- 01 Bản chính Tài liệu kỹ thuật cập nhật về điều kiện cơ sở vật chất, kỹ thuật và nhân sự của cơ sở phân phối (nếu có thay đổi);
+- 01 Bản chính Báo cáo tóm tắt về hoạt động phân phối thuốc, nguyên liệu làm thuốc của cơ sở trong thời gian 03 năm gần nhất tính từ thời điểm đánh giá liền trước (không bao gồm các đợt đánh giá đột xuất, thanh tra, kiểm tra của Bộ Y tế, Sở Y tế) đến ngày đề nghị đánh giá định kỳ.

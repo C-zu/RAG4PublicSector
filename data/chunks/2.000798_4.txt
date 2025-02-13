@@ -1,0 +1,39 @@
+Tên thủ tục: Thủ tục mở và sử dụng tài khoản tại Kho bạc Nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1
+- 01 Bản chính Giấy đề nghị mở tài khoản: Sử dụng mẫu thống nhất do Kho bạc Nhà nước ban hành theo mẫu in sẵn và lập thành 03 liên, do chủ tài khoản ký tên đóng dấu đơn vị (tài khoản cá nhân không phải đóng dấu). Chủ tài khoản là thủ trưởng đơn vị hoặc thủ trưởng đơn vị uỷ quyền làm chủ tài khoản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbf1e19e04b00a'">1 (4).doc</a>)
+
+
+2
+- 01 Bản chính Bản đăng ký mẫu dấu, chữ ký: Sử dụng mẫu thống nhất do Kho bạc Nhà nước ban hành theo mẫu in sẵn và lập thành 03 liên, không được sử dụng mẫu dấu, chữ ký dạng in, photocopy, ký lồng giấy than, chữ ký khắc dấu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe53fbd63edd253'">2 (2).doc</a>)
+
+
+3
+- 01 Bản chính Giấy tờ chứng thực tính hợp pháp về việc thành lập đơn vị (bản sao được chứng thực hoặc cơ quan cấp trên trực tiếp quản lý đơn vị xác nhận).
+
+
+4
+- 01 Bản chính Quyết định bổ nhiệm thủ trưởng đơn vị.(trường hợp uỷ quyền cho cấp phó làm chủ tài khoản phải có giấy uỷ quyền).
+
+
+5
+- 01 Bản chính Quyết định bổ nhiệm kế toán trưởng hoặc người phụ trách kế toán; Đối với đơn vị không có kế toán trưởng thì gửi văn bản giao nhiệm vụ kế toán trưởng (hoặc phụ trách kế toán) cho cán bộ kiêm nhiệm.
+
+
+6
+- 01 Bản chính Giấy chứng nhận mã đơn vị có quan hệ với Ngân sách.
+
+
+7
+- 01 Bản chính Đối với tài khoản cấp phát vốn đầu tư, vốn chương trình mục tiêu gửi thêm Quyết định giao nhiệm vụ chủ đầu tư, Quyết định thành lập ban quản lý dự án, kế hoạch vốn năm đầu tiên.
+
+
+8
+- 01 Bản chính Một số trường hợp đặc biệt không phải gửi quyết định thành lập, quyết định bổ nhiệm thủ trưởng đơn vị theo Quyết định số 30/2005/QĐ-BTC ngày 26/5/2005 của Bộ Tài chính
+
+
+9
+ Khi thay đổi một trong các yếu tố: Chữ ký thứ nhất, chữ ký thứ hai, thay đổi mẫu dấu, thay đổi tên đơn vị, thay đổi quyền sở hữu tài khoản đơn vị thì đơn vị phải lập giấy đề nghị thay đổi mẫu dấu chữ ký kèm theo các văn bản có liên quan để đăng ký lại với Kho bạc Nhà nước (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe448953b867fba'">2 (2).doc</a>)

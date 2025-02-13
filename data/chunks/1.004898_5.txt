@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục điều chỉnh Giấy phép sử dụng vật liệu nổ công nghiệp
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Công nghiệp Quốc phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+28A Điện Biên Phủ, Ba Đình, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng vật liệu nổ công nghiệp (đã điều chỉnh) hoặc văn bản trả lời đối với trường hợp không điều chỉnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|71/2018/NĐ-CP|Nghị định 71/2018/NĐ-CP|15-05-2018||
+|85/2018/TT-BQP|quy định về quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Quốc phòng.|23-06-2018|Bộ Quốc phòng|
+|14/2017/QH14|Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ ngày 20 tháng 6 năm 2017|20-06-2017|Văn phòng Quốc hội|

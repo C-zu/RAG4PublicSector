@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010728
+Số quyết định:
+87/QĐ-BTNMT
+Tên thủ tục:
+Cấp đổi giấy phép môi trường (cấp Tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Môi trường
+Trình tự thực hiện:
+Chủ dự án đầu tư, cơ sở gửi cơ quan cấp phép văn bản đề nghị cấp đổi giấy phép môi trường kèm theo hồ sơ pháp lý có liên quan đến việc thay đổi trong trường hợp có thay đổi tên dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp hoặc chủ dự án đầu tư, cơ sở.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|10 Ngày làm việc||Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính trong thời gian giải quyết thủ tục hành chính của cơ quan cấp phép.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp đổi giấy phép môi trường của dự án đầu tư, cơ sở (mẫu quy định tại Phụ lục XIV ban hành kèm theo Nghị định số 08/2022/NĐ-CP). ([Phụ lục XIV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe13863c57c1492'))
+- 01 Bản sao hồ sơ pháp lý có liên quan đến việc thay đổi trong trường hợp có thay đổi tên dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp hoặc chủ dự án đầu tư, cơ sở
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép môi trường cấp đổi (mẫu số 40 Phụ lục II phần phụ lục ban hành kèm theo Thông tư số 02/2022/TT-BTNMT)., Giấy phép môi trường (cấp đổi)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2020/QH14|Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020|17-11-2020|Ủy ban thường vụ quốc hội|
+|08/2022/NĐ-CP|Nghị định số 08/2022/NĐ-CP|10-01-2022|Chính phủ|
+|02/2022/TT-BTNMT|Thông tư số 02/2022/TT-BTNMT|10-01-2022|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Thay đổi tên dự án đầu tư, cơ sở hoặc chủ dự án đầu tư, cơ sở khác với giấy phép môi trường đã được cấp.
+Từ khóa:
+giấy phép môi trường
+Mô tả:
+Không có thông tin

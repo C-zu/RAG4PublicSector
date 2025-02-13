@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp đổi giấy phép sử dụng tần số và thiết bị vô tuyến điện (đối với các trường hợp thuộc thẩm quyền của Cục Tần số vô tuyến điện cấp)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Trường hợp giấy phép sử dụng tần số vô tuyến điện (đối với: thiết bị phát thanh, truyền hình; tuyến truyền dẫn viba; mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động mặt đất; đài trái đất – trừ đài trái đất thuộc hệ thống GMDSS đặt trên tàu biển; các thiết bị vô tuyến điện không thuộc các mẫu 1b, 1c, 1d, 1đ, 1e, 1g1, 1g2, 1h, 1i, 1m; đài vô tuyến điện phải đăng ký với tổ chức hàng không dân dụng quốc tế thuộc nghiệp vụ di động hàng không sử dụng tần số ngoài băng tần từ 2850 kHz đến 22000 kHz và nghiệp vụ vô tuyến dẫn đường hàng không, bao gồm đài vô tuyến điện đặt tại các sân bay chuyên dùng) bị mất, bị hư hỏng, tổ chức, cá nhân hoàn thiện hồ sơ đề nghị cấp đổi giấy phép sử dụng tần số vô tuyến điện theo quy định tại khoản 1 Điều 7 Nghị định số 63/2023/NĐ-CP và nộp hồ sơ đến Cục Tần số vô tuyến điện.
+- Sau khi hồ sơ được tiếp nhận, Cục Tần số vô tuyến điện cấp đổi giấy phép sử dụng tần số trong thời hạn 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+- Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện có trách nhiệm thông báo, hướng dẫn cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
+- Trường hợp từ chối cấp đổi giấy phép, Cục Tần số vô tuyến điện thông báo và nêu rõ lý do.

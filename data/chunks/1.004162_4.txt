@@ -1,0 +1,10 @@
+Tên thủ tục: Công bố đưa luồng hàng hải vào sử dụng đối với trường hợp luồng hàng hải công bố sau thời điểm công bố mở cảng biển hoặc luồng hàng hải được đầu tư mới, công bố lại do điều chỉnh, mở rộng, nâng cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Văn bản đề nghị công bố đưa luồng hàng hải vào sử dụng theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe63be1d268c09c'">mẫu tờ khai.doc</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính biên bản nghiệm thu để đưa công trình đã hoàn thành xây dựng vào sử dụng có kèm theo bản vẽ hoàn công luồng hàng hải, hệ thống báo hiệu hàng hải được đầu tư theo dự án;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính quy trình hướng dẫn khai thác luồng hàng hải bao gồm: Chuẩn tắc luồng, hệ thống báo hiệu hàng hải, thông số tàu thiết kế và các điều kiện khai thác cụ thể khác;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính thông báo hàng hải về các thông số kỹ thuật của luồng hàng hải kèm theo bình đồ của luồng hàng hải; thông báo hàng hải về hệ thống báo hiệu hàng hải được đầu tư theo dự án; biên bản nghiệm thu giữa chủ đầu tư và cơ quan, tổ chức có thẩm quyền về kết quả khảo sát rà quét chướng ngại vật mặt đáy luồng hàng hải và vùng nước liên quan.

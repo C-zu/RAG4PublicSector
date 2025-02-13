@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004932
+Số quyết định:
+1079/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sản xuất, hoán cải sử dụng trong giao thông vận tải
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân lập 01 bộ hồ sơ đến Cơ quan kiểm tra (Cục Đăng kiểm Việt Nam hoặc Chi cục Đăng kiểm)
+b) Giải quyết TTHC:
+- Cơ quan kiểm tra tiếp nhận, kiểm tra hồ sơ: Nếu hồ sơ không đầy đủ theo quy định thì hướng dẫn hoàn thiện ngay trong ngày làm việc (đối với trường hợp nộp trực tiếp) hoặc hướng dẫn hoàn thiện trong 02 (hai) ngày làm việc (đối với trường hợp nộp hồ sơ qua hệ thống bưu chính hoặc qua cổng dịch vụ công nếu hồ sơ đầy đủ theo quy định thì xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ;
+- Cơ quan kiểm tra tiến hành kiểm tra tại cơ sở sản xuất theo quy định: Nếu không đạt thì lập biên bản kiểm tra ghi rõ lý do thiết bị không đạt yêu cầu kiểm tra thông báo tới tổ chức, cá nhân; nếu đạt thì cấp Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị sản xuất, hoán cải;
+- Giấy chứng nhận được cấp trong phạm vi 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.
+- Tổ chức, cá nhân nhận kết quả trực tiếp tại Cơ quan kiểm tra hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Giờ|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ: nếu hồ sơ đầy đủ theo quy định;|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+|Trực tuyến|1 Giờ|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ: nếu hồ sơ đầy đủ theo quy định;|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+|Dịch vụ bưu chính|1 Giờ|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ: nếu hồ sơ đầy đủ theo quy định;|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc bản khai biểu mẫu điện tử Giấy đề nghị kiểm tra theo mẫu quy định; ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf03956c464eac'))
+- 01 Bản sao - 01 (một) bản sao điện tử (đối với trường hợp nộp qua cổng dịch vụ công) hoặc 01 (một) bản sao (đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính) hồ sơ thiết kế thiết bị đã được thẩm định; bản kê các tổng thành, bộ phận chính sử dụng để sản xuất, hoán cải thiết bị theo mẫu quy định kèm theo báo cáo kết quả thử nghiệm của cơ sở thử nghiệm. ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23a24371412bd'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam, Chi cục Đăng kiểm
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam, Chi cục Đăng kiểm
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị sản xuất, hoán cải, Biên bản kiểm tra ghi rõ lý do thiết bị không đạt yêu cầu kiểm tra thông báo tới tổ chức, cá nhân
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|35/2011/TT-BGTVT|Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị xếp dỡ, nồi hơi, thiết bị áp lực sử dụng trong giao thông vận tải|06-05-2011|Bộ Giao thông vận tải|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy móc, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|21/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 35/2011/TT-BGTVT ngày 06 tháng 5 năm 2011 của Bộ trưởng Bộ Giao thông vận tải quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị xếp dỡ, nồi hơi, thiết bị áp lực sử dụng trong giao thông vận tải.|30-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+- Thỏa mãn các quy định, tiêu chuẩn tương ứng: QCVN 22 : 2018/BGTVT; QCVN 67:2018/BGTVT.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

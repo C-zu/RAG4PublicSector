@@ -1,0 +1,7 @@
+Tên thủ tục: Chấm dứt hoạt động của tổ chức hành nghề luật sư trong trường hợp chấm dứt hoạt động do Trưởng văn phòng luật sư, Giám đốc công ty luật trách nhiệm hữu hạn một thành viên chết
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Sở Tư pháp ra quyết định thu hồi Giấy đăng ký hoạt động và thông báo bằng văn bản với Đoàn luật sư, cơ quan thuế ở địa phương nơi tổ chức hành nghề luật sư đăng ký hoạt động và nơi có trụ sở của chi nhánh về việc thu hồi Giấy đăng ký hoạt động.|

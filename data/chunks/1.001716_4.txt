@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp Giấy chứng nhận hoạt động lần đầu cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đăng ký hoạt động văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faa97363a2675b0'">Mẫu 14.docx</a>)
+- 01 Bản chính + Quyết định thành lập văn phòng đại diện, chi nhánh.
+- 01 Bản sao + Bản sao (có chứng thực hợp pháp) Giấy chứng nhận và Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ chủ quản.
+ + Hồ sơ của người đứng đầu văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ:
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) Quyết định bổ nhiệm của cơ quan, tổ chức có thẩm quyền.
+- 01 Bản chính * Lý lịch khoa học có xác nhận của cơ quan, tổ chức có thẩm quyền (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc49378a273a3f4'">Mẫu 11.docx</a>)
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) các văn bằng đào tạo.
+ + Hồ sơ về trụ sở của văn phòng đại diện, chi nhánh: Phải có một trong các giấy tờ sau:
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất của tổ chức khoa học và công nghệ đối với địa điểm nơi đặt trụ sở văn phòng đại diện, chi nhánh;
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất hoặc giấy tờ chứng minh quyền được phép cho thuê, cho mượn của bên cho thuê, cho mượn kèm theo hợp đồng thuê, mượn địa điểm làm trụ sở văn phòng đại diện, chi nhánh; trường hợp bản sao hợp đồng không có chứng thực hợp pháp, tổ chức có thể xuất trình bản chính để người tiếp nhận hồ sơ đối chiếu và ký xác nhận vào bản sao.
+ + Hồ sơ về nhân lực của văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ:
+- 01 Bản chính * Đối với văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ công lập và cơ sở giáo dục đại học: Bảng danh sách nhân lực được cơ quan quyết định thành lập hoặc quản lý trực tiếp xác nhận (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f8b02d3e529a340'">Mẫu 8 - bảng danh sách nhân lực.docx</a>)
+ * Đối với văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ ngoài công lập và có vốn nước ngoài:
+- 01 Bản chính • Bảng danh sách nhân lực (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe30059f92eb83d'">Mẫu 8 - bảng danh sách nhân lực.docx</a>)
+- 01 Bản chính, 01 Bản sao • Đối với nhân lực chính thức: Đơn đề nghị được làm việc chính thức (theo mẫu); bản sao các văn bằng đào tạo (có chứng thực hợp pháp). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7903bb6664b00'">Mẫu 9 - Đơn làm việc chính thức.docx</a>)
+- 01 Bản chính, 01 Bản sao • Đối với nhân lực kiêm nhiệm: Đơn đề nghị được làm việc kiêm nhiệm (theo mẫu); bản sao các văn bằng đào tạo (có chứng thực hợp pháp). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda34ab2d2ab466'">Mẫu 10 - Đơn làm việc kiêm nhiệm.docx</a>)

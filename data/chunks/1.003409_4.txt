@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy công nhận các tổ chức đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin cấp Giấy công nhận, trong đó nêu rõ đề nghị được công nhận đủ điều kiện tổ chức thi, chấm thi đối với chứng chỉ Khai thác viên vô tuyến điện nghiệp dư cấp bậc nào
+- 01 Bản sao Bản sao Giấy phép hoặc Quyết định thành lập tổ chức
+- 01 Bản sao Bản sao giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện nghiệp dư theo qui định.
+- 01 Bản chính Danh sách người chấm thi thực hành (người thuộc biên chế chính thức của tổ chức hoặc cộng tác viên) đáp ứng yêu cầu qui định

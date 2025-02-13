@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001425
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Nghiệm thu về phòng cháy và chữa cháy (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+- Bước 4: Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh tổ chức kiểm tra nghiệm thu về phòng cháy, chữa cháy. Căn cứ kết quả kết quả kiểm tra, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh cấp văn bản chấp thuận kết quả nghiệm thu hoặc văn bản thông báo kết quả kiểm tra.
+- Bước 5: Căn cứ thời gian thông qua biên bản kiểm tra, sau thời hạn 07 ngày làm việc, cá nhân, tổ chức đến nơi nộp hồ sơ nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh hoặc Bộ phận Một cửa của Công an tỉnh hoặc Trung tâm phục vụ hành chính công của tỉnh (trường hợp đã đưa thủ tục ra tiếp nhận tại Trung tâm phục vụ hành chính công); Thời hạn giải quyết: - Trong thời hạn 10 ngày làm việc đối với dự án, công trình quan trọng quốc gia, dự án, công trình nhóm A hoặc 07 ngày làm việc đối với các dự án công trình còn lại và phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy, chữa cháy kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan Cảnh sát phòng cháy, chữa cháy có trách nhiệm tổ chức kiểm tra nghiệm thu và lập biên bản kiểm tra kết quả nghiệm thu.|
+|Trực tiếp|07 Ngày làm việc||- Trong thời hạn 07 ngày làm việc kể từ ngày thông qua biên bản kiểm tra nghiệm thu, nếu đạt các yêu cầu, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh có trách nhiệm ra văn bản chấp thuận kết quả nghiệm thu về phòng cháy, chữa cháy. Trường hợp không chấp thuận kết quả nghiệm thu, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh phải có văn bản trả lời, nêu rõ lý do.|
+|Trực tuyến|10 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có); Thời hạn giải quyết: - Trong thời hạn 10 ngày làm việc đối với dự án, công trình quan trọng quốc gia, dự án, công trình nhóm A hoặc 07 ngày làm việc đối với các dự án công trình còn lại và phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy, chữa cháy kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan Cảnh sát phòng cháy, chữa cháy có trách nhiệm tổ chức kiểm tra nghiệm thu và lập biên bản kiểm tra kết quả nghiệm thu.|
+|Trực tuyến|07 Ngày làm việc||- Trong thời hạn 07 ngày làm việc kể từ ngày thông qua biên bản kiểm tra nghiệm thu, nếu đạt các yêu cầu, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh có trách nhiệm ra văn bản chấp thuận kết quả nghiệm thu về phòng cháy, chữa cháy. Trường hợp không chấp thuận kết quả nghiệm thu, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh phải có văn bản trả lời, nêu rõ lý do.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Thời hạn giải quyết: - Trong thời hạn 10 ngày làm việc đối với dự án, công trình quan trọng quốc gia, dự án, công trình nhóm A hoặc 07 ngày làm việc đối với các dự án công trình còn lại và phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy, chữa cháy kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan Cảnh sát phòng cháy, chữa cháy có trách nhiệm tổ chức kiểm tra nghiệm thu và lập biên bản kiểm tra kết quả nghiệm thu.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Trong thời hạn 07 ngày làm việc kể từ ngày thông qua biên bản kiểm tra nghiệm thu, nếu đạt các yêu cầu, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh có trách nhiệm ra văn bản chấp thuận kết quả nghiệm thu về phòng cháy, chữa cháy. Trường hợp không chấp thuận kết quả nghiệm thu, Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh phải có văn bản trả lời, nêu rõ lý do.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị kiểm tra kết quả nghiệm thu về phòng cháy, chữa cháy (Mẫu số PC11 ban hành kèm theo Nghị định số 136/2020/NĐ-CP). ([PC11-kiemtra,nghiemthu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd01ef1c567949c'))
+- 01 Bản chính - Báo cáo của chủ đầu tư, chủ phương tiện về tình hình kết quả thi công, kiểm tra, kiểm định, thử nghiệm và nghiệm thu các hệ thống, thiết bị và giải pháp phòng cháy, chữa cháy.
+- 01 Bản sao - Bản sao Giấy chứng nhận hoặc văn bản thẩm duyệt thiết kế về phòng cháy, chữa cháy kèm theo hồ sơ đã được đóng dấu thẩm duyệt của cơ quan Cảnh sát phòng cháy, chữa cháy.
+- 01 Bản sao - Bản sao Giấy chứng nhận kiểm định phương tiện phòng cháy, chữa cháy.
+- 01 Bản chính - Các biên bản thử nghiệm, nghiệm thu từng phần và nghiệm thu tổng thể hệ thống phòng cháy, chữa cháy.
+- 01 Bản chính - Các bản vẽ hoàn công hệ thống phòng cháy, chữa cháy và các hạng mục liên quan đến phòng cháy, chữa cháy phù hợp với hồ sơ thiết kế đã được thẩm duyệt.
+- 01 Bản chính - Tài liệu, quy trình hướng dẫn vận hành, bảo dưỡng các thiết bị, hệ thống phòng cháy, chữa cháy và các hệ thống liên quan đến phòng cháy, chữa cháy của công trình, phương tiện giao thông cơ giới.
+- 01 Bản chính - Văn bản nghiệm thu hoàn thành các hạng mục, hệ thống liên quan đến phòng cháy, chữa cháy.
+- 01 Bản sao - Bản sao Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy, chữa cháy của đơn vị tư vấn giám sát (nếu có), đơn vị thi công, lắp đặt hệ thống phòng cháy, chữa cháy.
+ Các văn bản, tài liệu có trong hồ sơ phải có xác nhận của chủ đầu tư, chủ phương tiện, đơn vị tư vấn giám sát, đơn vị thi công. Nếu hồ sơ bằng tiếng nước ngoài phải dịch ra tiếng Việt.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Phòng cảnh sát phòng cháy, chữa cháy Công an tỉnh, thành phố trực thuộc Trung ương
+Cơ quan có thẩm quyền:
+Phòng cảnh sát phòng cháy, chữa cháy Công an tỉnh, thành phố trực thuộc Trung ương
+Địa chỉ tiếp nhận HS:
+Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận kết quả nghiệm thu về phòng cháy và chữa cháy, Văn bản trả lời, nêu rõ lý do, Biên bản kiểm tra kết quả nghiệm thu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|27/2001/QH10|Luật 27/2001/QH10 - Phòng cháy và chữa cháy|29-06-2001|Quốc Hội|
+|40/2013/QH13|Luật 40/2013/QH13 - Sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|22-11-2013|Quốc Hội|
+|136/2020/NĐ-CP|Nghị định 136/2020/NĐ-CP|24-11-2020||
+
+Yêu cầu, điều kiện thực hiện:
+không.
+Từ khóa:
+Nghiệm thu về phòng cháy và chữa cháy (thực hiện tại cấp tỉnh)
+Mô tả:
+Không có thông tin

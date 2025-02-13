@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thành lập hội.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : 0 Đồng Không quy định|30 ngày làm việc kể từ ngày Bộ Nội vụ nhận hồ sơ đầy đủ và hợp pháp. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu điện, thời gian được tính từ ngày đến trên phong bì|
+|Trực tuyến|30 Ngày làm việc|Phí : 0 Đồng Không quy định|30 ngày làm việc kể từ ngày Bộ Nội vụ nhận hồ sơ đầy đủ và hợp pháp. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu điện, thời gian được tính từ ngày đến trên phong bì|
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 0 Đồng Không quy định|30 ngày làm việc kể từ ngày Bộ Nội vụ nhận hồ sơ đầy đủ và hợp pháp. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu điện, thời gian được tính từ ngày đến trên phong bì|

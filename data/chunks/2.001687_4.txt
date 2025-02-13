@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thay đổi người thực hiện trợ giúp pháp lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy tờ, tài liệu liên quan đến yêu cầu thay đổi.
+- 01 Bản chính Đơn đề nghị thay đổi người thực hiện trợ giúp pháp lý theo mẫu ban hành kèm theo Thông tư số 10/2023/TT-BTP ngày 29/12/2023 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung một số điều của Thông tư số 08/2017/TT-BTP ngày 15/11/2017 của Bộ trưởng Bộ Tư pháp quy định chi tiết một số điều của Luật Trợ giúp pháp lý và hướng dẫn giấy tờ trong hoạt động trợ giúp pháp lý và Thông tư số 12/2018/TT-BTP ngày 28/8/2018 của Bộ trưởng Bộ Tư pháp hướng dẫn một số hoạt động nghiệp vụ trợ giúp pháp lý và quản lý chất lượng vụ việc trợ giúp pháp lý (mẫu số 04-TP-TGPL). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe41d0267e9b413'">Mẫu số 04-TP-TGPL.Đơn đề nghị thay đổi người trợ giúp pháp lý.docx</a>)

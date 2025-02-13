@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005058
+Số quyết định:
+1427/QĐ-BGTVT
+Tên thủ tục:
+Gia hạn Giấy phép xây dựng, cải tạo, nâng cấp đường ngang
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ đầu tư dự án hoặc chủ quản lý, sử dụng đường ngang nộp trực tiếp hoặc qua đường bưu điện hoặc qua môi trường điện tử hồ sơ đề nghị cấp giấy phép xây dựng, cải tạo, nâng cấp đường ngang về cơ quan cấp giấy phép:
+- Cục Đường sắt Việt Nam đối với đường ngang trên đường sắt quốc gia.
+- Cục Đường bộ Việt Nam đối với đường ngang trên đường sắt chuyên dùng liên quan đến quốc lộ.
+- Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với đường ngang trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị và đường bộ chuyên dùng trong phạm vi quản lý.
+Trường hợp thực hiện trên môi trường điện tử chủ đầu tư dự án, chủ quản lý, sử dụng đường ngang có nhu cầu xây dựng, cải tạo, nâng cấp đường ngang thực hiện trên địa chỉ website: https://dichvucong.mt.gov.vn.
+b) Giải quyết TTHC:
+- Trường hợp nộp hồ sơ trực tiếp, cơ quan có thẩm quyền gia hạn giấy phép trả kết quả trong ngày làm việc về thành phần hồ sơ đề nghị gia hạn giấy phép xây dựng, cải tạo, nâng cấp đường ngang.
+- Trường hợp nộp hồ sơ qua đường bưu điện hoặc thực hiện qua môi trường điện tử, nếu thành phần hồ sơ chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, cơ quan có thẩm quyền gia hạn giấy phép thông báo bằng văn bản hướng dẫn hoàn thiện hồ sơ.
+- Quyết định gia hạn giấy phép xây dựng, cải tạo, nâng cấp đường ngang được cấp theo mẫu quy định. Trường hợp không ban hành quyết định, cơ quan có thẩm quyền gia hạn giấy phép có văn bản trả lời, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|3 Ngày làm việc||03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc||03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị theo mẫu quy định. ([1.005058 mẫu đơn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec8b519db9a40a'))
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử): Tiến độ tổng thể dự án được cấp có thẩm quyền phê duyệt
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử): ài liệu chứng minh lý do đề nghị gia hạn là một trong các tài liệu sau: (1) Biên bản bàn giao mặt bằng thi công xây dựng, cải tạo, nâng cấp đường ngang trong trường hợp vướng mắc về mặt bằng thi công; (2) Biên bản xác nhận thiệt hại giữa chủ đầu tư và nhà thầu thi công đường ngang trong trường hợp sự cố, thiên tai làm ảnh hưởng đến tiến độ thi công xây dựng, cải tạo, nâng cấp đường ngang; (3) Quyết định điều chỉnh chủ trương đầu tư dự án hoặc quyết định điều chỉnh chương trình, dự án đầu tư xây dựng công trình trong trường hợp việc điều chỉnh dự án làm ảnh hưởng đến tiến độ thi công xây dựng, cải tạo, nâng cấp đường ngang.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Địa chỉ tiếp nhận HS:
+- Cục Đường sắt Việt Nam đối với đường ngang trên đường sắt quốc gia; - Tổng Cục Đường bộ Việt Nam đối với đường ngang trên đường sắt chuyên dùng liên quan đến quốc lộ; - Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với đường ngang trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị và đường bộ chuyên dùng trong phạm vi quản lý.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định gia hạn giấy phép xây dựng đường ngang
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2017/QH14|Luật Đường sắt|16-06-2017||
+|TT 29/2023/TT-BGTVT|quy định về đường ngang và cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt|29-09-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

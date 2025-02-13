@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục phục vụ việc sử dụng tài liệu của độc giả tại phòng đọc (Cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cá nhân có nhu cầu sử dụng tài liệu đến trực tiếp tại Phòng đọc của Lưu trữ lịch sử cấp tỉnh, ghi các thông tin vào Phiếu đăng ký sử dụng tài liệu. Độc giả đến sử dụng tài liệu tại Lưu trữ lịch sử cấp tỉnh phải có Chứng minh nhân dân, Căn cước công dân hoặc Hộ chiếu; trường hợp sử dụng tài liệu để phục vụ công tác thì phải có Giấy giới thiệu hoặc văn bản đề nghị của cơ quan, tổ chức nơi công tác.
+Bước 2: Sau khi độc giả hoàn thành thủ tục đăng ký, viên chức Phòng đọc đăng ký độc giả vào sổ; viên chức Phòng đọc hướng dẫn độc giả tra tìm tài liệu và viết Phiếu yêu cầu đọc tài liệu.
+Bước 3: Viên chức Phòng đọc trình hồ sơ đề nghị sử dụng tài liệu của độc giả cho người đứng đầu Lưu trữ lịch sử cấp tỉnh phê duyệt.
+Bước 4: Sau khi hồ sơ đề nghị sử dụng tài liệu của độc giả được duyệt, viên chức Phòng đọc giao tài liệu cho độc giả sử dụng. Độc giả kiểm tra tài liệu và ký nhận vào Sổ giao nhận tài liệu.

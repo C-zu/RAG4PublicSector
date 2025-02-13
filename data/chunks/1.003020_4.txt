@@ -1,0 +1,8 @@
+Tên thủ tục: Sửa đổi, bổ sung, gia hạn giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn (cấp TW)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị sửa đổi, bổ sung hoặc gia hạn giấy phép theo Mẫu số 02 Phụ lục kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee8db144d9ba48'">Mẫu số 02.docx</a>)
+- 01 Bản chính (2) Báo cáo kết quả hoạt động dự báo, cảnh báo khí tượng thủy văn kể từ khi được cấp giấy phép hoặc được sửa đổi, bổ sung giấy phép theo Mẫu số 03 Phụ lục kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3863fd87e45ea'">Mẫu số 03.docx</a>)

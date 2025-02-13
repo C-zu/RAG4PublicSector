@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010542
+Số quyết định:
+5652/QĐ-BYT
+Tên thủ tục:
+Công bố nồng độ, hàm lượng trong nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất.
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trang thiết bị và công trình y tế
+Trình tự thực hiện:
+Bước 1:  Trước khi thực hiện nhập khẩu nguyên liệu sản xuất trang thiết bị y tế và chất ngoại kiểm có chứa chất ma túy và tiền chất, cơ sở nhập khẩu có trách nhiệm đăng tải hồ sơ công bố đầy đủ, hợp lệ theo quy định trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Y tế (https://dichvucong.moh.gov.vn) hoặc Cổng thông tin điện tử về quản lý trang thiết bị y tế (https://dmec.moh.gov.vn/).
+Bước 2: Sau khi nhận được hồ sơ đầy đủ, hợp lệ, Bộ Y tế đăng tải công khai trên Cổng thông tin điện tử về quản lý trang thiết bị y tế các thông tin và hồ sơ công bố đối với nguyên liệu sản xuất trang thiết bị y tế và chất ngoại kiểm có chứa chất ma túy và tiền chất.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|0 Ngày||0 ngày|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản công bố nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm có chứa chất ma túy và tiền chất theo mẫu số 11 quy định tại Phụ lục 1 được ban hành kèm theo Thông tư /2021/TT-BYT ([Văn bản công bố.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0551bd14a0806'))
+- 01 Bản chính Giấy chứng nhận quản lý chất lượng.
+- 01 Bản chính Tài liệu kỹ thuật. ([Tài liệu kỹ thuật.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea73e36ba97273'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Cơ sở hạ tầng và Trang thiết bị y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Bộ Y tế
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+công khai trên Cổng thông tin điện tử về quản lý trang thiết bị y tế các thông tin và hồ sơ công bố
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|98/2021/NĐ-CP|Nghị định về trang thiết bị y tế số 98/2021/NĐ-CP (link trên thư viện pl vì trên cơ sở dữ liệu về văn bản QPPL ko có)|08-11-2021|Chính phủ|
+|19/2021/TT-BYT|Thông tư 19/2021/TT-BYT quy định về mẫu văn bản, báo cáo thực hiện Nghị định 98/2021/NĐ-CP về quản lý trang thiết bị y tế do Bộ trưởng Bộ Y tế ban hành (link lấy từ thuvienphapluat.vn vì cơ sở dữ liệu về văn bản qppl ko có)|16-11-2021|Bộ Y tế|
+
+Yêu cầu, điều kiện thực hiện:
+Điều 59 Nghị định số 98/2021/NĐ-CP Nguyên tắc quản lý nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất
+1. Nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất phải công bố nồng độ, hàm lượng trước khi thực hiện xuất khẩu, nhập khẩu tại Việt Nam.
+2. Việc thông quan phải căn cứ theo số công bố và không cần giấy phép nhập khẩu của Bộ Y tế.
+Điều 59 Nghị định số 98/2021/NĐ-CP Nguyên tắc quản lý nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất
+1. Nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất phải công bố nồng độ, hàm lượng trước khi thực hiện xuất khẩu, nhập khẩu tại Việt Nam.
+2. Việc thông quan phải căn cứ theo số công bố và không cần giấy phép nhập khẩu của Bộ Y tế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

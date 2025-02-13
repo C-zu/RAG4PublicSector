@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007656
+Số quyết định:
+1325/QĐ-BTC
+Tên thủ tục:
+Thủ tục công nhận hoạt động đại lý làm thủ tục hải quan
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Lập hồ sơ:
+
+Doanh nghiệp đáp ứng đủ điều kiện quy định tại khoản 1 Điều 20 Luật Hải quan năm 2014 lập hồ sơ đề nghị công nhận đủ điều kiện làm đại lý làm thủ tục hải quan gửi Tổng cục Hải quan.
+Bước 2: Công nhận hoạt động đại lý làm thủ tục hải quan:
+
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ và điều kiện theo quy định; Tổng cục trưởng Tổng cục Hải quan ra quyết định công nhận đại lý làm thủ tục hải quan. Trường hợp không đủ điều kiện thì có văn bản trả lời doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của doanh nghiệp.|
+|Trực tuyến|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của doanh nghiệp.|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của doanh nghiệp.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị công nhận đủ điều kiện hoạt động đại lý làm thủ tục hải quan theo Mẫu số 04 ban hành kèm theo Thông tư số 12/2015/TT-BTC: 01 bản chính; ([Mẫu số 04, 05 Thong tu 12.2015.TT-BTC.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b29927b78c85'))
+ - Hồ sơ đề nghị cấp mã số nhân viên đại lý làm thủ tục hải quan theo quy định tại khoản 1 Điều 9 Thông tư 12/2015/TT-BTC. Cụ thể như sau:
+- 01 Bản chính + Đơn đề nghị cấp mã số nhân viên đại lý làm thủ tục hải quan theo mẫu số 07 ban hành kèm Thông tư: 01 bản chính; ([22_2019_TT_BTC_PL.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee865cbdc9b0d0'))
+- 01 Bản sao + Bằng tốt nghiệp đại học, cao đẳng thuộc các chuyên ngành luật, kinh tế, kỹ thuật: 01 bản chụp
+- 01 Bản sao + Chứng chỉ nghiệp vụ khai hải quan: 01 bản chụp;
+- 01 Bản sao + Giấy chứng nhận hoàn thành khóa đào tạo bổ sung kiến thức pháp luật hải quan (Trường hợp Chứng chỉ nghiệp vụ khai hải quan quá thời hạn 05 năm kể từ ngày cấp): 01 bản chụp;
+- 01 Bản sao + Chứng minh nhân dân/Căn cước công dân (Trường hợp cơ sở dữ liệu quốc gia về dân cư chưa đưa vào vận hành): 01 bản chụp;
+- 01 Bản chính + Một (01) ảnh màu 2x3 được chụp trong thời gian 06 tháng.
+ Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận hoạt động đại lý làm thủ tục hải quan hoặc văn bản trả lời đối với trường hợp không đủ điều kiện.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|12/2015/TT-BTC|Thông tư 12/2015/TT-BTC|30-01-2015|Bộ Tài chính|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|22/2019/TT-BTC|Sửa đổi, bổ sung một số điều của Thông tư số 12/2015/TT-BTC ngày 30 tháng 01 năm 2015 của Bộ trưởng Bộ Tài chính quy định chi tiết thủ tục cấp Chứng chỉ nghiệp vụ khai hải quan; cấp và thu hồi mã số nhân viên đại lý làm thủ tục hải quan; trình tư, thủ tục công nhận và hoạt động đại lý làm thủ tục hải quan|16-04-2019|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Có Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp có ngành, nghề kinh doanh dịch vụ giao nhận hàng hóa hoặc đại lý làm thủ tục hải quan;
+
+- Có nhân viên đại lý làm thủ tục hải quan;
+
+- Có hạ tầng công nghệ thông tin đáp ứng điều kiện để thực hiện khai hải quan điện tử và các điều kiện khác theo quy định.
+- Có Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp có ngành, nghề kinh doanh dịch vụ giao nhận hàng hóa hoặc đại lý làm thủ tục hải quan;
+
+- Có nhân viên đại lý làm thủ tục hải quan;
+
+- Có hạ tầng công nghệ thông tin đáp ứng điều kiện để thực hiện khai hải quan điện tử và các điều kiện khác theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

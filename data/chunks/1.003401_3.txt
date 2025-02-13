@@ -1,0 +1,8 @@
+Tên thủ tục: Thu hồi Giấy phép sử dụng vật liệu nổ công nghiệp thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Nộp trực tiếp tại Sở Công Thương.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Qua bưu điện; kể từ ngày nhận đủ hồ sơ hợp lệ;|

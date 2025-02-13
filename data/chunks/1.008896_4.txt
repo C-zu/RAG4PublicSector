@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục thông báo sáp nhập, hợp nhất, chia, tách đối với thư viện chuyên ngành ở cấp tỉnh, thư viện đại học là thư viện ngoài công lập, thư viện của tổ chức cá nhân nước ngoài có phục vụ người Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
++ Đối với thư viện chuyên ngành ở cấp tỉnh, thư viện đại học là thư viện ngoài công lập
+- 01 Bản chính, 01 Bản sao Bản sao quyết định của cơ quan có thẩm quyền hoặc Thông báo sáp nhập/ hợp nhất/chia/tách thư viện (theo Mẫu số 04 quy định tại Phụ lục VIII ban hành kèm theo Thông tư số 13/2023/TT-BVHTTDL ngày 30 tháng 10 năm 2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch sửa đổi, bổ sung quy định liên quan đến giấy tờ công dân tại một số Thông tư do Bộ trưởng Bộ Văn hoá, Thể thao và Du lịch ban hành)
+
+
++ Đối với thư viện của tổ chức cá nhân nước ngoài có phục vụ người Việt Nam
+- 01 Bản chính, 01 Bản sao (1) Bản sao quyết định của cơ quan có thẩm quyền hoặc Thông báo sáp nhập/ hợp nhất/chia/tách thư viện (theo Mẫu số 04 quy định tại Phụ lục VIII ban hành kèm theo Thông tư số 13/2023/TT-BVHTTDL ngày 30 tháng 10 năm 2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch sửa đổi, bổ sung quy định liên quan đến giấy tờ công dân tại một số Thông tư do Bộ trưởng Bộ Văn hoá, Thể thao và Du lịch ban hành).
+- 01 Bản chính (2) Tài liệu chứng minh đủ điều kiện thành lập quy định tại khoản 1 Điều 18 Luật Thư viện số 46/2019/QH14; Điều 21 Nghị định số 93/2020/NĐ-CP ngày 18 tháng 8 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Thư viện

@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012260
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Công bố đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: 
+Cơ sở khám bệnh, chữa bệnh gửi 01 bộ hồ sơ công bố đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa theo quy định tại khoản 2 Điều 87 Nghị định số 96/2023/NĐ-CP về:
+- Bộ Y tế đối với cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý;
+- Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh đối với cơ sở khám bệnh, chữa bệnh trên địa bàn (bao gồm cả cơ sở khám bệnh, chữa bệnh tư nhân), trừ cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Bộ Y tế, Bộ Quốc phòng, Bộ Công an.
+Bước 2: 
+     Sau khi nhận được hồ sơ công bố cơ sở khám bệnh, chữa bệnh đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa, cơ quan tiếp nhận cấp cho cơ sở phiếu tiếp nhận hồ sơ theo Mẫu 02 Phụ lục I ban hành kèm theo Nghị định số 96/2023/NĐ-CP.
+Bước 3: 
+    Trong thời hạn 10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ quy định tại khoản 2 Điều này, cơ quan tiếp nhận có trách nhiệm đăng tải thông tin của cơ sở đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa trên cổng thông tin điện tử hoặc trang thông tin điện tử của cơ quan và trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh.
+Trường hợp chưa đáp ứng yêu cầu thì cơ quan tiếp nhận phải có văn bản gửi cơ sở khám bệnh, chữa bệnh và nêu rõ lý do.
+Trường hợp sau thời hạn 10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa mà cơ quan tiếp nhận không có văn bản gửi cơ sở khám bệnh, chữa bệnh về việc đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa hoặc không thực hiện việc đăng tải thông tin theo quy định tại điểm c khoản này, cơ sở khám bệnh, chữa bệnh được bắt đầu thực hiện khám bệnh, chữa bệnh từ xa
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+|Trực tuyến|10 Ngày||10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|10 Ngày||10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thực hiện khám bệnh, chữa bệnh từ xa trong đó phải nêu rõ thời gian bắt đầu thực hiện khám bệnh, chữa bệnh từ xa
+- 01 Bản sao Bản sao hợp lệ Giấy phép hoạt động khám bệnh, chữa bệnh của cơ sở (không áp dụng đối với trường hợp giấy phép hoạt động đã được kết nối, chia sẻ trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh hoặc cơ sở dữ liệu quốc gia về y tế)
+- 01 Bản chính Danh sách đăng ký hành nghề kèm theo số giấy phép hành nghề của cơ sở đối với trường hợp giấy phép hoạt động đã được kết nối, chia sẻ trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh hoặc cơ sở dữ liệu quốc gia về y tế. Trường hợp giấy phép hoạt động chưa được kết nối, chia sẻ trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh hoặc cơ sở dữ liệu quốc gia về y tế thì phải nộp bản sao hợp lệ giấy phép hành nghề của từng người hành nghề tham gia khám bệnh, chữa bệnh từ xa)
+- 01 Bản chính Danh mục các dịch vụ thực hiện khám bệnh, chữa bệnh từ xa
+- 01 Bản chính Tài liệu minh chứng đáp ứng đủ điều kiện quy định tại điểm d khoản 1 Điều 87 Nghị định số 96/2023/NĐ-CP
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đăng tải thông tin của cơ sở đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa trên cổng thông tin điện tử hoặc trang thông tin điện tử của cơ quan và trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2023/QH15|Luật Khám, chữa bệnh|30-01-2023|Ủy ban thường vụ quốc hội|
+|96/2023/NĐ-CP|Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.|30-12-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Điều 87. Khám bệnh, chữa bệnh từ xa 
+1. Điều kiện thực hiện khám bệnh, chữa bệnh từ xa:
+a) Được thực hiện bởi người hành nghề của cơ sở khám bệnh, chữa bệnh thuộc một trong các hình thức tổ chức quy định tại Điều 39 Nghị định số 96/2023/NĐ-CP;
+b) Có phạm vi hoạt động chuyên môn phù hợp với nội dung khám bệnh, chữa bệnh từ xa của cơ sở;
+c) Có đủ người hành nghề theo phạm vi khám bệnh, chữa bệnh từ xa của cơ sở;
+d) Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, thiết bị chuyên dụng, phần mềm công nghệ thông tin phù hợp với loại hình dịch vụ cung cấp và bảo đảm việc truyền tải, hiển thị, xử lý, lưu trữ dữ liệu an toàn, bảo mật. Bảo đảm thời gian lưu trữ, dự phòng dữ liệu đáp ứng quy định của pháp luật.
+Điều 87. Khám bệnh, chữa bệnh từ xa 
+1. Điều kiện thực hiện khám bệnh, chữa bệnh từ xa:
+a) Được thực hiện bởi người hành nghề của cơ sở khám bệnh, chữa bệnh thuộc một trong các hình thức tổ chức quy định tại Điều 39 Nghị định số 96/2023/NĐ-CP;
+b) Có phạm vi hoạt động chuyên môn phù hợp với nội dung khám bệnh, chữa bệnh từ xa của cơ sở;
+c) Có đủ người hành nghề theo phạm vi khám bệnh, chữa bệnh từ xa của cơ sở;
+d) Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, thiết bị chuyên dụng, phần mềm công nghệ thông tin phù hợp với loại hình dịch vụ cung cấp và bảo đảm việc truyền tải, hiển thị, xử lý, lưu trữ dữ liệu an toàn, bảo mật. Bảo đảm thời gian lưu trữ, dự phòng dữ liệu đáp ứng quy định của pháp luật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

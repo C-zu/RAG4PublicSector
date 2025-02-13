@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng tại kho lưu giữ chất thải phóng xạ quốc gia hoặc cơ sở làm dịch vụ xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Lệ phí : 50000000 Đồng Phí thẩm định an toàn: Thẩm định để cấp giấy phép xử lý, lưu giữ chất thải phóng xạ||
+|Dịch vụ bưu chính|60 Ngày|Lệ phí : 50000000 Đồng Phí thẩm định an toàn: Thẩm định để cấp giấy phép xử lý, lưu giữ chất thải phóng xạ||

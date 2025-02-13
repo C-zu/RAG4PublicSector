@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001237
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Đăng ký xe tạm thời (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Nộp hồ sơ
+Trường hợp nộp hồ sơ trực tuyến: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01B/58) ghi rõ số tờ khai hải quan điện tử, số phiếu kiểm tra chất lượng xuất xưởng để kiểm tra thông tin nguồn gốc phương tiện và gửi các tài liệu đính kèm (chứng từ chuyển quyền sở hữu xe, giấy ủy quyền người kê khai làm thủ tục đăng ký tạm thời) đối với xe nhập khẩu hoặc xe sản xuất lắp ráp trong nước lưu hành từ kho, cảng, nhà máy, đại lý xe đến nơi đăng ký hoặc về các đại lý, kho lưu trữ khác, xe di chuyển đi địa phương khác, xe tái xuất về nước hoặc chuyển nhượng tại Việt Nam. 
+Trường hợp nộp hồ sơ trực tiếp: Chủ xe nộp giấy tờ theo quy định tại Điều 13 Thông tư 58/2020/TT-BCA (không phải mang xe đến để kiểm tra).
+Bước 3: Nộp lệ phí đăng ký xe tạm thời
+Bước 3: Sau khi nhận kết quả nộp lệ phí đăng ký tạm thời của chủ xe, cán bộ đăng ký xe trình lãnh đạo duyệt hồ sơ đăng ký xe tạm thời; lãnh đạo duyệt, ký số Giấy khai đăng ký xe tạm thời điện tử; thông báo cho chủ xe in Giấy chứng nhận đăng ký xe tạm thời điện tử từ cổng dịch vụ công hoặc địa chỉ thư điện tử của chủ xe.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0 Ngày làm việc|Lệ phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|Trực tiếp tại trụ sở Phòng Cảnh sát giao thông Công an tỉnh, thành phố trực thuộc Trung ương hoặc các điểm đăng ký xe của Phòng Cảnh sát giao thông. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). Cấp ngay biển số tạm thời và giấy chứng nhận đăng ký xe tạm thời sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ;|
+|Trực tuyến|0 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp hồ sơ trực tuyến trên Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Giấy khai đăng ký xe (theo mẫu).
+- 01 Bản chính b) Hồ sơ theo quy định tại Điều 13 Thông tư số 58/2020/TT-BCA, ngày 16/6/2020 của Bộ Công an.
+ Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ, ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Phòng Cảnh sát giao thông
+Cơ quan có thẩm quyền:
+Phòng Cảnh sát giao thông
+Địa chỉ tiếp nhận HS:
+Phòng Cảnh sát giao thông Công an tỉnh, thành phố trực thuộc Trung ương; Cổng Dịch vụ công quốc gia; Cổng dịch vụ công Bộ Công an.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe tạm thời, Biển số xe tạm thời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Giao thông đường bộ|13-11-2008|Quốc Hội|
+|229/2016/TT-BTC|Thông tư số 229/2016/TT-BTC Thông tư số 229/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Đăng ký xe tạm thời (thực hiện tại cấp tỉnh)
+Mô tả:
+Không có thông tin

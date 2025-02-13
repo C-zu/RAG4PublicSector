@@ -1,0 +1,16 @@
+Tên thủ tục: Thông báo phát hành Biên lai.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007905
+Số quyết định:
+272/QĐ-BTC
+Tên thủ tục:
+Thông báo phát hành Biên lai.
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

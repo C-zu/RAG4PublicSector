@@ -1,0 +1,21 @@
+Tên thủ tục: Cấp Chứng nhận trường trung học đạt kiểm định chất lượng giáo dục
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Giáo dục và Đào tạo
+Cơ quan có thẩm quyền:
+Giám đốc Sở Giáo dục và Đào tạo
+Địa chỉ tiếp nhận HS:
+sở giáo dục và đào tạo
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng nhận trường đạt kiểm định chất lượng giáo dục của Giám đốc sở giáo dục và đào tạo (theo cấp độ trường trung học đạt được)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2018/TT-BGDĐT|Thông tư Quy định về kiểm định chất lượng giáo dục và công nhận đạt chuẩn quốc gia đối với trường trung học cơ sở, trường trung học phổ thông và trường phổ thông có nhiều cấp học|22-08-2018|Bộ Giáo dục và Đào tạo|

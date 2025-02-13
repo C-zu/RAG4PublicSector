@@ -1,0 +1,12 @@
+Tên thủ tục: Thu hồi Giấy chứng nhận đăng ký hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty chứng khoán, công ty quản lý quỹ nước ngoài có hồ sơ quyết định giải thể, văn bản đề nghị rút Giấy phép thành lập và hoạt động kinh doanh chứng khoán đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+Bước 4: Trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ tại Bước 1, UBCKNN có quyết định chấm dứt mọi hoạt động kinh doanh được cấp phép của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam để thực hiện thủ tục thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán.
+Bước 5: Báo cáo Ủy ban Chứng khoán Nhà nước phương án xử lý tài khoản tự doanh, các hợp đồng đã ký với khách hàng còn hiệu lực.
+Bước 6: Báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý hợp đồng đã ký với khách hàng, các quyết định thu hồi Giấy chứng nhận thành viên của Sở Giao dịch chứng khoán và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam
+Bước 7: Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ báo cáo tại Bước 6 đầy đủ, hợp lệ, UBCKNN ra quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán.

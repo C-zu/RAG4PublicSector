@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy phép xây dựng có thời hạn đối với công trình, nhà ở riêng lẻ (công trình cấp III, cấp IV)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|+ Đối với công trình: Không quá 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. + Đối với nhà ở riêng lẻ tại đô thị: Không quá 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : + Đối với công trình: 100.000 đồng/giấy phép  Phí : + Đối với nhà ở riêng lẻ tại đô thị: 50.000 đồng/giấy phép|Hồ sơ nộp tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|

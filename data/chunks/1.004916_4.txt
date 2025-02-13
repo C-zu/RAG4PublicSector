@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tham gia tuyển chọn, giao trực tiếp nhiệm vụ khoa học và công nghệ cấp Bộ của Bộ Thông tin và Truyền thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký chủ trì thực hiện nhiệm vụ khoa học và công nghệ
+- 01 Bản chính Tóm tắt hoạt động khoa học và công nghệ của tổ chức đăng ký chủ trì thực hiện nhiệm vụ khoa học và công nghệ

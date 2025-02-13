@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tuc thực hiện chế độ một lần đối với đối tượng hạ sĩ quan, chiến sĩ quân đội theo Quyết định 188/2007/QĐ-TTg (đối tượng lập hồ sơ lần đầu)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Bản khai cá nhân có chứng nhận của cơ quan, đơn vị nơi công tác. Bản khai thân nhân (đối với đối tượng đã từ trần) phải kèm theo giấy uỷ quyền của các thân nhân chủ yếu khác, có xác nhận của chính quyền xã nơi cư trú; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd18d2506dc1446'">Mẫu 04.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3b7bcf5f6eff4'">Mẫu 2A.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2eb7d3dc57c45'">Mẫu 2B.doc</a>)
+- 02 Bản sao - Bản sao một trong các giấy tờ gốc, có công chứng Nhà nước hoặc chứng thực của UBND xã (phường) nơi cư trú (Giấy tờ gốc gồm: lý lịch Đảng viên; lý lịch cán bộ, bản trích 63, lý lịch quân nhân; hồ sơ phục viên, xuất ngũ, thôi việc, hồ sơ hưởng chế độ bệnh binh hoặc hồ sơ hưởng BHXH hàng tháng);
+- 02 Bản sao - Bản trích sao quá trình công tác được hưởng chế độ có xác nhận của cơ quan quản lý hồ sơ, lý lịch và bản sao photo toàn bộ quá trình công tác của đối tượng do cơ quan quản lý hồ sơ, lý lịch cung cấp và xác nhận;
+- 02 Bản chính - Biên bản xem xét và xác nhận đối tượng của hội nghị liên tịch thôn, xóm, tổ dân phố, ấp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe477be4d5e3df0'">Mẫu 05. BIÊN BẢN HỌI NGHỊ LIÊN TICH.docx</a>)
+- 02 Bản chính - Biên bản xét và xác nhận của Hội nghị BCH Hội Cựu chiến binh xã, phường; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1f8d2ce99fba7'">Mẫu 06. BIÊN BẢN HỘI NGHỊ BCH HỘI CỰU CHIẾN BINH.docx</a>)
+- 02 Bản chính - Công văn đề nghị hưởng chế độ một lần cho đối tượng; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefed736e8f4b2b'">Mẫu 8A.docx</a>)
+- 01 Bản chính, 01 Bản sao - Công văn đề nghị của UBND xã, phường (kèm danh sách); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe927bf38dcb5aa'">Mẫu 7A.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe98198053b92c8'">Mẫu 9A.docx</a>)

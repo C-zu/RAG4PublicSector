@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004330
+Số quyết định:
+1369/QĐ-BTTTT
+Tên thủ tục:
+Cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+- Doanh nghiệp có nhu cầu gửi hồ sơ về Bộ Thông tin và Truyền thông (Cục Phát thanh, truyền hình và thông tin điện tử).
+- Trong thời hạn 24 (hai mươi bốn) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông có trách nhiệm xét cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền. Trường hợp không cấp Giấy phép, Bộ Thông tin và Truyền thông có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền theo mẫu do Bộ Thông tin và Truyền thông quy định ([Mẫu số 01 - Đơn - DVTHTT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedbc6498b6e6d0'))
+- 01 Bản chính b) Đề án cung cấp dịch vụ thuyết minh rõ: Loại hình, phạm vi cung cấp dịch vụ; phương án kỹ thuật cung cấp dịch vụ phát thanh, truyền hình trực tuyến và dịch vụ phát thanh, truyền hình theo yêu cầu (nếu có); phương tiện thanh toán; dự kiến các điều khoản về quyền lợi, trách nhiệm của các bên trong ký kết hợp đồng cung cấp, sử dụng dịch vụ và các nội dung quy định tại các Điểm b, d, đ, e, g và h Khoản 1 Điều 12 Nghị định số 06/2016/NĐ-CP
+ Đối với dịch vụ quy định tại điểm đ khoản 1 Điều 4 Nghị định này, trường hợp trên dịch vụ không cung cấp các kênh chương trình, chỉ cung cấp nội dung phát thanh, truyền hình theo yêu cầu: Thực hiện kê khai theo biểu mẫu do Bộ Thông tin và Truyền thông quy định, gồm các nội dung: Phạm vi, điều kiện kỹ thuật cung cấp dịch vụ; phương tiện thanh toán; quy trình giải quyết khiếu nại; dự kiến các điều khoản về quyền, trách nhiệm của các bên, dự kiến nhóm nội dung cung cấp trên dịch vụ; tên miền “.vn” hoặc địa chỉ Internet xác định và ứng dụng Internet cung cấp dịch vụ
+- 01 Bản sao c) Bản sao Giấy phép thiết lập mạng viễn thông hoặc bản sao có chứng thực văn bản thỏa thuận được thuê, sử dụng mạng viễn thông của đơn vị có mạng viễn thông trong thời gian Giấy phép thiết lập mạng viễn thông có hiệu lực đối với dịch vụ quy định tại các Điểm a, b, c, d Khoản 1 Điều 4 Nghị định số 06/2016/NĐ-CP; bản sao xác nhận đăng ký tên miền “.vn” hoặc địa chỉ Internet xác định đối với dịch vụ quy định tại Điểm đ, Khoản 1 Điều 4 Nghị định số 06/2016/NĐ-CP
+ Trường hợp doanh nghiệp cung cấp dịch vụ quy định tại các Điểm a, b, c, d Khoản 1 Điều 4 Nghị định số 06/2016/NĐ-CP không có mạng viễn thông phải có quy chế phối hợp với đơn vị có mạng viễn thông hoặc giải pháp kỹ thuật bổ sung để xử lý sự cố, bảo đảm chất lượng và tính liên tục của dịch vụ
+- 01 Bản chính d) Hồ sơ đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền theo quy định tại Khoản 5 Điều 21 Nghị định số 06/2016/NĐ-CP
+- 01 Bản sao đ) Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu văn bản thỏa thuận điểm nhận tín hiệu kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu, trừ trường hợp dịch vụ phát thanh, truyền hình trên mạng Internet không cung cấp kênh chương trình
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục Phát thanh, truyền hình và thông tin điện tử Số 115 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|103/2016/QH13|Luật báo chí|05-04-2016|Quốc Hội|
+|06/2016/NĐ-CP|Nghị định 06/2016/NĐ-CP|18-01-2016|Chính phủ|
+|19/2016/TT-BTTTT|Thông tư 19/2016/TT-BTTTT|30-06-2016|Bộ Thông tin và Truyền thông|
+|41/2009/QH12|Viễn thông|23-11-2009|Quốc Hội|
+|71/2022/NĐ-CP|Nghị định 71/2022/NĐ-CP|01-10-2022||
+|05/2023/TT-BTTTT|Thông tư số 05/2023/TT-BTTTT sửa đổi, bổ sung một số điều của Thông tư số 19/2016/TT-BTTTT ngày 30/6/2016|30-06-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+a) Là doanh nghiệp Việt Nam. Đối với các doanh nghiệp có vốn đầu tư nước ngoài phải được sự chấp thuận về chủ trương của Thủ tướng Chính phủ;
+b) Có phương án cung cấp dịch vụ phù hợp với quy hoạch phát triển dịch vụ phát thanh, truyền hình, quy hoạch truyền dẫn phát sóng phát thanh, truyền hình và các quy hoạch khác trong lĩnh vực phát thanh, truyền hình, thông tin điện tử;
+c) Có Giấy phép thiết lập mạng viễn thông hoặc có thỏa thuận được thuê, sử dụng mạng viễn thông đáp ứng yêu cầu kỹ thuật truyền dẫn dịch vụ đến các thuê bao kết nối với mạng viễn thông đó đối với dịch vụ quy định tại các Điểm a, b, c, d, Khoản 1 Điều 4 Nghị định này; có xác nhận đăng ký tên miền “.vn” hoặc địa chỉ Internet xác định để cung cấp dịch vụ đến thuê bao đối với dịch vụ quy định tại Điểm đ, Khoản 1 Điều 4 Nghị định này;
+d) Có các phương án: Bố trí nguồn nhân lực; đầu tư trang thiết bị kỹ thuật; dự báo và phân tích thị trường dịch vụ; kế hoạch kinh doanh và giá cước dịch vụ, dự toán chi phí đầu tư và chi phí hoạt động ít nhất trong 2 (hai) năm đầu tiên; văn bản chứng minh vốn điều lệ hoặc văn bản giá trị tương đương đáp ứng yêu cầu triển khai cung cấp dịch vụ theo dự toán;
+đ) Có phương án thiết lập trung tâm thu phát tất cả các kênh chương trình trong nước, kênh chương trình nước ngoài tập trung ở một địa điểm, trừ các kênh chương trình thuộc danh mục kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu của địa phương, gồm: Thiết kế kỹ thuật hệ thống thiết bị xử lý tín hiệu, thiết bị kết nối đến mạng truyền dẫn, thiết bị quản lý dịch vụ, quản lý thuê bao và bảo vệ nội dung;
+e) Có phương án áp dụng công nghệ kỹ thuật hiện đại phù hợp quy định của Nhà nước về tiêu chuẩn, quy chuẩn kỹ thuật bảo đảm chất lượng dịch vụ và an toàn an ninh thông tin; xử lý kịp thời các sự cố kỹ thuật bảo đảm tính liên tục của dịch vụ và quyền lợi của thuê bao;
+g) Có dự kiến danh mục kênh chương trình trong nước (trừ các kênh chương trình quy định tại Khoản 4 Điều 13 Nghị định này), kênh chương trình nước ngoài, nội dung theo yêu cầu, nội dung giá trị gia tăng sẽ cung cấp trên dịch vụ phát thanh, truyền hình trả tiền kèm theo các văn bản chấp thuận của đơn vị cung cấp nội dung;
+h) Có văn bản thỏa thuận điểm nhận tín hiệu các kênh chương trình phù hợp quy định tại Điểm c Khoản 1 Điều 14 Nghị định này.
+a) Là doanh nghiệp Việt Nam. Đối với các doanh nghiệp có vốn đầu tư nước ngoài phải được sự chấp thuận về chủ trương của Thủ tướng Chính phủ;
+b) Có phương án cung cấp dịch vụ phù hợp với quy hoạch phát triển dịch vụ phát thanh, truyền hình, quy hoạch truyền dẫn phát sóng phát thanh, truyền hình và các quy hoạch khác trong lĩnh vực phát thanh, truyền hình, thông tin điện tử;
+c) Có Giấy phép thiết lập mạng viễn thông hoặc có thỏa thuận được thuê, sử dụng mạng viễn thông đáp ứng yêu cầu kỹ thuật truyền dẫn dịch vụ đến các thuê bao kết nối với mạng viễn thông đó đối với dịch vụ quy định tại các Điểm a, b, c, d, Khoản 1 Điều 4 Nghị định này; có xác nhận đăng ký tên miền “.vn” hoặc địa chỉ Internet xác định để cung cấp dịch vụ đến thuê bao đối với dịch vụ quy định tại Điểm đ, Khoản 1 Điều 4 Nghị định này;
+d) Có các phương án: Bố trí nguồn nhân lực; đầu tư trang thiết bị kỹ thuật; dự báo và phân tích thị trường dịch vụ; kế hoạch kinh doanh và giá cước dịch vụ, dự toán chi phí đầu tư và chi phí hoạt động ít nhất trong 2 (hai) năm đầu tiên; văn bản chứng minh vốn điều lệ hoặc văn bản giá trị tương đương đáp ứng yêu cầu triển khai cung cấp dịch vụ theo dự toán;
+đ) Có phương án thiết lập trung tâm thu phát tất cả các kênh chương trình trong nước, kênh chương trình nước ngoài tập trung ở một địa điểm, trừ các kênh chương trình thuộc danh mục kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu của địa phương, gồm: Thiết kế kỹ thuật hệ thống thiết bị xử lý tín hiệu, thiết bị kết nối đến mạng truyền dẫn, thiết bị quản lý dịch vụ, quản lý thuê bao và bảo vệ nội dung;
+e) Có phương án áp dụng công nghệ kỹ thuật hiện đại phù hợp quy định của Nhà nước về tiêu chuẩn, quy chuẩn kỹ thuật bảo đảm chất lượng dịch vụ và an toàn an ninh thông tin; xử lý kịp thời các sự cố kỹ thuật bảo đảm tính liên tục của dịch vụ và quyền lợi của thuê bao;
+g) Có dự kiến danh mục kênh chương trình trong nước (trừ các kênh chương trình quy định tại Khoản 4 Điều 13 Nghị định này), kênh chương trình nước ngoài, nội dung theo yêu cầu, nội dung giá trị gia tăng sẽ cung cấp trên dịch vụ phát thanh, truyền hình trả tiền kèm theo các văn bản chấp thuận của đơn vị cung cấp nội dung;
+h) Có văn bản thỏa thuận điểm nhận tín hiệu các kênh chương trình phù hợp quy định tại Điểm c Khoản 1 Điều 14 Nghị định này.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

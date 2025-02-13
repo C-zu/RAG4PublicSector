@@ -1,0 +1,32 @@
+Tên thủ tục: Đăng ký đóng, cấp thẻ BHYT đối với người chỉ tham gia BHYT
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thẻ BHYT, Quyết định hoàn trả (mẫu C16-TS) và Tiền hoàn trả, Quyết định về việc hoàn trả tiền thu BHXH, BHYT, BHTN, BHTNLĐ, BNN, Thẻ BHYT
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2008/QH12|Luật 25/2008/QH12 - Bảo hiểm y tế|14-11-2008|Quốc Hội|
+|Nghị định 146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP Quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật bảo hiểm y tế|17-10-2018|Chính phủ|
+|595/QĐ-BHXH|ban hành Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế|14-04-2017|Bảo hiểm xã hội Việt Nam|
+|888/QĐ-BHXH|Sửa đổi, bổ sung một số điều Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiệm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/04/2017 của Tổng Giám đốc Bảo hiểm Xã hội Việt Nam|16-07-2018|Bảo hiểm xã hội Việt Nam|
+|838/QĐ-BHXH|ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp|29-05-2017|Bảo hiểm xã hội Việt Nam|
+|505/QĐ-BHXH|Quyết định sửa đổi, bổ sung một số điều Quy trình thu BHXH, BHYT, BHTN, bảo hiểm TNLĐ-BNN; quản lý sổ BHXH, thẻ BHYT ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng Giám đốc BHXH Việt Nam|27-03-2020|Bảo hiểm xã hội Việt Nam|
+|102/2018/TT-BTC|Thông tư 102/2018/TT-BTC|14-11-2018||
+|46/2014/QH13|Luật 46/2014/QH13|13-06-2014||
+|104/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của các nghị định liên quan đến việc nộp, xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công|21-12-2022|Chính phủ|
+|490/QĐ-BHXH|Quyết định số 490/QĐ-BHXH ngày 28 tháng 3 năm 2023 Tổng Giám đốc Bảo hiểm xã hội Việt Nam về sửa đổi, bổ sung một số điều của Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14 tháng 4 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam và sửa đổi, bổ sung Điều 1 của Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam|28-03-2023|Bảo hiểm xã hội Việt Nam|
+|3510/QĐ-BHXH|Quyết định phê duyệt quy trình đăng ký đóng, cấp thẻ BHYT đối với người chỉ tham gia BHYT trên Cổng Dịch vụ công theo Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ phê duyệt danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công Quốc gia năm 2022|21-11-2022|Bảo hiểm xã hội Việt Nam|
+|948/QĐ-BHXH|Quyết định sửa đổi, bổ sung một số điều quy trình thu BHXH, BHYT, BHTN, BHTNLĐ - BNN; Quản lý sổ BHXH, thẻ BHYT ban hành kèm Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 490/QĐ-BHXH ngày 28/3/2023 của Tổng Giám đốc BHXH Việt Nam|05-06-2023|Bảo hiểm xã hội Việt Nam|

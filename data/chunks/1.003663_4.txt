@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục xóa đăng ký quốc tịch tàu bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecd627c84934b8'">Mau 3.3.docx</a>)
+- 01 Bản sao - Bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao chụp từ bản chính hoặc bản sao xuất trình bản chính để đối chiếu hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị xóa đăng ký trong trường hợp người đề nghị là tổ chức, cá nhân Việt Nam; Trường hợp giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị xóa đăng ký do cơ quan nước ngoài có thẩm quyền cấp thì các giấy tờ, tài liệu này phải được hợp pháp hóa lãnh sự theo quy định của pháp luật, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại.
+- 01 Bản sao - Trường hợp người đề nghị xóa đăng ký là người được chỉ định tại văn bản IDERA thì hồ sơ phải bao gồm cả văn bản đồng ý xóa đăng ký và xuất khẩu tàu bay của những người có quyền lợi quốc tế đã được đăng ký có thứ tự ưu tiên cao hơn so với quyền lợi quốc tế của người đề nghị xóa đăng ký hoặc có tài liệu để chứng minh các quyền lợi quốc tế được đăng ký có thứ tự ưu tiên cao hơn đã được thực hiện;
+- 01 Bản sao - Trường hợp người đề nghị xóa đăng ký là người nhận bảo đảm bằng tàu bay theo chỉ định tại văn bản IDERA, hồ sơ phải bao gồm cả tài liệu chứng minh người đề nghị xóa đăng ký đã thông báo bằng văn bản đến những người có quyền lợi quốc tế đã được đăng ký, chủ sở hữu tàu bay, người đề nghị đăng ký quốc tịch tàu bay về việc đề nghị xóa đăng ký tàu bay ít nhất 10 ngày trước ngày nộp hồ sơ đề nghị.

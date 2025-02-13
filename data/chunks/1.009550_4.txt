@@ -1,0 +1,11 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ thành viên, quỹ đóng, quỹ bất động sản do thay đổi thời hạn hoạt động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Giấy đề nghị điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Biên bản họp và nghị quyết của Đại hội nhà đầu tư của quỹ về việc rút ngắn hoặc gia hạn thời gian hoạt động của quỹ, trong đó nêu rõ thời gian rút ngắn hoặc gia hạn hoạt động của quỹ;
+- 01 Bản chính, 01 Bản sao Danh sách nhà đầu tư chứng khoán chuyên nghiệp tham gia góp vốn lập quỹ thành viên - Mẫu số 93 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Chi tiết danh mục đầu tư và báo cáo giá trị tài sản ròng của quỹ (có xác nhận của ngân hàng lưu ký) tại ngày định giá gần nhất tính tới ngày nộp hồ sơ;
+- 01 Bản chính, 01 Bản sao Trường hợp quỹ gia hạn thời gian hoạt động, bổ sung Hợp đồng ký với ngân hàng lưu ký về việc gia hạn thời gian cung cấp dịch vụ lưu ký cho quỹ.

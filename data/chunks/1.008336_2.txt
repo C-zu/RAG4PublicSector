@@ -1,0 +1,7 @@
+Tên thủ tục: Khai quyết toán thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1. Nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác lập hồ sơ khai quyết toán thuế khi kết thúc hợp đồng nhà thầu và gửi đến cơ quan thuế quản lý trực tiếp của bên Việt Nam.
++ Bước 2. Cơ quan thuế tiếp nhận:
+Cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định đối sơ hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính. Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

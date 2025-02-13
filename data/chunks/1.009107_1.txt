@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục tạm dừng hoạt động/ hoạt động trở lại của địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009107
+Số quyết định:
+1080/QĐ-BTC
+Tên thủ tục:
+Thủ tục tạm dừng hoạt động/ hoạt động trở lại của địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

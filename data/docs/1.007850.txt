@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007850
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục hải quan đối với hàng hóa đưa vào, đưa ra cảng trung chuyển
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp kinh doanh dịch vụ trung chuyển thông báo cho cơ quan hải quan.
++ Bước 2: Cơ quan hải quan thực hiện việc giám sát hải quan trong thời gian lưu giữ tại cảng.
++ Bước 3: Xác nhận thanh khoản hàng trung chuyển của hải quan cửa khẩu nhập.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bảng kê hàng trung chuyển
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận của hải quan cửa khẩu tại bảng kê hàng trung chuyển
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

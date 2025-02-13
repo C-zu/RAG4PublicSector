@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe91e339c5a92d3'">1.004724_cấp chứng nhận đăng ký cảng.docx</a>)
+- 01 Bản sao Bản sao hoặc bản sao điện tử quyết định thành lập doanh nghiệp của chủ sở hữu hoặc tổ chức được giao quản lý cảng hàng không, sân bay (trường hợp không có giấy chứng nhận đăng ký doanh nghiệp);
+- 01 Bản sao Bản sao hoặc bản sao điện tử quyết định chủ trương đầu tư hoặc quyết định đầu tư cảng hàng không, sân bay trong trường hợp xây mới, cải tạo, nâng cấp, mở rộng cảng hàng không, sân bay
+- 01 Bản sao Bản sao hoặc bản sao điện tử tài liệu xác nhận kết cấu hạ tầng của cảng hàng không, sân bay đã hoàn thành các thủ tục nghiệm thu theo quy định về đầu tư xây dựng trong trường hợp xây mới, cải tạo, nâng cấp, mở rộng cảng hàng không, sân bay

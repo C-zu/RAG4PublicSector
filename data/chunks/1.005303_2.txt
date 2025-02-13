@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai báo vật liệu hạt nhân nguồn
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp phiếu khai báo vật liệu hạt nhân nguồn cho Cục ATBXHN.
+Bước 2: Cục ATBXHN xem xét phiếu khai báo và đề nghị chỉnh sửa, bổ sung thông tin (nếu có);
+Bước 3: Cục ATBXHN cấp Giấy xác nhận đã khai báo.

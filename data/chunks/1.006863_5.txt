@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký hoạt động chứng nhận chất lượng sản phẩm, hàng hóa vật liệu xây dựng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Xây dựng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động chứng nhận chất lượng sản phẩm, hàng hóa vật liệu xây dựng được cấp lại
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|

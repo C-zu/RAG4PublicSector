@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004428
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại văn bản xác nhận thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được (Cấp bộ)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính
+Trình tự thực hiện:
+Bước 1: Trường hợp văn bản xác nhận thông báo hoạt động bưu chính chính bị mất hoặc hư hỏng không sử dụng được và doanh nghiệp, tổ chức có nhu cầu được cấp lại thì gửi hồ sơ đến Bộ Thông tin và Truyền thông.
+Bước 2: - Sau khi hồ sơ được tiếp nhận, Bộ Thông tin và Truyền thông cấp lại giấy phép bưu chính trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+- Kết quả giải quyết thủ tục cấp lại giấy phép bưu chính khi bị mất hoặc hư hỏng không sử dụng được được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : 1.000.000 Đồng  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbba1f6685e6168')|Nộp hồ sơ trực tiếp tại trụ sở Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+|Trực tuyến|7 Ngày làm việc|Phí : 1.000.000 Đồng  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbba1f6685e6168')|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : 1.000.000 Đồng  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbba1f6685e6168')|Nộp hồ sơ qua dịch vụ bưu chính tới Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại văn bản xác nhận thông báo hoạt động bưu chính ([Mãu giay de nghi cap lai Văn ban XNTB.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac7bfcb735d520'))
+ Số lượng hồ sơ: 01 bộ là bản gốc
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Vụ Bưu chính
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông., số 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao từ bản gốc của văn bản xác nhận thông báo hoạt động bưu chính đã được cấp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|49/2010/QH12|Luật 49/2010/QH12|17-06-2010|Quốc Hội|
+|47/2011/NĐ-CP|Nghị định 47/2011/NĐ-CP|17-06-2011|Chính phủ|
+|291/2016/TT-BTC|Thông tư 291/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|25/2020/TT-BTC|Thông tư sửa đổi, bổ sung một số điều của Thông tư 219/2016-TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý phí thẩm định điều kiện hoạt động bưu chính|04-04-2020|Bộ Tài chính|
+|25/2022/NĐ-CP|Nghị định 25/2022/NĐ-CP|12-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Thông tư số 25/2020/TT-BTC ngày 14/4/2020 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 291/2016/TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.

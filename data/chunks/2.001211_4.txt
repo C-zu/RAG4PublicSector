@@ -1,0 +1,8 @@
+Tên thủ tục: Xóa đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị xóa đăng ký phương tiện theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea2ed71cbd924b'">Mẫu đơn đề nghị xoá đăng ký PHƯƠNG TIỆN VUI CHƠI GIẢI TRÍ DƯỚI NƯỚC.docx</a>)
+- 01 Bản chính - Bản chính Giấy chứng nhận đăng ký phương tiện đã được cấp.

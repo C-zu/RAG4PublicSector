@@ -1,0 +1,18 @@
+Tên thủ tục: Cho phép tổ chức hoạt động khám bệnh, chữa bệnh nhân đạo theo đợt, khám bệnh, chữa bệnh lưu động thuộc trường hợp quy định tại khoản 1 Điều 79 của Luật Khám bệnh, chữa bệnh hoặc cá nhân khám bệnh, chữa bệnh nhân đạo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Trường hợp 1: Hồ sơ đề nghị cho phép tổ chức hoạt động khám bệnh, chữa bệnh nhân đạo theo đợt hoặc khám bệnh, chữa bệnh lưu động thuộc trường hợp quy định tại khoản 1 Điều 79 của Luật Khám bệnh, chữa bệnh:
+- 01 Bản chính a) Đơn đề nghị cho phép khám bệnh, chữa bệnh nhân đạo theo đợt hoặc khám bệnh, chữa bệnh lưu động theo Mẫu 01 Phụ lục IV ban hành kèm theo Nghị định số 96/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe15609561768a4'">Mẫu 01.docx</a>)
+- 01 Bản chính b) Bản kê khai danh sách các thành viên tham gia khám bệnh, chữa bệnh nhân đạo hoặc khám bệnh, chữa bệnh lưu động theo Mẫu 02 Phụ lục IV Nghị định số 96/2023/NĐ-CP, trong đó phải nêu rõ người chịu trách nhiệm chuyên môn kỹ thuật kèm theo bản sao hợp lệ giấy phép hành nghề của người được phân công là người chịu trách nhiệm chuyên môn kỹ thuật của đoàn khám; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6fb2319d1a746'">Mẫu 02.docx</a>)
+- 01 Bản sao c) Bản sao hợp lệ văn bằng, chứng chỉ chuyên môn của người trực tiếp tham gia khám bệnh, chữa bệnh nhưng không thuộc diện phải có giấy phép hành nghề theo quy định của pháp luật về khám bệnh, chữa bệnh (nếu có);
+- 01 Bản chính d) Kế hoạch tổ chức khám bệnh, chữa bệnh nhân đạo hoặc khám bệnh, chữa bệnh lưu động theo Mẫu 03 Phụ lục IV ban hành kèm theo Nghị định số 96/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb1bc9665d798d8'">Mẫu 03.docx</a>)
+- 01 Bản chính đ) Văn bản cho phép của cơ sở khám bệnh, chữa bệnh hoặc của người đứng đầu địa điểm nơi dự kiến tổ chức hoạt động khám bệnh, chữa bệnh.
+
+
+2. Trường hợp 2: Hồ sơ đề nghị cho phép cá nhân khám bệnh, chữa bệnh nhân đạo:
+- 01 Bản chính a) Đơn đề nghị cho phép tổ chức khám bệnh, chữa bệnh nhân đạo hoặc khám bệnh, chữa bệnh lưu động theo Mẫu 01 Phụ lục IV ban hành kèm theo Nghị định số 96/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd75dbc91cc329c'">Mẫu 01.docx</a>)
+- 01 Bản sao b) Bản sao hợp lệ giấy phép hành nghề của người đề nghị khám bệnh, chữa bệnh nhân đạo;
+- 01 Bản chính c) Kế hoạch tổ chức khám bệnh, chữa bệnh nhân đạo theo Mẫu 03 Phụ lục IV ban hành kèm theo Nghị định số 96/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb6742c70c1dea'">Mẫu 03.docx</a>)
+- 01 Bản chính d) Văn bản cho phép của cơ sở khám bệnh, chữa bệnh hoặc của người đứng đầu địa điểm nơi dự kiến tổ chức hoạt động khám bệnh, chữa bệnh nhân đạo.

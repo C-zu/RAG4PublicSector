@@ -1,0 +1,12 @@
+Tên thủ tục: Thẩm định, phê duyệt quy trình vận hành hồ chứa thủy điện thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ trình đề nghị phê duyệt;
+- 01 Bản chính - Dự thảo quy trình;
+- 01 Bản chính - Báo cáo thuyết minh kết quả tính toán kỹ thuật;
+- 01 Bản chính - Bản đồ hiện trạng công trình;
+- 01 Bản chính - Văn bản góp ý kiến của các cơ quan, đơn vị liên quan;
+- 01 Bản chính - Các tài liệu liên quan khác kèm theo (nếu có).

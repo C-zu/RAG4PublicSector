@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép trao đổi, mua, bán, tặng cho, thuê, lưu giữ, vận chuyển mẫu vật của loài thuộc Danh mục loài được ưu tiên bảo vệ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn xin cấp Giấy phép Trao đổi, mua, bán, tặng cho, thuê, lưu giữ, vận chuyển mẫu vật của loài thuộc Danh mục loài được ưu tiên bảo vệ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5698290978762'">Đơn đề nghị cấp phép trao đổi.docx</a>)
+- 01 Bản chính, 01 Bản sao + Giấy tờ chứng minh nguồn gốc hợp pháp của mẫu vật;
+- 01 Bản chính + Văn bản thỏa thuận về trao đổi, mua, bán, tặng cho, thuê mẫu vật của loài được ưu tiên bảo vệ;
+- 01 Bản sao + Bản sao có chứng thực giấy tờ chứng minh tư cách pháp nhân hợp lệ.

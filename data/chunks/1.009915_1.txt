@@ -1,0 +1,16 @@
+Tên thủ tục: Hỗ trợ câu lạc bộ, đội văn nghệ dân gian tại các điểm du lịch
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009915
+Số quyết định:
+1882/QĐ-UBND
+Tên thủ tục:
+Hỗ trợ câu lạc bộ, đội văn nghệ dân gian tại các điểm du lịch
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Du lịch

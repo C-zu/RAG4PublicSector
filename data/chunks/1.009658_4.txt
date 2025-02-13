@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt kế hoạch khuyến nông địa phương (cấp xã)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo thuyết minh đánh giá kết quả việc thực hiện kế hoạch khuyến nông UBND cấp xã năm trước của năm đề xuất kế hoạch
+- 01 Bản chính Đề xuất kế hoạch khuyến nông
+- 01 Bản chính Dự toán kinh phí.

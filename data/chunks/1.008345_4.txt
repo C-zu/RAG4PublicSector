@@ -1,0 +1,9 @@
+Tên thủ tục: Tra soát, điều chỉnh thông tin thu, nộp ngân sách nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Văn bản đề nghị tra soát theo mẫu số 01/TS (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd12ac28045f90c'">Mẫu 01.TS.docx</a>)
+- 01 Bản chính, 01 Bản sao + Tài liệu chứng minh (nếu có): Bản sao chứng từ nộp ngân sách nhà nước của người nộp thuế hoặc bản sao các quyết định, thông báo, chứng từ có liên quan.
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ)

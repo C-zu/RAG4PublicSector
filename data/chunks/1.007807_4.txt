@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xác định trước mã số hàng hóa xuất khẩu, nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xác định trước mã số theo mẫu số 01/XĐTMS/TXNK Phụ lục VI ban hành kèm Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4ad0d264bb3e0'">2018_729 + 730_39-2018-TT-BTC..pdf</a>)
+- 01 Bản chính + Mẫu hàng hóa dự kiến xuất khẩu, nhập khẩu (nếu có) hoặc tài liệu kỹ thuật (như bản phân tích thành phần, catalogue, hình ảnh hàng hóa), mô tả chi tiết thành phần, tính chất, cấu tạo, công dụng, phương thức vận hành của hàng hóa

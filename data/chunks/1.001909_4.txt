@@ -1,0 +1,7 @@
+Tên thủ tục: Thanh toán chi phí khám, chữa bệnh bảo hiểm y tế với cơ sở khám chữa bệnh bảo hiểm y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bảng tổng hợp chi phí KCB của người tham gia BHYT (theo mẫu số C79-HD ban hành kèm theo Thông tư số 102/2018/TT-BTC). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd11245d47cd814'">C79_HD.docx</a>)

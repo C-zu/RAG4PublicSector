@@ -1,0 +1,23 @@
+Tên thủ tục: Cung cấp thông tin về quy hoạch xây dựng (UBND cấp huyện)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì hướng dẫn đầy đủ một lần để tổ chức, cá nhân hoàn thiện hồ sơ.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm, thông báo bằng văn bản cho tổ chức, cá nhân:
++ Nếu không bổ sung được thì dự thảo văn bản thông báo hồ sơ không đủ điều kiện được cung cấp thông tin quy hoạch trình lãnh đạo phòng ký nháy. 
++ Nếu bổ sung đầy đủ, thì dự thảo văn bản cung cấp thông tin quy hoạch  trình lãnh đạo phòng ký nháy.
+      - Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo văn bản cung cấp thông tin quy hoạch trình lãnh đạo phòng ký nháy.
+B5	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo UBND huyện phê duyệt.
+       - Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở bước 4.
+B6	Phê duyệt kết quả giải quyết TTHC:
+      - Nếu đồng ý: Ký vào văn bản. 
+      - Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm HCC cấp huyện
+B8	Trả kết quả cho tổ chức, cá nhân

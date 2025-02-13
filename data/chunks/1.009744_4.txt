@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp lại Giấy phép hoạt động cho thuê lại lao động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Đối với trường hợp đề nghị cấp lại giấy phép do thay đổi tên doanh nghiệp, địa chỉ trụ sở chính hoặc giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị cấp lại Giấy phép của doanh nghiệp, theo mẫu BM.LĐ-TL-QHLĐ.06.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe01a22fe4ac36e'">BM.LĐ-TL-QHLĐ.06.01.doc</a>)
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp theo quy định của pháp luật.
+- 01 Bản chính, 01 Bản sao Giấy phép đã được cấp trước đó
+- 01 Bản chính, 01 Bản sao Đối với trường hợp đề nghị cấp lại giấy phép do thay đổi người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị cấp lại Giấy phép của doanh nghiệp, theo mẫu BM.LĐ-TL-QHLĐ.06.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb7b8530b3a2ca8'">BM.LĐ-TL-QHLĐ.06.01.doc</a>)
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp
+- 01 Bản chính, 01 Bản sao Bản lý lịch tự thuật của người đại diện theo pháp luật của doanh nghiệp, theo mẫu BM.LĐ-TL-QHLĐ.06.02 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fece6479a93fdc8'">BM.LĐ-TL-QHLĐ.06.02.doc</a>)
+- 01 Bản chính, 01 Bản sao Phiếu lý lịch tư pháp số 1 theo quy định pháp luật về lý lịch tư pháp của người đại diện theo pháp luật của doanh nghiệp. Trường hợp người đại diện theo pháp luật là người nước ngoài không thuộc đối tượng được cấp phiếu lý lịch tư pháp của Việt Nam thì phiếu lý lịch tư pháp số 1 được thay thế bằng phiếu lý lịch tư pháp hoặc văn bản xác nhận người lao động nước ngoài không phải là người phạm tội hoặc bị truy cứu trách nhiệm hình sự của nước ngoài cấp (các văn bản nêu trên được cấp trước ngày nộp hồ sơ không quá 06 tháng).
+- 01 Bản chính, 01 Bản sao Văn bản chứng minh thời gian đã làm việc trong lĩnh vực cho thuê lại lao động hoặc cung ứng lao động từ đủ 03 năm (36 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép của người đại diện theo pháp luật của doanh nghiệp là một trong các loại văn bản sau: + Hợp đồng lao động hoặc hợp đồng làm việc của người đại diện theo pháp luật của doanh nghiệp. + Quyết định bổ nhiệm (đối với người làm việc theo chế độ bổ nhiệm) hoặc văn bản công nhận kết quả bầu (đối với người làm việc theo chế độ bâu cử) của người đại diện theo pháp luật của doanh nghiệp. (Trường hợp các văn bản trên là văn bản bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt).
+- 01 Bản chính, 01 Bản sao Đối với trường hợp đề nghị cấp lại giấy phép do giấy phép bị mất hoặc bị cháy
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị cấp lại Giấy phép của doanh nghiệp, theo mẫu BM.LĐ-TL-QHLĐ.06.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde8e2a1bca353e'">BM.LĐ-TL-QHLĐ.06.01.doc</a>)
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp
+- 01 Bản chính, 01 Bản sao Bản lý lịch tự thuật của người đại diện theo pháp luật của doanh nghiệp, theo mẫu BM.LĐ-TL-QHLĐ.06.02 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2ee84c289a4e6'">BM.LĐ-TL-QHLĐ.06.02.doc</a>)
+- 01 Bản chính, 01 Bản sao Phiếu lý lịch tư pháp số 1 theo quy định pháp luật về lý lịch tư pháp của người đại diện theo pháp luật của doanh nghiệp. Trường hợp người đại diện theo pháp luật là người nước ngoài không thuộc đối tượng được cấp phiếu lý lịch tư pháp của Việt Nam thì phiếu lý lịch tư pháp số 1 được thay thế bằng phiếu lý lịch tư pháp hoặc văn bản xác nhận người lao động nước ngoài không phải là người phạm tội hoặc bị truy cứu trách nhiệm hình sự của nước ngoài cấp (các văn bản nêu trên được cấp trước ngày nộp hồ sơ không quá 06 tháng).
+- 01 Bản chính, 01 Bản sao Văn bản chứng minh thời gian đã làm việc trong lĩnh vực cho thuê lại lao động hoặc cung ứng lao động từ đủ 03 năm (36 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép của người đại diện theo pháp luật của doanh nghiệp là một trong các loại văn bản sau: + Hợp đồng lao động hoặc hợp đồng làm việc của người đại diện theo pháp luật của doanh nghiệp. + Quyết định bổ nhiệm (đối với người làm việc theo chế độ bổ nhiệm) hoặc văn bản công nhận kết quả bầu (đối với người làm việc theo chế độ bâu cử) của người đại diện theo pháp luật của doanh nghiệp. (Trường hợp các văn bản trên là văn bản bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt).
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận ký quỹ kinh doanh cho thuê lại lao động, theo mẫu BM.LĐ-TL-QHLĐ.06.03 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8ecbdc71d1ec4'">BM.LĐ-TL-QHLĐ.06.03.doc</a>)
+- 01 Bản chính, 01 Bản sao Giấy xác nhận về việc bị mất hoặc bị cháy của chính quyền địa phương nơi xảy ra sự việc.

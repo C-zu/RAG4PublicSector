@@ -1,0 +1,9 @@
+Tên thủ tục: Kê khai lại giá thuốc nước ngoài nhập khẩu vào Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bảng kê khai lại giá thuốc nước ngoài nhập khẩu vào Việt Nam (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec3f9ce33168d2'">Mẫu số 01.docx</a>)
+- 01 Bản chính, 01 Bản sao Kèm theo Mẫu số 09 Phụ lục VII của Nghị định 54/2017/NĐ-CP. Mẫu này được sửa đổi theo quy định tại khoản 3 Điều 2 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9a06bde2d0370'">Mẫu số 09.docx</a>)
+- 01 Bản chính, 01 Bản sao Tài liệu kèm theo: - Bảng thuyết minh cơ cấu giá (Theo Mẫu số 10 Phụ lục VII kèm theo Nghị định này). - Bảng so sánh nội dung thay đổi cơ cấu giá so với cơ cấu giá tại Hồ sơ kê khai liền kề. - Công văn phân tích nguyên nhân, nêu rõ biến động của các yếu tố hình thành giá tác động làm tăng hoặc giảm giá bán buôn, bán lẻ dự kiến (nếu có) kê khai. - Các tài liệu khác kèm theo (nếu có). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed235cee2d33a1'">Mẫu số 10.docx</a>)

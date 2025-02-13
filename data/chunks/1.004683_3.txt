@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 ngày tổ chức thẩm định và trong thời hạn 10 ngày làm việc kể từ ngày nhận được báo cáo kết quả khảo nghiệm, Cục Thủy sản tổ chức đánh giá kết quả khảo nghiệm và ban hành quyết định công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Trực tuyến|20 ngày tổ chức thẩm định và trong thời hạn 10 ngày làm việc kể từ ngày nhận được báo cáo kết quả khảo nghiệm, Cục Thủy sản tổ chức đánh giá kết quả khảo nghiệm và ban hành quyết định công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Dịch vụ bưu chính|20 ngày tổ chức thẩm định và trong thời hạn 10 ngày làm việc kể từ ngày nhận được báo cáo kết quả khảo nghiệm, Cục Thủy sản tổ chức đánh giá kết quả khảo nghiệm và ban hành quyết định công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|

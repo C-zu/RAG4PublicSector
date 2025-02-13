@@ -1,0 +1,14 @@
+Tên thủ tục: Đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm; Đăng ký thay đổi, bổ sung một trong các nội dung đã đăng ký lưu hành theo quy định tại Điểm c, Khoản 2, Điều 10 Thông tư 11/2014/TT-BYT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao giấy phép lưu hành tại nước sản xuất, xuất khẩu do cơ quan nhà nước có thẩm quyền của nước sở tại cấp (đối với trường hợp đăng ký bộ xét nghiệm nhanh thực phẩm có nguồn gốc nhập khẩu) và phải được hợp pháp hoá lãnh sự bằng tiếng Anh hoặc tiếng Việt; trường hợp giấy phép lưu hành bằng tiếng nước khác phải kèm theo bản dịch ra tiếng Việt có công chứng;
+- 02 Bản chính 02 bộ mẫu xét nghiệm nhanh thực phẩm.
+- 01 Bản chính Đơn đề nghị đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm (theo mẫu quy định tại Phụ lục 03 ban hành kèm theo Thông tư 11/2014/TT-BYT); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd168e04ee2d804'">phụ lục 3.docx</a>)
+- 01 Bản sao Bản sao có chứng thực giấy chứng nhận đăng ký kinh doanh;
+- 01 Bản chính Các tài liệu nghiên cứu, thử nghiệm liên quan đến bộ xét nghiệm nhanh thực phẩm; trường hợp tài liệu bằng tiếng nước ngoài phải kèm theo bản dịch ra tiếng Việt (có xác nhận của doanh nghiệp);
+- 01 Bản chính Hướng dẫn sử dụng bộ xét nghiệm nhanh thực phẩm; trường hợp hướng dẫn sử dụng bằng tiếng nước ngoài phải kèm theo bản dịch ra tiếng Việt (có xác nhận của doanh nghiệp);
+- 01 Bản chính Báo cáo kết quả khảo nghiệm bộ xét nghiệm nhanh thực phẩm của 03 cơ sở kiểm nghiệm do doanh nghiệp tự chọn trong danh sách các cơ sở kiểm nghiệm được Bộ Y tế công bố hàng năm;
+- 01 Bản chính 01 mẫu nhãn của bộ xét nghiệm nhanh thực phẩm bao gồm nhãn trực tiếp trên đơn vị đóng gói nhỏ nhất và nhãn trên bao bì gián tiếp (có đóng dấu của doanh nghiệp);

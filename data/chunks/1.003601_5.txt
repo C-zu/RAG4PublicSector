@@ -1,0 +1,27 @@
+Tên thủ tục: Thông báo thay đổi nội dung, hình thức nhãn chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Môi trường Y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Mẫu nhãn mới được bổ sung vào hồ sơ đăng ký lưu hành mới chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 36/2005/QH11|LUẬT Thương mại|14-06-2005||
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|68/2014/QH13|Luật 68/2014/QH13|26-11-2014|Quốc Hội|
+|06/2007/QH12|Luật 06/2007/QH12 - Hóa chất|21-11-2007|Quốc Hội|
+|91/2016/NĐ-CP|Nghị định 91/2016/NĐ-CP-Về quản lý hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13 -Đầu tư|26-11-2014|Quốc Hội|

@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục cấp mã địa điểm thu gom hàng lẻ ( đối với doanh nghiệp kinh doanh địa điểm thu gom hàng lẻ nằm trong khu vực cảng biển, cảng cạn là doanh nghiệp kinh doanh cảng)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm

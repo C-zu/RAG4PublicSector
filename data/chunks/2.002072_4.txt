@@ -1,0 +1,37 @@
+Tên thủ tục: Thông báo lập địa điểm kinh doanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thông báo lập địa điểm kinh doanh
+- 01 Bản chính Thông báo lập địa điểm kinh doanh do người đại diện theo pháp luật của doanh nghiệp ký trong trường hợp địa điểm kinh doanh trực thuộc doanh nghiệp hoặc do người đứng đầu chi nhánh ký trong trường hợp địa điểm kinh doanh trực thuộc chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd15b2b4b862734'">Phụ lục II-7.docx</a>)
+
+
+Thông báo lập địa điểm kinh doanh trường hợp doanh nghiệp là công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán
+- 01 Bản chính Thông báo lập địa điểm kinh doanh do người đại diện theo pháp luật của doanh nghiệp ký trong trường hợp địa điểm kinh doanh trực thuộc doanh nghiệp hoặc do người đứng đầu chi nhánh ký trong trường hợp địa điểm kinh doanh trực thuộc chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8b31ae2e59afc'">Phụ lục II-7.docx</a>)
+- 01 Bản sao Trường hợp doanh nghiệp là công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, kèm theo bản sao giấy phép thành lập và hoạt động hoặc bản sao văn bản chấp thuận của Ủy ban Chứng khoán Nhà nước
+
+
+Thông báo lập địa điểm kinh doanh trường hợp doanh nghiệp là doanh nghiệp xã hội
+- 01 Bản chính Thông báo lập địa điểm kinh doanh do người đại diện theo pháp luật của doanh nghiệp ký trong trường hợp địa điểm kinh doanh trực thuộc doanh nghiệp hoặc do người đứng đầu chi nhánh ký trong trường hợp địa điểm kinh doanh trực thuộc chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe92c297f2791a9'">Phụ lục II-7.docx</a>)
+- 01 Bản chính Trường hợp doanh nghiệp là doanh nghiệp xã hội, hồ sơ phải có thêm Cam kết thực hiện mục tiêu xã hội, môi trường quy định tại khoản 1 Điều 28 Nghị định số 01/2021/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef117607ce8380'">Phụ lục II-26.docx</a>)
+
+
+Thông báo lập địa điểm kinh doanh trường hợp doanh nghiệp là tổ chức tín dụng
+- 01 Bản chính Thông báo lập địa điểm kinh doanh do người đại diện theo pháp luật của doanh nghiệp ký trong trường hợp địa điểm kinh doanh trực thuộc doanh nghiệp hoặc do người đứng đầu chi nhánh ký trong trường hợp địa điểm kinh doanh trực thuộc chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd748f4d7591b4a'">Phụ lục II-7.docx</a>)
+- 01 Bản sao Trường hợp doanh nghiệp là tổ chức tín dụng, kèm theo bản sao giấy phép hoặc văn bản chấp thuận do Ngân hàng Nhà nước Việt Nam cấp
+
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp

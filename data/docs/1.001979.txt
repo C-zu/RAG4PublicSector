@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001979
+Số quyết định:
+1401/QĐ-BTP
+Tên thủ tục:
+Cấp lại Giấy phép thành lập chi nhánh, công ty luật nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Luật sư
+Trình tự thực hiện:
+Trong trường hợp Giấy phép thành lập chi nhánh, công ty luật nước ngoài bị mất, bị rách, bị cháy hoặc vì lý do khác không cố ý, chi nhánh, công ty luật nước ngoài gửi hồ sơ đề nghị cấp lại Giấy phép thành lập chi nhánh, công ty luật nước ngoài đến Bộ Tư pháp.
+Trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tư pháp cấp lại Giấy phép hành nghề tại Việt Nam cho luật sư nước ngoài.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Lệ phí : 20.000.000 Đồng|Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|60 Ngày|Phí : 20.000.000 Đồng|Trong thời hạn 60 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|60 Ngày|Lệ phí : 20.000.000 Đồng|Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại Giấy phép thành lập chi nhánh, công ty luật nước ngoài, trong đó nêu rõ lý do, số Giấy phép ([17. TP-LS-17. De nghi cap lai, thay doi noi dung GP CN, CTLNN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b638ee5b1e4c'))
+- 01 Bản chính Các giấy tờ theo quy định tại Điều 78 của Luật luật sư.
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Tư pháp
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép thành lập chi nhánh, công ty luật nước ngoài
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|220/2016/TT-BTC|Thông tư 220/2016/TT-BTC|10-11-2016|Bộ Tài chính|
+|65/2006/QH11|Luật 65/2006/QH11|29-06-2006|Quốc Hội|
+|20/2012/QH13|Luật 20/2012/QH13|20-11-2012||
+|05/2021/TT-BTP|Thông tư 05/2021/TT-BTP|24-06-2021||
+|03/2024/TT-BTP|Thông tư số 03/2024/TT-BTP ngày 15/5/2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung 08 thông tư liên quan đến thủ tục hành chính trong lĩnh vực bổ trợ tư pháp.|15-05-2024|Bộ trưởng Bộ Tư pháp|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức hành nghề luật sư nước ngoài đã được thành lập và đang hành nghề luật sư hợp pháp tại nước ngoài được phép hành nghề tại Việt Nam theo quy định của Luật Luật sư khi có đủ các điều kiện sau đây:
+- Cam kết và bảo đảm tuân thủ Hiến pháp và pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam;
+- Cam kết và bảo đảm có ít nhất hai luật sư nước ngoài, kể cả Trưởng chi nhánh, Giám đốc công ty luật nước ngoài có mặt và hành nghề tại Việt Nam từ 183 ngày trở lên trong khoảng thời gian liên tục mười hai tháng;
+- Trưởng chi nhánh, Giám đốc công ty luật nước ngoài tại Việt Nam phải có ít nhất hai năm liên tục hành nghề luật sư.
+Tổ chức hành nghề luật sư nước ngoài đã được thành lập và đang hành nghề luật sư hợp pháp tại nước ngoài được phép hành nghề tại Việt Nam theo quy định của Luật Luật sư khi có đủ các điều kiện sau đây:
+- Cam kết và bảo đảm tuân thủ Hiến pháp và pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam;
+- Cam kết và bảo đảm có ít nhất hai luật sư nước ngoài, kể cả Trưởng chi nhánh, Giám đốc công ty luật nước ngoài có mặt và hành nghề tại Việt Nam từ 183 ngày trở lên trong khoảng thời gian liên tục mười hai tháng;
+- Trưởng chi nhánh, Giám đốc công ty luật nước ngoài tại Việt Nam phải có ít nhất hai năm liên tục hành nghề luật sư.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

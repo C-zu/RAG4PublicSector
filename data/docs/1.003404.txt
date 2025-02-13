@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003404
+Số quyết định:
+5947/QĐ-BCA-C06
+Tên thủ tục:
+Cấp lại Chứng minh nhân dân (9 số) thực hiện tại cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Cấp, quản lý căn cước
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2:
+Công dân nộp hồ sơ tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội, Công an cấp tỉnh.
+Cán bộ tiếp nhận kiểm tra hồ sơ, đối chiếu thông tin công dân kê khai với thông tin của công dân trong Sổ hộ khẩu và các giấy tờ liên quan:
+Trường hợp hồ sơ đủ điều kiện, thủ tục thì tiến hành in vân tay vào tờ khai và chỉ bản, chụp ảnh chân dung của công dân, thu lệ phí theo quy định, viết giấy hẹn cho công dân.
+Trường hợp hồ sơ đủ điều kiện nhưng thông tin chưa đầy đủ, chính xác thì hướng dẫn công dân điều chỉnh, bổ sung hoặc kê khai lại.
+Trường hợp không đủ điều kiện thì không tiếp nhận và trả lời bằng văn bản cho công dân, nêu rõ lý do không tiếp nhận.
+Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày lễ, tết).
+Bước 3: Trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày lễ, tết).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : 9000 Đồng + Không quá 9.000đồng/lần cấp. + Tại các xã, thị trấn miền núi, biên giới, hải đảo và các khu vực khác, mức thu áp dụng tối đa bằng 50% (năm mươi phần trăm) mức thu quy định đối với cấp chứng minh nhân dân tại các quận của thành phố trực thuộc Trung ương, hoặc phường nội thành của thành phố thuộc tỉnh. + Các trường hợp không phải nộp lệ phí: bố, mẹ, vợ (hoặc chồng) của liệt sĩ, con dưới 18 tuổi của liệt sĩ; thương binh, con dưới 18 tuổi của thương binh; công dân thuộc xã, thị trấn vùng cao theo quy định của Ủy ban Dân tộc.|Trực tiếp tại trụ sở Công an hoặc cấp lưu động tại các địa điểm cần thiết. Thời gian: + Đối với công dân ở thành phố, thị xã không quá 07 ngày làm việc; + Đối với trường hợp công dân ở các huyện miền núi vùng cao, biên giới, hải đảo không quá 20 ngày làm việc; + Đối với công dân ở các khu vực còn lại không quá 15 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Sổ hộ khẩu
+- 01 Bản chính d) Tờ khai Chứng minh nhân dân (ký hiệu là CM4); ([91-Mẫu CM4-Tờ khai CMND.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe99863dd47f8a3'))
+- 01 Bản chính đ) Chỉ bản (ký hiệu là A7).
+- 01 Bản chính b) Ảnh chân dung;
+- 01 Bản chính c) Đơn đề nghị Chứng minh nhân dân (ký hiệu là CM3); ([90-Mẫu CM3-Đơn đề nghị cấp CMND.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbe7fc1fc8b0718'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+tại trụ sở Công an hoặc cấp lưu động tại các địa điểm cần thiết.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng minh thư nhân dân
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|02/2014/TT-BTC|Thông tư số 02/2014/TT-BTC ngày 02/01/2014 của Bộ trưởng Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của HĐND tỉnh, thành phố trực thuộc Trung ương|02-01-2014|Bộ Tài chính|
+|05/1999/NĐ-CP|Nghị định 05/1999/NĐ-CP|03-02-1999|Chính phủ|
+|04/1999/TT-BCA/C13|Thông tư 04/1999/TT-BCA/C13|29-04-1999|Bộ Công an|
+|170/2007/NĐ-CP|Nghị định 170/2007/NĐ-CP|19-11-2007|Chính phủ|
+|106/2013/NĐ-CP|Nghị định 106/2013/NĐ-CP|17-09-2013|Chính phủ|
+|04/2005/QĐ-TTg|Quyết định 04/2005/QĐ-TTg|03-02-1999|Chính phủ|
+|246/2005/QĐ-TTg|Quyết định 246/2005/QĐ-TTg|29-04-1999|Bộ Công an|
+
+Yêu cầu, điều kiện thực hiện:
+đối tượng tạm thời chưa được cấp Chứng minh nhân dân:
++ Những người đang bị tạm giam, đang thi hành án phạt tù tại trại giam; đang chấp hành quyết định đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.
++ Những người mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng điều khiển hành vi của mình
+đối tượng tạm thời chưa được cấp Chứng minh nhân dân:
++ Những người đang bị tạm giam, đang thi hành án phạt tù tại trại giam; đang chấp hành quyết định đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.
++ Những người mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng điều khiển hành vi của mình
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy phép xây dựng cho công trình thuộc dự án - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép xây dựng, theo mẫu BM.XD.04.01
+- 01 Bản chính Bản chính Giấy phép xây dựng đã được cấp (đối với trường hợp bị rách, nát).

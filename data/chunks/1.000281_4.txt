@@ -1,0 +1,11 @@
+Tên thủ tục: Khám giám định mức độ khuyết tật đối với trường hợp Hội đồng xác định mức độ khuyết tật không đưa ra được kết luận về mức độ khuyết tật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy giới thiệu của Ủy ban nhân dân (UBND) xã, phường, thị trấn (sau đây gọi tắt là UBND xã) nơi đối tượng cư trú đề nghị khám giám định khuyết tật, có dán ảnh của đối tượng và đóng dấu giáp lai của UBND xã nơi đối tượng cư trú.
+- 01 Bản sao Bản sao Biên bản họp của Hội đồng xác định mức độ khuyết tật, trong biên bản ghi rõ Hội đồng xác định mức độ khuyết tật không đưa ra được kết luận về mức độ khuyết tật.
+- 01 Bản chính Trường hợp đối tượng sống ở Trung tâm nuôi dưỡng phải có giấy xác nhận, trong giấy xác nhận ghi rõ họ tên, tuổi, dán ảnh đối tượng, đóng dấu giáp lai của Trung tâm và Trung tâm phải chịu trách nhiệm trước pháp luật về việc xác nhận đó.
+- 01 Bản sao Bản sao các giấy tờ khám bệnh, chữa bệnh, tật: Giấy ra viện, giấy phẫu thuật và các giấy tờ liên quan khác (nếu có).
+- 01 Bản chính Biên bản xác định mức độ khuyết tật của Hội đồng Giám định y khoa lần gần nhất (nếu có).

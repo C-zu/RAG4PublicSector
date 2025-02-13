@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp đổi giấy phép hoạt động in xuất bản phẩm (cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đổi giấy phép hoạt động in xuất bản phẩm theo Mẫu số 18 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb671223107ddc'">Mẫu số 18- Đơn đề nghị cấp đổi ,cấp lại GPHĐ In.doc</a>)
+- 01 Bản sao Trường hợp thay đổi địa chỉ của mặt bằng sản xuất, cơ sở in xuất bản phẩm gửi kèm bản sao giấy chứng nhận quyền sử dụng đất hoặc hợp đồng hoặc các loại giấy tờ khác chứng minh về việc giao đất, thuê đất, thuê mặt bằng

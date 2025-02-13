@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp đổi biển hiệu phương tiện vận tải khách du lịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao (1) Đơn đề nghị cấp đổi biển hiệu phương tiện vận tải khách du lịch (Mẫu số 02 Phụ lục ban hành kèm theo Nghị định 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017) ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef3cd86bfaa5e'">MS 02.docx</a>)
+- 01 Bản chính, 01 Bản sao (2) Bảng kê thông tin về trang thiết bị của từng phương tiện, chất lượng dịch vụ, nhân viên phục vụ trên phương tiện vận tải khách du lịch đáp ứng điều kiện theo quy định (Bộ trưởng Bộ Giao thông vận tải quy định điều kiện của người điều khiển phương tiện, nhân viên phục vụ, trang thiết bị, chất lượng dịch vụ trên phương tiện vận tải khách du lịch sau khi có ý kiến của Bộ Văn hóa, Thể thao và Du lịch);
+- 01 Bản chính, 01 Bản sao (3) Bản sao giấy đăng ký phương tiện hoặc giấy hẹn nhận giấy đăng ký phương tiện của cơ quan có thẩm quyền, bản sao giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải thì xuất trình thêm bản sao hợp đồng thuê phương tiện với tổ chức, cá nhân sở hữu phương tiện vận tải hoặc bản sao hợp đồng dịch vụ giữa thành viên và hợp tác xã;

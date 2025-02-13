@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đăng ký sửa đổi, bổ sung nội dung tổ chức Hội chợ, Triển lãm thương mại theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf8a8049e192a0'">Mẫu số 13(1).docx</a>)

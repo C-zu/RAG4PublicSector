@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy phép điều chỉnh Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke (do cơ quan quản lý nhà nước về văn hóa cấp huyện cấp)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị điều chỉnh Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 54/2019/NĐ-CP ngày 19 tháng 6 năm 2019) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed2798e9f52d96'">MS 03.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đăng ký hộ kinh doanh: Nộp bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu (trường hợp nộp hồ sơ trực tiếp); nộp bản sao có chứng thực (trường hợp nộp hồ sơ qua bưu điện hoặc trực tuyến)
+- 01 Bản sao Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke đã được cấp: Nộp bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu (trường hợp nộp hồ sơ trực tiếp); nộp bản sao có chứng thực (trường hợp nộp hồ sơ qua bưu điện hoặc trực tuyến).

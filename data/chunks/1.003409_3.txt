@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy công nhận các tổ chức đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||Nộp trực tiếp tại Cục Tần số vô tuyến điện.|
+|Trực tuyến|20 Ngày làm việc||Nộp trực tuyến qua Cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công của Cục Tần số vô tuyến điện (http://dichvucong.rfd.gov.vn).|
+|Dịch vụ bưu chính|20 Ngày làm việc||Nộp qua hệ thống bưu chính; (Địa chỉ Cục Tần số vô tuyến điện: Số 115 đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội).|

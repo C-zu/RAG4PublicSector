@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp cấp lại do hết thời hạn hiệu lực
+- 01 Bản chính, 01 Bản sao Hồ sơ cấp lại đối với trường hợp này áp dụng như quy định đối với trường hợp cấp mới
+
+
+Trường hợp cấp lại giấy phép do bị mất hoặc bị hỏng
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại theo Mẫu số 03 ban hành tại Nghị định 17/2020/NĐ-CP và bản gốc hoặc bản sao giấy phép đã cấp (nếu có); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe179312830ef7b'">MẪU SỐ 03 RƯỢU.docx</a>)

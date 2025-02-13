@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000819
+Số quyết định:
+1369/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy chứng nhận đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+- Sau khi doanh nghiệp được cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền, Bộ Thông tin và Truyền thông (Cục Phát thanh, truyền hình và thông tin điện tử) có trách nhiệm xét cấp Giấy chứng nhận đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Trên Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng Dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông (đối với các trường hợp có chứng thực điện tử) (https://dichvucong.mic.gov.vn).|
+|Dịch vụ bưu chính|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai, đăng ký, sửa đổi, bổ sung danh mục kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền theo mẫu số 05/DVTHTT ban hành kèm theoThông tư số 19/2016/TT-BTTTT ngày 30/6/2016 cùa Bộ Thông tin và Truyền thông quy định các biểu mẫu Tờ khai đăng ký, Đơn đề nghị cấp Giấy phép, Giấy Chứng nhận, Giấy phép và Báo cáo nghiệp vụ theo quy định tại Nghị định số 06/2016/NĐ-CP ngày 30/6/2016 ([Mẫu số 05 - Tờ khai - Dang ky danh muc kenh.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda1a86655977b0'))
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản thỏa thuận bản quyền đối với kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền đăng ký
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản thỏa thuận điểm nhận tín hiệu các kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký danh mục kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền hoặc văn bản trả lời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|103/2016/QH13|Luật 103/2016/QH13|05-04-2016|Quốc Hội|
+|71/2022/NĐ-CP|Nghị định 71/2022/NĐ-CP|01-10-2022||
+|05/2023/TT-BTTTT|Thông tư số 05/2023/TT-BTTTT sửa đổi, bổ sung một số điều của Thông tư số 19/2016/TT-BTTTT ngày 30/6/2016|30-06-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Hồ sơ đăng ký lần đầu thực hiện cùng với hồ sơ đề nghị cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

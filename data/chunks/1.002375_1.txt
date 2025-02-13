@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy phép sửa chữa, cải tạo công trình cấp đặc biệt
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002375
+Số quyết định:
+1290/QĐ-BXD
+Tên thủ tục:
+Cấp giấy phép sửa chữa, cải tạo công trình cấp đặc biệt
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

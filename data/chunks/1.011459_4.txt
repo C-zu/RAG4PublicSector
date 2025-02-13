@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy phép thành lập Hiệp hội doanh nghiệp nước ngoài tại Thành phố Hồ Chí Minh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 02 Bản sao Đơn xin thành lập Hiệp hội (01 bản tiếng Việt Nam, 01 bản tiếng nước ngoài thông dụng; theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe250714d31c1c6'">Mẫu số 1.docx</a>)
+- 01 Bản chính, 02 Bản sao Điều lệ hoạt động của Hiệp hội (01 bản tiếng Việt Nam, 01 bản tiếng nước ngoài);
+- 01 Bản chính, 02 Bản sao Văn bản giới thiệu của Phòng Thương mại và Công nghiệp Việt Nam
+- 01 Bản chính, 02 Bản sao Hồ sơ về trụ sở làm việc, điện thoại, fax
+- 01 Bản chính, 02 Bản sao Sơ yếu lý lịch các thành viên Ban lãnh đạo Hiệp hội kèm theo ảnh 4x6mm (từng thành viên);
+- 01 Bản chính, 02 Bản sao Danh sách các đại diện doanh nghiệp tham gia Hiệp hội (họ tên, số hộ chiếu, nơi đăng ký tạm trú hoặc cơ quan làm việc tại Việt Nam)

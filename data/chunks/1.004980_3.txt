@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật đối với xe đạp điện được sản xuất, lắp ráp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||- Cấp Giấy chứng nhận trong phạm vi 03 ngày làm việc, kể từ ngày kết thúc kiểm tra, đánh giá đạt yêu cầu.|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 40.000 Đồng 40.000 đồng /01 giấy|- Thời hạn Cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra, đánh giá hồ sơ đầy đủ, hợp lệ theo quy định và có kết quả đánh giá COP đạt yêu cầu.|
+|Trực tuyến|7 Ngày làm việc||- Cấp Giấy chứng nhận trong phạm vi 03 ngày làm việc, kể từ ngày kết thúc kiểm tra, đánh giá đạt yêu cầu.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 40.000 Đồng 40.000 đồng /01 giấy|- Thời hạn Cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra, đánh giá hồ sơ đầy đủ, hợp lệ theo quy định và có kết quả đánh giá COP đạt yêu cầu.|
+|Dịch vụ bưu chính|7 Ngày làm việc||- Cấp Giấy chứng nhận trong phạm vi 03 ngày làm việc, kể từ ngày kết thúc kiểm tra, đánh giá đạt yêu cầu.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 40.000 Đồng 40.000 đồng /01 giấy|- Thời hạn Cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra, đánh giá hồ sơ đầy đủ, hợp lệ theo quy định và có kết quả đánh giá COP đạt yêu cầu.|

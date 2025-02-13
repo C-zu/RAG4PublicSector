@@ -1,0 +1,27 @@
+Tên thủ tục: Đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung thuộc thẩm quyền của Bộ Công Thương
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ủy ban Cạnh tranh Quốc gia
+Cơ quan có thẩm quyền:
+Bộ Công thương
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo về việc chấp nhận đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|59/2010/QH1|Luật Bảo vệ quyền lợi người tiêu dùng|17-11-2010|Quốc Hội|
+|02/2012/QĐ-TTg|Về việc ban hành Danh mục hàng hóa, dịch vụ thiết yếu phải đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung|13-01-2012|Thủ tướng Chính phủ|
+|10/2013/TT-BCT|Thông tư Ban hành mẫu đơn đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung|30-05-2013|Bộ Công thương|
+|99/2011/NĐ-CP|QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG|27-10-2011|Chính phủ|
+|35/2015/QĐ-TTg|Quyết định 35/2015/QĐ-TTg|20-08-2015||
+|25/2019/QĐ-TTg|Quyết định 25/2019/QĐ-TTg|13-08-2019||
+|38/2018/QĐ-TTg|Quyết định 38/2018/QĐ-TTg|05-09-2018||

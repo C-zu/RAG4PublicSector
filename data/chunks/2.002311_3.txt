@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép tổ chức hội nghị, hội thảo quốc tế thuộc thẩm quyền cho phép của Thủ tướng Chính phủ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 hoặc 40 ngày (tùy thuộc cơ quan của người có thẩm quyền nào nhận được hồ sơ, văn bản)|Phí : Đồng Không có|- Đơn vị tổ chức gửi hồ sơ xin chủ trương để đăng cai tổ chức hội nghị, hội thảo quốc tế cho cơ quan của người có thẩm quyền ít nhất 40 ngày trước ngày dự kiến tổ chức. - Cơ quan, địa phương được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời gian không quá 15 ngày kể từ ngày nhận được văn bản đề nghị.|
+|Trực tuyến|15 hoặc 40 ngày (tùy thuộc cơ quan của người có thẩm quyền nào nhận được hồ sơ, văn bản)|Phí : Đồng Không có|- Đơn vị tổ chức gửi hồ sơ xin chủ trương để đăng cai tổ chức hội nghị, hội thảo quốc tế cho cơ quan của người có thẩm quyền ít nhất 40 ngày trước ngày dự kiến tổ chức. - Cơ quan, địa phương được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời gian không quá 15 ngày kể từ ngày nhận được văn bản đề nghị.|
+|Dịch vụ bưu chính|15 hoặc 40 ngày (tùy thuộc cơ quan của người có thẩm quyền nào nhận được hồ sơ, văn bản)|Phí : Đồng Không có|- Đơn vị tổ chức gửi hồ sơ xin chủ trương để đăng cai tổ chức hội nghị, hội thảo quốc tế cho cơ quan của người có thẩm quyền ít nhất 40 ngày trước ngày dự kiến tổ chức. - Cơ quan, địa phương được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời gian không quá 15 ngày kể từ ngày nhận được văn bản đề nghị.|

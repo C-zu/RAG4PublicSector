@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke (do cơ quan quản lý nhà nước về văn hóa cấp huyện cấp)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke (Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 54/2019/NĐ-CP ngày 19 tháng 6 năm 2019) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc61ba2e9c4a820'">MS 01.docx</a>)
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao có xuất trình bản chính để đối chiếu Giấy chứng nhận đủ điều kiện về an ninh, trật tự.

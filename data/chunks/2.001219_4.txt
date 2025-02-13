@@ -1,0 +1,9 @@
+Tên thủ tục: Chấp thuận hoạt động vui chơi, giải trí dưới nước tại vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản chính hoặc biểu mẫu điện tử Đơn đề nghị theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbc285a4a911470'">Mẫu đơn đề nghị Về việc chấp thuận tổ chức hoạt động vui chơi giải trí dưới nước.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản điện tử hoặc bản sao điện tử sơ đồ vị trí thiết lập báo hiệu hoặc sơ đồ vị trí thiết lập phao và cờ hiệu;
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản điện tử hoặc bản sao điện tử phương án bảo đảm an ninh, an toàn, cứu hộ, cứu nạn và ngăn ngừa ô nhiễm môi trường.

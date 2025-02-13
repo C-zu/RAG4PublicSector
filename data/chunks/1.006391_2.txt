@@ -1,0 +1,20 @@
+Tên thủ tục: Đăng ký lại phương tiện trong trường hợp chủ phương tiện thay đổi trụ sở hoặc nơi đăng ký hộ khẩu thường trú của chủ phương tiện sang đơn vị hành chính cấp tỉnh khác
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+- Tổ chức, cá nhân nộp hồ sơ đề nghị đến cơ quan đăng ký phương tiện có thẩm quyền.
+- Cơ quan đăng ký phương tiện bao gồm:
+
++ Cục Đường thủy nội địa Việt Nam và các Chi cục Đường thủy nội địa khu vực tổ chức, thực hiện đăng ký phương tiện mang cấp VR-SB của tổ chức, cá nhân.
+
++ Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương thực hiện đăng ký phương tiện mang cấp VR-SB, phương tiện không có động cơ trọng tải toàn phần trên 15 tấn, phương tiện có động cơ tổng công suất máy chính trên 15 sức ngựa, phương tiện có sức chở trên 12 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại tỉnh, thành phố trực thuộc Trung ương đó.
++ Cơ quan quản lý giao thông cấp huyện thực hiện đăng ký phương tiện có động cơ tổng công suất máy chính từ 05 sức ngựa đến 15 sức ngựa hoặc có sức chở từ 05 người đến 12 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại địa bàn quản lý.
+
++ Cấp xã, phường, thị trấn: Thực hiện đăng ký phương tiện không có động cơ trọng tải toàn phần từ 01 tấn đến 15 tấn hoặc có sức chở từ 05 người đến 12 người, phương tiện có động cơ công suất máy chính dưới 05 sức ngựa hoặc có sức chở dưới 05 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại địa bàn quản lý; Tổ chức quản lý đối với phương tiện thô sơ có trọng tải toàn phần dưới 01 tấn hoặc sức chở dưới 05 người hoặc bè khi hoạt động trên đường thủy nội địa phải đảm bảo điều kiện an toàn theo quy định.
+
++ Cơ quan đăng ký quy định tại khoản 2 Điều 8 được tổ chức, thực hiện đăng ký phương tiện quy định tại khoản 3, khoản 4 Điều 8 Thông tư số 75/2014/TT-BGTVT; cơ quan đăng ký quy định tại khoản 3 Điều 8 được tổ chức, thực hiện đăng ký phương tiện quy định tại khoản 4 Điều 8 Thông tư số 75/2014/TT-BGTVT.
+Giải quyết TTHC
+- Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; nếu hồ sơ không đầy đủ theo quy định thì trả lại và hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ;
+- Trường hợp hồ sơ nhận qua hệ thống bưu điện hoặc hình thức phù hợp khác, nếu hồ sơ không đầy đủ theo quy định, trong thời gian 02 ngày làm việc, kể từ ngày nhận được hồ sơ, có văn bản gửi tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ;
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan đăng ký cấp giấy chứng nhận đăng ký phương tiện cho chủ phương tiện. Trường hợp không cấp phải có văn bản trả lời nêu rõ lý do.

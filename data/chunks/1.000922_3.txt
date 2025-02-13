@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy phép điều chỉnh Giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|04 Ngày làm việc|Phí : Đồng Mức thu phí thẩm định điều chỉnh giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường đối với trường hợp thay đổi chủ sở hữu là 500.000 đồng/giấy.|04 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|04 Ngày làm việc|Phí : Đồng Mức thu phí thẩm định điều chỉnh giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường đối với trường hợp thay đổi chủ sở hữu là 500.000 đồng/giấy.|04 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|04 Ngày làm việc|Phí : Đồng Mức thu phí thẩm định điều chỉnh giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường đối với trường hợp thay đổi chủ sở hữu là 500.000 đồng/giấy.|04 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

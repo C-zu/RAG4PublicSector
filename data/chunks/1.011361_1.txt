@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục tặng Huy hiệu thành phố Hồ Chí Minh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011361
+Số quyết định:
+5079/QĐ-UBND-ĐT
+Tên thủ tục:
+Thủ tục tặng Huy hiệu thành phố Hồ Chí Minh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thi đua - khen thưởng

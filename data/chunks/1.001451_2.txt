@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp tín chỉ cho dự án JCM (TTHC cấp trung ương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Các bên tham gia dự án JCM gửi hồ sơ đề nghị cấp tín chỉ đến Tổ thư ký qua thư điện tử.
+Sau khi nhận được hồ sơ đề nghị cấp tín chỉ, Tổ thư ký thông báo qua thư điện tử cho bên xây dựng dự án việc tiếp nhận hồ sơ.
+Trong thời hạn không quá bảy (07) ngày, Tổ thư ký thông báo cho bên xây dựng dự án và TPE của dự án về tính hợp lệ và đầy đủ của hồ sơ qua thư điện tử.
+Đối với hồ sơ đầy đủ và hợp lệ, Tổ thư ký trình Ủy ban Hỗn hợp xem xét, quyết định về lượng tín chỉ sẽ được cấp.
+Sau khi có quyết định của Ủy ban Hỗn hợp, Tổ Thư ký thông báo qua thư điện tử kết quả cấp tín chỉ cho các bên tham gia dự án và TPE

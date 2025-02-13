@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cho phép phóng viên nước ngoài hoạt động thông tin, báo chí tại địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị hoạt động thông tin, báo chí theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcbf913656a1b10'">Mẫu 2.docx</a>)
+- 01 Bản chính - Bản chụp Thẻ phóng viên nước ngoài của phóng viên thường trú.

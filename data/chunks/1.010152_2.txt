@@ -1,0 +1,9 @@
+Tên thủ tục: Tạm ngừng hoạt động của dự án đầu tư - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và cập nhật trên hệ thống và ghi vào sổ theo dõi quá trình xử lý hồ sơ, cá nhân ký vào sổ để kết thúc quá trình xử lý. Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ về phòng chuyên môn để cập nhật vào hồ sơ và ghi nhận trạng thái của dự án
+B3	Kết thúc giải quyết TTHC trên phần mềm

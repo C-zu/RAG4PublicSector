@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008304
+Số quyết định:
+1464/QĐ-BTC
+Tên thủ tục:
+Xử lý mất, cháy, hỏng hoá đơn đặt in đã mua của cơ quan thuế
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
+Doanh nghiệp, tổ chức kinh tế do Cục Thuế quản lý; doanh nghiệp, tổ chức kinh tế, hộ cá nhân kinh doanh, do Chi cục Thuế quản lý (doanh nghiệp, tổ chức kinh tế, hộ cá nhân kinh doanh sau đây được gọi chung là người nộp thuế).
+Trường hợp (1): Người nộp thuế phát hiện mất, cháy, hỏng hóa đơn đã lập hoặc chưa lập:
+Bước 1: Lập báo cáo về việc mất, cháy, hỏng.
+Bước 2: Thông báo với cơ quan thuế quản lý trực tiếp theo Mẫu số BC21/HĐG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ chậm nhất không quá 05 ngày kể từ ngày xảy ra việc mất, cháy, hỏng hóa đơn. Trường hợp ngày cuối cùng (ngày thứ 05) trùng với ngày nghỉ theo quy định của pháp luật thì ngày cuối cùng của thời hạn được tính là ngày tiếp theo của ngày nghỉ đó.
+Bước 3: Cơ quan Thuế tiếp nhận và giải quyết hồ sơ.
+Trường hợp (2): Khi bán hàng hóa, cung cấp dịch vụ người bán đã lập hóa đơn theo đúng quy định nhưng sau đó người bán hoặc người mua làm mất, cháy, hỏng liên 2 hóa đơn bản gốc đã lập: 
+Bước 1: Người bán và người mua lập biên bản ghi nhận sự việc, trong biên bản ghi rõ liên 1 của hóa đơn người bán hàng khai, nộp thuế trong tháng nào;
+Bước 2: Ký và ghi rõ họ tên của người đại diện theo pháp luật (hoặc người được ủy quyền), đóng dấu (nếu có) trên biên bản và người bản sao chụp liên 1 của hóa đơn, ký xác nhận của người đại diện theo pháp luật và đóng dấu trên bản sao hóa đơn để giao cho người mua. Người mua được sử dụng hóa đơn bản sao có ký xác nhận, đóng dấu (nếu có) của người bán kèm theo biên bản về việc mất, cháy, hỏng liên 2 hóa đơn để làm chứng từ kế toán và kê khai thuế. Người bán và người mua phải chịu trách nhiệm về tính chính xác của việc mất, cháy, hỏng hóa đơn.
+Bước 3: Cơ quan Thuế tiếp nhận và giải quyết hồ sơ.
+Trường hợp (3): Đối với trường hợp mất, cháy, hỏng hóa đơn liên 2 đã sử dụng có liên quan đến bên thứ ba: Căn cứ vào việc bên thứ ba do người bán hoặc người mua thuê để xác định trách nhiệm và xử phạt người bán hoặc người mua theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Báo cáo mất, cháy, hỏng hóa đơn giấy theo Mẫu số BC21/HĐG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ. ([Mãu BC21.HĐG.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceedc47147bc08'))
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP|19-10-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Đảm bảo đầy đủ các điều kiện theo quy định tại Điều 28 Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

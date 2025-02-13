@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp tín chỉ cho dự án JCM (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp tín chỉ của bên tham gia dự án bằng tiếng Việt và tiếng Anh (theo mẫu quy định tại Phụ lục 13 và 13a ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf87b172370090'">Mẫu 25.docx</a>)
+- 01 Bản chính Báo cáo giám sát dự án do chủ dự án thực hiện; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2987fad7a0e69'">Mẫu 28.docx</a>)
+- 01 Bản chính Báo cáo thẩm tra dự án của TPE bằng tiếng Việt và tiếng Anh (theo mẫu quy định tại Phụ lục 14 và 14a ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4fb46961ff8f2'">Mẫu 27.docx</a>)

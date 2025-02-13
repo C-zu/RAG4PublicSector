@@ -1,0 +1,46 @@
+Tên thủ tục: Đăng ký thành lập doanh nghiệp tư nhân
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp đăng ký doanh nghiệp xã hội
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe10b148c48e570'">Phụ lục I-1.docx</a>)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với chủ doanh nghiệp tư nhân
+- 01 Bản chính Cam kết thực hiện mục tiêu xã hội, môi trường của chủ doanh nghiệp tư nhân (phải có chữ ký của chủ doanh nghiệp tư nhân) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5ce26045967dc'">Phụ lục II-26.docx</a>)
+
+
+Trường hợp đăng ký thành lập doanh nghiệp trên cơ sở chuyển đổi từ hộ kinh doanh
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe670b0f2727150'">Phụ lục I-1.docx</a>)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với chủ doanh nghiệp tư nhân
+- 01 Bản chính Bản chính Giấy chứng nhận đăng ký hộ kinh doanh
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế
+
+
+Trường hợp đăng ký thành lập doanh nghiệp xã hội trên cơ sở chuyển đổi từ cơ sở bảo trợ xã hội, quỹ xã hội, quỹ từ thiện
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe15e610dcff6af'">Phụ lục I-1.docx</a>)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với chủ doanh nghiệp tư nhân
+- 01 Bản chính Cam kết thực hiện mục tiêu xã hội, môi trường của chủ doanh nghiệp tư nhân (phải có chữ ký của chủ doanh nghiệp tư nhân) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea95765e6f8927'">Phụ lục II-26.docx</a>)
+- 01 Bản chính Quyết định cho phép chuyển đổi thành doanh nghiệp xã hội bằng văn bản của cơ quan có thẩm quyền đã cấp giấy phép thành lập cơ sở bảo trợ xã hội, quỹ xã hội, quỹ từ thiện
+- 01 Bản chính Giấy chứng nhận đăng ký thành lập đối với cơ sở bảo trợ xã hội, giấy phép thành lập và công nhận điều lệ quỹ đối với quỹ xã hội, quỹ từ thiện
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Đăng ký thành lập doanh nghiệp tư nhân:
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6009152a2c33c'">Phụ lục I-1.docx</a>)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với chủ doanh nghiệp tư nhân

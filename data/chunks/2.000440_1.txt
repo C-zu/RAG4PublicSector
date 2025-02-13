@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục xét tặng danh hiệu Khu dân cư văn hóa hàng năm
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000440
+Số quyết định:
+96/QĐ-BVHTTDL
+Tên thủ tục:
+Thủ tục xét tặng danh hiệu Khu dân cư văn hóa hàng năm
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Văn hóa

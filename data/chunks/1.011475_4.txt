@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận cơ sở an toàn dịch bệnh động vật (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đăng ký theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd45320f1b999c'">Phụ lục I.docx</a>)
+- 01 Bản chính 2. Bản mô tả thông tin về cơ sở đăng ký công nhận an toàn dịch bệnh động vật theo mẫu tại Phụ lục III ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefc0a07706d1e7'">Phụ lục III.docx</a>)
+- 01 Bản chính 3. Báo cáo khắc phục sai lỗi (đối với trường hợp cơ sở phải thực hiện khắc phục nếu kiểm tra thực tế tại cơ sở không đạt yêu cầu theo quy định)

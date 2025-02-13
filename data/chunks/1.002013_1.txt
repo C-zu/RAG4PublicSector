@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục đăng cai giải thi đấu, trận thi đấu thể thao thành tích cao khác do liên đoàn thể thao tỉnh, thành phố trực thuộc trung ương tổ chức
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002013
+Số quyết định:
+3684/QĐ-BVHTTDL
+Tên thủ tục:
+Thủ tục đăng cai giải thi đấu, trận thi đấu thể thao thành tích cao khác do liên đoàn thể thao tỉnh, thành phố trực thuộc trung ương tổ chức
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thể dục thể thao

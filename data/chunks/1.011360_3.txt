@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tặng Cờ Truyền thống của Ủy ban nhân dân thành phố
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trường hợp đủ điều kiện khen thưởng: Trong thời hạn 15 ngày làm việc, hoặc 25 ngày làm việc đối với trường hợp phải lấy ý kiến hiệp y hoặc xác nhận thuế, kể từ ngày nhận đủ hồ sơ hợp lệ. - Trường hợp không đủ điều kiện khen thưởng: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ban Thi đua - Khen thưởng trực thuộc Sở Nội vụ ra văn bản từ chối có nêu rõ lý do.|||
+|Dịch vụ bưu chính|- Trường hợp đủ điều kiện khen thưởng: Trong thời hạn 15 ngày làm việc, hoặc 25 ngày làm việc đối với trường hợp phải lấy ý kiến hiệp y hoặc xác nhận thuế, kể từ ngày nhận đủ hồ sơ hợp lệ. - Trường hợp không đủ điều kiện khen thưởng: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ban Thi đua - Khen thưởng trực thuộc Sở Nội vụ ra văn bản từ chối có nêu rõ lý do.|||

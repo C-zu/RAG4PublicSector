@@ -1,0 +1,88 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010470
+Số quyết định:
+3506/QĐ-UBND
+Tên thủ tục:
+Cấp giấy phép xây dựng sửa chữa, cải tạo đối với công trình cấp III, cấp IV (công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ.
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ, nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho công chức xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thẩm định thì ban hành Văn bản thông báo hồ sơ không đủ điều kiện thẩm định chuyển kèm hồ sơ sang Trung tâm Hành chính công để trả kết quả theo bước B9.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng Văn bản cho chủ đầu tư bổ sung, giải trình:
++ Nếu bổ sung giải trình đầy đủ thì dự thảo Giấy phép xây dựng (trong quá trình thẩm định hồ sơ và tham mưu dự thảo giấy phép nếu xét thấy cần thiết phải kiểm tra thực địa hoặc lấy ý kiến các cơ quan liên quan thì tham mưu tổ chức kiểm tra thực địa, văn bản lấy ý kiến các cơ quan). Sau khi có kết quả thực hiện các bước tiếp theo.
++ Nếu không bổ sung, giải trình được thì ban hành Văn bản thông báo hồ sơ không đủ điều kiện thẩm định chuyển kèm hồ sơ sang Trung tâm Hành chính công để trả kết quả theo bước B9.
+- Trường hợp, hồ sơ đáp ứng yêu cầu thì dự thảo Giấy phép xây dựng (trong quá trình thẩm định hồ sơ và tham mưu dự thảo giấy phép nếu xét thấy cần thiết phải kiểm tra thực địa hoặc lấy ý kiến các cơ quan liên quan thì tham mưu tổ chức kiểm tra thực địa, văn bản lấy ý kiến các cơ quan). Sau khi có kết quả thực hiện các bước tiếp theo.
+B5	Trên cơ sở kết quả thẩm định hồ sơ, kiểm tra thực địa; ý kiến của các cơ quan liên quan (nếu có):
++ Nếu đủ điều kiện cấp giấy phép thì dự thảo Giấy phép xây dựng trình Lãnh đạo phòng ký nháy.
++ Nếu không đủ điều kiện cấp giấy phép thì dự thảo Văn bản thông báo không đủ điều kiện cấp giấy phép xây dựng trình Lãnh đạo phòng ký nháy.
+B6	Xem xét kết quả giải quyết thủ tục hành chính, ký nháy trên văn bản.
+B7	Phê duyệt kết quả giải quyết thủ tục hành chính.
+B8	Phát hành văn bản và trả kết quả cho Trung tâm hành chính công cấp huyện:
+- Đóng dấu UBND cấp huyện vào kết quả giải quyết thủ tục hành chính.
+- Đóng dấu đã thẩm định của phòng chuyên môn vào hồ sơ (đối với trường hợp được cấp giấy phép).
+B9	Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : 60.000 Đồng Đối với nhà ở  Lệ phí : 130.000 Đồng Đối với công trình|Tại Trung tâm Hành chính công cấp huyện (Đối với công trình: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; Đối với nhà ở: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ).|
+|Trực tuyến|20 Ngày làm việc|Lệ phí : 60.000 Đồng Đối với nhà ở  Lệ phí : 130.000 Đồng Đối với công trình|Qua Cổng dịch vụ công trực tuyến: http://dichvucong.hatinh.gov.vn (Đối với công trình: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; Đối với nhà ở: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ).|
+|Dịch vụ bưu chính|20 Ngày làm việc|Lệ phí : 60.000 Đồng Đối với nhà ở  Lệ phí : 130.000 Đồng Đối với công trình|Qua dịch vụ bưu chính (Đối với công trình: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; Đối với nhà ở: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép sửa chữa, cải tạo công trình, nhà ở theo mẫu; ([PL1-Don de nghi cap giay phep sua chua,cai tao cong trinh, nha o.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff2651f9fc51a'))
+- 01 Bản sao - Một trong những giấy tờ chứng minh về quyền sở hữu, quản lý, sử dụng công trình theo quy định của pháp luật.
+- 02 Bản sao Bản vẽ hiện trạng của các bộ phận công trình dự kiến sửa chữa, cải tạo đã được phê duyệt theo quy định có tỷ lệ tương ứng với tỷ lệ các bản vẽ của hồ sơ đề nghị cấp phép sửa chữa, cải tạo và ảnh chụp (kích thước tối thiểu 10 x 15 cm) hiện trạng công trình và công trình lân cận trước khi sửa chữa, cải tạo.
+- 02 Bản sao Hồ sơ thiết kế sửa chữa, cải tạo tương ứng với mỗi loại công trình theo quy định tại Điều 43 hoặc Điều 46 Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ.
+- 01 Bản sao Đối với các công trình di tích lịch sử - văn hóa và danh lam, thắng cảnh đã được xếp hạng thì phải có văn bản chấp thuận về sự cần thiết xây dựng và quy mô công trình của cơ quan quản lý nhà nước về văn hóa.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+UBND cấp huyện
+Cơ quan có thẩm quyền:
+UBND cấp huyện
+Địa chỉ tiếp nhận HS:
+Trung tâm Hành chính công cấp huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xây dựng kèm theo hồ sơ thiết kế trình xin cấp giấy phép xây dựng có đóng dấu của cơ quan có thẩm quyền cấp giấy phép xây dựng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|15/2021/NĐ-CP|Quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|47/2021/TT-BTC|Thông tư 47/2021/TT-BTC ngày 24/6/2021 của Bộ Tài chính quy định mức thu một số khoản phí, lệ phí nhằm hỗ trợ, tháo gỡ khó khăn cho đối tượng chịu ảnh hưởng bởi dịch Covid-19|24-06-2021|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan nhà nước có thẩm quyền chấp thuận bằng văn bản).
+- Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+- Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+- Thiết kế xây dựng công trình đã được thẩm định, phê duyệt theo quy định. 
+- Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
+- Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
+- Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
+- Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan nhà nước có thẩm quyền chấp thuận bằng văn bản).
+- Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+- Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+- Thiết kế xây dựng công trình đã được thẩm định, phê duyệt theo quy định. 
+- Đối với khu vực chưa có quy hoạch đô thị, quy hoạch xây dựng khu chức năng hoặc quy hoạch chi tiết xây dựng điểm dân cư nông thôn thì quy hoạch có tính chất kỹ thuật, chuyên ngành có liên quan hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng.
+- Công trình thuộc dự án đầu tư xây dựng không yêu cầu lập quy hoạch chi tiết xây dựng theo quy định của pháp luật về quy hoạch, công trình thuộc dự án đầu tư xây dựng do một chủ đầu tư tổ chức thực hiện có quy mô nhỏ hơn 05 héc ta (nhỏ hơn 02 héc ta đối với dự án đầu tư xây dựng nhà ở chung cư) thì quy hoạch phân khu xây dựng là cơ sở để xem xét cấp giấy phép xây dựng.
+- Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

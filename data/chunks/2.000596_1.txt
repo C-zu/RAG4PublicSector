@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục đăng ký tham gia trợ giúp pháp lý
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000596
+Số quyết định:
+QĐ/0001-BTP
+Tên thủ tục:
+Thủ tục đăng ký tham gia trợ giúp pháp lý
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Trợ giúp pháp lý

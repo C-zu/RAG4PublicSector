@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 6000000 Đồng Phí thẩm định: Sáu triệu đồng|30 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 6000000 Đồng Phí thẩm định: Sáu triệu đồng.|30 ngày kể từ ngày nhận được hồ sơ hợp lệ.|

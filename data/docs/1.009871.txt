@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009871
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp lại Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị cấp lại Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử trong trường hợp bị rách, nát, mất, nộp hồ sơ đến Bộ KH&CN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Bộ KH&CN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí đối với hồ sơ hợp lệ hoặc thông báo bằng văn bản yêu cầu bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí, Bộ KH&CN tổ chức thẩm định hồ sơ và cấp lại Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Trường hợp không đồng ý cấp lại Giấy đăng ký hoạt động, Bộ KH&CN phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày||05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Trực tuyến|05 Ngày||05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Dịch vụ bưu chính|05 Ngày||05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản gốc Giấy đăng ký hoạt động (Trường hợp đề nghị cấp lại do bị rách, nát)
+- 01 Bản chính Đơn đề nghị cấp lại Giấy đăng ký hoạt động ([Mẫu số 12 – PL IV.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe946a2c1983b00'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử (cấp lại).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Thủ tục cấp lại Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử
+Mô tả:
+Không có thông tin

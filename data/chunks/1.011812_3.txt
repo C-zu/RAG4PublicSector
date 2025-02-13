@@ -1,0 +1,9 @@
+Tên thủ tục: (Cấp tỉnh) Thủ tục công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ; - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc; - Công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+|Trực tuyến|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ; - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc; - Công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+|Dịch vụ bưu chính|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ; - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc; - Công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|

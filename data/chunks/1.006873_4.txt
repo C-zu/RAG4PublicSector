@@ -1,0 +1,12 @@
+Tên thủ tục: Công nhận hạng/công nhận lại hạng nhà chung cư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị công nhận hạng/công nhận lại hạng nhà chung cư theo mẫu quy định tại Phụ lục số 03 ban hành kèm theo Thông tư số 31/2016/TT-BXD
+- 01 Bản chính Bản sao có chứng thực Giấy phép xây dựng nhà chung cư (đối với nhà chung cư thuộc diện phải có Giấy phép xây dựng)
+- 01 Bản chính Bản sao có chứng thực quyết định phê duyệt quy hoạch chi tiết tỷ lệ 1/500 hoặc văn bản chấp thuận tổng mặt bằng khu vực có nhà chung cư (đối với trường hợp không phải lập quy hoạch chi tiết tỷ lệ 1/500) kèm theo bản vẽ tổng mặt bằng nhà chung cư đã được cơ quan có thẩm quyền phê duyệt
+- 01 Bản chính Bản sao có chứng thực văn bản thẩm định của cơ quan có thẩm quyền kèm theo bản vẽ thiết kế cơ sở nhà chung cư theo quy định của pháp luật về xây dựng
+- 01 Bản chính Bản sao có chứng thực văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành công trình nhà chung cư của cơ quan chuyên môn về xây dựng. Trường hợp nhà chung cư được nghiệm thu đưa vào sử dụng trước thời điểm Nghị định số 15/2013/NĐ-CP ngày 6/2/3013 của Chính phủ về quản lý chất lượng công trình xây dựng có hiệu lực thi hành, nếu không có Bản sao có chứng thực văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành công trình nhà chung cư của cơ quan chuyên môn về xây dựng thì có thể nộp các giấy tờ khác thay thế như: Hồ sơ nghiệm thu chất lượng toàn bộ công trình, Biên bản nghiệm thu công trình xây dựng hoàn thành, Biên bản tổng nghiệm thu bàn giao công trình theo quy định của pháp luật tại thời điểm công trình được đưa vào sử dụng (quy định tại các Quyết định của Bộ Xây dựng ban hành trong từng thời điểm)
+- 01 Bản chính Bản tự kê khai, đánh giá phân hạng nhà chung cư của tổ chức, cá nhân đề nghị công nhận hạng nhà chung cư theo mẫu hướng dẫn tham khảo quy định tại phụ lục số 04 ban hành kèm theo Thông tư số 31/2016/TT-BXD

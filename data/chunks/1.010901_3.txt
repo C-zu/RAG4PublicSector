@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Nộp hồ sơ trực tiếp tại trụ sở Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+|Trực tuyến|10 Ngày làm việc||Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (https://dichvucong.mic.gov.vn) hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|10 Ngày làm việc||Nộp hồ sơ qua dịch vụ bưu chính tới Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|

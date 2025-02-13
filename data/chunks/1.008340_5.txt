@@ -1,0 +1,24 @@
+Tên thủ tục: Khai thuế thu nhập cá nhân tháng/quý của tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân khi nhận chuyển nhượng vốn góp của cá nhân không cư trú
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Thuế, Cục Thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||

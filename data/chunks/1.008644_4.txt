@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy phép sử dụng tạm thời một phần vỉa hè
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Tổ chức, cá nhân có nhu cầu sử dụng tạm thời vỉa hè ngoài mục đích giao thông nhưng không phải là chủ sở hữu nhà, chủ sử dụng đất bên trong vỉa hè đó thì phải được sự đồng ý bằng văn bản (có công chứng hoặc chứng thực) của người có quyền sở hữu nhà, người có quyền sử dụng đất bên trong đó.
+- 01 Bản chính Tổ chức, cá nhân có nhu cầu sử dụng tạm thời vỉa hè ngoài mục đích giao thông nhưng không phải là chủ sở hữu nhà, chủ sử dụng đất bên trong vỉa hè đó thì phải được sự đồng ý bằng văn bản (có công chứng hoặc chứng thực) của người có quyền sở hữu nhà, người có quyền sử dụng đất bên trong đó.
+
+
+Đối với trường hợp sử dụng tạm thời một phần vỉa hè để lắp đặt các công trình phục vụ công cộng; lắp đặt quảng cáo và lắp đặt Trạm chờ xe buýt theo tuyến xe buýt được duyệt:
+- 01 Bản chính 1. Đơn đề nghị sử dụng tạm thời vỉa hè ngoài mục đích giao thông theo mẫu Phụ lục KCHT-06 hoặc Công văn của tổ chức, cá nhân có nội dung đầy đủ thông tin như Đơn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedcd416caca457'">PL_KCHT06.docx</a>)
+- 01 Bản chính 2. Bản vẽ mặt bằng vị trí, bản vẽ thiết kế kiểu dáng lắp đặt
+- 01 Bản chính 3. Giấy cam kết đảm bảo an toàn về kết cấu xây dựng và chịu mọi trách nhiệm trước pháp luật về mọi sự cố do công trình gây ra nếu có
+ 4. Ngoài ra, trường hợp lắp đặt các loại hình quảng cáo phải tuân thủ các quy định hiện hành về hoạt động quảng cáo
+
+
+Đối với trường hợp sử dụng tạm thời vỉa hè vào mục đích tổ chức các hoạt động văn hoá, xã hội, tuyên truyền
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép theo mẫu Phụ lục KCHT-06 hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1dfc3f8604d6e'">PL_KCHT06.docx</a>)
+- 01 Bản chính 2. Bản vẽ mặt bằng vị trí (thể hiện hầy đủ kích thước và hiện trạng của khu vực) và hồ sơ gia cố vỉa hè đối với các trường hợp cần gia cố vỉa hè
+- 01 Bản chính 3. Văn bản của cấp có thẩm quyền cho phép tổ chức hoạt động văn hóa, xã hội, tuyên truyền
+
+
+Đối với trường hợp sử dụng tạm thời vỉa hè để làm mặt bằng tập kết máy móc, thiết bị, phục vụ thi công các công trình xây dựng
+- 01 Bản chính 1. Đơn đề nghị sử dụng tạm thời vỉa hè ngoài mục đích giao thông (theo mẫu quy định của cơ quan có thẩm quyền cấp Giấy phép) hoặc Công văn của tổ chức, cá nhân có nội dung đầy đủ thông tin như Đơn
+- 01 Bản chính 2. Bản vẽ mặt bằng vị trí, bản vẽ thiết kế tường rào
+- 01 Bản chính 3. Giấy cam kết đảm bảo an toàn về kết cấu tường rào xây dựng và chịu mọi trách nhiệm trước pháp luật về mọi sự cố do tường rào hoặc công trình xây dựng gây ra nếu có.

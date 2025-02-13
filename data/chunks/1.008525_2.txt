@@ -1,0 +1,11 @@
+Tên thủ tục: Khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ của doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1:
+++ Người nộp thuế chuẩn bị số liệu, lập hồ sơ và gửi đến cơ quan thuế, chậm nhất là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.
++ Bước 2 : Cơ quan thuế thực hiện tiếp nhận:
+   ++ Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+  ++ Trường hợp tiếp nhận hồ sơ qua Cổng thông tin điện tử của Tổng cục Thuế, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+   +++ Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận việc người nộp thuế đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế
+   +++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của người nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.

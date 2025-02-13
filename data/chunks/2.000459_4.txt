@@ -1,0 +1,9 @@
+Tên thủ tục: Tiếp nhận, rà soát Biểu mẫu kê khai giá thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Biểu mẫu kê khai giá theo hướng dẫn tại Phụ lục số 02 ban hành kèm theo Thông tư số 08/2017/TT-BCT (trong đó các nội dung về Công văn gửi Biểu mẫu kê khai giá; Bảng kê khai mức giá) hoặc Thông báo mức giá tại Phụ lúc số 03 ban hành kèm Thông tư số 08/2017/TT-BCT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea26f47a5d0b6d'">Thông tư giá sữa và tpcn cho trẻ dưới 06 tuổi TT Thoa ký 26.6.2017.doc</a>)
+- 01 Bản chính Đối với trường hợp Biểu mẫu gửi qua đường thư điện tử: Bản scan Biểu mẫu kê khai giá theo hướng dẫn tại Phụ lục số 02 ban hành kèm theo Thông tư số 08/2017/TT-BCT (trong đó các nội dung về Công văn gửi Biểu mẫu kê khai giá; Bảng kê khai mức giá) hoặc Thông báo mức giá tại Phụ lúc số 03 ban hành kèm Thông tư số 08/2017/TT-BCT.
+- 01 Bản chính 01 phong bì có dán tem, ghi rõ: tên, địa chỉ của thương nhân, họ tên và số điện thoại của người trực tiếp có trách nhiệm của đơn vị;

@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững của chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư hoặc hộ gia đình cá nhân liên kết thành nhóm hộ, tổ hợp tác trường hợp có tổ chức các hoạt động du lịch sinh thái
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|22 Ngày||22 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|22 Ngày||22 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|22 Ngày||22 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|

@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007992
+Số quyết định:
+151/QĐ-BNN-TT
+Tên thủ tục:
+Tự công bố lưu hành giống cây trồng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trồng trọt
+Trình tự thực hiện:
+a) Bước 1: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt.
+b) Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+- Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+- Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung.
+c) Bước 3: Đăng tải trên cổng thông tin điện tử. 
+- Trường hợp hồ sơ đầy đủ theo quy định: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ của tổ chức, cá nhân tự công bố lưu hành giống cây trồng, Cục Trồng trọt đăng tải trên cổng thông tin điện tử của Cục Trồng trọt. 
+- Trường hợp hồ sơ không đầy đủ theo quy định: Cục Trồng trọt thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|05 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản tự công bố lưu hành giống cây trồng theo Phụ lục IV ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. ([Phụ lục IV.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec0db1886d7976'))
+- 01 Bản chính - Quy trình canh tác của giống do tổ chức, cá nhân tự công bố lưu hành giống cây trồng biên soạn.
+- 01 Bản chính - Bản công bố các thông tin về giống cây trồng theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. ([Mẫu số 02.CN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9831f34c930d8'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Trồng trọt - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản tự công bố lưu hành giống cây trồng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật số: 31/2018/QH14|Điều 17 Luật Trồng trọt số 31/2018/QH14 ngày 19/11/2018|19-11-2018|Quốc Hội|
+|Nghị định 94/2019/NĐ-CP|Điều 6 Nghị định số 94/2019/NĐ-CP ngày 13/12/2019 của Chính phủ quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác|13-12-2019|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Có tên giống cây trồng;
+- Có giá trị canh tác, giá trị sử dụng đạt tiêu chuẩn quốc gia đối với loài cây trồng tự công bố lưu hành; trường hợp không có tiêu chuẩn quốc gia thì áp dụng tiêu chuẩn cơ sở;
+- Có thông tin về giống cây trồng, quy trình sản xuất do tổ chức, cá nhân tự công bố lưu hành giống cây trồng biên soạn.
+- Có bản công bố các thông tin về giống cây trồng theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019.
+- Có tên giống cây trồng;
+- Có giá trị canh tác, giá trị sử dụng đạt tiêu chuẩn quốc gia đối với loài cây trồng tự công bố lưu hành; trường hợp không có tiêu chuẩn quốc gia thì áp dụng tiêu chuẩn cơ sở;
+- Có thông tin về giống cây trồng, quy trình sản xuất do tổ chức, cá nhân tự công bố lưu hành giống cây trồng biên soạn.
+- Có bản công bố các thông tin về giống cây trồng theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

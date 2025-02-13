@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 010 Bản chính Tờ trình đề nghị phê duyệt phương án sử dụng đất
+- 010 Bản chính Báo cáo thuyết minh tổng hợp phương án sử dụng đất (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd27ff8073ebc4c'">Mau bao cao thuyet minh.docx</a>)
+- 010 Bản chính Bản đồ phương án sử dụng đất của công ty nông, lâm nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8235631fa6524'">Mau phuong an su dung dat kem theo Thuyet minh.docx</a>)

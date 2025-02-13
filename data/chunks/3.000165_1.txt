@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký cấp sao bản án, tài liệu trong hồ sơ vụ án
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000165
+Số quyết định:
+01/QĐCB
+Tên thủ tục:
+Đăng ký cấp sao bản án, tài liệu trong hồ sơ vụ án
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Tòa án

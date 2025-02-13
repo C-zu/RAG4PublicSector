@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo thông tin liên hệ của tổ chức, cá nhân nước ngoài kinh doanh dịch vụ quảng cáo xuyên biên giới tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản thông báo thông tin liên hệ của tổ chức, cá nhân nước ngoài kinh doanh dịch vụ quảng cáo xuyên biên giới tại Việt Nam

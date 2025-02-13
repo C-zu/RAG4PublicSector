@@ -1,0 +1,10 @@
+Tên thủ tục: Cho phép tổ chức hội nghị, hội thảo quốc tế thuộc thẩm quyền cho phép của Thủ tướng Chính phủ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn xin phép tổ chức.
+- 01 Bản chính Đề án tổ chức theo Mẫu 01 tại Quyết định 06/2020/QĐ-TTg ngày 21/02/2020 của Thủ tướng Chính phủ về tổ chức và quản lý hội nghị, hội thảo quốc tế tại Việt Nam. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb523e8b8779a5'">QĐ 06_Mau 01.doc</a>)
+- 01 Bản chính Văn bản có ý kiến của các cơ quan liên quan trong trường hợp các quy định pháp luật khác có yêu cầu.
+- 01 Bản chính Văn bản đồng ý chủ trương đăng cai tổ chức hội nghị, hội thảo quốc tế (nếu có).

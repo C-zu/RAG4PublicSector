@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001373
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo thông qua mạng điện tử (cấp TW)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Biển và hải đảo
+Trình tự thực hiện:
+Bước 1. Gửi hồ sơ:
+Tổ chức, cá nhân có nhu cầu khai thác và sử dụng cơ sở dữ liệu gửi yêu cầu bằng cách nhập các thông tin vào biểu mẫu trên giao diện của mạng điện tử của cơ quan quản lý cơ sở dữ liệu..
+Bước 2. kiểm tra hồ sơ:
+Cơ quan quản lý cơ sở dữ liệu có trách nhiệm xem xét yêu cầu khai thác và sử dụng cơ sở dữ liệu của tổ chức, cá nhân. Trường hợp thông tin yêu cầu chưa đầy đủ, cơ quan quản lý cơ sở dữ liệu có trách nhiệm gửi thông tin phản hồi đến tổ chức, cá nhân hướng dẫn bổ sung thông tin.
+Bước 3. thông báo và trả kết quả hồ sơ:
+Trường hợp thông tin yêu cầu hợp lệ, cơ quan quản lý cơ sở dữ liệu thực hiện việc cung cấp dữ liệu cho tổ chức, cá nhân.  
+
+Trường hợp từ chối cung cấp dữ liệu thì cơ quan quản lý cơ sở dữ liệu phải gửi thông tin thông báo nêu rõ lý do cho tổ chức, cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Tùy theo loại dữ liệu||a) Thời hạn kiểm tra hồ sơ: Cơ quan quản lý cơ sở dữ liệu có trách nhiệm xem xét yêu cầu khai thác và sử dụng cơ sở dữ liệu của tổ chức, cá nhân. Trường hợp thông tin yêu cầu chưa đầy đủ, cơ quan quản lý cơ sở dữ liệu có trách nhiệm gửi thông tin phản hồi đến tổ chức, cá nhân hướng dẫn bổ sung thông tin trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông tin yêu cầu. b) Thời hạn giải quyết và trả kết quả: - Đối với dữ liệu đơn giản: trong thời hạn chậm nhất là 05 ngày làm việc kể từ ngày nhận được yêu cầu hợp lệ; - Đối với dữ liệu phức tạp, cần phải có thời gian để xem xét, tìm kiếm, sao chép, trích xuất, tập hợp từ trong cơ sở dữ liệu: trong thời hạn chậm nhất là 20 ngày kể từ ngày nhận được yêu cầu hợp lệ; - Trường hợp nội dung yêu cầu quá phức tạp, khối lượng lớn: trong thời hạn chậm nhất là 35 ngày kể từ ngày nhận được yêu cầu hợp lệ; - Đối với trường hợp phải thực hiện nghĩa vụ tài chính: việc cung cấp dữ liệu được thực hiện sau khi tổ chức, cá nhân yêu cầu cung cấp dữ liệu thực hiện đầy đủ các nghĩa vụ tài chính theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Yêu cầu được gửi qua mạng điện tử của cơ quan quản lý dữ liệu với các nội dung sau đây: - Tên, địa chỉ của tổ chức; họ và tên, nơi cư trú, địa chỉ, số chứng minh nhân dân, thẻ căn cước công dân hoặc số hộ chiếu của cá nhân; số fax, điện thoại, địa chỉ thư điện tử (nếu có) của tổ chức, cá nhân; - Danh mục và nội dung dữ liệu cần cung cấp; - Mục đích khai thác và sử dụng dữ liệu; - Hình thức khai thác và sử dụng dữ liệu, phương thức nhận kết quả
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Bộ Tài nguyên và Môi trường
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Mã truy cập một lần;Địa chỉ truy cập để tải dữ liệu;Tập tin đính kèm thư điện tử
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|82/2015/QH13|Luật 82/2015/QH13|25-06-2015|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Việc khai thác và sử dụng cơ sở dữ liệu thông qua mạng điện tử chỉ được thực hiện khi dữ liệu được yêu cầu cung cấp có thể truyền tải qua mạng điện tử và cơ quan quản lý cơ sở dữ liệu có đủ điều kiện để cung cấp dữ liệu qua mạng điện tử.
+
+Trường hợp pháp luật có quy định về việc khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo qua mạng điện tử đối với dữ liệu cụ thể thì áp dụng quy định của pháp luật đó.
+Việc khai thác và sử dụng cơ sở dữ liệu thông qua mạng điện tử chỉ được thực hiện khi dữ liệu được yêu cầu cung cấp có thể truyền tải qua mạng điện tử và cơ quan quản lý cơ sở dữ liệu có đủ điều kiện để cung cấp dữ liệu qua mạng điện tử.
+
+Trường hợp pháp luật có quy định về việc khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo qua mạng điện tử đối với dữ liệu cụ thể thì áp dụng quy định của pháp luật đó.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

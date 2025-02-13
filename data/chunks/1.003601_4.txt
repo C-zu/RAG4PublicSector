@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo thay đổi nội dung, hình thức nhãn chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản thông báo thay đổi nội dung, hình thứcnhãn quy định tại khoản 2 Điều 32 Nghị định số 91/2016/NĐ-CP.
+- 01 Bản chính Mẫu nhãn mới (gồm mẫu nhãn của tất cả các quy cách đóng gói theo kích thước thực. Trường hợp có nhiều quy cách đóng gói có thiết kế nhãn giống nhau, cơ sở thông báo nộp nhãn của quy cách đóng gói nhỏ nhất)

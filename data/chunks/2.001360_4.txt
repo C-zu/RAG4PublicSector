@@ -1,0 +1,17 @@
+Tên thủ tục: Thủ tục tuyển sinh theo chế độ cử tuyển đại học, cao đẳng, trung cấp chuyên nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính 1. 03 phiếu đăng ký dự thi theo quy định của Bộ Giáo dục và Đào tạo và Bộ Quốc phòng;
+- 01 Bản chính 2. 01 phiếu khám sức khoẻ;
+- 01 Bản chính 3. 01 giấy chứng nhận được hưởng ưu tiên đối với những thí sinh thuộc diện ưu tiên;
+- 06 Bản chính 4. 06 ảnh chân dung cỡ 4 x 6 cm theo quy định tại Khoản 3, Điều 17 Số 03/2014/TT- BQP.
+- 01 Bản sao 5. Bản sao giấy khai sinh.
+- 01 Bản sao 6. Bản sao bằng tốt nghiệp trung học phổ thông (giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh chưa được cấp bằng tốt nghiệp).
+- 01 Bản sao 7. Bản sao học bạ trung học phổ thông.
+- 01 Bản chính 8. Các giấy chứng nhận đối tượng mà thí sinh được hưởng ưu tiên xét cử tuyển.
+- 01 Bản chính 9. Giấy xác nhận hộ khẩu thường trú do Trưởng Công an xã, phường, thị trấn có thẩm quyền cấp (phải ghi rõ thời gian từ khi đến cư trú tại địa phương).
+- 01 Bản sao 10. Bản sao (không công chứng) quyết định và trang tên địa phương nơi thí sinh cư trú thuộc vùng được cử tuyển;
+- 01 Bản chính Trường hợp xã mới chia tách hoặc sáp nhập phải có bản sao quyết định của cấp có thẩm quyền, đồng thời ghi rõ vào phần ghi chú trong danh sách đề nghị của đơn vị.

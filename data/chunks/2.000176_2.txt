@@ -1,0 +1,6 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép bán buôn sản phẩm thuốc lá
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Thương nhân bán buôn sản phẩm thuốc lá gửi 01 bộ hồ sơ về Sở Công Thương.
++ Sở Công Thương kiểm tra và tiếp nhận hồ sơ của thương nhân, Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Công Thương xem xét và cấp sửa đổi, bổ sung Giấy phép bán buôn sản phẩm thuốc lá. Trường hợp thương nhân không đáp ứng được điều kiện theo quy định Sở Công Thương sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do.

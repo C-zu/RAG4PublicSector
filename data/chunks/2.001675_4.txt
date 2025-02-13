@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Các tài liệu chứng minh năng lực hoạt động kiểm định bổ sung, sửa đổi đáp ứng các yêu cầu quy định tại khoản 2 Điều 9 Nghị định số 107/2016/NĐ-CP, cụ thể như sau: Trường hợp tổ chức kiểm định đã được chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 nhưng có phạm vi đăng ký hoạt động rộng hơn phạm vi đã được chứng nhận, tổ chức kiểm định nộp bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 và các tài liệu, quy trình kiểm định và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 9 Nghị định số 107/2016/NĐ-CP đối với phạm vi chưa được chứng nhận (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc981a37d45d760'">phụ lục (18).docx</a>)
+- 01 Bản chính Đơn đăng ký bổ sung, sửa đổi hoạt động kiểm định theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcbecefe2a6920c'">phụ lục (16).docx</a>)
+- 01 Bản sao Danh sách bổ sung, sửa đổi kiểm định viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao các bằng cấp, chứng chỉ đào tạo tương ứng theo quy định tại khoản 3 Điều 9 Nghị định số 107/2016/NĐ-CP

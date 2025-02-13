@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép lái xe quốc tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 135.000 Đồng Nộp trực tiếp: 135.000 đồng/lần.  Lệ phí : 135.000 Đồng Nộp trực tuyến: 115.000 đồng/lần.|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP đúng theo quy định|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 135.000 Đồng Nộp trực tiếp: 135.000 đồng/lần.  Lệ phí : 135.000 Đồng Nộp trực tuyến: 115.000 đồng/lần.|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP đúng theo quy định|

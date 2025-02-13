@@ -1,0 +1,8 @@
+Tên thủ tục: Mua quyển hóa đơn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy giới thiệu kèm theo công văn đề nghị mua hóa đơn do do người đứng đầu cơ quan ký, đóng dấu: 01 bản chính;
+- 01 Bản sao - Các văn bản, giấy tờ khác có liên quan (nếu có): 01 bản sao.

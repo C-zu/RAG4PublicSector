@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004173
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Đổi chứng nhận đăng ký, biển số xe tại Công an cấp huyện
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+- Các trường hợp cấp đổi chứng nhận đăng ký xe, cấp đổi biển số xe: Xe cải tạo; xe thay đổi màu sơn; xe đã đăng ký, cấp biển số xe nền màu trắng, chữ và số màu đen sang biển số xe nền màu vàng, chữ và số màu đen (xe hoạt động kinh doanh vận tải bằng ô tô) và ngược lại; gia hạn chứng nhận đăng ký xe; thay đổi các thông tin của chủ xe (tên chủ xe, số định danh cá nhân, địa chỉ); chứng nhận đăng ký xe bị hỏng, mờ, rách; biển số bị hỏng, mờ, gẫy hoặc chủ xe có nhu cầu cấp đổi chứng nhận đăng ký xe cũ, biển số xe cũ sang chứng nhận đăng ký xe, biển số xe theo quy định.
+- Trình tự thực hiện:
+Bước 1: Chủ xe đăng nhập cổng dịch vụ công và có trách nhiệm kê khai đầy đủ các nội dung quy định trong giấy khai đăng ký xe ký số hoặc in Giấy khai đăng ký xe ký, ghi rõ họ, tên, đóng dấu (nếu là cơ quan, tổ chức). 
+Sau khi kê khai thành công, chủ xe nhận mã hồ sơ đăng ký xe trực tuyến, lịch hẹn giải quyết hồ sơ do cổng dịch vụ công thông báo qua tin nhắn điện thoại hoặc qua địa chỉ thư điện tử để làm thủ tục đăng ký xe; cung cấp mã hồ sơ đăng ký xe cho cơ quan đăng ký xe để làm thủ tục đăng ký xe theo quy định; trường hợp không thực hiện được trên cổng dịch vụ công thì chủ xe kê khai giấy khai đăng ký xe trực tiếp tại cơ quan đăng ký xe.
+Bước 2: Chủ xe nộp hồ sơ cấp đổi, cấp lại quy định tại Điều 17 Thông tư số 24/2023/TT-BCA và nộp lệ phí cấp đổi theo quy định trên cổng dịch vụ công; trường hợp chủ xe không thực hiện được việc nộp lệ phí đăng ký xe qua cổng dịch vụ công thì thực hiện nộp lệ phí đăng ký xe tại cơ quan đăng ký xe; chủ xe không phải mang xe đến để kiểm tra (trừ xe cải tạo, thay đổi màu sơn);
+Bước 3: Sau khi kiểm tra hồ sơ xe đảm bảo hợp lệ, cơ quan đăng ký xe cấp giấy hẹn cho chủ xe và thực hiện cấp đổi chứng nhận đăng ký xe, biển số xe theo quy định; 
+Bước 4: Chủ xe nhận kết quả đăng ký xe tại cơ quan đăng ký xe hoặc từ dịch vụ bưu chính công ích.
+Trường hợp cấp đổi chứng nhận đăng ký xe, biển số xe giữ nguyên biển số định danh; đối với xe đã đăng ký biển 3 hoặc 4 số thì cấp sang biển số định danh theo quy định (thu lại chứng nhận đăng ký xe, biển 3 hoặc 4 số đó).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Lệ phí : Đồng Thu theo Thông tư 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông cơ giới đường bộ.  Lệ phí : Đồng Thu theo Thông tư số 60/2023/TT-BTC ngày 07/9/2023 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ (có hiệu lực từ ngày 22/10/2023)|+ Cấp đổi chứng nhận đăng ký xe: Không quá 2 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. + Cấp đổi biển số xe: Không quá 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. + Thời gian trả kết quả đăng ký xe theo quy định được tính từ ngày nhận đủ hồ sơ hợp lệ và hệ thống đăng ký, quản lý xe đã nhận được kết quả xác thực về việc hoàn thành nộp lệ phí đăng ký xe từ cổng dịch vụ công.|
+|Trực tuyến|07 Ngày làm việc|Lệ phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.  Lệ phí : Đồng Thu theo Thông tư số 60/2023/TT-BTC ngày 07/9/2023 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ (có hiệu lực từ ngày 22/10/2023)|+ Kê khai Giấy khai đăng ký xe trên Cổng Dịch vụ công. - Thời hạn giải quyết: + Cấp đổi chứng nhận đăng ký xe: Không quá 2 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. + Cấp đổi biển số xe: Không quá 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. + Thời gian trả kết quả đăng ký xe theo quy định được tính từ ngày nhận đủ hồ sơ hợp lệ và hệ thống đăng ký, quản lý xe đã nhận được kết quả xác thực về việc hoàn thành nộp lệ phí đăng ký xe từ cổng dịch vụ công.|
+|Dịch vụ bưu chính|07 Ngày làm việc||+ Trả kết quả qua dịch vụ bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Giấy khai đăng ký xe (theo mẫu). ([Mẫu số 1 Giấy khai đăng ký xe.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd75857390a3936'))
+- 01 Bản chính b) Giấy tờ của chủ xe.
+- 01 Bản chính c) Nộp lại Giấy chứng nhận đăng ký xe (trường hợp đổi lại đăng ký xe) hoặc nộp lại biển số (trường hợp đổi lại biển số xe).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Công an huyện
+Cơ quan có thẩm quyền:
+Công an huyện
+Địa chỉ tiếp nhận HS:
+Công an cấp huyện; Cổng Dịch vụ công quốc gia; Cổng dịch vụ công Bộ Công an.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe, Biển số xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật 23/2008/QH12 - Giao thông đường bộ|13-11-2008|Quốc Hội|
+|Thông tư số 229/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ|11-11-2016||
+|24/2023/TT-BCA|Thông tư số 24/2023/TT-BCA ngày 01/07/2023 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi đăng ký, biển số xe cơ giới|01-07-2023|Bộ trưởng Bộ Công an|
+|60/2023/TT-BTC|Thông tư số 60/2023/TT-BTC ngày 07/9/2023 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ|07-09-2023|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Cấp đổi chứng nhận đăng ký, biển số xe tại Công an cấp huyện
+Mô tả:
+Không có thông tin

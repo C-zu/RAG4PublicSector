@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp thẻ bảo hiểm y tế (thực hiện tại cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính b) Danh sách người lao động, học sinh, sinh viên và thân nhân sĩ quan, hạ sĩ quan, chiến sĩ trong Công an nhân dân tham gia bảo hiểm y tế; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbef89db8917f10'">Mau01-DS(BHYT).doc</a>)
+- 01 Bản chính c) Danh sách người lao động đang tham gia bảo hiểm xã hội trong Công an nhân dân (nếu có); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc49fdd05e7da74'">Mau02-DS(BHYT).doc</a>)
+- 01 Bản chính a) Tờ khai tham gia bảo hiểm y tế; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1609ffe643d15'">Mau01-BK(BHYT).doc</a>)
+- 01 Bản chính d) Văn bản đề nghị cấp thẻ bảo hiểm y tế của Tổng cục, Bộ Tư lệnh, đơn vị trực thuộc Bộ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb07ef47514054'">Mau02-ĐN(BHYT).doc</a>)

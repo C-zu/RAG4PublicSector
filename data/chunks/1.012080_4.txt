@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lần đầu Giấy chứng nhận đăng ký thành lập của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp (lần đầu) Giấy chứng nhận đăng ký thành lập cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình (Mẫu số 15 Nghị định 76)
+- 01 Bản chính Dự thảo quy chế hoạt động của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình
+- 01 Bản chính Bảng giá dịch vụ (nếu có)
+- 01 Bản chính Hồ sơ của người đứng đầu: (1) Giấy khám sức khỏe của cơ sở y tế có thẩm quyền theo quy định của pháp luật về khám sức khỏe; (2) Bản sao có công chứng, chứng thực bằng tốt nghiệp đại học trở lên về ngành, chuyên ngành đào tạo liên quan đến dịch vụ đăng ký tham gia cung cấp; (3) Bản sao có công chứng, chứng thực các văn bằng, chứng chỉ, chứng nhận khác có liên quan đến dịch vụ đăng ký thành lập cơ sở; (4) Bản cam kết chưa bị truy cứu trách nhiệm hình sự hoặc chưa bị xử phạt vi phạm hành chính trong lĩnh vực phòng, chống bạo lực gia đình theo Mẫu số 16 của Phụ lục ban hành kèm theo Nghị định 76
+- 01 Bản chính Yêu cầu hồ sơ của nhân viên trực tiếp tham gia cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình: (1) Giấy khám sức khỏe của cơ sở y tế có thẩm quyền theo quy định của pháp luật về khám sức khỏe; (2) Bản sao có công chứng, chứng thực bằng tốt nghiệp trung học phổ thông trở lên; (3) Bản sao có công chứng, chứng thực các văn bằng có liên quan đến dịch vụ dự kiến cung cấp; (4) Bản sao có công chứng, chứng thực giấy chứng nhận bồi dưỡng kiến thức, kỹ năng về phòng, chống bạo lực gia đình

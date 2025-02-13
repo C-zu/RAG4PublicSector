@@ -1,0 +1,16 @@
+Tên thủ tục: Giải quyết hưởng chế độ tai nạn lao động, bệnh nghề nghiệp đối với trường hợp bị tai nạn lao động, bệnh nghề nghiệp lần đầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+TTrường hợp không quy định rõ bản chính thì có thể nộp bản sao hợp lệ
+- 01 Bản chính 1. Bản chính Văn bản đề nghị giải quyết chế độ TNLĐ, BNN (mẫu 05A-HSB) của đơn vị SDLĐ; bản chính Đơn đề nghị về việc hưởng chế độ BNN (mẫu 01) ban hành kèm theo Nghị định số 88/2020/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf223fda465abc'">Mẫu số 01 _ NĐ 88.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc8e326bcbfd4e'">05A_HSB.docx</a>)
+- 01 Bản sao 2. Bản sao Giấy ra viện hoặc trích sao hồ sơ bệnh án sau khi đã điều trị TNLĐ hoặc BNN (trường hợp điều trị nội trú)
+- 01 Bản chính 3. Biên bản giám định mức suy giảm KNLĐ của Hội đồng GĐYK hoặc bản sao Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp trong trường hợp bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp (tương đương mức suy giảm KNLĐ 61%), nếu GĐYK mà tỷ lệ suy giảm KNLĐ cao hơn 61% thì hồ sơ hưởng chế độ BNN trong trường hợp này phải có Biên bản GĐYK.
+- 01 Bản chính 4. Trường hợp bị BNN mà không điều trị nội trú thì có thêm Giấy khám BNN.
+- 01 Bản chính 5. Chỉ định của cơ sở KCB, cơ sở chỉnh hình, phục hồi chức năng theo quy định về trang cấp PTTGSH (nếu có)
+- 01 Bản chính 6. Hóa đơn, chứng từ thu phí giám định; bảng kê các nội dung giám định của cơ sở thực hiện GĐYK (trường hợp thanh toán phí GĐYK).
+
+
+Bao gồm
+- 01 Bản sao Trường hợp không quy định rõ bản chính thì có thể nộp bản sao hợp lệ

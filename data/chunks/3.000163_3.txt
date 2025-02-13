@@ -1,0 +1,8 @@
+Tên thủ tục: Nộp đơn khởi kiện, tài liệu, chứng cứ và nhận các văn bản, thông báo tố tụng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định của Bộ luật Tố tụng dân sự, Bộ Luật tố tụng hành chính|||
+|Trực tuyến|Theo quy định của Bộ luật Tố tụng dân sự, Bộ Luật tố tụng hành chính|||

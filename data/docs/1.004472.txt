@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004472
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cấp phép nhập khẩu thuốc đáp ứng nhu cầu cấp bách cho quốc phòng, an ninh, phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp phép nhập khẩu nộp hồ sơ  nhập khẩu trực tiếp hoặc gửi qua đường bưu điện về:
+
+Cục Quản lý Dược đối với vắc xin, sinh phẩm, thuốc hóa dược, thuốc dược liệu; Cục Quản lý Y, Dược cổ truyền đối với thuốc cổ truyền ;
+Bước 2: Sau khi nhận được hồ sơ, cơ quan tiếp nhận hồ sơ trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP;
+Bước 3: Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 03 (ba) ngày làm việc, Bộ Y tế cấp phép nhập khẩu.
+
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 03 (ba) ngày làm việc, Bộ Y tế gửi văn bản cho cơ sở để yêu cầu sửa đổi, bổ sung hồ sơ;
+Bước 4: Sau khi nhận hồ sơ sửa đổi, bổ sung, cơ quan tiếp nhận hồ sơ trả cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP. Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Bộ Y tế có văn bản thông báo cho cơ sở theo quy định tại bước 3. Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Bộ Y tế cấp phép nhập khẩu theo quy định tại bước 3.
+Bước 5: Trong thời hạn 10 (mười) ngày làm việc, kể từ ngày cấp phép nhập khẩu thuốc, Bộ Y tế có trách nhiệm công bố trên Cổng thông tin điện tử của đơn vị bao gồm thông tin nhà nhập khẩu, nhà sản xuất, số lượng, tên thuốc và số giấy phép nhập khẩu, số lượng giấy đăng ký lưu hành đối với mỗi hoạt chất.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính a) 03 (ba) bản chính Đơn hàng nhập khẩu theo: - Mẫu số 15 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với vắc xin, sinh phẩm, thuốc hóa dược; - Mẫu số 16 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất; - Mẫu số 17 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc dược liệu, thuốc cổ truyền; ([ND 54_Mau 15_16_17 Phuluc III.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee577c48796d80'))
+- 01 Bản sao b) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận sản phẩm dược hoặc xác nhận của cơ quan quản lý có thẩm quyền nước xuất khẩu về việc lưu hành thuốc tại ít nhất 01 (một) nước trên thế giới;
+- 01 Bản sao c) Bản chính hoặc bản sao có đóng dấu của cơ quan có thẩm quyền văn bản đề nghị hoặc phê duyệt của cơ quan có thẩm quyền quy định tại điểm a, b hoặc c khoản 1 Điều này, trong đó phải thể hiện các nội dung: Hoạt chất đối với thuốc hóa dược, sinh phẩm hoặc tên dược liệu đối với thuốc dược liệu và thuốc cổ truyền, dạng bào chế, nồng độ hoặc hàm lượng dược chất đối với thuốc hóa dược, sinh phẩm hoặc khối lượng dược liệu đối với thuốc dược liệu và thuốc cổ truyền, quy cách đóng gói, nhà sản xuất, nước sản xuất của thuốc.
+ Giấy tờ trong hồ sơ đề nghị cấp phép nhập khẩu thuốc: theo quy định tại Điều 76 Nghị định số 54/2017/NĐ-CPvà các khoản 40, 41, 42 Điều 4; khoản 42 Điều 5 Nghị định số 155/2018/NĐ-CP.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Dược - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu/Công văn cho phép nhập khẩu thuốc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|105/2016/QH13|Luật 105/2016/QH13 Dược|06-04-2016|Quốc Hội|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+1. Thuốc thuốc đã được cấp phép lưu hành tại ít nhất một nước trên thế giớivà thuộc một trong các trường hợp sau:
+
+a) Thuốc được Bộ Quốc phòng đề nghị nhập khẩu để đáp ứng nhu cầu cấp bách cho quốc phòng;
+
+b) Thuốc được Bộ Công an đề nghị nhập khẩu để đáp ứng nhu cầu cấp bách cho an ninh;
+
+c) Thuốc được Bộ Y tế phê duyệt cho nhu cầu cấp bách trong phòng chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa.
+2. Cơ sở nhập khẩu là cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, phạm vi: xuất khẩu, nhập khẩu thuốc phù hợp với thuốc đề nghị nhập khẩuthuốc và các cơ sở đáp ứng quy định tại điểm b khoản 48 Điều 5 Nghị định số 155/2018/NĐ-CP.
+1. Thuốc thuốc đã được cấp phép lưu hành tại ít nhất một nước trên thế giớivà thuộc một trong các trường hợp sau:
+
+a) Thuốc được Bộ Quốc phòng đề nghị nhập khẩu để đáp ứng nhu cầu cấp bách cho quốc phòng;
+
+b) Thuốc được Bộ Công an đề nghị nhập khẩu để đáp ứng nhu cầu cấp bách cho an ninh;
+
+c) Thuốc được Bộ Y tế phê duyệt cho nhu cầu cấp bách trong phòng chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa.
+2. Cơ sở nhập khẩu là cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, phạm vi: xuất khẩu, nhập khẩu thuốc phù hợp với thuốc đề nghị nhập khẩuthuốc và các cơ sở đáp ứng quy định tại điểm b khoản 48 Điều 5 Nghị định số 155/2018/NĐ-CP.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

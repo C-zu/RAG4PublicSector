@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f96179c2ea132e0'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản thuyết minh về điều kiện sản xuất phân bón theo Mẫu số 09 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f8d800fcbb8fd00'">Mẫu số 09.doc</a>)
+- 01 Bản sao - Bản chụp bằng tốt nghiệp đại học trở lên của người trực tiếp điều hành sản xuất quy định tại điểm e khoản 2 Điều 41 Luật Trồng trọt.
+ Quy định về các loại thành phần hồ sơ: - Trường hợp nộp hồ sơ trực tiếp, qua dịch vụ bưu chính: Các thành phần hồ sơ phải là bản chính hoặc bản sao từ sổ gốc hoặc bản sao chứng thực hoặc nộp bản sao xuất trình bản chính để đối chiếu. - Trường hợp nộp hồ sơ qua môi trường mạng: Các thành phần hồ sơ phải được scan, chụp từ bản chính.

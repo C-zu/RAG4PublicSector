@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 120.000 đồng/01 lần cấp Lệ phí cấp lại giấy chứng nhận đăng ký|- Đối với cấp lại Giấy chứng nhận đăng ký trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng và chủ sở hữu phương tiện đã hoàn thành nghĩa vụ tài chính.|
+|Trực tiếp|30 Ngày|Lệ phí : 120.000 đồng/01 lần cấp Đồng Lệ phí cấp lại giấy chứng nhận đăng ký|Trường hợp Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất: Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 120.000 đồng/01 lần cấp Đồng Lệ phí cấp lại giấy chứng nhận đăng ký|- Đối với cấp lại Giấy chứng nhận đăng ký trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng và chủ sở hữu phương tiện đã hoàn thành nghĩa vụ tài chính.|
+|Trực tuyến|30 Ngày|Lệ phí : 120.000 đồng/01 lần cấp Đồng Lệ phí cấp lại giấy chứng nhận đăng ký|Trường hợp Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất: Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 120.000 đồng/01 lần cấp Lệ phí cấp lại giấy chứng nhận đăng ký|- Đối với cấp lại Giấy chứng nhận đăng ký trường hợp chuyển quyền sở hữu; phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu; Giấy chứng nhận đăng ký phương tiện bị hư hỏng và chủ sở hữu phương tiện đã hoàn thành nghĩa vụ tài chính.|
+|Dịch vụ bưu chính|30 Ngày|Lệ phí : 120.000 đồng/01 lần cấp Đồng Lệ phí cấp lại giấy chứng nhận đăng ký|Trường hợp Cấp lại Giấy chứng nhận đăng ký trong trường hợp bị mất: Trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, đúng quy định, cơ quan nhà nước có thẩm quyền cấp cho chủ sở hữu Giấy xác nhận đã khai báo mất Giấy chứng nhận đăng ký phương tiện theo mẫu quy định|

@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi, bổ sung nội dung Giấy chứng nhận hoạt động cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : 1.500.000 Đồng Đối với trường hợp đăng ký thay đổi địa chỉ trụ sở văn phòng đại diện, chi nhánh  Lệ phí : 1.000.000 Đồng Đối với trường hợp trường hợp đăng ký thay đổi tên văn phòng đại diện, chi nhánh  Lệ phí : 1.000.000 Đồng Đối với trường hợp đăng ký thay đổi người đứng đầu văn phòng đại diện, chi nhánh  Lệ phí : 1.000.000 Đồng Đối với trường hợp đăng ký thay đổi thông tin của tổ chức khoa học công nghệ ghi trên giấy chứng nhận hoạt động văn phòng đại diện, chi nhánh  Lệ phí : 2.000.000 Đồng Đối với trường hợp đăng ký thay đổi, bổ sung lĩnh vực hoạt động khoa học và công nghệ của văn phòng đại diện, chi nhánh|10 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : 1.000.000 Đồng Đối với trường hợp trường hợp đăng ký thay đổi tên văn phòng đại diện, chi nhánh  Lệ phí : 1.000.000 Đồng Đối với trường hợp đăng ký thay đổi người đứng đầu văn phòng đại diện, chi nhánh  Lệ phí : 1.000.000 Đồng Đối với trường hợp đăng ký thay đổi thông tin của tổ chức khoa học công nghệ ghi trên giấy chứng nhận hoạt động văn phòng đại diện, chi nhánh  Lệ phí : 1.500.000 Đồng Đối với trường hợp đăng ký thay đổi địa chỉ trụ sở văn phòng đại diện, chi nhánh  Lệ phí : 2.000.000 Đồng Đối với trường hợp đăng ký thay đổi, bổ sung lĩnh vực hoạt động khoa học và công nghệ của văn phòng đại diện, chi nhánh|10 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ|

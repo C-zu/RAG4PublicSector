@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy phép kinh doanh vật liệu nổ công nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Giấy giới thiệu kèm theo bản sao thẻ Căn cước công dân, Chứng minh nhân dân, Hộ chiếu, Chứng minh Công an nhân dân hoặc giấy chứng minh do Quân đội nhân dân cấp của người đến liên hệ.
+ - Bản sao văn bản giao nhiệm vụ kinh doanh vật liệu nổ công nghiệp của Thủ tướng Chính phủ;
+- 01 Bản chính - Bản sao quyết định thành lập doanh nghiệp hoặc bản sao Giấy chứng nhận doanh nghiệp;
+- 01 Bản chính - Bản sao Giấy chứng nhận đủ điều kiện về an ninh, trật tự; văn bản thẩm duyệt, kiểm tra, nghiệm thu về phòng cháy và chữa cháy đối với kho, phương tiện chuyên dùng vận chuyển vật liệu nổ công nghiệp;
+- 01 Bản chính, 01 Bản sao - Danh sách cán bộ lãnh đạo, quản lý có liên quan trực tiếp đến công tác bảo quản, vận chuyển và kinh doanh vật liệu nổ công nghiệp; hồ sơ cá nhân của người đại diện doanh nghiệp; giấy phép lao động của người nước ngoài làm việc tại doanh nghiệp (nếu có); bảng kê khai hệ thống kho, bến cảng, nhà xưởng của cơ sở kinh doanh và văn bản cho phép đưa công trình vào sử dụng; danh sách các phương tiện vận tải chuyên dùng và bản sao Giấy phép lưu hành; giấy chứng nhận của cơ quan nhà nước về tiêu chuẩn, đo lường và chất lượng đo lường nhà nước cấp cho cơ sở thí nghiệm vật liệu nổ công nghiệp (nếu có); kế hoạch hoặc biện pháp phòng ngừa, ứng phó sự cố khẩn cấp đối với kho, phương tiện vận chuyển vật liệu nổ công nghiệp;
+- 01 Bản chính - Văn bản đề nghị cấp Giấy phép kinh doanh vật liệu nổ công nghiệp. Doanh nghiệp thuộc Bộ Quốc phòng phải có văn bản đề nghị của Bộ Quốc phòng hoặc cơ quan được Bộ Quốc phòng giao nhiệm vụ quản lý vật liệu nổ công nghiệp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed8a8b0af880c0'">Mẫu số 03.docx</a>)

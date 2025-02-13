@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Quyết định công nhận phân bón lưu hành tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 tháng (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân)||a) Trường hợp nộp hồ sơ trực tiếp, qua dịch vụ bưu chính: Các thành phần hồ sơ phải là bản chính hoặc bản sao từ sổ gốc hoặc bản sao chứng thực hoặc nộp bản sao xuất trình bản chính để đối chiếu;|
+|Trực tuyến|03 tháng (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân)||b) Trường hợp nộp hồ sơ qua môi trường mạng: Các thành phần hồ sơ phải được scan, chụp từ bản chính.|
+|Dịch vụ bưu chính|03 tháng (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân)||a) Trường hợp nộp hồ sơ trực tiếp, qua dịch vụ bưu chính: Các thành phần hồ sơ phải là bản chính hoặc bản sao từ sổ gốc hoặc bản sao chứng thực hoặc nộp bản sao xuất trình bản chính để đối chiếu;|

@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001383
+Số quyết định:
+142/QĐ-BCT
+Tên thủ tục:
+Cấp lại Giấy chứng nhận xuất xứ hàng hoá (C/O)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất nhập khẩu
+Trình tự thực hiện:
+Trình tự thực hiện:  
+	Bước 1: Thương nhân khai báo thông tin, đính kèm hồ sơ đề nghị cấp C/O trên Hệ thống quản lý và cấp chứng nhận xuất xứ điện tử của Bộ Công Thương tại địa chỉ www.ecosys.gov.vn hay tại trang điện tử http://comis.covcci.com.vn  của Liên đoàn Thương mại và Công nghiệp Việt Nam (VCCI), hoặc nộp trực tiếp hồ sơ đề nghị cấp C/O tại trụ sở của Tổ chức cấp C/O, hoặc gửi hồ sơ qua bưu điện đến Tổ chức cấp C/O và nộp phí C/O.
+	Bước 2: Cán bộ của Tổ chức cấp C/O kiểm tra xem bộ hồ sơ có hợp lệ hay không và thông báo cho thương nhân một trong các nội dung sau:
+1. Chấp nhận cấp C/O và thời gian thương nhân sẽ nhận được C/O;
+2. Đề nghị bổ sung chứng từ (nêu cụ thể những chứng từ cần bổ sung);
+3. Đề nghị kiểm tra lại chứng từ (nêu cụ thể thông tin cần kiểm tra nếu có bằng chứng cụ thể, xác thực làm căn cứ cho việc đề nghị kiểm tra này);
+4. Từ chối cấp C/O nếu phát hiện những trường hợp quy định tại Điều 21 Nghị định số 31/2018/NĐ-CP ngày 08/3/2018 của Chính phủ quy định Luật Quản lý ngoại thương về xuất xứ hàng hóa (sau đây gọi là Nghị định số 31/2018/NĐ-CP) hoặc nếu phát hiện lô hàng đã được xuất khẩu quá 1 năm kể từ ngày giao hàng;
+5. Đề nghị kiểm tra tại cơ sở sản xuất của thương nhân theo quy định tại khoản 1 Điều 28 Nghị định số 31/2018/NĐ-CP (nếu cần thiết).
+Bước 3: Cán bộ của Tổ chức cấp C/O thẩm định hồ sơ bổ sung (nếu có); tích “CERTIFIED TRUE COPY” trên hệ thống điện tử hoặc đóng dấu “CERTIFIED TRUE COPY” lên C/O trong trường hợp cấp sao y bản chính; xác nhận nội dung “THIS C/O REPLACES THE C/O NO. … DATED …” được thể hiện trên C/O trong trường hợp cấp thay thế hoặc cấp chỉnh sửa; ký phê duyệt và trình người có thẩm quyền của Tổ chức cấp C/O ký cấp phép C/O.
+	Bước 4: Người có thẩm quyền của Tổ chức cấp C/O
+- Ký cấp phép C/O và trả kết quả C/O dưới dạng bản pdf cho thương nhân trên hệ thống điện tử (không cần thực hiện Bước 5 và Bước 6); hoặc
+- Ký cấp tay C/O giấy (tiếp tục thực hiện Bước 5 và Bước 6).
+	Bước 5: Cán bộ của Tổ chức cấp C/O đóng dấu lên C/O, vào sổ theo dõi và kết thúc hồ sơ trên hệ thống điện tử.
+	Bước 6: Tổ chức cấp C/O trả C/O cho thương nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|4 Giờ|Phí : 30000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Trong thời hạn 4 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp lại C/O và hồ sơ đề nghị cấp lại C/O đầy đủ và hợp lệ.|
+|Trực tuyến|4 Giờ|Phí : 30000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Trong thời hạn 4 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp lại C/O và hồ sơ đề nghị cấp lại C/O đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|4 Giờ|Phí : 30000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Trong thời hạn 4 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp lại C/O và hồ sơ đề nghị cấp lại C/O đầy đủ và hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Hồ sơ đề nghị cấp C/O bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp C/O được kê khai hoàn chỉnh và hợp lệ (Mẫu số 04 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP); ([MẪU 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe06dfb04dfeed7'))
+- 01 Bản chính, 01 Bản sao - Mẫu C/O tương ứng đã được khai hoàn chỉnh;
+- 01 Bản chính - Chứng từ bổ sung theo quy định tại Điều 15 Nghị định số 31/2018/NĐ-CP (nếu có khác biệt với hồ sơ đề nghị cấp C/O đã cấp trước đó);
+ - Bản gốc và bản sao C/O đã cấp trước đó (nếu có).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Phòng Quản lý Xuất Nhập khẩu khu vực, Các Chi nhánh, các tổ chức cấp C/O trực thuộc Phòng Thương mại và Công nghiệp Việt Nam (VCCI), Ban Quản lý Khu công nghiệp và Chế xuất, Sở Công Thương - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+Bộ Công thương, Cục Xuất nhập khẩu - Bộ Công Thương
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cục Thương mại điện tử và Kinh tế số - Bộ Công Thương, Tổng cục Hải quan - Bộ tài chính
+Kết quả thực hiện:
+Giấy chứng nhận xuất xứ hàng hóa (C/O) cấp lại
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2018/TT-BCT|Thông tư 05/2018/TT-BCT|03-04-2018|Bộ Công thương|
+|31/2018/NĐ-CP|Nghị định 31/2018/NĐ-CP|08-03-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường trong kiểm tra lưu hành xe chở người bốn bánh có gắn động cơ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí cấp giấy chứng nhận 50.000 đồng/01 Giấy chứng nhận  Lệ phí : 180000 Đồng Giá dịch vụ kiểm định 180.000 đồng/xe|Trong phạm vi 02 ngày làm việc, kể từ ngày kết thúc kiểm tra đạt yêu cầu.|

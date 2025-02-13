@@ -1,0 +1,18 @@
+Tên thủ tục: Điều chỉnh quyết định chủ trương đầu tư của Ban Quản lý KKT tỉnh Hà Tĩnh Khu kinh tế tỉnh Hà Tĩnh - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ, dự thảo văn bản xin ý kiến các đơn vị liên quan
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa.
+B5	Gửi hồ sơ cho cơ quan nhà nước có thẩm quyền liên quan để lấy ý kiến về những nội dung điều chỉnh.  Đối với dự án đầu tư quy định tại Khoản 3 Điều 32 Nghị định 118/2015/NĐ-CP, Ban Quản lý KKT tỉnh Hà Tĩnh lấy ý kiến của Bộ Kế hoạch và Đầu tư và cơ quan nhà nước có thẩm quyền liên quan đến nội dung điều chỉnh.
+B6	Dự thảo báo cáo thẩm định và dự thảo Quyết định điều chỉnh chủ trương đầu tư sau khi có ý kiến đóng góp từ các đơn vị có liên quan.
+B7	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC. Nếu hồ sơ không đủ điều kiện chuyển qua B10
+B8	Phê duyệt kết quả giải quyết TTHC
+B9	Phát hành văn bản và Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn
+B10	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn

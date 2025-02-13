@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục phục vụ việc sử dụng tài liệu của độc giả tại phòng đọc (Cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Một trong 03 giấy tờ tuỳ thân: Căn cước công dân, Chứng minh nhân dân hoặc Hộ chiếu;
+- 01 Bản chính Giấy giới thiệu hoặc văn bản đề nghị của cơ quan, tổ chức nơi công tác (trường hợp sử dụng vì mục đích công tác);
+- 01 Bản chính Phiếu đăng ký sử dụng tài liệu (Mẫu số 05); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc18fde4ff9cfd8'">05 Mau phieu dang ky su dung tai lieu.docx</a>)
+- 01 Bản chính Phiếu yêu cầu đọc tài liệu (Mẫu số 06); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd47d2d0d994cce'">06 Mau phieu yeu cau doc tai lieu (cap tinh).docx</a>)

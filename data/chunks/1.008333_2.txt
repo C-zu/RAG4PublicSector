@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1. Nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác lập hồ sơ và gửi đến cơ quan thuế quản lý trực tiếp của bên Việt Nam.
+	++ Khai theo từng lần phát sinh thanh toán tiền cho Nhà thầu nước ngoài. Thời hạn nộp hồ sơ khai thuế theo từng lần phát sinh nghĩa vụ thuế chậm nhất là ngày thứ muời, kể từ ngày phát sinh nghĩa vụ thuế.
+	++ Trường hợp bên Việt Nam thanh toán cho Nhà thầu nước ngoài nhiều lần trong tháng thì có thể đăng ký khai thuế theo tháng thay cho việc khai theo từng lần phát sinh thanh toán tiền cho Nhà thầu nước ngoài. Thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày thứ hai mươi của tháng tiếp theo tháng phát sinh nghĩa vụ thuế.
++ Bước 2. Cơ quan thuế tiếp nhận:
+Cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định đối sơ hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính. Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

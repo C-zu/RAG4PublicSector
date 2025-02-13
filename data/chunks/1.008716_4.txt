@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ mời thầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình thẩm định, phê duyệt Hồ sơ mời thầu.
+- 01 Bản chính 2. Văn bản của cấp có thẩm quyền về chủ trương đầu tư xây dựng công trình
+- 01 Bản chính 3. Quyết định phê duyệt Báo cáo Kinh tế kỹ thuật
+- 01 Bản chính 4. Quyết định phê duyệt Kế hoạch lựa chọn nhà thầu

@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005298
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục khai báo chất phóng xạ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp phiếu khai báo chất phóng xạ cho Cục ATBXHN (ATBXHN).
+Bước 2: Cục ATBXHN xem xét phiếu khai báo, đề nghị chỉnh sửa, bổ sung thông tin (nếu có).
+Bước 3: Cục ATBXHN cấp Giấy xác nhận khai báo.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đủ hồ sơ khai báo|
+|Dịch vụ bưu chính|5 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đủ hồ sơ khai báo|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín. ([phieu khai bao nguon phong xa kin.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c4f9e54367f4'))
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín đã qua sử dụng ([phieu khai bao nguon phog xa da qua su dung.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1a1b2b4d386e4'))
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ hở ([phieu khai bao nguon phong xa ho.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed47d192921c0'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận khai báo (chất phóng xạ)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|Luật 18/2008/QH12-Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|08/2010/TT-BKHCN|Thông tư 08/2010/TT-BKHCN|22-07-2010|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Thủ tục khai báo chất phóng xạ
+Mô tả:
+Không có thông tin

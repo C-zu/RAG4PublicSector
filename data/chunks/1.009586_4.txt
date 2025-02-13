@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất hoá chất sản xuất, kinh doanh có điều kiện trong ngành công nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp theo mẫu BM.HC.01.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1e8891b19ee7b'">BM.HC.01.01.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã hoặc Giấy chứng nhận đăng ký hộ kinh doanh;
+- 01 Bản sao Quyết định phê duyệt hoặc văn bản xác nhận các tài liệu liên quan đến bảo vệ môi trường theo quy định của pháp luật được cơ quan quản lý nhà nước có thẩm quyền ban hành ;
+- 01 Bản sao Văn bản chấp thuận kết quả nghiệm thu về phòng cháy và chữa cháy của cơ quan Cảnh sát phòng cháy và chữa cháy đối với từng cơ sở sản xuất, kho chứa hóa chất thuộc đối tượng phải thẩm duyệt thiết kế về phòng cháy và chữa cháy; Biên bản kiểm tra an toàn về phòng cháy và chữa cháy hoặc văn bản của cơ quan có thẩm quyền chứng minh đảm bảo các điều kiện an toàn về phòng cháy và chữa cháy đối với từng cơ sở sản xuất không thuộc đối tượng bắt buộc phải thẩm duyệt thiết kế về phòng cháy và chữa cháy;
+- 01 Bản chính Bản vẽ tổng thể hệ thống mặt bằng nhà xưởng, kho chứa, nội dung bản vẽ phải đảm bảo các thông tin về vị trí nhà xưởng, kho tàng, khu vực chứa hóa chất, diện tích và đường vào nhà xưởng, khu vực sản xuất và kho hóa chất; Bản sao giấy tờ chứng minh quyền sử dụng đối với thửa đất xây dựng nhà xưởng, kho chứa hoặc Hợp đồng thuê nhà xưởng, kho chứa;
+- 01 Bản chính Bản kê khai thiết bị kỹ thuật, trang bị phòng hộ lao động và an toàn của cơ sở sản xuất hóa chất theo mẫu BM.HC.01.02; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbe21cc5fbea4f0'">BM.HC.01.02.docx</a>)
+- 01 Bản sao Bằng đại học trở lên chuyên ngành hóa chất của Giám đốc hoặc Phó Giám đốc kỹ thuật hoặc cán bộ kỹ thuật phụ trách hoạt động sản xuất hóa chất của cơ sở sản xuất;
+- 01 Bản sao Quyết định công nhận kết quả kiểm tra huấn luyện an toàn hóa chất của tổ chức, cá nhân theo quy định tại điểm đ khoản 4 Điều 34 của Nghị định số 113/2017/NĐ-CP;
+- 01 Bản chính Phiếu an toàn hóa chất của các hóa chất nguy hiểm trong cơ sở sản xuất theo quy định.

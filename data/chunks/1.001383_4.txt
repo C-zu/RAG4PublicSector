@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận xuất xứ hàng hoá (C/O)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Hồ sơ đề nghị cấp C/O bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp C/O được kê khai hoàn chỉnh và hợp lệ (Mẫu số 04 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe06dfb04dfeed7'">MẪU 04.docx</a>)
+- 01 Bản chính, 01 Bản sao - Mẫu C/O tương ứng đã được khai hoàn chỉnh;
+- 01 Bản chính - Chứng từ bổ sung theo quy định tại Điều 15 Nghị định số 31/2018/NĐ-CP (nếu có khác biệt với hồ sơ đề nghị cấp C/O đã cấp trước đó);
+ - Bản gốc và bản sao C/O đã cấp trước đó (nếu có).

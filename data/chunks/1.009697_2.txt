@@ -1,0 +1,25 @@
+Tên thủ tục: Lập, thẩm định, quyết định đầu tư chương trình, dự án đầu tư thuộc thẩm quyền của người đứng đầu cơ quan chủ quản
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT tại Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo sở ký duyệt. 
+- Trường hợp, hồ sơ đáp ứng yêu cầu, làm văn bản lấy ý kiến thẩm định của Bộ kế hoạch và Đầu tư, Bộ Tài chính và các Sở ban ngành liên quan.
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức, cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 13.
++ Gửi văn bản đến Bộ Kế hoạch và Đầu tư, Bộ Tài chính và các sở, ban, ngành (nếu hồ sơ đủ điều kiện) Chuyển sang thực hiện B6.
+B6	Bộ KH&ĐT, Bộ TC và các Sở ban ngành liên quan góp ý thẩm định hồ sơ.
+	Lập Báo cáo thẩm định đầu tư chương trình, dự án đầu tư.
+B7	Tổng hợp ý kiến của Bộ KH&ĐT, Bộ TC và các ngành vào dự thảo Báo cáo thẩm định đầu tư chương trình, dự án đầu tư và Dự thảo Tờ trình đề nghị UBND tỉnh cấp Quyết định phê duyệt  đầu tư chương trình, dự án đầu tư kèm dự thảo Quyết định trình lãnh đạo phòng xem xét, ký nháy.
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy.
+B9	Lãnh đạo Sở xem xét, ký duyệt kết quả thẩm định của phòng chuyên môn.
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết.
+B11	UBND tỉnh xem xét quyết định.
+B12	Nhận kết quả từ UBND tỉnh và chuyển sang Tung tâm PV HCC tỉnh để trả cho tổ chức, cá nhân.
+Cập nhật, theo dõi kết quả xử lý công việc.
+B13	Trả kết quả

@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục đăng ký thay đổi khoản vay nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Bên đi vay chuẩn bị Đơn đăng ký thay đổi khoản vay:
+	a) Trường hợp bên đi vay đã khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ: bên đi vay in Đơn từ Trang điện tử, ký và đóng dấu; 
+	b) Trường hợp bên đi vay không khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ: bên đi vay hoàn thành mẫu Đơn đăng ký thay đổi khoản vay nước ngoài theo Phụ lục 04 ban hành kèm theo Thông tư 12/2022/TT-NHNN.
++ Bước 2: Bên đi vay gửi 01 bộ hồ sơ đăng ký thay đổi khoản vay nước ngoài theo quy định tại Điều 17 Thông tư 12/2022/TT-NHNN đến Ngân hàng Nhà nước trong thời hạn 30 ngày làm việc kể từ ngày: 
+	a) Các bên ký thỏa thuận thay đổi hoặc trước thời điểm thực hiện nội dung thay đổi (đối với trường hợp nội dung thay đổi không cần ký thỏa thuận thay đổi song vẫn đảm bảo phù hợp với thỏa thuận vay nước ngoài);  
+	b) Tổ chức kế thừa nghĩa vụ trả nợ khoản vay nước ngoài được cấp giấy chứng nhận đăng ký kinh doanh hoặc ngày các bên ký thỏa thuận về việc thay đổi bên đi vay trong trường hợp bên đi vay ban đầu bị chia, tách, hợp nhất, sáp nhập (tùy thuộc ngày nào đến sau) và trước khi tiếp tục rút vốn, trả nợ khoản vay nước ngoài; 
+	c) Bên đi vay hoàn thành việc cập nhật thông tin thay đổi tên và/hoặc thay đổi địa chỉ chuyển trụ sở chính sang tỉnh, thành phố khác trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp; 
+	d) Bên cho vay (hoặc tổ chức đại diện bên cho vay trong khoản vay hợp vốn – nếu có), bên bảo đảm, bên bảo lãnh hoặc các bên liên quan khác được nêu tại văn bản xác nhận đăng ký, văn bản xác nhận đăng ký thay đổi gửi văn bản thông báo cho bên đi vay về việc đổi tên và trước khi thực hiện các giao dịch chuyển tiền liên quan đến các bên này.
++ Bước 3: Ngân hàng Nhà nước có văn bản xác nhận hoặc từ chối xác nhận đăng ký thay đổi khoản vay (có nêu rõ lý do) trong thời hạn:
+	a) 12 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ của bên đi vay trong trường hợp bên đi vay đã khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ đăng ký thay đổi:
+	b) 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ của bên đi vay trong trường hợp bên đi vay không khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ đăng ký thay đổi.

@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ phát triển sản xuất liên kết theo chuỗi giá trị đối với các dự án, kế hoạch liên kết trên phạm vi từ 02 huyện, thị xã, thành phố trở lên (liên kết cấp tỉnh) thuộc các Chương trình mục tiêu quốc gia trên địa bàn tỉnh Thanh Hóa.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 0 Đồng|10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc|Phí : 0 Đồng|10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ; Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (một phần).|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 0 Đồng|10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|

@@ -1,0 +1,16 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục cấm nhập khẩu để phục vụ trực tiếp hoạt động sản xuất phần mềm, gia công quy trình kinh doanh bằng công nghệ thông tin, xử lý dữ liệu cho đối tác nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007964
+Số quyết định:
+2228/QĐ-BTTTTT
+Tên thủ tục:
+Cho phép nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục cấm nhập khẩu để phục vụ trực tiếp hoạt động sản xuất phần mềm, gia công quy trình kinh doanh bằng công nghệ thông tin, xử lý dữ liệu cho đối tác nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử

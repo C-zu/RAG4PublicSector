@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Phiếu lý lịch tư pháp theo yêu cầu của cơ quan tiến hành tố tụng (đối tượng là công dân Việt Nam, người nước ngoài đang cư trú tại Việt Nam)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000505
+Số quyết định:
+1235/QĐ-BTP
+Tên thủ tục:
+Cấp Phiếu lý lịch tư pháp theo yêu cầu của cơ quan tiến hành tố tụng (đối tượng là công dân Việt Nam, người nước ngoài đang cư trú tại Việt Nam)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Lý lịch tư pháp

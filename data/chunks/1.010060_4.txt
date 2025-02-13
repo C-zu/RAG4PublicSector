@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp tạm ứng kinh phí đối với các tổ chức, đơn vị của địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị tạm cấp kinh phí của tổ chức, đơn vị sử dụng lao động để thực hiện Quyết định số 42/2012/QĐ-TTg
+- 01 Bản sao Quyết định của Ủy ban nhân dân tỉnh về việc phân bổ dự toán cho đơn vị sử dụng lao động trên địa bàn tỉnh.

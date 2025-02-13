@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sản xuất, hoán cải sử dụng trong giao thông vận tải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Giờ|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ: nếu hồ sơ đầy đủ theo quy định;|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+|Trực tuyến|1 Giờ|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ: nếu hồ sơ đầy đủ theo quy định;|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+|Dịch vụ bưu chính|1 Giờ|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận và thông báo thời gian kiểm tra thực tế theo đề nghị của người nộp hồ sơ: nếu hồ sơ đầy đủ theo quy định;|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|

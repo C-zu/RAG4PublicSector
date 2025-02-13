@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tạm thời xe mô tô, xe gắn máy (kể cả xe máy điện) tại Công an cấp xã được phân cấp đăng ký xe
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy khai đăng ký xe (Mẫu số 01 ban hành kèm theo Thông tư số 58/2020/TT-BCA) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5e0f72270996c'">Mẫu số 1 Giay khai đăng ký xe.doc</a>)
+- 01 Bản chính Hồ sơ theo quy định tại Điều 13 Thông tư số 58/2020/TT-BCA, ngày 16/6/2020 của Bộ Công an.

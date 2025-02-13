@@ -1,0 +1,16 @@
+Tên thủ tục: Chuyển mục đích sử dụng đất phải được phép của cơ quan nhà nước có thẩm quyền đối với tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004257
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Chuyển mục đích sử dụng đất phải được phép của cơ quan nhà nước có thẩm quyền đối với tổ chức, người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai

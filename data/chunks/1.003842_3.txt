@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn số đăng ký lưu hành chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 1.000.000 Đồng|Nộp hồ sơ trực tiếp tại Bộ phận một cửa, Bộ Y tế.|
+|Trực tuyến|30 Ngày|Phí : 1.000.000 Đồng|Nộp hồ sơ trực tuyến tại Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Y tế|
+|Dịch vụ bưu chính|30 Ngày|Phí : 1.000.000 Đồng||

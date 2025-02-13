@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006873
+Số quyết định:
+1290/QĐ-BXD
+Tên thủ tục:
+Công nhận hạng/công nhận lại hạng nhà chung cư
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nhà ở và công sở
+Trình tự thực hiện:
+-- Tổ chức, cá nhân đề nghị công nhận hạng/công nhận lại hạng nhà chung cư nộp 01 bộ hồ sơ theo quy định của Điều 7 của Thông tư số 31/2016/TT-BXD ngày 30/12/2016 quy định về việc phân hạng và công nhận hạng nhà chung cư (gọi tắt là Thông tư số 31/2016/TT-BXD) tại Sở Xây dựng tỉnh, thành phố trực thuộc trung ương nơi có nhà chung cư (gọi tắt là Sở Xây dựng).
+
+-- Trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Sở Xây dựng kiểm tra và phải có văn bản thông báo đề nghị bổ sung các giấy tờ nếu còn thiếu.
+
+-- Trong thời hạn 15 ngày, kể từ ngày tiếp nhận đủ hồ sơ, Sở Xây dựng tổ chức kiểm tra, thẩm định hồ sơ và kiểm tra thực tế nhà chung cư và:
+
+-+ Ban hành quyết định công nhận hạng nhà chung cư nếu nhà chung cư đáp ứng được các yêu cầu quy định tại Điều 3 và các tiêu chí quy định tại Điều 6 của Thông tư số 31/2016/TT-BXD.
+
+-+ Hoặc có văn bản trả lời tổ chức, cá nhân đề nghị công nhận hạng/công nhận lại nếu nhà chung cư không đáp ứng được các yêu cầu và các tiêu chí theo quy định, trong đó nêu rõ lý do nhà chung cư không được công nhận/công nhận lại theo hạng đã đề nghị.
+
+-- Trường hợp nhà chung cư đáp ứng được các yêu cầu quy định tại Điều 3 và các tiêu chí quy định tại Điều 6 của Thông tư số 31/2016/TT-BXD thì Sở Xây dựng ban hành quyết định công nhận hạng nhà chung cư;
+
+-Trong thời hạn 03 ngày làm việc, kể từ ngày ban hành quyết định công nhận hạng nhà chung cư, Sở Xây dựng có trách nhiệm đăng tải công khai thông tin, văn bản quyết định trên Cổng thông tin điện tử của Sở Xây dựng và gửi quyết định này cho tổ chức, cá nhân đề nghị công nhận hạng nhà chung cư để công khai cho chủ sở hữu, người sử dụng nhà chung cư biết.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Gửi hồ sơ đến Sở Xây dựng tỉnh, thành phố trực thuộc Trung ương nơi có nhà chung cư. 15 ngày kể từ ngày nhận được đủ hồ sơ.|
+|Dịch vụ bưu chính|15 Ngày||Gửi hồ sơ đến Sở Xây dựng tỉnh, thành phố trực thuộc Trung ương nơi có nhà chung cư. 15 ngày kể từ ngày nhận được đủ hồ sơ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị công nhận hạng/công nhận lại hạng nhà chung cư theo mẫu quy định tại Phụ lục số 03 ban hành kèm theo Thông tư số 31/2016/TT-BXD
+- 01 Bản chính Bản sao có chứng thực Giấy phép xây dựng nhà chung cư (đối với nhà chung cư thuộc diện phải có Giấy phép xây dựng)
+- 01 Bản chính Bản sao có chứng thực quyết định phê duyệt quy hoạch chi tiết tỷ lệ 1/500 hoặc văn bản chấp thuận tổng mặt bằng khu vực có nhà chung cư (đối với trường hợp không phải lập quy hoạch chi tiết tỷ lệ 1/500) kèm theo bản vẽ tổng mặt bằng nhà chung cư đã được cơ quan có thẩm quyền phê duyệt
+- 01 Bản chính Bản sao có chứng thực văn bản thẩm định của cơ quan có thẩm quyền kèm theo bản vẽ thiết kế cơ sở nhà chung cư theo quy định của pháp luật về xây dựng
+- 01 Bản chính Bản sao có chứng thực văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành công trình nhà chung cư của cơ quan chuyên môn về xây dựng. Trường hợp nhà chung cư được nghiệm thu đưa vào sử dụng trước thời điểm Nghị định số 15/2013/NĐ-CP ngày 6/2/3013 của Chính phủ về quản lý chất lượng công trình xây dựng có hiệu lực thi hành, nếu không có Bản sao có chứng thực văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành công trình nhà chung cư của cơ quan chuyên môn về xây dựng thì có thể nộp các giấy tờ khác thay thế như: Hồ sơ nghiệm thu chất lượng toàn bộ công trình, Biên bản nghiệm thu công trình xây dựng hoàn thành, Biên bản tổng nghiệm thu bàn giao công trình theo quy định của pháp luật tại thời điểm công trình được đưa vào sử dụng (quy định tại các Quyết định của Bộ Xây dựng ban hành trong từng thời điểm)
+- 01 Bản chính Bản tự kê khai, đánh giá phân hạng nhà chung cư của tổ chức, cá nhân đề nghị công nhận hạng nhà chung cư theo mẫu hướng dẫn tham khảo quy định tại phụ lục số 04 ban hành kèm theo Thông tư số 31/2016/TT-BXD
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Xây dựng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận hạng/công nhận lại hạng nhà chung cư
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|31/2016/TT-BXD|Quy định về phân hạng và công nhận hạng nhà chung cư|30-12-2016|Bộ Xây dựng|
+
+Yêu cầu, điều kiện thực hiện:
+) Việc công nhận hạng/công nhận lại hạng nhà chung cư phải đảm bảo các yêu cầu sau đây:
+- Có đề nghị của tổ chức, cá nhân theo quy định;
+- Nhà chung cư được xây dựng phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan có thẩm quyền phê duyệt; theo đúng Giấy phép xây dựng được cấp (đối với trường hợp yêu cầu phải có Giấy phép xây dựng theo quy định của pháp luật về xây dựng);
+- Nhà chung cư phải đảm bảo tuân thủ quy chuẩn kỹ thuật quốc gia về nhà chung cư và các quy chuẩn kỹ thuật quốc gia khác có liên quan;
+- Nhà chung cư đã hoàn thành việc đầu tư xây dựng theo đúng quy định của pháp luật về nhà ở, pháp luật về xây dựng và pháp luật có liên quan, đã được bàn giao đưa vào sử dụng và không vi phạm các quy định của pháp luật tại thời điểm nộp hồ sơ đề nghị công nhận hạng;
+- Nhà chung cư phải không thuộc diện bị phá dỡ, không thuộc khu vực đã có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền.
+b) Nhà chung cư đáp ứng đầy đủ các yêu cầu được nêu tại điểm a mục này được phân thành 03 hạng nếu đạt các tiêu chí như sau, để làm cơ sở cho việc công nhận hạng/công nhận lại hạng:
+- Hạng A: đạt tối thiểu 18 trên tổng số 20 tiêu chí theo hướng dẫn tại phụ lục số 01 ban hành kèm theo Thông tư số 31/2016/TT-BXD.
+- Hạng B: đạt tối thiểu 18 trên tổng số 20 tiêu chí theo hướng dẫn tại phụ lục số 02 ban hành kèm theo Thông tư số 31/2016/TT-BXD.
+- Hạng C: không đạt đủ tiêu chí để công nhận hạng A và hạng B.
+) Việc công nhận hạng/công nhận lại hạng nhà chung cư phải đảm bảo các yêu cầu sau đây:
+- Có đề nghị của tổ chức, cá nhân theo quy định;
+- Nhà chung cư được xây dựng phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan có thẩm quyền phê duyệt; theo đúng Giấy phép xây dựng được cấp (đối với trường hợp yêu cầu phải có Giấy phép xây dựng theo quy định của pháp luật về xây dựng);
+- Nhà chung cư phải đảm bảo tuân thủ quy chuẩn kỹ thuật quốc gia về nhà chung cư và các quy chuẩn kỹ thuật quốc gia khác có liên quan;
+- Nhà chung cư đã hoàn thành việc đầu tư xây dựng theo đúng quy định của pháp luật về nhà ở, pháp luật về xây dựng và pháp luật có liên quan, đã được bàn giao đưa vào sử dụng và không vi phạm các quy định của pháp luật tại thời điểm nộp hồ sơ đề nghị công nhận hạng;
+- Nhà chung cư phải không thuộc diện bị phá dỡ, không thuộc khu vực đã có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền.
+b) Nhà chung cư đáp ứng đầy đủ các yêu cầu được nêu tại điểm a mục này được phân thành 03 hạng nếu đạt các tiêu chí như sau, để làm cơ sở cho việc công nhận hạng/công nhận lại hạng:
+- Hạng A: đạt tối thiểu 18 trên tổng số 20 tiêu chí theo hướng dẫn tại phụ lục số 01 ban hành kèm theo Thông tư số 31/2016/TT-BXD.
+- Hạng B: đạt tối thiểu 18 trên tổng số 20 tiêu chí theo hướng dẫn tại phụ lục số 02 ban hành kèm theo Thông tư số 31/2016/TT-BXD.
+- Hạng C: không đạt đủ tiêu chí để công nhận hạng A và hạng B.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

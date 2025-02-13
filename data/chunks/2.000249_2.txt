@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung thuộc thẩm quyền của Bộ Công Thương
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bộ Công Thương chịu trách nhiệm tiếp nhận đăng ký trong trường hợp hợp đồng theo mẫu, điều kiện giao dịch chung áp dụng trên phạm vi cả nước hoặc áp dụng trên phạm vi từ hai tỉnh trở lên.
+Hồ sơ đăng ký có thể gửi trực tiếp, gửi bằng bưu điện hoặc gửi bằng phương tiện điện tử.
+Trường hợp hồ sơ đăng ký được gửi trực tiếp, cán bộ tiếp nhận hồ sơ phải lập biên bản tiếp nhận, ngày tiếp nhận hồ sơ là ngày ghi trong biên bản tiếp nhận đó. Trong trường hợp hồ sơ đăng ký gửi bằng đường bưu điện, ngày tiếp nhận hồ sơ được tính theo dấu của bưu điện. Trường hợp hồ sơ gửi bằng phương tiện điện tử, thời điểm tiếp nhận hồ sơ được tính từ thời điểm xác nhận bằng thông điệp điện tử của cơ quan có thẩm quyền đăng ký được gửi đi.
+Trường hơp hồ sơ đăng ký không đầy đủ theo quy định, trong thời hạn năm (05) ngày làm việc kể từ ngày tiếp nhận, cơ quan có thẩm quyền tiếp nhận đăng ký có quyền yêu cầu tổ chức, cá nhân kinh doanh bổ sung hồ sơ, tài liệu.
+Tổ chức, cá nhân có trách nhiệm bổ sung hồ sơ, tài liệu trong thời hạn ba (03) ngày làm việc kể từ ngày nhận được yêu cầu của cơ quan có thẩm quyền.
+Chậm nhất hai mươi (20) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan có thẩm quyền đăng ký có trách nhiệm ra thông báo về kết quả xử lý hồ sơ.
+Sau khi hoàn thành thủ tục đăng ký, hợp đồng theo mẫu, điều kiện giao dịch chung được công bố công khai và lưu trữ trên trang thông tin điện tử của cơ quan có thẩm quyền tiếp nhận đăng ký.

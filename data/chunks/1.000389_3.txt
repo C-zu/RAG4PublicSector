@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp giấy chứng nhận đăng ký bổ sung hoạt động giáo dục nghề nghiệp đối với trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Đối với các trường hợp quy định tại các khoản 1, 2, 3, 4 và 5 Điều 8 Nghị định số 143/2016/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP);|
+|Trực tiếp|03 Ngày làm việc||Đối với trường hợp đổi tên doanh nghiệp|
+|Trực tuyến|10 Ngày làm việc||Đối với các trường hợp quy định tại các khoản 1, 2, 3, 4 và 5 Điều 8 Nghị định số 143/2016/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP);|
+|Trực tuyến|03 Ngày làm việc||Đối với trường hợp đổi tên doanh nghiệp|
+|Dịch vụ bưu chính|10 Ngày làm việc||Đối với các trường hợp quy định tại các khoản 1, 2, 3, 4 và 5 Điều 8 Nghị định số 143/2016/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP);|
+|Dịch vụ bưu chính|03 Ngày làm việc||Đối với trường hợp đổi tên doanh nghiệp|

@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp phép xuất khẩu dược liệu thuộc danh mục loài, chủng loại dược liệu quý, hiếm, đặc hữu phải kiểm soát
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 03 (ba) bản chính Đơn hàng xuất khẩu theo Mẫu số 06 Phụ lục III của Nghị định số 54/2017/NĐ-CP
+- 01 Bản sao Bản sao Giấy chứng nhận đủ điều kiện kinh doanh dược có chứng thực hoặc đóng dấu của cơ sở xuất khẩu. Trường hợp bản sao có đóng dấu của cơ sở thì phải xuất trình bản chính để đối chiếu khi nộp hồ sơ;
+- 01 Bản sao Bản sao giấy xác nhận của Ủy ban nhân dân cấp xã về nguồn gốc dược liệu nuôi trồngcó chứng thực hoặc đóng dấu của cơ sở xuất khẩu. Trường hợp bản sao có đóng dấu của cơ sở thì phải xuất trình bản chính để đối chiếu khi nộp hồ sơ.
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao có đóng dấu của cơ sở xuất khẩu hợp đồng thu mua dược liệu. Trường hợp bản sao có đóng dấu của cơ sở thì phải xuất trình bản chính để đối chiếu khi nộp hồ sơ;
+- 01 Bản chính Trường hợp xuất khẩu không vì mục đích thương mại không phải nộp hồ sơ quy định tại điểm c và d.

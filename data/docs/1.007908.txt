@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007908
+Số quyết định:
+272/QĐ-BTC
+Tên thủ tục:
+Kiểm tra việc in, phát hành, quản lý và sử dụng Biên lai
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Cơ quan hải quan nơi đăng ký tờ khai hải quan thực hiện kiểm tra việc tạo, phát hành, quản lý và sử dụng Biên lai trên báo cáo tình hình sử dụng Biên lai của các Doanh nghiệp. Tối đa là mười (10) ngày làm việc kể từ ngày nhận được báo cáo tình hình sử dụng Biên lai của Doanh nghiệp, cơ quan hải quan phải tiến hành việc kiểm tra.
++ Bước 2: Trường hợp cơ quan hải quan kiểm tra phát hiện có dấu hiệu vi phạm, trong thời hạn ba (03) ngày làm việc kể từ ngày phát hiện, cơ quan hải quan có văn bản yêu cầu Doanh nghiệp báo cáo giải trình.
++ Bước 3: Trường hợp Doanh nghiệp không giải trình hoặc giải trình không thỏa đáng, cơ quan hải quan ban hành quyết định kiểm tra Biên lai tại trụ sở của Doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trong thời hạn năm (5) ngày làm việc|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Báo cáo tình hình sử dụng Biên lai của Doanh nghiệp theo Mẫu số 03 ban hành kèm theo Thông tư này: 01 bản chính
+ - Báo cáo giải trình (nếu có yêu cầu): 01 bản chính
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Cục Hải quan tỉnh, thành phố
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đánh giá tình hình lập, phát hành, sử dụng và quản lý Biên lai của Doanh nghiệp.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|29/2001/QH10|Luật|29-06-2001|Quốc Hội|
+|42/2005/QH11|Luật|14-06-2005|Quốc Hội|
+|78/2006/QH11|Luật Quản lý thuế|01-07-2007||
+|51/2005/QH11|Luật 51/2005/QH11|29-11-2005|Quốc Hội|
+|38/2001/PL-UBTVQH10|Pháp lệnh 38/2001/PL-UBTVQH10|28-08-2001|Ủy ban thường vụ quốc hội|
+|44/2002/PL-UBTVQH10|Pháp lệnh 44/2002/PL-UBTVQH10|02-07-2002|Ủy ban thường vụ quốc hội|
+|03/2003/QH11|Luật 03/2003/QH11|17-06-2003|Quốc Hội|
+|118/2008/NĐ-CP|Nghị định 118/2008/NĐ-CP|27-11-2008|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp chuyển phát nhanh đường hàng không quốc tế đang hoạt động kinh doanh.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

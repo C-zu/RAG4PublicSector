@@ -1,0 +1,16 @@
+Tên thủ tục: Xử lý mất, cháy, hỏng hoá đơn đặt in đã mua của cơ quan thuế
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008304
+Số quyết định:
+1464/QĐ-BTC
+Tên thủ tục:
+Xử lý mất, cháy, hỏng hoá đơn đặt in đã mua của cơ quan thuế
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế

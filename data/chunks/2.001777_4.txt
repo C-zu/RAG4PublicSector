@@ -1,0 +1,20 @@
+Tên thủ tục: Trả lại Giấy phép khai thác tận thu khoáng sản (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị trả lại Giấy phép khai thác tận thu khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5c1543ad94688'">Mẫu số 15-don de nghi tra lai GP tan thu KS.docx</a>)
+- 01 Bản chính Giấy phép khai thác tận thu khoáng sản
+- 01 Bản chính Báo cáo kết quả khai thác tận thu khoáng sản tính đến thời điểm trả lại giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f348c34e2b2a000'">Mẫu số 36 báo cáo định kỳ kết quả.docx</a>)
+- 01 Bản chính đề án đóng cửa mỏ khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea3f5dbec807c0'">Mẫu số 02 đề án đóng cửa.docx</a>)
+ Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của các văn bản chứng minh đã thực hiện nghĩa vụ quy định tại khoản 2 Điều 69 Luật khoáng sản tính đến thời điểm đề nghị gia hạn:
+- 01 Bản sao - Nộp lệ phí cấp giấy phép, các khoản thuế, phí và thực hiện các nghĩa vụ về tài chính khác theo quy định của pháp luật
+- 01 Bản sao - Bảo đảm tiến độ xây dựng cơ bản mỏ và hoạt động khai thác xác định trong dự án đầu tư khai thác khoáng sản, thiết kế mỏ
+- 01 Bản sao - Khai thác tối đa khoáng sản chính, khoáng sản đi kèm; bảo vệ tài nguyên khoáng sản; thực hiện an toàn lao động, vệ sinh lao động và các biện pháp bảo vệ môi trường
+- 01 Bản sao - Thu thập, lưu giữ thông tin về kết quả thăm dò nâng cấp trữ lượng khoáng sản và khai thác khoáng sản;
+- 01 Bản sao - Báo cáo kết quả khai thác khoáng sản cho cơ quan quản lý nhà nước có thẩm quyền theo quy định của Bộ Tài nguyên và Môi trường
+- 01 Bản sao - Bồi thường thiệt thại do hoạt động khai thác khoáng sản gây ra;
+- 01 Bản sao - Tạo điều kiện thuận lợi cho tổ chức, cá nhân khác tiến hành hoạt động nghiên cứu khoa học được Nhà nước cho phép trong khu vực khai thác khoáng sản
+- 01 Bản sao - Đóng cửa mỏ, phục hồi môi trường và đất đai khi Giấy phép khai thác khoáng sản chấm dứt hiệu lực
+- 01 Bản sao - Nghĩa vụ khác theo quy định của pháp luật tính đến thời điểm đề nghị trả lại.

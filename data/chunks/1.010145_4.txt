@@ -1,0 +1,12 @@
+Tên thủ tục: Chuyển nhượng dự án đầu tư - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.11.01; BM.ĐT.11.02
+- 01 Bản chính Báo cáo tình hình thực hiện dự án đầu tư đến thời điểm chuyển nhượng dự án đầu tư, theo mẫu BM.ĐT.11.03
+- 01 Bản chính Hợp đồng chuyển nhượng dự án đầu tư hoặc tài liệu khác có giá trị pháp lý tương đương.
+- 01 Bản sao Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân, bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu khác có giá trị pháp lý tương đương đối với nhà đầu tư là tổ chức của nhà đầu tư nhận chuyển nhượng.
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký đầu tư hoặc văn bản quyết định chủ trương đầu tư (nếu có).
+- 01 Bản sao Bản sao Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC. Bản sao một trong các tài liệu sau của nhà đầu tư nhận chuyển nhượng dự án đầu tư: báo cáo tài chính 02 năm gần nhất của nhà đầu tư, cam kết hỗ trợ tài chính của công ty mẹ, cam kết hỗ trợ tài chính của tổ chức tài chính, bảo lãnh về năng lực tài chính của nhà đầu tư, tài liệu thuyết minh năng lực tài chính của nhà đầu tư.

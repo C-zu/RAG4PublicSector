@@ -1,0 +1,9 @@
+Tên thủ tục: Đổi thẻ bảo hiểm y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHYT;
+- 01 Bản chính Giấy tiếp nhận hồ sơ và hẹn trả kết quả đổi thẻ BHYT theo Mẫu số 4 Phụ lục ban hành kèm theo Nghị định 146/2018/NĐ-CP ngày 17/10/2018. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca7be2d4eaf198'">Mẫu số 4.docx</a>)
+- 01 Bản chính Thẻ BHYT (Rách, nát hoặc hỏng; Thay đổi nơi đăng ký KCB ban đầu; Thông tin ghi trong thẻ không đúng)

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục giải quyết hưởng chế độ tử tuất hằng tháng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai của thân nhân (Mẫu số 09A-HBQP), có chứng thực chữ ký hoặc điểm chỉ của người khai. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fafe979c801a320'">Mẫu số 09A-HBQP.docx</a>)
+- 01 Bản chính 2. Giấy xác nhận của chính quyền địa phương nơi người nuôi dưỡng hợp pháp cư trú (trường hợp thân nhân không phải là vợ hoặc chồng, con, bố mẹ đẻ, bố mẹ vợ hoặc bố mẹ chồng mà người chết khi còn sống phải chịu trách nhiệm nuôi dưỡng).
+- 01 Bản chính 3. Trường hợp thân nhân bị suy giảm khả năng lao động: Biên bản giám định mức suy giảm khả năng lao động của Hội đồng Giám định y khoa xác nhận suy giảm khả năng lao động từ 81% trở lên (bản chính) hoặc giấy xác nhận khuyết tật mức độ đặc biệt nặng (tương đương mức suy giảm khả năng lao động từ 81% trở lên).
+- 01 Bản chính 4. Trường hợp chết do TNLĐ, BNN: Biên bản điều tra TNLĐ (trường hợp tai nạn giao thông được xác định là TNLĐ thì có thêm biên bản khám nghiệm hiện trường; sơ đồ hiện trường vụ tai nạn giao thông; biên bản tai nạn giao thông của cơ quan công an hoặc cơ quan điều tra hình sự Bộ Quốc phòng) hoặc bản sao bệnh án điều trị BNN.
+- 01 Bản chính 5. Trường hợp người lao động còn thiếu thời gian đóng BHXH tối đa không quá 06 tháng mà thân nhân có nguyện vọng được đóng tiếp BHXH cho số tháng còn thiếu: Đơn đề nghị đóng BHXH một lần cho những tháng còn thiếu để hưởng chế độ trợ cấp tuất hằng tháng (Mẫu số 14-HBQP), có xác nhận của Thủ trưởng cơ quan, đơn vị và phiếu thu tiền đóng BHXH một lần. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec8fa9716326b4'">Mẫu số 14-HBQP.docx</a>)

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000805
+Số quyết định:
+2264/QĐ-BTTTT
+Tên thủ tục:
+Sửa đổi, bổ sung giấy chứng nhận đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+- Doanh nghiệp có nhu cầu gửi hồ sơ về Bộ Thông tin và Truyền thông (Cục Phát thanh, truyền hình và thông tin điện tử).
+- Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông có trách nhiệm xét cấp sửa đổi, bổ sung danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền. Giấy phép biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền. Trường hợp không cấp sửa đổi, bổ sung Giấy chứng nhận, Bộ Thông tin và Truyền thông có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|15 Ngày làm việc||15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Trên Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng Dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông (đối với các trường hợp có chứng thực điện tử) (https://dichvucong.mic.gov.vn).|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Tờ khai đăng ký sửa đổi, bổ sung danh mục kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền theo mẫu của Bộ Thông tin và Truyền thông quy định ([mau so 05 - Tokhai - DM kenh chuong trinh.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe51ce762f7e4ea'))
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản thỏa thuận bản quyền đối với kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền đăng ký
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kem bản gốc để đối chiếu văn bản thỏa thuận điểm nhận tín hiệu các kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký danh mục kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền hoặc văn bản trả lời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|103/2016/QH13|Luật 103/2016/QH13|05-04-2016|Quốc Hội|
+|06/2016/NĐ-CP|Nghị định 06/2016/NĐ-CP|19-01-2016||
+|19/2016/TT-BTTTT|Thông tư 19/2016/TT-BTTTT|30-06-2016||
+|71/2022/NĐ-CP|Nghị định 71/2022/NĐ-CP|01-10-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

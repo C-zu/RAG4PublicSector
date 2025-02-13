@@ -1,0 +1,10 @@
+Tên thủ tục: Kiểm dịch y tế đối với phương tiện vận tải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đối với tàu bay: tờ khai chung hàng không đối với tàu bay, giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có);
+- 01 Bản chính Đối với tàu thuyền: giấy khai báo y tế hàng hải, giấy chứng nhận miễn xử lý vệ sinh tàu thuyền/chứng nhận xử lý vệ sinh tàu thuyền, bản khai chung (nếu có) và giấy chứng nhận kiểm tra y tế hàng hóa (trên tàu thuyền), tàu thuyền (nếu có); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb11a486c4a92c'">mẫu đơn(1).docx</a>)
+- 01 Bản chính Đối với phương tiện vận tải đường bộ, đường sắt: giấy khai báo y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt và giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có).
+- 01 Bản chính Đơn đề nghị: Trường hợp người khai báo y tế yêu cầu kiểm tra, xử lý y tế phương tiện vận tải để cấp giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không hoặc giấy chứng nhận miễn xử lý vệ sinh tàu thuyền/chứng nhận vệ sinh tàu thuyền

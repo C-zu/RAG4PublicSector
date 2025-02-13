@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký khai thác tuyến.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đăng ký khai thác tuyến theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd204fe14e3c2d8'">MẪU.doc</a>)
+- 01 Bản sao Bản sao Biên bản thống nhất giữa bến xe hai đầu tuyến với doanh nghiệp, hợp tác xã tham gia khai thác tuyến (áp dụng đối với trường hợp tuyến mới).

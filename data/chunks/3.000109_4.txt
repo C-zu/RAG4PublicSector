@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Trường hợp (1) Đăng ký sử dụng dịch vụ T-VAN: Tờ khai đăng ký sử dụng dịch vụ T-VAN theo mẫu số 01/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe58a4cc8d5e5ec'">01 DK TVAN.doc</a>)
+- 01 Bản chính Trường hợp (2) Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN: Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN theo mẫu số 02/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc1ecd8ebd0c180'">02 ĐK TVAN.doc</a>)
+- 01 Bản chính Đăng ký ngừng sử dụng dịch vụ T-VAN: Tờ khai đăng ký ngừng sử dụng dịch vụ T-VAN theo mẫu số 03/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcd07bac6bba56'">03 ĐK TVAN.doc</a>)

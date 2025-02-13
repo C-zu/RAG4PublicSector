@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy phép tiếp cận nguồn gen
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với tổ chức: có tư cách pháp nhân theo quy định pháp luật của quốc gia nơi tổ chức được thành lập.
+- Việc tiếp cận nguồn gen không thuộc một trong các trường hợp sau:
++ Nguồn gen của loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ, trừ trường hợp được cơ quan nhà nước có thẩm quyền cho phép;
++ Việc sử dụng nguồn gen có nguy cơ gây hại đối với con người, môi trường, an ninh, quốc phòng và lợi ích quốc gia.
+- Đối với tổ chức: có tư cách pháp nhân theo quy định pháp luật của quốc gia nơi tổ chức được thành lập.
+- Việc tiếp cận nguồn gen không thuộc một trong các trường hợp sau:
++ Nguồn gen của loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ, trừ trường hợp được cơ quan nhà nước có thẩm quyền cho phép;
++ Việc sử dụng nguồn gen có nguy cơ gây hại đối với con người, môi trường, an ninh, quốc phòng và lợi ích quốc gia.
+Từ khóa:
+Cấp Giấy phép tiếp cận nguồn gen
+Mô tả:
+Không có thông tin

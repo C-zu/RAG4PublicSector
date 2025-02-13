@@ -1,0 +1,7 @@
+Tên thủ tục: Cung cấp, khai thác, sử dụng dữ liệu về địa chất, khoáng sản (cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản, phiếu yêu cầu cung cấp dữ liệu theo đúng quy định tại Phụ lục 2 ban hành kèm theo Thông tư số 12/2013/TT-BTNMT ngày 05 tháng 6 năm 2013 của Bộ trưởng Bộ Tài nguyên và Môi trường. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1cda386db2823'">PL 2 Mẫu văn bản đề nghị cung cấp khai thác sd dữ liệu về địa chất.docx</a>)

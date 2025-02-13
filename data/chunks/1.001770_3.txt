@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký hoạt động của tổ chức khoa học và công nghệ (Sở Khoa học và Công nghệ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 1.000.000 Đồng|10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 1.000.000 Đồng|10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|

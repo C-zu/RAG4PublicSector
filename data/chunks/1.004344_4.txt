@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp văn bản chấp thuận đóng mới, cải hoán, thuê, mua tàu cá trên biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai theo Mẫu số 31 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8106904400556'">Mẫu số 31.docx</a>)

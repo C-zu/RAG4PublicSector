@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy phép vận tải đường bộ quốc tế giữa Việt Nam và Lào
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị cấp lại Giấy phép vận tải đường bộ quốc tế giữa Việt Nam và Lào theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feebb204077389b'">Mẫu.docx</a>)
+- 01 Bản chính - Phương án kinh doanh vận tải theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaff95d7790932'">Mẫu.docx</a>)

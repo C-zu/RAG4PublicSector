@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đăng ký, biển số xe mô tô, xe gắn máy (kể cả xe máy điện) tại Công an cấp xã được phân cấp đăng ký xe
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01A/58) và nhận mã số thứ tự, lịch hẹn giải quyết hồ sơ qua địa chỉ thư điện tử hoặc qua tin nhắn điện thoại để làm thủ tục đăng ký xe tại cơ quan đăng ký xe Công an cấp xã. Trường hợp trực tiếp đến cơ quan đăng ký xe kê khai giấy khai đăng ký xe (mẫu số 01).
+Bước 2: Cấp lại giấy chứng nhận đăng ký xe, biển số xe. 
+Nộp hồ sơ đề nghị tại bộ phận tiếp nhận và trả kết quả tại Công an cấp xã được phân cấp đăng ký xe.
+Cán bộ tiếp nhận kiểm tra giấy tờ của chủ xe, giấy chứng nhận đăng ký xe hoặc biển số xe (nếu có).
+Trường hợp chủ xe khai đăng ký xe trực tuyến trên Cổng Dịch vụ công quốc gia. Dữ liệu điện tử giấy khai đăng ký xe trực tuyến sẽ được Cổng Dịch vụ công quốc gia truyền về hệ thống đăng ký xe của Cục Cảnh sát giao thông, hệ thống tự động ra thông báo cho chủ xe. Chủ xe mang xe, hồ sơ xe đến cơ quan đăng ký xe để thực hiện đăng ký xe theo quy định. Các thông tin trong Giấy khai đăng ký xe trực tuyến do chủ xe kê khai, bao gồm dữ liệu điện tử về lệ phí trước bạ (nếu có), chứng từ chuyển quyền sở hữu (nếu có). 
+Bước 3: Cán bộ tiếp nhận kiểm tra giấy tờ của chủ xe, giấy khai đăng ký xe.
+Trường hợp mất giấy chứng nhận đăng ký xe, biển số xe: Lập 02 bản thông báo ghi rõ họ tên, địa chỉ chủ xe, biển số xe, số máy, số khung, nhãn hiệu, số loại, loại xe (01 bản niêm yết công khai tại trụ sở, 01 bản lưu trong hồ sơ xe).
+Nếu hồ sơ đăng ký xe không đảm bảo thủ tục theo quy định thì hướng dẫn cụ thể, đầy đủ một lần cho chủ xe hoàn thiện hồ sơ theo quy định.
+Bước 4: Tìm kiếm xe trên hệ thống đăng ký, quản lý, kiểm tra đối chiếu kê khai của chủ xe. Hồ sơ đăng ký xe đầy đủ theo quy định: Cấp giấy hẹn cho chủ xe theo quy định.
+Bước 5: Thu lệ phí cấp đăng ký, biển số xe theo quy định.
+Bước 6: Thu giấy hẹn, trả giấy chứng nhận đăng ký xe, biển số xe cho chủ xe.

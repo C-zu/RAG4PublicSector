@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp văn bản chấp thuận cho tàu cá khai thác thuỷ sản ở vùng biển ngoài vùng biển Việt Nam hoặc cấp phép cho đi khai thác tại vùng biển thuộc thẩm quyền quản lý của Tổ chức nghề cá khu vực
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|||
+|Trực tuyến|10 Ngày làm việc|||
+|Dịch vụ bưu chính|10 Ngày làm việc|||

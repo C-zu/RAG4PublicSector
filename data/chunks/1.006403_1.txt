@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện Quyết định chủ trương đầu tư của UBND tỉnh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006403
+Số quyết định:
+02/QĐ-UBND
+Tên thủ tục:
+Thủ tục cấp giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện Quyết định chủ trương đầu tư của UBND tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam

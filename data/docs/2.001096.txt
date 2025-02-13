@@ -1,0 +1,80 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001096
+Số quyết định:
+357/QĐ-BKHĐT
+Tên thủ tục:
+Thẩm định báo cáo nghiên cứu tiền khả thi, quyết định chủ trương đầu tư dự án do nhà đầu tư đề xuất
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đấu thầu
+Trình tự thực hiện:
+- Cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về PPP quyết định chủ trương đầu tư dự án.
+- Nhà đầu tư lập hồ sơ đề xuất dự án gửi Bộ, ngành;
+- Đơn vị được Bộ, ngành giao nhiệm vụ tổ chức thẩm định Báo cáo nghiên cứu tiền khả thi;
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Đối với dự án nhóm A: Tối đa 60 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; - Đối với dự án nhóm B: Tối đa 30 ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : 0 Đồng Không có|- Trực tiếp tại cơ quan của đơn vị thẩm định, cơ quan Nhà nước có thẩm quyền; bằng văn bản.|
+
+Thành phần hồ sơ:
+
+(1) Hồ sơ đề xuất dự án nhà đầu tư:
+- 01 Bản chính - Văn bản đề xuất thực hiện dự án, bao gồm cam kết chịu mọi chi phí, rủi ro nếu hồ sơ đề xuất dự án không được chấp thuận;
+- 01 Bản chính Báo cáo nghiên cứu tiền khả thi;
+- 01 Bản chính - Hồ sơ về tư cách pháp lý, năng lực, kinh nghiệm của nhà đầu tư;
+- 01 Bản chính - Các tài liệu cần thiết khác để giải trình hồ sơ đề xuất dự án (nếu có).
+
+
+(2) Cơ quan quyết định chủ trương đầu tư:
+- 01 Bản chính - Tờ trình cấp có thẩm quyền quyết định chủ trương đầu tư;
+- 01 Bản chính - Báo cáo nghiên cứu tiền khả thi;
+- 01 Bản chính - Báo cáo thẩm định báo cáo nghiên cứu tiền khả thi; ([Phu luc II_ TT 09.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faacd8ad53603a0'))
+- 01 Bản chính - Báo cáo thẩm định về nguồn vốn và khả năng cân đối vốn theo pháp luật về đầu tư công đối với dự án sử dụng vốn đầu tư công làm phần phần Nhà nước tham gia trong dự án PPP;
+- 01 Bản chính - Văn bản có ý kiến của cơ quan tài chính theo quy định của pháp luật về ngân sách nhà nước đối với dự án sử dụng nguồn chi thường xuyên hoặc nguồn thu từ hoạt động cung cấp dịch vụ công làm vốn thanh toán cho nhà đầu tư.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Quốc Hội, Thủ tướng Chính phủ, Bộ trưởng, Cơ quan Nhà nước (Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Thủ trưởng tổ chức khoa học và công nghệ công lập)
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chủ trương đầu tư.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|49/2014/QH13|Luật 49/2014/QH13|18-06-2014|Quốc Hội|
+|63/2018/NĐ-CP|Nghị định 63/2018/NĐ-CP|04-05-2018|Chính phủ|
+|09/2018/TT-BKHĐT|Thông tư 09/2018/TT-BKHĐT|28-12-2018|Bộ Kế hoạch và Đầu tư|
+
+Yêu cầu, điều kiện thực hiện:
+- Dự án do nhà đầu tư đề xuất phải đáp ứng các điều kiện sau:
++ Phù hợp với quy hoạch phát triển ngành, lĩnh vực; quy hoạch và kế hoạch phát triển kinh tế - xã hội đã được cấp có thẩm quyền phê duyệt;
++ Phù hợp với lĩnh vực được khuyến khích đầu tư theo hình thức PPP;
++Không trùng lặp với các dự án đã có quyết định chủ trương đầu tư, quyết định đầu tư;
++ Có khả năng thu hồi vốn cho nhà đầu tư;
++ Phù hợp với khả năng cân đối phần Nhà nước tham gia trong dự án PPP;
++ Có báo cáo đánh giá tác động môi trường theo quy định của pháp luật về bảo vệ môi trường.
+- Nhà đầu tư là doanh nghiệp nhà nước phải liên danh với doanh nghiệp khác để đề xuất dự án nhưng phải bảo đảm cạnh tranh trong đấu thầu theo quy định của pháp luật về đấu thầu.
+- Dự án do nhà đầu tư đề xuất phải đáp ứng các điều kiện sau:
++ Phù hợp với quy hoạch phát triển ngành, lĩnh vực; quy hoạch và kế hoạch phát triển kinh tế - xã hội đã được cấp có thẩm quyền phê duyệt;
++ Phù hợp với lĩnh vực được khuyến khích đầu tư theo hình thức PPP;
++Không trùng lặp với các dự án đã có quyết định chủ trương đầu tư, quyết định đầu tư;
++ Có khả năng thu hồi vốn cho nhà đầu tư;
++ Phù hợp với khả năng cân đối phần Nhà nước tham gia trong dự án PPP;
++ Có báo cáo đánh giá tác động môi trường theo quy định của pháp luật về bảo vệ môi trường.
+- Nhà đầu tư là doanh nghiệp nhà nước phải liên danh với doanh nghiệp khác để đề xuất dự án nhưng phải bảo đảm cạnh tranh trong đấu thầu theo quy định của pháp luật về đấu thầu.
+Từ khóa:
+Thẩm định, báo cáo, nghiên cứu tiền khả thi, quyết định chủ trương đầu tư, dự án do nhà đầu tư đề xuất
+Mô tả:
+Không có thông tin

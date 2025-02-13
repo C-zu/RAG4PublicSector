@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận đủ điều kiện tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với doanh nghiệp đã được cấp phép kinh doanh dịch vụ viễn thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Thời hạn: 15 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. Nộp trực tiếp tại Cục Viễn thông, địa chỉ: số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội.|
+|Trực tuyến|15 Ngày||15 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ http://dichvucong.mic.gov.vn hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/.|
+|Dịch vụ bưu chính|15 Ngày||15 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. Nộp qua dịch vụ bưu chính; (Địa chỉ Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội).|

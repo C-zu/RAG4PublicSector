@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn thuê đất trong khu kinh tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : Theo quy định của Nghị quyết Hội đồng nhân dân tỉnh.|Không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (không kể thời gian thẩm định nhu cầu sử dụng đất, thời gian xác định giá đất cụ thể, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất).|
+|Trực tuyến|10 Ngày làm việc|Phí : Theo quy định của Nghị quyết Hội đồng nhân dân tỉnh.|Không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (không kể thời gian thẩm định nhu cầu sử dụng đất, thời gian xác định giá đất cụ thể, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất).|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : Theo quy định của Nghị quyết Hội đồng nhân dân tỉnh.|Không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (không kể thời gian thẩm định nhu cầu sử dụng đất, thời gian xác định giá đất cụ thể, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất).|

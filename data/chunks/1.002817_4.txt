@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép liên vận GMS hoặc sổ TAD
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị cấp Giấy phép liên vận GMS hoặc sổ TAD theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea3b072b23aa8b'">Mẫu.docx</a>)
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký xe ô tô hoặc bản sao giấy hẹn nhận Giấy chứng nhận đăng ký xe ô tô của cơ quan cấp đăng ký hoặc bản sao từ sổ gốc của Giấy chứng nhận đăng ký xe ô tô. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải phải xuất trình thêm bản sao một trong các giấy tờ sau: Hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh.

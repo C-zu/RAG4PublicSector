@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam, vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004483
+Số quyết định:
+3246/QĐ-BYT
+Tên thủ tục:
+Cấp phép nhập khẩu thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam, vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

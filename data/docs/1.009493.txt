@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009493
+Số quyết định:
+1643/QĐ-BKHĐT
+Tên thủ tục:
+Thẩm định nội dung điều chỉnh chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư theo phương thức đối tác công tư
+Trình tự thực hiện:
+Trình tự thẩm định nội dung điều chỉnh chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất đối với dự án thuộc thẩm quyền quyết định chủ trương đầu tư của Hội đồng nhân dân cấp tỉnh
+- Nhà đầu tư lập nội dung điều chỉnh báo cáo nghiên cứu tiền khả thi làm cơ sở trình Bộ trưởng, người đứng đầu cơ quan trung ương, cơ quan khác xem xét, quyết định;
+- Hội đồng thẩm định cấp cơ sở hoặc đơn vị được giao nhiệm vụ thẩm định nội dung điều chỉnh báo cáo nghiên cứu tiền khả thi;
+- Cơ quan chuyên môn quản lý đầu tư công tại địa phương chủ trì thẩm định nguồn vốn và khả năng cân đối vốn đầu tư công theo quy định của pháp luật về đầu tư công trong trường hợp dự án PPP sử dụng vốn đầu tư công, gửi Hội đồng thẩm định cấp cơ sở hoặc đơn vị được giao nhiệm vụ thẩm định;
+- Hội đồng thẩm định cấp cơ sở hoặc đơn vị được giao nhiệm vụ thẩm định hoàn thành và gửi báo cáo thẩm định đến cơ quan, đơn vị chủ trì tiếp nhận hồ sơ đề xuất;
+- Cơ quan, đơn vị chủ trì tiếp nhận hồ sơ đề xuất hoàn chỉnh hồ sơ làm cơ sở để Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh xem xét, quyết định;
+- Hội đồng nhân dân cấp tỉnh quyết định chủ trương đầu tư dự án.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Thời hạn thẩm định: Không quá 30 ngày. - Thời hạn phê duyệt quyết định điều chỉnh chủ trương đầu tư dự án PPP: Không quá 15 ngày.|Phí : 0 Đồng Không có|Trực tiếp bằng văn bản tại Hội đồng thẩm định cấp cơ sở hoặc đơn vị trực thuộc được giao thực hiện nhiệm vụ thẩm định đối với dự án thuộc thẩm quyền quyết định chủ trương đầu tư của Hội đồng nhân dân cấp tỉnh.|
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị quyết định điều chỉnh chủ trương đầu tư dự án PPP bao gồm:
+- 01 Bản chính, 09 Bản sao + Tờ trình đề nghị phê duyệt nội dung điều chỉnh chủ trương đầu tư;
+- 01 Bản chính, 09 Bản sao + Dự thảo quyết định điều chỉnh chủ trương đầu tư; ([Phu luc II Mau so 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe84d36dd0c8724'))
+- 01 Bản chính, 09 Bản sao + Nội dung điều chỉnh báo cáo nghiên cứu tiền khả thi; ([Phu luc II Mau so 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7c7faf71c3eb4'))
+- 01 Bản chính, 09 Bản sao + Báo cáo thẩm định, thẩm tra đối với các nội dung điều chỉnh. ([Phu luc II Mau so 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc93dd65e02e74c'))
+- 01 Bản chính, 09 Bản sao + Tài liệu pháp lý khác có liên quan của dự án. ([Phu luc I.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe51b627833e642'))
+
+
+- Hồ sơ đề nghị thẩm định điều chỉnh quyết định chủ trương đầu tư dự án PPP bao gồm:
+- 01 Bản chính, 09 Bản sao + Văn bản đề nghị thẩm định;
+- 01 Bản chính, 09 Bản sao + Dự thảo tờ trình đề nghị điều chỉnh chủ trương đầu tư;
+- 01 Bản chính, 09 Bản sao + Nội dung điều chỉnh báo cáo nghiên cứu tiền khả thi; ([Phu luc II Mau so 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8495001efbf42'))
+- 01 Bản chính, 09 Bản sao + Văn bản chấp thuận nhà đầu tư lập báo cáo nghiên cứu tiền khả thi;
+- 01 Bản chính, 09 Bản sao + Quyết định sử dụng tài sản công để tham gia dự án PPP theo quy định của pháp luật về quản lý, sử dụng tài sản công (trường hợp dự án sử dụng tài sản công làm vốn nhà nước hỗ trợ xây dựng công trình, hệ thống cơ sở hạ tầng);
+- 01 Bản chính, 09 Bản sao + Tài liệu pháp lý khác có liên quan của dự án. ([Phu luc I.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea54a4c0dd844c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Hội đồng nhân dân tỉnh, Ủy ban nhân dân cấp Tỉnh, Hội đồng thẩm định cấp cơ sở
+Cơ quan có thẩm quyền:
+Hội đồng nhân dân tỉnh
+Địa chỉ tiếp nhận HS:
+Tại cơ quan hành chính nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Báo cáo thẩm định, thẩm tra đối với các nội dung điều chỉnh quyết định chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất;, Quyết định điều chỉnh chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|35/2021/NĐ-CP|Nghị định số 35/2021/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư theo phương thức đối tác công tư và lựa chọn nhà đầu tư|29-03-2021|Chính phủ|
+|64/2020/QH14|Luật Đầu tư theo phương thức đối tác công tư|18-06-2020|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Thẩm định, nội dung, điều chỉnh, chủ trương, đầu tư, quyết định, điều chỉnh, chủ trương, đầu tư dự án, PPP do nhà đầu tư, đề xuất
+Mô tả:
+Không có thông tin

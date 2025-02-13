@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký kê khai số lượng chăn nuôi tập trung và nuôi trồng thủy sản ban đầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xác nhận kê khai số lượng chăn nuôi tập trung và nuôi trồng thủy sản ban đầu
+- 01 Bản chính Bản Kê khai chăn nuôi tập trung (hoặc nuôi trồng thủy sản) ban đầu theo mẫu BM.PCTT.X.03.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefa58bc7821cde'">Bang ke khai.docx</a>)

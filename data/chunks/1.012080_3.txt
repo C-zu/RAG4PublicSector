@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lần đầu Giấy chứng nhận đăng ký thành lập của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận được hồ sơ hợp lệ|
+|Trực tuyến|10 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : Đồng Phí bưu chính|Kể từ ngày nhận được hồ sơ hợp lệ|

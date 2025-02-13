@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 01 Đơn đề nghị cấp lại Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp theo Mẫu số 04; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe30fa3d63a8d80'">Mẫu số 04.docx</a>)

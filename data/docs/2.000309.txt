@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000309
+Số quyết định:
+1299/QĐ-BCT
+Tên thủ tục:
+Đăng ký hoạt động bán hàng đa cấp tại địa phương
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý bán hàng đa cấp
+Trình tự thực hiện:
+- Doanh nghiệp nộp hồ sơ đăng ký hoạt động bán hàng đa cấp tại địa phương tới Sở Công Thương nơi doanh nghiệp dự kiến hoạt động.
+- Tiếp nhận hồ sơ: Sở Công Thương tiếp nhận hồ sơ và xem xét tình đầy đủ, hợp lệ. Trường hợp hồ sơ chưa đảm bảo tính đầy đủ, hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Công Thương thông báo cho doanh nghiệp sửa đổi, bổ sung hồ sơ. Thời hạn sửa đổi, bổ sung hồ sơ không quá 15 ngày làm việc kể từ ngày Sở Công Thương ban hành thông báo. Sở Công Thương trả lại hồ sơ trong trường hợp doanh nghiệp không sửa đổi, bổ sung hồ sơ trong thời hạn nêu trên.
+- Xác nhận đăng ký hoạt động bán hàng đa cấp tại địa phương: Trường hợp hồ sơ đã đầy đủ, hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Công Thương gửi cho doanh nghiệp văn bản xác nhận đăng ký hoạt động bán hàng đa cấp tại địa phương theo Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP. Trường hợp từ chối xác nhận, Sở Công Thương có trách nhiệm trả lời bằng văn bản, trong đó nêu rõ lý do từ chối.
+Trong thời hạn 05 ngày làm việc kể từ ngày ban hành văn bản xác nhận đăng ký hoạt động bán hàng đa cấp tại địa phương, Sở Công Thương có trách nhiệm công bố trên trang thông tin điện tử của Sở Công Thương và gửi bản sao văn bản xác nhận tới Bộ Công Thương bằng một trong các cách thức sau: Gửi qua dịch vụ bưu chính; Thư điện tử; Hệ thống công nghệ thông tin quản lý bán hàng đa cấp của Ủy ban Cạnh tranh Quốc gia.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||10 ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký hoạt động bán hàng đa cấp tại địa phương theo Mẫu số 07 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP; ([Mẫu số 07.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4e6a29776d054'))
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký hoạt động bán hàng đa cấp;
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, giấy chứng nhận đăng ký địa điểm kinh doanh (nếu có).
+- 01 Bản chính Trường hợp không có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại địa phương, doanh nghiệp cung cấp các giấy tờ liên quan đến đầu mối tại địa phương, bao gồm: 01 bản sao được chứng thực chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu; 01 bản chính hoặc bản sao có chứng thực Phiếu lý lịch tư pháp; 01 bản sao chứng thực xác nhận kiến thức cho đầu mối tại địa phương; 01 văn bản chỉ định quy định rõ phạm vi công việc, quyền và nghĩa vụ của các bên.
+- 01 Bản chính Danh sách người tham gia bán hàng đa cấp cư trú tại địa phương đến thời điểm nộp hồ sơ trong trường hợp doanh nghiệp đã có hoạt động bán hàng đa cấp tại địa phương trước thời điểm Nghị định số 40/2018/NĐ-CP có hiệu lực (danh sách ghi rõ: Họ tên, ngày tháng năm sinh, địa chỉ nơi cư trú (thường trú hoặc tạm trú trong trường hợp không cư trú tại nơi thường trú), số chứng minh nhân dân hoặc số căn cước công dân hoặc số hộ chiếu, số hợp đồng tham gia bán hàng đa cấp, mã số người tham gia, điện thoại liên hệ của người tham gia bán hàng đa cấp) tới Sở Công Thương nơi doanh nghiệp dự kiến hoạt động.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký hoạt động bán hàng đa cấp tại địa phương
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Nghị định 40/2018/NĐ-CP|Về quản lý hoạt động kinh doanh theo phương thức đa cấp|12-03-2018|Chính phủ|
+|03/2023/NĐ-CP|Nghị định 03/2023/NĐ-CP|10-02-2023||
+|18/2023/NĐ-CP|NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 40/2018/NĐ-CP NGÀY 12 THÁNG 3 NĂM 2018 CỦA CHÍNH PHỦ VỀ QUẢN LÝ HOẠT ĐỘNG KINH DOANH THEO PHƯƠNG THỨC ĐA CẤP|28-04-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp không có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại địa phương, doanh nghiệp bán hàng đa cấp có trách nhiệm chỉ định một cá nhân cư trú tại địa phương làm đầu mối làm việc với các cơ quan quản lý nhà nước tại địa phương đó. Đầu mối làm việc của doanh nghiệp bán hàng đa cấp tại địa phương phải đáp ứng các điều kiện sau:
+a) Không thuộc trường hợp Người đang chấp hành hình phạt tù hoặc có tiền án về các tội sản xuất, buôn bán hàng giả, sản xuất, buôn bán hàng cấm, quảng cáo gian dối, lừa dối khách hàng, lừa đảo chiếm đoạt tài sản, lạm dụng tín nhiệm chiếm đoạt tài sản, chiếm giữ trái phép tài sản, tội vi phạm quy định về kinh doanh theo phương thức đa cấp;
+b) Đã được cấp xác nhận kiến thức cho đầu mối tại địa phương;
+c) Được doanh nghiệp giao quyền để làm việc, cung cấp thông tin, tài liệu liên quan đến hoạt động bán hàng đa cấp của doanh nghiệp tại địa phương theo yêu cầu của cơ quan quản lý nhà nước về kinh doanh theo phương thức đa cấp.
+Trường hợp không có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại địa phương, doanh nghiệp bán hàng đa cấp có trách nhiệm chỉ định một cá nhân cư trú tại địa phương làm đầu mối làm việc với các cơ quan quản lý nhà nước tại địa phương đó. Đầu mối làm việc của doanh nghiệp bán hàng đa cấp tại địa phương phải đáp ứng các điều kiện sau:
+a) Không thuộc trường hợp Người đang chấp hành hình phạt tù hoặc có tiền án về các tội sản xuất, buôn bán hàng giả, sản xuất, buôn bán hàng cấm, quảng cáo gian dối, lừa dối khách hàng, lừa đảo chiếm đoạt tài sản, lạm dụng tín nhiệm chiếm đoạt tài sản, chiếm giữ trái phép tài sản, tội vi phạm quy định về kinh doanh theo phương thức đa cấp;
+b) Đã được cấp xác nhận kiến thức cho đầu mối tại địa phương;
+c) Được doanh nghiệp giao quyền để làm việc, cung cấp thông tin, tài liệu liên quan đến hoạt động bán hàng đa cấp của doanh nghiệp tại địa phương theo yêu cầu của cơ quan quản lý nhà nước về kinh doanh theo phương thức đa cấp.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

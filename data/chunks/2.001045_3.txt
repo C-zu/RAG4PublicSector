@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn giấy đăng ký lưu hành vị thuốc cổ truyền
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Tháng|Phí : 4.500.000 Đồng|Trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ xem xét phê duyệt danh mục vị thuốc cổ truyền gia hạn giấy đăng ký lưu hành.|
+|Trực tuyến|1 Tháng|Phí : 4.500.000 Đồng|Trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ xem xét phê duyệt danh mục vị thuốc cổ truyền gia hạn giấy đăng ký lưu hành.|
+|Dịch vụ bưu chính|1 Tháng|Phí : 4.500.000 Đồng|Trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ xem xét phê duyệt danh mục vị thuốc cổ truyền gia hạn giấy đăng ký lưu hành.|

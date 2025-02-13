@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời một phần lòng đường của hệ thống đường địa phương không vì mục đích giao thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Trong 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|7 Ngày làm việc||Trong 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.|

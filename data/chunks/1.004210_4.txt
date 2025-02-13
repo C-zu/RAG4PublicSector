@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép thành lập văn phòng đại diện tại Việt Nam của nhà xuất bản nước ngoài, tổ chức phát hành xuất bản phẩm nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp hồ sơ bằng tiếng nước ngoài thì phải có bản dịch sang tiếng Việt được công chứng
+- 01 Bản chính Đơn đề nghị cấp giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe046fbe5108546'">Mẫu số 39- Đơn ĐN Cấp, cấp lại GP Thành lập VPDD (sửa).doc</a>)
+- 01 Bản chính Văn bản của cơ quan có thẩm quyền nước ngoài xác nhận nhà xuất bản, tổ chức phát hành xuất bản phẩm đang hoạt động hợp pháp tại nước đặt trụ sở chính
+- 01 Bản chính, 01 Bản sao Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu bằng tốt nghiệp đại học trở lên, phiếu lý lịch tư pháp hoặc giấy tờ chứng minh được phép thường trú tại Việt Nam của người đứng đầu văn phòng đại diện do cơ quan có thẩm quyền của Việt Nam cấp

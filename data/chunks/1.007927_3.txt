@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 ngày làm việc (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân)|Phí : Đồng Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón (trừ cơ sở chỉ hoạt động đóng gói phân bón): 6.000.000 đồng/01 cơ sở/lần. - Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón đối với cơ sở chỉ hoạt động đóng gói phân bón: 3.000.000 đồng/01 cơ sở/lần||
+|Trực tuyến|25 ngày làm việc (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân)|Phí : Đồng Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón (trừ cơ sở chỉ hoạt động đóng gói phân bón): 6.000.000 đồng/01 cơ sở/lần. - Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón đối với cơ sở chỉ hoạt động đóng gói phân bón: 3.000.000 đồng/01 cơ sở/lần||
+|Dịch vụ bưu chính|25 ngày làm việc (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân)|Phí : Đồng Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón (trừ cơ sở chỉ hoạt động đóng gói phân bón): 6.000.000 đồng/01 cơ sở/lần. - Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón đối với cơ sở chỉ hoạt động đóng gói phân bón: 3.000.000 đồng/01 cơ sở/lần||

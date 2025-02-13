@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký nghiên cứu thử thuốc trên lâm sàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký nghiên cứu thử thuốc trên lâm sàng (Mẫu số 06 – Phụ lục III) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6d457fb52f420'">phụ lục (20).docx</a>)
+- 01 Bản chính Hồ sơ thông tin sản phẩm nghiên cứu (thông tin chung về thuốc thử lâm sàng: tên, thành phần, chỉ định, tính chất vật lý, hóa học, bào chế và các thông tin liên quan khác); tài liệu nghiên cứu tiền lâm sàng; tài liệu nghiên cứu thử thuốc trên lâm sàng các giai đoạn trước) bằng tiếng Việt hoặc bằng tiếng Anh kèm theo bản tóm tắt bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6901142913f20'">phụ lục (21).docx</a>)

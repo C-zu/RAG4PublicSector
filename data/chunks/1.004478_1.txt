@@ -1,0 +1,16 @@
+Tên thủ tục: Công bố mở cảng cá loại 3
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004478
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Công bố mở cảng cá loại 3
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản

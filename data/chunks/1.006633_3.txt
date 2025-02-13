@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép thành lập Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam (Sở Công Thương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; - Trường hợp gửi lấy ý kiến của Bộ quản lý chuyên ngành: 13 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : 3.000.000 Đồng||
+|Trực tuyến|- Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; - Trường hợp gửi lấy ý kiến của Bộ quản lý chuyên ngành: 13 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : 3.000.000 Đồng|Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình).|
+|Dịch vụ bưu chính|- Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; - Trường hợp gửi lấy ý kiến của Bộ quản lý chuyên ngành: 13 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : 3.000.000 Đồng||

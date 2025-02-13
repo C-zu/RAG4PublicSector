@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục công nhận Doanh nghiệp ưu tiên
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp gửi hồ sơ đề nghị công nhận là doanh nghiệp ưu tiên.
+Bước 2: Tổng cục Hải quan thẩm định điều kiện doanh nghiệp ưu tiên.
+Bước 3: Tổng cục Hải quan và doanh nghiệp tiến hành ký bản ghi nhớ.
+Bước 4: Tổng cục Hải quan quyết định công nhận doanh nghiệp ưu tiên.

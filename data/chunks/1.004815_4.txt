@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký mã số cơ sở nuôi, trồng các loài động vật rừng, thực vật rừng nguy cấp, quý, hiếm Nhóm II và động vật, thực vật hoang dã nguy cấp thuộc Phụ lục II và III CITES
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đề nghị cấp mã số cơ sở nuôi, trồng theo Mẫu số 03 quy định tại Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feacabd45382f78'">Mẫu số 03.docx</a>)
+- 01 Bản chính - Bản chính Phương án nuôi theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 84/2021/NĐ-CP ngày 22/9/2021 của Chính phủ (đối với động vật). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1d1eab6860a6d'">PHỤ LỤC IV.docx</a>)
+- 01 Bản chính - Bản chính phương án trồng theo Mẫu số 07 tại Phụ lục ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ (đối với thực vật). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd509ec39bb6f66'">Mẫu số 07.docx</a>)

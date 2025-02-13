@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp bản sao văn bản chứng nhận đăng ký biện pháp bảo đảm bằng tàu biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+(I) Hồ sơ bao gồm:
+- 01 Bản chính Phiếu yêu cầu theo Mẫu số 11c tại Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb727998228a42'">Mau so 11c_Phieu yeu cau cap ban sao.docx</a>)
+
+
+(II) Tùy từng trường hợp thì nộp thêm:
+- 01 Bản sao (i) Trường hợp thực hiện thông qua người đại diện thì văn bản có nội dung về đại diện là tài liệu phải có trong hồ sơ đăng ký, hồ sơ cung cấp thông tin (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu), trừ trường hợp thực hiện việc đăng ký qua tài khoản đăng ký trực tuyến của người đại diện quy định tại khoản 2 Điều 24 Nghị định số 99/2022/NĐ-CP (khoản 7 Điều 8 Nghị định số 99/2022/NĐ-CP, khoản 4 Điều 24 Nghị định số 99/2022/NĐ-CP).
+- 01 Bản sao (ii) Trường hợp chi nhánh của pháp nhân, chi nhánh hoặc phòng giao dịch của pháp nhân là tổ chức tín dụng (sau đây gọi là chi nhánh của pháp nhân) được pháp nhân giao nhiệm vụ thực hiện chức năng của pháp nhân về yêu cầu đăng ký, về yêu cầu cung cấp thông tin thì văn bản có nội dung về việc pháp nhân giao nhiệm vụ cho chi nhánh thực hiện chức năng của pháp nhân trong yêu cầu đăng ký, yêu cầu cung cấp thông tin là tài liệu phải có trong hồ sơ đăng ký, hồ sơ cung cấp thông tin (01 bản chính hoặc 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu) (khoản 8 Điều 8 Nghị định số 99/2022/NĐ-CP).
+- 01 Bản sao (iii) Trường hợp bên bảo đảm hoặc bên nhận bảo đảm gồm nhiều người thì phải có đầy đủ chữ ký, con dấu (nếu có) của các chủ thể này, trừ trường hợp có văn bản thể hiện nội dung về việc một, một số bên bảo đảm hoặc bên nhận bảo đảm có quyền đại diện cho những người còn lại (khoản 4 Điều 12 Nghị định số 99/2022/NĐ-CP).

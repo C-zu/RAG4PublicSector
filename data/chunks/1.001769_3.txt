@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép hoạt động đối với phòng khám bác sỹ gia đình thuộc phòng khám đa khoa tư nhân hoặc khoa khám bệnh của bệnh viện đa khoa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|90 Ngày|Lệ phí : 4.300.000 Đồng Phí thẩm định bổ sung phạm vi hoạt động chuyên môn  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe86403f243588a'">VanBanGoc_278-2016-TT-BTC.pdf</a>|Trong thời hạn 90 ngày, kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|90 Ngày|Lệ phí : 4.300.000 Đồng Phí thẩm định bổ sung phạm vi hoạt động chuyên môn  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7a583ccb66d6e'">VanBanGoc_278-2016-TT-BTC.pdf</a>|Trong thời hạn 90 ngày, kể từ ngày nhận đủ hồ sơ.|

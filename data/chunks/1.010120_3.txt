@@ -1,0 +1,8 @@
+Tên thủ tục: Phê duyệt phương án bố trí, sắp xếp ngành nghề kinh doanh, sử dụng địa điểm kinh doanh tại chợ đối với chợ hạng 1
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : Miễn phí|Chủ thể kinh doanh và khai thác chợ nộp hồ sơ trực tiếp tại Bộ phận tiếp nhận và trả kết quả của Sở Công Thương tại Trung tâm phục vụ hành chính công tỉnh Bắc Kạn.|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : Miễn phí|Chủ thể kinh doanh và khai thác chợ nộp hồ sơ qua dịch vụ BCCI về Bộ phận tiếp nhận và trả kết quả của Sở Công Thương tại Trung tâm phục vụ hành chính công tỉnh Bắc Kạn.|

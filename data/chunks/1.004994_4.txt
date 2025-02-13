@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới sản xuất, lắp ráp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+hồ sơ thiết kế (Trường hợp nộp trực tiếp hoặc qua đường bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế theo quy định thì nộp thêm 01 bộ tài liệu (Thuyết minh thiết kế kỹ thuật xe cơ giới và Bản vẽ kỹ thuật) hoặc 02 bộ đối với trường hợp cơ sở thiết kế khác cơ sở sản xuất)
+- 01 Bản chính + Thuyết minh thiết kế kỹ thuật xe cơ giới (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản dạng điện tử đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc79f6fb6cf5f70'">Mẫu.docx</a>)
+- 01 Bản chính + Bản vẽ kỹ thuật (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản dạng điện tử đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec7b7b0a8ca7b0'">Mẫu.docx</a>)
+- 01 Bản sao + Bản thông số, tính năng kỹ thuật của các tổng thành, hệ thống liên quan tới nội dung tính toán thiết kế (Bản sao có xác thực của cơ sở thiết kế đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản sao điện tử đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến).
+
+
+Bao gồm
+- 01 Bản chính - 01 bản chính hoặc biểu mẫu điện tử văn bản đề nghị thẩm định thiết kế;
+- 01 Bản chính - 01 hồ sơ thiết kế.

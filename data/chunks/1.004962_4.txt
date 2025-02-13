@@ -1,0 +1,8 @@
+Tên thủ tục: Hiệp thương, giải quyết tranh chấp trong kinh doanh dịch vụ viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị giải quyết tranh chấp có dấu và chữ ký của người đại diện theo pháp luật của doanh nghiệp (ký, đóng dầu); Đối với đề nghị giải quyết tranh chấp trong kết nối, mẫu đơn đề nghị theo mẫu tại phụ lục số 06 ban hành kèm theo Thông tư số 07/2015/TT-BTTT ngày 24/3/2015. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3036f102d6f4e'">Phụ lục 06.docx</a>)
+- 01 Bản chính Các thông tin, chứng cứ, tài liệu liên quan (nếu có).

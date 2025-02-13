@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời một phần hè phố để trông giữ xe có thu phícủa hệ thống đường địa phương đang khai thác thuộc phạm vi quản lý của UBND thành phố hoặc UBND huyện
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Các phòng chuyên môn trực thuộc UBND cấp huyện, UBND cấp huyện
+Cơ quan có thẩm quyền:
+Các phòng chuyên môn trực thuộc UBND cấp huyện
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả cấp huyện
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật Giao thông đường bộ|13-11-2008|Quốc Hội|
+|11/2010/NĐ-CP|Nghị định Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|24-02-2010|Chính phủ|
+|39/2011/TT-BGTVT|Thông tư hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|18-05-2011|Bộ Giao thông vận tải|
+|18/2014/QĐ-UBND|Quyết định ban hành quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ đối với đường địa phương trên địa bàn tỉnh bà rịa - vũng tàu|22-04-2014|Văn phòng UBND tỉnh BR-VT - tỉnh BR-VT|

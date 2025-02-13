@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định báo cáo nghiên cứu tiền khả thi, quyết định chủ trương đầu tư dự án do nhà đầu tư đề xuất
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Đối với dự án nhóm A: Tối đa 60 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; - Đối với dự án nhóm B: Tối đa 30 ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : 0 Đồng Không có|- Trực tiếp tại cơ quan của đơn vị thẩm định, cơ quan Nhà nước có thẩm quyền; bằng văn bản.|

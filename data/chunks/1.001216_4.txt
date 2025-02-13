@@ -1,0 +1,11 @@
+Tên thủ tục: Chuyển đổi loại hình Văn phòng giám định tư pháp cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị chuyển đổi
+- 01 Bản chính Đề án chuyển đổi loại hình hoạt động, trong đó nêu rõ lý do chuyển đổi, tình hình tổ chức và hoạt động của Văn phòng giám định tư pháp tính đến ngày đề nghị chuyển, đổi, dự kiến về tổ chức, tên gọi, địa điểm đặt trụ sở, nhân sự, điều kiện vật chất, trang thiết bị, phương tiện giám định
+- 01 Bản chính Bản sao quyết định bổ nhiệm giám định viên tư pháp là thành viên hợp danh của Văn phòng
+- 01 Bản chính Quyết định cho phép thành lập Văn phòng
+- 01 Bản chính Dự thảo Quy chế mới về tổ chức, hoạt động của Văn phòng

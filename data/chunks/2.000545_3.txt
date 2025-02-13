@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép thành lập cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông có vốn đầu tư nước ngoài tại Việt Nam theo đề nghị của cơ quan đại diện ngoại giao nước ngoài, tổ chức quốc tế liên chính phủ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Trong thời hạn 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|30 Ngày||Trong thời hạn 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001158
+Số quyết định:
+1337/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ

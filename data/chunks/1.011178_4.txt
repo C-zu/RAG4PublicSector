@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục Gia hạn thời gian lưu hành tại Việt Nam cho phượng tiện của Campuchia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị Gia hạn thời gian lưu hành của phương tiện tại Việt Nam theo Mẫu số 08 Phụ lục V của Nghị định này; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdef3c4e6987f04'">3. TTHC SỐ 03 Phu luc.docx</a>)
+- 01 Bản chính Giấy phép liên vận giữa Việt Nam và Campuchia (bản chính).

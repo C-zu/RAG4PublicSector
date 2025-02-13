@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009835
+Số quyết định:
+546/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ đến Cục ATBXHN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cục ATBXHN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí đối với hồ sơ hợp lệ và phí, lệ phí (nếu có) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nểu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ và phí, lệ phí (nếu có), Cục ATBXHN tổ chức thẩm định và cấp giấy phép tiến hành công việc bức xạ -Xây dựng cơ sở bức xạ.
+Trường hợp không cấp giấy phép, Cục ATBXHN trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : 15.000.000 Đồng Xây dựng cơ sở bức xạ khác: 15.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Xây dựng cơ sở sản xuất, chế biến chất phóng xạ: 25.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Cơ sở xử lý, lưu giữ chất thải phóng xạ có hoạt độ lớn hơn 10.000 lần mức miễn trừ: 25.000.000 đồng/1 cơ sở.  Phí : 40.000.000 Đồng Kho lưu giữ chất thải phóng xạ quốc gia: 40.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Trực tuyến|45 Ngày|Phí : 15.000.000 Đồng Xây dựng cơ sở bức xạ khác: 15.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Cơ sở xử lý, lưu giữ chất thải phóng xạ có hoạt độ lớn hơn 10.000 lần mức miễn trừ: 25.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Xây dựng cơ sở sản xuất, chế biến chất phóng xạ: 25.000.000 đồng/1 cơ sở.  Phí : 40.000.000 Đồng Kho lưu giữ chất thải phóng xạ quốc gia: 40.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Dịch vụ bưu chính|45 Ngày|Phí : 15.000.000 Đồng Xây dựng cơ sở bức xạ khác: 15.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Xây dựng cơ sở sản xuất, chế biến chất phóng xạ: 25.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Cơ sở xử lý, lưu giữ chất thải phóng xạ có hoạt độ lớn hơn 10.000 lần mức miễn trừ: 25.000.000 đồng/1 cơ sở.  Phí : 40.000.000 Đồng Kho lưu giữ chất thải phóng xạ quốc gia: 40.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ ([Mau 1_Don CP tien hanh CVBX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedce3c5cfc410b'))
+- 01 Bản sao Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản chính Báo cáo phân tích an toàn ([Mau 08_PL5_BC xay dung CSBX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe66e3b649bde99'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+|02/2022/TT-BKHCN|Thông tư 02/2022/TT-BKHCN|25-02-2022|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+- Có thiết kế và tính toán bảo vệ bức xạ (chiếu ngoài và chiếu trong) bảo đảm mức liều chiếu xạ tiềm năng đối với nhân viên bức xạ và công chúng không vượt quá giá trị liều giới hạn theo quy định tại điểm a khoản 2 Điều 5 của Nghị định 142/2020/NĐ-CP như sau:
++ Đối với nhân viên bức xạ: (i) Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (iii) Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: (i) Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; (iii) Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Có thiết kế và tính toán bảo vệ bức xạ (chiếu ngoài và chiếu trong) bảo đảm mức liều chiếu xạ tiềm năng đối với nhân viên bức xạ và công chúng không vượt quá giá trị liều giới hạn theo quy định tại điểm a khoản 2 Điều 5 của Nghị định 142/2020/NĐ-CP như sau:
++ Đối với nhân viên bức xạ: (i) Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (iii) Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: (i) Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; (iii) Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ
+Mô tả:
+Không có thông tin

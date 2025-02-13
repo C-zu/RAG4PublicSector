@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001834
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Cung cấp, khai thác, sử dụng dữ liệu về địa chất, khoáng sản (cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Địa chất và khoáng sản
+Trình tự thực hiện:
+- Bước 1. Nộp hồ sơ
+Tổ chức, cá nhân có nhu cầu thu thập dữ liệu về địa chất, khoáng sản nộp văn bản, phiếu yêu cầu trực tiếp tại Trung tâm Thông tin Lưu trữ Địa chất (số 6 đường Nguyên Hồng, quận Đống Đa, Hà Nội).
+- Bước 2. Kiểm tra hồ sơ
+Trung tâm Thông tin Lưu trữ Địa chất - Tổng cục Địa chất và Khoáng sản Việt Nam có trách nhiệm kiểm tra văn bản, phiếu yêu cầu và hồ sơ kèm theo (nếu có). Trường hợp không hợp lệ thì trả lại hồ sơ. Trường hợp hợp lệ thì thực hiện việc cung cấp dữ liệu về địa chất, khoáng sản.
+-         Bước 3. Cung cấp dữ liệu về địa chất, khoáng sản
++ Sau khi tổ chức, cá nhân thực hiện xong nghĩa vụ tài chính, Trung tâm Thông tin Lưu trữ Địa chất có trách nhiệm cung cấp đầy đủ, chính xác các dữ liệu cho các tổ chức, cá nhân. Trường hợp từ chối cung cấp dữ liệu thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.
++ Xác nhận dữ liệu đã cung cấp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn cung cấp dữ liệu do các bên thỏa thuận.|Phí : Thực hiện theo quy định tại Biểu mức phí khai thác và sử dụng tài liệu địa chất, khoáng sản ban hành kèm theo Thông tư số 190/2016/TT-BTC ngày 08 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí khai thác và sử dụng tài liệu địa chất, khoáng sản.||
+|Dịch vụ bưu chính|Thời hạn cung cấp dữ liệu do các bên thỏa thuận.|Phí : Thực hiện theo quy định tại Biểu mức phí khai thác và sử dụng tài liệu địa chất, khoáng sản ban hành kèm theo Thông tư số 190/2016/TT-BTC ngày 08 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí khai thác và sử dụng tài liệu địa chất, khoáng sản.||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản, phiếu yêu cầu cung cấp dữ liệu theo đúng quy định tại Phụ lục 2 ban hành kèm theo Thông tư số 12/2013/TT-BTNMT ngày 05 tháng 6 năm 2013 của Bộ trưởng Bộ Tài nguyên và Môi trường. ([PL 2 Mẫu văn bản đề nghị cung cấp khai thác sd dữ liệu về địa chất.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1cda386db2823'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm Thông tin, Lưu trữ và Tạp chí địa chất - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản, tài liệu theo yêu cầu của tổ chức, cá nhân sử dụng dữ liệu về địa chất, khoáng sản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2010/QH12|Luật 60/2010/QH12|17-11-2010|Quốc Hội|
+|12/2013/TT-BTNMT|Thông tư 12/2013/TT-BTNMT|05-06-2013|Bộ Tài nguyên và Môi trường|
+|190/2016/TT-BTC|Thông tư 190/2016/TT-BTC|08-11-2016|Bộ Tài chính|
+|73/2017/NĐ-CP|Nghị định số 73/2017/NĐ-CP ngày 16 tháng 4 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường|14-06-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

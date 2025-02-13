@@ -1,0 +1,10 @@
+Tên thủ tục: Quyết định chủ trương đầu tư chương trình mục tiêu quốc gia, dự án quan trọng quốc gia sử dụng vốn ODA, vốn vay ưu đãi
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 04 Bản sao - Tờ trình của Chính phủ.
+- 01 Bản chính, 04 Bản sao - Báo cáo đề xuất chủ trương đầu tư đối với chương trình mục tiêu quốc gia, báo cáo nghiên cứu tiền khả thi đối với dự án quan trọng quốc gia (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbd9a079af20170'">Phu luc IIIa (kem theo ND 114.2021).docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe78da780b4f18f'">Phụ lục IIIb (kem theo ND 114.2021).docx</a>)
+- 01 Bản chính, 04 Bản sao - Báo cáo thẩm định của Hội đồng thẩm định nhà nước.
+- 01 Bản chính, 04 Bản sao - Tài liệu khác có liên quan.

@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000423
+Số quyết định:
+Số 1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục cấp Giấy thông hành tại Cơ quan đại diện Việt Nam ở nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Cấp hộ chiếu, giấy thông hành, công hàm đề nghị cấp thị thực
+Trình tự thực hiện:
+Người yêu cầu nộp hồ sơ trực tiếp tại trụ sở Cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài (sau đây gọi là Cơ quan đại diện)
+Thời gian nhận hồ sơ và trả kết quả: các ngày làm việc theo quy định của Cơ quan đại diện (trừ các ngày nghỉ, ngày lễ theo quy định của nước sở tại và các ngày lễ, ngày Tết theo quy định của Việt Nam)
+Cơ quan đại diện xem xét hồ sơ, nếu có những điểm chưa rõ cần xác minh thì điện về Cục Lãnh sự Bộ Ngoại giao và Cục Quản lý xuất nhập cảnh Bộ Công an
+Nhận kết quả trực tiếp tại trụ sở Cơ quan đại diện
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 20 USD Cấp giấy thông hành (lần đầu)  [VanBanGoc_264-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbdc00b3911642') Lệ phí : 40 USD Cấp giấy thông hành do bị hỏng hoặc mất (cấp từ lần 2 trở đi)  [VanBanGoc_264-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaa2441cd586ee')|Nộp hồ sơ trực tiếp tại trụ sở Cơ quan đại diện Trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong trường hợp không đủ căn cứ để cấp giấy thông hành phải điện về nước xin ý kiến thì không quá 05 ngày làm việc kể từ ngày nhận được thông báo của Cục Quản lý xuất nhập cảnh - Bộ Công an.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai mẫu X02 ban hành kèm theo Thông tư liên tịch số 08/2013/TTLT-BCA-BNG ngày 20/8/2013 (Nếu tự nguyện xin về nước thì ghi rõ nguyện vọng này trong tờ khai) ([Mẫu X02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa730d2e1236870'))
+- 02 Bản chính Ảnh mới chụp, cỡ 4x6 cm, mặt nhìn thẳng, đầu để trần, phông nền màu trắng
+- 01 Bản chính Hộ chiếu đã hết hạn sử dụng hoặc đơn trình báo mất hộ chiếu
+- 01 Bản sao Bản sao hoặc bản chụp giấy tờ dùng làm căn cứ để cấp Giấy thông hành gồm một trong những giấy tờ sau: Giấy tờ chứng minh quốc tịch Việt Nam (loại có ảnh) theo quy định của pháp luật Việt Nam về quốc tịch được ban hành qua các thời kỳ; Giấy tờ do cơ quan quản lý nhà nước có thẩm quyền của Việt Nam cấp cho công dân còn giá trị, có ghi đầy đủ yếu tố nhân thân và ảnh. Yếu tố nhân thân của một người bao gồm: họ và tên, ngày tháng năm sinh, nơi sinh, giới tính, quốc tịch của người đó
+ Các giấy tờ trên nếu đã hết giá trị hoặc không có ảnh thì chỉ dùng tham khảo để làm căn cứ cấp, sửa đổi, bổ sung hộ chiếu, cấp giấy thông hành
+- 01 Bản chính Giấy xác nhận nhân sự (nếu có) do Cục Quản lý xuất nhập cảnh, Bộ Công an cấp (theo mẫu)
+- 01 Bản sao Đối với trường hợp có quyết định trục xuất bằng văn bản của cơ quan có thẩm quyền của nước ngoài mà không có hộ chiếu còn giá trị sử dụng thì hồ sơ kèm theo bản chụp quyết định trục xuất có hiệu lực của cơ quan có thẩm quyền nước sở tại
+ Đối với trường hợp phải về nước theo yêu cầu của cơ quan có thẩm quyền của Việt Nam ở trong nước mà không có hộ chiếu còn giá trị, cơ quan đại diện Việt Nam cấp giấy thông hành theo thông báo của Cục Quản lý xuất nhập cảnh, Bộ Công an
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trụ sở Cơ quan đại diện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy thông hành
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|33/2009/QH12|Luật 33/2009/QH12|18-06-2009|Quốc Hội|
+|264/2016/TT-BTC|Thông tư 264/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|136/2007/NĐ-CP|Nghị định 136/2007/NĐ-CP|17-08-2007|Chính phủ|
+|08/2009/TTLT/BCA-BNG|Thông tư liên tịch 08/2009/TTLT/BCA-BNG|06-10-2009|Bộ Ngoại giao|
+|08/2013/TTLT-BCA-BNG|Thông tư liên tịch 08/2013/TTLT-BCA-BNG|20-08-2013|Bộ Ngoại giao|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

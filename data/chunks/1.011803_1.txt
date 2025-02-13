@@ -1,0 +1,16 @@
+Tên thủ tục: Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011803
+Số quyết định:
+2409/QĐ-UBND
+Tên thủ tục:
+Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy phép tạm nhập, tái xuất theo hình thức khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Giấy chứng nhận đầu tư hoặc giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp: 1 bản sao có đóng dấu của thương nhân.
+ - Hợp đồng, thỏa thuận thuê, mượn ký với khách hàng nước ngoài: 1 bản sao có đóng dấu của thương nhân.
+ - Văn bản đề nghị cấp Giấy phép tạm nhập, tái xuất, nêu rõ hàng hóa tạm nhập, tái xuất (tên hàng, mã HS, số lượng, trị giá); mục đích tạm nhập, tái xuất; cửa khẩu nhập khẩu, xuất khẩu: 1 bản chính. Mẫu đơn đề nghị cấp Giấy phép tạm nhập, tái xuất theo hình thức khác quy định tại Phụ lục IV ban hành kèm theo Thông tư số 12/2018/TT-BCT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee235b361e0e05'">Phụ lục IV m2.docx</a>)

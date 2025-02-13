@@ -1,0 +1,16 @@
+Tên thủ tục: Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004238
+Số quyết định:
+3873/QĐ-BTNMT
+Tên thủ tục:
+Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai

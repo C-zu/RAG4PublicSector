@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp, gia hạn Chứng chỉ hành nghề thú y thuộc thẩm quyền của Cục Thú y (gồm: Sản xuất, kiểm nghiệm, khảo nghiệm, xuất khẩu, nhập khẩu thuốc thú y)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ đối với trường hợp cấp mới; - 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ trong trường hợp gia hạn.|Phí : Lệ phí cấp chứng chỉ hành nghề dịch vụ thú y: 50.000 đồng/lần||

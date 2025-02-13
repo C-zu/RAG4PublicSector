@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp thay đổi nội dung, cấp lại Giấy chứng nhận doanh nghiệp khoa học và công nghệ.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001525
+Số quyết định:
+395/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp thay đổi nội dung, cấp lại Giấy chứng nhận doanh nghiệp khoa học và công nghệ.
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ

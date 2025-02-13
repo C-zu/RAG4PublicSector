@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp sửa đổi, bổ sung Giấy phép thành lập Văn phòng đại diện của doanh nghiệp quảng cáo nước ngoài tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Lệ phí : 1500000 Đồng|Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh cấp Giấy phép sửa đổi, bổ sung và gửi bản sao giấy phép đó đến Bộ Văn hóa, Thể thao và Du lịch.|

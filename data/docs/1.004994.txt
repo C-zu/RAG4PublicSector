@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004994
+Số quyết định:
+77/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới sản xuất, lắp ráp
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Cơ sở thiết kế hoặc cơ sở sản xuất đối với trường hợp đủ điều kiện tự thiết kế sản phẩm (sau đây gọi chung là cơ sở thiết kế) lập hồ sơ đề nghị thẩm định thiết kế theo quy định và nộp đến Cục Đăng kiểm Việt Nam.
+b) Giải quyết TTHC:
+- Cục Đăng kiểm Việt Nam tiếp nhận và kiểm tra thành phần hồ sơ: nếu hồ sơ không đầy đủ theo quy định thì hướng dẫn cơ sở hoàn thiện lại; Nếu hồ sơ đầy đủ theo quy định thì viết giấy hẹn thời gian trả kết quả thẩm định thiết kế;
+- Thẩm định nội dung thiết kế được thực hiện trong thời hạn 08 ngày làm việc kể từ ngày nhận được đủ thành phần hồ sơ theo quy định. Trường hợp hồ sơ thiết kế có kết quả thẩm định đạt yêu cầu (hồ sơ thiết kế đạt yêu cầu), Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ thiết kế đạt yêu cầu.
++ Trường hợp hồ sơ thiết kế đầy đủ nhưng có các nội dung chưa đạt yêu cầu thì Cục Đăng kiểm Việt Nam thông báo bằng văn bản hoặc thông báo thông qua hệ thống dịch vụ công trực tuyến lý do và nội dung chưa đạt yêu cầu để Cơ sở thiết kế hoàn thiện hồ sơ thiết kế. Cơ sở thiết kế có trách nhiệm hoàn thiện hồ sơ thiết kế và nộp lại trong thời hạn 30 ngày làm việc kể từ ngày thông báo và gửi lại Cục Đăng kiểm Việt Nam. Trong 08 ngày làm việc kể từ ngày nhận được hồ sơ đã hoàn thiện đầy đủ, Cục Đăng kiểm Việt Nam kiểm tra, đánh giá lại hồ sơ thiết kế. Nếu hồ sơ thiết kế đạt yêu cầu, Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế; nếu hồ sơ thiết kế không đạt yêu cầu, Cục Đăng kiểm Việt Nam thông báo bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế và nêu rõ lý do. 
++ Quá thời hạn 30 ngày làm việc kể từ ngày thông báo, cơ sở thiết kế không hoàn thiện các nội dung chưa phù phù hợp của hồ sơ thiết kế, Cục Đăng kiểm Việt Nam sẽ dừng việc thẩm định hồ sơ thiết kế và thông báo bằng văn bản hoặc thông báo trên hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế. Để tiếp tục thực hiện việc thẩm định hồ sơ thiết kế, cơ sở thiết kế phải thực hiện nộp lại hồ sơ từ đầu;
+- Cơ sở thiết kế nhận kết quả thẩm định thiết kế gồm:
++ Trường hợp nhận trực tiếp tại trụ sở Cơ quan QLCL hoặc qua hệ thống bưu chính: 01 Giấy chứng nhận thẩm định thiết kế; bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật (01 bản đối với trường hợp cơ sở thiết kế đồng thời là cơ sở sản xuất hoặc 02 bản đối với trường hợp cơ sở thiết kế khác cơ sở sản xuất) của hồ sơ thiết kế; 
++ Trường hợp nhận qua hệ thống dịch vụ công trực tuyến: bản điện tử Giấy chứng nhận thẩm định thiết kế; bản điện tử bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật của hồ sơ thiết kế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|08 Ngày làm việc|Mức giá : Giá thẩm định thiết kế: được tính bằng 8% giá thiết kế do cơ sở thiết kế tự công bố và kê khai nhưng không thấp hơn 2.000.000 đồng/1 thiết kế; Trường hợp bổ sung hoặc sửa đổi hồ sơ thiết kế đã được thẩm định, mức giá thẩm định thiết kế là 1.000.000 đồng/1 thiết kế. Khi gộp thêm thiết kế của các sản phẩm cùng kiểu loại thì mức giá thẩm định thiết kế là tổng của các mức giá bổ sung.|- Thẩm định nội dung thiết kế được thực hiện trong thời hạn 08 ngày làm việc kể từ ngày nhận được đủ hồ sơ theo quy định.|
+|Trực tiếp|03 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp giấy chứng nhận 40.000 đồng/01 giấy chứng nhận  Lệ phí : 90.000 Đồng Lệ phí cấp giấy chứng nhận đối với ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương) 90.000 đồng/01 giấy chứng nhận|- Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ thiết kế đạt yêu cầu.|
+|Trực tuyến|08 Ngày làm việc|Mức giá : Đồng Giá thẩm định thiết kế: được tính bằng 8% giá thiết kế do cơ sở thiết kế tự công bố và kê khai nhưng không thấp hơn 2.000.000 đồng/1 thiết kế; Trường hợp bổ sung hoặc sửa đổi hồ sơ thiết kế đã được thẩm định, mức giá thẩm định thiết kế là 1.000.000 đồng/1 thiết kế. Khi gộp thêm thiết kế của các sản phẩm cùng kiểu loại thì mức giá thẩm định thiết kế là tổng của các mức giá bổ sung.|- Thẩm định nội dung thiết kế được thực hiện trong thời hạn 08 ngày làm việc kể từ ngày nhận được đủ hồ sơ theo quy định.|
+|Trực tuyến|03 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp giấy chứng nhận 40.000 đồng/01 giấy chứng nhận  Lệ phí : 90.000 Đồng Lệ phí cấp giấy chứng nhận đối với ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương) 90.000 đồng/01 giấy chứng nhận|- Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ thiết kế đạt yêu cầu.|
+|Dịch vụ bưu chính|08 Ngày làm việc|Mức giá : Đồng Giá thẩm định thiết kế: được tính bằng 8% giá thiết kế do cơ sở thiết kế tự công bố và kê khai nhưng không thấp hơn 2.000.000 đồng/1 thiết kế; Trường hợp bổ sung hoặc sửa đổi hồ sơ thiết kế đã được thẩm định, mức giá thẩm định thiết kế là 1.000.000 đồng/1 thiết kế. Khi gộp thêm thiết kế của các sản phẩm cùng kiểu loại thì mức giá thẩm định thiết kế là tổng của các mức giá bổ sung.|- Thẩm định nội dung thiết kế được thực hiện trong thời hạn 08 ngày làm việc kể từ ngày nhận được đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|03 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp giấy chứng nhận 40.000 đồng/01 giấy chứng nhận  Lệ phí : 90.000 Đồng Lệ phí cấp giấy chứng nhận đối với ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương) 90.000 đồng/01 giấy chứng nhận|- Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ thiết kế đạt yêu cầu.|
+
+Thành phần hồ sơ:
+
+hồ sơ thiết kế (Trường hợp nộp trực tiếp hoặc qua đường bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế theo quy định thì nộp thêm 01 bộ tài liệu (Thuyết minh thiết kế kỹ thuật xe cơ giới và Bản vẽ kỹ thuật) hoặc 02 bộ đối với trường hợp cơ sở thiết kế khác cơ sở sản xuất)
+- 01 Bản chính + Thuyết minh thiết kế kỹ thuật xe cơ giới (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản dạng điện tử đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến); ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc79f6fb6cf5f70'))
+- 01 Bản chính + Bản vẽ kỹ thuật (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản dạng điện tử đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến); ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec7b7b0a8ca7b0'))
+- 01 Bản sao + Bản thông số, tính năng kỹ thuật của các tổng thành, hệ thống liên quan tới nội dung tính toán thiết kế (Bản sao có xác thực của cơ sở thiết kế đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản sao điện tử đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến).
+
+
+Bao gồm
+- 01 Bản chính - 01 bản chính hoặc biểu mẫu điện tử văn bản đề nghị thẩm định thiết kế;
+- 01 Bản chính - 01 hồ sơ thiết kế.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm định thiết kế; Bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật, Thông báo qua hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế và nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|30/2011/TT-BGTVT|Quy định về kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường trong sản xuất, lắp ráp xe cơ giới|15-04-2011|Bộ Giao thông vận tải|
+|54/2014/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 30/2011/TT-BGTVT ngày 15 tháng 4 năm 2011 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường trong sản xuất, lắp ráp xe cơ giới|20-10-2014|Bộ Giao thông vận tải|
+|16/2022/TT-BGTVT|Thông tư 16/2022/TT-BGTVT|30-06-2022||
+|239/2016/TT-BTC|Thông tư 239/2016/TT-BTC|11-11-2016||
+|36/2022/TT-BTC|Thông tư 36/2022/TT-BTC|16-06-2022||
+|49/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới, xe máy chuyên dùng, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và xe đạp điện sản xuất, lắp ráp và nhập khẩu|31-12-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

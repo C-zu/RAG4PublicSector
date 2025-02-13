@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại Giấy phép hoạt động cho thuê lại lao động
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+-	Doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp, gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép; người đại diện theo pháp luật của doanh nghiệp.
+-	Giấy phép bị mất.
+-	Giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép.
+- Thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép.
+-	Doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp, gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép; người đại diện theo pháp luật của doanh nghiệp.
+-	Giấy phép bị mất.
+-	Giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép.
+- Thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

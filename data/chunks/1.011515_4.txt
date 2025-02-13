@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép môi trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 bản chính văn bản đề nghị cấp, cấp điều chỉnh, cấp lại giấy phép môi trường của dự án đầu tư, cơ sở (mẫu quy định tại Phụ lục XIII ban hành kèm theo Nghị định số 08/2022/NĐ-CP);
+- 01 Bản chính - 01 bản chính Báo cáo đề xuất cấp giấy phép môi trường của dự án đầu tư, cơ sở: + Trường hợp dự án đầu tư đã có quyết định phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường trước khi đi vào vận hành thử nghiệm: mẫu quy định tại Phụ lục VIII ban hành kèm theo Nghị định số 08/2022/NĐ-CP; + Trường hợp dự án đầu tư nhóm II không thuộc đối tượng phải thực hiện đánh giá tác động môi trường: mẫu quy định tại Phụ lục IX ban hành kèm theo Nghị định số 08/2022/NĐ-CP; + Trường hợp cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp đang hoạt động có tiêu chí về môi trường tương đương với dự án nhóm I hoặc nhóm II: mẫu quy định tại Phụ lục Xban hành kèm theo Nghị định số 08/2022/NĐ-CP; + Trường hợp dự án đầu tư nhóm III: mẫu quy định tại Phụ lục XI ban hành kèm theo Nghị định số 08/2022/NĐ-CP; + Trường hợp cơ sở đang hoạt động có tiêu chí về môi trường tương đương với dự án nhóm III: mẫu quy định tại Phụ lục XII ban hành kèm theo Nghị định số 08/2022/NĐ-CP;
+- 01 Bản sao 01 bản sao Báo cáo nghiên cứu khả thi hoặc tài liệu tương đương với báo cáo nghiên cứu khả thi của dự án đầu tư theo quy định của pháp luật về đầu tư, đầu tư công, đầu tư theo phương thức đối tác công tư, xây dựng (đối với dự án đầu tư không thuộc đối tượng phải thực hiện đánh giá tác động môi trường)

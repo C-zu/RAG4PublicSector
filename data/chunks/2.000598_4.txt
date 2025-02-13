@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp lại Giấy phép phân phối sản phẩm thuốc lá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp Giấy phép phân phối sản phẩm thuốc lá bị mất, bị tiêu hủy toàn bộ hoặc một phần, bị rách nát hoặc bị cháy:
+- 01 Bản chính - Văn bản đề nghị cấp lại; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdea970ee801446'">Phụ lục 48.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao Giấy phép phân phối sản phẩm thuốc lá đã được cấp (nếu có)
+- 01 Bản chính - Báo cáo kết quả kinh doanh của doanh nghiệp.
+
+
+Trường hợp Giấy phép phân phối sản phẩm thuốc lá đã được cấp hết thời hạn hiệu lực
+- 01 Bản chính a) Đơn đề nghị cấp Giấy phép phân phối sản phẩm thuốc lá; Phụ lục 19 theo mẫu (Kèm theo Thông tư số 57/2018/TT-BCT ngày 26 tháng 12 năm 2018 của Bộ Công Thương) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbe722b1af62ca'">Phụ lục 19.docx</a>)
+- 01 Bản chính, 01 Bản sao b) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế;
+- 01 Bản chính, 01 Bản sao c) Bản sao văn bản giới thiệu của các Nhà cung cấp sản phẩm thuốc lá hoặc của các thương nhân phân phối sản phẩm thuốc lá, trong đó ghi rõ địa bàn dự kiến kinh doanh
+- 01 Bản chính, 01 Bản sao d) Bảng kê danh sách thương nhân, bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế, Giấy phép kinh doanh sản phẩm thuốc lá (nếu đã kinh doanh) của các thương nhân đã hoặc sẽ thuộc hệ thống phân phối sản phẩm thuốc lá;
+- 01 Bản chính, 01 Bản sao đ) Báo cáo kết quả kinh doanh của doanh nghiệp

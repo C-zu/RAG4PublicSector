@@ -1,0 +1,12 @@
+Tên thủ tục: Cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với tổ chức nhận chuyển nhượng chưa được cấp phép kinh doanh dịch vụ viễn thông sử dụng băng tần
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chuyển nhượng có dấu và chữ ký của người đại diện theo pháp luật của doanh nghiệp đề nghị chuyển nhượng
+- 01 Bản chính Văn bản thỏa thuận giữa doanh nghiệp đề nghị chuyển nhượng và doanh nghiệp đề nghị nhận chuyển nhượng về bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng
+- 01 Bản chính Hồ sơ đề nghị cấp phép kinh doanh dịch vụ viễn thông có sử dụng băng tần của doanh nghiệp đề nghị nhận chuyển nhượng
+- 01 Bản chính Báo cáo tình hình thực hiện giấy phép kinh doanh dịch vụ viễn thông đã được cấp, tình hình thực hiện cam kết triển khai mạng viễn thông sau khi trúng đấu giá của doanh nghiệp đề nghị chuyển nhượng
+- 01 Bản chính Hồ sơ đề nghị sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông hoặc văn bản đề nghị thu hồi giấy phép kinh doanh dịch vụ viễn thông của doanh nghiệp đề nghị chuyển nhượng
+- 01 Bản chính Cam kết thực hiện của doanh nghiệp đề nghị nhận chuyển nhượng

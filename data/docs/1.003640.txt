@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003640
+Số quyết định:
+995/QĐ-BGTVT
+Tên thủ tục:
+Gia hạn thời gian lưu lại lãnh thổ Việt Nam cho phương tiện vận tải thủy của Campuchia
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân nộp hồ sơ cho Cơ quan Cảng vụ đường thủy nội địa nơi phương tiện gặp sự cố.
+b) Giải quyết TTHC:
+- Sau khi nhận được đơn đề nghị gia hạn Giấy phép vận tải qua biên giới Campuchia - Việt Nam của chủ phương tiện hoặc thuyền trưởng với đầy đủ thông tin về phương tiện, thuyền viên, hàng hóa hoặc hành khách, ngày nhập cảnh vào Việt Nam, diễn biến sự cố, thời gian đề nghị lưu lại Việt Nam, trong thời hạn 01 (một) ngày làm việc, kể từ khi nhận đủ hồ sơ đúng quy định, Cơ quan Cảng vụ đường thủy nội địa nơi phương tiện đề nghị lưu lại, tiến hành kiểm tra tình hình thực tế và ra văn bản cho phép phương tiện lưu lại Việt Nam, với thời gian tối đa không quá 30 (ba mươi) ngày; trường hợp không gia hạn phải trả lời bằng văn bản nêu rõ lý do trong vòng 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||01 (một) ngày làm việc, kể từ khi nhận đủ hồ sơ đúng quy định;|
+|Trực tiếp|24 Giờ||Trường hợp không gia hạn phải trả lời bằng văn bản nêu rõ lý do trong vòng 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|1 Ngày làm việc||01 (một) ngày làm việc, kể từ khi nhận đủ hồ sơ đúng quy định|
+|Trực tuyến|24 Giờ||Trường hợp không gia hạn phải trả lời bằng văn bản nêu rõ lý do trong vòng 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|1 Ngày làm việc||01 (một) ngày làm việc, kể từ khi nhận đủ hồ sơ đúng quy định;|
+|Dịch vụ bưu chính|24 Giờ||Trường hợp không gia hạn phải trả lời bằng văn bản nêu rõ lý do trong vòng 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy phép vận tải thủy qua biên giới;
+- 01 Bản chính - Giấy đăng ký phương tiện;
+- 01 Bản chính - Đơn đề nghị gia hạn theo mẫu. ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddb6eb349727b8'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cảng vụ đường thủy nội địa
+Cơ quan có thẩm quyền:
+Cảng vụ đường thủy nội địa
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản cho phép lưu lại lãnh thổ Việt Nam cho phương tiện vận tải thủy của Campuchia
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2012/TT-BGTVT|Hướng dẫn thực hiện một số điều của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia về vận tải thủy|23-03-2012|Bộ Giao thông vận tải|
+|13/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư hướng dẫn thực hiện một số điều của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia về vận tải đường thủy|30-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+- Phương tiện của Campuchia quá thời gian lưu hành tại Việt Nam nếu có lý do chính đáng (như thiên tai, tai nạn, hỏng … không sửa chữa kịp) được gia hạn 01 (một) lần với thời hạn không quá 30 (ba mươi) ngày kể từ ngày hết hạn.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

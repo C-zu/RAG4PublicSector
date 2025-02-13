@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy phép lắp đặt cáp viễn thông trong vùng đặc quyền kinh tế, thềm lục địa Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày làm việc||- Trường hợp không cần lấy ý kiến của các cơ quan, tổ chức có liên quan: 30 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Trường hợp cần lấy ý kiến của các cơ quan, tổ chức có liên quan: 60 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|60 Ngày làm việc|||
+|Dịch vụ bưu chính|60 Ngày làm việc||- Trường hợp không cần lấy ý kiến của các cơ quan, tổ chức có liên quan: 30 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Trường hợp cần lấy ý kiến của các cơ quan, tổ chức có liên quan: 60 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

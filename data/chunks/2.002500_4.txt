@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục xử lý đơn tại cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn khiếu nại, đơn tố cáo, đơn kiến nghị, đơn phản ánh và các tài liệu, chứng cứ liên quan đến nội dung khiếu nại, tố cáo, kiến nghị, phản ánh (nếu có).

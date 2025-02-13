@@ -1,0 +1,23 @@
+Tên thủ tục: Thẩm định thiết kế, dự toán xây dựng/ thiết kế, dự toán xây dựng điều chỉnh - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu dự thảo Văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện bước 5
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình: 
++ Nếu không bổ sung giải trình được thì Dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ thì dự thảo Văn bản thông báo về kết quả thẩm định thiết kế, dự toán xây dựng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu dự thảo  Văn bản thông báo về kết quả thẩm định thiết kế, dự toán xây dựng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện bước 5.
+B5	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Ban phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở bước 4.
+B6	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện thẩm định hoặc Văn bản Báo cáo thẩm định; 
+- Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm HCC tỉnh
+B8	Trả kết quả cho tổ chức cá nhân

@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp thay đổi nội dung, cấp lại Giấy chứng nhận doanh nghiệp khoa học và công nghệ.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Nộp hồ sơ trực tiếp tại Sở Khoa học và Công nghệ hoặc qua đường bưu điện hoặc trực tuyến; 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ;|
+|Trực tiếp|10 Ngày làm việc||Trường hợp bổ sung sản phẩm hình thành từ kết quả khoa học và công nghệ, thời hạn cấp thay đổi nội dung Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|05 Ngày làm việc||Nộp hồ sơ trực tiếp tại Sở Khoa học và Công nghệ hoặc qua đường bưu điện hoặc trực tuyến; 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ;|
+|Trực tuyến|10 Ngày làm việc||Trường hợp bổ sung sản phẩm hình thành từ kết quả khoa học và công nghệ, thời hạn cấp thay đổi nội dung Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||Nộp hồ sơ trực tiếp tại Sở Khoa học và Công nghệ hoặc qua đường bưu điện hoặc trực tuyến; 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ;|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trường hợp bổ sung sản phẩm hình thành từ kết quả khoa học và công nghệ, thời hạn cấp thay đổi nội dung Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký tham gia trợ giúp pháp lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị tham gia trợ giúp pháp lý theo mẫu ban hành kèm theo Thông tư số 08/2017/TT-BTP (Mẫu TP-TGPL-01); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe366af86f0f58a'">đơn đề nghị tham gia TGPL.docx</a>)
+- 01 Bản chính - Danh sách luật sư, tư vấn viên pháp luật đủ điều kiện thực hiện trợ giúp pháp lý theo mẫu ban hành kèm theo Thông tư số 08/2017/TT-BTP (Mẫu TP-TGPL-02); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7aee7dda06890'">mẫu danh sách.docx</a>)
+- 01 Bản sao Bản sao thẻ luật sư, thẻ tư vấn viên pháp luật.

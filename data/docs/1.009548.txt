@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009548
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký thành lập quỹ thành viên
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đăng ký lập quỹ thành viên đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầusửa đổi, bổ sung.
+		Bước 4: Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN cấp Giấy chứng nhận đăng ký lập quỹ; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do. Vốn của quỹ chỉ được giải ngân sau khi UBCKNN cấp Giấy chứng nhận đăng ký lập quỹ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0f729e967fd53')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0f729e967fd53')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1) Giấy đăng ký lập quỹ đầu tư chứng khoán /thành lập công ty đầu tư chứng khoán - Mẫu số 92 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; 2) Điều lệ mẫu đầu tư chứng khoán - Mẫu Phụ lục I ban hành kèm theo Thông tư 98/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính; 3) Hợp đồng lưu ký tài sản với ngân hàng lưu ký; 4) Hợp đồng góp vốn của các thành viên góp vốn trong đó nêu rõ tên quỹ, công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, số vốn điều lệ dự kiến góp, kèm theo quyết định của cấp có thẩm quyền theo Điều lệ công ty của thành viên góp vốn là tổ chức về việc tham gia góp vốn vào quỹ; 5) Danh sách nhà đầu tư chứng khoán chuyên nghiệp tham gia góp vốn lập quỹ thành viên - Mẫu số 93 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; báo cáo thẩm định của công ty quản lý quỹ đầu tư chứng khoán hoặc của công ty chứng khoán được ủy quyền về việc xác định nhà đầu tư chứng khoán chuyên nghiệp; 6) Giấy xác nhận của ngân hàng lưu ký về quy mô vốn góp của quỹ; 7) Bản thông tin cá nhân của người điều hành quỹ - Mẫu số 91 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ 8) Danh sách thành viên Ban đại diện quỹ, Tổng giám đốc, người điều hành, nhân viên nghiệp vụ thẩm định giá bất động sản - Mẫu số 101 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký lập quỹ; hoặc công văn từ chối và nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+|98/2020/TT-BTC|Thông tư 98/2020/TT-BTC|16-11-2020||
+
+Yêu cầu, điều kiện thực hiện:
+1) Việc thành lập quỹ thành viên phải đáp ứng các điều kiện sau đây:
+- Vốn góp tối thiểu là 50 tỷ đồng;
+- Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+- Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+- Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+2) Công ty quản lý quỹ đầu tư chứng khoán có tối thiểu 02 người điều hành quỹ có chứng chỉ hành nghề quản lý quỹ; không bị đặt vào tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoặc chưa thực hiện đầy đủ các hình thức xử phạt, biện pháp khắc phục hậu quả theo Quyết định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán.
+1) Việc thành lập quỹ thành viên phải đáp ứng các điều kiện sau đây:
+- Vốn góp tối thiểu là 50 tỷ đồng;
+- Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+- Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+- Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+2) Công ty quản lý quỹ đầu tư chứng khoán có tối thiểu 02 người điều hành quỹ có chứng chỉ hành nghề quản lý quỹ; không bị đặt vào tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoặc chưa thực hiện đầy đủ các hình thức xử phạt, biện pháp khắc phục hậu quả theo Quyết định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

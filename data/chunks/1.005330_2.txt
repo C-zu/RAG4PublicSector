@@ -1,0 +1,15 @@
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ thiết kế và dự toán công trình lâm sinh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1:
++ Chủ đầu tư là các đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn tổ chức lập hồ sơ thiết kế và dự toán công trình lâm sinh, gửi hồ sơ (thành phần, số lượng hồ sơ theo quy định) về Tổng cục Lâm nghiệp để tổ chức thẩm định, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn phê duyệt.
+ + Chủ đầu tư là các đơn vị thuộc Bộ, ngành khác tổ chức lập hồ sơ thiết kế và dự toán công trình lâm sinh, gửi hồ sơ (thành phần, số lượng hồ sơ theo quy định) về cơ quan quản lý chuyên ngành được giao nhiệm vụ để thẩm định, trình cấp có thẩm quyền phê duyệt.
+Bước 2:
++ Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ:
+Tổng cục Lâm nghiệp phải tổ chức thẩm định và có báo cáo thẩm định, dự thảo quyết định phê duyệt và trình Bộ Nông nghiệp và Phát triển nông thôn ra quyết định (trường hợp  chủ đầu tư là các đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn);
+Cơ quan quản lý chuyên ngành các Bộ, ngành phải tổ chức thẩm định và có báo cáo thẩm định, dự thảo quyết định phê duyệt và trình cấp có thẩm quyền Bộ, ngành đó ra quyết định (trường hợp chủ đầu tư là các Bộ, Ngành khác).
+Bước 3:  
++ Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả thẩm định:
+Bộ Nông nghiệp và Phát triển nông thôn quyết định phê duyệt hồ sơ thiết kế và dự toán công trình lâm sinh và trả kết quả cho các tổ chức trong 03 ngày làm việc (trường hợp  chủ đầu tư là các đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn);
+Bộ, ngành khác quyết định phê duyệt  thiết kế và dự toán công trình lâm sinh và chuyển trả kết quả cho các tổ chức trong 03 ngày làm việc (trường hợp chủ đầu tư là các Bộ, Ngành khác)

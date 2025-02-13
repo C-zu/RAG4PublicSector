@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục cấp giấy đăng ký lưu hành dược liệu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1:Cơ sở đề nghị cấp giấy đăng ký lưu hành dược liệu (cơ sở đăng ký) nộp 01 bộ hồ sơ đề nghị cấp giấy đăng ký lưu hành dược liệu (hồ sơ đăng ký) theo quy định tại Điều 24, 25, 26 Thông tư số 21/2018/TT-BYT đến Cục Quản lý Y, Dược cổ truyền - Bộ Y tế (cơ quan tiếp nhận hồ sơ) theo hình thức nộp trực tiếp, qua bưu điện hoặc nộp trực tuyến trên hệ thống dịch vụ công trực tuyến của Bộ Y tế.
+Bước 2:Khi nhận được hồ sơ đăng ký đủ thành phần, đạt yêu cầu về hình thức, cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận hồ sơ theo Mẫu số 02 ban hành kèm theo Thông tư số 21/2018/TT-BYT. Trường hợp không đủ hồ sơ theo quy định, cơ quan tiếp nhận hồ sơ có văn bản hoặc đề nghị (trường hợp nộp trực tiếp) cơ sở đăng ký bổ sung đủ hồ sơ theo quy định.
+Bước 3: Trong thời hạn 06 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản đồng ý hoặc không đồng ý cấp giấy đăng ký lưu hành dược liệu, cụ thể như sau:
+a) Trong vòng 15 ngày kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận chuyển hồ sơ đến chuyên gia thẩm định;
+b) Trong vòng 60 ngày kể từ ngày các chuyên gia thẩm định xem xét, cho ý kiến, cơ quan tiếp nhận chuyển Văn phòng Hội đồng tư vấn cấp giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc các hồ sơ đăng ký đề nghị cấp, không cấp hoặc đề xuất xin ý kiến thẩm định, tư vấn để trình Hội đồng tư vấn;
+c) Trong vòng 15 ngày kể từ ngày Hội đồng tư vấn cho ý kiến, Bộ trưởng Bộ Y tế uỷ quyền Cục trưởng Cục Quản lý Y, dược cổ truyền cấp, không cấp giấy đăng ký lưu hành dược liệu hoặc yêu cầu sửa đổi, bổ sung theo đề nghị của Hội đồng tư vấn.
+Bước 4: Trường hợp hồ sơ chưa đạt yêu cầu theo quy định tại các Điều 24, 25, 26 Thông tư số 21/2018/TT-BYT, trong thời hạn xem xét hồ sơ đăng ký, cơ quan tiếp nhận phải kịp thời có văn bản hướng dẫn cụ thể cho cơ sở đăng ký sửa đổi, bổ sung hồ sơ cho đến khi hồ sơ đạt theo yêu cầu. Thời gian và số lần cơ sở đăng ký sửa đổi, bổ sung hồ sơ theo quy định tại khoản 9 Điều 4 Thông tư số 21/2018/TT-BYT.
+5. Trường hợp không cấp giấy đăng ký lưu hành theo quy định tại khoản 3 Điều này, cơ quan tiếp nhận hồ sơ phải trả lời bằng văn bản và nêu rõ lý do.
+* Các trường hợp ưu tiên xem xét rút ngắn thời gian cấp giấy đăng ký lưu hành dược liệu
+1. Dược liệu được ưu tiên xem xét cấp nhanh giấy đăng ký lưu hành dược liệu trước thời hạn quy định tại Điều 29 Thông tư số 21/2018/TT-BYT trên cơ sở đề nghị của cơ sở đăng ký dược liệu nêu trong Đơn đăng ký quy định theo Mẫu số 03C Phụ lục I ban hành kèm theo Thông tư số 21/2018/TT-BYT đối với các trường hợp sau đây:
+a) Dược liệu được nuôi trồng, khai thác trong nước theo tiêu chuẩn Thực hành tốt nuôi trồng, thu hái, khai thác dược liệu theo nguyên tắc, tiêu chuẩn GACP;
+b) Dược liệu mới được di thực về Việt Nam nuôi trồng dựa trên các nghiên cứu khoa học công nghệ chứng minh năng suất, chất lượng trong thời hạn không quá 12 tháng kể từ ngày có kết quả nghiệm thu của nghiên cứu khoa học.
+c) Dược liệu dùng để sản xuất thuốc đáp ứng nhu cầu cấp bách cho quốc phòng, an ninh, phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm hoạ, nhu cầu điều trị đặc biệt. 
+2. Hồ sơ, thủ tục đối với các dược liệu thuộc trường hợp ưu tiên rút ngắn thời gian:
+a) Trong thời hạn 04 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận thực hiện các thủ tục theo quy định tại khoản 3, 4, 5 Điều 29 Thông tư số 21/2018/TT-BYT đối với các dược liệu được ưu tiên xem xét rút ngắn thời gian cấp giấy đăng ký lưu hành quy định tại điểm a và điểm b khoản 1 Điều này.
+b) Trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận thực hiện các thủ tục theo quy định tại khoản 3, 4, 5 Điều 29 Thông tư số 21/2018/TT-BYT đối với các dược liệu được ưu tiên xem xét rút ngắn thời gian cấp giấy đăng ký lưu hành quy định tại điểm c khoản 1 Điều này.

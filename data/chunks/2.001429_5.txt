@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký thuốc bảo vệ thực vật trường hợp đổi tên thương phẩm, thông tin liên quan đến tổ chức, cá nhân đăng ký
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Bảo vệ thực vật - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Bộ Nông nghiệp và Phát triển nông thôn
+Địa chỉ tiếp nhận HS:
+Cục Bảo vệ thực vật
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký thuốc bảo vệ thực vật
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2013/QH13|Bảo vệ và kiểm dịch thực vật|25-11-2013|Quốc Hội|
+|21/2015/TT-BNNPTNT|Về quản lý thuốc bảo vệ thực vật|08-06-2015|Bộ Nông nghiệp và Phát triển nông thôn|
+|33/2021/TT-BTC|Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong hoạt động kiểm dịch và bảo vệ thực vật thuộc lĩnh vực nông nghiệp|17-05-2021|Bộ Tài chính|

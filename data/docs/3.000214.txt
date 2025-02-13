@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000214
+Số quyết định:
+1399/QĐ-BTC
+Tên thủ tục:
+Thủ tục xử lý miễn lãi các khoản lãi chậm nộp của Quỹ Hỗ trợ sắp xếp và phát triển doanh nghiệp (cấp Tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Tài chính doanh nghiệp
+Trình tự thực hiện:
+- Doanh nghiệp xác định số lãi chậm nộp về Quỹ đến thời điểm Nghị định có hiệu lực thi hành báo cáo cơ quan đại diện chủ sở hữu hồ sơ để được xem xét, miễn lãi chậm nộp.
+- Trong thời hạn 30 ngày kể từ ngày nhận đầy đủ hồ sơ đề nghị miễn lãi chậm nộp của doanh nghiệp, cơ quan đại diện chủ sở hữu thực hiện thẩm định, ra quyết định miễn lãi chậm nộp cho doanh nghiệp theo quy định tại Nghị định này, trong đó nêu rõ số tiền doanh nghiệp được miễn lãi và số tiền còn phải nộp. Quyết định miễn lãi chậm nộp gửi doanh nghiệp và Bộ Tài chính.
+- Trường hợp hồ sơ miễn lãi chậm nộp chưa đảm bảo đầy đủ nội dung, tài liệu theo quy định thì cơ quan đại diện chủ sở hữu (nêu rõ lý do) trả lời doanh nghiệp trong thời hạn 07 ngày kể từ ngày nhận được hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||30 ngày kể từ ngày nhận đầy đủ hồ sơ|
+|Dịch vụ bưu chính|30 Ngày||30 ngày kể từ ngày nhận đầy đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị của doanh nghiệp về việc xem xét, miễn lãi chậm nộp (bản chính) theo Phụ lục V kèm theo Nghị định số 148/2021/NĐ-CP ngày 31/12/2021 của Chính phủ; ([VB đề nghị xem xét miễn lãi chậm nộp.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6eb720cd71f64'))
+- 01 Bản sao - Các tài liệu liên quan theo các trường hợp quy định tại điểm 1 Phụ lục này (bản chính/sao y).
+- 01 Bản sao - Tài liệu, chứng từ nộp về Quỹ và xác định số còn phải nộp (bản chính/sao y).
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cơ quan đại diện chủ sở hữu
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định miễn lãi chậm nộp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|148/2021/NĐ-CP|Nghị định 148/2021/NĐ-CP|31-12-2021||
+
+Yêu cầu, điều kiện thực hiện:
+- Doanh nghiệp có kết quả kinh doanh thua lỗ và/hoặc còn lỗ lũy kế đến thời điểm được xem xét miễn lãi chậm nộp; doanh nghiệp đã sử dụng nguồn lợi nhuận sau thuế thu nhập doanh nghiệp và các khoản bồi thường của tập thể, cá nhân có liên quan đến việc chậm nộp nhưng không đủ để bù đắp khoản lãi chậm nộp, Doanh nghiệp nộp nhầm về ngân sách nhà nước thay vì nộp về Quỹ Hỗ trợ sắp xếp và Phát triển doanh nghiệp (Quỹ).
+- Doanh nghiệp chậm nộp tiền về Quỹ theo thời gian quy định do Cơ quan có thẩm quyền chậm phê duyệt quyết toán cổ phần hóa dẫn đến.
+- Doanh nghiệp cổ phần hóa khi đánh giá lại giá trị thực tế phần vốn nhà nước tại thời điểm xác định giá trị doanh nghiệp và thời điểm chính thức chuyển sang công ty cổ phần không phát sinh dòng tiền dẫn đến chậm nộp tiền về Quỹ theo thời gian quy định.
+- Doanh nghiệp cấp 2 cổ phần hóa theo hình thức bán bớt phần vốn đầu tư của doanh nghiệp cấp 1 đã hoàn tất việc bán cổ phần lần đầu chậm nộp hoặc chưa nộp tiền thu từ bán cổ phần lần đầu tương ứng số tiền phải hoàn trả doanh nghiệp cấp 1 phần giá trị sổ sách của số cổ phần bán ra và số thuế phải nộp theo quy định (nếu có).
+- Doanh nghiệp có kết quả kinh doanh thua lỗ và/hoặc còn lỗ lũy kế đến thời điểm được xem xét miễn lãi chậm nộp; doanh nghiệp đã sử dụng nguồn lợi nhuận sau thuế thu nhập doanh nghiệp và các khoản bồi thường của tập thể, cá nhân có liên quan đến việc chậm nộp nhưng không đủ để bù đắp khoản lãi chậm nộp, Doanh nghiệp nộp nhầm về ngân sách nhà nước thay vì nộp về Quỹ Hỗ trợ sắp xếp và Phát triển doanh nghiệp (Quỹ).
+- Doanh nghiệp chậm nộp tiền về Quỹ theo thời gian quy định do Cơ quan có thẩm quyền chậm phê duyệt quyết toán cổ phần hóa dẫn đến.
+- Doanh nghiệp cổ phần hóa khi đánh giá lại giá trị thực tế phần vốn nhà nước tại thời điểm xác định giá trị doanh nghiệp và thời điểm chính thức chuyển sang công ty cổ phần không phát sinh dòng tiền dẫn đến chậm nộp tiền về Quỹ theo thời gian quy định.
+- Doanh nghiệp cấp 2 cổ phần hóa theo hình thức bán bớt phần vốn đầu tư của doanh nghiệp cấp 1 đã hoàn tất việc bán cổ phần lần đầu chậm nộp hoặc chưa nộp tiền thu từ bán cổ phần lần đầu tương ứng số tiền phải hoàn trả doanh nghiệp cấp 1 phần giá trị sổ sách của số cổ phần bán ra và số thuế phải nộp theo quy định (nếu có).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

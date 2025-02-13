@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục cấm nhập khẩu để làm thiết bị điều khiển, vận hành, khai thác, kiểm tra hoạt động của một phần hoặc toàn bộ hệ thống, dây chuyền sản xuất
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Lệ phí : Không  Phí : Không  Mức giá : Không||
+|Trực tuyến|05 Ngày làm việc|Phí : Không  Lệ phí : Không  Mức giá : Không||
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Không  Lệ phí : Không  Mức giá : Không||

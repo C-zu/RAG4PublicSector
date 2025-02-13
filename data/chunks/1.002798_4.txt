@@ -1,0 +1,8 @@
+Tên thủ tục: Phê duyệt phương án tổ chức giao thông trên đường cao tốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình phê duyệt (bản chính) theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2f1822b3568e2'">Mẫu Tờ trình phê duyệt.docx</a>)
+- 01 Bản chính Phương án tổ chức giao thông.

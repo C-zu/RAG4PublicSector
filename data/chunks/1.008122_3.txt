@@ -1,0 +1,12 @@
+Tên thủ tục: Nhập khẩu thức ăn chăn nuôi chưa được công bố thông tin trên Cổng thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|+ Kiểm tra tính đầy đủ của hồ sơ: Tại thời điểm tiếp nhận hồ sơ.|||
+|Trực tiếp|+ Thẩm định hồ sơ và cấp giấy phép nhập khẩu thức ăn chăn nuôi: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 350.000 Đồng đồng/01 sản phẩm/mục đích/lần||
+|Trực tuyến|+ Kiểm tra tính đầy đủ của hồ sơ: Tại thời điểm tiếp nhận hồ sơ.|||
+|Trực tuyến|+ Thẩm định hồ sơ và cấp giấy phép nhập khẩu thức ăn chăn nuôi: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 350.000 Đồng đồng/01 sản phẩm/mục đích/lần||
+|Dịch vụ bưu chính|+ Kiểm tra tính đầy đủ của hồ sơ: Tại thời điểm tiếp nhận hồ sơ.|||
+|Dịch vụ bưu chính|+ Thẩm định hồ sơ và cấp giấy phép nhập khẩu thức ăn chăn nuôi: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 350.000 Đồng đồng/01 sản phẩm/mục đích/lần||

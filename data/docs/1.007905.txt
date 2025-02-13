@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007905
+Số quyết định:
+272/QĐ-BTC
+Tên thủ tục:
+Thông báo phát hành Biên lai.
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp gửi Thông báo phát hành biên lai, Biên lai mẫu cho Cục hải quan tỉnh, thành phố nơi Doanh nghiệp đăng ký tờ khai hải quan.
++ Bước 2: Cơ quan hải quan tiếp nhận Thông báo phát hành Biên lai để quản lý và cập nhật trên trang thông tin điện tử của Tổng cục Hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|10 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Trong thời hạn 10 ngày kể từ ngày nhận được Thông báo phát hành Biên lai và Biên lai mẫu, Cục Hải quan tỉnh, thành phố nơi nhận Thông báo phát hành Biên lai của Doanh nghiệp phải thông báo thông tin phát hành Biên lai trên trang thông tin điện tử của ngành hải quan.|
+|Dịch vụ bưu chính|10 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Trong thời hạn 10 ngày kể từ ngày nhận được Thông báo phát hành Biên lai và Biên lai mẫu, Cục Hải quan tỉnh, thành phố nơi nhận Thông báo phát hành Biên lai của Doanh nghiệp phải thông báo thông tin phát hành Biên lai trên trang thông tin điện tử của ngành hải quan.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ 1. Thông báo phát hành Biên lai: 01 bản chính (Theo mẫu 01 ban hành kèm theo Thông tư số 178/2011/TT-BTC ngày 8/12/2011)
+ 2. Biên lai mẫu: 01 bản chính (Theo các tiêu chí quy định ở khoản 3, Điều 6 Thông tư số 178/2011/TT-BTC ngày 8/12/2011)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo thông tin phát hành hoặc thông báo không đảm bảo nội dung phát hành theo quy định.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật 78/2006/QH11|29-11-2006|Quốc Hội|
+|29/2001/QH10|Luật|29-06-2001|Quốc Hội|
+|42/2005/QH11|Luật|14-06-2005|Quốc Hội|
+|51/2005/QH11|Luật 51/2005/QH11|29-11-2005|Quốc Hội|
+|03/2003/QH11|Luật 03/2003/QH11|17-06-2003|Quốc Hội|
+|118/2008/NĐ-CP|Nghị định 118/2008/NĐ-CP|27-11-2008|Chính phủ|
+|178/2011/TT-BTC|Thông tư 178/2011/TT-BTC|08-12-2011|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp chuyển phát nhanh đường hàng không quốc tế đang hoạt động kinh doanh.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

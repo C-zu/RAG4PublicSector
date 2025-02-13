@@ -1,0 +1,6 @@
+Tên thủ tục: Thay đổi thông tin đã đăng ký
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Ký Phụ lục Hợp đồng mua bán điện

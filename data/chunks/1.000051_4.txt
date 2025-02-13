@@ -1,0 +1,7 @@
+Tên thủ tục: Báo cáo định kỳ của thành viên mạng lưới về hoạt động ứng cứu sự cố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính báo cáo tổng hợp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe94f0359a1a4a3'">Mẫu số 5_BC định kỳ của thành viên mạng lưới về hoạt động ứng cứu sự cố.doc</a>)

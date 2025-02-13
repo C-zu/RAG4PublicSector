@@ -1,0 +1,23 @@
+Tên thủ tục: Tách thửa hoặc hợp thửa đất
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trực tiếp
+- Người sử dụng đất nộp hồ sơ tại Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai hoặc cơ quan tiếp nhận hồ sơ theo quy định của Ủy ban nhân dân cấp tỉnh hoặc địa điểm theo nhu cầu đối với những địa phương mà Ủy ban nhân dân cấp tỉnh đã ban hành quy chế tiếp nhận, luân chuyển hồ sơ, giải quyết và trả kết quả giải quyết thủ tục theo nhu cầu về địa điểm.
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định. 
+- Cơ quan tiếp nhận hồ sơ ghi đầy đủ thông tin vào Sổ tiếp nhận hồ sơ và trả kết quả, trao Phiếu tiếp nhận hồ sơ và trả kết quả cho người nộp hồ sơ.
+- Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai có trách nhiệm thực hiện:
++ Đo đạc địa chính để chia tách thửa đất; 
++ Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người sử dụng đất đối với thửa đất mới tách, hợp thửa;
++ Chỉnh lý, cập nhật biến động vào hồ sơ địa chính, cơ sở dữ liệu đất đai; trao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người được cấp.
++ Trường hợp tách thửa do chuyển quyền sử dụng một phần thửa đất hoặc do giải quyết tranh chấp, khiếu nại, tố cáo, đấu giá đất hoặc do chia tách hộ gia đình, nhóm người sử dụng đất; do xử lý hợp đồng thế chấp, góp vốn, kê biên bán đấu giá quyền sử dụng đất để thi hành án (sau đây gọi là chuyển quyền) thì Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai thực hiện các công việc sau:
+Đo đạc địa chính chia tách thửa đất và lập bản trích lục thửa đất mới tách theo kết quả đo đạc địa chính để chuyển cho người sử dụng đất thực hiện ký kết hợp đồng, văn bản giao dịch về quyền sử dụng một phần thửa đất mới tách;
+Thực hiện thủ tục đăng ký biến động theo quy định đối với phần diện tích chuyển quyền; đồng thời xác nhận thay đổi vào Giấy chứng nhận đã cấp hoặc cấp Giấy chứng nhận đối với phần diện tích còn lại của thửa đất không chuyển quyền; chỉnh lý, cập nhật biến động vào hồ sơ địa chính, cơ sở dữ liệu đất đai; trao cho người sử dụng đất.
++ Trường hợp tách thửa do Nhà nước thu hồi một phần thửa đất thì cơ quan tài nguyên và môi trường có trách nhiệm chỉ đạo Văn phòng đăng ký đất đai  căn cứ quyết định thu hồi của cơ quan nhà nước có thẩm quyền thực hiện các công việc sau:
+Đo đạc chỉnh lý bản đồ địa chính, hồ sơ địa chính và cơ sở dữ liệu đất đai;
+Xác nhận thay đổi vào Giấy chứng nhận đã cấp và trao cho người sử dụng đất.
+Thực hiện thủ tục trên môi trường điện tử
+Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do.
+Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công.
+Cơ quan tiếp nhận hoặc cơ quan giải quyết hồ sơ thông báo cho người yêu cầu thực hiện thủ tục hành chính nộp bản chính Giấy chứng nhận đã cấp, các giấy tờ theo quy định sau khi người sử dụng đất hoàn thành nghĩa vụ tài chính.
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất

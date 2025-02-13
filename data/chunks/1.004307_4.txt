@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn chứng chỉ vô tuyến điện viên hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn chứng chỉ vô tuyến điện viên hàng hải (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd11773c787e07c'">MẪU ĐƠN ĐỀ NGHỊ GIA HẠN CHỨNG CHỈ VÔ TUYẾN ĐIỆN VIÊN HÀNG HẢI.docx</a>)
+- 01 Bản sao Bản chính hoặc bản sao hợp pháp giấy chứng nhận sức khỏe của thuyền viên theo quy định của Bộ Y tế
+- 01 Bản chính Ảnh 3x4 chụp trong vòng 06 tháng trước ngày nộp hồ sơ (02 ảnh đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ trên môi trường điện tử)
+- 01 Bản sao Bản sao hợp pháp sổ thuyền viên hoặc hộ chiếu thuyền viên hoặc văn bản tương đương; hoặc Giấy tờ chứng minh đạt yêu cầu kỳ thi tốt nghiệp khoá đào tạo vô tuyến điện viên hàng hải hệ GMDSS hạng tương ứng (đối với trường hợp không đáp ứng được điểu kiện về thời gian đã đảm nhiệm công việc theo chức danh phù hợp với chứng chỉ vô tuyến điện viên hàng hải với tổng thời gian ít nhất là 01 năm trong vòng 05 năm kể từ ngày được cấp chứng chỉ hoặc ít nhất là 03 tháng trong vòng 06 tháng ngay trước khi chứng chỉ hết hạn).

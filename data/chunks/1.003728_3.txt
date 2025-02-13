@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu không dùng làm thực phẩm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : Phí kiểm dịch động vật, sản phẩm động vật (bao gồm cả thủy sản: Chi tiết theo Mục III Biểu phí, lệ phí trong công tác thú y ban hành kèm theo Thông tư số 101/2020/TT-BTC  Phí : Chi phí khác: Biểu khung giá dịch vụ ban hành kèm theo Thông tư số 283/2016/TT-BTC ngày 14/11/2016|05 ngày làm việc kể từ khi bắt đầu kiểm dịch|
+|Trực tuyến|5 Ngày làm việc|Phí : Phí kiểm dịch động vật, sản phẩm động vật (bao gồm cả thủy sản: Chi tiết theo Mục III Biểu phí, lệ phí trong công tác thú y ban hành kèm theo Thông tư số 101/2020/TT-BTC  Phí : Chi phí khác: Biểu khung giá dịch vụ ban hành kèm theo Thông tư số 283/2016/TT-BTC ngày 14/11/2016|05 ngày làm việc kể từ khi bắt đầu kiểm dịch|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : Phí kiểm dịch động vật, sản phẩm động vật (bao gồm cả thủy sản: Chi tiết theo Mục III Biểu phí, lệ phí trong công tác thú y ban hành kèm theo Thông tư số 101/2020/TT-BTC  Phí : Chi phí khác: Biểu khung giá dịch vụ ban hành kèm theo Thông tư số 283/2016/TT-BTC ngày 14/11/2016|05 ngày làm việc kể từ khi bắt đầu kiểm dịch|

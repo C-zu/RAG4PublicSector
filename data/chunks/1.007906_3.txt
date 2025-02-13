@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo kết quả hủy Biên lai
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|05 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Thời hạn gửi Thông báo kết quả hủy Biên lai đến Cục Hải quan tỉnh, thành phố chậm nhất là 5 ngày kể từ ngày thực hiện hủy Biên lai.|
+|Dịch vụ bưu chính|05 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Thời hạn gửi Thông báo kết quả hủy Biên lai đến Cục Hải quan tỉnh, thành phố chậm nhất là 5 ngày kể từ ngày thực hiện hủy Biên lai.|

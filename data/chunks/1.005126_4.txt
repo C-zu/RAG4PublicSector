@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy phép xây dựng, cải tạo, nâng cấp đường ngang
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp giấy phép xây dựng, cải tạo, nâng cấp đường ngang (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2b9a9e5742214'">1.005126 mẫu đơn.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử) : Quyết định phê duyệt dự án đầu tư xây dựng công trình
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử): Quyết định phê duyệt thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công của đường ngang
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử): Hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công của đường ngang đã được phê duyệt
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử): Phương án tổ chức thi công đường ngang và biện pháp bảo đảm an toàn giao thông trong quá trình thi công được cấp thẩm quyền phê duyệt hoặc chủ đầu tư chấp thuận

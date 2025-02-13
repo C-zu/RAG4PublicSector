@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời vỉa hè, lòng đường làm nơi để xe
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Phòng quản lý đô thị, Phòng Kinh tế - Hạ tầng
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa cấp huyện
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng tạm thời vỉa hè, lòng đường đô thị ngoài mục đích giao thông.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|23/2008/QH12|Luật giao thông đường bộ|13-11-2008|Quốc Hội|
+|Nghị định số 100/2013/NĐ-CP|100/2013/NĐ-CP|03-09-2013||
+|11/2010/NĐ-CP|Nghị định|24-02-2010||
+|20/2012/QĐ-UBND|Quy định về quản lý, sử dụng tạm thời một phần vỉa hè, lòng đường đô thị ngoài mục đích giao thông trên địa bàn tỉnh|22-06-2012||
+|70/2020/QĐ-UBND|Sửa đổi, bổ sung một số điều tại Quy định về quản lý, sử dụng tạm thời một phần vỉa hè, lòng đường đô thị ngoài mục đích giao thông trên địa bàn tỉnh Bình Định ban hành kèm theo Quyết định số 20/2012/QĐ-UBND ngày 22 tháng 6 năm 2012 của UBND tỉnh Bình Định|27-10-2020||

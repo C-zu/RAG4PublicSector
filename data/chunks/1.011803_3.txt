@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|23 Ngày làm việc|Phí : Đồng Không|Trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả của UBND cấp huyện.|
+|Trực tuyến|23 Ngày làm việc|Phí : Đồng Không|Trực tuyến tại địa chỉ: http://dichvucong.nghean.gov.vn.|
+|Dịch vụ bưu chính|23 Ngày làm việc|Phí : Đồng Không|Qua hệ thống bưu chính đến Bộ phận Tiếp nhận và Trả kết quả của UBND cấp huyện.|

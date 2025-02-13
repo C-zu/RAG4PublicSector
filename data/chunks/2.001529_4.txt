@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a9ff38a23880'">Mẫu Đơn đề nghị Cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự.docx</a>)
+- 02 Bản sao - Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương;
+- 02 Bản sao - Bản sao văn bằng hoặc chứng chỉ chuyên môn về bảo mật, an toàn thông tin của đội ngũ quản lý, điều hành, kỹ thuật;
+- 02 Bản chính - Phương án kỹ thuật gồm tài liệu về đặc tính kỹ thuật, tham số kỹ thuật của sản phẩm; tiêu chuẩn, quy chuẩn kỹ thuật của sản phẩm; tiêu chuẩn, chất lượng dịch vụ; các biện pháp, giải pháp kỹ thuật; phương án bảo hành, bảo trì sản phẩm;
+- 02 Bản chính - Phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+- 02 Bản chính - Phương án kinh doanh gồm phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm, dịch vụ hệ thống phục vụ khách hàng và bảo đảm kỹ thuật.

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất trong Khu kinh tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : Phí thẩm định hồ sơ giao đất, cho thuê đất các tổ chức 3.000.000 đồng/hồ sơ.|Không quá 20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ (không kể thời gian xác định giá đất cụ thể, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất).|
+|Trực tuyến|20 Ngày làm việc|Phí : Phí thẩm định hồ sơ giao đất, cho thuê đất các tổ chức 3.000.000 đồng/hồ sơ.|Không quá 20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ (không kể thời gian xác định giá đất cụ thể, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất).|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : Phí thẩm định hồ sơ giao đất, cho thuê đất các tổ chức 3.000.000 đồng/hồ sơ.|Không quá 20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ (không kể thời gian xác định giá đất cụ thể, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất).|

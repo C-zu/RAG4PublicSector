@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000079
+Số quyết định:
+1490/QĐ-BKHCN
+Tên thủ tục:
+Thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước mà có tiềm ẩn yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an ninh, môi trường, tính mạng, sức khỏe con người
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Bước 1:  Tổ chức, cá nhân ứng dụng kết quả thực hiện nhiệm vụ mà mà có tiềm ẩn yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an ninh, môi trường, tính mạng, sức khỏe con người gửi hồ sơ theo quy định đến Sở Khoa học và Công nghệ để thẩm định trước khi ứng dụng.
+Bước 2: Kể từ khi nhận được hồ sơ, trong thời hạn 05 (năm) ngày làm việc, Sở Khoa học và Công nghệ xem xét những nội dung sau:
+
++ Xem xét hồ sơ và xác định các điều kiện tổ chức thực hiện việc thẩm định. Đối với những kết quả thực hiện nhiệm vụ mà Sở Khoa học và Công nghệ không đủ điều kiện thẩm định, Sở Khoa học và Công nghệ gửi công văn (kèm theo hồ sơ) đề nghị Bộ Khoa học và Công nghệ thực hiện thẩm định, đồng thời thông báo cho tổ chức, cá nhân đề nghị biết về cơ quan thực hiện thẩm định.
+
++  Kiểm tra tính hợp lệ của hồ sơ, trong trường hợp hồ sơ chưa đầy đủ hợp lệ phải thông báo cho tổ chức, cá nhân bổ sung trong thời hạn 30 ngày.
+Bước 3: Sở Khoa học và Công nghệ cấp Giấy xác nhận được thực hiện trong thời hạn 45 ngày làm việc, kể từ ngày tiếp nhận hồ sơ đầy đủ, hợp lệ. Trường hợp kết quả thực hiện nhiệm vụ cần được đo kiểm thì thời gian đo kiểm không được tính vào thời gian thực hiện đánh giá
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày làm việc||45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Trực tuyến|45 Ngày làm việc||Nộp hồ sơ tại Cổng dịch vụ công trực tuyến của Sở Khoa học và Công nghệ|
+|Dịch vụ bưu chính|45 Ngày làm việc||45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị đánh giá, thẩm định của tổ chức, cá nhân ứng dụng kết quả thực hiện nhiệm vụ khoa học và công nghệ ([Giấy đề nghị đánh giá, thẩm định kết quả nhiệm vụ KHCN không sử dụng NSNN.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4440f2d50f7ba'))
+- 01 Bản chính Văn bản cho phép ứng dụng của tổ chức, cá nhân chủ trì kết quả thực hiện nhiệm vụ ([Văn bản cho phép sử dụng kết quả nhiệm vụ KHCN không sử dụng NSNN.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe44b2ea0ca8162'))
+- 01 Bản chính Tài liệu về kết quả thực hiện nhiệm vụ: Thuyết minh nhiệm vụ khoa học và công nghệ đã được phê duyệt (nếu có); Báo cáo kết quả thực hiện nhiệm vụ và các tài liệu kèm theo; Quyết định thành lập Hội đồng nghiệm thu kết quả nghiên cứu và Biên bản đánh giá của Hội đồng nghiệm thu các cấp (nếu có).
+- 01 Bản chính Thuyết minh chi tiết việc ứng dụng kết quả thực hiện nhiệm vụ vào sản xuất, đời sống ([Thuyết minh chi tiết việc ứng dụng kết quả nhiệm vụ KHCN không sử dụng NSNN.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf00455c3555c0'))
+- 01 Bản sao Dự án đầu tư ứng dụng kết quả thực hiện nhiệm vụ khoa học và công nghệ (nếu có).
+- 01 Bản sao Quyết định thành lập, đăng ký hoạt động khoa học và công nghệ (đối với tổ chức khoa học và công nghệ) hoặc đăng ký hoạt động sản xuất, kinh doanh (đối với doanh nghiệp) của tổ chức đăng ký ứng dụng; Chứng minh thư nhân dân đối với cá nhân đăng ký ứng dụng
+- 01 Bản chính Tóm tắt hoạt động khoa học và công nghệ, sản xuất kinh doanh của tổ chức, cá nhân đăng ký ứng dụng
+- 01 Bản sao Giấy xác nhận kết quả thực hiện nhiệm (nếu có).
+- 01 Bản sao Giấy xác nhận thẩm định kết quả thực hiện nhiệm vụ đã được cấp (nếu có).
+- 01 Bản chính Những tài liệu khác có liên quan đến kết quả thực hiện nhiệm vụ khoa học và công nghệ cần thẩm định
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận thẩm định thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2014/NĐ-CP|Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật khoa học và công nghệ|27-01-2014|Chính phủ|
+|29/2013/QH13|Luật 29/2013/QH13|18-06-2013|Quốc Hội|
+|02/2015/TT-BKHCN|Thông tư Quy định việc đánh giá và thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước|06-03-2015|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước mà có tiềm ẩn yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an ninh, môi trường, tính mạng, sức khỏe con người
+Mô tả:
+Không có thông tin

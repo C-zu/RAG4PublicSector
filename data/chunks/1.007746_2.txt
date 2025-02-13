@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục thuê kho bên ngoài Doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của Doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp chế xuất (DNCX) gửi văn bản tới Chi cục Hải quan quản lý DNCX kèm theo thông tin về địa điểm, vị trí, diện tích, các điều kiện về cơ sở hạ tầng, cơ chế quản lý giám sát hàng hóa đưa vào, đưa ra kho, thời gian thuê kho;
++ Bước 2: Căn cứ đề nghị của DNCX, Chi cục Hải quan quản lý DNCX thực hiện kiểm tra hiện trạng kho, đối chiếu với điều kiện quy định tại điểm a khoản này để xem xét, quyết định cho DNCX được thuê kho bên ngoài DNCX hoặc báo cáo nếu vượt thẩm quyền.

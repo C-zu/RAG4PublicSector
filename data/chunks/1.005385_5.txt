@@ -1,0 +1,27 @@
+Tên thủ tục: Thủ tục tiếp nhận vào làm công chức
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Bộ Nội vụ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định tiếp nhận công chức
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|22/2008/QH12|Luật Cán bộ, công chức|13-11-2008|Quốc Hội|
+|52/2019/QH14|Luật 52/2019/QH14|25-11-2019||
+|138/2020/NĐ-CP|Nghị định 138/2020/NĐ-CP|27-11-2020||
+|11/2014/TT-BNV|Thông tư 11/2014/TT-BNV|09-10-2014||
+|05/2017/TT-BNV|Thông tư 05/2017/TT-BNV|15-08-2017||
+|79/2005/TT-BNV|Thông tư 79/2005/TT-BNV|10-08-2005||
+|13/2018/TT-BNV|Thông tư 13/2018/TT-BNV|19-10-2018||

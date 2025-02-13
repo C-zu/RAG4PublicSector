@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp mã số, mã vạch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||Tổ chức có nhu cầu sử dụng mã số, mã vạch nộp trực tiếp hoặc gửi qua bưu điện tới Tổng cục Tiêu chuẩn Đo lường Chất lượng . Trường hợp nộp trực tiếp thì phải có bản chính để đối chiếu. Trường hợp hồ sơ gửi qua bưu điện, nộp bản sao được chứng thực hoặc bản sao y bản chính có ký tên, đóng dấu.|

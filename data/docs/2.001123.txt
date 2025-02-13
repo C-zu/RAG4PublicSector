@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001123
+Số quyết định:
+1557/QĐ-BTTTT
+Tên thủ tục:
+Cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+Doanh nghiệp chuẩn bị hồ sơ đề nghị cấp giấy phép nhập khẩu sản phẩm an toàn thông tin mạng theo quy định và nộp đến Cục An toàn thông tin - Bộ Thông tin và Truyền thông.
+Trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận hồ sơ, Cục An toàn thông tin kiểm tra và gửi thông báo cho doanh nghiệp về tính đầy đủ của hồ sơ bằng văn bản hoặc hình thức điện tử.
+Trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cục An toàn thông tin - Bộ Thông tin và Truyền thông thẩm định và cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng cho doanh nghiệp.
+Trường hợp từ chối cấp, Cục An toàn thông tin - Bộ Thông tin và Truyền thông phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : 200000 Đồng 200.000 đồng/01 lần cấp|Nộp trực tiếp tại Cục An toàn thông tin.|
+|Trực tuyến|5 Ngày làm việc|Phí : 200000 Đồng 200.000 đồng/01 lần cấp|Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : 200000 Đồng 200.000 đồng/01 lần cấp|Địa chỉ: Cục An toàn thông tin: Tòa nhà 115 Trần Duy Hưng, Cầu Giấy, Hà Nội.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng ([Mau so 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd89b896f94f834'))
+- 01 Bản sao Giấy chứng nhận hoặc công bố hợp chuẩn, hợp quy: bản sao có chứng thực, trường hợp bản sao không có chứng thực thì mang bản chính để đối chiếu;
+- 01 Bản chính, 01 Bản sao Tài liệu kỹ thuật mô tả chức năng của sản phẩm đề nghị nhập khẩu: bản sao, bằng tiếng Việt Nam hoặc tiếng Anh
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục An toàn thông tin, Bộ Thông tin và Truyền thông (Tầng 8, 115 Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|86/2015/QH13|Luật 86/2015/QH13|19-11-2015|Quốc Hội|
+|108/2016/NĐ-CP|Nghị định 108/2016/NĐ-CP|01-07-2016|Chính phủ|
+|269/2016/TT-BTC|Thông tư 269/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|13/2018/TT-BTTTT|Thông tư 13/2018/TT-BTTTT|15-10-2018|Bộ Thông tin và Truyền thông|
+|10/2022/TT-BTTTT|Thông tư 10/2022/TT-BTTTT|20-07-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng khi đáp ứng đủ các điều kiện sau đây:
+
+- Có Giấy phép kinh doanh sản phẩm an toàn thông tin mạng;
+
+- Sản phẩm an toàn thông tin mạng phải thực hiện chứng nhận, công bố hợp quy theo quy định tại Điều 39 của Luật An toàn thông tin mạng;
+
+- Đối tượng và mục đích sử dụng sản phẩm an toàn thông tin mạng không gây phương hại đến quốc phòng, an ninh quốc gia và trật tự, an toàn xã hội.
+Doanh nghiệp được cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng khi đáp ứng đủ các điều kiện sau đây:
+
+- Có Giấy phép kinh doanh sản phẩm an toàn thông tin mạng;
+
+- Sản phẩm an toàn thông tin mạng phải thực hiện chứng nhận, công bố hợp quy theo quy định tại Điều 39 của Luật An toàn thông tin mạng;
+
+- Đối tượng và mục đích sử dụng sản phẩm an toàn thông tin mạng không gây phương hại đến quốc phòng, an ninh quốc gia và trật tự, an toàn xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp điện mới từ lưới điện hạ áp (220/380V)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|||
+|Trực tuyến|5 Ngày làm việc|||

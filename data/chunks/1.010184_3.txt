@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định dự án/dự án điều chỉnh hoặc thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn giải quyết: * Đối với thẩm định dự án/dự án điều chỉnh: - 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B. - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C. * Đối với thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh: - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B.|Phí : Đồng Thực hiện theo Thông tư số 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính||
+|Trực tuyến|Thời hạn giải quyết: * Đối với thẩm định dự án/dự án điều chỉnh: - 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B. - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C. * Đối với thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh: - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B.|Phí : Đồng Thực hiện theo Thông tư số 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính||
+|Dịch vụ bưu chính|Thời hạn giải quyết: * Đối với thẩm định dự án/dự án điều chỉnh: - 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B. - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C. * Đối với thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh: - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B.|Phí : Đồng Thực hiện theo Thông tư số 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính||

@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp lại thẻ ABTC
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + 01 tờ khai đề nghị cấp thẻ ABTC (mẫu TK06) ban hành kèm theo Quyết định số 09/2023/QĐ-TTg ngày 12/4/2023 của Thủ tướng Chính phủ có xác nhận và đóng dấu giáp lai ảnh của lãnh đạo doanh nghiệp hoặc cơ quan, tổ chức cán bộ của các ngành kinh tế, cơ quan quản lý nhà nước chuyên ngành về hoạt động của doanh nghiệp. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbc69afd4b6d1c'">Tờ khai đề nghị cấp thẻ ABTC (mẫu TK06).pdf</a>)
+- 02 Bản chính + 02 ảnh mới chụp, cỡ 3cm x 4cm, đầu để trần, mặt nhìn thẳng, không đeo kính, phông nền màu trắng.
+- 01 Bản chính + Đối với trường hợp doanh nhân đề nghị cấp lại thẻ ABTC do thẻ ABTC cũ gần hết giá trị sử dụng thì cơ quan, tổ chức, doanh nghiệp phải nộp thêm bản chính văn bản xác nhận doanh nhân vẫn giữ nguyên vị trí công tác so với lần cấp thẻ trước đó và thẻ ATBC cứng nếu có.
+- 01 Bản sao + Đối với trường hợp doanh nhân được cấp hộ chiếu mới thì doanh nghiệp phải nộp thêm bản sao có chứng thức hoặc bản sao điện tử có chứng thực hộ chiếu mới và thẻ ABTC cứng nếu có. Trường hợp bản sao không có chứng thức thì xuất trình bản chính để kiểm tra, đối chiếu.
+- 01 Bản chính + Đối với trường hợp doanh nhân đề nghị bổ sung nền kinh tế thành viên vào thẻ ABTC thì doanh nghiệp phải nộp thêm thẻ ABTC cứng nếu có.
+- 01 Bản chính + Đối với trường hợp doanh nhân bị mất thẻ ABTC cứng hoặc tài khoản đăng nhập thẻ ABTC điện tử thì doanh nghiệp phải nộp thêm đơn trình báo mất thẻ ABTC theo mẫu TK07 ban hành kèm theo Quyết định số 09/2023/QĐ-TTg ngày 12/4/2023 của Thủ tướng Chính phủ hoặc văn bản của Cục Quản lý xuất nhập cảnh, Bộ Công an về việc đã hủy giá trị sử dụng của thẻ ABTC báo mất theo mẫu CV04 ban hành kèm theo Quyết định số 09/2023/QĐ-TTg ngày 12/4/2023 của Thủ tướng Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe455f98287ef3f'">Đơn trình báo mất thẻ ABTC (mẫu TK07).pdf</a>)
+- 01 Bản chính + Đối với trường hợp thẻ ABTC cứng bị hư hỏng thì doanh nghiệp phải nộp thêm thẻ ABTC cũ bị hư hỏng.
+ * Số lượng hồ sơ: 01 (một) bộ.

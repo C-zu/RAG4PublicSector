@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp sửa đổi, bổ sung Giấy phép bán buôn sản phẩm thuốc lá cho thương nhân đặt trụ sở tại khu công nghiệp (KCN), khu kinh tế (KKT), khu kinh tế cửa khẩu (KKTCK)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : Phí thẩm định: Đối với nhà đầu tư trên địa bàn thành phố Đồng Hới, thị xã Ba Đồn: Mức thu phí thẩm định: 1.200.000 đồng/lần thẩm định. Đồng  Phí : Phí thẩm định:Đối với nhà đầu tư trên địa bàn các huyện còn lại: Mức thu phí thẩm định: 600.000 đồng/lần thẩm định. Đồng  Lệ phí : Lệ phí cấp Giấy chứng nhận đủ điều kiện kinh doanh: Đối với nhà đầu tư trên địa bàn các huyện còn lại: Mức thu lệ phí: 100.000 đồng/giấy/lần cấp. Đồng  Lệ phí : Lệ phí cấp Giấy chứng nhận đủ điều kiện kinh doanh: Đối với nhà đầu tư trên địa bàn thành phố Đồng Hới, thị xã Ba Đồn: Mức thu lệ phí: 200.000 đồng/giấy. Đồng|15 ngày làm việc kể từ ngày nhận được bộ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : Phí thẩm định: Đối với nhà đầu tư trên địa bàn thành phố Đồng Hới, thị xã Ba Đồn: Mức thu phí thẩm định: 1.200.000 đồng/lần thẩm định. Đồng  Phí : Phí thẩm định:Đối với nhà đầu tư trên địa bàn các huyện còn lại: Mức thu phí thẩm định: 600.000 đồng/lần thẩm định. Đồng  Lệ phí : Lệ phí cấp Giấy chứng nhận đủ điều kiện kinh doanh: Đối với nhà đầu tư trên địa bàn các huyện còn lại: Mức thu lệ phí: 100.000 đồng/giấy/lần cấp. Đồng  Lệ phí : Lệ phí cấp Giấy chứng nhận đủ điều kiện kinh doanh: Đối với nhà đầu tư trên địa bàn thành phố Đồng Hới, thị xã Ba Đồn: Mức thu lệ phí: 200.000 đồng/giấy. Đồng|15 ngày làm việc kể từ ngày nhận được bộ hồ sơ hợp lệ.|

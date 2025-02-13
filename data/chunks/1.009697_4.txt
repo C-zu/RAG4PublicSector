@@ -1,0 +1,9 @@
+Tên thủ tục: Lập, thẩm định, quyết định đầu tư chương trình, dự án đầu tư thuộc thẩm quyền của người đứng đầu cơ quan chủ quản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Tờ trình thẩm định chương trình, dự án theo mẫu BM.ODA.02.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1d7d9d551526c'">mẫu 3.docx</a>)
+- 02 Bản chính Báo cáo nghiên cứu khả thi chương trình, dự án;
+- 02 Bản sao Các tài liệu khác có liên quan.

@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục tiếp công dân cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Theo khoản 1 Điều 28 Luật Tiếp công dân: Trong thời hạn 10 ngày làm việc, kể từ ngày tiếp nhận nội dung khiếu nại, tố cáo, kiến nghị, phản ánh, người tiếp công dân có trách nhiệm trả lời trực tiếp hoặc thông báo bằng văn bản đến người đã đến khiếu nại, tố cáo, kiến nghị, phản ánh.|

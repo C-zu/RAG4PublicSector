@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007739
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Người khai hải quan thực hiện đăng ký Danh mục các chi tiết, linh kiện rời của máy móc, thiết bị, bằng phương thức điện tử kèm theo 01 Phiếu theo dõi trừ lùi các chi tiết, linh kiện rời của máy móc, thiết bị trước khi nhập khẩu lô hàng đầu tiên với Chi cục Hải quan nơi thuận tiện nhất;
++ Chi cục Hải quan nơi người khai hải quan đăng ký Danh mục có trách nhiệm tiếp nhận, lập phiếu theo dõi, đóng dấu xác nhận vào 02 bản Danh mục hàng hóa nhập khẩu và 01 bản phiếu theo dõi trừ; thực hiện phân loại, tính thuế và trừ lùi khi làm thủ tục hải quan cho hàng hóa thực tế nhập khẩu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Cơ quan hải quan tiếp nhận đăng ký danh mục ngay khi người khai hải quan có đề nghị|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Danh mục các chi tiết, linh kiện rời của máy móc, thiết bị; ([Mẫu số 03 - danh muc.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8a904e3b551fc'))
+- 01 Bản chính + Phiếu theo dõi trừ lùi các chi tiết, linh kiện rời của máy móc. ([Mẫu số 03 - danh muc.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe328877b41fb87'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|14/2015/TT-BTC|Thông tư số 14/2015/TT-BTC ngày 30/1/2015 của Bộ Tài chính hướng dẫn về phân loại hàng hóa, phân tích để phân loại hàng hóa; phân tích để kiểm tra chất lượng, kiểm tra an toàn thực phẩm đối với hàng hóa xuất khẩu, nhập khẩu|30-01-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

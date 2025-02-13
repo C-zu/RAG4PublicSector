@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục giao quyền sở hữu, quyền sử dụng tài sản là kết quả của nhiệm vụ khoa học và công nghệ ngân sách cấp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Trong vòng 60 ngày, kể từ ngày được Hội đồng đánh giá, nghiệm thu kết quả đạt trở lên, tổ chức, cá nhân chủ trì thực hiện nhiệm vụ khoa học và công nghệ có trách nhiệm lập báo cáo về tài sản (trong đó mô tả cụ thể thông tin về tài sản và chi phí tạo lập tài sản) kèm theo các hồ sơ có liên quan, gửi cơ quan được giao quản lý nhiệm vụ khoa học và công nghệ. Trường hợp tổ chức, cá nhân chủ trì thực hiện nhiệm vụ có nhu cầu nhận giao quyền sở hữu hoặc quyền sử dụng tài sản thì lập 01 bộ hồ sơ gửi cơ quan được giao quản lý nhiệm vụ đồng thời với báo cáo về tài sản.
+Bước 2. Trong thời hạn 30 ngày, kể từ ngày nhận đầy đủ hồ sơ hợp lệ của tổ chức, cá nhân chủ trì, cơ quan được giao quản lý nhiệm vụ khoa học và công nghệ có trách nhiệm:
+	a) Lập báo cáo kê khai để đăng nhập thông tin về tài sản vào Cơ sở dữ liệu quốc gia về tài sản công;
+	b) Chủ trì, phối hợp với các cơ quan có liên quan thẩm định đối với đề nghị của tổ chức, cá nhân chủ trì; trình cơ quan, người có thẩm quyền xem xét, quyết định giao quyền sở hữu, quyền sử dụng cho tổ chức, cá nhân chủ trì.
+	Trường hợp tổ chức, cá nhân chủ trì không có đề nghị giao quyền sở hữu, quyền sử dụng, hoặc không có khả năng nghiên cứu, phát triển công nghệ, sản phẩm công nghệ, ứng dụng, thương mại hóa kết quả nghiên cứu thì báo cáo cơ quan, người có thẩm quyền để giao cho tổ chức, cá nhân khác có nhu cầu theo quy định.
+Bước 3. Trong thời hạn 30 ngày, kể từ ngày nhận được đề nghị của cơ quan được giao quản lý nhiệm vụ, cơ quan, người có thẩm quyền xem xét, quyết định giao quyền sở hữu, quyền sử dụng cho tổ chức, cá nhân chủ trì đủ điều kiện được giao.
+Bước 4. Căn cứ quyết định giao quyền sở hữu, quyền sử dụng tài sản của cơ quan, người có thẩm quyền, cơ quan được giao quản lý nhiệm vụ khoa học và công nghệ lập báo cáo kê khai bổ sung để điều chỉnh thông tin trong Cơ sở dữ liệu quốc gia về tài sản công.

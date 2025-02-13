@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đăng ký nhiệm vụ khoa học và công nghệ tiềm năng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày làm việc||Quá trình tổ chức đánh giá xét chọn đề tài và công bố kết quả tài trợ kể từ thời điểm tiếp nhận đủ hồ sơ hợp lệ không quá 60 ngày đối với đề tài tiềm năng (không tính thời gian kiểm tra, khảo sát của tổ công).|
+|Dịch vụ bưu chính|60 Ngày làm việc||Quá trình tổ chức đánh giá xét chọn đề tài và công bố kết quả tài trợ kể từ thời điểm tiếp nhận đủ hồ sơ hợp lệ không quá 60 ngày đối với đề tài tiềm năng (không tính thời gian kiểm tra, khảo sát của tổ công).|

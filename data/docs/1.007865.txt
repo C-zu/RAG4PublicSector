@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007865
+Số quyết định:
+671/QĐ-BTC
+Tên thủ tục:
+Thủ tục hải quan đối với trường hợp tạm nhập, tạm xuất các phương tiện chứa hàng hóa theo phương thức quay vòng
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Người khai hải quan đăng ký, thực hiện thủ tục hải quan;
++ Bước 2: Cơ quan hải quan xem xét, quyết định việc thông quan tờ khai cho người khai hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||Đối với container rỗng có hoặc không có móc treo và bồn mềm lót trong container để chứa hàng lỏng: lựa chọn khai theo phương thức điện tử hoặc khai trên tờ khai giấy và nộp trực tiếp tại trụ sở cơ quan hành chính|
+|Trực tuyến|Không quy định||Trường hợp khác: Điện tử|
+
+Thành phần hồ sơ:
+
+Tạm xuất – tái nhập: Xuất khẩu
+- 01 Bản chính Danh sách mã hiệu phương tiện chứa hàng ([tphhs_tam_nhap_xuat_0504.xlsx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe030ba4484f1ef'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Tờ khai hải quan có xác nhận thông quan
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+|39/2018/TT-BTC|Thông tư 39/2018/TT-BTC|20-04-2018||
+|59/2018/NĐ-CP|Nghị định 59/2018/NĐ-CP|20-04-2018||
+|39/2018/TT-BTC|Thông tư 39/2018/TT-BTC|20-04-2018||
+|274/2016/TT-BTC|Thông tư 274/2016/TT-BTC|14-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Các phương tiện chứa hàng hóa theo phương thức quay vòng bao gồm:
+	a) Container rỗng có hoặc không có móc treo;
+	b) Bồn mềm lót trong container để chứa hàng lỏng;
+	c) Phương tiện (bồn) chứa khí, chất lỏng có kết cấu ổn định, bền chắc, được sử dụng chuyên dùng chứa và vận chuyển khí, có số ký hiệu in cố định trên vỏ mặt bồn, và chuyên chở bằng xe ô tô chuyên dùng;
+	d) Các phương tiện khác có thể sử dụng nhiều lần để chứa hàng hóa xuất khẩu, nhập khẩu.
+Các phương tiện chứa hàng hóa theo phương thức quay vòng bao gồm:
+	a) Container rỗng có hoặc không có móc treo;
+	b) Bồn mềm lót trong container để chứa hàng lỏng;
+	c) Phương tiện (bồn) chứa khí, chất lỏng có kết cấu ổn định, bền chắc, được sử dụng chuyên dùng chứa và vận chuyển khí, có số ký hiệu in cố định trên vỏ mặt bồn, và chuyên chở bằng xe ô tô chuyên dùng;
+	d) Các phương tiện khác có thể sử dụng nhiều lần để chứa hàng hóa xuất khẩu, nhập khẩu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

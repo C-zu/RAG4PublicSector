@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời vỉa hè, lòng đường làm nơi để xe
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp giấy phép theo mẫu phụ lục 1 kèm theo Quyết định số 20/2012/QĐ-UBND ngày 22 tháng 6 năm 2012 của UBND tỉnh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca1f34533bcf28'">Phu luc 1.docx</a>)
+- 01 Bản chính - Bản vẽ vị trí mặt bằng đề nghị cấp phép theo mẫu phụ lục 2 kèm theo Quyết định số 20/2012/QĐ-UBND ngày 22 tháng 6 năm 2012 của UBND tỉnh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec40064f080d66'">Phu luc 2.docx</a>)

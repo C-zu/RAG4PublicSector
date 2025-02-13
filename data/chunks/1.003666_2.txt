@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận nguồn gốc thủy sản khai thác (theo yêu cầu)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+5.1. Trình tự thực hiện:
+a) Nộp hồ sơ: Tổ chức, cá nhân đề nghị cấp, cấp lại Giấy chứng nhận nguồn gốc thủy sản khai thác nộp 01 bộ hồ sơ đến một trong số cơ quan thẩm quyền được quy định tại khoản 2 Điều 9 Thông tư số 21/2018/TT-BNNPTNT.
+b) Thực hiện: Trong thời hạn 02 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ, cơ quan thẩm quyền kiểm tra thông tin, thẩm định hồ sơ và thực hiện:
+- Chứng nhận khi thông tin trong Giấy chứng nhận nguồn gốc thủy sản khai thác được kê khai đầy đủ và đúng theo quy định; xác nhận vào mục C của Giấy xác nhận nguyên liệu thủy sản khai thác khi nguyên liệu chưa sử dụng hết, trả lại 01 bộ hồ sơ cho tổ chức, cá nhân đề nghị (bao gồm bản chính Giấy xác nhận nguyên liệu thủy sản khai thác khi nguyên liệu chưa sử dụng hết) và lưu bản sao hồ sơ tại cơ quan thẩm quyền;
+- Không chứng nhận khi thông tin kê khai trong hồ sơ không đúng với thông tin về tàu cá, Giấy phép khai thác thủy sản, Giấy xác nhận nguyên liệu thủy sản khai thác; trường hợp không chứng nhận, cơ quan thẩm quyền trả lời bằng văn bản và nêu rõ lý do.
+- Giấy chứng nhận cấp lại phải có số trùng với số của bản gốc Giấy chứng nhận nguồn gốc thủy sản khai thác đã cấp và có thêm ký hiệu “R” ở phần “số giấy chứng nhận”; cơ quan thẩm quyền cấp giấy thông báo việc cấp lại Giấy chứng nhận nguồn gốc thủy sản khai thác cho các cơ quan thẩm quyền có liên quan.
+c) Trả kết quả: Cơ quan thẩm quyền thực hiện chứng nhận trả kết quả trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có) cho tổ chức, cá nhân đề nghị.

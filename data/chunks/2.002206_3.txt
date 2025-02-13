@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký mã số đơn vị có quan hệ với ngân sách
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Thời hạn Cơ quan tài chính cấp mã số ĐVHQNS và gửi thông báo cấp Giấy chứng nhận mã số ĐVQHNS điện tử cho đơn vị (lần đầu hoặc cấp lại) là 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp trực tiếp hoặc qua đường bưu chính|
+|Trực tuyến|02 Ngày làm việc||02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp hồ sơ qua Dịch vụ công trực tuyến đăng ký mã số ĐVQHNS.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Thời hạn Cơ quan tài chính cấp mã số ĐVHQNS và gửi thông báo cấp Giấy chứng nhận mã số ĐVQHNS điện tử cho đơn vị (lần đầu hoặc cấp lại) là 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp trực tiếp hoặc qua đường bưu chính|

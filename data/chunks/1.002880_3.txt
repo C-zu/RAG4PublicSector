@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 5.000.000 đồng/lần|03 ngày làm việc, kể từ ngày nhận đơn đề nghị theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 5.000.000đ/lần cấp|03 ngày làm việc, kể từ ngày nhận đơn đề nghị theo quy định|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : Đồng 5.000.000 đồng/lần|03 ngày làm việc, kể từ ngày nhận đơn đề nghị theo quy định.|

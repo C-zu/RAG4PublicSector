@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo thay đổi chủ sở hữu, địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập mạng xã hội
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Thông báo thay đổi chủ sở hữu; địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập mạng xã hội, nội dung bao gồm: Tên tổ chức, doanh nghiệp; số giấy phép thiết lập mạng xã hội; những nội dung thay đổi.

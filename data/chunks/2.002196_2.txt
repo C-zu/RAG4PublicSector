@@ -1,0 +1,11 @@
+Tên thủ tục: Xác đinh cơ quan giải quyết bồi thường (cấp trung ương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Gửi đề nghị xác định cơ quan giải quyết bồi thường:
+(1) Trường hợp người yêu cầu bồi thường chưa xác định được cơ quan giải quyết bồi thường và nộp hồ sơ đến Sở Tư pháp theo quy định tại khoản 4 Điều 41 Luật TNBTCNN năm 2017. Nếu xác định cơ quan giải quyết bồi thường theo quy định tại điểm a hoặc điểm b khoản 1 Điều 40 của Luật TNBTCNN năm 2017 và khoản 1 Điều 32 Nghị định số 68/2018/NĐ-CP ngày 15/5/2018 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Trách nhiệm bồi thường của Nhà nước (sau đây gọi là Nghị định số 68/2018/NĐ-CP) thì Sở Tư pháp gửi ngay hồ sơ đến Bộ Tư pháp;
+(2) Người yêu cầu bồi thường gửi hồ sơ đề nghị xác định cơ quan giải quyết bồi thường đến Bộ Tư pháp đối với các trường hợp quy định tại điểm a hoặc điểm b khoản 1 Điều 40 của Luật TNBTCNN năm 2017 và khoản 1 Điều 32 Nghị định số 68/2018/NĐ-CP.
+
+- Cơ quan quản lý nhà nước về công tác bồi thường nhà nước tổ chức họp với các cơ quan có liên quan để xác định cơ quan giải quyết bồi thường;
+- Trường hợp các cơ quan thống nhất được cơ quan giải quyết bồi thường thì cơ quan quản lý nhà nước về công tác bồi thường nhà nước ban hành văn bản xác định cơ quan giải quyết bồi thường;
+- Trường hợp các cơ quan không thống nhất được cơ quan giải quyết bồi thường thì cơ quan quản lý nhà nước về công tác bồi thường nhà nước quyết định một trong số các cơ quan có liên quan là cơ quan giải quyết bồi thường và ban hành văn bản xác định cơ quan giải quyết bồi thường.

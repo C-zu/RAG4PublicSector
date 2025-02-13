@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002357
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp lại Giấy phép vận tải đường bộ quốc tế giữa Việt Nam và Trung Quốc loại A, B, C, E, F, G cho phương tiện của Việt Nam
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân, đơn vị kinh doanh vận tải nộp 01 bộ hồ sơ cho cơ quan có thẩm quyền cấp giấy phép.
++ Cục Đường bộ Việt Nam cấp: Giấy phép vận tải loại E; Giấy phép vận tải loại F, G lần đầu trong năm (năm được tính từ ngày 01 tháng 01 đến ngày 31 tháng 12);
++ Sở Giao thông vận tải các tỉnh Lai Châu, Hà Giang, Cao Bằng, Lạng Sơn, Quảng Ninh và Sở Giao thông vận tải - Xây dựng Lào Cai cấp: Giấy phép vận tải loại A, B, C; Giấy phép vận tải loại F, G lần thứ hai trong năm.
+b) Giải quyết TTHC:
+* Trường hợp cấp lại giấy phép vận tải loại A, B, C, E hoặc F, G lần đầu trong năm: 
+- Trường hợp tiếp nhận hồ sơ trực tiếp tại cơ quan có thẩm quyền cấp giấy phép hoặc qua đường bưu chính, cán bộ tiếp nhận hồ sơ cập nhật thông tin của các hồ sơ đúng theo quy định vào hệ thống dịch vụ công trực tuyến của cơ quan có thẩm quyền cấp giấy phép. Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan có thẩm quyền cấp giấy phép thông báo trực tiếp hoặc bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến những nội dung chưa đầy đủ hoặc cần sửa đổi đến tổ chức, cá nhân, đơn vị kinh doanh vận tải trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ;
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, cơ quan có thẩm quyền cấp giấy phép thực hiện cấp giấy phép. Trường hợp không cấp, cơ quan có thẩm quyền cấp giấy phép thông báo bằng văn bản hoặc qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do;
+- Việc trả kết quả được thực hiện tại trụ sở cơ quan có thẩm quyền cấp giấy phép hoặc qua đường bưu chính hoặc hình thức trực tuyến theo quy định;
+Sau khi cấp giấy phép vận tải loại F, G lần đầu trong năm, Cục Đường bộ Việt Nam thông báo danh sách phương tiện vận tải đã được cấp giấy phép đến Sở Giao thông vận tải, Sở Giao thông vận tải - Xây dựng.
+* Trường hợp cấp lại giấy phép vận tải loại F, G lần thứ hai trở đi trong năm:
+- Người lái xe hoặc nhân viên của đơn vị kinh doanh vận tải đã được cấp giấy phép lần đầu xuất trình Giấy chứng nhận đăng ký xe ô tô cho Sở Giao thông vận tải, Sở Giao thông vận tải - Xây dựng;
+- Căn cứ vào danh sách phương tiện vận tải đã được cấp giấy phép lần đầu, Sở Giao thông vận tải, Sở Giao thông vận tải - Xây dựng thực hiện cấp giấy phép vận tải loại F, G lần thứ hai trở đi trong năm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Trực tuyến|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Dịch vụ bưu chính|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+
+Thành phần hồ sơ:
+
+* Trường hợp cấp lại giấy phép vận tải loại A, B, C, E hoặc F, G lần đầu trong năm:
+ - Đối với phương tiện thương mại:
+- 01 Bản chính + Giấy đề nghị cấp, cấp lại giấy phép theo mẫu; ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe206d6e3c8a808'))
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký xe ô tô hoặc bản sao giấy hẹn nhận Giấy chứng nhận đăng ký xe ô tô của cơ quan cấp đăng ký hoặc bản sao từ sổ gốc của Giấy chứng nhận đăng ký xe ô tô. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải phải xuất trình thêm bản sao một trong các giấy tờ sau: Hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh.
+ - Đối với xe công vụ gồm:
+- 01 Bản chính + Giấy đề nghị cấp lại giấy phép theo mẫu; ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd573a2396e1c8'))
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký xe ô tô;
+- 01 Bản sao + Bản sao thư mời của đối tác phía Trung Quốc nêu rõ tuyến đường, cửa khẩu và thời gian mời (trường hợp bản gốc không có tiếng Việt hoặc tiếng Anh thì phải kèm theo bản dịch tiếng Việt hoặc tiếng Anh);
+- 01 Bản sao + Bản sao quyết định cử đi công tác của cấp có thẩm quyền.
+
+
+* Trường hợp cấp lại giấy phép vận tải loại F, G lần thứ hai trở đi trong năm:
+- 01 Bản chính - Giấy chứng nhận đăng ký xe ô tô (xuất trình);
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận tải đường bộ quốc tế giữa Việt Nam và Trung Quốc loại A, B, C, E, F, G
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|119/2021/NĐ-CP|Nghị định 119/2021/NĐ-CP|24-12-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

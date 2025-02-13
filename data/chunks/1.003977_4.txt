@@ -1,0 +1,14 @@
+Tên thủ tục: Giấy phép phân phối rượu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp Giấy phép phân phối rượu theo Mẫu số 01 ban hành kèm theo Nghị định số 17/2020/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3c006d1fcd3c1'">MẪU SỐ 01 RƯỢU.docx</a>)
+- 01 Bản sao (2) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương.
+ (3) Tài liệu về hệ thống phân phối rượu gồm một trong hai loại sau:
+- 01 Bản sao a) Bản sao hợp đồng nguyên tắc, thư xác nhận hoặc bản cam kết tham gia hệ thống phân phối rượu kèm bản sao Giấy phép bán buôn rượu của Thương nhân dự kiến tham gia hệ thống phân phối rượu;
+- 01 Bản sao b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh của doanh nghiệp hoặc Giấy chứng nhận đăng ký địa điểm kinh doanh của doanh nghiệp để kinh doanh rượu.
+- 01 Bản chính, 01 Bản sao (4) Tài liệu liên quan đến nhà cung cấp rượu:
+- 01 Bản sao a) Bản sao các văn bản giới thiệu hoặc hợp đồng nguyên tắc của Thương nhân sản xuất rượu, thương nhân phân phối rượu khác hoặc nhà cung cấp rượu ở nước ngoài, trong đó ghi rõ các loại rượu dự kiến kinh doanh phù hợp với hoạt động của các nhà cung cấp rượu;
+- 01 Bản sao b) Trường hợp nhà cung cấp rượu là Thương nhân cần có bản sao Giấy phép sản xuất rượu hoặc Giấy phép phân phối rượu.

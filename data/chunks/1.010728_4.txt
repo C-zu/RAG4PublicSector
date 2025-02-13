@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp đổi giấy phép môi trường (cấp Tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp đổi giấy phép môi trường của dự án đầu tư, cơ sở (mẫu quy định tại Phụ lục XIV ban hành kèm theo Nghị định số 08/2022/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe13863c57c1492'">Phụ lục XIV.doc</a>)
+- 01 Bản sao hồ sơ pháp lý có liên quan đến việc thay đổi trong trường hợp có thay đổi tên dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp hoặc chủ dự án đầu tư, cơ sở

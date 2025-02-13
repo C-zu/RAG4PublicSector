@@ -1,0 +1,15 @@
+Tên thủ tục: Đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: 
+Cơ sở đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa gửi hồ sơ về cơ quan cấp giấy phép hoạt động.
+Bước 2: 
+Sau khi nhận hồ sơ, cơ quan cấp giấy phép hoạt động trả cho cơ sở đề nghị thực hiện khám bệnh, chữa bệnh từ xa phiếu tiếp nhận hồ sơ
+Bước 3: 
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, cơ quan cấp giấy phép hoạt động có trách nhiệm tổ chức thẩm định trong thời hạn 30 ngày, kể từ ngày ghi trên phiếu tiếp nhận hồ sơ. Trường hợp cần thiết có thể tổ chức thẩm định thực tế tại cơ sở đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa.
+Trong thời hạn 15 ngày, kể từ ngày có biên bản thẩm định, cơ quan cấp giấy phép hoạt động ban hành văn bản cho phép thực hiện thí điểm khám bệnh, chữa bệnh từ xa, trong đó phải ghi rõ số lượng ca bệnh thực hiện thí điểm. Trường hợp từ chối phải có văn bản trả lời và nêu rõ lý do.
+Bước 4:
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 15 ngày, kể từ ngày ghi trên phiếu tiếp nhận hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản gửi cơ sở đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Sau khi nhận hồ sơ sửa đổi, bổ sung, cơ quan tiếp nhận hồ sơ trả cho cơ sở đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa phiếu tiếp nhận hồ sơ bổ sung và thực hiện lại quy trình theo quy định tại các điểm c, d khoản 6 Điều 87 Nghị định số 96/2023/NĐ-CP của Chính phủ.
+Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, cơ quan cấp giấy phép hoạt động có văn bản thông báo cho cơ sở đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa theo quy định tại điểm đ khoản khoản 6 Điều 87 Nghị định số 96/2023/NĐ-CP của Chính phủ

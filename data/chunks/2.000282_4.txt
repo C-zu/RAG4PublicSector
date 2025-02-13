@@ -1,0 +1,7 @@
+Tên thủ tục: Tiếp nhận đối tượng cần bảo vệ khẩn cấp vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Tờ khai của đối tượng hoặc người giám hộ (theo Mẫu số 07 ban hành kèm theo Nghị định số 20/2021/NĐ-CP); - Bản sao chứng minh nhân dân, căn cước công dân hoặc giấy tờ tùy thân của đối tượng (nếu có); - Biên bản đối với trường hợp khẩn cấp có nguy cơ đe dọa đến an toàn của đối tượng. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe713161b73526b'">Mau so 07.docx</a>)

@@ -1,0 +1,13 @@
+Tên thủ tục: Gia hạn Giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động cho các tổ chức gia hạn Giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động cho các tổ chức thực hiện kiểm định đối với các máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động sử dụng trong thi công xây dựng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy chứng nhận;
+- 01 Bản chính Giấy chứng nhận đã được cấp;
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp đối với doanh nghiệp hoặc quyết định thành lập đối với đơn vị sự nghiệp (nếu có sự thay đổi)
+- 01 Bản chính Danh mục thiết bị, dụng cụ phục vụ kiểm định (nếu có sự thay đổi)
+- 01 Bản chính Danh mục tài liệu kỹ thuật (nếu có sự thay đổi);
+- 01 Bản chính Tài liệu về kiểm định viên (nếu có sự thay đổi);
+- 01 Bản chính Tài liệu về người phụ trách kỹ thuật hoạt động kiểm định (nếu có sự thay đổi).

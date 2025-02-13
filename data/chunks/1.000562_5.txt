@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp lại giấy xác nhận nội dung quảng cáo dịch vụ khám bệnh, chữa bệnh thuộc thẩm quyền của Sở Y tế trong trường hợp bị mất hoặc hư hỏng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận nội dung quảng cáo
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2009/QH12|Luật 40/2009/QH12|23-11-2009|Quốc Hội|
+|16/2012/QH13|Luật 16/2012/QH13-Quảng cáo|21-06-2012|Quốc Hội|
+|181/2013/NĐ-CP|Nghị định 181/2013/NĐ-CP-Quy định chi tiết thi hành một số điều của Luật Quảng Cáo|14-11-2013|Chính phủ|
+|09/2015/TT-BYT|Thông tư 09/2015/TT-BYT - Quy định về xác nhận nội dung quảng cáo đối với sản phẩm, hàng hóa, dịch vụ đặc biệt thuộc lĩnh vực quản lý của Bộ Y tế|25-05-2015|Bộ Y tế|

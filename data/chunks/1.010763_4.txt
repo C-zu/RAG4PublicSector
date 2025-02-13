@@ -1,0 +1,12 @@
+Tên thủ tục: Hỗ trợ khắc phục thiệt hại do thiên tai gây ra trên biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hỗ trợ khắc phục thiệt hại do thiên tai gây ra trên biển của tổ chức, cá nhân: bản chính (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0f1be9ed5e898'">mau don.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký tàu cá (01bản sao có chứng thực hoặc 01 bản sao chụp khi nộp xuất trình bản chính để đối chiếu).
+- 01 Bản sao Giấy phép khai thác thủy sản (còn hạn) hoặc giấy đăng ký kinh doanh ( 01 bản sao có chứng thực hoặc 01 bản sao chụp khi nộp xuất trình bản chính để đối chiếu).
+- 01 Bản sao Giấy chứng nhận an toàn kỹ thuật tàu cá (còn hạn; chỉ áp dụng đối với tàu cá có tổng công suất máy chính từ 20 mã lực trở lên): 01 bản sao có chứng thực hoặc 01 bản sao chụp khi nộp xuất trình bản chính để đối chiếu;
+- 01 Bản chính Chứng từ liên quan đến việc cứu hộ, cứu nạn, khắc phục hậu quả sau tai nạn (nếu có): Mỗi loại chứng từ 01 bản chính.
+- 01 Bản chính Trường hợp các loại giấy tờ được cấp (Giấy chứng nhận đăng ký tàu cá, giấy phép khai thác thủy sản, giấy chứng nhận an toàn kỹ thuật tàu cá) bị thất lạc, chủ tàu phải có giấy cớ mất hoặc giấy xác nhận đã cấp của cơ quan cấp phát các loại giấy tờ bị thất lạc.

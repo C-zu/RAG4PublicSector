@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký sử dụng thương hiệu của hãng hàng không khác đối với hãng hàng không kinh doanh vận chuyển hàng không, kinh doanh hàng không chung vì mục đích thương mại
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao từ sổ gốc hoặc bản sao có xuất trình bản chính để đối chiếu hoặc bản sao có chứng thực (trường hợp nộp hồ sơ trực tiếp); bản sao có chứng thực (trường hợp nộp hồ sơ qua đường bưu chính) các tài liệu chứng minh việc đáp ứng quy định tương ứng tại điểm b khoản 3 và khoản 4 của Điều 26 Nghị định 30/2013/NĐ-CP;
+- 01 Bản sao - Bản sao từ sổ gốc hoặc bản sao có xuất trình bản chính để đối chiếu hoặc bản sao có chứng thực (trường hợp nộp hồ sơ trực tiếp); bản sao có chứng thực (trường hợp nộp hồ sơ qua đường bưu chính) văn bản cho sử dụng thương hiệu của chủ sở hữu thương hiệu.
+- 01 Bản chính, 01 Bản sao - Bản chính văn bản đề nghị đăng ký theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf26ed56f4a2ca'">1.003472.docx</a>)

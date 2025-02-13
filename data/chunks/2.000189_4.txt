@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp đối với trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Văn bản đăng ký hoạt động giáo dục nghề nghiệp theo Mẫu số 04 Phụ lục V ban hành kèm theo Nghị định số 143/2016/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb7413652497da'">Mau so 04 Phu luc V ND 24.docx</a>)
+- 01 Bản chính b) Báo cáo đăng ký hoạt động giáo dục nghề nghiệp theo Mẫu số 05 Phụ lục V ban hành kèm theo Nghị định số 143/2016/NĐ-CP (được sửa đổi, bổ sung tại Nghị định số 24/2022/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3ef8ea58c432c'">Mau so 05 Phu luc V ND 24.docx</a>)
+- 01 Bản sao c) Bản sao quyết định thành lập, cho phép thành lập trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên hoặc giấy chứng nhận đăng ký đầu tư (nếu có) của doanh nghiệp đối với trường hợp đăng ký hoạt động giáo dục nghề nghiệp trên địa bàn tỉnh, thành phố khác với nơi đặt trụ sở chính.

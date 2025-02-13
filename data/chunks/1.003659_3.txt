@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép bưu chính (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 4.250.000 Đồng Trường hợp chuyển nhượng toàn bộ doanh nghiệp do mua bán, sáp nhập doanh nghiệp  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febc7bd90b7b612'">25-btc.signed.pdf</a> Phí : 10.750.000 Đồng - Trường hợp thẩm định cấp phép lần đầu  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd3c9a20372aa8'">25-btc.signed.pdf</a>||
+|Trực tuyến|20 Ngày|Phí : 4.250.000 Đồng Trường hợp chuyển nhượng toàn bộ doanh nghiệp do mua bán, sáp nhập doanh nghiệp  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febc7bd90b7b612'">25-btc.signed.pdf</a> Phí : 10.750.000 Đồng - Trường hợp thẩm định cấp phép lần đầu  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd3c9a20372aa8'">25-btc.signed.pdf</a>|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Sở Thông tin và Truyền thông hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|20 Ngày|Phí : 4.250.000 Đồng Trường hợp chuyển nhượng toàn bộ doanh nghiệp do mua bán, sáp nhập doanh nghiệp  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febc7bd90b7b612'">25-btc.signed.pdf</a> Phí : 10.750.000 Đồng - Trường hợp thẩm định cấp phép lần đầu  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd3c9a20372aa8'">25-btc.signed.pdf</a>||

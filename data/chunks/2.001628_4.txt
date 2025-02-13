@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp giấy phép kinh doanh dịch vụ lữ hành nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa (Mẫu số 04 Phụ lục II ban hành kèm theo Thông tư số 06/2017/TT-BVHTTDL ngày 15 tháng 12 năm 2017); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe93f32032d253a'">Mau so 04 PLII TT06.2017.docx</a>)
+- 01 Bản sao Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp;
+- 01 Bản chính Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;
+- 01 Bản sao Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành;
+- 01 Bản sao Bản sao có chứng thực bằng tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành của người phụ trách kinh doanh dịch vụ lữ hành; hoặc bản sao có chứng thực bằng tốt nghiệp trung cấp trở lên chuyên ngành khác phải và bản sao có chứng thực chứng chỉ nghiệp vụ điều hành du lịch nội địa. Văn bằng do cơ sở đào tạo nước ngoài cấp phải được công nhận theo quy định của Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội.

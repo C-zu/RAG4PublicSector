@@ -1,0 +1,12 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu đưa công trình vào sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng của Chủ đầu tư theo biểu mẫu số 01 (Theo mẫu số 02, phụ lục số V, Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ Trưởng Bộ Xây dựng). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc30c393ad42ef8'">Bao cao nghiem thu.docx</a>)
+- 01 Bản chính Hồ sơ hoàn thành công trình: Hồ sơ hoàn thành công trình được lập theo phụ lục I (Phụ lục III - Thông tư số 26/2016/TT-BXD ngày 26/10/2016 của Bộ Trưởng Bộ Xây dựng). Hồ sơ hoàn thành hạng mục công trình được chia thành các phần chính, gồm:
+- 01 Bản chính + Phần 1: Hồ sơ chuẩn bị đầu tư xây dựng hạng mục công trình và hợp đồng (Chủ trương đầu tư; Dự án đầu tư xây dựng công trình; Văn bản chấp thuận của cơ quan quản lý có thẩm quyền, các hợp đồng xây dựng và hồ sơ khác có liên quan).
+- 01 Bản chính + Phần 2: Hồ sơ quản lý chất lượng khảo sát xây dựng và thiêt kế xây dựng hạng mục công trình.
+- 01 Bản chính + Phần 3: Hồ sơ quản lý chất lượng thi công xây dựng (Kế hoạch và biện pháp kiểm soát chất lượng công trình; bản vẽ hoàn công; Hồ sơ thi công và nghiệm thu các hạng mục: Nền, mặt, công trình thoát nước ATGT của công trình...; Các tài liệu khác có liên quan).
+- 01 Bản chính Lưu ý: Để thuận tiện cho công tác kiểm tra hồ sơ, đề nghị chủ đầu tư sắp xếp hồ sơ theo từng phần riêng biệt và có danh mục chi tiết hồ sơ, tài liệu kèm theo của từng phần).

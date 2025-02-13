@@ -1,0 +1,27 @@
+Tên thủ tục: Xác nhận điều kiện chuyển nhượng quyền sử dụng đất và tài sản khác gắn liền với đất cho Chủ đầu tư dự án phát triển nhà ở đầu tư xây dựng để bán
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ giải quyết thủ tục hành chính tại Bộ phận TN&TKQ của Sở Tài nguyên và môi trường (TN&MT) tại Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì hướng dẫn bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
++ Nếu hồ sơ đầy đủ, hợp lệ thì tiếp nhận hồ sơ, hẹn trả kết quả cho tổ chức, cá nhân.
+Bước 2: Chuyển hồ sơ về Sở TN&MT; Văn thư tiếp nhận hồ sơ chuyển cho Phòng Đất đai 1 giải quyết
+Bước 3: Xem xét xử lý hồ sơ:
+- Nếu hồ sơ không đủ điều kiện xử lý tham mưu Văn bản trả hồ sơ chuyển kèm hồ sơ cho Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B9.
+- Nếu hồ sơ đủ điều kiện xử lý và xét thấy cần tổ chức kiểm tra thực địa thì tham mưu tổ chức kiểm tra thực địa (phối hợp các cơ quan, đơn vị liên quan).
+Bước 4: Sau kiểm tra thực địa: 
++ Nếu đủ điều kiện thì dự thảo Văn bản thông báo trình Lãnh đạo phòng duyệt, ký nháy.
++ Nếu không đủ điều kiện dự thảo Văn bản trả hồ sơ trình Lãnh đạo phòng duyệt ký nháy.
+Bước 5:  Duyệt ký nháy kết quả thực hiện bước B4, trình Lãnh đạo Sở ký.
+Bước 6: Ký duyệt kết quả thực hiện tại bước B5.
+Bước 7: Đóng dấu và phát hành văn bản và  chuyển kết quả về công chức TN&TKQ Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh.
+- Cập nhật kết quả, lưu hồ sơ.
+Bước 8: Trả kết quả giải quyết và thu phí theo quy định (nếu có).
+
+* Trường hợp hồ sơ quá hạn xử lý, trong thời gian chậm nhất 01 ngày trước ngày hết hạn xử lý, cơ quan giải quyết TTHC ban hành phiếu xin lỗi và hẹn lại ngày trả kết quả chuyển sang Trung tâm Phục vụ hành chính công tỉnh để gửi cho tổ chức, cá nhân.
+* Trong quá trình giải quyết hồ sơ người có trách nhiệm thực hiện cần thực hiện đồng thời các thao tác tiếp nhận/chuyển/trả hồ sơ, kết quả giải quyết trên phần mềm: http://dichvucong.hatinh.gov.vn với các bước trong quy trình.
+
+* Lưu ý khi nộp hồ sơ: 
++ Nếu nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công, trường hợp yêu cầu bản sao thì kèm theo bản gốc để đối chiếu;
++ Nếu nộp hồ sơ qua đường bưu điện thì nộp bản sao có chứng thực của cơ quan có thẩm quyền;
++ Nếu nộp hồ sơ qua mạng điện tử thì quét (Scan) từ bản chính.

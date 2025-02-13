@@ -1,0 +1,8 @@
+Tên thủ tục: Xác đinh cơ quan giải quyết bồi thường (cấp trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định cụ thể||Hồ sơ đề nghị xác định cơ quan giải quyết bồi thường gửi trực tiếp tại Bộ Tư pháp hoặc gửi qua hệ thống bưu chính đến Bộ Tư pháp.|
+|Dịch vụ bưu chính|Không quy định cụ thể||Hồ sơ đề nghị xác định cơ quan giải quyết bồi thường gửi trực tiếp tại Bộ Tư pháp hoặc gửi qua hệ thống bưu chính đến Bộ Tư pháp.|

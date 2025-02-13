@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (sử dụng thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo đánh giá an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb731fcbaa0932'">Báo cáo đánh giá an toàn thiết bị X quang chẩn đoán trong y tế.docx</a>)
+- 01 Bản chính Đơn đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8fdb4346be2ac'">Đơn ĐN cấp GP tiến hành CVBX.docx</a>)
+- 01 Bản chính Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef440c17fe76ee'">Phiếu khai báo nhân viên bức xạ.docx</a>)
+- 01 Bản chính Phiếu khai báo thiết bị X-quang chẩn đoán trong y tế (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f984eb64ed5ad80'">Phiếu khai báo thiết bị X quang chẩn đoán y tế.docx</a>)
+- 01 Bản sao Bản sao hợp đồng dịch vụ xác định liều chiếu xạ cá nhân với tổ chức, cá nhân được cấp giấy đăng ký hoạt động dịch vụ đo liều chiếu xạ cá nhân
+- 01 Bản chính Bản dịch các tài liệu tiếng nước ngoài
+- 01 Bản sao Bản sao quyết định thành lập tổ chức, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặc giấy đăng ký hành nghề. Trường hợp các loại giấy tờ này bị thất lạc phải có xác nhận của cơ quan ký quyết định thành lập hoặc cấp giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư, giấy đăng ký hành nghề
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất cung cấp thông tin như được khai trong phiếu khai báo thiết bị X-quang chẩn đoán trong y tế. Trường hợp không có tài liệu của nhà sản xuất về các thông tin đã khai báo, tổ chức, cá nhân đề nghị cấp giấy phép phải tiến hành xác định lại các thông số kỹ thuật của thiết bị X-quang chẩn đoán trong y tế
+- 01 Bản sao Bản sao chứng chỉ nhân viên bức xạ của người phụ trách an toàn. Trường hợp chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp chứng chỉ nhân viên bức xạ theo quy định tại Điều 22 của Thông tư 08/2010/TT-BKHCN cùng hồ sơ đề nghị cấp giấy phép tiến hành công việc bức xạ;

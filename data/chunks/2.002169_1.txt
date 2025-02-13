@@ -1,0 +1,16 @@
+Tên thủ tục: Chi trả phí bảo hiểm nông nghiệp được hỗ trợ từ ngân sách nhà nước
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002169
+Số quyết định:
+1707/QD-BTC
+Tên thủ tục:
+Chi trả phí bảo hiểm nông nghiệp được hỗ trợ từ ngân sách nhà nước
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Bảo hiểm

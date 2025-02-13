@@ -1,0 +1,22 @@
+Tên thủ tục: Đăng ký kê khai số lượng chăn nuôi tập trung và nuôi trồng thủy sản ban đầu
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân xã
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản xác nhận kê khai ban đầu hoặc bản từ chối xác nhận kê khai ban đầu (nêu rõ lý do).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|02/2017/NĐ-CP|Về cơ chế, chính sách hỗ trợ sản xuất nông nghiệp để khôi phục sản xuất vùng bị thiệt hại do thiên tai, dịch bệnh|09-01-2017|Chính phủ|
+|3499/QĐ-BNN-PCTT|Quyết định số 3499/QĐ-BNN-PCTT ngày 11/9/2019 của Bộ Nông nghiệp và Phát triển nông thôn về việc công bố thủ tục hành chính mới ban hành lĩnh vực lĩnh vực phòng chống thiên tai thuộc pham vi chức năng quản lý của Bộ Nông nghiệp và phát triển nông thôn.|11-09-2019|Bộ Nông nghiệp và Phát triển nông thôn|

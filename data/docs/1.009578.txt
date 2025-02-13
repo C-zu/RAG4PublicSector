@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009578
+Số quyết định:
+12051NHAP
+Tên thủ tục:
+Cấp lại Giấy chứng nhận đủ điều kiện sản xuất thƣớc ăn chăn nuôi thƣơng mại, thức ăn chăn nuôi theo đặt hàng
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chăn nuôi
+Trình tự thực hiện:
+b1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở NN&PTNT - Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, điều chỉnh hồ sơ. Nếu không bổ sung, điều chỉnh được thì từ chối tiếp nhận hồ sơ.
+b2: Chuyển hồ sơ từ Trung tâm Phục vụ HCC tỉnh về Chi cục Chăn nuôi và Thú y
+b3: Duyệt hồ sơ, chuyển cho phòng chuyên môn xử lý
+b4: Xem xét, kiểm tra tính hợp lệ của hồ sơ:
+- Nếu đạt, Dự thảo Giấy chưng đủ điều kiện chăn nuôi.
+- Nếu hồ sơ không hợp lệ thì hướng dẫn, hoàn thiện hồ sơ. Nếukhông điều chỉnh, bổ sung thì dự thảo văn bản nêu lý do không cấp trình lãnh đạo phòng.
+b5: Lãnh đạo Phòng xem xét trình Lãnh đạo Chi cục bản Dự thảo Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi hoặc văn bản dự thảo lý do không cấp.
+b6: Lãnh đạo Chi cục xem xét, ký nháy trình lãnh đạo Sở Nông nghiệp và PTNT Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi hoặc văn bản không tiếp nhận hồ sơ
+b7: Lãnh đạo Sở Nông nghiệp và PTNT:
+- Ký Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi.
+ - Hoặc ký văn bản lý do không cấp.
+b8: Phát hành văn bản và chuyển kết quả cho bộ phận TN&TKQ Trung tâm Phục vụ hành chính công tỉnh
+b9: Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|||
+|Trực tuyến|5 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+đơn
+- 01 Bản chính Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi ([don.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed35ab84531d1'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Chăn nuôi và Thú y
+Cơ quan có thẩm quyền:
+Sở Nông nghiệp và Phát triển nông thôn tỉnh Sơn La
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi hoặc Văn bản từ chối cấp giấy chứng nhận (nêu rõ lý do không cấp)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|13/2020/NĐ-CP|Nghị định 13/2020/NĐ-CP|21-01-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Chăn nuôi
+Mô tả:
+Không có thông tin

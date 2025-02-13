@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục công nhận kho ngoại quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm

@@ -1,0 +1,15 @@
+Tên thủ tục: Đăng ký Nội quy lao động - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ không hợp lệ thì phòng chuyên môn có văn bản thông báo và hướng dẫn người sử dụng lao động sửa đổi bổ sung và đăng ký lại nội quy lao động 
+- Nếu hồ sơ hợp lệ tiến hành Dự thảo  Văn bản xác nhận đã tiếp nhận Nội quy lao động
+B5	Lãnh đạo phòng xem xét ký nháy
+B6	Trình lãnh đạo Ban xem xét
+B7	Phòng chuyên môn tiếp nhận hồ sơ nội quy lao động và lưu trữ.

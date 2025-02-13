@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001856
+Số quyết định:
+2046/QĐ-BTTTT
+Tên thủ tục:
+Công bố, công bố lại chất lượng dịch vụ viễn thông đối với các dịch vụ thuộc “Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng"
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+1. Trường hợp Doanh nghiệp viễn thông (được Bộ Thông tin và Truyền thông cấp giấy phép kinh doanh dịch vụ viễn thông) thực hiện thủ tục công bố, công bố lại chất lượng dịch vụ viễn thông đối với các dịch vụ thuộc “Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng” như sau:
+- Kể từ ngày Thông tư số 33/2020/TT-BTTTT có hiệu lực áp dụng hoặc kể từ ngày doanh nghiệp viễn thông bắt đầu cung cấp dịch vụ thì doanh nghiệp viễn thông phải có trách nhiệm hoàn thành thủ tục công bố chất lượng dịch vụ viễn thông trong thời hạn sáu mươi (60) ngày. 
+- Kể từ ngày Quy chuẩn kỹ thuật quốc gia mà Bộ Thông tin và Truyền thông thay đổi có hiệu lực thi hành hoặc doanh nghiệp viễn thông có bất kỳ sự thay đổi nào về nội dung công bố thì doanh nghiệp viễn thông có trách nhiệm phải thực hiện lại (công bố lại) và hoàn thành thủ tục công bố chất lượng dịch vụ viễn thông trong thời hạn sáu mươi (60) ngày.
+2. Trình tự thực hiện công bố, công bố lại chất lượng dịch vụ viễn thông đối với các dịch vụ thuộc “Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng” như sau:
+- Lập hồ sơ công bố chất lượng dịch vụ viễn thông theo quy định và gửi đến Cục Viễn thông.
+- Cục Viễn thông xử lý hồ sơ trong thời gian ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định:
++ Trường hợp hồ sơ được chấp thuận, Cục Viễn thông cấp cho doanh nghiệp “Bản tiếp nhận công bố chất lượng dịch vụ viễn thông”.
++ Trường hợp hồ sơ không được chấp thuận, Cục Viễn thông có văn bản trả lời doanh nghiệp viễn thông và nêu rõ lý do.
+3. Sau khi được cấp “Bản tiếp nhận công bố chất lượng dịch vụ viễn thông”, doanh nghiệp viễn thông có trách nhiệm:
+- Đăng tải “Bản công bố chất lượng dịch vụ viễn thông” trên website của doanh nghiệp theo quy định tại Điều 22 Chương VII của Thông tư số 08/2013/TT-BTTTT.
+- Niêm yết “Bản công bố chất lượng dịch vụ viễn thông” tại nơi dễ nhìn thấy và dễ dàng đọc được tại tất cả các điểm giao dịch có thực hiện việc ký hợp đồng cung cấp dịch vụ với khách hàng và các điểm cung cấp dịch vụ viễn thông công cộng của doanh nghiệp viễn thông.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Nộp trực tiếp tại Cục Viễn thông: Địa chỉ Cục Viễn thông: Số 68 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, Hà Nội|
+|Trực tuyến|03 Ngày làm việc||Ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Nộp trực tuyến qua Cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công của Cục Viễn thông (http://dichvucong.vnta.gov.vn).|
+|Dịch vụ bưu chính|03 Ngày làm việc||Ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Nộp qua hệ thống bưu chính;|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn về việc công bố chất lượng dịch vụ viễn thông (Phụ lục I ban hành kèm theo Thông tư số 33/2020/TT-BTTTT ngày 04/11/2020 của Bộ trưởng Bộ Thông tin và Truyền thông) ([MẪU CÔNG VĂN CÔNG BỐ CHẤT LƯỢNG DỊCH VỤ VIỄN THÔNG.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6915ad44659d8'))
+- 01 Bản chính Bản công bố chất lượng dịch vụ viễn thông (mức chất lượng công bố không được trái với mức quy định của Quy chuẩn kỹ thuật quốc gia)(Phụ lục II ban hành kèm theo Thông tư số 08/2013/TT-BTTTT ngày 26/3/2013 của Bộ trưởng Bộ Thông tin và Truyền thông) ([MẪU BẢN CÔNG BỐ CHẤT LƯỢNG DỊCH VỤ VIỄN THÔNG.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaf69a2778f7b8'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Trụ sở Cục Viễn thông, Số 68 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản tiếp nhận công bố chất lượng dịch vụ viễn thông
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2011/NĐ-CP|Nghị định 25/2011/NĐ-CP|06-04-2011|Chính phủ|
+|08/2013/TT-BTTTT|Thông tư 08/2013/TT-BTTTT|26-03-2013|Bộ Thông tin và Truyền thông|
+|33/2020/TT-BTTTT|Thông tư 33/2020/TT-BTTTT|04-11-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

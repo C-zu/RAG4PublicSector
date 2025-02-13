@@ -1,0 +1,18 @@
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình chưa vận hành cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ: 
+Trong thời hạn 05 ngày làm việc, kể từ ngày công trình bắt đầu vận hành, chủ giấy phép phải nộp hồ sơ tính tiền cấp quyền khai thác tài nguyên nước.
+Chủ giấy phép nộp 02 bộ hồ sơ tính tiền cấp quyền khai thác tài nguyên nước tới Trung tâm Phục vụ hành chính công cấp tỉnh hoặc Sở Tài nguyên và Môi trường tỉnh, thành phố trực thuộc trung ương qua dịch vụ bưu chính, nộp qua dịch vụ công trực tuyến hoặc nộp trực tiếp đối với các trường hợp thuộc thẩm quyền cấp giấy phép của Ủy ban nhân dân cấp tỉnh.
+ - Bước 2: Kiểm tra, thẩm định hồ sơ: 
++ Sở Tài nguyên và Môi trường có trách nhiệm xem xét, kiểm tra hồ sơ.
+Trường hợp hồ sơ không hợp lệ, trong thời hạn 05 ngày làm việc, Sở Tài nguyên và Môi trường trả lại hồ sơ kèm theo văn bản giải thích rõ lý do.
++ Trong thời hạn không quá 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm tổ chức thẩm định hồ sơ tính tiền cấp quyền, nếu cần thiết thì thành lập hội đồng thẩm định hồ sơ tính tiền cấp quyền khai thác tài nguyên nước. Kinh phí chi cho hoạt động thẩm định được lấy từ nguồn thu phí thẩm định hồ sơ đề nghị cấp giấy phép khai thác sử dụng tài nguyên nước. 
+Trường hợp hồ sơ không đủ điều kiện thì Sở Tài nguyên và Môi trường trả lại hồ sơ cho chủ giấy phép và thông báo rõ lý do; trường hợp phải bổ sung, chỉnh sửa để hoàn thiện thì Sở Tài nguyên và Môi trường gửi văn bản thông báo cho chủ giấy phép nêu rõ những nội dung cần bổ sung, hoàn thiện hồ sơ, thời gian bổ sung, hoàn thiện không tính vào thời gian thẩm định hồ sơ.
+Trường hợp công trình đã được phê duyệt tiền cấp quyền khai thác tài nguyên nước mà chỉ có sự thay đổi tên chủ giấy phép (cấp lại) và không có sự thay đổi các căn cứ tính tiền cấp quyền theo Quyết định phê duyệt tiền cấp quyền đã phê duyệt trước đó thì không phải điều chỉnh lại Quyết định phê duyệt tiền cấp quyền. Trong nội dung giấy phép cấp lại phải quy định rõ việc chủ giấy phép mới phải thực hiện các nghĩa vụ tài chính, trong đó có tiền cấp quyền khai thác tài nguyên nước đã được phê duyệt tại Quyết định phê duyệt tiền cấp quyền trước đó.
+- Bước 3: Phê duyệt tiền cấp quyền khai thác tài nguyên nước: 
+Trường hợp hồ sơ đủ điều kiện, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cấp tỉnh phê duyệt tiền cấp quyền khai thác tài nguyên nước.
+	- Bước 4: Trả kết quả: 
+Sau khi Ủy ban nhân dân cấp tỉnh ban hành quyết định phê duyệt tiền cấp quyền khai thác tài nguyên nước, Sở Tài nguyên và Môi trường gửi thông báo cho chủ giấy phép và Cục thuế địa phương nơi có công trình khai thác kèm theo quyết định phê duyệt tiền cấp quyền khai thác tài nguyên nước.

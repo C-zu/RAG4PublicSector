@@ -1,0 +1,8 @@
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình chưa vận hành cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Bản kê khai tính tiền cấp quyền khai thác tài nguyên nước (Phụ lục III kèm theo Nghị định số 41/2021/NĐ-CP) với các nội dung chủ yếu sau: Chất lượng nguồn nước; loại nguồn nước, điều kiện khai thác, quy mô khai thác, thời gian khai thác, thời gian tính tiền, sản lượng khai thác cho từng mục đích sử dụng, giá tính tiền, mức thu tiền cho từng mục đích sử dụng; tính tiền cho từng mục đích sử dụng, tổng tiền cấp quyền khai thác, phương án nộp tiền cấp quyền khai thác và kèm theo các tài liệu để chứng minh. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecb4bee7486150'">Phụ lục III.docx</a>)
+- 02 Bản sao Giấy phép khai thác, sử dụng tài nguyên nước

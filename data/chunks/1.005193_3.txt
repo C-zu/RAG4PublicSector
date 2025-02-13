@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục sửa chữa, bổ sung, điều chỉnh thông tin về đăng ký quốc tịch tàu bay, đăng ký các quyền đối với tàu bay và đăng ký văn bản IDERA
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||- Gửi hồ sơ trực tiếp; - Qua đường bưu chính; hoặc - Trên môi trường điện tử; hoặc - Các hình thức phù hợp khác.|
+|Trực tuyến|1 Ngày làm việc||- Gửi hồ sơ trực tiếp; - Qua đường bưu chính; hoặc - Trên môi trường điện tử; hoặc - Các hình thức phù hợp khác.|
+|Dịch vụ bưu chính|1 Ngày làm việc||- Gửi hồ sơ trực tiếp; - Qua đường bưu chính; hoặc - Trên môi trường điện tử; hoặc - Các hình thức phù hợp khác.|

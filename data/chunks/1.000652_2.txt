@@ -1,0 +1,13 @@
+Tên thủ tục: Cung cấp thông tin, dữ liệu ảnh viễn thám
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Nộp hồ sơ: Tổ chức, cá nhân có nhu cầu khai thác và sử dụng thông tin, dữ liệu ảnh viễn thám căn cứ danh mục thông tin, dữ liệu ảnh viễn thám hiện có, gửi Phiếu yêu cầu (theo mẫu) trực tiếp hoặc qua đường bưu điện cho gửi Cục Viễn thám quốc gia, Bộ Tài nguyên và Môi trường hoặc qua cổng dịch vụ công trực tuyến của Bộ Tài nguyên và môi trường.
+Bước 2. Kiểm tra và xử lý hồ sơ: Cục Viễn thám quốc gia kiểm tra tính đầy đủ thông tin của Phiếu yêu cầu theo quy định.
+
++ Trường hợp chưa đầy đủ thông tin theo Phiếu yêu cầu, Cục Viễn thám quốc gia có văn bản đề nghị tổ chức, cá nhân bổ sung đầy đủ thông tin theo quy định hoặc trả lại Phiếu yêu cầu.
+
++ Trường hợp đã đầy đủ thông tin theo Phiếu yêu cầu, trong thời hạn 05 ngày làm việc Cục Viễn thám quốc gia có văn bản thông báo về nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Trường hợp từ chối cung cấp thông tin, dữ liệu ảnh viễn thám thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.
+Bước 3. Trả kết quả:
+
+Cục Viễn thám quốc gia cung cấp đầy đủ, chính xác các thông tin, dữ liệu ảnh viễn thám cho các tổ chức, cá nhân theo như Phiếu yêu cầu sau khi tổ chức, cá nhân đã thực hiện đầy đủ nghĩa vụ tài chính (nếu có).

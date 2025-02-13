@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định kết quả lựa chọn nhà đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình của bên mời thầu về kết quả lựa chọn nhà đầu tư;
+- 01 Bản chính Báo cáo kết quả đánh giá hồ sơ dự thầu, hồ sơ đề xuất;
+- 01 Bản sao Bản sao các hồ sơ, tài liệu: HSMT, HSYC, biên bản đóng thầu, mở thầu, hồ sơ dự thầu, hồ sơ đề xuất của các nhà đầu tư và các tài liệu liên quan cần thiết khác

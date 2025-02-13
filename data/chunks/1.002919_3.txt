@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục biên phòng điện tử cửa khẩu biên giới đất liền đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|3 Giờ|Lệ phí : 0 Đồng|Chậm nhất 03 giờ kể từ khi Biên phòng cửa khẩu biên giới đất liền tiếp nhận Bản khai điện tử Cách thức thực hiện: Người làm thủ tục gửi hồ sơ và nhận kết quả qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.|

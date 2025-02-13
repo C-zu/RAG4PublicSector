@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010177
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Cấp Giấy phép xây dựng - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời khách hàng theo Mẫu số 3 rồi chuyển hồ sơ cho bộ phận một cửa trả lại cho khách hàng
+B5	Kiểm tra tại thực địa:
+- Nếu hồ sơ đáp ứng điều kiện so với thực địa thì tiếp tục thẩm định.
+- Trường hợp qua kiểm tra không đúng theo hồ sơ thì tham mưu văn bản thông báo cho tổ chức, cá nhân gửi thông qua Bộ phận tiếp nhận và trả kết quả để trả lại hồ sơ thực hiện theo bước 8
+B6	Xem xét thẩm định cụ thể nội dung hồ sơ, dự thảo kết quả thực hiện TTHC
+B7	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC
+B8	Phê duyệt kết quả giải quyết TTHC
+B9	Phát hành văn bản và trả kết quả cho Bộ phận TN&TKQ
+B10	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : 130000 Đồng||
+|Trực tuyến|15 Ngày làm việc|Lệ phí : 130000 Đồng||
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : 130000 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép xây dựng, theo mẫu BM.01.01
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai;
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính hai bộ bản vẽ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công được phê duyệt theo quy định của pháp luật về xây dựng, mỗi bộ gồm: + Bản vẽ mặt bằng vị trí công trình trên lô đất tỷ lệ 1/100 - 1/500, kèm theo sơ đồ vị trí công trình; + Bản vẽ các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình, tỷ lệ 1/50 - 1/200; + Bản vẽ mặt bằng móng tỷ lệ 1/100 - 1/200 và mặt cắt móng tỷ lệ 1/50, kèm theo sơ đồ đấu nối với hệ thống hạ tầng kỹ thuật về giao thông; cấp nước; thoát nước mưa, nước bẩn; xử lý nước thải; cấp điện; thông tin liên lạc; các hệ thống hạ tầng kỹ thuật khác liên quan đến công trình tỷ lệ 1/50 - 1/200.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính báo cáo kết quả thẩm định thiết kế của cơ quan chuyên môn về xây dựng đối với công trình theo quy định phải được thẩm định thiết kế.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính văn bản bản cam kết của chủ đầu tư bảo đảm an toàn cho công trình và công trình lân cận đối với công trình xây chen, có tầng hầm.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính bản kê khai năng lực, kinh nghiệm của tổ chức, cá nhân thiết kế theo mẫu tại Phụ lục số 3 Thông tư 15/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng, kèm theo bản sao chứng chỉ hành nghề hoạt động xây dựng, đối với công trình chưa được cơ quan chuyên môn về xây dựng thẩm định thiết kế
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính quyết định đầu tư đối với công trình yêu cầu phải lập dự án đầu tư xây dựng
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+1. Giấy phép xây dựng;
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|59/2015/NĐ-CP|Nghị định 59/2015/NĐ-CP|18-06-2015||
+|79/2014/NĐ-CP|Nghị định 79/2014/NĐ-CP|31-07-2014||
+|15/2016/TT-BXD|Thông tư 15/2016/TT-BXD|30-06-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện thực hiện TTHC:
+- Phù hợp với quy hoạch xây dựng, mục đích sử dụng đất, mục tiêu đầu tư.
+- Tùy thuộc vào quy mô, tính chất, địa điểm xây dựng, công trình được cấp giấy phép xây dựng phải: Tuân thủ các quy định về chỉ giới đường đỏ, chỉ giới xây dựng; đảm bảo an toàn công trình và công trình lân cận và các yêu cầu về: Giới hạn tĩnh không, độ thông thuỷ, bảo đảm các yêu cầu về bảo vệ môi trường theo quy định của pháp luật, phòng cháy chữa cháy (viết tắt là PCCC), hạ tầng kỹ thuật (giao thông, điện, nước, viễn thông), hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa và đảm bảo khoảng cách đến các công trình dễ cháy, nổ, độc hại, các công trình quan trọng liên quan đến an ninh quốc gia.
+-  Đối với công trình trong đô thị phải:
++ Phù hợp với: Quy hoạch chi tiết xây dựng, quy chế quản lý quy hoạch, kiến trúc đô thị, thiết kế đô thị được cơ quan nhà nước có thẩm quyền phê duyệt;
++ Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết, thì phải phù hợp với Quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành.
+Điều kiện thực hiện TTHC:
+- Phù hợp với quy hoạch xây dựng, mục đích sử dụng đất, mục tiêu đầu tư.
+- Tùy thuộc vào quy mô, tính chất, địa điểm xây dựng, công trình được cấp giấy phép xây dựng phải: Tuân thủ các quy định về chỉ giới đường đỏ, chỉ giới xây dựng; đảm bảo an toàn công trình và công trình lân cận và các yêu cầu về: Giới hạn tĩnh không, độ thông thuỷ, bảo đảm các yêu cầu về bảo vệ môi trường theo quy định của pháp luật, phòng cháy chữa cháy (viết tắt là PCCC), hạ tầng kỹ thuật (giao thông, điện, nước, viễn thông), hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa và đảm bảo khoảng cách đến các công trình dễ cháy, nổ, độc hại, các công trình quan trọng liên quan đến an ninh quốc gia.
+-  Đối với công trình trong đô thị phải:
++ Phù hợp với: Quy hoạch chi tiết xây dựng, quy chế quản lý quy hoạch, kiến trúc đô thị, thiết kế đô thị được cơ quan nhà nước có thẩm quyền phê duyệt;
++ Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết, thì phải phù hợp với Quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đủ điều kiện kinh doanh thuốc đối với cơ sở kinh doanh dịch vụ bảo quản dược liệu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||20 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày||20 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|

@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký thực tập, nghiên cứu ngắn hạn ở nước ngoài do Quỹ Phát triển khoa học và công nghệ Quốc gia hỗ trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd92e401c1ec706'">Mẫu NCNLQG 06.docx</a>)
+- 01 Bản chính - Thư giới thiệu của 02 nhà khoa học uy tín của Việt Nam; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc909a05f8c616c'">Mẫu NCNLQG 07.docx</a>)
+- 01 Bản chính - Thư mời hợp tác nghiên cứu của phòng thí nghiệm, tổ chức khoa học nước ngoài hoặc thư chấp nhận hướng dẫn nghiên cứu của nhà khoa học nước ngoài có cùng chuyên ngành khoa học trong đó nêu rõ địa điểm, thời gian, nội dung thực tập, nghiên cứu và trách nhiệm chi trả các khoản kinh phí liên quan;
+- 01 Bản chính - Thuyết minh đề cương nghiên cứu và kế hoạch thực hiện các nội dung nghiên cứu tại phòng thí nghiệm, tổ chức khoa học ở nước ngoài được nhà khoa học nước ngoài chấp thuận;
+- 01 Bản chính - Lý lịch khoa học; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3558496e13e8c'">Mẫu NCNLQG 02.docx</a>)
+- 01 Bản chính - Các tài liệu chứng minh là nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập (nếu có);
+- 01 Bản chính - Tài liệu chứng minh đang tham gia thực hiện nhiệm vụ khoa học và công nghệ cấp quốc gia hoặc tương đương (nếu có);
+- 01 Bản chính - Dự toán kinh phí. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe83e348a089944'">Mẫu NCNLQG 08.docx</a>)

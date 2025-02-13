@@ -1,0 +1,9 @@
+Tên thủ tục: Đánh giá duy trì đáp ứng thực hành tốt cơ sở bán lẻ thuốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đánh giá định kỳ việc duy trì đáp ứng GPP theo Mẫu số 01 quy định tại Phụ lục III kèm theo Thông tư 02/2018/TT-BYT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5463cabaf8388'">mẫu đơn (1).docx</a>)
+- 01 Bản chính Báo cáo tóm tắt về hoạt động của cơ sở bán lẻ thuốc trong thời gian 03 năm gần nhất tính từ thời điểm đánh giá liền trước (không bao gồm các đợt đánh giá đột xuất, thanh tra, kiểm tra của Bộ Y tế, Sở Y tế) đến ngày đánh giá định kỳ
+- 01 Bản chính Tài liệu kỹ thuật cập nhật về điều kiện cơ sở vật chất, trang thiết bị và nhân sự của cơ sở bán lẻthuốc (nếu có thay đổi)

@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp giấy chứng nhận y tế (HC) đối với thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến; dụng cụ, vật liệu bao gói, chứa đựng thực phẩm
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn thực phẩm - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cấp giấy chứng nhận y tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|10/2010/QĐ-TTg|Quyết định 10/2010/QĐ-TTg|10-02-2010|Thủ tướng Chính phủ|
+|55/2010/QH12|Luật 55/2010/QH12|17-06-2010|Quốc Hội|
+|13/2014/TTLT-BYT-BNNPTNT-BCT|Thông tư liên tịch 13/2014/TTLT-BYT-BNNPTNT-BCT|09-04-2014|Bộ Y tế|
+|52/2015/TT-BYT|Thông tư 52/2015/TT-BYT|21-12-2015|Bộ Y tế|
+|67/2021/TT-BTC|Thông tư 67/2021/TT-BTC|05-08-2021||

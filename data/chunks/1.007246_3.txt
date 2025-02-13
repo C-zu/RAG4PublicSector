@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận quyền sử dụng chỉ dẫn địa lý Phan Thiết dùng cho sản phẩm nước mắm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|16 Ngày làm việc||(TTHC rút ngắn thời gian xử lý theo Quyết định số 2490/QĐ-UBND ngày 08/10/2020 của Chủ tịch Ủy ban nhân dân tỉnh Bình Thuận).|
+|Dịch vụ bưu chính|16 Ngày làm việc||(TTHC rút ngắn thời gian xử lý theo Quyết định số 2490/QĐ-UBND ngày 08/10/2020 của Chủ tịch Ủy ban nhân dân tỉnh Bình Thuận).|

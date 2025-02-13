@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục chấm dứt hợp đồng trong quá trình thực hiện nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Báo cáo tình hình sử dụng, thanh quyết toán kinh phí; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9c73ea7033659'">BC kinh phí.doc</a>)
+- 01 Bản chính - Các tài liệu khác (nếu có).
+- 01 Bản chính Công văn giải trình, đề nghị chấm dứt hợp đồng của tổ chức chủ trì, chủ nhiệm dự án
+- 01 Bản chính Hợp đồng, thuyết minh đã ký giữa tổ chức chủ trì, chủ nhiệm dự án với Sở Khoa học và Công nghệ
+- 01 Bản chính - Báo cáo nội dung, sản phẩm khoa học và công nghệ đã hoàn thành, đang triển khai và chưa triển khai; Báo cáo kết quả thực hiện nhiệm vụ hàng năm, định kỳ thuộc Đề án 844 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc2277dbdaa9584'">BC tiến độ+BCSPHT+BCSPUD+BCKQ.doc</a>)

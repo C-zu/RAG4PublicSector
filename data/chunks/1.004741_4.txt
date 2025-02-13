@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký nhiệm vụ khoa học và công nghệ tiềm năng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Phiếu khai hồ sơ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8a1a3ef372cb8'">Mau DXTN-01_phieu-khai-ho-so.doc</a>)
+- 01 Bản chính + Đơn đăng ký thực hiện; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd07a34a44d73da'">Mau DXTN-02_Don dang ky.doc</a>)
+- 01 Bản chính + Thuyết minh đề tài, Thuyết minh đề tài tóm tắt; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe713cb39f4cb9d'">Mau DXTN-03 thuyet minh.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa510768fa05bb0'">Mau DXTN-04 thuyet minh tom tat.doc</a>)
+- 01 Bản chính + Năng lực nghiên cứu và cơ sở vật chất của tổ chức chủ trì đề tài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe14049aab1647c'">Mau DXTN-05_nang luc to chuc chu tri.doc</a>)
+- 01 Bản chính + Lý lịch khoa học của cá nhân đăng ký chủ nhiệm đề tài (cùng các tài liệu chứng minh thành tích) và các cá nhân đăng ký thực hiện đề tài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee3b4a45e1a0d0'">Mau DXTN-06_LLKH.doc</a>)
+- 01 Bản chính + Văn bản xác nhận đồng ý tham gia của các tổ chức phối hợp nghiên cứu thực hiện đề tài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c56cb3dfd799'">Mau DXTN-07_Xac nhan phoi hop.doc</a>)
+- 01 Bản chính + Văn bản của tổ chức thụ hưởng xác nhận khả năng ứng dụng kết quả nghiên cứu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcad2dd2aa120d0'">Mau DXTN-08_Xac nhan kha nang ung dung.doc</a>)
+- 01 Bản chính + Tài liệu khác liên quan đến đề tài (nếu có).

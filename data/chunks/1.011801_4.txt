@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ kinh phí chuyến biển cho tàu cá khai thác thuỷ sản vùng khơi
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị hỗ trợ kinh phí chuyến biển cho tàu cá khai thác thuỷ sản vùng khơi (theo Phụ lục 01 ban hành kèm theo Nghị quyết số 01/2023/NQ-HĐND, ngày 7/7/2023 của HĐND tỉnh Nghệ An). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc59e4676e28a7c'">Đơn đề nghị hỗ trợ chuyến biển.docx</a>)
+- 01 Bản chính, 01 Bản sao Các loại giấy tờ (còn giá trị): thẻ Căn cước công dân/Chứng minh nhân dân của chủ sở hữu tàu cá; Giấy chứng nhận đăng ký tàu cá; Sổ danh bạ thuyền viên tàu cá; Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản và Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm.
+- 01 Bản chính, 01 Bản sao Lưu ý: Trường hợp nộp trực tiếp: Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu. Trường hợp nộp qua dịch vụ bưu chính: Bản sao có chứng thực. Trường hợp nộp trực tuyến: Bản chụp bản chính hoặc bản sao có chứng thực.

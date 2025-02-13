@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký tàu biển đang đóng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'">08.1TK.doc</a>)
+- 01 Bản chính Giấy xác nhận tàu đã đặt sống chính của cơ sở đóng tàu có xác nhận của tổ chức đăng kiểm (bản chính); trường hợp tàu không có sống chính thì sử dụng giấy xác nhận của cơ sở đóng tàu, đồng thời có xác nhận của tổ chức đăng kiểm giám sát về việc đã lắp ráp thân vỏ tàu đạt 50 tấn khối lượng hoặc 1% khối lượng toàn bộ ước tính của số vật liệu sử dụng làm thân vỏ tàu (bản chính) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6cab46e8e7850'">07.2TK.doc</a>)
+- 01 Bản chính Hợp đồng đóng mới tàu biển hoặc hợp đồng mua bán tàu biển đang đóng (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+- 01 Bản sao Trường hợp đăng ký tàu biển công vụ, chủ tàu nộp Quyết định thành lập cơ quan, đơn vị của cấp có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu) thay Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).

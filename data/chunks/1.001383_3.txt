@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận xuất xứ hàng hoá (C/O)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|4 Giờ|Phí : 30000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Trong thời hạn 4 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp lại C/O và hồ sơ đề nghị cấp lại C/O đầy đủ và hợp lệ.|
+|Trực tuyến|4 Giờ|Phí : 30000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Trong thời hạn 4 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp lại C/O và hồ sơ đề nghị cấp lại C/O đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|4 Giờ|Phí : 30000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Trong thời hạn 4 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp lại C/O và hồ sơ đề nghị cấp lại C/O đầy đủ và hợp lệ.|

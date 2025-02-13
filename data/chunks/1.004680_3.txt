@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận nguồn gốc loài thủy sản thuộc Phụ lục Công ước quốc tế về buôn bán các loài động vật, thực vật hoang dã nguy cấp và các loài thủy sản nguy cấp, quý, hiếm có nguồn gốc từ nuôi trồng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|||
+|Trực tuyến|7 Ngày làm việc|||
+|Dịch vụ bưu chính|7 Ngày làm việc|||

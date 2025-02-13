@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp bị mất, bị hỏng, có sự thay đổi liên quan đến nội dung khác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời gian không quá 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ cấp lại theo quy định|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời gian không quá 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ cấp lại theo quy định|

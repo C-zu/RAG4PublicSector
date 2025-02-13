@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục tiếp nhận, trả lời phiếu đề xuất đặt hàng nhiệm vụ khoa học và công nghệ cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu đề xuất đăng ký nhiệm vụ khoa học và công nghệ cấp tỉnh

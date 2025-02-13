@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định báo cáo nghiên cứu khả thi, quyết định phê duyệt dự án PPP do nhà đầu tư đề xuất
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Thời hạn thẩm định: Không quá 60 ngày - Thời hạn phê duyệt dự án PPP: Không quá 15 ngày|Phí : 0 Đồng Không có|Trực tiếp bằng văn bản tại Hội đồng thẩm định cấp cơ sở hoặc đơn vị trực thuộc được giao thực hiện nhiệm vụ thẩm định.|

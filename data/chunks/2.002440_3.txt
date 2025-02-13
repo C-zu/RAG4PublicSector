@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định, chấp thuận tổng mặt bằng sử dụng đất xây dựng công trình (dự án đầu tư) thuộc thẩm quyền của UBND cấp huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : 0 Đồng|Tại Trung tâm Hành chính công cấp huyện.|
+|Dịch vụ bưu chính|15 Giờ|Lệ phí : 0 Đồng|Qua dịch vụ bưu chính|

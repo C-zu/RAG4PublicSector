@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001131
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục cấp, tạm dừng và hủy tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển đối với người làm thủ tục
+Cấp thực hiện:
+Cấp Bộ, Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý biên giới
+Trình tự thực hiện:
+- Người làm thủ tục làm đơn đề nghị cấp tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển gửi Biên phòng cửa khẩu cảng.
+- Biên phòng cửa khẩu cảng tiếp nhận, kiểm tra, gửi văn bản trả lời, trường hợp không đồng ý cấp tài khoản, phải thông báo bằng văn bản nêu rõ lý do.
+- Biên phòng cửa khẩu cảng chỉ được tạm dừng hoạt động, hủy tài khoản truy cập Cổng Thông tin thủ tục biên phòng điện tử cảng biển đối với người làm thủ tục trong các trường hợp:
++ Cá nhân người làm thủ tục hoặc cơ quan, doanh nghiệp chủ quản của người làm thủ tục có văn bản đề nghị tạm dừng hoạt động, hủy tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển của người làm thủ tục;
++ Người làm thủ tục vi phạm các quy định của pháp luật về thực hiện thủ tục biên phòng điện tử.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 (ba) ngày làm việc, kể từ ngày nhận được đơn đề nghị của người làm thủ tục, Biên phòng cửa khẩu cảng phải có văn bản trả lời.|Lệ phí : Không|Người làm thủ tục làm đơn đề nghị cấp tài khoản truy cập Cổng Thông tin thủ tục biên phòng điện tử cảng biển gửi Biên phòng cửa khẩu cảng qua đường bưu điện hoặc trực tiếp tại trụ sở Biên phòng cửa khẩu cảng.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp tài khoản truy cập cổng thông tin thủ tục biên phòng điện tử. ([Đơn đề nghị.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd598ca33a9b9ba') [Đơn đề nghị tạm dừng - hủy tài khoản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc2e30b7b70e834'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền:
+Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cảng vụ hàng hải
+Kết quả thực hiện:
+Văn bản trả lời của Biên phòng cửa khẩu cảng về việc cấp hoặc từ chối cấp tài khoản truy cập cổng Thông tin thủ tục biên phòng địện tử cảng biển.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|10/2016/QĐ-TTg|Về thực hiện thủ tục biên phòng điện tử cảng biển|03-03-2016|Thủ tướng Chính phủ|
+|49/2017/TT-BQP|Hướng dẫn thực hiện Quyết định số 10/2016/QĐ-TTg ngày 03 tháng 3 năm 2016 của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử cảng biển.|08-03-2017|Bộ Quốc phòng|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

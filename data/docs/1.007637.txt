@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007637
+Số quyết định:
+2083/QĐ-BTC
+Tên thủ tục:
+Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kế toán, kiểm toán
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí.
+- Bước 4: Cấp giấy chứng nhận
+- Bước 5: Công khai danh sách trên trang điện tử Bộ Tài chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 4.000.000 Đồng|- Nộp hồ sơ trực tiếp tại trụ sở Bô Tài chính hoặc qua đường bưu điện - 30 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 4.000.000 Đồng|- Nộp hồ sơ trực tiếp tại trụ sở Bô Tài chính hoặc qua đường bưu điện - 30 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+* Thành phần Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+- 01 Bản chính 1/ Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục II). ([Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb6f09e13dbb40'))
+- 01 Bản sao 2/ Bản sao giấy phép cung cấp dịch vụ kiểm toán của doanh nghiệp kiểm toán nước ngoài (hoặc văn bản tương đương) theo quy định của pháp luật của nước nơi doanh nghiệp kiểm toán nước ngoài đặt trụ sở chính.
+- 01 Bản sao 3/ Bản sao Giấy phép thành lập chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam của doanh nghiệp kiểm toán nước ngoài.
+- 01 Bản chính 4/ Văn bản của doanh nghiệp kiểm toán nước ngoài gửi Bộ Tài chính bảo đảm chịu trách nhiệm về mọi nghĩa vụ và cam kết của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+- 01 Bản chính 5/ Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+- 01 Bản sao 6/ Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề.
+- 01 Bản chính 7/ Quyết định của doanh nghiệp kiểm toán nước ngoài về việc bổ nhiệm chức danh Giám đốc (Tổng Giám đốc) chi nhánh.
+- 01 Bản chính 8/ Văn bản xác nhận của doanh nghiệp kiểm toán độc lập khác về mức vốn hiện có thuộc sở hữu của doanh nghiệp kiểm toán nước ngoài được ghi trong báo cáo tài chính của doanh nghiệp tại thời điểm gần nhất (năm đăng ký hoặc năm trước liền kề năm đăng ký).
+- 01 Bản chính 9/ Tài liệu chứng minh về việc doanh nghiệp kiểm toán nước ngoài cấp vốn cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+ * Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2011/QH12|Luật kiểm toán độc lập số 67/2011/QH12|29-03-2011|Quốc Hội|
+|17/2012/NĐ-CP|Nghị định số 17/2012/NĐ-CP|13-03-2012|Chính phủ|
+|203/2012/TT-BTC|Thông tư 203/2012/TT-BTC ngày 19/11/2012 của Bộ Tài chính Về trình tự, thủ tục cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.|19-11-2012|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Giấy chứng nhận đủ điều kinh doanh dịch vụ kiểm toán được cấp cho công ty trách nhiệm hữu hạn (TNHH), công ty hợp danh, doanh nghiệp tư nhân, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có đủ các điều kiện theo quy định tại Điều 21 Luật kiểm toán độc lập và các quy định tại Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập (dưới đây gọi tắt là Nghị định 17/2012/NĐ-CP). Đối với công ty kiểm toán TNHH một thành viên có vốn đầu tư nước ngoài quy định tại Khoản 3 Điều 62 Luật kiểm toán độc lập không áp dụng điều kiện về mức vốn góp của kiểm toán viên hành nghề quy định tại Khoản 1 Điều 7 và vốn góp của tổ chức quy định tại Điều 6 Nghị định 17/2012/NĐ-CP trừ khi công ty cơ cấu lại tổ chức thành công ty TNHH 2 thành viên trở lên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003776
+Số quyết định:
+1299/QĐ-BCT
+Tên thủ tục:
+Cấp lại Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý bán hàng đa cấp

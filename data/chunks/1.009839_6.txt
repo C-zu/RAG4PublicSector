@@ -1,0 +1,32 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Đóng gói, vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+	Điều kiện về nhân lực:
+- Trường hợp vận chuyển bằng đường bộ, đường sắt (trừ trường hợp vận chuyển kiện miễn trừ): Người điều khiển phương tiện vận chuyển có Giấy chứng nhận đào tạo an toàn bức xạ hoặc có người áp tải có Giấy chứng nhận này;
+- Trường hợp vận chuyển nguồn phóng xạ Nhóm 1, Nhóm 2 và Nhóm 3 theo QCVN 06:2010/BKHCN: Phải có người phụ trách ứng phó sự cố được cấp Chứng chỉ nhân viên bức xạ.
+	Điều kiện bảo đảm an toàn, an ninh:
+- Kiện hàng phải được đóng gói, dán nhãn theo quy định về vận chuyển an toàn nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân;
+- Có thiết bị đo suất liều chiếu xạ để giám sát an toàn trong quá trình vận chuyển;
+- Đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh theo quy định tại Phụ lục I của Nghị định 142/2020/NĐ-CP;
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định 142/2020/NĐ-CP.
+Trường hợp vận chuyển nguồn phóng xạ Nhóm 1, Nhóm 2 theo QCVN 6:2010/BKHCN, chất thải phóng xạ mức cao theo Tiêu chuẩn quốc gia về An toàn bức xạ - Quản lý chất thải phóng xạ - Phân loại chất thải phóng xạ (TCVN 6868:2001): Kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định này;
+- Phương tiện vận chuyển đường bộ, khoang hàng vận chuyển bằng đường sắt phải gắn nhãn cảnh báo hàng nguy hiểm phóng xạ theo quy định khi vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân;
+- Trường hợp vận chuyển bằng đường bộ: Chỉ được sử dụng ôtô và không được chở hành khách khi vận chuyển (trừ trường hợp vận chuyển kiện miễn trừ).
+	Ngoài việc thực hiện các điều kiện trên, tổ chức, cá nhân vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân còn phải tuân thủ các điều kiện quy định tại Nghị định số 42/2020/NĐ-CP ngày 08/4/2020 của Chính phủ quy định Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và vận chuyển hàng hóa nguy hiểm trên đường thủy nội địa.
+	Điều kiện về nhân lực:
+- Trường hợp vận chuyển bằng đường bộ, đường sắt (trừ trường hợp vận chuyển kiện miễn trừ): Người điều khiển phương tiện vận chuyển có Giấy chứng nhận đào tạo an toàn bức xạ hoặc có người áp tải có Giấy chứng nhận này;
+- Trường hợp vận chuyển nguồn phóng xạ Nhóm 1, Nhóm 2 và Nhóm 3 theo QCVN 06:2010/BKHCN: Phải có người phụ trách ứng phó sự cố được cấp Chứng chỉ nhân viên bức xạ.
+	Điều kiện bảo đảm an toàn, an ninh:
+- Kiện hàng phải được đóng gói, dán nhãn theo quy định về vận chuyển an toàn nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân;
+- Có thiết bị đo suất liều chiếu xạ để giám sát an toàn trong quá trình vận chuyển;
+- Đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh theo quy định tại Phụ lục I của Nghị định 142/2020/NĐ-CP;
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định 142/2020/NĐ-CP.
+Trường hợp vận chuyển nguồn phóng xạ Nhóm 1, Nhóm 2 theo QCVN 6:2010/BKHCN, chất thải phóng xạ mức cao theo Tiêu chuẩn quốc gia về An toàn bức xạ - Quản lý chất thải phóng xạ - Phân loại chất thải phóng xạ (TCVN 6868:2001): Kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định này;
+- Phương tiện vận chuyển đường bộ, khoang hàng vận chuyển bằng đường sắt phải gắn nhãn cảnh báo hàng nguy hiểm phóng xạ theo quy định khi vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân;
+- Trường hợp vận chuyển bằng đường bộ: Chỉ được sử dụng ôtô và không được chở hành khách khi vận chuyển (trừ trường hợp vận chuyển kiện miễn trừ).
+	Ngoài việc thực hiện các điều kiện trên, tổ chức, cá nhân vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân còn phải tuân thủ các điều kiện quy định tại Nghị định số 42/2020/NĐ-CP ngày 08/4/2020 của Chính phủ quy định Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và vận chuyển hàng hóa nguy hiểm trên đường thủy nội địa.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Đóng gói, vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân
+Mô tả:
+Không có thông tin

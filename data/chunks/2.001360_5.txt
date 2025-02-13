@@ -1,0 +1,26 @@
+Tên thủ tục: Thủ tục tuyển sinh theo chế độ cử tuyển đại học, cao đẳng, trung cấp chuyên nghiệp
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Bộ chỉ huy quân sự cấp tỉnh
+Cơ quan có thẩm quyền:
+Trưởng ban tuyển sinh quân sự Bộ Quốc phòng
+Địa chỉ tiếp nhận HS:
+Ban Tuyển sinh cấp sư đoàn, cấp tỉnh và tương đương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cục Cán bộ/Tổng cục Chính trị, Cục Quân lực/Bộ Tổng Tham mưu
+Kết quả thực hiện:
+Quyết định vào học của Trưởng Ban tuyển sinh Bộ Quốc phòng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2005/QH11|Sửa đổi bổ sung một số điều của Luật Nghĩa vụ quân sự|14-06-2005|Quốc Hội|
+|134/2006/NĐ-CP|Quy định chế độ cử tuyển vào các cơ sở giáo dục trình độ đại học, cao đẳng, trung cấp thuộc hệ thống giáo dục quốc dân|14-11-2006|Chính phủ|
+|03/2014/TT-BQP|Về quy định chi tiết và hướng dẫn thực hiện công tác tuyển sinh vào các trường trong Quân đội|16-01-2014|Bộ Quốc phòng|
+|19/2008/QH12|Sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam|03-06-2008|Quốc Hội|
+|38/2005/QH11|Luật Giáo dục|14-06-2005|Quốc Hội|
+|48/2019/QH14|Luật dân quân tự vệ|22-11-2019|Văn phòng Quốc hội|

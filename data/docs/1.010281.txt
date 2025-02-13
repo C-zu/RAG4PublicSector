@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010281
+Số quyết định:
+1603/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tần số vô tuyến điện
+Trình tự thực hiện:
+- Tổ chức, cá nhân hoàn thiện hồ sơ đề nghị cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu theo quy định tại khoản 1, khoản 2 và điểm b khoản 3 tại Điều 6 Nghị định số 63/2023/NĐ-CP và nộp hồ sơ đến Trung tâm Tần số vô tuyến điện khu vực.
+- Trung tâm Tần số vô tuyến điện khu vực tiếp nhận, kiểm tra tính hợp lệ của hồ sơ. 
++ Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Trung tâm Tần số vô tuyến điện khu vực có trách nhiệm thông báo, hướng dẫn cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
++ Trường hợp hồ sơ đầy đủ, đúng quy định, Trung tâm Tần số vô tuyến điện khu vực cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu hoặc từ chối cấp giấy phép và nêu rõ lý do trong thời hạn 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
++ Trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân, Trung tâm Tần số vô tuyến điện khu vực cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu hoặc từ chối cấp giấy phép và nêu rõ lý do trong thời hạn 03 tháng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|14 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+|Trực tuyến|14 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+|Dịch vụ bưu chính|14 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 01 bộ.
+- 01 Bản chính - Bản khai thông tin chung và Bản khai thông số kỹ thuật, khai thác đối với đài tàu theo Mẫu 1h quy định tại Phụ lục II của Nghị định số 63/2023/NĐ-CP; ([Mau 1h.ND63.tan so.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fead0c16bccfabd'))
+- 01 Bản sao - Bản sao hợp pháp hoặc bản sao điện tử hợp pháp Căn cước công dân hoặc Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn (áp dụng đối với cá nhân); Bản sao hợp pháp hoặc bản sao điện tử hợp pháp Giấy chứng nhận đăng ký hộ kinh doanh (áp dụng đối với hộ kinh doanh). (Tổ chức, cá nhân đã được cơ quan có thẩm quyền cấp tài khoản định danh điện tử khi nộp hồ sơ đề nghị cấp giấy phép qua hệ thống dịch vụ công trực tuyến thì không yêu cầu nộp bản sao điện tử hợp pháp các giấy tờ Căn cước công dân hoặc Hộ chiếu còn thời hạn hoặc Giấy chứng nhận đăng ký hộ kinh doanh. Đối với hồ sơ nộp trực tiếp hoặc qua đường bưu chính: tổ chức, cá nhân không phải nộp tài liệu trong hồ sơ quy định tại khoản 2, điểm b khoản 3 Điều 6 Nghị định số 63/2023/NĐ-CP về Căn cước công dân hoặc Giấy chứng minh nhân dân hoặc Giấy chứng nhận đăng ký hộ kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp khi cơ quan cấp giấy phép sử dụng tần số vô tuyến điện tra cứu được các thông tin này tại Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp. Thời điểm áp dụng cụ thể quy định này được công bố công khai trên trang thông tin điện tử của cơ quan cấp giấy phép sử dụng tần số vô tuyến điện).
+- 01 Bản sao - Tài liệu liên quan đến hồ sơ đề nghị cấp phép (Trong trường hợp cơ quan cấp giấy phép cần phải xác minh lại thông tin trong bản khai đề nghị cấp phép để ấn định tần số vô tuyến điện và cấp giấy phép) theo quy định tại khoản 4 Điều 4 Nghị định số 63/2023/NĐ-CP.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm tần số KV1, Trung tâm tần số KV2, Trung tâm tần số KV3, Trung tâm tần số KV4, Trung tâm tần số KV5, Trung tâm tần số KV6, Trung tâm tần số KV7, Trung tâm tần số KV8
+Cơ quan có thẩm quyền:
+Trung tâm tần số KV1, Trung tâm tần số KV2, Trung tâm tần số KV3, Trung tâm tần số KV4, Trung tâm tần số KV5, Trung tâm tần số KV6, Trung tâm tần số KV7, Trung tâm tần số KV8
+Địa chỉ tiếp nhận HS:
+Trung tâm Tần số vô tuyến điện khu vực: tra cứu trên website của Cục Tần số vô tuyến điện tại www.rfd.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng tần số và thiết bị vô tuyến điện (Mẫu 1h Phụ lục III ban hành kèm theo nghị định 63/2023/NĐ-C))
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|265/2016/TT-BTC|Thông tư 265/2016/TT-BTC|14-11-2016||
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009||
+|11/2022/TT-BTC|Thông tư số 11/2022/TT-BTC ngày 21/02/2022 của Bộ trưởng Bộ Tài chính|21-02-2022|Bộ Tài chính|
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||
+
+Yêu cầu, điều kiện thực hiện:
+-	Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;
+-	Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;
+-	Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;
+-	Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện;
+-	Người trực tiếp khai thác thiết bị vô tuyến điện trên tàu phải có chứng chỉ vô tuyến điện viên hàng hải theo quy định.
+-	Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;
+-	Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;
+-	Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;
+-	Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện;
+-	Người trực tiếp khai thác thiết bị vô tuyến điện trên tàu phải có chứng chỉ vô tuyến điện viên hàng hải theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

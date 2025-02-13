@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký thay đổi nội dung giấy đăng ký hoạt động của Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài (thay đổi tên gọi, địa điểm đặt trụ sở)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị ghi chú thay đổi nội dung đăng ký hoạt động (nêu rõ nội dung cần thay đổi).
+- 01 Bản chính 2. Giấy đăng ký hoạt động (bản chính).

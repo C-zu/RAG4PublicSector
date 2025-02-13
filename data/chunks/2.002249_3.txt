@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ (trừ trường hợp thuộc thẩm quyền của Bộ Khoa học và Công nghệ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : 3.000.000-5.000.000 Đồng Đối với các hợp đồng chuyển giao công nghệ đề nghị đăng ký sửa đổi, bổ sung thì phí thẩm định hợp đồng chuyển giao công nghệ được tính theo tỷ lệ bằng 0,1% (một phần nghìn) tổng giá trị của hợp đồng sửa đổi, bổ sung nhưng tối đa không quá 05 (năm) triệu đồng và tối thiểu không dưới 03 (ba) triệu đồng.|Nộp hồ sơ trực tiếp tại trụ sở Sở Khoa học và Công nghệ|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ tại cổng dịch vụ công trực tuyến của Sở Khoa học và Công nghệ|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : 3.000.000-5.000.000 Đồng Đối với các hợp đồng chuyển giao công nghệ đề nghị đăng ký sửa đổi, bổ sung thì phí thẩm định hợp đồng chuyển giao công nghệ được tính theo tỷ lệ bằng 0,1% (một phần nghìn) tổng giá trị của hợp đồng sửa đổi, bổ sung nhưng tối đa không quá 05 (năm) triệu đồng và tối thiểu không dưới 03 (ba) triệu đồng.||

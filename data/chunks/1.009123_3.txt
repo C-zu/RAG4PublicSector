@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy phép xây dựng đối với trường hợp sửa chữa, cải tạo công trình, nhà ở riêng lẻ (đối với công trình cấp III, cấp IV)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc.|Phí : + Đối với nhà ở riêng lẻ: 50.000 đồng/giấy phép  Phí : + Đối với nhà ở công trình: 100.000 đồng/giấy phép|Hồ sơ nộp tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|

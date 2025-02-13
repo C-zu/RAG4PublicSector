@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn thời gian lưu lại lãnh thổ Việt Nam cho phương tiện vận tải thủy của Campuchia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy phép vận tải thủy qua biên giới;
+- 01 Bản chính - Giấy đăng ký phương tiện;
+- 01 Bản chính - Đơn đề nghị gia hạn theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddb6eb349727b8'">Mẫu.docx</a>)

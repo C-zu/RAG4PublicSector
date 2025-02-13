@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục giải quyết tố cáo tại cơ quan Trung ương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Theo quy định tại Điều 30 Luật Tố cáo: Thời hạn giải quyết tố cáo là không quá 30 ngày kể từ ngày thụ lý tố cáo. Đối với vụ việc phức tạp thì có thể gia hạn giải quyết tố cáo một lần nhưng không quá 30 ngày. Đối với vụ việc đặc biệt phức tạp thì có thể gia hạn giải quyết tố cáo hai lần, mỗi lần không quá 30 ngày.|
+|Trực tuyến|khác||Không gửi đơn tố cáo qua mạng|
+|Dịch vụ bưu chính|khác||- Tố cáo được thực hiện bằng đơn (gửi qua đường bưu điện hoặc gửi trực tiếp đến cơ quan, người có thẩm quyền giải quyết) - Tố cáo được trình bày trực tiếp với cơ quan, tổ chức, người có thẩm quyền.|

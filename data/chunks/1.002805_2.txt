@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Giấy phép liên vận GMS hoặc sổ TAD
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ:
+- Đơn vị kinh doanh vận tải nộp hồ sơ đề nghị cấp lại Giấy phép liên vận GMS hoặc sổ TAD đến Cục Đường bộ Việt Nam.
+b) Giải quyết TTHC:
+- Cục Đường bộ Việt Nam tiếp nhận, kiểm tra hồ sơ. Trường hợp tiếp nhận hồ sơ trực tiếp tại Cục Đường bộ Việt Nam hoặc qua đường bưu chính, cán bộ tiếp nhận hồ sơ cập nhật thông tin của các hồ sơ đúng theo quy định vào hệ thống dịch vụ công trực tuyến của Cục Đường bộ Việt Nam. Trường hợp hồ sơ cần sửa đổi, bổ sung, Cục Đường bộ Việt Nam thông báo trực tiếp hoặc bằng văn bản hoặc qua hệ thống dịch vụ công trực tuyến cho đơn vị kinh doanh vận tải trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ;
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Cục Đường bộ Việt Nam cấp giấy phép thực hiện cấp Giấy phép liên vận GMS. Trường hợp không cấp, Cục Đường bộ Việt Nam thông báo bằng văn bản hoặc qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do;
+- Việc trả kết quả được thực hiện tại trụ sở Cục Đường bộ Việt Nam hoặc qua đường bưu chính hoặc hình thức trực tuyến theo quy định.

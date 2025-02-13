@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp giấy phép xả nước thải vào nguồn nước với lưu lượng từ 30.000m3/ngày đêm trở lên đối với hoạt động nuôi trồng thủy sản; với lưu lượng từ 3.000m3/ngày đêm trở lên đối với các hoạt động khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính - Đơn đề nghị cấp giấy phép xả nước thải vào nguồn nước (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed9cf3f872c067'">Mẫu số 09.docx</a>)
+- 03 Bản chính - Báo cáo hiện trạng xả nước thải kèm theo quy trình vận hành hệ thống xử lý nước thải đối với trường hợp đang xả nước thải vào nguồn nước. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc7145a08ebb14'">Mẫu số 36.docx</a>)
+- 03 Bản chính - Đề án xả nước thải vào nguồn nước kèm theo quy trình vận hành hệ thống xử lý nước thải đối với trường hợp chưa xả nước thải. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef853be6f0db5'">Mẫu số 35 (2).docx</a>)
+- 03 Bản chính - Kết quả phân tích chất lượng nguồn nước tiếp nhận tại vị trí xả nước thải vào nguồn nước; kết quả phân tích chất lượng nước thải trước và sau khi xử lý đối với trường hợp đang xả nước thải. Thời điểm lấy mẫu phân tích chất lượng nước thải không quá ba ( 03) tháng tính đến thời điểm nộp hồ sơ.
+- 03 Bản chính - Sơ đồ vị trí khu vực xả nước thải.
+- 01 Bản chính, 02 Bản sao - Văn bản góp ý, tổng hợp tiếp thu, giải trình ý kiến (đối với trường hợp phải lấy ý kiến đại diện cộng đồng dân cư, tổ chức, cá nhân). Trường hợp chưa có công trình xả nước thải vào nguồn nước, hồ sơ đề nghị cấp giấy phép phải nộp trong giai đoạn chuẩn bị đầu tư.

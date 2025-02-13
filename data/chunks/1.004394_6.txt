@@ -1,0 +1,50 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự), khi đáp ứng đủ các điều kiện sau đây:
+1. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý, điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về kiểm tra, đánh giá an toàn thông tin.
+2. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ bảo mật thông tin không sử dụng mật mã dân sự:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về bảo mật thông tin.
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự), khi đáp ứng đủ các điều kiện sau đây:
+1. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin mạng:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý, điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về kiểm tra, đánh giá an toàn thông tin.
+2. Đối với Doanh nghiệp được cấp phép kinh doanh dịch vụ bảo mật thông tin không sử dụng mật mã dân sự:
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ;
+đ) Là doanh nghiệp được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam, trừ doanh nghiệp có vốn đầu tư nước ngoài;
+e) Người đại diện theo pháp luật, đội ngũ quản lý, điều hành, kỹ thuật là công dân Việt Nam thường trú tại Việt Nam;
+g) Có phương án kỹ thuật phù hợp và bao gồm các nội dung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng;
+h) Có phương án bảo mật thông tin khách hàng trong quá trình cung cấp dịch vụ;
+i) Đội ngũ quản lý điều hành, kỹ thuật có văn bằng hoặc chứng chỉ chuyên môn về bảo mật thông tin.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

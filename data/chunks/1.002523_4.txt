@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp quyền vận chuyển hàng không
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd57764541f438a'">HK-85.doc</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận người khai thác tàu bay;
+- 01 Bản chính Báo cáo về đường bay và kế hoạch khai thác dự kiến;
+- 01 Bản sao Bản sao tài liệu xác nhận tư cách pháp nhân và Điều lệ của hãng.

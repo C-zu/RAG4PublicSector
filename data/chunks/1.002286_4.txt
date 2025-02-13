@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn thời gian lưu hành tại Việt Nam cho phương tiện của Lào, Campuchia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị gia hạn theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6c9e79939c09c'">Mẫu.docx</a>)
+- 01 Bản chính - Giấy phép liên vận giữa Việt Nam, Lào và Campuchia (bản chính).

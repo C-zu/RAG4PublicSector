@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn (theo Mẫu số 01.ĐKCN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd5eef126f3336'">Mẫu số 01.ĐKCN.docx</a>)
+- 01 Bản chính - Bản thuyết minh về điều kiện chăn nuôi (theo Mẫu số 02.ĐKCN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd11bd051c5e692'">Mẫu số 02.ĐKCN.docx</a>)

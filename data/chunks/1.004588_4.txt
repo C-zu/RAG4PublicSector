@@ -1,0 +1,10 @@
+Tên thủ tục: Tiếp nhận công bố hợp quy đối với sản phẩm chuyên ngành công nghệ thông tin và truyền thông sản xuất trong nước bắt buộc phải công bố hợp quy
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản công bố hợp quy. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd47634c3eb19b8'">Mẫu Bản công bố hợp quy.doc</a>)
+- 01 Bản sao -Trường hợp tổ chức chưa có mã số doanh nghiệp hoặc cá nhân chưa có số định danh cá nhân, tổ chức, cá nhân nộp kèm theo hồ sơ công bố hợp quy bản sao một trong các loại giấy tờ sau: + Giấy chứng nhận đăng ký kinh doanh; Quyết định/Giấy phép thành lập, Giấy chứng nhận đầu tư/Giấy phép đầu tư (đối với tổ chức chưa có mã số doanh nghiệp); + Chứng minh nhân dân/hộ chiếu (đối với cá nhân chưa có số định danh cá nhân). Tổ chức, cá nhân chỉ nộp thành phần hồ sơ này khi thực hiện công bố hợp quy lần đầu hoặc các giấy tờ nêu trên có sự thay đổi
+- 01 Bản chính, 01 Bản sao - Mẫu dấu hợp quy khi thực hiện công bố hợp quy lần đầu hoặc khi mẫu dấu hợp quy có sự thay đổi.
+- 01 Bản chính, 01 Bản sao - Báo cáo tự đánh giá gồm các thông tin sau: + Tên tổ chức, cá nhân; địa chỉ; điện thoại, fax. +Tên sản phẩm, hàng hóa. + Hãng sản xuất. + Số hiệu quy chuẩn kỹ thuật. + Số, ngày cấp kết quả đo kiểm sản phẩm. Kết quả đo kiểm này phải được cấp bởi đơn vị đo kiểm phục vụ hoạt động công bố hợp quy quy định tại khoản 2 Điều 5 Thông tư số 30/2011/TT-BTTTT được sửa đổi, bổ sung tại khoản 1, Điều 1 Thông tư số 15/2018/TT-BTTTT cấp cho tổ chức, cá nhân thực hiện báo cáo tự đánh giá. + Kết luận sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật. + Cam kết chất lượng sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, hàng hóa và kết quả tự đánh giá.

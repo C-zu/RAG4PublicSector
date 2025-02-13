@@ -1,0 +1,26 @@
+Tên thủ tục: Thủ tục tuyển sinh đào tạo trình độ đại học, cao đẳng quân sự hệ chính quy
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Ban Tuyển sinh quân sự cấp huyện
+Cơ quan có thẩm quyền:
+Hội đồng Tuyển sinh các học viện, trường sĩ quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phiếu báo thi cho thí sinh.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2005/QH11|Sửa đổi bổ sung một số điều của Luật Nghĩa vụ quân sự|14-06-2005|Quốc Hội|
+|03/2014/TT-BQP|Về quy định chi tiết và hướng dẫn thực hiện công tác tuyển sinh vào các trường trong Quân đội|16-01-2014|Bộ Quốc phòng|
+|19/2008/QH12|Sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam|03-06-2008|Quốc Hội|
+|38/2005/QH11|Luật Giáo dục|14-06-2005|Quốc Hội|
+|134/2006/NĐ-CP|Nghị định 134/2006/NĐ-CP|14-11-2006||
+|48/2019/QH14|Luật dân quân tự vệ|22-11-2019|Văn phòng Quốc hội|

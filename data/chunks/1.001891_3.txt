@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo về việc thay đổi địa điểm đặt trụ sở, Trưởng Văn phòng đại diện của Trung tâm trọng tài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày||Thông báo nộp trực tiếp hoặc gửi qua bưu điện.|
+|Dịch vụ bưu chính|07 Ngày làm việc||Thông báo nộp trực tiếp hoặc gửi qua bưu điện.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ doanh nghiệp vận chuyển hàng hóa bằng container qua Cảng Nghi Sơn, tỉnh Thanh Hóa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị hỗ trợ của doanh nghiệp đã vận chuyển hàng hóa bằng container thông qua Cảng Nghi Sơn, tỉnh Thanh Hóa (Mẫu số 3); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe58367efb409f9'">Mẫu số 3.docx</a>)
+- 01 Bản chính - Bảng kê số lượng container xuất, nhập khẩu qua Cảng Nghi Sơn có xác nhận của doanh nghiệp khai thác Cảng (Mẫu số 4). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea676d64dc1bff'">Mẫu số 4.docx</a>)

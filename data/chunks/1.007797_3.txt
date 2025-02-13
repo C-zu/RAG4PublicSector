@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đề nghị, gia hạn và chấm dứt thời hạn kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ và bổ sung, thay đổi thông tin đề nghị kiểm tra, giám sát
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 ngày hoặc 5 ngày căn cứ vào đề nghị của chủ thể quyền|Phí : 200.000 Đồng Phí thu trên 01 Đơn đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo vệ quyền SHTT|-- Đối với đề nghị kiểm tra, giám sát và gia hạn: 20 ngày kể từ ngày tiếp nhận đủ bộ hồ sơ đề nghị đề nghị kiểm tra, giám sát; -- Đối với đề nghị chấm dứt kiểm tra, giám sát: 5 ngày làm việc kể từ ngày nhận được văn bản đề nghị của người nộp Đơn hoặc thông báo của cơ quan quản lý nhà nước.|
+|Dịch vụ bưu chính|20 Ngày||Trong thời hạn 20 ngày kể từ ngày tiếp nhận đủ bộ hồ sơ, Tổng cục Hải quan (Cục Giám sát quản lý về hải quan) kiểm tra và thông báo bằng văn bản cho người nộp đơn về việc chấp nhận hoặc không chấp nhận Đơn đề nghị.|

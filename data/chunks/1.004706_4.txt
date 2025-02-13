@@ -1,0 +1,10 @@
+Tên thủ tục: Đóng tạm thời một phần kết cấu hạ tầng cảng hàng không, sân bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ trình xin phép đóng cửa tạm thời một phần kết cấu hạ tầng cảng hàng không, sân bay bao gồm các thông tin: lý do đóng tạm thời; vị trí và phạm vi đóng tạm thời; thời gian đóng tạm thời phù hợp với quy định thông báo tin tức hàng không;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Sơ đồ bản vẽ chi tiết khu vực đóng tạm thời;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Phương án bảo đảm duy trì hoạt động liên quan đến công trình đóng tạm thời;
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Biện pháp đảm bảo an ninh, an toàn liên quan đến công trình đóng tạm thời.

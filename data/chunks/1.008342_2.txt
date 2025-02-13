@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế thu nhập cá nhân tháng/quý của tổ chức khấu trừ thuế đối với cá nhân trực tiếp ký hợp đồng làm đại lý xổ số, đại lý bảo hiểm, đại lý bán hàng đa cấp, cá nhân có thu nhập từ phí tích luỹ bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++Bước 1. Công ty xổ số, doanh nghiệp bảo hiểm, doanh nghiệp bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích luỹ bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác, chuẩn bị hồ sơ và gửi đến cơ quan thuế. 
+Thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế. Thời hạn nộp hồ sơ khai thuế quý chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo quý phát sinh nghĩa vụ thuế.
++ Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định.
+++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ (và trả kết quả nếu có kết quả) thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

@@ -1,0 +1,16 @@
+Tên thủ tục: Thực hiện quyết định trợ cấp xã hội hàng tháng khi đối tượng thay đổi nơi cư trú giữa các huyện, thị xã, thành phố thuộc tỉnh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010757
+Số quyết định:
+626/QĐ-UBND
+Tên thủ tục:
+Thực hiện quyết định trợ cấp xã hội hàng tháng khi đối tượng thay đổi nơi cư trú giữa các huyện, thị xã, thành phố thuộc tỉnh
+Cấp thực hiện:
+Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo trợ xã hội

@@ -1,0 +1,23 @@
+Tên thủ tục: Đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm; Đăng ký thay đổi, bổ sung một trong các nội dung đã đăng ký lưu hành theo quy định tại Điểm c, Khoản 2, Điều 10 Thông tư 11/2014/TT-BYT
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn thực phẩm - Bộ Y tế
+Cơ quan có thẩm quyền:
+Cục An toàn thực phẩm - Bộ Y tế
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao hợp lệ các giấy tờ, tài liệu chứng minh bảo đảm các điều kiện an toàn về phòng cháy và chữa cháy đối với khu vực kinh doanh và kho bảo quản nguyên liệu, hàng hóa, gồm: a) Văn bản nghiệm thu về phòng cháy và chữa cháy đối với cơ sở kinh doanh thuộc danh mục quy định tại Phụ lục IV ban hành kèm theo Nghị định số 79/2014/NĐ-CP ngày 31 tháng 7 năm 2014 quy định chi tiết thi hành một số điều của Luật phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật phòng cháy và chữa cháy (sau đây viết gọn là Nghị định số 79/2014/NĐ-CP); b) Biên bản kiểm tra về phòng cháy và chữa cháy của cơ quan Cảnh sát Phòng cháy và chữa cháy đối với các cơ sở kinh doanh không thuộc quy định tại điểm a khoản 3 Điều này nhưng thuộc Danh mục quy định tại Phụ lục I ban hành kèm theo Nghị định số 79/2014/NĐ-CP; c) Các cơ sở kinh doanh không phải nộp tài liệu quy định tại các điểm a và b khoản 3 Điều này, gồm: Sản xuất con dấu; sản xuất cờ hiệu, mua, bán cờ hiệu, đèn, còi phát tín hiệu của xe được quyền ưu tiên; kinh doanh dịch vụ bảo vệ; kinh doanh dịch vụ đòi nợ; kinh doanh dịch vụ đặt cược; kinh doanh các thiết bị gây nhiễu, phá sóng thông tin di động; kinh doanh dịch vụ phẫu thuật thẩm mỹ; kinh doanh máy kiểm tra tốc độ phương tiện giao thông cơ giới đường bộ; kinh doanh thiết bị kiểm tra nồng độ cồn; kinh doanh thiết bị giám sát điện thoại di động GSM và các thiết bị giám sát điện thoại di động khác; d) Đối với các cơ sở kinh doanh không có kho chứa nguyên liệu hoặc sản phẩm theo quy định thì phải có hợp đồng thuê kho đảm bảo các điều kiện an toàn về phòng cháy và chữa cháy theo quy định tại các điểm a và b khoản 3 Điều này; đ) Đối với các cơ sở kinh doanh ngành, nghề có sử dụng vật liệu nổ công nghiệp và tiền chất thuốc nổ thì các tài liệu chứng minh đảm bảo các điều kiện an toàn về phòng cháy và chữa cháy là tài liệu của kho chứa, bảo quản vật liệu nổ công nghiệp, tiền chất thuốc nổ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2010/QH12|Luật 55/2010/QH12-An toàn thực phẩm|17-06-2010|Quốc Hội|
+|38/2012/NĐ-CP|Nghị định 38/2012/NĐ-CP-Quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm|25-04-2012|Chính phủ|
+|11/2014/TT-BYT|Thông tư 11/2014/TT-BYT-Quy định quản lý bộ xét nghiệm nhanh thực phẩm|18-03-2014|Bộ Y tế|

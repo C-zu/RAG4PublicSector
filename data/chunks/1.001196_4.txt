@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký thay đổi, bổ sung một trong các nội dung đã đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm theo quy định tại Điểm b, Khoản 2, Điều 10 Thông tư 11/2014/TT-BYT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thay đổi nội dung đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm (theo mẫu quy định tại Phụ lục 04 ban hành kèm theo Thông tư 11/2014/TT-BYT); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd323a5a56e68b4'">phụ lục 4.docx</a>)
+- 01 Bản sao Bản sao giấy chứng nhận đăng ký lưu hành (bao gồm giấy chứng nhận được cấp lần đầu và các lần gia hạn);
+- 01 Bản chính Tài liệu liên quan đến các nội dung đề nghị thay đổi, bổ sung; trường hợp tài liệu bằng tiếng nước ngoài phải kèm theo bản dịch ra tiếng Việt (có xác nhận của doanh nghiệp);
+- 02 Bản chính 02 bộ mẫu xét nghiệm nhanh thực phẩm.

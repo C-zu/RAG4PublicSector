@@ -1,0 +1,12 @@
+Tên thủ tục: Thay đổi mục đích sử dụng điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Từ ngoài sinh hoạt sang sinh hoạt
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0980ce0eab34e'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)
+
+
+Từ sinh hoạt sang ngoài sinh hoạt hoặc Chuyển sử dụng điện ngoài sinh hoạt phải thay đổi giá bán điện
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef8486ad6ba94'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)
+- 01 Bản sao Giấy tờ xác định mục đích sử dụng điện là một trong những loại giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; Giấy phép đầu tư; Quyết định thành lập đơn vị; Biên bản khảo sát cấp điện của Điện lực/Công ty Điện lực; Thông tin của doanh nghiệp trên Cổng thông tin đăng ký doanh nghiệp quốc gia tại địa chỉ http://www.dangkykinhdoanh.gov.vn

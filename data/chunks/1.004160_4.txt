@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký tiếp cận nguồn gen
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký tiếp cận nguồn gen theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 59/2017/NĐ-CP ngày 12 tháng 5 năm 2017; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec0602fc257aab'">Mẫu số 02.docx- tiep can nguon gen.docx</a>)
+- 01 Bản chính Văn bản chứng minh tư cách pháp nhân theo quy định pháp luật của quốc gia nơi tổ chức được thành lập; xuất trình bản chính, hoặc bản sao có chứng thực một trong các giấy tờ là hộ chiếu, chứng minh nhân dân, thẻ căn cước công dân hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của cá nhân đăng ký;
+- 01 Bản sao Đối với tổ chức, cá nhân nước ngoài đăng ký tiếp cận nguồn gen phải có văn bản hợp tác với tổ chức khoa học và công nghệ Việt Nam;
+- 01 Bản chính Đối với việc đăng ký tiếp cận nguồn gen thuộc chương trình, dự án, đề tài chung có sự tham gia của nhiều tổ chức, cá nhân phải có văn bản ủy quyền cho tổ chức, cá nhân đại diện để thực hiện đăng ký tiếp cận nguồn gen.
+ Số lượng hồ sơ: 01 bộ hồ sơ.

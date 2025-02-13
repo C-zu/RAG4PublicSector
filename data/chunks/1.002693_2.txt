@@ -1,0 +1,6 @@
+Tên thủ tục: Cấp giấy phép chặt hạ, dịch chuyển cây xanh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Gửi hồ sơ xin cấp phép:  Gửi hồ sơ đề nghị cấp giấy phép chặt hạ, dịch chuyển cây xanh tới cơ quan được phân cấp quản lý cây xanh theo quy định của Uỷ ban nhân dân cấp tỉnh.
+2. Xem xét và cấp giấy phép: Sau khi nhận đủ hồ sơ hợp lệ cơ quan được phân cấp quản lý cây xanh cấp giấy phép theo quy định.

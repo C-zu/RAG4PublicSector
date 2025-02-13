@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định thiết kế tàu biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị theo mẫu (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedd7300075645c'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - Tài liệu thiết kế (01 tài liệu thiết kế dạng điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác).

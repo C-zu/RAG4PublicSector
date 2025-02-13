@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003176
+Số quyết định:
+5625/QĐ-BCA-C06
+Tên thủ tục:
+Cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự (thực hiện tại cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý ngành nghề đầu tư, kinh doanh có điều kiện về an ninh, trật tự
+Trình tự thực hiện:
+- Bước 1: Tổ chức, cá nhân có nhu cầu được cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự để kinh doanh một số ngành, nghề đầu tư kinh doanh có điều kiện trong những trường hợp bị hư hỏng, sai thông tin, có thay đổi nội dung thông tin ghi trên Giấy chứng nhận đủ điều kiện về an ninh, trật tự hoặc hết thời hạn sử dụng đối với Giấy chứng nhận đủ điều kiện về an ninh, trật tự được cấp trước đó nộp hồ sơ về Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an.
+- Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ. Nếu hồ sơ hợp lệ và đầy đủ thành phần thì tiếp nhận giải quyết và gửi Giấy biên nhận hồ sơ; nếu hồ sơ chưa hợp lệ hoặc thiếu thành phần thì hướng dẫn hoàn thiện hồ sơ, đồng thời gửi Phiếu hướng dẫn hoàn thiện hồ sơ; nếu hồ sơ không đủ điều kiện hoặc không thuộc thẩm quyền giải quyết thì từ chối tiếp nhận hồ sơ và gửi thông báo về việc hồ sơ không đủ điều kiện cấp Giấy chứng nhận đủ điều kiện về an ninh, trật tự.
+- Bước 3: Căn cứ theo thời gian hẹn trên Giấy biên nhận hồ sơ, tổ chức, cá nhân sẽ được cơ quan có thẩm quyền giải quyết hồ sơ gửi kết quả Giấy chứng nhận đủ điều kiện về an ninh, trật tự qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an, qua dịch vụ bưu chính hoặc nhận trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|4 Ngày làm việc|Lệ phí : 300.000 Đồng|- Nộp hồ sơ, nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an.|
+|Trực tuyến|4 Ngày làm việc|Lệ phí : 300.000 Đồng|Nộp hồ sơ, nhận kết quả qua Cổng dịch vụ công (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).|
+|Dịch vụ bưu chính|4 Ngày làm việc|Lệ phí : 300.000 Đồng|Nộp hồ sơ, nhận kết quả qua dịch vụ bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP) ([Mẫu số 03-KDDK-ND56.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd73dcbeb1c8e90'))
+- 01 Bản sao Bản sao hợp lệ các tài liệu chứng minh sự thay đổi của các thông tin ghi trên Giấy chứng nhận đủ điều kiện về an ninh, trật tự (nếu có)
+- 01 Bản chính Tài liệu quy định tại điểm b khoản 4 Điều 19 Nghị định số 96/2016/NĐ-CP hoặc tại điểm b khoản 3 Điều 1 Nghị định số 56/2023/NĐ-CP trong trường hợp thay đổi người đứng tên trong Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh
+- 01 Bản chính Bản chính Giấy chứng nhận đủ điều kiện về an ninh, trật tự đã được cấp trước đó (nếu có).
+
+Đối tượng thực hiện:
+Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|218/2016/TT-BTC|Thông tư 218/2016/TT-BTC|10-11-2016|Bộ Tài chính|
+|96/2016/NĐ-CP|Nghị định 96/2016/NĐ-CP|01-07-2016|Chính phủ|
+|23/2019/TT-BTC|Thông tư 23/2019/TT-BTC|19-04-2019|Bộ Tài chính|
+|43/2017/TT-BCA|Thông tư số 43/2017/TT-BCA ngày 20/10/2017 của Bộ Công an|20-10-2017|Bộ Công an|
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+|42/2017/TT-BCA|Thông tư 42/2017/TT-BCA|20-10-2017||
+|56/2023/NĐ-CP|Nghị định 56/2023/NĐ-CP|24-07-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tùy theo từng nội dung thay đổi và đối với từng ngành, nghề đầu tư kinh doanh, cơ sở kinh doanh phải đảm bảo các điều kiện về an ninh, trật tự theo quy định lần lượt tại các Điều 7, 8, 11, 13 Nghị định số 96/2016/NĐ-CP.
+Trường hợp nộp hồ sơ trực tuyến: văn bản, giấy tờ trong hồ sơ là văn bản điện tử được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật (văn bản điện tử có định dạng là PDF).
+Tùy theo từng nội dung thay đổi và đối với từng ngành, nghề đầu tư kinh doanh, cơ sở kinh doanh phải đảm bảo các điều kiện về an ninh, trật tự theo quy định lần lượt tại các Điều 7, 8, 11, 13 Nghị định số 96/2016/NĐ-CP.
+Trường hợp nộp hồ sơ trực tuyến: văn bản, giấy tờ trong hồ sơ là văn bản điện tử được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức theo quy định của pháp luật (văn bản điện tử có định dạng là PDF).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

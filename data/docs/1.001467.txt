@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001467
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Phê duyệt Tài liệu thiết kế dự án (PDD) sửa đổi, bổ sung (TTHC cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khí tượng, thủy văn
+Trình tự thực hiện:
+Bên tham gia dự án gửi hồ sơ sửa đổi, bổ sung PDD của dự án JCM đã được đăng ký đến Tổ thư ký qua thư điện tử.
+Hồ sơ sửa đổi, bổ sung PDD của dự án và TPE dự kiến được đăng trên trang thông tin điện tử của JCM và lấy ý kiến công chúng.
+Sau thời hạn lấy ý kiến công chúng, Tổ thư ký tổng hợp ý kiến góp ý của công chúng về dự án và trình hồ sơ cùng ý kiến góp ý lên Ủy ban Hỗn hợp.
+Bên tham gia dự án gửi hồ sơ đăng ký sửa đổi bổ sung đã được TPE thẩm định đạt yêu cầu dự án kèm theo báo cáo thẩm định của TPE đến Tổ thư ký qua thư điện tử.
+Sau khi nhận được hồ sơ đăng ký dự án kèm theo báo cáo thẩm định của TPE, Tổ thư ký thông báo qua thư điện tử cho bên tham gia dự án việc tiếp nhận hồ sơ và đăng thông tin liên quan về dự án trên trang thông tin điện tử của JCM.
+Tổ thư ký kiểm tra và thông báo cho bên tham gia dự án và TPE của dự án về tính hợp lệ và đầy đủ của hồ sơ qua thư điện tử. Trường hợp cần bổ sung thông tin, Tổ thư ký thông báo cho bên tham gia và TPE của dự án để gửi lại.
+Đối với hồ sơ đầy đủ, Tổ thư ký trình Ủy ban Hỗn hợp xem xét và quyết định.
+
+- Sau khi nhận được hồ sơ đăng ký dự án từ Tổ thư ký, Ủy ban Hỗn hợp xem xét và ra quyết định phê duyệt hoặc không phê duyệt dự án kèm theo lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|- Thời hạn lấy ý kiến công chúng : Ba mươi (30) ngày. - Thời hạn kiểm tra tính đầy đủ hồ sơ: Bảy (07) ngày|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị sửa đổi PDD bằng tiếng Việt (theo mẫu quy định tại Phụ lục 9 và 9a ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản). ([Mẫu 15.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb1e9fea34498c'))
+- 01 Bản chính Đơn đề nghị sửa đổi PDD bằng tiếng Anh(theo mẫu quy định tại Phụ lục 9 và 9a ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản). ([Mẫu 16.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5da45ce5675ab'))
+- 01 Bản chính Dự thảo Tài liệu thiết kế dự án (PDD) bằng tiếng Việt (theo mẫu quy định tại Phụ lục 4 và 4ª ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản)/ ([Mẫu 7.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7cc6b3761d39e'))
+- 01 Bản chính Dự thảo Tài liệu thiết kế dự án (PDD) bằng tiếng Anh(theo mẫu quy định tại Phụ lục 4 và 4ª ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản)/ ([Mẫu 8.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe916d9a2a4a57a'))
+- 01 Bản chính Báo cáo thẩm định của TPE bằng tiếng Việt (theo mẫu tại Phụ lục 7 và 7ª ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản). ([Mẫu 13.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42d8478341f29'))
+- 01 Bản chính Báo cáo thẩm định của TPE bằng tiếng Anh (theo mẫu tại Phụ lục 7 và 7ª ban hành kèm theo Thông tư số 17/2015/TT-BTNMT ngày 06 tháng 4 năm 2015 của Bộ Tài nguyên và Môi trường quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản). ([Mẫu 14 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9b426738b73c0'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban hỗ trợ của cơ chế JCM
+Cơ quan có thẩm quyền:
+Ủy ban hỗ trợ của cơ chế JCM
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt hoặc không phê duyệt dự án JCM kèm theo lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|17/2015/TT-BTNMT|Quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản|06-04-2015|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,15 @@
+Tên thủ tục: Đăng ký xe mô tô, xe gắn máy (kể cả xe máy điện) từ điểm đăng ký xe khác chuyển đến tại Công an cấp xã được phân cấp đăng ký xe
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01A/58) và nhận mã số thứ tự, lịch hẹn giải quyết hồ sơ qua địa chỉ thư điện tử hoặc qua tin nhắn điện thoại để làm thủ tục đăng ký xe tại cơ quan đăng ký xe Công an cấp xã. Trường hợp trực tiếp đến cơ quan đăng ký xe kê khai giấy khai đăng ký xe (mẫu số 01).
+Bước 2: Nộp hồ sơ đề nghị đăng ký, cấp biển số xe tại bộ phận tiếp nhận và trả kết quả Công an cấp xã nơi được phân cấp công tác đăng ký xe. Cán bộ, chiến sĩ làm nhiệm vụ đăng ký xe kiểm tra đối chiếu giấy tờ chủ xe theo quy định tại Thông tư số 58/2020/TT-BCA ngày 16/6/2020 của Bộ trưởng Bộ Công an quy định quy trình cấp, thu hồi đăng ký, biển số phương tiện giao thông cơ giới đường bộ.  
+Trường hợp chủ xe khai đăng ký xe trực tuyến trên Cổng dịch vụ công trực tuyến. Dữ liệu điện tử giấy khai đăng ký xe trực tuyến sẽ được Cổng dịch vụ công trực tuyến truyền về hệ thống đăng ký xe của Cục Cảnh sát giao thông, hệ thống tự động ra thông báo cho chủ xe. Chủ xe mang xe, hồ sơ xe đến cơ quan đăng ký xe để thực hiện đăng ký xe theo quy định. Các thông tin trong Giấy khai đăng ký xe trực tuyến do chủ xe kê khai, bao gồm dữ liệu điện tử về lệ phí trước bạ, chứng từ chuyển quyền sở hữu. 
+Bước 3: Kiểm tra thực tế xe: 
+a) Trực tiếp đối chiếu nội dung trong giấy khai đăng ký xe với thực tế xe, gồm: Nhãn hiệu, loại xe, số máy, số khung, màu sơn, số chỗ ngồi và các thông số kỹ thuật khác; kiểm tra toàn bộ, chi tiết hình dáng kích thước, tổng thành khung, tổng thành máy của xe;
+b) Chà số khung dán vào giấy khai đăng ký xe, đối chiếu số máy thực tế so với bản chà số máy dán tại giấy khai đăng ký xe và ký xác nhận kiểm tra lên bản chà số máy, số khung đó (một phần chữ ký trên bản chà, phần còn lại trên giấy khai đăng ký xe); ghi rõ ngày, tháng, năm và họ, tên cán bộ kiểm tra xe.
+Bước 4: Kiểm tra nhập thông tin chủ mới trên hệ thống đăng ký quản lý xe; đối chiếu giấy chứng nhận thu hồi đăng ký xe (nếu có), giấy tờ chuyển quyền sở hữu, giấy tờ lệ phí trước bạ với dữ liệu đăng ký xe. 
+Bước 5: Hướng dẫn chủ xe kiểm tra thông tin, Cấp biển số xe trên hệ thống đăng ký, quản lý xe, ghi biển số vào giấy khai đăng ký xe. 
+Bước 6: Cấp giấy hẹn cho chủ xe; trường hợp chủ xe có yêu cầu chuyển chứng nhận đăng ký xe qua Bưu điện thì hướng dẫn chủ xe làm thủ tục đăng ký sử dụng dịch vụ chuyển phát chứng nhận đăng ký xe.
+Bước 7: Thu lệ phí đăng ký xe hoặc kiểm tra thông tin nộp lệ phí trực tuyến theo quy định và cán bộ đăng ký xe ký vào giấy khai đăng ký xe (mẫu số 01) và trình lãnh đạo Công an cấp xã ký vào giấy khai đăng ký xe (mẫu số 01).
+Bước 8: Trả biển số xe, giấy chứng nhận đăng ký xe cho chủ xe.

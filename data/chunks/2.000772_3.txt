@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xác định có quốc tịch Việt Nam và cấp hộ chiếu Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 70 USD Cấp hộ chiếu Việt Nam  Lệ phí : 05 USD Cấp trích lục xác nhận về việc người làm thủ tục đã được xác định có quốc tịch Việt Nam|Nộp hồ sơ trực tiếp tại cơ quan đại diện; trong thời hạn 5 ngày làm việc, kể từ ngày tiếp nhận hồ sơ;|
+|Trực tiếp|50 Ngày|Lệ phí : 05 USD Cấp trích lục xác nhận về việc người làm thủ tục đã được xác định có quốc tịch Việt Nam  Lệ phí : 70 USD Cấp trích lục xác nhận về việc người làm thủ tục đã được xác định có quốc tịch Việt Nam|Nộp hồ sơ trực tiếp tại cơ quan đại diện; đối với trường hợp Người yêu cầu xác định quốc tịch sinh ra ở nước ngoài và chưa bao giờ thường trú tại Việt Nam, hạn 50 ngày làm việc, kể từ ngày nhận được yêu cầu xác minh quốc tịch,|

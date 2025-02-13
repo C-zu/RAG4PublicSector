@@ -1,0 +1,20 @@
+Tên thủ tục: Gia hạn Giấy phép xây dựng cho công trình thuộc dự án - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ: Đối với trường hợp không phải kiểm tra thực tế, dự thảo Giấy phép xây dựng điều chỉnh; Đối với trường hợp cần kiểm tra thực tế, thì tổ chức kiểm tra thực tế. 
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa để trả lại.
+B5	Kiểm tra tại thực địa (nếu cần):
+- Nếu hồ sơ đáp ứng điều kiện so với thực địa thì tiếp tục thẩm định.
+- Trường hợp qua kiểm tra không đúng theo hồ sơ thì tham mưu văn bản thông báo cho tổ chức, cá nhân gửi thông qua Bộ phận tiếp nhận và trả kết quả để trả lại hồ sơ thực hiện theo bước 8
+B6	Xem xét thẩm định cụ thể nội dung hồ sơ, dự thảo kết quả thực hiện TTHC
+B7	Xem xét, trình lãnh đạo phòng phê duyệt kết quả giải quyết TTHC.
+B8	Phê duyệt kết quả giải quyết TTHC
+B9	Phát hành văn bản và chuyển về Bộ phận tiếp nhận và trả kết quả
+B9	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục Đăng ký việc nuôi con nuôi thực tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Tờ khai đăng ký việc nuôi con nuôi theo mẫu quy định; (Bản chính)
+ - Chứng minh nhân dân và sổ hộ khẩu của người nhận con nuôi; (Bảo sao);
+ - Tờ khai đăng ký việc nuôi con nuôi theo mẫu quy định; (Bản chính); - Chứng minh nhân dân và sổ hộ khẩu của người nhận con nuôi; (Bảo sao); - Giấy chứng minh nhân dân hoặc Giấy khai sinh của người được nhận con nuôi; (Bản sao);
+ - Giấy chứng nhận kết hôn của người nhận con nuôi, nếu có (Bản sao);
+ - Giấy tờ tài liệu khác để chứng minh về việc nuôi con nuôi thực tế nếu có; (Tùy tính chất của từng trường hợp cụ thể mà có các giấy tờ tương ứng).

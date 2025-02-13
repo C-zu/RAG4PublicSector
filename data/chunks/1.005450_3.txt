@@ -1,0 +1,12 @@
+Tên thủ tục: Gia hạn, sửa đổi, bổ sung, cấp lại, đổi tên Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động hạng B (trừ tổ chức huấn luyện do các Bộ, ngành, cơ quan trung ương, các tập đoàn, tổng công ty nhà nước thuộc Bộ, ngành, cơ quan trung ương quyết định thành lập); Giấy chứng nhận doanh nghiệp đủ điều kiện tự huấn luyện an toàn, vệ sinh lao động hạng B (trừ doanh nghiệp có nhu cầu tự huấn luyện do các Bộ, ngành, cơ quan trung ương, các tập đoàn, tổng công ty nhà nước thuộc Bộ, ngành, cơ quan trung ương quyết định thành lập).
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc|Phí : 1.200.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9f207c188fb49'">1102017TT-BTC ngay 20102017.PDF</a>|Đối với trường hợp gia hạn Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động|
+|Trực tiếp|25 Ngày làm việc|Phí : 500.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec942b43dae38d'">1102017TT-BTC ngay 20102017.PDF</a>|Đối với trường hợp sửa đổi, bổ sung phạm vi Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động|
+|Trực tiếp|10 Ngày làm việc|Phí : 0 Đồng|Đối với trường hợp cấp lại Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động trong trường hợp bị hỏng, mất, cấp đổi tên|
+|Trực tuyến|25 Ngày làm việc|Phí : 1.200.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc29a70fce80d6'">1102017TT-BTC ngay 20102017.PDF</a>|Đối với trường hợp gia hạn Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động|
+|Trực tuyến|25 Ngày làm việc|Phí : 500.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3cf0be0106bae'">1102017TT-BTC ngay 20102017.PDF</a>|Đối với trường hợp sửa đổi, bổ sung phạm vi Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động|
+|Trực tuyến|10 Ngày làm việc|Phí : 0 Đồng|Đối với trường hợp cấp lại Giấy chứng nhận đủ điều kiện hoạt động huấn luyện an toàn, vệ sinh lao động trong trường hợp bị hỏng, mất, cấp đổi tên|

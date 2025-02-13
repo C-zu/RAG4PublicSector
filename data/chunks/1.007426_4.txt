@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán (Cấp mới)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1/ Thành phần hồ sơ, bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán theo mẫu quy định tại Phụ lục số 01/ĐKHN ban hành kèm theo Thông tư số 296/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính hướng dẫn về cấp, thu hồi và quản lý giấy chứng nhận đăng ký hành nghề dịch vụ kế toán. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb2c26ba7a9a36'">Mẫu đơn ĐN Phụ lục số 01 TT 296.docx</a>)
+- 01 Bản sao - Bản sao hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kinh doanh dịch vụ kế toán, hộ kinh doanh dịch vụ kế toán (trừ trường hợp người đăng ký hành nghề dịch vụ kế toán thuộc đối tượng không phải có hợp đồng lao động theo pháp luật về lao động).
+- 01 Bản sao - Bản sao chứng chỉ kế toán viên hoặc chứng chỉ kiểm toán viên.
+- 01 Bản chính - Giấy xác nhận về thời gian thực tế làm công tác tài chính, kế toán, kiểm toán theo mẫu quy định tại Phụ lục số 04/ĐKHN ban hành kèm theo Thông tư này hoặc các tài liệu chứng minh về thời gian thực tế làm công tác tài chính, kế toán, kiểm toán. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdee46e12786da0'">Phụ lục số 04 TT296.docx</a>)
+- 02 Bản chính - Hai ảnh màu cỡ 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề dịch vụ kế toán.
+- 01 Bản sao - Bản sao Quyết định thôi việc hoặc Quyết định chấm dứt hợp đồng lao động tại nơi làm việc trước khi đăng ký hành nghề dịch vụ kế toán (nếu có).
+- 01 Bản sao - Bản sao Giấy phép lao động tại Việt Nam của người đăng ký hành nghề dịch vụ kế toán là người nước ngoài trừ trường hợp người đăng ký thuộc đối tượng không phải có giấy phép lao động theo quy định của pháp luật lao động Việt Nam.
+- 01 Bản chính - Tài liệu chứng minh giờ cập nhật kiến thức tại các tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán đối với trường hợp có tính giờ cập nhật kiến thức.
+ 2/ Số lượng hồ sơ: 01 (bộ)

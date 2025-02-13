@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp Giấy chứng nhận kiểm định phương tiện phòng cháy, chữa cháy (Mẫu số PC27 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a3065c7a51dd'">PC27-capCNkiemdinh.docx</a>)
+- 01 Bản chính - Biên bản kiểm định phương tiện phòng cháy, chữa cháy của cơ sở kinh doanh dịch vụ tư vấn kiểm tra, kiểm định kỹ thuật về phòng cháy, chữa cháy; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0f3542b0dd3d8'">PC25-Bienbankiemdinh.docx</a>)
+- 01 Bản chính - Biên bản lấy mẫu phương tiện kiểm định (Mẫu số PC28 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf2497d870f094'">PC28-Bienbanlaymaukiemdinh.docx</a>)
+- 01 Bản chính - Giấy chứng nhận xuất xứ hoặc xuất xưởng của phương tiện;
+- 01 Bản chính - Giấy chứng nhận chất lượng của phương tiện (nếu có);
+- 01 Bản chính - Tài liệu kỹ thuật của phương tiện đề nghị kiểm định.

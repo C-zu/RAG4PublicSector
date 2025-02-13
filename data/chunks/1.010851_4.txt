@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ thâm canh rừng trồng luồng, nứa, vầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 03 ban hành kèm theo Nghị quyết số 185/2021/NQ-HĐND ngày 10/12/2021 của Hội đồng nhân dân tỉnh Thanh Hóa. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe25d73885cbf9d'">Mẫu số 03.docx</a>)
+- 01 Bản sao - Giấy chứng nhận quyền sử dụng đất hoặc Hợp đồng giao, khoán đất hoặc Hợp đồng cho thuê đất (bản sao).
+- 01 Bản chính - Giấy xác nhận của Hạt kiểm lâm cấp huyện đã trồng luồng, nứa, vầu trên diện tích đề nghị hỗ trợ (bản chính).

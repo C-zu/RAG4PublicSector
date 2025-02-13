@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp lại Quyết định chỉ định tổ chức đánh giá sự phù hợp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức đánh giá sự phù hợp có Quyết định chỉ định còn hiệu lực nhưng bị mất, thất lạc, hư hỏng hoặc thay đổi tên, địa chỉ hoặc thu hẹp phạm vi chỉ định nộp hồ sơ đề nghị cấp:
+- Đối với  sản phẩm, hàng hóa nhóm 2 thuộc trách nhiệm quản lý của Bộ Khoa học và Công nghệ, hồ sơ đăng ký chỉ định gửi về Bộ Khoa học và Công nghệ (Tổng cục Tiêu chuẩn Đo lường Chất lượng - Cơ quan chỉ định).
+- Đối với  sản phẩm, hàng hóa nhóm 2 thuộc trách nhiệm quản lý của Bộ, quản lý ngành, lĩnh vực, hồ sơ đăng ký chỉ định gửi về Bộ, quản lý ngành, lĩnh vực (Cơ quan đầu mối do Bộ quản lý ngành, lĩnh vực chỉ định - Cơ quan chỉ định).
+Bước 2: Xử lý hồ sơ
+Trong thời hạn 05 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ Cơ quan chỉ định xem xét, cấp lại quyết định chỉ định. Trường hợp không đáp ứng yêu cầu, Cơ quan chỉ định có văn bản trả lời và nêu rõ lý do.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Cơ quan chỉ định hoặc theo đường bưu điện.

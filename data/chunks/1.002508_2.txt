@@ -1,0 +1,14 @@
+Tên thủ tục: Xóa đăng ký
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+- Tổ chức, cá nhân gửi hồ sơ đề nghị xóa đăng ký tàu biển (hoặc tàu công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động) đến cơ quan đăng ký tàu biển nơi tàu biển đã được đăng ký trước đây.
+- Cơ quan đăng ký tàu biển gồm:
+	+ Cục Hàng hải Việt Nam thực hiện chức năng của cơ quan đăng ký tàu biển Việt Nam.
+	+ Các Chi cục hàng hải, Cảng vụ hàng hải thực hiện nhiệm vụ đăng ký tàu biển theo phân cấp của Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC
+Cơ quan đăng ký tàu biển tiếp nhận hồ sơ, thực hiện theo quy trình sau:
+- Trường hợp nộp hồ sơ trực tiếp, nếu hồ sơ chưa hợp lệ thì hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện hồ sơ; nếu hồ sơ hợp lệ thì vào sổ theo dõi, cấp giấy biên nhận hồ sơ và hẹn trả kết quả đúng thời gian quy định;
+- Trường hợp nhận hồ sơ qua đường bưu chính, nếu hồ sơ không hợp lệ, chậm nhất 02 ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan đăng ký tàu biển hướng dẫn hoàn thiện hồ sơ theo quy định;
+-Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đăng ký tàu biển cấp Giấy chứng nhận xóa đăng ký và trả trực tiếp hoặc gửi qua hệ thống bưu chính; trường hợp không cấp giấy chứng nhận phải trả lời bằng văn bản nêu rõ lý do.

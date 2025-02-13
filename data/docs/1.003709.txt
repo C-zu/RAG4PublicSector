@@ -1,0 +1,121 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003709
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Cấp lần đầu chứng chỉ hành nghề khám bệnh, chữa bệnh đối với người Việt Nam thuộc thẩm quyền của Sở Y tế
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: Người đề nghị cấp chứng chỉ hành nghề gửi hồ sơ về Sở Y tế;
+Bước 2: Sở Y tế tiếp nhận và gửi Phiếu tiếp nhận hồ sơ cho người đề nghị
+Bước 3: Trong thời hạn 20 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ Sở Y tế sẽ xem xét thẩm định hồ sơ và có biên bản thẩm định, cụ thể :
+-         Trường hợp hồ sơ hợp lệ, thì trong thời hạn 10 ngày làm việc, kể từ ngày có biên bản thẩm định, cơ quan tiếp nhận hồ sơ cấp chứng chỉ hành nghề cho đối tượng.
+-         Trường hợp hồ sơ chưa hợp lệ thì trong thời hạn 05 ngày làm việc, kể từ ngày có biên bản thẩm định, cơ quan tiếp nhận hồ sơ phải có văn bản thông báo cho người đề nghị cấp, cấp lại chứng chỉ hành nghề để hoàn chỉnh hồ sơ. Văn bản thông báo phải ghi cụ thể những tài liệu cần bổ sung, nội dung cần sửa đổi.
+-         Trường hợp không đủ điều kiện để cấp chứng chỉ hành nghề, Sở Y tế sẽ có văn bản trả lời và nêu lý do.
+Bước 4 : Trả chứng chỉ hành nghề cho người đề nghị
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 430.000 Đồng Phí thẩm định|Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ,|
+|Trực tiếp|180 Ngày||180 ngày đối với trường hợp cần xác minh người được đào tạo ở nước ngoài hoặc có chứng chỉ hành nghề do nước ngoài cấp.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 430.000 Đồng Phí thẩm định|- Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ,|
+|Dịch vụ bưu chính|180 Ngày||- 180 ngày đối với trường hợp cần xác minh người được đào tạo ở nước ngoài hoặc có chứng chỉ hành nghề do nước ngoài cấp.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp chứng chỉ hành nghề theo Mẫu 01 Phụ lục I ban hành kèm theo Nghị định 109/2016/NĐ-CP. ([ND 109_2016_mau 01_Phu luc 1 (1).doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9532c9576592b'))
+- 01 Bản sao Bản sao hợp lệ văn bằng chuyên môn phù hợp với phạm vi hoạt động chuyên môn đề nghị cấp chứng chỉ hành nghề, cụ thể như sau: a) Văn bằng chuyên môn y; b) Văn bằng cử nhân y khoa do nước ngoài cấp được Bộ Giáo dục và Đào tạo công nhận tương đương trình độ đại học nhưng phải kèm theo giấy chứng nhận đã qua đào tạo bổ sung theo ngành, chuyên ngành phù hợp với thời gian đào tạo ít nhất là 12 tháng tại cơ sở đào tạo hợp pháp của Việt Nam theo quy định của Bộ trưởng Bộ Y tế thì được coi là tương đương với văn bằng bác sỹ và được cấp chứng chỉ hành nghề với chức danh là bác sỹ; c) Văn bằng cử nhân hóa học, sinh học, dược sĩ trình độ đại học và phải kèm theo chứng chỉ hoặc giấy chứng nhận đào tạo chuyên ngành kỹ thuật y học về xét nghiệm với thời gian đào tạo ít nhất là 3 tháng hoặc văn bằng đào tạo sau đại học về chuyên khoa xét nghiệm; d) Giấy chứng nhận là lương y hoặc giấy chứng nhận người có bài thuốc gia truyền hoặc người có phương pháp chữa bệnh gia truyền do Bộ trưởng Bộ Y tế hoặc Giám đốc Sở Y tế cấp. Trường hợp mất các văn bằng chuyên môn trên thì phải có giấy chứng nhận tốt nghiệp hoặc bản sao hợp lệ giấy chứng nhận thay thế bằng tốt nghiệp do cơ sở đào tạo nơi đã cấp văn bằng chuyên môn đó cấp.
+- 01 Bản chính Giấy xác nhận quá trình thực hành theo Mẫu 02 Phụ lục I ban hành kèm theo Nghị định 109/2016/NĐ-CP hoặc bản sao hợp lệ các văn bằng tốt nghiệp bác sỹ nội trú, bác sỹ chuyên khoa I, bác sỹ chuyên khoa II, trừ trường hợp là lương y, người có bài thuốc gia truyền hoặc người có phương pháp chữa bệnh gia truyền. ([ND 109_2016_mau 02_Phu luc 1 (2).doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed3a328e9dee9a'))
+- 01 Bản chính Giấy chứng nhận đủ sức khỏe do cơ sở khám bệnh, chữa bệnh quy định tại khoản 6 Điều 23 và khoản 5 Điều 25 Nghị định 109/2016/NĐ-CP cấp.
+- 01 Bản chính Phiếu lý lịch tư pháp.
+- 01 Bản chính Sơ yếu lý lịch tự thuật theo Mẫu 03 Phụ lục I ban hành kèm theo Nghị định 109/2016/NĐ-CP có xác nhận của thủ trưởng đơn vị nơi công tác đối với người đề nghị cấp chứng chỉ hành nghề đang làm việc trong cơ sở y tế tại thời điểm đề nghị cấp chứng chỉ hành nghề hoặc sơ yếu lý lịch tự thuật có xác nhận của Ủy ban nhân dân xã, phường, thị trấn nơi thường trú đối với những người xin cấp chứng chỉ hành nghề không làm việc cho cơ sở y tế nào tại thời điểm đề nghị cấp chứng chỉ hành nghề ([ND 109_2016_mau 03_Phu luc 1 (2).doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9600738bb94c20'))
+- 01 Bản chính Hai ảnh màu 04 cm x 06 cm được chụp trên nền trắng trong thời gian không quá 06 tháng, tính đến ngày nộp đơn.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng chỉ hành nghề khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2009/QH12|Luật 40/2009/QH12-Khám bệnh, chữa bệnh|23-11-2009|Quốc Hội|
+|87/2011/NĐ-CP|Nghị định 87/2011/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khám bệnh, chữa bệnh|27-09-2011|Chính phủ|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|109/2016/NĐ-CP|Nghị định 109/2016/NĐ-CP-Quy định cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh|01-07-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+1- Đối tượng: Người Việt Nam làm việc tại cơ sở khám bệnh, chữa bệnh thuộc Sở Y tế (trừ trường hợp thuộc thẩm quyền của Bộ Y tế và Bộ Quốc phòng.
+
+2- Điều kiện để cấp chứng chỉ hành nghề đối với người Việt Nam
+
+2.1. Có một trong các văn bằng, giấy chứng nhận sau đây phù hợp với hình thức hành nghề khám bệnh, chữa bệnh:
+
+a) Văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam;
+
+b) Giấy chứng nhận là lương y;
+
+c) Giấy chứng nhận là người có bài thuốc gia truyền hoặc có phương pháp chữa bệnh gia truyền.
+
+2.2. Có văn bản xác nhận quá trình thực hành, trừ trường hợp là lương y, người có bài thuốc gia truyền hoặc có phương pháp chữa bệnh gia truyền.
+
+2.3. Có giấy chứng nhận đủ sức khỏe để hành nghề khám bệnh, chữa bệnh.
+
+2.4. Không thuộc trường hợp đang trong thời gian bị cấm hành nghề, cấm làm công việc liên quan đến chuyên môn y, dược theo bản án, quyết định của Tòa án; đang bị truy cứu trách nhiệm hình sự; đang trong thời gian chấp hành bản án hình sự, quyết định hình sự của tòa án hoặc quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục, cơ sở chữa bệnh; đang trong thời gian bị kỷ luật từ hình thức cảnh cáo trở lên có liên quan đến chuyên môn khám bệnh, chữa bệnh; mất hoặc hạn chế năng lực hành vi dân sự.
+
+3-Yêu cầu về xác nhận quá trình thực hành: Người có văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam, trước khi được cấp chứng chỉ hành nghề, phải qua thời gian thực hành tại cơ sở khám bệnh, chữa bệnh sau đây:
+
+a) 18 tháng thực hành tại bệnh viện, việc nghiên cứu có giường bệnh (sau đây gọi chung là bệnh viện) đối với bác sỹ ;
+
+b) 12 tháng thực hành tại bệnh viện đối với y sỹ;
+
+c) 09 tháng thực hành tại bệnh viện có khoa phụ sản hoặc tại nhà hộ sinh đối với hộ sinh viên.
+
+d) 09 tháng thực hành tại cơ sở khám bệnh, chữa bệnh đối với điều dưỡng viên, kỹ thuật viên.
+1- Đối tượng: Người Việt Nam làm việc tại cơ sở khám bệnh, chữa bệnh thuộc Sở Y tế (trừ trường hợp thuộc thẩm quyền của Bộ Y tế và Bộ Quốc phòng.
+
+2- Điều kiện để cấp chứng chỉ hành nghề đối với người Việt Nam
+
+2.1. Có một trong các văn bằng, giấy chứng nhận sau đây phù hợp với hình thức hành nghề khám bệnh, chữa bệnh:
+
+a) Văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam;
+
+b) Giấy chứng nhận là lương y;
+
+c) Giấy chứng nhận là người có bài thuốc gia truyền hoặc có phương pháp chữa bệnh gia truyền.
+
+2.2. Có văn bản xác nhận quá trình thực hành, trừ trường hợp là lương y, người có bài thuốc gia truyền hoặc có phương pháp chữa bệnh gia truyền.
+
+2.3. Có giấy chứng nhận đủ sức khỏe để hành nghề khám bệnh, chữa bệnh.
+
+2.4. Không thuộc trường hợp đang trong thời gian bị cấm hành nghề, cấm làm công việc liên quan đến chuyên môn y, dược theo bản án, quyết định của Tòa án; đang bị truy cứu trách nhiệm hình sự; đang trong thời gian chấp hành bản án hình sự, quyết định hình sự của tòa án hoặc quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục, cơ sở chữa bệnh; đang trong thời gian bị kỷ luật từ hình thức cảnh cáo trở lên có liên quan đến chuyên môn khám bệnh, chữa bệnh; mất hoặc hạn chế năng lực hành vi dân sự.
+
+3-Yêu cầu về xác nhận quá trình thực hành: Người có văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam, trước khi được cấp chứng chỉ hành nghề, phải qua thời gian thực hành tại cơ sở khám bệnh, chữa bệnh sau đây:
+
+a) 18 tháng thực hành tại bệnh viện, việc nghiên cứu có giường bệnh (sau đây gọi chung là bệnh viện) đối với bác sỹ ;
+
+b) 12 tháng thực hành tại bệnh viện đối với y sỹ;
+
+c) 09 tháng thực hành tại bệnh viện có khoa phụ sản hoặc tại nhà hộ sinh đối với hộ sinh viên.
+
+d) 09 tháng thực hành tại cơ sở khám bệnh, chữa bệnh đối với điều dưỡng viên, kỹ thuật viên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

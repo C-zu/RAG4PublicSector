@@ -1,0 +1,9 @@
+Tên thủ tục: Cho ý kiến về kết quả đánh giá an toàn công trình đối với công trình chuyên ngành nằm trên địa bàn 02 tỉnh trở lên
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|14 Ngày||Nộp trực tiếp|
+|Trực tuyến|14 Ngày||Gửi qua dịch vụ bưu chính|
+|Dịch vụ bưu chính|14 Ngày||Nộp trực tuyến|

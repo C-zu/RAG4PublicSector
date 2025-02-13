@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định hồ sơ thiết kế kỹ thuật (công trình thiết kế ba bước) hoặc hồ sơ thiết kế bản vẽ thi công (công trình thiết kế hai bước) chuyên ngành nông nghiệp và phát triển nông thôn
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008660
+Số quyết định:
+1114/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định hồ sơ thiết kế kỹ thuật (công trình thiết kế ba bước) hoặc hồ sơ thiết kế bản vẽ thi công (công trình thiết kế hai bước) chuyên ngành nông nghiệp và phát triển nông thôn
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý xây dựng công trình

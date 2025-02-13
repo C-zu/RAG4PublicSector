@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình cơ sở kinh doanh dược hoặc thay đổi phạm vi kinh doanh dược có làm thay đổi Điều kiện kinh doanh; thay đổi địa điểm kinh doanh dược thuộc thẩm quyền của Bộ Y tế (Cơ sở sản xuất thuốc, nguyên liệu làm thuốc; Cơ sở xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ bảo quản thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng; Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004469
+Số quyết định:
+3246/QĐ-BYT
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình cơ sở kinh doanh dược hoặc thay đổi phạm vi kinh doanh dược có làm thay đổi Điều kiện kinh doanh; thay đổi địa điểm kinh doanh dược thuộc thẩm quyền của Bộ Y tế (Cơ sở sản xuất thuốc, nguyên liệu làm thuốc; Cơ sở xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ bảo quản thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng; Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

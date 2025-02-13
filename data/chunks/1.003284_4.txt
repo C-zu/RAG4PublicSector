@@ -1,0 +1,11 @@
+Tên thủ tục: Công nhận cơ sở khám bệnh, chữa bệnh được phép thực hiện kỹ thuật thụ tinh trong ống nghiệm (bãi bỏ vì trùng lặp mã 1.003448)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị thẩm định theo Mẫu số 01 ban hành kèm theo Nghị định số 10/2015/NĐ-CP ngày 28/01/2015 quy định về sinh con bằng kỹ thuật thụ tinh trong ống nghiệm và điều kiện mang thai hộ vì mục đích nhân đạo (gọi tắt là Nghị định 10/2015/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3caf7e81bf5a2'">mẫu số 1_ND10_2015.docx</a>)
+- 01 Bản sao Bản kê khai nhân sự, trang thiết bị, sơ đồ mặt bằng của đơn vị thực hiện kỹ thuật TTTON;
+- 01 Bản sao Bản sao hợp pháp các văn bằng hoặc chứng chỉ hoặc chứng nhận của người trực tiếp thực hiện kỹ thuật thụ tinh trong ống nghiệm đã được đào tạo về kỹ thuật thụ tinh trong ống nghiệm do cơ sở đào tạo trong nước hoặc nước ngoài cấp;
+- 01 Bản sao Bản xác nhận cán bộ trực tiếp thực hiện kỹ thuật thụ tinh trong ống nghiệm đã thực hiện ít nhất 20 chu kỳ điều trị vô sinh bằng kỹ thuật thụ tinh trong ống nghiệm;
+- 01 Bản sao Bản sao hợp pháp giấy phép hoạt động của cơ sở khám bệnh, chữa bệnh và chứng chỉ hành nghề của người thực hiện thụ tinh trong ống nghiệm.

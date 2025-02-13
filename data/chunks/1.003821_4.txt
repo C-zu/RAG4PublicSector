@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện sản xuất, ương dưỡng giống thủy sản (đối với cơ sở sản xuất, ương dưỡng giống thủy sản bố mẹ, đối với cơ sở sản xuất, ương dưỡng đồng thời giống thủy sản bố mẹ và giống thủy sản không phải là giống thủy sản bố mẹ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp, cấp lại Giấy chứng nhận đủ điều kiện cơ sở sản xuất, ương dưỡng giống thuỷ sản theo Mẫu số 01 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP (đối với trường hợp cấp mới và cấp lại) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe68136f39ca223'">Mẫu số 01.docx</a>)
+- 01 Bản chính Bản thuyết minh về cơ sở vật chất, kỹ thuật của cơ sở sản xuất, ương dưỡng giống thủy sản theo Mẫu số 02 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP (đối với trường hợp cấp mới) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f67dd134abe4c00'">Mẫu số 02.docx</a>)
+- 01 Bản chính Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin có liên quan đến tổ chức, cá nhân (đối với trường hợp cấp lại);
+- 01 Bản chính Bản chính Giấy chứng nhận cơ sở đủ điều kiện sản xuất, ương dưỡng giống thủy sản đã được cấp, trừ trường hợp Giấy chứng nhận bị mất (đối với trường hợp cấp lại).

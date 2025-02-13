@@ -1,0 +1,24 @@
+Tên thủ tục: Đăng ký thay đổi chủ doanh nghiệp tư nhân trong trường hợp bán, tặng cho doanh nghiệp, chủ doanh nghiệp chết
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Bao gồm
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp có chữ ký của người bán, người tặng cho và người mua, người được tặng cho doanh nghiệp tư nhân đối với trường hợp bán, tặng cho doanh nghiệp tư nhân; chữ ký của người thừa kế đối với trường hợp chủ doanh nghiệp tư nhân chết (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc09611c6963b48'">Phụ lục II-3.docx</a>)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với người mua, người được tặng cho doanh nghiệp tư nhân, người thừa kế
+- 01 Bản chính Hợp đồng mua bán hoặc các giấy tờ chứng minh hoàn tất việc mua bán trong trường hợp bán doanh nghiệp tư nhân; hợp đồng tặng cho trong trường hợp tặng cho doanh nghiệp tư nhân; bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế trong trường hợp thừa kế

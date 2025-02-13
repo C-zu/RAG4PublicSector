@@ -1,0 +1,24 @@
+Tên thủ tục: Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ), thay đổi hình dạng, kích thước, diện tích, số hiệu, địa chỉ thửa đất; giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận (VPĐK)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Trực tiếp
+(1) Thời gian tiếp nhận và trả kết quả: Trong giờ hành chính các ngày từ thứ 2 đến thứ 6 hàng tuần (trừ các ngày nghỉ Lễ, Tết theo quy định).
+(2) Địa điểm tiếp nhận và trả kết quả: Bộ phận tiếp nhận và trả kết quả của Sở Tài nguyên và Môi trường tại Trung tâm Phục vụ hành chính công tỉnh (số 28, Đại lộ Lê Lợi, phường Điện Biên, thành phố Thanh Hoá, tỉnh Thanh Hoá).
+Người sử dụng đất chuẩn bị đầy đủ hồ sơ theo quy định.
+Trong cùng ngày tiếp nhận hồ sơ, Trung tâm Phục vụ hành chính công tỉnh chuyển hồ sơ về Văn phòng Đăng ký đất đai Thanh Hóa để giải quyết theo quy định.
+Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày làm việc, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định.
+Trường hợp người sử dụng đất có nhu cầu chuyển mục đích sử dụng đất kết hợp với đăng ký biến động về các nội dung của thủ tục này thì thực hiện thủ tục này đồng thời với thủ tục chuyển mục đích sử dụng đất.
+(3) Kể từ ngày nhận đủ hồ sơ hợp lệ, Văn phòng Đăng ký đất đai Thanh Hóa có trách nhiệm kiểm tra hồ sơ, nếu đủ điều kiện thực hiện các quyền theo quy định thì thực hiện các công việc sau đây:
++ Trích đo địa chính thửa đất đối với trường hợp có thay đổi về diện tích thửa đất, tài sản gắn liền với đất hoặc trường hợp đã cấp Giấy chứng nhận nhưng chưa có bản đồ địa chính, chưa trích đo địa chính thửa đất;
++ Trường hợp đăng ký thay đổi diện tích xây dựng, diện tích sử dụng, tầng cao, kết cấu, cấp (hạng) nhà hoặc công trình xây dựng mà không phù hợp với giấy phép xây dựng hoặc không có giấy phép xây dựng đối với trường hợp phải xin phép thì gửi phiếu lấy ý kiến của cơ quan quản lý, cấp phép xây dựng theo quy định của pháp luật về xây dựng;
++ Gửi thông tin địa chính đến cơ quan thuế để xác định và thông báo thu nghĩa vụ tài chính đối với trường hợp phải thực hiện nghĩa vụ tài chính theo quy định.
++ Xác nhận thay đổi vào Giấy chứng nhận đã cấp hoặc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với trường hợp phải cấp lại Giấy chứng nhận theo quy định của Bộ Tài nguyên và Môi trường; thông báo cho người sử dụng đất ký hoặc ký lại hợp đồng thuê đất với cơ quan tài nguyên và môi trường đối với trường hợp phải thuê đất; 
++ Chỉnh lý, cập nhật biến động vào hồ sơ địa chính, cơ sở dữ liệu đất đai.
+- Gửi kết quả về Trung tâm Phục vụ hành chính công tỉnh Thanh Hóa để trao cho người sử dụng đất.
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ do Văn phòng Đăng ký đất đai Thanh Hóa chuyển đến, Cơ quan thuế xác định và thông báo thu nghĩa vụ tài chính đối với trường hợp phải thực hiện nghĩa vụ tài chính theo quy định; Cơ quan quản lý nhà nước về xây dựng đối với tài sản gắn liền với đất có trách nhiệm trả lời bằng văn bản cho Văn phòng đăng ký đất đai Thanh Hóa.
+b. Thực hiện thủ tục trên môi trường điện tử 
+Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do. 
+Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công. 
+Cơ quan tiếp nhận hoặc cơ quan giải quyết hồ sơ thông báo cho người yêu cầu thực hiện thủ tục hành chính nộp bản chính Giấy chứng nhận đã cấp, các giấy tờ theo quy định sau khi người sử dụng đất hoàn thành nghĩa vụ tài chính. 
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất

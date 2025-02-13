@@ -1,0 +1,10 @@
+Tên thủ tục: Hợp nhất công ty luật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị hợp nhất công ty luật (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb5eebec1357458'">TP-LS-28.docx</a>)
+- 01 Bản chính Hợp đồng hợp nhất, trong đó phải quy định rõ về thủ tục, thời hạn và điều kiện hợp nhất; phương án sử dụng lao động; việc kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp của các công ty luật bị hợp nhất;
+- 01 Bản chính Giấy đăng ký hoạt động của các công ty luật bị hợp nhất
+- 01 Bản chính Điều lệ của công ty luật hợp nhất

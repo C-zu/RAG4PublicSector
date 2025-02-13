@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu giống thủy sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị theo Mẫu số 05.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea756be5868a51'">Mẫu số 05.docx</a>)
+- 01 Bản chính b) Ảnh chụp hoặc bản vẽ mô tả loài thuỷ sản đăng ký nhập khẩu kèm theo tên tiếng Việt, tên khoa học, tên tiếng Anh (nếu có);
+- 01 Bản chính c) Đề cương nghiên cứu đã được phê duyệt theo quy định của pháp luật về khoa học công nghệ (đối với trường hợp nhập khẩu để nghiên cứu khoa học);
+- 01 Bản chính d) Tài liệu chứng minh về việc tham gia hội chợ, triển lãm; phương án xử lý loài thủy sản sau khi hội chợ, triển lãm kết thúc (đối với trường hợp nhập khẩu để trưng bày tại hội chợ, triển lãm).

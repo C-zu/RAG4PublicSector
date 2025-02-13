@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0dd29e684342e'">ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP LƯU HÀNH XE BÁNH XÍCH.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb57d2ab17ad8e0'">ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP LƯU HÀNH XE QUÁ TẢI TRỌNG, XE QUÁ KHỔ GIỚI HẠN, XE VẬN CHUYỂN HÀNG SIÊU TRƯỜNG, SIÊU TRỌNG TRÊN ĐƯỜNG BỘ.docx</a>)
+- 01 Bản sao Bản sao Giấy đăng ký xe hoặc Giấy đăng ký tạm thời đối với phương tiện mới nhận;
+- 01 Bản sao Bản sao Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ; bản sao tính năng kỹ thuật của xe đối với phương tiện mới nhận (do nhà sản xuất gửi kèm theo xe);
+- 01 Bản chính Phương án vận chuyển gồm các nội dung sau: thông tin về tuyến đường vận chuyển; thông tin về phương tiện vận chuyển; thông tin hàng hóa chuyên chở có xác nhận của chủ hàng, gồm các thông số kích thước về chiều dài, chiều rộng và chiều cao (D x R x C) mét; khối lượng, hình ảnh (nếu có); hợp đồng vận chuyển hoặc văn bản chỉ định đơn vị vận chuyển của chủ hàng hoặc đơn vị thuê vận chuyển; báo cáo kết quả khảo sát (đối với trường hợp phải khảo sát); báo cáo kết quả hoàn thành gia cường đường bộ (đối với trường hợp phải gia cường đường bộ)

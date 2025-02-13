@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001686
+Số quyết định:
+4014/QĐ-BNN-TY
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thú y
+Trình tự thực hiện:
+- Bước 1: Tổ chức, cá nhân buôn bán thuốc thú y nộp hồ sơ đăng ký cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y cho cơ quan quản lý chuyên ngành thú y cấp tỉnh.
+- Bước 2: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan quản lý chuyên ngành thú y cấp tỉnh kiểm tra điều kiện của cơ sở buôn bán thuốc thú y, nếu đủ điều kiện thì trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc việc kiểm tra phải cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+Thực hiện kiểm tra, đánh giá trực tuyến trong trường hợp do thiên tai hoặc phải áp dụng quy định về phòng, chống dịch bệnh nguy hiểm mà không thể thực hiện kiểm tra, đánh giá trực tiếp tại hiện trường để cấp giấy chứng nhận đủ điều kiện buôn bán, nhập khẩu thuốc thú y. Việc đánh giá trực tiếp tại hiện trường sẽ được thực hiện sau khi các địa phương kiểm soát được thiên tai, dịch bệnh theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Ngày làm việc|Phí : Kiểm tra điều kiện cơ sở buôn bán thuốc thú y, thuốc thú y thủy sản: 230.000đ/lần|08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|8 Ngày làm việc|Phí : 230.000 Đồng Kiểm tra điều kiện cơ sở buôn bán thuốc thú y, thuốc thú y thủy sản: 230.000đ/lần|08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản thuyết minh chi tiết về cơ sở vật chất, kỹ thuật buôn bán, nhập khẩu thuốc thú y theo mẫu quy định tại Phụ lục XXII ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT ([XXII TT13.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9931aa940da64'))
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký);
+- 01 Bản sao - Chứng chỉ hành nghề thú y đối với người quản lý, người trực tiếp buôn bán thuốc thú y (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký).
+- 01 Bản chính - Đơn đăng ký cấp, gia hạn giấy chứng nhận đủ điều kiện buôn bán, nhập khẩu thuốc thú y theo mẫu quy định tại Phụ lục XX ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT ([Phụ lục XX Thông tư số 13.2016.TT-BNNPTNT.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab71127ce61a60'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan quản lý chuyên ngành thú y cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 79/2015/QH13|Luật Thú y|19-06-2015|Quốc Hội|
+|13/2016/TT-BNNPTNT|Quy định về quản lý thuốc thú y|02-06-2016|Bộ Nông nghiệp và Phát triển nông thôn|
+|35/2016/NĐ-CP|Quy định chi tiết một số điều của Luật thú y|15-05-2016|Chính phủ|
+|123/2018/NĐ-CP|SỬA ĐỔI, BỔ SUNG MỘT SỐ NGHỊ ĐỊNH QUY ĐỊNH VỀ ĐIỀU KIỆN ĐẦU TƯ, KINH DOANH TRONG LĨNH VỰC NÔNG NGHIỆP|17-09-2018|Chính phủ|
+|101/2020/TT-BTC|Thông tư 101/2020/TT-BTC|23-11-2020||
+|13/2022/TT-BNNPTNT|Thông tư 13/2022/TT-BNNPTNT|28-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+- Có Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp;
+- Có địa điểm, cơ sở vật chất, kỹ thuật phù hợp;
+- Người quản lý, người trực tiếp bán thuốc thú y phải có Chứng chỉ hành nghề thú y;
+-  Có đủ quầy, tủ, giá kệ để chứa, đựng và trưng bày sản phẩm phải đảm bảo chắc chắn, dễ vệ sinh và tránh được những tác động bất lợi của ánh sáng, nhiệt độ, độ ẩm, nấm mốc, động vật gặm nhấm và côn trùng gây hại;
+- Có trang thiết bị để bảo đảm điều kiện bảo quản ghi trên nhãn của sản phẩm; có nhiệt kế, ẩm kế theo dõi điều kiện bảo quản sản phẩm. Đối với cơ sở buôn bán vắc xin, chế phẩm sinh học phải có tủ lạnh, tủ mát hoặc kho lạnh; có nhiệt kế để kiểm tra điều kiện bảo quản; có máy phát điện dự phòng, vật dụng, phương tiện vận chuyển phân phối vắc xin bảo đảm điều kiện bảo quản ghi trên nhãn sản phẩm.
+- Có Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp;
+- Có địa điểm, cơ sở vật chất, kỹ thuật phù hợp;
+- Người quản lý, người trực tiếp bán thuốc thú y phải có Chứng chỉ hành nghề thú y;
+-  Có đủ quầy, tủ, giá kệ để chứa, đựng và trưng bày sản phẩm phải đảm bảo chắc chắn, dễ vệ sinh và tránh được những tác động bất lợi của ánh sáng, nhiệt độ, độ ẩm, nấm mốc, động vật gặm nhấm và côn trùng gây hại;
+- Có trang thiết bị để bảo đảm điều kiện bảo quản ghi trên nhãn của sản phẩm; có nhiệt kế, ẩm kế theo dõi điều kiện bảo quản sản phẩm. Đối với cơ sở buôn bán vắc xin, chế phẩm sinh học phải có tủ lạnh, tủ mát hoặc kho lạnh; có nhiệt kế để kiểm tra điều kiện bảo quản; có máy phát điện dự phòng, vật dụng, phương tiện vận chuyển phân phối vắc xin bảo đảm điều kiện bảo quản ghi trên nhãn sản phẩm.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

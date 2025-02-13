@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp chứng thư số cho tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia cấp chứng thư số; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc38766cb1f7cec'">Mẫu số 04.docx</a>)
+- 01 Bản chính - Bản sao giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng.
+- 01 Bản chính - Các giấy tờ khác theo quy định trong quy chế chứng thực của Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia.

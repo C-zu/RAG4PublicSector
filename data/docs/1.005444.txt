@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005444
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Cấp phép thiết lập mạng viễn thông dùng riêng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+Tổ chức gửi hồ sơ đề nghị cấp phép thiết lập mạng viễn thông dùng riêng nộp hồ sơ về Cục Viễn thông - Bộ Thông tin và Truyền thông
+Cục Viễn thông tiếp nhận, xem xét và thông báo cho doanh nghiệp biết về tính hợp lệ hồ sơ trong 10 ngày làm việc
+Khi nhận đủ hồ sơ theo quy định, Cục Viễn thông phối hợp với các đơn vị liên quan thẩm định hồ sơ và cấp phép cho tổ chức, hoặc trình Bộ trưởng Bộ TTTT cấp phép cho tổ chức (đối với Đề nghị cấp phép thiết lập mạng viễn thông dùng riêng của cơ quan đại diện ngoại giao, lãnh sự nước ngoài và cơ quan đại diện của các tổ chức quốc tế được hưởng quyền ưu đãi; miễn trừ ngoại giao, lãnh sự)
+Trường hợp từ chối cấp phép, Cục Viễn thông thông báo bằng văn bản nêu rõ lý do từ chối cho tổ chức đề nghị cấp phép biết
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Lệ phí : 1000000 Đồng 1. Lệ phí cấp giấy phép thiết lập mạng và cung cấp dịch vụ viễn thông theo quy định tại theo Thông tư số 03/2018/TT-BTC ngày 12/01/2018 của Bộ trưởng Bộ Tài chính. - Mức thu 1.000.000 VNĐ/giấy phép  Phí : 10000000 Đồng 2. Phí quyền hoạt động viễn thông:100.000.000 VNĐ, nộp một lần cho toàn bộ thời hạn giấy phép, bao gồm cả thời gian gia hạn giấy phép theo quy định tại Thông tư số 03/2018/TT-BTC ngày 12/01/2018 của Bộ trưởng Bộ Tài chính.|- Trong vòng 30 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Trường hợp có những vấn đề phát sinh đòi hỏi phải thẩm tra lại thì thời hạn cấp phép có thể kéo dài thêm nhưng không được quá 45 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 03 bộ (01 bộ là bản chính, 02 bộ là bản sao)
+- 01 Bản chính Đơn đề nghị cấp giấy phép thiết lập mạng viễn thông dùng riêng theo mẫu do Bộ TTTT ban hành;
+- 01 Bản sao Bản sao có chứng thực quyết định thành lập, giấy phép hoạt động hoặc bản sao có chứng thực giấy chứng nhận đăng ký kinh doanh của tổ chức đề nghị cấp phép;
+- 01 Bản sao Bản sao có chứng thực điều lệ, văn bản quy định cơ cấu tổ chức chung hoặc hình thức liên kết, hoạt động chung giữa các thành viên (nếu có);
+- 01 Bản chính Đề án thiết lập mạng, trong đó nêu rõ: Mục đích thiết lập mạng; cấu hình mạng; chủng loại thiết bị; dịch vụ sử dụng; thành viên của mạng (nếu có); phạm vi hoạt động, công nghệ sử dụng; tần số, mã, số viễn thông đề nghị sử dụng (nếu có); trang thiết bị và biện pháp kỹ thuật nghiệp vụ bảo đảm an toàn, an ninh thông tin.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép thiết lập mạng viễn thông dùng riêng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật Viễn thông ngày 23 tháng 11 năm 2009;|Luật Viễn thông ngày 23 tháng 11 năm 2009;|23-11-2009||
+|Nghị định số 25/2011/NĐ-CP|Nghị định số 25/2011/NĐ-CP|06-04-2011||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

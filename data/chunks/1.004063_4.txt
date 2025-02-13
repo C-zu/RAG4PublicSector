@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép xuất bản tài liệu không kinh doanh (Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với tài liệu bằng tiếng nước ngoài, tiếng dân tộc thiểu số Việt Nam phải kèm theo bản dịch tiếng Việt có đóng dấu của cơ quan, tổ chức đề nghị cấp giấy phép xuất bản;
+- 01 Bản chính Đơn đề nghị Cấp giấy phép xuất bản tài liệu không kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f6111f6e9fa8500'">Mẫu số 14.doc</a>)
+- 02 Bản chính Hai (02) bản thảo tài liệu in trên giấy có đóng dấu của cơ quan, tổ chức đề nghị cấp giấy phép xuất bản tại trang đầu và giáp lai giữa các trang bản thảo hoặc 01 bản thảo lưu trong thiết bị lưu trữ điện tử với định dạng không cho phép can thiệp, sửa đổi; Trường hợp tài liệu không kinh doanh xuất bản dạng điện tử thì nộp một (01) bản thảo điện tử có chữ ký số của thủ trưởng cơ quan, tổ chức đề nghị cấp phép xuất bản
+- 01 Bản chính Ý kiến xác nhận bằng văn bản: Đối với tài liệu của các đơn vị quân đội nhân dân, công an nhân dân phải có ý kiến của Bộ Quốc phòng, Bộ Công an hoặc cơ quan được Bộ Quốc phòng, Bộ Công an ủy quyền; Đối với tài liệu lịch sử Đảng, chính quyền địa phương; tài liệu phục vụ nhiệm vụ chính trị của địa phương phải có ý kiến của tổ chức đảng, cơ quan cấp trên

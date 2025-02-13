@@ -1,0 +1,25 @@
+Tên thủ tục: Thi đua khen thưởng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp hình thức khen thưởng cấp Nhà nước
+- 04 Bản chính Tờ trình đề nghị khen thưởng do Thủ trưởng cơ quan, đơn vị thuộc hệ thống cơ quan công tác dân tộc (hoặc văn bản đề nghị của các Bộ, ban, ngành, đoàn thể Trung ương) ký
+- 04 Bản chính Báo cáo tổng kết công tác Thi đua, Khen thưởng của đơn vị. Báo cáo thành tích đề nghị khen thưởng của tập thể hoặc cá nhân
+- 04 Bản chính Báo cáo tóm tắt về nội dung đề tài, sáng kiến, kinh nghiệm, các giải pháp công tác và quản lý của cá nhân
+- 04 Bản chính Biên bản họp bình xét danh hiệu thi đua, hình thức khen thưởng của HĐTĐKT cơ sở (hoặc Liên tịch)
+- 04 Bản chính Danh sách trích ngang tập thể, cá nhân đề nghị khen thưởng
+- 04 Bản chính Bảng chấm điểm thi đua
+- 04 Bản chính Văn bản xác nhận của Vụ Hợp tác Quốc tế (Đối với đề nghị tặng Bằng khen của Bộ trưởng, Chủ nhiệm cho tập thể, cá nhân có yếu tố nước ngoài)
+- 04 Bản chính Đối với thi đua theo đợt, theo chuyên đề sẽ có văn bản hướng dẫn riêng
+
+
+Trường hợp hình thức khen thưởng thuộc thẩm quyền của Bộ trưởng, Chủ nhiệm
+- 02 Bản chính Tờ trình đề nghị khen thưởng do Thủ trưởng cơ quan, đơn vị thuộc hệ thống cơ quan công tác dân tộc (hoặc văn bản đề nghị của các Bộ, ban, ngành, đoàn thể Trung ương) ký
+- 02 Bản chính Báo cáo tổng kết công tác Thi đua, Khen thưởng của đơn vị. Báo cáo thành tích đề nghị khen thưởng của tập thể hoặc cá nhân
+- 02 Bản chính Báo cáo tóm tắt về nội dung đề tài, sáng kiến, kinh nghiệm, các giải pháp công tác và quản lý của cá nhân
+- 02 Bản chính Biên bản họp bình xét danh hiệu thi đua, hình thức khen thưởng của HĐTĐKT cơ sở (hoặc Liên tịch)
+- 02 Bản chính Danh sách trích ngang tập thể, cá nhân đề nghị khen thưởng
+- 02 Bản chính Bảng chấm điểm thi đua
+- 02 Bản chính Văn bản xác nhận của Vụ Hợp tác Quốc tế (Đối với đề nghị tặng Bằng khen của Bộ trưởng, Chủ nhiệm cho tập thể, cá nhân có yếu tố nước ngoài)
+- 02 Bản chính Đối với thi đua theo đợt, theo chuyên đề sẽ có văn bản hướng dẫn riêng

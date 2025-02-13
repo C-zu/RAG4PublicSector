@@ -1,0 +1,20 @@
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được rút tiền ký quỹ trong các trường hợp sau đây:
+- Doanh nghiệp cho thuê lại gặp khó khăn, không đủ nguồn tài chính để thanh toán đủ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại bị chậm từ 30 ngày trở lên kể từ ngày đến thời hạn thanh toán theo quy định của pháp luật;
+- Doanh nghiệp cho thuê lại gặp khó khăn, không đủ nguồn tài chính dẫn tới việc bồi thường cho người lao động thuê lại trong trường hợp doanh nghiệp cho thuê lại vi phạm hợp đồng lao động với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại do không bảo đảm về quyền và lợi ích hợp pháp của người lao động thuê lại bị chậm từ 60 ngày trở lên kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật;
+- Doanh nghiệp không được cấp giấy phép;
+- Doanh nghiệp cho thuê lại bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép;
+- Doanh nghiệp cho thuê lại đã thực hiện ký quỹ tại một ngân hàng thương mại của Việt Nam hoặc chi nhánh ngân hàng thương mại nước ngoài tại Việt Nam khác.
+Doanh nghiệp được rút tiền ký quỹ trong các trường hợp sau đây:
+- Doanh nghiệp cho thuê lại gặp khó khăn, không đủ nguồn tài chính để thanh toán đủ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại bị chậm từ 30 ngày trở lên kể từ ngày đến thời hạn thanh toán theo quy định của pháp luật;
+- Doanh nghiệp cho thuê lại gặp khó khăn, không đủ nguồn tài chính dẫn tới việc bồi thường cho người lao động thuê lại trong trường hợp doanh nghiệp cho thuê lại vi phạm hợp đồng lao động với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại do không bảo đảm về quyền và lợi ích hợp pháp của người lao động thuê lại bị chậm từ 60 ngày trở lên kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật;
+- Doanh nghiệp không được cấp giấy phép;
+- Doanh nghiệp cho thuê lại bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép;
+- Doanh nghiệp cho thuê lại đã thực hiện ký quỹ tại một ngân hàng thương mại của Việt Nam hoặc chi nhánh ngân hàng thương mại nước ngoài tại Việt Nam khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ đầu tư xây dựng phát triển thủy lợi nhỏ, thuỷ lợi nội đồng và tưới tiên tiến, tiết kiệm nước (Đối với nguồn vốn hỗ trợ trực tiếp, ngân sách địa phương và nguồn vốn hợp pháp khác của địa phương phân bổ dự toán cho UBND cấp xã thực hiện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày||07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|7 Ngày||07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn Giấy phép sử dụng tạm thời vỉa hè, lòng đường (cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy phép cũ đã cấp
+- 01 Bản chính - Đơn đề nghị gia hạn giấy phép theo mẫu tại phụ lục 4 kèm theo Quyết định số 20/2012/QĐ-UBND ngày 22 tháng 6 năm 2012 của UBND tỉnh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c7b605abe726'">Phu luc 4.docx</a>)

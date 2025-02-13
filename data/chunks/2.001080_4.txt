@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại giấy chứng nhận cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học cấp III do hết hạn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy chứng nhận an toàn sinh học theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định số 103/2016/NĐ-CP ngày 01/7/2016. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbaaa8e51373ca'">phụ lục (1).docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận an toàn sinh học đã được cấp;
+- 01 Bản chính Báo cáo về các thay đổi liên quan đến nhân sự (nếu có); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb79d03848fb9f'">phụ lục (1).docx</a>)
+- 01 Bản chính Báo cáo về các thay đổi liên quan đến trang thiết bị: ghi rõ tên thiết bị, số lượng, tình trạng thiết bị mới được bổ sung hoặc thay thế theo quy định tại Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 103/2016/NĐ-CP ngày 01/7/2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9fbb8f614b105'">phụ lục (2).docx</a>)
+- 01 Bản chính Báo cáo về các thay đổi liên quan đến cơ sở vật chất; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1e4a6a17c1d6c'">phụ lục (3).docx</a>)
+- 01 Bản chính Báo cáo về các sự cố an toàn sinh học đã xảy ra (nếu có). Nội dung báo cáo phải nêu rõ thời gian xảy ra sự cố, mức độ của sự cố, các biện pháp đã áp dụng để xử lý, khắc phục sự cố an toàn sinh học. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb3b2806596666'">phụ lục (4).docx</a>)

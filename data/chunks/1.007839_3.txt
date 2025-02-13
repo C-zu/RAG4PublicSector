@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá kinh doanh theo phương thức chuyển khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định của Luật Hải quan|Lệ phí : 20.000 Đồng 20.000 đồng|+ Thời hạn tiếp nhận, đăng ký, kiểm tra hồ sơ hải quan: ngay sau khi người khai hải quan nộp, xuất trình hồ sơ hải quan đúng quy định của pháp luật (Khoản 1, Điều 23 Luật Hải quan) + Thời hạn hoàn thành thành kiểm tra hồ sơ và kiểm tra thực tế hàng hóa, phương tiện vận tải: ++ Hoàn thành việc kiểm tra hồ sơ chậm nhất là 02 giờ làm việc kể từ thời điểm cơ quan hải quan tiếp nhận đầy đủ hồ sơ hải quan; ++ Hoàn thành việc kiểm tra thực tế hàng hoá chậm nhất là 08 giờ làm việc kể từ thời điểm người khai hải quan xuất trình đầy đủ hàng hoá cho cơ quan hải quan; Trường hợp hàng hóa thuộc đối tượng kiểm tra chuyên ngành về chất lượng, y tế, văn hóa, kiểm dịch động vật, thực vật, an toàn thực phẩm theo quy định của pháp luật có liên quan thì thời hạn hoàn thành kiểm tra thực tế hàng hóa được tính từ thời điểm nhận được kết quả kiểm tra chuyên ngành theo quy định. Trường hợp lô hàng có số lượng lớn, nhiều chủng loại hoặc việc kiểm tra phức tạp thì Thủ trưởng cơ quan hải quan nơi làm thủ tục hải quan quyết định việc gia hạn thời gian kiểm tra thực tế hàng hóa, nhưng thời gian gia hạn tối đa không quá 02 ngày.|

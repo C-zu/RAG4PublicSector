@@ -1,0 +1,14 @@
+Tên thủ tục: Phê duyệt Hồ sơ dự toán; Thẩm định hoặc Thẩm định và Phê duyệt Hồ sơ Báo cáo kinh tế kỹ thuật, Báo cáo Kinh tế kỹ thuật điều chỉnh (Thuộc nguồn vốn sự nghiệp hoặc nguồn vốn ủy quyền quản lý của trung ương hoặc nguồn vốn ATGT)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức hoàn thiện hồ sơ theo hướng dẫn của thủ tục này; nộp hồ sơ theo các hình thức sau: nộp trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng, nộp hồ sơ trực tuyến dịch vụ công tại địa chỉ https://dichvucong.danang.gov.vn (Sở Giao thông vận tải), nộp hồ sơ thông qua dịch vụ bưu chính công ích.
+- Bước 2: Tổ tiếp nhận và trả kết quả Sở GTVT thành phố Đà Nẵng tiếp nhận hồ sơ: kiểm tra tính hợp lệ và đầy đủ giấy tờ theo đúng thành phần, yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ hợp lệ. Trường hợp hồ sơ đã hợp lệ thì phát hành giấy hẹn ngày đến nhận kết quả. Chuyển hồ sơ cho Phòng chuyên môn qua mạng.
+Bước 3: Sở GTVT thẩm định hồ sơ:
+a) Trường hợp xét thấy hồ sơ không đạt yêu cầu thì có văn bản yêu cầu bổ sung. 
+b) Trường hợp hồ sơ đạt yêu cầu thì tiến hành giải quyết.
+- Trường hợp, hồ sơ cần lấy ý kiến của các cơ quan, tổ chức có liên quan thì trong thời gian 05 ngày, cơ quan chủ trì thẩm định  có văn bản gửi lấy ý kiến các cơ quan, tổ chức có liên quan. Thời hạn có ý kiến tham gia của cơ quan, tổ chức có liên quan không quá  06 ngày. Nếu quá thời hạn, các cơ quan, tổ chức liên quan không có ý kiến thì được xem như đã chấp thuận về nội dung xin ý kiến của dự án và chịu trách nhiệm về lĩnh vực quản lý của mình.
+- Trường hợp, Sở GTVT không đủ điều kiện thực hiện công tác thẩm định, có thể lựa chọn tổ chức tư vấn thẩm tra phục vụ công tác thẩm định theo quy định Quy trình lựa chọn tư vấn thẩm tra, điều kiện năng lực của tư vấn thẩm tra và nội dung liên quan tuân thủ theo Điều 10 Thông tư 18/2016/TT-BXD của Bộ trưởng Bộ Xây dựng và các quy định hiện hành khác. Sau khi có kết quả thẩm tra, yêu cầu đơn vị điều hành dự án trình lại hồ sơ  theo thành phần được quy định qua Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng. Sở GTVT thẩm định hồ sơ và trả kết quả theo trình tự như trên.
+- Đối với các công trình thuộc thẩm quyền phê duyệt của Sở GTVT (có tổng mức đầu tư dưới 15 tỷ đồng): Sở GTVT gửi kết quả thẩm định, Quyết định phê duyệt của Sở GTVT đến Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng. 
+- Đối với hồ sơ công trình thuộc thẩm quyền phê duyệt của UBND thành phố (có tổng mức đầu tư từ 15 tỷ đồng trở lên): Sở GTVT trình UBND thành phố phê duyệt kết quả thẩm định Báo cáo kinh tế kỹ thuật.
+Bước 4: Trả kết quả cho tổ chức, công dân..

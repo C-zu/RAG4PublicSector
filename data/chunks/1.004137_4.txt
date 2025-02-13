@@ -1,0 +1,10 @@
+Tên thủ tục: Xác nhận hàng năm Giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính - Đơn đề nghị xác nhận hàng năm giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fae4f3108b789b0'">15.docx</a>)
+- 03 Bản chính - Bản đánh giá an ninh phải có ý kiến của các cơ quan: cơ quan công an cấp huyện, Đồn Biên phòng cửa khẩu cảng, Phòng Cảnh sát giao thông cấp tỉnh, Chi cục Hải Quan, Cảng vụ, Trung tâm Y tế dự phòng cấp huyện, cơ quan bảo vệ và kiểm dịch thực vật cấp huyện, cơ quan kiểm dịch động vật cửa khẩu;
+- 03 Bản chính - Biên bản các buổi tập huấn hoặc diễn tập hoặc huấn luyện theo chương trình Kế hoạch an ninh được phê duyệt;
+- 03 Bản chính - Bản chính giấy chứng nhận phù hợp an ninh (để xác nhận vào trang sau của giấy chứng nhận).

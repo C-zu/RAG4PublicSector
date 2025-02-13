@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002990
+Số quyết định:
+2816/QĐ-BCA
+Tên thủ tục:
+Kiểm định phương tiện phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+¬- Bước 4: Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ lấy mẫu xác suất để tổ chức kiểm định theo quy định.
+- Bước 5: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|Phí : Đồng Phí kiểm định thực hiện theo quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm định phương tiện phòng cháy, chữa cháy.|- Nộp hồ sơ trực tiếp tại Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ phải có thông báo cho cơ quan, tổ chức đã gửi hồ sơ trước đó về việc tổ chức lấy mẫu xác suất để thực hiện việc kiểm định, sau khi lấy mẫu phải lập biên bản lấy mẫu phương tiện kiểm định (Mẫu số PC28 ban hành kèm theo Nghị định số 136/2020/NĐ-CP). Trong thời hạn 03 ngày làm việc, kể từ ngày có kết quả kiểm định kèm theo biên bản kiểm định, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ phải thông báo kết quả kiểm định.|
+|Trực tuyến|03 Ngày làm việc|Phí : Đồng Phí kiểm định thực hiện theo quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm định phương tiện phòng cháy, chữa cháy.|- Nộp hồ sơ trực tiếp tại Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ phải có thông báo cho cơ quan, tổ chức đã gửi hồ sơ trước đó về việc tổ chức lấy mẫu xác suất để thực hiện việc kiểm định, sau khi lấy mẫu phải lập biên bản lấy mẫu phương tiện kiểm định (Mẫu số PC28 ban hành kèm theo Nghị định số 136/2020/NĐ-CP). Trong thời hạn 03 ngày làm việc, kể từ ngày có kết quả kiểm định kèm theo biên bản kiểm định, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ phải thông báo kết quả kiểm định.|
+|Dịch vụ bưu chính|03 Ngày làm việc|Phí : Đồng Phí kiểm định thực hiện theo quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm định phương tiện phòng cháy, chữa cháy.|- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ phải có thông báo cho cơ quan, tổ chức đã gửi hồ sơ trước đó về việc tổ chức lấy mẫu xác suất để thực hiện việc kiểm định, sau khi lấy mẫu phải lập biên bản lấy mẫu phương tiện kiểm định (Mẫu số PC28 ban hành kèm theo Nghị định số 136/2020/NĐ-CP). Trong thời hạn 03 ngày làm việc, kể từ ngày có kết quả kiểm định kèm theo biên bản kiểm định, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ phải thông báo kết quả kiểm định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị kiểm định phương tiện phòng cháy và chữa cháy của đơn vị trực tiếp sản xuất, lắp ráp, hoán cải trong nước hoặc nhập khẩu phương tiện phòng cháy và chữa cháy (Mẫu số PC26); ([PC26-kiemdinh,capCN.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec40201d5a1cca'))
+- 01 Bản chính - Giấy chứng nhận xuất xứ hoặc xuất xưởng của phương tiện;
+- 01 Bản chính - Giấy chứng nhận chất lượng của phương tiện (nếu có);
+- 01 Bản chính - Tài liệu kỹ thuật của phương tiện đề nghị kiểm định.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Cơ quan có thẩm quyền:
+Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Biên bản kiểm định phương tiện phòng cháy, chữa cháy
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|27/2001/QH10|Luật 27/2001/QH10 - Phòng cháy và chữa cháy|29-06-2001|Quốc Hội|
+|40/2013/QH13|Luật 40/2013/QH13 - Sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|22-11-2013|Quốc Hội|
+|136/2020/NĐ-CP|Nghị định 136/2020/NĐ-CP|24-11-2020||
+|149 /2020/TT-BCA|Thông tư 149 /2020/TT-BCA|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+- Phương tiện phòng cháy, chữa cháy sản xuất, lắp ráp, hoán cải trong nước hoặc nhập khẩu (thuộc danh mục quy định tại Phụ lục VII Nghị định số 136/2020/NĐ-CP) trước khi lưu thông ra thị trường.
+- Phương tiện phòng cháy, chữa cháy chưa được kiểm định về phòng cháy, chữa cháy trước đó.
+- Phương tiện phòng cháy, chữa cháy sản xuất, lắp ráp, hoán cải trong nước hoặc nhập khẩu (thuộc danh mục quy định tại Phụ lục VII Nghị định số 136/2020/NĐ-CP) trước khi lưu thông ra thị trường.
+- Phương tiện phòng cháy, chữa cháy chưa được kiểm định về phòng cháy, chữa cháy trước đó.
+Từ khóa:
+Kiểm định phương tiện phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Mô tả:
+Không có thông tin

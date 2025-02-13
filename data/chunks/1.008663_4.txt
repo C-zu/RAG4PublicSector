@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy phép thi công các công trình sửa chữa, cải tạo nâng cấp đường bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị theo mẫu Phụ lục KCHT-07 hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaba3190a64802'">PL_KCHT-07.docx</a>)
+- 01 Bản chính 2. Quyết định công nhận đơn vị thi công và cho phép khởi công công trình của cơ quan có thẩm quyền
+- 01 Bản chính 3. Biện pháp đảm bảo an toàn công trình giao thông đường bộ và các công trình hạ tầng kỹ thuật khác hiện có trên đường bộ
+- 01 Bản chính 4. Biện pháp bảo đảm an toàn giao thông trong suốt thời gian thi công có xác nhận của Ban Quản lý dự án (trường hợp các công trình đơn giản, không có thiết kế tổ chức thi công)
+- 01 Bản chính 5. Báo cáo đánh giá tác động môi trường do Sở Tài nguyên và Môi trường Đà Nẵng thẩm định (đối với công trình quy định lập báo cáo đánh giá tác động môi trường) hoặc Biện pháp đảm bảo vệ sinh môi trường (đối với công trình không quy định lập báo cáo đánh giá tác động môi trường).
+- 01 Bản chính 6. Báo cáo thẩm định an toàn giao thông được cấp có thẩm quyền phê duyệt (đối với công trình cải tạo, nâng cấp đường bộ)

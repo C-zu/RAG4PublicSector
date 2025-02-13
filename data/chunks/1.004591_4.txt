@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp đổi giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp đổi Giấy phép kinh doanh dịch vụ lữ hành quốc tế (Mẫu số 05 Phụ lục II ban hành kèm theo Thông tư số 06/2017/TT-BVHTTDL ngày 15 tháng 12 năm 2017) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3a972a3b5b34a'">Mau so 05 PLII TT06.2017.docx</a>)
+- 01 Bản chính (2) Giấy phép kinh doanh dịch vụ lữ hành quốc tế của doanh nghiệp
+- 01 Bản sao (3) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư trong trường hợp thay đổi Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư; giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành quốc tế phù hợp với phạm vi kinh doanh trong trường hợp thay đổi phạm vi kinh doanh dịch vụ lữ hành quốc tế.

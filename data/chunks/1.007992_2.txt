@@ -1,0 +1,11 @@
+Tên thủ tục: Tự công bố lưu hành giống cây trồng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Bước 1: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt.
+b) Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+- Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+- Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung.
+c) Bước 3: Đăng tải trên cổng thông tin điện tử. 
+- Trường hợp hồ sơ đầy đủ theo quy định: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ của tổ chức, cá nhân tự công bố lưu hành giống cây trồng, Cục Trồng trọt đăng tải trên cổng thông tin điện tử của Cục Trồng trọt. 
+- Trường hợp hồ sơ không đầy đủ theo quy định: Cục Trồng trọt thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do.

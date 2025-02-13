@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cấp Quyết định công nhận lưu hành đặc cách giống cây trồng. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|
+|Trực tuyến|Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cấp Quyết định công nhận lưu hành đặc cách giống cây trồng. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|
+|Dịch vụ bưu chính|Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cấp Quyết định công nhận lưu hành đặc cách giống cây trồng. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ đối với trường hợp cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|

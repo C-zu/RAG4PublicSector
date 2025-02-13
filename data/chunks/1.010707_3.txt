@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn thời gian lưu hành tại Việt Nam cho phương tiện của các nước thực hiện các Hiệp định khung ASEAN về vận tải đường bộ qua biên giới
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ theo quy định|
+|Trực tuyến|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ theo quy định|
+|Dịch vụ bưu chính|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ theo quy định|

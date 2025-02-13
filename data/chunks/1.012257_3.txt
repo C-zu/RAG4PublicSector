@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép tổ chức hoạt động khám bệnh, chữa bệnh nhân đạo theo đợt, khám bệnh, chữa bệnh lưu động thuộc trường hợp quy định tại khoản 1 Điều 79 của Luật Khám bệnh, chữa bệnh hoặc cá nhân khám bệnh, chữa bệnh nhân đạo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||10 ngày, kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|10 Ngày||10 ngày, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|10 Ngày||10 ngày, kể từ ngày nhận đủ hồ sơ|

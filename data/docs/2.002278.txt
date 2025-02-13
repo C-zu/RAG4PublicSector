@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002278
+Số quyết định:
+395/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp gửi hồ sơ đề nghị chứng nhận về Sở Khoa học và Công nghệ nơi doanh nghiệp đặt trụ sở chính.
+Bước 2: Sở Khoa học và Công nghệ tổ chức thẩm định hồ sơ:
++ Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Khoa học và Công nghệ trả lời doanh nghiệp về tính hợp lệ của hồ sơ, trong đó nêu rõ tài liệu, nội dung cần sửa đổi, bổ sung và thời hạn sửa đổi, bổ sung nếu hồ sơ chưa hợp lệ.
++ Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Khoa học và Công nghệ thẩm định hồ sơ và quyết định việc cấp hoặc từ chối cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ.
++ Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau, cần mời chuyên gia hoặc thành lập hội đồng tư vấn, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
++ Trường hợp Sở Khoa học và Công nghệ chưa đủ điều kiện kỹ thuật đánh giá kết quả khoa học và công nghệ, trong thời hạn 05 ngày làm việc từ khi nhận đủ hồ sơ hợp lệ, Sở Khoa học và Công nghệ gửi công văn kèm theo toàn bộ hồ sơ đề nghị cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ về Cục Phát triển thị trường và doanh nghiệp khoa học và công nghệ.
+Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ, Sở Khoa học và Công nghệ công bố trên cổng thông tin điện tử của cơ quan về tên, địa chỉ và danh mục sản phẩm hình thành từ kết quả khoa học và công nghệ của doanh nghiệp đó.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Thời hạn giải quyết: 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ;|
+|Trực tiếp|15 Ngày làm việc||Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau có nội dung phức tạp cần mời chuyên gia hoặc thành lập hội đồng tư vấn thẩm định, đánh giá, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||- Nộp hồ sơ trực tuyến; - Thời hạn giải quyết: 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ;|
+|Trực tuyến|15 Ngày làm việc||Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau có nội dung phức tạp cần mời chuyên gia hoặc thành lập hội đồng tư vấn thẩm định, đánh giá, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Thời hạn giải quyết: 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ;|
+|Dịch vụ bưu chính|15 Ngày làm việc||Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau có nội dung phức tạp cần mời chuyên gia hoặc thành lập hội đồng tư vấn thẩm định, đánh giá, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị chứng nhận doanh nghiệp khoa học và công nghệ ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec284014a19965'))
+- 01 Bản sao Văn bản xác nhận, công nhận kết quả khoa học và công nghệ của cơ quan có thẩm quyền (bản sao xuất trình kèm bản chính để đối chiếu hoặc bản sao có chứng thực), thuộc một trong các văn bản sau: + Văn bằng bảo hộ quyền sở hữu trí tuệ; + Quyết định công nhận giống cây trồng mới, giống vật nuôi mới, giống thủy sản mới, giống cây lâm nghiệp mới, tiến bộ kỹ thuật; + Bằng chứng nhận giải thưởng đối với kết quả thực hiện nhiệm vụ đã đạt được các giải thưởng về khoa học và công nghệ do các cơ quan nhà nước có thẩm quyền chủ trì, phối hợp tổ chức xét tặng giải thưởng hoặc đồng ý cho tổ chức xét tặng giải thưởng; + Quyết định công nhận kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước hoặc Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Giấy xác nhận hoặc giấy thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước; + Giấy chứng nhận đăng ký chuyển giao công nghệ; + Các văn bản xác nhận, công nhận khác có giá trị pháp lý tương đương.
+- 01 Bản chính Phương án sản xuất, kinh doanh sản phẩm hình thành từ kết quả khoa học và công nghệ ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1f2b1e451b1f0'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận doanh nghiệp khoa học và công nghệ, Văn bản từ chối cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|13/2019/NĐ-CP|Nghị định|01-02-2019|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Doanh nghiệp được cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ khi đáp ứng các điều kiện sau:
++ Được thành lập và hoạt động theo Luật doanh nghiệp;
++ Có khả năng tạo ra hoặc ứng dụng kết quả khoa học và công nghệ được cơ quan có thẩm quyền đánh giá, thẩm định, công nhận theo quy định tại khoản 2 Điều 7 của Nghị định 13/2019/NĐ-CP;
++ Có doanh thu từ việc sản xuất, kinh doanh sản phẩm hình thành từ kết quả khoa học và công nghệ đạt tỷ lệ tối thiểu 30% trên tổng doanh thu.
+- Doanh nghiệp mới thành lập dưới 5 năm: được thành lập và hoạt động theo Luật doanh nghiệp và có khả năng tạo ra hoặc ứng dụng kết quả khoa học và công nghệ được cơ quan có thẩm quyền đánh giá, thẩm định, công nhận theo quy định tại khoản 2 Điều 7 của Nghị định 13/2019/NĐ-CP được chứng nhận là doanh nghiệp khoa học và công nghệ.
+- Doanh nghiệp được cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ khi đáp ứng các điều kiện sau:
++ Được thành lập và hoạt động theo Luật doanh nghiệp;
++ Có khả năng tạo ra hoặc ứng dụng kết quả khoa học và công nghệ được cơ quan có thẩm quyền đánh giá, thẩm định, công nhận theo quy định tại khoản 2 Điều 7 của Nghị định 13/2019/NĐ-CP;
++ Có doanh thu từ việc sản xuất, kinh doanh sản phẩm hình thành từ kết quả khoa học và công nghệ đạt tỷ lệ tối thiểu 30% trên tổng doanh thu.
+- Doanh nghiệp mới thành lập dưới 5 năm: được thành lập và hoạt động theo Luật doanh nghiệp và có khả năng tạo ra hoặc ứng dụng kết quả khoa học và công nghệ được cơ quan có thẩm quyền đánh giá, thẩm định, công nhận theo quy định tại khoản 2 Điều 7 của Nghị định 13/2019/NĐ-CP được chứng nhận là doanh nghiệp khoa học và công nghệ.
+Từ khóa:
+Thủ tục cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ
+Mô tả:
+Không có thông tin

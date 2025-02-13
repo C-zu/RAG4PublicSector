@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài và có quốc tịch Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Lệ phí : 5 USD Đăng ký khai sinh|- Người có yêu cầu đăng ký khai sinh trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện nộp hồ sơ trực tiếp hoặc gửi hồ sơ qua hệ thống bưu chính tới Cơ quan đại diện phụ trách khu vực lãnh sự nơi cha hoặc mẹ của trẻ em cư trú hoặc nơi trẻ em sinh ra. - Ngoài các cách thực hiện nêu trên, nếu Cơ quan đại diện Việt Nam ở nước ngoài sử dụng Phần mềm đăng ký, quản lý hộ tịch điện tử dùng chung và kết nối với CSDLQGVDC, trong điều kiện cơ sở hạ tầng kỹ thuật cho phép, hồ sơ có thể nộp trực tuyến qua môi trường điện tử. Ngay trong ngày tiếp nhận hồ sơ; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả trong ngày làm việc tiếp theo.|

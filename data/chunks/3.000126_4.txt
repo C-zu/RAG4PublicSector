@@ -1,0 +1,8 @@
+Tên thủ tục: Công nhận dòng, giống vật nuôi mới
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công nhận dòng, giống vật nuôi mới, ghi rõ tên dòng, giống vật nuôi, nguồn gốc, xuất xứ;
+- 01 Bản chính - Kết quả khảo nghiệm hoặc kết quả nhiệm vụ khoa học và công nghệ cấp bộ, cấp quốc gia đã được công nhận hoặc được cơ quan có thẩm quyền cho phép.

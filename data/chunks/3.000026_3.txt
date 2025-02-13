@@ -1,0 +1,8 @@
+Tên thủ tục: Tiếp nhận dự án hỗ trợ kỹ thuật sử dụng nguồn viện trợ phi Chính phủ nước ngoài (PCPNN)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn thẩm định không quá 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Dịch vụ bưu chính|Thời hạn thẩm định không quá 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : Đồng Không có|- Thông qua hệ thống bưu chính.|

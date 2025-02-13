@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện của đoàn đại biểu cấp cao nước ngoài được hưởng quy chế ưu đãi, miễn trừ ngoại giao, phóng viên nước ngoài đi theo phục vụ đoàn (trừ đài vệ tinh trái đất)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Trực tiếp tại Cục Tần số vô tuyến điện; hoặc các Trung tâm Tần số vô tuyến điện khu vực; hoặc các cơ quan phối hợp do Cục Tần số vô tuyến điện ủy quyền; 20 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định|
+|Trực tuyến|20 Ngày||20 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định|
+|Dịch vụ bưu chính|20 Ngày||20 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định|

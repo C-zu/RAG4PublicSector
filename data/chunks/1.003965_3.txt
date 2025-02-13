@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động khi thay đổi nội dung trong giấy chứng nhận đủ điều kiện kiểm định kỹ thuật an toàn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|35 Ngày||Trong thời hạn 35 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan An toàn, bảo hộ lao động quân đội có trách nhiệm thẩm định, cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động. Trường hợp không cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động, Cơ quan An toàn, bảo hộ lao động quân đội phải có văn bản thông báo lý do cho cơ quan, đơn vị đề nghị biết.|

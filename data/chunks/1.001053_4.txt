@@ -1,0 +1,9 @@
+Tên thủ tục: Hưởng chế độ ốm đau
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính hoặc bản sao giấy ra viện đối với người lao động hoặc con của người lao động điều trị nội trú. Trường hợp người lao động hoặc con của người lao động điều trị ngoại trú phải có giấy chứng nhận nghỉ việc hưởng bảo hiểm xã hội
+- 01 Bản chính Trường hợp người lao động hoặc con của người lao động khám bệnh, chữa bệnh ở nước ngoài thì hồ sơ quy định nêu trên được thay bằng bản dịch tiếng Việt của giấy khám bệnh, chữa bệnh do cơ sở khám bệnh, chữa bệnh ở nước ngoài cấp
+- 01 Bản chính Danh sách người lao động nghỉ việc hưởng chế độ ốm đau do người sử dụng lao động lập.

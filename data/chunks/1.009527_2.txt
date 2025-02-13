@@ -1,0 +1,11 @@
+Tên thủ tục: Chấm dứt tự nguyện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ
++ Bước 1: Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh nộp hồ sơ đề nghị chấm dứt tự nguyện hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh. 
++ Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh mục hồ sơ theo quy định.
++ Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp danh mục hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, UBCKNN có văn bản yêu cầu tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bổ sung hồ sơ theo quy định.
++ Bước 4: Trong thời hạn 07 (bẩy) ngày kể từ khi nhận đầy đủ hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
++ Bước 5: Sau khi tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh hoàn tất các thủ tục để chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh, tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh nộp hồ sơ báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý;
++ Bước 6: Trong thời hạn 05 (năm) ngày Sau khi nhận được hồ sơ báo cáo kết quả sau khi thực hiện các thủ tục chấm dứt hoạt động, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.

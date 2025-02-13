@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy phép kinh doanh nhập khẩu ô tô
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Hồ sơ đề nghị cấp Giấy phép kinh doanh nhập khẩu ô tô gồm:
+- 01 Bản chính a) Đơn đề nghị cấp Giấy phép kinh doanh nhập khẩu ô tô (Mẫu số 15 mục III ban hành kèm theo Nghị định 17/2020/NĐ-CP): 01 bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefe59a32273d23'">Mẫu số 15 NK ôtô.docx</a>)
+- 01 Bản sao b) Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương: 01 bản sao;
+ c) Tài liệu chứng minh doanh nghiệp đáp ứng điều kiện nhập khẩu ô tô quy định tại Điều 15 Nghị định 116/2017/NĐ-CP, cụ thể:
+- 01 Bản sao - Tài liệu chứng minh doanh nghiệp có cơ sở bảo hành, bảo dưỡng ô tô đáp ứng điều kiện quy định tại Nghị định 116/2017/NĐ-CP: 01 bản sao.
+- 01 Bản sao - Văn bản xác nhận hoặc tài liệu chứng minh doanh nghiệp được quyền thay mặt doanh nghiệp sản xuất, lắp ráp ô tô nước ngoài thực hiện lệnh triệu hồi ô tô nhập khẩu tại Việt Nam theo quy định tại khoản 2 Điều 15 Nghị định 116/2017/NĐ-CP đã được cơ quan đại diện ngoại giao Việt Nam ở nước ngoài hợp pháp hóa lãnh sự theo quy định của pháp luật: 01 bản sao.

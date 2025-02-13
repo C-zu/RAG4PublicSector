@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế tàu cá
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 ngày (đối với hồ sơ thiết kế đóng mới, lần đầu) hoặc 10 ngày làm việc (đối với hồ sơ thiết kế cải hoán, sửa chữa phục hồi).|Phí : Đồng 5% giá thiết kế, theo Thông tư số 94/2021/TT-BTC ngày 02/11/2021 của Bộ Tài chính.|Trực tiếp tại Cơ sở đăng kiểm tàu cá hoặc gửi qua dịch vụ bưu chính.|
+|Dịch vụ bưu chính|20 ngày (đối với hồ sơ thiết kế đóng mới, lần đầu) hoặc 10 ngày làm việc (đối với hồ sơ thiết kế cải hoán, sửa chữa phục hồi).|Phí : Đồng 5% giá thiết kế, theo Thông tư số 94/2021/TT-BTC ngày 02/11/2021 của Bộ Tài chính.|Trực tiếp tại Cơ sở đăng kiểm tàu cá hoặc gửi qua dịch vụ bưu chính.|

@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003412
+Số quyết định:
+1299/QĐ-BNN-KHCN
+Tên thủ tục:
+cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định chất lượng sản phẩm, hàng hóa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nông nghiệp
+Trình tự thực hiện:
+Bước 1: Nộp và tiếp nhận hồ sơ         
+- Tổ chức, có nhu cầu Cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định áp dụng đối với trường hợp tổ chức kiểm định bổ sung mở rộng, thu hẹp phạm vi kiểm định lập 01 bộ hồ sơ và nộp theo một trong các hình thức sau:
++Nộp hồ sơ trực tiếp tại trụ sở của các Tổng cục, Cục:các chứng chỉ, tài liệu chưa được chứng thực từ bản chính, thì phải xuất trình bản chính để đối chiếu.
++Nộp hồsơ qua đường bưu điện:gửi bảnsao các chứng chỉ, tài liệu đã được chứng thực từ bản chính.
++ Nộp hồ sơ qua Cổng thông tin điện tử của các Tổng cục, Cục: thực hiện theohình thức dịch vụ công trực tuyến.
+b) Bước 2: Thẩm xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận
+Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi bổ sung;
+Trường hợp hồ sơ đầy đủ, hợp lệ: trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức kiểm định theo quy định
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc|
+|Trực tuyến|15 Ngày làm việc||15 ngày làm việc|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Đơnđăngký bổ sung, sửa đổi hoạtđộngkiểm định (Mẫu 05tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP); ([Mẫu số 01,2,4 NĐ107.TTHC5.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee80f6f90e6c92'))
+ Danhsách bổ sung, sửa đổi kiểm địnhviên (Mẫu 02tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP) và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên
+ Tàiliệuchứngminhnănglựchoạtđộngkiểm định bổ sung, sửa đổi đápứngcác yêucầuquyđịnhtạitiêu chuẩn quốc gia TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành
+ Danhsách bổ sung, sửa đổi máymóc,thiếtbị,dụngcụ phụcvụhoạtđộngkiểm định (mẫu 04tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP)
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Nông nghiệp và Phát triển nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động kiểm định
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+- Là tổ chức được thành lập theo quy định của pháp luật;
+- Có ít nhất 02 kiểm định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), đáp ứng yêu cầu chuyên môn đối với lĩnh vực kiểm định tương ứng với lĩnh vực đăng ký bổ sung, được đào tạo về tiêu chuẩn quốc gia TCVN ISO 9001:2008;
+- Có máy móc, thiết bị, dụng cụ theo yêu cầu tại quy trình kiểm định.
+- Là tổ chức được thành lập theo quy định của pháp luật;
+- Có ít nhất 02 kiểm định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), đáp ứng yêu cầu chuyên môn đối với lĩnh vực kiểm định tương ứng với lĩnh vực đăng ký bổ sung, được đào tạo về tiêu chuẩn quốc gia TCVN ISO 9001:2008;
+- Có máy móc, thiết bị, dụng cụ theo yêu cầu tại quy trình kiểm định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

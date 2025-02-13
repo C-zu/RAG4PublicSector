@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002618
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền
+Cấp thực hiện:
+Cấp Bộ, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý biên giới
+Trình tự thực hiện:
+Bước 1. Cơ quan, doanh nghiệp chủ quản của người làm thủ tục gửi Đơn đề nghị cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử hoặc Đơn đăng ký tài khoản đã có để truy cập Cổng thông tin thủ tục biên phòng điện tử cho Biên phòng cửa khẩu biên giới đất liền qua dịch vụ bưu chính hoặc trực tiếp tại trụ sở Biên phòng cửa khẩu biên giới đất liền hoặc đăng ký tài khoản trực tuyến trên Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn;
+
+          Đối với người làm thủ tục cho công dân Việt Nam xuất, nhập cảnh: Đăng ký cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử trực tuyến trên Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.
+Bước 2. Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được Đơn của cơ quan, doanh nghiệp chủ quản của người làm thủ tục hoặc nhận được thông tin đăng ký tài khoản trên Cổng thông tin thủ tục biên phòng điện tử, Biên phòng cửa khẩu biên giới đất liền phải có văn bản Thông báo cấp, sử dụng tài khoản hoặc Thông báo từ chối cấp tài khoản, gửi cho cơ quan, doanh nghiệp chủ quản của người làm thủ tục, công dân Việt Nam xuất, nhập cảnh qua dịch vụ bưu chính hoặc trực tiếp tại trụ sở Biên phòng cửa khẩu biên giới đất liền hoặc qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : 0 Đồng|02 ngày làm việc, kể từ ngày nhận được đơn hoặc thông tin đăng ký. *Cách thức thực hiện: Người làm thủ tục gửi hồ sơ và nhận kết quả qua dịch vụ bưu chính hoặc trực tiếp tại trụ sở Biên phòng cửa khẩu biên giới đất liền hoặc qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền kèm theo bản chụp Giấy chứng nhận đăng ký doanh nghiệp, Chứng minh nhân dân (hoặc hộ chiếu, hoặc thẻ Căn cước công dân). ([Đơn đề nghị cấp tài khoản truy cập.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb4976796ddb3e0'))
+- 01 Bản chính + Đơn đăng ký tài khoản đã có để truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền (trong trường hợp người làm thủ tục đã có tài khoản truy cập Cổng thông tin điện tử khác đã thống nhất mô hình kết nối và trao đổi thông tin với Cổng thông tin thủ tục biên phòng điện tử). ([Đơn đăng ký tài khoản đã có để truy cập.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3c129245de80e'))
+- 01 Bản chính + Đơn đăng ký cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của công dân Việt Nam xuất, nhập cảnh. ([Đơn đăng ký cấp tài khoản truy cập cổng thông tin thủ tục biên phòng điện tử.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6548aae7c782c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ban Chỉ huy Biên phòng cửa khẩu hoặc Đồn Biên phòng cửa khẩu
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trụ sở Biên phòng cửa khẩu biên giới đất liền hoặc qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thông báo cấp/sử dụng hoặc từ chối cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2019/QĐ-TTg|Quyết định 15/2019/QĐ-TTg - Về việc thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý|28-03-2019|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

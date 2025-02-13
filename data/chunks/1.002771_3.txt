@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt phương án trục vớt tài sản chìm đắm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1||- Chậm nhất 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định với tài sản chìm đắm không gây nguy hiểm. - Không quá 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định với tài sản chìm đắm gây nguy hiểm. - Không quá 48 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định với tài sản chìm đắm gây nguy hiểm không xác định được chủ sở hữu, tài sản chìm đắm thuộc sở hữu nhà|
+|Trực tuyến|1||- Chậm nhất 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định với tài sản chìm đắm không gây nguy hiểm. - Không quá 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định với tài sản chìm đắm gây nguy hiểm. - Không quá 48 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định với tài sản chìm đắm gây nguy hiểm không xác định được chủ sở hữu, tài sản chìm đắm thuộc sở hữu nhà|
+|Dịch vụ bưu chính|1||- Chậm nhất 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định với tài sản chìm đắm không gây nguy hiểm. - Không quá 24 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định với tài sản chìm đắm gây nguy hiểm. - Không quá 48 giờ, kể từ thời điểm nhận đủ hồ sơ theo quy định với tài sản chìm đắm gây nguy hiểm không xác định được chủ sở hữu, tài sản chìm đắm thuộc sở hữu nhà nước và tài sản chìm đắm do Cảng vụ tổ chức trục vớt.|

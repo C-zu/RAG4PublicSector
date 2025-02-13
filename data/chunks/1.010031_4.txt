@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký doanh nghiệp, đăng ký hoạt động chi nhánh đối với các doanh nghiệp hoạt động theo Giấy phép thành lập và hoạt động kinh doanh chứng khoán
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây:
+- 01 Bản chính - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp và bản sao giấy tờ pháp lý của cá nhân được ủy quyền. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực.
+- 01 Bản sao - Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp, giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp và bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.
+- 01 Bản sao - Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp.
+- 01 Bản chính - Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì việc ủy quyền thực hiện như Trường hợp ủy quyền cho tổ chức.
+
+
+Bao gồm
+- 01 Bản chính (i) Văn bản đề nghị bổ sung, cập nhật thông tin đăng ký doanh nghiệp hoặc văn bản đề nghị bổ sung, cập nhật thông tin đăng ký hoạt động chi nhánh; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecdb82635f4870'">Phụ lục II-16.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe00b304b3510f6'">Phụ lục II-17.docx</a>)
+- 01 Bản sao (ii) Bản sao giấy phép thành lập và hoạt động;
+- 01 Bản sao (iii) Bản sao Giấy chứng nhận đăng ký thuế.

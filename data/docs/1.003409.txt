@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003409
+Số quyết định:
+1603/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy công nhận các tổ chức đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tần số vô tuyến điện
+Trình tự thực hiện:
+Tổ chức chuẩn bị hồ sơ theo hướng dẫn dưới đây.
+2. Nộp hồ sơ
+Tổ chức nộp hồ sơ theo cách thức và đến địa chỉ nêu dưới đây
+3. Thẩm định và thụ lý hồ sơ
+Cục Tần số vô tuyến điện thụ lý hồ sơ:
++ Cục Tần số vô tuyến điện cấp Giấy công nhận đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư trong thời hạn tối đa là 20 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
++ Nếu hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện thông báo, hướng dẫn tổ chức bổ sung, hoàn thiện hồ sơ.
+1. Chuẩn bị
++ Trường hợp từ chối cấp giấy công nhận đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư, Cục Tần số vô tuyến điện thông báo bằng văn bản, nêu rõ lý do từ chối trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+Trả kết quả
+Tổ chức nhận Giấy công nhận tại trụ sở Trung tâm tần số vô tuyến điện khu vực hoặc qua hệ thống bưu chính
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||Nộp trực tiếp tại Cục Tần số vô tuyến điện.|
+|Trực tuyến|20 Ngày làm việc||Nộp trực tuyến qua Cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công của Cục Tần số vô tuyến điện (http://dichvucong.rfd.gov.vn).|
+|Dịch vụ bưu chính|20 Ngày làm việc||Nộp qua hệ thống bưu chính; (Địa chỉ Cục Tần số vô tuyến điện: Số 115 đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin cấp Giấy công nhận, trong đó nêu rõ đề nghị được công nhận đủ điều kiện tổ chức thi, chấm thi đối với chứng chỉ Khai thác viên vô tuyến điện nghiệp dư cấp bậc nào
+- 01 Bản sao Bản sao Giấy phép hoặc Quyết định thành lập tổ chức
+- 01 Bản sao Bản sao giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện nghiệp dư theo qui định.
+- 01 Bản chính Danh sách người chấm thi thực hành (người thuộc biên chế chính thức của tổ chức hoặc cộng tác viên) đáp ứng yêu cầu qui định
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Tần số vô tuyến điện
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Các Trung tâm Tần số vô tuyến điện khu vực. Xem chi tiết tại đây: http://www.rfd.gov.vn/gioi-thieu/co-cau-to-chuc/pages/cac-trung-tam.aspx
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Bộ Tài chính
+Kết quả thực hiện:
+Giấy chứng nhận
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|42/2009/QH12|Luật số 42/2009/QH12 ngày 04/12/2009 của Quốc hội về tần số vô tuyến điện|01-07-2010|Bộ Thông tin và Truyền thông|
+|18/2008/QĐ-BTTTT|Về việc ban hành “Quy định về hoạt động vô tuyến điện nghiệp dư”|04-04-2008|Bộ Thông tin và Truyền thông|
+|42/2009/QH12|Tần số vô tuyến điện|23-11-2009|Quốc Hội|
+|05/2015/TT-BTTTT|Quy định chi tiết và hướng dẫn thủ tục cấp giấy phép sử dụng tần số vô tuyến điện; cho thuê, cho mượn thiết bị vô tuyến điện; sử dụng chung tần số vô tuyến điện|23-03-2015|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+- Về trang thiết bị: Có đài VTĐND được cấp Giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện nghiệp dư đảm bảo đáp ứng yêu cầu thi thực hành ( theo qui định tại điều 7 khoản 2 qui định về hoạt động vô tuyến điện nghiệp dư) của người dự thi với loại chứng chỉ KTVVTĐND tương ứng
+- Về người chấm thi thực hành ( trừ trường hợp chấm thi bằng máy tính): người chấm thi thực hành phải đáp ứng một trong các điều kiện sau đây:
++ Là người có Chứng chỉ KTVVTĐND cao hơn người dự thi ít nhất một bậc;
++ Là người có chứng chỉ KTVVTĐND cùng bậc với người dự thi và đã trải qua ít nhất 1 năm khai thác đài VTĐ nghiệp dư kể từ ngày chấm thi trở về trước;
++ Là người đã trải qua ít nhất một năm làm nghề điện báo (có khả năng nhận bằng tai và gửi bằng tay các bản tin dưới dạng mã Mooc quốc tế thông qua máy thu phát vô tuyến điện)
+- Về trang thiết bị: Có đài VTĐND được cấp Giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện nghiệp dư đảm bảo đáp ứng yêu cầu thi thực hành ( theo qui định tại điều 7 khoản 2 qui định về hoạt động vô tuyến điện nghiệp dư) của người dự thi với loại chứng chỉ KTVVTĐND tương ứng
+- Về người chấm thi thực hành ( trừ trường hợp chấm thi bằng máy tính): người chấm thi thực hành phải đáp ứng một trong các điều kiện sau đây:
++ Là người có Chứng chỉ KTVVTĐND cao hơn người dự thi ít nhất một bậc;
++ Là người có chứng chỉ KTVVTĐND cùng bậc với người dự thi và đã trải qua ít nhất 1 năm khai thác đài VTĐ nghiệp dư kể từ ngày chấm thi trở về trước;
++ Là người đã trải qua ít nhất một năm làm nghề điện báo (có khả năng nhận bằng tai và gửi bằng tay các bản tin dưới dạng mã Mooc quốc tế thông qua máy thu phát vô tuyến điện)
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

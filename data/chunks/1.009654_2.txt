@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp sử dụng quyền sử dụng đất, tài sản gắn liền với đất thuộc dự án đầu tư để góp vốn vào doanh nghiệp đối với dự án thuộc thẩm quyền chấp thuận của UBND cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư nộp bộ hồ sơ quy định tại khoản 3 Điều 52 của Nghị định số 31/2021/NĐ-CP cho Sở Kế hoạch và Đầu tư.
+- Bước 2: Sở Kế hoạch và Đầu tư gửi hồ sơ cho cơ quan nhà nước có thẩm quyền theo quy định tại điểm b khoản 4 Điều 33 của Nghị định số 31/2021/NĐ-CP để lấy ý kiến về những nội dung điều chỉnh dự án đầu tư.
+- Bước 3: Các cơ quan được lấy ý kiến có ý kiến về nội dung điều chỉnh dự án thuộc phạm vi quản lý nhà nước của cơ quan đó.
+- Bước 4: Sở Kế hoạch và Đầu tư lập báo cáo thẩm định các nội dung điều chỉnh dự án đầu tư để trình Ủy ban nhân dân cấp tỉnh;
+- Bước 5: Ủy ban nhân dân cấp tỉnh quyết định chấp thuận điều chỉnh chủ trương đầu tư.

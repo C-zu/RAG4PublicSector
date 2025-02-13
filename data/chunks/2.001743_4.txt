@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp đổi giấy phép hoạt động phát thanh, giấy phép hoạt động truyền hình
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Văn bản của cơ quan, tổ chức đề nghị cấp đổi giấy phép hoạt động phát thanh, giấy phép hoạt động truyền hình
+ Tờ khai của cơ quan, tổ chức (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc15632ec94cb14'">Mẫu số 1. Tờ khai cấp giấy phép hoạt động PTTH.doc</a>)
+ Văn bản chấp thuận của cơ quan chủ quản đối với tổ chức hoạt động phát thanh, truyền hình của tỉnh, thành phố trực thuộc Trung ương và Bộ, ngành
+ Giấy phép hoạt động phát thanh, giấy phép hoạt động truyền hình đã được cấp.

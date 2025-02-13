@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký tham gia Hệ thống mạng đấu thầu quốc gia đối với nhà thầu, nhà đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ đăng ký|Phí : 550.000 Đồng 550.000 VNĐ (đã bao gồm 10% phí VAT) theo quy định tại Điều 5 Thông tư 06/2021/TT-BKHĐT|- Nhà thầu, nhà đầu tư gửi hồ sơ đăng ký trên Hệ thống theo Hướng dẫn sử dụng.|

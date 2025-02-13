@@ -1,0 +1,31 @@
+Tên thủ tục: Giải quyết hưởng lương hưu, trợ cấp hàng tháng đối với cán bộ xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Trường hợp đang tham gia BHXH bắt buộc tại đơn vị SDLĐ
+- 01 Bản chính a) Sổ BHXH
+- 01 Bản chính b) Quyết định nghỉ việc hưởng chế độ hưu trí theo mẫu ban hành kèm theo Nghị định số 46/2010/NĐ-CP hoặc bản chính Quyết định nghỉ việc hưởng chế độ hưu trí (mẫu số 12-HSB) hoặc Văn bản chấm dứt hợp đồng lao động hưởng chế độ hưu trí (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7600f265a6179'">12_HSB.docx</a>)
+- 01 Bản chính c) Bản chính Biên bản giám định mức suy giảm KNLĐ của Hội đồng GĐYK (trường hợp NLĐ đã có biên bản GĐYK để hưởng các chính sách khác trước đó mà đủ điều kiện hưởng thì có thể thay bằng bản sao) đối với người nghỉ hưu do suy giảm KNLĐ hoặc bản sao Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp (tương đương mức suy giảm KNLĐ 61%) đối với người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.
+- 01 Bản chính d) Bản chính Bản khai cá nhân về thời gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (Mẫu số 04B – HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP ngày 29/10/2020) đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbc96bee118d690'">04B_HBQP.docx</a>)
+
+
+2. Trường hợp đang tham gia BHXH tự nguyện, bảo lưu thời gian đóng BHXH (gồm cả người đang chấp hành hình phạt tù, người xuất cảnh trái phép trở về nước định cư hợp pháp, người được Tòa án hủy quyết định tuyên bố mất tích)
+- 01 Bản chính a) Sổ BHXH
+- 01 Bản chính b) Bản chính Đơn đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf4119bfbcd9c2'">14_HSB.docx</a>)
+- 01 Bản chính c) Bản chính Biên bản giám định mức suy giảm KNLĐ của Hội đồng GĐYK (trường hợp NLĐ đã có biên bản GĐYK để hưởng các chính sách khác trước đó mà đủ điều kiện hưởng thì có thể thay bằng bản sao) đối với người nghỉ hưu do suy giảm KNLĐ hoặc bản sao Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp (tương đương mức suy giảm KNLĐ 61%) đối với người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.
+- 01 Bản chính d) Trường hợp đang chấp hành hình phạt mà thời gian bắt đầu chấp hành hình phạt tù từ ngày 01/01/2016 trở đi thì có thêm bản chính Giấy ủy quyền (mẫu số 13-HSB). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc2103415ea5740'">13_HSB.docx</a>)
+- 01 Bản sao đ) Trường hợp đã chấp hành xong hình phạt tù giam từ ngày 01/01/1995 đến trước ngày 01/01/2016 thì có thêm bản sao của một trong các giấy tờ sau: Giấy chứng nhận chấp hành xong hình phạt tù hoặc Giấy đặc xá tha tù trước thời hạn hoặc Quyết định miễn hoặc tạm hoãn chấp hành hình phạt tù.
+- 01 Bản sao e) Trường hợp xuất cảnh trái phép trở về thì có thêm bản sao văn bản của cơ quan nhà nước có thẩm quyền về việc trở về nước định cư hợp pháp.
+- 01 Bản sao g) Trường hợp mất tích trở về thì có thêm bản sao Quyết định có hiệu lực pháp luật của Tòa án hủy bỏ quyết định tuyên bố mất tích.
+- 01 Bản chính h) Bản chính Bản khai cá nhân về thời gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (Mẫu số 04B – HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP ngày 29/10/2020) đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực.
+- 01 Bản chính, 01 Bản sao i) Hóa đơn, chứng từ thu phí giám định kèm theo bảng kê các nội dung giám định của cơ sở thực hiện GĐYK (trường hợp thanh toán phí GĐYK)
+
+
+3. Đối với người có Quyết định hoặc Giấy chứng nhận chờ đủ điều kiện về tuổi đời để hưởng lương hưu hoặc hưởng trợ cấp hàng tháng theo Nghị định số 09/1998/NĐ-CP
+- 01 Bản chính a) Bản chính Quyết định hoặc bản chính Giấy chứng nhận chờ đủ điều kiện về tuổi đời để hưởng lương hưu hoặc chờ hưởng trợ cấp hàng tháng theo Nghị định số 09/1998/NĐ-CP; trường hợp bị mất giấy tờ trên thì có thêm bản chính Đơn đề nghị (mẫu số 14-HSB) nêu rõ lý do bị mất. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd87c7a5fa54604'">14_HSB.docx</a>)
+- 01 Bản chính, 01 Bản sao b) Hồ sơ đối với từng trường hợp cụ thể như nêu tại nội dung 2c, 2d, 2.đ, 2.e, 2.g, 2.h, 2.i
+
+
+Bao gồm
+- 01 Bản sao Trường hợp không quy định rõ bản chính thì có thể nộp bản sao hợp lệ

@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005129
+Số quyết định:
+1632/QĐ-LĐTBXH
+Tên thủ tục:
+Đăng ký hợp đồng cung ứng lao động của doanh nghiệp hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý lao động ngoài nước
+Trình tự thực hiện:
+- Bước 1. Doanh nghiệp dịch vụ nộp 01 bộ hồ sơ trực tiếp hoặc qua dịch vụ bưu chính tới Bộ Lao động - Thương binh và Xã hội hoặc trực tuyến trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
+- Bước 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản cho doanh nghiệp dịch vụ; trường hợp không chấp thuận phải nêu rõ lý do. Trường hợp cần phải thẩm định ở nước ngoài thì phải thông báo cho doanh nghiệp trong thời hạn 03 ngày làm việc kể từ khi nhận được kết quả thẩm định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Đồng theo quy định của pháp luật về phí và lệ phí.|Kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|05 Ngày làm việc|Phí : Đồng theo quy định của pháp luật về phí và lệ phí.|Kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Đồng theo quy định của pháp luật về phí và lệ phí.|Kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đăng ký hợp đồng cung ứng lao động (theo Mẫu số 02 Phụ lục I ban hành kèm theo Thông tư số 21/2021/TT-BLĐTBXH); ([Mau 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee013d9e4e0c4f'))
+- 01 Bản chính, 01 Bản sao - Bản sao của hợp đồng cung ứng lao động kèm theo bản dịch tiếng Việt được chứng thực;
+- 01 Bản chính, 01 Bản sao - Tài liệu chứng minh việc đưa người lao động Việt Nam đi làm việc ở nước ngoài phù hợp với pháp luật của nước tiếp nhận lao động theo quy định tại Điều 5 Thông tư số 21/2021/TT-BLĐTBXH, cụ thể gồm: Đối với thị trường Ma-lai-xi-a và thị trường Đài Loan (Trung Quốc), tài liệu chứng minh bao gồm: + 01 bản sao Phiếu thẩm định hồ sơ tuyển dụng lao động Việt Nam của cơ quan đại diện Việt Nam tại nước, vùng lãnh thổ; + 01 bản sao giấy phép tuyển dụng lao động nước ngoài của cơ quan chức năng nước sở tại cấp cho người sử dụng lao động, kèm bản dịch tiếng Việt. Đối với các nước, vùng lãnh thổ khác: + Trường hợp bên nước ngoài tiếp nhận lao động là người sử dụng lao động ở nước ngoài, tài liệu chứng minh bao gồm: .01 bản sao giấy phép kinh doanh hoặc đăng ký kinh doanh của người sử dụng lao động thể hiện lĩnh vực kinh doanh phù hợp với ngành, nghề, công việc tuyển dụng lao động nước ngoài, kèm bản dịch tiếng Việt; .01 bản sao văn bản của cơ quan có thẩm quyền nước tiếp nhận cho phép người sử dụng lao động tuyển dụng lao động nước ngoài hoặc danh mục ngành, nghề, công việc được phép tuyển dụng lao động nước ngoài đối với nước tiếp nhận có quy định, kèm bản dịch tiếng Việt. + Trường hợp bên nước ngoài tiếp nhận lao động là tổ chức dịch vụ việc làm ở nước ngoài, tài liệu chứng minh bao gồm: .01 bản sao giấy phép kinh doanh hoặc đăng ký kinh doanh của tổ chức dịch vụ việc làm thể hiện ngành, nghề kinh doanh bao gồm dịch vụ việc làm, kèm theo bản dịch tiếng Việt; .01 bản sao thỏa thuận hợp tác hoặc văn bản yêu cầu hoặc văn bản ủy quyền tuyển dụng lao động Việt Nam của người sử dụng lao động cho tổ chức dịch vụ việc làm, kèm bản dịch tiếng Việt; .Tài liệu chứng minh đối với người sử dụng lao động quy định tại điểm a khoản này.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Bộ Lao động - Thương binh và Xã hội
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Quản lý lao động ngoài nước, Bộ Lao động - Thương binh và Xã hội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời.,
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|69/2020/QH14|LUẬT NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG|13-11-2020|Ủy ban thường vụ quốc hội|
+|21/2021/TT-BLĐTBXH|QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG|15-12-2021|Bộ Lao động - Thương binh và Xã hội|
+|20/2021/TT-BLĐTBXH|QUY ĐỊNH VỀ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG|15-12-2021|Bộ Lao động - Thương binh và Xã hội|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

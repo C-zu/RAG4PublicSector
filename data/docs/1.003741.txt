@@ -1,0 +1,100 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003741
+Số quyết định:
+2466/QĐ-BNN-VP
+Tên thủ tục:
+Cấp Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+2.1. Trình tự thực hiện:
+a) Tổ chức, cá nhân nộp 01 bộ về  Cục Thủy sản;
+b) Trường hợp nộp hồ sơ trực tiếp: Cục Thủy sản kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+c) Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cục Thủy sản xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cục Thủy sản có văn bản thông báo rõ cho tổ chức, cá nhân bổ sung;
+d) Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cục Thủy sản hoàn thành kiểm tra thực tế tại cơ sở, nội dung, biên bản kiểm tra theo Mẫu số 02.CN Phụ lục XII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18/01/2022; 
+Trong trường hợp vì lý do thiên tai, dịch bệnh không thể tổ chức kiểm tra thực tế tại cơ sở theo quy định thì áp dụng hình thức kiểm tra trực tuyến; hoặc tạm hoãn hoạt động kiểm tra duy trì điều kiện cơ sở đăng kiểm tàu cá tối đa 6 tháng.
+đ) Trong thời hạn 10 ngày làm việc, kể từ ngày kết thúc kiểm tra, nếu kết quả kiểm tra đạt yêu cầu Cục Thủy sản cấp Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá theo Mẫu số 03.CN Phụ lục XII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18/01/2022 và cấp dấu kỹ thuật, ấn chỉ nghiệp vụ đăng kiểm tàu cá để thực thi nhiệm vụ; mẫu dấu kỹ thuật, ấn chỉ nghiệp vụ đăng kiểm tàu cá và nguyên tắc sử dụng theo Mẫu số 04.CN Phụ lục XII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18/01/2022. Trường hợp không cấp Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm Cục Thủy sản trả lời bằng văn bản và nêu rõ lý do; 
+e) Cục Thủy sản trả kết quả trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc kể từ ngày kết thúc kiểm tra.|Phí : 12.450.000 Đồng|Trực tiếp tại Tổng cục Thủy sản hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng dịch vụ công quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|10 ngày làm việc kể từ ngày kết thúc kiểm tra.|Phí : 12.450.000 Đồng|TTrực tiếp tại Tổng cục Thủy sản hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng dịch vụ công quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|10 ngày làm việc kể từ ngày kết thúc kiểm tra.|Phí : 12.450.000 Đồng|TTrực tiếp tại Tổng cục Thủy sản hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng dịch vụ công quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá theo Mẫu số 01.CN Phụ lục XII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd26b008e63acb4'))
+- 01 Bản chính b) Hồ sơ quản lý chất lượng theo tiêu chuẩn ISO 9001 hoặc tương đương.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Thủy sản - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|23/2018/TT-BNNPTNT|Thông tư 23/2018/TT-BNNPTNT|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|01/2022/TT-BNNPTNT|Thông tư 01/2022/TT-BNNPTNT|18-01-2022||
+|94/2021/TT-BTC|Thông tư 94/2021/TT-BTC|02-11-2021||
+
+Yêu cầu, điều kiện thực hiện:
+a) Điều 68 Luật Thủy sản:
+“- Được thành lập theo quy định của pháp luật;
+- Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu;
+- Có đội ngũ đăng kiểm viên đáp ứng yêu cầu;
+- Có hệ thống quản lý chất lượng phù hợp”.
+b) Điều 56 Nghị định số 26/2019/NĐ-CP:
+“1. Đối với cơ sở đăng kiểm tàu cá loại I:
+a) Được cơ quan có thẩm quyền quyết định thành lập (đối với trường hợp là cơ sở đăng kiểm công lập) hoặc được thành lập theo quy định của Luật doanh nghiệp, Luật hợp tác xã; cơ sở đăng kiểm tàu cá phải độc lập về pháp lý, độc lập về tài chính với tổ chức, cá nhân kinh doanh tàu cá, đóng mới, cải hoán tàu cá, thiết kế tàu cá;
+b) Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu: Có thiết bị nhập và lưu trữ dữ liệu; có thiết bị được kết nối mạng và truyền dữ liệu với các cơ quan liên quan về hoạt động đăng kiểm tàu cá của cơ sở; có dụng cụ, trang thiết bị phục vụ kiểm tra kỹ thuật theo Phụ lục VII ban hành kèm theo Nghị định này;
+c) Có đăng kiểm viên trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 01 đăng kiểm viên hạng I và 02 đăng kiểm viên hạng II;
+d) Thiết lập và duy trì áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001 hoặc tương đương.
+2. Đối với cơ sở đăng kiểm tàu cá loại II:
+a) Đáp ứng điều kiện quy định tại điểm a, b, d khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 02 đăng kiểm viên hạng II.
+3. Đối với cơ sở đăng kiểm tàu cá loại III:
+a) Đáp ứng điều kiện quy định tại điểm a, b khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ cao đẳng trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, khai thác thủy sản; trong đó, tối thiểu 01 đăng kiểm viên hạng II;
+c) Có quy trình kiểm tra, giám sát kỹ thuật tàu cá phù hợp với quy định tại quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+4. Các cơ sở đăng kiểm tàu cá loại I và loại II được phép thành lập các chi nhánh trực thuộc gần với nơi neo đậu tàu cá hoặc gần các cơ sở đóng mới, sửa chữa tàu cá, mỗi chi nhánh phải đáp ứng các điều kiện quy định tại điểm b khoản 1 Điều này và bảo đảm đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành liên quan: vỏ tàu thủy, máy tàu thủy, điện, cơ khí tàu thuyền hoặc khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, tối thiểu 02 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại I và 01 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại II.”.
+a) Điều 68 Luật Thủy sản:
+“- Được thành lập theo quy định của pháp luật;
+- Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu;
+- Có đội ngũ đăng kiểm viên đáp ứng yêu cầu;
+- Có hệ thống quản lý chất lượng phù hợp”.
+b) Điều 56 Nghị định số 26/2019/NĐ-CP:
+“1. Đối với cơ sở đăng kiểm tàu cá loại I:
+a) Được cơ quan có thẩm quyền quyết định thành lập (đối với trường hợp là cơ sở đăng kiểm công lập) hoặc được thành lập theo quy định của Luật doanh nghiệp, Luật hợp tác xã; cơ sở đăng kiểm tàu cá phải độc lập về pháp lý, độc lập về tài chính với tổ chức, cá nhân kinh doanh tàu cá, đóng mới, cải hoán tàu cá, thiết kế tàu cá;
+b) Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu: Có thiết bị nhập và lưu trữ dữ liệu; có thiết bị được kết nối mạng và truyền dữ liệu với các cơ quan liên quan về hoạt động đăng kiểm tàu cá của cơ sở; có dụng cụ, trang thiết bị phục vụ kiểm tra kỹ thuật theo Phụ lục VII ban hành kèm theo Nghị định này;
+c) Có đăng kiểm viên trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 01 đăng kiểm viên hạng I và 02 đăng kiểm viên hạng II;
+d) Thiết lập và duy trì áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001 hoặc tương đương.
+2. Đối với cơ sở đăng kiểm tàu cá loại II:
+a) Đáp ứng điều kiện quy định tại điểm a, b, d khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 02 đăng kiểm viên hạng II.
+3. Đối với cơ sở đăng kiểm tàu cá loại III:
+a) Đáp ứng điều kiện quy định tại điểm a, b khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ cao đẳng trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, khai thác thủy sản; trong đó, tối thiểu 01 đăng kiểm viên hạng II;
+c) Có quy trình kiểm tra, giám sát kỹ thuật tàu cá phù hợp với quy định tại quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+4. Các cơ sở đăng kiểm tàu cá loại I và loại II được phép thành lập các chi nhánh trực thuộc gần với nơi neo đậu tàu cá hoặc gần các cơ sở đóng mới, sửa chữa tàu cá, mỗi chi nhánh phải đáp ứng các điều kiện quy định tại điểm b khoản 1 Điều này và bảo đảm đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành liên quan: vỏ tàu thủy, máy tàu thủy, điện, cơ khí tàu thuyền hoặc khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, tối thiểu 02 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại I và 01 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại II.”.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

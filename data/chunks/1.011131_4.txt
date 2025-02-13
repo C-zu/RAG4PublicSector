@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Gia hạn thời gian lưu hành tại Việt Nam cho phượng tiện của các nước thực hiện Hiệp định GMS
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan có thẩm quyền thông báo trực tiếp hoặc bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến cho tổ chức, cá nhân trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ;
+- 01 Bản chính - Giấy đề nghị Gia hạn thời gian lưu hành tại Việt Nam theo Mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd054a8edacffd6'">Mau don Gia han GMS.docx</a>)

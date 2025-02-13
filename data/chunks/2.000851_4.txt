@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy phép thành lập Công ty luật nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao giấy tờ chứng minh việc thành lập hợp pháp của tổ chức hành nghề luật sư nước ngoài do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp; bản sao Giấy đăng ký hoạt động của tổ chức hành nghề luật sư Việt Nam đối với hình thức liên doanh
+- 01 Bản chính Danh sách luật sư nước ngoài dự kiến làm việc tại công ty; danh sách luật sư Việt Nam dự kiến làm việc tại công ty kèm theo bản sao Thẻ luật sư
+- 01 Bản chính Bản giới thiệu về hoạt động của tổ chức hành nghề luật sư nước ngoài; bản giới thiệu về hoạt động của tổ chức hành nghề luật sư Việt Nam đối với hình thức liên doanh
+- 01 Bản chính Dự thảo Điều lệ công ty luật nước ngoài; hợp đồng liên doanh đối với hình thức liên doanh
+- 01 Bản chính Đơn đề nghị thành lập công ty luật nước ngoài (Mẫu Công ty luật trách nhiệm hữu hạn 100% vốn nước ngoài tại Việt Nam) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb9d6f2a551c4e0'">TP-LS-012.docx</a>)
+- 01 Bản chính Đơn đề nghị thành lập công ty luật nước ngoài (Mẫu thành lập Công ty luật trách nhiệm hữu hạn dưới hình thức liên doanh tại Việt Nam) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6bb6472459108'">TP-LS-013.doc</a>)
+- 01 Bản chính Đơn đề nghị thành lập công ty luật nước ngoài (Mẫu thành lập Công ty luật hợp danh giữa tổ chức hành nghề luật sư nước ngoài và Công ty luật hợp danh Việt Nam) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc690169c55b9c'">TP-LS- 014.docx</a>)

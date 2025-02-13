@@ -1,0 +1,12 @@
+Tên thủ tục: Đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị thực hiện thí điểm khám bệnh, chữa bệnh từ xa trong đó phải nêu rõ thời gian bắt đầu thực hiện khám bệnh, chữa bệnh từ xa
+- 01 Bản chính 2. Giấy phép hoạt động khám bệnh, chữa bệnh của cơ sở (không áp dụng đối với trường hợp giấy phép hoạt động đã được kết nối, chia sẻ trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh hoặc cơ sở dữ liệu quốc gia về y tế)
+- 01 Bản chính 3. Danh mục các dịch vụ thực hiện khám bệnh, chữa bệnh từ xa
+- 01 Bản chính 4. Tài liệu minh chứng đáp ứng đủ điều kiện quy định tại điểm d khoản 1 Điều 87 Nghị định số 96/2023/NĐ-CP của Chính phủ
+- 01 Bản chính 5. Danh sách ghi rõ họ, tên và số giấy phép hành nghề đã được cấp của những người hành nghề dự kiến tham gia thực hiện thí điểm khám bệnh, chữa bệnh từ xa
+- 01 Bản chính 6. Các giấy tờ chứng minh đáp ứng các điều kiện khác

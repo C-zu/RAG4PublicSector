@@ -1,0 +1,21 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/ điều chỉnh thiết kế xây dựng triển khai sau thiết kế cơ sở
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4	Thẩm định hồ sơ:
+- Trong thời hạn 05 ngày kể từ tiếp nhận hồ sơ, trường hợp hồ sơ không đáp ứng yêu cầu theo quy định, dự thảo Văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn (các chỉnh sửa bổ sung của hồ sơ; lấy ý kiến phối hợp của các cơ quan, tổ chức khác có liên quan; bổ sung kết quả thẩm tra theo quy định tại  khoản 4 Điều 35 Nghị định số 15/2021/NĐ-CP), thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình, (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được trong thời hạn 20 ngày thì dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ trong thời hạn 20 ngày thì dự thảo Văn bản thông báo về kết quả thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu dự thảo Văn bản thông báo về kết quả thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+B5	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Sở phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở Bước 4.
+B6	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện thẩm định hoặc Văn bản Báo cáo thẩm định; 
+- Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm Phục vụ hành chính công tỉnh
+B8	Trả kết quả cho tổ chức cá nhân

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc dùng cho mục đích thử lâm sàng, thử tương đương sinh học, đánh giá sinh khả dụng tại Việt Nam, làm mẫu kiểm nghiệm, nghiên cứu khoa học
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày||Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

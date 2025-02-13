@@ -1,0 +1,7 @@
+Tên thủ tục: Cung cấp thông tin về quy hoạch xây dựng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin đề nghị cung cấp thông tin quy hoạch (ghi rõ thông tin về vị trí, địa điểm lô đất cần cung cấp thông tin về quy hoạch) theo mẫu BM.QH.05.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd233f851535de6'">BM.QH.05.01.docx</a>)

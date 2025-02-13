@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tổ chức cuộc thi, liên hoan trên địa bàn quản lý (không thuộc trường hợp toàn quốc và quốc tế của các hội chuyên ngành về nghệ thuật biểu diễn thuộc Trung ương, đơn vị sự nghiệp công lập có chức năng biểu diễn nghệ thuật thuộc Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Văn bản đề nghị tổ chức cuộc thi, liên hoan (Mẫu số 04 Phụ lục ban hành kèm theo Nghị định số 144/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed4fcbecd2b16b'">MS04.docx</a>)
+- 01 Bản chính b) Đề án tổ chức cuộc thi, liên hoan (Mẫu số 05 Phụ lục ban hành kèm theo Nghị định số 144/2020/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb641edff3fba58'">MS05.docx</a>)

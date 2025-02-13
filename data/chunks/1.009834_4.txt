@@ -1,0 +1,17 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Vận hành thiết bị chiếu xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe82817b071e744'">Mau 1_Don CP tien hanh CVBX.doc</a>)
+- 01 Bản sao Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản chính Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4907413d9ada9'">Mau 01_KB nhan vien BX.doc</a>)
+- 01 Bản sao Bản sao Chứng chỉ nhân viên bức xạ của các nhân viên: nhân viên bức xạ được đào tạo chuyên môn, nghiệp vụ về vận hành thiết bị chiếu xạ, người phụ trách an toàn. Trường hợp các nhân viên này chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị cấp giấy phép tiến hành công việc bức xạ.
+- 01 Bản sao Bản sao Giấy chứng nhận đào tạo an toàn bức xạ của nhân viên bức xạ. Bản sao văn bằng hoặc chứng nhận đào tạo về vật lý y khoa đối với nhân viên vật lý y khoa của cơ sở xạ trị.
+- 01 Bản chính Phiếu khai thiết bị chiếu xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef94d3fb82d8d7'">Mau 04_KB nguon PX kin gan thiet bi.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd17c6a455a2cce'">Mau 09_KB may gia toc.doc</a>)
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất có thông tin về thiết bị chiếu xạ như trong phiếu khai báo. Trường hợp không có tài liệu của nhà sản xuất về các thông tin này, tổ chức, cá nhân đề nghị cấp giấy phép phải nộp kết quả xác định thông số kỹ thuật của thiết bị chiếu xạ.
+- 01 Bản sao Bản sao giấy chứng nhận kiểm định đối với các thiết bị chiếu xạ sử dụng trong y tế.
+- 01 Bản chính Báo cáo đánh giá an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec974ed7ad5821'">Mau 06_PL5_BC van hanh thiet bi BX.doc</a>)
+- 01 Bản sao Bản sao Biên bản kiểm xạ.
+- 01 Bản chính Kế hoạch ứng phó sự cố (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe59ae269f2a5f7'">PL02_NoidungKHUPSC.doc</a>)

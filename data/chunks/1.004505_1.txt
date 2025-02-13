@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc dùng cho mục đích thử lâm sàng, thử tương đương sinh học, đánh giá sinh khả dụng tại Việt Nam, làm mẫu kiểm nghiệm, nghiên cứu khoa học
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004505
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cấp phép nhập khẩu thuốc dùng cho mục đích thử lâm sàng, thử tương đương sinh học, đánh giá sinh khả dụng tại Việt Nam, làm mẫu kiểm nghiệm, nghiên cứu khoa học
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

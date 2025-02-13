@@ -1,0 +1,27 @@
+Tên thủ tục: Thủ tục cấp giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền:
+Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|09/2017/QH14|Luật 09/2017/QH14|19-06-2017|Quốc Hội|
+|06/2017/TT-BVHTTDL|Thông tư 06/2017/TT-BVHTTDL|15-12-2017|Bộ Văn hóa, Thể thao và Du lịch|
+|168/2017/NĐ-CP|Nghị định số 168/2017/NĐ-CP ngày 31/12/2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch|31-12-2017|Chính phủ|
+|33/2018/TT-BTC|Thông tu 33/2018/TT-BTC|30-03-2018|Văn phòng Thanh tra Chính Phủ|
+|13/2019/TT-BVHTTDL|SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 06/2017/TT-BVHTTDL NGÀY 15 THÁNG 12 NĂM 2017 CỦA BỘ TRƯỞNG BỘ VĂN HÓA, THỂ THAO VÀ DU LỊCH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT DU LỊCH|25-11-2019|Bộ Văn hóa, Thể thao và Du lịch|
+|35/2020/TT-BTC|Thông tư 35/2020/TT-BTC|05-05-2020||
+|94/2021/NĐ-CP|Nghị định 94/2021/NĐ-CP|28-10-2021||

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấm dứt hoạt động văn phòng điều hành của nhà đầu tư nước ngoài trong hợp đồng BCC (BQL)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 07 ngày làm việc kể từ ngày có quyết định chấm dứt hoạt động của văn phòng điều hành, nhà đầu tư nước ngoài gửi hồ sơ thông báo cho Ban Quản lý nơi đặt văn phòng điều hành. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ, Ban Quản lý quyết định thu hồi Giấy chứng nhận đăng ký hoạt động văn phòng điều hành.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính.|
+|Dịch vụ bưu chính|Trong thời hạn 07 ngày làm việc kể từ ngày có quyết định chấm dứt hoạt động của văn phòng điều hành, nhà đầu tư nước ngoài gửi hồ sơ thông báo cho Ban Quản lý nơi đặt văn phòng điều hành. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ, Ban Quản lý quyết định thu hồi Giấy chứng nhận đăng ký hoạt động văn phòng điều hành.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

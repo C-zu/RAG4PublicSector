@@ -1,0 +1,151 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000045
+Số quyết định:
+240/QĐ-BNN-LN
+Tên thủ tục:
+Xác nhận bảng kê lâm sản.
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lâm nghiệp
+Trình tự thực hiện:
+a) Bước 1: Nộp hồ sơ
+Chủ lâm sản hoặc tổ chức, cá nhân được chủ lâm sản ủy quyền nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ tương ứng với từng loại lâm sản đề nghị xác nhận đến Cơ quan Kiểm lâm cấp huyện hoặc Cơ quan Kiểm lâm cấp tỉnh ở những địa phương không có Cơ quan Kiểm lâm cấp huyện (Cơ quan kiểm lâm sở tại).
+Trường hợp chủ lâm sản tạo mã phản hồi nhanh (QR) chứa đựng hồ sơ lâm sản trong Bảng kê lâm sản thì không phải nộp hồ sơ quy định tại các điểm c, d, đ, e và g khoản 7 Điều 5 Thông tư số 26/2022/TT-BNNPTNT. 
+Trường hợp nộp hồ sơ qua môi trường điện tử thực hiện theo quy định tại Nghị định số 45/2020/NĐ-CP.
+b) Bước 2: Tiếp nhận hồ sơ
+Trường hợp nộp hồ sơ trực tiếp: Cơ quan Kiểm lâm sở tại kiểm tra thành phần hồ sơ và trả lời ngay tính hợp lệ của thành phần hồ sơ cho chủ lâm sản hoặc tổ chức, cá nhân được chủ lâm sản ủy quyền.
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường điện tử: Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, Cơ quan Kiểm lâm sở tại xem xét tính hợp lệ của thành phần hồ sơ; trường hợp hồ sơ không hợp lệ theo quy định, thông báo bằng văn bản và nêu rõ lý do.
+c) Bước 3: Thẩm định và trả kết quả
+Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan Kiểm lâm sở tại xác nhận Bảng kê lâm sản; xác nhận lâm sản tồn trong Sổ theo dõi nhập, xuất lâm sản đối với trường hợp tổ chức, hộ kinh doanh; xác nhận Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp.
+Trường hợp cần xác minh nguồn gốc lâm sản, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan Kiểm lâm sở tại thông báo cho chủ lâm sản về việc xác minh; trong thời hạn 03 ngày làm việc kể từ ngày thông báo, Cơ quan Kiểm lâm sở tại tiến hành xác minh, lập Biên bản xác minh theo Mẫu số 08 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT và hoàn thành xác nhận Bảng kê lâm sản; xác nhận lâm sản tồn vào Sổ theo dõi nhập, xuất lâm sản đối với tổ chức, hộ kinh doanh; trường hợp có nhiều nội dung phức tạp, việc xác minh và xác nhận được thực hiện không quá 07 ngày. Trường hợp không xác nhận thì trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||- Trường hợp không phải xác minh: 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tiếp|04 Ngày làm việc||- Trường hợp phải xác minh: 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tiếp|08 Ngày làm việc||- Trường hợp xác minh có nhiều nội dung phức tạp: Không quá 08 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|02 Ngày làm việc||- Trường hợp không phải xác minh: 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|04 Ngày làm việc||- Trường hợp phải xác minh: 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|08 Ngày làm việc||- Trường hợp xác minh có nhiều nội dung phức tạp: Không quá 08 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|02 Ngày làm việc||- Trường hợp không phải xác minh: 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|04 Ngày làm việc||- Trường hợp phải xác minh: 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|08 Ngày làm việc||- Trường hợp xác minh có nhiều nội dung phức tạp: Không quá 08 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+3.3.1. Hồ sơ xác nhận đối với gỗ loài thông thường khai thác tận dụng, tận thu từ rừng tự nhiên
+ 3.3.1.1. Trường hợp khai thác tận dụng gỗ loài thực vật rừng thông thường từ rừng tự nhiên
+ * Đối với khai thác trong phạm vi giải phóng mặt bằng:
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;.. ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd963a7ddc9d3cc'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản tương ứng với từng loại lâm sản đề nghị xác nhận theo Mẫu số 01 hoặc Mẫu số 03 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 01. Bảng kê lâm sản áp dụng với gỗ tròn, gỗ xẻ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb43b1b1b69174') [Mẫu số 03. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3d4bcbad840f4'))
+- 01 Bản sao c) Bản sao Phương án khai thác tận dụng gỗ loài thực vật rừng thông thường từ rừng tự nhiên được phê duyệt...
+
+
+3.3.1.1. Trường hợp khai thác tận dụng gỗ loài thực vật rừng thông thường từ rừng tự nhiên
+ * Đối với khai thác trong quá trình thực hiện điều chỉnh tổ thành rừng, nuôi dưỡng rừng và áp dụng biện pháp lâm sinh khác:
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7abb26cbeea93'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản theo Mẫu số 01 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 01. Bảng kê lâm sản áp dụng với gỗ tròn, gỗ xẻ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc16e00343e1cd0'))
+- 01 Bản sao c) Bản sao quyết định phê duyệt dự án lâm sinh hoặc bản sao tài liệu chứng minh việc thực hiện các biện pháp lâm sinh;...
+- 01 Bản sao d) Bản sao Phương án khai thác tận dụng gỗ loài thông thường từ rừng tự nhiên được phê duyệt....
+
+
+3.3.1.2. Trường hợp khai thác tận thu gỗ loài thực vật rừng thông thường từ rừng tự nhiên
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedfde5864fa1f0'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản theo Mẫu số 01 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 01. Bảng kê lâm sản áp dụng với gỗ tròn, gỗ xẻ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcffc33e33d8b14'))
+- 01 Bản sao c) Bản sao Phương án khai thác tận dụng gỗ loài thực vật rừng thông thường từ rừng tự nhiên được phê duyệt....
+
+
+3.3.2. Hồ sơ xác nhận đối với lâm sản sau xử lý tịch thu
+ 3.3.2.1. Đối với gỗ sau xử lý tịch thu
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa2f10f983b9210'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản tương ứng với từng loại lâm sản đề nghị xác nhận theo Mẫu số 01, Mẫu số 02 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 01. Bảng kê lâm sản áp dụng với gỗ tròn, gỗ xẻ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbb4d9f81b74d58') [Mẫu số 02. Bảng kê lâm sản đối với sản phẩm gỗ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac88bf39bbefd0'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT; ... ([Mẫu số 07.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe47f7d6efd5abb'))
+- 01 Bản sao d) Bản sao Bảng kê lâm sản do Cơ quan Kiểm lâm được giao xử lý tài sản lập hoặc Bản sao Bảng kê lâm sản do cơ quan được giao xử lý tài sản lập có xác nhận của Cơ quan Kiểm lâm sở tại....
+
+
+3.3.2.2. Đối với lâm sản sau xử lý tịch thu không thuộc trường hợp quy định tại khoản 1 Điều 17 Thông tư số 26/2022/TT-BNNPTNT
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe26890f93400ed'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản tương ứng với từng loại lâm sản đề nghị xác nhận theo Mẫu số 02, Mẫu số 03 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT, Mẫu số 04 tại Phụ lục III ban hành kèm theo Thông tư số 22/2023/TT-BNNPTNT;... ([Mẫu số 02. Bảng kê lâm sản đối với sản phẩm gỗ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd24d00c34b44c0') [Mẫu số 03. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf78c3a10312c8'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 07.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe436c6653f564b'))
+- 01 Bản sao d) Bản sao Bảng kê lâm sản do cơ quan được giao xử lý tài sản lập....
+
+
+3.3.3. Hồ sơ xác nhận đối với gỗ, thực vật ngoài gỗ có nguồn gốc từ tự nhiên, nhập khẩu hoặc trồng cấy thuộc Danh mục thực vật rừng, động vật rừng nguy cấp, quý, hiếm hoặc Phụ lục CITES
+ 3.3.3.1. Đối với gỗ có nguồn gốc từ tự nhiên, nhập khẩu thuộc Danh mục thực vật rừng, động vật rừng nguy cấp, quý, hiếm hoặc Phụ lục CITES
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;.. ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0ccd11cd1fbc8'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản tương ứng với từng loại lâm sản đề nghị xác nhận theo Mẫu số 01, Mẫu số 02 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 01. Bảng kê lâm sản áp dụng với gỗ tròn, gỗ xẻ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3f2e00a4e16a8') [Mẫu số 02. Bảng kê lâm sản đối với sản phẩm gỗ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde786a0b739982'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 07.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0fbc847e6e9e3'))
+- 01 Bản sao d) Bản sao bảng kê gỗ nhập khẩu theo Mẫu số 01 hoặc Mẫu số 02 Phụ lục I ban hành kèm theo Nghị định số 102/2020/NĐ-CP ngày 01 tháng 9 năm 2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (sau đây viết tắt là Nghị định số 102/2020/NĐ-CP).... ([Mẫu số 01. NĐ102.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbdd2865735ad40') [Mẫu số 02.NĐ102.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fad81d16bd3f940'))
+- 01 Bản sao đ) Một trong các tài liệu sau: + Trường hợp gỗ thuộc Phụ lục CITES: Bản sao giấy phép CITES xuất khẩu hoặc tái xuất khẩu do Cơ quan thẩm quyền quản lý CITES nước xuất khẩu hoặc nước tái xuất khẩu cấp; Bản sao giấy phép CITES nhập khẩu do Cơ quan thẩm quyền quản lý CITES Việt Nam cấp; + Trường hợp gỗ nhập khẩu từ quốc gia đã ký kết Hiệp định gỗ hợp pháp với EU và đang vận hành hệ thống cấp phép FLEGT: Bản sao giấy phép FLEGT xuất khẩu do cơ quan có thẩm quyền nước xuất khẩu cấp; + Trường hợp lô hàng gỗ nhập khẩu không thuộc quy định tại điểm a hoặc điểm b khoản 2 Điều 7 Nghị định số 102/2020/NĐ-CP: Bảng kê khai nguồn gốc gỗ nhập khẩu theo Mẫu số 03 Phụ lục I ban hành kèm theo Nghị định số 102/2020/NĐ-CP. ([Mẫu số 03.NĐ102.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6504d8a059b8c'))
+
+
+3.3.3.2. Đối với lâm sản ngoài gỗ có nguồn gốc từ tự nhiên, nhập khẩu thuộc Danh mục thực vật rừng, động vật rừng nguy cấp, quý, hiếm hoặc Phụ lục CITES
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0da0ebf5629ea'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản tương ứng với từng loại lâm sản đề nghị xác nhận theo Mẫu số 03 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT, Mẫu số 04 tại Phụ lục III ban hành kèm theo Thông tư số 22/2023/TT-BNNPTNT;... ([Mẫu số 03. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0c757365130f0') [Mẫu số 04. PLIII. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec8ca18e52895c'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 07.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdee2dd4cef3484'))
+- 01 Bản sao d) Đối với loài thuộc Phụ lục CITES: Bản sao tờ khai hải quan theo quy định pháp luật; bản sao hoặc bản điện tử giấy phép CITES nhập khẩu theo Phụ lục III ban hành kèm theo Nghị định số 84/2021/NĐ-CP ngày 22/9/2021 của Chính phủ sửa đổi, bổ sung Nghị định số 06/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp (Nghị định số 84/2021/NĐ-CP);...
+- 01 Bản sao đ) Đối với loài không thuộc Phụ lục CITES: Bản sao tờ khai hải quan theo quy định pháp luật; bản sao Bảng kê lâm sản do chủ lâm sản lập hoặc bản sao packing-list/log-list do tổ chức, cá nhân lập theo quy định của nước xuất khẩu....
+
+
+3.3.4. Hồ sơ xác nhận đối với động vật rừng và bộ phận, dẫn xuất, sản phẩm của động vật rừng có nguồn gốc từ tự nhiên, nhập khẩu hoặc gây nuôi; động vật hoang dã nguy cấp thuộc Phụ lục CITES, trừ loài thủy sản
+ 3.3.4.1. Đối với khai thác động vật rừng thông thường, bộ phận, dẫn xuất của động vật rừng thông thường từ tự nhiên
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8017b5d09ab2c'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản theo Mẫu số 04 tại Phụ lục III ban hành kèm theo Thông tư số 22/2023/TT-BNNPTNT;... ([Mẫu số 04. PLIII. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc31991aa8467b8'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp;...
+- 01 Bản sao d) Bản sao Phương án khai thác động vật rừng thông thường từ tự nhiên theo Mẫu số 12 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT.... ([Mẫu số 12.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdad0e0e9963622'))
+
+
+3.3.4.2. Đối với mua bán, chuyển giao quyền sở hữu, vận chuyển trong nước đối với bộ phận, dẫn xuất, sản phẩm của động vật rừng có nguồn gốc từ tự nhiên, nhập khẩu hoặc gây nuôi
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd9469b89fa75e'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản theo Mẫu số 04 tại Phụ lục ban hành kèm theo Thông tư số 22/2023/TT-BNNPTNT;... ([Mẫu số 04. PLIII. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5fc3825a60b54'))
+- 01 Bản chính c) Bản chính Bản chính Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp;...
+- 01 Bản sao d) Bản sao Bảng kê lâm sản có xác nhận của Cơ quan Kiểm lâm sở tại....
+
+
+3.3.4.3. Hồ sơ động vật rừng và bộ phận, dẫn xuất, sản phẩm của động vật rừng có nguồn gốc nhập khẩu; động vật hoang dã nguy cấp thuộc Phụ lục CITES, trừ loài thủy sản
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe40d4d1afe883b'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản theo Mẫu số 04 tại Phụ lục III ban hành kèm theo Thông tư số 22/2023/TT-BNNPTNT;... ([Mẫu số 04. PLIII. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5f2643b8e5e12'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp;...
+- 01 Bản chính d) Đối với loài thuộc Phụ lục CITES: Tờ khai hải quan theo quy định pháp luật; bản chính hoặc bản sao hoặc bản điện tử giấy phép CITES nhập khẩu;...
+- 01 Bản chính đ) Đối với loài không thuộc Phụ lục CITES: Tờ khai hải quan theo quy định pháp luật; bản chính Bảng kê lâm sản do chủ lâm sản lập hoặc packing-list/log-list do tổ chức, cá nhân lập theo quy định của nước xuất khẩu.
+
+
+3.3.5. Hồ sơ lâm sản không thuộc các trường hợp quy định tại các điểm a, b, c và d khoản 3 Điều 5
+- 01 Bản chính a) Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 06 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT;... ([Mẫu số 06.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f7b317b5283e'))
+- 01 Bản chính b) Bản chính Bảng kê lâm sản tương ứng với từng loại lâm sản đề nghị xác nhận theo Mẫu số 01, Mẫu số 02, Mẫu số 03 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT, Mẫu số 04 tại Phụ lục III ban hành kèm theo Thông tư số 22/2023/TT-BNNPTNT;... ([Mẫu số 01. Bảng kê lâm sản áp dụng với gỗ tròn, gỗ xẻ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed132ed6fb7d62') [Mẫu số 02. Bảng kê lâm sản đối với sản phẩm gỗ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6cc07a07aeb8f') [Mẫu số 03. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe309e1484ec934') [Mẫu số 04. PLIII. Bảng kê lâm sản.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecf8ceb0ed107b'))
+- 01 Bản chính c) Bản chính Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT; Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp;... ([Mẫu số 07.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf7a7490c8cd3c'))
+- 01 Bản sao d) Bản sao hồ sơ nguồn gốc lâm sản đối với trường hợp xác nhận theo đề nghị của tổ chức, cá nhân quy định tại điểm đ khoản 3 Điều 5 Thông tư số 26/2022/TT-BNNPTN....
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Kiểm lâm
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận Bảng kê lâm sản; xác nhận lâm sản tồn trong Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh xuất bản lâm sản; xác nhận Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2019/NĐ-CP|Nghị định 06/2019/NĐ-CP|22-01-2019|Chính phủ|
+|102/2020/NĐ-CP|Nghị định 102/2020/NĐ-CP|01-09-2020||
+|84/2021/NĐ-CP|84/2021/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 06/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp|22-09-2021|Chính phủ|
+|26/2022/TT-BNNPTNT|Thông tư 26/2022/TT-BNNPTNT|30-12-2022||
+|22/2023/TT-BNNPTNT|Thông tư số 22/2023/TT-BNNPTNT ngày 15/11/2023 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực lâm nghiệp|15-11-2023|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

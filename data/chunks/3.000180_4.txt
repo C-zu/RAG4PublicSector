@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy phép xuất khẩu, nhập khẩu giống cây trồng lâm nghiệp do bị mất, bị hỏng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy phép xuất khẩu/ nhập khẩu giống cây trồng lâm nghiệp theo Mẫu số 06/LN Phụ lục II ban hành kèm theo Nghị định số 27/2021/NĐ-CP ngày 25 tháng 3 năm 2021 của Chính phủ về quản lý giống cây trồng lâm nghiệp. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd360f3fc6b5024'">Mẫu số 06.LN.doc</a>)

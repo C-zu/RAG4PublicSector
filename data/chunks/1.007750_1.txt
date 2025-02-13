@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007750
+Số quyết định:
+837/QĐ-BXD
+Tên thủ tục:
+Thủ tục thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nhà ở và công sở

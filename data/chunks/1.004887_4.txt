@@ -1,0 +1,12 @@
+Tên thủ tục: Công nhận chính thức giống cây trồng mới
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị công nhận giống cây trồng mới tại Phụ lục 5 ban hành kèm theo Quyết định số 95/2007/QĐ-BNNPTNT ngày 27/11/2007 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5e286c0e59b7c'">Phụ lục 5 QĐ 95.docx</a>)
+- 01 Bản chính Báo cáo kết quả sản xuất thử
+- 01 Bản chính Quy trình kỹ thuật trồng trọt của giống đề nghị công nhận
+- 01 Bản chính Báo cáo kết quả khảo nghiệm DUS (bắt buộc đối với cây trồng chính)
+- 01 Bản chính Biên bản họp của Hội đồng khoa học cơ sở đề nghị công nhận chính thức
+- 01 Bản chính Ý kiến đánh giá giống bằng văn bản của địa phương, nơi sản xuất thử

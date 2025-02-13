@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục thuê kho bên ngoài Doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của Doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện về kho:
++ Có tường rào cứng bao quanh, ngăn cách với khu vực bên ngoài;
++ Có camera giám sát liên tục tại cửa ra, vào và cơ quan hải quan được quyền tra cứu được hình ảnh khi cần thiết.
+Điều kiện về kho:
++ Có tường rào cứng bao quanh, ngăn cách với khu vực bên ngoài;
++ Có camera giám sát liên tục tại cửa ra, vào và cơ quan hải quan được quyền tra cứu được hình ảnh khi cần thiết.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

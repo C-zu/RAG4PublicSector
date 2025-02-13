@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung quảng cáo dịch vụ khám bệnh, chữa bệnh thuộc thẩm quyền của Sở Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 1.000.000 Đồng|10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo dấu tiếp nhận công văn đến của cơ quan tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 1.000.000 Đồng|10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo dấu tiếp nhận công văn đến của cơ quan tiếp nhận hồ sơ|

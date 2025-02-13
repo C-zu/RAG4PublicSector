@@ -1,0 +1,16 @@
+Tên thủ tục: Bãi bỏ đường ngang
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000294
+Số quyết định:
+1427/QĐ-BGTVT
+Tên thủ tục:
+Bãi bỏ đường ngang
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt

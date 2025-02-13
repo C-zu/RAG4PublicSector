@@ -1,0 +1,6 @@
+Tên thủ tục: Hoàn thuế theo Hiệp định tránh đánh thuế hai lần
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Người nộp thuế (NNT) chuẩn bị hồ sơ và đến nộp cho cơ quan thuế (bộ phận hỗ trợ NNT) hoặc gửi qua bưu điện. Trường hợp không biết thủ tục về hoàn thuế, NNT đề nghị cơ quan thuế (bộ phận hỗ trợ NNT)
+CQT tiếp nhận, đóng dấu tiếp nhận, kiểm tra tính đầy đủ của hồ sơ; vào sổ theo dõi, lưu trữ và viết phiếu hẹn trả cho NNT nếu NNT nộp trực tiếp tại CQT. Trường hợp hồ sơ hoàn thuế chưa đầy đủ, trong thời hạn 3 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan quản lý thuế phải thông báo cho NNT để hoàn chỉnh hồ sơ

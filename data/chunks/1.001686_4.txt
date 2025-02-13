@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản thuyết minh chi tiết về cơ sở vật chất, kỹ thuật buôn bán, nhập khẩu thuốc thú y theo mẫu quy định tại Phụ lục XXII ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9931aa940da64'">XXII TT13.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký);
+- 01 Bản sao - Chứng chỉ hành nghề thú y đối với người quản lý, người trực tiếp buôn bán thuốc thú y (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký).
+- 01 Bản chính - Đơn đăng ký cấp, gia hạn giấy chứng nhận đủ điều kiện buôn bán, nhập khẩu thuốc thú y theo mẫu quy định tại Phụ lục XX ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab71127ce61a60'">Phụ lục XX Thông tư số 13.2016.TT-BNNPTNT.docx</a>)

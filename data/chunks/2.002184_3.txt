@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai bổ sung hồ sơ hải quan
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|02 Giờ||Trong thời hạn 02 giờ làm việc kể từ thời điểm tiếp nhận đủ hồ sơ khai bổ sung, công chức hải quan hoàn thành việc kiểm tra hồ sơ khai bổ sung, thời gian kiểm tra thực tế hàng hoá (nếu có) thực hiện theo quy đingh tại khoản 2 Điều 23 Luật Hải quan và thông báo kết quả kiểm tra thông qua Hệ thống, trường hợp không chấp nhận nội dung khai bổ sung thì phải nêu rõ lý do từ chối|

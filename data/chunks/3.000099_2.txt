@@ -1,0 +1,7 @@
+Tên thủ tục: Thay đổi chủ thể hợp đồng mua bán điện
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Khảo sát
+Ký Biên bản chấm dứt HĐMBĐ cũ và Hợp đồng mua bán điện mới

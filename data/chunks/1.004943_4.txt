@@ -1,0 +1,8 @@
+Tên thủ tục: Công nhận kết quả khảo nghiệm giống thủy sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao a) Đơn đăng ký theo Mẫu số 07.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2d0b7bb363f6a'">Mẫu 07-Phụ lục III.docx</a>)
+- 01 Bản chính, 01 Bản sao b) Bản chính đề cương khảo nghiệm theo Mẫu số 08.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5be5c3641665c'">Mẫu 08-Phụ lục III.docx</a>)

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng trên 10m3/ngày đêm đến dưới 20m3/ngày đêm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|36 Ngày làm việc||- 36ngày làm việc, kể từ ngày nhận hồ sơ Cách thức thực hiện: - Nộp hồ sơ: Nộp trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc nộp hồ sơ thông qua dịch vụ bưu chính công ích (Chú ý: Phải đảm bảo thành phần, nội dung hồ sơ đúng theo quy định). - Trả kết quả giải quyết: Kết quả được trả trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc trả gián tiếp thông qua dịch vụ bưu chính công ích cho cá nhân khi có yêu cầu.|
+|Trực tuyến|36 Ngày làm việc||T- 36ngày làm việc, kể từ ngày nhận hồ sơ Cách thức thực hiện: - Nộp hồ sơ: Nộp trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc nộp hồ sơ thông qua dịch vụ bưu chính công ích (Chú ý: Phải đảm bảo thành phần, nội dung hồ sơ đúng theo quy định). - Trả kết quả giải quyết: Kết quả được trả trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc trả gián tiếp thông qua dịch vụ bưu chính công ích cho cá nhân khi có yêu cầu.|
+|Dịch vụ bưu chính|36 Ngày làm việc||- 36ngày làm việc, kể từ ngày nhận hồ sơ Cách thức thực hiện: - Nộp hồ sơ: Nộp trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc nộp hồ sơ thông qua dịch vụ bưu chính công ích (Chú ý: Phải đảm bảo thành phần, nội dung hồ sơ đúng theo quy định). - Trả kết quả giải quyết: Kết quả được trả trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc trả gián tiếp thông qua dịch vụ bưu chính công ích cho cá nhân khi có yêu cầu.|

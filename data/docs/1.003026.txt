@@ -1,0 +1,104 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003026
+Số quyết định:
+4014/QĐ-BNN-TY
+Tên thủ tục:
+Gia hạn Giấy chứng nhận thực hành tốt sản xuất thuốc thú y (GMP)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thú y
+Trình tự thực hiện:
+Bước 1: Trước 03 tháng tính đến ngày hết hạn của Giấy chứng nhận GMP; tổ chức, cá nhân có nhu cầu tiếp tục sản xuất thuốc thú y nộp đơn đăng ký gia hạn Giấy chứng nhận tới Cục Thú y theo một trong các hình thức: trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp.
+Bước 2: Trong thời hạn 10 ngày kể từ ngày tiếp nhận hồ sơ đăng ký, Cục Thú y thẩm định hồ sơ, yêu cầu sửa đổi, bổ sung nếu hồ sơ không đạt
+Bước 3: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Thú y ra quyết định thành lập Đoàn kiểm tra GMP, đồng thời thông báo lịch kiểm tra cho cơ sở và tiến hành kiểm tra
+Bước 4: Trong thời hạn 10 ngày kể từ ngày kết thúc kiểm tra, nếu cơ sở đạt yêu cầu Cục Thú y cấp Giấy chứng nhận GMP, nếu cơ sở không đạt yêu cầu phải trả lời bằng văn bản và nêu rõ lý do không đạt.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày làm việc|Phí : Thẩm định, chứng nhận thực hành tốt sản xuất thuốc thú y, thuốc thú y thủy sản (GMP): 18.000.000đ/lần|- Thẩm định hồ sơ, yêu cầu sửa đổi, bổ sung nếu hồ sơ không đạt yêu cầu:10 ngày làm việc kể từ ngày tiếp nhận hồ sơ đăng ký; - Cấp giấy chứng nhận: 40 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|40 Ngày làm việc|Phí : Thẩm định, chứng nhận thực hành tốt sản xuất thuốc thú y, thuốc thú y thủy sản (GMP): 18.000.000đ/lần|- Thẩm định hồ sơ, yêu cầu sửa đổi, bổ sung nếu hồ sơ không đạt yêu cầu:10 ngày làm việc kể từ ngày tiếp nhận hồ sơ đăng ký; - Cấp giấy chứng nhận: 40 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|40 Ngày làm việc|Phí : Thẩm định, chứng nhận thực hành tốt sản xuất thuốc thú y, thuốc thú y thủy sản (GMP): 18.000.000đ/lần|- Thẩm định hồ sơ, yêu cầu sửa đổi, bổ sung nếu hồ sơ không đạt yêu cầu:10 ngày làm việc kể từ ngày tiếp nhận hồ sơ đăng ký; - Cấp giấy chứng nhận: 40 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký tái kiểm tra GMP theo phụ lục XXVIII Thông tư số 13/2022/TT-BNNPTNT; ([PHỤ LỤC XXVIII.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc879244990f118'))
+- 01 Bản chính - Báo cáo hoạt động, những thay đổi của cơ sở trong 05 năm triển khai GMP; mô tả thông tin cơ sở đã có biện pháp bảo vệ môi trường theo quy định của pháp luật;
+- 01 Bản chính - Báo cáo khắc phục các tồn tại trong kiểm tra lần trước;
+- 01 Bản chính - Báo cáo về huấn luyện, đào tạo của cơ sở;
+- 01 Bản chính - Danh mục thiết bị hiện có của cơ sở;
+- 01 Bản chính - Danh mục các mặt hàng đang sản xuất;
+- 01 Bản chính - Danh mục các quy trình thao tác chuẩn;
+- 01 Bản chính - Biên bản tự thanh tra và đánh giá của cơ sở trong đợt tự thanh tra gần nhất (trong vòng 03 tháng) về triển khai GMP.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Thú y - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thú y, số 15, ngõ 78, đường Giải Phóng, Phương Mai, Đống Đa, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận GMP
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 79/2015/QH13|Luật Thú y|19-06-2015|Quốc Hội|
+|18/2018/TT-BNNPTNT|Sửa đổi, bổ sung, bãi bỏ một số điều của thông tư số 13/2016/TT-BNNPTNT ngày 02/6/2016 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về quản lý thuốc thú y|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|13/2016/TT-BNNPTNT|Quy định về quản lý thuốc thú y|02-06-2016|Bộ Nông nghiệp và Phát triển nông thôn|
+|35/2016/NĐ-CP|Quy định chi tiết một số điều của Luật thú y|15-05-2016|Chính phủ|
+|101/2020/TT-BTC|Thông tư 101/2020/TT-BTC|23-11-2020||
+|13/2022/TT-BNNPTNT|Thông tư 13/2022/TT-BNNPTNT|28-09-2022||
+|80/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của Nghị định số 35/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật Thú y.|13-10-2022|Chính phủ|
+|123/2018/NĐ-CP|Nghị định 123/2018/NĐ-CP|17-09-2018||
+
+Yêu cầu, điều kiện thực hiện:
+(1) Địa điểm:
+- Phải có khoảng cách an toàn với khu dân cư, công trình công cộng, bệnh viện, bệnh xá thú y, cơ sở chẩn đoán bệnh động vật, các nguồn gây ô nhiễm khác;
+(2) Nhà xưởng:
+- Phải có thiết kế phù hợp với quy mô và loại thuốc sản xuất, tránh sự xâm nhập của các loại côn trùng và động vật khác; có vị trí ngăn cách các nguồn lây nhiễm từ bên ngoài;
+- Nền nhà không ngấm nước, dễ vệ sinh, khử trùng, tiêu độc; tường trần được làm bằng vật liệu bền, chắc, dễ vệ sinh;
+- Có hệ thống cấp và xử lý nước, khí bảo đảm cho sản xuất; có hệ thống thoát nước, xử lý nước, khí tải, chất thải bảo đảm 
+(3) Kho chứa đựng nguyên liệu, phụ liệu, thuốc thành phẩm có diện tích phù hợp với quy mô sản xuất và bảo đảm các điều kiện sau đây:
+- Có kho riêng để bảo quản nguyên liệu, phụ liệu, thuốc thành phẩm;
+- Có kho riêng bên ngoài để bảo quản dung môi và nguyên liệu dễ cháy nổ; tránh sự xâm nhập của các loại côn trùng và động vật khác;
+- Nền, tường, trần không ngấm nước, dễ vệ sinh, khử trùng, tiêu độc; tường trần được làm bằng vật liệu bền, chắc, dễ vệ sinh;
+- Có giá, kệ để nguyên liệu, phụ liệu, bao bì, thuốc thành phẩm; có thiết bị, phương tiện để bảo đảm Điều kiện bảo quản.
+(4) Trang thiết bị, dụng cụ phải được bố trí, lắp đặt phù hợp với quy mô và loại thuốc sản xuất; có hướng dẫn vận hành; có kế hoạch bảo trì bảo dưỡng; có quy trình vệ sinh và bảo đảm đạt yêu cầu vệ sinh, không gây nhiễm hoặc nhiễm chéo giữa các sản phẩm.
+(5) Kiểm tra chất lượng thuốc thú y:
+- Khu vực kiểm tra chất lượng phải tách biệt với khu vực sản xuất; được bố trí phù hợp để tránh nhiễm chéo; các khu vực tiến hành phép thử sinh học, vi sinh;
+- Mẫu, chất chuẩn phải được bảo quản tại khu vực riêng, bảo đảm Điều kiện bảo quản;
+- Phải có đủ trang thiết bị phù hợp.
+(6) Người trực tiếp quản lý sản xuất, kiểm nghiệm thuốc thú y phải có Chứng chỉ hành nghề thú y về sản xuất, kiểm nghiệm thuốc thú y.
+(7) Người trực tiếp sản xuất thuốc thú y phải được tập huấn, bồi dưỡng về chuyên môn phù hợp.
+(1) Địa điểm:
+- Phải có khoảng cách an toàn với khu dân cư, công trình công cộng, bệnh viện, bệnh xá thú y, cơ sở chẩn đoán bệnh động vật, các nguồn gây ô nhiễm khác;
+(2) Nhà xưởng:
+- Phải có thiết kế phù hợp với quy mô và loại thuốc sản xuất, tránh sự xâm nhập của các loại côn trùng và động vật khác; có vị trí ngăn cách các nguồn lây nhiễm từ bên ngoài;
+- Nền nhà không ngấm nước, dễ vệ sinh, khử trùng, tiêu độc; tường trần được làm bằng vật liệu bền, chắc, dễ vệ sinh;
+- Có hệ thống cấp và xử lý nước, khí bảo đảm cho sản xuất; có hệ thống thoát nước, xử lý nước, khí tải, chất thải bảo đảm 
+(3) Kho chứa đựng nguyên liệu, phụ liệu, thuốc thành phẩm có diện tích phù hợp với quy mô sản xuất và bảo đảm các điều kiện sau đây:
+- Có kho riêng để bảo quản nguyên liệu, phụ liệu, thuốc thành phẩm;
+- Có kho riêng bên ngoài để bảo quản dung môi và nguyên liệu dễ cháy nổ; tránh sự xâm nhập của các loại côn trùng và động vật khác;
+- Nền, tường, trần không ngấm nước, dễ vệ sinh, khử trùng, tiêu độc; tường trần được làm bằng vật liệu bền, chắc, dễ vệ sinh;
+- Có giá, kệ để nguyên liệu, phụ liệu, bao bì, thuốc thành phẩm; có thiết bị, phương tiện để bảo đảm Điều kiện bảo quản.
+(4) Trang thiết bị, dụng cụ phải được bố trí, lắp đặt phù hợp với quy mô và loại thuốc sản xuất; có hướng dẫn vận hành; có kế hoạch bảo trì bảo dưỡng; có quy trình vệ sinh và bảo đảm đạt yêu cầu vệ sinh, không gây nhiễm hoặc nhiễm chéo giữa các sản phẩm.
+(5) Kiểm tra chất lượng thuốc thú y:
+- Khu vực kiểm tra chất lượng phải tách biệt với khu vực sản xuất; được bố trí phù hợp để tránh nhiễm chéo; các khu vực tiến hành phép thử sinh học, vi sinh;
+- Mẫu, chất chuẩn phải được bảo quản tại khu vực riêng, bảo đảm Điều kiện bảo quản;
+- Phải có đủ trang thiết bị phù hợp.
+(6) Người trực tiếp quản lý sản xuất, kiểm nghiệm thuốc thú y phải có Chứng chỉ hành nghề thú y về sản xuất, kiểm nghiệm thuốc thú y.
+(7) Người trực tiếp sản xuất thuốc thú y phải được tập huấn, bồi dưỡng về chuyên môn phù hợp.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

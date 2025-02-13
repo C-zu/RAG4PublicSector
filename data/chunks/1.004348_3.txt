@@ -1,0 +1,8 @@
+Tên thủ tục: Chấp thuận bổ nhiệm tổng giám đốc (giám đốc), tổng biên tập nhà xuất bản
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 0 Đồng Không có|Nộp trực tiếp tại Bộ Thông tin và Truyền thông|
+|Dịch vụ bưu chính|15 Ngày|Phí : 0 Đồng Không có|Nộp qua hệ thống bưu chính (Địa chỉ Bộ Thông tin và Truyền thông: Số 18 phố Nguyễn Du, phường Nguyễn Du, quận Hoàn Kiếm, thành phố Hà Nội).|

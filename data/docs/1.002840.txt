@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002840
+Số quyết định:
+229/QĐ-BGTVT
+Tên thủ tục:
+Cấp bổ sung năng định Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không
+Trình tự thực hiện:
+a) Nộp hồ sơ thủ tục hành chính:
+Tổ chức đề nghị cấp bổ sung năng định giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay gửi 01 bộ hồ sơ trực tiếp hoặc qua đường bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức phù hợp khác đến Cục Hàng không Việt Nam.
+b) Giải quyết thủ tục hành chính:
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định hồ sơ, quyết định cấp bổ sung năng định và gửi kết quả trực tiếp hoặc qua đường bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức phù hợp khác đến tổ chức đề nghị; trường hợp từ chối cấp phải thông báo bằng văn bản, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 400.000 đồng/năng định|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 400.000đồng/năng định|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 4000.000 đồng/năng định|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp bổ sung năng định kèm danh sách nhân viên được đề nghị; ([1.002840_năng định.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa20993b79b0580'))
+- 01 Bản sao - Bản sao giấy phép lái xe cơ giới đường bộ phù hợp (đối với trường hợp nhân viên điều khiển phương tiện) và 01 ảnh màu chân dung kích thước 3 cm x 4 cm (đối với trường hợp gửi trực tiếp hoặc qua đường bưu chính hoặc bằng các hình thức phù hợp khác) hoặc ảnh màu chân dung kích thước 3 cm x 4 cm được số hóa (đối với trường hợp gửi trên môi trường điện tử). Ảnh chụp không quá 06 tháng kể từ ngày chụp tính đến ngày nộp hồ sơ);
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Chứng chỉ chuyên môn theo quy định.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng không Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Năng định Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|05/2021/NĐ-CP|Nghị định 05/2021/NĐ-CP|25-01-2021||
+|64/2022/NĐ-CP|Nghị định 64/2022/NĐ-CP|15-09-2022||
+|20/2024/NĐ-CP|sửa đổi, bổ sung một số điều của Nghị định số 05/2021/NĐ-CP ngày 25 tháng 01 năm 2021 của Chính phủ về quản lý, khai thác cảng hàng không, sân bay và Nghị định số 64/2022/NĐ-CP ngày 15 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng không dân dụng.|23-02-2024||
+
+Yêu cầu, điều kiện thực hiện:
+Không yêu cầu
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

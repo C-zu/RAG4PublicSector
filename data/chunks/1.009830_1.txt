@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009830
+Số quyết định:
+546/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân

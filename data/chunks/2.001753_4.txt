@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép hoạt động in (cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động in (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd12d722e2716ee'">Mẫu số 01 Đơn đề nghị cấp giấy phép hoạt động in.pdf</a>)
+- 01 Bản chính Sơ yếu lý lịch của người đứng đầu cơ sở in theo mẫu quy định. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f97bbd229a7de20'">Mẫu số 03 Sơ yếu lý lịch của người đứng đầu cơ sở in.pdf</a>)
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu một trong các loại giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đầu tư, giấy chứng nhận đăng ký thuế, quyết định thành lập cơ sở in đối với cơ sở in sự nghiệp công lập.

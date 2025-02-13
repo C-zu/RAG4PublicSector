@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003314
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Cấp Giấy phép thành lập Sở giao dịch hàng hóa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Sở giao dịch hàng hóa
+Trình tự thực hiện:
+1. Thương nhân nộp hồ sơ đề nghị cấp Giấy phép thành lập Sở Giao dịch hàng hóa trực tiếp hoặc theo đường bưu điện  đến Bộ Công Thương
+2. Tiếp nhận hồ sơ và kiểm tra tính đầy đủ, hợp lệ: Trong thời hạn 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Bộ Công Thương tiếp nhận và kiểm tra tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ không đầy đủ, hợp lệ, Bộ Công Thương thông báo cho thương nhân sửa đổi, bổ sung hồ sơ. Trường hợp hồ sơ đầy đủ, hợp lệ, Bộ Công Thương tiến hành thẩm tra hồ sơ
+3. Thẩm tra hồ sơ: Sau khi nhận hồ sơ đầy đủ và hợp lệ, Bộ Công Thương tiến hành thẩm tra hồ sơ và ra quyết định cấp hoặc không cấp Giấy phép thành lập Sở Giao dịch hàng hóa trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ. Trong trường hợp từ chối cấp Giấy phép, Bộ Công Thương có văn bản nêu rõ lý do gửi Sở Giao dịch hàng hóa
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày làm việc|Lệ phí : 200000 Đồng Theo Thông tư 168/2016/TT-BTC ngày 26 tháng 10 năm 2016 của Bộ Tài chính|45 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|45 Ngày làm việc|Lệ phí : 200000 Đồng Theo Thông tư 168/2016/TT-BTC ngày 26 tháng 10 năm 2016 của Bộ Tài chính|45 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|45 Ngày làm việc|Lệ phí : 200000 Đồng Theo Thông tư 168/2016/TT-BTC ngày 26 tháng 10 năm 2016 của Bộ Tài chính|45 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương
+- 01 Bản chính Văn bản đề nghị thành lập Sở Giao dịch hàng hóa theo Mẫu số 01; ban hành kèm theo Nghị định số 51/2018/NĐ-CP ngày 09/4/2018 ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbe6dc80ffa1ce'))
+- 01 Bản chính Bản giải trình kinh tế kỹ thuật với các nội dung về mục tiêu, trụ sở hoạt động, cơ sở vật chất, hệ thống công nghệ thông tin kèm các tài liệu chứng minh
+- 01 Bản chính bản Dự thảo Điều lệ hoạt động của Sở Giao dịch hàng hóa với các nội dung theo quy định tại Điều 14 Nghị định 51/2018/NĐ-CP ngày 09 tháng 4 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 158/2006/NĐ-CP
+- 01 Bản chính Biên bản thông qua Dự thảo Điều lệ do người đại diện theo pháp luật của Sở Giao dịch hàng hóa ký
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Vụ Thị trường trong nước - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+54 Hai Bà Trưng, Quận Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép thành lập Sở Giao dịch hàng hóa
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|158/2006/NĐ-CP|Nghị định 158/2006/NĐ-CP|28-12-2006|Chính phủ|
+|51/2018/NĐ-CP|Nghị định 51/2018/NĐ-CP|09-04-2018|Chính phủ|
+|36/2005/QH11|LUẬT Thương mại|14-06-2005|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Là doanh nghiệp được thành lập theo quy định của Luật Doanh nghiệp đáp ứng các điều kiện sau:
+- Vốn điều lệ từ một trăm năm mươi (150) tỷ đồng trở lên;
+- Có hệ thống công nghệ thông tin đáp ứng các yêu cầu về giải pháp công nghệ và kỹ thuật trong hoạt động mua bán hàng hóa qua Sở Giao dịch hàng hóa, cụ thể:
++ Hệ thống máy chủ hoạt động ổn định và có tối thiểu một máy chủ dự phòng luôn ở trạng thái sẵn sàng trong trường hợp hệ thống chính xảy ra sự cố;
++ Hệ thống máy chủ đảm bảo sao lưu dữ liệu của các ứng dụng nghiệp vụ, dữ liệu giao dịch, đảm bảo khôi phục thông tin dữ liệu trong trường hợp phát sinh sự cố;
++ Phần mềm ứng dụng phải thực hiện các yêu cầu về quyền sở hữu trí tuệ theo quy định của pháp luật;
++ Hệ thống phần mềm phải có chức năng nhật ký thao tác để lưu vết mọi giao dịch hàng hóa, thanh toán, giao nhận trong quy trình nghiệp vụ tối thiểu trong thời gian 05 năm;
++ Hệ thống công nghệ thông tin đáp ứng quy chuẩn kỹ thuật về an toàn thông tin mạng, nếu có”.
+- Điều lệ hoạt động không trái với các quy định của 51/2018/NĐ-CP ngày 09 tháng 4 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 158/2006/NĐ-CP.
+Là doanh nghiệp được thành lập theo quy định của Luật Doanh nghiệp đáp ứng các điều kiện sau:
+- Vốn điều lệ từ một trăm năm mươi (150) tỷ đồng trở lên;
+- Có hệ thống công nghệ thông tin đáp ứng các yêu cầu về giải pháp công nghệ và kỹ thuật trong hoạt động mua bán hàng hóa qua Sở Giao dịch hàng hóa, cụ thể:
++ Hệ thống máy chủ hoạt động ổn định và có tối thiểu một máy chủ dự phòng luôn ở trạng thái sẵn sàng trong trường hợp hệ thống chính xảy ra sự cố;
++ Hệ thống máy chủ đảm bảo sao lưu dữ liệu của các ứng dụng nghiệp vụ, dữ liệu giao dịch, đảm bảo khôi phục thông tin dữ liệu trong trường hợp phát sinh sự cố;
++ Phần mềm ứng dụng phải thực hiện các yêu cầu về quyền sở hữu trí tuệ theo quy định của pháp luật;
++ Hệ thống phần mềm phải có chức năng nhật ký thao tác để lưu vết mọi giao dịch hàng hóa, thanh toán, giao nhận trong quy trình nghiệp vụ tối thiểu trong thời gian 05 năm;
++ Hệ thống công nghệ thông tin đáp ứng quy chuẩn kỹ thuật về an toàn thông tin mạng, nếu có”.
+- Điều lệ hoạt động không trái với các quy định của 51/2018/NĐ-CP ngày 09 tháng 4 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 158/2006/NĐ-CP.
+Từ khóa:
+Sở giao dịch hàng hóa
+Mô tả:
+Không có thông tin

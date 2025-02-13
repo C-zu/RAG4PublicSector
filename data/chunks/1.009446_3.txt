@@ -1,0 +1,12 @@
+Tên thủ tục: Công bố chuyển bến thủy nội địa thành cảng thủy nội địa trong trường hợp bến thủy nội địa có quy mô, thông số kỹ thuật phù hợp với cấp kỹ thuật cảng thủy nội địa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài: + Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Giao thông vận tải; + Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa;|
+|Trực tiếp|5 Ngày làm việc||Cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam hoặc Sở Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa.|
+|Trực tuyến|10 Ngày làm việc||- Cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài: + Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Giao thông vận tải; + Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa;|
+|Trực tuyến|5 Ngày làm việc||Cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam hoặc Sở Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài: + Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Giao thông vận tải; + Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa;|
+|Dịch vụ bưu chính|5 Ngày làm việc||Cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam hoặc Sở Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa.|

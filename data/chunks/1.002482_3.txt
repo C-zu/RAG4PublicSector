@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy đăng ký lưu hành vị thuốc cổ truyền
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|6 Tháng|Phí : 5.500.000 Đồng Phí thẩm định|06 tháng kể từ ngày nhận được hồ sơ hợp lệ|
+|Trực tuyến|6 Tháng|Phí : 5.500.000 Đồng|06 tháng kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|6 Tháng|Phí : 5.500.000 Đồng Phí thẩm định|06 tháng kể từ ngày nhận được hồ sơ hợp lệ|

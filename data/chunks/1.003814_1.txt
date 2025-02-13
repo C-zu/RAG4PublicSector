@@ -1,0 +1,16 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm nhập khẩu theo phương thức kiểm tra thông thường thuộc thẩm quyền quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003814
+Số quyết định:
+3177/QĐ-BNN-QLCL
+Tên thủ tục:
+Kiểm tra nhà nước về an toàn thực phẩm nhập khẩu theo phương thức kiểm tra thông thường thuộc thẩm quyền quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý chất lượng nông lâm sản và thủy sản

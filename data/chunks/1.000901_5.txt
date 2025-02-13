@@ -1,0 +1,25 @@
+Tên thủ tục: Thẩm duyệt thiết kế về phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Cơ quan có thẩm quyền:
+Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Địa chỉ tiếp nhận HS:
+Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy và đóng dấu “ĐÃ THẨM DUYỆT THIẾT KẾ VỀ PHÒNG CHÁY VÀ CHỮA CHÁY” vào các bản vẽ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|27/2001/QH10|Luật 27/2001/QH10 - Phòng cháy và chữa cháy|29-06-2001|Quốc Hội|
+|40/2013/QH13|Luật 40/2013/QH13 - Sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|22-11-2013|Quốc Hội|
+|79/2014/NĐ-CP|Nghị định 79/2014/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|31-07-2014|Chính phủ|
+|150/2014/TT-BTC|Thông tư 150/2014/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm duyệt thiết kế về phòng cháy và chữa cháy|10-10-2014|Bộ Tài chính|
+|66/2014/TT-BCA|Thông tư 66/2014/TT-BCA - Quy định chi tiết thi hành một số điều của Nghị định số 79/2014/NĐ-CP ngày 31/7/2014 quy định chi tiết thi hành một số điều của Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|16-12-2014|Bộ Công an|

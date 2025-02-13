@@ -1,0 +1,15 @@
+Tên thủ tục: Đăng ký, phê duyệt dự án JCM (TTHC cấp trung ương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bên tham gia dự án gửi hồ sơ đăng ký dự án cho Tổ thư ký qua thư điện tử để xem xét, đệ trình lên Ủy ban Hỗn hợp.
+Tổ thư ký cấp số tham chiếu cho dự án và thông báo việc tiếp nhận hồ sơ cùng số tham chiếu của dự án đến bên tham gia dự án.
+Hồ sơ đăng ký dự án và TPE dự kiến được đăng trên trang thông tin điện tử của JCM và lấy ý kiến công chúng.
+Sau thời hạn lấy ý kiến công chúng, Tổ thư ký tổng hợp ý kiến góp ý của công chúng về dự án và trình hồ sơ cùng ý kiến góp ý lên Ủy ban Hỗn hợp.
+Bên tham gia dự án gửi đơn đăng ký dự án bằng tiếng Việt và tiếng Anh đã được TPE thẩm định đạt yêu cầu dự án kèm theo báo cáo thẩm định của TPE đến Tổ thư ký qua thư điện tử.
+Sau khi nhận được hồ sơ đăng ký dự án kèm theo báo cáo thẩm định của TPE, Tổ thư ký thông báo qua thư điện tử cho bên tham gia dự án việc tiếp nhận hồ sơ và đăng thông tin liên quan về dự án trên trang thông tin điện tử của JCM.
+
+Tổ thư ký kiểm tra và thông báo cho bên tham gia dự án và TPE của dự án về tính hợp lệ và đầy đủ của hồ sơ qua thư điện tử. Trường hợp cần bổ sung thông tin, Tổ thư ký thông báo cho bên tham gia và TPE của dự án để gửi lại.
+
+Đối với hồ sơ hợp lệ và đầy đủ, Tổ thư ký trình Ủy ban Hỗn hợp xem xét và quyết định việc đăng ký dự án
+Sau khi nhận được hồ sơ đăng ký dự án từ Tổ thư ký, Ủy ban Hỗn hợp xem xét và ra quyết định phê duyệt hoặc không phê duyệt dự án kèm theo lý do.

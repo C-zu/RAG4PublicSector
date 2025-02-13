@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp hồ sơ đề nghị huấn luyện, kiểm tra, cấp giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp
+- 01 Bản sao 02 ảnh (cỡ 3×4 cm) của người đề nghị cấp lại Giấy chứng nhận
+- 01 Bản chính Giấy đề nghị huấn luyện, kiểm tra, cấp giấy chứng nhận huấn luyện kỹ thuật an toàn (Mẫu số 01 tại Phụ lục II) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9dfb67447d75f'">Mẫu số 01 (3).docx</a>)
+- 01 Bản chính Danh sách người đề nghị được huấn luyện, kiểm tra, cấp giấy chứng nhận huấn luyện kỹ thuật an toàn (Mẫu số 02 tại Phụ lục II) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe151afcf2a30ba'">Mẫu số 02 (3).docx</a>)
+- 01 Bản sao Tài liệu chứng minh đáp ứng các quy định về trình độ chuyên môn theo quy định tại Điều 4 Nghị định số 71/2018/NĐ-CP
+
+
+Trường hợp hồ sơ đề nghị kiểm tra, cấp giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp
+- 01 Bản sao 02 ảnh (cỡ 3×4 cm) của người đề nghị cấp lại Giấy chứng nhận
+- 01 Bản chính Giấy đề nghị kiểm tra, cấp giấy chứng nhận huấn luyện kỹ thuật an toàn (Mẫu số 01 tại Phụ lục II) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8cf714b7399cc'">Mẫu số 01 (4).docx</a>)
+- 01 Bản chính Danh sách người đề nghị được kiểm tra, cấp giấy chứng nhận huấn luyện kỹ thuật an toàn (Mẫu số 02 tại Phụ lục II) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b8305c7ddfa0'">Mẫu số 02 (4).docx</a>)
+- 01 Bản sao Tài liệu huấn luyện chi tiết phù hợp cho từng đối tượng theo quy định tại điểm a khoản 2 Điều 9 của Nghị định số 71/2018/NĐ-CP
+- 01 Bản sao Tài liệu chứng minh đáp ứng các quy định về trình độ chuyên môn theo quy định tại Điều 4 Nghị định số 71/2018/NĐ-CP

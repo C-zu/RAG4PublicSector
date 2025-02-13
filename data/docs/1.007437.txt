@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007437
+Số quyết định:
+1837/QĐ-BTC
+Tên thủ tục:
+Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết thời hạn
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kế toán, kiểm toán
+Trình tự thực hiện:
+- Bước 1: Doanh nghiệp kinh doanh dịch vụ kế toán, hộ kinh doanh dịch vụ kế toán lập danh sách đề nghị Bộ Tài chính cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán cho những người đăng ký hành nghề tại đơn vị mình theo mẫu quy định tại Phụ lục số 03/ĐKHN ban hành kèm theo Thông tư 296/TT-BTC cùng với hồ sơ đăng ký hành nghề của từng cá nhân nộp đến Bộ Tài chính.
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí.
+- Bước 4: Cấp giấy chứng nhận.
+- Bước 5: Công khai danh sách trên trang điện tử Bộ Tài chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000 Đồng Phí thẩm định cấp mới GCN: 1.200.000 VNĐ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và nộp đủ phí theo quy định.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000 Đồng Phí thẩm định cấp mới GCN: 1.200.000 VNĐ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện; - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và nộp đủ phí theo quy định.|
+
+Thành phần hồ sơ:
+
+* Thành phần hồ sơ, bao gồm:
+- 01 Bản chính a) Đơn đề nghị cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán theo mẫu quy định tại Phụ lục số 01/ĐKHN ban hành kèm theo Thông tư 296/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính hướng dẫn về cấp, thu hồi và quản lý Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán; ([Mẫu đơn ĐN Phụ lục số 01 TT 296.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdee0bbf5910c02'))
+- 02 Bản chính b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán;
+- 02 Bản chính c) Các tài liệu quy định tại khoản 2, khoản 6, khoản 7 Điều 3 Thông tư số 296/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính như bản sao hợp đồng lao động; bản sao quyết định thôi việc hoặc quyết định chấm dứt hợp đồng lao động; bản sao Giấy phép lao động tại Việt Nam của người đăng ký hành nghề dịch vụ kế toán là người nước ngoài.
+ * Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|88/2015/QH13|Luật kế toán số 88/2015/QH13|20-11-2015|Quốc Hội|
+|296/2016/TT-BTC|Thông tư 296/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính Hướng dẫn về cấp, thu hồi và quản lý Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán.|15-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Trường hợp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết thời hạn, nếu kế toán viên hành nghề muốn tiếp tục hành nghề dịch vụ kế toán thì nộp hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

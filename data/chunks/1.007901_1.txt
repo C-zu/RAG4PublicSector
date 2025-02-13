@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục chấm dứt đại lý hoàn thuế đối với Ngân hàng thương mại
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007901
+Số quyết định:
+1531/QĐ-BTC
+Tên thủ tục:
+Thủ tục chấm dứt đại lý hoàn thuế đối với Ngân hàng thương mại
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

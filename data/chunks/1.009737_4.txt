@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ người lao động bị chấm dứt hợp đồng lao động, hợp đồng làm việc do đại dịch COVID-19 nhưng không đủ điều kiện hưởng trợ cấp thất nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Đề nghị hỗ trợ, theo mẫu BM.VL.02.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9265683a5db7e'">BM.VL.02.01.docx</a>)
+- 01 Bản chính, 01 Bản sao Một trong các giấy tờ sau: + Hợp đồng lao động hoặc hợp đồng làm việc đã hết hạn hoặc đã hoàn thành công việc theo hợp đồng lao động. + Quyết định thôi việc. + Thông báo hoặc thỏa thuận chấm dứt hợp đồng lao động hoặc hợp đồng làm việc.
+- 01 Bản chính, 01 Bản sao Sổ bảo hiểm xã hội hoặc xác nhận của cơ quan bảo hiểm xã hội về bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp. Trường hợp không có Sổ bảo hiểm xã hội thì người lao động nêu rõ lý do trong Giấy đề nghị.

@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||02 ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|2 Ngày làm việc||02 ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|2 Ngày làm việc||02 ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định.|

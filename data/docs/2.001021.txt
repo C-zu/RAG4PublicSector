@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001021
+Số quyết định:
+1330/QĐ-BKHĐT
+Tên thủ tục:
+Giải thể doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ (do Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc giao quản lý)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Thành lập và sắp xếp lại doanh nghiệp do Nhà nước nắm giữ 100 phần trăm vốn điều lệ
+Trình tự thực hiện:
+- Khi xác định doanh nghiệp thuộc một trong các trường hợp xem xét giải thể quy định tại Điều 39 Nghị định số 23/2022/NĐ-CP, người có thẩm quyền quyết định giải thể doanh nghiệp ra quyết định giải thể và thành lập Hội đồng giải thể để thực hiện các bước giải thể doanh nghiệp.
+- Người có thẩm quyền ra quyết định giải thể doanh nghiệp theo các nội dung quy định tại Điều 42 Nghị định số 23/2022/NĐ-CP.
+- Sau khi có quyết định giải thể:
++ Hội đồng giải thể có trách nhiệm thực hiện các quy định tại Điều 43 Nghị định số 23/2022/NĐ-CP;
++ Doanh nghiệp có trách nhiệm thực hiện các quy định tại Điều 45 Nghị định số 23/2022/NĐ-CP;
++ Cơ quan thuế trực tiếp quản lý việc thu thuế có trách nhiệm ban hành văn bản xác nhận việc thực hiện nghĩa vụ thuế của doanh nghiệp khi nhận được văn bản đề nghị xác nhận việc thực hiện nghĩa vụ thuế của doanh nghiệp.
+- Hội đồng giải thể tự động chấm dứt hoạt động khi doanh nghiệp đã hoàn tất các thủ tục giải thể theo quy định của pháp luật và cơ quan đăng ký kinh doanh chuyển tình trạng pháp lý của doanh nghiệp trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp sang tình trạng đã giải thể.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Tối đa không quá 30 ngày làm việc, người có thẩm quyền quyết định giải thể công ty thành lập Hội đồng giải thể để thẩm định đề nghị giải thể doanh nghiệp.|Phí : 0 Đồng Không có|Trực tiếp tại trụ sở cơ quan hành chính nhà nước|
+|Trực tuyến|Tối đa không quá 30 ngày làm việc, người có thẩm quyền quyết định giải thể công ty thành lập Hội đồng giải thể để thẩm định đề nghị giải thể doanh nghiệp.|Phí : 0 Đồng Không có|Thông qua hệ thống tiếp nhận văn bản điện tử e-office|
+|Dịch vụ bưu chính|Tối đa không quá 30 ngày làm việc, người có thẩm quyền quyết định giải thể công ty thành lập Hội đồng giải thể để thẩm định đề nghị giải thể doanh nghiệp.|Phí : 0 Đồng Không có|Qua đường bưu điện|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị giải thể doanh nghiệp
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Người quyết định thành lập doanh nghiệp là người quyết định giải thể doanh nghiệp.
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định giải thể doanh nghiệp của người quyết định thành lập doanh nghiệp.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|59/2020/QH14|Luật 59/2020/QH14|17-06-2020||
+|69/2014/QH13|Luật 69/2014/QH13|26-11-2014||
+|23/2022/NĐ-CP|Về thành lập, sắp xếp lại, chuyển đổi sở hữu, chuyển giao quyền đại diện chủ sở hữu tại doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ|05-04-2022|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ bị xem xét giải thể trong các trường hợp sau:
++ Bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp, trừ trường hợp Luật Quản lý thuế có quy định khác;
++ Doanh nghiệp có dấu hiệu mất an toàn tài chính, được đặt vào tình trạng giám sát tài chính đặc biệt sau khi kết thúc thời hạn áp dụng phương án khắc phục, phương án cơ cấu lại mà không phục hồi được hoạt động sản xuất kinh doanh và không thực hiện được các hình thức chuyển đổi sở hữu, sắp xếp lại khác theo quy định của pháp luật;
++ Không thực hiện được các nhiệm vụ do Nhà nước giao trong thời gian 02 năm liên tiếp sau khi đã áp dụng các biện pháp cần thiết;
++ Việc tiếp tục duy trì doanh nghiệp là không cần thiết;
++ Kết thúc thời hạn hoạt động đã ghi trong Điều lệ công ty mà không có quy định gia hạn.
+- Doanh nghiệp chỉ được giải thể khi đảm bảo thanh toán hết các khoản nợ và nghĩa vụ tài sản khác và không trong quá trình giải quyết tranh chấp tại Tòa án hoặc cơ quan trọng tài. Người quản lý có liên quan và doanh nghiệp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp cùng liên đới chịu trách nhiệm về các khoản nợ của doanh nghiệp.
+- Việc giải thể doanh nghiệp phải phù hợp với văn bản về sắp xếp, đổi mới doanh nghiệp đã được Thủ tướng Chính phủ phê duyệt. Trường hợp việc giải thể chưa được Thủ tướng Chính phủ phê duyệt tại văn bản về sắp xếp, đổi mới doanh nghiệp, cơ quan đại diện chủ sở hữu trình Thủ tướng Chính phủ xem xét, quyết định (trừ trường hợp doanh nghiệp giải thể khi bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc kết thúc thời hạn hoạt động đã ghi trong Điều lệ công ty mà không có quy định gia hạn).
+Trường hợp không còn đáp ứng các điều kiện giải thể nêu trên hoặc đã lâm vào tình trạng phá sản thì cơ quan đại diện chủ sở hữu báo cáo Thủ tướng Chính phủ xem xét, quyết định sắp xếp theo hình thức khác hoặc thực hiện phá sản.
+- Doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ bị xem xét giải thể trong các trường hợp sau:
++ Bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp, trừ trường hợp Luật Quản lý thuế có quy định khác;
++ Doanh nghiệp có dấu hiệu mất an toàn tài chính, được đặt vào tình trạng giám sát tài chính đặc biệt sau khi kết thúc thời hạn áp dụng phương án khắc phục, phương án cơ cấu lại mà không phục hồi được hoạt động sản xuất kinh doanh và không thực hiện được các hình thức chuyển đổi sở hữu, sắp xếp lại khác theo quy định của pháp luật;
++ Không thực hiện được các nhiệm vụ do Nhà nước giao trong thời gian 02 năm liên tiếp sau khi đã áp dụng các biện pháp cần thiết;
++ Việc tiếp tục duy trì doanh nghiệp là không cần thiết;
++ Kết thúc thời hạn hoạt động đã ghi trong Điều lệ công ty mà không có quy định gia hạn.
+- Doanh nghiệp chỉ được giải thể khi đảm bảo thanh toán hết các khoản nợ và nghĩa vụ tài sản khác và không trong quá trình giải quyết tranh chấp tại Tòa án hoặc cơ quan trọng tài. Người quản lý có liên quan và doanh nghiệp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp cùng liên đới chịu trách nhiệm về các khoản nợ của doanh nghiệp.
+- Việc giải thể doanh nghiệp phải phù hợp với văn bản về sắp xếp, đổi mới doanh nghiệp đã được Thủ tướng Chính phủ phê duyệt. Trường hợp việc giải thể chưa được Thủ tướng Chính phủ phê duyệt tại văn bản về sắp xếp, đổi mới doanh nghiệp, cơ quan đại diện chủ sở hữu trình Thủ tướng Chính phủ xem xét, quyết định (trừ trường hợp doanh nghiệp giải thể khi bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc kết thúc thời hạn hoạt động đã ghi trong Điều lệ công ty mà không có quy định gia hạn).
+Trường hợp không còn đáp ứng các điều kiện giải thể nêu trên hoặc đã lâm vào tình trạng phá sản thì cơ quan đại diện chủ sở hữu báo cáo Thủ tướng Chính phủ xem xét, quyết định sắp xếp theo hình thức khác hoặc thực hiện phá sản.
+Từ khóa:
+Giải thể, doanh nghiệp, do Nhà nước, nắm giữ 100% vốn điều lệ, (do Ủy ban nhân dân, cấp tỉnh, quyết định, thành lập hoặc giao quản lý)
+Mô tả:
+Không có thông tin

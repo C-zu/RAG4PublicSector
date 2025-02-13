@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : 200000 Đồng 200.000 đồng/01 lần cấp|Nộp trực tiếp tại Cục An toàn thông tin.|
+|Trực tuyến|5 Ngày làm việc|Phí : 200000 Đồng 200.000 đồng/01 lần cấp|Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : 200000 Đồng 200.000 đồng/01 lần cấp|Địa chỉ: Cục An toàn thông tin: Tòa nhà 115 Trần Duy Hưng, Cầu Giấy, Hà Nội.|

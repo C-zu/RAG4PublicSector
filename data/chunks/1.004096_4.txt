@@ -1,0 +1,12 @@
+Tên thủ tục: Gia hạn Giấy phép tiếp cận nguồn gen
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy phép tiếp cận nguồn gen theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định số 59/2017/NĐ-CP ngày 12 tháng 5 năm 2017; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe629990464536c'">Mẫu số 05.docx</a>)
+- 01 Bản chính Báo cáo tình hình thực hiện tiếp cận và sử dụng nguồn gen đến thời điểm đề nghị gia hạn theo phạm vi hoạt động tại Giấy phép tiếp cận nguồn gen đã được cấp và nội dung Hợp đồng đã ký giữa các bên;
+- 01 Bản sao Bản sao Giấy phép tiếp cận nguồn gen đã được cấp;
+- 01 Bản sao Bản sao Hợp đồng đã ký giữa Bên tiếp cận và Bên cung cấp;
+- 01 Bản chính Văn bản của Bên cung cấp chấp thuận về việc tiếp tục thực hiện các hoạt động tiếp cận nguồn gen giữa hai bên.
+ Số lượng hồ sơ: 01 bộ hồ sơ.

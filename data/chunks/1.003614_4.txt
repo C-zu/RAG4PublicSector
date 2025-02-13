@@ -1,0 +1,20 @@
+Tên thủ tục: Cấp giấy phép vào cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp
+- 01 Bản chính + Giấy phép rời cảng, bến thủy nội địa, trừ trường hợp làm thủ tục điện tử;
+- 01 Bản chính + Danh sách hành khách (đối với phương tiện vận tải hành khách).
+
+
+Giấy tờ xuất trình
+- 01 Bản chính + Giấy chứng nhận đăng ký phương tiện, thủy phi cơ (hoặc bản sao có xác nhận của tổ chức tín dụng trường hợp phương tiện đang cầm cố, thế chấp)
+- 01 Bản chính + Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện;
+- 01 Bản chính + Giấy chứng nhận khả năng chuyên môn, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện;
+- 01 Bản chính + Sổ danh bạ thuyền viên (nếu có);
+- 01 Bản chính + Hợp đồng vận chuyển hoặc hóa đơn xuất kho hoặc giấy vận chuyển hàng hóa;
+- 01 Bản chính + Bảo hiểm trách nhiệm dân sự (đối với phương tiện thuộc diện bắt buộc phải có bảo hiểm trách nhiệm dân sự);
+- 01 Bản chính + Giấy chứng nhận đủ điều kiện bay đối với thủy phi cơ;
+- 01 Bản chính + Giấy phép vận chuyển hàng hóa nguy hiểm, phương án vận tải hàng hóa siêu trường, siêu trọng (trường hợp phương tiện vận tải hàng hóa nguy hiểm, hàng hóa siêu trường, siêu trọng);
+ TRƯỜNG HỢP KHÔNG PHẢI XUẤT TRÌNH GIẤU TỜ: các giấy tờ trên đã lưu trên cơ sở dữ liệu điện tử.

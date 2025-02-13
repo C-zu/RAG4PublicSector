@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ chi phí khám, chữa bệnh nghề nghiệp cho người lao động phát hiện bị bệnh nghề nghiệp khi đã nghỉ hưu hoặc không còn làm việc trong các nghề, công việc có nguy cơ bị bệnh nghề nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định Sở Lao động - Thương binh và Xã hội tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ và gửi quyết định (kèm theo dữ liệu danh sách hỗ trợ) cho cơ quan bảo hiểm xã hội. - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định hỗ trợ của Sở Lao động - Thương binh và Xã hội, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ khám, chữa bệnh nghề nghiệp cho người lao động.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định Sở Lao động - Thương binh và Xã hội tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ và gửi quyết định (kèm theo dữ liệu danh sách hỗ trợ) cho cơ quan bảo hiểm xã hội. - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định hỗ trợ của Sở Lao động - Thương binh và Xã hội, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ khám, chữa bệnh nghề nghiệp cho người lao động.|

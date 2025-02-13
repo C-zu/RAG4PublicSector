@@ -1,0 +1,9 @@
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp hoạt động dịch vụ việc làm
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Doanh nghiệp gửi 01 (một) bộ hồ sơ theo quy định đến Sở Lao động - Thương binh và Xã hội nơi doanh nghiệp đặt trụ sở chính. Sở Lao động - Thương binh và Xã hội tiếp nhận hồ sơ, kiểm tra và cấp giấy biên nhận ghi rõ ngày, tháng, năm nhận đủ hồ sơ. 
+- Bước 2: Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị rút tiền ký quỹ của doanh nghiệp, Sở Lao động - Thương binh và Xã hội kiểm tra, xác thực hồ sơ, việc hoàn thành các nghĩa vụ của doanh nghiệp hoạt động dịch vụ việc làm trong trường hợp doanh nghiệp hoạt động dịch vụ việc làm bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép và trình cơ quan nhà nước có thẩm quyền ban hành văn bản đồng ý về việc rút tiền ký quỹ, phương án sử dụng tiền ký quỹ (nếu có), gửi doanh nghiệp và ngân hàng nhận ký quỹ. Trường hợp không đồng ý về việc rút tiền ký quỹ thì có văn bản trả lời doanh nghiệp và nêu rõ lý do.
+- Bước 3: Sau khi có văn bản đồng ý về việc rút tiền ký quỹ của cơ quan nhà nước có thẩm quyền, doanh nghiệp nộp hồ sơ theo quy định tại ngân hàng nhận ký quỹ.
+- Bước 4: Ngân hàng nhận ký quỹ tiếp nhận và kiểm tra hồ sơ rút tiền ký quỹ của doanh nghiệp, nếu đúng quy định thì ngân hàng nhận ký quỹ cho doanh nghiệp thực hiện rút tiền ký quỹ trong thời hạn 01 ngày làm việc, kể từ ngày tiếp nhận hồ sơ rút tiền ký quỹ. 
+Trường hợp doanh nghiệp rút tiền ký quỹ do doanh nghiệp gặp khó khăn, không đủ khả năng bồi thường cho người lao động, người sử dụng lao động do vi phạm quy định về dịch vụ việc làm sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật thì việc thanh toán, bồi thường cho người lao động, người sử dụng lao động do ngân hàng nhận ký quỹ trực tiếp chi trả theo phương án đã được cơ quan nhà nước có thẩm quyền đồng ý sau khi trừ chi phí dịch vụ ngân hàng.

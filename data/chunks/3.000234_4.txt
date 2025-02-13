@@ -1,0 +1,19 @@
+Tên thủ tục: Hỗ trợ kinh phí nhận chuyển nhượng quyền sử dụng đất và thuê quyền sử dụng đất để thực hiện dự án sản xuất nông nghiệp quy mô lớn, ứng dụng công nghệ cao và theo hướng công nghệ cao.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị hỗ trợ kinh phí chuyển nhượng quyền sử dụng đất và thuê quyền sử dụng đất năm thứ nhất, gồm:
+- 01 Bản chính + Đơn đề nghị hỗ trợ (theo Mẫu 01). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd09188f6b3a650'">Mẫu 01.docx</a>)
+- 01 Bản chính + Trích đo bản bồ địa chính khu đất thực hiện dự án chứng minh liền vùng, tập trung (bản chính).
+- 01 Bản sao + Giấy chứng nhận quyền sử dụng đất hoặc Hợp đồng thuê quyền sử dụng đất tối thiểu 5 năm (bản sao).
+- 01 Bản sao + Quyết định phê duyệt dự án sản xuất nông nghiệp quy mô lớn, ứng dụng công nghệ cao hoặc theo hướng công nghệ cao của Ủy ban nhân dân cấp huyện (bản sao).
+- 01 Bản sao + Bản sao các hợp đồng chuyển giao công nghệ hoặc hợp đồng hỗ trợ ứng dụng công nghệ cao hoặc tài liệu chứng minh khả năng tự ứng dụng công nghệ của chủ dự án (Quy trình áp dụng trong sản xuất, thu hoạch, sơ chế, bảo quản sản phẩm) (bản sao).
+- 01 Bản sao + Giấy chứng nhận tiêu chuẩn từ VietGAP trở lên đối với sản xuất ứng dụng công nghệ cao; Giấy chứng nhận đủ điều kiện an toàn thực phẩm trở lên đối với sản xuất theo hướng công nghệ cao (Riêng cây thức ăn chăn nuôi đảm bảo tiêu chuẩn, chất lượng theo yêu cầu bên thu mua sản phẩm theo hợp đồng) (bản sao).
+- 01 Bản sao + Hợp đồng, thanh lý hợp đồng liên kết sản xuất, bao tiêu sản phẩm hoặc hóa đơn, phiếu xuất kho, bán lẻ đối với chủ dự án tự tiêu thụ sản phẩm (bản sao).
+
+
+- Hồ sơ đề nghị hỗ trợ kinh phí thuê đất quyền sử dụng đất từ năm thứ hai trở đi, gồm:
+- 01 Bản chính + Đơn đề nghị hỗ trợ (theo Mẫu 01). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3a7467434e7e2'">Mẫu 01.docx</a>)
+- 01 Bản chính + Các loại giấy chứng nhận còn hiệu lực gồm: Giấy chứng nhận tiêu chuẩn từ VietGAP trở lên đối với sản xuất ứng dụng công nghệ cao; Giấy chứng nhận đủ điều kiện ATTP trở lên đối với sản xuất theo hướng công nghệ cao (bản sao).
+- 01 Bản chính + Hợp đồng, thanh lý hợp đồng liên kết sản xuất, bao tiêu sản phẩm hoặc hóa đơn, phiếu xuất kho, bán lẻ đối với chủ dự án tự tiêu thụ sản phẩm trong năm hỗ trợ (bản sao).

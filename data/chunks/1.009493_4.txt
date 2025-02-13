@@ -1,0 +1,20 @@
+Tên thủ tục: Thẩm định nội dung điều chỉnh chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị quyết định điều chỉnh chủ trương đầu tư dự án PPP bao gồm:
+- 01 Bản chính, 09 Bản sao + Tờ trình đề nghị phê duyệt nội dung điều chỉnh chủ trương đầu tư;
+- 01 Bản chính, 09 Bản sao + Dự thảo quyết định điều chỉnh chủ trương đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe84d36dd0c8724'">Phu luc II Mau so 03.docx</a>)
+- 01 Bản chính, 09 Bản sao + Nội dung điều chỉnh báo cáo nghiên cứu tiền khả thi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7c7faf71c3eb4'">Phu luc II Mau so 01.docx</a>)
+- 01 Bản chính, 09 Bản sao + Báo cáo thẩm định, thẩm tra đối với các nội dung điều chỉnh. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc93dd65e02e74c'">Phu luc II Mau so 02.docx</a>)
+- 01 Bản chính, 09 Bản sao + Tài liệu pháp lý khác có liên quan của dự án. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe51b627833e642'">Phu luc I.docx</a>)
+
+
+- Hồ sơ đề nghị thẩm định điều chỉnh quyết định chủ trương đầu tư dự án PPP bao gồm:
+- 01 Bản chính, 09 Bản sao + Văn bản đề nghị thẩm định;
+- 01 Bản chính, 09 Bản sao + Dự thảo tờ trình đề nghị điều chỉnh chủ trương đầu tư;
+- 01 Bản chính, 09 Bản sao + Nội dung điều chỉnh báo cáo nghiên cứu tiền khả thi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8495001efbf42'">Phu luc II Mau so 01.docx</a>)
+- 01 Bản chính, 09 Bản sao + Văn bản chấp thuận nhà đầu tư lập báo cáo nghiên cứu tiền khả thi;
+- 01 Bản chính, 09 Bản sao + Quyết định sử dụng tài sản công để tham gia dự án PPP theo quy định của pháp luật về quản lý, sử dụng tài sản công (trường hợp dự án sử dụng tài sản công làm vốn nhà nước hỗ trợ xây dựng công trình, hệ thống cơ sở hạ tầng);
+- 01 Bản chính, 09 Bản sao + Tài liệu pháp lý khác có liên quan của dự án. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea54a4c0dd844c'">Phu luc I.docx</a>)

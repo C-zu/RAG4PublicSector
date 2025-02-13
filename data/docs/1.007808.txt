@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007808
+Số quyết định:
+1722/QĐ-BTC
+Tên thủ tục:
+Thủ tục kiểm tra và xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân đề nghị cơ quan hải quan xác định trước xuất xứ đối với hàng hóa dự kiến xuất khẩu, nhập khẩu và gửi hồ sơ đề nghị xác định trước xuất xứ hàng hóa đến Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan.
+Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi, người khai hải quan nộp 01 bộ hồ sơ giấy đến Tổng cục Hải quan.
+Bước 2: Người hải quan thực hiện
+- Người khai hải quan thông báo bằng văn bản cho Tổng cục Hải quan trong thời hạn 10 ngày làm việc kể từ ngày có sự thay đổi nào liên quan đến hàng hóa đã đề nghị xác định trước xuất xứ trong đó nêu rõ nội dung, lý do, ngày, tháng, năm có sự thay đổi.
+	- Cơ quan hải quan căn cứ hồ sơ đề nghị xác định trước để ban hành Thông báo xác định trước xuất xứ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Tùy từng trường hợp||+ Người khai hải quan: ++ Người khai hải quan thông báo bằng văn bản cho Tổng cục Hải quan trong thời hạn 10 ngày làm việc kể từ ngày có sự thay đổi nào liên quan đến hàng hóa đã đề nghị xác định trước xuất xứ trong đó nêu rõ nội dung, lý do, ngày, tháng, năm có sự thay đổi. ++Trường hợp không đồng ý với nội dung xác định trước xuất xứ, tố chức, cá nhân có văn bản yêu cầu Tổng cục Hải quan xem xét. Trong thời hạn 10 ngày làm việc (đối với hàng hóa thông thường) hoặc 30 ngày (đối với trường hợp phức tạp cần xác minh, làm rõ), kể từ ngày nhận được yêu cầu của người khai hải quan, Tổng cục Hải quan có văn bản trả lời kết quả cho người khai hải quan. Trong thời hạn 60 ngày kể từ ngày có văn bản thông báo kết quả xác định trước. + Cơ quan hải quan: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị, Tổng cục Hải quan có văn bản từ chối xác định trước xuất xứ gửi tổ chức, cá nhân đối với trường hợp không đủ điều kiện, hồ sơ xác định trước mã số, xuất xứ, trị giá hải quan; Tổng cục trưởng Tổng cục Hải quan ban hành văn bản thông báo kết quả xác định trước xuất xứ trong thời hạn 30 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp thông thường) hoặc 60 ngày kể từ ngày nhận đủ hồ sơ (đối với trường hợp phức tạp cần xác minh, làm rõ). Văn bản thông báo kết quả xác định trước xuất xứ được gửi cho tổ chức, cá nhân, đồng thời cập nhật vào cơ sở dữ liệu của cơ quan hải quan và công khai trên trang điện tử của Tổng cục Hải quan.|
+|Trực tuyến|Tùy từng trường hợp||+ Người khai hải quan: ++ Người khai hải quan thông báo bằng văn bản cho Tổng cục Hải quan trong thời hạn 10 ngày làm việc kể từ ngày có sự thay đổi nào liên quan đến hàng hóa đã đề nghị xác định trước xuất xứ trong đó nêu rõ nội dung, lý do, ngày, tháng, năm có sự thay đổi. ++Trường hợp không đồng ý với nội dung xác định trước xuất xứ, tố chức, cá nhân có văn bản yêu cầu Tổng cục Hải quan xem xét. Trong thời hạn 10 ngày làm việc (đối với hàng hóa thông thường) hoặc 30 ngày (đối với trường hợp phức tạp cần xác minh, làm rõ), kể từ ngày nhận được yêu cầu của người khai hải quan, Tổng cục Hải quan có văn bản trả lời kết quả cho người khai hải quan. Trong thời hạn 60 ngày kể từ ngày có văn bản thông báo kết quả xác định trước. + Cơ quan hải quan: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị, Tổng cục Hải quan có văn bản từ chối xác định trước xuất xứ gửi tổ chức, cá nhân đối với trường hợp không đủ điều kiện, hồ sơ xác định trước mã số, xuất xứ, trị giá hải quan; Tổng cục trưởng Tổng cục Hải quan ban hành văn bản thông báo kết quả xác định trước xuất xứ trong thời hạn 30 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp thông thường) hoặc 60 ngày kể từ ngày nhận đủ hồ sơ (đối với trường hợp phức tạp cần xác minh, làm rõ). Văn bản thông báo kết quả xác định trước xuất xứ được gửi cho tổ chức, cá nhân, đồng thời cập nhật vào cơ sở dữ liệu của cơ quan hải quan và công khai trên trang điện tử của Tổng cục Hải quan.|
+|Dịch vụ bưu chính|Tùy từng trường hợp||+ Người khai hải quan: ++ Người khai hải quan thông báo bằng văn bản cho Tổng cục Hải quan trong thời hạn 10 ngày làm việc kể từ ngày có sự thay đổi nào liên quan đến hàng hóa đã đề nghị xác định trước xuất xứ trong đó nêu rõ nội dung, lý do, ngày, tháng, năm có sự thay đổi. ++Trường hợp không đồng ý với nội dung xác định trước xuất xứ, tố chức, cá nhân có văn bản yêu cầu Tổng cục Hải quan xem xét. Trong thời hạn 10 ngày làm việc (đối với hàng hóa thông thường) hoặc 30 ngày (đối với trường hợp phức tạp cần xác minh, làm rõ), kể từ ngày nhận được yêu cầu của người khai hải quan, Tổng cục Hải quan có văn bản trả lời kết quả cho người khai hải quan. Trong thời hạn 60 ngày kể từ ngày có văn bản thông báo kết quả xác định trước. + Cơ quan hải quan: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị, Tổng cục Hải quan có văn bản từ chối xác định trước xuất xứ gửi tổ chức, cá nhân đối với trường hợp không đủ điều kiện, hồ sơ xác định trước mã số, xuất xứ, trị giá hải quan; Tổng cục trưởng Tổng cục Hải quan ban hành văn bản thông báo kết quả xác định trước xuất xứ trong thời hạn 30 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp thông thường) hoặc 60 ngày kể từ ngày nhận đủ hồ sơ (đối với trường hợp phức tạp cần xác minh, làm rõ). Văn bản thông báo kết quả xác định trước xuất xứ được gửi cho tổ chức, cá nhân, đồng thời cập nhật vào cơ sở dữ liệu của cơ quan hải quan và công khai trên trang điện tử của Tổng cục Hải quan.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 33/2023/TT-BTC ngày 31/5/2023
+- 01 Bản sao Bảng kê khai chi phí sản xuất theo mẫu tại Phụ lục II và Bảng khai báo xuất xứ của nhà sản xuất/nhà cung cấp nguyên liệu trong nước theo mẫu tại Phụ lục III ban hành kèm Thông tư trong trường hợp nguyên liệu, vật tư đó được sử dụng cho một công đoạn tiếp theo để sản xuất ra một hàng hóa khác
+- 01 Bản sao Quy trình sản xuất hoặc Giấy chứng nhận phân tích thành phần (nếu có)
+- 01 Bản sao Catalogue hoặc hình ảnh hàng hóa
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Bộ Tài chính, Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Bộ Công thương, Các Chi nhánh, các tổ chức cấp C/O trực thuộc Phòng Thương mại và Công nghiệp Việt Nam (VCCI)
+Kết quả thực hiện:
+Thông báo kết quả xác định trước xuất xứ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|107/2016/QH13|Luật 107/2016/QH13|06-04-2016||
+|05/2017/QH14|Luật 05/2017/QH14|12-06-2017||
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015||
+|31/2018/NĐ-CP|Nghị định 31/2018/NĐ-CP|08-03-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Người khai hải quan có trách nhiệm gửi các chứng từ này đến Hệ thống xử lý dữ liệu điện tử hải quan.Trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng, người khai hải quan nộp 01 bản chính hồ sơ đề nghị đến Tổng cục Hải quan.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung, cấp lại giấy chứng nhận lưu hành tự do đối với sản phẩm thực phẩm xuất khẩu thuộc quyền quản lý của Bộ Y tế (CFS)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|||
+|Trực tuyến|3 Ngày làm việc|||
+|Dịch vụ bưu chính|3 Ngày làm việc|||

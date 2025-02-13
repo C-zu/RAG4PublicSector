@@ -1,0 +1,20 @@
+Tên thủ tục: Thành lập trường đại học công lập, cho phép thành lập trường đại học tư thục
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với bước đề nghị Thủ tướng thành lập hoặc chủ trương cho phép thành lập trường đại học:
+- 01 Bản chính Văn bản phê duyệt chủ trương thành lập hoặc chủ trương cho phép thành lập trường đại học của Thủ tướng Chính phủ;
+- 01 Bản sao Bản sao được cấp từ sổ gốc, bản sao được chứng thực từ bản chính hoặc bản sao kèm theo bản chính để đối chiếu giấy chứng nhận đầu tư đối với việc thành lập trường đại học tư thục do Ủy ban nhân dân cấp tỉnh cấp
+- 01 Bản chính Văn bản pháp lý xác nhận về quyền sử dụng đất hoặc văn bản của cơ quan có thẩm quyền giao đất hoặc cho thuê đất từ 50 năm trở lên để xây dựng trường, trong đó xác định rõ địa điểm, mốc giới, địa chỉ, diện tích của khu đất nơi trường đặt trụ sở chính;
+- 01 Bản chính Quy hoạch xây dựng trường và thiết kế tổng thể đã được cơ quan chủ quản phê duyệt đối với các trường đại học công lập hoặc Ủy ban nhân dân cấp tỉnh phê duyệt đối với các trường đại học tư thục;
+- 01 Bản chính Văn bản báo cáo chi tiết về tình hình triển khai Dự án đầu tư thành lập trường của cơ quan chủ quản (đối với trường đại học công lập) hoặc của Ban quản lý dự án kèm theo ý kiến của Ủy ban nhân dân cấp tỉnh nơi trường đặt trụ sở chính (đối với trường đại học tư thục);
+- 01 Bản chính Dự kiến ngành, nghề đào tạo, cán bộ quản lý và quy mô đào tạo;
+- 01 Bản chính Các văn bản pháp lý xác nhận về vốn của chủ đầu tư do ban quản lý dự án đang được giao quản lý bao gồm: + Các thuyết minh khả năng đầu tư tài chính, quyết định đầu tư tài chính và điều kiện cơ sở vật chất - kỹ thuật của cơ quan chủ quản (đối với trường đại học công lập); + Các văn bản xác nhận của ngân hàng về số tiền hiện có do ban quản lý dự án đang quản lý, các văn bản pháp lý minh chứng về quyền sở hữu tài sản kèm theo văn bản định giá tài sản góp vốn nếu góp vốn bằng tài sản hoặc quyền sở hữu tài sản; các chứng từ liên quan đến số vốn đã được đầu tư xây dựng và mua sắm trang thiết bị cho trường (có xác nhận của cơ quan tài chính có thẩm quyền về số vốn đã đầu tư xây dựng trường và xác nhận của ngân hàng về số vốn góp trong tài khoản của ban quản lý dự án).
+
+
+Đối với bước đề nghị phê duyệt chủ trương thành lập hoặc chủ trương cho phép thành lập trường đại học:
+- 01 Bản chính - Tờ trình đề nghị phê duyệt chủ trương thành lập của cơ quan chủ quản đối với trường đại học công lập hoặc đề nghị phê duyệt chủ trương cho phép thành lập của tổ chức hoặc cá nhân đối với trường đại học tư thục;
+- 01 Bản chính - Văn bản của Ủy ban nhân dân cấp tỉnh chấp thuận về việc thành lập trường tại địa phương. Văn bản chấp thuận cần nêu rõ về sự cần thiết, sự phù hợp của việc thành lập trường với quy hoạch phát triển kinh tế - xã hội của địa phương; chủ trương cấp đất hoặc cho thuê đất xây dựng trường, địa điểm khu đất và khả năng phối hợp, tạo điều kiện của địa phương đối với việc xây dựng và phát triển nhà trường; văn bản pháp lý về quyền sử dụng đất (nếu có);
+- 01 Bản chính - Đề án thành lập trường đại học;
+- 01 Bản chính - Đối với hồ sơ thành lập trường đại học tư thục, ngoài các văn bản nêu tại các điểm a, b và c của khoản này thì hồ sơ cần có thêm các văn bản theo hướng dẫn của Bộ Giáo dục và Đào tạo sau đây: + Danh sách các thành viên sáng lập; + Biên bản cử đại diện đứng tên thành lập trường của các thành viên góp vốn; + Bản cam kết góp vốn xây dựng trường của cá nhân, tổ chức và ý kiến đồng ý của người đại diện đứng tên thành lập trường; + Danh sách các cổ đông cam kết góp vốn; + Biên bản thỏa thuận góp vốn.

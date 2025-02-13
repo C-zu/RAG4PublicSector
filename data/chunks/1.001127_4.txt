@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn, điều chỉnh hoạt động liên kết đào tạo trình độ đại học, thạc sĩ, tiến sĩ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn hoặc điều chỉnh liên kết giáo dục do các bên liên kết cùng ký theo Mấu số 11 tại Phụ lục Nghị định số 86/2018/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe94e93f469a659'">ND86-2018_Mau don so 11.doc</a>)
+- 01 Bản chính Báo cáo tổng kết hoạt động liên kết đào tạo trong thời gian được cấp phép
+- 01 Bản chính Thỏa thuận (Hợp đồng) hợp tác đang còn hiệu lực giữa các bên liên kết

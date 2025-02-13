@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục xin cấp phép cung cấp dịch vụ Internet trong Quân đội
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Bộ Tư lệnh 86
+Cơ quan có thẩm quyền:
+Bộ trưởng Bộ Quốc phòng
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định hành chính Quyết định cấp phép cung cấp dịch vụ Internet trong Quân đội.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật viễn thông|23-11-2009|Quốc Hội|
+|72/2013/NĐ-CP|Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng|15-07-2013|Chính phủ|
+|67/2006/QH11|Luật Công nghệ thông tin|29-06-2006|Văn phòng Quốc hội|
+|05/2011/QH13|Luật cơ yếu|26-11-2011|Văn phòng Quốc hội|
+|110/2014/TT-BQP|Thông tư số 110/2014/TT-BQP|22-08-2014|Bộ Quốc phòng|

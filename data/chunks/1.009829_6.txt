@@ -1,0 +1,38 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Lưu giữ tạm thời nguồn phóng xạ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ; 
+- Có người phụ trách an toàn, trừ trường hợp nguồn phóng xạ thuộc nhóm 5 theo QCVN 6:2010/BKHCN. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Trường hợp sử dụng nguồn phóng xạ hở: Có biện pháp, hệ thống thu gom, xử lý và lưu giữ chất thải phóng xạ dạng rắn, lỏng bảo đảm các yêu cầu an toàn bức xạ; sử dụng vật liệu dễ tẩy xạ cho tường, sàn nhà, mặt bàn làm việc tại nơi có nguy cơ bị nhiễm bẩn phóng xạ; có thiết bị đo suất liều, đo nhiễm bẩn phóng xạ để thường xuyên kiểm xạ môi trường làm việc cung cấp đầy đủ phương tiện bảo hộ cá nhân chống nhiễm bẩn phóng xạ cho nhân viên làm việc trong khu vực kiểm soát;
+- Có nơi riêng biệt để lưu giữ nguồn phóng xạ;
+- Có nội quy an toàn bức xạ liên quan đến việc lưu giữ nguồn phóng xạ, trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trường hợp lưu giữ nguồn phóng xạ kín phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định 142/2020/NĐ-CP.
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ; 
+- Có người phụ trách an toàn, trừ trường hợp nguồn phóng xạ thuộc nhóm 5 theo QCVN 6:2010/BKHCN. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Trường hợp sử dụng nguồn phóng xạ hở: Có biện pháp, hệ thống thu gom, xử lý và lưu giữ chất thải phóng xạ dạng rắn, lỏng bảo đảm các yêu cầu an toàn bức xạ; sử dụng vật liệu dễ tẩy xạ cho tường, sàn nhà, mặt bàn làm việc tại nơi có nguy cơ bị nhiễm bẩn phóng xạ; có thiết bị đo suất liều, đo nhiễm bẩn phóng xạ để thường xuyên kiểm xạ môi trường làm việc cung cấp đầy đủ phương tiện bảo hộ cá nhân chống nhiễm bẩn phóng xạ cho nhân viên làm việc trong khu vực kiểm soát;
+- Có nơi riêng biệt để lưu giữ nguồn phóng xạ;
+- Có nội quy an toàn bức xạ liên quan đến việc lưu giữ nguồn phóng xạ, trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trường hợp lưu giữ nguồn phóng xạ kín phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định 142/2020/NĐ-CP.
+Từ khóa:
+Giấy phép tiến hành công việc bức xạ - Lưu giữ tạm thời nguồn phóng xạ
+Mô tả:
+Không có thông tin

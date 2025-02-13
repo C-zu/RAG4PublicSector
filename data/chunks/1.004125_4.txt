@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện liên lạc với phương tiện nghề cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp mới gồm:
+- 01 Bản chính Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1i Phụ lục 2 của Thông tư số 05/2015/TT-BTTTT ngày 23/3/2015 của Bộ Thông tin và Truyền thông
+- 01 Bản sao Bản sao có chứng thực Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép; trường hợp nộp hồ sơ trực tiếp có thể nộp bản sao và xuất trình bản chính để đối chiếu.
+- 01 Bản sao Hoặc bản sao có chứng thực Giấy chứng nhận đăng ký hộ kinh doanh đơi với hộ kinh doanh đề nghị cấp giấy phép; trường hợp nộp hồ sơ trực tiếp có thể nộp bản sao và xuất trình bản chính để đối chiếu.
+
+
+Hồ sơ gia hạn giấy phép gồm:
+- 01 Bản chính Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1i Phụ lục 2 của Thông tư số 05/2015/TT-BTTTT ngày 23/3/2015 của Bộ Thông tin và Truyền thông.
+
+
+Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+- 01 Bản chính Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1i Phụ lục 2 của Thông tư số 05/2015/TT-BTTTT ngày 23/3/2015 của Bộ Thông tin và Truyền thông.
+- 01 Bản chính Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu)

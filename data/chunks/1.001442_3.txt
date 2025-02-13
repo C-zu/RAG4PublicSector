@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục công nhận Doanh nghiệp ưu tiên
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời gian xem xét công nhận doanh nghiệp ưu tiên không quá 45 (bốn mươi lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ. Đối với các trường hợp phức tạp, doanh nghiệp lớn thì có thể gia hạn một lần nhưng không quá 30 (ba mươi) ngày làm việc.|||

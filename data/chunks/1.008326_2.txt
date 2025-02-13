@@ -1,0 +1,12 @@
+Tên thủ tục: Khai thuế thu nhập doanh nghiệp tạm tính đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên (trừ Lô 09.1)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1. Người nộp thuế chuẩn bị số liệu, lập hồ sơ khai thuế và gửi đến cơ quan thuế quản lý trực tiếp người nộp thuế: 
+++ Đối với dầu thô, condensate: chậm nhất là ngày thứ 35 kể từ ngày xuất bán dầu thô, condensate. Ngày xuất bán là ngày hoàn thành việc xuất dầu thô, condensate tại điểm giao nhận. Trường hợp ngày thứ 35 trùng với ngày nghỉ theo quy định thì thời hạn nộp hồ sơ khai thuế được tính là ngày làm việc tiếp theo của ngày nghỉ đó.
+++ Đối với khí thiên nhiên: chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế. Trường hợp ngày thứ 20 là ngày nghỉ theo quy định thì thời hạn nộp hồ sơ khai thuế được tính là ngày làm việc tiếp theo của ngày nghỉ đó.
++ Bước 2. Cơ quan thuế tiếp nhận:
+Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+Trường hợp tiếp nhận hồ sơ qua Cổng thông tin điện tử của Tổng cục Thuế, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+++ Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận việc NNT đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho NNT qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ  (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế
+++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của NNT theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà NNT lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.

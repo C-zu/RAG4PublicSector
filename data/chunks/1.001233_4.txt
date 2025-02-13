@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thay đổi nội dung Giấy đăng ký tham gia trợ giúp pháp lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thay đổi nội dung Giấy đăng ký tham gia trợ giúp pháp lý theo mẫu ban hành kèm theo Thông tư số 08/2017/TT-BTP (Mẫu TP-TGPL-04); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb67f8af65ec09'">đơn đề nghị thay đổi.docx</a>)
+- 01 Bản chính - Giấy đăng ký tham gia trợ giúp pháp lý đã được cấp.
+ Trong trường hợp nộp bằng hình thức trực tuyến thì tổ chức đăng ký tham gia trợ giúp pháp lý gửi bản chính Giấy đăng ký tham gia trợ giúp pháp lý đã được cấp qua đường bưu điện.

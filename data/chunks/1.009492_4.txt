@@ -1,0 +1,23 @@
+Tên thủ tục: Thẩm định báo cáo nghiên cứu khả thi, quyết định phê duyệt dự án PPP do nhà đầu tư đề xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ thẩm định báo cáo nghiên cứu khả thi dự án PPP do nhà đầu tư đề xuất bao gồm:
+- 01 Bản chính, 09 Bản sao + Văn bản đề nghị thẩm định;
+- 01 Bản chính, 09 Bản sao + Dự thảo tờ trình đề nghị phê duyệt dự án;
+- 01 Bản chính, 09 Bản sao + Báo cáo nghiên cứu khả thi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda27e40b6fa612'">Phu luc III Mau so 01.docx</a>)
+- 01 Bản chính, 09 Bản sao + Quyết định chủ trương đầu tư;
+- 01 Bản chính, 09 Bản sao + Quyết định phê duyệt kết quả lựa chọn nhà đầu tư (trường hợp dự án ứng dụng công nghệ cao, công nghệ mới);
+- 01 Bản chính, 09 Bản sao + Văn bản thỏa thuận giữa cơ quan có thẩm quyền với nhà đầu tư về việc giao nhà đầu tư lập báo cáo nghiên cứu khả thi (bao gồm trường hợp dự án ứng dụng công nghệ cao, công nghệ mới);
+- 01 Bản chính, 09 Bản sao + Tài liệu pháp lý khác có liên quan của dự án. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cf2d0e3584cb'">Phu luc I.docx</a>)
+
+
+- Hồ sơ đề nghị phê duyệt dự án PPP do nhà đầu tư đề xuất bao gồm:
+- 01 Bản chính, 09 Bản sao + Tờ trình đề nghị phê duyệt dự án;
+- 01 Bản chính, 09 Bản sao + Dự thảo quyết định phê duyệt dự án; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ecfb42852400'">Phu luc III Mau so 03.docx</a>)
+- 01 Bản chính, 09 Bản sao + Báo cáo nghiên cứu khả thi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda87d5393ddc1c'">Phu luc III Mau so 01.docx</a>)
+- 01 Bản chính, 09 Bản sao + Báo cáo thẩm định báo cáo nghiên cứu khả thi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe648ce5d2b87cc'">Phu luc III Mau so 02.docx</a>)
+- 01 Bản chính, 09 Bản sao + Quyết định chủ trương đầu tư;
+- 01 Bản chính, 09 Bản sao + Quyết định phê duyệt kết quả lựa chọn nhà đầu tư (trường hợp dự án ứng dụng công nghệ cao, công nghệ mới);
+- 01 Bản chính, 09 Bản sao + Tài liệu pháp lý khác có liên quan của dự án. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb253de899a891'">Phu luc I.docx</a>)

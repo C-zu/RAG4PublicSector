@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục công chứng tính xác thực, tính hợp pháp của hợp đồng, giao dịch
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001678
+Số quyết định:
+1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục công chứng tính xác thực, tính hợp pháp của hợp đồng, giao dịch
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công chứng, chứng thực

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại giấy phép tài nguyên nước (TTHC cấp trung ương)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004094
+Số quyết định:
+438/QĐ-BTNMT
+Tên thủ tục:
+Cấp lại giấy phép tài nguyên nước (TTHC cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước

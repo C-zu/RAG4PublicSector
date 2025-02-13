@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp gia hạn, điều chỉnh nội dung giấy phép hoạt động du lịch, thể thao, nghiên cứu khoa học, kinh doanh, dịch vụ thuộc thẩm quyền cấp phép của Bộ Nông nghiệp và PTNT
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003952
+Số quyết định:
+3216/QĐ-BNN-TL
+Tên thủ tục:
+Cấp gia hạn, điều chỉnh nội dung giấy phép hoạt động du lịch, thể thao, nghiên cứu khoa học, kinh doanh, dịch vụ thuộc thẩm quyền cấp phép của Bộ Nông nghiệp và PTNT
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy lợi

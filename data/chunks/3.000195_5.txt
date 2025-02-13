@@ -1,0 +1,19 @@
+Tên thủ tục: Cấp giấy chứng nhận số nhà (cấp lần đầu)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Chủ tịch Ủy ban nhân dân xã
+Cơ quan có thẩm quyền:
+Chủ tịch Ủy ban nhân dân cấp huyện
+Địa chỉ tiếp nhận HS:
+Một cửa của UBND cấp xã
+Cơ quan được ủy quyền:
+Chủ tịch Ủy ban nhân dân xã
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+0, Quyết định cấp giấy Chứng nhận số nhà.
+Căn cứ pháp lý:
+Không có thông tin

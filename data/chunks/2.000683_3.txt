@@ -1,0 +1,8 @@
+Tên thủ tục: Chấm dứt hoạt động liên kết đào tạo trình độ đại học, thạc sĩ, tiến sĩ theo đề nghị của các bên liên kết
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc||Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ|

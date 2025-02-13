@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009519
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Điều chỉnh Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán do thay đổi tên công ty, người đại diện theo pháp luật, thay đổi công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, giám sát, thay đổi thời gian hoạt động, thay đổi trụ sở công ty
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Trong thời hạn 05 (năm) ngày kể từ ngày Đại hội đồng cổ đông thông qua các thay đổi, công ty đầu tư chứng khoán gửi hồ sơ đề nghị chấp thuận thay đổi đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+            Bước 4: Trong thời hạn 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN điều chỉnh Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán;trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec553b22d90af7')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec553b22d90af7')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Giấy đề nghị theo Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Nghị quyết của đại hội đồng cổ đông thông qua nội dung thay đổi và Điều lệ công ty sửa đổi;
+- 01 Bản chính, 01 Bản sao Điều lệ công ty sửa đổi theo Mẫu Phụ lục II ban hành kèm theo Thông tư 98/2020/TT-BTC;
+- 01 Bản chính, 01 Bản sao Trường hợp thay đổi người đại diện theo pháp luật, tài liệu bổ sung: bản thông tin cá nhân theo Mẫu số 91 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP, phiếu lý lịch tư pháp được cấp không quá 06 tháng tính đến ngày nộp hồ sơ của người đại diện theo pháp luật mới;
+- 01 Bản chính, 01 Bản sao Trường hợp thay đổi công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, giám sát tài liệu bổ sung: văn bản cam kết của công ty quản lý quỹ đầu tư chứng khoán về việc bàn giao quyền, nghĩa vụ cho công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, giám sát thay thế;
+- 01 Bản chính, 01 Bản sao Trường hợp gia hạn thời gian hoạt động, tài liệu bổ sung: hợp đồng lưu ký, giám sát ký với ngân hàng lưu ký, giám sát điều chỉnh thời gian hoạt động của công ty;
+- 01 Bản chính, 01 Bản sao Trường hợp thay đổi trụ sở của công ty đầu tư chứng khoán riêng lẻ tự quản lý vốn, tài liệu bổ sung: hợp đồng thuê trụ sở, giấy tờ về quyền sở hữu trụ sở, quyền sử dụng trụ sở.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép điều chỉnh Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán; hoặc công văn từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+|98/2020/TT-BTC|Thông tư 98/2020/TT-BTC|16-11-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Đối với trường hợp thay đổi tên: tên tiếng Việt của công ty đầu tư chứng khoán phải theo quy định pháp luật về doanh nghiệp và có ít nhất hai thành tố sau đây: (i) Tên loại hình quỹ: được viết là “công ty cổ phần đầu tư chứng khoán” đối với công ty đầu tư chứng khoán; (ii) Tên riêng: phù hợp với mục tiêu đầu tư, chiến lược đầu tư của công ty đầu tư chứng khoán.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

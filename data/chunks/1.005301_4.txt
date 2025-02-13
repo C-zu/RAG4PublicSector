@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục khai báo thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Phiếu khai báo thiết bị phát tia X. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd02779714d3828'">phieu khai bao thiet bi phat tia X.doc</a>)
+ Phiếu khai báo máy gia tốc (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7061c6b7fb12a'">phieu khai bao may gia toc.doc</a>)
+ Phiếu khai báo máy phát nơtrôn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb3d71170c9b668'">phieu khai bao may phat notron.doc</a>)

@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận thực hành tốt sản xuất thuốc thú y (trong trường hợp bị mất, sai sót, hư hỏng; thay đổi thông tin có liên quan đến tổ chức đăng ký)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Thú y - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thú y, số 15, ngõ 78, đường Giải Phóng, Phương Mai, Đống Đa, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận GMP
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 79/2015/QH13|Luật Thú y|19-06-2015|Quốc Hội|
+|18/2018/TT-BNNPTNT|Sửa đổi, bổ sung, bãi bỏ một số điều của thông tư số 13/2016/TT-BNNPTNT ngày 02/6/2016 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về quản lý thuốc thú y|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|13/2016/TT-BNNPTNT|Quy định về quản lý thuốc thú y|02-06-2016|Bộ Nông nghiệp và Phát triển nông thôn|
+|35/2016/NĐ-CP|Quy định chi tiết một số điều của Luật thú y|15-05-2016|Chính phủ|
+|13/2022/TT-BNNPTNT|Thông tư 13/2022/TT-BNNPTNT|28-09-2022||
+|80/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của Nghị định số 35/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật Thú y.|13-10-2022|Chính phủ|

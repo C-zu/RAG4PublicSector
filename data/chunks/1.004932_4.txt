@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sản xuất, hoán cải sử dụng trong giao thông vận tải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc bản khai biểu mẫu điện tử Giấy đề nghị kiểm tra theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf03956c464eac'">Mẫu.docx</a>)
+- 01 Bản sao - 01 (một) bản sao điện tử (đối với trường hợp nộp qua cổng dịch vụ công) hoặc 01 (một) bản sao (đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính) hồ sơ thiết kế thiết bị đã được thẩm định; bản kê các tổng thành, bộ phận chính sử dụng để sản xuất, hoán cải thiết bị theo mẫu quy định kèm theo báo cáo kết quả thử nghiệm của cơ sở thử nghiệm. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23a24371412bd'">Mẫu.docx</a>)

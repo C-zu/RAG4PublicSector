@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cho phép đi nước ngoài vì việc riêng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|6 Ngày làm việc||- Thời hạn tiến hành thẩm định, trình UBND tỉnh: Trong vòng 03 (ba) ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ. - Thời hạn Chủ tịch UBND tỉnh xem xét, cho phép/cho ý kiến: Trong vòng 03 (ba) ngày làm việc, Văn phòng UBND tỉnh tham mưu Chủ tịch UBND tỉnh xem xét, cho phép đi nước ngoài vì việc riêng. Đối với trường hợp phải xin ý kiến Thường trực Tỉnh ủy, thời hạn xem xét, cho ý kiến thực hiện theo quy chế làm việc của đơn vị.|
+|Dịch vụ bưu chính|6 Ngày làm việc||- Thời hạn tiến hành thẩm định, trình UBND tỉnh: Trong vòng 03 (ba) ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ. - Thời hạn Chủ tịch UBND tỉnh xem xét, cho phép/cho ý kiến: Trong vòng 03 (ba) ngày làm việc, Văn phòng UBND tỉnh tham mưu Chủ tịch UBND tỉnh xem xét, cho phép đi nước ngoài vì việc riêng. Đối với trường hợp phải xin ý kiến Thường trực Tỉnh ủy, thời hạn xem xét, cho ý kiến thực hiện theo quy chế làm việc của đơn vị.|

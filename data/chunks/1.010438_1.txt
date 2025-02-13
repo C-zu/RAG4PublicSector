@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục Gia hạn giấy phép sử dụng tạm thời hè phố
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010438
+Số quyết định:
+3149/QĐ-UBND
+Tên thủ tục:
+Thủ tục Gia hạn giấy phép sử dụng tạm thời hè phố
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ

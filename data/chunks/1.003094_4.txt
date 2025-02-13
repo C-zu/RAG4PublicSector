@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu theo phương thức kiểm tra giảm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản tự công bố sản phẩm theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb7041b57815900'">Phu luc I mau 02 ND15.2018.docx</a>)
+- 03 Bản chính Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu liên tiếp theo phương thức kiểm tra thông thường hoặc bản sao chứng thực hoặc bản chính hợp pháp hóa lãnh sự một trong các Giấy chứng nhận GMP, HACCP, ISO 22000, IFS, BRC, FSSC 22000 hoặc tương đương còn hiệu lực tại thời điểm nộp;
+- 01 Bản chính Trong trường hợp sản phẩm có nguồn gốc thủy sản và động vật trên cạn, trừ các sản phẩm đã qua chế biến, bao gói sẵn, thì phải có giấy chứng nhận đáp ứng các quy định về an toàn thực phẩm do cơ quan có thẩm quyền của nước xuất khẩu cấp (bản chính).

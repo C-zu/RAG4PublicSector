@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tham gia bảo hiểm xã hội bắt buộc lần đầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai tham gia bảo hiểm xã hội của người sử dụng lao động kèm theo danh sách người lao động tham gia bảo hiểm xã hội
+- 01 Bản chính Tờ khai tham gia bảo hiểm xã hội của người lao động

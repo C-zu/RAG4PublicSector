@@ -1,0 +1,8 @@
+Tên thủ tục: Xóa, thu hồi Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị thu hồi, xóa Giấy chứng nhận đăng ký phương tiện theo mẫu quy (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd575ec68c24a9c'">1.005075.doc</a>)
+- 01 Bản chính Bản gốc hoặc bản điện tử Giấy chứng nhận đăng ký phương tiện đã được cấp.

@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định, phê duyệt bổ sung, điều chỉnh quy hoạch đối với dự án đầu tư xây dựng công trình kho xăng dầu có dung tích kho từ trên 210m3 đến dưới 5.000m3
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Dịch vụ bưu chính|50 Ngày làm việc||50 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

@@ -1,0 +1,16 @@
+Tên thủ tục: Thông báo thay đổi địa điểm đặt trụ sở của Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài sang tỉnh, thành phố trực thuộc Trung ương khác
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000586
+Số quyết định:
+1955/QĐ-BTP
+Tên thủ tục:
+Thông báo thay đổi địa điểm đặt trụ sở của Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài sang tỉnh, thành phố trực thuộc Trung ương khác
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Trọng tài thương mại

@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001363
+Số quyết định:
+1310/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp lại Giấy chứng nhận quyền sử dụng mã số, mã vạch
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức, cá nhân có nhu cầu cấp lại Giấy chứng nhận quyền sử dụng mã số, mã vạch nộp hồ sơ đăng ký sử dụng mã số mã vạch tại Tổng cục Tiêu chuẩn Đo lường Chất lượng.
+Bước 2: Xử lý hồ sơ
+Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Tổng cục Tiêu chuẩn Đo lường Chất lượng có trách nhiệm cấp lại Ciấy chứng nhận cho tổ chức, cá nhân. Trường hợp không đáp ứng yêu cầu phải thông báo bằng văn bản và nêu rõ lý do.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Tổng cục Tiêu chuẩn Đo lường Chất lượng hoặc theo đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày||15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận theo Mẫu số 13 Phụ lục ban hành kèm theo Nghị định số 74/2018/NĐ-CP; ([Mẫu số 13.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd4aec1e960098'))
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập đối với trường hợp thay đổi tên, địa chỉ;
+- 01 Bản chính - Bản chính Giấy chứng nhận (trừ trường hợp bị mất).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng mã số, mã vạch
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|74/2018/NĐ-CP|Nghị định số 74/2018/NĐ-CP ngày 15/05/2018 Sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa.|15-05-2018|Thủ tướng Chính phủ|
+|232/2016/TT-BTC|Thông tư số 232/2016/TT-BTC ngày 11 tháng 11 năm 2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cấp mã số, mã vạch|11-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Giấy chứng nhận được cấp lại áp dụng đối với trường hợp tổ chức, cá nhân có giấy chứng nhận còn hiệu lực nhưng bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của tổ chức, cá nhân.
+- Tổ chức nộp đơn có Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập hợp pháp.
+- Đóng phí duy trì sử dụng mã số mã vạch đầy đủ.
+- Giấy chứng nhận được cấp lại áp dụng đối với trường hợp tổ chức, cá nhân có giấy chứng nhận còn hiệu lực nhưng bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của tổ chức, cá nhân.
+- Tổ chức nộp đơn có Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập hợp pháp.
+- Đóng phí duy trì sử dụng mã số mã vạch đầy đủ.
+Từ khóa:
+Thủ tục cấp lại Giấy chứng nhận quyền sử dụng mã số, mã vạch
+Mô tả:
+Không có thông tin

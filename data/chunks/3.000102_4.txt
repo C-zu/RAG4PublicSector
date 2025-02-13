@@ -1,0 +1,7 @@
+Tên thủ tục: Chấm dứt hợp đồng mua bán điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbc532eb2e6b888'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)

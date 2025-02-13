@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại Giấy phép liên vận giữa Việt Nam và Lào
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Thành phần hồ sơ đề nghị cấp lại giấy phép đối với phương tiện phi thương mại và phương tiện phục vụ các công trình, dự án hoặc hoạt động kinh doanh của doanh nghiệp trên lãnh thổ Lào:
+- 01 Bản chính - Giấy đề nghị cấp lại giấy phép theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5ce3e833cb73a'">Mẫu.docx</a>)
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký xe ô tô thuộc quyền sử dụng của tổ chức, cá nhân;
+- 01 Bản sao - Bản sao quyết định cử đi công tác của cơ quan có thẩm quyền (đối với trường hợp xe công vụ và xe của các cơ quan ngoại giao, tổ chức quốc tế đi công tác);
+- 01 Bản sao - Bản sao hợp đồng hoặc tài liệu chứng minh đơn vị đang thực hiện công trình, dự án hoặc hoạt động kinh doanh trên lãnh thổ Lào (đối với doanh nghiệp, hợp tác xã phục vụ các công trình, dự án hoặc hoạt động kinh doanh trên lãnh thổ Lào).
+
+
+* Thành phần hồ sơ đề nghị cấp lại giấy phép đối với phương tiện thương mại gồm:
+- 01 Bản chính - Giấy đề nghị cấp lại giấy phép theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7072e3bc212f4'">Mẫu.docx</a>)
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký xe ô tô hoặc bản sao giấy hẹn nhận Giấy chứng nhận đăng ký xe ô tô của cơ quan cấp đăng ký hoặc bản sao từ sổ gốc của Giấy chứng nhận đăng ký xe ô tô. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải phải xuất trình thêm bản sao một trong các giấy tờ sau: Hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh;
+- 01 Bản sao - Bản sao văn bản thông báo khai thác tuyến, văn bản thay thế phương tiện hoặc văn bản bổ sung phương tiện của cơ quan quản lý tuyến và hợp đồng đón trả khách tại bến xe khách ở Việt Nam và bến xe khách hoặc nơi đón trả khách ở Lào (đối với phương tiện kinh doanh tuyến vận tải hành khách cố định giữa Việt Nam và Lào).

@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tàu biển tạm thời
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : 30% của mức thu đăng ký không thời hạn Mức thu đăng ký không thời hạn: + Đối với tàu có tổng dung tích đăng ký dưới 500 GT là 3.000 đồng/GT-lần (mức thu tối thiểu không dưới 300.000 đồng); + Đối với tàu có dung tích đăng ký từ 500 đến dưới 1.600 GT là 2.500 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 1.600 đến dưới 3.000 GT là 2.000 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 3.000 GT trở lên là 1.500 đồng/GT lần. - Chủ tàu nộp lệ phí đăng ký tàu biển trực tiếp hoặc chuyển vào tài khoản của cơ quan đăng ký tàu biển trước khi nhận kết quả; chịu toàn bộ chi phí gửi hồ sơ, văn bản và các chi phí liên quan đến chuyển khoản.|Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|2 Ngày làm việc|Lệ phí : 30% của mức thu đăng ký không thời hạn Đồng Mức thu đăng ký không thời hạn: + Đối với tàu có tổng dung tích đăng ký dưới 500 GT là 3.000 đồng/GT-lần (mức thu tối thiểu không dưới 300.000 đồng); + Đối với tàu có dung tích đăng ký từ 500 đến dưới 1.600 GT là 2.500 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 1.600 đến dưới 3.000 GT là 2.000 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 3.000 GT trở lên là 1.500 đồng/GT lần. - Chủ tàu nộp lệ phí đăng ký tàu biển trực tiếp hoặc chuyển vào tài khoản của cơ quan đăng ký tàu biển trước khi nhận kết quả; chịu toàn bộ chi phí gửi hồ sơ, văn bản và các chi phí liên quan đến chuyển khoản.|Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

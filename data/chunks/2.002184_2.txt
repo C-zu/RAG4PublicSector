@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục khai bổ sung hồ sơ hải quan
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Người khai hải quan khai bổ sung các chỉ tiêu trên tờ khai hải quan.
++ Bước 2: Cơ quan hải quan xem xét, chấp nhận nội dung khai bổ sung của người khai hải quan.

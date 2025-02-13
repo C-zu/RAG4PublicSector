@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận cơ sở an toàn dịch bệnh động vật (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+I. Đối với cơ sở có Giấy chứng nhận hết hiệu lực hoặc cơ sở có Giấy chứng nhận vẫn còn hiệu lực nhưng bị hỏng, thất lạc hoặc có sự thay đổi, bổ sung thông tin về cơ sở trên Giấy chứng nhận:
+- 01 Bản chính 1. Đơn đăng ký theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2a83641afa99b'">Phụ lục I.docx</a>)
+
+
+II. Đối với cơ sở đã thực hiện các biện pháp khắc phục sai lỗi và thực hiện các biện pháp duy trì điều kiện an toàn dịch bệnh:
+- 01 Bản chính 1. Đơn đăng ký theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6acdc3fc4c3c4'">Phụ lục I.docx</a>)
+- 01 Bản chính 2. Báo cáo khắc phục sai lỗi.
+
+
+III. Đối với cơ sở đã xử lý dịch bệnh và thực hiện giám sát dịch bệnh theo quy định:
+- 01 Bản chính 1. Đơn đăng ký theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe09dd114384aad'">Phụ lục I.docx</a>)
+- 01 Bản chính 2. Báo cáo xử lý dịch bệnh và kết quả giám sát dịch bệnh.

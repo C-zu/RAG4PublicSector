@@ -1,0 +1,9 @@
+Tên thủ tục: Chuyển đổi chứng chỉ hành nghề hoạt động xây dựng hạng I của cá nhân nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày||25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|25 Ngày||25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|25 Ngày||25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|

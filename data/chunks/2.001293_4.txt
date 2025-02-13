@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, cơ sở vừa sản xuất vừa kinh doanh thực phẩm do Bộ Công Thương thực hiện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Hồ sơ xin cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm gồm:
+- 01 Bản chính a) Đơn đề nghị; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbd34d6c978aba8'">Mẫu số 1a.docx</a>)
+- 01 Bản sao b) Bảo sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật;
+- 01 Bản chính c) Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm; theo Mẫu số 02a (đối với cơ sở sản xuất) hoặc cả Mẫu số 02a và Mẫu số 02b (đối với cơ sở vừa sản xuất vừa kinh doanh) Mục I tại Phụ lục ban hành kèm theo Nghị định số 17/2020/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda900cb2b15f30'">Mẫu số 2a.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec1bea8b2e4e1c'">Mẫu số 2b.docx</a>)
+- 01 Bản chính, 01 Bản sao d) Danh sách tổng hợp đủ sức khỏe do chủ cơ sở xác nhận hoặc giấy xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở y tế cấp huyện trở lên cấp;
+- 01 Bản chính, 01 Bản sao đ) Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm của người trực tiếp sản xuất, kinh doanh thực phẩm có xác nhận của cơ sở.
+- 01 Bản chính, 01 Bản sao Báo cáo kết quả khắc phục theo Mẫu số 04 Mục I tại Phụ lục ban hành kèm theo Nghị định số 17/2020/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbdb93f38120910'">Mẫu số 4.docx</a>)

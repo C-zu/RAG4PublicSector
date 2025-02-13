@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung thông tin thuốc theo hình thức hội thảo giới thiệu thuốc
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị xác nhận nội dung thông tin thuốc nộp hồ sơ đến Sở Y tế;
+Bước 2: Trong thời hạn 10 (mười) ngày, kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ cấp giấy xác nhận theo Mẫu số 06 Phụ lục VI của Nghị định số 54/2017/NĐ-CP. Trường hợp không cấp giấy xác nhận, Sở Y tế phải trả lời bằng văn bản và nêu rõ lý do không cấp;
+Bước 3: Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 10 (mười) ngày kể từ ngày nhận đủ hồ sơ, Sở Y tế có văn bản đề nghị cơ sở sửa đổi, bổ sung nêu cụ thể, chi tiết những tài liệu, nội dung cần sửa đổi, bổ sung;
+Bước 4: Trong thời hạn 10 (mười) ngày, kể từ ngày nhận được hồ sơ sửa đổi, bổ sung theo yêu cầu, Sở Y tế cấp giấy xác nhận theo Mẫu số 06 Phụ lục VI của Nghị định số 54/2017/NĐ-CP hoặc trả lời không cấp giấy xác nhận bằng văn bản và nêu rõ lý do;
+Bước 5: Trong thời hạn 90 (chín mươi) ngày, kể từ ngày Sở Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Nếu quá thời hạn trên, hồ sơ đã nộp không còn giá trị.

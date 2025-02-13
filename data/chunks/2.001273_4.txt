@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục xác nhận liệt sĩ đối với những trường hợp hy sinh từ 31/12/1994 trở về trước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính a) Đơn đề nghị của thân nhân đối tượng, có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú (Mẫu LS3). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd116bc6d6cc6a4'">Mẫu LS3.doc</a>)
+- 01 Bản chính b) Giấy báo tử (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc41ffc4a6585a0'">Mẫu LS1.doc</a>)
+- 03 Bản chính c) Giấy tờ làm căn cứ cấp giấy báo tử theo quy định tại Khoản 11 Điều 7 Thông tư số 202/2013/TT-BQP, gồm: Giấy báo tử trận; Huân chương, huy chương; Giấy chứng nhận đeo Huân chương, Huy chương; Bảng vàng danh dự; Bảng gia đình vẻ vang; danh sách liệt sĩ lưu trữ tại các trung đoàn và tương đương trở lên; lịch sử Đảng bộ cấp xã trở lên được các cơ quan Đảng có thẩm quyền thẩm định và đã xuất bản; báo cáo hàng năm từ trước năm 1995 của cấp ủy đảng được lưu giữ tại cơ quan có thẩm quyền của Đảng.
+- 03 Bản chính c) Bản khai tình hình thân nhân liệt sĩ, có xác nhận của Ủy ban nhân dân cấp xã nơi thân nhân cư trú.

@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục thay đổi, bổ sung giấy đăng ký lưu hành dược liệu (thay đổi nhỏ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Tháng|Phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành dược liệu có thay đổi nhỏ tại Mục II.1 Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT, trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ|
+|Trực tiếp|cơ sở được thực hiện các nội dung thay đổi, bổ sung ngay sau ngày cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận.|Phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành dược liệu có thay đổi nhỏ theo quy định tại Mục II.2 Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT, cơ sở được thực hiện các nội dung thay đổi, bổ sung ngay sau ngày cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận.|
+|Trực tuyến|1 Tháng|Phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành dược liệu có thay đổi nhỏ tại Mục II.1 Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT, trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|cơ sở được thực hiện các nội dung thay đổi, bổ sung ngay sau ngày cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận.|Phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành dược liệu có thay đổi nhỏ theo quy định tại Mục II.2 Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT, cơ sở được thực hiện các nội dung thay đổi, bổ sung ngay sau ngày cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận.|
+|Dịch vụ bưu chính|1 Tháng|Phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành dược liệu có thay đổi nhỏ tại Mục II.1 Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT, trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|cơ sở được thực hiện các nội dung thay đổi, bổ sung ngay sau ngày cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận.|Phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành dược liệu có thay đổi nhỏ theo quy định tại Mục II.2 Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT, cơ sở được thực hiện các nội dung thay đổi, bổ sung ngay sau ngày cơ quan tiếp nhận hồ sơ cấp cho cơ sở đăng ký Phiếu tiếp nhận.|

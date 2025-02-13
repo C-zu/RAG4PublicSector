@@ -1,0 +1,84 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011060
+Số quyết định:
+563/QĐ-UBND
+Tên thủ tục:
+Thông báo về việc sáp nhập công ty trong trường hợp sau sáp nhập công ty, công ty nhận sáp nhập không thay đổi nội dung đăng ký doanh nghiệp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT tại Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ về phòng Đăng ký dinh doanh để giải quyết.
+Bước 3: Thẩm định hồ sơ:
++ Nếu hồ sơ đủ điều kiện thì dự thảo Thông báo chấm dứt tồn tại của công ty bị sáp nhập trình lãnh đạo phòng ký duyệt và cập nhật thông tin trong cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp chuyển lãnh đạo phòng chấp thuận.
++ Nếu hồ sơ không đủ điều kiện: Dự thảo Thông báo sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp trình lãnh đạo phòng ký duyệt.
+Bước 4: Xem xét, phê duyệt kết quả thẩm định hồ sơ tại B3.
+Bước 5: Phát hành văn bản và chuyển kết quả sang Trung tâm PV HCC tỉnh để trả cho tổ chức/cá nhân.
+Bước 6: Trả kết quả cho tổ chức, cá nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày||Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công tỉnh (Số 02A, Đường Nguyễn Chí Thanh, TP Hà Tĩnh, tỉnh Hà Tĩnh).|
+|Trực tuyến|2 Ngày||Qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp (http://dangkykinhdoanh.gov.vn).|
+|Dịch vụ bưu chính|2 Ngày||Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công tỉnh (Số 02A, Đường Nguyễn Chí Thanh, TP Hà Tĩnh, tỉnh Hà Tĩnh).|
+
+Thành phần hồ sơ:
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp (Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực).
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký doanh nghiệp
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Bản chính giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì việc ủy quyền thực hiện như Trường hợp ủy quyền cho tổ chức, kèm theo hồ sơ đăng ký doanh nghiệp phải có:
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản chính Bản chính giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.
+
+
+Bao gồm
+- 01 Bản chính Thông báo chấm dứt tồn tại của công ty bị sáp nhập
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp.
+- 01 Bản chính, 01 Bản sao Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập.
+- 01 Bản sao Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp.
+
+Đối tượng thực hiện:
+Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chấm dứt tồn tại của công ty bị sáp nhập.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|59/2020/QH14|Luật 59/2020/QH14|17-06-2020||
+|01/2021/NĐ-CP|Nghị định 01/2021/NĐ-CP|04-01-2021||
+|01/2021/TT-BKHĐT|Thông tư 01/2021/TT-BKHĐT|16-03-2021||
+|47/2019/TT-BTC|Thông tư 47/2019/TT-BTC|05-08-2019||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

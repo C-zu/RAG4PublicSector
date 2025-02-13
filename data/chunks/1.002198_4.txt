@@ -1,0 +1,9 @@
+Tên thủ tục: Thay đổi nội dung Giấy đăng ký hoạt động của chi nhánh, công ty luật nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị thay đổi đăng ký hoạt động của chi nhánh, công ty luật nước ngoài theo Thông tư 03/2024/TT-BTP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef56dd995d60cb'">26. TP-LS-26. Giay de nghi cap lai, thay doi DKHD CN, CTLNN.doc</a>)
+- 01 Bản sao Bản sao Giấy phép thành lập của chi nhánh, công ty luật nước ngoài;
+- 01 Bản chính Văn bản chấp thuận thay đổi nội dung Giấy phép thành lập của Bộ Tư pháp

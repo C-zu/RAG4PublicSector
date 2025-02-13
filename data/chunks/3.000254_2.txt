@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục đề nghị trả lại phù hiệu, biển hiệu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Doanh nghiệp nộp hồ sơ xin cấp lại phù hiệu, biển hiệu cho Sở Giao thông vận tải (nơi tạm giữ phù hiệu, biển hiệu).
+- Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu (nếu có) cho doanh nghiệp.

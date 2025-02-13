@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký cấp sao bản án, tài liệu trong hồ sơ vụ án
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Cá nhân, tổ chức đề nghị cấp bản sao trích lục bản án tại cơ quan Tòa án.
+Trường hợp thực hiện trực tuyến, cá nhân, tổ chức đăng nhập Cổng Dịch vụ công Quốc gia/Cổng thông tin điện tử của Tòa án nhân dân và lựa chọn dịch vụ, thực hiện nộp đăng ký trực tuyến.
+Bước 2. Cơ quan Tòa án xử lý đề nghị của cá nhân, tổ chức.
+Bước 3. Cơ quan Tòa án thông báo kết quả và phí cấp bản sao. 
+Trường hợp thực hiện trực tuyến, thông báo sẽ được gửi trực tuyến đến cá nhân, tổ chức. Cá nhân, tổ chức thực hiện đóng phí cấp bản sao trực tuyến.
+Bước 4. Cá nhân, tổ chức nộp phí cấp bản sao và nhận kết quả tại Cơ quan Tòa án hoặc nhận kết quả qua đường bưu điện.
+Trường hợp thực hiện trực tuyến, cá nhân, tổ chức có thể nhận kết quả là các văn bản điện tử.

@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định dự án thuộc đối tượng lập báo cáo kinh tế - kỹ thuật do UBND tỉnh hoặc chủ tịch UBND tỉnh quyết định đầu tư (Phần nhiệm vụ thẩm định của người quyết định đầu tư dự án) hoặc Thẩm định dự án thuộc đối tượng lập Báo cáo kinh tế - kỹ thuật do UBND huyện hoặc chủ tịch UBND huyện quyết định đầu tư (Phần nhiệm vụ thẩm định cơ quan chuyên môn về xây dựng)..
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010322
+Số quyết định:
+1336/QĐ-UBND
+Tên thủ tục:
+Thẩm định dự án thuộc đối tượng lập báo cáo kinh tế - kỹ thuật do UBND tỉnh hoặc chủ tịch UBND tỉnh quyết định đầu tư (Phần nhiệm vụ thẩm định của người quyết định đầu tư dự án) hoặc Thẩm định dự án thuộc đối tượng lập Báo cáo kinh tế - kỹ thuật do UBND huyện hoặc chủ tịch UBND huyện quyết định đầu tư (Phần nhiệm vụ thẩm định cơ quan chuyên môn về xây dựng)..
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

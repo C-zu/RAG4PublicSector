@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục Gia hạn Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 15000000 Đồng Phí, lệ phí|20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|20 Ngày|Phí : 15000000 Đồng (Phí, lệ phí)|20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : 15000000 Đồng Phí, lệ phí|20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.|

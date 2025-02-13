@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục công bố sử dụng dấu định lượng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||- Thời hạn kiểm tra và trả lời về tính đầy đủ và hợp lệ của hồ sơ: 03 ngày làm việc. - Thời hạn bổ sung hồ sơ: 30 ngày kể từ ngày Chỉ cục Tiêu chuẩn Đo lường Chất lượng gửi thông báo. - Thời hạn giải quyết sau khi hồ sơ hợp lệ, đầy đủ: 05 ngày làm việc.|

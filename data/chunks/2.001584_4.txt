@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại giấy phép hoạt động in xuất bản phẩm (cấp địa phương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép hoạt động in xuất bản phẩm theo Mẫu số 18. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe27dffc8940c68'">Mẫu số 18- Đơn đề nghị cấp đổi ,cấp lại GPHĐ In.doc</a>)

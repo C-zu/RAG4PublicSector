@@ -1,0 +1,12 @@
+Tên thủ tục: Xóa đăng ký tạm trú
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Trong thời hạn 07 ngày kể từ ngày hộ gia đình có người thuộc diện xóa đăng ký tạm trú thì người thuộc diện xóa đăng ký tạm trú hoặc đại diện hộ gia đình có trách nhiệm nộp hồ sơ làm thủ tục xóa đăng ký tạm trú đến cơ quan đăng ký cư trú.
+- Trường hợp cơ quan đăng ký cư trú phát hiện công dân đó thuộc một trong các trường hợp bị xóa đăng ký tạm trú: Trước khi thực hiện việc xóa đăng ký tạm trú, cơ quan đăng ký cư trú thông báo về việc xóa đăng ký tạm trú tới công dân hoặc đại diện hộ gia đình để biết và thực hiện việc nộp hồ sơ làm thủ tục xóa đăng ký tạm trú theo quy định. Trường hợp quá 07 ngày kể từ ngày cơ quan đăng ký cư trú thông báo mà người thuộc diện xóa đăng ký tạm trú hoặc đại diện hộ gia đình không nộp hồ sơ làm thủ tục xóa đăng ký tạm trú thì cơ quan đăng ký cư trú tiến hành lập biên bản về việc công dân, đại diện hộ gia đình không nộp hồ sơ làm thủ tục xóa đăng ký tạm trú và thực hiện xóa đăng ký tạm trú đối với công dân. Cơ quan đăng ký cư trú thông báo bằng văn bản cho công dân đó hoặc chủ hộ về việc xóa đăng ký tạm trú sau khi đã thực hiện.
+- Trong thời hạn 07 ngày kể từ ngày hộ gia đình có người thuộc diện xóa đăng ký tạm trú thì người thuộc diện xóa đăng ký tạm trú hoặc đại diện hộ gia đình có trách nhiệm nộp hồ sơ làm thủ tục xóa đăng ký tạm trú đến cơ quan đăng ký cư trú.
+- Trường hợp cơ quan đăng ký cư trú phát hiện công dân đó thuộc một trong các trường hợp bị xóa đăng ký tạm trú: Trước khi thực hiện việc xóa đăng ký tạm trú, cơ quan đăng ký cư trú thông báo về việc xóa đăng ký tạm trú tới công dân hoặc đại diện hộ gia đình để biết và thực hiện việc nộp hồ sơ làm thủ tục xóa đăng ký tạm trú theo quy định. Trường hợp quá 07 ngày kể từ ngày cơ quan đăng ký cư trú thông báo mà người thuộc diện xóa đăng ký tạm trú hoặc đại diện hộ gia đình không nộp hồ sơ làm thủ tục xóa đăng ký tạm trú thì cơ quan đăng ký cư trú tiến hành lập biên bản về việc công dân, đại diện hộ gia đình không nộp hồ sơ làm thủ tục xóa đăng ký tạm trú và thực hiện xóa đăng ký tạm trú đối với công dân. Cơ quan đăng ký cư trú thông báo bằng văn bản cho công dân đó hoặc chủ hộ về việc xóa đăng ký tạm trú sau khi đã thực hiện.
+Từ khóa:
+Xóa đăng ký tạm trú
+Mô tả:
+Không có thông tin

@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001675
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức, doanh nghiệp đã được cấp Giấy chứng nhận đăng ký hoạt động kiểm định chất lượng sản phẩm, hàng hóa trong quá trình sử dụng thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương (còn hiệu lực) có nhu cầu bổ sung, mở rộng, thu hẹp phạm vi kiểm định chuẩn bị 01 bộ hồ sơ theo quy định và gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại trụ sở hoặc qua Cổng thông tin điện tử của Bộ Công Thương theo hình thức dịch vụ công trực tuyến, cụ thể:
+- Đối với trường hợp nộp hồ sơ qua đường bưu điện: Bản sao có chứng thực.
+- Đối với trường hợp nộp hồ sơ trực tiếp: Bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu.
+- Đối với trường hợp nộp hồ sơ qua mạng điện tử: Bản scan từ bản gốc.
+Bước 2: Xử lý hồ sơ
+- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi, bổ sung.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ, Bộ Công Thương cấp Giấy chứng nhận cho tổ chức kiểm định theo mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Các tài liệu chứng minh năng lực hoạt động kiểm định bổ sung, sửa đổi đáp ứng các yêu cầu quy định tại khoản 2 Điều 9 Nghị định số 107/2016/NĐ-CP, cụ thể như sau: Trường hợp tổ chức kiểm định đã được chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 nhưng có phạm vi đăng ký hoạt động rộng hơn phạm vi đã được chứng nhận, tổ chức kiểm định nộp bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 và các tài liệu, quy trình kiểm định và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 9 Nghị định số 107/2016/NĐ-CP đối với phạm vi chưa được chứng nhận ([phụ lục (18).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc981a37d45d760'))
+- 01 Bản chính Đơn đăng ký bổ sung, sửa đổi hoạt động kiểm định theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP ([phụ lục (16).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcbecefe2a6920c'))
+- 01 Bản sao Danh sách bổ sung, sửa đổi kiểm định viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao các bằng cấp, chứng chỉ đào tạo tương ứng theo quy định tại khoản 3 Điều 9 Nghị định số 107/2016/NĐ-CP
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Kỹ thuật an toàn và Môi trường công nghiệp - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động kiểm định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13 -Đầu tư|26-11-2014|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức kiểm định đã được cấp Giấy chứng nhận đăng ký lĩnh vực hoạt động kiểm định còn hiệu lực có nhu cầu bổ sung, mở rộng, thu hẹp phạm vi kiểm định;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO 9001:2008 hoặc các tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với kiểm định chuyên ngành.
+- Trường hợp bổ sung lĩnh vực hoạt động kiểm định, phải có ít nhất 02 kiểm định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) tương ứng với lĩnh vực kiểm định đăng ký bổ sung, được đào tạo về tiêu chuẩn quốc gia TCVN ISO 9001:2008.
+- Có máy móc, thiết bị, dụng cụ theo yêu cầu tại quy trình kiểm định.
+- Tổ chức kiểm định đã được cấp Giấy chứng nhận đăng ký lĩnh vực hoạt động kiểm định còn hiệu lực có nhu cầu bổ sung, mở rộng, thu hẹp phạm vi kiểm định;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO 9001:2008 hoặc các tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với kiểm định chuyên ngành.
+- Trường hợp bổ sung lĩnh vực hoạt động kiểm định, phải có ít nhất 02 kiểm định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) tương ứng với lĩnh vực kiểm định đăng ký bổ sung, được đào tạo về tiêu chuẩn quốc gia TCVN ISO 9001:2008.
+- Có máy móc, thiết bị, dụng cụ theo yêu cầu tại quy trình kiểm định.
+Từ khóa:
+Tiêu chuẩn đo lường chất lượng
+Mô tả:
+Không có thông tin

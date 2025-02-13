@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm (tàu cá, cảng cá, cơ sở nuôi trồng thủy sản)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị cấp Giấy chứng nhận ATTP theo mẫu tại Phụ lục V ban hành kèm theo Thông tư số 38/2018/TT-BNNPTNT ngày 25 tháng 12 năm 2018. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfa4512e9edb1c'">Don De nghi cap, cap lai GCN co so du dieu kien ATTP.doc</a>)
+- 01 Bản chính 2. Bản thuyết minh về điều kiện bảo đảm an toàn thực phẩm của cơ sở theo Phụ lục VI ban hành kèm theo Thông tư số 38/2018/TT-BNNPTNT ngày 25 tháng 12 năm 2018. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe38267c7a91926'">Ban thuyet minh dieu kien dam bao ATTP cua co so.doc</a>)

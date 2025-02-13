@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi Giấy phép hoạt động dịch vụ việc làm của doanh nghiệp hoạt động dịch vụ việc làm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị thu hồi giấy phép theo Mẫu số 05 Phụ lục II ban hành kèm theo Nghị định số 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbcf44253e515e0'">Mau 05.docx</a>)
+- 01 Bản chính - Giấy phép đã được cấp hoặc văn bản cam kết chịu trách nhiệm trước pháp luật của doanh nghiệp hoạt động dịch vụ việc làm đối với trường hợp giấy phép bị mất.
+- 01 Bản chính - Báo cáo tình hình hoạt động dịch vụ việc làm của doanh nghiệp theo Mẫu số 08 Phụ lục II ban hành kèm theo Nghị định 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0599cbdaeaa75'">Mau 08.docx</a>)

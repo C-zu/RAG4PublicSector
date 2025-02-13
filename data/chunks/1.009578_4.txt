@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện sản xuất thƣớc ăn chăn nuôi thƣơng mại, thức ăn chăn nuôi theo đặt hàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+đơn
+- 01 Bản chính Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed35ab84531d1'">don.docx</a>)

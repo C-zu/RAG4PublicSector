@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tiếp nhận thông báo tổ chức thi sáng tác tác phẩm mỹ thuật (thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề án tổ chức, thể lệ cuộc thi
+- 01 Bản chính Trường hợp phối hợp với tổ chức, cá nhân nước ngoài, tổ chức quốc tế phải kèm theo văn bản thoả thuận giữa các bên

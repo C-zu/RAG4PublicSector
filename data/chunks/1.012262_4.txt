@@ -1,0 +1,10 @@
+Tên thủ tục: Xếp cấp chuyên môn kỹ thuật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị xếp cấp
+- 01 Bản chính 2. Bảng tự chấm điểm theo tiêu chí và nội dung đánh giá quy định tại Phụ lục V ban hành kèm theo Nghị định số 96/2023/NĐ-CP
+- 01 Bản chính 3. Các tài liệu, số liệu thống kê minh chứng điểm số đạt được;
+- 01 Bản chính 4. Các tài liệu khác có liên quan

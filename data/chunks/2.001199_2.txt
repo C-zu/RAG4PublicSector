@@ -1,0 +1,18 @@
+Tên thủ tục: Đăng ký thành lập công ty TNHH hai thành viên trở lên
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp đăng ký trực tiếp hoặc qua dịch vụ bưu chính
+- Người nộp hồ sơ đăng ký doanh nghiệp theo quy định tại Nghị định số 01/2021/NĐ-CP nộp hồ sơ tại Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính.
+- Sau khi tiếp nhận hồ sơ đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh trao Giấy biên nhận về việc nhận hồ sơ cho người nộp hồ sơ. Phòng Đăng ký kinh doanh cấp Giấy chứng nhận đăng ký doanh nghiệp trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+- Trường hợp hồ sơ chưa hợp lệ hoặc tên doanh nghiệp yêu cầu đăng ký không đúng theo quy định, Phòng Đăng ký kinh doanh sẽ thông báo bằng văn bản nội dung cần sửa đổi, bổ sung cho người thành lập doanh nghiệp hoặc doanh nghiệp trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng
+- Người nộp hồ sơ kê khai thông tin, tải văn bản điện tử, ký xác thực hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử và thanh toán phí, lệ phí đăng ký doanh nghiệp theo quy trình trên cổng thông tin quốc gia về đăng ký doanh nghiệp (https://dangkykinhdoanh.gov.vn).
+- Sau khi hoàn thành việc gửi hồ sơ đăng ký doanh nghiệp, người nộp hồ sơ sẽ nhận được Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử.
+- Trường hợp hồ sơ đủ điều kiện cấp đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh thực hiện cấp đăng ký doanh nghiệp và thông báo cho doanh nghiệp về việc cấp đăng ký doanh nghiệp. Trường hợp hồ sơ chưa đủ điều kiện cấp đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh gửi thông báo qua mạng thông tin điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ
+Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh
+- Người nộp hồ sơ sử dụng Tài khoản đăng ký kinh doanh để kê khai thông tin, tải văn bản điện tử và ký xác thực hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử và thanh toán phí, lệ phí đăng ký doanh nghiệp theo quy trình trên cổng thông tin quốc gia về đăng ký doanh nghiệp (https://dangkykinhdoanh.gov.vn) . Trường hợp ủy quyền thực hiện thủ tục đăng ký doanh nghiệp qua mạng thông tin điện tử sử dụng Tài khoản đăng ký kinh doanh, văn bản ủy quyền phải có thông tin liên hệ của người ủy quyền để xác thực việc nộp hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử.
+- Sau khi hoàn thành việc gửi hồ sơ đăng ký, người nộp hồ sơ sẽ nhận được Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử.
+- Phòng Đăng ký kinh doanh cấp đăng ký doanh nghiệp cho doanh nghiệp trong trường hợp hồ sơ đủ điều kiện và thông báo cho doanh nghiệp về việc cấp đăng ký doanh nghiệp. Trường hợp hồ sơ chưa đủ điều kiện, Phòng Đăng ký kinh doanh gửi thông báo qua mạng thông tin điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ.
+Công bố nội dung đăng ký doanh nghiệp
+- Việc đề nghị công bố nội dung đăng ký doanh nghiệp được thực hiện tại thời điểm doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp. Nội dung công bố bao gồm các nội dung Giấy chứng nhận đăng ký doanh nghiệp và thông tin về ngành, nghề kinh doanh.

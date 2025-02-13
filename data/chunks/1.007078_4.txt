@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép dừng xe, đỗ xe tại nơi cấm dừng, cấm đỗ; cấp phép xe vào đường cấm của hệ thống đường địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Số lượng hồ sơ:01 bộ.
+- 01 Bản chính + Đơn đề nghị cấp phép dừng xe, đỗ xe tại nơi cấm dừng, cấm đỗ hoặc cấp phép xe lưu thông vào đường cấm (bản chính) (Phụ lục 6 Quyết định số 18/2014/QĐ-UBND ngày 22/4/2014 của UBND tỉnh Bà Rịa – Vũng Tàu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe35ffbc23c51e1'">PHỤ LỤC 6.8.doc</a>)
+- 01 Bản chính, 01 Bản sao + Giấy tờ phương tiện (photo kèm bản chính để đối chiếu): Giấy chứng nhận đăng ký xe, sổ kiểm định kỹ thuật;
+- 01 Bản chính + Bản sao giấy chứng nhận đăng ký kinh doanh, hợp đồng thuê xe (đối với xe thuê);
+- 01 Bản chính + Cam kết đảm bảo an toàn giao thông, thực hiện các yêu cầu của cơ quan quản lý đường bộ có thẩm quyền; chịu hoàn toàn trách nhiệm và kinh phí liên quan khi để xảy ra tai nạn giao thông.

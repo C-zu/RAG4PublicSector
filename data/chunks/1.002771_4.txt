@@ -1,0 +1,14 @@
+Tên thủ tục: Phê duyệt phương án trục vớt tài sản chìm đắm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Phương án trục vớt tài sản chìm đắm, gồm các nội dung cơ bản sau:
+- 01 Bản chính Phương án trục vớt tài sản chìm đắm, gồm các nội dung cơ bản sau: Tên, số lượng, loại tài sản chìm đắm; Số lượng, loại hàng chở trên tàu (nếu là tàu thuyền); + Khối lượng nhiên liệu trên tàu (nếu là tàu thuyền); + Căn cứ tổ chức việc trục vớt; + Kết quả thực hiện phương án thăm dò tài sản chìm đắm (nếu có); + Địa điểm tài sản bị chìm đắm; + Dự kiến thời gian bắt đầu và thời hạn trục vớt; + Phương tiện tham gia và biện pháp trục vớt; + Biện pháp bảo đảm an toàn giao thông trong quá trình trục vớt; + Biện pháp bảo đảm an toàn lao động trong quá trình trục vớt; + Biện pháp bảo quản tài sản bị chìm đắm sau khi được trục vớt; + Bàn giao tài sản được trục vớt; + Biện pháp phòng, chống bệnh truyền nhiễm; + Biện pháp phòng ngừa ô nhiễm môi trường; + Biện pháp phòng, chống cháy, nổ; + Dự toán chi phí trục vớt; + Đơn vị thực hiện trục vớt. Đối với phương án trục vớt do chủ sở hữu tài sản lập và thực hiện trục vớt thì phương án không bao gồm nội dung dự toán chi phí trục vớt.
+- 01 Bản chính Các tài liệu, giấy tờ cần thiết khác có liên quan (nếu có).
+
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Tờ khai phê duyệt phương án trục vớt tài sản chìm đắm theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febea009098e21f'">mẫu tờ khai.doc</a>)
+- 01 Bản chính, 01 Bản sao - Phương án trục vớt tài sản chìm đắm, gồm các nội dung cơ bản sau: + Tên, số lượng, loại tài sản chìm đắm; + Số lượng, loại hàng chở trên tàu (nếu là tàu thuyền); + Khối lượng nhiên liệu trên tàu (nếu là tàu thuyền); + Căn cứ tổ chức việc trục vớt; + Kết quả thực hiện phương án thăm dò tài sản chìm đắm (nếu có); + Địa điểm tài sản bị chìm đắm; + Dự kiến thời gian bắt đầu và thời hạn trục vớt; + Phương tiện tham gia và biện pháp trục vớt; + Biện pháp bảo đảm an toàn giao thông trong quá trình trục vớt; + Biện pháp bảo đảm an toàn lao động trong quá trình trục vớt; + Biện pháp bảo quản tài sản bị chìm đắm sau khi được trục vớt; + Bàn giao tài sản được trục vớt; + Biện pháp phòng, chống bệnh truyền nhiễm; + Biện pháp phòng ngừa ô nhiễm môi trường; + Biện pháp phòng, chống cháy, nổ; + Dự toán chi phí trục vớt; + Đơn vị thực hiện trục vớt. Đối với phương án trục vớt do chủ sở hữu tài sản lập và thực hiện trục vớt thì phương án không bao gồm nội dung dự toán chi phí trục vớt.
+- 01 Bản chính, 01 Bản sao - Các tài liệu, giấy tờ cần thiết khác có liên quan (nếu có).

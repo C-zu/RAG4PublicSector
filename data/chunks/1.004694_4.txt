@@ -1,0 +1,11 @@
+Tên thủ tục: Công bố mở cảng cá loại 2
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị công bố mở cảng cá theo Mẫu 33 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd75b7581aa4546'">Mẫu số 33.docx</a>)
+- 01 Bản sao b) Văn bản thành lập Tổ chức quản lý cảng cá; ...
+- 01 Bản chính c) Văn bản thể hiện quyền sử dụng vùng đất, vùng nước của cảng; ..
+- 01 Bản sao d) Biên bản nghiệm thu đưa vào sử dụng công trình cảng cá (áp dụng đối với cảng cá hoàn thành từ sau khi Nghị định số 37/2024/NĐ-CP có hiệu lực thi hành);
+- 01 Bản sao đ) Thông báo về luồng của cảng và vùng nước trước cầu cảng.

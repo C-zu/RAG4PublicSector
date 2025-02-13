@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp Giấy phép xuất khẩu, nhập khẩu giống cây trồng lâm nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Trường hợp cấp Giấy phép nhập khẩu giống cây trồng lâm nghiệp:
+- 01 Bản chính + Bản chính hoặc bản sao thiết kế kỹ thuật trồng khảo nghiệm, thử nghiệm giống cây trồng lâm nghiệp đối với trường hợp nhập khẩu để khảo nghiệm, trồng thử nghiệm;
+- 01 Bản sao + Bản sao thỏa thuận hợp tác bằng tiếng nước ngoài kèm theo bản dịch công chứng sang tiếng Việt đối với trường hợp nhập khẩu theo thỏa thuận hợp tác;
+- 01 Bản chính + Bản chính hoặc bản sao Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm tại Việt Nam đối với trường hợp nhập khẩu giống cây trồng lâm nghiệp để tham gia hội chợ, triển lãm;
+- 01 Bản sao + Bản sao Giấy xác nhận giữa hai bên bằng tiếng nước ngoài kèm theo bản dịch công chứng sang tiếng Việt đối với trường hợp nhập khẩu giống cây trông lâm nghiệp để làm quà tặng;
+- 01 Bản sao + Bản sao văn bản phê duyệt hoặc chấp thuận chương trình, dự án đầu tư của cơ quan nhà nước có thẩm quyền hoặc dự án được doanh nghiệp phê duyệt theo quy định của pháp luật đối với trường hợp nhập khẩu để thực hiện các chương trình, dự án đầu tư.
+
+
+* Trường hợp cấp Giấy phép xuất khẩu giống cây trồng lâm nghiệp:
+- 01 Bản sao + Bản sao thỏa thuận hợp tác bằng tiếng nước ngoài kèm theo bản dịch công chứng sang tiếng Việt đối với trường hợp xuất khẩu phục vụ nghiên cứu, khảo nghiệm, hợp tác quốc tế;
+- 01 Bản chính + Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm của đơn vị tổ chức đối với trường hợp xuất khẩu để tham gia hội chợ, triển lãm.
+
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp Giấy phép xuất khẩu/ nhập khẩu giống cây trồng lâm nghiệp theo Mẫu số 05/LN Phụ lục II ban hành kèm theo Nghị định số 27/2021/NĐ-CP ngày 25 tháng 3 năm 2021 của Chính phủ về quản lý giống cây trồng lâm nghiệp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcbd99098a3ca20'">Mẫu số 05LN.doc</a>)
+- 01 Bản chính - Bản chính lý lịch giống cây trồng lâm nghiệp đề nghị xuất khẩu/ nhập khẩu (mỗi giống chỉ nộp một lần khi xuất khẩu lần đầu) theo Mẫu số 07/LN Phụ lục II ban hành kèm theo Nghị định số 27/2021/NĐ-CP ngày 25 tháng 3 năm 2021 của Chính phủ về quản lý giống cây trồng lâm nghiệp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5296d279d2679'">Mẫu số 07LN.doc</a>)
+ - Ngoài ra phải kèm theo một trong các tài liệu sau đây:

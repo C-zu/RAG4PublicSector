@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm tra, phê duyệt quyết toán vốn đầu tư công trình hoàn thành thuộc thẩm quyền Sở Giao thông vận tải thành phố Đà Nẵng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : Đối với chi phí thẩm tra, phê duyệt quyết toán các công trình do Sở Giao thông vận tải thẩm tra được xác định trên cơ sở tổng mức đầu tư được duyệt (hoặc được điều chỉnh) nhân với tỷ lệ định mức quy định tại Bảng định mức chi phí thẩm tra, phê duyệt quyết toán (tại Khoản 1 Điều 20 của Thông tư 10/2020/TT-BTC của Bộ trưởng Bộ Tài chính) cộng với thuế GTGT.|- Hồ sơ được nộp trực tuyến tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải) trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng. - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng.|
+|Trực tuyến|5 Ngày làm việc|Phí : Đối với chi phí thẩm tra, phê duyệt quyết toán các công trình do Sở Giao thông vận tải thẩm tra được xác định trên cơ sở tổng mức đầu tư được duyệt (hoặc được điều chỉnh) nhân với tỷ lệ định mức quy định tại Bảng định mức chi phí thẩm tra, phê duyệt quyết toán (tại Khoản 1 Điều 20 của Thông tư 10/2020/TT-BTC của Bộ trưởng Bộ Tài chính) cộng với thuế GTGT.|- Hồ sơ được nộp trực tuyến tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải) trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng. - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng.|

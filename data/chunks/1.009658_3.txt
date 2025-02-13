@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt kế hoạch khuyến nông địa phương (cấp xã)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Phí : 0 Đồng|Thời hạn giải quyết: 60 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (thời gian nộp hồ sơ trước ngày 30/9 hàng năm).|
+|Trực tuyến|60 Ngày|Phí : 0 Đồng|Thời hạn giải quyết: 60 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (thời gian nộp hồ sơ trước ngày 30/9 hàng năm).|
+|Dịch vụ bưu chính|60 Ngày|Phí : 0 Đồng|Thời hạn giải quyết: 60 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (thời gian nộp hồ sơ trước ngày 30/9 hàng năm).|

@@ -1,0 +1,23 @@
+Tên thủ tục: Cho thuê nhà ở cũ thuộc sở hữu nhà nước
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện:
+Sở Xây dựng, Đơn vị quản lý vận hành nhà ở
+Cơ quan có thẩm quyền:
+Cơ quan đại diện có thẩm quyền
+Địa chỉ tiếp nhận HS:
+đơn vị quản lý vận hành nhà ở hoặc tại Sở Xây dựng (do Ủy ban nhân dân cấp tỉnh quy định);
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định đối tượng được thuê nhà ở cũ thuộc sở hữu nhà nước
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|65/2014/QH13|Luật 65/2014/QH13|25-11-2014|Quốc Hội|
+|99/2015/NĐ-CP|Nghị định 99/2015/NĐ-CP|20-10-2015|Chính phủ|
+|19/2016/TT-BXD|Thông tư 19/2016/TT-BXD|30-06-2016|Bộ Xây dựng|

@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp Quyết định, phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Bước 1: Tổ chức, cá nhân gửi hồ sơ đến Sở Nông nghiệp và PTNT.
+b) Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+- Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+- Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung.
+c) Bước 3: 
+	* Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng
+- Trường hợp Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Nông nghiệp và Phát triển nông thôn ban hành Quyết định thành lập Hội đồng thẩm định cây đầu dòng, vườn cây đầu dòng. Trong thời hạn 05 ngày làm việc, kể từ ngày thành lập, Hội đồng có trách nhiệm thẩm định hồ sơ, kiểm tra cây đầu dòng, vườn cây đầu dòng tại địa điểm có cây đầu dòng, vườn cây đầu dòng. Trường hợp cây đầu dòng, vườn cây đầu dòng đáp ứng đủ điều kiện, trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc thẩm định, Sở Nông nghiệp và Phát triển nông thôn cấp Quyết định công nhận cây đầu dòng theo Mẫu số 04.CĐD, Mẫu số 05.CĐD Phụ lục VI Nghị định số 94/2019/NĐ-CP ngày 13/12/2019
+- Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+* Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng
+Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản, Sở Nông nghiệp và Phát triển nông thôn tổ chức thẩm định. Trường hợp cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở, Sở Nông nghiệp và Phát triển nông thôn ban hành Quyết định phục hồi Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng. 
+Trường hợp không phục hồi Quyết định phải trả lời bằng văn bản và nêu rõ lý do.

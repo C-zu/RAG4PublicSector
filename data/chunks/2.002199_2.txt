@@ -1,0 +1,6 @@
+Tên thủ tục: Xác nhận chuyên gia
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Chuyên gia người nước ngoài cung cấp thông tin cần thiết cho Chủ dự án.
+- Bước 2: Trong vòng 30 ngày làm việc kể từ khi hợp đồng chuyên gia có hiệu lực, Chủ dự án gửi Cơ quan chủ quản công văn đề nghị xác nhận chuyên gia kèm theo hồ sơ theo quy định.

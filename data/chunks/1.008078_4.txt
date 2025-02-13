@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục thẩm tra công nghệ các dự án đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+01 bộ gốc và 07 bộ sao
+- 01 Bản chính, 01 Bản sao Công văn đề nghị thẩm tra công nghệ dự án đầu tư;
+- 01 Bản chính, 01 Bản sao Các tài liệu thuộc hồ sơ đề nghị cấp Giấy chứng nhận đầu tư;
+- 01 Bản chính, 01 Bản sao Giải trình kinh tế- kỹ thuật, trong đó nêu rõ giải pháp về công nghệ bao gồm: quy trình công nghệ; phân tích và lựa chọn phương án công nghệ; danh mục máy móc, trang thiết bị; dây chuyền công nghệ; đánh giá tác động của công nghệ đến môi trường và hiệu quả kinh tế- xã hội
+- 01 Bản chính, 01 Bản sao Dự thảo hợp đồng chuyển giao công nghệ (nếu dự án đầu tư có nội dung góp vốn bằng công nghệ).

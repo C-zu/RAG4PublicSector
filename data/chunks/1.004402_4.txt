@@ -1,0 +1,11 @@
+Tên thủ tục: Cho phép mua nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần và tiền chất dùng làm thuốc thuộc thẩm quyền của Bộ Y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 01 bản đơn hàng: Đơn hàng mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất/nguyên liệu làm thuốc là dược chất gây nghiện/dược chất hướng thần/tiền chất dùng làm thuốc; nhượng lại nguyên liệu làm thuốc là dược chất gây nghiện/dược chất hướng thần/tiền chất dùng làm thuốc (Mẫu số 19 Phụ lục II của Phụ lục II tại Nghị định số 155/2018/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee1fa6c75acac6'">ND54_Mau 19_Phụ lục II PLII.docx</a>)
+- 01 Bản chính Báo cáo sử dụng nguyên liệu làm thuốc theo Mẫu số 10 Phụ lục II của Nghị định 54/2017/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5c45a8cee75ee'">ND54_Mau 10_Phu luc II.docx</a>)
+- 01 Bản chính Báo cáo kết quả kinh doanh nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc theo Mẫu số 20 Phụ lục II của Nghị định 54/2017/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec9a462eb91d89'">ND54_Mau 20_Phu luc II.docx</a>)
+- 01 Bản chính Kế hoạch sản xuất thuốc đối với nguyên liệu đề nghị mua;
+- 01 Bản chính Văn bản giải thích rõ lý do khi số lượng nguyên liệu làm thuốc đề nghị mua vượt quá 150% so với số lượng sử dụng lần trước.

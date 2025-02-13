@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010117
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Điều chỉnh Giấy chứng nhận đăng ký đầu tư đối với dự án đầu tư thuộc diện điều chỉnh quyết định chủ trương đầu tư của Thủ tướng Chính phủ - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	  Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo Ban ký duyệt. 
+- Trường hợp hồ sơ đáp ứng yêu cầu: Làm văn bản gửi Bộ KH&ĐT và cho cơ quan nhà nước có thẩm quyền liên quan để lấy ý kiến về những nội dung điều chỉnh
+B5	Làm thủ tục phát hành văn bản và:
+- TH hồ sơ không đủ điều kiện: Chuyển sang TTPVHCC để trả cho tổ chức cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 18
+- TH hồ sơ đáp ứng yêu cầu: Gửi văn bản kèm 02 bộ hồ sơ cho Bộ KH&ĐT đồng thời gửi hồ sơ cho cơ quan nhà nước có thẩm quyền liên quan để lấy ý kiến về những nội dung điều chỉnh.
+B6	Các Bộ ngành liên quan góp ý thẩm định hồ sơ
+B7	Hoàn chỉnh dự thảo Báo cáo các nội dung liên quan đến dự án và dự thảo Tờ trình đề nghị UBND tỉnh có ý kiến đề xuất gửi Bộ Kế hoạch và Đầu tư
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B9	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định của phòng chuyên môn
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B11	- UBND tỉnh xem xét, có ý kiến gửi Bộ KH và ĐT 
+B12	Bộ KH và ĐT lập báo cáo thẩm định trình Thủ tướng Chính phủ quyết định
+B13	Thủ tướng Chính phủ xem xét, quyết định chủ trương đầu tư
+B14	Theo dõi cập nhật kết quả, dự thảo Giấy chứng nhận đăng ký đầu tư (điều chỉnh) hoặc Văn bản thông báo không đủ điều kiện cấp GCN đăng ký đầu tư (điều chỉnh) trình Lãnh đạo phòng xem xét ký nháy
+B15	Lãnh đạo phòng chuyên môn xem xét ký nháy kết quả tại B14
+B16	Lãnh đạo Ban xem xét, Ký duyệt
+B17	Làm thủ tục phát hành văn bản và chuyển TTPVHCC để trả cho tổ chức, cá nhân
+- Cập nhật theo dõi kết quả xử lý công việc
+B18	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|47 Ngày|Phí : 0 Đồng||
+|Trực tuyến|47 Ngày|Phí : 0 Đồng||
+|Dịch vụ bưu chính|47 Ngày|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.10.01
+- 01 Bản chính Báo cáo tình hình triển khai dự án đầu tư đến thời điểm đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.10.02
+- 01 Bản chính Quyết định về việc điều chỉnh dự án đầu tư của nhà đầu tư;
+- 01 Bản chính Tài liệu quy định tại các điểm b, c, d, đ và e Khoản 1 Điều 33 của Luật Đầu tư liên quan đến các nội dung điều chỉnh.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Chính phủ
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+2. Cấp giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư của Thủ tướng Chính phủ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Luật đầu tư|26-11-2014|Bộ Tài chính|
+|118/2015/NĐ-CP|Nghị định 118/2015/NĐ-CP|12-11-2015||
+|16/2015/TT-BKHĐT|Thông tư 16/2015/TT-BKHĐT|18-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

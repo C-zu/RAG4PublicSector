@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục cấp Giấy phép sử dụng vật liệu nổ công nghiệp đối với tổ chức, doanh nghiệp làm dịch vụ nổ mìn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp Giấy phép sử dụng vật liệu nổ công nghiệp (bản chính) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcac998e2ed6ba'">GIẤY ĐỀ NGHỊ SDVLNCN - mẫu 05.doc</a>)
+- 01 Bản chính Thiết kế hoặc phương án nổ mìn được lãnh đạo tổ chức, doanh nghiệp ký duyệt. Trường hợp nổ mìn trong khu vực dân cư, cơ sở khám bệnh, chữa bệnh, khu vực có di tích lịch sử - văn hóa, bảo tồn thiên nhiên, công trình an ninh, quốc phòng hoặc công trình quan trọng khác của quốc gia, khu vực bảo vệ khác theo quy định của pháp luật phải có văn bản đồng ý của Ủy ban nhân dân cấp tỉnh hoặc cơ quan quản lý; đồng thời, thiết kế hoặc phương án nổ mìn phải có phê duyệt của cơ quan cấp Giấy phép sử dụng vật liệu nổ công nghiệp
+- 01 Bản chính Bản sao văn bản nghiệm thu hoặc kiểm tra định kỳ về phòng cháy và chữa cháy đối với kho vật liệu nổ công nghiệp và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật
+- 01 Bản chính Bản sao hợp đồng nguyên tắc thuê kho, phương tiện vận chuyển vật liệu nổ công nghiệp với tổ chức, doanh nghiệp có kho, phương tiện vận chuyển vật liệu nổ công nghiệp hoặc bản sao hợp đồng nguyên tắc với tổ chức được phép kinh doanh vật liệu nổ công nghiệp để cung ứng vật liệu nổ công nghiệp đến công trình theo hộ chiếu nổ mìn đối với trường hợp tổ chức, doanh nghiệp đề nghị cấp phép sử dụng vật liệu nổ công nghiệp không có kho hoặc không có phương tiện vận chuyển
+- 01 Bản chính Quyết định bổ nhiệm người chỉ huy nổ mìn của chỉ huy đơn vị hoặc lãnh đạo doanh nghiệp và danh sách thợ mìn, người được giao quản lý kho vật liệu nổ công nghiệp, người phục vụ (bảo vệ, bốc dỡ và vận chuyển tại kho, vị trí trung chuyển vật liệu nổ công nghiệp và tại khu vực nổ mìn); giấy phép lao động của người nước ngoài làm việc có liên quan đến sử dụng vật liệu nổ công nghiệp (nếu có); bản sao chứng chỉ chuyên môn, giấy chứng nhận huấn luyện về kỹ thuật an toàn trong hoạt động vật liệu nổ công nghiệp của người chỉ huy nổ mìn, thợ mìn, thủ kho vật liệu nổ công nghiệp, người phục vụ
+- 01 Bản chính Bản sao Giấy phép dịch vụ nổ mìn do cơ quan có thẩm quyền cấp
+- 01 Bản chính Bản sao hợp đồng dịch vụ nổ mìn giữa tổ chức, doanh nghiệp hoạt động dịch vụ nổ mìn với tổ chức, cá nhân có nhu cầu
+- 01 Bản sao Bản sao giấy tờ chứng minh đã nộp tiền lệ phí thẩm định cấp phép theo quy định
+- 01 Bản sao Hồ sơ, tài liệu khác có liên quan (nếu có) BQP

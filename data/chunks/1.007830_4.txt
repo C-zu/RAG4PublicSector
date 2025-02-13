@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (theo quy định tại Điều 47 Luật Quản lý thuế số 78/2006/QH10 ngày 29/11/2006 được bổ sung tại khoản 13 Điều 1 Luật sửa đổi bổ sung một số điều của Luật Quản lý thuế, Điều 29 Nghị định 83/2013/NĐ-CP ngày 22/7/2013 và Điều 49 Thông tư số 38/2015/TT-BTC ngày 25/3/2015)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Mẫu số 03 Phụ lục IIa - Chỉ tiêu thông tin về thuế và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu - ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/03/2015 của Bộ Tài chính (được bổ sung tại Phụ lục IV Thông tư số 39/2018/TT-BTC ngày 20/04/2018 của Bộ Tài chính) gửi đến cơ quan hải quan qua Hệ thống xử lý dữ liệu điện tử hải quan.
+- 01 Bản chính + Mẫu số 27/CVĐNHNT/TXNK Phụ lục VI – Biểu mẫu về thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu - ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/03/2015 của Bộ Tài chính (được thay thế bởi Phụ lục III Thông tư số 39/2018/TT-BTC ngày 20/04/2018 của Bộ Tài chính) đối với trường hợp hồ sơ giấy.
+- 01 Bản chính + Chứng từ chứng nhận xuất xứ hàng hóa xuất khẩu, nhập khẩu để áp dụng thuế suất ưu đãi đặc biệt trong khuôn khổ Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (Hiệp định CPTPP) theo quy định tại Khoản 4 Điều 1 Thông tư số 62/2019/TT-BTC ngày 05/9/2019 của Bộ Tài chính (trong trường hợp tại thời điểm làm thủ tục hải quan nhập khẩu người khai hải quan chưa kê khai để áp dụng thuế suất ưu đãi đặc biệt): 01 bản chính.

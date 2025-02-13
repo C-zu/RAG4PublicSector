@@ -1,0 +1,9 @@
+Tên thủ tục: Trả lại giấy phép tài nguyên nước (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm xem xét, kiểm tra và trình Ủy ban nhân dân cấp tỉnh hoặc quyết định theo thẩm quyền ký Quyết định chấp thuận đề nghị trả lại giấy phép tài nguyên nước.|
+|Trực tuyến|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm xem xét, kiểm tra và trình Ủy ban nhân dân cấp tỉnh hoặc quyết định theo thẩm quyền ký Quyết định chấp thuận đề nghị trả lại giấy phép tài nguyên nước.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm xem xét, kiểm tra và trình Ủy ban nhân dân cấp tỉnh hoặc quyết định theo thẩm quyền ký Quyết định chấp thuận đề nghị trả lại giấy phép tài nguyên nước.|

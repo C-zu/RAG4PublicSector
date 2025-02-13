@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký hoạt động lưu ký chứng khoán (QĐ 12/QĐ-BTC)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72776de043d6d'">272-2016-TT-BTC.pdf</a>|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72776de043d6d'">272-2016-TT-BTC.pdf</a>|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|

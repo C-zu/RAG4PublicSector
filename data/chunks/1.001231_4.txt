@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy phép lập Văn phòng đại diện cho các tổ chức hợp tác, nghiên cứu của nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin lập VPĐD, với nội dung theo Mẫu "Đơn xin phép lập VPĐD tại nước Cộng hòa xã hội chủ nghĩa Việt Nam" do Bộ Ngoại giao ban hành (Mẫu số 01/BNG-VPĐD);
+- 01 Bản chính Điều lệ hoặc Quy chế hoạt động của tổ chức nước ngoài xin lập VPĐD;
+- 01 Bản chính Văn bản của Bộ, ngành hoặc chính quyền địa phương nước ngoài phụ trách cho phép tổ chức nước ngoài lập VPĐD tại Việt Nam;
+- 01 Bản chính Văn bản xác nhận tư cách pháp nhân của tổ chức nước ngoài do cơ quan có thẩm quyền của nước nơi đặt trụ sở chính cấp;
+- 01 Bản chính Các chương trình, dự án đã được cơ quan có thẩm quyền phía Việt Nam phê duyệt;
+- 01 Bản chính Tiểu sử của người dự kiến được cử làm Trưởng VPĐD tại Việt Nam;
+- 01 Bản chính Thư giới thiệu hoặc quyết định bổ nhiệm làm Trưởng VPĐD tại Việt Nam của người đứng đầu Bộ, ngành hoặc chính quyền địa phương nước ngoài phụ trách tổ chức nước ngoài đó;

@@ -1,0 +1,11 @@
+Tên thủ tục: cấp Giấy chứng nhận đăng ký hoạt động giám định chất lượng sản phẩm, hàng hóa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơnđăngkýhoạtđộnggiám định (Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP, ngày 1/7/2016); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa4424821c41830'">Mẫu số 01,2,3 NĐ107.TTHC7.docx</a>)
+- 01 Bản chính BảnsaoQuyếtđịnhthànhlậphoặcGiấychứngnhậnđăngkýdoanhnghiệphoặcGiấychứngnhận đăngkýđầutư;
+- 01 Bản chính Danhsáchgiám địnhviên(Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP, ngày 1/7/2016) và các chứng chỉ, tài liệu liên quan đối với mỗi giám định viên bao gồm: bằng tốt nghiệp cao đẳng/đại học, chứng chỉ đào tạo về TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành, tóm tắt quá trình công tác, kinh nghiệm hoạt động giám định (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP, ngày 1/7/2016) và tài liệu chứng minh kinh nghiệm giám định chất lượng sản phẩm, hàng hóa của giám định viên.
+- 01 Bản chính Tàiliệuchứngminhnănglựchoạtđộnggiám định đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành
+- 01 Bản chính MẫuChứng thư giám định.

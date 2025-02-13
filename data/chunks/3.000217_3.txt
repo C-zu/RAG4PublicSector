@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận quyền sử dụng đất và cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho tổ chức đang sử dụng đất nhưng không có giấy tờ về quyền sử dụng đất theo quy định của Luật Đất đai năm 2013
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh Hà Tĩnh (Số 02A - đường Nguyễn Chí Thanh - thành phố Hà Tĩnh - tỉnh Hà Tĩnh.|
+|Trực tuyến|20 Ngày||Qua mạng điện tử (địa chỉ: http://dichvucong.hatinh.gov.vn).|
+|Dịch vụ bưu chính|20 Ngày|||

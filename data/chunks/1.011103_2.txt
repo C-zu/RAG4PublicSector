@@ -1,0 +1,21 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh (SCT)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1.	1. Tiếp nhận hồ sơ:
+- Tiếp nhận hồ sơ trực tiếp từ tổ chức, cá nhân hoặc qua dịch vụ Bưu chính công ích hoặc qua Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh: http://dichvucong.hatinh.gov.vn
+2. Cán bộ TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ, hẹn trả kết quả cho tổ chức, cá nhân theo quy định.
+- Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung hoàn thiện hồ sơ được thì từ chối tiếp nhận hồ sơ.
+B2.	Chuyển hồ sơ trực tiếp (nếu có) và xử lý trên Hệ thống thông tin giải quyết thủ tục hành chính về cho phòng chuyên môn thuộc Sở quản lý công trình xây dựng chuyên ngành/Ban quản lý Khu kinh tế tỉnh xử lý.
+B3.	Phân xử lý hồ sơ: Chuyển cho công chức xử lý hoặc Lãnh đạo phòng trực tiếp xử lý hồ sơ.
+B4.	Thẩm định hồ sơ:
+- Trong thời hạn 05 ngày kể từ tiếp nhận hồ sơ, trường hợp hồ sơ không đáp ứng yêu cầu theo quy định, dự thảo Văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy theo bước B5.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn (các chỉnh sửa bổ sung của hồ sơ; lấy ý kiến phối hợp của các cơ quan, tổ chức khác có liên quan; bổ sung kết quả thẩm tra theo quy định tại  khoản 4 Điều 35 Nghị định số 15/2021/NĐ-CP), thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được trong thời hạn 20 ngày thì dự thảo Văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy theo bước B5.
++ Nếu bổ sung, giải trình đầy đủ trong thời hạn 20 ngày thì dự thảo Văn bản thông báo về kết quả thẩm định trình lãnh đạo phòng ký nháy theo bước B5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu dự thảo Văn bản thông báo về kết quả thẩm định trình lãnh đạo phòng ký nháy theo bước B5.
+B5.	Xem xét ký nháy kết quả thực hiện tại bước B4.
+B6.	Xem xét, ký duyệt kết quả giải quyết tại bước B5.
+B7.	Phát hành văn bản và chuyển kết quả xử lý về bộ phận TN&TKQ tại Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân.
+B8.	Trả kết quả cho tổ chức cá nhân

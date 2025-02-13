@@ -1,0 +1,11 @@
+Tên thủ tục: Cung cấp thuốc phóng xạ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở khám bệnh, chữa bệnh nộp hồ sơ trực tiếp hoặc qua bưu điện về Cục Quản lý dược - Bộ Y tế
+Bước 2: Cục Quản lý dược - Bộ Y tế trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu Phiếu quy định tại Phụ lục XV ban hành kèm theo Thông tư
+Bước 3: Trong thời hạn 15 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Cục Quản lý dược-  Bộ Y tế có văn bản chấp thuận việc cung cấp thuốc của cơ sở; trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, Cục Quản lý dược- Bộ Y tế có văn bản gửi cơ sở đề nghị, trong đó nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung
+Bước 4: Sau khi cơ sở nộp hồ sơ sửa đổi, bổ sung, Cục Quản lý dược- Bộ Y tế trả cho cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu quy định tại Phụ lục XV ban hành kèm theo Thông tư.
+a) Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Cục Quản lý dược- Bộ Y tế có văn bản thông báo cho cơ sở theo quy định tại Bước 3;
+b) Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Cục Quản lý dược- Bộ Y tế có văn bản chấp thuận việc cung cấp thuốc của cơ sở theo quy định tại Bước 3.
+Trong thời hạn 60 ngày, kể từ ngày cơ quan tiếp nhận hồ sơ có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 90 ngày kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị.

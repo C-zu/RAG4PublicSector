@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp giấy công nhận các tổ chức đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Về trang thiết bị: Có đài VTĐND được cấp Giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện nghiệp dư đảm bảo đáp ứng yêu cầu thi thực hành ( theo qui định tại điều 7 khoản 2 qui định về hoạt động vô tuyến điện nghiệp dư) của người dự thi với loại chứng chỉ KTVVTĐND tương ứng
+- Về người chấm thi thực hành ( trừ trường hợp chấm thi bằng máy tính): người chấm thi thực hành phải đáp ứng một trong các điều kiện sau đây:
++ Là người có Chứng chỉ KTVVTĐND cao hơn người dự thi ít nhất một bậc;
++ Là người có chứng chỉ KTVVTĐND cùng bậc với người dự thi và đã trải qua ít nhất 1 năm khai thác đài VTĐ nghiệp dư kể từ ngày chấm thi trở về trước;
++ Là người đã trải qua ít nhất một năm làm nghề điện báo (có khả năng nhận bằng tai và gửi bằng tay các bản tin dưới dạng mã Mooc quốc tế thông qua máy thu phát vô tuyến điện)
+- Về trang thiết bị: Có đài VTĐND được cấp Giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện nghiệp dư đảm bảo đáp ứng yêu cầu thi thực hành ( theo qui định tại điều 7 khoản 2 qui định về hoạt động vô tuyến điện nghiệp dư) của người dự thi với loại chứng chỉ KTVVTĐND tương ứng
+- Về người chấm thi thực hành ( trừ trường hợp chấm thi bằng máy tính): người chấm thi thực hành phải đáp ứng một trong các điều kiện sau đây:
++ Là người có Chứng chỉ KTVVTĐND cao hơn người dự thi ít nhất một bậc;
++ Là người có chứng chỉ KTVVTĐND cùng bậc với người dự thi và đã trải qua ít nhất 1 năm khai thác đài VTĐ nghiệp dư kể từ ngày chấm thi trở về trước;
++ Là người đã trải qua ít nhất một năm làm nghề điện báo (có khả năng nhận bằng tai và gửi bằng tay các bản tin dưới dạng mã Mooc quốc tế thông qua máy thu phát vô tuyến điện)
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính Trường hợp đề nghị cấp lại do hết thời hạn Giấy phép, hồ sơ gồm: đơn đề nghị cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán theo Mẫu số 11 ban hành kèm theo Nghị định 52/2024/NĐ-CP ngày 15/5/2024; báo cáo tình hình thực hiện hoạt động theo Giấy phép kể từ ngày được cấp Giấy phép đến ngày nộp đơn đề nghị cấp lại Giấy phép và bản sao Giấy phép đang có hiệu lực tới Ngân hàng Nhà nước; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe82e187b253a83'">Mẫu số 11.docx</a>)
+- 03 Bản chính Trường hợp đề nghị cấp lại do Giấy phép bị mất, bị rách, bị cháy hoặc bị hủy dưới hình thức khác, hồ sơ gồm: đơn đề nghị cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán theo Mẫu số 11 ban hành kèm theo Nghị định 52/2024/NĐ-CP ngày 15/5/2024. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec729e0addecae'">Mẫu số 11.docx</a>)

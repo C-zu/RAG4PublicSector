@@ -1,0 +1,104 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004553
+Số quyết định:
+5125/QĐ-BYT
+Tên thủ tục:
+Công bố đáp ứng yêu cầu là cơ sở thực hành trong đào tạo khối ngành sức khỏe đối với các cơ sở khám, chữa bệnh thuộc Bộ Quốc phòng, Bộ Công an
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đào tạo và Nghiên cứu khoa học
+Trình tự thực hiện:
+Bước 1: Cơ sở khám bệnh, chữa bệnh gửi văn bản công bố đáp ứng yêu cầu là cơ sở thực hành về cơ quan quản lý y tế thuộc Bộ Quốc phòng, Bộ Công an để tổng hợp gửi Cục Khoa học công nghệ và Đào tạo - Bộ Y tế
+Bước 2: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được văn bản của cơ quan quản lý y tế thuộc Bộ Quốc phòng, Bộ Công an kèm theo văn bản cơ sở khám bệnh, chữa bệnh tự công bố đáp ứng yêu cầu là cơ sở thực hành (thời điểm nhận văn bản công bố được tính theo dấu bưu điện hoặc dấu công văn đến của Cục Khoa học công nghệ và Đào tạo), Cục Khoa học công nghệ và Đào tạo có trách nhiệm cập nhật trên cổng thông tin điện tử của Bộ Y tế đối với cơ sở thực hành đáp ứng yêu cầu hoặc phải có văn bản không đồng ý việc tự công bố gửi cơ sở khám bệnh, chữa bệnh và nêu rõ lý do đối với cơ sở thực hành chưa đáp ứng yêu cầu.
+Bước 3: Sau 15 ngày làm việc kể từ ngày Cục Khoa học công nghệ và Đào tạo nhận được văn bản của cơ sở khám bệnh, chữa bệnh tự công bố đáp ứng yêu cầu là cơ sở thực hành, nếu Cục Khoa học công nghệ và Đào tạo không có văn bản không đồng ý việc tự công bố, cơ sở thực hành mới được ký hợp đồng đào tạo thực hành với cơ sở đào tạo.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản công bố cơ sở khám, chữa bệnh đáp ứng yêu cầu là cơ sở thực hành trong đào tạo khối ngành sức khỏe theo mẫu quy định tại Phụ lục số 02 ban hành kèm theo Nghị định số 111/2017/NĐ-CP ([Mẫu Bản công bố.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0b9b962b0c5ca'))
+- 01 Bản chính Các tài liệu gửi kèm bản công bố để minh chứng cơ sở khám, chữa bệnh đáp ứng yêu cầu (nếu có), bao gồm: - Các ngành/chuyên ngành đào tạo thực hành - Trình độ đào tạo thực hành - Số lượng người đào tạo thực hành tối đa (bao gồm tất cả các trình độ) - Danh sách người giảng dạy thực hành đáp ứng yêu cầu - Danh sách các khoa, phòng tổ chức thực hành và số giường bệnh hoặc ghế răng tại mỗi khoa, phòng - Danh mục cơ sở vật chất, thiết bị phục vụ đào tạo thực hành
+- 01 Bản chính Văn bản của cơ quan quản lý y tế thuộc Bộ Quốc phòng, Bộ Công an
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Khoa học Công nghệ và Đào tạo - Bộ Y tế
+Cơ quan có thẩm quyền:
+Bộ Y tế
+Địa chỉ tiếp nhận HS:
+138A Giảng VÕ - Ba ĐÌnh - Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công bố thông tin các Cơ sở thực hành lên Cổng thông tin điện tử
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|111/2017/NĐ-CP|Nghị định 111/2017/NĐ-CP - quy định về tổ chức đào tạo thực hành trong đào tạo khối ngành sức khỏe|05-10-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Yêu cầu đối với người giảng dạy thực hành (Điều 8 Nghị định số 111/2017/NĐ-CP)
+1. Yêu cầu chung đối với người giảng dạy thực hành:
+a) Có văn bằng, trình độ, kinh nghiệm chuyên môn tối thiểu 12 tháng liên tục đến thời điểm giảng dạy thực hành phù hợp với trình độ, ngành/chuyên ngành giảng dạy thực hành; trình độ của người giảng dạy thực hành không được thấp hơn  trình độ đang được đào tạo của người học thực hành;
+b) Có chứng chỉ hành nghề và phạm vi chuyên môn hành nghề phù hợp với chương trình, đối tượng đào tạo thực hành trong trường hợp pháp luật quy định phải có chứng chỉ hành nghề.
+2. Yêu cầu đối với người giảng dạy thực hành ngành, chuyên ngành đào tạo về khám bệnh, chữa bệnh:
+a) Các yêu cầu quy định tại khoản 1 Điều này;
+b) Đã có đủ thời gian hành nghề khám bệnh, chữa bệnh sau khi có chứng chỉ hành nghề liên tục ở ngành/chuyên ngành giảng dạy thực hành đến thời điểm giảng dạy thực hành ít nhất là 36 tháng đối với đào tạo trình độ sau đại học, 24 tháng đối với đào tạo trình độ đại học và 12 tháng đối với trình độ cao đẳng và trung cấp;
+c) Tại cùng một thời điểm, một người giảng dạy thực hành chỉ được giảng dạy không quá 05 người học thực hành đối với đào tạo trình độ sau đại học, không quá 10 người học thực hành đối với đào tạo trình độ đại học, không quá 15 người học thực hành đối với đào tạo trình độ cao đẳng, trung cấp;
+d) Đã được bồi dưỡng phương pháp dạy - học lâm sàng theo quy định của Bộ trưởng Bộ Y tế, trừ trường hợp người giảng dạy thực hành đã có chứng chỉ phương pháp dạy - học mà trong chương trình đào tạo đã có nội dung về phương pháp dạy - học lâm sàng.
+Yêu cầu đối với cơ sở thực hành (Điều 9 Nghị định số 111/2017/NĐ-CP)
+1. Yêu cầu chung đối với cơ sở thực hành:
+a) Có phạm vi hoạt động chuyên môn phù hợp với chương trình đào tạo thực hành;
+b) Có đủ cơ sở vật chất, trang thiết bị để thực hành theo yêu cầu của chương trình đào tạo thực hành;
+c) Có người giảng dạy thực hành đáp ứng các yêu cầu quy định tại khoản 1 Điều 8 Nghị định này và có đủ thời gian hoạt động chuyên môn liên tục ở ngành/chuyên ngành hướng dẫn thực hành ít nhất là 12 tháng.
+2. Yêu cầu đối với cơ sở thực hành là cơ sở khám bệnh, chữa bệnh:
+a) Có đủ các yêu cầu quy định tại điểm a, điểm b khoản 1 Điều này;
+b) Có phòng học, phòng giao ban, phòng trực dành cho người học thực hành và người giảng dạy thực hành;
+c) Có người giảng dạy thực hành đáp ứng yêu cầu quy định tại khoản 2 Điều 8 Nghị định này;
+d) Tại cùng một thời điểm, mỗi khoa, phòng có không quá 03 người học thực hành trên 01 giường bệnh hoặc 01 ghế răng;
+đ) Tổng thời lượng tham gia giảng dạy thực hành của tất cả người giảng dạy thực hành thuộc cơ sở thực hành tối thiểu là 20% và tối đa là 80% của tổng thời lượng chương trình thực hành, trừ trường hợp quy định tại điểm e khoản này;
+e) Cơ sở thực hành thuộc trường hợp quy định tại khoản 2 Điều 10 Nghị định này phải bảo đảm: Tổng thời lượng tham gia giảng dạy thực hành của tất cả người giảng dạy thực hành thuộc cơ sở thực hành tối thiểu là 50%, tối đa là 80% tổng thời lượng chương trình thực hành được thực hiện tại cơ sở thực hành và chỉ được là cơ sở thực hành thuộc trường hợp quy định tại khoản 2 Điều 10 Nghị định này của không quá 02 cơ sở giáo dục đào tạo trình độ đại học, sau đại học và 01 cơ sở giáo dục đào tạo trình độ trung cấp, cao đẳng.
+Yêu cầu đối với cơ sở thực hành của cơ sở giáo dục (khoản 2 Điều 10 Nghị định số 111/2017/NĐ-CP)
+2. Cơ sở giáo dục có ngành, chuyên ngành đào tạo về khám bệnh, chữa bệnh phải ký hợp đồng hoặc có 01 cơ sở thực hành là cơ sở khám bệnh, chữa bệnh thực hiện ít nhất 50% thời lượng của chương trình thực hành và đáp ứng các yêu cầu sau đây:
+a) Là bệnh viện hạng I hoặc bệnh viện được phép thực hiện kỹ thuật thuộc danh mục kỹ thuật từ tuyến I trở lên đối với đào tạo trình độ sau đại học, đào tạo trình độ đại học ngành y đa khoa, y học cổ truyền, răng hàm mặt; là bệnh viện hạng II hoặc bệnh viện được phép thực hiện kỹ thuật thuộc danh mục kỹ thuật từ tuyến II trở lên đối với đào tạo trình độ đại học các ngành khác thuộc khối ngành sức khoẻ; là bệnh viện hạng III hoặc hoặc bệnh viện được phép thực hiện kỹ thuật thuộc danh mục kỹ thuật từ tuyến III trở lên đối với đào tạo trình độ cao đẳng, trung cấp khối ngành sức khoẻ;
+b) Có ít nhất 20% người giảng dạy chương trình thực hành là người làm việc cơ hữu của cơ sở giáo dục có đăng ký hành nghề tại cơ sở thực hành và được cơ sở thực hành bố trí làm công tác khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh phù hợp với năng lực, kinh nghiệm và phạm vi hoạt động chuyên môn trong chứng chỉ hành nghề.
+Yêu cầu đối với người giảng dạy thực hành (Điều 8 Nghị định số 111/2017/NĐ-CP)
+1. Yêu cầu chung đối với người giảng dạy thực hành:
+a) Có văn bằng, trình độ, kinh nghiệm chuyên môn tối thiểu 12 tháng liên tục đến thời điểm giảng dạy thực hành phù hợp với trình độ, ngành/chuyên ngành giảng dạy thực hành; trình độ của người giảng dạy thực hành không được thấp hơn  trình độ đang được đào tạo của người học thực hành;
+b) Có chứng chỉ hành nghề và phạm vi chuyên môn hành nghề phù hợp với chương trình, đối tượng đào tạo thực hành trong trường hợp pháp luật quy định phải có chứng chỉ hành nghề.
+2. Yêu cầu đối với người giảng dạy thực hành ngành, chuyên ngành đào tạo về khám bệnh, chữa bệnh:
+a) Các yêu cầu quy định tại khoản 1 Điều này;
+b) Đã có đủ thời gian hành nghề khám bệnh, chữa bệnh sau khi có chứng chỉ hành nghề liên tục ở ngành/chuyên ngành giảng dạy thực hành đến thời điểm giảng dạy thực hành ít nhất là 36 tháng đối với đào tạo trình độ sau đại học, 24 tháng đối với đào tạo trình độ đại học và 12 tháng đối với trình độ cao đẳng và trung cấp;
+c) Tại cùng một thời điểm, một người giảng dạy thực hành chỉ được giảng dạy không quá 05 người học thực hành đối với đào tạo trình độ sau đại học, không quá 10 người học thực hành đối với đào tạo trình độ đại học, không quá 15 người học thực hành đối với đào tạo trình độ cao đẳng, trung cấp;
+d) Đã được bồi dưỡng phương pháp dạy - học lâm sàng theo quy định của Bộ trưởng Bộ Y tế, trừ trường hợp người giảng dạy thực hành đã có chứng chỉ phương pháp dạy - học mà trong chương trình đào tạo đã có nội dung về phương pháp dạy - học lâm sàng.
+Yêu cầu đối với cơ sở thực hành (Điều 9 Nghị định số 111/2017/NĐ-CP)
+1. Yêu cầu chung đối với cơ sở thực hành:
+a) Có phạm vi hoạt động chuyên môn phù hợp với chương trình đào tạo thực hành;
+b) Có đủ cơ sở vật chất, trang thiết bị để thực hành theo yêu cầu của chương trình đào tạo thực hành;
+c) Có người giảng dạy thực hành đáp ứng các yêu cầu quy định tại khoản 1 Điều 8 Nghị định này và có đủ thời gian hoạt động chuyên môn liên tục ở ngành/chuyên ngành hướng dẫn thực hành ít nhất là 12 tháng.
+2. Yêu cầu đối với cơ sở thực hành là cơ sở khám bệnh, chữa bệnh:
+a) Có đủ các yêu cầu quy định tại điểm a, điểm b khoản 1 Điều này;
+b) Có phòng học, phòng giao ban, phòng trực dành cho người học thực hành và người giảng dạy thực hành;
+c) Có người giảng dạy thực hành đáp ứng yêu cầu quy định tại khoản 2 Điều 8 Nghị định này;
+d) Tại cùng một thời điểm, mỗi khoa, phòng có không quá 03 người học thực hành trên 01 giường bệnh hoặc 01 ghế răng;
+đ) Tổng thời lượng tham gia giảng dạy thực hành của tất cả người giảng dạy thực hành thuộc cơ sở thực hành tối thiểu là 20% và tối đa là 80% của tổng thời lượng chương trình thực hành, trừ trường hợp quy định tại điểm e khoản này;
+e) Cơ sở thực hành thuộc trường hợp quy định tại khoản 2 Điều 10 Nghị định này phải bảo đảm: Tổng thời lượng tham gia giảng dạy thực hành của tất cả người giảng dạy thực hành thuộc cơ sở thực hành tối thiểu là 50%, tối đa là 80% tổng thời lượng chương trình thực hành được thực hiện tại cơ sở thực hành và chỉ được là cơ sở thực hành thuộc trường hợp quy định tại khoản 2 Điều 10 Nghị định này của không quá 02 cơ sở giáo dục đào tạo trình độ đại học, sau đại học và 01 cơ sở giáo dục đào tạo trình độ trung cấp, cao đẳng.
+Yêu cầu đối với cơ sở thực hành của cơ sở giáo dục (khoản 2 Điều 10 Nghị định số 111/2017/NĐ-CP)
+2. Cơ sở giáo dục có ngành, chuyên ngành đào tạo về khám bệnh, chữa bệnh phải ký hợp đồng hoặc có 01 cơ sở thực hành là cơ sở khám bệnh, chữa bệnh thực hiện ít nhất 50% thời lượng của chương trình thực hành và đáp ứng các yêu cầu sau đây:
+a) Là bệnh viện hạng I hoặc bệnh viện được phép thực hiện kỹ thuật thuộc danh mục kỹ thuật từ tuyến I trở lên đối với đào tạo trình độ sau đại học, đào tạo trình độ đại học ngành y đa khoa, y học cổ truyền, răng hàm mặt; là bệnh viện hạng II hoặc bệnh viện được phép thực hiện kỹ thuật thuộc danh mục kỹ thuật từ tuyến II trở lên đối với đào tạo trình độ đại học các ngành khác thuộc khối ngành sức khoẻ; là bệnh viện hạng III hoặc hoặc bệnh viện được phép thực hiện kỹ thuật thuộc danh mục kỹ thuật từ tuyến III trở lên đối với đào tạo trình độ cao đẳng, trung cấp khối ngành sức khoẻ;
+b) Có ít nhất 20% người giảng dạy chương trình thực hành là người làm việc cơ hữu của cơ sở giáo dục có đăng ký hành nghề tại cơ sở thực hành và được cơ sở thực hành bố trí làm công tác khám bệnh, chữa bệnh theo quy định của pháp luật về khám bệnh, chữa bệnh phù hợp với năng lực, kinh nghiệm và phạm vi hoạt động chuyên môn trong chứng chỉ hành nghề.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

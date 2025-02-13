@@ -1,0 +1,10 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu đưa công trình vào sử dụng - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo hoàn thành thi công xây dựng công trình/Hạng mục công trình, theo mẫu BM.XD.05.01
+- 01 Bản chính Hồ sơ thiết kế, tiến độ thi công, hồ sơ nghiệm thu công trình
+- 01 Bản chính Biên bản nghiệm thu các giai đoạn chuyển tiếp quan trọng trong thi công xây dựng (bản chính)
+- 01 Bản chính Biên bản nghiệm thu phòng cháy và chữa cháy (bản sao); xác nhận của cơ quan nhà nước về bảo vệ môi trường (bản sao).

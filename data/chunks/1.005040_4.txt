@@ -1,0 +1,24 @@
+Tên thủ tục: Xác nhận trình báo đường thủy nội địa hoặc trình báo đường thủy nội địa bổ sung
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Các giấy tờ phải nộp đối với phương tiện thủy nội địa, tàu cá
+- 02 Bản chính Trình báo đường thủy nội địa theo mẫu (02 bản) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd22ca07b67cba'">1233.doc</a>)
+- 02 Bản sao Bản sao Tự họa có mô tả sơ đồ vị trí xảy ra tai nạn, sự cố và đính kèm hình ảnh (nếu có), (02 bản)
+
+
+Các giấy tờ phải nộp đối với tàu biển
+- 02 Bản chính Trình báo đường thủy nội địa theo mẫu (02 bản) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8ac528510f728'">1233.doc</a>)
+- 02 Bản sao Bản trích sao Nhật ký hàng hải những phần có liên quan đến vụ việc (02 bản)
+- 02 Bản sao Bản trích sao Hải đồ liên quan đến vụ việc (02 bản)
+
+
+Các giấy tờ phải xuất trình (bản chính):
+- 01 Bản chính Đối với tàu biển: Bản trích sao Nhật ký hàng hải những phần có liên quan đến vụ việc, Bản trích sao Hải đồ liên quan đến vụ việc;
+- 01 Bản chính Đối với phương tiện thủy nội địa, tàu cá: Bản sao Tự họa có mô tả sơ đồ vị trí xảy ra tai nạn, sự cố và đính kèm hình ảnh (nếu có).
+
+
+Bao gồm
+- 01 Bản chính Đối với bản trình báo đường thủy nội địa, ngoài chữ ký của thuyền trưởng hoặc người lái phương tiện và đóng dấu của tàu biển, phương tiện thủy nội địa, tàu cá (nếu có con dấu), còn phải có chữ ký của máy trưởng hoặc 01 (một) thủy thủ với tư cách là người làm chứng.
+- 01 Bản chính Ngoài số lượng trình báo đường thủy nội địa được quy định nói trên, thuyền trưởng hoặc người lái phương tiện có thể đề nghị xác nhận thêm các bản khác có cùng nội dung, nếu thấy cần thiết.

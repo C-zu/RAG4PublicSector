@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp biển hiệu phương tiện vận tải khách du lịch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Biển hiệu phương tiện vận tải khách du lịch có giá trị 07 năm và không quá niên hạn sử dụng còn lại của phương tiện.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

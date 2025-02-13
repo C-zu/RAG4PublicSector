@@ -1,0 +1,22 @@
+Tên thủ tục: Duyệt tài liệu hướng dẫn tàu biển
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam, Chi cục Đăng kiểm
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Đăng kiểm Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận duyệt tài liệu hướng dẫn tàu biển
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|234/2016/TT-BTC|Quy định về giá dịch vụ kiểm định an toàn kỹ thuật và chất lượng tàu biến, công trình biến; Sản phẩm công nghiệp lắp đặt trên tàu biển, công trình biển; đánh giá, chứng nhận hệ thống quản lý an toàn và phê duyệt, kiểm tra, đánh giá, chứng nhận lao động hàng hải hải|11-11-2016|Bộ Tài chính|
+|40/2016/TT-BGTVT|Quy định về đăng kiểm tàu biển Việt Nam|07-12-2016|Bộ Giao thông vận tải|

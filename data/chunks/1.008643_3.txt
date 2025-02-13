@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy phép cho phương tiện vận tải phục vụ giải quyết sự cố
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|01 Ngày làm việc||- Hồ sơ được nộp trực tuyến dịch vụ công mức độ 3 tại địa chỉ https://tthc.danang.gov.vn (Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích.|

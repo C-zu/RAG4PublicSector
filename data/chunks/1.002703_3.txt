@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo thay đổi địa điểm đặt trụ sở của Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam sang tỉnh, thành phố trực thuộc Trung ương khác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|không quy định||Thông báo nộp trực tiếp hoặc gửi qua bưu điện.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký hành nghề
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này; Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này.|Lệ phí : Không quy định Đồng|Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này; Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này.|
+|Trực tuyến|Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này; Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này.|Lệ phí : Không quy định Đồng|Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này; Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này.|
+|Dịch vụ bưu chính|Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này; Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này.|Lệ phí : Không quy định Đồng|Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này; Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này.|

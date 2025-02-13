@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thu hồi Giấy chứng nhận quyền sử dụng Chỉ dẫn địa lý “Điện Biên”
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thu hồi của các cơ quan có thẩm quyền hoặc Đơn tự nguyện chấm dứt việc sử dụng Chỉ dẫn địa lý “Điện Biên”

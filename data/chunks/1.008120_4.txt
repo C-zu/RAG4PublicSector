@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi thương mại, thức ăn chăn nuôi theo đặt hàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi (theo Mẫu số 01.TACN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chỉ tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfae62e4e0c754'">Mẫu số 01.docx</a>)
+- 01 Bản chính - Bản thuyết minh điều kiện sản xuất (theo Mẫu số 02.TACN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chỉ tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b36e215c3fdd'">Mẫu số 02. TACN.docx</a>)
+- 01 Bản chính - Quy trình kiểm soát chất lượng của cơ sở sản xuất (theo Mẫu số 03.TACN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chỉ tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8315f44cdb85c'">Mẫu số 03. TACN.docx</a>)
+- 01 Bản chính - Bản tóm tắt quy trình sản xuất thức ăn chăn nuôi đối với cơ sở sản xuất thức ăn truyền thống và nguyên liệu đơn.

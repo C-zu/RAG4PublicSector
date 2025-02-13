@@ -1,0 +1,16 @@
+Tên thủ tục: Nộp đơn khởi kiện, tài liệu, chứng cứ và nhận các văn bản, thông báo tố tụng
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000163
+Số quyết định:
+01/QĐCB
+Tên thủ tục:
+Nộp đơn khởi kiện, tài liệu, chứng cứ và nhận các văn bản, thông báo tố tụng
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Tòa án

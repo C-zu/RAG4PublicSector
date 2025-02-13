@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp (TTHC cấp tỉnh - đối với nơi chưa thành lập Văn phòng đăng ký đất đai)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. Thời gian này không bao gồm thời gian Sở Tài nguyên và Môi trường gửi hồ sơ lấy ý kiến các cơ quan liên quan và thời gian các cơ quan gửi văn bản góp ý kiến về Sở Tài nguyên và Môi trường.|

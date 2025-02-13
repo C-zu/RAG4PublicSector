@@ -1,0 +1,8 @@
+Tên thủ tục: Miễn kiểm tra giám sát cơ sở kiểm nghiệm thực phẩm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Hồ sơ gửi bằng 01 trong các hình thức sau: - Gửi qua đường bưu điện hoặc - Trực tiếp.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Hồ sơ gửi bằng 01 trong các hình thức sau: - Gửi qua đường bưu điện hoặc Trực tiếp.|

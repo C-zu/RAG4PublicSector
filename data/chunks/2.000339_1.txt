@@ -1,0 +1,16 @@
+Tên thủ tục: Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000339
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Thương mại quốc tế

@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ một lần sau đầu tư đóng mới tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hỗ trợ một lần sau đầu tư đóng mới tàu của chủ tàu có xác nhận của Ủy ban nhân dân xã/phường nơi chủ tàu có hộ khẩu thường trú (theo Phụ lục ban hành kèm theo Nghị định này); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbc4fa3418982a'">MẪU ĐƠN ĐỀ NGHỊ HỖ TRỢ MỘT LẦN SAU ĐẦU TƯ.docx</a>)
+- 01 Bản sao Bản sao giấy chứng minh thư nhân dân hoặc Thẻ căn cước công dân của chủ tàu;
+- 01 Bản sao Bản sao các giấy tờ sau: Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy chứng nhận đăng ký tàu cá và Giấy phép khai thác thủy sản đối với tàu khai thác hải sản; Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy chứng nhận đăng ký tàu cá đối với tàu dịch vụ hậu cần khai thác hải sản xa bờ;
+- 01 Bản chính Hợp đồng đóng mới tàu cá để xác định chủ tàu đặt hàng đóng mới tàu cá;
+- 01 Bản sao Bảng quyết toán của cơ sở đóng tàu về tổng mức đầu tư đóng mới tàu cá (bao gồm cả máy móc, trang thiết bị hàng hải; thiết bị phục vụ khai thác; trang thiết bị bảo quản hải sản; bảo quản hàng hóa; bốc xếp hàng hóa) kèm theo các hóa đơn, chứng từ thanh toán tiền đóng mới tàu cá, tiền mua mới máy móc, trang thiết bị.

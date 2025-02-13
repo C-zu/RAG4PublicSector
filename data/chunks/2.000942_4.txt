@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp bản sao có chứng thực từ bản chính hợp đồng, giao dịch đã được chứng thực
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Người yêu cầu chứng thực xuất trình bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân/Căn cước công dân hoặc Hộ chiếu còn giá trị sử dụng.

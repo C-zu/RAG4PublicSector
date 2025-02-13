@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục công nhận hạng cơ sở lưu trú du lịch: hạng 4 sao, 5 sao đối với khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004566
+Số quyết định:
+3684/QĐ-BVHTTDL
+Tên thủ tục:
+Thủ tục công nhận hạng cơ sở lưu trú du lịch: hạng 4 sao, 5 sao đối với khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Du lịch

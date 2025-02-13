@@ -1,0 +1,15 @@
+Tên thủ tục: Chấp thuận hoạt động vui chơi, giải trí dưới nước tại vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||- Thời hạn Sở Giao thông vận tải gửi văn bản lấy ý kiến đến Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực: 02 (hai) ngày làm việc, kể từ khi nhận được hồ sơ hợp lệ.|
+|Trực tiếp|2 Ngày làm việc||- Thời hạn Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực có văn bản trả lời: 02 (hai) ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến của Sở Giao thông vận tải.|
+|Trực tiếp|2 Ngày làm việc||- Thời hạn Sở Giao thông vận tải ra văn bản chấp thuận: 02 (hai) ngày làm việc, kể từ ngày nhận được văn bản trả lời của Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực, hoặc kể từ ngày hết thời gian quy định xin ý kiến.|
+|Trực tuyến|2 Ngày làm việc||- Thời hạn Sở Giao thông vận tải gửi văn bản lấy ý kiến đến Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực: 02 (hai) ngày làm việc, kể từ khi nhận được hồ sơ hợp lệ.|
+|Trực tuyến|2 Ngày làm việc||- Thời hạn Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực có văn bản trả lời: 02 (hai) ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến của Sở Giao thông vận tải.|
+|Trực tuyến|2 Ngày làm việc||- Thời hạn Sở Giao thông vận tải ra văn bản chấp thuận: 02 (hai) ngày làm việc, kể từ ngày nhận được văn bản trả lời của Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực, hoặc kể từ ngày hết thời gian quy định xin ý kiến.|
+|Dịch vụ bưu chính|2 Ngày làm việc||- Thời hạn Sở Giao thông vận tải gửi văn bản lấy ý kiến đến Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực: 02 (hai) ngày làm việc, kể từ khi nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|2 Ngày làm việc||- Thời hạn Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực có văn bản trả lời: 02 (hai) ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến của Sở Giao thông vận tải.|
+|Dịch vụ bưu chính|2 Ngày làm việc||- Thời hạn Sở Giao thông vận tải ra văn bản chấp thuận: 02 (hai) ngày làm việc, kể từ ngày nhận được văn bản trả lời của Chi cục Đường thủy nội địa khu vực hoặc Cảng vụ hàng hải khu vực, hoặc kể từ ngày hết thời gian quy định xin ý kiến.|

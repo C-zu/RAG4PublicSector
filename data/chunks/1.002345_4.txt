@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ:
+- 01 Bản chính - Công văn của tổ chức hoa tiêu hàng hải hoặc đơn vị quản lý thuyền trưởng theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc10d51ea69b27c'">Mẫu công văn đề nghị cấp Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải.docx</a>)
+- 01 Bản chính - Tờ khai; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe38c25968c272a'">Mẫu Tờ khai danh sách tàu biển, thời gian dẫn tàu an toàn, thời gian thực tập dẫn tàu.docx</a>)
+- 03 Bản chính - 03 phiếu sát hạch khả năng chuyên môn hoa tiêu hàng hải đối với hoa tiêu hàng hải hạng Ba, 02 phiếu sát hạch đối với hoa tiêu hàng hải hạng Nhì, hạng Nhất và Ngoại hạng, 01 phiếu sát hạch đối với thuyền trưởng tự dẫn tàu theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb2762d3b3a2f8'">Mẫu Phiếu sát hạch, đánh giá khả năng chuyên môn của hoa tiêu hàng hải.docx</a>)
+- 02 Bản chính - 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất;
+- 01 Bản chính, 01 Bản sao - Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận sức khỏe theo quy định.

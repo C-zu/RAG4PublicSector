@@ -1,0 +1,21 @@
+Tên thủ tục: Công nhận kết quả khảo nghiệm giống thủy sản
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Tổ chức, cá nhân gửi hồ sơ đến Cục Thủy sản.
+Trường hợp nộp hồ sơ trực tiếp: Cục Thủy sản sản kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cục Thủy sản xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cục Thủy sản thông báo cho tổ chức, cá nhân biết để bổ sung;
+b) Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Cục Thủy sản tổ chức thẩm định, nếu hồ sơ đạt yêu cầu, tổ chức kiểm tra điều kiện cơ sở khảo nghiệm theo Mẫu số 05 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; Cục Thủy sản phê duyệt đề cương khảo nghiệm và ban hành Quyết định cho phép khảo nghiệm theo Mẫu số 10.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP, đồng thời cấp phép nhập khẩu giống thủy sản cho tổ chức, cá nhân để phục vụ khảo nghiệm (nếu là sản phẩm nhập khẩu); trường hợp không đạt yêu cầu phải trả lời bằng văn bản, nêu rõ lý do.
+c) Cục Thủy sản gửi văn bản đề nghị cơ quan quản lý nhà nước về thủy sản cấp tỉnh nơi tiến hành khảo nghiệm giám sát khảo nghiệm.
+d) Nội dung khảo nghiệm giống thủy sản như sau: Căn cứ đặc điểm sinh học từng loài thủy sản và mục đích sử dụng để xây dựng đề cương khảo nghiệm nhằm xác định tính khác biệt, tính ổn định, tính đồng nhất về năng suất, chất lượng, khả năng kháng bệnh và đánh giá tác hại của loài khảo nghiệm.
+đ) Giám sát khảo nghiệm:
+- Cơ quan giám sát: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh nơi tiến hành khảo nghiệm;
+- Nội dung giám sát: Theo nội dung đề cương khảo nghiệm giống thủy sản được Cục Thủy sản phê duyệt;
+- Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc khảo nghiệm, đơn vị giám sát khảo nghiệm gửi báo cáo kết quả giám sát về Cục Thủy sản.
+e) Kiểm tra hoạt động khảo nghiệm: Cục Thủy sản tổ chức kiểm tra hoạt động khảo nghiệm giống thủy sản; nội dung kiểm tra theo nội dung đề cương khảo nghiệm đã được phê duyệt.
+g) Công nhận kết quả khảo nghiệm giống thủy sản:
+- Trong thời hạn 15 ngày kể từ ngày nhận được báo cáo kết quả khảo nghiệm, Cục Thủy sản tổ chức đánh giá kết quả khảo nghiệm và ban hành quyết định công nhận kết quả khảo nghiệm giống thủy sản. Trường hợp không công nhận phải trả lời bằng văn bản, nêu rõ lý do;
+- Trong thời hạn 01 ngày làm việc kể từ ngày ban hành quyết định công nhận kết quả khảo nghiệm giống thủy sản, Cục Thủy sản thông báo công khai quyết định công nhận trên Cổng thông tin điện tử của Cục Thủy sản.
+* Trường hợp thiên tai, dịch bệnh không thể tổ chức kiểm tra, đánh giá thực tế tại cơ sở để cấp giấy phép, giấy chứng nhận, văn bản chấp thuận, kiểm tra duy trì điều kiện của cơ sở:
+- Cục Thuỷ sản áp dụng hình thức đánh giá trực tuyến khi cơ sở đáp ứng yêu cầu về nguồn lực, phương tiện kỹ thuật thực hiện; cơ sở cung cấp hồ sơ, tài liệu có liên quan bằng bản giấy hoặc bản điện tử cho cơ quan kiểm tra hoặc tạm hoãn hoặc gia hạn có thời hạn giấy phép, giấy chứng nhận, văn bản chấp thuận, thời hạn kiểm tra duy trì.
+- Tổ chức, cá nhân sản xuất, kinh doanh, tổ chức đánh giá sự phù hợp chịu trách nhiệm trước pháp luật về tính chính xác của thông tin, tài liệu, hình ảnh, hồ sơ cung cấp cho cơ quan cấp phép. Việc kiểm tra đánh giá thực tế sẽ được thực hiện sau khi các địa phương kiểm soát được thiên tai, dịch bệnh theo quy định của pháp luật; thực hiện thu hồi ngay giấy phép đối với trường hợp tổ chức, cá nhân vi phạm quy định pháp luật và xử lý vi phạm theo quy định của pháp luật.

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xử lý miễn lãi các khoản lãi chậm nộp của Quỹ Hỗ trợ sắp xếp và phát triển doanh nghiệp (cấp Tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị của doanh nghiệp về việc xem xét, miễn lãi chậm nộp (bản chính) theo Phụ lục V kèm theo Nghị định số 148/2021/NĐ-CP ngày 31/12/2021 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6eb720cd71f64'">VB đề nghị xem xét miễn lãi chậm nộp.docx</a>)
+- 01 Bản sao - Các tài liệu liên quan theo các trường hợp quy định tại điểm 1 Phụ lục này (bản chính/sao y).
+- 01 Bản sao - Tài liệu, chứng từ nộp về Quỹ và xác định số còn phải nộp (bản chính/sao y).

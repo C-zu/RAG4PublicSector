@@ -1,0 +1,28 @@
+Tên thủ tục: Đánh giá đáp ứng Thực hành tốt cơ sở bán lẻ thuốc
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược phạm vi bán lẻ thuốc gửi hồ sơ về Sở Y tế tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Sở Y tế).
+Bước 2: Sau khi nhận hồ sơ, Sở Y tế trả cho cơ sở đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I ban hành kèm theo Nghị định số 54/2017/NĐ-CP;
+a)  Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, cơ quan cấp Giấy chứng nhận đủ điều kiện kinh doanh dược tổ chức đánh giá thực tế tại cơ sở đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược trong thời hạn 20 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ.
+b) Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản gửi cơ sở đề nghị, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Bước 3: Sau khi cơ sở nộp hồ sơ sửa đổi, bổ sung, Sở Y tế trả cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 tại Phụ lục I ban hành kèm theo Nghị định 54/2017/NĐ-CP.
+a) Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, cơ quan tiếp nhận hồ sơ có văn bản thông báo cho cơ sở theo điểm b bước 2;
+b) Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, cơ quan tiếp nhận hồ sơ thực hiện theo điểm a bước 2.
+Bước 4:Trong thời hạn 05 ngày, kể từ ngày nhận được hồ sơ hợp lệ, Sở Y tế thành lập Đoàn đánh giá, thông báo cho cơ sở bán lẻ thuốc về Đoàn đánh giá và dự kiến thời gian đánh giá thực tế tại cơ sở. Trong thời hạn 15 ngày, kể từ ngày có văn bản thông báo, Đoàn đánh giá tiến hành đánh giá thực tế tại cơ sở bán lẻ thuốc và lập biên bản đánh giá.
+Bước 5: Trường hợp biên bản đánh giá GPP kết luận cơ sở bán lẻ thuốc đáp ứng GPP theo quy định tại điểm a khoản 3 Điều 7 Thông tư 02/2018/TT-BYT:
+Trong thời hạn 10 ngày, kể từ ngày kết thúc việc đánh giá thực tế tại cơ sở và ký biên bản đánh giá, Sở Y tế cấp Giấy chứng nhận GPP theo Mẫu số 03 quy định tại Phụ lục III kèm theo Thông tư 02/2018/TT-BYT (trong trường hợp doanh nghiệp đề nghị) hoặc ra kết luận biên bản đánh giá GPP.
+Trường hợp biên bản đánh giá GPP kết luận cơ sở bán lẻ thuốc phải báo cáo khắc phục theo quy định tại điểm b khoản 3 Điều 7 Thông tư 02/2018/TT-BYT:
+a) Trong thời hạn 5 ngày, kể từ ngày hoàn thành việc đánh giá thực tế tại cơ sở và ký biên bản đánh giá, Sở Y tế gửi văn bản yêu cầu cơ sở bán lẻ thuốc khắc phục, sửa chữa tồn tại được ghi trong biên bản đánh giá.
+b) Sau khi hoàn thành việc khắc phục, sửa chữa, cơ sở bán lẻ thuốc phải có văn bản thông báo kèm theo các bằng chứng (hồ sơ tài liệu, hình ảnh, video, giấy chứng nhận) chứng minh đã hoàn thành việc khắc phục, sửa chữa tồn tại được ghi trong biên bản đánh giá;
+c) Trong thời hạn 20 ngày, kể từ ngày nhận được văn bản báo cáo khắc phục, Sở Y tế đánh giá kết quả khắc phục của cơ sở bán lẻ thuốc và kết luận về tình trạng đáp ứng GPP của cơ sở bán lẻ thuốc:
+- Trường hợp việc khắc phục của cơ sở bán lẻ thuốc đã đáp ứng yêu cầu, Sở Y tế cấp Giấy chứng nhận đủ điều kiện kinh doanh dược hoặc cấp Giấy chứng nhận đáp ứng GPP theo Mẫu số 03 quy định tại Phụ lục III kèm theo Thông tư 02/2018/TT-BYT;
+- Trường hợp việc khắc phục của cơ sở bán lẻ thuốc chưa đáp ứng yêu cầu, Sở Y tế có văn bản trả lời lý do chưa cấp.
+d) Trong thời hạn 06 tháng kể từ ngày Sở Y tế có văn bản yêu cầu sửa đổi, bổ sung, cơ sở bán lẻ thuốc phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở bán lẻ thuốc không sửa đổi, bổ sung hoặc sau 12 tháng kể từ ngày nộp hồ sơ đề nghị lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị.
+Trường hợp biên bản đánh giá GPP kết luận cơ sở bán lẻ thuốc không đáp ứng GPP theo quy định tại điểm c khoản 3 Điều 7 Thông tư 02/2018/TT-BYT: Trong thời hạn 05 ngày, kể từ ngày hoàn thành việc đánh giá thực tế tại cơ sở bán lẻ thuốcvà ký biên bản đánh giá, Sở Y tế ban hành văn bản thông báo cho cơ sở bán lẻ thuốc về việc không đáp ứng GPP và chưa cấp giấy chứng nhận.
+Bước 6: Trong thời hạn 05 ngày, kể từ ngày cấp Giấy chứng nhận đủ điều kiện kinh doanh dược hoặc Giấy chứng nhận GPP, Sở Y tế công bố trên Trang thông tin điện tử của Sở các thông tin sau đây:
+a) Tên và địa chỉ cơ sở bán lẻ thuốc;
+b) Họ tên người chịu trách nhiệm chuyên môn về dược, số Chứng chỉ hành nghề dược;
+c) Số Giấy chứng nhận đủ điều kiện kinh doanh vàGiấy chứng nhận GPP (nếu có);
+d) Thời hạn hết hiệu lực của việc kiểm tra đáp ứngGPP;
+đ) Phạm vi hoạt động của cơ sở bán lẻ thuốc

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký hoạt động kiểm định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP;
+- 01 Bản chính - Bản chính Giấy chứng nhận bị hư hỏng (nếu có) đối với trường hợp Giấy chứng nhận bị hư hỏng. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcffe0e164c2cec'">GCN dang ky kiem dinh.doc</a>)

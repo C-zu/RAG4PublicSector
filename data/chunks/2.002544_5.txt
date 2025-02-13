@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Sở khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Sở Khoa học và Công nghệ nơi có chuyển giao công nghệ khuyến khích chuyển giao trong dự án đầu tư tại địa phương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|61/2020/QH14|Luật 61/2020/QH14|17-06-2020||
+|31/2021/NĐ-CP|Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư|26-03-2021|Chính phủ|
+|12/2023/QĐ-TTg|Quyết định về cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao|15-05-2023|Thủ tướng Chính phủ|

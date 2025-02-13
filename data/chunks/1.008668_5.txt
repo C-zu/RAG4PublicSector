@@ -1,0 +1,26 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Nông nghiệp và Phát triển nông thôn TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|63/2014/NĐ-CP|Nghị định 63/2014/NĐ-CP|26-06-2014|Chính phủ|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|43/2013/QH13|Luật đấu thầu|26-11-2013|Quốc Hội|
+|15/2016/QĐ-UBND|Ban hành Quy định một số nội dung về mua sắm, quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|20-05-2016|UBND Thành phố Đà Nẵng|
+|12/2020/QĐ-UBND|Quy định nội dung về quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|11-05-2020|UBND Thành phố Đà Nẵng|
+|04/2017/TT-BKHĐT|Quy định chi tiết về lựa chọn nhà thầu qua Hệ thống mạng đấu thầu quốc gia|15-11-2017|Bộ Kế hoạch và Đầu tư|

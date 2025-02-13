@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Quyết định công nhận phân bón lưu hành tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp lại Quyết định công nhận theo Mẫu số 01 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe10d61e75ae194'">Mẫu số 01.doc</a>)
+- 01 Bản chính b) Văn bản của cơ quan quản lý nhà nước có thẩm quyền về sở hữu trí tuệ hoặc của tòa án về việc vi phạm nhãn hiệu hàng hóa (trường hợp thay đổi tên phân bón);
+- 01 Bản chính c) Giấy chứng nhận đăng ký doanh nghiệp mới hoặc Giấy chứng nhận đầu tư (trường hợp thay đổi, bổ sung thông tin tổ chức, cá nhân đăng ký);
+- 01 Bản chính, 01 Bản sao d) Bản chính hoặc bản sao chứng thực hợp đồng hoặc thỏa thuận chuyển nhượng phân bón (trường hợp chuyển nhượng phân bón trong Quyết định công nhận).

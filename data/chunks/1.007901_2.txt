@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấm dứt đại lý hoàn thuế đối với Ngân hàng thương mại
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Ngân hàng thương mại gửi Bộ Tài chính (Tổng cục Hải quan) công văn thông báo đề nghị chấm dứt việc làm đại lý hoàn thuế chậm nhất là 60 (sáu mươi) ngày trước ngày chấm dứt việc làm đại lý hoàn thuế.
++ Bộ Tài chính-TCHQ thực hiện đề nghị chấm dứt việc làm đại lý hoàn thuế GTGT của Ngân hàng thương mại hoặc Bộ Tài chính (Tổng cục Hải quan) có văn bản yêu cầu chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng Nhà nước và các đơn vị có liên quan;
++ Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Tổng cục Hải quan trình Bộ Tài chính có văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng nhà nước và các đơn vị có liên quan;
++ Ngân hàng thương mại tháo bỏ biển thông báo là ngân hàng đại lý hoàn thuế giá trị gia tăng cho người nước ngoài tại quầy làm thủ tục hoàn thuế khi chấm dứt bán hàng hoàn thuế.

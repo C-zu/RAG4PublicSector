@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001868
+Số quyết định:
+QĐ/0001-BTC
+Tên thủ tục:
+Hoàn thuế theo Hiệp định tránh đánh thuế hai lần
+Cấp thực hiện:
+Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý thuế, phí, lệ phí và thu khác của ngân sách nhà nước
+Trình tự thực hiện:
+Người nộp thuế (NNT) chuẩn bị hồ sơ và đến nộp cho cơ quan thuế (bộ phận hỗ trợ NNT) hoặc gửi qua bưu điện. Trường hợp không biết thủ tục về hoàn thuế, NNT đề nghị cơ quan thuế (bộ phận hỗ trợ NNT)
+CQT tiếp nhận, đóng dấu tiếp nhận, kiểm tra tính đầy đủ của hồ sơ; vào sổ theo dõi, lưu trữ và viết phiếu hẹn trả cho NNT nếu NNT nộp trực tiếp tại CQT. Trường hợp hồ sơ hoàn thuế chưa đầy đủ, trong thời hạn 3 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan quản lý thuế phải thông báo cho NNT để hoàn chỉnh hồ sơ
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Dịch vụ bưu chính|Trường hợp nhận được hồ sơ đề nghị hoàn đầy đủ thì thời hạn chậm nhất là 15 ngày đối với trường hợp hoàn trước kiểm tra sau, 60 ngày đối với trường hợp kiểm tra trước hoàn sau||Trường hợp nhận được hồ sơ đề nghị hoàn đầy đủ thì thời hạn chậm nhất là 15 ngày đối với trường hợp hoàn trước kiểm tra sau, 60 ngày đối với trường hợp kiểm tra trước hoàn sau|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị hoàn thuế ([58. Hoan thue theo hiep dinh tranh danh thue hai lan_Phuong 2302.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe33ee377e62e75'))
+- 01 Bản chính Bản gốc GCN cư trú của nước cư trú do cơ quan thuế cấp (ghi rõ là đối tượng cư trú trong năm tính thuế nào);
+- 01 Bản sao Bản sao ĐKKD và/hoặc GCN đăng ký thuế do nước cư trú cấp trong trường hợp là tổ chức kinh doanh; hoặc bản sao ĐKKD và/hoặc giấy phép hành nghề, GCN đăng ký thuế do nước cư trú cấp và hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam trong trường hợp là cá nhân hành nghề độc lập; hoặc bản sao HĐLĐ và hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam trong trường hợp là cá nhân hành nghề phụ thuộc
+- 01 Bản sao Bản sao hợp đồng kinh tế, hợp đồng cung cấp dịch vụ, hợp đồng đại lý, hợp đồng uỷ thác, hợp đồng chuyển giao công nghệ, chứng từ chứng minh cho việc DN điều hành trực tiếp phương tiện vận tải (trong trường hợp DN vận tải quốc tế) hay HĐLĐ ký với tổ chức, cá nhân Việt Nam, GCN tiền gửi tại Việt Nam, GCN góp vốn vào Công ty tại Việt Nam (tuỳ theo loại thu nhập trong từng trường hợp cụ thể)
+- 01 Bản chính Chứng từ nộp thuế có xác nhận của kho bạc nhà nước hoặc cơ quan thuế khi thu tiền thuế; hoặc bản sao chứng từ nộp thuế và giấy xác nhận của Kho bạc Nhà nước nơi tổ chức, cá nhân nộp thuế về số thuế đã nộp
+- 01 Bản chính Xác nhận của tổ chức, cá nhân Việt Nam ký kết hợp đồng về thời gian và tình hình hoạt động thực tế theo hợp đồng
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục thuế huyện, thành phố
+Cơ quan có thẩm quyền:
+Chi cục thuế huyện, thành phố
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Kho bạc Nhà nước Việt Nam - Bộ tài chính
+Kết quả thực hiện:
+Quyết định hành chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|85/2007/NĐ-CP|Quy định chi tiết thi hành một số điều của Luật Quản lý thuế|25-05-2007|Chính phủ|
+|78/2006/QH11|Luật Quản lý thuế số 78/2006/QH11 ngày 12 tháng 12 năm 2006 của Quốc hội|12-12-2006|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

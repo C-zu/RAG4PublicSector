@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp giấy phép xây dựng theo mẫu quy định tại Phụ lục 14 của Thông tư này (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5cf92d95316bd'">1.005134 mẫu đơn.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử): Quyết định phê duyệt dự án hoặc văn bản giao nhiệm vụ chủ đầu tư công trình
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Quyết định phê duyệt thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công; ảnh chụp hiện trạng (đối với công trình cải tạo, nâng cấp);
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công đã được phê duyệt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Văn bản pháp lý của cơ quan quản lý nhà nước có thẩm quyền xác định công trình không thể bố trí ngoài phạm vi đất dành cho đường sắt: Tài liệu về quy hoạch được cấp có thẩm quyền phê duyệt hoặc thỏa thuận của ủy ban nhân dân cấp huyện trở lên có liên quan đến việc xây dựng công trình trong phạm vi đất dành cho đường sắt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Tiến độ tổng thể dự án được cấp có thẩm quyền phê duyệt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Phương án tổ chức thi công công trình và biện pháp bảo đảm an toàn giao thông, an toàn công trình trong quá trình thi công.

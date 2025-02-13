@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký, cấp biển số xe lần đầu (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy khai đăng ký xe (Mẫu số 01 ban hành kèm theo Thông tư số 58/2020/TT-BCA) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5e0f72270996c'">Mẫu số 1 Giay khai đăng ký xe.doc</a>)
+- 01 Bản chính Giấy tờ lệ phí trước bạ.
+- 01 Bản chính Giấy tờ nguồn gốc xe
+- 01 Bản chính Giấy tờ chuyển quyền sở hữu xe.
+- 01 Bản chính Giấy tờ của chủ xe theo quy định
+- 01 Bản chính Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ, ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.

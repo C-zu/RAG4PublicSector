@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình kinh doanh hoặc phạm vi kinh doanh dược mà có thay đổi điều kiện kinh doanh; thay đổi địa điểm kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004585
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình kinh doanh hoặc phạm vi kinh doanh dược mà có thay đổi điều kiện kinh doanh; thay đổi địa điểm kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

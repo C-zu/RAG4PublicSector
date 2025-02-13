@@ -1,0 +1,11 @@
+Tên thủ tục: Quyết định giá thuộc thẩm quyền của cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Công văn đề nghị định giá, điều chỉnh giá theo mẫu quy định tại Phụ lục số 2a ban hành kèm Thông tư số 56/2014/TT-BTC; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefbfda79425156'">Quyet dinh gia.docx</a>)
+- 01 Bản chính + Phương án giá thực hiện theo mẫu quy định tại Phụ lục số 2a ban hành kèm Thông tư số 56/2014/TT-BTC. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd04fd57413775a'">Quyet dinh gia.docx</a>)
+- 01 Bản chính + Văn bản tổng hợp ý kiến tham gia của các cơ quan liên quan, đính kèm bản sao ý kiến của các cơ quan theo quy định (nếu có);
+- 01 Bản chính + Văn bản thẩm định phương án giá của các cơ quan có chức năng thẩm định theo quy định;
+- 01 Bản chính + Các tài liệu khác có liên quan.

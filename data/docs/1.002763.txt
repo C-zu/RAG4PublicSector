@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002763
+Số quyết định:
+1671/QĐ-BGTVT
+Tên thủ tục:
+Chấp thuận đặt tên tàu biển
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+- Tổ chức, cá nhân gửi hồ sơ đề nghị chấp thuận đặt tên tàu biển(hoặc tàu công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động)đến Cơ quan đăng ký tàu biển.
+- Cơ quan đăng ký tàu biển gồm:
+	+ Cục Hàng hải Việt Nam thực hiện chức năng của cơ quan đăng ký tàu biển Việt Nam;
+	+ Các Chi cục hàng hải, Cảng vụ hàng hải thực hiện nhiệm vụ đăng ký tàu biển theo phân cấp của Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC
+Cơ quan đăng ký tàu biển tiếp nhận hồ sơ, thực hiện theo quy trình sau:
+-Trường hợp nộp hồ sơ trực tiếp, nếu hồ sơ chưa hợp lệ thì hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện hồ sơ; nếu hồ sơ hợp lệ thì vào sổ theo dõi, cấp giấy biên nhận hồ sơ và hẹn trả kết quả đúng thời gian quy định;
+- Trường hợp nhận hồ sơ qua đường bưu chính, nếu hồ sơ không hợp lệ, chậm nhất 02 ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan đăng ký tàu biển hướng dẫn hoàn thiện hồ sơ theo quy định;
+- Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đăng ký tàu biển trả lời chủ tàu bằng văn bản về việc chấp thuận tên tàu biển do chủ tàu lựa chọn; trường hợp không chấp thuận phải trả lời bằng văn bản nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|2 Ngày làm việc||Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ khai chấp thuận đặt tên tàu biển theo mẫu; ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8cdfb3a38f348'))
+- 01 Bản chính, 01 Bản sao - Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương về quyền sở hữu đối với tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu, bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản chính, 01 Bản sao - Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu). Trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản chính, 01 Bản sao - Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản chính, 01 Bản sao - Trường hợp đặt tên tàu biển công vụ, chủ tàu nộp Quyết định thành lập cơ quan, đơn vị của cấp có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu) thay Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam, Cảng vụ hàng hải, Chi cục Hàng hải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cơ quan đăng ký tàu biển.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận tên tàu biển
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|171/2016/NĐ-CP|Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển|27-12-2016|Chính phủ|
+|86/2020/NĐ-CP|Nghị định 86/2020/NĐ-CP|23-07-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Tàu biển Việt Nam phải được đặt tên và theo nguyên tắc sau đây:
+- Tên tàu biển do chủ tàu đặt nhưng không được trùng với tên tàu biển đã đăng ký trong Sổ đăng ký tàu biển quốc gia Việt Nam;
+- Không sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội để làm toàn bộ hoặc một phần tên của tàu biển, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó;
+- Không sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.
+Tàu biển Việt Nam phải được đặt tên và theo nguyên tắc sau đây:
+- Tên tàu biển do chủ tàu đặt nhưng không được trùng với tên tàu biển đã đăng ký trong Sổ đăng ký tàu biển quốc gia Việt Nam;
+- Không sử dụng tên cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội để làm toàn bộ hoặc một phần tên của tàu biển, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó;
+- Không sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

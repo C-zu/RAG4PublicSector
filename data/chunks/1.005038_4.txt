@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy phép kinh doanh vận tải đa phương thức quốc tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép kinh doanh vận tải đa phương thức quốc tế theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefc576acf8d9b2'">Mau 1.docx</a>)
+- 01 Bản sao Bản sao từ sổ gốc hoặc bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có chứng thực (trường hợp nộp hồ sơ trực tiếp); nộp bản sao có chứng thực (trường hợp nộp hồ sơ qua đường bưu chính) đối với Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ tương đương theo quy định của pháp luật (nếu có thay đổi);
+- 01 Bản chính Báo cáo tài chính được kiểm toán hoặc có phương án tài chính thay thế theo quy định của pháp luật hoặc bảo lãnh tương đương (nếu có thay đổi).

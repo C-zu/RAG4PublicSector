@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục bổ sung giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị X-quang chẩn đoán trong y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày||25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có). - Trực tuyến tại Cổng dịch vụ công cấp tỉnh; - Trực tiếp hoặc thông qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công hoặc Bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh|
+|Trực tuyến|25 Ngày||25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có). - Trực tuyến tại Cổng dịch vụ công cấp tỉnh; - Trực tiếp hoặc thông qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công hoặc Bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh|
+|Dịch vụ bưu chính|25 Ngày||25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có). - Trực tuyến tại Cổng dịch vụ công cấp tỉnh; - Trực tiếp hoặc thông qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công hoặc Bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh|

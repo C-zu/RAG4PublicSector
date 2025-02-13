@@ -1,0 +1,8 @@
+Tên thủ tục: Chuyển giao công trình điện là hạ tầng kỹ thuật sử dụng chung trong các dự án khu đô thị, khu dân cư và dự án khác do chủ đầu tư phải bàn giao lại cho Nhà nước theo quy định của pháp luật
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|44 Ngày|||
+|Dịch vụ bưu chính|44 Ngày|||

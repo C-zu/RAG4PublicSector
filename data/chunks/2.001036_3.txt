@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài hoạt động xây dựng tại Việt Nam (thực hiện hợp đồng của dự án nhóm A, dự án đầu tư xây dựng trên địa bàn hai tỉnh trở lên)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Lệ phí : 2000000 Đồng Lệ phí cấp giấy phép hoạt động xây dựng cho nhà thầu nước ngoài|Không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|

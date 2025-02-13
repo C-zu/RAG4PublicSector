@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Bảo vệ thực vật - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện sản xuất phân bón
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật số 31/2018/QH14|Luật trồng trọt năm 2018|19-11-2018|Quốc Hội|
+|Nghị định 84/2019/NĐ-CP|Nghị định 84/2019/NĐ-CP ngày 14/11/2019 của Chính phủ quy định về quản lý phân bón|14-11-2019|Chính phủ|
+|Thông tư 14/2018/TT-BTC|Điều 2 Thông tư số 14/2018/TT-BTC ngày 07/02/2018 của Bộ Tài Chính Sửa đổi, bổ sung một số điều của Thông tư số 207/2016/TT-BTC ngày 09 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực trồng trọt và giống cây lâm nghiệp|07-02-2018|Bộ Tài chính|
+|130/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của Nghị định số 84/2019/NĐ-CP ngày 14 tháng 11 năm 2019 của Chính phủ quy định về quản lý phân bón, Nghị định số 94/2019/NĐ-CP ngày 13 tháng 12 năm 2019 của Chính phủ quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác|31-12-2022|Chính phủ|

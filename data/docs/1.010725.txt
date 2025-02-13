@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010725
+Số quyết định:
+87/QĐ-BTNMT
+Tên thủ tục:
+Cấp điều chỉnh giấy phép môi trường (cấp Huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Môi trường
+Trình tự thực hiện:
+Chủ dự án đầu tư, cơ sở khi có thay đổi một trong các nội dung cấp phép không thuộc trường hợp quy định tại điểm b khoản 3 và khoản 4 Điều 30 Nghị định số 08/2022/NĐ-CP (trừ trường hợp thay đổi giảm nội dung cấp phép môi trường hoặc thay đổi khối lượng, loại chất thải nguy hại phát sinh; trường hợp thay đổi giảm nội dung cấp phép môi trường, việc thay đổi giấy phép môi trường được thực hiện khi có đề nghị của chủ dự án đầu tư, cơ sở):
+nộp hồ sơ đề nghị cấp điều chỉnh giấy phép môi trường khi có thay đổi một hoặc nhiều nội dung sau:
+- Nguồn phát sinh nước thải; lưu lượng xả nước thải tối đa; dòng nước thải; các chất ô nhiễm và giá trị giới hạn của các chất ô nhiễm theo dòng nước thải; vị trí, phương thức xả nước thải và nguồn tiếp nhận nước thải; 
+- Nguồn phát sinh khí thải; lưu lượng xả khí thải tối đa; dòng khí thải; các chất ô nhiễm và giá trị giới hạn của các chất ô nhiễm theo dòng khí thải; vị trí, phương thức xả khí thải;
+- Nguồn phát sinh và giá trị giới hạn đối với tiếng ồn, độ rung; 
+- Các thay đổi khác.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|15 Ngày làm việc|Phí : Đồng Chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy phép môi trường theo quy định của Hội đồng nhân dân cấp tỉnh.|- Tối đa 15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ. - Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính của cơ quan cấp phép.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp điều chỉnh giấy phép môi trường của dự án đầu tư, cơ sở (mẫu quy định tại Phụ lục XIII ban hành kèm theo Nghị định số 08/2022/NĐ-CP). ([Phụ lục XIII.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca75d7171e7948'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Uỷ ban nhân dân huyện
+Cơ quan có thẩm quyền:
+Uỷ ban nhân dân huyện
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép môi trường điều chỉnh (mẫu số 41 Phụ lục II phần phụ lục ban hành kèm theo Thông tư số 02/2022/TT-BTNMT)., Giấy phép môi trường điều chỉnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2020/QH14|Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020|17-11-2020|Ủy ban thường vụ quốc hội|
+|08/2022/NĐ-CP|Nghị định số 08/2022/NĐ-CP|10-01-2022|Chính phủ|
+|02/2022/TT-BTNMT|Thông tư số 02/2022/TT-BTNMT|10-01-2022|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Thay đổi nội dung cấp phép quy định tại khoản 2 Điều 40 Luật Bảo vệ môi trường 2020 theo đề nghị của chủ dự án đầu tư, cơ sở hoặc theo quy định của pháp luật, trừ trường hợp quy định tại điểm b khoản 3 Điều 44 Luật Bảo vệ môi trường 2020.
+Từ khóa:
+giấy phép môi trường
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn giấy phép tiến hành công việc bức xạ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : Đồng 75% mức thu phí thẩm định cấp giấy phép mới.|+ 30 ngày đối với gia hạn giấy phép có thời hạn trên 12 tháng + 15 ngày đối với gia hạn Giấy phép có thời hạn 12 tháng, 6 tháng.|
+|Trực tuyến|30 Ngày|Phí : Đồng 75% mức thu phí thẩm định cấp giấy phép mới.|+ 30 ngày đối với gia hạn giấy phép có thời hạn trên 12 tháng + 15 ngày đối với gia hạn Giấy phép có thời hạn 12 tháng, 6 tháng.|
+|Dịch vụ bưu chính|30 Ngày|Phí : Đồng 75% mức thu phí thẩm định cấp giấy phép mới.|+ 30 ngày đối với gia hạn giấy phép có thời hạn trên 12 tháng + 15 ngày đối với gia hạn Giấy phép có thời hạn 12 tháng, 6 tháng.|

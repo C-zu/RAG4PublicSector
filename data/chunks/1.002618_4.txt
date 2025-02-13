@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền kèm theo bản chụp Giấy chứng nhận đăng ký doanh nghiệp, Chứng minh nhân dân (hoặc hộ chiếu, hoặc thẻ Căn cước công dân). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb4976796ddb3e0'">Đơn đề nghị cấp tài khoản truy cập.doc</a>)
+- 01 Bản chính + Đơn đăng ký tài khoản đã có để truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền (trong trường hợp người làm thủ tục đã có tài khoản truy cập Cổng thông tin điện tử khác đã thống nhất mô hình kết nối và trao đổi thông tin với Cổng thông tin thủ tục biên phòng điện tử). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3c129245de80e'">Đơn đăng ký tài khoản đã có để truy cập.doc</a>)
+- 01 Bản chính + Đơn đăng ký cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của công dân Việt Nam xuất, nhập cảnh. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6548aae7c782c'">Đơn đăng ký cấp tài khoản truy cập cổng thông tin thủ tục biên phòng điện tử.doc</a>)

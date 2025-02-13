@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp lại giấy phép môi trường (cấp Tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp cơ sở đang hoạt động có tiêu chí về môi trường tương đương với dự án nhóm III
+- 01 Bản chính Báo cáo đề xuất cấp lại giấy phép môi trường của cơ sở đang hoạt động có tiêu chí về môi trường tương đương với dự án nhóm III (mẫu quy định tại Phụ lục XII ban hành kèm theo Nghị định số 08/2022/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbc83b06616d7a'">Phụ lục XII.doc</a>)
+
+
+Trường hợp cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp đang hoạt động có tiêu chí về môi trường tương đương với dự án nhóm I hoặc nhóm II
+- 01 Bản chính Báo cáo đề xuất cấp lại giấy phép môi trường của cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp đang hoạt động có tiêu chí về môi trường tương đương với dự án nhóm I hoặc nhóm II (mẫu quy định tại Phụ lục X ban hành kèm theo Nghị định số 08/2022/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdec4d6492b74c0'">Phụ lục X.doc</a>)
+
+
+Trường hợp dự án đầu tư nhóm II không thuộc đối tượng phải thực hiện đánh giá tác động môi trường
+- 01 Bản chính Báo cáo đề xuất cấp lại giấy phép môi trường của dự án đầu tư nhóm II không thuộc đối tượng phải thực hiện đánh giá tác động môi trường (mẫu quy định tại Phụ lục IX ban hành kèm theo Nghị định số 08/2022/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef390df5bd94aa'">Phụ lục IX.doc</a>)
+
+
+Trường hợp dự án đầu tư nhóm III
+- 01 Bản chính Báo cáo đề xuất cấp lại giấy phép môi trường của dự án đầu tư nhóm III (mẫu quy định tại Phụ lục XI ban hành kèm theo Nghị định số 08/2022/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddd5fa4934bad2'">Phụ lục XI.doc</a>)
+
+
+Tất cả
+- 01 Bản chính Văn bản đề nghị cấp lại giấy phép môi trường của dự án đầu tư, cơ sở (mẫu quy định tại Phụ lục XIII ban hành kèm theo Nghị định số 08/2022/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8b5daaf0c90bd'">Phụ lục XIII.doc</a>)
+- 01 Bản sao Báo cáo nghiên cứu khả thi hoặc tài liệu tương đương với báo cáo nghiên cứu khả thi của dự án đầu tư theo quy định của pháp luật về đầu tư, đầu tư công, đầu tư theo phương thức đối tác công tư, xây dựng (đối với dự án đầu tư không thuộc đối tượng phải thực hiện đánh giá tác động môi trường).

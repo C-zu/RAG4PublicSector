@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần cấp lại Giấy phép sử dụng băng tần
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a1) Hồ sơ đề nghị sửa đổi, bổ sung giấy phép thiết lập mạng viễn thông công cộng, giấy phép cung cấp dịch vụ viễn thông sử dụng băng tần do thay đổi nhu cầu sử dụng tài nguyên viễn thông đã được cấp phép bao gồm:
+- 01 Bản chính a) Đơn đề nghị sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông theo quy định của pháp luật về viễn thông theo mẫu số 02 Phụ lục đính kèm Nghị định số 81/2016/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbcb9f7592198a0'">Mẫu 2 Nghị định 81.2016NĐ-CP.docx</a>)
+- 01 Bản chính b) Báo cáo tình hình thực hiện giấy phép kể từ ngày được cấp giấy phép đến ngày nộp hồ sơ đề nghị sửa đổi, bổ sung giấy phép theo mẫu số 6 Phụ lục đính kèm Nghị định số 81/2016/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea875612d4196f'">Mẫu 06 Nghị định 81.2016.NĐ-CP.docx</a>)
+- 01 Bản chính c) Kế hoạch kinh doanh và kế hoạch kỹ thuật sửa đổi, bổ sung phù hợp với tài nguyên viễn thông thay đổi theo quy định của pháp luật về viễn thông;
+
+
+a2) Bản cam kết triển khai mạng viễn thông theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 63/2023/NĐ-CP;
+- 01 Bản chính a2) Bản cam kết triển khai mạng viễn thông theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 63/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc310571648c9ec'">Mẫu Bản cam kết.docx</a>)

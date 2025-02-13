@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký tập sự hành nghề công chứng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự
+- 01 Bản chính Giấy đăng ký tập sự hành nghề công chứng (Mẫu TP-TSCC-01a) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe02e1c424a2f3e'">Mẫu 01 a Đăng ký tập sự.docx</a>)
+- 01 Bản chính Giấy chứng nhận tốt nghiệp khoá đào tạo nghề công chứng hoặc giấy chứng nhận hoàn thành khóa bồi dưỡng nghề công chứng hoặc quyết định công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài (bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu)
+
+
+Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng
+- 01 Bản chính Giấy đăng ký tập sự hành nghề công chứng (Mẫu TP-TSCC-01b) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee47fb35fa4d1e'">Mẫu 01b Đăng ký tập sự.docx</a>)
+- 01 Bản chính Giấy chứng nhận tốt nghiệp khoá đào tạo nghề công chứng hoặc giấy chứng nhận hoàn thành khóa bồi dưỡng nghề công chứng hoặc quyết định công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài (bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu)

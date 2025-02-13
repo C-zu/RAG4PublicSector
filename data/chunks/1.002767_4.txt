@@ -1,0 +1,14 @@
+Tên thủ tục: Đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ của Bộ Thông tin và Truyền thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1. Công văn đề nghị đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ của tổ chức chủ trì. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23c3234aeeab2'">Mẫu PL18.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Báo cáo tổng hợp kết quả thực hiện nhiệm vụ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd66867d92935ca'">Mẫu PL22.docx</a>)
+- 01 Bản chính, 01 Bản sao 3. Báo cáo về sản phẩm khoa học và công nghệ của nhiệm vụ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb68afba8137640'">Mẫu PL19.docx</a>)
+- 01 Bản chính, 01 Bản sao 4. Báo cáo tình hình sử dụng kinh phí của nhiệm vụ.
+- 01 Bản chính, 01 Bản sao 5. Bản sao hợp đồng và thuyết minh nhiệm vụ.
+- 01 Bản chính, 01 Bản sao 6. Các văn bản xác nhận và tài liệu có liên quan đến việc công bố, xuất bản, tiếp nhận và sử dụng kết quả nghiên cứu (nếu có).
+- 01 Bản chính, 01 Bản sao 7. Các số liệu (điều tra, khảo sát, phân tích,…).
+- 01 Bản chính, 01 Bản sao 8. Báo cáo tự đánh giá kết quả thực hiện nhiệm vụ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd898ba4358cfd6'">Mẫu số 01.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdddd7aa7527ce2'">Mẫu số 02.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcad48cf7974038'">Mẫu số 03.docx</a>)

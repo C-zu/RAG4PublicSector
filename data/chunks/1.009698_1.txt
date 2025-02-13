@@ -1,0 +1,16 @@
+Tên thủ tục: Lập, phê duyệt kế hoạch tổng thể thực hiện chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi, vốn đối ứng.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009698
+Số quyết định:
+2165/QĐ-UBND
+Tên thủ tục:
+Lập, phê duyệt kế hoạch tổng thể thực hiện chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi, vốn đối ứng.
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức

@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe máy chuyên dùng cải tạo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Mức giá : 150.000 Đồng Giá soát xét hồ sơ cho phép thi công cải tạo lần tiếp theo đối với xe cơ giới, xe máy chuyên dùng: 150.000 đồng/chiếc  Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe máy chuyên dùng: 300.000 đồng/chiếc|- Thời hạn thẩm định nội dung hồ sơ: trong thời hạn 07 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ|
+|Trực tiếp|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định đạt yêu cầu|
+|Trực tuyến|7 Ngày làm việc|Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe máy chuyên dùng: 300.000 đồng/chiếc  Mức giá : 150.000 Đồng Giá soát xét hồ sơ cho phép thi công cải tạo lần tiếp theo đối với xe cơ giới, xe máy chuyên dùng: 150.000 đồng/chiếc|- Thời hạn thẩm định nội dung hồ sơ: trong thời hạn 07 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ|
+|Trực tuyến|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định đạt yêu cầu|
+|Dịch vụ bưu chính|7 Ngày làm việc|Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe máy chuyên dùng: 300.000 đồng/chiếc  Mức giá : 150.000 Đồng Giá soát xét hồ sơ cho phép thi công cải tạo lần tiếp theo đối với xe cơ giới, xe máy chuyên dùng: 150.000 đồng/chiếc|- Thời hạn thẩm định nội dung hồ sơ: trong thời hạn 07 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ|
+|Dịch vụ bưu chính|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định đạt yêu cầu|

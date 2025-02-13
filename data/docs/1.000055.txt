@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000055
+Số quyết định:
+178/QĐ-BNN-LN
+Tên thủ tục:
+Phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững của chủ rừng là tổ chức
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lâm nghiệp
+Trình tự thực hiện:
+- Bước 1: Gửi hồ sơ
+Chủ rừng là tổ chức không thuộc đối tượng quy định tại Điều 11 và Điều 12 Thông tư số 28/2018/TT-BNNPTNT (được sửa đổi, bổ sung theo quy định tại khoản 5 và khoản 6 Điều 1 Thông tư số 13/2023/TT-BNNPTNT) nộp 01 bộ hồ sơ đến Sở Nông nghiệp và Phát triển nông thôn trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử.
+- Bước 2: Kiểm tra tính đầy đủ của thành phần hồ sơ
++ Trường hợp nộp hồ sơ trực tiếp: Sở Nông nghiệp và Phát triển nông thôn kiểm tra thành phần hồ sơ và trả lời ngay tính đầy đủ của thành phần hồ sơ cho chủ rừng;
++ Trường hợp nộp hồ sơ qua dịch vụ bưu chính: Trong thời hạn không quá 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Nông nghiệp và Phát triển nông thôn xem xét tính đầy đủ của thành phần hồ sơ; trường hợp hồ sơ chưa đầy đủ theo quy định, phải thông báo bằng văn bản cho chủ rừng và nêu rõ lý do;
++ Trường hợp nộp hồ sơ qua môi trường điện tử: Trong thời hạn không quá 01 ngày làm việc kể từ thời điểm nhận được hồ sơ, Sở Nông nghiệp và Phát triển nông thôn xem xét tính đầy đủ của thành phần hồ sơ; trường hợp hồ sơ chưa đầy đủ theo quy định, phải thông báo cho chủ rừng và nêu rõ lý do. Hồ sơ nộp qua môi trường điện tử thực hiện theo quy định tại Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử.
+- Bước 3: Lấy ý kiến phương án quản lý rừng bền vững
+Trong thời hạn 03 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Sở Nông nghiệp và Phát triển nông thôn xem xét, lấy ý kiến bằng văn bản các Sở, ngành có liên quan và Ủy ban nhân dân cấp huyện nơi chủ rừng được nhà nước giao đất, giao rừng hoặc cho thuê đất, cho thuê rừng về nội dung phương án.
+- Bước 4: Trả lời ý kiến về phương án quản lý rừng bền vững
+Trong thời hạn 10 ngày kể từ ngày nhận được văn bản lấy ý kiến, các cơ quan, đơn vị, địa phương được lấy ý kiến có trách nhiệm trả lời bằng văn bản.
+- Bước 5: Tổng hợp ý kiến, trình ban hành Quyết định
+Trong thời hạn 15 ngày kể từ ngày nhận được ý kiến bằng văn bản của các cơ quan, đơn vị, địa phương được lấy ý kiến theo quy định, Sở Nông nghiệp và Phát triển nông thôn có trách nhiệm tổng hợp, đánh giá, hoàn thiện Báo cáo kết quả thẩm định theo Mẫu số 02 Phụ lục IV ban hành kèm theo Thông tư số 13/2023/TT-BNNPTNT; trình Ủy ban nhân dân cấp tỉnh phê duyệt phương án quản lý rừng bền vững theo Mẫu số 03 hoặc phê duyệt điều chỉnh phương án quản lý rừng bền vững theo Mẫu số 05 Phụ lục IV ban hành kèm theo Thông tư số 13/2023/TT-BNNPTNT và trả kết quả cho chủ rừng trực tiếp tại bộ phận một cửa hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử. 
+Trường hợp không phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|28 Ngày||28 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|28 Ngày||28 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|28 Ngày||28 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+a) Hồ sơ phê duyệt phương án:
+- 01 Bản chính - Tờ trình đề nghị phê duyệt phương án quản lý rừng bền vững theo quy định tại Mẫu số 01 Phụ lục IV ban hành kèm theo Thông tư số 13/2023/TT-BNNPTNT;.
+- 01 Bản chính - Phương án quản lý rừng bền vững theo quy định tại Phụ lục II ban hành kèm theo Thông tư số 13/2023/TT-BNNPTNT;.
+- 01 Bản sao - Bản sao các loại bản đồ được điều chỉnh, sửa đổi, bổ sung gồm: + Hiện trạng rừng theo tiêu chuẩn Việt Nam số TCVN 11565:2016; + Hiện trạng sử dụng đất theo quy định của Bộ Tài nguyên và Môi trường..
+- 01 Bản chính - Bản chính bản đồ quản lý rừng bền vững được áp dụng theo tiêu chuẩn Việt Nam số TCVN 11566:2016 thể hiện diện tích các loại rừng được quản lý, bảo vệ, phát triển, sử dụng, bảo tồn đa dạng sinh học; cơ sở hạ tầng lâm sinh, du lịch sinh thái, nghỉ dưỡng, giải trí theo kế hoạch quản lý rừng bền vững của chủ rừng được điều chỉnh, sửa đổi, bổ sung. Tỷ lệ bản đồ: 1/5.000 hoặc 1/10.000 hoặc 1/25.000 hoặc 1/50.000 theo hệ quy chiếu VN 2000 do chủ rừng tự chọn loại tỷ lệ bản đồ phù hợp với quy mô diện tích của khu rừng...
+
+
+b) Hồ sơ điều chỉnh phương án:
+- 01 Bản chính - Tờ trình đề nghị điều chỉnh phương án quản lý rừng bền vững theo quy định tại Mẫu số 04 Phụ lục IV ban hành kèm theo Thông tư số 13/2023/TT-BNNPTNT;.
+- 01 Bản chính - Phương án quản lý rừng bền vững theo quy định tại Phụ lục II ban hành kèm theo Thông tư số 13/2023/TT-BNNPTNT được điều chỉnh, sửa đổi, bổ sung;.
+- 01 Bản sao - Bản sao các loại bản đồ được điều chỉnh, sửa đổi, bổ sung gồm: + Hiện trạng rừng theo tiêu chuẩn Việt Nam số TCVN 11565:2016; + Hiện trạng sử dụng đất theo quy định của Bộ Tài nguyên và Môi trường..
+- 01 Bản chính - Bản chính bản đồ quản lý rừng bền vững được áp dụng theo tiêu chuẩn Việt Nam số TCVN 11566:2016 thể hiện diện tích các loại rừng được quản lý, bảo vệ, phát triển, sử dụng, bảo tồn đa dạng sinh học; cơ sở hạ tầng lâm sinh, du lịch sinh thái, nghỉ dưỡng, giải trí theo kế hoạch quản lý rừng bền vững của chủ rừng được điều chỉnh, sửa đổi, bổ sung. Tỷ lệ bản đồ: 1/5.000 hoặc 1/10.000 hoặc 1/25.000 hoặc 1/50.000 theo hệ quy chiếu VN 2000 do chủ rừng tự chọn loại tỷ lệ bản đồ phù hợp với quy mô diện tích của khu rừng..
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Nông nghiệp và Phát triển Nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt phương án quản lý rừng bền vững.., Quyết định điều chỉnh phương án quản lý rừng bền vững..
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2018/TT-BNNPTNT|Thông tư 28/2018/TT-BNNPTNT|16-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|13/2023/TT-BNNPTNT|Thông tư số 13/2023/TT-BNNPTNT ngày 30/11/2023 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về sửa đổi, bổ sung một số điều của Thông tư số 28/2018/TT-BNNPTNT ngày 16/11/2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về quản lý rừng bền vững|30-11-2023|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

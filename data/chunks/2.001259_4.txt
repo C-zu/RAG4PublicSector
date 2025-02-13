@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục kiểm tra nhà nước về chất lượng sản phẩm, hàng hóa hàng hóa nhóm 2 nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Chứng nhận lưu hành tự do CFS (nếu có)
+ Chứng chỉ chất lượng của nước xuất khẩu (giấy chứng nhận chất lượng, kết quả thử nghiệm) (nếu có)
+ Giấy chứng nhận xuất xứ (nếu có), ảnh hoặc bản mô tả hàng hóa có các nội dung bắt buộc phải thể hiện trên nhãn hàng hóa và nhãn phụ (nếu nhãn chính chưa đủ nội dung theo quy định) (nếu có)
+ Đăng ký kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu và cam kết chất lượng hàng hóa phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng theo quy định tại Mẫu số 01 Phụ lục ban hành kèm theo Nghị định 74/2018/NĐ-CP tại cơ quan kiểm tra chất lượng sản phẩm, hàng hóa (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee3b1fa9e80e12'">ĐĂNG KÝ KIỂM TRA NHÀ NƯỚC VỀ CHẤT LƯỢNG HÀNG HÓA NHẬP KHẨU.docx</a>)
+ Phiếu tiếp nhận hồ sơ chất lượng hàng hóa nhập khẩu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f727b010c107b80'">PHIẾU TIẾP NHẬN HỒ SƠ ĐĂNG KÝ KIỂM TRA CHẤT LƯỢNG HÀNG HÓA NHẬP KHẨU.docx</a>)
+- 01 Bản sao Bản sao Hợp đồng, Danh mục hàng hóa (nếu có)
+- 01 Bản sao Bản sao (có xác nhận của người nhập khẩu) vận đơn, hóa đơn, tờ khai hàng hóa nhập khẩu (nếu có)

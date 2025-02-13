@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000254
+Số quyết định:
+44/QĐ-BTC
+Tên thủ tục:
+Thủ tục đề nghị trả lại phù hiệu, biển hiệu
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
+- Doanh nghiệp nộp hồ sơ xin cấp lại phù hiệu, biển hiệu cho Sở Giao thông vận tải (nơi tạm giữ phù hiệu, biển hiệu).
+- Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu (nếu có) cho doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Phí : 0 Đồng|Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu cho doanh nghiệp, thời gian thực hiện 02 ngày làm việc.|
+|Trực tuyến|2 Ngày làm việc|Phí : 0 Đồng|Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu cho doanh nghiệp, thời gian thực hiện 02 ngày làm việc.|
+|Dịch vụ bưu chính|2 Ngày làm việc|Phí : 0 Đồng|Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu cho doanh nghiệp, thời gian thực hiện 02 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị trả lại phù hiệu, biển hiệu theo Mẫu số 09 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP ([Mẫu số 09.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72cc97bba419a'))
+- 01 Bản chính Quyết định về việc bù trừ phí sử dụng đường bộ hoặc Biên lai thu phí trong trường hợp chưa nộp phí cho thời gian dừng lưu hành (nộp bản chụp và mang bản chính để đối chiếu).
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Giao thông vận tải - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cấp lại phù hiệu, biển hiệu.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật giao thông đường bộ|13-11-2008|Quốc Hội|
+|97/2015/QH13|Luật phí và lệ phí|25-11-2015|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Xe kinh doanh vận tải thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên khi đáp ứng các yêu cầu sau:
+- Chủ phương tiện đã nộp Đơn xin tạm dừng lưu hành.
+- Sở Giao thông vận tải đã xác nhận vào Đơn xin tạm dừng lưu hành. 
+- Đơn vị đăng kiểm đã lập Biên bản thu Tem kiểm định và Tem nộp phí sử dụng đường bộ, ban hành Quyết định về việc bù trừ phí sử dụng đường bộ hoặc lập Biên lai thu phí trong trường hợp chưa nộp phí cho thời gian dừng lưu hành.
+Xe kinh doanh vận tải thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên khi đáp ứng các yêu cầu sau:
+- Chủ phương tiện đã nộp Đơn xin tạm dừng lưu hành.
+- Sở Giao thông vận tải đã xác nhận vào Đơn xin tạm dừng lưu hành. 
+- Đơn vị đăng kiểm đã lập Biên bản thu Tem kiểm định và Tem nộp phí sử dụng đường bộ, ban hành Quyết định về việc bù trừ phí sử dụng đường bộ hoặc lập Biên lai thu phí trong trường hợp chưa nộp phí cho thời gian dừng lưu hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

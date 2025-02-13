@@ -1,0 +1,10 @@
+Tên thủ tục: Chấp thuận sử dụng tạm thời một phần lòng đường không vì mục đích giao thông (thuộc thẩm quyền của UBND cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị chấp thuận (theo mẫu tại Phụ lục 1) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf9eacede8181c'">Phu luc 1.docx</a>)
+- 01 Bản chính Bản vẽ vị trí mặt bằng, diện tích hè phố đề nghị được tạm thời sử dụng (theo mẫu tại Phụ lục số 2); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff4795e7f6c27'">Phụ lục 2.docx</a>)
+- 01 Bản chính Bản sao Giấy chứng nhận đăng ký kinh doanh (đối với trường hợp đề nghị cấp phép điểm trung chuyển rác thải);
+- 01 Bản chính Văn bản cho phép tổ chức hoạt động xã hội của Sở Văn hóa - Thể thao và Du lịch, Sở Công Thương hoặc Ủy ban nhân dân cấp huyện theo quy định.

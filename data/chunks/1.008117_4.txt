@@ -1,0 +1,9 @@
+Tên thủ tục: Nhập khẩu lần đầu đực giống, tinh, phôi, giống gia súc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký nhập khẩu đực giống, tinh, phôi giống gia súc (theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư số 22/2019/TT-BNNPTNT ngày 30 tháng 11 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn một số điều của Luật Chăn nuôi về quản lý giống và sản phẩm giống vật nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8ed5c09e75a94'">Phục lục III.docx</a>)
+- 01 Bản chính - Lý lịch đực giống, tinh, phôi giống gia súc nhập khẩu (theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư số 22/2019/TT-BNNPTNT ngày 30 tháng 11 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn một số điều của Luật Chăn nuôi về quản lý giống và sản phẩm giống vật nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc80ddda769e4f8'">LÝ LỊCH ĐỰC GIỐNG GIA SÚC NHẬP KHẨU PL III.docx</a>)
+- 01 Bản chính - Văn bản của cơ quan có thẩm quyền hoặc tổ chức được cơ quan có thẩm quyền của nước xuất khẩu ủy quyền xác nhận về nguồn gốc, xuất xứ, chất lượng giống, mục đích sử dụng (văn bản là bản chính hoặc bản sao chứng thực kèm theo bản dịch tiếng Việt có xác nhận của đơn vị nhập khẩu)

@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký cấp sao bản án, tài liệu trong hồ sơ vụ án
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Chứng minh nhân dân/Căn cước công dân
+- 01 Bản chính Đơn đăng ký cấp sao tài liệu

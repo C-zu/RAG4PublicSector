@@ -1,0 +1,12 @@
+Tên thủ tục: Thanh toán trực tiếp chi phí khám, chữa bệnh bảo hiểm y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Bản chụp các giấy tờ sau (kèm bản chính để đối chiếu)
+- 01 Bản chính, 01 Bản sao Thẻ BHYT và một trong các giấy tờ chứng minh về nhân thân có ảnh hợp lệ trong trường hợp thẻ BHYT chưa có ảnh (Giấy Chứng minh nhân dân, Hộ chiếu, Thẻ Đảng viên, Thẻ Công an nhân dân, Thẻ quân nhân,Thẻ đoàn viên công đoàn, Thẻ học sinh, Thẻ sinh viên, Thẻ cựu chiến binh, Giấy phép lái xe hoặc một loại giấy tờ có ảnh hợp lệ khác); bản sao Giấy khai sinh, giấy chứng sinh trong trường hợp trẻ em dưới 6 tuổi chưa có thẻ BHYT
+- 01 Bản chính, 01 Bản sao Giấy ra viện, phiếu khám bệnh hoặc sổ khám bệnh của lần KCB đề nghị thanh toán
+
+
+2. Bản chính các hóa đơn, chứng từ có liên quan.
+- 01 Bản chính Trường hợp chỉ đề nghị cấp giấy chứng nhận không cùng chi trả trong năm (không kèm theo việc thanh toán trực tiếp chi phí KCB BHYT): người tham gia BHYT có nhu cầu sử dụng Hóa đơn, Biên lai bản chính vào mục đích khác, bộ phận một cửa của cơ quan BHXH chụp Hóa đơn, Biên lai và ký xác nhận trên bản chụp, trả bản chính cho người tham gia BHYT; Trường hợp người tham gia BHYT làm thất lạc Hóa đơn, Biên lai bản chính thì nộp bản chụp Hóa đơn, Biên lai hoặc bản chụp Hóa đơn, Biên lai có xác nhận của cơ sở khám bệnh, chữa bệnh nơi người có thẻ BHYT khám bệnh, chữa bệnh hoặc Bảng kê chi phí khám bệnh, chữa bệnh (theo Mẫu số 01/BV, 02/BV) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd710375062aae4'">01_Giay TN&TKQ.docx</a>)

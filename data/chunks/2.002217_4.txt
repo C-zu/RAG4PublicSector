@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký giá của các doanh nghiệp thuộc phạm vi cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Biểu mẫu đăng ký giá theo hướng dẫn tại Phụ lục số 01 ban hành kèm theo Thông tư số 56/2014/TT-BTC (trong đó các nội dung về Công văn gửi Biểu mẫu đăng ký giá; Bảng đăng ký giá cụ thể và Thuyết minh cơ cấu tính giá hàng hóa, dịch vụ đăng ký giá). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec499864f0a1a7'">Dang ky gia.docx</a>)
+- 01 Bản chính + 01 phong bì có dán tem, ghi rõ: tên, địa chỉ của tổ chức, cá nhân, họ tên và số điện thoại của người trực tiếp có trách nhiệm của đơn vị;

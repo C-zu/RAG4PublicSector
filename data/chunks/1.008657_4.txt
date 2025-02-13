@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt Báo cáo kinh tế kỹ thuật các dự án có tổng mức đầu tư dưới 15 tỷ đồng đối với dự án do Sở Nông nghiệp và Phát triển nông thôn hoặc đơn vị trực thuộc Sở quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình phê duyệt Báo cáo kinh tế kỹ thuật xây dựng công trình (tham khảo theo Mẫu số 05 ban hành kèm theo Nghị định số 59/2015/NĐ-CP ngày 18 tháng 6 năm 2015 của Chính phủ về Quản lý dự án đầu tư xây dựng); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd092a36f8fdf4e'">To trinh DN phe duyet BC KT-KT dau tu xay dung (Mau so 05).doc</a>)
+- 01 Bản chính 2. Quyết định phê duyệt chủ trương đầu tư xây dựng công trình (đối với dự án sử dụng vốn đầu tư công);
+- 01 Bản chính 3. Quy hoạch Tổng mặt bằng được duyệt (Đối với các dự án xây dựng tại địa điểm mới hoặc dự án mở rộng có yêu cầu phê duyệt Tổng mặt bằng xây dựng);
+- 01 Bản chính 4. Văn bản xác nhận giá trị bồi thường giải phóng mặt bằng có xác nhận của Tổ chức và UBND quận, huyện tại khu vực thực hiện dự án (Đối với các dự án có bồi thường giải phóng mặt bằng);
+- 01 Bản chính 5. Thông báo kết quả thẩm định Báo cáo kinh tế - kỹ thuật đầu tư xây dựng của cơ quan chuyên môn về xây dựng;
+- 01 Bản chính 6. Các văn bản có liên quan (nếu có);
+- 01 Bản chính 7. Thiết kế bản vẽ thi công và dự toán đã được đóng dấu thẩm tra, thẩm định;
+- 01 Bản chính 8. Thuyết minh Báo cáo kinh tế kỹ thuật có chữ ký, đóng dấu của Chủ đầu tư;
+- 01 Bản chính 9. File dữ liệu (khi cần thiết);
+- 01 Bản chính 10. Đối với hồ sơ Báo cáo Kinh tế Kỹ thuật điều chỉnh, ngoài các nội dung trên cần bổ sung Báo cáo giám sát đánh giá quá trình đầu tư dự án.

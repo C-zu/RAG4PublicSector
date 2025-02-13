@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện (trừ đài vệ tinh trái đất) đối với đài vô tuyến điện của đoàn đại biểu cấp cao nước ngoài được hưởng quy chế ưu đãi, miễn trừ ngoại giao, phóng viên nước ngoài đi theo phục vụ đoàn, Cơ quan đại diện nước ngoài đón đoàn hoặc cơ quan chủ quản đón đoàn làm thủ tục đè nghị cấp giấy phép
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+0, Giấy phép
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2015/TT-BTTTT|Thông tư 05/2015/TT-BTTTT|23-03-2015|Bộ Thông tin và Truyền thông|
+|41/2009/QH12|Luật số 41/2009/QH12 ngày 04/12/2009 của Quốc hội về viễn thông|01-07-2010||
+|42/2009/QH12|Luật số 42/2009/QH12 ngày 04/12/2009 của Quốc hội về tần số vô tuyến điện|01-07-2010|Bộ Thông tin và Truyền thông|
+|112/2013/TT-BTC|Thông tư số 112/2013/TT-BTC ngày 15/8/2013 của Bộ Tài chính, quy định mức thu, chế độ thu, nộp và quản lý sử dụng lệ phí cấp giấy phép sử dụng tần số vô tuyến điện và phí sử dụng tần số vô tuyến điện.|01-01-2001|Bộ Thông tin và Truyền thông|

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư theo bản án, quyết định của tòa án, trọng tài đối với dự án đầu tư đã được chấp thuận chủ trương đầu tư (Khoản 3 Điều 54 Nghị định số 31/2021/NĐ-CP)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee844a5dde0e79'">Mẫu A.I.11.h.docx</a>)
+- 01 Bản chính - Bản sao tài liệu về tư cách pháp lý của nhà đầu tư;
+- 01 Bản chính - Bản án, quyết định có hiệu lực pháp luật của tòa án, trọng tài;
+- 01 Bản chính - Bản sao Giấy chứng nhận đăng ký đầu tư; Quyết định chấp thuận chủ trương đầu tư; Quyết định chấp thuận nhà đầu tư (nếu có).

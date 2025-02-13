@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001396
+Số quyết định:
+1879/QĐ-BYT
+Tên thủ tục:
+Cung cấp thuốc phóng xạ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm
+Trình tự thực hiện:
+Bước 1: Cơ sở khám bệnh, chữa bệnh nộp hồ sơ trực tiếp hoặc qua bưu điện về Cục Quản lý dược - Bộ Y tế
+Bước 2: Cục Quản lý dược - Bộ Y tế trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu Phiếu quy định tại Phụ lục XV ban hành kèm theo Thông tư
+Bước 3: Trong thời hạn 15 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Cục Quản lý dược-  Bộ Y tế có văn bản chấp thuận việc cung cấp thuốc của cơ sở; trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, Cục Quản lý dược- Bộ Y tế có văn bản gửi cơ sở đề nghị, trong đó nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung
+Bước 4: Sau khi cơ sở nộp hồ sơ sửa đổi, bổ sung, Cục Quản lý dược- Bộ Y tế trả cho cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu quy định tại Phụ lục XV ban hành kèm theo Thông tư.
+a) Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Cục Quản lý dược- Bộ Y tế có văn bản thông báo cho cơ sở theo quy định tại Bước 3;
+b) Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Cục Quản lý dược- Bộ Y tế có văn bản chấp thuận việc cung cấp thuốc của cơ sở theo quy định tại Bước 3.
+Trong thời hạn 60 ngày, kể từ ngày cơ quan tiếp nhận hồ sơ có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 90 ngày kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 ngày kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày||15 ngày kể từ ngày nhận được hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cung cấp thuốc phóng xạ của cơ sở khám bệnh, chữa bệnh theo Mẫu Đơn quy định tại Phụ lục XIII ban hành kèm theo Thông tư ([phu luc XIII TT20.2017.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2324eafb27768'))
+- 01 Bản chính Báo cáo việc sản xuất, pha chế, sử dụng thuốc phóng xạ đề nghị cung cấp tại cơ sở khám bệnh, chữa bệnh sản xuất, pha chế, trong đó nêu cụ thể các thông tin về công suất máy, khả năng sản xuất, số lượng thuốc sản xuất, số lượng bệnh nhân sử dụng, số lượng thuốc đã sản xuất nhưng không sử dụng có đóng dấu xác nhận của cơ sở đề nghị theo Mẫu Báo cáo quy định tại Phụ lục XIV ban hành kèm theo Thông tư ([phu luc XIV TT20.2017.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feddea8f90d0a8a'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Quản lý Dược - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Quản lý Dược - Bộ Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản đồng ý hoặc không đồng ý
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|105/2016/QH13|Luật 105/2016/QH13|06-04-2016|Quốc Hội|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP|08-05-2017|Chính phủ|
+|20/2017/TT-BYT|Thông tư 20/2017/TT-BYT - Quy định chi tiết một số điều của Luật dược và Nghị định số 54/2017/NĐ-CP ngày 08 tháng 5 năm 2017 của Chính phủ về thuốc và nguyên liệu làm thuốc phải kiểm soát đặc biệt|10-05-2017|Bộ Y tế|
+
+Yêu cầu, điều kiện thực hiện:
+1. Được phép sản xuất, pha chế thuốc phóng xạ theo quy định;
+2. Số lượng thuốc sản xuất, pha chế phục vụ cho công tác điều trị tại cơ sở nhiều hơn nhu cầu sử dụng thực tế.
+1. Được phép sản xuất, pha chế thuốc phóng xạ theo quy định;
+2. Số lượng thuốc sản xuất, pha chế phục vụ cho công tác điều trị tại cơ sở nhiều hơn nhu cầu sử dụng thực tế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

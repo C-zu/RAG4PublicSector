@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp lại Giấy phép mua bán nguyên liệu thuốc lá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp Giấy phép mua bán nguyên liệu thuốc lá bị mất, bị tiêu hủy toàn bộ hoặc một phần, bị rách, nát hoặc bị cháy.
+ * Thành phần hồ sơ gồm:
+- 01 Bản chính + Đơn đề nghị cấp lại giấy phép mua bán nguyên liệu thuốc lá theo mẫu Phụ lục 36 kèm theo Thông tư số 57/2018/TT-BCT ngày 26 tháng 12 năm 2018. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde799adf9c889c'">Phụ lục 36.docx</a>)
+- 01 Bản sao + Bản sao Giấy phép mua bán nguyên liệu thuốc lá đã cấp (nếu có).
+
+
+Trường hợp cấp lại do Giấy phép hết thời hạn hiệu lực
+- 01 Bản chính, 01 Bản sao hồ sơ, thẩm quyền, trình tự, thủ tục cấp lại áp dụng như quy định với trường hợp cấp mới.

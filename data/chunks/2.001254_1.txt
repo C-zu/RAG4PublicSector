@@ -1,0 +1,16 @@
+Tên thủ tục: Thay đổi, bổ sung phạm vi chỉ định cơ sở kiểm nghiệm phục vụ quản lý nhà nước
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001254
+Số quyết định:
+2466/QĐ-BNN-VP
+Tên thủ tục:
+Thay đổi, bổ sung phạm vi chỉ định cơ sở kiểm nghiệm phục vụ quản lý nhà nước
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý chất lượng nông lâm sản và thủy sản

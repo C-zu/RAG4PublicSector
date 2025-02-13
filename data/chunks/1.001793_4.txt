@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp giấy phép hoạt động đối với phòng khám bác sỹ gia đình độc lập thuộc thẩm quyền của Sở Y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động theo mẫu quy định tại Phụ lục 13 kèm theo Thông tư 41/2011/TT-BYT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc5e48fdbd33ac'">phụ lục 13.docx</a>)
+- 01 Bản chính Danh sách người đăng ký hành nghề của cơ sở khám bệnh, chữa bệnh theo mẫu quy định tại Phụ lục 6- Thông tư 41/2011/TT-BYT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea42112b0e7f24'">TT41_2011_TTBYT_Phu luc 6.doc</a>)
+- 01 Bản sao Bản sao có chứng thực quyết định thành lập đối với cơ sở khám bệnh, chữa bệnh của nhà nước hoặc giấy chứng nhận đăng ký kinh doanh đối với cơ sở khám bệnh, chữa bệnh tư nhân hoặc giấy chứng nhận đầu tư đối với cơ sở khám bệnh, chữa bệnh có vốn đầu tư nước ngoài;
+- 01 Bản chính Bản kê khai cơ sở vật chất, thiết bị y tế, của cơ sở khám bệnh, chữa bệnh theo mẫu quy định tại Phụ lục 14 - Thông tư 41/2011/TT-BYT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb8a6a8164945a'">TT41_2011_TTBYT_Phu luc 14.doc</a>)
+- 01 Bản chính Tài liệu chứng minh cơ sở khám bệnh, chữa bệnh đáp ứng điều kiện về cơ sở vật chất, thiết bị y tế, tổ chức nhân sự phù hợp với phạm vi hoạt động chuyên môn theo quy định tại Điều 14 Thông tư 16/2014/TT-BYT.
+- 01 Bản sao Hồ sơ nhân sự của người làm việc chuyên môn y tế tại cơ sở nhưng không thuộc diện phải cấp chứng chỉ hành nghề;
+- 01 Bản chính Dự kiến phạm vi hoạt động chuyên môn: Cơ sở khám bệnh, chữa bệnh đề xuất phạm vi hoạt động chuyên môn, danh mục kỹ thuật dự kiến thực hiện trên cơ sở danh mục kỹ thuật chuyên môn do Bộ trưởng Bộ Y tế ban hành.
+- 01 Bản sao Bản sao có chứng thực chứng chỉ hành nghề của tất cả người hành nghề

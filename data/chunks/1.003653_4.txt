@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (cấp tỉnh - trường hợp chưa thành lập VP đăng ký đất đai)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 09/ĐK (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f95689e8284f080'">Mau so 09-DK.pdf</a>)
+- 01 Bản chính - Hợp đồng, văn bản về việc chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định.
+- 01 Bản chính - Bản gốc Giấy chứng nhận đã cấp;
+- 01 Bản chính - Văn bản chấp thuận của cơ quan Nhà nước có thẩm quyền đối với tổ chức kinh tế nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư;
+- 01 Bản chính - Văn bản của người sử dụng đất đồng ý cho chủ sở hữu tài sản gắn liền với đất được chuyển nhượng, tặng cho, cho thuê, góp vốn tài sản gắn liền với đất đối với trường hợp chuyển nhượng, tặng cho, cho thuê, góp vốn bằng tài sản gắn liền với đất mà chủ sở hữu tài sản gắn liền với đất không đồng thời là người sử dụng đất;
+- 01 Bản chính - Đối với trường hợp thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất mà có thay đổi thông tin về pháp nhân, địa chỉ trên Giấy chứng nhận đã cấp thì nộp bổ sung văn bản của cơ quan có thẩm quyền cho phép hoặc công nhận việc thay đổi thông tin pháp nhân.

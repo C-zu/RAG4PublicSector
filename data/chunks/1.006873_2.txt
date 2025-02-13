@@ -1,0 +1,17 @@
+Tên thủ tục: Công nhận hạng/công nhận lại hạng nhà chung cư
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+-- Tổ chức, cá nhân đề nghị công nhận hạng/công nhận lại hạng nhà chung cư nộp 01 bộ hồ sơ theo quy định của Điều 7 của Thông tư số 31/2016/TT-BXD ngày 30/12/2016 quy định về việc phân hạng và công nhận hạng nhà chung cư (gọi tắt là Thông tư số 31/2016/TT-BXD) tại Sở Xây dựng tỉnh, thành phố trực thuộc trung ương nơi có nhà chung cư (gọi tắt là Sở Xây dựng).
+
+-- Trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Sở Xây dựng kiểm tra và phải có văn bản thông báo đề nghị bổ sung các giấy tờ nếu còn thiếu.
+
+-- Trong thời hạn 15 ngày, kể từ ngày tiếp nhận đủ hồ sơ, Sở Xây dựng tổ chức kiểm tra, thẩm định hồ sơ và kiểm tra thực tế nhà chung cư và:
+
+-+ Ban hành quyết định công nhận hạng nhà chung cư nếu nhà chung cư đáp ứng được các yêu cầu quy định tại Điều 3 và các tiêu chí quy định tại Điều 6 của Thông tư số 31/2016/TT-BXD.
+
+-+ Hoặc có văn bản trả lời tổ chức, cá nhân đề nghị công nhận hạng/công nhận lại nếu nhà chung cư không đáp ứng được các yêu cầu và các tiêu chí theo quy định, trong đó nêu rõ lý do nhà chung cư không được công nhận/công nhận lại theo hạng đã đề nghị.
+
+-- Trường hợp nhà chung cư đáp ứng được các yêu cầu quy định tại Điều 3 và các tiêu chí quy định tại Điều 6 của Thông tư số 31/2016/TT-BXD thì Sở Xây dựng ban hành quyết định công nhận hạng nhà chung cư;
+
+-Trong thời hạn 03 ngày làm việc, kể từ ngày ban hành quyết định công nhận hạng nhà chung cư, Sở Xây dựng có trách nhiệm đăng tải công khai thông tin, văn bản quyết định trên Cổng thông tin điện tử của Sở Xây dựng và gửi quyết định này cho tổ chức, cá nhân đề nghị công nhận hạng nhà chung cư để công khai cho chủ sở hữu, người sử dụng nhà chung cư biết.

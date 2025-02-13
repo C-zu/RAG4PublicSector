@@ -1,0 +1,26 @@
+Tên thủ tục: Thủ tục cấp giấy xác nhận có quốc tịch Việt Nam
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện:
+Cơ quan đại diện ngoại giao, Cơ quan lãnh sự
+Cơ quan có thẩm quyền:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận có quốc tịch Việt Nam
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|33/2009/QH12|Luật 33/2009/QH12|18-06-2009|Quốc Hội|
+|264/2016/TT-BTC|Thông tư 264/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|05/2010/TTLT/BTP-BNG-BCA|Thông tư liên tịch 05/2010/TTLT/BTP-BNG-BCA|01-03-2010|Bộ Tư pháp|
+|05/2013/TTLT-BTP-BNG-BCA|Thông tư liên tịch 05/2013/TTLT-BTP-BNG-BCA|31-01-2013|Bộ Tư pháp|
+|56/2014/QH13|Luật 56/2014/QH13|24-06-2014|Quốc Hội|
+|7/2014/NĐ-CP|Nghị định 97/2014/NĐ-CP|17-10-2014|Chính phủ|

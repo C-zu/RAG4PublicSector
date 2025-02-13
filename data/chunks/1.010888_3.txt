@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu hoàn thành công trình (đối với các công trình trên địa bàn thuộc trách nhiệm quản lý của Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành, trừ các công trình thuộc thẩm quyền kiểm tra của Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng và cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 0 Đồng Không (chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế).|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+|Trực tuyến|20 Ngày|Lệ phí : 0 Đồng Không (chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế).|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+|Dịch vụ bưu chính|20 Ngày|Lệ phí : 0 Đồng Không (chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế).|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|

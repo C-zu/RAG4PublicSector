@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục Đăng ký tham gia kiểm toán cho đơn vị có lợi ích công chúng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Danh sách tổ chức kiểm toán và danh sách kiểm toán viên hành nghề của tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2011/QH12|Luật kiểm toán độc lập số 67/2011/QH12|29-03-2011|Quốc Hội|
+|17/2012/NĐ-CP|Nghị định số 17/2012/NĐ-CP|13-03-2012|Chính phủ|
+|183/2013/TT-BTC|Thông tư số 183/2013/TT-BTC ngày 04/12/2013 của Bộ Tài chính về kiểm toán độc lập đối với đơn vị có lợi ích công chúng|04-12-2013|Bộ Tài chính|
+|134/2020/NĐ-CP|Nghị định 134/2020/NĐ-CP|15-11-2020||

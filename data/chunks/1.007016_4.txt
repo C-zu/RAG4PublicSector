@@ -1,0 +1,8 @@
+Tên thủ tục: Khai thuế Giá trị gia tăng đối với phương pháp trực tiếp trên giá trị gia tăng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Thành phần hồ sơ theo Danh mục hồ sơ khai thuế tại Phụ lục I ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (sau đây gọi là Nghị định số 126/2020/NĐ-CP) và phụ lục II ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ trưởng Bộ Tài chính ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (sau đây gọi là Thông tư số 80/2021/TT-BTC), gồm: Tờ khai thuế GTGT (áp dụng đối với hoạt động mua bán, chế tác vàng bạc, đá quý theo phương pháp trực tiếp trên GTGT) mẫu số 03/GTGT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec22310fbd2400'">Mẫu 03.GTGT.doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ)

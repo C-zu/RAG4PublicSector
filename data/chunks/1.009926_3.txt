@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp gia hạn chứng chỉ năng lực hoạt động xây dựng hạng I
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính.|10 ngày đối với trường hợp gia hạn chứng chỉ năng lực kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|10 ngày đối với trường hợp gia hạn chứng chỉ năng lực kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|10 ngày đối với trường hợp gia hạn chứng chỉ năng lực kể từ ngày nhận đủ hồ sơ hợp lệ.|

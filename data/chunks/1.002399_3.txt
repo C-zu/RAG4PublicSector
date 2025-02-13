@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở kinh doanh thuốc phải kiểm soát đặc biệt thuộc thẩm quyền của Sở Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 500000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) đối với cơ sở bán lẻ tại các địa bàn thuộc vùng khó khăn, miền núi, hải đảo: 500.000đ/cơ sở.  Phí : 1000000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) hoặc tiêu chuẩn và điều kiện hành nghề dược đối với các cơ sở bán lẻ thuốc chưa bắt buộc thực hiện nguyên tắc, tiêu chuẩn thực hành tốt nhà thuốc theo lộ trình: 1.000.000đ/cơ sở  Phí : 4000000 Đồng Thẩm định điều kiện kinh doanh thuốc đối với cơ sở bán buôn (GDP): 4.000.000đ/hồ sơ|20 ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp không phải đi đánh giá cơ sở.|
+|Trực tiếp|30 Ngày||30 ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp phải đi đánh giá cơ sở.|
+|Dịch vụ bưu chính|20 Ngày|Phí : 500000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) đối với cơ sở bán lẻ tại các địa bàn thuộc vùng khó khăn, miền núi, hải đảo: 500.000đ/cơ sở.  Phí : 1000000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) hoặc tiêu chuẩn và điều kiện hành nghề dược đối với các cơ sở bán lẻ thuốc chưa bắt buộc thực hiện nguyên tắc, tiêu chuẩn thực hành tốt nhà thuốc theo lộ trình: 1.000.000đ/cơ sở  Phí : 4000000 Đồng Thẩm định điều kiện kinh doanh thuốc đối với cơ sở bán buôn (GDP): 4.000.000đ/hồ sơ|20 ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp không phải đi đánh giá cơ sở.|
+|Dịch vụ bưu chính|30 Ngày||30 ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp phải đi đánh giá cơ sở.|

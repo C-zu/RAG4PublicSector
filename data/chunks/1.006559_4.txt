@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cho phép đón đoàn vào
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị của các cơ quan nội dung nêu rõ mục đích, thành phần, thông tin về tổ chức, cá nhân người nước ngoài, chương trình hoạt động tại tỉnh và các nội dung liên quan khác theo mẫu. Trường hợp sử dụng kinh phí từ ngân sách tỉnh thì phải có dự toán kinh phí kèm theo. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd35570f88b767a'">Mẫu phu luc IV (1).docx</a>)
+- 01 Bản chính - Các thỏa thuận, biên bản, văn bản, giấy tờ liên quan đến chuyến thăm và làm việc của đoàn.
+- 01 Bản chính - Đối với đoàn đề nghị hỗ trợ thủ tục xin cấp thị thực nhập cảnh, cơ quan đón đoàn vào cung cấp thông tin xin cấp thị thực theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe141bb88cca70c'">Mẫu phu luc V (1).docx</a>)

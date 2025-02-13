@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục điều chỉnh nội dung của quyết định chứng nhận chuẩn đo lường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị điều chỉnh;
+- 01 Bản sao Bản sao (có xác nhận sao y bản chính của cơ sở) giấy chứng nhận hiệu chuẩn của chuẩn đo lường theo quy định tại Khoản 7 Điều 2 Nghị định 154/2018/NĐ-CP (đối với trường hợp đề nghị điều chỉnh nội dung tại điểm b, điểm c, điểm d Khoản 1 Điều 24 - Thông tư số 24/2013/TT-BKHCN);
+- 01 Bản chính Ảnh chụp của chuẩn đo lường bao gồm một (01) ảnh tổng thể và một (01) ảnh nhãn mác; ảnh màu cỡ (15 x 20) cm, phải bảo đảm sắc nét, rõ ràng (đối với trường hợp đề nghị điều chỉnh nội dung tại điểm b, điểm c, điểm d Khoản 1 Điều 24 - Thông tư số 24/2013/TT-BKHCN).
+- 01 Bản chính Tài liệu khác có liên quan đến nội dung đề nghị điều chỉnh.

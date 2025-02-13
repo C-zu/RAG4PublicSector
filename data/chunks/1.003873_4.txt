@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép xuất khẩu thuốc, nguyên liệu làm thuốc được phép xuất khẩu không cần giấy phép của Bộ Y tế theo quy định tại khoản 5 Điều 60 của Luật dược mà cơ sở có nhu cầu cấp giấy phép xuất khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao Giấy chứng nhận đủ điều kiện kinh doanh dược của cơ sở xuất khẩu có chứng thực hoặc đóng dấu của cơ sở;
+- 03 Bản chính (ba) bản chính Đơn hàng xuất khẩu theo Mẫu số 14 Phụ lục III của Nghị định số 54/2017/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fae7980c4680f70'">mẫu đơn 01.docx</a>)

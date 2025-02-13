@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Thành phần Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam
+- 01 Bản chính 1/ Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục II). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb6f09e13dbb40'">Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc</a>)
+- 01 Bản sao 2/ Bản sao giấy phép cung cấp dịch vụ kiểm toán của doanh nghiệp kiểm toán nước ngoài (hoặc văn bản tương đương) theo quy định của pháp luật của nước nơi doanh nghiệp kiểm toán nước ngoài đặt trụ sở chính.
+- 01 Bản sao 3/ Bản sao Giấy phép thành lập chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam của doanh nghiệp kiểm toán nước ngoài.
+- 01 Bản chính 4/ Văn bản của doanh nghiệp kiểm toán nước ngoài gửi Bộ Tài chính bảo đảm chịu trách nhiệm về mọi nghĩa vụ và cam kết của chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+- 01 Bản chính 5/ Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+- 01 Bản sao 6/ Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề.
+- 01 Bản chính 7/ Quyết định của doanh nghiệp kiểm toán nước ngoài về việc bổ nhiệm chức danh Giám đốc (Tổng Giám đốc) chi nhánh.
+- 01 Bản chính 8/ Văn bản xác nhận của doanh nghiệp kiểm toán độc lập khác về mức vốn hiện có thuộc sở hữu của doanh nghiệp kiểm toán nước ngoài được ghi trong báo cáo tài chính của doanh nghiệp tại thời điểm gần nhất (năm đăng ký hoặc năm trước liền kề năm đăng ký).
+- 01 Bản chính 9/ Tài liệu chứng minh về việc doanh nghiệp kiểm toán nước ngoài cấp vốn cho chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam.
+ * Số lượng hồ sơ: 01 (bộ)

@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009841
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục gia hạn giấy phép tiến hành công việc bức xạ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị gia hạn Giấy phép tiến hành công việc bức xạ đến Bộ KH&CN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Bộ KH&CN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí đối với hồ sơ hợp lệ và phí, lệ phí (nếu có) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nểu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Sau khi nhận được hồ sơ hợp lệ và phí, lệ phí (nếu có), Bộ KH&CN tổ chức thẩm định và gia hạn Giấy phép tiến hành công việc bức xạ.
+Trường hợp không gia hạn giấy phép, Bộ KH&CN trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : Đồng 75% mức thu phí thẩm định cấp giấy phép mới.|+ 30 ngày đối với gia hạn giấy phép có thời hạn trên 12 tháng + 15 ngày đối với gia hạn Giấy phép có thời hạn 12 tháng, 6 tháng.|
+|Trực tuyến|30 Ngày|Phí : Đồng 75% mức thu phí thẩm định cấp giấy phép mới.|+ 30 ngày đối với gia hạn giấy phép có thời hạn trên 12 tháng + 15 ngày đối với gia hạn Giấy phép có thời hạn 12 tháng, 6 tháng.|
+|Dịch vụ bưu chính|30 Ngày|Phí : Đồng 75% mức thu phí thẩm định cấp giấy phép mới.|+ 30 ngày đối với gia hạn giấy phép có thời hạn trên 12 tháng + 15 ngày đối với gia hạn Giấy phép có thời hạn 12 tháng, 6 tháng.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn giấy phép ([Mau 6_Don gia han GP.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb039326176ccd8'))
+- 01 Bản sao Bản sao giấy phép đã được cấp và sắp hết hạn
+- 01 Bản chính Kết quả đo liều kế cá nhân trong thời gian hiệu lực của giấy phép đề nghị gia hạn
+- 01 Bản sao Bản sao kết quả kiểm xạ
+- 01 Bản sao Bản sao Giấy chứng nhận kiểm định thiết bị (đối với việc sử dụng thiết bị bức xạ, vận hành thiết bị chiếu xạ trong y tế)
+- 01 Bản chính Phiếu khai báo đối với nhân viên bức xạ hoặc người phụ trách an toàn bức xạ (nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép gần nhất) ([Mau 01_KB nhan vien BX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd73ef133e690a6'))
+- 01 Bản chính Báo cáo đánh giá an toàn bức xạ theo mẫu tương ứng quy định tại Phụ lục V của Nghị định 142/2020/NĐ-CP (nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép gần nhất). ([Mau 01_PL5_ BC su dung nguon PX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc2155e356c880') [Mau 02_PL5_BC san xuat, che bien PX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8ead23950c23c') [Mau 03_PL5_BC luu giu NPX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f815964e940e300') [Mau 04_PL5 _BC su dung thiet bi BX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7f6f6938c29b1') [Mau 06_PL5_BC van hanh thiet bi BX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef5477797903b3') [Mau 07_PL5_BC xu ly chat thai PX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe71b6dad49b42c') [Mau 08_PL5_BC xay dung CSBX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb41b4b47e21be') [Mau 10_PL5_BC nhap khau NPX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7600d6b46825c') [Mau 11_PL5_ BC dong goi, van chuyen.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7781f9cbc1e66') [Mẫu số 12-PL 5 Báo cáo phân tích an toàn -Hoạt động dịch vụ hỗ trợ docx.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4e41f58eef3c8') [Mẫu số 11-PL 5 BC đánh giá an toàn-vận chuyển-đóng gói.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddea504da963bc') [Mẫu số 12-PL 5 Báo cáo phân tích an toàn -Hoạt động dịch vụ hỗ trợ docx.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecf5fdead5788d'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ (gia hạn).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức, cá nhân muốn gia hạn Giấy phép tiến hành công việc bức xạ phải gửi hồ sơ đến cơ quan nhà nước có thẩm quyền trước khi giấy phép hết hạn:
+- Ít nhất 45 ngày đối với giấy phép có thời hạn trên 12 tháng;
+- Ít nhất 15 ngày đối với giấy phép có thời hạn 6 tháng, 12 tháng.
+Sau thời điểm này, tổ chức, cá nhân phải đề nghị cấp giấy phép mới.
+Tổ chức, cá nhân muốn gia hạn Giấy phép tiến hành công việc bức xạ phải gửi hồ sơ đến cơ quan nhà nước có thẩm quyền trước khi giấy phép hết hạn:
+- Ít nhất 45 ngày đối với giấy phép có thời hạn trên 12 tháng;
+- Ít nhất 15 ngày đối với giấy phép có thời hạn 6 tháng, 12 tháng.
+Sau thời điểm này, tổ chức, cá nhân phải đề nghị cấp giấy phép mới.
+Từ khóa:
+Thủ tục gia hạn giấy phép tiến hành công việc bức xạ
+Mô tả:
+Không có thông tin

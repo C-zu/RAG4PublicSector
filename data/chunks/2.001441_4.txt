@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục giải quyết đơn khiếu nại lần đầu cấp Bộ Quốc phòng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ 1. Đơn khiếu nại hoặc bản ghi lời khiếu nại (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd15f90b39679d2'">Mẫu ban hành kèm theo Nghị định 124-2020.doc</a>)
+- 01 Bản chính 2. Giấy uỷ quyền (nếu có) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc06741ccab84d4'">Giấy ủy quyền khiếu nại.doc</a>)
+- 01 Bản chính 3. Các tài liệu liên quan (nếu có) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc5e00fc6d904a'">Mẫu số 07-KN- Giấy biên nhận.doc</a>)

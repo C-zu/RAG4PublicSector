@@ -1,0 +1,18 @@
+Tên thủ tục: Thu hồi Giấy phép hoạt động cho thuê lại lao động
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp 1
+Bước 1: KQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ từ Trung tâm Phục vụ hành chính công tỉnh (TTPVHCC) về phòng chuyên môn của Sở Lao động - TBXH đồng thời chuyển qua phần mềm cho phòng chuyên môn để xử lý.
+Bước 3: Phân công công chức xử lý hồ sơ
+Bước 4: Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện: Dự thảo văn bản trả lời trình lãnh đạo phòng xem xét ký nháy, lãnh đạo Sở ký duyệt - Chuyển sang  bước 9.
+- Trường hợp hồ sơ đủ điều kiện: Dự thảo công văn đề nghị UBND tỉnh thu hồi Giấy phép hoạt động cho thuê lại lao động trình lãnh đạo phòng xem xét ký nháy;  Dự thảo Quyết định thu hồi Giấy phép hoạt động cho thuê lại lao động
+Bước 5: Trình lãnh đạo Sở: Văn bản đề nghị UBND tỉnh thu hồi Giấy phép hoạt động cho thuê lại lao động và Dự thảo Quyết định thu hồi Giấy phép hoạt động cho thuê lại lao động
+Bước 6: Sở Lao động - Thương binh và Xã hội nộp hồ sơ ở Bộ phận tiếp nhận và trả kết quả của UBND tỉnh tại Trung tâm  hành chính công
+Bước 7: UBND tỉnh thẩm định, ban hành Quyết định thu hồi Giấy phép hoạt động cho thuê lại lao động
+Bước 8: UBND tỉnh gửi kết quả về TTPVHCC
+Bước 9: Trả kết quả cho doanh nghiệp

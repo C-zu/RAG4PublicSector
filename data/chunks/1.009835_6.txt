@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Có thiết kế và tính toán bảo vệ bức xạ (chiếu ngoài và chiếu trong) bảo đảm mức liều chiếu xạ tiềm năng đối với nhân viên bức xạ và công chúng không vượt quá giá trị liều giới hạn theo quy định tại điểm a khoản 2 Điều 5 của Nghị định 142/2020/NĐ-CP như sau:
++ Đối với nhân viên bức xạ: (i) Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (iii) Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: (i) Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; (iii) Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Có thiết kế và tính toán bảo vệ bức xạ (chiếu ngoài và chiếu trong) bảo đảm mức liều chiếu xạ tiềm năng đối với nhân viên bức xạ và công chúng không vượt quá giá trị liều giới hạn theo quy định tại điểm a khoản 2 Điều 5 của Nghị định 142/2020/NĐ-CP như sau:
++ Đối với nhân viên bức xạ: (i) Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; (iii) Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: (i) Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; (ii) Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; (iii) Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ
+Mô tả:
+Không có thông tin

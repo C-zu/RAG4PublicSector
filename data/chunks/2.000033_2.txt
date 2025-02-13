@@ -1,0 +1,6 @@
+Tên thủ tục: Thông báo hoạt động khuyến mại
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Thương nhân gửi hồ sơ thông báo hoạt động chương trình khuyến mại tối thiểu trước 03 ngày làm việc trước khi thực hiện khuyến mại.
+Sở Công Thương tiếp nhận hồ sơ thông báo hoạt động khuyến mại của thương nhân.

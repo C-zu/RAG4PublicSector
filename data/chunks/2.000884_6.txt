@@ -1,0 +1,18 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký trong các giấy tờ, văn bản (áp dụng cho cả trường hợp chứng thực điểm chỉ và trường hợp người yêu cầu chứng thực không thể ký, không thể điểm chỉ được)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp không được chứng thực chữ ký:
++ Tại thời điểm chứng thực, người yêu cầu chứng thực chữ ký không nhận thức và làm chủ được hành vi của mình.
++ Người yêu cầu chứng thực chữ ký xuất trình Giấy chứng minh nhân dân hoặc Hộ chiếu không còn giá trị sử dụng hoặc giả mạo.
++ Giấy tờ, văn bản mà người yêu cầu chứng thực ký vào có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản có nội dung là hợp đồng, giao dịch; trừ Giấy ủy quyền trong các trường hợp Giấy ủy quyền: (1) ủy quyền về việc nộp hộ, nhận hộ hồ sơ, giấy tờ, trừ trường hợp pháp luật quy định không được ủy quyền; (2) ủy quyền nhận hộ lương hưu, bưu phẩm, trợ cấp, phụ cấp; (3) ủy quyền nhờ trông nom nhà cửa; (4) ủy quyền của thành viên hộ gia đình để vay vốn tại Ngân hàng chính sách xã hội;  hoặc trừ trường hợp pháp luật có quy định khác.
+Trường hợp không được chứng thực chữ ký:
++ Tại thời điểm chứng thực, người yêu cầu chứng thực chữ ký không nhận thức và làm chủ được hành vi của mình.
++ Người yêu cầu chứng thực chữ ký xuất trình Giấy chứng minh nhân dân hoặc Hộ chiếu không còn giá trị sử dụng hoặc giả mạo.
++ Giấy tờ, văn bản mà người yêu cầu chứng thực ký vào có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản có nội dung là hợp đồng, giao dịch; trừ Giấy ủy quyền trong các trường hợp Giấy ủy quyền: (1) ủy quyền về việc nộp hộ, nhận hộ hồ sơ, giấy tờ, trừ trường hợp pháp luật quy định không được ủy quyền; (2) ủy quyền nhận hộ lương hưu, bưu phẩm, trợ cấp, phụ cấp; (3) ủy quyền nhờ trông nom nhà cửa; (4) ủy quyền của thành viên hộ gia đình để vay vốn tại Ngân hàng chính sách xã hội;  hoặc trừ trường hợp pháp luật có quy định khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

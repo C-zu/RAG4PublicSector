@@ -1,0 +1,12 @@
+Tên thủ tục: Gia hạn chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký chỉ định cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;
+- 01 Bản chính Đơn đăng ký gia hạn chỉ định cơ sở kiểm nghiệm
+- 01 Bản chính Kết quả so sánh liên phòng, thử nghiệm thành thạo đối với chỉ tiêu/phép thử đăng ký gia hạn
+- 01 Bản chính Báo cáo kết quả thực hiện công tác kiểm nghiệm trong thời gian được chỉ định.
+- 01 Bản chính Mẫu báo cáo năng lực hoạt động cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;
+- 01 Bản chính Mẫu báo cáo kết quả hoạt động cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;

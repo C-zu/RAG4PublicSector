@@ -1,0 +1,11 @@
+Tên thủ tục: Tuyển chọn, giao trực tiếp tổ chức và cá nhân chủ trì thực hiện nhiệm vụ môi trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính phiếu đề xuất nhiệm vụ môi trường.
+- 01 Bản chính, 09 Bản sao hồ sơ tham gia tuyển chọn, giao trực tiếp
+- 01 Bản chính 01 bộ hồ sơ tham gia tuyển chọn, giao trực tiếp gồm: + Đơn đăng ký chủ trì thực hiện nhiệm vụ môi trường theo mẫu; + Thuyết minh nhiệm vụ môi trường theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0e88f2760d9b4'">DỰ TOÁN KINH PHÍ THỰC HIỆN NHIỆM VỤ.doc</a>)
+ - Đơn đăng ký chủ trì thực hiện nhiệm vụ môi trường theo mẫu B2.ĐĐK-NVMT ban hành kèm theoThông tư số 17/2016/TT-BNNPTNT ngày 24/6/2016 Hướng dẫn quản lý các nhiệm vụ bảo vệ môi trường thuộc Bộ Nông nghiệp và Phát triển nông thôn. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f8bc1a754640200'">ĐƠN ĐĂNG KÝ CHỦ TRÌ THỰC HIỆN NHIỆM VỤ MÔI TRƯỜNG.doc</a>)
+ -Thuyết minh nhiệm vụ môi trường theo mẫu B3.TM-NVMT ban hành kèm theo Thông tư số 17/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e4e855b92abd'">THUYẾT MINH NHIỆM VỤ MÔI TRƯỜNG.doc</a>)

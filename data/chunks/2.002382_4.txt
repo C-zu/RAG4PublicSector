@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục sửa đổi giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị X-quang chẩn đoán trong y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị sửa đổi Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee4de812f64700'">Mau 7_Don sua doi, bo sung GP.doc</a>)
+- 01 Bản chính Bản gốc giấy phép
+- 01 Bản chính Các văn bản xác nhận thông tin sửa đổi cho các trường hợp thay đổi tên, địa chỉ, số điện thoại, số fax
+- 01 Bản sao Bản sao hợp đồng chuyển nhượng đối với trường hợp giảm số lượng thiết bị bức xạ do chuyển nhượng
+- 01 Bản chính Các văn bản chứng minh các thông tin về thiết bị bức xạ trong giấy phép đã cấp khác với thông tin về thiết bị bức xạ trên thực tế và cần hiệu đính

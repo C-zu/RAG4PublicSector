@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục thực hiện chế độ trợ cấp một lần đối với quân nhân, công nhân viên chức quốc phòng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chế độ, chính sách của Đảng và Nhà nước (đối tượng cư trú ở địa phương khác không còn lưu giữ giấy tờ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Bản khai cá nhân hoặc của thân nhân đối tư-ợng; Bản khai thân nhân (đối với đối tượng đã từ trần) phải kèm theo giấy uỷ quyền của các thân nhân chủ yếu khác, có xác nhận của chính quyền xã nơi cư trú; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb51de2764de9d'">Mẫu 1A.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf1fe093119c74'">Mẫu 1B.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd67c3ec761d7d2'">Mẫu 04.doc</a>)
+- 02 Bản chính - Biên bản xét và xác nhận của hội nghị liên tịch thôn xóm, tổ dân phố, ấp (nơi sinh quán); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7c1b8f5fb45a2'">Mẫu 05. BIÊN BẢN HỌI NGHỊ LIÊN TICH.docx</a>)
+- 02 Bản chính - Biên bản xét và xác nhận của hội nghị Ban chấp hành Hội Cựu chiến binh xã, phường (nơi sinh quán); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcea0403673e7f0'">Mẫu 06. BIÊN BẢN HỘI NGHỊ BCH HỘI CỰU CHIẾN BINH.docx</a>)
+- 02 Bản chính - Công văn đề nghị của Uỷ ban nhân dân xã, phường (nơi sinh quán);
+- 02 Bản chính - Công văn đề nghị của các cấp (nơi thường trú);
+- 02 Bản chính - Danh sách đối tượng được hưởng chế độ trợ cấp (nơi thường trú).

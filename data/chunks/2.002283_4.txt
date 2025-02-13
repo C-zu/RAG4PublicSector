@@ -1,0 +1,10 @@
+Tên thủ tục: Danh mục dự án đầu tư có sử dụng đất do nhà đầu tư đề xuất (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề xuất dự án do nhà đầu tư chuẩn bị bao gồm các nội dung sau đây:
+- 01 Bản chính - Văn bản đề nghị thực hiện dự án đầu tư có sử dụng đất, bao gồm cam kết chịu mọi chi chí, rủi ro nếu hồ sơ đề xuất dự án không được chấp thuận;
+- 01 Bản chính - Nội dung đề xuất dự án đầu tư gồm: Tên dự án, mục tiêu đầu tư, quy mô đầu tư, sơ bộ tổng chi phí thực hiện dự án, vốn đầu tư, phương án huy động vốn, thời hạn, tiến độ đầu tư; phân tích hiệu quả kinh tế - xã hội của dự án, bảo đảm quốc phòng, an ninh, phát triển bền vững của dự án đầu tư;
+- 01 Bản chính - Đề xuất dự kiến nhu cầu sử dụng đất; thông tin về hiện trạng sử dụng đất tại địa điểm thực hiện dự án (nếu có); mục đích sử dụng đất; các chỉ tiêu quy hoạch được duyệt;
+- 01 Bản chính - Các tài liệu cần thiết khác để giải trình hồ sơ đề xuất dự án (nếu có).

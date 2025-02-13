@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép xây dựng đối với công trình cấp III, cấp IV (công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/ Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Lệ phí : 15.000 Đồng Đối với công trình và nhà ở|Tại Trung tâm Hành chính công cấp huyện.|
+|Trực tuyến|05 Ngày làm việc|Lệ phí : 15.000 Đồng Đối với công trình và nhà ở|Qua Cổng dịch vụ công trực tuyến: http://dichvucong.hatinh.gov.vn|
+|Dịch vụ bưu chính|05 Ngày làm việc|Lệ phí : 15.000 Đồng Đối với công trình và nhà ở|Qua dịch vụ bưu chính.|

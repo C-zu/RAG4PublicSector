@@ -1,0 +1,28 @@
+Tên thủ tục: Hưởng lương hưu đối với người lao động đang tham gia bảo hiểm xã hội bắt buộc
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+* Người lao động là công dân Việt Nam và người lao động là công dân nước ngoài làm việc tại Việt Nam đang tham gia bảo hiểm xã hội khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Nam đủ 60 tuổi, nữ đủ 55 tuổi;
+          - Nam từ đủ 55 tuổi đến đủ 60 tuổi, nữ từ đủ 50 tuổi đến đủ 55 tuổi khi nghi việc có đủ 15 năm làm nghề hoặc công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành hoặc có đủ 15 năm làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên;
+          - Người lao động từ đủ 50 tuổi trở lên khi nghỉ việc có đủ 15 năm làm công việc khai thác than trong hầm lò;
+          - Người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.
+* Lao động nữ là công dân Việt Nam là người hoạt động chuyên trách hoặc không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội bắt buộc và đủ 55 tuổi.
+ * Người lao động là công dân Việt Nam đang tham gia bảo hiểm xã hội bắt buộc khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Từ ngày 01 tháng 01 năm 2016, nam đủ 51 tuổi, nữ đủ 46 tuổi và bị suy giảm khả năng lao động từ 61% trở lên thì đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động. Sau đó mỗi năm tăng thêm một tuổi cho đến năm 2020 trở đi, nam đủ 55 tuổi và nữ đủ 50 tuổi thì mới đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động từ 61% trở lên;
+          - Nam đủ 50 tuổi, nữ đủ 45 tuổi và bị suy giảm khả năng lao động từ 81% trở lên;
+          - Bị suy giảm khả năng lao động từ 61% trở lên và có đủ 15 năm trở lên làm nghề hoặc công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành.
+* Người lao động là công dân Việt Nam và người lao động là công dân nước ngoài làm việc tại Việt Nam đang tham gia bảo hiểm xã hội khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Nam đủ 60 tuổi, nữ đủ 55 tuổi;
+          - Nam từ đủ 55 tuổi đến đủ 60 tuổi, nữ từ đủ 50 tuổi đến đủ 55 tuổi khi nghi việc có đủ 15 năm làm nghề hoặc công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành hoặc có đủ 15 năm làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên;
+          - Người lao động từ đủ 50 tuổi trở lên khi nghỉ việc có đủ 15 năm làm công việc khai thác than trong hầm lò;
+          - Người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.
+* Lao động nữ là công dân Việt Nam là người hoạt động chuyên trách hoặc không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội bắt buộc và đủ 55 tuổi.
+ * Người lao động là công dân Việt Nam đang tham gia bảo hiểm xã hội bắt buộc khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Từ ngày 01 tháng 01 năm 2016, nam đủ 51 tuổi, nữ đủ 46 tuổi và bị suy giảm khả năng lao động từ 61% trở lên thì đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động. Sau đó mỗi năm tăng thêm một tuổi cho đến năm 2020 trở đi, nam đủ 55 tuổi và nữ đủ 50 tuổi thì mới đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động từ 61% trở lên;
+          - Nam đủ 50 tuổi, nữ đủ 45 tuổi và bị suy giảm khả năng lao động từ 81% trở lên;
+          - Bị suy giảm khả năng lao động từ 61% trở lên và có đủ 15 năm trở lên làm nghề hoặc công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

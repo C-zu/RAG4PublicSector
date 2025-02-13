@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Giấy phép lái tàu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao (1) Bản gốc hoặc bản điện tử văn bản đề nghị cấp lại giấy phép lái tàu của doanh nghiệp theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe186bf0e0433c0'">1.003897_doanh nghiệp.doc</a>)
+- 01 Bản chính, 01 Bản sao (2) Hồ sơ của cá nhân: Bản gốc hoặc bản điện tử đơn đề nghị cấp lại giấy phép lái tàu theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef559b8f88cab0'">1.003897_cá nhân.doc</a>)
+- 01 Bản chính, 01 Bản sao (2) Hồ sơ của cá nhân: Bản gốc hoặc bản điện tử hoặc bản sao có chứng thực hoặc bản sao điện tử có chứng thực giấy chứng nhận đủ tiêu chuẩn sức khỏe lái tàu theo quy định của Bộ trưởng Bộ Y tế;
+- 01 Bản chính, 01 Bản sao (2) Hồ sơ của cá nhân: 03 ảnh màu cỡ 3x4cm ảnh chụp hoặc ảnh điện tử chụp trong thời hạn không quá 06 tháng tính đến ngày nộp hồ sơ.

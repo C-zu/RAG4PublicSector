@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|14 Ngày|Lệ phí : Đồng Theo quy định của Bộ Tài chính  Phí : Đồng Theo quy định của Bộ Tài chính|- 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+|Trực tuyến|14 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+|Dịch vụ bưu chính|14 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 14 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|

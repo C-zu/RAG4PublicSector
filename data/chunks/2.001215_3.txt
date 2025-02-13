@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước lần đầu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện: 03 (ba) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện: 03 (ba) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện: 03 (ba) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|

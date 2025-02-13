@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục gia hạn Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy đăng ký hoạt động (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f91fb40d5c37b00'">Mau 10_Don gia han DKDV.doc</a>)
+- 01 Bản chính Khai báo bổ sung, cập nhật nếu có các nội dung thay đổi về nhân viên thực hiện dịch vụ; Chứng chỉ hành nghề dịch vụ tương ứng với loại hình dịch vụ của các nhân viên thực hiện dịch vụ
+- 01 Bản sao Bản sao Giấy đăng ký hoạt động đã được cấp và sắp hết hạn
+- 01 Bản chính Kết quả đo liều chiếu xạ cá nhân của nhân viên thực hiện dịch vụ (áp dụng đối với trường hợp thực hiện dịch vụ có yêu cầu sử dụng liều kế cá nhân)

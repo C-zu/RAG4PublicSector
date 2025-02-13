@@ -1,0 +1,6 @@
+Tên thủ tục: Đăng ký thông báo xử lý tài sản bảo đảm, đăng ký thay đổi, xóa đăng ký thông báo xử lý tài sản bảo đảm là tàu biển
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Nộp hồ sơ đến Cơ quan đăng ký tàu biển Việt Nam - Bộ Giao thông vận tải;
+- Trường hợp không có căn cứ từ chối thì Cơ quan đăng ký tàu biển Việt Nam tiếp nhận hồ sơ hợp lệ, giải quyết hồ sơ và trả kết quả.

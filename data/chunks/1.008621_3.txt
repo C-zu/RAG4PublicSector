@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy phép cho phương tiện vận tải ra vào thành phố Đà Nẵng (giờ cao điểm)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|1 Ngày làm việc||- Hồ sơ được nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích.|

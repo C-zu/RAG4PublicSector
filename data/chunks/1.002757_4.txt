@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp thị thực điện tử theo đề nghị của người nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Thông tin đề nghị cấp thị thực điện tử (trên Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an) theo mẫu NA1a ban hành kèm theo Thông tư số 22/2023/TT-BCA ngày 30/6/2023 của Bộ Công an.
+- 01 Bản chính + Ảnh mới chụp của người đề nghị cấp thị thực điện tử, kích cỡ ảnh 4 x 6cm, định dạng jpeg, kích thước ≤ 2 MB, mặt nhìn thẳng, không đội mũ, không đeo kính, trang phục lịch sự, phông ảnh nền trắng
+- 01 Bản sao Ảnh trang nhân thân hộ chiếu được tải lên Trang thông tin cấp thị thực điện tử theo quy định.

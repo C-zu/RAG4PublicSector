@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011050
+Số quyết định:
+1463/QĐ-BTC
+Tên thủ tục:
+Báo cáo mất, cháy tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
+Trường hợp mất, cháy tem điện tử thuốc lá hoặc tem điện tử rượu: Tổ chức, cá nhân phát hiện mất, cháy tem, sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Cổng thông tin điện tử của Tổng cục Thuế để lập báo cáo mất, cháy tem trên Cổng thông tin điện tử của Tổng cục Thuế chậm nhất không quá năm (05) ngày làm việc kể từ ngày phát hiện việc mất, cháy tem theo Mẫu số 05/TEM, Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC ngày 30/03/2021 của Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá. Trường hợp tìm lại được tem đã mất, Tổ chức, cá nhân phải thực hiện huỷ tem chậm nhất là 05 ngày kể từ ngày tìm lại được tem đã mất.
++ Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+Cơ quan thuế thực hiện tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ (và trả kết quả, nếu có kết quả) trong vòng 01 ngày làm việc thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|01 Ngày làm việc||Trong 01 ngày làm việc|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Mẫu 05/TEM ban hành theo Phụ lục 3 Thông tư số 23/2021/TT-BTC. ([Mẫu 05.TEM.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd361e2af80af26'))
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+MS 02/TB/TEM
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|51/2005/QH11|Luật 51/2005/QH11|30-11-2005||
+|67/2006/QH11|Luật 67/2006/QH11|30-06-2006||
+|105/2017/NĐ-CP|Nghị định 105/2017/NĐ-CP|14-09-2017||
+|123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP|19-10-2020||
+|23/2021/TT-BTC|Thông tư 23/2021/TT-BTC|30-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

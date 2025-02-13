@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký khai thác nước dưới đất (TTHC cấp huyện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn không quá mười (10) ngày làm việc, kể từ ngày nhận được tờ khai, tổ chức, cá nhân có trách nhiệm hoàn thành hai (02) tờ khai và nộp cho cơ quan xác nhận đăng ký hoặc nộp cho Ủy ban nhân dân cấp xã.|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn không quá mười (10) ngày làm việc, kể từ ngày nhận được tờ khai của tổ chức, cá nhân, cơ quan xác nhận đăng kí có trách nhiệm kiểm tra nội dung thông tin, xác nhận và tờ khai và gửi một (01) bản cho tổ chức, cá nhân.|

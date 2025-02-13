@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004220
+Số quyết định:
+QĐ/0001-BTC
+Tên thủ tục:
+Đăng ký niêm yết chứng khoán của tổ chức phát hành nước ngoài trên SGDCK tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Tổ chức phát hành nước ngoài gửi hồ sơ xin chấp thuận niêm yết trên SGDCK Việt Nam tới UBCKNN;
+UBCKNN tiếp nhận hồ sơ trong giờ hành chính các ngày làm việc, kiểm tra, thẩm định hồ sơ. UBCKNN gửi công văn cho công ty yêu cầu bổ sung, sửa đổi hồ sơ (nếu cần).
+Sau khi tổ chức phát hành nước ngoài hoàn tất thủ tục và hồ sơ theo quy định, UBCKNN ký quyết định chấp thuận niêm yết. Trường hợp từ chối chấp thuận, UBCKNN gửi công văn từ chối và nêu rõ lý do
+Sau khi được UBCKNN chấp thuận, tổ chức phát hành nước ngoài phải gửi hồ sơ đăng ký niêm yết lên SGDCK.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Dịch vụ bưu chính|30 Ngày||- 30 ngày, kể từ ngày UBCKNN nhận được đầy đủ hồ sơ hợp lệ theo quy định. - Thời hạn giải quyết của SGDCK: Quy định tại Quy chế về Niêm yết của SGDCK|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Cam kết thực hiện đầy đủ các nghĩa vụ của tổ chức niêm yết theo quy định của pháp luật Việt Nam;
+- 01 Bản chính Hợp đồng tư vấn niêm yết.
+- 01 Bản chính Các hồ sơ như thủ tục đăng ký niêm yết chứng khoán tại SGDCK
+- 01 Bản chính Cam kết của tổ chức nước ngoài thực hiện dự án tại Việt Nam;
+- 01 Bản chính Cam kết không chuyển vốn ra nước ngoài và không rút vốn tự có đối ứng trong thời hạn dự án được cấp phép;
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chấp thuận đăng ký niêm yết cấp cho tổ chức phát hành nước ngoài; hoặc - Công văn từ chối trong đó nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|70/2006/QH11|Luật Chứng khoán số 70/2006/QH11 ngày 29/06/0006 của Quốc hội|01-01-2007||
+|62/2010/QH12|Luật 62/2010/QH12|24-11-2010||
+|58/2012/NĐ-CP|Nghị định 58/2012/NĐ-CP|20-07-2012||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

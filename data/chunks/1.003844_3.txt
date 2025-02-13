@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu trang thiết bị y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|15 Ngày làm việc|Phí : 2000000 Đồng Phí thẩm định hồ sơ nhập khẩu trang thiết bị y tế|15 ngày làm việc kể từ ngày nhận được hồ sơ (bao gồm cả giấy tờ xác nhận đã nộp phí thẩm định cấp giấy phép nhập khẩu theo quy định của Bộ Tài chính);|
+|Trực tuyến|2 Ngày làm việc|Phí : 2000000 Đồng Phí thẩm định hồ sơ nhập khẩu trang thiết bị y tế|02 ngày làm việc đối với trang thiết bị y tế chưa có số lưu hành nhập khẩu đáp ứng nhu cầu cấp bách phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa, kể từ ngày nhận được hồ sơ.|

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục giải quyết hưởng chế độ tử tuất một lần
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai của thân nhân (Mẫu số 09A-HBQP) có chứng thực chữ ký hoặc điểm chỉ của người khai. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe450c705c1679c'">Mẫu số 09A-HBQP.docx</a>)
+- 01 Bản chính Giấy xác nhận của chính quyền địa phương nơi người nuôi dưỡng hợp pháp cư trú (trường hợp thân nhân không phải là vợ hoặc chồng, con, bố mẹ đẻ, bố mẹ vợ hoặc bố mẹ chồng mà người chết khi còn sống phải chịu trách nhiệm nuôi dưỡng).
+- 01 Bản chính 2. Trường hợp chết do TNLĐ, BNN: Biên bản điều tra TNLĐ (trường hợp tai nạn giao thông được xác định là TNLĐ thì có thêm biên bản khám nghiệm hiện trường; sơ đồ hiện trường vụ tai nạn giao thông; biên bản tai nạn giao thông của cơ quan công an hoặc cơ quan điều tra hình sự Bộ Quốc phòng) hoặc bản sao bệnh án điều trị BNN.
+- 01 Bản chính, 01 Bản sao 3. Biên bản họp của các thân nhân đối với trường hợp đủ điều kiện hưởng trợ cấp tuất hằng tháng nhưng chọn hưởng trợ cấp tuất một lần (Mẫu số 9C-HBQP, bản chính); trường hợp chỉ có một thân nhân đủ điều kiện hưởng trợ cấp tuất hằng tháng hoặc nhiều thân nhân đủ điều kiện hưởng trợ cấp tuất hằng tháng nhưng chỉ có một người đại diện hợp pháp mà lựa chọn hưởng trợ cấp tuất một lần thì thân nhân lựa chọn hưởng trợ cấp tuất một lần hoặc người đại diện hợp pháp của thân nhân chịu trách nhiệm về việc lựa chọn và không cần biên bản này. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3654936e3a503'">Mẫu số 9C-HBQP.docx</a>)

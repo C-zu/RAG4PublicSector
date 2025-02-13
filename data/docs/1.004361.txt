@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004361
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp (TTHC cấp tỉnh - đối với nơi chưa thành lập Văn phòng đăng ký đất đai)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai
+Trình tự thực hiện:
+Bước 1. Nộp hồ sơ:
+Công ty nông, lâm nghiệp nộp hồ sơ tại Sở Tài nguyên và Môi trường.
+Bước 2: (2) Sở Tài nguyên và Môi trường chủ trì, phối hợp với Sở Nông nghiệp và Phát triển nông thôn và các Sở, ngành, Ủy ban nhân dân huyện, quận, thị xã, thành phố trực thuộc tỉnh có liên quan, tổ chức thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp theo quy định sau đây:
+- Trong thời hạn không quá 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm gửi hồ sơ phương án sử dụng đất của công ty nông, lâm nghiệp đến các Sở, ngành, Ủy ban nhân dân cấp huyện để lấy ý kiến;
+- Trong thời hạn không quá 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, các cơ quan được lấy ý kiến có trách nhiệm gửi ý kiến bằng văn bản đến Sở Tài nguyên và Môi trường;
+- Trong thời hạn không quá 05 ngày kể từ ngày kết thúc thời gian lấy ý kiến, Sở Tài nguyên và Môi trường có trách nhiệm tổ chức họp để thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp; gửi thông báo kết quả thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp đến công ty nông, lâm nghiệp để hoàn chỉnh hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. Thời gian này không bao gồm thời gian Sở Tài nguyên và Môi trường gửi hồ sơ lấy ý kiến các cơ quan liên quan và thời gian các cơ quan gửi văn bản góp ý kiến về Sở Tài nguyên và Môi trường.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 010 Bản chính - Tờ trình đề nghị phê duyệt phương án sử dụng đất;
+- 010 Bản chính - Báo cáo thuyết minh tổng hợp phương án sử dụng đất và Biểu kèm theo. ([mẫu báo cáo phương án sử dụng đất.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7ea34c6383d16'))
+- 010 Bản chính - Bản đồ phương án sử dụng đất của công ty nông, lâm nghiệp.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Sở Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Sở Nông nghiệp và Phát triển Nông thôn, Các Sở, ngành và địa phương liên quan, Ủy ban nhân dân cấp Huyện
+Kết quả thực hiện:
+Thông báo kết quả thẩm định phương án sử dụng đất của công ty nông, lâm nghiệp.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|118/2014/NĐ-CP|Nghị định 118/2014/NĐ-CP|17-12-2014|Chính phủ|
+|45/2013/QH13|Luật 45/2013/QH13|02-01-2014|Quốc Hội|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|07/2015/TT-BTNMT|Thông tư 07/2015/TT-BTNMT|26-02-2015|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

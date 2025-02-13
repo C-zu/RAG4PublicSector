@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Thủ tục cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ
+- Cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ xem xét hồ sơ:
++ Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ có văn bản đề nghị tổ chức, cá nhân bổ sung hồ sơ theo quy định;
++ Trường hợp hồ sơ đáp ứng yêu cầu theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ thực hiện cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ.
++ Trường hợp từ chối cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ, cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ có văn bản trả lời và nêu rõ lý do.

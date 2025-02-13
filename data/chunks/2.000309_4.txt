@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký hoạt động bán hàng đa cấp tại địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký hoạt động bán hàng đa cấp tại địa phương theo Mẫu số 07 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4e6a29776d054'">Mẫu số 07.docx</a>)
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký hoạt động bán hàng đa cấp;
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, giấy chứng nhận đăng ký địa điểm kinh doanh (nếu có).
+- 01 Bản chính Trường hợp không có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại địa phương, doanh nghiệp cung cấp các giấy tờ liên quan đến đầu mối tại địa phương, bao gồm: 01 bản sao được chứng thực chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu; 01 bản chính hoặc bản sao có chứng thực Phiếu lý lịch tư pháp; 01 bản sao chứng thực xác nhận kiến thức cho đầu mối tại địa phương; 01 văn bản chỉ định quy định rõ phạm vi công việc, quyền và nghĩa vụ của các bên.
+- 01 Bản chính Danh sách người tham gia bán hàng đa cấp cư trú tại địa phương đến thời điểm nộp hồ sơ trong trường hợp doanh nghiệp đã có hoạt động bán hàng đa cấp tại địa phương trước thời điểm Nghị định số 40/2018/NĐ-CP có hiệu lực (danh sách ghi rõ: Họ tên, ngày tháng năm sinh, địa chỉ nơi cư trú (thường trú hoặc tạm trú trong trường hợp không cư trú tại nơi thường trú), số chứng minh nhân dân hoặc số căn cước công dân hoặc số hộ chiếu, số hợp đồng tham gia bán hàng đa cấp, mã số người tham gia, điện thoại liên hệ của người tham gia bán hàng đa cấp) tới Sở Công Thương nơi doanh nghiệp dự kiến hoạt động.

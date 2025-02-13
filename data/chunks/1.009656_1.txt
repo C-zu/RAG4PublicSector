@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư theo bản án, quyết định của tòa án, trọng tài đối với dự án đầu tư đã được chấp thuận chủ trương đầu tư của UBND cấp tỉnh (Khoản 3 Điều 54 Nghị định số 31/2021/NĐ-CP)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009656
+Số quyết định:
+701/QĐ-BKHĐT
+Tên thủ tục:
+Thủ tục điều chỉnh dự án đầu tư theo bản án, quyết định của tòa án, trọng tài đối với dự án đầu tư đã được chấp thuận chủ trương đầu tư của UBND cấp tỉnh (Khoản 3 Điều 54 Nghị định số 31/2021/NĐ-CP)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam

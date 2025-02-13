@@ -1,0 +1,18 @@
+Tên thủ tục: Thủ tục công chứng tính xác thực, tính hợp pháp của hợp đồng, giao dịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Công chứng hợp đồng, giao dịch soạn thảo theo đề nghị của người yêu cầu công chứng (1 bộ)
+ Thành phần hồ sơ 1: Phiếu yêu cầu công chứng hợp đồng. giao dịch theo mẫu
+ Thành phần hồ sơ 2: Bản sao giấy tờ tùy thân (bản sao hộ chiếu hoặc giấy tờ có giá trị thay thế) của người yêu cầu công chứng, Giấy tờ chứng minh tư cách đại diện (nếu là người đại diện)
+ Thành phần hồ sơ 3: Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc bản sao giấy tờ thay thế được pháp luật quy định đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng, trong trường hợp hợp đồng, giao dịch liên quan đến tài sản đó
+ Thành phần hồ sơ 4: Bản sao giấy tờ khác có liên quan đến hợp đồng, giao dịch mà pháp luật quy định phải có
+
+
+Công chứng hợp đồng, giao dịch đã được soạn thảo sẵn (1 bộ)
+- 01 Bản chính Thành phần hồ sơ 1: Phiếu yêu cầu công chứng hợp đồng, giao dịch theo mẫu
+- 01 Bản chính Thành phần hồ sơ 2: Dự thảo hợp đồng, giao dịch
+- 01 Bản sao Thành phần hồ sơ 3: Bản sao giấy tờ tùy thân (bản sao hộ chiếu hoặc giấy tờ có giá trị thay thế) của người yêu cầu công chứng, Giấy tờ chứng minh tư cách đại diện (nếu là người đại diện)
+- 01 Bản sao Thành phần hồ sơ 4: Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc bản sao giấy tờ thay thế được pháp luật quy định đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng, trong trường hợp hợp đồng, giao dịch liên quan đến tài sản đó
+- 01 Bản sao Thành phần hồ sơ 5: Bản sao giấy tờ khác có liên quan đến hợp đồng, giao dịch mà pháp luật quy định phải có

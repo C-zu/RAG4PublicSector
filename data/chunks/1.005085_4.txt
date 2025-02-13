@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy phép lái tàu trên đường sắt đô thị cho người nước ngoài đã có giấy phép lái tàu do cơ quan nhà nước có thẩm quyền nước ngoài cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao * Đối với Doanh nghiệp: (1) Bản chính hoặc bản điện tử văn bản đề nghị cấp giấy phép lái tàu của doanh nghiệp thuê người nước ngoài đã có giấy phép lái tàu do cơ quan cấp giấy phép lái tàu nước ngoài cấp theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9bbebb31ea5d60'">1.005085_doanh nghiệp.doc</a>)
+- 01 Bản chính, 01 Bản sao * Đối với Doanh nghiệp:(2) Bản chính hoặc bản điện tử hoặc bản sao có chứng thực hoặc bản sao điện tử có chứng thực Hợp đồng lao động giữa doanh nghiệp kinh doanh đường sắt đô thị và lái tàu là người nước ngoài;
+- 01 Bản chính, 01 Bản sao * Đối với Doanh nghiệp:(3) Bản sao có chứng thực hoặc bản sao điện tử có chứng thực hồ sơ kết quả kiểm tra năng lực, nghiệp vụ lái tàu trên đường sắt đô thị đối với từng lái tàu do doanh nghiệp kinh doanh đường sắt đô thị tổ chức.
+- 01 Bản chính, 01 Bản sao * Hồ sơ của các cá nhân kèm theo: (4) Bản gốc hoặc bản điện tử đơn đề nghị cấp giấy phép lái tàu theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2ea663a52f37f'">1.005085_người nước ngoài.doc</a>)
+- 01 Bản chính, 01 Bản sao * Hồ sơ của các cá nhân kèm theo: (5) Bản gốc hoặc bản điện tử hoặc bản sao có chứng thực hoặc bản sao điện tử có chứng thực giấy chứng nhận đủ tiêu chuẩn sức khỏe lái tàu theo quy định của Bộ trưởng Bộ Y tế;
+- 01 Bản chính, 01 Bản sao * Hồ sơ của các cá nhân kèm theo: (6) Bản sao có chứng thực hoặc bản sao điện tử có chứng thực giấy phép lái tàu còn hiệu lực do cơ quan có thẩm quyền nước ngoài cấp có công nghệ tương ứng với tuyến đường sắt được thuê vận hành, được công chứng dịch thuật sang tiếng Việt
+- 01 Bản chính, 01 Bản sao * Hồ sơ của các cá nhân kèm theo: (7) 03 ảnh màu cỡ 3x4cm ảnh chụp hoặc ảnh điện tử chụp trong thời hạn không quá 06 tháng tính đến ngày nộp hồ sơ.

@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003613
+Số quyết định:
+150/QĐ-BYT
+Tên thủ tục:
+Kê khai lại giá thuốc sản xuất trong nước
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm
+Trình tự thực hiện:
+Bước 1: Cơ sở sản xuất thuốc hoặc cơ sở đặt gia công thuốc nộp hồ sơ Kê khai lại giá thuốc sản xuất trong nước về Sở Y tế.
+Bước 2: Sở Y tiếp nhận hồ sơ, kiểm tra hồ sơ và trả Phiếu tiếp nhận hồ sơ kê khai lại giá thuốc.
+Bước 3: Sở Y tế tổ chức rà soát giá thuốc kê khai lại.
+Bước 4: Sở Y tế báo cáo Cục Quản lý Y Dược cổ truyền(đối với thuốc cổ truyền), Cục Quản lý Dược (đối với các thuốc còn lại) các thuốc kê khai lại đối với các trường hợp chưa phát hiện mức giá kê khai lại không hợp lý. Trường hợp mức giá kê khai lại không hợp lý, Sở Y tế thông báo bằng văn bản cho cơ sở kê khai giá xem xét lại mức giá kê khai lại và nêu rõ lý do.
+Bước 5: Cục Quản lý Y Dược cổ truyền (đối với thuốc cổ truyền), Cục Quản lý Dược (đối với các thuốc còn lại) tổng hợp báo cáo của Sở Y tế về giá thuốc kê khai lại và công bố trên Cổng thông tin điện tử của Cục Quản lý Y Dược cổ truyền; đối với thuốc cổ truyền, Cục Quản lý Dược: đối với các thuốc còn lại
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Phí : 800.000 Đồng|07 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|07 Ngày làm việc|Phí : 800.000 Đồng|07 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bảng kê khai lại giá thuốc sản xuất trong nước theo Mẫu số 04 Phụ lục VII của Nghị định số 155/2018/NĐ-CP. Mẫu này được sửa đổi theo quy định tại khoản 3 Điều 2 của Nghị định số 88/2023/NĐ-CP ([Mẫu số 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeabf9923b109a'))
+- 01 Bản chính, 01 Bản sao - Bảng thuyết minh cơ cấu giá (Theo Mẫu số 10 Phụ lục VII kèm theo Nghị định này). - Bảng so sánh nội dung thay đổi cơ cấu giá so với cơ cấu giá tại Hồ sơ kê khai liền kề. - Công văn phân tích nguyên nhân, nêu rõ biến động của các yếu tố hình thành giá tác động làm tăng hoặc giảm giá bán buôn, bán lẻ dự kiến (nếu có) kê khai. - Các tài liệu khác kèm theo (nếu có)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phiếu tiếp nhận hồ sơ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|
+|Luật 105/2016/QH13|105/2016/QH13 Dược|06-04-2016|Quốc Hội|
+|88/NĐ-CP|Nghị định số 88/2023/NĐ-CP ngày 11/12/2023 của Chính phủ|11-12-2023|Chính phủ|
+|41/2023/TT-BTC|41/2023/TT-BTC|12-06-2023|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Cơ sở sản xuất thuốc hoặc cơ sở đặt gia công thuốc phải thực hiện việc kê khai lại giá thuốc sản xuất trong nước khi có nhu cầu điều chỉnh tăng giá so với giá thuốc đã được kê khai hoặc kê khai lại liền kề trước đó được công bố trên Cổng thông tin điện tử của Cục Quản lý Y Dược cổ truyền; đối với thuốc cổ truyền, Cục Quản lý Dược: đối với các thuốc còn lại.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

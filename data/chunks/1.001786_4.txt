@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động lần đầu cho tổ chức khoa học và công nghệ (Sở Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đăng ký hoạt động khoa học và công nghệ (theo mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9c19ae1595f5c'">Mẫu 5 - Đơn đăng ký.docx</a>)
+- 01 Bản sao + Bản sao (có chứng thực hợp pháp) Quyết định thành lập tổ chức khoa học và công nghệ;
+- 01 Bản sao + Bản sao (có chứng thực hợp pháp) Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ hoặc Quy chế tổ chức và hoạt động do cơ quan nhà nước có thẩm quyền ban hành (đối với tổ chức khoa học và công nghệ công lập);
+ + Hồ sơ về cơ sở vật chất - kỹ thuật của tổ chức khoa học và công nghệ: Phải có các giấy tờ sau:
+- 01 Bản chính * Đối với tổ chức khoa học và công nghệ công lập: Bảng kê khai cơ sở vật chất - kỹ thuật được cơ quan quyết định thành lập hoặc quản lý trực tiếp xác nhận (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcf9a70faeb970'">Mẫu 12.docx</a>)
+- 01 Bản chính * Đối với tổ chức khoa học và công nghệ ngoài công lập: Bảng kê khai cơ sở vật chất - kỹ thuật (theo mẫu); Biên bản họp của những người sáng lập/các bên góp vốn hợp tác ghi rõ những nội dung sau: tỉ lệ góp vốn; tổng số vốn (bằng tiền và tài sản quy ra đồng Việt Nam), trong đó số vốn góp bằng tiền phải bảo đảm đủ kinh phí hoạt động thường xuyên ít nhất trong 01 năm theo số lượng nhân lực và quy mô hoạt động của tổ chức; Cam kết góp vốn (bằng tiền và tài sản) của từng cá nhân/các bên góp vốn hợp tác (nếu có); Giấy tờ chứng minh quyền sở hữu hoặc quyền sử dụng đối với phần vốn đã cam kết góp.
+ + Hồ sơ về trụ sở chính của tổ chức khoa học và công nghệ: Phải có một trong các giấy tờ sau:
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất của tổ chức khoa học và công nghệ đối với địa điểm nơi đặt trụ sở chính;
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất hoặc giấy tờ chứng minh quyền được phép cho thuê, cho mượn của bên cho thuê, cho mượn kèm theo hợp đồng thuê, mượn địa điểm làm trụ sở chính; trường hợp bản sao hợp đồng không có chứng thực hợp pháp, tổ chức có thể xuất trình bản chính để người tiếp nhận hồ sơ đối chiếu và ký xác nhận vào bản sao.
+ + Hồ sơ về nhân lực của tổ chức khoa học và công nghệ:
+- 01 Bản chính * Đối với tổ chức khoa học và công nghệ công lập: Bảng danh sách nhân lực được cơ quan quyết định thành lập hoặc quản lý trực tiếp xác nhận (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe963e5c50237d6'">Mẫu 8 - bảng danh sách nhân lực.docx</a>)
+ * Đối với tổ chức khoa học và công nghệ ngoài công lập:
+- 01 Bản chính • Bảng danh sách nhân lực (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbba52b129e0438'">Mẫu 8 - bảng danh sách nhân lực.docx</a>)
+- 01 Bản chính, 01 Bản sao • Đối với nhân lực chính thức: Đơn đề nghị được làm việc chính thức (theo mẫu); bản sao các văn bằng đào tạo (có chứng thực hợp pháp). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8b5e4d7f9fe86'">Mẫu 9 - Đơn làm việc chính thức.docx</a>)
+- 01 Bản chính, 01 Bản sao • Đối với nhân lực kiêm nhiệm: Đơn đề nghị được làm việc kiêm nhiệm (theo mẫu); bản sao các văn bằng đào tạo (có chứng thực hợp pháp). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfad7a2f0a2ab4'">Mẫu 10 - Đơn làm việc kiêm nhiệm.docx</a>)
+ + Hồ sơ của người đứng đầu tổ chức khoa học và công nghệ:
+- 01 Bản chính * Đơn đề nghị được làm việc chính thức (theo mẫu) (đối với tổ chức khoa học và công nghệ ngoài công lập). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe52ed4b59cdecc'">Mẫu 9 - Đơn làm việc chính thức.docx</a>)
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) Quyết định bổ nhiệm của cơ quan, tổ chức có thẩm quyền (trừ tổ chức do cá nhân thành lập).
+- 01 Bản chính * Lý lịch khoa học có xác nhận của cơ quan, tổ chức có thẩm quyền (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feae546cbc4586c'">Mẫu 11 - Lý lịch khoa học.docx</a>)
+- 01 Bản sao * Bản sao các văn bằng đào tạo (có chứng thực hợp pháp).

@@ -1,0 +1,9 @@
+Tên thủ tục: Nhóm thủ tục giao lại đất, cho thuê đất đã giải phóng mặt bằng và cấp Giấy chứng nhận đối với trường hợp giao lại đất, cho thuê đất thông qua hình thức đấu giá quyền sử dụng đất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Hồ sơ trình ban hành quyết định công nhận kết quả trúng đấu giá quyền sử dụng đất: + Dự thảo quyết định công nhận kết quả trúng đấu giá quyền sử dụng đất; + Quyết định đấu giá quyền sử dụng đất của Ủy ban nhân dân tỉnh; + Hồ sơ thửa đất đấu giá; + Hợp đồng thuê tổ chức đấu giá quyền sử dụng đất; + Báo cáo về việc tổ chức thực hiện cuộc đấu giá và biên bản kết quả đấu giá thành công quyền sử dụng đất; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd33da0bf612b60'">mau don.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3e147d8c0932f'">Tờ khai tiền sử dụng đất.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe79b8bc3b2caa7'">Tờ khai lệ phí trước bạ.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe781c3b80c9d8b'">Tờ khai thuế sử dụng đất phi nông nghiệp.doc</a>)
+- 01 Bản chính, 01 Bản sao - Ban Quản lý Khu kinh tế nộp sang Văn phòng đăng ký đất đai: + Quyết định công nhận kết quả trúng đấu giá của UBND tỉnh + Biên lai hoàn thành nghĩa vụ tài chính của người trúng đấu giá. + Trích lục/trích đo bản đồ địa chính thửa đất (bản giấy và file số); + Hợp đồng cho thuê đất; + Văn bản của Cục Thuế xác nhận chủ sử dụng đất đã hoàn thành tất cả các nghĩa vụ tài chính đối với toàn bộ dự án.
+- 01 Bản chính, 01 Bản sao - Ban Quản lý Khu kinh tế nộp sang Chi nhánh Văn phòng đăng ký đất đai: + Quyết định công nhận kết quả trúng đấu giá của Ủy ban nhân dân tỉnh; + Biên lai hoàn thành nghĩa vụ tài chính của người trúng đấu giá; + Trích lục/trích đo bản đồ địa chính thửa đất (bản giấy và file số).

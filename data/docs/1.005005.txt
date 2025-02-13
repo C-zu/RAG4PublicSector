@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005005
+Số quyết định:
+52/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường trong kiểm tra lưu hành xe chở người bốn bánh có gắn động cơ
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ xe hoặc người được ủy quyền nộp hồ sơ kiểm tra lưu hành nộp đến Đơn vị đăng kiểm tại địa phương.
+b) Giải quyết TTHC:
+Đơn vị đăng kiểm tiếp nhận, kiểm tra hồ sơ. Nếu không đầy đủ theo quy định thì hướng dẫn chủ xe hoàn thiện lại ngay trong ngày làm việc. Nếu đầy đủ, hợp lệ thì hẹn ngày kiểm tra theo địa điểm chủ xe đăng ký.
+Đơn vị đăng kiểm thực hiện kiểm tra: Xe kiểm tra đạt yêu cầu, Đơn vị đăng kiểm cấp Giấy chứng nhận lưu hành và Tem lưu hành sau 02 ngày làm việc, kể từ ngày kết thúc kiểm tra đạt yêu cầu. Xe kiểm tra có kết quả không đạt, Đơn vị đăng kiểm thông báo hạng mục kiểm tra không đạt của Xe cho chủ xe biết để sửa chữa, khắc phục và kiểm tra lại.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí cấp giấy chứng nhận 50.000 đồng/01 Giấy chứng nhận  Lệ phí : 180000 Đồng Giá dịch vụ kiểm định 180.000 đồng/xe|Trong phạm vi 02 ngày làm việc, kể từ ngày kết thúc kiểm tra đạt yêu cầu.|
+
+Thành phần hồ sơ:
+
+Các giấy tờ phải xuất trình:
+- 01 Bản chính Bản chính Giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực;
+- 01 Bản chính Bản chính Giấy đăng ký xe hoặc bản sao Giấy đăng ký xe có xác nhận của ngân hàng đang giữ Bản chính Giấy đăng ký xe đó hoặc bản sao Giấy đăng ký xe có xác nhận của cơ quan cho thuê tài chính đang giữ Bản chính Giấy đăng ký xe đó;
+- 01 Bản chính Văn bản chấp thuận của cơ quan địa phương có thẩm quyền về khu vực cho phép xe của tổ chức cá nhân hoạt động còn hiệu lực.
+
+
+Các giấy tờ phải nộp:
+- 01 Bản chính Văn bản đề nghị kiểm tra của tổ chức, cá nhân theo mẫu quy định đối với trường hợp không đưa được xe đến Đơn vị đăng kiểm; ([Mẫu13.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9cfc7daf9e33c'))
+- 01 Bản chính Bản sao Phiếu kiểm tra chất lượng xuất xưởng (đối với trường hợp xe sản xuất, lắp ráp trong nước kiểm tra lưu hành lần đầu của các xe có đăng ký lần đầu sau ngày Thông tư này có hiệu lực).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Đăng kiểm
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận lưu hành xe chở người bốn bánh có gắn động cơ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|238/2016/TT-BTC|Quy định vé giá dịch vụ kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, thiết bị và xe máy chuyên dùng đang lưu hành; đánh giá, hiệu chuẩn thiết bị kiểm tra xe cơ giới|11-11-2016|Bộ Tài chính|
+|86/2014/TT-BGTVT|Quy định về điều kiện đối với xe chở người bốn bánh có gắn động cơ và người điều khiển tham gia giao thông trong phạm vi hạn chế|31-12-2014|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Thỏa mãn yêu cầu quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường trong lưu hành xe chở hàng bốn bánh có gắn động cơ theo Phụ lục VIII của Thông tư số 86/2014/TT-BGTVT.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

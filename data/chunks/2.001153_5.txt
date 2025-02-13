@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục biên phòng điện tử đối với tàu thuyền Việt Nam; tàu thuyền, thuyền viên nước ngoài nhập cảnh tại cửa khẩu cảng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền:
+Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cảng vụ hàng hải, Cơ quan kiểm dịch thực vật, Cơ quan kiểm dịch động vật cửa khẩu, Trung tâm Kiểm dịch y tế quốc tế, Cảng vụ đường thủy nội địa, Hải quan cửa khẩu cảng
+Kết quả thực hiện:
+Bản điện tử xác nhận hoàn thành thủ tục biên phòng điện tử cảng biển hoặc từ chối thực hiện thủ tục biên phòng điện tử cảng biển của Biên phòng cửa khẩu cảng gửi người làm thủ tục.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|10/2016/QĐ-TTg|Về thực hiện thủ tục biên phòng điện tử cảng biển|03-03-2016|Thủ tướng Chính phủ|
+|77/2017/NĐ-CP|Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng|03-07-2017|Chính phủ|

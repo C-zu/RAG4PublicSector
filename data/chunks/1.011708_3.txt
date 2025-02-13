@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng (còn thời hạn nhưng bị mất hoặc hư hỏng hoặc bị ghi sai thông tin hoặc tổ chức hoạt động thí nghiệm chuyên ngành xây dựng xin dừng thực hiện một số chỉ tiêu trong Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Đồng|Nộp hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng|
+|Trực tuyến|05 Ngày làm việc||Nộp hồ sơ trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.|
+|Dịch vụ bưu chính|05 Ngày làm việc||Nộp hồ sơ qua dịch vụ bưu chínhđến Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng|

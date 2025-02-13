@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001271
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký hoạt động thử nghiệm
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+
+Tổ chức, doanh nghiệp có nhu cầu đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương chuẩn bị 01 bộ hồ sơ theo quy định và gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại trụ sở hoặc qua Cổng thông tin điện tử của Bộ Công Thương theo hình thức dịch vụ công trực tuyến, cụ thể:
+- Đối với trường hợp nộp hồ sơ qua đường bưu điện: Bản sao có chứng thực.
+- Đối với trường hợp nộp hồ sơ trực tiếp: Bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu.
+- Đối với trường hợp nộp hồ sơ qua mạng điện tử: Bản scan từ bản gốc.
+Bước 2: Xử lý hồ sơ
+- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo bằng văn bản yêu cầu tổ chức thử nghiệm sửa đổi, bổ sung.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ, Bộ Công Thương cấp Giấy chứng nhận cho tổ chức thử nghiệm theo mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP.
+(Trước khi Giấy chứng nhận hết thời hạn hiệu lực 60 ngày, nếu có nhu cầu tiếp tục tham gia hoạt động thử nghiệm, tổ chức thử nghiệm phải lập 01 bộ hồ sơ như đối với trường hợp cấp mới theo quy định và gửi về Bộ Công Thương.)
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Nộp hồ sơ trực tiếp tại trụ sở hoặc qua đường bưu điện hoặc qua Cổng thông tin điện tử của Bộ Công Thương theo hình thức dịch vụ công trực tuyến.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Mẫu Phiếu kết quả thử nghiệm, Chứng thư giám định, Giấy chứng nhận kiểm định, Giấy chứng nhận
+- 01 Bản chính - Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+- 01 Bản chính Tài liệu chứng minh năng lực hoạt động thử nghiệm đáp ứng các yêu cầu quy định tại khoản 2 Điều 5 Nghị định số 107/2016/NĐ-CP, cụ thể như sau: + Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 21 Nghị định số 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định số 107/2016/NĐ-CP công nhận hoạt động thử nghiệm, tổ chức thử nghiệm nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận. + Trường hợp tổ chức thử nghiệm chưa được công nhận, tổ chức thử nghiệm nộp các tài liệu, quy trình thử nghiệm và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 5 Nghị định số 107/2016/NĐ-CP
+- 01 Bản chính Đơn đăng ký hoạt động thử nghiệm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP ([Mẫu số 01.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6b475f1a6d16d'))
+- 01 Bản chính Danh sách thử nghiệm viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP và các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 5 Nghị định số 107/2016/NĐ-CP ([Mẫu số 02.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb7005b4369880'))
+- 01 Bản chính Danh sách máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phục vụ hoạt động thử nghiệm đối với lĩnh vực thử nghiệm đăng ký theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP ([Mẫu số 04.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb2f2f37702adc'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Vụ Khoa học và Công nghệ - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+GIẤY CHỨNG NHẬN ĐĂNG KÝ HOẠT ĐỘNG CHỨNG NHẬN/ THỬ NGHIỆM/GIÁM ĐỊNH/KIỂM ĐỊNH
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|107/2016/NĐ-CP|Nghị định Quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13|26-11-2014|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+- Là tổ chức được thành lập theo quy định của pháp luật.
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành.
+- Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành.
+- Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp, với lĩnh vực hoạt động thử nghiệm tương ứng.
+- Là tổ chức được thành lập theo quy định của pháp luật.
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành.
+- Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành.
+- Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp, với lĩnh vực hoạt động thử nghiệm tương ứng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

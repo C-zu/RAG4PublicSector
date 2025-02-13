@@ -1,0 +1,18 @@
+Tên thủ tục: Thẩm định báo cáo nghiên cứu tiền khả thi, quyết định chủ trương đầu tư dự án do nhà đầu tư đề xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+(1) Hồ sơ đề xuất dự án nhà đầu tư:
+- 01 Bản chính - Văn bản đề xuất thực hiện dự án, bao gồm cam kết chịu mọi chi phí, rủi ro nếu hồ sơ đề xuất dự án không được chấp thuận;
+- 01 Bản chính Báo cáo nghiên cứu tiền khả thi;
+- 01 Bản chính - Hồ sơ về tư cách pháp lý, năng lực, kinh nghiệm của nhà đầu tư;
+- 01 Bản chính - Các tài liệu cần thiết khác để giải trình hồ sơ đề xuất dự án (nếu có).
+
+
+(2) Cơ quan quyết định chủ trương đầu tư:
+- 01 Bản chính - Tờ trình cấp có thẩm quyền quyết định chủ trương đầu tư;
+- 01 Bản chính - Báo cáo nghiên cứu tiền khả thi;
+- 01 Bản chính - Báo cáo thẩm định báo cáo nghiên cứu tiền khả thi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faacd8ad53603a0'">Phu luc II_ TT 09.docx</a>)
+- 01 Bản chính - Báo cáo thẩm định về nguồn vốn và khả năng cân đối vốn theo pháp luật về đầu tư công đối với dự án sử dụng vốn đầu tư công làm phần phần Nhà nước tham gia trong dự án PPP;
+- 01 Bản chính - Văn bản có ý kiến của cơ quan tài chính theo quy định của pháp luật về ngân sách nhà nước đối với dự án sử dụng nguồn chi thường xuyên hoặc nguồn thu từ hoạt động cung cấp dịch vụ công làm vốn thanh toán cho nhà đầu tư.

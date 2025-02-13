@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục công nhận cơ sở kinh doanh dịch vụ ăn uống đạt tiêu chuẩn phục vụ khách du lịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp biển hiệu đạt tiêu chuẩn phục vụ khách du lịch (Mẫu số 10 Phụ lục II ban hành kèm theo Thông tư số 06/2017/TT-BVHTTDL ngày 15 tháng 12 năm 2017); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec05afc23d14d2'">mẫu số 10.TT06.2917.docx</a>)
+- 01 Bản chính (2) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.

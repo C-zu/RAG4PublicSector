@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002066
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Cấp Giấy phép vận chuyển công cụ hỗ trợ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+Bước 1: Cơ quan, tổ chức, doanh nghiệp ở trung ương có nhu cầu cấp Giấy phép vận chuyển công cụ hỗ trợ nộp hồ sơ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an vào giờ hành chính các ngày làm việc trong tuần, qua Cổng dịch vụ công trực tuyến hoặc qua dịch vụ bưu chính.
+Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ. Nếu hồ sơ đủ điều kiện, thủ tục thì tiếp nhận hồ sơ, giao giấy biên nhận hoặc thông báo trên Cổng dịch vụ công trực tuyến cho người được cơ quan, tổ chức, doanh nghiệp giao nộp hồ sơ. Trường hợp hồ sơ đủ điều kiện nhưng thiếu thủ tục hoặc kê khai chưa đầy đủ, chính xác thì hướng dẫn bằng văn bản hoặc thông báo trên Cổng dịch vụ công trực tuyến ghi rõ thủ tục, nội dung cần bổ sung, kê khai. Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận hồ sơ và trả lời bằng văn bản hoặc thông báo trên Cổng dịch vụ công trực tuyến nêu rõ lý do không tiếp nhận hồ sơ.
+Bước 3: Căn cứ theo ngày hẹn trên giấy biên nhận hoặc thông báo trên Cổng dịch vụ công trực tuyến, cơ quan, tổ chức, doanh nghiệp được cấp Giấy phép vận chuyển công cụ hỗ trợ đến nhận Giấy phép vận chuyển công cụ hỗ trợ hoặc nhận qua Cổng dịch vụ công trực tuyến, qua dịch vụ bưu chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 100000 Đồng 100.000 đồng/ 01 giấy|5 ngày làm việc|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 100000 Đồng 100.000 đồng/ 01 giấy|5 ngày làm việc|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 100000 Đồng 100.000 đồng/ 01 giấy|5 ngày làm việc|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị nêu rõ lý do, số lượng, chủng loại, nơi đi, nơi đến, thời gian và tuyến đường vận chuyển; họ và tên, địa chỉ của người chịu trách nhiệm vận chuyển, người điều khiển phương tiện; biển kiểm soát của phương tiện
+- 01 Bản chính Giấy giới thiệu
+- 01 Bản sao Bản sao Căn cước công dân, Chứng minh nhân dân, Hộ chiếu hoặc Chứng minh Công an nhân dân của người đến liên hệ.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+Nộp hồ sơ trực tiếp tại cơ quan Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận chuyển công cụ hỗ trợ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|14/2017/QH14|Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|20-06-2017|Quốc Hội|
+|Thông tư 16/2018/TT-BCA|Quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|15-05-2018|Bộ Công an|
+|Thông tư 17/2018/TT-BCA|Quy định về trang bị vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ|15-05-2018|Bộ Công an|
+|Nghị định 79/2018/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|16-05-2018|Chính phủ|
+|Thông tư 218/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện thuộc lĩnh vực an ninh; phí sát hạch cấp chứng chỉ nghiệp vụ bảo vệ; lệ phí cấp giấy phép quản lý pháo; lệ phí cấp giấy phép quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ|10-11-2016|Bộ Tài chính|
+|45/2020/NĐ-CP|Nghị định 45/2020/NĐ-CP|08-04-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

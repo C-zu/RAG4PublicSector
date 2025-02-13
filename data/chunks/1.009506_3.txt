@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ hình thành sau chia, tách quỹ mở
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||+ Bước 4: 30 (ba mươi) ngày kể từ ngày UBCKNN nhận hồ sơ đề nghị chấp thuận chia, tách quỹ mở đầy đủ, hợp lệ; + Bước 8: 30 (ba mươi) ngày kể từ ngày UBCKNN nhận được hồ sơ cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày làm việc||+ Bước 4: 30 (ba mươi) ngày kể từ ngày UBCKNN nhận hồ sơ đề nghị chấp thuận chia, tách quỹ mở đầy đủ, hợp lệ; + Bước 8: 30 (ba mươi) ngày kể từ ngày UBCKNN nhận được hồ sơ cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ đầy đủ và hợp lệ.|

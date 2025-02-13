@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn giấy phép thi công
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị gia hạn giấy phép thi công công trình (bản chính) theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6023c8a7391b0'">don.8.docx</a>)
+- 01 Bản sao + Giấy phép thi công đã hết hạn (bản sao có xác nhận của Chủ đầu tư).

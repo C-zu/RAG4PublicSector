@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn Giấy phép xây dựng cho công trình thuộc dự án - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn giấy phép xây dựng theo mẫu BM.XD.03.01
+- 01 Bản chính Bản chính giấy phép xây dựng đã được cấp.

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh khai thác cảng biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||- Trong thời hạn 7 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|7 Ngày làm việc||- Trong thời hạn 7 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|7 Ngày làm việc||- Trong thời hạn 7 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

@@ -1,0 +1,13 @@
+Tên thủ tục: Chấp thuận chủ trương kết nối các tuyến đường sắt
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+Tổ chức, cá nhân có nhu cầu kết nối các tuyến đường sắt nộp 01 bộ hồ sơ đề nghị chấp thuận chủ trương kết nối trực tiếp hoặc gửi qua hệ thống bưu chính đến cơ quan có thẩm quyền chấp thuận chủ trương kết nối, cụ thể:
+- Bộ Giao thông vận tải đối với các tuyến đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia;
+- Ủy ban nhân dân cấp tỉnh đối với:
++ Các tuyến đường sắt đô thị trên địa bàn quản lý;
++ Các tuyến đường sắt đô thị đi qua địa giới hành chính hai tỉnh trở lên trong trường hợp vị trí kết nối trên địa bàn quản lý.
+Giải quyết TTHC:
+- Cơ quan có thẩm quyền chấp thuận chủ trương kết nối tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày nhận hồ sơ phải có văn bản hướng dẫn cho tổ chức, cá nhân hoàn thiện;
+- Thời hạn giải quyết hồ sơ: 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền có văn bản chấp thuận chủ trương kết nối. Trường hợp không chấp thuận phải có văn bản nêu rõ lý do.

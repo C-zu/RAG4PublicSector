@@ -1,0 +1,22 @@
+Tên thủ tục: Phê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường thủy nội địa Việt Nam, Cảng vụ Đường thủy nội địa
+Cơ quan có thẩm quyền:
+Cục Đường thủy nội địa Việt Nam
+Địa chỉ tiếp nhận HS:
+Cảng vụ Đường thủy nội địa
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cảng vụ Đường thủy nội địa khu vực I, Cảng vụ Đường thủy nội địa khu vực II, Cảng vụ Đường thủy nội địa khu vực III, Cảng vụ Đường thủy nội địa khu vực IV
+Kết quả thực hiện:
+Giấy chứng nhận phê duyệt kế hoạch an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài, Giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2021/NĐ-CP|Nghị định 08/2021/NĐ-CP|28-01-2021||
+|198/2016/TT-BTC|Thông tư 198/2016/TT-BTC|08-11-2016||

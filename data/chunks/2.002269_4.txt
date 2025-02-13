@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục xét, tôn vinh danh hiệu “Doanh nghiệp xuất sắc” tỉnh Thái Nguyên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị khen thưởng của doanh nghiệp;
+- 01 Bản chính Biên bản họp xét khen thưởng của doanh nghiệp;
+- 01 Bản chính Báo cáo thành tích của doanh nghiệp.
+- 01 Bản chính Bảng tự chấm điểm, báo cáo tài chính và các văn bản chứng minh thành tích

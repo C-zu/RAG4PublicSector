@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định Thiết kế kỹ thuật, dự toán xây dựng công trình viễn thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|14 Ngày làm việc|Phí : Phí thẩm định Thiết kế chi tiết và dự toán theo quy định tại Thông tư 210/2016/TT-BTC|- 14 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ), - Nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích, - Tổ chức có thể thanh toán phí thẩm định qua Cổng thanh toán trực tuyến được tích hợp trên Hệ thống Egov.|
+|Trực tuyến|14 Ngày làm việc|Phí : Phí thẩm định Thiết kế chi tiết và dự toán theo quy định tại Thông tư 210/2016/TT-BTC|- 14 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ), - Nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích, - Tổ chức có thể thanh toán phí thẩm định qua Cổng thanh toán trực tuyến được tích hợp trên Hệ thống Egov.|
+|Dịch vụ bưu chính|14 Ngày làm việc|Phí : Phí thẩm định Thiết kế chi tiết và dự toán theo quy định tại Thông tư 210/2016/TT-BTC|- 14 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ), - Nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích, - Tổ chức có thể thanh toán phí thẩm định qua Cổng thanh toán trực tuyến được tích hợp trên Hệ thống Egov.|

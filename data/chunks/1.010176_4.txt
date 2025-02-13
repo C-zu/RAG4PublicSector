@@ -1,0 +1,11 @@
+Tên thủ tục: Chấm dứt hoạt động của Văn phòng đại diện của Thương nhân nước ngoài tại Việt Nam - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động Văn phòng đại diện, theo mẫu BM.TM.05.1
+- 01 Bản sao Bản sao văn bản của Cơ quan cấp Giấy phép không gia hạn Giấy phép thành lập Văn phòng đại diện (đối với trường hợp quy định tại Khoản 4 Điều 35 Nghị định 07/2016/NĐ-CP) hoặc bản sao Quyết định thu hồi Giấy phép thành lập Văn phòng đại diện của Cơ quan cấp Giấy phép (đối với trường hợp quy định tại Khoản 5 Điều 35 Nghị định 07/2016/NĐ-CP)
+- 01 Bản chính Danh sách chủ nợ và số nợ chưa thanh toán, gồm cả nợ thuế và nợ tiền đóng bảo hiểm xã hội
+- 01 Bản chính Danh sách người lao động và quyền lợi tương ứng hiện hành của người lao động
+- 01 Bản chính Bản chính Giấy phép thành lập Văn phòng đại diện

@@ -1,0 +1,78 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003089
+Số quyết định:
+3727/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức kiểm định có nhu cầu bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định:
+- Đối với chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Khoa học và Công nghệ hoặc giám định chất lượng sản phẩm, hàng hóa tổng hợp đa ngành thuộc trách nhiệm quản lý từ hai bộ quản lý ngành, lĩnh vực trở lên, hồ sơ đăng ký gửi về Bộ Khoa học và Công nghệ (Tổng cục Tiêu chuẩn Đo lường Chất lượng – Cơ quan tiếp nhận hồ sơ).
+- Đối với chất lượng sản phẩm, hàng hóa chuyên ngành thuộc trách nhiệm quản lý nhà nước của một bộ quản lý ngành, lĩnh vực theo chức năng, nhiệm vụ quyền hạn được phân công, hồ sơ đăng ký gửi về Bộ, quản lý ngành, lĩnh vực (Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công).
+Bước 2: Xử lý hồ sơ
+Cơ quan tiếp nhận hồ sơ xem xét, thẩm định theo quy định:
+- Trường hợp hồ sơ không đầy đủ theo quy định, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức giám định sửa đổi, bổ sung.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức giám định.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Cơ quan tiếp nhận hồ sơ hoặc theo đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức giám định sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức giám định.|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức giám định sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức giám định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký bổ sung, sửa đổi hoạt động giám định; ([ĐƠN ĐĂNG KÝ BỔ SUNG, SỬA ĐỔI HOẠT ĐỘNG GIÁM ĐỊNH.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe86ff0ad3b3a4c'))
+ - Danh sách giám định viên bổ sung, sửa đổi và các chứng chỉ, tài liệu liên quan đối với mỗi giám định viên gồm:
+- 01 Bản sao Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động;
+- 01 Bản sao bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 13 Nghị định 107/2016/NĐ-CP và tài liệu chứng minh kinh nghiệm giám định chất lượng sản phẩm, hàng hóa của giám định viên bổ sung, thay đổi ;
+- 01 Bản chính - Tài liệu chứng minh năng lực hoạt động giám định sửa đổi, bổ sung đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc các tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành:
+- 01 Bản sao + Bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận đối với trường hợp tổ chức giám định đã được tổ chức công nhận quy định tại Điều 21 Nghị định 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP;
+- 01 Bản sao + Trường hợp tổ chức giám định đã được tổ chức công nhận quy định tại Điều 21 Nghị định 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP công nhận nhưng có phạm vi đăng ký hoạt động rộng hơn phạm vi được công nhận, tổ chức giám định nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận và các tài liệu, quy trình giám định, các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 13 Nghị định 107/2016/NĐ-CP đối với phạm vi chưa được công nhận.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động giám định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|132/2008/NĐ-CP|Nghị định 132/2008/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa|31-12-2008|Chính phủ|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP-Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành|09-11-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức giám định đã được cấp Giấy chứng nhận đăng ký lĩnh vực hoạt động giám định còn hiệu lực;
+- Có ít nhất 02 giám định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) tương ứng với lĩnh vực giám định đăng ký bổ sung, đáp ứng điều kiện:
++ Có trình độ tốt nghiệp cao đẳng trở lên và chuyên môn phù hợp đối với sản phẩm, hàng hóa giám định;
++ Được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành;
++ Có kinh nghiệm ít nhất 02 năm làm công tác giám định chất lượng sản phẩm, hàng hóa.
+- Tổ chức giám định đã được cấp Giấy chứng nhận đăng ký lĩnh vực hoạt động giám định còn hiệu lực;
+- Có ít nhất 02 giám định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) tương ứng với lĩnh vực giám định đăng ký bổ sung, đáp ứng điều kiện:
++ Có trình độ tốt nghiệp cao đẳng trở lên và chuyên môn phù hợp đối với sản phẩm, hàng hóa giám định;
++ Được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành;
++ Có kinh nghiệm ít nhất 02 năm làm công tác giám định chất lượng sản phẩm, hàng hóa.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

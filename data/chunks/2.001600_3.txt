@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày||Qua bưu điện;|
+|Trực tuyến|5 Ngày||Qua mạng internet;|
+|Dịch vụ bưu chính|5 Ngày||Nộp trực tiếp tại Cục Kỹ thuật an toàn và Môi trường công nghiệp.|

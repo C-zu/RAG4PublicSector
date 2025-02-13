@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp Giấy chứng nhận hoạt động lần đầu cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Khoa học và Công nghệ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận hoạt động văn phòng đại diện/chi nhánh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2014/NĐ-CP|Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật khoa học và công nghệ|27-01-2014|Chính phủ|
+|29/2013/QH13|Luật 29/2013/QH13|18-06-2013|Quốc Hội|
+|03/2014/TT-BKHCN|Thông tư 03/2014/TT-BKHCN-Hướng dẫn điều kiện thành lập và đăng ký hoạt động của tổ chức khoa học và công nghệ, văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ|31-03-2014|Bộ Khoa học và Công nghệ|
+|298/2016/TT-BTC|Thông tư 298/2016/TT-BTC- Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động về khoa học, công nghệ|15-11-2016|Bộ Tài chính|
+|15/2023/TT-BKHCN|Thông tư số 15/2023/TT-BKHCN - Sửa đổi, bổ sung một số điều của Thông tư số 32/2011/TT-BKHCN và Thông tư số 03/2014/TT-BKHCN|26-07-2023|Bộ Khoa học và Công nghệ|

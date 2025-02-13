@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ thiết kế, dự toán công trình lâm sinh (đối với công trình lâm sinh thuộc dự án do Chủ tịch UBND cấp huyện, UBND cấp xã quyết định đầu tư)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|23 Ngày||Trong thời hạn 23 ngày làm việc|
+|Dịch vụ bưu chính|23 Ngày||Trong thời hạn 23 ngày làm việc|

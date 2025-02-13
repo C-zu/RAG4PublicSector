@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đăng ký nghiên cứu sau tiến sĩ tại Việt Nam do Quỹ Phát triển khoa học và công nghệ Quốc gia hỗ trợ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Thời gian xử lý và thông báo kết quả xem xét hồ sơ đề nghị hỗ trợ của Quỹ tối đa là ba mươi (30) ngày làm việc kể từ khi Quỹ nhận được hồ sơ đăng ký.|
+|Dịch vụ bưu chính|30 Ngày làm việc||Thời gian xử lý và thông báo kết quả xem xét hồ sơ đề nghị hỗ trợ của Quỹ tối đa là ba mươi (30) ngày làm việc kể từ khi Quỹ nhận được hồ sơ đăng ký.|

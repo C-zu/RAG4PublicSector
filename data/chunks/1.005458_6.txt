@@ -1,0 +1,28 @@
+Tên thủ tục: Thủ tục huỷ tờ khai hải quan
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Các trường hợp huỷ tờ khai:
+a) Quá thời hạn 15 ngày kể từ ngày đăng ký tờ khai, hàng hóa được miễn kiểm tra thực tế nhưng không có hàng nhập khẩu đến cửa khẩu nhập hoặc hàng xuất khẩu chưa đưa vào khu vực giám sát hải quan tại cửa khẩu xuất;
+b) Quá thời hạn 15 ngày kể từ ngày đăng ký tờ khai mà người khai hải quan không xuất trình hồ sơ hải quan trong trường hợp phải xuất trình hồ sơ hải quan để cơ quan hải quan kiểm tra;
+c) Quá thời hạn 15 ngày kể từ ngày đăng ký tờ khai mà người khai hải quan chưa xuất trình hàng hóa xuất khẩu, nhập khẩu phải kiểm tra thực tế để cơ quan hải quan kiểm tra;
+d) Các trường hợp hủy tờ khai theo yêu cầu của người khai hải quan:
+d.1) Tờ khai hải quan đã được đăng ký nhưng chưa được thông quan do Hệ thống xử lý dữ liệu điện tử hải quan có sự cố;
+d.2) Khai nhiều tờ khai cho cùng một lô hàng xuất khẩu, nhập khẩu (khai trùng thông tin tờ khai);
+d.3) Tờ khai hàng hóa xuất khẩu đã có hàng hóa đưa vào khu vực giám sát hải quan nhưng thực tế không xuất khẩu;
+d.4) Tờ khai hàng hóa nhập khẩu đã được đăng ký, nhưng thực tế hàng hóa không nhập khẩu hoặc hàng hóa chưa đưa qua khu vực giám sát;
+d.5) Khai sai các chỉ tiêu thông tin không được khai bổ sung quy định tại điểm 3 Phụ lục II Thông tư số 38/2015/TT-BTC.
+Các trường hợp huỷ tờ khai:
+a) Quá thời hạn 15 ngày kể từ ngày đăng ký tờ khai, hàng hóa được miễn kiểm tra thực tế nhưng không có hàng nhập khẩu đến cửa khẩu nhập hoặc hàng xuất khẩu chưa đưa vào khu vực giám sát hải quan tại cửa khẩu xuất;
+b) Quá thời hạn 15 ngày kể từ ngày đăng ký tờ khai mà người khai hải quan không xuất trình hồ sơ hải quan trong trường hợp phải xuất trình hồ sơ hải quan để cơ quan hải quan kiểm tra;
+c) Quá thời hạn 15 ngày kể từ ngày đăng ký tờ khai mà người khai hải quan chưa xuất trình hàng hóa xuất khẩu, nhập khẩu phải kiểm tra thực tế để cơ quan hải quan kiểm tra;
+d) Các trường hợp hủy tờ khai theo yêu cầu của người khai hải quan:
+d.1) Tờ khai hải quan đã được đăng ký nhưng chưa được thông quan do Hệ thống xử lý dữ liệu điện tử hải quan có sự cố;
+d.2) Khai nhiều tờ khai cho cùng một lô hàng xuất khẩu, nhập khẩu (khai trùng thông tin tờ khai);
+d.3) Tờ khai hàng hóa xuất khẩu đã có hàng hóa đưa vào khu vực giám sát hải quan nhưng thực tế không xuất khẩu;
+d.4) Tờ khai hàng hóa nhập khẩu đã được đăng ký, nhưng thực tế hàng hóa không nhập khẩu hoặc hàng hóa chưa đưa qua khu vực giám sát;
+d.5) Khai sai các chỉ tiêu thông tin không được khai bổ sung quy định tại điểm 3 Phụ lục II Thông tư số 38/2015/TT-BTC.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

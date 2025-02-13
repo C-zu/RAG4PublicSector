@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký xét tuyển trình độ đại học, trình độ cao đẳng ngành giáo dục mầm non
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Theo Kế hoạch tuyển sinh hàng năm||*) Đối tượng xét tuyển thẳng: Thực hiện đăng ký xét tuyển trực tuyến trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia) hoặc trực tiếp tại cơ sở đào tạo. *) Đối tượng xét sớm: Thực hiện đăng ký xét tuyển trực tuyến trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia) hoặc trực tiếp tại cơ sở đào tạo. *) Đối tượng xét tuyển theo kế hoạch chung: Thực hiện đăng ký xét tuyển trực tuyến trên hệ thống (qua Cổng thông tin tuyển sinh của Bộ GDĐT hoặc qua Cổng dịch vụ công quốc gia).|

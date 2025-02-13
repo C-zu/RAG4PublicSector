@@ -1,0 +1,72 @@
+Tên thủ tục: Đăng ký thành lập công ty TNHH một thành viên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp doanh nghiệp được chuyển đổi từ hộ kinh doanh có nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tham gia góp vốn, mua cổ phần, mua phần vốn góp thuộc trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư thì hồ sơ phải có
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài.
+
+
+Trường hợp đăng ký doanh nghiệp xã hội
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6660da1b3ab2e'">Phụ lục I-2.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9704e76affc20'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành
+- 01 Bản chính Cam kết thực hiện mục tiêu xã hội, môi trường (phải có chữ ký của thành viên là cá nhân; người đại diện theo pháp luật hoặc người đại diện theo ủy quyền đối với thành viên là tổ chức) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd926eadce7cfe2'">Phụ lục II-26.docx</a>)
+
+
+Trường hợp đăng ký doanh nghiệp đối với công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán
+- 01 Bản chính (i) Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed1651cc3ad053'">Phụ lục I-2.docx</a>)
+- 01 Bản chính (ii) Điều lệ công ty
+- 01 Bản sao (iii) Bản sao các giấy tờ sau đây: - Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp; - Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự; - Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe70767230a3702'">Phụ lục I-10.docx</a>)
+- 01 Bản sao (iv) Bản sao giấy phép thành lập và hoạt động hoặc bản sao văn bản chấp thuận của Ủy ban Chứng khoán Nhà nước
+
+
+Trường hợp đăng ký doanh nghiệp đối với tổ chức tín dụng
+- 01 Bản chính (i) Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd634ce92fcfcd2'">Phụ lục I-2.docx</a>)
+- 01 Bản chính (ii) Điều lệ công ty
+- 01 Bản sao (iii) Bản sao các giấy tờ sau đây: - Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp; - Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự; - Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd6096102410d4'">Phụ lục I-10.docx</a>)
+- 01 Bản sao (iv) Bản sao giấy phép hoặc văn bản chấp thuận do Ngân hàng Nhà nước Việt Nam cấp
+
+
+Trường hợp đăng ký thành lập doanh nghiệp trên cơ sở chuyển đổi từ hộ kinh doanh
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa71de82c1b3060'">Phụ lục I-2.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc15a69bd28ad98'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Bản chính Giấy chứng nhận đăng ký hộ kinh doanh
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế
+
+
+Trường hợp đăng ký thành lập doanh nghiệp xã hội trên cơ sở chuyển đổi từ cơ sở bảo trợ xã hội, quỹ xã hội, quỹ từ thiện
+- 01 Bản chính (i) Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd45162115e4c34'">Phụ lục I-2.docx</a>)
+- 01 Bản chính (ii) Điều lệ công ty
+- 01 Bản sao (iii) Bản sao các giấy tờ sau đây: - Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp; - Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4405161aa4247'">Phụ lục I-10.docx</a>)
+- 01 Bản chính (iv) Cam kết thực hiện mục tiêu xã hội, môi trường (phải có chữ ký của thành viên là cá nhân; người đại diện theo pháp luật hoặc người đại diện theo ủy quyền đối với thành viên là tổ chức) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea8a34ba59e9bd'">Phụ lục II-26.docx</a>)
+- 01 Bản chính (v) Quyết định cho phép chuyển đổi thành doanh nghiệp xã hội bằng văn bản của cơ quan có thẩm quyền đã cấp giấy phép thành lập cơ sở bảo trợ xã hội, quỹ xã hội, quỹ từ thiện
+- 01 Bản chính (vi) Giấy chứng nhận đăng ký thành lập đối với cơ sở bảo trợ xã hội, giấy phép thành lập và công nhận điều lệ quỹ đối với quỹ xã hội, quỹ từ thiện
+- 01 Bản sao (vii) Bản sao Giấy chứng nhận đăng ký thuế
+
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực.
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Đăng ký thành lập công ty TNHH một thành viên
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5815048600d48'">Phụ lục I-2.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea567e1b62bd61'">Phụ lục I-10.docx</a>)
+- 01 Bản sao Bản sao giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành

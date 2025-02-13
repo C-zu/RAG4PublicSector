@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004146
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy xác nhận đăng ký nhập khẩu xuất bản phẩm để kinh doanh
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Việc nhập khẩu xuất bản phẩm để kinh doanh phải do cơ sở nhập khẩu xuất bản phẩm thực hiện.
+- Trước khi nhập khẩu, cơ sở nhập khẩu xuất bản phẩm phải lập hồ sơ đăng ký nhập khẩu gửi Cục Xuất bản, In và Phát hành và nộp lệ phí theo quy định của pháp luật.
+- Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ đăng ký nhập khẩu xuất bản phẩm, Cục Xuất bản, In và Phát hành xác nhận đăng ký bằng văn bản; trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)  [214-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda61c2a51bbfb2')|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)  [214-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe29a6c58991114')|- Nộp qua hệ thống dịch vụ công trực tuyến: Cổng thông tin Một cửa quốc gia (https://vnsw.gov.vn).|
+|Dịch vụ bưu chính|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (theo quy định tại Thông tư  [214-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe678e48e7e8a58')|- Nộp qua dịch vụ bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, phường Cửa Đông, quận Hoàn Kiếm, Hà Nội).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký nhập khẩu xuất bản phẩm ([Mẫu số 26- Đơn đăng ký NKXBP để KD.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd766a923b1e176'))
+- 03 Bản chính Ba (03) bản danh mục xuất bản phẩm đăng ký nhập khẩu trong trường hợp nộp trực tiếp hoặc nộp qua dịch vụ bưu chính; ([Mẫu số 27- Danh mục XBPNK để KD.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedebadde8473fd'))
+- 01 Bản chính một (01) bản (tệp) danh mục xuất bản phẩm đăng ký nhập khẩu trong trường hợp nộp trực tuyến trên Cổng thông tin một cửa quốc gia. ([Mẫu số 27- Danh mục XBPNK để KD.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7b1eb347b141c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền:
+Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS:
+Cục Xuất bản, In và Phát hành Số 10 Đường Thành, Cửa Đông, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký nhập khẩu xuất bản phẩm để kinh doanh.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật 19/2012/QH13|20-11-2012|Quốc Hội|
+|195/2013/NĐ-CP|Nghị định 195/2013/NĐ-CP|21-11-2013|Chính phủ|
+|214/2016/TT-BTC|Thông tư 214/2016/TT-BTC|07-08-2012|Bộ Tài chính|
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

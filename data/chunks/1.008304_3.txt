@@ -1,0 +1,7 @@
+Tên thủ tục: Xử lý mất, cháy, hỏng hoá đơn đặt in đã mua của cơ quan thuế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||

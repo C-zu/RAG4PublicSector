@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố hợp quy dịch vụ bưu chính công ích
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản công bố hợp quy (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddfad31e500386'">Mẫu số 01.docx</a>)
+- 01 Bản chính, 01 Bản sao Báo cáo tự đánh giá dựa trên kết quả tự thực hiện của doanh nghiệp

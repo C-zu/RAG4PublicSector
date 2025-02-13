@@ -1,0 +1,18 @@
+Tên thủ tục: Đăng ký phương tiện lần đầu đối với phương tiện chưa khai thác trên đường thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp để lưu giữ tại cơ quan đăng ký phương tiện:
+- 01 Bản chính Đơn đề nghị đăng ký phương tiện thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe868c476c021ee'">Mẫu26.docx</a>)
+- 01 Bản chính 02 (hai) ảnh có kích thước 10 x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi;
+- 01 Bản chính Biên lai nộp lệ phí trước bạ (bản chính) đối với phương tiện thuộc diện phải nộp lệ phí trước bạ;
+- 01 Bản chính Bản kê khai điều kiện an toàn của phương tiện thủy nội địa theo mẫu này đối với phương tiện không thuộc diện đăng kiểm.
+
+
+Xuất trình bản chính các loại giấy tờ sau đây để cơ quan đăng ký phương tiện kiểm tra:
+- 01 Bản chính Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm;
+- 01 Bản chính Giấy phép hoặc tờ khai phương tiện nhập khẩu theo quy định của pháp luật đối với phương tiện được nhập khẩu;
+- 01 Bản chính Hợp đồng mua bán phương tiện hoặc hợp đồng đóng mới phương tiện đối với phương tiện thuộc diện đăng kiểm. (Trường hợp chủ phương tiện là cơ sở đóng mới, hoán cải, sửa chữa và phục hồi phương tiện được phép hoạt động theo quy định của pháp luật khi thực hiện đăng ký không phải xuất trình Hợp đồng mua bán phương tiện hoặc hợp đồng đóng mới phương tiện đối với phương tiện thuộc diện đăng kiểm).
+- 01 Bản chính Giấy tờ chứng minh được phép hoạt động và có trụ sở tại Việt Nam đối với tổ chức nước ngoài hoặc giấy tờ chứng minh được phép cư trú tại Việt Nam đối với cá nhân nước ngoài;
+- 01 Bản chính Hợp đồng cho thuê tài chính đối với trường hợp tổ chức cho thuê tài chính đề nghị được đăng ký phương tiện tại nơi đăng ký hộ khẩu thường trú hoặc tạm trú của bên thuê.

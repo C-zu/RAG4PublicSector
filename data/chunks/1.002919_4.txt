@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục biên phòng điện tử cửa khẩu biên giới đất liền đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ nộp
+- 01 Bản chính Bản khai đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea1950880e83b8'">Bản khai đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh.doc</a>)
+
+
+Thành phần hồ sơ xuất trình
+- 01 Bản chính Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của người điều khiển, người đi trên phương tiện và giấy tờ của phương tiện

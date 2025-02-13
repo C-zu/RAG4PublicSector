@@ -1,0 +1,9 @@
+Tên thủ tục: Chấp thuận cơ sở đào tạo Thẩm tra viên an toàn giao thông đường bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị chấp thuận cơ sở đào tạo thẩm tra viên an toàn giao thông đường bộ theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefd31b5f116b0b'">MẪU CÔNG VĂN ĐỀ NGHỊ CHẤP THUẬN CƠ SỞ ĐÀO TẠO THẨM TRA VIÊN ATGT ĐƯỜNG BỘ.docx</a>)
+- 01 Bản chính Bảng kê khai về cơ sở vật chất;
+- 01 Bản chính Danh sách giảng viên, trong đó có kê khai về trình độ chuyên môn, kinh nghiệm thực tế trong hoạt động nghề nghiệp.

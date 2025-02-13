@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục thẩm định nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND cấp huyện
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002662
+Số quyết định:
+835/QĐ-BXD
+Tên thủ tục:
+Thủ tục thẩm định nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND cấp huyện
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc

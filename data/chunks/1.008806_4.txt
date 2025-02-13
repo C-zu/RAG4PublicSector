@@ -1,0 +1,9 @@
+Tên thủ tục: Chấp thuận thiết kế và phương án tổ chức thi công nút giao đấu nối đường nhánh vào đường tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị xem xét chấp thuận thiết kế kỹ thuật và phương án tổ chức giao thông nút giao, trong đó cam kết tự di chuyển hoặc cải tạo nút giao và không đòi bồi thường khi ngành đường bộ có yêu cầu di chuyển hoặc cải tạo (bản chính) theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9461de58a915c'">DON.5.docx</a>)
+- 01 Bản sao + Văn bản chấp thuận chủ trương đầu tư hoặc quyết định cho phép chuẩn bị đầu tư xây dựng đường nhánh của cấp có thẩm quyền (bản sao có xác nhận của chủ đầu tư);
+- 01 Bản chính + Hồ sơ thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao (có biện pháp tổ chức thi công bảo đảm an toàn giao thông) do tổ chức tư vấn được phép hành nghề trong lĩnh vực công trình đường bộ lập.

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp mới giấy chứng nhận đủ điều kiện xét nghiệm khẳng định các trường hợp HIV dương tính (155/2018/NĐ-CP) (không có trong 745 -> bãi bỏ TTHC)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày||40 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp|
+|Dịch vụ bưu chính|40 Ngày||40 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp|

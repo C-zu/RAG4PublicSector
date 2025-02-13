@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Ban Quản lý
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư hoặc cơ quan nhà nước có thẩm quyền nộp hồ sơ theo quy định tại Khoản 1 Điều 44 Nghị định số 31/2021/NĐ-CP cho Ban quản lý.
+- Bước 2: Ban Quản lý gửi hồ sơ cho cơ quan nhà nước có thẩm quyền theo quy định tại điểm b khoản 7 Điều 33 của Nghị định này để lấy ý kiến về những nội dung điều chỉnh dự án đầu tư;
+- Bước 3: Cơ quan được lấy ý kiến có ý kiến về nội dung điều chỉnh dự án thuộc phạm vi quản lý nhà nước của cơ quan đó;
+- Bước 4: Ban quản lý quyết định chấp thuận điều chỉnh chủ trương đầu tư. Quyết định chấp thuận điều chỉnh chủ trương đầu tư được gửi cho nhà đầu tư, cơ quan có liên quan đến việc thực hiện dự án đầu tư.

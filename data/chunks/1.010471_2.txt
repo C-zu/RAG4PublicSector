@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp giấy phép di dời đối với công trình cấp III, cấp IV (công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ, nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho công chức xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thẩm định thì ban hành Văn bản thông báo hồ sơ không đủ điều kiện thẩm định chuyển kèm hồ sơ sang Trung tâm Hành chính công để trả kết quả theo bước B9.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng Văn bản cho chủ đầu tư bổ sung, giải trình:
++ Nếu bổ sung giải trình đầy đủ thì dự thảo Giấy phép xây dựng (trong quá trình thẩm định hồ sơ và tham mưu dự thảo giấy phép nếu xét thấy cần thiết phải kiểm tra thực địa hoặc lấy ý kiến các cơ quan liên quan thì tham mưu tổ chức kiểm tra thực địa, văn bản lấy ý kiến các cơ quan). Sau khi có kết quả thực hiện các bước tiếp theo.
++ Nếu không bổ sung, giải trình được thì ban hành Văn bản thông báo hồ sơ không đủ điều kiện thẩm định chuyển kèm hồ sơ sang Trung tâm Hành chính công để trả kết quả theo bước B9.
+- Trường hợp, hồ sơ đáp ứng yêu cầu thì dự thảo Giấy phép xây dựng (trong quá trình thẩm định hồ sơ và tham mưu dự thảo giấy phép nếu xét thấy cần thiết phải kiểm tra thực địa hoặc lấy ý kiến các cơ quan liên quan thì tham mưu tổ chức kiểm tra thực địa, văn bản lấy ý kiến các cơ quan). Sau khi có kết quả thực hiện các bước tiếp theo.
+B5	Trên cơ sở kết quả thẩm định hồ sơ, kiểm tra thực địa; ý kiến của các cơ quan liên quan (nếu có):
++ Nếu đủ điều kiện cấp giấy phép thì dự thảo Giấy phép xây dựng trình Lãnh đạo phòng ký nháy.
++ Nếu không đủ điều kiện cấp giấy phép thì dự thảo Văn bản thông báo không đủ điều kiện cấp giấy phép xây dựng trình Lãnh đạo phòng ký nháy.
+B6	Xem xét kết quả giải quyết thủ tục hành chính, ký nháy trên văn bản.
+B7	Phê duyệt kết quả giải quyết thủ tục hành chính.
+B8	Phát hành văn bản và trả kết quả cho Trung tâm hành chính công cấp huyện:
+- Đóng dấu UBND cấp huyện vào kết quả giải quyết thủ tục hành chính.
+- Đóng dấu đã thẩm định của phòng chuyên môn vào hồ sơ (đối với trường hợp được cấp giấy phép).
+B9	Trả kết quả cho tổ chức cá nhân

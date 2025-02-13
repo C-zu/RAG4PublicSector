@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp Giấy phép điều chỉnh Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke (do cơ quan quản lý nhà nước về văn hóa cấp huyện cấp)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000831
+Số quyết định:
+3684/QĐ-BVHTTDL
+Tên thủ tục:
+Thủ tục cấp Giấy phép điều chỉnh Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke (do cơ quan quản lý nhà nước về văn hóa cấp huyện cấp)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Văn hóa

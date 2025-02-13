@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký chuyển giao công nghệ (trừ trường hợp thuộc thẩm quyền của Bộ Khoa học và Công nghệ)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân (bên nhận công nghệ trong trường hợp chuyển giao công nghệ từ nước ngoài vào Việt Nam, chuyển giao công nghệ trong nước hoặc bên giao công nghệ trong trường hợp chuyển giao công nghệ từ Việt Nam ra nước ngoài) thay mặt các bên gửi hồ sơ đăng ký chuyển giao công nghệ đến Sở Khoa học và Công nghệ đối với:
++ Chuyển giao công nghệ của dự án đầu tư trên địa bàn quản lý thuộc thẩm quyền quyết định chủ trương đầu tư của Hội đồng nhân dân các cấp, Ủy ban nhân dân các cấp, Ban Quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế theo quy định của pháp luật về đầu tư, pháp luật về đầu tư công; thuộc diện cấp giấy chứng nhận đăng ký đầu tư không thuộc trường hợp phải có quyết định chủ trương đầu tư của cơ quan quản lý nhà nước có thẩm quyền;
++ Trường hợp tự nguyện đăng ký chuyển giao công nghệ (nơi bên đăng ký chuyển giao công nghệ đặt trụ sở chính trên địa bàn quản lý của Sở Khoa học và Công nghệ).
+- Sở Khoa học và Công nghệ xem xét hồ sơ:
++ Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Khoa học và Công nghệ có văn bản đề nghị tổ chức, cá nhân bổ sung hồ sơ theo quy định;
++ Trường hợp hồ sơ đáp ứng yêu cầu theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Sở Khoa học và Công nghệ cấp Giấy chứng nhận đăng ký chuyển giao công nghệ.
++ Trường hợp hồ sơ có nội dung cần phải sửa đổi, bổ sung, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ theo quy định, Sở Khoa học và Công nghệ có văn bản đề nghị bên đăng ký chuyển giao công nghệ sửa đổi, bổ sung;
++ Trường hợp từ chối cấp Giấy chứng nhận đăng ký chuyển giao công nghệ, Sở Khoa học và Công nghệ có văn bản trả lời và nêu rõ lý do.

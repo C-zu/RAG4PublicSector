@@ -1,0 +1,7 @@
+Tên thủ tục: Khai báo tạm trú cho người nước ngoài tại Việt Nam qua Trang thông tin điện tử
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|24 giờ/07 ngày||Trực tuyến qua Trang thông tin điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|

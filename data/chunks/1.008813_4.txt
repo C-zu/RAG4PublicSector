@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy chứng nhận tên định danh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp Giấy chứng nhận tên định danh
+- 01 Bản chính Bản khai Cấp tên định danh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f933d2c89c33b00'">Bản khai đăng ký tên định danh.docx</a>)
+- 01 Bản sao Bản sao có chứng thực Quyết định thành lập của tổ chức hoặc giấy chứng nhận đăng ký doanh nghiệp
+- 01 Bản sao Bản sao có chứng thực chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu
+- 01 Bản sao Các giấy tờ khác có liên quan tới quyền sở hữu trí tuệ, đăng ký thương hiệu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb81c27c28e87a'">Giấy ủy quyền.docx</a>)

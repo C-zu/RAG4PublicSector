@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|18 Ngày|Phí : 600.000đ/lần sát hạch lý thuyết Đồng Phí, lệ phí  Phí : 250.000 đồng/lần sát hạch thực hành Đồng Phí, lệ phí|Trong thời hạn 18 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định hồ sơ, tổ chức sát hạch, quyết định cấp Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay hoặc thông báo bằng văn bản lý do từ chối cấp Giấy phép cho tổ chức đề nghị.|
+|Trực tuyến|18 Ngày|Phí : 250.000đồng/lần Đồng Sát hạch thực hành  Phí : 600.000đồng/lần Đồng Sát hạch lý thuyết|Trong thời hạn 18 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định hồ sơ, tổ chức sát hạch, quyết định cấp Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay hoặc thông báo bằng văn bản lý do từ chối cấp Giấy phép cho tổ chức đề nghị.|
+|Dịch vụ bưu chính|18 Ngày|Phí : 250.000/lần sát hạch thực hành Đồng Phí, lệ phí  Phí : 600.000đ/lần sát hạch lý thuyết Đồng Phí, lệ phí|Trong thời hạn 18 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định hồ sơ, tổ chức sát hạch, quyết định cấp Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay hoặc thông báo bằng văn bản lý do từ chối cấp Giấy phép cho tổ chức đề nghị.|

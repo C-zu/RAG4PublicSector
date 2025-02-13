@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn số đăng ký lưu hành chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị đăng ký gia hạn số đăng ký lưu hành theo Mẫu số 06 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1f41cb1889cab'">Mau 06 MTYT 5083.docx</a>)
+- 01 Bản sao 2. Giấy tờ về tư cách pháp nhân của cơ sở đăng ký, cơ sở sản xuất;
+- 01 Bản chính 3. Giấy ủy quyền thực hiện việc đăng ký lưu hành, trừ trường hợp quy định tại điểm a khoản 1 Điều 20 Nghị định số 91/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecb4c814f81938'">Phu luc VII MTYT 5083.docx</a>)
+- 01 Bản chính 4. Báo cáo quá trình lưu hành chế phẩm theo mẫu quy định tại Phụ lục VI ban hành kèm theo Nghị định số 155/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feac12a271af2b2'">Phu luc VI MTYT 5083.docx</a>)

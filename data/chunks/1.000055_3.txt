@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững của chủ rừng là tổ chức
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|28 Ngày||28 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|28 Ngày||28 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|28 Ngày||28 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|

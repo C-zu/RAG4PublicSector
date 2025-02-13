@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy phép tài nguyên nước (TTHC cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép: Mẫu 09 Nghị định số 02/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0188c63e8ef90'">Mau 09.doc</a>)
+- 01 Bản chính Tài liệu chứng minh lý do đề nghị cấp lại giấy phép.

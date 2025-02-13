@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận tên định danh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ Tài chính|01 ngày kề từ khi nộp Hồ sơ theo quy định.|
+|Trực tuyến|01 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ Tài chính|01 ngày kề từ khi nộp Hồ sơ theo quy định.|
+|Dịch vụ bưu chính|01 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ Tài chính|01 ngày kề từ khi nộp Hồ sơ theo quy định.|

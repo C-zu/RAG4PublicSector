@@ -1,0 +1,12 @@
+Tên thủ tục: Cho phép mua nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần và tiền chất dùng làm thuốc thuộc thẩm quyền của Bộ Y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị mua nguyên liệu nộp hồ sơ tại Bộ Y tế (Cục Quản lý dược - Bộ Y tế).
+Bước 2: Khi nhận hồ sơ đầy đủ, hợp lệ, Bộ Y tế cấp cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP.
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tế ký duyệt đơn hàng mua trong vòng 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ.
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tếcó văn bản yêu cầu sửa đổi, bổ sung hồ sơ trong thời hạn 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Bước 3: Sau khi cơ sở nộp hồ sơ sửa đổi, bổ sung, Bộ Y tế cấp cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tế ký duyệt đơn hàng mua trong vòng 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ.
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tếcó văn bản yêu cầu sửa đổi, bổ sung hồ sơ trong thời hạn 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Trong thời hạn 06 tháng, kể từ ngày Bộ Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 12 tháng kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị

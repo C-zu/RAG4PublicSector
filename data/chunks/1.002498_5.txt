@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp giấy phép xây dựng mới công trình cấp đặc biệt (bao gồm giấy phép xây dựng mới, giấy phép sửa chữa, cải tạo, giấy phép di dời công trình)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Xây dựng
+Cơ quan có thẩm quyền:
+Bộ Xây dựng
+Địa chỉ tiếp nhận HS:
+Bộ Xây dựng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ 1
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Xây dựng|18-06-2014||
+|59/2015/NĐ-CP|Về quản lý dự án đầu tư xây dựng|18-06-2015|Chính phủ|
+|15/2016/TT-BXD|Hướng dẫn về cấp giấy phép xây dựng|30-06-2016|Bộ Xây dựng|

@@ -1,0 +1,9 @@
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ Thực hiện theo một trong các hình thức sau: - Nộp hồ sơ qua cổng thông tin Dịch vụ công trực tuyến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ qua đường bưu điện đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Ngân hàng nhận ký quỹ.|
+|Trực tuyến|10 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ Thực hiện theo một trong các hình thức sau: - Nộp hồ sơ qua cổng thông tin Dịch vụ công trực tuyến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ qua đường bưu điện đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Ngân hàng nhận ký quỹ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ Thực hiện theo một trong các hình thức sau: - Nộp hồ sơ qua cổng thông tin Dịch vụ công trực tuyến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ qua đường bưu điện đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Ngân hàng nhận ký quỹ.|

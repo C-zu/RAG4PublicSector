@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải đối với hoa tiêu hàng hải chuyển vùng hoạt động; hoa tiêu hàng hải dẫn tàu trên tuyến mới trong vùng hoạt động hoa tiêu hàng hải
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân nộp 01 (một) bộ hồ sơ trực tiếp tại Cục Hàng hải Việt Nam hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến.
+b) Giải quyết TTHC:
+- Cục Hàng hải Việt Nam nhận hồ sơ, kiểm tra thành phần, số lượng hồ sơ theo quy định, vào sổ và hẹn trả kết quả đúng quy định:
++ Trường hợp nộp trực tiếp, nếu hồ sơ không đầy đủ theo quy định thì trả lại hồ sơ và hướng dẫn cho tổ chức, cá nhân hoàn thiện lại hồ sơ theo quy định;
++ Trong trường hợp nhận hồ sơ qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến, nếu hồ sơ không đầy đủ theo quy định thì Cục Hàng hải Việt Nam thông báo bằng văn bản chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận được hồ sơ;
++ Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ theo quy định, Cục Hàng hải Việt Nam có văn bản gửi Cảng vụ hàng hải khu vực cầu xác nhận về lượt dẫn tàu. Chậm nhất 03 (ba) ngày làm việc, kể từ ngày nhận được văn bản của Cục Hàng hải Việt Nam, Cảng vụ hàng hải khu vực có văn bản xác nhận gửi Cục Hàng hải Việt Nam.
+- Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận được xác nhận của Cảng vụ hàng hải khu vực, Cục Hàng hải Việt Nam cấp GCNVHĐHTHH theo mẫu quy định. Trường hợp không đủ điều kiện cấp GCNVHĐHTHH theo quy định, Cục Hàng hải Việt Nam phải trả lời bằng văn bản và nêu rõ lý do.

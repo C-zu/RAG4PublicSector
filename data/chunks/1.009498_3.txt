@@ -1,0 +1,8 @@
+Tên thủ tục: Giải thể quỹ thành viên, quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : theo TT 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcabec90a327780'">272-2016-TT-BTC.pdf</a>|+ Bước 4: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ. + Bước 6: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể công ty đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5383a767c62a1'">272-2016-TT-BTC.pdf</a>|+ Bước 4: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ. + Bước 6: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể công ty đầy đủ, hợp lệ.|

@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký cung cấp dịch vụ của công ty chứng khoán
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty chứng khoán gửi hồ sơ đăng ký cung cấp dịch vụ của công ty chứng khoán đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ,hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+Bước 4: Trường hợp đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến, trong thời hạn 07 (bẩy) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN có ý kiến bằng văn bản gửi công ty chứng khoán về các vấn đề liên quan đến cơ sở vật chất.
+Bước 5: Trong thời hạn 07 (bẩy) ngày kể từ ngày công ty chứng khoán hoàn thiện cơ sở vật chất và có thông báo cho UBCKNN, UBCKNN kiểm tra cơ sở vật chất tại địa điểm công ty chứng khoán trước khi chấp thuận.
+Bước 6: Trong thời hạn 07 (bẩy) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký cung cấp dịch vụ đầy đủ, hợp lệ và có kết quả kiểm tra cơ sở vật chất tại bước 5, UBCKNN có văn bản chấp thuận; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.

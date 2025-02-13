@@ -1,0 +1,10 @@
+Tên thủ tục: Khai bổ sung hồ sơ khai thuế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính ++ Tờ khai bổ sung mẫu số 01/KHBS (trừ trường hợp khai bổ sung không làm thay đổi nghĩa vụ thuế); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbaefeed4845e2'">Mẫu 01.KHBS.docx</a>)
+- 01 Bản chính, 01 Bản sao ++ Bản giải trình khai bổ sung mẫu số 01-1/KHBS; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7703ffb58bff8'">Mẫu 01.1.KHBS.docx</a>)
+- 01 Bản chính ++ Hồ sơ khai thuế của kỳ tính thuế có sai sót đã được bổ sung
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ)

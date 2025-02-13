@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004269
+Số quyết định:
+3873/QĐ-BTNMT
+Tên thủ tục:
+Thủ tục cung cấp dữ liệu đất đai (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai
+Trình tự thực hiện:
+- Tổ chức, cá nhân có nhu cầu khai thác dữ liệu đất đai nộp phiếu yêu cầu hoặc gửi văn bản yêu cầu đến Văn phòng đăng ký đất đai hoặc nộp trên môi trường điện tử qua Cổng dịch vụ công cấp tỉnh. Đối với địa phương chưa xây dựng cơ sở dữ liệu đất đai, Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp xã có trách nhiệm cung cấp dữ liệu đất đai từ hồ sơ địa chính theo phân cấp quản lý hồ sơ địa chính;
+- Khi nhận được phiếu yêu cầu, văn bản yêu cầu hợp lệ của tổ chức, cá nhân, cơ quan cung cấp dữ liệu đất đai thực hiện việc cung cấp dữ liệu cho tổ chức, cá nhân có yêu cầu khai thác dữ liệu. Cơ quan cung cấp dữ liệu đất đai tiếp nhận, xử lý và thông báo nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Trường hợp từ chối cung cấp dữ liệu thì phải có văn bản trả lời nêu rõ lý do;
+- Sau khi tổ chức, cá nhân thực hiện xong nghĩa vụ tài chính, cơ quan cung cấp dữ liệu đất đai thực hiện cung cấp dữ liệu đất đai theo yêu cầu. Đối với các trường hợp khai thác dữ liệu cần phải tổng hợp, xử lý trước khi cung cấp cho tổ chức, cá nhân thì phải thực hiện bằng hình thức hợp đồng theo quy định của Bộ luật dân sự giữa cơ quan cung cấp dữ liệu đất đai và tổ chức, cá nhân có nhu cầu khai thác dữ liệu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Phí : Đồng Thực hiện theo quy định pháp luật về phí, lệ phí và quy định của pháp luật hiện hành.|Cách thức thực hiện: - Nộp trực tiếp hoặc nộp trên môi trường điện tử qua Cổng dịch vụ công cấp tỉnh hoặc nộp trực tiếp đến Văn phòng đăng ký đất đai. Đối với địa phương chưa xây dựng cơ sở dữ liệu đất đai, Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp xã hoặc gửi qua đường công văn, fax, bưu điện, thư điện tử hoặc qua cổng thông tin đất đai. Thời hạn giải quyết - Trường hợp nhận được yêu cầu trước 15 giờ thì phải cung cấp ngay trong ngày; trường hợp nhận được yêu cầu sau 15 giờ thì cung cấp dữ liệu đất đai được thực hiện vào ngày làm việc tiếp theo; - Trường hợp yêu cầu cung cấp dữ liệu đất đai dưới hình thức tổng hợp thông tin thì thời hạn cung cấp dữ liệu đất đai được xác định theo thỏa thuận giữa cơ quan cung cấp dữ liệu đất đai và người có yêu cầu bằng hình thức hợp đồng. - Trường hợp từ chối cung cấp thông tin, dữ liệu thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu đề nghị cung cấp dữ liệu đất đai Mẫu số 01/PYC ([Mau so 01-PYC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd9692d1405582'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Văn phòng đăng ký đất đai
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Dữ liệu đất đai trên giấy hoặc thiết bị lưu trữ điện tử.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2014/NĐ -CP|Nghị định số 43/2014/NĐ -CP ngày 15 tháng 5 năm 2014 của Chính Phủ quy định chi tiết một số điều của luật Đất đai|01-07-2014|Bộ Tài nguyên và Môi trường|
+|luật đất đai năm 2013|luật đất đai năm 2013|01-07-2014|Quốc Hội|
+|34/2014/TT-BTNMT|Thông tư 34/2014/TT-BTNMT|30-06-2014||
+|14/2023/TT- BTNMT|Thông tư số|16-10-2023|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

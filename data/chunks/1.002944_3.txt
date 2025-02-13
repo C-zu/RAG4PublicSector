@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện sản xuất chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Phí : 300.000 Đồng|Trong ngày tiếp nhận hồ sơ|
+|Trực tuyến|1 Ngày làm việc|Phí : 300.000 Đồng|Trong ngày tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|1 Ngày làm việc|Phí : 300.000 Đồng|Trong ngày tiếp nhận hồ sơ|

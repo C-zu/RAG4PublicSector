@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép kiểm dịch thực vật nhập khẩu đối với vật thể trong Danh mục vật thể thuộc diện kiểm dịch thực vật phải phân tích nguy cơ dịch hại trước khi nhập khẩu vào Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy phép kiểm dịch thực vật nhập khẩu theo Phụ lục IV ban hành kèm theo Thông tư số 11/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8acd03571cfc4'">Phụ lục IV.docx</a>)
+- 01 Bản sao - Bản sao Hợp đồng thương mại, trừ trường hợp nhập khẩu cho mục đích nghiên cứu, khảo nghiệm, hợp tác quốc tế;
+- 01 Bản sao - Bản sao Giấy chứng nhận đầu tư của thương nhân (chỉ nộp khi nhập khẩu lần đầu).

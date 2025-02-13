@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục tặng thưởng Bằng khen của Thủ tướng Chính phủ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Đối với cá nhân:
+- 01 Bản chính - Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách cá nhân được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0f201686b2831'">Mẫu số 01.docx</a>)
+- 01 Bản chính - 02 báo cáo thành tích của cá nhân được đề nghị khen thưởng (mẫu số 03 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec7841d0f26743'">Mẫu số 03.docx</a>)
+- 01 Bản chính - Biên bản họp kèm kết quả bỏ phiếu kín của Hội đồng Thi đua - Khen thưởng của đơn vị có tỷ lệ phiếu bầu từ 80% trở lên, tính trên tổng số thành viên của Hội đồng đơn vị (nếu thành viên Hội đồng vắng mặt thì lấy ý kiến bằng văn bản). Trừ các trường hợp xét khen thưởng theo thủ tục đơn giản được thực hiện theo quy định tại Điều 85 của Luật Thi đua, khen thưởng.
+ - Đối với tập thể:
+- 01 Bản chính - Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách tập thể được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6e0733df90660'">Mẫu số 01.docx</a>)
+- 01 Bản chính - 02 báo cáo thành tích của tập thể được đề nghị khen thưởng (mẫu số 02 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8e44a913517be'">Mẫu số 02 (áp dụng đối với tập thể).docx</a>)
+- 01 Bản chính - Biên bản họp kèm kết quả bỏ phiếu kín của Hội đồng Thi đua - Khen thưởng đơn vị có tỷ lệ phiếu bầu từ 80% trở lên, tính trên tổng số thành viên của Hội đồng đơn vị (nếu thành viên Hội đồng vắng mặt thì lấy ý kiến bằng văn bản). Trừ các trường hợp xét khen thưởng theo thủ tục đơn giản được thực hiện theo quy định tại Điều 85 của Luật Thi đua, khen thưởng.

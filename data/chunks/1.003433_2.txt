@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp chứng chỉ hành nghề khám bệnh, chữa bệnh đối với người Việt Nam thuộc thẩm quyền của Bộ Y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Người đề nghị cấp chứng chỉ hành nghề gửi hồ sơ về Bộ Y tế;
+Bước 2:  Bộ Y tế tiếp nhận và gửi Phiếu tiếp nhận hồ sơ cho người đề nghị
+Bước 3: Trong thời hạn 20 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ Bộ Y tế sẽ xem xét thẩm định hồ sơ và có biên bản thẩm định, cụ thể :
+- Trường hợp hồ sơ hợp lệ, thì trong thời hạn 10 ngày làm việc, kể từ ngày có biên bản thẩm định, cơ quan tiếp nhận hồ sơ cấp chứng chỉ hành nghề cho đối tượng.
+- Trường hợp hồ sơ chưa hợp lệ thì trong thời hạn 05 ngày làm việc, kể từ ngày có biên bản thẩm định, cơ quan tiếp nhận hồ sơ phải có văn bản thông báo cho người đề nghị cấp chứng chỉ hành nghề để hoàn chỉnh hồ sơ. Văn bản thông báo phải ghi cụ thể những tài liệu cần bổ sung, nội dung cần sửa đổi.
+- Trường hợp không đủ điều kiện để cấp chứng chỉ hành nghề, Bộ Y tế sẽ có văn bản trả lời và nêu lý do.
+Bước 4 : Trả chứng chỉ hành nghề cho người đề nghị.

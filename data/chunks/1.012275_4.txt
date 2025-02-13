@@ -1,0 +1,19 @@
+Tên thủ tục: Đăng ký hành nghề
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Có thay đổi về người hành nghề trong quá trình hoạt động, bổ sung người hành nghề
+- 01 Bản chính Danh sách đăng ký hành nghề đã bổ sung theo Mẫu 01 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9aeab1d2aa094'">Mẫu 01 DS đăng ký hành nghề.docx</a>)
+
+
+Có thay đổi về người hành nghề trong thời gian chờ cấp giấy phép hoạt động
+- 01 Bản chính Danh sách đăng ký hành nghề đã thay đổi theo Mẫu 01 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa3e6334ccb7360'">Mẫu 01 DS đăng ký hành nghề.docx</a>)
+
+
+Trường hợp 1: Cùng thời điểm với thời điểm đề nghị cấp mới giấy phép hoạt động đến cơ quan có thẩm quyền cấp giấy phép hoạt động
+- 01 Bản chính Danh sách đăng ký hành nghề (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd231f7b1ba1e14'">Mẫu 01 DS đăng ký hành nghề.docx</a>)
+
+
+Trường hợp 3: Có thay đổi về người hành nghề trong quá trình hoạt động, người hành nghề không còn làm việc tại cơ sở
+- 01 Bản chính Báo cáo

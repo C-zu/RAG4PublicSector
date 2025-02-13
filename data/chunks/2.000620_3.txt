@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép bán lẻ rượu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : Theo quy định của Bộ Tài chính (nếu có)  Lệ phí : Theo quy định của Bộ Tài chính (nếu có)||
+|Trực tuyến|10 Ngày làm việc|Phí : Theo quy định của Bộ Tài chính (nếu có)  Lệ phí : Theo quy định của Bộ Tài chính (nếu có)||
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : Theo quy định của Bộ Tài chính (nếu có)  Lệ phí : Theo quy định của Bộ Tài chính (nếu có)||

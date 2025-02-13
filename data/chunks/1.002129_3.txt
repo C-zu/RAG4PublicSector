@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép dịch vụ nổ mìn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày||- 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ; - Thời hạn của Giấy phép: 02 năm.|
+|Trực tuyến|5 Ngày||- 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ; - Thời hạn của Giấy phép: 02 năm.|
+|Dịch vụ bưu chính|5 Ngày||- 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ; - Thời hạn của Giấy phép: 02 năm.|

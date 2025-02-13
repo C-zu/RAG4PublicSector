@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ chi phí kết nối tuyển dụng, đăng thông tin tuyển dụng lao động có trình độ, chuyên môn phù hợp với vị trí việc làm (lĩnh vực khoa học công nghệ như nghiên cứu, chế tạo, lập trình, công nghệ số…) trong một năm đầu. Tối đa 7.000.000 đồng/năm/doanh nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Bến Tre (Địa chỉ số 126A, đường Nguyễn Thị Định, Tổ 10, Khu phố 2, phường Phú Tân, thành phố Bến Tre, tỉnh Bến Tre.|
+|Trực tuyến|03 Ngày làm việc||Nộp hồ sơ qua đường bưu điện đến Trung tâm Phục vụ hành chính công tỉnh Bến Tre (Địa chỉ số 126A, đường Nguyễn Thị Định, Tổ 10, Khu phố 2, phường Phú Tân, thành phố Bến Tre, tỉnh Bến Tre.|

@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp thị thực điện tử theo đề nghị của cơ quan, tổ chức
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ quan, tổ chức tại Việt Nam truy cập Trang thông tin cấp thị thực điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh (có tên miền tiếng Việt là “https://evisa.xuatnhapcanh.gov.vn”, tiếng Anh là “https://evisa.immigration.gov.vn”), sử dụng tài khoản điện tử được cấp để đăng nhập vào mục khai và gửi hồ sơ đề nghị cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an để đề nghị cấp thị thực điện tử cho người nước ngoài.
+Bước 2: Nhập thông tin của người nước ngoài, tải ảnh mặt chân dung và trang nhân thân hộ chiếu. Sau khi thực hiện bước này, cơ quan, tổ chức sẽ được hệ thống cấp mã hồ sơ điện tử.
+Bước 3: Sử dụng chữ ký điện tử để xác nhận thông tin đề nghị.
+Bước 4: Nộp phí cấp thị thực vào tài khoản quy định tại Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an sau khi nhận mã hồ sơ điện tử của cơ quan quản lý xuất nhập cảnh.
+Thời gian nộp hồ sơ: 24 giờ/07 ngày.
+Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến sang thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+Bước 5: Nhận kết quả: 
+Cơ quan, tổ chức sử dụng mã hồ sơ điện tử để kiểm tra kết quả giải quyết tại Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an, trường hợp được cấp thị thực điện tử thì thông báo mã hồ sơ điện tử cho người nước ngoài để sử dụng mã hồ sơ điện tử in thị thực điện tử.
+Thời gian trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ)

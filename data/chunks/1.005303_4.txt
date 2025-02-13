@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai báo vật liệu hạt nhân nguồn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu khai báo vật liệu hạt nhân nguồn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5750cfd83a1b6'">phieu khai bao vat lieu hat nhan nguon.doc</a>)

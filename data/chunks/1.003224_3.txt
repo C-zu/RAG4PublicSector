@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức kiểm định.|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức kiểm định.|

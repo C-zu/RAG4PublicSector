@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) ưu đãi mẫu VC
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Thương nhân có tài khoản tại Cổng dịch vụ công trực tuyến của Bộ Công Thương, hoặc tài khoản tại Cổng dịch vụ công quốc gia, hoặc tài khoản tại Cổng thông tin một cửa quốc gia.
+Từ khóa:
+Xuất nhập khẩu
+Mô tả:
+Không có thông tin

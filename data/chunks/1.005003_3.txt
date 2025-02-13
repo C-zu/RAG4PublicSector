@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký liên hiệp hợp tác xã
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : Đồng Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định (căn cứ quy định tại Thông tư số 250/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương).  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe36f239f7c6fe3'">68-2016 NQ-HĐND.pdf</a>|Trực tiếp|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : Đồng Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định (căn cứ quy định tại Thông tư số 250/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương).|Qua mạng điện tử trong trường hợp Hệ thống thông tin quốc gia về đăng ký hợp tác xã được phát triển. 03 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|

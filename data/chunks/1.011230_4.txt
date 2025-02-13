@@ -1,0 +1,20 @@
+Tên thủ tục: Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất kết hợp với Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp cho thuê, cho thuê lại đồng thời với hợp thửa đất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Thành phần hồ sơ Xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất:
+- 01 Bản chính, 01 Bản sao (1) Văn bản thanh lý hợp đồng cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất hoặc hợp đồng cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất có xác nhận đã được thanh lý hợp đồng.
+- 01 Bản chính, 01 Bản sao (2) Bản gốc Giấy chứng nhận đã cấp đối với trường hợp cho thuê, cho thuê lại quyền sử dụng đất của chủ đầu tư xây dựng hạ tầng trong khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế và trường hợp góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.
+
+
+Thành phần hồ sơ hợp thửa đất:
+- 01 Bản chính - Đơn đề nghị tách thửa hoặc hợp thửa theo Mẫu số 11/ĐK; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f79873907605000'">Mẫu số 11.doc</a>)
+- 01 Bản chính, 01 Bản sao - Đối với trường hợp thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất mà có thay đổi thông tin về pháp nhân, số Giấy chứng minh nhân dân/ thẻ Căn cước công dân/ số định danh cá nhân, địa chỉ trên Giấy chứng nhận đã cấp thì người sử dụng đất nộp thêm các giấy tờ sau đây: Trường hợp dữ liệu quốc gia về dân cư được chia sẻ và kết nối với dữ liệu của các ngành, các lĩnh vực (trong đó có lĩnh vực đất đai) thì cơ quan tiếp nhận hồ sơ sử dụng dữ liệu từ cơ sở dữ liệu quốc gia về dân cư mà không yêu cầu người nộp hồ sơ phải nộp bản sao Giấy chứng minh nhân dân hoặc Giấy chứng minh quân đội hoặc thẻ Căn cước công dân hoặc sổ hộ khẩu hoặc giấy tờ khác để chứng minh nhân thân.
+- 01 Bản chính, 01 Bản sao + Văn bản của cơ quan có thẩm quyền cho phép hoặc công nhận việc thay đổi thông tin pháp nhân đối với trường hợp thay đổi thông tin về pháp nhân của tổ chức đã ghi trên Giấy chứng nhận.
+
+
+Thành phần hồ sơ Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong trường hợp cho thuê, cho thuê lại quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất
+- 01 Bản chính, 01 Bản sao (1) Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 09/ĐK (ban hành kèm theo Thông tư số 33/2017/TT-BTNMT và công khai trên Trang thông tin điện tử của Bộ Tài nguyên và Môi trường, hướng dẫn cách ghi tại Thông tư số 09/2021/TT-BTNMT ngày 30/6/2021 của Bộ Tài nguyên và Môi trường). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdba11857ea2fec'">mau so 09.doc</a>)
+- 01 Bản chính, 01 Bản sao (2) Hợp đồng cho thuê, cho thuê lại quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.
+- 01 Bản chính, 01 Bản sao (3) Bản gốc Giấy chứng nhận đã cấp.

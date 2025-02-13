@@ -1,0 +1,12 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu (Sở Thông tin và Truyền thông)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu của bên mời thầu (Mẫu KHTC 08), trong đó phải nêu rõ ý kiến của bên mời thầu đối với các ý kiến, đề xuất, kiến nghị của tổ chuyên gia; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbecde246b1c010'">To trinh phe duyet ket qua lua chon nha thau (Mau KHTC 08).docx</a>)
+- 01 Bản chính 2. Báo cáo kết quả đánh giá hồ sơ dự thầu, hồ sơ đề xuất của tổ chuyên gia
+- 01 Bản chính 3. Biên bản thương thảo hợp đồng (đính kèm biên bản đối chiếu tài liệu theo Phụ lục 3C Thông tư số 05/2018/TT-BKHĐT)
+- 01 Bản chính 4. Bản chụp các hồ sơ, tài liệu: Hồ sơ mời thầu, hồ sơ yêu cầu, yêu cầu báo giá, biên bản đóng thầu, mở thầu, hồ sơ dự thầu, hồ sơ đề xuất của các nhà thầu, tài liệu làm rõ hồ sơ, Quyết định thành lập tổ chuyên gia, chứng chỉ đào tạo về đấu thầu hoặc chứng chỉ hành nghề hoạt động đấu thầu của các thành viên trong tổ chuyên gia, Bản cam kết của từng thành viên trong tổ chuyên gia (theo Phụ lục 5 Thông tư số 05/2018/TT-BKHĐT) và những tài liệu khác có liên quan; trường hợp đã tiến hành thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật thì chỉ gửi biên bản mở hồ sơ đề xuất về tài chính và bản chụp hồ sơ đề xuất về tài chính của các nhà thầu đáp ứng yêu cầu về kỹ thuật. Lưu ý: Hồ sơ mời thầu, hồ sơ yêu cầu, yêu cầu báo giá, hồ sơ dự thầu, hồ sơ đề xuất, tài liệu làm rõ hồ sơ: đề nghị đóng thành tập, có bìa.
+ Ghi chú: Đối với trường hợp chỉ định thầu, các nội dung thông tin đóng thầu, mở thầu phải được thể hiện trong Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu.
+ (Văn bản của Chủ đầu tư, Ban quản lý dự án phải có chữ ký số hoặc bản scan có chữ ký và đóng dấu đỏ).

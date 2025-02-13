@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng sản xuất, lắp ráp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||- Thời gian thông báo đánh giá COP không quá 10 ngày kể từ ngày nhận được hồ sơ hợp lệ theo quy định;|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe cơ giới; linh kiện, thiết bị, xe máy chuyên dùng (bao gồm cả xe cải tạo): 40.000 đồng/01 Giấy chứng nhận;|- Thời hạn cấp Giấy chứng nhận kiểu loại: trong thời hạn 03 ngày làm việc, kể từ ngày hồ sơ đăng ký chứng nhận đầy đủ, phù hợp theo quy định và kết quả đánh giá COP đạt yêu cầu.|
+|Trực tuyến|10 Ngày||- Thời gian thông báo đánh giá COP không quá 10 ngày kể từ ngày nhận được hồ sơ hợp lệ theo quy định;|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe cơ giới; linh kiện, thiết bị, xe máy chuyên dùng (bao gồm cả xe cải tạo): 40.000 đồng/01 Giấy chứng nhận;|- Thời hạn cấp Giấy chứng nhận kiểu loại: trong thời hạn 03 ngày làm việc, kể từ ngày hồ sơ đăng ký chứng nhận đầy đủ, phù hợp theo quy định và kết quả đánh giá COP đạt yêu cầu.|
+|Dịch vụ bưu chính|10 Ngày||- Thời gian thông báo đánh giá COP không quá 10 ngày kể từ ngày nhận được hồ sơ hợp lệ theo quy định;|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe cơ giới; linh kiện, thiết bị, xe máy chuyên dùng (bao gồm cả xe cải tạo): 40.000 đồng/01 Giấy chứng nhận;|- Thời hạn cấp Giấy chứng nhận kiểu loại: trong thời hạn 03 ngày làm việc, kể từ ngày hồ sơ đăng ký chứng nhận đầy đủ, phù hợp theo quy định và kết quả đánh giá COP đạt yêu cầu.|

@@ -1,0 +1,7 @@
+Tên thủ tục: Hủy tư cách công ty đại chúng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1) Giấy chứng nhận đăng ký doanh nghiệp; 2) Văn bản thông báo về việc công ty đại chúng không còn đáp ứng quy định tại điểm a khoản 1 Điều 32 Luật Chứng khoán; 3) Danh sách cổ đông do Tổng Công ty lưu ký và bù trừ chứng khoán Việt Nam cung cấp; 4) Báo cáo tài chính năm gần nhất được kiểm toán bởi tổ chức kiểm toán được chấp thuận. Trường hợp công ty tăng vốn điều lệ sau thời điểm kết thúc kỳ kế toán năm gần nhất, công ty phải bổ sung báo cáo tài chính kỳ gần nhất được kiểm toán.

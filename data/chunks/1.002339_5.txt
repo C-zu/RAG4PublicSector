@@ -1,0 +1,24 @@
+Tên thủ tục: Đánh giá đáp ứng Thực hành tốt phân phối thuốc, nguyên liệu làm thuốc đối với cơ sở kinh doanh không vì mục đích thương mại
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận Thực hành tốt phân phối thuốc GDP
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|105/2016/QH13|Luật 105/2016/QH13|06-04-2016|Quốc Hội|
+|277/2016/TT-BTC|Thông tư 277/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực dược, mỹ phẩm|14-11-2016|Bộ Tài chính|
+|03/2018/TT-BYT|Thông tư 03/2018/TT-BYT Quy định về Thực hành tốt phân phối thuốc, nguyên liệu làm thuốc|09-02-2018|Bộ Y tế|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|

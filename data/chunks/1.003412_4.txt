@@ -1,0 +1,10 @@
+Tên thủ tục: cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định chất lượng sản phẩm, hàng hóa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Đơnđăngký bổ sung, sửa đổi hoạtđộngkiểm định (Mẫu 05tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee80f6f90e6c92'">Mẫu số 01,2,4 NĐ107.TTHC5.docx</a>)
+ Danhsách bổ sung, sửa đổi kiểm địnhviên (Mẫu 02tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP) và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên
+ Tàiliệuchứngminhnănglựchoạtđộngkiểm định bổ sung, sửa đổi đápứngcác yêucầuquyđịnhtạitiêu chuẩn quốc gia TCVN ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc tế ISO/IEC 17020:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với giám định chuyên ngành
+ Danhsách bổ sung, sửa đổi máymóc,thiếtbị,dụngcụ phụcvụhoạtđộngkiểm định (mẫu 04tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP)

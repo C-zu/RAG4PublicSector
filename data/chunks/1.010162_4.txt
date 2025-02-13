@@ -1,0 +1,13 @@
+Tên thủ tục: Xác nhận người lao động nước ngoài không thuộc diện cấp Giấy phép lao động - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động, theo mẫu BM.LĐ.03.01
+- 01 Bản chính Văn bản của doanh nghiệp nước ngoài cử người lao động sang làm việc tại hiện diện thương mại của doanh nghiệp nước ngoài đó trên lãnh thổ Việt Nam có nêu vị trí công việc, chức danh công việc và thời gian làm việc;
+- 01 Bản chính Văn bản chứng minh người lao động nước ngoài là chuyên gia thực hiện theo quy định tại khoản 2. Điều 6 của Thông tư số 40/2016/TT- BLĐTBXH ngày 25 tháng 10 năm 2016 của Bộ Lao động - Thương binh và Xã hội hướng dẫn thi hành một số điều của Nghị định số 11/2016/NĐ-CP (sau đây gọi tắt là Thông tư số 40/2016/TT-BLĐTBXH);
+- 01 Bản chính Văn bản chứng minh người lao động nước ngoài là lao động kỹ thuật thực hiện theo quy định tại khoản 3 Điều 6 Thông tư số 40/2016/TT- BLĐTBXH;
+- 01 Bản chính Văn bản chứng minh người lao động nước ngoài đã được doanh nghiệp nước ngoài tuyển dụng ít nhất 12 tháng trước khi được cử sang làm việc tại hiện diện thương mại của doanh nghiệp nước ngoài đó trên lãnh thổ Việt Nam thực hiện theo quy định tại khoản 4 Điều 6 Thông tư số 40/2016/TT-BLĐTBXH;
+- 01 Bản sao Văn bản chứng minh hiện diện thương mại của doanh nghiệp nước ngoài trên lãnh thổ Việt Nam hoạt động trong phạm vi mười một ngành dịch vụ quy định tại các Phụ lục của Thông tư này là một trong các giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương; Giấy phép thành lập Văn phòng đại diện; Giấy phép thành lập Chi nhánh do cơ quan có thẩm quyền của Việt Nam cấp.
+- 01 Bản chính, 01 Bản sao * Giấy tờ chứng minh người lao động nước ngoài không thuộc diện cấp giấy phép lao động là 01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực, nếu của nước ngoài thì miễn hợp pháp hóa lãnh sự, nhưng phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam.

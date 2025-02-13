@@ -1,0 +1,22 @@
+Tên thủ tục: Thẩm định Thiết kế Bản vẽ thi công – Dự toán công trình.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+*. Đối với công trình thẩm định thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán công trình (điều 29-Nghị định 59/2015/NĐ-CP):
+- 01 Bản chính - Tờ trình thẩm định thiết kế xây dựng theo biểu số 01 (theo phụ lục số II, Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 của Chính phủ). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea8644b4eee240'">Biểu mẫu số 01.To trinh.docx</a>)
+- 01 Bản chính - Hồ sơ thiết kế cơ sở, hồ sơ khảo sát xây dựng, hồ sơ năng lực của đơn vị tư vấn khảo sát, lập dự án (bản chính có đóng dấu của Chủ đầu tư).
+- 01 Bản chính Hồ sơ thiết kế kỹ thuật (trường hợp thiết kế 3 bước), hồ sơ thiết kế bản vẽ thi công (trường hợp thiết kế 2 bước) có xác nhận của Chủ đầu tư.
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư theo biểu mẫu số 02(theo biểu mẫu số 01, thông tư số 18/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcde526a14c39e'">Biểu mẫu số 02.Bao cao.docx</a>)
+- 01 Bản chính Văn bản thẩm duyệt phòng cháy chữa cháy, báo cáo đánh giá tác động môi trường (nếu có).
+- 01 Bản chính Các bản vẽ thiết kế và thuyết minh thiết kế xây dựng công trình.
+- 01 Bản chính Dự toán xây dựng công trình.
+
+
+*. Đối với thẩm định điều chỉnh thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán công trình (theo điều 84-Luật xây dựng 2014):
+- 01 Bản chính Tờ trình thẩm định điều chỉnh thiết kế xây dựng theo biểu số 03. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2e127dcf9e350'">Biểu mẫu số 01.To trinh.docx</a>)
+- 01 Bản chính Hồ sơ điều chỉnh dự án, thiết kế cơ sở đã được phê duyệt. Hồ sơ điều chỉnh thiết kế kỹ thuật (trong trường hợp thiết kế 3 bước), thiết kế bản vẽ thi công (trường hợp thiết kế 2 bước), hồ sơ khảo sát điều chỉnh theo dự án đã được phê duyệt điều chỉnh.
+- 01 Bản chính Dự toán điều chỉnh và thuyết minh thiết kế xây dựng.
+- 01 Bản chính Báo cáo của Chủ đầu tư, phương án giải trình về điều chỉnh thiết kế chứng minh hiệu quả kinh tế, đảm bảo chất lượng công trình. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca03a9d10a22d4'">Biểu mẫu số 02.Bao cao.docx</a>)
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư theo biểu mẫu số 02(theo biểu mẫu số 01, thông tư số 18/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng).
+- 01 Bản chính Văn bản thẩm duyệt phòng cháy chữa cháy, báo cáo đánh giá tác động môi trường (nếu có).

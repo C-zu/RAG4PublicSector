@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký tàu biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai cấp lại giấy chứng nhận đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3e9fc3a96355d'">09.1TK.doc</a>)
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận đăng ký tàu biển đối với trường hợp bị rách nát, hư hỏng; trường hợp tàu đang hoạt động trên biển hoặc đang ở nước ngoài thì có thể sử dụng bản sao giấy chứng nhận đăng ký nhưng chủ tàu phải cam kết và nộp bản gốc trong vòng 30 ngày kể từ ngày giấy chứng nhận đăng ký mới được cấp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9a0a5ba807fb8'">09.2TK.doc</a>)

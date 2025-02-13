@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Thẩm định, phê duyệt quy hoạch tổng thể di dân, tái định cư các dự án thủy lợi, thủy điện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày làm việc||Không có thông tin|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận nguồn gốc thủy sản khai thác (theo yêu cầu)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Trực tuyến|02 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Dịch vụ bưu chính|02 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|

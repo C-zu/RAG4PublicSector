@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thuê kho bên ngoài Doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của Doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Gửi văn bản tới Chi cục Hải quan quản lý DNCX

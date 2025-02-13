@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký nghiên cứu sau tiến sĩ tại Việt Nam do Quỹ Phát triển khoa học và công nghệ Quốc gia hỗ trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ của người đăng ký thực hiện nghiên cứu sau tiến sĩ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe976597ba7448a'">Mẫu NCNLQG 01.docx</a>)
+- 01 Bản chính - Lý lịch khoa học của người đăng ký thực hiện nghiên cứu sau tiến sỹ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd918da611f2644'">Mẫu NCNLQG 02.docx</a>)
+- 01 Bản chính - Đơn đề nghị hỗ trợ của người bảo trợ nghiên cứu sau tiến sĩ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde13b5d6fe6eb8'">Mẫu NCNLQG 05.docx</a>)
+- 01 Bản chính - Lý lịch khoa học của người bảo trợ;
+- 01 Bản sao - Bản sao Bằng Tiến sỹ;
+- 01 Bản chính - Các tài liệu chứng minh là nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập (nếu có);
+- 01 Bản chính - Thuyết minh đề cương nghiên cứu sau tiến sĩ và kế hoạch thực hiện các nội dung nghiên cứu có xác nhận của người bảo trợ;
+- 01 Bản chính - Dự toán kinh phí.

@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Phiếu lý lịch tư pháp cho công dân Việt Nam mà không xác định được nơi thường trú hoặc nơi tạm trú; người nước ngoài đã cư trú tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu hợp lệ.|
+|Trực tiếp|15 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trường hợp người được cấp Phiếu lý lịch tư pháp là công dân Việt Nam đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài, trường hợp người nước ngoài, trường hợp phải xác minh về điều kiện đương nhiên được xóa án tích thì thời hạn không quá 15 ngày.|
+|Trực tuyến|10 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu hợp lệ.|
+|Trực tuyến|15 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trường hợp người được cấp Phiếu lý lịch tư pháp là công dân Việt Nam đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài, trường hợp người nước ngoài, trường hợp phải xác minh về điều kiện đương nhiên được xóa án tích thì thời hạn không quá 15 ngày.|
+|Dịch vụ bưu chính|10 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 200 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trường hợp người được cấp Phiếu lý lịch tư pháp là công dân Việt Nam đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài, trường hợp người nước ngoài, trường hợp phải xác minh về điều kiện đương nhiên được xóa án tích thì thời hạn không quá 15 ngày.|

@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động đại lý phân phối chứng chỉ quỹ đại chúng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Giấy đăng ký hoạt động phân phối chứng chỉ quỹ - Mẫu số 88 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Giấy ủy quyền cho chi nhánh, phòng giao dịch thực hiện phân phối chứng chỉ quỹ - Mẫu số 89 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy phép thành lập và hoạt động (nếu có) của tổ chức đăng ký hoạt động phân phối chứng chỉ quỹ và các địa điểm phân phối chứng chỉ quỹ;
+- 01 Bản chính, 01 Bản sao Thuyết minh cơ sở vật chất kỹ thuật, nhân sự phục vụ cho hoạt động phân phối chứng chỉ quỹ tại các địa điểm phân phối chứng chỉ quỹ - Mẫu số 90 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Bản thông tin cá nhân - Mẫu số 91 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ, chứng chỉ hành nghề chứng khoán hợp pháp ở nước ngoài (nếu có) của nhân viên phân phối chứng chỉ quỹ;
+- 01 Bản chính, 01 Bản sao Quyết định của cấp có thẩm quyền ban hành quy trình nghiệp vụ, bao gồm: quy trình thẩm định thông tin, nhận biết nhà đầu tư, quy trình phân phối chứng chỉ quỹ kèm theo bộ quy định về ngăn ngừa hành vi giao dịch muộn của khách hàng; bộ quy tắc đạo đức nghề nghiệp đối với nhân viên phân phối chứng chỉ quỹ;
+- 01 Bản chính, 01 Bản sao Văn bản chấp thuận của cơ quan quản lý chuyên ngành cho phép cung cấp dịch vụ đại lý phân phối chứng chỉ quỹ (nếu có).

@@ -1,0 +1,7 @@
+Tên thủ tục: Xác nhận đăng ký hoạt động cơ sở in (cấp địa phương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đăng ký hoạt động cơ sở in (....) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd12ec9ff8d6c4'">Mẫu số 08 Đăng ký hoạt động in.pdf</a>)

@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp lại Giấy phép vận tải qua biên giới
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận tải qua biên giới
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2012/TT-BGTVT|Hướng dẫn thực hiện một số điều của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia về vận tải thủy|23-03-2012|Bộ Giao thông vận tải|
+|13/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư hướng dẫn thực hiện một số điều của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia về vận tải đường thủy|30-06-2023|Bộ Giao thông vận tải|

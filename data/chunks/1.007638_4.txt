@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục Đăng ký tham gia kiểm toán cho đơn vị có lợi ích công chúng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 4. Danh sách kiểm toán viên hành nghề đề nghị chấp thuận kèm theo sơ yếu lý lịch của kiểm toán viên hành nghề, Giám đốc (hoặc Tổng Giám đốc) tổ chức kiểm toán, trong đó tóm tắt quá trình làm việc của từng người theo mẫu.
+- 01 Bản chính 5. Báo cáo tình hình tài chính và tình hình hoạt động của tổ chức kiểm toán trong năm trước liền kề, bao gồm: a) Báo cáo tài chính đã được kiểm toán; b) Danh sách khách hàng theo quy định; c) Tình hình tổ chức, hoạt động và kinh nghiệm kiểm toán của kiểm toán viên hành nghề và tổ chức kiểm toán; d) Các vi phạm pháp luật của tổ chức kiểm toán (nếu có); đ) Các biến động lớn trong năm tài chính ảnh hưởng đến tổ chức, hoạt động và kết quả hoạt động kinh doanh của tổ chức kiểm toán; e) Các biến động lớn trong năm liên quan đến kiểm toán viên hành nghề (do tăng, giảm kiểm toán viên, các vi phạm đạo đức nghề nghiệp của kiểm toán viên...); g) Bản mô tả về việc xây dựng và vận hành hệ thống kiểm soát chất lượng theo quy định của chuẩn mực kiểm toán Việt Nam.
+- 01 Bản sao 6. Bản sao có chứng thực giấy chứng nhận bảo hiểm trách nhiệm nghề nghiệp (nếu có). Trường hợp đăng ký từ lần thứ hai trở đi, nếu kiểm toán viên hành nghề và tổ chức kiểm toán không có thay đổi thì không phải nộp các tài liệu quy định tại mục 2, mục 3, mục 4, điểm c và điểm g mục 5.
+ * Số lượng hồ sơ: 02 (bộ)
+- 01 Bản chính, 01 Bản sao 1. Đơn đăng ký thực hiện kiểm toán cho đơn vị có lợi ích công chúng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecb9be7a90eba6'">PL kèm theo Nghị định 84.2016.NĐ-CP.docx</a>)

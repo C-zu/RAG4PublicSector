@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Kiểm xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy đăng ký hoạt động (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe172da043c2488'">Mau 9_Don cap DKDV.doc</a>)
+- 01 Bản sao Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó
+- 01 Bản chính Phiếu khai báo nhân viên thực hiện dịch vụ (mẫu kèm theo), kèm theo Bản sao quyết định tuyển dụng hoặc hợp đồng lao động của tổ chức đề nghị cấp Giấy đăng ký hoạt động đối với nhân viên thực hiện dịch vụ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3ca56f99fd63c'">Mau 15_KB thiet bi, nhan vien DV.doc</a>)
+- 01 Bản sao Bản sao Chứng chỉ hành nghề dịch vụ tương ứng với loại hình dịch vụ của các nhân viên thực hiện dịch vụ
+- 01 Bản chính Phiếu khai báo trang thiết bị phục vụ hoạt động dịch vụ tương ứng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd97c4c6d6f4796'">Mau 16_KB thiet bi thu hien DV - Copy.doc</a>)
+- 01 Bản chính Báo cáo phân tích an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd623d37ec92098'">Mau 12_PL5_BC hoat dong DV.doc</a>)
+- 01 Bản sao Bản sao hợp đồng dịch vụ đọc liều chiếu xạ cá nhân của nhân viên thực hiện dịch vụ
+- 01 Bản sao Bản sao Giấy phép tiến hành công việc bức xạ sử dụng chất phóng xạ, thiết bị bức xạ đối với trường hợp tổ chức có sử dụng chất phóng xạ, thiết bị bức xạ trên mức miễn trừ khai báo, cấp giấy phép theo quy định tại Quy chuẩn kỹ thuật quốc gia QCVN 5:2010/BKHCN trong quy trình thực hiện dịch vụ
+- 01 Bản sao Tài liệu khác chứng minh điều kiện cơ sở vật chất, kỹ thuật đáp ứng yêu cầu tương ứng với loại hình dịch vụ theo quy định của Nghị định 142/2020/NĐ-CP

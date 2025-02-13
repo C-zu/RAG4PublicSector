@@ -1,0 +1,8 @@
+Tên thủ tục: Phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda6064d197cb42'">don de nghi.doc</a>)
+- 01 Bản chính Phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng theo các nội dung theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbdead4fa01de58'">phuong an van tai.doc</a>)

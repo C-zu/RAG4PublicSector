@@ -1,0 +1,27 @@
+Tên thủ tục: Ký hợp đồng khám, chữa bệnh bảo hiểm y tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hợp đồng KCB BHYT (mẫu số 7 ban hành kèm theo Nghị định số 146/2018/NĐ-CP), Hợp đồng đã được ký giữa BHXH và cơ sở KCB
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2008/QH12|Luật 25/2008/QH12|14-11-2008||
+|46/2014/QH13|Luật 46/2014/QH13|13-06-2014||
+|40/2009/QH12|Luật khám bệnh, chữa bệnh|23-11-2009|Văn phòng Quốc hội|
+|109/2016/NĐ-CP|Nghị định 109/2016/NĐ-CP|01-07-2016||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018||
+|09/2019/TT-BYT|Thông tư 09/2019/TT-BYT|10-06-2019||

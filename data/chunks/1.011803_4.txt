@@ -1,0 +1,10 @@
+Tên thủ tục: Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình (theo Phụ lục 03 ban hành kèm theo Nghị quyết số 01/2023/NQ-HĐND, ngày 07 /7/2023 của HĐND tỉnh Nghệ An). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb62cf26a5c19a'">Đơn đề nghị hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình.docx</a>)
+- 01 Bản chính, 01 Bản sao + Các loại giấy tờ (còn giá trị): Giấy chứng minh nhân dân hoặc Căn cước công dân của chủ sở hữu tàu cá; Giấy chứng nhận đăng ký tàu cá; Sổ danh bạ thuyền viên tàu cá; Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản và Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm.
+- 01 Bản chính, 01 Bản sao + Hóa đơn thanh toán cước phí thuê bao dịch vụ.
+- 01 Bản chính, 01 Bản sao + Trường hợp nộp trực tiếp: Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu; + Trường hợp nộp qua dịch vụ bưu chính: Bản sao có chứng thực; + Trường hợp nộp trực tuyến: Bản chụp bản chính hoặc bản sao có chứng thực.

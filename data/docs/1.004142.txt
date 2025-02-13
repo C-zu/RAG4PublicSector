@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004142
+Số quyết định:
+1322/QĐ-BGTVT
+Tên thủ tục:
+Công bố đóng bến cảng, cầu cảng, bến phao và khu nước, vùng nước
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Chủ đầu tư hoặc Cảng vụ hàng hải khu vực gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác 01 văn bản đề nghị công bố đóng bến cảng, cầu cảng, bến phao và khu nước, vùng nước theo Mẫu số 10 quy định tại Phụ lục ban hành kèm theo Nghị định số 58/2017/NĐ-CP.
+- Bến cảng, cầu cảng, bến phao và khu nước, vùng nước trong vùng nước cảng biển được xem xét, công bố đóng trong các trường hợp sau đây:
++ Bến cảng, cầu cảng, bến phao, khu nước, vùng nước không còn tồn tại hoặc không đủ điều kiện hoạt động theo đề nghị của chủ đầu tư hoặc Cảng vụ hàng hải khu vực;
++ Bến cảng, cầu cảng, bến phao và khu nước, vùng nước hoạt động không hiệu quả, theo đề nghị của chủ đầu tư;
++ Vì lý do bảo đảm quốc phòng, an ninh hoặc các lý do đặc biệt khác.
+b) Giải quyết TTHC:
+Cục Hàng hải Việt Nam tiếp nhận văn bản, nếu văn bản chưa phù hợp thì chậm nhất 01 ngày làm việc kể từ ngày nhận, Cục Hàng hải Việt Nam hướng dẫn hoàn thiện văn bản theo quy định. Nếu văn bản hợp lệ thì chậm nhất 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị, Cục Hàng hải Việt Nam tổ chức lấy ý kiến các cơ quan hữu quan (nếu cần thiết), quyết định đóng bến cảng, cầu cảng, bến phao và các khu nước, vùng nước theo mẫu quy định và gửi cho người đề nghị trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác thông qua hệ thống bưu chính hoặc người đề nghị đến nhận trực tiếp tại Cục Hàng hải Việt Nam
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Chậm nhất 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hợp lệ. 10.5. Đối tượng thực hiện TTHC:|
+|Trực tuyến|5 Ngày làm việc||Chậm nhất 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hợp lệ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Chậm nhất 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị đóng bến cảng, cầu cảng, bến phao và khu nước, vùng nước. ([mẫu tờ khai.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5c18bb51bd6e4'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục hàng hải Việt nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Quyết định đóng bến cảng, cầu cảng, bến phao và khu nước, vùng nước.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|69/2022/NĐ-CP|Nghị định 69/2022/NĐ-CP|23-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

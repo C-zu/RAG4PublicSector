@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Biển hiệu xe ô tô vận tải khách du lịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp biển hiệu xe vận tải khách du lịch theo mẫu BM.PTNL.18.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0333f40a86cfb'">Giấy đề nghị cấp lại biển hiệu xe du lich BM 18.doc</a>)
+- 02 Bản chính 02 bảng kê thông tin và trang thiết bị của phương tiện quy định tại khoản 2 Điều 4 của Thông tư 19/2015/TTLT-BGTVT-BVHTTDL, Bảng kê theo mẫu BM.PTNL.18.02; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd91efe49c04992'">Bang thong tin trang thiet bi BM 18.2.doc</a>)
+- 02 Bản sao 02 bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường; Giấy đăng ký xe ô tô và hợp đồng thuê phương tiện với tổ chức, cá nhân cho thuê tài chính hoặc cho thuê tài sản, hợp đồng thuê phương tiện giữa các thành viên và hợp tác xã nếu xe không thuộc sở hữu của đơn vị kinh doanh vận tải; ý kiến xác nhận về tình trạng của xe ô tô tham gia kinh doanh vận tải của Sở Giao thông vận tải địa phương nơi phương tiện mang biển số đăng ký (đối với những phương tiện mang biển số đăng ký không thuộc địa phương nơi giải quyết thủ tục hành chính);
+- 01 Bản chính Cung cấp tên Trang thông tin điện tử của đơn vị kinh doanh vận tải, tên đăng nhập, mật khẩu truy cập vào thiết bị giám sát hành trình của các xe đề nghị cấp biển hiệu;
+- 01 Bản sao Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực: Giấy chứng nhận tập huấn nghiệp vụ du lịch của lái xe, nhân viên phục vụ trên xe hoặc Thẻ hướng dẫn viên du lịch hoặc Thẻ thuyết minh viên du lịch (đối với trường hợp nhân viên phục vụ trên xe có Thẻ hướng dẫn viên du lịch hoặc thuyết minh viên); Giấy chứng nhận tập huấn nghiệp vụ vận tải của lái xe, nhân viên phục vụ trên xe.

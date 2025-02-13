@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chứng nhận xuất trình giấy tờ, tài liệu tại Bộ Ngoại giao
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày||01 ngày làm việc kể từ ngày cơ quan có thẩm quyền giải quyết nhận đủ hồ sơ hợp lệ. Trường hợp hồ sơ có số lượng từ 10 giấy tờ, tài liệu trở lên thì thời hạn giải quyết có thể dài hơn nhưng không quá 05 ngày làm việc.|
+|Dịch vụ bưu chính|1 Ngày||01 ngày làm việc kể từ ngày cơ quan có thẩm quyền giải quyết nhận đủ hồ sơ hợp lệ. Trường hợp hồ sơ có số lượng từ 10 giấy tờ, tài liệu trở lên thì thời hạn giải quyết có thể dài hơn nhưng không quá 05 ngày làm việc.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chi thưởng đối với tổ chức, cá nhân phát hiện tài sản chôn, giấu, bị vùi lấp, chìm đắm, tài sản bị đánh rơi, bỏ quên
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|120 Ngày||- Bước 2: Trong thời hạn 30 ngày, kể từ ngày nhận được văn bản đề nghị của tổ chức, cá nhân - Bước 3: Trong thời hạn 90 ngày, kể từ ngày có quyết định mức thưởng của cơ quan, người có thẩm quyền.|
+|Dịch vụ bưu chính|120 Ngày||- Bước 2: Trong thời hạn 30 ngày, kể từ ngày nhận được văn bản đề nghị của tổ chức, cá nhân - Bước 3: Trong thời hạn 90 ngày, kể từ ngày có quyết định mức thưởng của cơ quan, người có thẩm quyền.|

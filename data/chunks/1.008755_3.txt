@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu (Sở Thông tin và Truyền thông)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|13 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Theo quy định tại Khoản 5, Điều 9 Nghị định số 63/2014/NĐ-CP, cụ thể: Mức thu phí thẩm định kết quả lựa chọn nhà thầu được tính bằng 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Tổ chức, cá nhân có thể thanh toán lệ phí qua Cổng thanh toán trực tuyến được tích hợp trên Hệ thống Egov||
+|Trực tuyến|13 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Theo quy định tại Khoản 5, Điều 9 Nghị định số 63/2014/NĐ-CP, cụ thể: Mức thu phí thẩm định kết quả lựa chọn nhà thầu được tính bằng 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Tổ chức, cá nhân có thể thanh toán lệ phí qua Cổng thanh toán trực tuyến được tích hợp trên Hệ thống Egov||
+|Dịch vụ bưu chính|13 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Theo quy định tại Khoản 5, Điều 9 Nghị định số 63/2014/NĐ-CP, cụ thể: Mức thu phí thẩm định kết quả lựa chọn nhà thầu được tính bằng 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Tổ chức, cá nhân có thể thanh toán lệ phí qua Cổng thanh toán trực tuyến được tích hợp trên Hệ thống Egov||

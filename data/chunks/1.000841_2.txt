@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy miễn thị thực tại Cơ quan đại diện VIệt Nam ở nước ngoài
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Nộp hồ sơ tại cơ quan đại diện Việt Nam ở nước ngoài (Xem danh sách các cơ quan đại diện có chức năng lãnh sự để biết thông tin chi tiết về địa chỉ và thời gian nộp hồ sơ và nhận kết quả) hoặc qua Bưu điện.
+-  Cán bộ tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
++ Nếu đầy đủ, hợp lệ thì nhận hồ sơ, in và trả giấy biên nhận.
++ Nếu chưa hợp lệ thì hướng dẫn người nộp bổ sung hồ sơ cho đầy đủ.
+- Nhận kết quả trực tiếp tại trụ sở cơ quan đại diện hoặc qua đường bưu điện.

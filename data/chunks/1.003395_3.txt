@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm có nguồn gốc thực vật xuất khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||+ Trực tiếp + Dịch vụ bưu chính + Cổng dịch vụ công|
+|Trực tuyến|02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||+ Trực tiếp + Dịch vụ bưu chính + Cổng dịch vụ công|
+|Dịch vụ bưu chính|02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||+ Trực tiếp + Dịch vụ bưu chính + Cổng dịch vụ công|

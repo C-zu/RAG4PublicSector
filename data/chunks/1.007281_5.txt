@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký chuyển giao công nghệ
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Vụ Đánh giá, Thẩm định và Giám định công nghệ - Bộ Khoa học và Công nghệ, Bộ Quốc phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký chuyển giao công nghệ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư 169/2016/TT-BTC|Thông tư 169/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định hợp đồng chuyển giao công nghệ|26-10-2016|Bộ Tài chính|
+|07/2017/QH14|Luật 07/2017/QH14-Luật chuyển giao công nghệ|19-06-2017|Quốc Hội|
+|76/2018/NĐ-CP|Nghị định 76/2018/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ|15-05-2018|Chính phủ|

@@ -1,0 +1,96 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001158
+Số quyết định:
+1337/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+a.1. Trường hợp chỉ định lần đầu, thay đổi, bổ sung phạm vi, lĩnh vực chỉ định
+- Bước 1: Tổ chức có nhu cầu tham gia hoạt động giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng nộp hồ sơ đăng ký chỉ định đến về Bộ Khoa học và Công nghệ.
+- Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký, nếu hồ sơ không đầy đủ, hợp lệ theo quy định, Bộ Khoa học và Công nghệ thông báo bằng văn bản yêu cầu tổ chức giám định sửa đổi, bổ sung hồ sơ.
+- Bước 3:
++ Trong thời hạn 20 ngày kể từ khi nhận được hồ sơ hợp lệ, Bộ Khoa học và Công nghệ tổ chức đánh giá năng lực thực tế tại tổ chức giám định thông qua việc cử chuyên gia hoặc thành lập đoàn đánh giá. Nội dung đánh giá thực tế:
+Sự tuân thủ quy định pháp luật của tổ chức giám định trong lĩnh vực đăng ký chỉ định;
+Tính xác thực của hồ sơ đăng ký;
+Hoạt động khác có liên quan tới lĩnh vực đăng ký.
++ Trường hợp chỉ định thay đổi, bổ sung, nếu hồ sơ đăng ký đầy đủ và hợp lệ, Bộ Khoa học và Công nghệ tiến hành thẩm xét hồ sơ, không tổ chức đánh giá năng lực thực tế. Trường hợp hồ sơ đăng ký đầy đủ nhưng có nội dung không phù hợp hoặc có yêu cầu của cơ quan nhà nước có thẩm quyền hoặc có thông tin, phản ánh về dấu hiệu vi phạm liên quan đến hồ sơ thì Bộ Khoa học và Công nghệ tổ chức đánh giá năng lực thực tế tại tổ chức giám định.
++ Việc đánh giá năng lực thực tế tại tổ chức giám định phải được thông báo bằng văn bản cho tổ chức giám định đã nộp hồ sơ đăng ký biết. Chuyên gia hoặc thành viên đoàn đánh giá năng lực thực tế phải được đào tạo về hệ thống quản lý chất lượng tương ứng với từng loại hình tổ chức giám định đăng ký chỉ định. Kết thúc việc đánh giá, chuyên gia hoặc đoàn đánh giá do Bộ Khoa học và Công nghệ thành lập phải ký biên bản đánh giá thực tế.
++ Trường hợp tổ chức giám định phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế, trong thời hạn 30 ngày, tổ chức giám định phải gửi báo cáo kết quả hành động khắc phục về Bộ Khoa học và Công nghệ. Trường hợp các nội dung cần khắc phục phải kéo dài thêm thời hạn thì tổ chức giám định báo cáo với Bộ Khoa học và Công nghệ bằng văn bản và nêu rõ thời hạn chính thức hoàn thành việc khắc phục các nội dung trên.
+- Bước 4: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả hành động khắc phục theo biên bản đánh giá thực tế, nếu tổ chức giám định đáp ứng yêu cầu theo quy định, Bộ Khoa học và Công nghệ ban hành quyết định chỉ định cho tổ chức giám định theo quy định. Tùy thuộc vào năng lực thực tế của tổ chức giám định, Bộ Khoa học và Công nghệ quyết định thời hạn hiệu lực của quyết định chỉ định nhưng không quá 05 năm kể từ ngày ký ban hành. Trong trường hợp từ chối việc chỉ định, Bộ Khoa học và Công nghệ phải thông báo lý do bằng văn bản cho tổ chức giám định.
+a.2. Trường hợp cấp lại quyết định chỉ định
+Trong thời hạn hiệu lực của quyết định chỉ định, tổ chức giám định có nhu cầu đăng ký cấp lại quyết định chỉ định, lập 01 bộ hồ sơ đề nghị cấp lại và gửi về Bộ Khoa học và Công nghệ.
+Trong thời hạn 05 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ, Bộ Khoa học và Công nghệ xem xét, cấp lại quyết định chỉ định. Trường hợp không đáp ứng yêu cầu, Bộ Khoa học và Công nghệ có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trường hợp chỉ định lần đầu, thay đổi, bổ sung phạm vi, lĩnh vực chỉ định: 25 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định không phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế) hoặc 55 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế) hoặc trên 55 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định có văn bản đề nghị kéo dài thời gian khắc phục các nội dung quy định trong biên bản đánh giá thực tế). - Trường hợp cấp lại quyết định chỉ định: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.||Nộp trực tiếp tại trụ sở Bộ Khoa học và Công nghệ|
+|Trực tuyến|- Trường hợp chỉ định lần đầu, thay đổi, bổ sung phạm vi, lĩnh vực chỉ định: 25 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định không phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế) hoặc 55 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế) hoặc trên 55 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định có văn bản đề nghị kéo dài thời gian khắc phục các nội dung quy định trong biên bản đánh giá thực tế). - Trường hợp cấp lại quyết định chỉ định: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.||Nộp hồ sơ qua Cổng dịch vụ công trực tuyến của Bộ Khoa học và Công nghệ|
+|Dịch vụ bưu chính|- Trường hợp chỉ định lần đầu, thay đổi, bổ sung phạm vi, lĩnh vực chỉ định: 25 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định không phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế) hoặc 55 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế) hoặc trên 55 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (trong trường hợp tổ chức đăng ký giám định có văn bản đề nghị kéo dài thời gian khắc phục các nội dung quy định trong biên bản đánh giá thực tế). - Trường hợp cấp lại quyết định chỉ định: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|||
+
+Thành phần hồ sơ:
+
+Trường hợp chỉ định lần đầu
+- 01 Bản chính Đơn đăng ký chỉ định giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng (theo Mẫu số 04 Nghị định số 74/2018/NĐ-CP) ([Đơn đăng ký chỉ định tổ chức giám định MMTBDCCN ĐQSD.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3c53ed0eec25a'))
+- 01 Bản sao Giấy chứng nhận đăng ký hoạt động giám định (đối với tổ chức giám định trong nước) hoặc bản sao văn bản cho phép hoạt động giám định của cơ quan có thẩm quyền nước ngoài nơi tổ chức giám định đăng ký hoạt động, kèm bản dịch tiếng Việt được hợp pháp hóa lãnh sự (đối với tổ chức giám định nước ngoài)
+- 01 Bản chính Danh sách giám định viên (theo Mẫu số 05 Nghị định số 74/2018/NĐ-CP), có bản sao chứng chỉ đào tạo chuyên môn, nghiệp vụ kèm theo ([Danh sách giám định viên.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9ec5a3de880000'))
+- 01 Bản chính Danh mục tài liệu kỹ thuật, tiêu chuẩn và quy trình, thủ tục giám định (theo Mẫu số 06 Nghị định số 74/2018/NĐ-CP), có bản sao quy trình, thủ tục giám định đăng ký chỉ định kèm theo ([Danh mục tài liệu kỹ thuật.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5229997ebb55c'))
+- 01 Bản sao Chứng chỉ công nhận năng lực giám định do tổ chức công nhận hợp pháp cấp (nếu có)
+
+
+Trường hợp cấp lại đối với tổ chức giám định có Quyết định chỉ định còn hiệu lực nhưng bị mất, thất lạc, hư hỏng hoặc thay đổi tên, địa chỉ hoặc thu hẹp phạm vi chỉ định
+- 01 Bản chính Đơn đề nghị cấp lại quyết định chỉ định (theo Mẫu số 10 Nghị định số 74/2018/NĐ-CP) ([Mẫu Đơn đề nghị cấp lại quyết định chỉ định.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd45afd45c80b60'))
+- 01 Bản chính Quyết định chỉ định bị hư hỏng (đối với trường hợp quyết định chỉ định bị hư hỏng)
+
+
+Trường hợp thay đổi, bổ sung phạm vi, lĩnh vực được chỉ định
+- 01 Bản chính Đơn đăng ký thay đổi, bổ sung phạm vi, lĩnh vực được chỉ định (theo Mẫu số 09 Nghị định số 74/2018/NĐ-CP) ([Mẫu Đơn đăng ký thay đổi, bổ sung phạm vi, lĩnh vực được chỉ định.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb83ead2df2aa0'))
+- 01 Bản sao Giấy chứng nhận đăng ký hoạt động giám định (đối với tổ chức giám định trong nước) hoặc bản sao văn bản cho phép hoạt động giám định của cơ quan có thẩm quyền nước ngoài nơi tổ chức giám định đăng ký hoạt động, kèm bản dịch tiếng Việt được hợp pháp hóa lãnh sự (đối với tổ chức giám định nước ngoài)
+- 01 Bản sao Quyết định chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng ([Mẫu Quyết định về việc chỉ định tổ chức giám định máy móc, thiết bị,dây chuyền công nghệ đã qua sử dụng.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9ec7d5f500172'))
+- 01 Bản chính Danh sách giám định viên đối với phạm vi, lĩnh vực đăng ký thay đổi, bổ sung, (theo Mẫu số 05 Nghị định số 74/2018/NĐ-CP), có bản sao Chứng chỉ đào tạo chuyên môn, nghiệp vụ kèm theo ([Mẫu Danh sách giám định viên.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec89bb0aafa0ef'))
+- 01 Bản chính Danh mục tài liệu kỹ thuật, tiêu chuẩn và quy trình giám định đối với phạm vi, lĩnh vực đăng ký thay đổi, bổ sung (theo Mẫu số 06 Nghị định số 74/2018/NĐ-CP), có bản sao quy trình, thủ tục giám định kèm theo
+- 01 Bản sao Chứng chỉ công nhận năng lực giám định do tổ chức công nhận hợp pháp cấp (nếu có) đối với phạm vi, lĩnh vực đăng ký thay đổi, bổ sung; (Đối với tổ chức giám định nước ngoài thì các văn bản và tài liệu trong hồ sơ phải được dịch sang tiếng Việt)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ Khoa học và Công nghệ, 113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng, Văn bản từ chối chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|132/2008/NĐ-CP|Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa|31-12-2008||
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|74/2018/NĐ-CP|Nghị định 74/2018/NĐ-CP|15-05-2018|Chính phủ|
+|18/2019/QĐ-TTg|Quyết định 18/2019/QĐ-TTg|19-04-2019|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với tổ chức giám định trong nước:
+Đã được cấp Giấy chứng nhận đăng ký hoạt động giám định theo quy định tại Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp, trong đó có lĩnh vực giám định máy móc, thiết bị, dây chuyền công nghệ.
+- Đối với tổ chức giám định nước ngoài:
+Tuân thủ quy định pháp luật nước sở tại về hoạt động giám định và đã được công nhận bởi tổ chức công nhận là thành viên ký kết tham gia thỏa thuận thừa nhận lẫn nhau kết quả đánh giá sự phù hợp của các tổ chức công nhận khu vực, quốc tế cho lĩnh vực giám định máy móc, thiết bị, dây chuyền công nghệ.
+- Trước khi quyết định chỉ định hết thời hạn hiệu lực 90 ngày, nếu có nhu cầu, tổ chức giám định phải lập hồ sơ như đối với trường hợp chỉ định lần đầu.
+- Đối với tổ chức giám định trong nước:
+Đã được cấp Giấy chứng nhận đăng ký hoạt động giám định theo quy định tại Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp, trong đó có lĩnh vực giám định máy móc, thiết bị, dây chuyền công nghệ.
+- Đối với tổ chức giám định nước ngoài:
+Tuân thủ quy định pháp luật nước sở tại về hoạt động giám định và đã được công nhận bởi tổ chức công nhận là thành viên ký kết tham gia thỏa thuận thừa nhận lẫn nhau kết quả đánh giá sự phù hợp của các tổ chức công nhận khu vực, quốc tế cho lĩnh vực giám định máy móc, thiết bị, dây chuyền công nghệ.
+- Trước khi quyết định chỉ định hết thời hạn hiệu lực 90 ngày, nếu có nhu cầu, tổ chức giám định phải lập hồ sơ như đối với trường hợp chỉ định lần đầu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

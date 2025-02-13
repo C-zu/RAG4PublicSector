@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi, bổ sung các thông tin của nhà thầu, nhà đầu tư đăng ký tham gia vào Hệ thống mạng đấu thầu quốc gia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Công văn của nhà thầu, nhà đầu tư về việc thay đổi, bổ sung thông tin đăng ký tham gia vào Hệ thống mạng đấu thầu quốc gia;
+- 01 Bản chính - Các tài liệu liên quan đến nội dung cần thay đổi, bổ sung

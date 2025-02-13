@@ -1,0 +1,9 @@
+Tên thủ tục: Chấp thuận chủ trương xây dựng đường ngang (đối với đường sắt có tốc độ thiết kế nhỏ hơn 100 km/giờ giao nhau với đường bộ; đường sắt giao nhau với đường bộ từ cấp IV trở xuống)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.|
+|Trực tuyến|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.|

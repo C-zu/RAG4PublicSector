@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký kế hoạch mua/mua bổ sung tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Căn cứ kế hoạch sản xuất sản phẩm thuốc lá, kế hoạch sản xuất rượu để tiêu thụ trong nước hàng năm, chậm nhất là ngày 15 tháng 5 của năm liền trước năm kế hoạch, doanh nghiệp sản xuất sản phẩm thuốc lá hoặc tổ chức, cá nhân sản xuất rượu để tiêu thụ trong nước sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Cổng thông tin điện tử của Tổng cục Thuế để đăng ký kế hoạch mua tem điện tử theo Mẫu số 02/TEM, Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC ngày 30/03/2021 của Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá.
+Trường hợp trong năm, tổ chức, cá nhân có biến động về sản xuất dẫn đến tăng nhu cầu mua tem điện tử, cũng như các tổ chức, cá nhân có Giấy phép sản xuất sản phẩm thuốc lá, rượu để tiêu thụ trong nước sau ngày 15 tháng 5: Trước ngày đề nghị mua tem điện tử ít nhất ba mươi (30) ngày làm việc, tổ chức, cá nhân sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Cổng thông tin điện tử của Tổng cục Thuế để đăng ký điều chỉnh số lượng tem điện tử cần mua hoặc mua thêm của năm kế hoạch theo Mẫu số 02/TEM, Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC.
++ Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+Cơ quan thuế thực hiện tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ (và trả kết quả, nếu có kết quả) trong vòng 01 ngày làm việc thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

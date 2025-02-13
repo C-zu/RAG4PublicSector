@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép mua bán nguyên liệu thuốc lá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy phép mua bán nguyên liệu thuốc lá (Bản chính - theo mẫu Phụ lục 8 Thông tư số 57/2018/TT-BCT); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea355ae904ec0b'">Phụ lục 8.docx</a>)
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký kinh doanh;
+- 01 Bản chính - Bảng kê diện tích, sơ đồ kho tàng, văn phòng làm việc và các khu phụ trợ khác.
+- 01 Bản sao - Bản sao hợp đồng nguyên tắc hoặc thỏa thuận nhập khẩu ủy thác nguyên liệu thuốc lá với doanh nghiệp sản xuất sản phẩm thuốc lá, doanh nghiệp chế biến nguyên liệu thuốc lá hoặc hợp đồng nguyên tắc hoặc thỏa thuận xuất khẩu ủy thác nguyên liệu thuốc lá với doanh nghiệp đủ điều kiện đầu tư trồng cây thuốc lá, doanh nghiệp chế biến nguyên liệu thuốc lá.

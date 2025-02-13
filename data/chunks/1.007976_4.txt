@@ -1,0 +1,11 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm, linh kiện đã được tân trang, làm mới để thay thế, sửa chữa cho người sử dụng trong nước mà sản phẩm, linh kiện đó nay không còn được sản xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cho phép nhập khẩu theo mẫu tại Phụ lục I ban hành kèm theo Quyết định số 18/2016/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8c950a0d4fe44'">Phụ lục I.docx</a>)
+ Giấy tờ chứng minh tư cách pháp nhân (giấy chứng nhận đăng ký doanh nghiệp hoặc Quyết định, giấy phép thành lập, giấy chứng nhận đầu tư, giấy phép đầu tư): 01 (một) bản sao có chứng thực, trường hợp nộp bản sao không có chứng thực thì khi nộp phải mang theo bản chính để đối chiếu
+- 01 Bản chính Tài liệu báo cáo về việc thiết lập hệ thống dịch vụ bảo hành, bảo trì cho khách hàng trong nước, trong đó nêu rõ các quy trình, công đoạn của hệ thống dịch vụ bảo hành, bảo trì
+- 01 Bản sao Văn bản ủy quyền cho người nhập khẩu thay mặt thực hiện dịch vụ bảo hành, bảo trì, thay thế, sửa chữa, trong đó có Điều Khoản quy định về trách nhiệm của các bên (áp dụng đối với hình thức thuê bên thứ ba thực hiện dịch vụ)
+- 01 Bản sao Tài liệu của nhà sản xuất chứng minh đã dừng không sản xuất sản phẩm, linh kiện

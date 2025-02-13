@@ -1,0 +1,30 @@
+Tên thủ tục: Cho phép sử dụng thẻ đi lại của doanh nhân APEC (thẻ ABTC)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp
+Cơ quan thực hiện:
+Sở Ngoại vụ - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+UBND tỉnh Bắc Giang
+Địa chỉ tiếp nhận HS:
+Trung tâm Hành chính công, Trụ sở làm việc liên cơ quan, Quảng trường 3/2, TP Bắc Giang, tỉnh Bắc Giang.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+QĐ cho phép sử dụng thẻ đi lại của doanh nhân APEC
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2016/TT-BCA|Thông tư hướng dẫn thực hiện Quy chế về việc cấp và quản lý thẻ đi lại của doanh nhân APEC|05-07-2016|Thủ tướng Chính phủ|
+|136/2007/NĐ-CP|- Nghị định số 136/2007/NĐ-CP ngày 17/8/2007 của Chính phủ về xuất cảnh, nhập cảnh của công dân Việt Nam|17-08-2017|Chính phủ|
+|89/2016/QĐ-UBND|Quyết định|01-02-2016|UBND tỉnh Bắc Giang|
+|Luật 77/2015/QH13|Luật Tổ chức chính quyền địa phương|19-06-2015|Quốc Hội|
+|323/QĐ-UBND|Quyết định phê duyệt quy trình nội bộ giải quyết thủ tục hành chính của các Sở, cơ quan thuộc UBND tỉnh|01-03-2019|UBND tỉnh Bắc Giang|
+|07/2013/TT-BCA|Thông tư|30-01-2013|Bộ Công an|
+|45/2006/QĐ-TTg|Quyết định số 45/2006/QĐ-TTg ngày 28/02/2006 của Thủ tướng Chính phủ ban hành quy chế cấp và quản lý thẻ đi lại của doanh nhân APEC.|28-02-2006|Thủ tướng Chính phủ|
+|54/2015/QĐ-TTg|Quyết định số 54/2015/QĐ-TTg, ngày 29/10/2015 của Thủ tướng Chính phủ về sửa đổi, bổ sung một số điều của Quy chế về việc cấp và quản lý thẻ đi lại của doanh nhân APEC ban hành kèm theo Quyết định số 45/2006/QĐ-TTg ngày 28/02/2006 của Thủ tướng Chính phủ|29-10-2015|Thủ tướng Chính phủ|
+|255/2014/QĐ-UBND|Quy định về trình tự, thủ tục trong xét, cho phép sử dụng và quản lý thẻ đi lại của doanh nhân APEC trên địa bàn tỉnh Bắc Giang|12-05-2014|UBND tỉnh Bắc Giang|
+|28/2016/TT-BCA|Thông tư 28/2016/TT-BCA|05-07-2016||

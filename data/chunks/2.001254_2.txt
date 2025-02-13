@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi, bổ sung phạm vi chỉ định cơ sở kiểm nghiệm phục vụ quản lý nhà nước
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Gửi hồ sơ
+Bước 2: Soát xét hồ sơ.
+Bước 3:  Đánh giá cơ sở.
+Bước 4: Chỉ định thay đổi, bổ sung phạm vi chỉ định.

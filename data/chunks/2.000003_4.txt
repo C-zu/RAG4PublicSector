@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký lần đầu đối với tổ chức hỗ trợ nghiên cứu có hoạt động phân tích thống kê và quản lý dữ liệu nghiên cứu thử nghiệm lâm sàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đăng ký hoạt động hỗ trợ nghiên cứu thử nghiệm lâm sàng tại Việt Nam theo mẫu tại phụ lục số 01 của Thông tư này.
+- 02 Bản sao Bản sao có chứng thực một trong các văn bản: Quyết định thành lập, Giấy phép hoạt động, Giấy phép đầu tư, Giấy chứng nhận đăng ký kinh doanh của tổ chức.
+- 02 Bản sao Bản kê khai nhân sự theo mẫu quy định tại phụ lục số 02 ban hành kèm theo Thông tư này và văn bằng, chứng chỉ của nhân viên phân tích thống kê và nhân viên quản lý dữ liệu bao gồm: + Bản sao chứng chỉ đào tạo về thống kê y sinh do cơ sở đào tạo có thẩm quyền tại Việt Nam hoặc nước ngoài cấp đối với nhân viên phân tích thống kê; + Bản sao chứng chỉ tập huấn bồi dưỡng định kỳ hàng năm về lĩnh vực thống kê của nhân viên phân tích thống kê; + Bản sao chứng chỉ hoặc giấy chứng nhận đào tạo về quản lý, sử dụng các phần mềm hoặc hệ thống quản lý dữ liệu đạt các tiêu chuẩn theo yêu cầu của GCP đối với nhân viên quản lý dữ liệu. + Danh mục các trang thiết bị, phần mềm thống kê và hệ thống công nghệ thông tin bảo mật, phù hợp với từng loại hình nghiên cứu phục vụ cho việc thu thập, xử lý, phân tích và quản lý dữ liệu.

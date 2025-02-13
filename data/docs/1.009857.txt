@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009857
+Số quyết định:
+546/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Đào tạo an toàn bức xạ; đào tạo, bồi dưỡng chuyên môn, nghiệp vụ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Đào tạo an toàn bức xạ; Đào tạo, bồi dưỡng chuyên môn nghiệp vụ đối với cá nhân thực hiện các dịch vụ quy định từ điểm a đến điểm k khoản 3 Điều 1 Nghị định 142/2020/NĐ-CP nộp hồ sơ đến Bộ KH&CN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Bộ KH&CN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí đối với hồ sơ hợp lệ hoặc thông báo bằng văn bản yêu cầu bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí, Bộ KH&CN tổ chức thẩm định hồ sơ và cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Trường hợp không cấp Giấy đăng ký hoạt động, Bộ KH&CN phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 10.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 10.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Trực tuyến|30 Ngày|Phí : 10.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 10.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Dịch vụ bưu chính|30 Ngày|Phí : 10.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 10.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy đăng ký hoạt động ([Mau 9_Don cap DKDV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc88f4fe7a2aad0'))
+- 01 Bản sao Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó
+- 01 Bản chính Phiếu khai báo nhân viên thực hiện dịch vụ (mẫu kèm theo), kèm theo Bản sao quyết định tuyển dụng hoặc hợp đồng lao động của tổ chức đề nghị cấp Giấy đăng ký hoạt động đối với nhân viên thực hiện dịch vụ ([Mau 15_KB thiet bi, nhan vien DV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe319da846f01db'))
+- 01 Bản sao Bản sao Chứng chỉ hành nghề dịch vụ tương ứng với loại hình dịch vụ của các nhân viên thực hiện dịch vụ
+- 01 Bản chính Phiếu khai báo trang thiết bị phục vụ hoạt động dịch vụ tương ứng ([Mau 16_KB thiet bi thu hien DV - Copy.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febb3421e21c770'))
+- 01 Bản chính Báo cáo phân tích an toàn ([Mau 12_PL5_BC hoat dong DV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc479d197cda694'))
+- 01 Bản chính Chương trình đào tạo, tài liệu giảng dạy
+- 01 Bản sao Bản sao Giấy phép tiến hành công việc bức xạ sử dụng chất phóng xạ, thiết bị bức xạ đối với trường hợp tổ chức có sử dụng chất phóng xạ, thiết bị bức xạ trên mức miễn trừ khai báo, cấp giấy phép theo quy định tại Quy chuẩn kỹ thuật quốc gia QCVN 5:2010/BKHCN trong quy trình thực hiện dịch vụ
+- 01 Bản sao Tài liệu khác chứng minh điều kiện cơ sở vật chất, kỹ thuật đáp ứng yêu cầu tương ứng với loại hình dịch vụ theo quy định của Nghị định 142/2020/NĐ-CP
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy Đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Đào tạo an toàn bức xạ; Đào tạo, bồi dưỡng chuyên môn nghiệp vụ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+|02/2022/TT-BKHCN|Thông tư 02/2022/TT-BKHCN|25-02-2022|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức được thành lập, hoạt động theo quy định của pháp luật;
+	- Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+	- Có chương trình, tài liệu giảng dạy phù hợp với loại hình đề nghị cấp Giấy đăng ký hoạt động. Chương trình, tài liệu giảng dạy phải bao gồm đủ các nội dung về pháp luật, kỹ thuật và bài thực hành theo quy định của Bộ KH&CN;
+- Có trang thiết bị kỹ thuật phục vụ bài giảng và bài thực hành;
+	- Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+- Tổ chức được thành lập, hoạt động theo quy định của pháp luật;
+	- Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+	- Có chương trình, tài liệu giảng dạy phù hợp với loại hình đề nghị cấp Giấy đăng ký hoạt động. Chương trình, tài liệu giảng dạy phải bao gồm đủ các nội dung về pháp luật, kỹ thuật và bài thực hành theo quy định của Bộ KH&CN;
+- Có trang thiết bị kỹ thuật phục vụ bài giảng và bài thực hành;
+	- Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+Từ khóa:
+Thủ tục cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Đào tạo an toàn bức xạ; đào tạo, bồi dưỡng chuyên môn, nghiệp vụ
+Mô tả:
+Không có thông tin

@@ -1,0 +1,11 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện khảo nghiệm chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1.Văn bản công bố đủ điều kiện thực hiện khảo nghiệm theo Mẫu số 03 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde2cf2c591c8d6'">Mau 03 MTYT 5083.docx</a>)
+- 01 Bản chính 2. Danh mục tên các quy trình khảo nghiệm mà cơ sở có khả năng thực hiện có xác nhận của cơ sở khảo nghiệm.
+- 01 Bản chính 3. Bản kê khai nhân sự theo mẫu quy định tại Phụ lục II ban hành kèm theo Nghị định số 91/2016/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9e6659e40857e0'">Phu luc II MTYT 5083.docx</a>)
+- 01 Bản sao 4. Bản sao hợp lệ Giấy chứng nhận đạt tiêu chuẩn ISO 17025: 2005 hoặc tiêu chuẩn ISO 15189: 2012 hoặc phiên bản cập nhật.
+- 01 Bản chính 5. Danh mục phương tiện, trang thiết bị phục vụ hoạt động khảo nghiệm có xác nhận của cơ sở khảo nghiệm.

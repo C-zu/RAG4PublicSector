@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục Hỗ trợ chi phí mua sắm, máy móc, thiết bị, chuyển giao công nghệ, tiến bộ khoa học kỹ thuật vào sản xuất sản phẩm OCOP; xây dựng, sửa chữa, mua sắm trang thiết bị bảo quản, trang trí điểm cho đơn vị thực hiện việc giới thiệu và bán các sản phẩm OCOP; thiết kế, mua bao bì thương phẩm, mua nhãn hàng hóa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trực tiếp tại Bộ phận tiếp nhận và trả kết quả UBND cấp huyện|
+|Trực tuyến|10 Ngày làm việc||Qua bưu chính công ích đến Bộ phận tiếp nhận và trả kết quả UBND cấp huyện|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trực tuyến mức độ 4 tại địa chỉ: http://dichvucong.nghean.gov.vn|

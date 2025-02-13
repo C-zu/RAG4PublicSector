@@ -1,0 +1,11 @@
+Tên thủ tục: Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước mặt đối với hồ chứa, đập dâng thủy lợi có dung tích toàn bộ từ 20 triệu m3 trở lên; hồ chứa, đập dâng thủy lợi khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng từ 2m3/giây trở lên và có dung tích toàn bộ từ 03 triệu m3 trở lên; công trình khai thác, sử dụng nước khác cấp cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng khai thác từ 5m3/giây trở lên; phát điện với công suất lắp máy từ 2.000 kw trở lên; cho các mục đích khác với lưu lượng từ 50.000m3/ngày đêm trở lên; cấp giấy phép khai thác, sử dụng nước biển cho mục đích sản xuất bao gồm cả nuôi trồng thủy sản, kinh doanh, dịch vụ trên đất liền với lưu lượng từ 1.000.000 m3/ngày đêm trở lên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn hoặc điều chỉnh giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb1339be719be60'">Mẫu 06.doc</a>)
+- 01 Bản chính Kết quả phân tích chất lượng nguồn nước không quá ba (03) tháng tính đến thời điểm nộp hồ sơ
+- 01 Bản sao Bản sao giấy phép đã được cấp
+- 01 Bản chính Bản kê khai tính tiền cấp quyền khai thác tài nguyên nước (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef41e8f7e62834'">PHỤ LỤC III-ban ke khai tien KT nuoc.docx</a>)
+- 01 Bản chính Báo cáo hiện trạng khai thác, sử dụng nước và tình hình thực hiện giấy phép. Trường hợp điều chỉnh quy mô công trình, phương thức, chế độ khai thác sử dụng nước, quy trình vận hành công trình thì phải kèm theo đề án khai thác nước theo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5fa5d23dd2cbc'">Mẫu 31.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef81c4dd52ea0c'">Mẫu 34.doc</a>)

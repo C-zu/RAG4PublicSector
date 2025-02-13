@@ -1,0 +1,10 @@
+Tên thủ tục: Nhóm thủ tục liên thông đăng ký hộ kinh doanh và đăng ký thuế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị đăng ký hộ kinh doanh (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee33294028abba'">GIẤY ĐỀ NGHỊ ĐĂNG KÝ HỘ KINH DOANH.docx</a>)
+- 01 Bản chính Tờ khai đăng ký thuế (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd4cb4c4c6cdd0'">TỜ KHAI ĐĂNG KÝ THUẾ.docx</a>)
+- 01 Bản chính Biên bản họp nhóm cá nhân về việc thành lập hộ kinh doanh đối với trường hợp hộ kinh doanh do một nhóm cá nhân thành lập (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Thẻ căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn hiệu lực của các cá nhân tham gia hộ kinh doanh hoặc người đại diện hộ gia đình (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)

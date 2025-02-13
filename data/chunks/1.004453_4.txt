@@ -1,0 +1,8 @@
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản kê khai tính tiền cấp quyền khai thác tài nguyên nước Mẫu 57, Phụ lục III Nghị định số 54/2024/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec188486ed7170'">Mẫu 57.docx</a>)
+- 01 Bản chính - Các tài liệu, giấy tờ chứng minh.

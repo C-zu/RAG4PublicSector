@@ -1,0 +1,15 @@
+Tên thủ tục: Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Khu vực Thành phố/thị xã/thị trấn|
+|Trực tiếp|5 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Khu vực Nông thôn|
+|Trực tiếp|7 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Nếu phải lắp máy biến dòng|
+|Trực tuyến|3 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Khu vực Thành phố/thị xã/thị trấn|
+|Trực tuyến|5 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Khu vực Nông thôn|
+|Trực tuyến|7 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Nếu phải lắp máy biến dòng|
+|Dịch vụ bưu chính|3 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Khu vực Thành phố/thị xã/thị trấn|
+|Dịch vụ bưu chính|5 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Khu vực Nông thôn|
+|Dịch vụ bưu chính|7 Ngày làm việc|Mức giá : - Lưới điện hạ áp: Từ sau áp tô mát bảo vệ (ngay sau công tơ) đến địa điểm sử dụng điện của Khách hàng - Lưới điện trung áp: Từ điểm đấu nối đến địa điểm sử dụng điện của Khách hàng Đồng|Nếu phải lắp máy biến dòng|

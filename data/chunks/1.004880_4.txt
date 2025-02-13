@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 bản chính Văn bản đề nghị cấp giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường (mẫu quy định tại Phụ lục XXV ban hành kèm theo Nghị định số 08/2022/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3defd550120c2'">Mau 01_Don de nghi cap GCN.docx</a>)
+- 01 Bản chính - 01 bản chính Hồ sơ năng lực của tổ chức (mẫu quy định tại Phụ lục XXVI ban hành kèm theo Nghị định số 08/2022/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab14b6c49915a0'">Mau 02_Ho so nang luc.docx</a>)

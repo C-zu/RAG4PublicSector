@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục gia hạn giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị X-quang chẩn đoán trong y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe52976094df83c'">Mau 6_Don gia han GP.doc</a>)
+- 01 Bản sao Bản sao giấy phép đã được cấp và sắp hết hạn
+- 01 Bản chính Kết quả đo liều kế cá nhân trong thời gian hiệu lực của giấy phép đề nghị gia hạn
+- 01 Bản sao Bản sao kết quả kiểm xạ
+- 01 Bản sao Bản sao Giấy chứng nhận kiểm định thiết bị
+- 01 Bản chính Phiếu khai báo đối với nhân viên bức xạ hoặc người phụ trách an toàn bức xạ (nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép gần nhất) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f507708acd92c00'">Mau 01_KB nhan vien BX.doc</a>)
+- 01 Bản chính Báo cáo đánh giá an toàn bức xạ (nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép gần nhất) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec98ae881d9ea8'">Mau 05_PL5_BC su dung X quang y te.doc</a>)

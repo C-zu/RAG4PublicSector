@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động cho doanh nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Sở Lao động - Thương binh và Xã hội tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ. - Trong thời hạn 05 ngày làm việc, kể từ khi nhận được quyết định hỗ trợ của Sở Lao động - Thương binh và Xã hội, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động cho người sử dụng lao động.|
+|Dịch vụ bưu chính|20 Ngày làm việc||- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Sở Lao động - Thương binh và Xã hội tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ. - Trong thời hạn 05 ngày làm việc, kể từ khi nhận được quyết định hỗ trợ của Sở Lao động - Thương binh và Xã hội, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động cho người sử dụng lao động.|

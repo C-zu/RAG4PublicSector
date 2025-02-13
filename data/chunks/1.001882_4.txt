@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu đối với doanh nghiệp có vốn đầu tư nước ngoài để sản xuất vàng trang sức, mỹ nghệ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec05015313a8e0'">PHỤ LỤC 5.docx</a>)
+- 01 Bản chính Giấy chứng nhận đầu tư.
+- 01 Bản chính Báo cáo tình hình thực hiện xuất khẩu, nhập khẩu và tiêu thụ sản phẩm vàng tại thị trường Việt Nam trong thời hạn 12 (mười hai) tháng liền kề trước thời điểm báo cáo (trường hợp đề nghị cấp Giấy phép nhập khẩu trong năm kế hoạch) hoặc từ đầu năm đến thời điểm báo cáo (trường hợp bổ sung khối lượng nhập khẩu vàng nguyên liệu), kèm bảng kê các tờ khai Hải quan xuất khẩu, nhập khẩu và phiếu trừ lùi in từ hệ thống thông tin nghiệp vụ Hải quan có xác nhận của doanh nghiệp về tính chính xác của tài liệu này. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe567a34719ba9d'">PHỤ LỤC 8.docx</a>)
+- 01 Bản chính Bản kế hoạch sản xuất, kinh doanh của doanh nghiệp; văn bản, tài liệu chứng minh năng lực sản xuất của doanh nghiệp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6016fcc2c8c30'">PHỤ LỤC 7a.docx</a>)
+- 01 Bản chính Hợp đồng gia công vàng trang sức, mỹ nghệ với nước ngoài.

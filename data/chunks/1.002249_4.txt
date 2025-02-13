@@ -1,0 +1,10 @@
+Tên thủ tục: Đưa báo hiệu hàng hải vào sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Văn bản đề nghị đưa báo hiệu hàng hải vào sử dụng theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f96d4dee4d69cc0'">1.002249 mẫu đơn.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính biên bản nghiệm thu bàn giao;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính bình đồ khảo sát và rà quét chướng ngại vật luồng hàng hải đối với báo hiệu hàng hải trên các tuyến luồng hàng hải mới xây dựng do đơn vị có chức năng đo đạc, khảo sát thực hiện và cùng với chủ đầu tư chịu trách nhiệm về tính pháp lý của hồ sơ khảo sát;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính thông báo hàng hải về việc thiết lập mới báo hiệu hàng hải.

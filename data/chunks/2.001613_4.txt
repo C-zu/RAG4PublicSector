@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xác nhận đủ điều kiện được cấp giấy phép hoạt động bảo tàng ngoài công lập
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (2) Đề án hoạt động bảo tàng (Mẫu Phụ lục VI ban hành kèm theo Nghị định số 01/2012/NĐ-CP ngày 04/01/2012). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbfe4baaaa711f0'">PHỤ LỤC VI. ND 01 2012 ND-CP.docx</a>)
+- 01 Bản chính (1) Đơn đề nghị xác nhận đủ điều kiện được cấp giấy phép hoạt động bảo tàng ngoài công lập (Mẫu số 03 Phụ lục I ban hành kèm theo Nghị định số 31/2024/NĐ-CP ngày 15 tháng 3 năm 2024); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7bc254aa475d0'">Phu luc 1.docx</a>)

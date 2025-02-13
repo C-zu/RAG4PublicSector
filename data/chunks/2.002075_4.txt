@@ -1,0 +1,27 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Giấy chứng nhận đăng ký địa điểm kinh doanh thay thế nội dung đăng ký hoạt động trên Giấy phép đầu tư, Giấy chứng nhận đầu tư (đồng thời là Giấy chứng nhận đăng ký kinh doanh) hoặc các giấy tờ có giá trị pháp lý tương đương, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp mà không thay đổi nội dung đăng ký hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh cùng tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt trụ sở chính
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký doanh nghiệp: - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị bổ sung, cập nhật thông tin đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6f809fb93490a'">Phụ lục II-14.docx</a>)
+- 01 Bản sao Bản sao Giấy phép đầu tư, Giấy chứng nhận đầu tư (đồng thời là Giấy chứng nhận đăng ký kinh doanh) hoặc các giấy tờ có giá trị pháp lý tương đương
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế của doanh nghiệp
+- 01 Bản chính Văn bản đề nghị bổ sung cập nhật thông tin đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec197d3e937f6a'">Phụ lục II-15.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp đối với trường hợp chi nhánh, văn phòng đại diện hoạt động theo Giấy này
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế của chi nhánh, văn phòng đại diện

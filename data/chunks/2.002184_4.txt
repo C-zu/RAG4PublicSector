@@ -1,0 +1,36 @@
+Tên thủ tục: Thủ tục khai bổ sung hồ sơ hải quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp khai bổ sung hồ sơ hải quan sau thông quan trong trường hợp gửi thiếu hàng và hàng hóa chưa đưa hoặc đưa một phần ra khỏi khu vực giám sát hải quan
+- 01 Bản sao Văn bản xác nhận gửi thiếu hàng của người gửi hàng
+- 01 Bản sao Hợp đồng và Phụ lục hợp đồng ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa hoặc các chứng từ khác có giá trị tương đương theo quy định của pháp luật
+- 01 Bản sao Hóa đơn thương mại ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa
+- 01 Bản sao Vận đơn hoặc chứng từ vận tải tương đương (trường hợp việc khai bổ sung có liên quan đến các tiêu chí số lượng container, số lượng kiện hoặc trọng lượng đối với hàng rời và hàng hóa chưa đưa ra khỏi khu vực giám sát hải quan)
+- 01 Bản sao Chứng từ thanh toán (nếu có)
+- 01 Bản sao Kết quả giám định về số lượng hàng nhập khẩu thực tế của thương nhân kinh doanh dịch vụ giám định
+
+
+Trường hợp khai bổ sung hồ sơ hải quan trong trường hợp gửi thừa hàng, nhầm hàng
+- 01 Bản sao Văn bản xác nhận gửi thừa hàng, nhầm hàng của người gửi hàng
+- 01 Bản sao Hợp đồng và Phụ lục hợp đồng ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa hoặc các chứng từ khác có giá trị tương đương theo quy định của pháp luật
+- 01 Bản sao Hóa đơn thương mại ghi nhận việc sửa đổi các thông tin về hàng hóa và giá trị hàng hóa
+- 01 Bản sao Vận đơn hoặc chứng từ vận tải tương đương (trường hợp việc khai bổ sung có liên quan đến các tiêu chí số lượng container, số lượng kiện hoặc trọng lượng đối với hàng rời và hàng hóa chưa đưa ra khỏi khu vực giám sát hải quan)
+- 01 Bản sao Chứng từ thanh toán (nếu có)
+- 01 Bản chính Giấy phép đã điều chỉnh về số lượng đối với những hàng hóa phải có giấy phép và thực hiện khai bổ sung trong thông quan
+- 01 Bản chính Giấy chứng nhận kiểm tra chuyên ngành đã điều chỉnh về số lượng nếu trên Giấy chứng nhận kiểm tra chuyên ngành có ghi nhận số lượng
+
+
+Trường hợp khai bổ sung trong trường hợp xuất khẩu, nhập khẩu được thỏa thuận mua, bán nguyên lô, nguyên tàu và có thỏa thuận về dung sai về số lượng và cấp độ thương mại của hàng hóa
+- 01 Bản sao Phiếu cân hàng của cảng (đối với hàng rời, hàng xá) hoặc Chứng từ kiểm kiện của cảng hoặc Biên bản ghi nhận tại hiện trường giám định về số lượng, trọng lượng của thương nhân kinh doanh dịch vụ giám định hoặc Kết quả giám định số lượng, chủng loại của thương nhân kinh doanh dịch vụ giám định
+- 01 Bản sao Phiếu nhập kho của người nhập khẩu đối với tờ khai hải quan nhập khẩu hoặc Phiếu xuất kho của người xuất khẩu đối với tờ khai hải quan xuất khẩu
+- 01 Bản sao Biên bản nhận hàng có đại diện người bán ký xác nhận hoặc Bảng quyết toán có xác nhận của người mua và người bán về số lượng, kết quả phân loại cấp độ thương mại của hàng hóa và số tiền thanh toán theo thực tế. Trường hợp Bảng quyết toán không có đủ xác nhận của người mua và người bán thì phải có xác nhận của người khai hải quan trên chứng từ
+- 01 Bản sao Hợp đồng mua bán hàng hóa có thể hiện nội dung thỏa thuận về việc chấp nhận sự sai lệch về số lượng, chủng loại và cách thức quyết toán số tiền thanh toán theo thực tế tương ứng và hình thức thanh toán
+- 01 Bản sao Chứng từ thanh toán (nếu có)
+- 01 Bản chính Giấy phép đã điều chỉnh về số lượng đối với những hàng hóa phải có giấy phép: 01 bản chính. Trường hợp cơ quan quản lý nhà nước chuyên ngành gửi giấy phép dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia theo quy định pháp luật về một cửa quốc gia, người khai hải quan không phải nộp chứng từ này
+
+
+Bao gồm
+- 01 Bản chính + Tờ khai điện tủ theo mẫu số 01, mẫu số 02, mẫu số 04 hoặc mẫu số 05 phụ lục I Thông tư 39/2018/TT-BTC trong trường hợp khai báo điện tử. Trường hợp khai báo tờ khai giấy, văn bản đề nghị khai bổ sung theo mẫu số 03/KBS/GSQL Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính được sửa đổi, bổ sung tại Phụ lục II Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ trưởng Bộ Tài chính: 02 bản chính.
+- 01 Bản sao + Các chứng từ liên quan đến việc khai bổ sung

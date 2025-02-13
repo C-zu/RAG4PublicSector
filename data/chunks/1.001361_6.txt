@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục xác nhận sử dụng mã nước ngoài hoặc ủy quyền sử dụng mã số, mã vạch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức nộp đơn xác nhận sử dụng mã nước ngoài có bằng chứng được đối tác nước ngoài ủy quyền sử dụng mã số, mã vạch hợp pháp.
+- Đóng phí xác nhận đầy đủ.
+- Tổ chức nộp đơn xác nhận sử dụng mã nước ngoài có bằng chứng được đối tác nước ngoài ủy quyền sử dụng mã số, mã vạch hợp pháp.
+- Đóng phí xác nhận đầy đủ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

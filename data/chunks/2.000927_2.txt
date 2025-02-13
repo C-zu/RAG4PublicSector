@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục sửa lỗi sai sót trong hợp đồng, giao dịch
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Người yêu cầu chứng thực nộp 01 bộ hồ sơ.
++ Việc sửa lỗi sai sót trong khi ghi chép, đánh máy, in hợp đồng, giao dịch đã được chứng thực được thực hiện theo thỏa thuận bằng văn bản của các bên tham gia hợp đồng, giao dịch, nếu không làm ảnh hưởng đến quyền, nghĩa vụ của các bên và được thực hiện tại cơ quan đã chứng thực hợp đồng, giao dịch.
++ Người thực hiện chứng thực gạch chân lỗi sai sót cần sửa, đóng dấu của cơ quan thực hiện chứng thực và ghi vào bên lề của hợp đồng, giao dịch nội dung đã sửa, họ tên, chữ ký của người sửa, ngày tháng năm sửa.
++ Người yêu cầu chứng thực nhận kết quả tại nơi nộp hồ sơ.

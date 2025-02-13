@@ -1,0 +1,98 @@
+Tên thủ tục: Kiểm dịch y tế đối với hàng hóa
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Khai báo y tế đối với hàng hóa:
+
+1. Đối với hàng hóa vận tải bằng đường bộ, đường sắt, đường hàng không: người khai báo y tế khai, nộp giấy khai báo y tế hàng hóa, giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có) cho tổ chức kiểm dịch y tế biên giới hoặc qua Cổng thông tin một cửa quốc gia trước khi hàng hóa được phép nhập khẩu, xuất khẩu, quá cảnh.
+
+2. Đối với hàng hóa vận tải bằng đường thủy: người khai báo y tế thực hiện khai, nộp bản sao bản khai hàng hóa và giấy chứng nhận kiểm tra y tế hàng hóa (trên tàu thuyền), tàu thuyền (nếu có) cho tổ chức kiểm dịch y tế biên giới hoặc qua Cổng thông tin một cửa quốc gia trước 12 giờ kể từ khi hàng hóa dự kiến nhập khẩu, xuất khẩu, quá cảnh.
+Bước 2. Thu thập thông tin trước khi hàng hóa vận chuyển qua biên giới
+
+Các thông tin cần thu thập:
+
+a) Thông tin về nơi hàng hóa xuất phát hoặc quá cảnh;
+
+b) Thông tin về chủng loại, số lượng, bảo quản, đóng gói hàng hóa và phương tiện vận chuyển.
+Bước 3. Xử lý thông tin đối với hàng hóa
+
+1. Kiểm dịch viên y tế thực hiện kiểm tra y tế đối với các hàng hóa có yếu tố nguy cơ bao gồm:
+
+a) Hàng hóa vận chuyển qua quốc gia, vùng lãnh thổ có ghi nhận trường hợp bệnh truyền nhiễm mà Bộ Y tế có yêu cầu phải giám sát;
+
+b) Hàng hóa mang hoặc có dấu hiệu mang mầm bệnh, trung gian truyền bệnh truyền nhiễm;
+
+c) Hàng hóa vận chuyển bằng phương tiện có yếu tố nguy cơ:
+
+- Phương tiện vận tải đi qua quốc gia, vùng lãnh thổ có ghi nhận trường hợp bệnh truyền nhiễm mà Bộ Y tế có yêu cầu phải giám sát;
+
+- Phương tiện vận tải chở người bệnh hoặc người nghi ngờ mắc bệnh hoặc mang tác nhân gây bệnh truyền nhiễm;
+
+- Phương tiện vận tải chở hàng hóa mang tác nhân gây bệnh truyền nhiễm hoặc nghi ngờ mang tác nhân gây bệnh truyền nhiễm.
+
+d) Hàng hóa có thông báo của cơ quan có thẩm quyền về nguy cơ lây lan dịch bệnh truyền nhiễm.
+
+2. Trường hợp hàng hóa không có yếu tố nguy cơ kiểm dịch viên y tế thực hiện giám sát hàng hóa trong thời gian chờ nhập cảnh, xuất cảnh, quá cảnh gồm các nội dung sau:
+
+a) Đối chiếu giấy khai báo y tế đối với hàng hóa, trừ trường hợp hàng hóa quá cảnh mà không bốc dỡ khỏi phương tiện;
+
+b) Giám sát tác nhân gây bệnh truyền nhiễm, trung gian gây bệnh truyền nhiễm xâm nhập vào hàng hóa.
+
+3. Thực hiện giám sát theo quy định đối với hàng hóa nhập khẩu chờ làm thủ tục nhập khẩu trước khi chuyển về kho ngoại quan nằm ngoài cửa khẩu.
+
+4. Trong quá trình giám sát, nếu phát hiện hàng hóa có trung gian truyền bệnh truyền nhiễm, tác nhân gây bệnh truyền nhiễm hoặc không bảo đảm điều kiện vệ sinh chung (bao gồm phát hiện chất thải, chất tiết, dấu vết của trung gian truyền bệnh; hàng hóa có tình trạng nấm, mốc, mùi hôi thối), kiểm dịch viên y tế thu thập thêm thông tin về các biện pháp xử lý y tế đã áp dụng, cần hỗ trợ, đề xuất biện pháp kiểm tra y tế vào Giấy khai báo y tế đối với hàng hóa.
+
+5. Trường hợp hàng hóa không thuộc một trong các trường hợp quy định, kiểm dịch viên y tế xác nhận kết quả kiểm dịch y tế và kết thúc quy trình kiểm dịch.
+Bước 4. Kiểm tra giấy tờ đối với hàng hóa
+
+Kiểm dịch viên y tế kiểm tra các loại giấy tờ sau:
+
+a) Đối với hàng hóa vận tải bằng đường bộ, đường sắt, đường hàng không: giấy khai báo y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không, giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có);
+
+b) Đối với hàng hóa vận tải bằng đường thủy: bản sao bản khai hàng hóa; giấy chứng nhận kiểm tra y tế hàng hóa (trên tàu thuyền), tàu thuyền (nếu có).
+Bước 5. Kiểm tra thực tế đối với hàng hóa
+
+Kiểm dịch viên y tế yêu cầu đưa hàng hóa vào khu vực kiểm tra y tế, thực hiện kiểm tra các nội dung sau:
+
+1. Nội dung khai báo với thực tế hàng hóa;
+
+2. Tình trạng vệ sinh chung;
+
+3. Trung gian truyền bệnh truyền nhiễm;
+
+4. Quy định về dụng cụ, bao gói chứa đựng, thông tin ghi trên nhãn; điều kiện vận chuyển;
+
+5. Đánh giá hiệu quả các biện pháp xử lý y tế đã áp dụng;
+
+6. Lấy mẫu xét nghiệm trong các trường hợp:
+
+a) Hàng hóa có yếu tố nguy cơ bao gồm:
+
+- Hàng hóa vận chuyển qua quốc gia, vùng lãnh thổ có ghi nhận trường hợp bệnh truyền nhiễm mà Bộ Y tế có yêu cầu phải giám sát;
+
+- Hàng hóa mang hoặc có dấu hiệu mang mầm bệnh, trung gian truyền bệnh truyền nhiễm;
+
+- Hàng hóa vận chuyển bằng phương tiện có yếu tố nguy cơ:
+
++ Phương tiện vận tải đi qua quốc gia, vùng lãnh thổ có ghi nhận trường hợp bệnh truyền nhiễm mà Bộ Y tế có yêu cầu phải giám sát;
+
++ Phương tiện vận tải chở người bệnh hoặc người nghi ngờ mắc bệnh hoặc mang tác nhân gây bệnh truyền nhiễm;
+
++ Phương tiện vận tải chở hàng hóa mang tác nhân gây bệnh truyền nhiễm hoặc nghi ngờ mang tác nhân gây bệnh truyền nhiễm.
+
+- Hàng hóa có thông báo của cơ quan có thẩm quyền về nguy cơ lây lan dịch bệnh truyền nhiễm.
+
+b) Hàng hóa có trung gian truyền bệnh truyền nhiễm, tác nhân gây bệnh truyền nhiễm hoặc không bảo đảm điều kiện vệ sinh chung (bao gồm phát hiện chất thải, chất tiết, dấu vết của trung gian truyền bệnh; hàng hóa có tình trạng nấm, mốc, mùi hôi thối).
+
+c) Hàng hóa thuộc một trong các trường hợp:
+
+- Xuất phát hoặc đi qua quốc gia, vùng lãnh thổ ghi nhận có trường hợp bệnh truyền nhiễm thuộc nhóm A mà chưa được xử lý y tế;
+
+- Phương tiện vận tải chở hàng hóa xuất phát hoặc đi qua quốc gia, vùng lãnh thổ ghi nhận có trường hợp bệnh truyền nhiễm thuộc nhóm A mà chưa được xử lý y tế.
+Bước 6. Xử lý y tế đối với hàng hóa
+
+Căn cứ kết quả kiểm tra thực tế, kiểm dịch viên y tế có thể áp dụng một hoặc các biện pháp sau:
+
+a) Khử trùng, diệt tác nhân gây bệnh, trung gian truyền bệnh truyền nhiễm;
+
+b) Buộc tiêu hủy hoặc tái xuất đối với hàng hóa không thể diệt được tác nhân gây bệnh, trung gian truyền bệnh truyền nhiễm.

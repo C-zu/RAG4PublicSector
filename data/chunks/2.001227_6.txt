@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp mã số, mã vạch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức nộp đơn có Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập hợp pháp.
+- Nộp phí cấp và phí duy trì quyền sử dụng mã số, mã vạch theo quy định.
+- Tổ chức nộp đơn có Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập hợp pháp.
+- Nộp phí cấp và phí duy trì quyền sử dụng mã số, mã vạch theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

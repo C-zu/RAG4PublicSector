@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm theo mẫu số 03 quy định tại Phụ lục ban hành kèm theo Nghị định số 93/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về điều kiện sản xuất mỹ phẩm (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef810fc93c95b4'">NĐ 93.2016 Mau 03 ND155.2018.docx</a>)

@@ -1,0 +1,26 @@
+Tên thủ tục: Đính chính Giấy chứng nhận đã cấp
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Người Việt Nam định cư ở nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Văn phòng đăng ký quyền sử dụng đất cấp tỉnh
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh, Sở Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Sở Tài nguyên và Môi trường
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng đất quyền sở hữu nhà ở và tài sản khác gắn liền với đất tài sản khác gắn liền với đất, Ghi vào sổ địa chính và lập hồ sơ để Nhà nước quản lý.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP ngày 06 tháng 01 năm 2014 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai|06-01-2017|Chính phủ|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|45/2013/QH13|Luật 45/2013/QH13|29-11-2013|Quốc Hội|
+|10/2023/NĐ-CP|Nghị định 10/2023/NĐ-CP|03-04-2023||
+|85/2019/TT-BTC|Thông tư 85/2019/TT-BTC|29-11-2019||
+|24/2014/TT-BTNMT|Thông tư 24/2014/TT-BTNMT|20-05-2014||

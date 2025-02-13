@@ -1,0 +1,9 @@
+Tên thủ tục: Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản bản tin (địa phương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản bản tin (địa phương)
+- 01 Bản chính Văn bản đề nghị thay đổi của cơ quan, tổ chức
+- 01 Bản chính Sơ yếu lý lịch của người chịu trách nhiệm xuất bản bản tin đối với trường hợp thay đổi người chịu trách nhiệm xuất bản bản tin
+- 01 Bản chính Mẫu trình bày tên gọi bản tin có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép và bản dịch tiếng Việt được công chứng đối với trường hợp thay đổi tên gọi bản tin thể hiện bằng tiếng nước ngoài

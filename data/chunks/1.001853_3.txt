@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại giấy phép hoạt động dịch vụ việc làm của doanh nghiệp hoạt động dịch vụ việc làm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 0 Đồng|- Đối với trường hợp doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp (gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép, người đại diện theo pháp luật của doanh nghiệp); giấy phép bị mất; giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép: 05 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).|
+|Trực tiếp|08 Ngày làm việc|Phí : 0 Đồng|Đối với trường hợp doanh nghiệp thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép: 08 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).|
+|Trực tuyến|05 Ngày làm việc|Phí : 0 Đồng|- Đối với trường hợp doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp (gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép, người đại diện theo pháp luật của doanh nghiệp); giấy phép bị mất; giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép: 05 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).|
+|Trực tuyến|08 Ngày làm việc|Phí : 0 Đồng|Đối với trường hợp doanh nghiệp thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép: 08 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 0 Đồng|- Đối với trường hợp doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp (gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép, người đại diện theo pháp luật của doanh nghiệp); giấy phép bị mất; giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép: 05 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).|
+|Dịch vụ bưu chính|08 Ngày làm việc|Phí : 0 Đồng|Đối với trường hợp doanh nghiệp thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép: 08 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).|

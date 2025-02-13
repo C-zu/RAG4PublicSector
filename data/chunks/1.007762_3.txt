@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định giá bán, thuê mua, thuê nhà ở xã hội được đầu tư xây dựng theo dự án không sử dụng nguồn vốn hoặc hình thức quy định tại khoản 1 Điều 53 của Luật Nhà ở số 65/2014/QH13 đã được sửa đổi, bổ sung tại điểm b khoản 6 Điều 99 của Luật PPP số 64/2020/QH14 trên phạm vi địa bàn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.Gửi hồ sơ tới UBND cấp tỉnh nơi có nhà ở xã hội|

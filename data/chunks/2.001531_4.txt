@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự (thực hiện tại cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+*) Trường hợp để mất Giấy chứng nhận đủ điều kiện về an ninh, trật tự:
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh gửi cơ quan Công an có thẩm quyền (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaf5ff0c91176a'">Mẫu số 03-KDDK-ND56.docx</a>)
+- 01 Bản chính Biên lai nộp tiền phạt theo quy định của pháp luật.
+
+
+Trường hợp bị cơ quan Công an có thẩm quyền thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự đối với trường hợp quy định tại các điểm b, c và h khoản 1 Điều 18 Nghị định số 96/2016/NĐ-CP:
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh gửi cơ quan Công an có thẩm quyền (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6ce32e4c5cb20'">Mẫu số 03-KDDK-ND56.docx</a>)
+- 01 Bản sao Bản sao hợp lệ các tài liệu bổ sung chứng minh đáp ứng đủ điều kiện để hoạt động kinh doanh (nếu có).

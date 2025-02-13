@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục bổ sung, sửa đổi hộ chiếu phổ thông (điều chỉnh họ tên, ngày tháng năm sinh, nơi sinh, giới tính, số giấy chứng minh nhân dân trong hộ chiếu), hoặc bổ sung trẻ em dưới 09 tuổi vào hộ chiếu Việt Nam của cha hoặc mẹ tại cơ quan đại diện Việt Nam ở nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 15 USD Bổ sung, sửa đổi, dán ảnh trẻ em  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed25e308f38399'">VanBanGoc_264-2016-TT-BTC.pdf</a>|Nộp hồ sơ trực tiếp tại trụ sở Cơ quan đại diện Trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong trường hợp không đủ căn cứ để bổ sung, sửa đổi hộ chiếu phải xác minh thì không quá 05 ngày làm việc kể từ ngày nhận được thông báo của các cơ quan chức năng.|

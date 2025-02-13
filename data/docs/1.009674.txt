@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009674
+Số quyết định:
+3795/QĐ-UBND (đặc thù)
+Tên thủ tục:
+Thẩm định kế hoạch lựa chọn Nhà đầu tư
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư theo phương thức đối tác công tư
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, lãnh đạo Sở ký duyệt. Chuyển sang thực hiện Bước 8
+- Trường hợp, hồ sơ đáp ứng yêu cầu thực hiện bước tiếp theo
+B5	Dự thảo Tờ trình đề nghị UBND tỉnh cấp Quyết định phê duyệt kế hoạch lựa chọn Nhà đầu tư kèm dự thảo Quyết định phê duyệt kế hoạch lựa chọn Nhà đầu tư
+
+B6	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B7	Lãnh đạo Sở xem xét ký duyệt
+B8	Làm thủ tục phát hành văn bản và:
++ Trường hợp hồ sơ không đủ điều kiện chuyển kết quả sang TTPVHCC trả cho tổ chức, cá nhân. Chuyển sang bước11
++ Trường hợp hồ sơ đủ điều kiện chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B9	Ủy ban nhân dân tỉnh xem xét, giải quyết theo thẩm định
+
+B10	- Nhận kết quả từ UBND tỉnh và chuyển sang TTPVHCC để trả cho tổ chức, cá nhân
+- Cập nhật, theo dõi kết quả xử lý công việc
+B11	Trả kết quả cho tổ chức
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||- Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh; - Qua Bưu điện; - Qua mạng điện tử theo quy trình trên dịch vụ công của tỉnh, tại địa chỉ: dichvucong.hatinh.gov.vn.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Tờ trình đề nghị phê duyệt nội dung kế hoạch lựa chọn nhà đầu tư;
+- 02 Bản chính Báo cáo thẩm định;
+- 02 Bản sao Các tài liệu liên quan cần thiết khác.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Văn phòng Ủy ban nhân dân - tỉnh Hòa Bình
+Địa chỉ tiếp nhận HS:
+Trung tâm hành chính công tỉnh Hà Tĩnh, số 02 A đường nguyễn Chí Thanh, TP hà Tĩnh, tỉnh Hà TĨnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Báo cáo thẩm định, quyết định phê duyệt kế hoạch lựa chọn nhà đầu tư.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2020/TT-BKHCN|Thông tư số 06/2020/TT-BKHCN ngày 10/12/2020 của Bộ Khoa học, Công nghệ và Môi trường quy định chi tiết và biện pháp thi hành một số điều Nghị định số 132/2008/NĐ-CP ngày 31/12/2008, Nghị định số 74/2018/NĐ-CP ngày 15/5/2018, Nghị định số 154/2018/NĐ-CP ngày 09/11/2018 và Nghị định số 119/2017/NĐ-CP ngày 01 /11 /2017 của Chính phủ|10-12-2020|Bộ Khoa học và Công nghệ|
+|06/2020/TT-BKHĐT|Thông tư 06/2020/TT-BKHĐT|18-09-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

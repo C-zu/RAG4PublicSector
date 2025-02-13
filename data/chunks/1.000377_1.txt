@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký, cấp biển số xe lần đầu (thực hiện tại cấp tỉnh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000377
+Số quyết định:
+6640/QĐ-BCA
+Tên thủ tục:
+Đăng ký, cấp biển số xe lần đầu (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ

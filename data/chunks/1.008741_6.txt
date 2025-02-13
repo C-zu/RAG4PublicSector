@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt phương án triển khai tuyến cáp viễn thông trên địa bàn thành phố
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1. Bảo đảm Quy chuẩn kỹ thuật quốc gia về lắp đặt mạng cáp ngoại vi viễn thông QCVN 33:2011/BTTTT ban hành theo Thông tư số 10/2011/TT-BTTTT ngày 14 tháng 4 năm 2011 của Bộ Thông tin và Truyền thông và Quy định quản lý cáp viễn thông trên địa bàn thành phố ban hành kèm theo Quyết định số 09/2018/QĐ-UBND ngày 05/3/2018 của UBND thành phố;
+2. Bảo đảm an toàn cho chính công trình, và các công trình lân cận, đảm bảo sự hoạt động bình thường của hệ thống đã có trong trường hợp dùng chung hạ tầng;
+3. Đáp ứng các quy chuẩn, tiêu chuẩn kỹ thuật chuyên ngành, không gây ảnh hưởng tới môi trường, an toàn giao thông và sức khỏe cho cộng đồng; 
+4. Bảo đảm tuân thủ quy hoạch xây dựng, kiến trúc, cảnh quan đô thị và viễn thông của thành phố Đà Nẵng.
+1. Bảo đảm Quy chuẩn kỹ thuật quốc gia về lắp đặt mạng cáp ngoại vi viễn thông QCVN 33:2011/BTTTT ban hành theo Thông tư số 10/2011/TT-BTTTT ngày 14 tháng 4 năm 2011 của Bộ Thông tin và Truyền thông và Quy định quản lý cáp viễn thông trên địa bàn thành phố ban hành kèm theo Quyết định số 09/2018/QĐ-UBND ngày 05/3/2018 của UBND thành phố;
+2. Bảo đảm an toàn cho chính công trình, và các công trình lân cận, đảm bảo sự hoạt động bình thường của hệ thống đã có trong trường hợp dùng chung hạ tầng;
+3. Đáp ứng các quy chuẩn, tiêu chuẩn kỹ thuật chuyên ngành, không gây ảnh hưởng tới môi trường, an toàn giao thông và sức khỏe cho cộng đồng; 
+4. Bảo đảm tuân thủ quy hoạch xây dựng, kiến trúc, cảnh quan đô thị và viễn thông của thành phố Đà Nẵng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

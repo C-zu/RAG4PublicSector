@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định, chấp thuận bản vẽ Tổng mặt bằng thuộc dự án đầu tư xây dựng công trình - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định, chấp thuận bản vẽ điều chỉnh Tổng mặt bằng dự án theo mẫu BM.QH.01.01
+- 01 Bản chính Thuyết minh nội dung bản vẽ điều chỉnh có các sơ đồ, bản vẽ thu nhỏ khổ A3, các phụ lục tính toán, căn cứ pháp lý kèm theo
+- 01 Bản chính Bản vẽ điều chỉnh Tổng mặt bằng, phương án kiến trúc công trình, giải pháp hạ tầng kỹ thuật, tỷ lệ 1/500 đã được ký thỏa thuận với chính quyền địa phương (in đúng tỷ lệ theo quy định, có lồng ghép bản đồ địa hình). - Hồ sơ pháp nhân và hồ sơ năng lực của tổ chức, cá nhân tư vấn lập Bản vẽ điều chỉnh Tổng mặt bằng dự án
+- 01 Bản sao Đĩa CD lưu trữ toàn bộ hồ sơ, bao gồm thuyết minh, bản vẽ điều chỉnh, các văn bản pháp lý liên quan và các quy định quản lý theo quy hoạch (file số hóa bản vẽ theo định dạng Autocad, PDF; file số hóa văn bản theo định dạng word, excel, PDF).

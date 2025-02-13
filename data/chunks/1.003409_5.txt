@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp giấy công nhận các tổ chức đủ điều kiện tổ chức thi, chấm thi vô tuyến điện nghiệp dư
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Tần số vô tuyến điện
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Các Trung tâm Tần số vô tuyến điện khu vực. Xem chi tiết tại đây: http://www.rfd.gov.vn/gioi-thieu/co-cau-to-chuc/pages/cac-trung-tam.aspx
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Bộ Tài chính
+Kết quả thực hiện:
+Giấy chứng nhận
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|42/2009/QH12|Luật số 42/2009/QH12 ngày 04/12/2009 của Quốc hội về tần số vô tuyến điện|01-07-2010|Bộ Thông tin và Truyền thông|
+|18/2008/QĐ-BTTTT|Về việc ban hành “Quy định về hoạt động vô tuyến điện nghiệp dư”|04-04-2008|Bộ Thông tin và Truyền thông|
+|42/2009/QH12|Tần số vô tuyến điện|23-11-2009|Quốc Hội|
+|05/2015/TT-BTTTT|Quy định chi tiết và hướng dẫn thủ tục cấp giấy phép sử dụng tần số vô tuyến điện; cho thuê, cho mượn thiết bị vô tuyến điện; sử dụng chung tần số vô tuyến điện|23-03-2015|Bộ Thông tin và Truyền thông|

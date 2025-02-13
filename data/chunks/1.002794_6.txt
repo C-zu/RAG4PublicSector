@@ -1,0 +1,46 @@
+Tên thủ tục: Thủ tục đăng ký cấp bổ sung thẻ chuyên gia tư vấn, thẻ chuyên gia đánh giá cho tổ chức tư vấn, tổ chức chứng nhận
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Trong thời hạn hiệu lực của Giấy xác nhận, tổ chức tư vấn, tổ chức chứng nhận
+- Đối với tổ chức tư vấn: chuyên gia tư vấn thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) đáp ứng các yêu cầu quy định sau:
++ Đã tốt nghiệp đại học;
++ Có chứng chỉ đào tạo về quản lý hành chính nhà nước chương trình tương đương ngạch chuyên viên trở lên hoặc chương trình do Bộ Khoa học và Công nghệ quy định;
+Trường hợp đã tốt nghiệp đại học chuyên ngành hành chính tại Học viện Hành chính Quốc gia được miễn yêu cầu này;
++ Có chứng chỉ đào tạo về tư vấn xây dựng Hệ thống quản lý chất lượng theo quy định tại Chương IV Thông tư số 26/2014/TT-BKHCN;
+Trường hợp đã được cấp thẻ chuyên gia tư vấn theo quy định tại Thông tư số 01/2010/TT-BKHCN ngày 25 tháng 02 năm 2010 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về hoạt động tư vấn, đánh giá và chứng nhận hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 đối với cơ quan hành chính nhà nước (sau đây gọi tắt là Thông tư số 01/2010/TT-BKHCN) và Thông tư số 09/2011/TT-BKHCN ngày 30 tháng 6 năm 2011 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung, bãi bỏ một số quy định của Thông tư số 01/2010/TT-BKHCN (sau đây gọi tắt là Thông tư số 09/2011/TT-BKHCN) sẽ được xem xét miễn yêu cầu này;
++ Có thâm niên công tác từ 03 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và có kinh nghiệm tư vấn xây dựng Hệ thống quản lý chất lượng (đã tham gia tư vấn chính cho ít nhất 05 tổ chức, doanh nghiệp xây dựng Hệ thống quản lý chất lượng và đã được chứng nhận nhận bởi tổ chức chứng nhận đã đăng ký lĩnh vực hoạt động theo quy định tại Thông tư số 08/2009/TT-BKHCN và Thông tư số 10/2011/TT-BKHCN);
++ Có đạo đức tốt, có năng lực hành vi dân sự đầy đủ.
+Cá nhân chỉ được xem xét, cấp thẻ chuyên gia tư vấn khi thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) của 01 tổ chức tư vấn tương ứng.
+- Đối với tổ chức chứng nhận: chuyên gia đánh giá thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) đáp ứng các yêu cầu quy định sau:
++ Đã tốt nghiệp đại học;
++ Có chứng chỉ đào tạo về quản lý hành chính nhà nước chương trình tương đương ngạch chuyên viên trở lên hoặc chương trình do Bộ Khoa học và Công nghệ quy định;
+Trường hợp đã tốt nghiệp đại học chuyên ngành hành chính tại Học viện Hành chính Quốc gia được miễn yêu cầu này;
++ Có chứng chỉ đào tạo về đánh giá Hệ thống quản lý chất lượng theo quy định tại Chương IV Thông tư số 26/2014/TT-BKHCN;
+Trường hợp đã được cấp thẻ chuyên gia đánh giá theo quy định tại Thông tư số 01/2010/TT-BKHCN và Thông tư số 09/2011/TT-BKHCN sẽ được xem xét miễn yêu cầu này;
++ Có thâm niên công tác từ 05 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và có kinh nghiệm đánh giá Hệ thống quản lý chất lượng (đã thực hiện đánh giá Hệ thống quản lý chất lượng với tư cách là trưởng đoàn đánh giá cho ít nhất 10 tổ chức, doanh nghiệp);
++ Có đạo đức tốt, có năng lực hành vi dân sự đầy đủ.
+Cá nhân chỉ được xem xét, cấp thẻ chuyên gia đánh giá khi thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) của tổ chức chứng nhận tương ứng.
+Trong thời hạn hiệu lực của Giấy xác nhận, tổ chức tư vấn, tổ chức chứng nhận
+- Đối với tổ chức tư vấn: chuyên gia tư vấn thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) đáp ứng các yêu cầu quy định sau:
++ Đã tốt nghiệp đại học;
++ Có chứng chỉ đào tạo về quản lý hành chính nhà nước chương trình tương đương ngạch chuyên viên trở lên hoặc chương trình do Bộ Khoa học và Công nghệ quy định;
+Trường hợp đã tốt nghiệp đại học chuyên ngành hành chính tại Học viện Hành chính Quốc gia được miễn yêu cầu này;
++ Có chứng chỉ đào tạo về tư vấn xây dựng Hệ thống quản lý chất lượng theo quy định tại Chương IV Thông tư số 26/2014/TT-BKHCN;
+Trường hợp đã được cấp thẻ chuyên gia tư vấn theo quy định tại Thông tư số 01/2010/TT-BKHCN ngày 25 tháng 02 năm 2010 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về hoạt động tư vấn, đánh giá và chứng nhận hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001:2008 đối với cơ quan hành chính nhà nước (sau đây gọi tắt là Thông tư số 01/2010/TT-BKHCN) và Thông tư số 09/2011/TT-BKHCN ngày 30 tháng 6 năm 2011 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung, bãi bỏ một số quy định của Thông tư số 01/2010/TT-BKHCN (sau đây gọi tắt là Thông tư số 09/2011/TT-BKHCN) sẽ được xem xét miễn yêu cầu này;
++ Có thâm niên công tác từ 03 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và có kinh nghiệm tư vấn xây dựng Hệ thống quản lý chất lượng (đã tham gia tư vấn chính cho ít nhất 05 tổ chức, doanh nghiệp xây dựng Hệ thống quản lý chất lượng và đã được chứng nhận nhận bởi tổ chức chứng nhận đã đăng ký lĩnh vực hoạt động theo quy định tại Thông tư số 08/2009/TT-BKHCN và Thông tư số 10/2011/TT-BKHCN);
++ Có đạo đức tốt, có năng lực hành vi dân sự đầy đủ.
+Cá nhân chỉ được xem xét, cấp thẻ chuyên gia tư vấn khi thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) của 01 tổ chức tư vấn tương ứng.
+- Đối với tổ chức chứng nhận: chuyên gia đánh giá thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) đáp ứng các yêu cầu quy định sau:
++ Đã tốt nghiệp đại học;
++ Có chứng chỉ đào tạo về quản lý hành chính nhà nước chương trình tương đương ngạch chuyên viên trở lên hoặc chương trình do Bộ Khoa học và Công nghệ quy định;
+Trường hợp đã tốt nghiệp đại học chuyên ngành hành chính tại Học viện Hành chính Quốc gia được miễn yêu cầu này;
++ Có chứng chỉ đào tạo về đánh giá Hệ thống quản lý chất lượng theo quy định tại Chương IV Thông tư số 26/2014/TT-BKHCN;
+Trường hợp đã được cấp thẻ chuyên gia đánh giá theo quy định tại Thông tư số 01/2010/TT-BKHCN và Thông tư số 09/2011/TT-BKHCN sẽ được xem xét miễn yêu cầu này;
++ Có thâm niên công tác từ 05 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và có kinh nghiệm đánh giá Hệ thống quản lý chất lượng (đã thực hiện đánh giá Hệ thống quản lý chất lượng với tư cách là trưởng đoàn đánh giá cho ít nhất 10 tổ chức, doanh nghiệp);
++ Có đạo đức tốt, có năng lực hành vi dân sự đầy đủ.
+Cá nhân chỉ được xem xét, cấp thẻ chuyên gia đánh giá khi thuộc biên chế chính thức (viên chức hoặc lao động ký hợp đồng không xác định thời hạn) của tổ chức chứng nhận tương ứng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

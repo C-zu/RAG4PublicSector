@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004237
+Số quyết định:
+1236/QĐ-BTNMT
+Tên thủ tục:
+Khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tổng hợp
+Trình tự thực hiện:
+a) Bước 1: Nộp hồ sơ
+Tổ chức, cá nhân nộp Phiếu yêu cầu cung cấp thông tin, dữ liệu tài nguyên và môi trường (theo mẫu số 02 hoặc mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 đã sửa đổi theo quy định của Nghị định số 22/2023/NĐ-CP) qua Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh, Cổng dịch vụ công quốc gia theo địa chỉ https://dichvucong.gov.vn hoặc trực tiếp hoặc gửi qua dịch vụ bưu chính đến Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương.
+b) Bước 2: Kiểm tra hồ sơ
+Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Cơ quan quản lý thông tin, dữ liệu) có trách nhiệm kiểm tra yêu cầu khai thác và sử dụng thông tin, dữ liệu của tổ chức, cá nhân, đảm bảo được thuận tiện, dễ dàng và đúng kết quả.
+c) Bước 3: Thông báo và trả kết quả hồ sơ
+Trường hợp thông tin yêu cầu hợp lệ, cơ quan quản lý thông tin, dữ liệu thực hiện việc cung cấp thông tin, dữ liệu cho tổ chức, cá nhân.
+Trường hợp từ chối cung cấp thông tin, dữ liệu thì cơ quan quản lý thông tin, dữ liệu phải gửi thông tin thông báo nêu rõ lý do cho tổ chức, cá nhân.
+Trường hợp tạm ngừng cung cấp thông tin, dữ liệu, dịch vụ có liên quan trên môi trường mạng, cơ quan cung cấp thông tin, dữ liệu có trách nhiệm thông báo công khai chậm nhất là 07 ngày làm việc trước khi chủ động tạm ngừng cung cấp trừ trường hợp bất khả kháng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Thực hiện theo quy định pháp luật về phí và lệ phí.|- Tổ chức, cá nhân nộp hồ sơ trực tiếp đến Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương. - Trong thời hạn 05 ngày làm việc, cơ quan quản lý thông tin, dữ liệu tiếp nhận kiểm tra văn bản, phiếu yêu cầu, thông báo nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Sau khi tổ chức, cá nhân thực hiện nghĩa vụ tài chính, cơ quan quản lý thông tin, dữ liệu có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu cho các tổ chức, cá nhân. Trường hợp từ chối cung cấp thông tin, dữ liệu thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.|
+|Trực tuyến|05 Ngày làm việc|Phí : Thực hiện theo quy định pháp luật về phí và lệ phí.|- Tổ chức, cá nhân nộp hồ sơ trực tuyến: qua Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh, Cổng dịch vụ công quốc gia theo địa chỉ https://dichvucong.gov.vn. - Trong thời hạn 05 ngày làm việc, cơ quan quản lý thông tin, dữ liệu tiếp nhận kiểm tra văn bản, phiếu yêu cầu, thông báo nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Sau khi tổ chức, cá nhân thực hiện nghĩa vụ tài chính, cơ quan quản lý thông tin, dữ liệu có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu cho các tổ chức, cá nhân. Trường hợp từ chối cung cấp thông tin, dữ liệu thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Thực hiện theo quy định pháp luật về phí và lệ phí.|- Tổ chức, cá nhân nộp hồ sơ qua dịch vụ bưu chính đến Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương. - Trong thời hạn 05 ngày làm việc, cơ quan quản lý thông tin, dữ liệu tiếp nhận kiểm tra văn bản, phiếu yêu cầu, thông báo nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Sau khi tổ chức, cá nhân thực hiện nghĩa vụ tài chính, cơ quan quản lý thông tin, dữ liệu có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu cho các tổ chức, cá nhân. Trường hợp từ chối cung cấp thông tin, dữ liệu thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu tài nguyên và môi trường ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcf8aa3f46f14c'))
+- 01 Bản chính Phiếu yêu cầu cung cấp thông tin, dữ liệu tài nguyên và môi trường đối với cá nhân nước ngoài tại Việt Nam ([Mẫu số 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febd83c603559c8'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Sở Tài nguyên và Môi trường - Tỉnh Hậu Giang
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông tin, dữ liệu tài nguyên, môi trường.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|73/2017/NĐ-CP|Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường|14-06-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Văn bản yêu cầu của cơ quan, tổ chức phải có chữ ký của Thủ trưởng cơ quan và đóng dấu xác nhận. Phiếu yêu cầu của cá nhân phải ghi rõ họ tên, địa chỉ và chữ ký của người yêu cầu cung cấp thông tin, dữ liệu.
+- Trường hợp người có nhu cầu khai thác và sử dụng thông tin, dữ liệu tài nguyên, môi trường là cá nhân nước ngoài tại Việt Nam thì văn bản yêu cầu phải được tổ chức, doanh nghiệp nơi người đó đang làm việc ký xác nhận, đóng dấu; đối với các chuyên gia, thực tập sinh là người nước ngoài đang làm việc cho các chương trình, dự án tại các bộ, ngành, địa phương hoặc học tập tại các cơ sở đào tạo tại Việt Nam thì phải được cơ quan có thẩm quyền của bộ, ngành, địa phương hoặc các cơ sở đào tạo đó ký xác nhận, đóng dấu theo Mẫu số 03 kèm theo.
+- Việc khai thác và sử dụng cơ sở dữ liệu thông qua mạng điện tử chỉ được thực hiện khi thông tin, dữ liệu được yêu cầu cung cấp có thể truyền tải qua mạng điện tử và cơ quan quản lý thông tin, dữ liệu có đủ điều kiện để cung cấp thông tin, dữ liệu qua mạng điện tử.
+- Văn bản yêu cầu của cơ quan, tổ chức phải có chữ ký của Thủ trưởng cơ quan và đóng dấu xác nhận. Phiếu yêu cầu của cá nhân phải ghi rõ họ tên, địa chỉ và chữ ký của người yêu cầu cung cấp thông tin, dữ liệu.
+- Trường hợp người có nhu cầu khai thác và sử dụng thông tin, dữ liệu tài nguyên, môi trường là cá nhân nước ngoài tại Việt Nam thì văn bản yêu cầu phải được tổ chức, doanh nghiệp nơi người đó đang làm việc ký xác nhận, đóng dấu; đối với các chuyên gia, thực tập sinh là người nước ngoài đang làm việc cho các chương trình, dự án tại các bộ, ngành, địa phương hoặc học tập tại các cơ sở đào tạo tại Việt Nam thì phải được cơ quan có thẩm quyền của bộ, ngành, địa phương hoặc các cơ sở đào tạo đó ký xác nhận, đóng dấu theo Mẫu số 03 kèm theo.
+- Việc khai thác và sử dụng cơ sở dữ liệu thông qua mạng điện tử chỉ được thực hiện khi thông tin, dữ liệu được yêu cầu cung cấp có thể truyền tải qua mạng điện tử và cơ quan quản lý thông tin, dữ liệu có đủ điều kiện để cung cấp thông tin, dữ liệu qua mạng điện tử.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

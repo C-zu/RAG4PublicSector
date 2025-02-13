@@ -1,0 +1,11 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp (địa phương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Tổ chức, doanh nghiệp có giấy phép thiết lập trang thông tin điện tử tổng hợp phải làm thủ tục sửa đổi, bổ sung giấy phép trong những trường hợp sau:
+-   Thay đổi tên của tổ chức, doanh nghiệp;
+-   Thay đổi địa điểm đặt máy chủ tại Việt Nam;
+-   Thay đổi nhân sự chịu trách nhiệm;
+-   Thay đổi, bổ sung nội dung thông tin, phạm vi cung cấp cung cấp thông tin (tên miền khi cung cấp trên trang thông tin điện tử, hệ thống phân phối ứng dụng khi cấp cho các thiết bị di động)
+2. Tổ chức, doanh nghiệp gửi hồ sơ đề nghị đến cơ quan cấp giấy phép.
+Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Sở Thông tin và Truyền thông thẩm định, cấp sửa đổi, bổ sung giấy phép đã cấp. Trường hợp từ chối có văn bản trả lời nêu rõ lý do.

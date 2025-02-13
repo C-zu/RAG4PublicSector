@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000151
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ (tự xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân tự xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng nộp hồ sơ cho Cục ATBXHN.
+
+Bước 2: Cục ATBXHN xem xét hồ sơ và tổ chức thẩm định:
++ Nếu đủ điều kiện theo quy định hiện hành, Cục ATBXHN cấp giấy phép tiến hành công việc bức xạ (tự xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng).
++ Trong trường hợp không cấp giấy phép, Cục ATBXHN trả lời bằng văn bản và nêu rõ lý do.
+Bước 3: Cục ATBXHN cấp Giấy phép tiến hành công việc bức xạ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Phí : 500000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 1 với số lượng nhỏ hơn 10 nguồn  Phí : 1000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 2 với số lượng nhỏ hơn 10 nguồn  Phí : 15000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng với số lượng lớn hơn hoặc bằng 10 nguồn hoặc nguồn thuộc nhóm 3||
+|Dịch vụ bưu chính|60 Ngày|Phí : 500000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 1 với số lượng nhỏ hơn 10 nguồn  Phí : 1000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 2 với số lượng nhỏ hơn 10 nguồn  Phí : 15000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng với số lượng lớn hơn hoặc bằng 10 nguồn hoặc nguồn thuộc nhóm 3||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín đã qua sử dụng
+- 01 Bản chính Báo cáo đánh giá an toàn
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ (tự xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|08/2010/TT-BKHCN|Hướng dẫn về việc khai báo, cấp giấy phép tiến hành công việc bức xạ và cấp chứng chỉ nhân viên bức xạ|03-06-2008|Bộ Khoa học và Công nghệ|
+|287/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực năng lượng nguyên tử|15-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn thời hạn giao khu vực biển (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính Đơn đề nghị gia hạn thời hạn giao khu vực biển (được lập theo Mẫu số 02 Nghị định số 11/2021/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea6646645f0010'">Mẫu 02.docx</a>)
+- 01 Bản chính Bản chính Quyết định giao khu vực biển đã được cấp.
+- 01 Bản sao Bản sao văn bản cho phép khai thác, sử dụng tài nguyên biển đã được cơ quan nhà nước có thẩm quyền gia hạn hoặc còn thời hạn
+- 01 Bản chính Bản chính Báo cáo tình hình sử dụng khu vực biển, công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ tài chính của tổ chức, cá nhân tính đến thời điểm nộp hồ sơ đề nghị gia hạn

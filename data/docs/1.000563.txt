@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000563
+Số quyết định:
+1617/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự đổi với thiệt hại ô nhiễm dầu (CLC 1992)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+Chủ tàu nộp hồ sơ Cấp Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự đối với thiệt hại ô nhiễm dầu (CLC 1992) đến Cơ quan đăng ký tàu biển.
+Đối tượng được cấp Giấy chứng nhận: Là tàu biển Việt Nam và tàu biển mang cờ quốc tịch nước ngoài vận chuyển trên 2000 tấn dầu dưới dạng xô.
+b) Giải quyết TTHC
+Trường hợp trực tiếp nộp hồ sơ: Cơ quan đăng ký tàu biển nhận hồ sơ, kiểm tra hồ sơ theo quy định, vào sổ hồ sơ và cấp giấy hẹn trả kết quả đúng thời hạn quy định.
+Trường hợp gửi hồ sơ qua hệ thống bưu chính: Cơ quan đăng ký tàu biển nhận hồ sơ, kiểm tra hồ sơ theo quy định và vào sổ hồ sơ theo đúng ngày và dấu bưu điện. Ngày vào sổ hồ sơ là căn cứ để tính ngày cấp Giấy chứng nhận theo quy định.
+Đối với hồ sơ không đúng quy định:  Trường hợp chủ tàu nộp hồ sơ trực tiếp, Cơ quan đăng ký tàu biển hướng dẫn chủ tàu hoàn thiện hồ sơ theo quy định; trường hợp gửi hồ sơ qua hệ thống bưu chính, chậm nhất 02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan đăng ký tàu biển thông báo bằng văn bản đến chủ tàu đề nghị bổ sung, hoàn thiện hồ sơ.
+Trường hợp hồ sơ không đủ điều kiện theo quy định, chậm nhất 03 (ba) ngày làm việc, kể từ ngày nhận hồ sơ, Cơ quan đăng ký tàu biển phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày||Chậm nhất 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|3 Ngày||Chậm nhất 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị của chủ tàu theo mẫu ([don de nghị.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5eafead70f370'))
+- 01 Bản chính Bản chính đơn bảo hiểm hoặc giấy chứng nhận bảo đảm tài chính phù hợp với quy định của Công ước CLC 1992; trường hợp việc bảo hiểm có tái bảo hiểm thì chủ tàu phải nộp cả bản gốc giấy chứng nhận của tổ chức nhận tái bảo hiểm liên quan; Trường hợp đơn bảo hiểm hoặc bảo đảm tài chính, giấy chứng nhận tái bảo hiểm về trách nhiệm dân sự của chủ tàu được cấp dưới dạng dữ liệu điện tử, chủ tàu phải cung cấp địa chỉ chính thức, hợp pháp trang thông tin điện tử của tổ chức đã cấp để kiểm tra;
+- 01 Bản sao Bản sao (chụp) Giấy chứng nhận đăng ký tàu biển. ([GCN ĐK tàu biển.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2e5808c0f65ab'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam, Chi Cục Hàng hải tại thành phố Hải Phòng, Chi Cục Hàng hải tại thành phố Hồ Chí Minh, Cảng vụ hàng hải Đà Nẵng
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam, Chi Cục Hàng hải tại thành phố Hải Phòng, Chi Cục Hàng hải tại thành phố Hồ Chí Minh, Cảng vụ hàng hải Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự đổi với thiệt hại ô nhiễm dầu (CLC 1992)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2005/QH11|Hàng hải Việt Nam|14-06-2005|Quốc Hội|
+|84/2005/QĐ-BTC|Về việc quy định chế độ thu, nộp, quản lý, sử dụng phí thẩm định hồ sơ mua, bán tàu biển và lệ phí đăng ký tàu biển, cấp bằng,chứng chỉ liên quan đến hoạt động tàu biển và công bố cảng biển|28-11-2005|Bộ Tài chính|
+|12/2011/TT-BGTVT|Quy định về cấp, thu hồi Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính theo Công ước quốc tế về trách nhiệm dân sự đối với tổn thất ô nhiễm dầu năm 1992|30-03-2011|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Có đơn bảo hiểm hoặc bảo đảm tài chính đáp ứng các quy định của Công ước CLC 1992
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

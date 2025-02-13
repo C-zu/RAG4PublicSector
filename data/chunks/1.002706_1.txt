@@ -1,0 +1,16 @@
+Tên thủ tục: Khám giám định thương tật lần đầu do tai nạn lao động
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002706
+Số quyết định:
+2968/QĐ-BYT
+Tên thủ tục:
+Khám giám định thương tật lần đầu do tai nạn lao động
+Cấp thực hiện:
+Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Giám định y khoa

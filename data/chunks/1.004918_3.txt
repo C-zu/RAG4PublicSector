@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện sản xuất, ương dưỡng giống thuỷ sản (trừ cơ sở sản xuất, ương dưỡng giống thủy sản bố mẹ, cơ sở sản xuất, ương dưỡng đồng thời giống thủy sản bố mẹ và giống thủy sản không phải là giống thủy sản bố mẹ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trường hợp cấp mới: 13 ngày làm việc, kể từ ngày nhận đủ hồ sơ . - Trường hợp cấp lại: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||- Trường hợp cấp mới: 13 ngày làm việc, kể từ ngày nhận đủ hồ sơ . - Trường hợp cấp lại: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|- Trường hợp cấp mới: 13 ngày làm việc, kể từ ngày nhận đủ hồ sơ . - Trường hợp cấp lại: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||- Trường hợp cấp mới: 13 ngày làm việc, kể từ ngày nhận đủ hồ sơ . - Trường hợp cấp lại: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|- Trường hợp cấp mới: 13 ngày làm việc, kể từ ngày nhận đủ hồ sơ . - Trường hợp cấp lại: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||- Trường hợp cấp mới: 13 ngày làm việc, kể từ ngày nhận đủ hồ sơ . - Trường hợp cấp lại: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

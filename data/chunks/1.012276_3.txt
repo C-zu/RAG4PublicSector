@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi giấy phép hành nghề đối với trường hợp quy định tại điểm i khoản 1 Điều 35 của Luật Khám bệnh, chữa bệnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Lệ phí : 0 Đồng|sau 15 ngày kể từ khi nhận được đơn đề nghị và giấy phép hành nghề kèm theo|
+|Trực tuyến|15 Ngày|Lệ phí : 0 Đồng|sau 15 ngày kể từ khi nhận được đơn đề nghị và giấy phép hành nghề kèm theo|
+|Dịch vụ bưu chính|15 Ngày|Lệ phí : 0 Đồng|sau 15 ngày kể từ khi nhận được đơn đề nghị và giấy phép hành nghề kèm theo|

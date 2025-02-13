@@ -1,0 +1,16 @@
+Tên thủ tục: Lập, thẩm định, quyết định phê duyệt khoản viện trợ là chương trình, dự án hỗ trợ kỹ thuật sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009704
+Số quyết định:
+3249/QĐ-UBND
+Tên thủ tục:
+Lập, thẩm định, quyết định phê duyệt khoản viện trợ là chương trình, dự án hỗ trợ kỹ thuật sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức

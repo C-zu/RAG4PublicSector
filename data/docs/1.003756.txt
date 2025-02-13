@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003756
+Số quyết định:
+3246/QĐ-BYT
+Tên thủ tục:
+Cấp phép nhập khẩu thuốc có chứa dược chất chưa có giấy đăng ký lưu hành thuốc tại Việt Nam, thuốc có chứa dược liệu lần đầu sử dụng tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y Dược cổ truyền
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp phép nhập khẩu nộp hồ sơ nhập khẩu trực tiếp hoặc gửi qua đường bưu điện về:
+- Cục Quản lý Dược đối với thuốc hóa dược, thuốc dược liệu, vắc xin, sinh phẩm ;
+- Cục Quản lý Y, Dược cổ truyền đối với thuốc cổ truyền ;
+Bước 2: Sau khi nhận được hồ sơ, cơ quan tiếp nhận hồ sơ trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP;
+Bước 3: Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 90 (chín mươi) ngày, Bộ Y tế cấp phép nhập khẩu trên cơ sở thẩm định hồ sơ, tư vấn của Hội đồng tư vấn cấp giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc;
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 90 (chín mươi) ngày, Bộ Y tế gửi văn bản cho cơ sở để yêu cầu sửa đổi, bổ sung hồ sơ;
+Bước 4: Sau khi nhận hồ sơ sửa đổi, bổ sung, cơ quan tiếp nhận hồ sơ trả cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP. Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Bộ Y tế có văn bản thông báo cho cơ sở theo quy định tại bước 3. Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Bộ Y tế cấp phép nhập khẩu theo quy định tại bước 3.
+Trong thời hạn 06 (sáu) tháng, kể từ ngày Bộ Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị cấp phép nhập khẩu phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 12 (mười hai) tháng kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị;
+Bước 5: Trong thời hạn 10 (mười) ngày làm việc, kể từ ngày cấp phép nhập khẩu thuốc, Bộ Y tế có trách nhiệm công bố trên Cổng thông tin điện tử của đơn vị bao gồm thông tin nhà nhập khẩu, nhà sản xuất, số lượng, tên thuốc và số giấy phép nhập khẩu, số lượng giấy đăng ký lưu hành đối với mỗi hoạt chất.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|90 Ngày|Phí : 1.200.000 Đồng trừ các trường hợp nhập khẩu theo quy định tại các Điều 67, 72, 73, 74, 75 Nghị định số 54/2017/NĐ-CP ngày 08/5/2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Dược|Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|90 Ngày|Phí : 1.200.000 Đồng trừ các trường hợp nhập khẩu theo quy định tại các Điều 67, 72, 73, 74, 75 Nghị định số 54/2017/NĐ-CP ngày 08/5/2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Dược|Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính a) 03 (ba) bản chính Đơn hàng nhập khẩu theo: - Mẫu số 15 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với vắc xin, sinh phẩm, thuốc hóa dược; - Mẫu số 16 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất; - Mẫu số 17 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc dược liệu, thuốc cổ truyền; ([ND 54_Mau 17_Phuluc III.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6de359af5f3d2'))
+- 01 Bản chính, 01 Bản sao b) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận sản phẩm dược;
+- 01 Bản sao c) Bản sao tiêu chuẩn chất lượng và phương pháp kiểm nghiệm thuốc của cơ sở sản xuất có đóng dấu của cơ sở nhập khẩu;
+- 01 Bản chính d) Bản chính 01 bộ mẫu nhãn và tờ hướng dẫn sử dụng của thuốc ở nước sản xuất hoặc nước xuất khẩu, trừ trường hợp mẫu nhãn và tờ hướng dẫn sử dụng hoặc tờ tóm tắt đặc tính sản phẩm được đính kèm Giấy chứng nhận sản phẩm dược;
+- 02 Bản chính đ) 02 (hai) bộ mẫu nhãn dự kiến lưu hành tại Việt Nam kèm tờ hướng dẫn sử dụng tiếng Việt có đóng dấu của cơ sở nhập khẩu;
+- 01 Bản chính e) Dữ liệu lâm sàng về an toàn, hiệu quả theo quy định về đăng ký thuốc của Bộ trưởng Bộ Y tế. Miễn nộp tài liệu tại điểm này trong trường hợp thuốc đã từng được cấp phép nhập khẩu theo quy định tại Điều này và không có thay đổi thông tin liên quan đến chỉ định, liều dùng, đối tượng sử dụng. Miễn nộp tài liệu tại điểm này trong trường hợp thuốc đã từng được cấp phép nhập khẩu theo quy định tại Điều này và không có thay đổi thông tin liên quan đến chỉ định, liều dùng, đối tượng sử dụng;
+- 01 Bản chính g) Báo cáo kết quả kinh doanh thuốc trong trường hợp thuốc nhập khẩu là thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất, theo Mẫu số 18 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP; ([ND 54_Mau 18_Phuluc III.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febdb798128a1e3'))
+- 01 Bản chính, 01 Bản sao h) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận Thực hành tốt sản xuất của tất cả các cơ sở tham gia sản xuất thuốc nhập khẩu trong trường hợp thuốc được sản xuất bởi nhiều cơ sở. Miễn nộp tài liệu tại điểm này đối với trường hợp cơ sở sản xuất đã được xác nhận đạt nguyên tắc, tiêu chuẩn thực hành tốt sản xuất trên Giấy chứng nhận sản phẩm dược;
+- 01 Bản chính Giấy tờ trong hồ sơ đề nghị cấp phép nhập khẩu thuốc: theo quy định tại Điều 76 Nghị định số 54/2017/NĐ-CP và các khoản 40, 41, 42 Điều 4; khoản 42 Điều 5 Nghị định số 155/2018/NĐ-CP.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Dược - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+138a Giảng Võ – Ba ĐÌnh – Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu/Công văn cho phép nhập khẩu thuốc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|
+|Luật 105/2016/QH13|105/2016/QH13 Dược|06-04-2016|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+1. Thuốc đáp ứng các tiêu chí sau:
+a) Được cấp phép lưu hành tại một trong các nước sau: Nước sản xuất, nước thành viên của hội nghị quốc tế và hài hòa hóa các thủ tục đăng ký dược phẩm sử dụng cho người (The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use - ICH) hoặc Australia;
+b) Thuốc thuộc một trong các trường hợp sau:
+- Có trong các hướng dẫn chẩn đoán, phòng bệnh, điều trị do Bộ Y tế ban hành hoặc phê duyệt;
+- Thuốc dùng cho mục đích cấp cứu, chống độc, chống thải ghép;
+- Thuốc dùng trong chẩn đoán, dự phòng hoặc điều trị đối với: bệnh truyền nhiễm nhóm A; bệnh ung thư; HIV/AIDS; bệnh viêm gan virus; bệnh lao; bệnh sốt rét; các bệnh khác do Bộ trưởng Bộ Y tế quyết định;
+2. Cơ sở nhập khẩu là cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, phạm vi: xuất khẩu, nhập khẩu thuốc phù hợp với thuốc đề nghị nhập khẩu thuốc.
+1. Thuốc đáp ứng các tiêu chí sau:
+a) Được cấp phép lưu hành tại một trong các nước sau: Nước sản xuất, nước thành viên của hội nghị quốc tế và hài hòa hóa các thủ tục đăng ký dược phẩm sử dụng cho người (The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use - ICH) hoặc Australia;
+b) Thuốc thuộc một trong các trường hợp sau:
+- Có trong các hướng dẫn chẩn đoán, phòng bệnh, điều trị do Bộ Y tế ban hành hoặc phê duyệt;
+- Thuốc dùng cho mục đích cấp cứu, chống độc, chống thải ghép;
+- Thuốc dùng trong chẩn đoán, dự phòng hoặc điều trị đối với: bệnh truyền nhiễm nhóm A; bệnh ung thư; HIV/AIDS; bệnh viêm gan virus; bệnh lao; bệnh sốt rét; các bệnh khác do Bộ trưởng Bộ Y tế quyết định;
+2. Cơ sở nhập khẩu là cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, phạm vi: xuất khẩu, nhập khẩu thuốc phù hợp với thuốc đề nghị nhập khẩu thuốc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

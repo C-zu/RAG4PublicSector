@@ -1,0 +1,9 @@
+Tên thủ tục: Xóa đăng ký
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai xóa đăng ký theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a9a23b27774e'">10.1TK.doc</a>)
+- 01 Bản chính Giấy chứng nhận đăng ký (bản chính); trường hợp giấy chứng nhận đăng ký bị mất, chủ tàu phải khai báo và nêu rõ lý do; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2d8510bc2406c'">GCN đăng ký.docx</a>)
+- 01 Bản chính Trường hợp tàu biển đang được thế chấp thì phải được sự chấp thuận bằng văn bản của người nhận thế chấp và phải thực hiện thủ tục xóa đăng ký thế chấp trước khi tiến hành thủ tục xóa đăng ký tàu biển.

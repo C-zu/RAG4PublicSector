@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy phép thành lập chi nhánh của công ty luật nước ngoài tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thành lập chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb8d4d6a2ec4ad0'">TP-LS-16.docx</a>)
+- 01 Bản sao Bản sao Giấy phép thành lập công ty luật nước ngoài
+- 01 Bản chính Giấy uỷ quyền cho luật sư làm Trưởng chi nhánh
+- 01 Bản sao Bản sao Giấy phép hành nghề của luật sư được uỷ quyền làm Trưởng chi nhánh
+- 01 Bản chính Giấy tờ chứng minh về trụ sở của chi nhánh

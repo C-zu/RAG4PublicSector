@@ -1,0 +1,100 @@
+Tên thủ tục: Cấp Giấy phép thăm dò khoáng sản (cấp Trung ương)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+* Tổ chức, cá nhân đề nghị cấp phép thăm dò phải đáp ứng đủ điều kiện theo quy định tại khoản 1 Điều 34 Luật khoáng sản bao gồm:
++ Doanh nghiệp được thành lập theo Luật doanh nghiệp;
++ Hợp tác xã, liên hiệp hợp tác xã được thành lập theo Luật hợp tác xã;
++ Doanh nghiệp nước ngoài có văn phòng đại diện hoặc chi nhánh tại Việt Nam.
+* Được lựa chọn theo quy định tại Điều 36 của Luật khoáng sản; Điều 25 Nghị định số 158/2016/NĐ-CP.
+* Là tổ chức, cá nhân trúng đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò theo quy định của Luật khoáng sản; nếu tổ chức, cá nhân không có đủ điều kiện hành nghề thăm dò khoáng sản thì phải có hợp đồng với tổ chức đủ điều kiện hành nghề thăm dò khoáng sản để tiếp tục thực hiện đề án thăm dò theo quy định tại khoản 1 Điều 35 Luật khoáng sản và tại Chương III Nghị định số 60/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định một số điều kiện đầu tư kinh doanh trong lĩnh vực tài nguyên và môi trường bao gồm:
+(1) Tổ chức hành nghề thăm dò khoáng sản
+- Doanh nghiệp thành lập theo quy định của Luật doanh nghiệp.
+- Tổ chức khoa học và công nghệ thành lập theo quy định của Luật khoa học và công nghệ.
+- Hợp tác xã, liên hiệp hợp tác xã thành lập theo quy định của Luật hợp tác xã.
+- Tổ chức sự nghiệp chuyên ngành địa chất được cơ quan nhà nước có thẩm quyền thành lập có chức năng, nhiệm vụ thăm dò khoáng sản.
+(2) Hồ sơ hành nghề thăm dò khoáng sản
+- Tổ chức hành nghề thăm dò khoáng sản quy định tại Điều 12 Nghị định số 60/2016/NĐ-CP khi thi công đề án thăm dò khoáng sản phải có hồ sơ hành nghề thăm dò khoáng sản, gồm:
++ Bản sao có chứng thực quyết định thành lập hoặc giấy chứng nhận hoạt động khoa học và công nghệ hoặc giấy chứng nhận đăng ký doanh nghiệp do cơ quan có thẩm quyền cấp;
++ Hợp đồng thi công đề án thăm dò khoáng sản với tổ chức, cá nhân được phép thăm dò khoáng sản, kèm theo giấy phép thăm dò khoáng sản được cơ quan có thẩm quyền cấp;
++ Danh sách cán bộ, công nhân tham gia thi công đề án thăm dò khoáng sản; các hợp đồng lao động (hoặc văn bản tương đương) của người phụ trách kỹ thuật và công nhân kỹ thuật tham gia trực tiếp thi công đề án theo quy định;
++ Tài liệu của các cá nhân tham gia thi công đề án thăm dò khoáng sản (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu) gồm: Quyết định giao nhiệm vụ cho người phụ trách kỹ thuật (sau đây được gọi là chủ nhiệm đề án thăm dò khoáng sản) kèm theo văn bằng chứng chỉ ngành nghề, lý lịch khoa học của chủ nhiệm đề án; hợp đồng lao động hoặc quyết định tuyển dụng; quyết định bổ nhiệm chức danh hoặc giao nhiệm vụ; văn bằng chứng chỉ ngành nghề phù hợp với nhiệm vụ giao; bản sao chứng minh nhân dân, căn cước công dân hoặc hộ chiếu;
++ Danh mục các thiết bị, công cụ chuyên dùng để thi công công trình thăm dò khoáng sản phù hợp với đề án thăm dò khoáng sản.
+- Trường hợp đề án thăm dò khoáng sản do tổ chức có giấy phép thăm dò khoáng sản trực tiếp thi công thì phải có hồ sơ đáp ứng yêu cầu quy định tại dấu cộng thứ 3, 4, 5 mục (2) Hồ sơ hành nghề thăm dò khoáng sản..
+- Hồ sơ hành nghề thăm dò khoáng sản được quản lý, lưu giữ tại tổ chức, cá nhân có giấy phép thăm dò khoáng sản và tổ chức hành nghề thăm dò khoáng sản.
+(3) Điều kiện đối với chủ nhiệm đề án thăm dò khoáng sản
+- Có người phụ trách kỹ thuật tốt nghiệp đại học chuyên ngành địa chất thăm dò đã công tác thực tế thăm dò trong khoáng sản ít nhất 05 năm; có hiểu biết, nắm vững tiêu chuẩn, quy chuẩn kỹ thuật
+- Là công dân Việt Nam hoặc người nước ngoài có giấy phép lao động tại Việt Nam theo quy định của pháp luật về lao động;
+- Có văn bằng đào tạo trình độ đại học trở lên thuộc chuyên ngành địa chất thăm dò khoáng sản hoặc tương đương; đối với đề án thăm dò nước khoáng, nước nóng là chuyên ngành địa chất thủy văn - địa chất công trình;
+- Có kinh nghiệm tham gia thi công đề án điều tra địa chất, thăm dò khoáng sản tối thiểu 05 năm; có chứng chỉ chủ nhiệm đề án thăm dò khoáng sản do Bộ Tài nguyên và Môi trường cấp;
+- Đối với đề án thăm dò khoáng sản độc hại, phải có thời gian tham gia thi công với tư cách là cán bộ kỹ thuật địa chất ít nhất 01 (một) đề án thăm dò khoáng sản độc hại hoặc đã làm chủ nhiệm 01 (một) đề án thăm dò khoáng sản từ khi lập đề án đến lập báo cáo kết thúc được cấp trên phê duyệt.
+- Chủ nhiệm đề án thăm dò khoáng sản chỉ thực hiện chức trách khi có quyết định giao nhiệm vụ của tổ chức được phép thăm dò khoáng sản hoặc tổ chức hành nghề thăm dò khoáng sản.
+- Trong cùng một thời gian, chủ nhiệm đề án thăm dò khoáng sản chỉ đảm nhận chức trách tối đa 02 (hai) đề án thăm dò khoáng sản.
+(4) Điều kiện đối với đội ngũ công nhân kỹ thuật thực hiện đề án thăm dò khoáng sản
+- Đội ngũ công nhân kỹ thuật theo các chuyên ngành trắc địa, địa chất, địa chất thủy văn, địa chất công trình, địa vật lý, thi công công trình (khai đào, khoan) và các chuyên ngành khác có liên quan phải đáp ứng yêu cầu phù hợp về số lượng theo đề án thăm dò khoáng sản đã được thẩm định khi cấp giấy phép thăm dò khoáng sản.
+- Các nhóm công nhân kỹ thuật theo các chuyên ngành khi thi công phải cử người phụ trách đáp ứng yêu cầu chuyên môn và thời gian kinh nghiệm như sau:
++ Đối với đề án thăm dò khoáng sản độc hại, phải có thời gian công tác tối thiểu 05 năm đối với người có trình độ trung cấp nghề hoặc 03 năm đối với người có trình độ đại học; trong đó, có ít nhất 01 năm tham gia thi công đề án điều tra địa chất hoặc thăm dò đối với khoáng sản độc hại;
++ Đối với các đề án thăm dò khoáng sản còn lại, phải có thời gian làm việc tối thiểu 03 năm đối với người có trình độ trung cấp nghề hoặc 02 năm đối với người có trình độ đại học.
+(5) Điều kiện về thiết bị, công cụ chuyên dùng thi công công trình thăm dò khoáng sản
+- Thiết bị, công cụ chuyên dùng để thi công công trình thăm dò khoáng sản phải đảm bảo số lượng, chất lượng, tính năng kỹ thuật đáp ứng với hạng mục, công việc trong đề án thăm dò đã được thẩm định khi cấp giấy phép thăm dò khoáng sản.
+- Thăm dò khoáng sản phóng xạ, đất hiếm phải có thiết bị, công cụ chuyên dụng và đội ngũ cán bộ kỹ thuật vận hành đáp ứng các yêu cầu về an toàn phóng xạ theo quy định của pháp luật về an toàn bức xạ hạt nhân.
+* Khu vực đề nghị thăm dò có diện tích:
++ Không quá 50 kilômét vuông (km2) đối với đá quý, đá bán quý, khoáng sản kim loại, trừ bauxit;
++ Không quá 100 kilômét vuông (km2) đối với than, bauxit, khoáng sản không kim loại ở đất liền có hoặc không có mặt nước, trừ khoáng sản làm vật liệu xây dựng thông thường;
++ Không quá 200 kilômét vuông (km2) đối với khoáng sản các loại ở thềm lục địa, trừ khoáng sản làm vật liệu xây dựng thông thường;
++ Không quá 02 kilômét vuông (km2) ở đất liền, không quá 01 kilômét vuông (km2) ở vùng có mặt nước đối với khoáng sản làm vật liệu xây dựng thông thường;
++ Không quá 02 kilômét vuông (km2) đối với nước khoáng, nước nóng thiên nhiên.
+* Khu vực đề nghị thăm dò:
++ Không có tổ chức, cá nhân đang thăm dò hoặc khai thác khoáng sản hợp pháp và không thuộc khu vực cấm hoạt động khoáng sản, khu vực tạm thời cấm hoạt động khoáng sản, khu vực dự trữ khoáng sản quốc gia hoặc khu vực đang được điều tra cơ bản địa chất về khoáng sản cùng loại với khoáng sản xin cấp giấy phép thăm dò;
+* Đề án thăm dò phù hợp với quy hoạch khoáng sản; đối với khoáng sản độc hại còn phải được Thủ tướng Chính phủ cho phép bằng văn bản;
+* Có vốn chủ sở hữu ít nhất bằng 50% tổng vốn đầu tư thực hiện đề án thăm dò khoáng sản.
+* Tổ chức, cá nhân đề nghị cấp phép thăm dò phải đáp ứng đủ điều kiện theo quy định tại khoản 1 Điều 34 Luật khoáng sản bao gồm:
++ Doanh nghiệp được thành lập theo Luật doanh nghiệp;
++ Hợp tác xã, liên hiệp hợp tác xã được thành lập theo Luật hợp tác xã;
++ Doanh nghiệp nước ngoài có văn phòng đại diện hoặc chi nhánh tại Việt Nam.
+* Được lựa chọn theo quy định tại Điều 36 của Luật khoáng sản; Điều 25 Nghị định số 158/2016/NĐ-CP.
+* Là tổ chức, cá nhân trúng đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò theo quy định của Luật khoáng sản; nếu tổ chức, cá nhân không có đủ điều kiện hành nghề thăm dò khoáng sản thì phải có hợp đồng với tổ chức đủ điều kiện hành nghề thăm dò khoáng sản để tiếp tục thực hiện đề án thăm dò theo quy định tại khoản 1 Điều 35 Luật khoáng sản và tại Chương III Nghị định số 60/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định một số điều kiện đầu tư kinh doanh trong lĩnh vực tài nguyên và môi trường bao gồm:
+(1) Tổ chức hành nghề thăm dò khoáng sản
+- Doanh nghiệp thành lập theo quy định của Luật doanh nghiệp.
+- Tổ chức khoa học và công nghệ thành lập theo quy định của Luật khoa học và công nghệ.
+- Hợp tác xã, liên hiệp hợp tác xã thành lập theo quy định của Luật hợp tác xã.
+- Tổ chức sự nghiệp chuyên ngành địa chất được cơ quan nhà nước có thẩm quyền thành lập có chức năng, nhiệm vụ thăm dò khoáng sản.
+(2) Hồ sơ hành nghề thăm dò khoáng sản
+- Tổ chức hành nghề thăm dò khoáng sản quy định tại Điều 12 Nghị định số 60/2016/NĐ-CP khi thi công đề án thăm dò khoáng sản phải có hồ sơ hành nghề thăm dò khoáng sản, gồm:
++ Bản sao có chứng thực quyết định thành lập hoặc giấy chứng nhận hoạt động khoa học và công nghệ hoặc giấy chứng nhận đăng ký doanh nghiệp do cơ quan có thẩm quyền cấp;
++ Hợp đồng thi công đề án thăm dò khoáng sản với tổ chức, cá nhân được phép thăm dò khoáng sản, kèm theo giấy phép thăm dò khoáng sản được cơ quan có thẩm quyền cấp;
++ Danh sách cán bộ, công nhân tham gia thi công đề án thăm dò khoáng sản; các hợp đồng lao động (hoặc văn bản tương đương) của người phụ trách kỹ thuật và công nhân kỹ thuật tham gia trực tiếp thi công đề án theo quy định;
++ Tài liệu của các cá nhân tham gia thi công đề án thăm dò khoáng sản (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu) gồm: Quyết định giao nhiệm vụ cho người phụ trách kỹ thuật (sau đây được gọi là chủ nhiệm đề án thăm dò khoáng sản) kèm theo văn bằng chứng chỉ ngành nghề, lý lịch khoa học của chủ nhiệm đề án; hợp đồng lao động hoặc quyết định tuyển dụng; quyết định bổ nhiệm chức danh hoặc giao nhiệm vụ; văn bằng chứng chỉ ngành nghề phù hợp với nhiệm vụ giao; bản sao chứng minh nhân dân, căn cước công dân hoặc hộ chiếu;
++ Danh mục các thiết bị, công cụ chuyên dùng để thi công công trình thăm dò khoáng sản phù hợp với đề án thăm dò khoáng sản.
+- Trường hợp đề án thăm dò khoáng sản do tổ chức có giấy phép thăm dò khoáng sản trực tiếp thi công thì phải có hồ sơ đáp ứng yêu cầu quy định tại dấu cộng thứ 3, 4, 5 mục (2) Hồ sơ hành nghề thăm dò khoáng sản..
+- Hồ sơ hành nghề thăm dò khoáng sản được quản lý, lưu giữ tại tổ chức, cá nhân có giấy phép thăm dò khoáng sản và tổ chức hành nghề thăm dò khoáng sản.
+(3) Điều kiện đối với chủ nhiệm đề án thăm dò khoáng sản
+- Có người phụ trách kỹ thuật tốt nghiệp đại học chuyên ngành địa chất thăm dò đã công tác thực tế thăm dò trong khoáng sản ít nhất 05 năm; có hiểu biết, nắm vững tiêu chuẩn, quy chuẩn kỹ thuật
+- Là công dân Việt Nam hoặc người nước ngoài có giấy phép lao động tại Việt Nam theo quy định của pháp luật về lao động;
+- Có văn bằng đào tạo trình độ đại học trở lên thuộc chuyên ngành địa chất thăm dò khoáng sản hoặc tương đương; đối với đề án thăm dò nước khoáng, nước nóng là chuyên ngành địa chất thủy văn - địa chất công trình;
+- Có kinh nghiệm tham gia thi công đề án điều tra địa chất, thăm dò khoáng sản tối thiểu 05 năm; có chứng chỉ chủ nhiệm đề án thăm dò khoáng sản do Bộ Tài nguyên và Môi trường cấp;
+- Đối với đề án thăm dò khoáng sản độc hại, phải có thời gian tham gia thi công với tư cách là cán bộ kỹ thuật địa chất ít nhất 01 (một) đề án thăm dò khoáng sản độc hại hoặc đã làm chủ nhiệm 01 (một) đề án thăm dò khoáng sản từ khi lập đề án đến lập báo cáo kết thúc được cấp trên phê duyệt.
+- Chủ nhiệm đề án thăm dò khoáng sản chỉ thực hiện chức trách khi có quyết định giao nhiệm vụ của tổ chức được phép thăm dò khoáng sản hoặc tổ chức hành nghề thăm dò khoáng sản.
+- Trong cùng một thời gian, chủ nhiệm đề án thăm dò khoáng sản chỉ đảm nhận chức trách tối đa 02 (hai) đề án thăm dò khoáng sản.
+(4) Điều kiện đối với đội ngũ công nhân kỹ thuật thực hiện đề án thăm dò khoáng sản
+- Đội ngũ công nhân kỹ thuật theo các chuyên ngành trắc địa, địa chất, địa chất thủy văn, địa chất công trình, địa vật lý, thi công công trình (khai đào, khoan) và các chuyên ngành khác có liên quan phải đáp ứng yêu cầu phù hợp về số lượng theo đề án thăm dò khoáng sản đã được thẩm định khi cấp giấy phép thăm dò khoáng sản.
+- Các nhóm công nhân kỹ thuật theo các chuyên ngành khi thi công phải cử người phụ trách đáp ứng yêu cầu chuyên môn và thời gian kinh nghiệm như sau:
++ Đối với đề án thăm dò khoáng sản độc hại, phải có thời gian công tác tối thiểu 05 năm đối với người có trình độ trung cấp nghề hoặc 03 năm đối với người có trình độ đại học; trong đó, có ít nhất 01 năm tham gia thi công đề án điều tra địa chất hoặc thăm dò đối với khoáng sản độc hại;
++ Đối với các đề án thăm dò khoáng sản còn lại, phải có thời gian làm việc tối thiểu 03 năm đối với người có trình độ trung cấp nghề hoặc 02 năm đối với người có trình độ đại học.
+(5) Điều kiện về thiết bị, công cụ chuyên dùng thi công công trình thăm dò khoáng sản
+- Thiết bị, công cụ chuyên dùng để thi công công trình thăm dò khoáng sản phải đảm bảo số lượng, chất lượng, tính năng kỹ thuật đáp ứng với hạng mục, công việc trong đề án thăm dò đã được thẩm định khi cấp giấy phép thăm dò khoáng sản.
+- Thăm dò khoáng sản phóng xạ, đất hiếm phải có thiết bị, công cụ chuyên dụng và đội ngũ cán bộ kỹ thuật vận hành đáp ứng các yêu cầu về an toàn phóng xạ theo quy định của pháp luật về an toàn bức xạ hạt nhân.
+* Khu vực đề nghị thăm dò có diện tích:
++ Không quá 50 kilômét vuông (km2) đối với đá quý, đá bán quý, khoáng sản kim loại, trừ bauxit;
++ Không quá 100 kilômét vuông (km2) đối với than, bauxit, khoáng sản không kim loại ở đất liền có hoặc không có mặt nước, trừ khoáng sản làm vật liệu xây dựng thông thường;
++ Không quá 200 kilômét vuông (km2) đối với khoáng sản các loại ở thềm lục địa, trừ khoáng sản làm vật liệu xây dựng thông thường;
++ Không quá 02 kilômét vuông (km2) ở đất liền, không quá 01 kilômét vuông (km2) ở vùng có mặt nước đối với khoáng sản làm vật liệu xây dựng thông thường;
++ Không quá 02 kilômét vuông (km2) đối với nước khoáng, nước nóng thiên nhiên.
+* Khu vực đề nghị thăm dò:
++ Không có tổ chức, cá nhân đang thăm dò hoặc khai thác khoáng sản hợp pháp và không thuộc khu vực cấm hoạt động khoáng sản, khu vực tạm thời cấm hoạt động khoáng sản, khu vực dự trữ khoáng sản quốc gia hoặc khu vực đang được điều tra cơ bản địa chất về khoáng sản cùng loại với khoáng sản xin cấp giấy phép thăm dò;
+* Đề án thăm dò phù hợp với quy hoạch khoáng sản; đối với khoáng sản độc hại còn phải được Thủ tướng Chính phủ cho phép bằng văn bản;
+* Có vốn chủ sở hữu ít nhất bằng 50% tổng vốn đầu tư thực hiện đề án thăm dò khoáng sản.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

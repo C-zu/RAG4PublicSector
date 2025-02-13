@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001235
+Số quyết định:
+2796/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục đăng ký thực hiện đề tài nghiên cứu ứng dụng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Bước 1: Căn cứ theo Thông báo của Quỹ về thời hạn nộp hồ sơ trên Cổng thông tin điện tử của Quỹ Phát triển khoa học và công nghệ Quốc gia (Quỹ), các tổ chức, cá nhân nhà khoa học đề xuất đề tài, lập Hồ sơ đăng ký thực hiện đề tài và gửi đến Quỹ theo quy định.
+Bước 2: Quỹ tiếp nhận và tổ chức đánh giá xét chọn hồ sơ.
+Bước 3: Quỹ thông báo Quyết định tài trợ đối với hồ sơ được chấp nhận tài trợ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Tháng||Thời gian xử lý và thông báo danh mục các đề tài được tài trợ trong 05 (năm) tháng kể từ ngày hết hạn nộp hồ sơ|
+|Dịch vụ bưu chính|5 Tháng||Thời gian xử lý và thông báo danh mục các đề tài được tài trợ trong 05 (năm) tháng kể từ ngày hết hạn nộp hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ + Đơn đăng ký thực hiện đề tài; ([01 Mau NCUD01 Don dang ky.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde738a383d48e4'))
+ + Thuyết minh đề tài; ([02 Mau NCUD02 TMDC.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ad03b63dfb14'))
+ + Lý lịch khoa học của chủ nhiệm đề tài; các thành viên và các tài liệu chứng minh thành tích nghiên cứu; ([03 Mau NCUD03 Ly lich khoa hoc.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb38878f2021950'))
+ + Tài liệu liên quan khác nếu tổ chức, cá nhân thấy cần thiết bổ sung làm tăng tính thuyết phục của hồ sơ;
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Quỹ Phát triển khoa học và công nghệ quốc gia - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt danh mục thực hiện đề tài nghiên cứu ứng dụng do Quỹ Phát triển KH&CN Quốc gia tài trợ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2014/NĐ-CP|Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật khoa học và công nghệ|27-01-2014|Chính phủ|
+|15/2016/TT-BKHCN|Thông tư 15/2016/TT-BKHCN-Quy định quản lý đề tài nghiên cứu ứng dụng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ|30-06-2016|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với tổ chức đăng ký chủ trì đề tài:
+Có tư cách pháp nhân, có năng lực hoạt động phù hợp với lĩnh vực chuyên môn của đề tài, có đủ các điều kiện cơ sở vật chất - kỹ thuật phục vụ hoạt động nghiên cứu của đề tài.
+-  Đối với chủ nhiệm đề tài:
++  Có chuyên môn phù hợp với nội dung nghiên cứu của đề tài; 
++  Có năng lực nghiên cứu đáp ứng yêu cầu của đề tài: Trình độ từ đại học trở lên và có kết quả nghiên cứu chuyên ngành phù hợp với lĩnh vực nghiên cứu của đề tài, đáp ứng một trong các điều kiện sau đây:
+i) Có kết quả nghiên cứu được công bố trên tạp chí quốc tế có uy tín hoặc là tác giả sáng chế, giống cây trồng được cấp văn bằng bảo hộ trong thời gian năm 05 (năm) năm tính đến thời điểm nộp hồ sơ;
+ii) Có kết quả nghiên cứu đã được công bố (bài báo trên tạp chí khoa học quốc tế hoặc Quốc gia có uy tín, bằng độc quyền sáng chế, giải pháp hữu ích, giống cây trồng) trong thời gian 10 (mười) năm tính đến thời điểm nộp hồ sơ được ứng dụng;
++ Có đủ thời gian để hoàn thành nội dung nghiên cứu của đề tài theo quy định. Trường hợp chủ nhiệm đề tài đi công tác, làm việc tại nước ngoài, tổng thời gian ở nước ngoài không quá 1/3 thời gian thực hiện đề tài.
+- Đối với thành viên nhóm nghiên cứu đề tài phải có trình độ chuyên môn và kỹ năng phù hợp với nội dung nghiên cứu của đề tài, bao gồm:
++ Thành viên thực hiện chính, thư ký khoa học: có trình độ từ đại học trở lên; có kết quả nghiên cứu phù hợp với lĩnh vực nghiên cứu của đề tài được công bố trên các tạp chí Quốc gia hoặc quốc tế có uy tín hoặc có bằng độc quyền sáng chế, giải pháp hữu ích, giống cây trồng được cấp văn bằng bảo hộ trong thời gian 05 (năm) năm tính đến thời điểm kết thúc nhận hồ sơ;
++ Thành viên có trình độ từ đại học trở lên và có kết quả nghiên cứu phù hợp với lĩnh vực nghiên cứu của đề tài được công bố trên tạp chí Quốc gia hoặc quốc tế, bằng độc quyền sáng chế, giải pháp hữu ích, giống cây trồng;
++ Kỹ thuật viên, nhân viên hỗ trợ khác.
+- Tại cùng một thời điểm, mỗi cá nhân làm chủ nhiệm không quá 01 (một) đề tài do Quỹ tài trợ (trừ trường hợp là nhiệm vụ đột xuất có ý nghĩa quan trọng về khoa học và thực tiễn).
+- Đối với tổ chức đăng ký chủ trì đề tài:
+Có tư cách pháp nhân, có năng lực hoạt động phù hợp với lĩnh vực chuyên môn của đề tài, có đủ các điều kiện cơ sở vật chất - kỹ thuật phục vụ hoạt động nghiên cứu của đề tài.
+-  Đối với chủ nhiệm đề tài:
++  Có chuyên môn phù hợp với nội dung nghiên cứu của đề tài; 
++  Có năng lực nghiên cứu đáp ứng yêu cầu của đề tài: Trình độ từ đại học trở lên và có kết quả nghiên cứu chuyên ngành phù hợp với lĩnh vực nghiên cứu của đề tài, đáp ứng một trong các điều kiện sau đây:
+i) Có kết quả nghiên cứu được công bố trên tạp chí quốc tế có uy tín hoặc là tác giả sáng chế, giống cây trồng được cấp văn bằng bảo hộ trong thời gian năm 05 (năm) năm tính đến thời điểm nộp hồ sơ;
+ii) Có kết quả nghiên cứu đã được công bố (bài báo trên tạp chí khoa học quốc tế hoặc Quốc gia có uy tín, bằng độc quyền sáng chế, giải pháp hữu ích, giống cây trồng) trong thời gian 10 (mười) năm tính đến thời điểm nộp hồ sơ được ứng dụng;
++ Có đủ thời gian để hoàn thành nội dung nghiên cứu của đề tài theo quy định. Trường hợp chủ nhiệm đề tài đi công tác, làm việc tại nước ngoài, tổng thời gian ở nước ngoài không quá 1/3 thời gian thực hiện đề tài.
+- Đối với thành viên nhóm nghiên cứu đề tài phải có trình độ chuyên môn và kỹ năng phù hợp với nội dung nghiên cứu của đề tài, bao gồm:
++ Thành viên thực hiện chính, thư ký khoa học: có trình độ từ đại học trở lên; có kết quả nghiên cứu phù hợp với lĩnh vực nghiên cứu của đề tài được công bố trên các tạp chí Quốc gia hoặc quốc tế có uy tín hoặc có bằng độc quyền sáng chế, giải pháp hữu ích, giống cây trồng được cấp văn bằng bảo hộ trong thời gian 05 (năm) năm tính đến thời điểm kết thúc nhận hồ sơ;
++ Thành viên có trình độ từ đại học trở lên và có kết quả nghiên cứu phù hợp với lĩnh vực nghiên cứu của đề tài được công bố trên tạp chí Quốc gia hoặc quốc tế, bằng độc quyền sáng chế, giải pháp hữu ích, giống cây trồng;
++ Kỹ thuật viên, nhân viên hỗ trợ khác.
+- Tại cùng một thời điểm, mỗi cá nhân làm chủ nhiệm không quá 01 (một) đề tài do Quỹ tài trợ (trừ trường hợp là nhiệm vụ đột xuất có ý nghĩa quan trọng về khoa học và thực tiễn).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

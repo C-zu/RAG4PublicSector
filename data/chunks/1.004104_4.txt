@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố chất lượng dịch vụ phát thanh, truyền hình
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn về việc công bố chất lượng dịch vụ phát thanh, truyền hình (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4c3ae889dc1f2'">Phụ lục I.doc</a>)
+- 01 Bản chính Bản công bố chất lượng dịch vụ phát thanh, truyền hình (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc02d75597e8e20'">Phụ lục II.doc</a>)
+- 01 Bản chính Danh mục các chỉ tiêu chất lượng dịch vụ phát thanh, truyền hình. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe433a4f766d17e'">Phụ lục III.doc</a>)

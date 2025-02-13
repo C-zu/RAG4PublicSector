@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy chứng nhận đủ điều kiện kinh doanh thuốc đối với cơ sở bán buôn dược liệu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh thuốc theo phụ lục số 01a ban hành kèm theo Thông tư số 03/2016/TT – BYT ngày 21/01/2016 của Bộ trưởng Bộ Y tế. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd32a22805c140c'">Mẫu số 01a.docx</a>)
+- 01 Bản chính Bản chính chứng chỉ hành nghề dược của người quản lý chuyên môn về dược phù hợp với hình thức tổ chức kinh doanh và bản sao Giấy chứng nhận đăng ký hộ kinh doanh cá thể hoặc Giấy chứng nhận đăng ký doanh nghiệp có chứng thực hoặc bản sao có chữ ký của chủ cơ sở và đóng dấu xác nhận (nếu là doanh nghiệp).
+- 01 Bản chính Hồ sơ về bảo quản dược liệu: Sơ đồ vị trí và thiết kế của kho bảo quản; Danh mục thiết bị bảo quản của cơ sở và đối tượng được bảo quản tại kho.
+- 01 Bản chính Hồ sơ về phân phối dược liệu: Sơ đồ tổ chức của cơ sở bao gồm: tổ chức hệ thống phân phối (cơ sở, chi nhánh, kho, đại lý). Sơ đồ phải thể hiện rõ tên, chức danh, trình độ chuyên môn của các cán bộ chủ chốt của cơ sở và các bộ phận; Danh mục phương tiện vận chuyển, phân phối của cơ sở. Trường hợp việc vận chuyển dược liệu được thực hiện dưới hình thức hợp đồng phải có bản tài liệu giới thiệu về pháp nhân, trang thiết bị, phương tiện vận chuyển, bảo quản của bên nhận hợp đồng.
+- 01 Bản chính Bản kê khai danh sách nhân sự theo Phụ lục số 02 ban hành kèm theo Thông tư số 03/2016/TT – BYT ngày 21/01/2016 của Bộ trưởng Bộ Y tế.

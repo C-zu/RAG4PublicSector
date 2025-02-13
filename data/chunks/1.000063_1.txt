@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp, gia hạn, cấp lại, cấp đổi chứng chỉ hành nghề đo đạc và bản đồ hạng I
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000063
+Số quyết định:
+1237/QĐ-BTNMT
+Tên thủ tục:
+Cấp, gia hạn, cấp lại, cấp đổi chứng chỉ hành nghề đo đạc và bản đồ hạng I
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đo đạc, bản đồ và thông tin địa lý

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện nhập khẩu thuốc thú y
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký cấp Giấy chứng nhận đủ điều kiện buôn bán, nhập khẩu thuốc thú y theo mẫu quy định tại Phụ lục XX ban hành kèm theo Thông tư số 13/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf17fe946335b4'">PHỤ LỤC XX.docx</a>)
+- 01 Bản chính - Bản thuyết minh chi tiết về cơ sở vật chất, kỹ thuật buôn bán, nhập khẩu thuốc thú y theo mẫu quy định tại Phụ lục XXII ban hành kèm theo Thông tư số13/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe27f6f414cc087'">PHỤ LỤC XXII.docx</a>)
+- 01 Bản sao - Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đăng ký kinh doanh (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký);
+- 01 Bản sao - Chứng chỉ hành nghề buôn bán, nhập khẩu thuốc thú y (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký).

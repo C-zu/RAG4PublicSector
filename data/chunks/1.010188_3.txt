@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, chấp thuận bản vẽ điều chỉnh Tổng mặt bằng thuộc dự án đầu tư xây dựng công trình - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : Đồng Thực hiện theo quy định tại Thông tư số 05/2017/TT-BXD ngày 05/04/2017 của Bộ Xây dựng về hướng dẫn xác định quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị và Quyết định số 79/QĐ-BXD ngày 15/02/2017 của Bộ Xây dựng về việc công bố định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng.||
+|Trực tuyến|7 Ngày làm việc|Phí : Đồng Thực hiện theo quy định tại Thông tư số 05/2017/TT-BXD ngày 05/04/2017 của Bộ Xây dựng về hướng dẫn xác định quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị và Quyết định số 79/QĐ-BXD ngày 15/02/2017 của Bộ Xây dựng về việc công bố định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng.||
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : Đồng Thực hiện theo quy định tại Thông tư số 05/2017/TT-BXD ngày 05/04/2017 của Bộ Xây dựng về hướng dẫn xác định quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị và Quyết định số 79/QĐ-BXD ngày 15/02/2017 của Bộ Xây dựng về việc công bố định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng.||

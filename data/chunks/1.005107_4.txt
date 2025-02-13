@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe máy chuyên dùng cải tạo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến: nộp 01 bộ hồ sơ thiết kế dạng điện tử theo quy định; Trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế theo quy định, cơ sở thiết kế nộp thêm 01 bộ (gồm: Bản thuyết minh thiết kế kỹ thuật, Ảnh chụp kiểu dáng Xe, bản thông tin (nếu có thay đổi) của Xe và các bản vẽ kỹ thuật).
+- 01 Bản chính Bản vẽ tổng thể của Xe trước và sau cải tạo
+- 01 Bản chính Bản vẽ, tài liệu kỹ thuật của tổng thành, hệ thống được sử dụng để cải tạo
+- 01 Bản chính Bản thuyết minh tính toán các nội dung cải tạo có ảnh hưởng đến các hạng mục phải kiểm tra tính toán theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcef353e2ffeea0'">03.1. Bản thuyêt minh.doc</a>)
+- 01 Bản chính Văn bản đề nghị chứng nhận chất lượng Xe cải tạo
+- 01 Bản chính Giấy chứng nhận đăng ký kinh doanh hoặc các loại giấy tờ thay thế khác của Cơ sở thiết kế (đối với trường hợp Cơ sở thiết kế lần đầu)
+- 01 Bản chính Ảnh chụp kiểu dáng Xe trước khi cải tạo
+- 01 Bản chính Bản thông tin của Xe (nếu có thay đổi) theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe261af6aea1c7f'">03.2. Bản thống kê.doc</a>)

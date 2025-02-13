@@ -1,0 +1,9 @@
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành (cấp tỉnh)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Không quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

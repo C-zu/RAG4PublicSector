@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai báo chất phóng xạ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp phiếu khai báo chất phóng xạ cho Cục ATBXHN (ATBXHN).
+Bước 2: Cục ATBXHN xem xét phiếu khai báo, đề nghị chỉnh sửa, bổ sung thông tin (nếu có).
+Bước 3: Cục ATBXHN cấp Giấy xác nhận khai báo.

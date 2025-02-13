@@ -1,0 +1,9 @@
+Tên thủ tục: Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 ngày làm việc, kể từ ngày nhận được bản đăng ký chuyển đổi hợp lệ và phù hợp.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|
+|Trực tuyến|05 ngày làm việc, kể từ ngày nhận được bản đăng ký chuyển đổi hợp lệ và phù hợp.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|
+|Dịch vụ bưu chính|05 ngày làm việc, kể từ ngày nhận được bản đăng ký chuyển đổi hợp lệ và phù hợp.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|

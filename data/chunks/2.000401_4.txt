@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký bổ sung, sửa đổi hoạt động giám định theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP;
+- 01 Bản chính - Danh sách bổ sung, sửa đổi giám định viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP và các chứng chỉ, tài liệu liên quan đối với mỗi giám định viên gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao các bằng cấp, chứng chỉ theo quy định tại khoản 3 Điều 13 Nghị định số 107/2016/NĐ-CP; tóm tắt quá trình công tác, kinh nghiệm hoạt động giám định theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP và tài liệu chứng minh kinh nghiệm giám định chất lượng sản phẩm, hàng hóa của giám định viên;
+- 01 Bản chính + Trường hợp tổ chức giám định đã được tổ chức công nhận quy định tại Điều 21 Nghị định số 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định số 107/2016/NĐ-CP công nhận hoạt động giám định, tổ chức giám định nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận.
+- 01 Bản chính + Trường hợp tổ chức giám định chưa được công nhận, tổ chức giám định nộp các tài liệu, quy trình giám định và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 13 Nghị định số 107/2016/NĐ-CP.

@@ -1,0 +1,25 @@
+Tên thủ tục: Đăng ký lại phương tiện hoạt động vui chơi, giải trí dưới nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Trường hợp cần chuyển đăng ký phương tiện sang cơ quan đăng ký phương tiện của địa phương khác:
+- 01 Bản chính + Đơn đề nghị chuyển, nơi đăng ký nêu rõ nơi đăng ký mới và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó.
+
+
+- Trường hợp thay đổi chủ sở hữu phương tiện:
+- 01 Bản chính +Đơn đề nghị đăng ký phương tiện theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc82a84ac411444'">Mẫu đơn đề nghị ĐƠN ĐỀ NGHỊ ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI (dùng cho phương tiện đăng ký lại).docx</a>)
+- 01 Bản chính + Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó, biên lai hoặc giấy chứng nhận đã nộp phí, lệ phí (nếu có);
+- 01 Bản chính + Xuất trình giấy tờ chứng minh quyền sở hữu phương tiện theo quy định: Hợp đồng mua bán hoặc hợp đồng đóng mới phương tiện hoặc các giấy tờ khác có giá trị tương đương;
+- 01 Bản chính +Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm.
+
+
+- Trường hợp thay đổi thông số kỹ thuật
+- 01 Bản chính + Đơn đề nghị đăng ký phương tiện theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe51d69cf4e375a'">Mẫu đơn đề nghị ĐƠN ĐỀ NGHỊ ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI (dùng cho phương tiện đăng ký lại).docx</a>)
+- 01 Bản chính + Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó, biên lai hoặc giấy chứng nhận đã nộp phí, lệ phí (nếu có);
+- 01 Bản chính + Xuất trình Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm.
+
+
+- Trường hợp thay đổi tên phương tiện:
+- 01 Bản chính + Đơn đề nghị đăng ký phương tiện theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc43ff8ad9e6280'">Mẫu đơn đề nghị ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI (dùng cho phương tiện đăng ký lại).docx</a>)
+- 01 Bản chính + Giấy chứng nhận đăng ký đã được cấp trước đó và xuất trình Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm.

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận lưu hành tự do (CFS) đối với mỹ phẩm sản xuất trong nước để xuất khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp CFS nêu rõ tên hàng, mã HS của hàng hóa, số chứng nhận tiêu chuẩn sản phẩm hoặc số đăng ký, số hiệu tiêu chuẩn (nếu có; trường hợp không có, có thể thay thế bằng số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm), thành phần hàm lượng hợp chất (nếu có), nước nhập khẩu hàng hóa: 1 bản chính, thể hiện bằng tiếng Việt và tiếng Anh.
+- 01 Bản sao - Giấy chứng nhận đầu tư hoặc giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp: 1 bản sao có đóng dấu của thương nhân.
+- 01 Bản chính - Danh mục các cơ sở sản xuất (nếu có), bao gồm tên, địa chỉ của cơ sở, các mặt hàng sản xuất để xuất khẩu: 1 bản chính.
+- 01 Bản sao - Phiếu công bố sản phẩm mỹ phẩm : 1 bản sao có đóng dấu của thương nhân.

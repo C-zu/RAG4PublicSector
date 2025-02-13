@@ -1,0 +1,26 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu hoàn thành công trình của cơ quan chuyên môn về xây dựng tại địa phương (SCT)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Xây dựng Hà Tĩnh
+Cơ quan có thẩm quyền:
+Sở Xây dựng Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh. ; Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Hà Tĩnh: http://dichvucong.hatinh.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ đủ điều kiện: Văn bản thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng., Hồ sơ không đủ điều kiện: Văn bản thông báo không đủ điều kiện chấp thuận nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2021/QĐ-UBND|Quyết định số 28/2021/QĐ-UBND|18-06-2021|UBND tỉnh Thái Nguyên|
+|50/2014/QH13|Luật 50/2014/QH13|18-06-2014||
+|06/2021/NĐ-CP|Nghị định 06/2021/NĐ-CP|26-01-2021||
+|62/2020/QH14|Luật sửa đổi, bổ sung một số điều của Luật Xây dựng năm 2020|17-06-2020||
+|06/2021/NĐ-CP|Nghị định số 06/2021/NĐ-CP ngày 26/01/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng|26-01-2021||
+|35/2023/NĐ-CP|Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng|20-06-2023|Chính phủ|

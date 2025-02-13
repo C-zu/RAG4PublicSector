@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký và cấp Sổ thuyền viên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ:
+- 01 Bản chính - Tờ khai đề nghị cấp Sổ thuyền viên theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe21b5eb6fffde9'">Mẫu Tờ khai đề nghị cấp, cấp lại Sổ thuyền viên.docx</a>)
+- 02 Bản chính - Hai (02) ảnh màu (đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính), 01 tệp (file) ảnh (đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến), cỡ 4cm x 6cm, theo kiểu chụp ảnh căn cước công dân, chụp trong vòng 06 tháng trước ngày nộp hồ sơ;
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính: Hộ chiếu hoặc Giấy chứng minh nhân dân 09 số còn hiệu lực theo quy định (đối với trường hợp không có căn cước công dân hoặc chứng minh nhân dân 12 số);
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận huấn luyện nghiệp vụ cơ bản;
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính văn bằng, chứng chỉ chuyên môn phù hợp với chức danh đảm nhận đối với các chức danh không yêu cầu Giấy chứng nhận khả năng chuyên môn (đối với thuyền viên);
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính văn bản tiếp nhận thực tập của chủ tàu (đối với học viên thực tập).

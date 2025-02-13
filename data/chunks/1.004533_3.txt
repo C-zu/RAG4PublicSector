@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc có cùng tên thương mại, thành phần hoạt chất, hàm lượng hoặc nồng độ, dạng bào chế với biệt dược gốc có giấy đăng ký lưu hành thuốc tại Việt Nam, được sản xuất bởi chính nhà sản xuất biệt dược gốc hoặc bởi nhà sản xuất được ủy quyền, có giá thấp hơn so với thuốc biệt dược gốc lưu hành tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

@@ -1,0 +1,7 @@
+Tên thủ tục: Thu hồi Giấy chứng nhận đăng ký hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||kể từ ngày kể từ ngày nhận được báo cáo tại Bước 6 đầy đủ, hợp lệ.|

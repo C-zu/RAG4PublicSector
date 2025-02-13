@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009525
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Chấm dứt tự nguyện hoạt động kinh doanh chứng khoán phái sinh
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
++ Bước 1: Tổ chức kinh doanh chứng khoán nộp hồ sơ đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh 
+	+ Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục 	hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh 	mục hồ sơ theo quy định.
++ Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, UBCKNN có văn bản yêu cầu tổ chức kinh doanh chứng khoán bổ sung hồ sơ theo quy định.
+  + Bước 4: Trong thời hạn 07 (bẩy) ngày kể khi nhận đầy đủ hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
++ Bước 5: Sau khi tổ chức kinh doanh chứng khoán hoàn tất các thủ tục để chấm dứt hoạt động kinh doanh chứng khoán phái sinh, tổ chức kinh doanh chứng khoán nộp hồ sơ báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý;
++ Bước 6: Trong thời hạn 05 (năm) ngày kể từ khi nhận được hồ sơ báo cáo kết quả sau khi thực hiện các thủ tục chấm dứt hoạt động, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||Trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt tự nguyện hoạt động kinh doanh chứng khoán phái sinh. Trong thời hạn 05 (năm) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động kinh doanh chứng khoán phái sinh, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh.|
+|Dịch vụ bưu chính|07 Ngày làm việc||Trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt tự nguyện hoạt động kinh doanh chứng khoán phái sinh. Trong thời hạn 05 (năm) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động kinh doanh chứng khoán phái sinh, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh.|
+
+Thành phần hồ sơ:
+
+Hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động kinh doanh chứng khoán phái sinh bao gồm:
+- 01 Bản chính, 01 Bản sao Danh sách khách hàng với đầy đủ thông tin nhận diện khách hàng, số tài khoản giao dịch chứng khoán phái sinh, số tài khoản ký quỹ và danh mục tài sản ký quỹ, vị thế trên từng tài khoản; lý do không thể tất toán, xử lý các tài khoản còn tồn (nếu chưa xử lý được);
+- 01 Bản chính, 01 Bản sao Biên bản thanh lý, có xác nhận của thành viên bù trừ thay thế và tài liệu xác nhận việc đã hoàn tất bàn giao toàn bộ tài khoản, tài sản ký quỹ của khách hàng cho thành viên thay thế (nếu có);
+- 01 Bản chính, 01 Bản sao Quyết định rút tư cách thành viên giao dịch, thành viên bù trừ.
+- 01 Bản chính, 01 Bản sao Văn bản xác nhận đã thanh toán đầy đủ các khoản thuế, giá dịch vụ, các khoản nợ và các nghĩa vụ tài chính khác liên quan đến hoạt động kinh doanh chứng khoán phái sinh.
+
+
+Hồ sơ đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh bao gồm:
+- 01 Bản chính, 01 Bản sao Giấy đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh;
+- 01 Bản chính, 01 Bản sao Nghị quyết Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định của chủ sở hữu về việc chấm dứt hoạt động kinh doanh chứng khoán phái sinh và thông qua phương án xử lý các vấn đề liên quan;
+- 01 Bản chính, 01 Bản sao Phương án xử lý các hợp đồng kinh doanh chứng khoán phái sinh còn hiệu lực, bao gồm phương án xử lý các tài khoản và tài sản ký quỹ của khách hàng.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận điều chỉnh Giấy chứng nhận đủ điều kiện hoạt động kinh doanh chứng khoán phái sinh; hoặc Quyết định thu hồi Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh; hoặc + Công văn từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|158/2020/NĐ-CP|Nghị định 158/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

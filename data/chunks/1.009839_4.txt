@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Đóng gói, vận chuyển nguồn phóng xạ, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc192fb5e6b5c80'">Mau 3_Don van chuyen.doc</a>)
+- 01 Bản chính Phiếu khai báo nhân viên áp tải hàng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febd2deab2a0b2f'">Mau 02_KB nhan vien ap tai hang.doc</a>)
+- 01 Bản chính Phiếu khai nguồn phóng xạ kín, nguồn phóng xạ hở, chất thải phóng xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea85d749280039'">Mau 03_KB nguon PX.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9841e0681da9c'">Mau 06_KB nguon PX ho.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdce432c3ec34c0'">Mau 11_KB vat lieu hat nhan nguon.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4459e88ff58c4'">Mau 12_KB vat lieu hat nhan.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdda029e86c931a'">Mau 14_KB chat thai PX.doc</a>)
+- 01 Bản chính Báo cáo đánh giá an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3d23b385f62a9'">Mau 11_PL5_ BC dong goi, van chuyen.doc</a>)
+- 01 Bản chính Kế hoạch ứng phó sự cố (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0b794532c5a1c'">PL02_NoidungKHUPSC.doc</a>)
+- 01 Bản sao + Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản sao + Bản sao Chứng chỉ nhân viên bức xạ của nhân viên: người điều khiển phương tiện vận chuyển hoặc người áp tải trong trường hợp vận chuyển bằng đường bộ, đường sắt (trừ trường hợp vận chuyển kiện miễn trừ) và người phụ trách ứng phó sự cố trong trường hợp vận chuyển nguồn phóng xạ Nhóm 1, Nhóm 2 và Nhóm 3 theo QCVN 06:2010/BKHCN. Trường hợp nhân viên này chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ.
+- 01 Bản sao + Bản sao Giấy chứng nhận đào tạo an toàn bức xạ của nhân viên bức xạ.
+- 01 Bản chính + Hợp đồng vận chuyển nếu tổ chức, cá nhân gửi hàng không phải là tổ chức, cá nhân vận chuyển.

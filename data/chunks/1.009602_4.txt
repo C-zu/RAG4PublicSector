@@ -1,0 +1,10 @@
+Tên thủ tục: Cho phép tổ chức hội nghị, hội thảo quốc tế không thuộc thẩm quyền cho phép của Thủ tướng Chính phủ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn xin phép tổ chức hội nghị, hội thảo quốc tế
+- 01 Bản chính Đề án tổ chức hội nghị, hội thảo quốc tế theo Mẫu 01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed4abaa6f41e24'">Mẫu số 01- Đề án tổ chức HNHTQT.docx</a>)
+- 01 Bản sao Văn bản có ý kiến của các cơ quan liên quan trong trường hợp các quy định pháp luật khác có yêu cầu
+- 01 Bản sao Văn bản đồng ý chủ trương đăng cai tổ chức hội nghị, hội thảo quốc tế (nếu có)

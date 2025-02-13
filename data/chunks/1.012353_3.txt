@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|23 Ngày làm việc||- Trong thời hạn 23 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định. - Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày.|
+|Trực tiếp|43 Ngày làm việc||Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày làm việc|
+|Trực tuyến|23 Ngày làm việc||- Trong thời hạn 23 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định. - Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày.|
+|Trực tuyến|43 Ngày làm việc||Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày làm việc|
+|Dịch vụ bưu chính|23 Ngày làm việc||- Trong thời hạn 23 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định. - Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày.|
+|Dịch vụ bưu chính|43 Ngày làm việc||Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày làm việc|

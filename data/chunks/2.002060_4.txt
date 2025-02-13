@@ -1,0 +1,78 @@
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký doanh nghiệp đối với công ty nhận sáp nhập (đối với công ty trách nhiệm hữu hạn, công ty cổ phần và công ty hợp danh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký thay đổi nội dung đăng ký doanh nghiệp của công ty nhận sáp nhập phải có các giấy tờ tương ứng quy định tại Chương VI Luật Doanh nghiệp và các giấy tờ khác như sau: Trường hợp công ty nhận sáp nhập đăng ký thay đổi thành viên hợp danh
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd07d4b0eb59b7c'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty hợp danh quy định tại Điều 25 Luật Doanh nghiệp, trong đó không bao gồm nội dung kê khai về thành viên góp vốn
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với thành viên hợp danh mới
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập
+
+
+Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây: - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp công ty nhận sáp nhập (công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh) đăng ký thay đổi vốn điều lệ
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdff86b5e8d0b64'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định của chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn một thành viên; nghị quyết, quyết định và biên bản họp của Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thay đổi vốn điều lệ
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại điểm a Khoản 2 Điều 201 Luật Doanh nghiệp
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập, trừ trường hợp công ty nhận sáp nhập là thành viên, cổ đông sở hữu trên 65% vốn điều lệ đối với công ty trách nhiệm hữu hạn, công ty hợp danh hoặc cổ phần có quyền biểu quyết đối với công ty cổ phần của công ty bị sáp nhập
+
+
+Trường hợp công ty nhận sáp nhập đăng ký thay đổi phần vốn góp, tỷ lệ phần vốn góp của thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên, của thành viên hợp danh công ty hợp danh
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe58af45a5dbe7a'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên; danh sách thành viên công ty hợp danh, trong đó không bao gồm nội dung kê khai về thành viên góp vốn. Các danh sách phải bao gồm chữ ký của các thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9b8b1af5f9dd60'">Phụ lục I-6.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe649cbd5b41183'">Phụ lục I-9.docx</a>)
+- 01 Bản chính Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng trong trường hợp chuyển nhượng phần vốn góp; Hợp đồng tặng cho trong trường hợp tặng cho phần vốn góp
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại điểm a Khoản 2 Điều 201 Luật Doanh nghiệp;
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập, trừ trường hợp công ty nhận sáp nhập là thành viên, cổ đông sở hữu trên 65% vốn điều lệ đối với công ty trách nhiệm hữu hạn, công ty hợp danh hoặc cổ phần có quyền biểu quyết đối với công ty cổ phần của công ty bị sáp nhập
+
+
+Trường hợp thay đổi chủ sở hữu công ty trách nhiệm hữu hạn một thành viên theo quyết định sáp nhập công ty
+- 01 Bản chính (i)Thông báo thay đổi chủ sở hữu công ty trách nhiệm hữu hạn một thành viên do chủ sở hữu hoặc người đại diện theo pháp luật của chủ sở hữu cũ và chủ sở hữu mới hoặc người đại diện theo pháp luật của chủ sở hữu mới ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7293c8e6223ff'">Phụ lục II-4.docx</a>)
+- 01 Bản sao (ii) Bản sao giấy tờ pháp lý của cá nhân trong trường hợp người nhận chuyển nhượng là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người được ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp người nhận chuyển nhượng là tổ chức. Đối với chủ sở hữu là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự
+- 01 Bản sao (iii) Bản sao Điều lệ sửa đổi, bổ sung của công ty
+- 01 Bản chính (iv) Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính (v) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+- 01 Bản chính (vi) Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính (vii) Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập, trừ trường hợp công ty nhận sáp nhập là thành viên, cổ đông sở hữu trên 65% vốn điều lệ đối với công ty trách nhiệm hữu hạn, công ty hợp danh hoặc cổ phần có quyền biểu quyết đối với công ty cổ phần của công ty bị sáp nhập
+
+
+Trường hợp thay đổi cổ đông là nhà đầu tư nước ngoài theo quyết định sáp nhập công ty
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd13e74bd2bfe22'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách cổ đông là nhà đầu tư nước ngoài sau khi đã thay đổi. Danh sách cổ đông là nhà đầu tư nước ngoài phải bao gồm chữ ký của cổ đông có giá trị cổ phần thay đổi, không bắt buộc phải có chữ ký của cổ đông có giá trị cổ phần không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4cc1860a2a7e1'">Phụ lục I-8.docx</a>)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp người nhận chuyển nhượng là cá nhân; bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp người nhận chuyển nhượng là tổ chức. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd07018e86ee3ea'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Đối với cổ đông là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe11048b5d10505'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập, trừ trường hợp công ty nhận sáp nhập là thành viên, cổ đông sở hữu trên 65% vốn điều lệ đối với công ty trách nhiệm hữu hạn, công ty hợp danh hoặc cổ phần có quyền biểu quyết đối với công ty cổ phần của công ty bị sáp nhập
+
+
+Trường hợp thay đổi thành viên của công ty trách nhiệm hữu hạn hai thành viên trở lên theo quyết định sáp nhập công ty
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4bf1a10f409e8'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4a2f842c49847'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập, trừ trường hợp công ty nhận sáp nhập là thành viên, cổ đông sở hữu trên 65% vốn điều lệ đối với công ty trách nhiệm hữu hạn, công ty hợp danh hoặc cổ phần có quyền biểu quyết đối với công ty cổ phần của công ty bị sáp nhập.
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp

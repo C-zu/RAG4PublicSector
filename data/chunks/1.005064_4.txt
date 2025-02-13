@@ -1,0 +1,14 @@
+Tên thủ tục: Thông báo thay đổi nội dung đăng ký liên hiệp hợp tác xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao hợp lệ giấy tờ chứng thực cá nhân của người có thẩm quyền. Trường hợp được ủy quyền, phải có thêm: (1) bản sao hợp lệ giấy tờ chứng thực cá nhân của người được ủy quyền; (2) bản sao hợp lệ hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ nộp hồ sơ, nhận kết quả và giấy giới thiệu của tổ chức đó cho cá nhân thực hiện nộp hồ sơ, nhận kết quả hoặc văn bản ủy quyền cho cá nhân thực hiện nộp hồ sơ, nhận kết quả theo quy định của pháp luật. Văn bản này không bắt buộc phải công chứng, chứng thực.
+- 01 Bản chính - Giấy thông báo thay đổi nội dung đăng ký liên hiệp hợp tác xã; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea6f16d56f6b63'">Phu luc I-5_TT07.2019.docx</a>)
+- 01 Bản chính - Nghị quyết của đại hội thành viên hoặc quyết định bằng văn bản của hội đồng quản trị về việc thay đổi nội dung đăng ký liên hiệp hợp tác xã.
+- 01 Bản chính - Trường hợp thay đổi điều lệ thì liên hiệp hợp tác xã gửi kèm theo bản điều lệ của liên hiệp hợp tác xã sau khi thay đổi;
+- 01 Bản chính - Trường hợp thay đổi số lượng thành viên thì hợp tác xã gửi kèm theo bản danh sách thành viên sau khi thay đổi;
+- 01 Bản chính - Trường hợp thay đổi thành viên hội đồng quản trị, ban kiểm soát/kiểm soát viên của liên hiệp hợp tác xã thì liên hiệp hợp tác xã gửi kèm theo bản danh sách thành viên hội đồng quản trị, ban kiểm soát/kiểm soát viên sau khi thay đổi.
+- 01 Bản chính - Danh sách thành viên hợp tác xã theo mẫu quy định tại Phụ lục I-3 Thông tư số 07/2019/TT-BKHĐT (trong trường hợp thay đổi số lượng hợp tác xã thành viên); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9ce93d9d61428'">Phu luc I-3_TT07.2019.docx</a>)
+- 01 Bản chính - Danh sách hội đồng quản trị, giám đốc (tổng giám đốc), ban kiểm soát hoặc kiểm soát viên theo mẫu quy định tại Phụ lục I-4 Thông tư số 07/2019/TT-BKHĐT (trong trường hợp thay đổi thành viên hội đồng quản trị, ban kiểm soát/kiểm soát viên). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe62bf46d4a6e25'">Phu luc I-4_TT07.2019.docx</a>)

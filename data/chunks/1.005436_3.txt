@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký tham gia và thay đổi, bổ sung thông tin đã đăng ký trên Hệ thống giao dịch điện tử về tài sản công của cơ quan, tổ chức, đơn vị có tài sản
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày||Không quá 02 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.|
+|Trực tuyến|2 Ngày||Không quá 02 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|2 Ngày||Không quá 02 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.|

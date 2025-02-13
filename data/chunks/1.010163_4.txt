@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký Nội quy lao động - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị đăng ký Nội qui lao động
+- 01 Bản chính Các văn bản của người sử dụng lao động có quy định liên quan đến kỷ luật lao động và trách nhiệm vật chất;
+- 01 Bản sao Biên bản góp ý kiến của tổ chức đại diện tập thể lao động tại cơ sở
+- 01 Bản chính Nội quy lao động

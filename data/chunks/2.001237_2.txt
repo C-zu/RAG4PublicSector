@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký xe tạm thời (thực hiện tại cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Nộp hồ sơ
+Trường hợp nộp hồ sơ trực tuyến: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01B/58) ghi rõ số tờ khai hải quan điện tử, số phiếu kiểm tra chất lượng xuất xưởng để kiểm tra thông tin nguồn gốc phương tiện và gửi các tài liệu đính kèm (chứng từ chuyển quyền sở hữu xe, giấy ủy quyền người kê khai làm thủ tục đăng ký tạm thời) đối với xe nhập khẩu hoặc xe sản xuất lắp ráp trong nước lưu hành từ kho, cảng, nhà máy, đại lý xe đến nơi đăng ký hoặc về các đại lý, kho lưu trữ khác, xe di chuyển đi địa phương khác, xe tái xuất về nước hoặc chuyển nhượng tại Việt Nam. 
+Trường hợp nộp hồ sơ trực tiếp: Chủ xe nộp giấy tờ theo quy định tại Điều 13 Thông tư 58/2020/TT-BCA (không phải mang xe đến để kiểm tra).
+Bước 3: Nộp lệ phí đăng ký xe tạm thời
+Bước 3: Sau khi nhận kết quả nộp lệ phí đăng ký tạm thời của chủ xe, cán bộ đăng ký xe trình lãnh đạo duyệt hồ sơ đăng ký xe tạm thời; lãnh đạo duyệt, ký số Giấy khai đăng ký xe tạm thời điện tử; thông báo cho chủ xe in Giấy chứng nhận đăng ký xe tạm thời điện tử từ cổng dịch vụ công hoặc địa chỉ thư điện tử của chủ xe.

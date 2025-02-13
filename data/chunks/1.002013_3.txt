@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng cai giải thi đấu, trận thi đấu thể thao thành tích cao khác do liên đoàn thể thao tỉnh, thành phố trực thuộc trung ương tổ chức
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày||10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày||10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|

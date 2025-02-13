@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phù hiệu xe ô tô kinh doanh vận tải (kinh doanh vận tải hành khách: bằng xe ô tô theo tuyến cố định, bằng xe buýt theo tuyến cố định, bằng xe taxi, xe hợp đồng; kinh doanh vận tải hàng hóa: bằng công - ten - nơ, xe ô tô đầu kéo kéo rơ moóc hoặc sơ mi rơ moóc, xe ô tô tải kinh doanh vận tải hàng hóa thông thường và xe taxi tải).
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp phù hiệu theo mẫu BM.PTNL.15.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe309724683e131'">Giấy đề nghị cấp phù hiệu 15.01.doc</a>)
+- 01 Bản sao Bản sao giấy đăng ký xe ô tô hoặc bản sao giấy hẹn nhận giấy đăng ký xe ô tô của cơ quan cấp đăng ký. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải thì xuất trình thêm bản sao một trong các giấy tờ sau: Hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh.

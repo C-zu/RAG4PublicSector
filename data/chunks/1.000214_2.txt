@@ -1,0 +1,8 @@
+Tên thủ tục: Khai báo nhập khẩu đối với hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân nộp 01 bộ hồ sơ khai báo nhập khẩu hàng hóa bị điều tra áp dụng phòng vệ thương mại. Ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến hoặc tính theo ngày gửi hồ sơ theo hình thức điện tử.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ khai báo nhập khẩu, Cơ quan điều tra phòng vệ thương mại thông báo cho tổ chức, cá nhân về tính đầy đủ và hợp lệ của hồ sơ.
+- Trong trường hợp hồ sơ khai báo nhập khẩu chưa đầy đủ và hợp lệ, Cơ quan điều tra phòng vệ thương mại thông báo cho tổ chức, cá nhân nộp hồ sơ để bổ sung.
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Cơ quan điều tra phòng vệ thương mại gửi xác nhận về việc đã khai báo nhập khẩu cho tổ chức, cá nhân nộp hồ sơ theo đường bưu điện theo địa chỉ ghi trên đơn đăng ký.

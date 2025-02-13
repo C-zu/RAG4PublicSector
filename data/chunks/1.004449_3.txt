@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép xuất khẩu thuốc phải kiểm soát đặc biệt thuộc hành lý cá nhân của tổ chức, cá nhân xuất cảnh gửi theo vận tải đơn, hàng hóa mang theo người của tổ chức, cá nhân xuất cảnh để điều trị bệnh cho bản thân người xuất cảnh và không phải là nguyên liệu làm thuốc phải kiểm soát đặc biệt
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày||Trong thời hạn 07 (bảy) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|07 Ngày||Trong thời hạn 07 (bảy) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

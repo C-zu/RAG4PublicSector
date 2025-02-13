@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008337
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai quyết toán thuế TNDN đối với Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1. Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài lập hồ sơ khai quyết toán khi kết thúc hợp đồng nhà thầu và gửi đến cơ quan thuế quản lý trực tiếp Bên Việt Nam.
++ Bước 2. Cơ quan thuế tiếp nhận:
+Cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định đối sơ hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính. Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không phải trả kết quả cho người nộp thuế|||
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||
+|Dịch vụ bưu chính|Không phải trả kết quả cho người nộp thuế|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính ++ Tờ khai thuế Nhà thầu nước ngoài (áp dụng đối với NTNN nộp thuế TNDN theo tỷ lệ trên doanh thu) mẫu biểu số 04/NTNN ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế ([Mẫu 04.NTNN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2fb7d8fda8032'))
+- 01 Bản chính, 01 Bản sao ++ Bản sao hợp đồng nhà thầu, hợp đồng nhà thầu phụ có xác nhận của người nộp thuế (đối với lần khai thuế đầu tiên của hợp đồng nhà thầu)
+- 01 Bản chính, 01 Bản sao ++ Bản sao giấy phép kinh doanh hoặc giấy phép hành nghề có xác nhận của người nộp thuế
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 1 bộ
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế, Chi cục thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ gửi đến Cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

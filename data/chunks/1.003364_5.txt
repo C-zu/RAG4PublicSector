@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp lại thẻ kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng không Việt Nam, Cảng vụ hàng không miền Bắc, Cảng vụ hàng không miền Nam, Cảng vụ hàng không miền Trung
+Cơ quan có thẩm quyền:
+Cục Hàng không Việt Nam, Cảng vụ hàng không miền Bắc, Cảng vụ hàng không miền Nam, Cảng vụ hàng không miền Trung
+Địa chỉ tiếp nhận HS:
+Cục Hàng không Việt Nam, Cảng vụ hàng không
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thẻ kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|92/2015/NĐ-CP|Về an ninh hàng không|13-10-2015|Chính phủ|
+|13/2019/TT-BGTVT|Quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam|29-03-2019|Bộ Giao thông vận tải|
+|42/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 13/2019/TT-BGTVT ngày 29 tháng 3 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam và Thông tư số 41/2020/TT-BGTVT ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 13/2019/TT-BGTVT ngày 29 tháng 3 năm 2019 quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam|29-12-2023|Bộ Giao thông vận tải|

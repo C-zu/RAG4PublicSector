@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Quyết định, phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 25 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản báo cáo cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|
+|Trực tuyến|- Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 25 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản báo cáo cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|
+|Dịch vụ bưu chính|- Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 25 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản báo cáo cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở.||Trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua môi trường mạng.|

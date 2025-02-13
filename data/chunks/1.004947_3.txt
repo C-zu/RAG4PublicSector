@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm định thiết bị viễn thông, đài vô tuyến điện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Lệ phí : Đồng 1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).|30 ngày kể từ ngày nộp phí thẩm định theo quy định|
+|Trực tuyến|30 Ngày|Lệ phí : Đồng 1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).|30 ngày kể từ ngày nộp phí thẩm định theo quy định|
+|Dịch vụ bưu chính|30 Ngày|Lệ phí : Đồng 1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).|30 ngày kể từ ngày nộp phí thẩm định theo quy định|

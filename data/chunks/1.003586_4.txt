@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy chứng nhận đăng ký tạm thời tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Tờ khai đề nghị cấp Giấy chứng nhận đăng ký tạm thời tàu cá theo Mẫu số 08.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc66a29124adca4'">Mẫu số 08.docx</a>)
+- 01 Bản sao b) Bản sao có chứng thực hoặc bản sao và trình bản chính Giấy chứng nhận an toàn kỹ thuật tàu cá, hợp đồng đóng tàu, biên bản nghiệm thu xuất xưởng;
+- 01 Bản sao c) Bản sao có chứng thực các giấy tờ đối với tàu nhập khẩu, thuê tàu trần từ nước ngoài về cảng đầu tiên của Việt Nam, gồm: Văn bản cho phép nhập khẩu hoặc thuê tàu trần, hợp đồng đóng tàu và thanh lý hợp đồng đóng tàu đối với tàu đóng mới, giấy chứng nhận an toàn kỹ thuật hoặc giấy chứng nhận phân cấp còn hiệu lực từ 06 tháng trở lên do tổ chức đăng kiểm nước có tàu cấp;
+- 01 Bản chính d) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu).

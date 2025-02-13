@@ -1,0 +1,9 @@
+Tên thủ tục: Chuyển nhượng toàn bộ hoặc một phần dự án bất động sản do Ủy ban nhân dân cấp tỉnh quyết định việc đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|30 Ngày||Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày||Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|

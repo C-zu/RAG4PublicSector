@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002548
+Số quyết định:
+1202/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- Bên giao hoặc bên nhận công nghệ thay mặt các bên nộp bộ hồ sơ đề nghị cấp lại Giấy chứng nhận trực tiếp hoặc gửi qua đường bưu chính hoặc qua Cổng dịch vụ công đến Cơ quan cấp Giấy chứng nhận;
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy chứng nhận xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc có nội dung cần phải sửa đổi, bổ sung, Cơ quan cấp Giấy chứng nhận có văn bản đề nghị sửa đổi, bổ sung, trong đó nêu rõ nội dung, thời hạn sửa đổi, bổ sung;
+- Trong thời hạn 05 ngày làm việc, kể từ khi nhận được hồ sơ đầy đủ hợp lệ, Cơ quan cấp Giấy chứng nhận xem xét, quyết định việc cấp lại Giấy chứng nhận.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Nộp hồ sơ đề nghị cấp lại Giấy chứng nhận trực tiếp đến Cơ quan cấp Giấy chứng nhận.|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ đề nghị cấp lại Giấy chứng nhận qua Cổng dịch vụ công trực tuyến đến Cơ quan cấp Giấy chứng nhận.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Nộp hồ sơ đề nghị cấp lại Giấy chứng nhận qua đường bưu chính đến Cơ quan cấp Giấy chứng nhận.|
+
+Thành phần hồ sơ:
+
+cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao theo Mẫu số 09 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg ([Mẫu 09_VB đề nghị cấp lại Giấy CN CGCN KKCG.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd73605932ff988'))
+- 01 Bản chính Bản chính Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp Giấy chứng nhận bị mất)
+- 01 Bản sao Bản sao một trong các giấy tờ sau: Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký doanh nghiệp hoặc các giấy tờ khác có giá trị pháp lý tương đương của các bên tham gia chuyển giao công nghệ (nếu thay đổi tên, địa chỉ của các bên tham gia chuyển giao công nghệ)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Sở khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Sở Khoa học và Công nghệ nơi có chuyển giao công nghệ khuyến khích chuyển giao trong dự án đầu tư tại địa phương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (cấp lại) (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|61/2020/QH14|Luật 61/2020/QH14|17-06-2020||
+|31/2021/NĐ-CP|Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư|26-03-2021|Chính phủ|
+|12/2023/QĐ-TTg|Quyết định về cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao|15-05-2023|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Dự án đầu tư đăng ký hoạt động theo quy định của pháp luật về đầu tư;
+- Việc cấp lại áp dụng đối với trường hợp Giấy chứng nhận bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của một trong các bên tham gia chuyển giao công nghệ.
+- Dự án đầu tư đăng ký hoạt động theo quy định của pháp luật về đầu tư;
+- Việc cấp lại áp dụng đối với trường hợp Giấy chứng nhận bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của một trong các bên tham gia chuyển giao công nghệ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp giấy xác nhận có quốc tịch Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai xác nhận có quốc tịch Việt Nam (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeed64a13cf0ce'">Mau dang ky xac nhan lai quoc tich Viet Nam.doc</a>)
+- 01 Bản sao Bản sao giấy chứng minh nhân dân, hộ chiếu hoặc giấy tờ có giá trị thay thế
+- 01 Bản chính, 01 Bản sao Bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực một trong các giấy tờ được quy định tại Điều 11 Luật Quốc tịch Việt Nam năm 2008 hoặc giấy tờ tương tự do chính quyền cũ trước đây cấp, kể cả giấy khai sinh trong đó không có mục quốc tịch hoặc mục quốc tịch bỏ trống nếu trên đó ghi họ tên Việt Nam (họ tên người yêu cầu, họ tên cha, mẹ)
+- 01 Bản chính Tờ khai lý lịch và các giấy tờ quy định tại khoản 1 Điều 10 Thông tư liên tịch số 05/2010/TTLT/BTP-BNG-BCA trong trường hợp không có giấy tờ chứng minh quốc tịch nêu trên

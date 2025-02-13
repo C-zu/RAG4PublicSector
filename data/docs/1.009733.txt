@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009733
+Số quyết định:
+3310/ QĐ-UBND
+Tên thủ tục:
+Báo cáo nhu cầu sử dụng người lao động nước ngoài
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Việc làm
+Trình tự thực hiện:
+Trường hợp 1
+Bước 1: Cá nhân/Tổ chức nộp hồ sơ tại Bộ phận TN&TKQ của Sở Lao động - Thương binh và Xã hội tại Trung g tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ từ Trung tâm Phục vụ hành chính công tỉnh (TTPVHCC) về phòng chuyên môn của Sở Lao động - TBXH đồng thời chuyển qua phần mềm cho phòng chuyên môn để xử lý.
+Bước 3: Phân công công chức xử lý hồ sơ
+Bước 4: Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện: Dự thảo văn bản trả lời không đủ điều kiện, trình lãnh đạo phòng xem xét ký nháy;
+- Trường hợp hồ sơ đủ điều kiện: dự thảo Dự thảo công văn xác nhận trình lãnh đạo phòng xem xét ký nháy.
+Bước 5: Ban hành Công văn xác nhận hoặc Văn bản trả lời chuyển văn thư đóng dấu và chuyển TTPVHCC
+Bước 6: Trả kết quả cho doanh nghiệp
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|||
+|Trực tuyến|15 Ngày|||
+|Dịch vụ bưu chính|15 Ngày|||
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị xác nhận người lao động nước ngoài không thuộc diện cấp Giấy phép lao động, theo mẫu BM.VL.09.01 ([BM.VL.09.01.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b2eb3d08b610'))
+- 01 Bản chính, 01 Bản sao Các giấy tờ để chứng minh người lao động nước ngoài không thuộc diện cấp giấy phép lao động là 01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực nếu bằng tiếng nước ngoài thì miễn hợp pháp hóa lãnh sự, nhưng phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Lao động, Thương binh và Xã hội - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Sở Lao động, Thương binh và Xã hội - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Sở Kế hoạch và Đầu tư - Tỉnh Hà Tĩnh, Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Kết quả thực hiện:
+Công văn chấp thuận/Công văn trả lời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|11/2016/NĐ-CP|Nghi định|03-02-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

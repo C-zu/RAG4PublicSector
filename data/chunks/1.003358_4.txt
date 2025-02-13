@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp thẻ tạm trú cho người nước ngoài tại Cục Quản lý xuất nhập cảnh, Bộ Công an
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đề nghị cấp thẻ tạm trú cho người nước ngoài (NA8) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4b677e11458c2'">9-Mẫu NA8.doc</a>)
+- 01 Bản chính Văn bản đề nghị cấp thẻ tạm trú: mẫu NA6 (ban hành kèm theo Thông tư số 04/2015/TT-BCA ngày 05/01/2015 của Bộ Công an) đối với cơ quan, tổ chức; mẫu NA7 (ban hành kèm theo Thông tư số 22/2023/TT-BCA ngày 30/6/2023 của Bộ Công an) đối với cá nhân; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc96aacdc2d34a8'">NA7.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd32b2aefa2d97a'">7-Mẫu NA6.doc</a>)
+- 01 Bản chính Hộ chiếu
+- 01 Bản chính, 01 Bản sao Giấy tờ chứng minh thuộc diện xem xét cấp thẻ tạm trú là một trong các loại giấy tờ như: giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động hoặc các giấy tờ khác có giá trị chứng minh đủ điều kiện cấp thẻ tạm trú
+- 02 Bản chính 02 ảnh cỡ 2x3cm (01 ảnh dán vào tờ khai, 01 ảnh rời)
+ Trường hợp nộp hồ sơ trực tuyến thì hộ chiếu phải gửi qua dịch vụ bưu chính công ích về cơ quan tiếp nhận; thành phần hồ sơ khác phải được chứng thực điện tử theo quy định, trường hợp chưa được chứng thực điện tử thì gửi hồ sơ về cơ quan tiếp nhận thông qua dịch vụ bưu chính công ích.

@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục huỷ tờ khai hải quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Mẫu số 04/HTK/GSQL – Đơn đề nghị huỷ tờ khai (phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính được sửa đổi, bổ sung tại Phụ lục II Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ trưởng Bộ Tài chính)

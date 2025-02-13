@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục xin cấp phép cung cấp dịch vụ Internet trong Quân đội
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1.	Doanh nghiệp cung cấp dịch vụ Internet có nhu cầu cung cấp dịch vụ Internet trong Quân đội gửi hồ sơ về Bộ Tư lệnh 86.
+2.	Bộ Tư lệnh 86 tiếp nhận hồ sơ và phối hợp với các cơ quan chức năng liên quan thẩm định hồ sơ; trong thời hạn 30 (ba mươi) ngày làm việc, kể từ ngày nhận đủ hồ sơ phải trình Bộ trưởng Bộ Quốc phòng xem xét, quyết định.
+3.	Trường hợp Bộ trưởng Bộ Quốc phòng không cấp phép, Bộ Tư lệnh 86 phải thông báo bằng văn bản và nêu rõ lý do để doanh nghiệp xin cấp phép biết.

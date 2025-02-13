@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký trong các giấy tờ, văn bản (áp dụng cho cả trường hợp chứng thực điểm chỉ và trường hợp người yêu cầu chứng thực không thể ký, không thể điểm chỉ được)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân/Căn cước công dân hoặc Hộ chiếu còn giá trị sử dụng.
+- 01 Bản chính + Giấy tờ, văn bản mà mình sẽ yêu cầu chứng thực chữ ký. Trường hợp chứng thực chữ ký trong giấy tờ, văn bản bằng tiếng nước ngoài, nếu người thực hiện chứng thực không hiểu rõ nội dung của giấy tờ, văn bản thì có quyền yêu cầu người yêu cầu chứng thực nộp kèm theo bản dịch ra tiếng Việt nội dung của giấy tờ, văn bản đó (bản dịch không cần công chứng hoặc chứng thực chữ ký người dịch, người yêu cầu chứng thực phải chịu trách nhiệm về nội dung của bản dịch).

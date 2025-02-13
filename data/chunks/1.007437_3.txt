@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán hết thời hạn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000 Đồng Phí thẩm định cấp mới GCN: 1.200.000 VNĐ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và nộp đủ phí theo quy định.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000 Đồng Phí thẩm định cấp mới GCN: 1.200.000 VNĐ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện; - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và nộp đủ phí theo quy định.|

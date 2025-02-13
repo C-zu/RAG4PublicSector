@@ -1,0 +1,12 @@
+Tên thủ tục: thủ tục công khai bản kê khai tài sản, thu nhập
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Kế hoạch công khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde475565cc7a4e'">Mẫu Thông tư 08-2013.doc</a>)
+- 01 Bản chính Văn bản phân công thực hiện việc công khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd66743f8dac774'">Mẫu Thông tư 08-2013.doc</a>)
+- 01 Bản chính Văn bản phổ biến kế hoạch công khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5267b5db3631a'">Mẫu Thông tư 08-2013.doc</a>)
+- 01 Bản chính Danh sách và bản kê khai công khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb7c2719dcf2a4'">Mẫu Thông tư 08-2013.doc</a>)
+- 01 Bản chính Biên bản công khai và kết thúc công khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe81bbd76c98ade'">Mẫu Thông tư 08-2013.doc</a>)
+- 01 Bản chính Báo cáo kết quả công khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c9476338d485'">Mẫu Thông tư 08-2013.doc</a>)

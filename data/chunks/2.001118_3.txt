@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận đăng ký kiểm tra chất lượng hàng hóa nhập khẩu đối với hàng hóa nhập khẩu bắt buộc phải công bố hợp quy
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||Nộp trực tiếp về Cục Viễn thông (Địa chỉ: số 68 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, Hà Nội)|
+|Trực tuyến|1 Ngày làm việc||Nộp trực tuyến qua cổng dịch vụ công trực tuyến của cơ quan nhà nước (Cổng dịch vụ công của Cục Viễn thông, cổng dịch vụ công của Bộ Thông tin và Truyền thông) hoặc Cổng thông tin một cửa Quốc gia.|
+|Dịch vụ bưu chính|1 Ngày làm việc||Nộp qua hệ thống bưu chính về Cục Viễn thông (Địa chỉ: số 68 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, Hà Nội)|

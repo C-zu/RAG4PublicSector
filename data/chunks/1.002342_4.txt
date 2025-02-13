@@ -1,0 +1,8 @@
+Tên thủ tục: Đánh giá định kỳ việc duy trì đáp ứng Thực hành tốt thử thuốc trên lâm sàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đánh giá đáp ứng GCP. Trường hợp cơ sở đề nghị cấp giấy chứng nhận GCP thì phải ghi rõ nội dung này trong đơn; (Mẫu số 01 - Phụ lục III) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdba476d92820ce'">phụ lục (22).docx</a>)
+- 01 Bản chính Tài liệu kỹ thuật về cơ sở được trình bày theo hướng dẫn về hồ sơ tổng thể (Phụ lục II) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f8c264877b42680'">phụ lục (23).docx</a>)

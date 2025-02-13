@@ -1,0 +1,80 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000209
+Số quyết định:
+3806A/QĐ-BCT
+Tên thủ tục:
+Miễn trừ áp dụng biện pháp phòng vệ thương mại
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng vệ thương mại
+Trình tự thực hiện:
+- Trong thời hạn 30 ngày kể từ ngày Cơ quan điều tra thông báo việc tiếp nhận hồ sơ miễn trừ, tổ chức, cá nhân nộp trực tuyến 01 bộ hồ sơ đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại (sau đây gọi tắt là hồ sơ miễn trừ).
+- Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ miễn trừ, Cơ quan điều tra phòng vệ thương mại thông báo cho tổ chức, cá nhân về tính đầy đủ và hợp lệ của hồ sơ.
+- Trong trường hợp hồ sơ miễn trừ chưa đầy đủ và hợp lệ, Cơ quan điều tra phòng vệ thương mại thông báo bằng văn bản cho tổ chức, cá nhân nộp hồ sơ để bổ sung.
+- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được thông báo yêu cầu bổ sung của Cơ quan điều tra, các đối tượng đề nghị miễn trừ có trách nhiệm cung cấp đầy đủ và chính xác những nội dung được yêu cầu bổ sung.
+- Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ miễn trừ đầy đủ và hợp lệ, Bộ Công Thương xem xét ra Quyết định miễn trừ áp dụng biện pháp phòng vệ thương mại. Trong trường hợp không miễn trừ áp dụng biện pháp phòng vệ thương mại, Cơ quan điều tra có trách nhiệm thông báo cho tổ chức, cá nhân về lý do không miễn trừ áp dụng biện pháp phòng vệ thương mại.
+- Cơ quan điều tra có trách nhiệm gửi Quyết định miễn trừ áp dụng biện pháp phòng vệ thương mại bằng văn bản cho tổ chức, cá nhân nộp hồ sơ miễn trừ, Bộ Tài chính, Tổng cục Hải quan và công khai quyết định miễn trừ trên Cổng thông tin điện tử của Bộ Công Thương, trang thông tin điện tử của Cơ quan điều tra.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.|
+|Trực tuyến|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ 1. Hồ sơ đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại (sau đây gọi là hồ sơ miễn trừ) bao gồm các giấy tờ và tài liệu sau đây
+- 01 Bản chính - Đơn đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại theo mẫu tại Phụ lục III ban hành kèm theo Thông tư số 37/2019/TT-BCT ngày 29 tháng 11 năm 2019 của Bộ trưởng Bộ Công Thương quy định chi tiết một số nội dung về các biện pháp phòng vệ thương mại ; ([PHỤ LỤC III.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb41b50ba3b860'))
+- 01 Bản sao - Bản sao giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đầu tư của doanh nghiệp;
+ - Thông tin mô tả về hàng hóa nhập khẩu đề nghị miễn trừ, bao gồm: tên khoa học, tên thương mại, tên thường gọi; các đặc tính vật lý, hóa học cơ bản; mục đích sử dụng chính; quy trình sản xuất; tiêu chuẩn, quy chuẩn của quốc tế và Việt Nam; mã số hàng hóa theo danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam
+ - Thông tin về khối lượng, số lượng và trị giá nhập khẩu hàng hóa đề nghị miễn trừ (thông thường trong 03 năm gần nhất và năm hiện tại);
+ - Quy trình sản xuất sản phẩm sử dụng nguyên liệu đầu vào là hàng hóa đề nghị miễn trừ (nếu có);
+ - Nhu cầu tiêu thụ hoặc sử dụng hàng hóa nhập khẩu đề nghị miễn trừ (thông thường trong 03 năm gần nhất và năm hiện tại);
+ - Định mức tiêu hao hoặc định mức sử dụng nguyên vật liệu là hàng hóa nhập khẩu đề nghị miễn trừ;
+ - Văn bản, tài liệu hoặc mẫu mã chứng minh sự khác biệt giữa hàng hóa đề nghị miễn trừ và hàng hóa nhập khẩu bị áp dụng biện pháp phòng vệ thương mại.
+ - Thông tin về cơ sở, dây chuyền sản xuất và sản lượng sản xuất hàng hóa đề nghị miễn trừ trong 03 năm gần nhất và năm hiện tại;
+ - Tài liệu chứng minh về nhu cầu sử dụng lượng hàng hóa đề nghị miễn trừ, bao gồm: hợp đồng ký kết với khách hàng, phê duyệt các dự án đang triển khai hoặc các tài liệu có liên quan.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Phòng vệ thương mại - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Bộ Công thương
+Địa chỉ tiếp nhận HS:
+Cục Phòng vệ thương mại, Bộ Công Thương: Số 25 Ngô Quyền, quận Hoàn Kiếm, thành phố Hà Nội
+Cơ quan được ủy quyền:
+Cục Phòng vệ thương mại - Bộ Công Thương
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định miễn trừ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|10/2018/NĐ-CP|Nghị định 10/2018/NĐ-CP|15-01-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Bộ trưởng Bộ Công Thương xem xét miễn trừ áp dụng biện pháp phòng vệ thương mại tạm thời, biện pháp phòng vệ thương mại chính thức đối với một số hàng hóa nhập khẩu bị áp dụng biện pháp phòng vệ thương mại thuộc một trong các trường hợp sau:
+1. Hàng hóa trong nước không sản xuất được;
+2. Hàng hóa có đặc điểm khác biệt với hàng hóa sản xuất trong nước mà hàng hóa sản xuất trong nước đó không thể thay thế được;
+3. Hàng hóa là sản phẩm đặc biệt của hàng hóa tương tự hoặc hàng hóa cạnh tranh trực tiếp được sản xuất trong nước;
+4. Hàng hóa tương tự, hàng hóa cạnh tranh trực tiếp được sản xuất trong nước không được bán trên thị trường trong nước trong cùng điều kiện thông thường;
+5. Hàng hóa tương tự, hàng hóa cạnh tranh trực tiếp được sản xuất trong nước không đáp ứng đủ lượng sử dụng trong nước;
+6. Hàng hóa nhập khẩu nằm trong tổng lượng đề nghị miễn trừ quy định từ khoản 1 đến khoản 5 Điều 10 Thông tư số 37/2019/TT-BCT phục vụ mục đích nghiên cứu, phát triển và các mục đích phi thương mại khác.
+Bộ trưởng Bộ Công Thương xem xét miễn trừ áp dụng biện pháp phòng vệ thương mại tạm thời, biện pháp phòng vệ thương mại chính thức đối với một số hàng hóa nhập khẩu bị áp dụng biện pháp phòng vệ thương mại thuộc một trong các trường hợp sau:
+1. Hàng hóa trong nước không sản xuất được;
+2. Hàng hóa có đặc điểm khác biệt với hàng hóa sản xuất trong nước mà hàng hóa sản xuất trong nước đó không thể thay thế được;
+3. Hàng hóa là sản phẩm đặc biệt của hàng hóa tương tự hoặc hàng hóa cạnh tranh trực tiếp được sản xuất trong nước;
+4. Hàng hóa tương tự, hàng hóa cạnh tranh trực tiếp được sản xuất trong nước không được bán trên thị trường trong nước trong cùng điều kiện thông thường;
+5. Hàng hóa tương tự, hàng hóa cạnh tranh trực tiếp được sản xuất trong nước không đáp ứng đủ lượng sử dụng trong nước;
+6. Hàng hóa nhập khẩu nằm trong tổng lượng đề nghị miễn trừ quy định từ khoản 1 đến khoản 5 Điều 10 Thông tư số 37/2019/TT-BCT phục vụ mục đích nghiên cứu, phát triển và các mục đích phi thương mại khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

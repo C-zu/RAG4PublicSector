@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục tặng Huy hiệu thành phố Hồ Chí Minh
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Huy hiệu thành phố Hồ Chí Minh là hình thức khen thưởng vinh dự của thành phố, khen thưởng cho người nước ngoài và các cá nhân ở trong và ngoài thành phố, mỗi cá nhân chỉ được tặng một lần. Huy hiệu Thành phố Hồ Chí Minh do Chủ tịch Ủy ban nhân dân thành phố quyết định tặng thưởng; cá nhân được tặng Huy hiệu thành phố không kèm theo tiền thưởng.
+Tiêu chuẩn và điều kiện để xét khen thưởng Huy hiệu Thành phố Hồ Chí Minh:
+- Đối với các cá nhân trong các cơ quan, đơn vị có tổ chức bình xét thi đua hàng năm: phải có quá trình công tác, hoạt động tại thành phố từ 10 năm trở lên và tính đến thời điểm đề nghị phải ít nhất đạt 01 danh hiệu Chiến sĩ thi đua cấp thành phố và 01 Bằng khen của Ủy ban nhân dân thành phố.
+- Đối với các cá nhân có quá trình công tác tại thành phố Hồ Chí Minh từ 20 năm trở lên: hàng năm kết quả đánh giá phân loại công chức, viên chức phải đạt mức hoàn thành nhiệm vụ trở lên và tính đến thời điểm đề nghị ít nhất đã được tặng 01 Bằng khen của Ủy ban nhân dân thành phố.
+- Đối với các cá nhân khác không nằm trong diện bình xét danh hiệu thi đua hàng năm, được căn cứ theo thành tích đóng góp cụ thể, nếu là người trong nước thì ngoài những đóng góp cụ thể trong thời gian 05 năm tính đến thời điểm đề nghị phải được Ủy ban nhân dân thành phố tặng 02 Bằng khen.
+- Đối với Đại biểu Hội đồng nhân dân, phải có những đóng góp tích cực trong vai trò nhiệm vụ của Đại biểu, phải có thời gian tham gia ít nhất 01 nhiệm kỳ đối với Đại biểu Hội đồng nhân dân cấp thành phố và ít nhất 02 nhiệm kỳ đối với Đại biểu Hội đồng nhân dân cấp huyện và cấp xã.
+- Đối với người nước ngoài, phải có công lao đóng góp tích cực cho sự nghiệp xây dựng và phát triển của thành phố trên các lĩnh vực, được các cơ quan có thẩm quyền công nhận và đề xuất khen thưởng. Riêng đối với người nước ngoài làm việc tại các Lãnh sự quán, các Văn phòng đại diện Kinh tế, Thương mại, Văn hóa các nước đóng trên địa bàn thành phố thực hiện việc xét khen thưởng theo chỉ đạo của Lãnh đạo thành phố.
+Trong thời gian được tính để xét tặng Huy hiệu Thành phố Hồ Chí Minh, cá nhân không vi phạm pháp luật hoặc bị xử lý kỷ luật từ hình thức cảnh cáo trở lên.
+Huy hiệu thành phố Hồ Chí Minh là hình thức khen thưởng vinh dự của thành phố, khen thưởng cho người nước ngoài và các cá nhân ở trong và ngoài thành phố, mỗi cá nhân chỉ được tặng một lần. Huy hiệu Thành phố Hồ Chí Minh do Chủ tịch Ủy ban nhân dân thành phố quyết định tặng thưởng; cá nhân được tặng Huy hiệu thành phố không kèm theo tiền thưởng.
+Tiêu chuẩn và điều kiện để xét khen thưởng Huy hiệu Thành phố Hồ Chí Minh:
+- Đối với các cá nhân trong các cơ quan, đơn vị có tổ chức bình xét thi đua hàng năm: phải có quá trình công tác, hoạt động tại thành phố từ 10 năm trở lên và tính đến thời điểm đề nghị phải ít nhất đạt 01 danh hiệu Chiến sĩ thi đua cấp thành phố và 01 Bằng khen của Ủy ban nhân dân thành phố.
+- Đối với các cá nhân có quá trình công tác tại thành phố Hồ Chí Minh từ 20 năm trở lên: hàng năm kết quả đánh giá phân loại công chức, viên chức phải đạt mức hoàn thành nhiệm vụ trở lên và tính đến thời điểm đề nghị ít nhất đã được tặng 01 Bằng khen của Ủy ban nhân dân thành phố.
+- Đối với các cá nhân khác không nằm trong diện bình xét danh hiệu thi đua hàng năm, được căn cứ theo thành tích đóng góp cụ thể, nếu là người trong nước thì ngoài những đóng góp cụ thể trong thời gian 05 năm tính đến thời điểm đề nghị phải được Ủy ban nhân dân thành phố tặng 02 Bằng khen.
+- Đối với Đại biểu Hội đồng nhân dân, phải có những đóng góp tích cực trong vai trò nhiệm vụ của Đại biểu, phải có thời gian tham gia ít nhất 01 nhiệm kỳ đối với Đại biểu Hội đồng nhân dân cấp thành phố và ít nhất 02 nhiệm kỳ đối với Đại biểu Hội đồng nhân dân cấp huyện và cấp xã.
+- Đối với người nước ngoài, phải có công lao đóng góp tích cực cho sự nghiệp xây dựng và phát triển của thành phố trên các lĩnh vực, được các cơ quan có thẩm quyền công nhận và đề xuất khen thưởng. Riêng đối với người nước ngoài làm việc tại các Lãnh sự quán, các Văn phòng đại diện Kinh tế, Thương mại, Văn hóa các nước đóng trên địa bàn thành phố thực hiện việc xét khen thưởng theo chỉ đạo của Lãnh đạo thành phố.
+Trong thời gian được tính để xét tặng Huy hiệu Thành phố Hồ Chí Minh, cá nhân không vi phạm pháp luật hoặc bị xử lý kỷ luật từ hình thức cảnh cáo trở lên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

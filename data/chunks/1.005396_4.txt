@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Đơn đề nghị cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự, trong đó nêu rõ lý do cấp lại Giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf3a88e0a4e356'">Mẫu Đơn đề nghị Sửa đổi, bổ sung, cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự.docx</a>)

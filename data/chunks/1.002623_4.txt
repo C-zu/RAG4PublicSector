@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng gồm có
+- 01 Bản chính, 01 Bản sao Đơn đề nghị sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+- 01 Bản chính, 01 Bản sao Báo cáo mô tả chi tiết nội dung đề nghị sửa đổi, bổ sung
+- 01 Bản chính, 01 Bản sao Các tài liệu khác có liên quan

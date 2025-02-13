@@ -1,0 +1,9 @@
+Tên thủ tục: Khám giám định để thực hiện chế độ hưu trí đối với người lao động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Giấy giới thiệu của người sử dụng lao động theo mẫu quy định tại Phụ lục 1 kèm theo Thông tư số 18/2022/TT-BYT đối với người lao động đang đóng bảo hiểm xã hội bắt buộc hoặc Giấy đề nghị khám giám định theo mẫu quy định tại Phụ lục 2 kèm theo Thông tư số 18/2022/TT-BYT đối với người lao động đang bảo lưu thời gian đóng bảo hiểm xã hội hoặc người lao động đã có quyết định nghỉ việc chờ giải quyết chế độ hưu trí, trợ cấp hàng tháng. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec0502edc0b0ea'">Phụ lục 1 và 2.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Bản chính hoặc bản sao hợp lệ của một trong các giấy tờ sau đây: - Tóm tắt hồ sơ bệnh án; - Giấy xác nhận khuyết tật; - Giấy ra viện; - Sổ khám bệnh; - Phiếu khám bệnh; - Phiếu kết quả cận lâm sàng; - Đơn thuốc của cơ sở khám bệnh, chữa bệnh; - Hồ sơ bệnh nghề nghiệp; - Biên bản giám định y khoa lần gần nhất đối với người đã được khám giám định;
+- 01 Bản chính 3. Một trong các giấy tờ có ảnh sau đây: Chứng minh nhân dân; Căn cước công dân; Hộ chiếu còn hiệu lực. Trường hợp không có các giấy tờ nêu trên thì phải có Giấy xác nhận của Công an cấp xã có dán ảnh, đóng giáp lai trên ảnh và được cấp trong thời gian không quá 03 tháng tính đến thời điểm đề nghị khám giám định;.

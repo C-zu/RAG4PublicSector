@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục Hỗ trợ tổ chức áp dụng tiêu chuẩn, công cụ, mô hình, phương pháp quản lý tiên tiến
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011446
+Số quyết định:
+3419/QĐ-UBND
+Tên thủ tục:
+Thủ tục Hỗ trợ tổ chức áp dụng tiêu chuẩn, công cụ, mô hình, phương pháp quản lý tiên tiến
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng

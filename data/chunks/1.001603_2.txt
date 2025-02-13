@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục phê duyệt mẫu phương tiện đo
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở sản xuất, nhập khẩu phương tiện đo (sau đây gọi tắt là cơ sở) thuộc Danh mục phương tiện đo phải kiểm định do Bộ Khoa học và Công nghệ ban hành nộp 01 bộ hồ sơ đăng ký phê duyệt mẫu phương tiện đo đến Tổng cục Tiêu chuẩn Đo lường Chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định: 
+- Nếu hồ sơ chưa đầy đủ, hợp lệ: Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho cơ sở những nội dung cần sửa đổi, bổ sung. 
+Trường hợp trong hồ sơ có đề nghị miễn, giảm thử nghiệm mẫu nhưng không đủ căn cứ được miễn, giảm, Tổng cục thông báo bằng văn bản về việc phải thử nghiệm mẫu và/hoặc bổ sung, hoàn thiện hồ sơ đăng ký phê duyệt mẫu. 
+- Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn mười ngày (10) làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Tổng cục ra quyết định phê duyệt mẫu theo quy định.

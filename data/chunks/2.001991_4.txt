@@ -1,0 +1,11 @@
+Tên thủ tục: Quyết định, phê duyệt văn kiện dự án hỗ trợ kỹ thuật, phi dự án (bao gồm dự án hỗ trợ kỹ thuật sử dụng vốn ODA, vốn vay ưu đãi để chuẩn bị dự án đầu tư)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản lấy ý kiến.
+- 01 Bản chính - Văn bản trình phê duyệt Văn kiện dự án, phi dự án của chủ dự án.
+- 01 Bản chính, 07 Bản sao - Dự thảo Văn kiện dự án, phi dự án. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe847f70cfbe6bb'">Phu luc V (kem theo ND 114.2021).docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed146043ad363a'">Phu luc VI (kem theo ND 114.2021).docx</a>)
+- 01 Bản chính - Văn bản góp ý của các cơ quan liên quan.
+- 01 Bản chính - Các tài liệu liên quan khác (nếu có) như: văn bản của nhà tài trợ thống nhất với nội dung dự án, phi dự án, thông báo hoặc cam kết xem xét tài trợ, văn bản ghi nhớ với nhà tài trợ, báo cáo của đoàn chuyên gia thẩm định thực hiện theo yêu cầu của nhà tài trợ.

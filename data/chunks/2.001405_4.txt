@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục Thẩm định, phê duyệt quy hoạch tổng thể di dân, tái định cư các dự án thủy lợi, thủy điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 020 Bản chính Tờ trình của chủ đầu tư gửi cơ quan có thẩm quyền thẩm định, phê duyệt quy hoạch tổng thể
+- 020 Bản chính Các văn bản ý kiến của các cấp chính quyền (xã, huyện, tỉnh) nới tái định cư, vùng ngập lòng hồ, mặt bằng công trình và một số văn bản pháp lý khác có liên quan
+- 020 Bản chính Báo cáo tổng hợp quy hoạch tổng thể
+- 020 Bản chính Các bản đồ minh họa vị trí, hiện trạng, quy hoạch tỉ lệ 1/25.000 đến 1/250.000 tùy theo quy mô vùng tái định cư và bản đồ quy hoạch khu, điểm tái định cư tỉ lệ 1/10.000
+- 020 Bản chính Các phụ lục kèm theo báo cáo ( nếu có )

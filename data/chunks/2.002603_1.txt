@@ -1,0 +1,16 @@
+Tên thủ tục: Công bố dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư do nhà đầu tư đề xuất (Cấp tỉnh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002603
+Số quyết định:
+261/QĐ-BKHĐT
+Tên thủ tục:
+Công bố dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư do nhà đầu tư đề xuất (Cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đấu thầu

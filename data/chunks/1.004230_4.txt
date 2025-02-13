@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy phép gửi đến Bộ Thông tin và Truyền thông
+ Văn bản đề nghị phải nêu rõ số Giấy phép, ngày cấp của Giấy phép đã cấp và lý do đề nghị cấp lại Giấy phép. Trường hợp Giấy phép bị hư hỏng thì phải gửi kèm theo bản Giấy phép bị hư hỏng

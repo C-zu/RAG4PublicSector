@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép hoạt động ngân hàng mô
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao b) Bản sao quyết định thành lập ngân hàng mô hoặc bản photocopy có bản chính để đối chiếu hoặc Giấy chứng nhận doanh nghiệp đối với ngân hàng mô tư nhân; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe67a678b152e2b'">phụ lục.docx</a>)
+- 01 Bản chính c) Bản kê khai cơ sở vật chất, trang thiết bị y tế để chứng minh đủ điều kiện quy định tại Điều 3a Nghị định số 155/2018/NĐ-CP ngày 12 tháng 11 năm 2018 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec5758307a2b61'">phụ lục.docx</a>)
+- 01 Bản chính d) Đối với ngân hàng mô độc lập: Bản kê khai nhân lực của ngân hàng mô để chứng minh đủ điều kiện quy định tại Điều 3a Nghị định số 155/2018/NĐ-CP ngày 12 tháng 11 năm 2018 của Chính phủ. Đối với người quản lý chuyên môn còn phải có bản sao chứng thực văn bằng, chứng chỉ; Đối với ngân hàng mô thuộc cơ sở y tế chỉ cần chứng chỉ hành nghề. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3a0a2af88f800'">phụ lục.docx</a>)
+- 01 Bản chính a) Đơn đề nghị cấp Giấy phép hoạt động ngân hàng mô theo mẫu quy định tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP ngày 12 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb6a4f40b849ae'">phụ lục.docx</a>)

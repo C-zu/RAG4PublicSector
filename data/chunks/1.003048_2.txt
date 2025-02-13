@@ -1,0 +1,27 @@
+Tên thủ tục: Ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế lần đầu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Đối với cơ sở KCB
+(1) Cơ sở KCB chuẩn bị hồ sơ ký hợp đồng KCB BHYT và gửi 01 bộ hồ sơ theo quy định tại Điều 16 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 đến cơ quan BHXH;  
+(2) Nội dung hợp đồng, điều kiện ký hợp đồng KCB BHYT đối với cơ sở KCB theo quy định tại Điều 17 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018, gồm:
+ - Nội dung hợp đồng KCB BHYT được lập theo Mẫu số 7 Phụ lục ban hành kèm theo Nghị định số 75/2023/NĐ-CP. Tùy theo điều kiện của cơ sở KCB, cơ quan BHXH và cơ sở KCB thống nhất bổ sung nội dung trong Hợp đồng nhưng không trái quy định của pháp luật về BHYT.
+ - Điều kiện để ký hợp đồng KCB BHYT đối với cơ sở KCB gồm:
+a) Có đủ điều kiện hoạt động KCB theo quy định của pháp luật về KCB và đã được cơ quan có thẩm quyền cấp giấy phép hoạt động KCB;
+b) Đảm bảo việc cung ứng thuốc, hóa chất, vật tư y tế phù hợp với phạm vi hoạt động chuyên môn của cơ sở KCB.
+(3) Ký hợp đồng KCB BHYT theo quy định tại Điều 18 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018.
+Bước 2: Ký hợp đồng KCB BHYT
+1. Trường hợp ký hợp đồng khám bệnh, chữa bệnh lần đầu:
+a) Cơ sở khám bệnh, chữa bệnh gửi 01 bộ hồ sơ theo quy định tại Điều 16 Nghị định 146/2018/NĐ-CP ngày 17/10/2018 đến cơ quan BHXH;
+b) Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ (theo ngày ghi trên dấu công văn đến), cơ quan BHXH phải thực hiện xong việc xem xét hồ sơ và ký Hợp đồng. Trường hợp không đồng ý ký hợp đồng KCB BHYT thì phải có văn bản trả lời và nêu rõ lý do.
+2. Thời hạn có hiệu lực của hợp đồng khám bệnh, chữa bệnh BHYT:
+a) Thời hạn của hợp đồng từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm, tối đa không quá 36 tháng;
+b) Đối với hợp đồng ký lần đầu, thời hạn của hợp đồng được tính kể từ ngày ký đến hết ngày 31 tháng 12 của năm thời hạn hợp đồng hết hiệu lực, tối đa không quá 36 tháng;
+3. Các khoản chi phí KCB đối với trường hợp người tham gia BHYT đến KCB trước ngày 01 tháng 01 nhưng ra viện kể từ ngày 01 tháng 01 thì thực hiện như sau:
+a) Trường hợp cơ sở KCB tiếp tục ký hợp đồng KCB BHYT thì tính vào chi phí KCB năm sau;
+b) Trường hợp cơ sở KCB không tiếp tục ký hợp đồng KCB BHYT thì tính vào chi phí KCB năm trước.
+4. Hợp đồng KCB BHYT phải quy định rõ phương thức thanh toán chi phí KCB BHYT phù hợp với điều kiện của cơ sở KCB.
+5. Các bên có trách nhiệm bảo đảm quyền lợi của người bệnh có thẻ BHYT theo quy định của pháp luật BHYT và không làm gián đoạn việc KCB đối với người bệnh có thẻ BHYT.
+Bước 3: Đối với cơ quan BHXH
+ - Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ (theo ngày ghi trên dấu công văn đến), cơ quan BHXH phải thực hiện xong việc xem xét hồ sơ và ký Hợp đồng. Trường hợp không đồng ý ký hợp đồng KCB BHYT thì phải có văn bản trả lời và nêu rõ lý do.
+ - Hợp đồng KCB BHYT được cơ sở KCB ký với cơ quan BHXH theo Mẫu số 7 Phụ lục ban hành kèm theo Nghị định số 75/2023/NĐ-CP và Mẫu số 8 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018.

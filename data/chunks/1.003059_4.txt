@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy phép kinh doanh nhập khẩu ô tô
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép kinh doanh nhập khẩu ô tô, trong đó nêu rõ lý do mất, thất lạc, hư hỏng (Mẫu số 07 Phụ lục II ban hành kèm theo Nghị định 116/2017/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6cc7d73f6705c'">MẪU SỐ 07 Ô TÔ .docx</a>)

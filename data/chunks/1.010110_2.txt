@@ -1,0 +1,25 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Thủ tướng Chính phủ (đối với dự án không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư) - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ đáp ứng yêu cầu, làm văn bản lấy ý kiến thẩm định của Bộ KH&ĐT và các Sở ban ngành liên quan (nếu có)
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo Ban ký duyệt. 
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 15
++ Gửi Văn bản lấy ý kiến đến các sở, ban, ngành liên quan; Văn bản kèm 02 bộ hồ sơ cho Bộ KH&ĐT (nếu hồ sơ đủ điều kiện). Chuyển sang thực hiện B6
+B6	Bộ KH&ĐT, các  Sở ban ngành liên quan góp ý thẩm định hồ sơ
+B7	Tổng hợp ý kiến của các ngành vào dự thảo Văn bản báo cáo UBND tỉnh về nội dung dự án  và Dự thảo Tờ trình đề nghị UBND tỉnh có ý kiến đề xuất gửi Bộ Kế hoạch và Đầu tư
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B9	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định của phòng chuyên môn
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B11	UBND tỉnh xem xét có ý kiến gửi Bộ Kế hoạch và Đầu tư
+B12	Bộ KH và ĐT lập báo cáo thẩm định  trình Thủ tướng Chính phủ quyết định
+B13	Thủ tướng Chính phủ xem xét, quyết định chủ trương đầu tư
+B14	Cập nhật, theo dõi kết quả xử lý công việc, chuyển kết quả sang TTPVHCC
+B15	Trả kết quả

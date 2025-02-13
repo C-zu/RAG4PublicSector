@@ -1,0 +1,23 @@
+Tên thủ tục: Đăng ký dấu nghiệp vụ giám định thương mại
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo xác nhận dấu nghiệp vụ giám định thương mại
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2006/NĐ-CP|Quy định chi tiết Luật Thương mại về kinh doanh dịch vụ giám định thương mại|20-02-2006|Chính phủ|
+|125/2014/NĐ-CP|Sửa đổi, bổ sung quy định về dịch vụ giám định thương mại tại Nghị định số 120/2011/NĐ-CP ngày 16 tháng 12 năm 2011 và nghị định số 20/2006/NĐ-CP ngày 20 tháng 02 năm 2006|26-08-2019|Chính phủ|
+|01/2015/TT-BCT|Quy định thủ tục đăng ký dấu nghiệp vụ của thương nhân kinh doanh dịch vụ giám định thương mại|12-01-2015|Bộ Công thương|

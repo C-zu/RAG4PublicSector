@@ -1,0 +1,7 @@
+Tên thủ tục: Thu hồi chứng chỉ hành nghề Quản tài viên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Cá nhân, cơ quan, tổ chức có văn bản đề nghị Bộ trưởng Bộ Tư pháp thu hồi chứng chỉ hành nghề Quản tài viên.

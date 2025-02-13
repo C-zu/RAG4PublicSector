@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục hải quan đối với trường hợp tạm nhập, tạm xuất các phương tiện chứa hàng hóa theo phương thức quay vòng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Người khai hải quan đăng ký, thực hiện thủ tục hải quan;
++ Bước 2: Cơ quan hải quan xem xét, quyết định việc thông quan tờ khai cho người khai hải quan.

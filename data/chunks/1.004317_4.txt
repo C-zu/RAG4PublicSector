@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp Giấy chứng nhận người khai thác tàu bay (AOC)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Tài liệu hướng dẫn khai thác. Đối với hệ thống bảo dưỡng tàu bay, người đề nghị phải cung cấp các tài liệu cùng với hồ sơ đề nghị cấp Giấy chứng nhận Người khai thác lần đầu tiên, và trong trường hợp cần thiết, hồ sơ đề nghị sửa đổi hoặc gia hạn Giấy chứng nhận Người khai thác đối với từng loại máy bay mới được đưa vào khai thác:
+- 01 Bản chính (1) Giải trình quản lý tổ chức bảo dưỡng;
+- 01 Bản chính (2) Chương trình bảo dưỡng máy bay của Người khai thác;
+- 01 Bản chính (3) Nhật ký kỹ thuật máy bay;
+- 01 Bản chính (4) Kiểu loại và số lượng tàu bay đăng ký quốc tịch Việt Nam;
+- 01 Bản chính (5) Người khai thác có thể khai thác máy bay được đăng ký tại quốc gia khác khi có sự thoả thuận chuyển giao trách nhiệm (chức năng) giám sát an toàn giữa Cục Hàng không Việt Nam với nhà chức trách của quốc gia đăng ký theo quy định của điều 83bis Công ước Chi-ca-go;
+- 01 Bản chính (6) Hợp đồng bảo dưỡng giữa Người khai thác với các tổ chức bảo dưỡng được phê chuẩn phù hợp với Phần 5 Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay.
+
+
+Bao gồm
+- 01 Bản chính Tài liệu miêu tả tổ chức quản lý;
+- 01 Bản chính Họ tên của các cán bộ quản lý chính, bao gồm những người chịu trách nhiệm về khai thác bay, về hệ thống bảo dưỡng, về huấn luyện tổ bay và các hoạt động khai thác trên mặt đất cùng với kinh nghiệm và khả năng chuyên môn của họ;
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận Người khai thác tàu bay bao gồm các thông tin sau: tên doanh nghiệp, tên giao dịch, địa điểm trụ sở chính; người đại diện theo pháp luật (giám đốc điều hành); loại hình doanh nghiệp; khu vực khai thác và cơ sở khai thác; loại hình khai thác; loại, kiểu tàu bay khai thác;

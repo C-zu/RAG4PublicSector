@@ -1,0 +1,16 @@
+Tên thủ tục: Công nhận, công nhận lại nguồn giống cây trồng lâm nghiệp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000198
+Số quyết định:
+362/QĐ-BNN-TCLN
+Tên thủ tục:
+Công nhận, công nhận lại nguồn giống cây trồng lâm nghiệp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Lâm nghiệp

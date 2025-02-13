@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép xây dựng sửa chữa, cải tạo đối với công trình cấp III, cấp IV (công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : 60.000 Đồng Đối với nhà ở  Lệ phí : 130.000 Đồng Đối với công trình|Tại Trung tâm Hành chính công cấp huyện (Đối với công trình: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; Đối với nhà ở: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ).|
+|Trực tuyến|20 Ngày làm việc|Lệ phí : 60.000 Đồng Đối với nhà ở  Lệ phí : 130.000 Đồng Đối với công trình|Qua Cổng dịch vụ công trực tuyến: http://dichvucong.hatinh.gov.vn (Đối với công trình: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; Đối với nhà ở: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ).|
+|Dịch vụ bưu chính|20 Ngày làm việc|Lệ phí : 60.000 Đồng Đối với nhà ở  Lệ phí : 130.000 Đồng Đối với công trình|Qua dịch vụ bưu chính (Đối với công trình: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; Đối với nhà ở: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ).|

@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009541
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Thu hồi Giấy chứng nhận đăng ký hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty chứng khoán, công ty quản lý quỹ nước ngoài có hồ sơ quyết định giải thể, văn bản đề nghị rút Giấy phép thành lập và hoạt động kinh doanh chứng khoán đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+Bước 4: Trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ tại Bước 1, UBCKNN có quyết định chấm dứt mọi hoạt động kinh doanh được cấp phép của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam để thực hiện thủ tục thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán.
+Bước 5: Báo cáo Ủy ban Chứng khoán Nhà nước phương án xử lý tài khoản tự doanh, các hợp đồng đã ký với khách hàng còn hiệu lực.
+Bước 6: Báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý hợp đồng đã ký với khách hàng, các quyết định thu hồi Giấy chứng nhận thành viên của Sở Giao dịch chứng khoán và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam
+Bước 7: Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ báo cáo tại Bước 6 đầy đủ, hợp lệ, UBCKNN ra quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||kể từ ngày kể từ ngày nhận được báo cáo tại Bước 6 đầy đủ, hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Phương án xử lý tài khoản tự doanh, các hợp đồng đã ký với khách hàng còn hiệu lực. + Kết quả xử lý hợp đồng đã ký với khách hàng. + Quyết định thu hồi Giấy chứng nhận thành viên của Sở Giao dịch chứng khoán và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán; hoặc văn bản từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy phép tiếp cận nguồn gen
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao văn bản xác nhận đăng ký tiếp cận nguồn gen đã được Bộ Tài nguyên và Môi trường cấp;
+- 01 Bản chính Hợp đồng ký giữa các bên liên quan đã được Ủy ban nhân dân cấp xã xác nhận; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feda2072cc10651'">Mẫu số 03 - hop dong tiep can gen.docx</a>)
+- 01 Bản chính Văn bản chấp thuận của bộ quản lý ngành, lĩnh vực theo quy định của pháp luật đối với trường hợp tiếp cận nguồn gen thuộc danh mục nguồn gen tiếp cận, sử dụng có điều kiện.
+ Đối với trường hợp cá nhân nộp hồ sơ đề nghị phải đáp ứng thêm các yêu cầu sau:
+- 01 Bản sao + Có bằng cấp chuyên môn (từ đại học trở lên) về một trong các lĩnh vực: sinh học, công nghệ sinh học, dược học và khoa học nông nghiệp;
+- 01 Bản chính + Là thành viên của tổ chức khoa học và công nghệ đang hoạt động theo quy định pháp luật của quốc gia nơi tổ chức được thành lập trong các lĩnh vực sinh học, công nghệ sinh học, dược học, khoa học nông nghiệp và được tổ chức này bảo lãnh bằng văn bản theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 59/2017/NĐ-CP ngày 12 tháng 5 năm 2017. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb7efa7c484342'">Mẫu số 01 - bao lanh tiep can gen.docx</a>)
+ Số lượng hồ sơ: 01 bộ hồ sơ.

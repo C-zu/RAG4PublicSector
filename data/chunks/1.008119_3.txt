@@ -1,0 +1,10 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu đưa công trình vào sử dụng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : Theo tỷ lệ % Đồng Thông tư số 06/2016/TT-BXD ngày 10/3/2016 của Bộ tài Chính.|Đối với công trình cấp III, IV do Chủ tịch UBND tỉnh Quyết định đầu tư|
+|Trực tiếp|23 Ngày làm việc||Đối với công trình cấp II trên địa bàn tỉnh kể từ khi nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : Theo tỷ lệ % Đồng Thông tư số 06/2016/TT-BXD ngày 10/3/2016 của Bộ tài Chính|Đối với công trình cấp III, IV do Chủ tịch UBND tỉnh Quyết định đầu tư|
+|Dịch vụ bưu chính|23 Ngày làm việc||Đối với công trình cấp II trên địa bàn tỉnh kể từ khi nhận đủ hồ sơ hợp lệ|

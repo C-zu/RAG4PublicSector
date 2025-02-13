@@ -1,0 +1,7 @@
+Tên thủ tục: Cung cấp thông tin về quy hoạch xây dựng thuộc thẩm quyền của UBND cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cung cấp thông tin quy hoạch (trong đó ghi rõ thông tin về vị trí, địa điểm lô đất cần cung cấp thông tin).

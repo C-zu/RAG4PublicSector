@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy chứng nhận lưu hành, tem lưu hành cho xe chở hàng bốn bánh có gắn động cơ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ phải nộp:
+- 01 Bản sao Bản sao chụp Phiếu kiểm tra chất lượng xuất xưởng (đối với trường hợp kiểm tra lưu hành lần đầu của các Xe có đăng ký lần đầu sau ngày thông tư này có hiệu lực);
+- 01 Bản chính Giấy chứng nhận lưu hành của lần kiểm tra trước (đối với trường hợp kiểm tra lưu hành các lần tiếp theo).
+
+
+Hồ sơ xuất trình
+- 01 Bản chính, 01 Bản sao Bản chính Giấy đăng ký xe do cơ quan nhà nước có thẩm quyền cấp hoặc một trong các giấy tờ còn hiệu lực sau: Bản sao Giấy đăng ký xe có xác nhận của ngân hàng đang giữ Bản chính giấy đăng ký xe đó; Bản sao Giấy đăng ký xe có xác nhận của cơ quan cho thuê tài chính đang giữ Bản chính giấy đăng ký xe đó;
+- 01 Bản chính Bản chính Giấy chứng nhận bảo hiểm trách nhiệm dân sự còn hiệu lực

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục Đăng ký tham gia “chuỗi thực phẩm an toàn” đối với cơ sở sản xuất thực phẩm (Thuộc trách nhiệm quản lý của ngành Công Thương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký tham gia “chuỗi thực phẩm an toàn” (theo mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd18dcd92a95008'">4-1 va 4-2.docx</a>)
+- 01 Bản sao Giấy đăng ký kinh doanh hoặc Giấy chứng nhận đầu tư (Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực);
+- 01 Bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm (Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực)
+- 01 Bản sao Giấy công bố hợp quy; hoặc Giấy công bố phù hợp quy định; hoặc Giấy công bố tiêu chuẩn sản phẩm (còn thời hạn) đối với sản phẩm là thành phẩm (Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực, nếu có)
+- 01 Bản sao Giấy xác nhận kiến thức về an toàn thực phẩm (còn thời hạn) trong sản xuất của chủ cơ sở và người lao động trực tiếp (Bản sao có xác nhận của cơ sở)
+- 01 Bản sao Giấy chứng nhận sức khỏe (còn thời hạn) của chủ cơ sở và người lao động trực tiếp do cơ sở y tế cấp quận - huyện trở lên cấp (Bản sao có xác nhận của cơ sở)
+- 01 Bản chính Bản thuyết minh cơ sở vật chất, trang thiết bị và dụng cụ sản xuất thực phẩm (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7ce3b0f83f0b5'">4-1 va 4-2.docx</a>)
+- 01 Bản sao Sơ đồ mặt bằng cơ sở (Bản sao có xác nhận của cơ sở)
+- 01 Bản sao Bản mô tả quy trình sản xuất (Bản sao có xác nhận của cơ sở)
+- 01 Bản sao Giấy chứng nhận áp dụng hệ thống quản lý chất lượng (nếu có) (Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực)

@@ -1,0 +1,11 @@
+Tên thủ tục: Thanh toán trực tiếp chi phí khám, chữa bệnh bảo hiểm y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Lập và nộp hồ sơ
+Người bệnh hoặc thân nhân hoặc người đại diện hợp pháp theo quy định của pháp luật của người bệnh lập hồ sơ đề nghị thanh toán theo quy định tại mục Thành phần hồ sơ; nộp hồ sơ trực tiếp cho cơ quan BHXH.
+Bước 2.
+Cơ quan BHXH tiếp nhận và thụ lý hồ sơ
+Bước 3. Nhận kết quả giải quyết
+- Đối với trường hợp đề nghị thanh toán: nhận tiền theo phương thức đã đăng ký khi nộp hồ sơ. Trường hợp không được thanh toán: Văn bản nêu lý do không thanh toán của cơ quan BHXH.
+- Đối với trường hợp đề nghị đề nghị cấp Giấy chứng nhận không cùng chi trả trong năm, nhận Giấy chứng nhận. Trường hợp không được cấp giấy chứng nhận thì kết quả là văn bản trả lời của cơ quan BHXH có nêu rõ lý do.

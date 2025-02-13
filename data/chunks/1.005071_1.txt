@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy phép lái tàu cho lái tàu trên các tuyến đường sắt đang khai thác
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005071
+Số quyết định:
+1241/QĐ-BGTVT
+Tên thủ tục:
+Cấp giấy phép lái tàu cho lái tàu trên các tuyến đường sắt đang khai thác
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt

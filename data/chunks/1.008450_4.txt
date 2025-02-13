@@ -1,0 +1,25 @@
+Tên thủ tục: Chấp thuận thiết kế và cấp giấy phép thi công xây dựng công trình thiết yếu trong phạm vi đất dành cho đường bộ đang khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Đối với dự án sửa chữa công trình thiết yếu: a) Trường hợp đề nghị chấp thuận xây dựng công trình thiết yếu:
+- 01 Bản chính - Đơn đề nghị xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ theo mẫu kèm theo; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde76f03dd8cc6e'">Mẫu đơn TTHC.docx</a>)
+- 01 Bản chính - Hồ sơ thiết kế công trình thiết yếu (thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công), báo cáo kinh tế - kỹ thuật đã được cấp có thẩm quyền phê duyệt bao gồm các thông tin về vị trí và lý trình công trình đường bộ tại nơi xây dựng công trình thiết yếu; bản vẽ thể hiện diện tích, kích thước công trình thiết yếu trên mặt bằng công trình đường bộ và trong phạm vi đất dành cho đường bộ; bản vẽ thể hiện mặt đứng và khoảng cách theo phương thẳng đứng từ công trình thiết yếu bên trên hoặc bên dưới đến bề mặt công trình đường bộ, khoảng cách theo phương ngang từ cột, tuyến đường dây, đường ống, bộ phận khác của công trình thiết yếu đến mép ngoài rãnh thoát nước dọc, mép mặt đường xe chạy hoặc mép ngoài cùng của mặt đường bộ; bộ phận công trình đường bộ phải đào, khoan khi xây dựng công trình thiết yếu; thiết kế kết cấu và biện pháp thi công hoàn trả công trình đường bộ trong phạm vi đất dành cho đường bộ bị đào hoặc ảnh hưởng do thi công công trình thiết yếu;
+- 01 Bản chính - Đối với công trình thiết yếu xây dựng trong phạm vi dải phân cách giữa của đường bộ phải có thông tin về khoảng cách theo phương thẳng đứng từ công trình thiết yếu đến bề mặt dải phân cách giữa, từ công trình thiết yếu đến mép ngoài dải phân cách giữa;
+- 01 Bản chính - Đối với công trình thiết yếu lắp đặt vào cầu, hầm hoặc các công trình đường bộ có kết cấu phức tạp khác phải có báo cáo kết quả thẩm tra thiết kế;
+
+
+* Đối với dự án đầu tư xây dựng mới, cải tạo, nâng cấp, mở rộng công trình thiết yếu:
+- 01 Bản chính - Đơn đề nghị cấp phép thi công công trình theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbb456ea28e8660'">Mẫu đơn TTHC số 1,2,3,2sgtvt.docx</a>)
+- 01 Bản chính, 01 Bản sao - Văn bản phê duyệt hoặc chấp thuận thiết kế của cơ quan quản lý đường bộ có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu);
+- 01 Bản chính - Hồ sơ thiết kế bản vẽ thi công (trong đó có biện pháp tổ chức thi công đảm bảo an toàn giao thông) đã được cấp có thẩm quyền phê duyệt (bản chính).
+
+
+b) Trường hợp chấp thuận xây dựng cùng thời điểm với cấp giấy phép thi công xây dựng công trình thiết yếu:
+- 01 Bản chính - Đơn đề nghị chấp thuận xây dựng cùng thời điểm với cấp phép thi công công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ theo mẫu kèm theo; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc93c2035ef316'">Mẫu đơn TTHC số 2.docx</a>)
+- 01 Bản chính - 02 (hai) bộ hồ sơ bản vẽ thiết kế thi công và biện pháp tổ chức thi công đã được cơ quan có thẩm quyền phê duyệt (bản chính). Nội dung bản vẽ thiết kế thi công thể hiện quy mô công trình, hạng mục công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ;
+- 01 Bản chính - Hồ sơ thiết kế công trình thiết yếu (thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công), báo cáo kinh tế - kỹ thuật đã được cấp có thẩm quyền phê duyệt bao gồm các thông tin về vị trí và lý trình công trình đường bộ tại nơi xây dựng công trình thiết yếu; bản vẽ thể hiện diện tích, kích thước công trình thiết yếu trên mặt bằng công trình đường bộ và trong phạm vi đất dành cho đường bộ; bản vẽ thể hiện mặt đứng và khoảng cách theo phương thẳng đứng từ công trình thiết yếu bên trên hoặc bên dưới đến bề mặt công trình đường bộ, khoảng cách theo phương ngang từ cột, tuyến đường dây, đường ống, bộ phận khác của công trình thiết yếu đến mép ngoài rãnh thoát nước dọc, mép mặt đường xe chạy hoặc mép ngoài cùng của mặt đường bộ; bộ phận công trình đường bộ phải đào, khoan khi xây dựng công trình thiết yếu; thiết kế kết cấu và biện pháp thi công hoàn trả công trình đường bộ trong phạm vi đất dành cho đường bộ bị đào hoặc ảnh hưởng do thi công công trình thiết yếu;
+- 01 Bản chính - Đối với công trình thiết yếu xây dựng trong phạm vi dải phân cách giữa của đường bộ phải có thông tin về khoảng cách theo phương thẳng đứng từ công trình thiết yếu đến bề mặt dải phân cách giữa, từ công trình thiết yếu đến mép ngoài dải phân cách giữa;
+- 01 Bản chính - Đối với công trình thiết yếu lắp đặt vào cầu, hầm hoặc các công trình đường bộ có kết cấu phức tạp khác phải có báo cáo kết quả thẩm tra thiết kế;
+- 01 Bản chính - Biện pháp tổ chức thi công thể hiện phương án thi công, phương án bảo đảm an toàn trong thi công xây dựng, an toàn giao thông và tổ chức giao thông.

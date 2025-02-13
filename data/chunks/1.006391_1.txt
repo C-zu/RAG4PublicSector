@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký lại phương tiện trong trường hợp chủ phương tiện thay đổi trụ sở hoặc nơi đăng ký hộ khẩu thường trú của chủ phương tiện sang đơn vị hành chính cấp tỉnh khác
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006391
+Số quyết định:
+3110/QĐ-BGTVT
+Tên thủ tục:
+Đăng ký lại phương tiện trong trường hợp chủ phương tiện thay đổi trụ sở hoặc nơi đăng ký hộ khẩu thường trú của chủ phương tiện sang đơn vị hành chính cấp tỉnh khác
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa

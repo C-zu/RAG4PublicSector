@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục phục vụ việc sử dụng tài liệu của độc giả tại phòng đọc (Cấp tỉnh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010194
+Số quyết định:
+909/QĐ-BNV
+Tên thủ tục:
+Thủ tục phục vụ việc sử dụng tài liệu của độc giả tại phòng đọc (Cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Văn thư và Lưu trữ nhà nước

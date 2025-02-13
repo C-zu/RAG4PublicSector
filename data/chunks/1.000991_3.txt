@@ -1,0 +1,8 @@
+Tên thủ tục: Hưởng chế độ thai sản đối với lao động nữ mang thai, lao động nữ mang thai hộ khi khám thai, sẩy thai, nạo hút thai, thai chết lưu hoặc phá thai bệnh lý, người lao động thực hiện biện pháp tránh thai
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong 10 ngày kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong 10 ngày kể từ ngày nhận đủ hồ sơ.|

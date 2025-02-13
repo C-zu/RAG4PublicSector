@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp Giấy phép bán buôn rượu theo Mẫu số 01 ban hành kèm theo Nghị định số 17/2020/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7623305581f48'">MẪU SỐ 01 RƯỢU.docx</a>)
+- 01 Bản sao (2) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương.
+ (3) Tài liệu về hệ thống bán buôn rượu gồm một trong hai loại sau:
+- 01 Bản sao a) Bản sao hợp đồng nguyên tắc, thư xác nhận hoặc bản cam kết tham gia hệ thống phân phối rượu kèm bản sao Giấy phép bán lẻ rượu của thương nhân dự kiến tham gia hệ thống bán buôn rượu;
+- 01 Bản sao b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh của doanh nghiệp hoặc Giấy chứng nhận đăng ký địa điểm kinh doanh của doanh nghiệp để kinh doanh rượu.
+ (4) Tài liệu liên quan đến nhà cung cấp rượu:
+- 01 Bản sao a) Bản sao các văn bản giới thiệu hoặc hợp đồng nguyên tắc của thương nhân sản xuất trong nước, thương nhân phân phối hoặc thương nhân bán buôn khác, trong đó ghi rõ các loại rượu dự kiến kinh doanh phù hợp với hoạt động của thương nhân sản xuất, thương nhân phân phối hoặc thương nhân bán buôn khác;
+- 01 Bản sao b) Bản sao Giấy phép sản xuất rượu, Giấy phép phân phối hoặc Giấy phép bán buôn rượu của các nhà cung cấp rượu.

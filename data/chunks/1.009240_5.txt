@@ -1,0 +1,28 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm của ngành Công Thương quản lý
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Phòng kinh tế, Phòng kinh tế và Hạ tầng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận cơ sở đủ điều kiện An toàn thực phẩm.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2010/QH12|An toàn thực phẩm|17-06-2010||
+|279/2016/TT-BTC|279/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong công tác an toàn vệ sinh thực phẩm|14-11-2016|Bộ Tài chính|
+|75/2020/TT-BTC|Thông tư số 75/2020/TT-BTC ngày 12/8/2020 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 279/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính quy định mức thu, nộp, quản lý và sử dụng phí trong công tác an toàn vệ sinh thực phẩm|12-08-2020|Bộ Tài chính|
+|Thông tư 43/2018/TT-BCT|hông tư 43/2018/TT-BCT ngày 15/11/2018 của Bộ Công Thương quy định về quản lý an toàn thực phẩm thuộc trách nhiệm của Bộ Công Thương.|15-11-2018|Bộ Công thương|
+|117/2018/TT-BTC|Sửa đổi, bổ sung môt số điều của Thông tư số 279/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong công tác an toàn vệ sinh thực phẩm|28-11-2018|Bộ Tài chính|
+|15/2018/NĐ-CP|Nghị định 15/2018/NĐ-CP|02-02-2018||
+|31/2018/QĐ-UBND|Ban hành Quy định phân công, phân cấp, phối hợp quản lý an toàn thực phẩm trên địa bàn thành phố Đà Nẵng|28-09-2018|UBND Thành phố Đà Nẵng|
+|17/2020/NĐ-CP|Nghị định 17/2020/NĐ-CP|05-02-2020|Chính phủ|

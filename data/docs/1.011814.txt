@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011814
+Số quyết định:
+1668/QĐ-BKHCN
+Tên thủ tục:
+(Cấp tỉnh) Thủ tục hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+- Tổ chức, cá nhân nộp hồ sơ đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu đến Ủy ban nhân dân cấp tỉnh nơi kết quả nghiên cứu khoa học và phát triển công nghệ được ứng dụng.
+- Cơ quan tiếp nhận hồ sơ có trách nhiệm kiểm tra, xác nhận tính đầy đủ và hợp lệ của hồ sơ: 
++ Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, trường hợp hồ sơ chưa hợp lệ, cơ quan có thẩm quyền xem xét, đánh giá hồ sơ thông báo để tổ chức, cá nhân nộp bổ sung, hoàn thiện.
++ Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét, đánh giá hồ sơ thông qua hội động đánh giá. Hội đồng đánh giá có từ 07 đến 09 thành viên, gồm đại diện của các cơ quan quản lý và các chuyên gia trong lĩnh vực có liên quan. 
++ Trong thời hạn 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng, cơ quan có thẩm quyền xem xét, đánh giá hồ sơ ban hành văn bản thông báo kết quả đánh giá hồ sơ đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ. - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc. - Văn bản thông báo kết quả đánh giá hồ sơ đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+|Trực tuyến|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ. - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc. - Văn bản thông báo kết quả đánh giá hồ sơ đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+|Dịch vụ bưu chính|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ. - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc. - Văn bản thông báo kết quả đánh giá hồ sơ đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ theo mẫu BM II.1 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM II.1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb73bc5dc19140'))
+- 01 Bản chính Thuyết minh về kết quả nghiên cứu khoa học và phát triển công nghệ theo mẫu BM II.2 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM II.2.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed8717daed71e2'))
+- 01 Bản chính Bản thể hiện kết quả nghiên cứu khoa học và phát triển công nghệ được đưa vào ứng dụng, chuyển giao không quá 03 năm (Đối với trường hợp đề nghị hỗ trợ) theo mẫu BM II.3 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM II.3.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6bb93bac9467e'))
+- 01 Bản chính Bản kiến nghị của cơ quan, tổ chức về sự cần thiết mua và phương án quản lý, khai thác, chuyển giao kết quả nghiên cứu khoa học và phát triển công nghệ (Đối với trường hợp đề nghị mua) theo mẫu BM II.4 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM II.4.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc21de59f94e87c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thông báo kết quả đánh giá hồ sơ đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|07/2017/QH14|Luật 07/2017/QH14-Luật chuyển giao công nghệ|19-06-2017|Quốc Hội|
+|76/2018/NĐ-CP|Nghị định 76/2018/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ|15-05-2018|Chính phủ|
+|14/2023/TT-BKHCN|Thông tư số 14/2023/TT-BKHCN ngày 30 tháng 6 năm 2023 của Bộ trưởng Bộ Khoa học và Công nghệ ban hành Biểu mẫu hồ sơ thực hiện thủ tục hành chính quy định tại một số điều của Nghị định số 76/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ|30-06-2023||
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với kết quả nghiên cứu khoa học và phát triển công nghệ được Ủy ban nhân dân cấp tỉnh xem xét hỗ trợ, phải đáp ứng các điều kiện sau:
++ Kết quả nghiên cứu khoa học và phát triển công nghệ được chuyển giao, ứng dụng hiệu quả trong thực tiễn, được cơ quan có thẩm quyền công nhận.
++ Kết quả nghiên cứu khoa học và phát triển công nghệ được chuyển giao, ứng dụng hiệu quả trong thực tiễn trong thời gian không quá 3 năm kể từ thời điểm ứng dụng, chuyển giao.
++ Kết quả nghiên cứu khoa học và phát triển công nghệ thuộc Danh mục công nghệ khuyến khích chuyển giao.
++ Tổ chức, cá nhân đề nghị hỗ trợ có phương án khả thi về thương mại hóa kết quả nghiên cứu khoa học và phát triển công nghệ.
+- Đối với kết quả nghiên cứu khoa học và phát triển công nghệ được Ủy ban nhân dân cấp tỉnh xem xét mua, phải đáp ứng điều kiện: Kết quả nghiên cứu khoa học và phát triển công nghệ đã được chuyển giao, ứng dụng hiệu quả trong thực tiễn, được cơ quan có thẩm quyền công nhận và có ý nghĩa quan trọng đối với phát triển kinh tế - xã hội của đất nước, địa phương và quốc phòng, an ninh.
+- Đối với kết quả nghiên cứu khoa học và phát triển công nghệ được Ủy ban nhân dân cấp tỉnh xem xét hỗ trợ, phải đáp ứng các điều kiện sau:
++ Kết quả nghiên cứu khoa học và phát triển công nghệ được chuyển giao, ứng dụng hiệu quả trong thực tiễn, được cơ quan có thẩm quyền công nhận.
++ Kết quả nghiên cứu khoa học và phát triển công nghệ được chuyển giao, ứng dụng hiệu quả trong thực tiễn trong thời gian không quá 3 năm kể từ thời điểm ứng dụng, chuyển giao.
++ Kết quả nghiên cứu khoa học và phát triển công nghệ thuộc Danh mục công nghệ khuyến khích chuyển giao.
++ Tổ chức, cá nhân đề nghị hỗ trợ có phương án khả thi về thương mại hóa kết quả nghiên cứu khoa học và phát triển công nghệ.
+- Đối với kết quả nghiên cứu khoa học và phát triển công nghệ được Ủy ban nhân dân cấp tỉnh xem xét mua, phải đáp ứng điều kiện: Kết quả nghiên cứu khoa học và phát triển công nghệ đã được chuyển giao, ứng dụng hiệu quả trong thực tiễn, được cơ quan có thẩm quyền công nhận và có ý nghĩa quan trọng đối với phát triển kinh tế - xã hội của đất nước, địa phương và quốc phòng, an ninh.
+Từ khóa:
+(Cấp tỉnh) Thủ tục hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Mô tả:
+Không có thông tin

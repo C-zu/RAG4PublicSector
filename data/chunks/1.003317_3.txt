@@ -1,0 +1,8 @@
+Tên thủ tục: Miễn thuế, giảm thuế theo Hiệp định đối với cá nhân nước ngoài là đối tượng cư trú của Việt Nam được hưởng các quy định miễn, giảm thuế đối với thu nhập quy định tại các Điều khoản thu nhập từ phục vụ Chính phủ, thu nhập của sinh viên, học sinh học nghề và thu nhập của giáo viên, giáo sư và người nghiên cứu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||Không phải trả kết quả cho NNT|
+|Dịch vụ bưu chính|0||Không phải trả kết quả cho NNT|

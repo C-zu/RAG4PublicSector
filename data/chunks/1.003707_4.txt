@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký lưu hành bổ sung do thay đổi tên, địa chỉ liên lạc của đơn vị đăng ký, đơn vị sản xuất chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+01 bộ bản giấy kèm theo bản điện tử định dạng PDF (không áp dụng đối với trường hợp nộp hồ sơ trực tuyến)
+- 01 Bản chính 1. Văn bản đề nghị đăng ký lưu hành bổ sung theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcd8dc74099f9c'">Mau 05 MTYT 5083.docx</a>)
+- 01 Bản chính 2. Giấy tờ về tư cách pháp nhân của cơ sở đăng ký, cơ sở sản xuất ghi nội dung thay đổi (đối với cơ sở đăng ký, cơ sở sản xuất tại Việt Nam) hoặc văn bản thông báo thay đổi tên, địa chỉ (đối với cơ sở tại nước ngoài);
+- 01 Bản chính 3. Mẫu nhãn mới của chế phẩm.

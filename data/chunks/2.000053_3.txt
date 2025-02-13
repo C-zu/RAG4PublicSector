@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (nhập khẩu chất phóng xạ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 500.000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 1  Phí : 1000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 2. 1.000.000 đồng  Phí : 5000000 Đồng 5.000.000 đồng/1 nguồn hoặc 1 lô nguồn để sử dụng trong 1 thiết bị  Lệ phí : 100000 Đồng Lệ phí cấp phép|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 500000 Đồng Phí : 500.000 Đồng (Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 1) Phí : 1000000 Đồng (Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 2. 1.000.000 đồng) Phí : 5000000 Đồng (5.000.000 đồng/1 nguồn hoặc 1 lô nguồn để sử dụng trong 1 thiết bị)  Lệ phí : 100000 Đồng Lệ phí cấp phép|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

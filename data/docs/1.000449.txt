@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000449
+Số quyết định:
+2176/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục điều chỉnh nội dung bản công bố sử dụng dấu định lượng
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Cơ sở sử dụng dấu định lượng khi có bất kỳ sự thay đổi nào về nội dung của bản công bố đã được tiếp nhận hoặc trường hợp bản công bố đã được tiếp nhận bị thất lạc, hư hỏng và cơ sở có nhu cầu tiếp nhận lại, cơ sở nộp bản công bố sử dụng dấu định lượng trên nhãn hàng đóng gói sẵn đến Chi cục Tiêu chuẩn Đo lường Chất lượng nơi cơ sở đăng ký trụ sở chính. 
+Thời gian tiếp nhận hồ sơ: Trong giờ hành chính vào ngày làm việc trong tuần (thứ bảy, chủ nhật, ngày lễ nghỉ).
+Bước 2: Xử lý hồ sơ
+- Chi cục Tiêu chuẩn Đo lường Chất lượng tiếp nhận hồ sơ xem xét, thẩm định theo quy định: 
++ Nếu hồ sơ chưa đúng quy định, Chi cục Tiêu chuẩn Đo lường Chất lượng có văn bản yêu cầu bổ sung hồ sơ.
++ Nếu hồ sơ đúng quy định, Chi cục Tiêu chuẩn Đo lường Chất lượng ký xác nhận, đóng dấu tiếp nhận vào bản công bố của cơ sở.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Chi cục Tiêu chuẩn Đo lường Chất lượng hoặc theo đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||- Thời hạn kiểm tra và trả lời về tính đầy đủ và hợp lệ của hồ sơ: 03 ngày làm việc. - Thời hạn bổ sung hồ sơ: 30 ngày kể từ ngày Chi cục Tiêu chuẩn Đo lường Chất lượng gửi thông báo - Thời hạn giải quyết sau khi hồ sơ hợp lệ, đầy đủ: 05 ngày làm việc.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Thời hạn kiểm tra và trả lời về tính đầy đủ và hợp lệ của hồ sơ: 03 ngày làm việc. - Thời hạn bổ sung hồ sơ: 30 ngày kể từ ngày Chi cục Tiêu chuẩn Đo lường Chất lượng gửi thông báo - Thời hạn giải quyết sau khi hồ sơ hợp lệ, đầy đủ: 05 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Bản công bố sử dụng dấu định lượng trên nhãn hàng đóng gói sẵn ([Bản công bố sử dụng dấu định lượng trên nhãn hàng đóng gói sẵn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd04aa4ffbe9d3a'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản công bố sử dụng dấu định lượng trên nhãn hàng đóng gói sẵn
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|04/2011/QH13|Luật 04/2011/QH13|11-11-2011|Quốc Hội|
+|86/2012/NĐ-CP|Nghị định 86/2012/NĐ-CP|19-10-2012|Chính phủ|
+|21/2014/TT-BKHCN|Thông tư 21/2014/TT-BKHCN|15-07-2014|Bộ Khoa học và Công nghệ|
+|43/2017/NĐ-CP|Nghị định 43/2017/NĐ-CP|14-04-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Cơ sở đáp ứng các điều kiện sau đây được chứng nhận đủ điều kiện sử dụng dấu định lượng trên nhãn của hàng đóng gói sẵn:
+Đối với cơ sở sản xuất
+1. Được thành lập theo quy định của pháp luật.
+2. Có đủ cơ sở vật chất kỹ thuật đáp ứng các yêu cầu sau đây:
+a) Có đủ phương tiện định lượng hàng đóng gói sẵn (đối với cơ sở sản xuất hàng đóng gói sẵn), phương tiện đo để tự đánh giá sự phù hợp về lượng của hàng đóng gói sẵn (đối với cơ sở thực hiện tự đánh giá sự phù hợp về lượng của hàng đóng gói sẵn); các phương tiện đo được định kỳ kiểm định, hiệu chuẩn theo quy định;
+b) Có mặt bằng làm việc, điều kiện môi trường và điều kiện khác theo yêu cầu quy định.
+3. Có đủ nhân viên kỹ thuật thực hiện các biện pháp kiểm soát về đo lường quy định.
+4. Ban hành và thực hiện các biện pháp kiểm soát về đo lường đối với phương tiện đo, phương tiện định lượng, việc thực hiện phép đo (sau đây viết tắt là biện pháp kiểm soát về đo lường) để bảo đảm yêu cầu kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn.
+5. Lưu giữ đầy đủ hồ sơ kết quả kiểm định, hiệu chuẩn phương tiện đo, hồ sơ đánh giá kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn (do cơ sở tự đánh giá hoặc do cơ quan chứng nhận theo quy định được cơ sở thuê thực hiện). 
+Đối với cơ sở nhập khẩu
+1. Phải thể hiện dấu định lượng trên nhãn hàng đóng gói sẵn nhóm 2.
+2. Ban hành và thực hiện các biện pháp kiểm soát về đo lường để bảo đảm yêu cầu kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn.
+Cơ sở đáp ứng các điều kiện sau đây được chứng nhận đủ điều kiện sử dụng dấu định lượng trên nhãn của hàng đóng gói sẵn:
+Đối với cơ sở sản xuất
+1. Được thành lập theo quy định của pháp luật.
+2. Có đủ cơ sở vật chất kỹ thuật đáp ứng các yêu cầu sau đây:
+a) Có đủ phương tiện định lượng hàng đóng gói sẵn (đối với cơ sở sản xuất hàng đóng gói sẵn), phương tiện đo để tự đánh giá sự phù hợp về lượng của hàng đóng gói sẵn (đối với cơ sở thực hiện tự đánh giá sự phù hợp về lượng của hàng đóng gói sẵn); các phương tiện đo được định kỳ kiểm định, hiệu chuẩn theo quy định;
+b) Có mặt bằng làm việc, điều kiện môi trường và điều kiện khác theo yêu cầu quy định.
+3. Có đủ nhân viên kỹ thuật thực hiện các biện pháp kiểm soát về đo lường quy định.
+4. Ban hành và thực hiện các biện pháp kiểm soát về đo lường đối với phương tiện đo, phương tiện định lượng, việc thực hiện phép đo (sau đây viết tắt là biện pháp kiểm soát về đo lường) để bảo đảm yêu cầu kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn.
+5. Lưu giữ đầy đủ hồ sơ kết quả kiểm định, hiệu chuẩn phương tiện đo, hồ sơ đánh giá kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn (do cơ sở tự đánh giá hoặc do cơ quan chứng nhận theo quy định được cơ sở thuê thực hiện). 
+Đối với cơ sở nhập khẩu
+1. Phải thể hiện dấu định lượng trên nhãn hàng đóng gói sẵn nhóm 2.
+2. Ban hành và thực hiện các biện pháp kiểm soát về đo lường để bảo đảm yêu cầu kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn.
+Từ khóa:
+Thủ tục điều chỉnh nội dung bản công bố sử dụng dấu định lượng
+Mô tả:
+Không có thông tin

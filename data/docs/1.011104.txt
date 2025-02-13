@@ -1,0 +1,92 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011104
+Số quyết định:
+229.SCT/QĐ-UBND
+Tên thủ tục:
+Thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh (SCT)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.	
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.
+	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, dự thảo văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình; gửi văn bản đến các cơ quan có thẩm quyền về phòng cháy chữa cháy để thực hiện lấy ý kiến về giải pháp phòng cháy, chữa cháy của thiết kế cơ sở trong trường hợp chủ đầu tư có yêu cầu. (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được thì Dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ thì dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+B4	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Sở phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở Bước 4.
+B5	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện thẩm định hoặc Văn bản Báo cáo thẩm định;  
+- Nếu không đồng ý: Chuyển lại phòng chuyên môn xử lý.
+B6	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, dự thảo văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình; gửi văn bản đến các cơ quan có thẩm quyền về phòng cháy chữa cháy để thực hiện lấy ý kiến về giải pháp phòng cháy, chữa cháy của thiết kế cơ sở trong trường hợp chủ đầu tư có yêu cầu. (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được thì Dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ thì dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm hành chính công tỉnh
+B8	Trả kết quả cho tổ chức cá nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|35 Ngày|Phí : Theo quy định tại Thông tư số 28/2023/TT-BTC ngày 12/5/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng.|- 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B không thuộc thẩm quyền phê duyệt của UBND tỉnh. - 35 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B thuộc thẩm quyền phê duyệt của UBND tỉnh (bao gồm 25 ngày thẩm định và 10 ngày phê duyệt) - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C không thuộc thẩm quyền phê duyệt của UBND tỉnh. - 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C thuộc thẩm quyền phê duyệt của UBND tỉnh (bao gồm 15 ngày thẩm định và 10 ngày phê duyệt)|
+|Trực tuyến|35 Ngày|Phí : Theo quy định tại Thông tư số 28/2023/TT-BTC ngày 12/5/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng.|- 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B không thuộc thẩm quyền phê duyệt của UBND tỉnh. - 35 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B thuộc thẩm quyền phê duyệt của UBND tỉnh (bao gồm 25 ngày thẩm định và 10 ngày phê duyệt) - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C không thuộc thẩm quyền phê duyệt của UBND tỉnh. - 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C thuộc thẩm quyền phê duyệt của UBND tỉnh (bao gồm 15 ngày thẩm định và 10 ngày phê duyệt)|
+|Dịch vụ bưu chính|35 Ngày|Phí : Theo quy định tại Thông tư số 28/2023/TT-BTC ngày 12/5/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng.|- 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B không thuộc thẩm quyền phê duyệt của UBND tỉnh. - 35 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm B thuộc thẩm quyền phê duyệt của UBND tỉnh (bao gồm 25 ngày thẩm định và 10 ngày phê duyệt) - 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C không thuộc thẩm quyền phê duyệt của UBND tỉnh. - 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với dự án nhóm C thuộc thẩm quyền phê duyệt của UBND tỉnh (bao gồm 15 ngày thẩm định và 10 ngày phê duyệt)|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh ([BM.TĐXD.01.01.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe18d40105091b1'))
+- 01 Bản sao Văn bản về chủ trương đầu tư xây dựng công trình theo quy định pháp luật về đầu tư, đầu tư công, đầu tư theo phương thức đối tác công tư
+- 01 Bản sao Quyết định lựa chọn phương án thiết kế kiến trúc thông qua thi tuyển theo quy định và phương án thiết kế được lựa chọn kèm theo
+- 01 Bản sao Văn bản / quyết định phê duyệt và bản vẽ kèm theo (nếu có) của một trong các loại quy hoạch sau đây: Quy hoạch chi tiết xây dựng được cấp có thẩm quyền phê duyệt; quy hoạch có tính chất kỹ thuật chuyên ngành khác theo quy định của pháp luật về quy hoạch; phương án tuyến công trình, vị trí công trình được cơ quan nhà nước có thẩm quyền chấp thuận; quy hoạch phân khu xây dựng đối với trường hợp không có yêu cầu lập quy hoạch chi tiết xây dựng
+- 01 Bản chính Các văn bản ý kiến về giải pháp phòng cháy và chữa cháy của thiết kế cơ sở; văn bản kết quả thực hiện thủ tục về đánh giá tác động môi trường hoặc giấy phép môi trường theo quy định của pháp luật về bảo vệ môi trường (nếu có yêu cầu theo quy định của pháp luật về phòng cháy và chữa cháy, bảo vệ môi trường); Lưu ý: Các thủ tục về phòng cháy và chữa cháy, bảo vệ môi trường được thực hiện theo nguyên tắc đồng thời, không bắt buộc xuất trình tại thời điểm trình hồ sơ thẩm định, song phải có kết quả gửi cơ quan chuyên môn về xây dựng trước thời hạn thông báo kết quả thẩm định 05 ngày làm việc
+- 01 Bản sao Các văn bản thỏa thuận, xác nhận về đấu nối hạ tầng kỹ thuật của dự án; văn bản chấp thuận độ cao công trình theo quy định của Chính phủ về quản lý độ cao chướng ngại vật hàng không và các trận địa quản lý, bảo vệ vùng trời tại Việt Nam (trường hợp dự án không thuộc khu vực hoặc đối tượng có yêu cầu lấy ý kiến thống nhất về bề mặt quản lý độ cao công trình tại giai đoạn phê duyệt quy hoạch xây dựng)
+- 01 Bản sao Danh sách các nhà thầu kèm theo mã số chứng chỉ năng lực của nhà thầu khảo sát, nhà thầu lập thiết kế cơ sở, nhà thầu thẩm tra (nếu có); mã số chứng chỉ hành nghề hoạt động xây dựng của các chức danh chủ nhiệm khảo sát xây dựng; chủ nhiệm, chủ trì các bộ môn thiết kế, lập tổng mức đầu tư; chủ nhiệm, chủ trì thẩm tra .
+- 01 Bản chính Hồ sơ khảo sát xây dựng được phê duyệt; thuyết minh Báo cáo nghiên cứu khả thi đầu tư xây dựng; thiết kế cơ sở hoặc thiết kế khác theo thông lệ quốc tế phục vụ lập báo cáo nghiên cứu khả thi đầu tư xây dựng (gồm bản vẽ và thuyết minh); danh mục tiêu chuẩn chủ yếu áp dụng cho dự án
+- 01 Bản chính Đối với dự án sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công có yêu cầu xem xét tổng mức đầu tư, hồ sơ trình thẩm định còn phải có các nội dung sau: tổng mức đầu tư; các thông tin, số liệu về giá, định mức có liên quan; báo giá, kết quả thẩm định giá
+- 01 Bản sao Các tài liệu, văn bản pháp lý có liên quan khac
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Công Thương - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Sở Công Thương - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh. ; Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Hà Tĩnh: http://dichvucong.hatinh.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Dự án không thuộc thẩm quyền phê duyệt của UBND tỉnh: + Hồ sơ đủ điều kiện: Văn bản thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/ Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh kèm theo hồ sơ thiết kế đã thẩm định có đóng dấu thẩm định của cơ quan chuyên môn về xây dựng + Hồ sơ không đủ điều kiện :Văn bản thông báo không đủ điều kiện thẩm định., - Dự án thuộc thẩm quyền phê duyệt của UBND tỉnh: + Hồ sơ đủ điều kiện: Quyết định phê duyệt Báo cáo nghiên cứu khả thi đầu tư xây dựng/ Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh. + Hồ sơ không đủ điều kiện: Văn bản thông báo không đủ điều kiện thẩm định / Văn bản thông báo không đủ điều kiện phê duyệt.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|700/QĐ-BXD|Quyết định số 700/QĐ-BXD ngày 08/6/2021 của Bộ trưởng Bộ Xây dựng về việc công bố thủ tục hành chính ban hành mới; Thủ tục hành chính được thay thế; Thủ tục hành chính bị bãi bỏ trong lĩnh vực hoạt động xây dựng thuộc phạm vi chức năng quản lý nhà nước của Bộ Xây dựng.|08-06-2021||
+|28/2021/QĐ-UBND|Quyết định số 28/2021/QĐ-UBND|18-06-2021|UBND tỉnh Thái Nguyên|
+|50/2014/QH13|Luật 50/2014/QH13|18-06-2014||
+|15/2021/NĐ-CP|Nghị định 15/2021/NĐ-CP|03-03-2021||
+|120/2021/TT-BTC|Thông tư 120/2021/TT-BTC|24-12-2021||
+|62/2020/QH14|Luật sửa đổi, bổ sung một số điều của Luật Xây dựng năm 2020|17-06-2020||
+|35/2023/NĐ-CP|Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng|20-06-2023|Chính phủ|
+|15/2021/NĐ-CP|Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|28/2023/TT-BTC|Thông tư số 28/2023/TT-BTC ngày 12/5/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng|12-05-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Hồ sơ trình thẩm định phải bảo đảm tính pháp lý, phù hợp với nội dung đề nghị thẩm định. Hồ sơ trình thẩm định được xem là hợp lệ khi bảo đảm các nội dung quy định tại khoản 3 Điều 14 Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ, được sửa đổi bởi khoản 6 Điều 12 Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ, đúng quy cách, được trình bày với ngôn ngữ chính là tiếng Việt và được người đề nghị thẩm định kiểm tra, xác nhận. Phần hồ sơ thiết kế kiến trúc trong hồ sơ thiết kế xây dựng (nếu có) phải tuân thủ quy định của pháp luật về kiến trúc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

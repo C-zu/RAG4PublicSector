@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh giám định cổ vật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Danh sách kèm theo lý lịch khoa học theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 61/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ và bản sao văn bằng, chứng chỉ của các chuyên gia (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcdfc2f55b0a748'">Mẫu số 02 ND 61 2016.docx</a>)
+- 01 Bản sao Bản sao quyết định tuyển dụng hoặc hợp đồng lao động giữa cơ sở kinh doanh giám định cổ vật và các chuyên gia
+- 01 Bản chính Danh mục trang thiết bị, phương tiện để thực hiện giám định
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh giám định cổ vật (Mẫu số 01 Phụ lục II ban hành kèm theo Nghị định số 31/2024/NĐ-CP ngày 15 tháng 3 năm 2024). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa9fbc5b1f66b00'">Phu luc 2.docx</a>)

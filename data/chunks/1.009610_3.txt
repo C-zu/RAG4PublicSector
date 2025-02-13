@@ -1,0 +1,9 @@
+Tên thủ tục: Quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích khác 1
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày||55 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với hồ sơ thuộc thẩm quyền của Quốc hội; Thủ tướng Chính phủ. 45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với hồ sơ thuộc thẩm quyền của Hội đồng nhân dân tỉnh|
+|Trực tuyến|45 Ngày||55 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với hồ sơ thuộc thẩm quyền của Quốc hội; Thủ tướng Chính phủ. 45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với hồ sơ thuộc thẩm quyền của Hội đồng nhân dân tỉnh|
+|Dịch vụ bưu chính|45 Ngày||55 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với hồ sơ thuộc thẩm quyền của Quốc hội; Thủ tướng Chính phủ. 45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ đối với hồ sơ thuộc thẩm quyền của Hội đồng nhân dân tỉnh|

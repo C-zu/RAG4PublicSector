@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Quyết định công nhận tổ chức khảo nghiệm phân bón
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị công nhận tổ chức khảo nghiệm phân bón theo Mẫu số 04 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4b4ad677b11e7'">Mẫu số 04.doc</a>)
+- 01 Bản chính b) Bản thuyết minh điều kiện thực hiện khảo nghiệm phân bón theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb43f97e084d3c0'">Mẫu số 05.doc</a>)

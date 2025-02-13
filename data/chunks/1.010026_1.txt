@@ -1,0 +1,16 @@
+Tên thủ tục: Thông báo thay đổi thông tin cổ đông là nhà đầu tư nước ngoài, thông báo thay đổi thông tin người đại diện theo ủy quyền của cổ đông là tổ chức nước ngoài, thông báo cho thuê doanh nghiệp tư nhân, thông báo thay đổi thông tin người đại diện theo ủy quyền
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010026
+Số quyết định:
+885/QĐ-BKHĐT
+Tên thủ tục:
+Thông báo thay đổi thông tin cổ đông là nhà đầu tư nước ngoài, thông báo thay đổi thông tin người đại diện theo ủy quyền của cổ đông là tổ chức nước ngoài, thông báo cho thuê doanh nghiệp tư nhân, thông báo thay đổi thông tin người đại diện theo ủy quyền
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp

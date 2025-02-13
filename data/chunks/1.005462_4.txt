@@ -1,0 +1,13 @@
+Tên thủ tục: Phục hồi danh dự (cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Chủ động phục hồi danh dự
+- 01 Bản chính - Thông báo về việc tổ chức thực hiện phục hồi danh dự (mẫu 17/BTNN ban hành kèm theo Thông tư số 04/2018/TT-BTP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6d354fffb0562'">Thông báo về việc tổ chức thực hiện phục hồi danh dự.doc</a>)
+- 01 Bản chính - Biên bản trả lời thông báo tổ chức thực hiện phục hồi danh dự (mẫu 18/BTNN ban hành kèm theo Thông tư số 04/2018/TT-BTP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec80fa9f827450'">Mẫu 18.doc</a>)
+ Trường hợp cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại đã Thông báo nhưng người bị thiệt hại chưa đề nghị chưa thực hiện phục hồi danh dự mà yêu cầu sau thì thành phần hồ sơ gồm: Thông báo về việc tổ chức thực hiện phục hồi danh dự (mẫu 17/BTNN ban hành kèm theo Thông tư số 04/2018/TT-BTP); Ý kiến của người bị thiệt hại đề nghi chưa thực hiện phục hồi danh dự; Văn bản đề nghị phục hồi danh dự.
+
+
+b) Phục hồi danh dự theo yêu cầu của người bị thiệt hại
+- 01 Bản chính Văn bản yêu cầu bồi thường (mẫu 01/BTNN ban hành kèm theo Thông tư số 04/2018/TT-BTP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd44d2bb6e0579c'">Văn bản yêu cầu bồi thường.doc</a>)

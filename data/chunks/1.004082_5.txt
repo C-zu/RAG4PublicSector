@@ -1,0 +1,23 @@
+Tên thủ tục: Xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích (Cấp Xã)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp xã
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp xã
+Địa chỉ tiếp nhận HS:
+Tổ chức, cá nhân sau khi thực hiện thỏa thuận, ký Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích với Bên cung cấp, nộp hồ sơ trực tiếp tại trụ sở của Ủy ban nhân dân cấp xã hoặc gửi qua đường bưu điện tới Ủy ban nhân dân cấp xã.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận vào Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2008/QH12|Luật đa dạng sinh học|13-11-2008|Quốc Hội|
+|59/2017/NĐ-CP|Về quản lý tiếp cận nguồn gen và chia sẻ lợi ích từ việc sử dụng nguồn gen|12-04-2017|Chính phủ|
+|22/2023/NĐ-CP|Nghị định 22/2023/NĐ-CP|12-05-2023|Chính phủ|

@@ -1,0 +1,10 @@
+Tên thủ tục: Phê duyệt Phương án chữa cháy của cơ sở (thực hiện tại cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+- Bước 4: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.

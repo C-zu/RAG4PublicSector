@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp bản sao trích lục hộ tịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Ngay trong ngày tiếp nhận hồ sơ; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả vào 09 giờ ngày làm việc tiếp theo.|Lệ phí : Phí khai thác, sử dụng thông tin trong cơ sở dữ liệu hộ tịch: 8.000 đồng/bản sao trích lục/sự kiện hộ tịch đã đăng ký.|- Người có yêu cầu cấp bản sao trích lục hộ tịch trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện yêu cầu cấp bản sao trích lục hộ tịch; - Người thực hiện yêu cầu cấp bản sao trích lục hộ tịch có thể trực tiếp nộp hồ sơ tại Bộ phận Tiếp nhận và trả kết quả của UBND cấp xã có thẩm quyền hoặc gửi hồ sơ, văn bản yêu cầu qua hệ thống bưu chính.|
+|Dịch vụ bưu chính|Ngay trong ngày tiếp nhận hồ sơ; trường hợp nhận hồ sơ sau 15 giờ mà không giải quyết được ngay thì trả kết quả vào 09 giờ ngày làm việc tiếp theo.|Lệ phí : Phí khai thác, sử dụng thông tin trong cơ sở dữ liệu hộ tịch: 8.000 đồng/bản sao trích lục/sự kiện hộ tịch đã đăng ký.|- Người có yêu cầu cấp bản sao trích lục hộ tịch trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện yêu cầu cấp bản sao trích lục hộ tịch; - Người thực hiện yêu cầu cấp bản sao trích lục hộ tịch có thể trực tiếp nộp hồ sơ tại Bộ phận Tiếp nhận và trả kết quả của UBND cấp xã có thẩm quyền hoặc gửi hồ sơ, văn bản yêu cầu qua hệ thống bưu chính.|

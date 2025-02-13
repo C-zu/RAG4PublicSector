@@ -1,0 +1,56 @@
+Tên thủ tục: Thẩm tra, phê duyệt quyết toán vốn đầu tư công trình hoàn thành thuộc thẩm quyền Sở Giao thông vận tải thành phố Đà Nẵng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+I. Đối với hồ sơ sửa chữa thường xuyên
+- 02 Bản chính 1. Tờ trình đề nghị thẩm tra, phê duyệt quyết toán
+- 01 Bản chính 2. Biểu mẫu báo cáo quyết toán theo quy định
+- 02 Bản chính, 02 Bản sao 3. Các văn bản pháp lý (do cơ quan có thẩm quyền cấp) (Bản chính hoặc bản sao) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe64c83549bbc06'">Mau so 02-QTDA.docx</a>)
+- 01 Bản chính, 01 Bản sao 3.1. Văn bản chấp thuận chủ trương đầu tư, nguồn vốn thực hiện công trình (Bản chính hoặc bản sao)
+- 01 Bản chính, 01 Bản sao 3.2. Văn bản công nhận đơn vị Khảo sát, thiết kế, thi công của cấp có thẩm quyền (Bản chính hoặc bản sao)
+- 01 Bản chính, 01 Bản sao 3.3. Các Quyết định liên quan thiết kế, dự toán (Bản chính hoặc bản sao)
+- 01 Bản chính, 01 Bản sao 3.4. Thương thảo, ký kết hợp đồng kinh tế (Bản chính hoặc bản sao)
+- 01 Bản chính, 01 Bản sao 3.5. Văn bản công nhận đơn vị thi công (Bản chính hoặc bản sao)
+- 01 Bản chính 4. Hồ sơ nghiệm thu, hoàn công
+- 01 Bản chính 4.1 Biên bản nghiệm thu từng công việc xây dựng công trình
+- 01 Bản chính 4.2 Biên bản nghiệm thu bộ phận công trình xây dựng, giai đoạn thi công xây dựng công trình.
+- 01 Bản chính 4.3 Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng để đưa vào sử dụng, khai thác
+- 01 Bản chính 4.4 Giấy chứng nhận chất lượng nhà sản xuất (trừ công trình duy tu, sửa chữa), kết quả thí nghiệm vật liệu
+- 01 Bản chính 4.5 Nhật ký thi công
+- 01 Bản chính 4.6 Hồ sơ hoàn công
+- 01 Bản chính 5. Hồ sơ quyết toán chi tiết
+- 01 Bản chính 5.1 Biên bản nghiệm thu khối lượng hoàn thành kèm theo bản khối lượng chi tiết được xác nhận giữa A & B
+- 01 Bản chính 5.2 Toàn bộ quyết toán chi tiết khối lượng xây dựng giữa A & B
+- 01 Bản chính 5.3 Bảng quyết toán chi tiết quản lý dự dán và các khoản chi phí khác
+- 01 Bản chính 5.4. Hóa đơn, chứng từ mua bán vật tư, biên lai thu các loại phí và tài liệu khác liên quan
+- 01 Bản chính 5.5. Đĩa CD hoặc file mềm
+
+
+II. Đối với hồ sơ quản lý, tuần tra cầu, đường bộ
+- 01 Bản chính Thủ tục đầu vào thực hiện theo quy định trên, tuy nhiên điều chỉnh hồ sơ cho phù hợp đặc thù công việc: - Hồ sơ không yêu cầu: văn bản công nhận đơn vị thi công, biên bản nghiệm thu công việc, nghiệm thu giai đoạn, giấy chứng nhận chất lượng, nhật ký công trình, hồ sơ hoàn công, hóa đơn chứng từ. - Hồ sơ yêu cầu bổ sung:Biên bản nghiệm thu tháng, quý, nhật ký tuần tra, nhật ký bảo dưỡng, báo cáo hư hỏng, lý lịch cầu, phần mềm cập nhật số liệu cầu, đường
+
+
+III. Đối với hồ sơ đặt hàng dịch vụ quản lý, bảo trì đường bộ, đường thủy nội địa
+ 1. Hồ sơ pháp lý
+- 02 Bản chính 1.1. Tờ trình đề nghị thẩm tra, phê duyệt quyết toán
+- 01 Bản chính, 01 Bản sao 1.2. Văn bản có liên quan nguồn vốn đầu tư (Bản chính hoặc bản sao)
+- 01 Bản chính, 01 Bản sao 1.3. Văn bản của UBND thành phố phê duyệt dự toán, đơn giá sản phẩm (Bản chính hoặc bản sao)
+- 01 Bản chính, 01 Bản sao 1.4. Hợp đồng kinh tế (Bản chính hoặc bản sao)
+- 01 Bản chính 2. Hồ sơ dự toán được duyệt
+- 01 Bản chính 2.1. Quyết định phê duyệt đặt hàng
+- 01 Bản chính 2.2. Quyết định phê duyệt dự toán phân chia theo quý
+- 01 Bản chính 3. Hồ sơ nghiệm thu, hoàn công
+- 01 Bản chính 3.1. Nhật ký tuần tra
+- 01 Bản chính 3.2. Nhật ký bảo dưỡng
+- 01 Bản chính 3.3. Nhật ký bảo dưỡng
+- 01 Bản chính 3.4. Bảng kê khối lượng công việc tháng
+- 01 Bản chính 3.5. Bảng tổng hợp khối lượng công việc tháng, quý
+- 01 Bản chính 3.6. Báo cáo CL thực hiện đặt hàng tháng, quý
+- 01 Bản chính 3.7. Báo cáo đánh giá việc thực hiện hợp đồng
+- 01 Bản chính 3.8. Biên bản hoàn công liên quan khác
+- 02 Bản chính 4. Hồ sơ quyết toán chi tiết
+- 01 Bản chính 4.1. Bảng khối lượng đã hoàn thành đặt hàng dịch vụ quản lý, bảo trì đường bộ giữa A&B
+- 01 Bản chính 4.2. Bảng quyết toán khối lượng và xác định giá trị công việc hoàn thành
+- 01 Bản chính 4.3. Các hóa đơn, chứng từ, tài liệu khác liên quan
+ Ghi chú: - Đối với hồ sơ trình lại do thiếu các văn bản pháp lý phải trình lại tờ trình (02 bản chính) (nội dung tờ trình nêu rõ danh mục bổ sung văn bản pháp lý); bổ sung các văn bản pháp lý còn thiếu kèm theo Công văn yêu cầu bổ sung hồ sơ của Sở GTVT (0 bản chính hoặc bản sao); không yêu cầu trình lại hồ sơ và các văn bản pháp lý đã trình trước đây.

@@ -1,0 +1,9 @@
+Tên thủ tục: Thay đổi thông tin đăng ký hoạt động phát hành xuất bản phẩm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).||- Tổ chức, cá nhân nộp hồ sơ và nhận kết quả bằng hình thức trực tuyến, hoặc trực tiếp, hoặc qua dịch vụ bưu chính công ích. - Sở Thông tin và Truyền thông khuyến khích tổ chức, cá nhân nộp hồ sơ trực tuyến qua Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn và sử dụng dịch vụ bưu chính công ích để nhận kết quả giải quyết thủ tục hành chính.|
+|Trực tuyến|07 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).||- Tổ chức, cá nhân nộp hồ sơ và nhận kết quả bằng hình thức trực tuyến, hoặc trực tiếp, hoặc qua dịch vụ bưu chính công ích. - Sở Thông tin và Truyền thông khuyến khích tổ chức, cá nhân nộp hồ sơ trực tuyến qua Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn và sử dụng dịch vụ bưu chính công ích để nhận kết quả giải quyết thủ tục hành chính.|
+|Dịch vụ bưu chính|07 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).||- Tổ chức, cá nhân nộp hồ sơ và nhận kết quả bằng hình thức trực tuyến, hoặc trực tiếp, hoặc qua dịch vụ bưu chính công ích. - Sở Thông tin và Truyền thông khuyến khích tổ chức, cá nhân nộp hồ sơ trực tuyến qua Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn và sử dụng dịch vụ bưu chính công ích để nhận kết quả giải quyết thủ tục hành chính.|

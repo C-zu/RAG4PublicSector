@@ -1,0 +1,19 @@
+Tên thủ tục: Gia hạn Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị gia hạn giấy chứng nhận đăng ký hoạt động bán hàng đa cấp theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcad686cda81e88'">Mẫu số 05.docx</a>)
+- 01 Bản sao - 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản chính - 01 bản danh sách kèm theo bản sao giấy tờ chứng thực cá nhân hợp lệ (chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu đối với cá nhân có quốc tịch Việt Nam; hộ chiếu và giấy tờ cư trú hợp pháp do cơ quan có thẩm quyền của Việt Nam cấp đối với người nước ngoài thường trú tại Việt Nam; hộ chiếu đối với người nước ngoài không thường trú tại Việt Nam) của những người nêu tại điểm c khoản 1 Điều 7 Nghị định 40/2018/NĐ-CP;
+- 01 Bản sao 01 bản sao giấy tờ pháp lý về việc thành lập tổ chức trong trường hợp là tổ chức;
+ - Các tài liệu sau trong trường hợp có thay đổi so với lần sửa đổi, bổ sung giấy chứng nhận đăng ký hoạt động bán hàng đa cấp gần nhất:
+- 01 Bản chính (i) 02 (hai) bộ tài liệu liên quan đến hoạt động bán hàng đa cấp của doanh nghiệp, bao gồm: Mẫu hợp đồng tham gia bán hàng đa cấp; Kế hoạch trả thưởng; Chương trình đào tạo cơ bản; Quy tắc hoạt động.
+- 01 Bản chính (ii) 01 bản danh mục hàng hóa kinh doanh theo phương thức đa cấp của doanh nghiệp, bao gồm các thông tin: Tên, chủng loại, xuất xứ, quy cách đóng gói, chế độ bảo hành (nếu có), giá bán và số điểm thưởng quy đổi tương ứng với giá bán, thời điểm áp dụng.
+- 01 Bản chính (iii) 01 bản chính văn bản xác nhận ký quỹ;
+- 01 Bản chính (iv) Tài liệu giải trình kỹ thuật về hệ thống công nghệ thông tin quản lý mạng lưới người tham gia bán hàng đa cấp đáp ứng quy định tại Điều 44 Nghị định 40/2018/NĐ-CP, trong đó phải bao gồm các thông tin cơ bản sau: + Địa chỉ IP máy chủ và địa điểm đặt máy chủ vật lý; + Cơ chế vận hành của hệ thống, bao gồm thông tin mô tả hệ thống, cách thức nhập và lưu trữ dữ liệu, cách thức quản trị dữ liệu; + Các thông tin tại Điều 44 Nghị định số 40/2018/NĐ-CP;
+- 01 Bản chính (v) Tài liệu chứng minh doanh nghiệp có trang thông tin điện tử đáp ứng quy định tại Điều 45 Nghị định số 40/2018/NĐ-CP;
+- 01 Bản chính (vi) Tài liệu chứng minh doanh nghiệp có hệ thống thông tin liên lạc để tiếp nhận, giải quyết thắc mắc, khiếu nại của người tham gia bán hàng đa cấp;
+- 01 Bản sao (vii) Bản sao báo cáo tài chính có kiểm toán hoặc văn bản xác nhận tình hình thực hiện nghĩa vụ thuế hoặc tài chính trong ba năm tài chính gần nhất hoặc giấy tờ có giá trị tương đương do cơ quan, tổ chức có thẩm quyền cấp hoặc xác nhận, chứng minh việc đáp ứng điều kiện quy định tại điểm h khoản 1 Điều 7 Nghị định 40/2018/NĐ-CP, trong trường hợp doanh nghiệp có nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài là chủ sở hữu hoặc thành viên hoặc cổ đông;
+- 01 Bản chính (viii) Giấy phép kinh doanh có nội dung cấp phép thực hiện quyền phân phối bán lẻ, bao gồm hoạt động bán lẻ theo phương thức đa cấp, trong trường hợp doanh nghiệp có nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài là chủ sở hữu hoặc thành viên hoặc cổ đông.

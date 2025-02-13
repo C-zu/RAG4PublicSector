@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục giao quyền sở hữu, quyền sử dụng tài sản là kết quả của nhiệm vụ khoa học và công nghệ ngân sách cấp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|120 Ngày||- Bước 1. Trong thời hạn 60 ngày, kể từ ngày được Hội đồng đánh giá, nghiệm thu kết quả đạt trở lên - Bước 2. Trong thời hạn 30 ngày, kể từ ngày nhận đầy đủ hồ sơ hợp lệ của tổ chức, cá nhân chủ trì - Bước 3. Trong thời hạn 30 ngày, kể từ ngày nhận được đề nghị của cơ quan được giao quản lý nhiệm vụ|
+|Dịch vụ bưu chính|120 Ngày||- Bước 1. Trong thời hạn 60 ngày, kể từ ngày được Hội đồng đánh giá, nghiệm thu kết quả đạt trở lên - Bước 2. Trong thời hạn 30 ngày, kể từ ngày nhận đầy đủ hồ sơ hợp lệ của tổ chức, cá nhân chủ trì - Bước 3. Trong thời hạn 30 ngày, kể từ ngày nhận được đề nghị của cơ quan được giao quản lý nhiệm vụ|

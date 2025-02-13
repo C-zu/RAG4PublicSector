@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007816
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

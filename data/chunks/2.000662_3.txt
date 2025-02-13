@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép lập cơ sở bán lẻ cho phép cơ sở bán lẻ được tiếp tục hoạt động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|55 Ngày làm việc||55 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Nộp trực tiếp tại Sở Công Thương.|
+|Trực tuyến|55 Ngày làm việc||55 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Nộp qua hệ thống dịch vụ công trực tuyến (nếu đủ điều kiện áp dụng)|
+|Dịch vụ bưu chính|55 Ngày làm việc||55 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

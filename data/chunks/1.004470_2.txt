@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp văn bản xác nhận thông báo hoạt động bưu chính (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp, tổ chức hoàn thiện hồ sơ đề nghị cấp văn bản xác nhận thông báo hoạt động bưu chính theo quy định và nộp hồ sơ về Sở Thông tin và Truyền thông
+Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Thông tin và Truyền thông từ chối cấp văn bản xác nhận thông báo hoạt động bưu chính đối với trường hợp không đúng thẩm quyền và nêu rõ lý do.
+Bước 3: Trong thời hạn 10 ngày làm việc, Sở Thông tin và Truyền thông thực hiện cấp văn bản xác nhận thông báo hoạt động bưu chính đối với trường hợp hồ sơ đã đầy đủ, đúng quy định, trường hợp hồ sơ chưa đáp ứng quy định thì Sở Thông tin và Truyền thông thông báo cho doanh nghiệp, tổ chức thực hiện sửa đổi, bổ sung.
+- Trong thời hạn 15 ngày làm việc kể từ ngày thông báo, doanh nghiệp, tổ chức có trách nhiệm sửa đổi, bổ sung hồ sơ theo yêu cầu. 
+Trường hợp doanh nghiệp, tổ chức không sửa đổi, bổ sung hồ sơ theo yêu cầu hoặc có sửa đổi, bổ sung nhưng chưa đạt yêu cầu, Sở Thông tin và Truyền thông thông báo từ chối cấp giấy phép bưu chính, văn bản xác nhận thông báo hoạt động bưu chính và nêu rõ lý do.
+- Các thông báo của Sở Thông tin và Truyền thông được thực hiện bằng văn bản qua hệ thống dịch vụ công trực tuyến.
+- Kết quả giải quyết thủ tục cấp giấy phép bưu chính, văn bản xác nhận thông báo hoạt động bưu chính được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.

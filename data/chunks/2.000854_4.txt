@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy phép thành lập chi nhánh của tổ chức hành nghề luật sư nước ngoài tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao giấy tờ chứng minh việc thành lập hợp pháp của tổ chức hành nghề luật sư nước ngoài do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp
+- 01 Bản chính Bản giới thiệu về hoạt động của tổ chức hành nghề luật sư nước ngoài
+- 01 Bản chính Danh sách luật sư nước ngoài dự kiến làm việc tại chi nhánh
+- 01 Bản chính Quyết định cử luật sư làm Trưởng chi nhánh
+- 01 Bản chính Đơn đề nghị thành lập chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faed3c034c3cb00'">Mẫu TP-LS- 11.doc</a>)

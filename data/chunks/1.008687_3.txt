@@ -1,0 +1,7 @@
+Tên thủ tục: Tham gia ý kiến đối với bảng, biển, màn hình LED không nằm trong quy hoạch quảng cáo đã được UBND thành phố phê duyệt
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Hồ sơ nộp trực tiếp tại Sở Văn hóa và Thể thao|

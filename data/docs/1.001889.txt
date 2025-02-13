@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001889
+Số quyết định:
+1322/QĐ-BGTVT
+Tên thủ tục:
+Thỏa thuận vị trí, thông số kỹ thuật chi tiết cảng biển, bến cảng, cầu cảng, luồng hàng hải
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Trước khi phê duyệt dự án đầu tư, chủ đầu tư gửi hồ sơ đề nghị thỏa thuận vị trí, thông số kỹ thuật chi tiết cảng biển, bến cảng, cầu cảng, luồng hàng hải trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC:
+- Chậm nhất 02 ngày làm việc, kể từ ngày nhận được đủ hồ sơ của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản lấy ý kiến các cơ quan liên quan về đề nghị của chủ đầu tư. Trong vòng 05 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến cùng hồ sơ liên quan kèm theo, các cơ quan liên quan có văn bản tham gia ý kiến gửi tới Cục Hàng hải Việt Nam.
+- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến chủ đầu tư. Trường hợp không chấp thuận, Cục Hàng hải Việt Nam phải có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi chủ đầu tư.|
+|Trực tuyến|10 Ngày làm việc||- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi chủ đầu tư.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi chủ đầu tư.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị thỏa thuận vị trí, thông số kỹ thuật chi tiết cảng biển, bến cảng, cầu cảng, luồng hàng hải theo mẫu; ([mẫu tờ khai.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefdfd78da0856c'))
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử văn bản chấp thuận chủ trương đầu tư của cấp có thẩm quyền quy định tại khoản 4 Điều 4 Nghị định số 58/NĐ-CP ngày 10/5/2017;
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính bản vẽ mặt bằng công trình thể hiện tọa độ vị trí công trình chính và các công trình phụ trợ khác, khoảng cách từ biên công trình đến các công trình liền kề;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ pháp lý về khu đất nghiên cứu dự án (cụ thể tọa độ biên khu đất);
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính ý kiến của cơ quan có thẩm quyền về phòng cháy chữa cháy đối với các công trình có yêu cầu riêng về khoảng cách an toàn phòng cháy chữa cháy với công trình liền kề.”
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng hải VN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|69/2022/NĐ-CP|Nghị định 69/2022/NĐ-CP|23-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

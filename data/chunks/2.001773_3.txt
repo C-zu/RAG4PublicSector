@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh hoặc Bộ phận Một cửa của Công an tỉnh hoặc Trung tâm phục vụ hành chính công của tỉnh (trường hợp đã triển khai tiếp nhận hồ sơ tại Trung tâm phục vụ hành chính công); Không quá 07 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ; trường hợp không cấp giấy phép phải có văn bản trả lời, nêu rõ lý do.|
+|Trực tuyến|07 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có); Không quá 07 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ; trường hợp không cấp giấy phép phải có văn bản trả lời, nêu rõ lý do.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Không quá 07 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ; trường hợp không cấp giấy phép phải có văn bản trả lời, nêu rõ lý do.|

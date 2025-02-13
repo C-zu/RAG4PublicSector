@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục giải quyết tố cáo tại cấp tỉnh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001916
+Số quyết định:
+700/QĐ-TTCP
+Tên thủ tục:
+Thủ tục giải quyết tố cáo tại cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Giải quyết tố cáo

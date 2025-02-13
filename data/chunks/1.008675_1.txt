@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy phép trao đổi, mua, bán, tặng cho, thuê, lưu giữ, vận chuyển mẫu vật của loài thuộc Danh mục loài được ưu tiên bảo vệ
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008675
+Số quyết định:
+1756/QĐ-BTNMT
+Tên thủ tục:
+Cấp giấy phép trao đổi, mua, bán, tặng cho, thuê, lưu giữ, vận chuyển mẫu vật của loài thuộc Danh mục loài được ưu tiên bảo vệ
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Môi trường

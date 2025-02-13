@@ -1,0 +1,66 @@
+Tên thủ tục: Cấp giấy phép thiết lập mạng xã hội
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức, doanh nghiệp được cấp giấy phép thiết lập mạng xã hội khi có đủ các điều kiện sau đây:
+1. Là tổ chức, doanh nghiệp được thành lập theo pháp luật Việt Nam có chức năng, nhiệm vụ hoặc đăng ký kinh doanh ngành nghề phù hợp với dịch vụ và nội dung thông tin cung cấp đã được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+2. Có tổ chức, nhân sự đáp ứng các điều kiện sau:
+a) Điều kiện về nhân sự chịu trách nhiệm quản lý nội dung thông tin:
+- Có ít nhất 01 nhân sự chịu trách nhiệm quản lý nội dung thông tin là người có quốc tịch Việt Nam hoặc đối với người nước ngoài có thẻ tạm trú do cơ quan có thẩm quyền cấp còn thời hạn ít nhất 06 tháng tại Việt Nam kể từ thời điểm nộp hồ sơ;
+- Có bộ phận quản lý nội dung thông tin.
+b) Điều kiện về nhân sự bộ phận kỹ thuật
+Có ít nhất 01 nhân sự quản lý nội dung thông tin và 01 nhân sự quản lý kỹ thuật.
+3. Đã đăng ký tên miền sử dụng để thiết lập mạng xã hội đáp ứng các quy định:
+a) Đối với tổ chức, doanh nghiệp không phải là cơ quan báo chí, dãy ký tự tạo nên tên miền không được giống hoặc trùng với tên cơ quan báo chí.
+b) Trang thông tin điện tử tổng hợp, mạng xã hội sử dụng ít nhất 01 tên miền “.vn” và lưu giữ thông tin tại hệ thống máy chủ có địa chỉ IP ở Việt Nam.
+c) Trang thông tin điện tử tổng hợp và mạng xã hội của cùng tổ chức, doanh nghiệp không được sử dụng cùng tên miền có dãy ký tự giống nhau (bao gồm cả tên miền thứ cấp, ví dụ: forum.vnn.vn, news.vnn.vn là tên miền có dãy ký tự khác nhau).
+d) Tên miền phải tuân thủ quy định về quản lý và sử dụng tài nguyên Internet. Đối với tên miền quốc tế phải có xác nhận sử dụng tên miền hợp pháp.
+4. Đáp ứng các điều kiện về kỹ thuật theo quy định sau:
+a) Lưu trữ tối thiểu 02 năm đối với các thông tin về tài khoản, thời gian đăng nhập, đăng xuất, địa chỉ IP của người sử dụng và nhật ký xử lý thông tin được đăng tải;
+b) Tiếp nhận và xử lý cảnh báo thông tin vi phạm từ người sử dụng;
+c) Phát hiện, cảnh báo và ngăn chặn truy nhập bất hợp pháp, các hình thức tấn công trên môi trường mạng và tuân theo những tiêu chuẩn đảm bảo an toàn thông tin;
+d) Có phương án dự phòng bảo đảm duy trì hoạt động an toàn, liên tục và khắc phục khi có sự cố xảy ra, trừ những trường hợp bất khả kháng theo quy định của pháp luật;
+đ) Đảm bảo phải có ít nhất 01 hệ thống máy chủ đặt tại Việt Nam, cho phép tại thời điểm bất kỳ có thể đáp ứng việc thanh tra, kiểm tra, lưu trữ, cung cấp thông tin trên toàn bộ các trang thông tin điện tử, mạng xã hội do tổ chức, doanh nghiệp sở hữu theo quy định tại các điểm a, b, c, d và đ Khoản này;
+e) Thực hiện đăng ký, lưu trữ thông tin cá nhân của thành viên, bao gồm: Họ và tên; ngày, tháng, năm sinh; số chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, ngày cấp, nơi cấp; số điện thoại và địa chỉ thư điện tử (nếu có). Trường hợp người sử dụng Internet dưới 14 tuổi và chưa có chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, người giám hộ hợp pháp quyết định việc đăng ký thông tin cá nhân của người giám hộ theo quy định tại điểm này để thể hiện sự cho phép và chịu trách nhiệm trước pháp luật về việc đăng ký đó;
+g) Thực hiện việc xác thực người sử dụng dịch vụ thông qua tin nhắn gửi đến số điện thoại hoặc đến hộp thư điện tử khi đăng ký sử dụng dịch vụ hoặc thay đổi thông tin cá nhân;
+h) Ngăn chặn hoặc loại bỏ thông tin vi phạm các quy định tại khoản 1 Điều 5 Nghị định số 27/2018/NĐ-CP khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền;
+i) Thiết lập cơ chế cảnh báo thành viên khi đăng thông tin có nội dung vi phạm (bộ lọc).
+5. Có biện pháp bảo đảm an toàn thông tin, an ninh thông tin và quản lý thông tin theo quy định sau:
+a) Có thỏa thuận cung cấp và sử dụng dịch vụ mạng xã hội phù hợp theo các quy định tại điểm đ khoản 2 Điều 23 đ Nghị định 27/2018/NĐ-CP và được đăng tải trên trang chủ của mạng xã hội;
+b) Bảo đảm người sử dụng phải đồng ý thỏa thuận sử dụng dịch vụ mạng xã hội bằng phương thức trực tuyến thì mới có thể sử dụng được các dịch vụ, tiện ích của mạng xã hội;
+c) Có cơ chế phối hợp để có thể loại bỏ ngay nội dung vi phạm khoản 1 Điều 5 Nghị định số 27/2018/NĐ-CP chậm nhất sau 03 giờ kể từ khi tự phát hiện hoặc có yêu cầu của Bộ Thông tin và Truyền thông hoặc cơ quan cấp phép (bằng văn bản, điện thoại, email);
+d) Có biện pháp bảo vệ bí mật thông tin riêng, thông tin cá nhân của người sử dụng;
+đ) Bảo đảm quyền quyết định của người sử dụng trong việc cho phép thu thập thông tin cá nhân của mình hoặc cung cấp cho tổ chức, doanh nghiệp, cá nhân khác
+Tổ chức, doanh nghiệp được cấp giấy phép thiết lập mạng xã hội khi có đủ các điều kiện sau đây:
+1. Là tổ chức, doanh nghiệp được thành lập theo pháp luật Việt Nam có chức năng, nhiệm vụ hoặc đăng ký kinh doanh ngành nghề phù hợp với dịch vụ và nội dung thông tin cung cấp đã được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+2. Có tổ chức, nhân sự đáp ứng các điều kiện sau:
+a) Điều kiện về nhân sự chịu trách nhiệm quản lý nội dung thông tin:
+- Có ít nhất 01 nhân sự chịu trách nhiệm quản lý nội dung thông tin là người có quốc tịch Việt Nam hoặc đối với người nước ngoài có thẻ tạm trú do cơ quan có thẩm quyền cấp còn thời hạn ít nhất 06 tháng tại Việt Nam kể từ thời điểm nộp hồ sơ;
+- Có bộ phận quản lý nội dung thông tin.
+b) Điều kiện về nhân sự bộ phận kỹ thuật
+Có ít nhất 01 nhân sự quản lý nội dung thông tin và 01 nhân sự quản lý kỹ thuật.
+3. Đã đăng ký tên miền sử dụng để thiết lập mạng xã hội đáp ứng các quy định:
+a) Đối với tổ chức, doanh nghiệp không phải là cơ quan báo chí, dãy ký tự tạo nên tên miền không được giống hoặc trùng với tên cơ quan báo chí.
+b) Trang thông tin điện tử tổng hợp, mạng xã hội sử dụng ít nhất 01 tên miền “.vn” và lưu giữ thông tin tại hệ thống máy chủ có địa chỉ IP ở Việt Nam.
+c) Trang thông tin điện tử tổng hợp và mạng xã hội của cùng tổ chức, doanh nghiệp không được sử dụng cùng tên miền có dãy ký tự giống nhau (bao gồm cả tên miền thứ cấp, ví dụ: forum.vnn.vn, news.vnn.vn là tên miền có dãy ký tự khác nhau).
+d) Tên miền phải tuân thủ quy định về quản lý và sử dụng tài nguyên Internet. Đối với tên miền quốc tế phải có xác nhận sử dụng tên miền hợp pháp.
+4. Đáp ứng các điều kiện về kỹ thuật theo quy định sau:
+a) Lưu trữ tối thiểu 02 năm đối với các thông tin về tài khoản, thời gian đăng nhập, đăng xuất, địa chỉ IP của người sử dụng và nhật ký xử lý thông tin được đăng tải;
+b) Tiếp nhận và xử lý cảnh báo thông tin vi phạm từ người sử dụng;
+c) Phát hiện, cảnh báo và ngăn chặn truy nhập bất hợp pháp, các hình thức tấn công trên môi trường mạng và tuân theo những tiêu chuẩn đảm bảo an toàn thông tin;
+d) Có phương án dự phòng bảo đảm duy trì hoạt động an toàn, liên tục và khắc phục khi có sự cố xảy ra, trừ những trường hợp bất khả kháng theo quy định của pháp luật;
+đ) Đảm bảo phải có ít nhất 01 hệ thống máy chủ đặt tại Việt Nam, cho phép tại thời điểm bất kỳ có thể đáp ứng việc thanh tra, kiểm tra, lưu trữ, cung cấp thông tin trên toàn bộ các trang thông tin điện tử, mạng xã hội do tổ chức, doanh nghiệp sở hữu theo quy định tại các điểm a, b, c, d và đ Khoản này;
+e) Thực hiện đăng ký, lưu trữ thông tin cá nhân của thành viên, bao gồm: Họ và tên; ngày, tháng, năm sinh; số chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, ngày cấp, nơi cấp; số điện thoại và địa chỉ thư điện tử (nếu có). Trường hợp người sử dụng Internet dưới 14 tuổi và chưa có chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, người giám hộ hợp pháp quyết định việc đăng ký thông tin cá nhân của người giám hộ theo quy định tại điểm này để thể hiện sự cho phép và chịu trách nhiệm trước pháp luật về việc đăng ký đó;
+g) Thực hiện việc xác thực người sử dụng dịch vụ thông qua tin nhắn gửi đến số điện thoại hoặc đến hộp thư điện tử khi đăng ký sử dụng dịch vụ hoặc thay đổi thông tin cá nhân;
+h) Ngăn chặn hoặc loại bỏ thông tin vi phạm các quy định tại khoản 1 Điều 5 Nghị định số 27/2018/NĐ-CP khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền;
+i) Thiết lập cơ chế cảnh báo thành viên khi đăng thông tin có nội dung vi phạm (bộ lọc).
+5. Có biện pháp bảo đảm an toàn thông tin, an ninh thông tin và quản lý thông tin theo quy định sau:
+a) Có thỏa thuận cung cấp và sử dụng dịch vụ mạng xã hội phù hợp theo các quy định tại điểm đ khoản 2 Điều 23 đ Nghị định 27/2018/NĐ-CP và được đăng tải trên trang chủ của mạng xã hội;
+b) Bảo đảm người sử dụng phải đồng ý thỏa thuận sử dụng dịch vụ mạng xã hội bằng phương thức trực tuyến thì mới có thể sử dụng được các dịch vụ, tiện ích của mạng xã hội;
+c) Có cơ chế phối hợp để có thể loại bỏ ngay nội dung vi phạm khoản 1 Điều 5 Nghị định số 27/2018/NĐ-CP chậm nhất sau 03 giờ kể từ khi tự phát hiện hoặc có yêu cầu của Bộ Thông tin và Truyền thông hoặc cơ quan cấp phép (bằng văn bản, điện thoại, email);
+d) Có biện pháp bảo vệ bí mật thông tin riêng, thông tin cá nhân của người sử dụng;
+đ) Bảo đảm quyền quyết định của người sử dụng trong việc cho phép thu thập thông tin cá nhân của mình hoặc cung cấp cho tổ chức, doanh nghiệp, cá nhân khác
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

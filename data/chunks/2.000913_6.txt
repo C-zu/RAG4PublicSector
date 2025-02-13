@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục chứng thực việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch đã được chứng thực chỉ được thực hiện khi có thỏa thuận bằng văn bản của các bên tham gia hợp đồng, giao dịch.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

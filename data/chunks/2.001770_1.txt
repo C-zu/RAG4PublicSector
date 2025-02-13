@@ -1,0 +1,16 @@
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành (cấp tỉnh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001770
+Số quyết định:
+1545/QĐ-BTNMT
+Tên thủ tục:
+Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước

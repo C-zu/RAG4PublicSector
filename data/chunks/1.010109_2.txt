@@ -1,0 +1,21 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Quốc hội (đối với dự án đầu tư không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư) - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ thông báo khi nào có kết quả sẽ thông báo  cho tổ chức, cá nhân.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	 Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo Ban ký duyệt. 
+- Trường hợp hồ sơ đủ điều kiện làm văn bản gửi Bộ KH&ĐT giải quyết 
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 11
++ Gửi Văn bản kèm hồ sơ cho Bộ KH&ĐT giải quyết (nếu hồ sơ đủ điều kiện). Chuyển sang theo dõi kết quả từ B6
+B6	Hội đồng thẩm định nhà nước để tổ chức thẩm định hồ sơ dự án đầu tư 
+B7	Chính phủ trình Hồ sơ quyết định chủ trương đầu tư đến Quốc hội
+B8	Cơ quan được Quốc hội giao chủ trì thẩm tra  thực hiện thẩm tra
+B9	Quốc hội xem xét, thông qua Nghị quyết về chủ trương đầu tư 
+B10	Cập nhật, theo dõi kết quả xử lý công việc, chuyển kết quả sang TTPVHCC 
+B11	Trả kết quả cho tổ chức

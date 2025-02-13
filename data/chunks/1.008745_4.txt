@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật/Thiết kế chi tiết và dự toán dự án CNTT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình của cơ quan, đơn vị đề nghị thẩm định Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật/Thiết kế chi tiết và dự toán (Mẫu KHTC 02); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb12bea91a4009'">To trinh de nghi tham dinh BC nghien cuu kha thi, KTKT, Thiet ke & du toan (Mau KHTC 02).doc</a>)
+- 01 Bản chính 2. Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật/Thiết kế chi tiết và dự toán (có xác nhận của Chủ đầu tư, đơn vị tư vấn, chủ trì thiết kế);
+- 01 Bản chính 3. Hồ sơ năng lực của đơn vị tư vấn lập Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật/Thiết kế chi tiết và dự toán;
+- 01 Bản chính 4. Bản mềm dự toán của hồ sơ (file excel);
+ 5. Văn bản phê duyệt chủ trương đầu tư:
+- 01 Bản chính - Trường hợp là Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật: Quyết định phê duyệt chủ trương đầu tư kèm theo Báo cáo đề xuất chủ trương đầu tư được duyệt;
+- 01 Bản chính - Trường hợp là Thiết kế chi tiết và dự toán: Quyết định phê duyệt dự án và tài liệu kèm theo Báo cáo nghiên cứu khả thi.
+ * Lưu ý về số lượng hồ sơ (bản giấy) cần nộp:
+- 04 Bản chính - Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật/Thiết kế chi tiết và dự toán (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ): 04 bản.
+- 01 Bản chính - Tờ trình, Báo cáo nghiên cứu khả thi/Báo cáo kinh tế - kỹ thuật/Thiết kế chi tiết và dự toán qua các lần sửa đổi, bổ sung: mỗi lần sửa đổi, bổ sung nộp 01 bộ.

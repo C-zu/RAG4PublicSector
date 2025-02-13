@@ -1,0 +1,8 @@
+Tên thủ tục: Hoàn trả hoặc khấu trừ tiền sử dụng đất đã nộp hoặc tiền nhận chuyển nhượng quyền sử dụng đất đã trả vào nghĩa vụ tài chính của chủ đầu tư dự án nhà ở xã hội
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||a) Đối với bước 2: Không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. b) Đối với bước 4: Không quá 10 ngày kể từ ngày Ủy ban nhân dân cấp tỉnh có văn bản chấp thuận.|
+|Dịch vụ bưu chính|30 Ngày||a) Đối với bước 2: Không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. b) Đối với bước 4: Không quá 10 ngày kể từ ngày Ủy ban nhân dân cấp tỉnh có văn bản chấp thuận.|

@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002442
+Số quyết định:
+3506/QĐ-UBND
+Tên thủ tục:
+Gia hạn giấy phép sử dụng tạm thời một phần hè phố, lòng đường
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hạ tầng kỹ thuật
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.
+B3	Duyệt hồ sơ, chuyển cho công chức xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu dự thảo Văn bản thông báo không đủ điều kiện gia hạn Giấy phép sử dụng tạm thời một phần vỉa hè, lòng đường trình Lãnh đạo phòng ký nháy.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Giấy phép được gia hạn, trình lãnh đạo phòng ký nháy.
+B5	Xem xét kết quả giải quyết thủ tục hành chính, ký nháy trên văn bản.
+B6	Phê duyệt kết quả giải quyết thủ tục hành chính.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm Hành chính công để trả kết quả.
+B8	Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|Lệ phí : 0 Đồng|Tại Trung tâm Hành chính công cấp huyện.|
+|Dịch vụ bưu chính|03 Ngày làm việc|Phí : 0 Đồng|Qua dịch vụ bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy phép sử dụng tạm thời một phần vỉa hè, lòng đường của tổ chức, cá nhân trong đó giải trình rõ lý do đề nghị gia hạn theo mẫu BM.HTKT.02.01. ([BM.HTKT.02.01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb83f5b8ecc58d8'))
+- 01 Bản chính Giấy phép đã được cấp.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+UBND cấp huyện
+Cơ quan có thẩm quyền:
+UBND cấp huyện
+Địa chỉ tiếp nhận HS:
+Trung tâm Hành chính công cấp huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng tạm thời một phần vỉa hè, lòng đường được gia hạn.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|Nghị định số 100/2013/NĐ-CP|100/2013/NĐ-CP|03-09-2013||
+|16/2009/TT-BXD|Thông tư về sửa đổi, bổ sung Thông tư số 04/2008/TT-BXD ngày 20 tháng 02 năm 2008 của Bộ Xây dựng hướng dẫn quản lý đường đô thị.|30-06-2009|Bộ Lao động - Thương binh và Xã hội|
+|04/2008/TT-BXD|Thông tư hướng dẫn quản lý đường đô thị|20-02-2008|Bộ Xây dựng|
+|11/2010/NĐ-CP|Nghị định|24-02-2010||
+
+Yêu cầu, điều kiện thực hiện:
+Thủ tục xin gia hạn giấy phép phải được tiến hành trước thời điểm hết hạn của giấy phép. Thời gian gia hạn của giấy phép bằng với thời gian cấp phép sử dụng trước đó và chỉ áp dụng một lần.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

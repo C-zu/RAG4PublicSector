@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thẩm tra công nghệ các dự án đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : Đồng - Đối với dự án đầu tư bắt buộc phải thẩm tra công nghệ: Kinh phí hỗ trợ công tác thẩm tra công nghệ do Sở Khoa học và Công nghệ lập dự toán kinh phí, bố trí trong dự toán chi thường xuyên được giao hàng năm. - Đối với dự án đầu tư còn lại: Kinh phí thẩm tra công nghệ do tổ chức, cá nhân có yêu cầu thẩm tra công nghệ nộp cho Sở Khoa học và Công nghệ.|Thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với dự án đầu tư bắt buộc phải thẩm tra công nghệ: Kinh phí hỗ trợ công tác thẩm tra công nghệ do Sở Khoa học và Công nghệ lập dự toán kinh phí, bố trí trong dự toán chi thường xuyên được giao hàng năm. - Đối với dự án đầu tư còn lại: Kinh phí thẩm tra công nghệ do tổ chức, cá nhân có yêu cầu thẩm tra công nghệ nộp cho Sở Khoa học và Công nghệ.|

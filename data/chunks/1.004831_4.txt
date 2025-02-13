@@ -1,0 +1,16 @@
+Tên thủ tục: Chuyển trường đối với học sinh trung học cơ sở
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin chuyển trường do cha hoặc mẹ hoặc người giám hộ ký.
+- 01 Bản chính Học bạ
+- 01 Bản sao Bằng tốt nghiệp cấp học dưới (bản công chứng).
+- 01 Bản chính Giấy chứng nhận trúng tuyển vào lớp đầu cấp trung học phổ thông quy định cụ thể loại hình trường được tuyển (công lập hoặc ngoài công lập).
+- 01 Bản chính Giấy giới thiệu chuyển trường do Hiệu trưởng nhà trường nơi đi cấp.
+- 01 Bản chính Các giấy tờ hợp lệ để được hưởng chế độ ưu tiên, khuyến khích trong học tập, thi tuyển sinh, thi tốt nghiệp (nếu có).
+- 01 Bản chính, 01 Bản sao Hộ khẩu hoặc giấy chứng nhận tạm trú dài hạn hoặc Quyết định điều động công tác của cha hoặc mẹ hoặc người giám hộ tại nơi sẽ chuyển đến với những học sinh chuyển nơi cư trú đến từ tỉnh, thành phố khác.
+- 01 Bản sao Bản sao giấy khai sinh
+- 01 Bản chính Giấy giới thiệu chuyển trường do Trưởng phòng giáo dục và đào tạo (đối với cấp trung học cơ sở)
+- 01 Bản chính Giấy xác nhận của chính quyền địa phương nơi học sinh cư trú với những học sinh có hoàn cảnh đặc biệt khó khăn về gia đình

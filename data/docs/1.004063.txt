@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004063
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép xuất bản tài liệu không kinh doanh (Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Cơ quan, tổ chức đề nghị cấp giấy phép xuất bản tài liệu không kinh doanh thuộc danh mục tài liệu quy định tại khoản 1 và khoản 2 Điều 12 Nghị định số 195/2013/NĐ-CP lập hồ sơ gửi Cục Xuất bản, In và Phát hành và nộp phí thẩm định nội dung tài liệu để cấp giấy phép.
+-  Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ, Cục Xuất bản, In và Phát hành phải cấp giấy phép xuất bản, đóng dấu vào bản thảo tài liệu và lưu lại một bản; trường hợp không cấp giấy phép phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Lệ phí : 15.000đồng/phút Đồng Tài liệu in trên giấy: 15.000 đồng/trang quy chuẩn  Lệ phí : 6.000 đồng/phút Đồng Tài liệu điện tử dưới dạng đọc: 6.000 đồng/phút  Lệ phí : 27.000 đồng/trang quy chuẩn Đồng Tài liệu điện tử dưới dạng nghe, nhìn: 27.000 đồng/phút|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành (Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí thẩm định nội dung tài liệu không kinh doanh để cấp giấy phép xuất bản, lệ phí cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh và lệ phí đăng ký nhập khẩu xuất bản phẩm để kinh doanh)|
+|Trực tuyến|15 Ngày|Lệ phí : 6.000 Đồng Tài liệu điện tử dưới dạng đọc: 6.000 đồng/phút  Lệ phí : 15.000 Đồng Tài liệu in trên giấy: 15.000 đồng/trang quy chuẩn  Lệ phí : 27.000 Đồng Tài liệu điện tử dưới dạng nghe, nhìn: 27.000 đồng/phút|- Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn). Theo Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí thẩm định nội dung tài liệu không kinh doanh để cấp giấy phép xuất bản, lệ phí cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh và lệ phí đăng ký nhập khẩu xuất bản phẩm để kinh doanh|
+|Dịch vụ bưu chính|15 Ngày|Lệ phí : 6.000đồng/phút Tài liệu điện tử dưới dạng đọc: 6.000 đồng/phút  Lệ phí : 27.000 đồng/phút Tài liệu điện tử dưới dạng nghe, nhìn: 27.000 đồng/phút.  Lệ phí : 15.000 đồng/trang quy chuẩn Tài liệu in trên giấy: 15.000 đồng/trang quy chuẩn|- Nộp qua dịch vụ bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, quận Hoàn Kiếm, Hà Nội) Theo Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí thẩm định nội dung tài liệu không kinh doanh để cấp giấy phép xuất bản, lệ phí cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh và lệ phí đăng ký nhập khẩu xuất bản phẩm để kinh doanh|
+
+Thành phần hồ sơ:
+
+Đối với tài liệu bằng tiếng nước ngoài, tiếng dân tộc thiểu số Việt Nam phải kèm theo bản dịch tiếng Việt có đóng dấu của cơ quan, tổ chức đề nghị cấp giấy phép xuất bản;
+- 01 Bản chính Đơn đề nghị Cấp giấy phép xuất bản tài liệu không kinh doanh ([Mẫu số 14.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f6111f6e9fa8500'))
+- 02 Bản chính Hai (02) bản thảo tài liệu in trên giấy có đóng dấu của cơ quan, tổ chức đề nghị cấp giấy phép xuất bản tại trang đầu và giáp lai giữa các trang bản thảo hoặc 01 bản thảo lưu trong thiết bị lưu trữ điện tử với định dạng không cho phép can thiệp, sửa đổi; Trường hợp tài liệu không kinh doanh xuất bản dạng điện tử thì nộp một (01) bản thảo điện tử có chữ ký số của thủ trưởng cơ quan, tổ chức đề nghị cấp phép xuất bản
+- 01 Bản chính Ý kiến xác nhận bằng văn bản: Đối với tài liệu của các đơn vị quân đội nhân dân, công an nhân dân phải có ý kiến của Bộ Quốc phòng, Bộ Công an hoặc cơ quan được Bộ Quốc phòng, Bộ Công an ủy quyền; Đối với tài liệu lịch sử Đảng, chính quyền địa phương; tài liệu phục vụ nhiệm vụ chính trị của địa phương phải có ý kiến của tổ chức đảng, cơ quan cấp trên
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền:
+Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS:
+Cục Xuất bản, In và Phát hành, số 10 Đường Thành, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xuất bản tài liệu không kinh doanh.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật 19/2012/QH13|20-11-2012|Quốc Hội|
+|195/2013/NĐ-CP|Nghị định 195/2013/NĐ-CP|21-11-2013|Chính phủ|
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|214/2016/TT-BTC|Thông tư 214/2016/TT-BTC|10-11-2016||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

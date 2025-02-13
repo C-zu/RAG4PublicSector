@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tham gia tuyển chọn, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước (thẩm quyền giải quyết của Sở Khoa học và Công nghệ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|48 Ngày làm việc||- Kiểm tra tính hợp lệ: 10 ngày kể từ ngày kết thức thời hạn nhận hồ sơ - Trình UBND tỉnh thành lập Hội đồng: 10 ngày - Họp Hội động tuyển chọn, giao trực tiếp: 10 ngày - Thành lập Tổ thẩm định kinh phí: 3 ngày - Thẩm định kinh phí: 05 ngày - Trình UBND tỉnh phê duyệt kết quả: 10 ngày|
+|Trực tuyến|48 Ngày làm việc||https://dichvucong.phuyen.gov.vn/|

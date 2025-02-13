@@ -1,0 +1,9 @@
+Tên thủ tục: Báo cáo tình hình sử dụng hóa đơn đặt in đã mua của cơ quan thuế và bảng kê hóa đơn sử dụng trong kỳ/Gửi dữ liệu hóa đơn đến cơ quan thuế đối với trường hợp mua hóa đơn của cơ quan thuế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao ++ Đối với Báo cáo tình hình sử dụng hóa đơn đặt in mua của cơ quan thuế và bảng kê hóa đơn sử dụng trong kỳ: Mẫu số BC26/HĐG Phụ lục IA ban hành kèm theo Nghị định 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ; Bảng kê hoá đơn sử dụng trong kỳ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe92a1ec25f9e13'">Mẫu BC26.HĐG.docx</a>)
+- 01 Bản chính, 01 Bản sao ++ Đối với việc Gửi dữ liệu hóa đơn đến cơ quan thuế đối với trường hợp mua hóa đơn của cơ quan thuế: Mẫu số 01/TH-HĐĐT Phụ lục IA ban hành kèm theo Nghị định 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ; Bảng kê hoá đơn sử dụng trong kỳ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9338e1befbbba'">Mẫu 01TH.HĐĐT.doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ

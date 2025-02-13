@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục xác lập quyền sở hữu toàn dân đối với tài sản do các tổ chức, cá nhân tự nguyện chuyển giao quyền sở hữu cho Nhà nước
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006218
+Số quyết định:
+828/QĐ-BTC
+Tên thủ tục:
+Thủ tục xác lập quyền sở hữu toàn dân đối với tài sản do các tổ chức, cá nhân tự nguyện chuyển giao quyền sở hữu cho Nhà nước
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý công sản

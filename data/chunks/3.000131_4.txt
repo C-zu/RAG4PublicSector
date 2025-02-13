@@ -1,0 +1,12 @@
+Tên thủ tục: Thừa nhận phương pháp thử nghiệm thức ăn chăn nuôi của phòng thử nghiệm nước xuất khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thừa nhận phương pháp thử nghiệm thức ăn chăn nuôi của phòng thử nghiệm nước xuất khẩu (theo Mẫu số 10.TĂCN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe808d3fce453f9'">Mẫu số 10.docx</a>)
+- 01 Bản chính - Giấy chứng nhận phòng thử nghiệm của nước xuất khẩu được công nhận hệ thống quản lý chất lượng phù hợp với tiêu chuẩn quốc tế ISO/IEC 17025 hoặc văn bản chỉ định, thừa nhận của cơ quan có thẩm quyền của nước xuất khẩu.
+- 01 Bản chính - Danh mục máy móc, thiết bị thử nghiệm phù hợp với phương pháp thử nghiệm bao gồm các thông tin: Tên máy móc, thiết bị; thời gian đưa vào sử dụng và thời gian kiểm định, hiệu chuẩn kèm theo Giấy chứng nhận kiểm định, hiệu chuẩn còn hiệu lực do phòng thử nghiệm của nước xuất khẩu cung cấp.
+- 01 Bản chính - Quy trình thử nghiệm và hồ sơ thẩm định, xác nhận giá trị sử dụng của phương pháp thử nghiệm trên nền mẫu thức ăn chăn nuôi do phòng thử nghiệm của nước xuất khẩu cung cấp.
+- 01 Bản chính - Kết quả thử nghiệm thành thạo hoặc so sánh liên phòng (nếu có) do phòng thử nghiệm của nước xuất khẩu cung cấp.
+ Trường hợp hồ sơ là bản bằng chữ nước ngoài thì phải có bản dịch ra tiếng Việt có xác nhận của tổ chức, cá nhân thực hiện thủ tục hành chính hoặc bản dịch ra tiếng Việt, được công chứng

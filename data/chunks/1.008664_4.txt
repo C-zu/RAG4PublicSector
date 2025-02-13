@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép thi công đường ngang đấu nối vào đường chính đang khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị theo mẫu Phụ lục KCHT-07 hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0d4452d27edf8'">PL_KCHT-07.docx</a>)
+- 01 Bản chính 2. Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công phải được cấp có thẩm quyền phê duyệt.
+- 01 Bản chính 3. Hợp đồng xây lắp (Nếu chủ đầu tư là pháp nhân có chức năng thi công và tự thi công thì không cần thủ tục này).
+- 01 Bản chính 4. Các văn bản thống nhất về phương án thi công, biện pháp bảo đảm an toàn giao thông và thời gian thi công giữa chủ đầu tư hoặc đơn vị thi công và cơ quan quản lý đường bộ có thẩm quyền (Chủ đầu tư hoặc đơn vị thi công phải lập phương án thi công, biện pháp đảm bảo an toàn giao thông và dự kiến thời gian thi công. Cơ quan cấp phép sau khi xem xét, nếu nhất trí thì có văn bản chấp thuận để làm căn cứ giám sát, kiểm tra).

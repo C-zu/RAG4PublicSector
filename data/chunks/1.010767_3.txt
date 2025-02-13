@@ -1,0 +1,7 @@
+Tên thủ tục: Danh mục dự án đầu tư có sử dụng đất do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện lập (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày||- Nộp hồ sơ trực tiếp hoặc qua đường bưu điện đến Trung tâm Phục vụ hành chính công tỉnh (Số 02A, đường Nguyễn Chí Thanh, TP Hà Tĩnh, tỉnh Hà Tĩnh). - Nộp qua mạng theo địa chỉ: dichvucong.hatinh.gov.vn.|

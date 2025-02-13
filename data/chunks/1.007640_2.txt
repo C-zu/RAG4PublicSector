@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Người khai hải quan khai báo có khoản giảm giá tại tiêu chí “chi tiết khai trị giá” trên tờ khai nhập khẩu hoặc tại tiêu chí tương ứng trên tờ khai trị giá hải quan, nhưng chưa thực hiện điều chỉnh trừ khoản giảm giá trên tờ khai trị giá hải quan; Tính, nộp thuế theo trị giá chưa được trừ khoản giảm giá.
+Bước 2: Người khai hải quan nộp hồ sơ đề nghị xét khoản giảm giá sau khi hoàn thành việc nhập khẩu và thanh toán cho toàn bộ hàng hóa thuộc hợp đồng mua bán đến Cục Hải quan tỉnh, thành phố nơi người khai hải quan đăng ký tờ khai đối với trường hợp khoản giảm giá đáp ứng đầy đủ các điều kiện theo quy định với trị giá của khoản giảm giá dưới 5% tổng trị giá lô hàng và trị giá khai báo không thấp hơn mức giá tham chiếu của hàng hóa giống hệt tại Danh mục hàng hóa nhập khẩu rủi ro về trị giá.
+Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan hải quan nơi người khai hải quan nộp hồ sơ đề nghị xem xét điều chỉnh trừ khoản giảm giá thực hiện kiểm tra hồ sơ, chứng từ và các tài liệu có liên quan kèm theo văn bản đề nghị của người khai hải quan; kiểm tra, đối chiếu trị giá khai báo và thực tế về số lượng; cấp độ thương mại; hình thức và thời gian thanh toán với Bảng công bố giảm giá của người bán và ban hành văn bản trả lời người khai hải quan.

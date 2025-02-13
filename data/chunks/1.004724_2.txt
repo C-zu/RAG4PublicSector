@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ thủ tục hành chính:
+Chủ sở hữu hoặc tổ chức được giao quản lý cảng hàng không, sân bay gửi 01 bộ hồ sơ đề nghị cấp giấy chứng nhận đăng ký cảng hàng không, sân bay trực tiếp hoặc qua hệ thống bưu chính hoặc hoặc trên môi trường điện tử hoặc bằng các hình thức phù hợp khác đến Cảng vụ hàng không.
+b) Giải quyết thủ tục hành chính:
+- Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ, bao gồm các nội dung sau:
++ Cảng hàng không, sân bay được xây dựng phù hợp với quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc đã được phê duyệt;
++ Kết cấu hạ tầng của cảng hàng không, sân bay được xây dựng, nghiệm thu kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật theo quy định và năng lực khai thác;
++ Phương án xây dựng kết cấu hạ tầng của cảng hàng không, sân bay phù hợp với tiêu chuẩn kỹ thuật theo quy định đối với việc đăng ký tạm thời cảng hàng không, sân bay đang xây dựng và năng lực khai thác.
+- Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay và gửi kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức phù hợp khác đến chủ sở hữu hoặc tổ chức được giao quản lý cảng hàng không, sân bay; gửi Cục Hàng không Việt Nam kết quả cấp giấy chứng nhận đăng ký cảng hàng không, sân bay để đăng ký cảng hàng không, sân bay vào Sổ đăng bạ cảng hàng không, sân bay. Trường hợp từ chối cấp giấy chứng nhận đăng ký cảng hàng không, sân bay, Cảng vụ hàng không thông báo bằng văn bản, nêu rõ lý do.

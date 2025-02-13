@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001236
+Số quyết định:
+Số 1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục bổ sung, sửa đổi hộ chiếu phổ thông (điều chỉnh họ tên, ngày tháng năm sinh, nơi sinh, giới tính, số giấy chứng minh nhân dân trong hộ chiếu), hoặc bổ sung trẻ em dưới 09 tuổi vào hộ chiếu Việt Nam của cha hoặc mẹ tại cơ quan đại diện Việt Nam ở nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Cấp hộ chiếu, giấy thông hành, công hàm đề nghị cấp thị thực
+Trình tự thực hiện:
+Người yêu cầu nộp hồ sơ trực tiếp tại trụ sở Cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài (sau đây gọi là Cơ quan đại diện).
+Thời gian nhận hồ sơ và trả kết quả: các ngày làm việc theo quy định của Cơ quan đại diện (trừ các ngày nghỉ, ngày lễ theo quy định của nước sở tại và các ngày lễ, ngày Tết theo quy định của Việt Nam).
+Cơ quan đại diện xem xét hồ sơ, nếu có những điểm chưa rõ cần xác minh thì điện về Cục Quản lý xuất nhập cảnh Bộ Công an hoặc cơ quan đã cấp hộ chiếu cần bổ sung sửa đổi.
+Nhận kết quả trực tiếp tại trụ sở Cơ quan đại diện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 15 USD Bổ sung, sửa đổi, dán ảnh trẻ em  [VanBanGoc_264-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed25e308f38399')|Nộp hồ sơ trực tiếp tại trụ sở Cơ quan đại diện Trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong trường hợp không đủ căn cứ để bổ sung, sửa đổi hộ chiếu phải xác minh thì không quá 05 ngày làm việc kể từ ngày nhận được thông báo của các cơ quan chức năng.|
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp
+- 01 Bản chính Tờ khai đề nghị bổ sung, sửa đổi hộ chiếu phổ thông theo mẫu. Người đề nghị cần điền đầy đủ các nội dung trong Tờ khai, ký trực tiếp. 02 ảnh cỡ 4x6 cm, chụp trên nền mầu trắng, mắt nhìn thẳng, đầu để trần, không đeo kính màu, mặc thường phục, chụp không quá 1 năm dán vào Tờ khai ([Mẫu X02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd97dcd386b8812'))
+- 01 Bản sao Bản sao hoặc bản chụp giấy tờ có giá trị pháp lý chứng minh việc sửa đổi, bổ sung hộ chiếu là cần thiết (Ví dụ: Giấy khai sinh, CMND nếu có sự sai lệch về ngày tháng năm sinh, Quyết định của cơ quan có thẩm quyền về việc thay đổi họ tên, giới tính …). Nếu là bản chụp thì xuất trình bản chính để kiểm tra, đối chiếu”
+- 01 Bản chính - Giấy xác nhận nhân sự (nếu có) do Cục Quản lý xuất nhập cảnh, Bộ Công an cấp ([TTLT 08.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb84e961c291080'))
+- 02 Bản chính 02 ảnh cỡ 4x6 cm, chụp trên nền mầu trắng, mắt nhìn thẳng, đầu để trần, không đeo kính màu, mặc thường phục, chụp không quá 1 năm dán vào Tờ khai
+
+
+Giấy tờ phải xuất trình
+- 01 Bản chính Hộ chiếu đã được cấp cần sửa đổi, bổ sung
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện:
+Cơ quan đại diện ngoại giao
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hộ chiếu đã được sửa đổi, bổ sung
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|33/2009/QH12|Luật 33/2009/QH12|18-06-2009|Quốc Hội|
+|264/2016/TT-BTC|Thông tư 264/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|94/2015/NĐ-CP|Nghị định 94/2015/NĐ-CP|16-10-2015|Chính phủ|
+|08/2009/TTLT/BCA-BNG|Thông tư liên tịch 08/2009/TTLT/BCA-BNG|06-10-2009|Bộ Ngoại giao|
+|08/2013/TTLT-BCA-BNG|Thông tư liên tịch 08/2013/TTLT-BCA-BNG|20-08-2013|Bộ Ngoại giao|
+|136/2007/NĐ-CP|Nghị định 136/2007/NĐ-CP - Về xuất cảnh, nhập cảnh của công dân Việt Nam|17-08-2007|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Trẻ em dưới 9 tuổi có thể cấp chung vào hộ chiếu với bố mẹ nếu có yêu cầu bằng văn bản;
+- Hộ chiếu cấp cho trẻ em dưới 14 tuổi có giá trị 05 năm và không gia hạn.
+- Trẻ em dưới 9 tuổi có thể cấp chung vào hộ chiếu với bố mẹ nếu có yêu cầu bằng văn bản;
+- Hộ chiếu cấp cho trẻ em dưới 14 tuổi có giá trị 05 năm và không gia hạn.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

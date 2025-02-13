@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp mới giấy chứng nhận đủ điều kiện xét nghiệm khẳng định các trường hợp HIV dương tính (155/2018/NĐ-CP) (không có trong 745 -> bãi bỏ TTHC)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp mới giấy chứng nhận đủ điều kiện theo Mẫu số 01 quy định tại Phụ lục ban hành kèm theo Nghị định số 75/2016/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6bb4daffa1fcd'">phụ lục.docx</a>)
+- 01 Bản chính Bản kê danh sách người phụ trách chuyên môn và người trực tiếp thực hiện kỹ thuật xét nghiệm HIV của cơ sở theo Mẫu quy số 04 quy định tại Phụ lục ban hành kèm theo Nghị định số 75/2016/NĐ-CP
+- 01 Bản chính Bản kê danh sách trang thiết bị của phòng xét nghiệm theo Mẫu số 05 quy định tại Phụ lục ban hành kèm theo Nghị định số 75/2016/NĐ-CP
+- 01 Bản chính Sơ đồ mặt bằng nơi thực hiện xét nghiệm
+- 01 Bản chính Bản sao hợp lệ văn bản xác nhận kết quả thực hành xét nghiệm HIV theo quy định tại Điểm c Khoản 4 Điều 5 của Nghị định số 75/2016/NĐ-CP

@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại giấy phép bưu chính khi hết hạn (Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại giấy phép bưu chính (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddffa72f45c320'">Mau cấp lại giấy phép khi hết hạn.docx</a>)
+- 01 Bản chính Phương án kinh doanh trong giai đoạn tiếp theo, nếu doanh nghiệp bị lỗ 02 năm liên tiếp
+- 01 Bản chính Các tài liệu sau nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép bưu chính lần gần nhất: + Mẫu hợp đồng cung ứng và sử dụng dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Mẫu biểu trưng, nhãn hiệu, ký hiệu đặc thù hoặc các yếu tố thuộc hệ thống nhận diện của doanh nghiệp được thể hiện trên bưu gửi (nếu có); + Bảng giá cước dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Tiêu chuẩn chất lượng dịch vụ bưu chính công bố áp dụng phù hợp với quy định của pháp luật về bưu chính; + Quy định về mức giới hạn trách nhiệm bồi thường thiệt hại trong trường hợp phát sinh thiệt hại, quy trình giải quyết khiếu nại của khách hàng, thời hạn giải quyết khiếu nại phù hợp với quy định của pháp luật về bưu chính.
+- 01 Bản sao Hợp đồng nhượng quyền thương mại với doanh nghiệp đang cung ứng dịch vụ bưu chính (nếu có).
+ Số lượng hồ sơ: 01 bộ là bản gốc

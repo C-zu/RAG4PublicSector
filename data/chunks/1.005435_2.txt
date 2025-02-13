@@ -1,0 +1,10 @@
+Tên thủ tục: Mua hóa đơn lẻ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Đơn vị có nhu cầu mua hóa đơn lẻ có văn bản đề nghị mua hóa đơn gửi đến cơ quan tài chính (Sở Tài chính hoặc Phòng Tài chính - Kế hoạch cấp huyện) nơi đơn vị đóng trụ sở.
+Bước 2: Cơ quan tài chính căn cứ công văn đề nghị và các hồ sơ liên quan bán hóa đơn theo số lượng đăng ký, phù hợp với thực tế tài sản bán.
+Ghi chú: Người được cơ quan cử đi mua hóa đơn phải xuất trình các giấy tờ có liên quan đến việc mua hóa đơn cho cơ quan tài chính; cụ thể:
+- Giấy giới thiệu kèm theo công văn đề nghị được mua hóa đơn do người đứng đầu cơ quan ký, đóng dấu: 01 bản chính;
+- Chứng minh nhân dân hoặc thẻ căn cước hoặc hộ chiếu (còn trong thời hạn sử dụng theo quy định của pháp luật) của người trực tiếp mua hóa đơn; Trường hợp cơ quan tài chính truy xuất được dữ liệu về người được cơ quan cử đến mua hóa đơn từ Cơ sở dữ liệu quốc gia về dân cư thì không phải xuất trình các giấy tờ này;
+- Quyết định xử lý tài sản của cơ quan, người có thẩm quyền và các giấy tờ có liên quan đến việc bán tài sản: 01 bản sao.

@@ -1,0 +1,25 @@
+Tên thủ tục: Miễn, giảm tiền thuê đất trong Khu kinh tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Hồ sơ miễn tiền thuê đất trong thời gian xây dựng cơ bản:
+- 01 Bản chính - Đơn đề nghị miễn tiền thuê đất trong thời gian xây dựng cơ bản; trong đó ghi rõ: Diện tích đất thuê, thời hạn thuê đất; lý do miễn và thời gian miễn tiền thuê đất (bản chính).
+- 01 Bản sao - Giấy chứng nhận đầu tư, Giấy phép đầu tư, Giấy chứng nhận đăng ký đầu tư, Quyết định chủ trương đầu tư (trừ trường hợp thuộc đối tượng không phải cấp các loại giấy tờ này theo pháp luật về đầu tư) (bản sao).
+- 01 Bản sao - Quyết định cho thuê đất của cơ quan nhà nước có thẩm quyền (bản sao).
+- 01 Bản sao - Dự án đầu tư được phê duyệt theo quy định của pháp luật về đầu tư làm cơ sở để được Nhà nước cho thuê đất (bản sao).
+
+
+b) Hồ sơ miễn, giảm tiền thuê đất theo quy định pháp luật về đầu tư:
+- 01 Bản chính - Đơn đề nghị được miễn, giảm tiền thuê đất, trong đó ghi rõ: Diện tích đất thuê, thời hạn thuê đất; lý do miễn, giảm và thời gian miễn, giảm tiền thuê đất (bản chính).
+- 01 Bản sao - Giấy chứng nhận đầu tư, Giấy phép đầu tư, Giấy chứng nhận đăng ký đầu tư, Quyết định chủ trương đầu tư (trừ trường hợp không phải cấp các loại giấy tờ này theo pháp luật về đầu tư và trường hợp được Nhà nước giao đất không thu tiền sử dụng đất nay chuyển sang thuê đất hoặc được Nhà nước cho thuê đất nay thuộc đối tượng được miễn, giảm tiền thuê đất) (bản sao).
+- 01 Bản sao - Dự án đầu tư được phê duyệt theo quy định của pháp luật về đầu tư (trừ trường hợp được Nhà nước giao đất không thu tiền sử dụng đất nay chuyển sang thuê đất hoặc được Nhà nước cho thuê đất nay thuộc đối tượng được miễn, giảm tiền thuê đất) (bản sao).
+- 01 Bản sao - Quyết định cho thuê đất của cơ quan nhà nước có thẩm quyền (bản sao).
+- 01 Bản sao - Chứng từ chứng minh đã giải ngân được tối thiểu 6.000 tỷ đồng trong 03 năm đối với trường hợp được miễn, giảm tiền thuê đất theo quy định tại điểm c khoản 2 Điều 15 Luật đầu tư (bản sao).
+- 01 Bản sao - Giấy tờ chứng minh sử dụng số lao động bình quân trong năm từ 500 người trở lên có xác nhận của cơ quan quản lý lao động có thẩm quyền trên địa bàn thực hiện dự án với trường hợp được miễn, giảm tiền thuê đất theo quy định điểm d khoản 2 Điều 15 Luật đầu tư (bản sao).
+
+
+c) Hồ sơ miễn tiền thuê đất trong thời gian tạm ngừng hoạt động:
+- 01 Bản chính - Đơn đề nghị được miễn tiền thuê đất trong thời gian tạm ngừng hoạt động (bản chính).
+- 01 Bản chính - Văn bản xác nhận của cơ quan đăng ký đầu tư về thời gian tạm ngừng hoạt động của dự án (bản chính).
+ - Quyết định cho thuê đất của cơ quan nhà nước có thẩm quyền (bản sao).

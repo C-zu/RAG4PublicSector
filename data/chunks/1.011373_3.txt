@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục Đăng ký tham gia “chuỗi thực phẩm an toàn” đối với cơ sở sản xuất thực phẩm (Thuộc trách nhiệm quản lý của ngành Công Thương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|50 Ngày làm việc||50 (năm mươi) ngày làm việc kể từ ngày nhận đủ hồ sơ (không bao gồm thời gian hoàn thiện, bổ sung hồ sơ của cơ sở).|
+|Dịch vụ bưu chính|50 Ngày làm việc||50 (năm mươi) ngày làm việc kể từ ngày nhận đủ hồ sơ (không bao gồm thời gian hoàn thiện, bổ sung hồ sơ của cơ sở).|

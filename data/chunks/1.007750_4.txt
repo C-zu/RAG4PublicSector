@@ -1,0 +1,19 @@
+Tên thủ tục: Thủ tục thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp có thế chấp dự án đầu tư xây dựng hoặc thế chấp nhà ở sẽ bán, cho thuê mua
+- 01 Bản chính chủ đầu tư phải gửi kèm theo giấy tờ chứng minh đã giải chấp hoặc biên bản thống nhất của bên mua, bên thuê mua nhà ở và bên nhận thế chấp về việc không phải giải chấp và được mua bán, thuê mua nhà ở đó
+
+
+Văn bản gửi Sở Xây dựng đề nghị thông báo nhà ở đủ điều kiện bán, cho thuê mua; - Các giấy tờ chứng minh bao gồm:
+- 01 Bản chính Giấy tờ về quyền sử dụng đất
+- 01 Bản chính hồ sơ dự án
+- 01 Bản chính thiết kế bản vẽ thi công đã được cấp có thẩm quyền phê duyệt
+- 01 Bản chính Giấy phép xây dựng đối với trường hợp phải có Giấy phép xây dựng
+- 01 Bản chính giấy tờ về nghiệm thu việc hoàn thành xây dựng cơ sở hạ tầng kỹ thuật tương ứng theo tiến độ
+
+
+trường hợp là nhà chung cư, tòa nhà hỗn hợp có mục đích để ở hình thành trong tương lai
+- 01 Bản chính biên bản nghiệm thu hoàn thàn xong phần móng của tòa nhà đó

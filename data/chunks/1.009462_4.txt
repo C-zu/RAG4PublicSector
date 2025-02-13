@@ -1,0 +1,17 @@
+Tên thủ tục: Thỏa thuận thông số kỹ thuật xây dựng cảng thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đối với cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài
+- 01 Bản chính - Đơn đề nghị thỏa thuận thông số kỹ thuật xây dựng cảng thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0df0c0c9b1b88'">30.docx</a>)
+- 01 Bản chính - Hồ sơ dự án;
+- 01 Bản sao - Bản sao văn bản chấp thuận chủ trương đầu tư dự án của cơ quan có thẩm quyền (nếu có);
+- 01 Bản chính - Bình đồ vị trí xây dựng cảng thủy nội địa: Thể hiện địa danh, vị trí công trình cảng, kho, bãi, vùng nước, lý trình (km) sông, kênh, rạch; vùng đất; các công trình liền kề (nếu có). Vùng nước trên bản vẽ phải thể hiện chiều rộng tối thiểu từ mép bờ đến hết chiều rộng luồng. Bình đồ được lập trên hệ tọa độ quốc gia VN2000 và cao độ nhà nước, có tỷ lệ từ 1/500 đến 1/1000.
+
+
+Hồ sơ đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài.
+- 02 Bản chính - Đơn đề nghị thỏa thuận thông số kỹ thuật xây dựng cảng thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed1f698171676f'">30.docx</a>)
+- 02 Bản chính - Hồ sơ dự án;
+- 02 Bản sao - Bản sao văn bản chấp thuận chủ trương đầu tư dự án của cơ quan có thẩm quyền (nếu có);
+- 02 Bản chính - Bình đồ vị trí xây dựng cảng thủy nội địa: Thể hiện địa danh, vị trí công trình cảng, kho, bãi, vùng nước, lý trình (km) sông, kênh, rạch; vùng đất; các công trình liền kề (nếu có). Vùng nước trên bản vẽ phải thể hiện chiều rộng tối thiểu từ mép bờ đến hết chiều rộng luồng. Bình đồ được lập trên hệ tọa độ quốc gia VN2000 và cao độ nhà nước, có tỷ lệ từ 1/500 đến 1/1000.

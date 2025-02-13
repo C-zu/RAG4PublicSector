@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục giải quyết chế độ trợ cấp một lần, cấp “Giấy chứng nhận” đối với dân công hỏa tuyến tham gia kháng chiến chống Pháp, chống Mỹ, chiến tranh bảo vệ Tổ quốc và làm nhiệm vụ quốc tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Bản khai của đối tượng hoặc thân nhân đối tượng (đối với đối tượng đã từ trần). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5134a617d2be3'">Mẫu số 1B.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf63e4e9704600'">Mẫu số 1A.doc</a>)
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao có chứng thực của Ủy ban nhân dân cấp xã giấy tờ tham gia dân công hỏa tuyến (nếu có), gồm một trong các giấy tờ: Lý lịch cán bộ hoặc lý lịch đảng viên khai trước ngày Quyết định số 49/2015/QĐ-TTg có hiệu lực thi hành, trong đó có thể hiện thời gian tham gia dân công hỏa tuyến; danh sách các đợt huy động tham gia dân công hỏa tuyến của địa phương; hồ sơ hưởng chính sách người có công, hưởng bảo hiểm xã hội có khai thời gian tham gia dân công hỏa tuyến.

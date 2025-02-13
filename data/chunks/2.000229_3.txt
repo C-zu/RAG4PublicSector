@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||Nộp trực tiếp tại Sở Công Thương nơi có trụ sở của các tổ chức sử dụng vật liệu nổ công nghiệp|
+|Dịch vụ bưu chính|20 Ngày làm việc||20 ngày làm việc, kể từ ngày nhận được đề nghị qua bưu điện|

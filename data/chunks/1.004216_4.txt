@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy xác nhận đăng ký xuất bản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký xuất bản bao gồm:
+- 01 Bản chính Giấy đăng ký xuất bản, trong đó tóm tắt nội dung về đề tài, chủ đề và nội dung của từng tác phẩm, tài liệu đăng ký xuất bản, xuất bản phẩm đăng ký tái bản, các thông tin theo mẫu Giấy đăng ký xuất bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe49843b69afeb4'">Mẫu số 07-GIẤY ĐKXB (sửa).doc</a>)
+- 01 Bản chính Văn bản thẩm định nội dung đối với tác phẩm, tài liệu thuộc loại phải thẩm định.

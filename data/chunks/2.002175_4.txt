@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tiếp công dân tại cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn khiếu nai, tố cáo, kiến nghị, phản ánh hoặc van bản ghi lại nội dung khiếu nịa, tố cáo, kiến nghị, phản ánh (có chữ ký hoặc điểm chỉ của công dân
+- 01 Bản chính Các tài liệu, giấy tờ do người khiếu nại, tố cáo,kiến nghị, phản ánh cung cấp

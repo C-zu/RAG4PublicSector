@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy xác nhận ưu đãi dự án sản xuất sản phẩm công nghiệp hỗ trợ thuộc Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển đối với các doanh nghiệp nhỏ và vừa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Ngày làm việc|||
+|Dịch vụ bưu chính|24 Ngày làm việc|||

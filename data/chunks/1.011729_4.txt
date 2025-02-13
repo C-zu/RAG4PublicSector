@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục xác nhận vật tư, thiết bị là hàng hóa nhập khẩu phục vụ dự án chế tạo thiết bị sản xuất vật liệu xây không nung nhẹ và sản xuất gạch xi măng - cốt liệu công suất từ 10 triệu viên quy tiêu chuẩn/năm trở lên thuộc Nhóm 98.22.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Công văn đề nghị xác nhận Danh mục vật tư, thiết bị phục vụ dự án chế tạo thiết bị sản xuất vật liệu xây không nung nhẹ và sản xuất gạch xi măng - cốt liệu công suất từ 10 triệu viên quy tiêu chuẩn/năm trở lên
+- 01 Bản chính - Danh mục vật tư, thiết bị phục vụ dự án chế tạo thiết bị sản xuất vật liệu xây không nung nhẹ và sản xuất gạch xi măng - cốt liệu công suất từ 10 triệu viên quy tiêu chuẩn/năm trở lên
+- 01 Bản sao - Hợp đồng nhập khẩu: 01 bản chụp có chứng thực hoặc bản chụp xuất trình bản chính để đối chiếu;
+- 01 Bản chính - Thuyết minh dự án

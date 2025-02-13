@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động kiểm định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+- 01 Bản chính Danh mục các máy móc, thiết bị, dụng cụ phục vụ hoạt động kiểm định theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP
+- 01 Bản chính - Tài liệu chứng minh năng lực hoạt động kiểm định đáp ứng các yêu cầu quy định tại khoản 2 Điều 9 Nghị định số 107/2016/NĐ-CP, cụ thể như sau: + Trường hợp tổ chức kiểm định đã được tổ chức chứng nhận cấp Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 hoặc đã được tổ chức công nhận quy định tại Điều 21 Nghị định số 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định số 107/2016/NĐ-CP công nhận hoạt động kiểm định phù hợp tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với lĩnh vực chuyên ngành, tổ chức kiểm định nộp bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 hoặc bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận. + Trường hợp tổ chức kiểm định chưa được công nhận, chưa được chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008, tổ chức kiểm định nộp các tài liệu, quy trình kiểm định và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 9 Nghị định số 107/2016/NĐ-CP.
+- 01 Bản chính Mẫu Giấy chứng nhận kiểm định
+- 01 Bản chính Danh sách kiểm định viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao các bằng cấp, chứng chỉ đào tạo tương ứng theo quy định tại khoản 3 Điều 9 Nghị định số 107/2016/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8dcd5e8bcf45c'">Mẫu số 02.doc</a>)
+- 01 Bản chính - Danh mục các máy móc, thiết bị, dụng cụ phục vụ hoạt động kiểm định theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8042deab02318'">Mẫu số 04.doc</a>)
+- 01 Bản chính Đơn đăng ký hoạt động kiểm định theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4332d1d0a0322'">Mẫu số 01.doc</a>)

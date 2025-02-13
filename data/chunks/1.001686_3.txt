@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Ngày làm việc|Phí : Kiểm tra điều kiện cơ sở buôn bán thuốc thú y, thuốc thú y thủy sản: 230.000đ/lần|08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|8 Ngày làm việc|Phí : 230.000 Đồng Kiểm tra điều kiện cơ sở buôn bán thuốc thú y, thuốc thú y thủy sản: 230.000đ/lần|08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ|

@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003414
+Số quyết định:
+1299/QĐ-BNN-KHCN
+Tên thủ tục:
+Cấp lại Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nông nghiệp
+Trình tự thực hiện:
+a) Bước 1: Nộp và tiếp nhận hồ sơ
+Tổ chức, có nhu cầu cấp lại Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông thôn (trong trường hợp Giấy chứng nhận còn hiệu lực, bị mất, hư hỏng, hay thay đổi tên, địa chỉ của tổ chức hoặc trước 60 ngày Giấy chứng nhận hết hiệu lực 60), lập 01 bộ hồ sơ và nộp theo một trong các hình thức sau:
++Nộp hồ sơ trực tiếp tại trụ sở của các Tổng cục, Cục:các chứng chỉ, tài liệu chưa được chứng thực từ bản chính, thì phải xuất trình bản chính để đối chiếu.
++Nộp hồsơ qua đường bưu điện:gửi bảnsao các chứng chỉ, tài liệu đã được chứng thực từ bản chính.
++ Nộp hồ sơ qua Cổng thông tin điện tử của các Tổng cục, Cục: thực hiện theohình thức dịch vụ công trực tuyến.
+b) Bước 2: Thẩm xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận
+Trường hợp Giấy chứng nhận còn hiệu lực, bị mất, hư hỏng, hay thay đổi tên, địa chỉ của tổ chức: trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan tiếp nhận hồ sơ chịu trách nhiệm cấp lại Giấy chứng nhận cho tổ chức thử nghiệm. Trường hợp không đáp ứng được yêu cầu cơ quan tiếp nhận hồ sơ thông báo bằng văn bản và nêu rõ lý do;
+Trường hợp trước khi giấy chứng nhận hết hiệu lực 60 ngày:
+Hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ phải thông báo bằng văn bản yêu cầu tổ chức thử nghiệm sửa đổi bổ sung;
+Hồ sơ đầy đủ, hợp lệ, trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức thử nghiệm theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||- 15 ngày làm việc đối với giấy hết hiệu lực. - 06 ngày làm việc đối với bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của tổ chức|
+|Trực tuyến|15 Ngày làm việc||- 15 ngày làm việc đối với giấy hết hiệu lực. - 06 ngày làm việc đối với bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của tổ chức|
+|Dịch vụ bưu chính|15 Ngày làm việc||- 15 ngày làm việc đối với giấy hết hiệu lực. - 06 ngày làm việc đối với bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của tổ chức|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Thành phần hồ sơ đối với trường hợp trước khi giấy chứng nhận hết hiệu lực 60 ngày: - Đơn đăng ký hoạt động thử nghiệm theoMẫu số 01 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP -Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư; - Danh sách thử nghiệm viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP và các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành. - Danh sách máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phục vụ hoạt động thử nghiệm đối với lĩnh vực thử nghiệm đăng ký theoMẫu số 04 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP; - Tài liệu chứng minh năng lực hoạt động thử nghiệm đáp ứng các yêu cầu cụ thể như sau: Đối với tổ chức thử nghiệm đã được công nhận: nộp bản sao Chứng chỉ công nhận đáp ứng tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành kèm theo phạm vi được công nhận. Đối với tổ chức thử nghiệm chưa được công nhận: nộp các tài liệu, quy trình thử nghiệm và các tài liệu khác liên quan để chứng minh năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành. - Mẫu Phiếu kết quả thử nghiệm. b) Thành phần hồ sơ đối với trường hợp Giấy chứng nhận còn hiệu lực nhưng bị mất, hư hỏng hoặc thay đổi tên, địa chỉ của tổ chức 1)Đơnđề nghị cấp lại Giấy chứng nhận đăng kýhoạtđộngthửnghiệmtheoMẫu số 06tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP; 2)Bản chính Giấy chứng nhận bị hư hỏng (nếu có) đối với trường hợp Giấy chứng nhận bị hư hỏng;
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Nông nghiệp và Phát triển nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động thử nghiệm (thời hạn hiệu lực:ghi theo Giấy chứng nhận đăng ký hoạt động thử nghiệm đã cấp).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|107/2016/NĐ-CP|Nghị định 107/2016/NĐ-CP|01-07-2016||
+
+Yêu cầu, điều kiện thực hiện:
+- Được thành lập theo quy định của pháp luật;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+-Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+-Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp với lĩnh vực hoạt động thử nghiệm tương ứng;
+- Được thành lập theo quy định của pháp luật;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+-Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+-Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp với lĩnh vực hoạt động thử nghiệm tương ứng;
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

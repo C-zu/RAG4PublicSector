@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục lựa chọn Ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Nếu hồ sơ chưa đầy đủ, trong thời hạn ba (03) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản thông báo cho ngân hàng bổ sung hồ sơ; Nếu hồ sơ không đáp ứng điều kiện quy định, trong thời hạn năm (05) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản trả lời cho ngân hàng; Nếu hồ sơ đầy đủ, đáp ứng các điều kiện quy định, trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Tài chính (Tổng cục Hải quan) có văn bản thông báo ngân hàng thương mại đủ điều kiện tham gia đại lý hoàn thuế giá trị gia tăng và cấp tài khoản truy cập Hệ thống cho ngân hàng thương mại.||Nộp hồ sơ trực tiếp tại cơ quan hải quan hoặc thông qua đường bưu chính|

@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận bảng kê gỗ nhập khẩu khi thực hiện thủ tục Hải quan
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|2 Giờ|Phí : 20000 Đồng|Ngay sau khi hoàn thành thủ tục thông quan (Hoàn thành việc kiểm tra hồ sơ chậm nhất là 02 giờ làm việc kể từ thời điểm cơ quan hải quan tiếp nhận đầy đủ hồ sơ hải quan);|
+|Trực tuyến|8 Giờ|Phí : 20000 Đồng|Ngay sau khi hoàn thành thủ tục thông quan (Hoàn thành việc kiểm tra thực tế hàng hoá chậm nhất là 08 giờ làm việc kể từ thời điểm người khai hải quan xuất trình đầy đủ hàng hoá cho cơ quan hải quan. Trường hợp hàng hóa thuộc đối tượng kiểm tra chuyên ngành về chất lượng, y tế, văn hóa, kiểm dịch động vật, thực vật, an toàn thực phẩm theo quy định của pháp luật có liên quan thì thời hạn hoàn thành kiểm tra thực tế hàng hóa được tính từ thời điểm nhận được kết quả kiểm tra chuyên ngành theo quy định.)|
+|Trực tuyến|2 Ngày|Phí : 20000 Đồng|Ngay sau khi hoàn thành thủ tục thông quan Trường hợp lô hàng có số lượng lớn, nhiều chủng loại hoặc việc kiểm tra phức tạp thì Thủ trưởng cơ quan hải quan nơi làm thủ tục hải quan quyết định việc gia hạn thời gian kiểm tra thực tế hàng hóa, nhưng thời gian gia hạn tối đa không quá 02 ngày.|

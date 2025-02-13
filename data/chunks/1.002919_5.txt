@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục biên phòng điện tử cửa khẩu biên giới đất liền đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Cơ quan có thẩm quyền:
+Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản điện tử xác nhận hoàn thành khai báo thủ tục biên phòng điện tử đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2019/QĐ-TTg|Quyết định 15/2019/QĐ-TTg - Về việc thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý|28-03-2019|Thủ tướng Chính phủ|
+|112/2014/NĐ-CP|Nghị định 112/2014/NĐ-CP - Quy định về quản lý cửa khẩu biên giới đất liền|21-11-2014|Chính phủ|

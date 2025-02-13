@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam, vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

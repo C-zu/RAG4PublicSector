@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục phê duyệt mẫu phương tiện đo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản đăng ký phê duyệt mẫu phương tiện đo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefe8bf12edaacd'">Mẫu 1.docx</a>)
+- 01 Bản chính Bộ tài liệu kỹ thuật của mẫu. Tài liệu phải nêu rõ: Nguyên lý hoạt động, sơ đồ nguyên lý cấu trúc, hướng dẫn sử dụng; các kết cấu quan trọng ảnh hưởng tới đặc tính kỹ thuật đo lường chính của mẫu; vị trí các cơ cấu đặt và điều chỉnh thông số kỹ thuật đo lường chính của mẫu; vị trí để dán tem, đóng dấu kiểm định, niêm phong và các đặc điểm khác nếu có trên mẫu; vị trí cơ cấu hoặc tính năng kỹ thuật thực hiện ngăn ngừa tác động làm thay đổi đặc tính kỹ thuật đo lường chính của mẫu trong sử dụng (tiếng Việt hoặc tiếng Anh hoặc cả 2 thứ tiếng).
+- 01 Bản chính Bộ ảnh mầu của mẫu và đĩa CD chứa bộ ảnh này. Bộ ảnh gồm: Một (01) ảnh tổng thể của mẫu; các ảnh mặt trước (mặt thể hiện kết quả đo), mặt sau, mặt trên, mặt dưới (nếu có), bên phải, bên trái của mẫu; các ảnh chụp riêng thể hiện thông tin về ký mã hiệu, kiểu và đặc trưng đặctính kỹ thuật đo lường chính của mẫu; bảng mạch điện tử (nếu có), các phím vận hành; vị trí nhãn hàng hóa của mẫu, vị trí dán tem, dấu kiểm định; các vị trí niêm phong trên mẫu; các bộ phận khác có ảnh hưởng trực tiếp tới các đặc tính kỹ thuật đo lường chính của mẫu. Các ảnh phải cùng kích cỡ tối thiểu 100 mm × 150 mm nhưng không lớn hơn 210 mm × 297 mm, được gắn hoặc in mầu trên giấy khổ A4 đóng thành tập. Ảnh chụp phải rõ ràng, chính xác thông tin về đặc tính kỹ thuật đo lường chính của mẫu và bảo đảm yêu cầu so sánh, đối chiếu, kiểm tra sự phù hợp của phương tiện đo được sản xuất hoặc nhập khẩu so với mẫu đã phê duyệt.
+- 01 Bản chính Bản cam kết về chương trình phần mềm của phương tiện đo (áp dụng cho trường hợp phương tiện đo được vận hành, điều khiển theo chương trình phần mềm)
+- 01 Bản chính Bộ hồ sơ kết quả thử nghiệm, đánh giá mẫu. Trường hợp cơ sở có đề nghị miễn, giảm thử nghiệm mẫu trong đăng ký phê duyệt mẫu phương tiện đo, bộ hồ sơ gồm các tài liệu liên quan đến việc miễn, giảm thử nghiệm theo quy định.
+- 01 Bản chính, 01 Bản sao - Danh mục tài liệu về việc xây dựng và áp dụng biện pháp quản lý, kỹ thuật để bảo đảm phương tiện đo được sản xuất hoặc nhập khẩu phù hợp với mẫu đã phê duyệt.

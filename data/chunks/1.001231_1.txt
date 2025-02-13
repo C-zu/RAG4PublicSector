@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy phép lập Văn phòng đại diện cho các tổ chức hợp tác, nghiên cứu của nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001231
+Số quyết định:
+2732/QĐ-BNG
+Tên thủ tục:
+Cấp Giấy phép lập Văn phòng đại diện cho các tổ chức hợp tác, nghiên cứu của nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động của các tổ chức hợp tác, nghiên cứu song phương

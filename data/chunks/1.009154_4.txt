@@ -1,0 +1,8 @@
+Tên thủ tục: Tham vấn ý kiến trong quá trình thực hiện đánh giá tác động môi trường (UBND cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Một (01) văn bản đề nghị cho ý kiến theo mẫu quy định tại Phụ lục 2.1 kèm theo dưới đây. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cb5a1c00afcf'">PL 6.1-Mau van ban de nghi cho y kien.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd753644f1edcbc'">PL 6.2-Mau van ban phan hoi cho y kien.doc</a>)
+- 01 Bản chính 2. Một (01) bản báo cáo đánh giá tác động môi trường và các tài liệu liên quan.

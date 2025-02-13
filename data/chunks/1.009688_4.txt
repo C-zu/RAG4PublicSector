@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định hồ sơ mời thầu, hồ sơ yêu cầu trong lựa chọn Nhà đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị phê duyệt HSMT, HSYC của bên mời thầu;
+- 01 Bản chính Dự thảo HSMT, HSYC theo mẫu BM.LCNĐT.03.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9b6419f4d51a1'">mẫu.docx</a>)
+- 01 Bản sao Bản sao các tài liệu: Quyết định phê duyệt kế hoạch lựa chọn nhà đầu tư; văn bản phê duyệt kết quả sơ tuyển (nếu có); Tài liệu khác có liên quan.

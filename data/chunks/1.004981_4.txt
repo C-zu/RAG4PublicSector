@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận cơ sở bảo hành, bảo dưỡng ô tô (thuộc đối tượng của Nghị định 116/2017/NĐ-CP)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận cơ sở bảo hành, bảo dưỡng ô tô theo mẫu (bản chính) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6bc5a51276638'">01.1Mẫu.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương (bản sao)
+- 01 Bản chính Bản kê khai năng lực cơ sở vật chất của cơ sở bảo hành, bảo dưỡng ô tô theo mẫu (bản chính) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea5ee41c1d4fb3'">01.2Mẫu.docx</a>)
+- 01 Bản sao ài liệu chứng minh cơ sở bảo hành, bảo dưỡng ô tô đáp ứng đủ các điều kiện sau (bản sao): + Nhà xưởng được xây dựng trên khu đất thuộc quyền sử dụng hợp pháp của doanh nghiệp; + Có thiết bị chẩn đoán động cơ, tình trạng kỹ thuật của xe (đối với ô tô có trang bị bộ điều khiển điện tử) phù hợp với các loại xe do cơ sở thực hiện bảo hành, bảo dưỡng. Phần mềm thiết bị chẩn đoán phải tuân thủ các quy định về sở hữu trí tuệ; + Có cam kết về việc hỗ trợ kỹ thuật và cung cấp linh kiện, phụ kiện phục vụ việc bảo hành, bảo dưỡng ô tô của: Doanh nghiệp sản xuất, lắp ráp ô tô trong nước (trong trường hợp cung cấp dịch vụ bảo hành, bảo dưỡng cho doanh nghiệp sản xuất, lắp ráp ô tô trong nước); hoặc Doanh nghiệp sản xuất, lắp ráp ô tô nước ngoài (trong trường hợp cung cấp dịch vụ bảo hành, bảo dưỡng cho doanh nghiệp nhập khẩu ô tô) + Có đủ nhân lực, phương án bảo đảm an toàn, vệ sinh lao động theo quy định của pháp luật về an toàn, vệ sinh lao động; + Đáp ứng đủ điều kiện an toàn về phòng cháy và chữa cháy, phương án chữa cháy theo quy định của pháp luật phòng cháy, chữa cháy. + Có đủ các hồ sơ về bảo vệ môi trường đã được cơ quan có thẩm quyền phê duyệt theo quy định của pháp luật về bảo vệ môi trường.

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận mức tiêu thụ nhiên liệu đối với xe ô tô con loại từ 07 chỗ trở xuống được sản xuất, lắp ráp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản đăng ký mức tiêu thụ nhiên liệu của kiểu loại xe theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc2a9499ed34f94'">mau 1.doc</a>)
+- 01 Bản chính Bản chính báo cáo thử nghiệm mức tiêu thụ nhiên liệu do cơ sở thử nghiệm cấp theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb91bded0964898'">mẫu 2.doc</a>)

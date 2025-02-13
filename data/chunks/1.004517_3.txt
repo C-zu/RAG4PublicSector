@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung quảng cáo thuốc thông qua phương tiện tổ chức hội thảo, hội nghị, sự kiện giới thiệu thuốc
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 1.600.000 Đồng phí xác nhận nội dung quảng cáo thuốc. phí cho 1 hồ sơ|10 (mười) ngày, kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|10 Ngày|Phí : 1.600.000 Đồng phí xác nhận nội dung quảng cáo thuốc. phí cho 1 hồ sơ|10 (mười) ngày, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|10 Ngày|Phí : 1.600.000 Đồng phí xác nhận nội dung quảng cáo thuốc. phí cho 1 hồ sơ|10 (mười) ngày, kể từ ngày nhận đủ hồ sơ|

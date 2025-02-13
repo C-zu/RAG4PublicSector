@@ -1,0 +1,7 @@
+Tên thủ tục: Chấm dứt hoạt động liên kết giáo dục theo đề nghị của các bên liên kết
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị chấm dứt liên kết giáo dục với nước ngoài theo Mẫu số 05 của Phụ lục Nghị định số 86/2018/NĐ-CP trong đó nêu rõ lý do chấm dứt, kèm theo phương án chấm dứt liên kết, các biện pháp đảm bảo quyền lợi hợp pháp của người học, người lao động, phương án giải quyết tài chính, tài sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fded6db2f9c400a'">PHỤ LỤC.docx</a>)

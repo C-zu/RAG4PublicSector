@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/ điều chỉnh Báo cáo nghiên cứu khả thi đầu tư xây dựng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/điều chỉnh Báo cáo nghiên cứu khả thi đầu tư xây dựng
+- 01 Bản chính - Tờ trình thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/điều chỉnh Báo cáo nghiên cứu khả thi đầu tư xây dựng theo Mẫu số 1 Phụ lục I Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9b723ba81ea48'">To_trinh tham_dinh, dieu chinh bao cao nghien cuu kha thi dau tu xay dung.docx</a>)
+- 01 Bản sao - Văn bản về chủ trương đầu tư xây dựng công trình theo quy định pháp luật về đầu tư, đầu tư công, đầu tư theo phương thức đối tác công tư;
+- 01 Bản sao - Quyết định lựa chọn phương án thiết kế kiến trúc thông qua thi tuyển theo quy định và phương án thiết kế được lựa chọn kèm theo (nếu có yêu cầu);
+- 01 Bản sao Văn bản/quyết định phê duyệt và bản vẽ kèm theo (nếu có) của một trong các loại quy hoạch sau đây: Quy hoạch chi tiết xây dựng được cấp có thẩm quyền phê duyệt; quy hoạch có tính chất kỹ thuật chuyên ngành khác theo quy định của pháp luật về quy hoạch; phương án tuyến công trình, vị trí công trình được cơ quan nhà nước có thẩm quyền chấp thuận; quy hoạch phân khu xây dựng đối với trường hợp không có yêu cầu lập quy hoạch chi tiết xây dựng
+- 01 Bản chính Các văn bản ý kiến về giải pháp phòng cháy, chữa cháy của thiết kế cơ sở; kết quả thực hiện thủ tục về đánh giá tác động môi trường theo quy định của pháp luật về bảo vệ môi trường gửi trước thời hạn thông báo kết quả thẩm định
+- 01 Bản sao Danh sách các nhà thầu kèm theo mã số chứng chỉ năng lực của nhà thầu khảo sát, nhà thầu lập thiết kế cơ sở, nhà thầu thẩm tra (nếu có); mã số chứng chỉ hành nghề hoạt động xây dựng của các chức danh chủ nhiệm khảo sát xây dựng; chủ nhiệm, chủ trì các bộ môn thiết kế, lập tổng mức đầu tư; chủ nhiệm, chủ trì thẩm tra
+- 01 Bản chính Hồ sơ khảo sát xây dựng được phê duyệt; thuyết minh Báo cáo nghiên cứu khả thi đầu tư xây dựng; thiết kế cơ sở hoặc thiết kế khác theo thông lệ quốc tế phục vụ lập báo cáo nghiên cứu khả thi đầu tư xây dựng (gồm bản vẽ và thuyết minh); danh mục tiêu chuẩn chủ yếu áp dụng cho dự án
+- 01 Bản chính Đối với dự án sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công có yêu cầu xem xét tổng mức đầu tư, hồ sơ trình thẩm định còn phải có các nội dung sau: tổng mức đầu tư; các thông tin, số liệu về giá, định mức có liên quan; báo giá, kết quả thẩm định giá (nếu có);
+- 01 Bản sao Các văn bản thỏa thuận, xác nhận về đấu nối hạ tầng kỹ thuật của dự án (nếu có)
+- 01 Bản sao Các tài liệu, văn bản pháp lý có liên quan (nếu có)

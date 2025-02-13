@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc Trung ương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày|Phí : - Phí thẩm định: Khu vực thành phố, thị xã: 1.200.000 đồng/lần thẩm định; Các khu vực khác: 600.000 đồng/lần thẩm định. - Lệ phí: Không. Đồng||
+|Trực tuyến|05 Ngày|Phí : Phí thẩm định: Khu vực thành phố, thị xã: 1.200.000 đồng/lần thẩm định; Các khu vực khác: 600.000 đồng/lần thẩm định Đồng||
+|Dịch vụ bưu chính|05 Ngày|Phí : Phí thẩm định: Khu vực thành phố, thị xã: 1.200.000 đồng/lần thẩm định; Các khu vực khác: 600.000 đồng/lần thẩm định Đồng||

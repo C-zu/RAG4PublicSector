@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh quyết định chủ trương đầu tư của Ban Quản lý KKT tỉnh Hà Tĩnh Khu kinh tế tỉnh Hà Tĩnh - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|25 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|25 Ngày làm việc|Phí : 0 Đồng||

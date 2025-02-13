@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế ô tô thuộc đối tượng của Nghị định 116/2017/NĐ-CP
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Thẩm định hồ sơ thiết kế mới (Trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến: nộp 01 bộ hồ sơ thiết kế dạng điện tử; Trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế, cơ sở thiết kế nộp thêm 01 Bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật (02 bản nếu cơ sở thiết kế khác cơ sở sản xuất))
+- 01 Bản chính - Đơn đề nghị thẩm định thiết kế ô tô theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd00a57c3c42b4c'">M1.1.docx</a>)
+- 01 Bản chính - Bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe001f2161d08c2'">M1.2.docx</a>)
+- 01 Bản sao - Bản sao bản thông số, tính năng kỹ thuật của các tổng thành, hệ thống liên quan tới nội dung tính toán thiết kế.
+
+
+b) Thẩm định lại hồ sơ thiết kế khi có sự thay đổi, bổ sung, sửa đổi hồ sơ thiết kế so với hồ sơ thiết kế đã được thẩm định nhưng vẫn đáp ứng về sản phẩm cùng kiểu loại được quy định tại Phụ lục I ban hành kèm theo Thông tư 25/2019/TT-BGTVT; khi có sự thay đổi của tiêu chuẩn, quy chuẩn kỹ thuật trừ trường hợp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của kiểu loại sản phẩm đã được cấp vẫn còn hiệu lực (Trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến: nộp 01 bộ hồ sơ thiết kế dạng điện tử; Trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế, cơ sở thiết kế nộp thêm 01 Bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật (02 bản nếu cơ sở thiết kế khác cơ sở sản xuất))
+- 01 Bản chính - Đơn đề nghị thẩm định thiết kế ô tô theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe843e8ed7ec858'">M1.1.docx</a>)
+- 01 Bản chính - Bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật theo quy định (liên quan đến các nội dung thay đổi); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc1322b74efba0'">M1.2.docx</a>)
+- 01 Bản sao - Bản sao bản thông số, tính năng kỹ thuật của các tổng thành, hệ thống liên quan tới nội dung tính toán thiết kế (liên quan đến các nội dung thay đổi).

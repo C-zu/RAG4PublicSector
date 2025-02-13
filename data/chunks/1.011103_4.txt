@@ -1,0 +1,17 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh (SCT)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình thẩm định Thiết kế xây dựng triển khai sau thiết kế cơ sở/ Thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh theo mẫu BM.TĐXD.02.01. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc47338191a3e6'">BM.HĐXD.02.01.doc</a>)
+- 01 Bản sao Quyết định phê duyệt dự án đầu tư xây dựng công trình kèm theo Báo cáo nghiên cứu khả thi đầu tư xây dựng được phê duyệt.
+- 01 Bản sao Văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có)
+- 01 Bản sao Văn bản thẩm duyệt thiết kế phòng cháy chữa cháy, kết quả thực hiện thủ tục về đánh giá tác động môi trường hoặc giấy phép môi trường (nếu có yêu cầu theo quy định của pháp luật về phòng cháy và chữa cháy, bảo vệ môi trường). Lưu ý: Thủ tục về phòng cháy và chữa cháy được thực hiện theo nguyên tắc đồng thời, không bắt buộc xuất trình tại thời điểm trình hồ sơ thẩm định, song phải có kết quả gửi cơ quan chuyên môn về xây dựng trước thời hạn thông báo kết quả thẩm định 05 ngày làm việc
+- 01 Bản chính Hồ sơ khảo sát xây dựng được chủ đầu tư phê duyệt .
+- 01 Bản chính Hồ sơ thiết kế kỹ thuật, thiết kế bản vẽ thi công: Thuyết minh thiết kế; bản vẽ thiết kế .
+- 01 Bản sao Mã số chứng chỉ năng lực hoạt động xây dựng của nhà thầu khảo sát, nhà thầu lập thiết kế xây dựng, nhà thầu thẩm tra .
+- 01 Bản sao Mã số chứng chỉ hành nghề hoạt động xây dựng của các chức danh chủ nhiệm khảo sát xây dựng; chủ nhiệm, chủ trì các bộ môn thiết kế; chủ nhiệm, chủ trì thẩm tra .
+- 01 Bản sao Hồ sơ dự toán xây dựng (đối với các công trình sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công có yêu cầu thẩm định dự toán xây dựng); các thông tin, số liệu về giá, định mức có liên quan để xác định dự toán xây dựng; báo giá, kết quả thẩm định giá (nếu có) .
+- 01 Bản sao Giấy phép hoạt động xây dựng của nhà thầu nước ngoài (nếu có) .
+- 01 Bản sao Đối với điều chỉnh thiết kế triển khai sau thiết kế cơ sở ngoài các thành phần hồ sơ nêu trên, chủ đầu tư phải nộp báo cáo tình hình thực tế thi công xây dựng công trình (trường hợp công trình đã thi công xây dựng) .

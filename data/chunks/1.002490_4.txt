@@ -1,0 +1,9 @@
+Tên thủ tục: Giao tuyến dẫn tàu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceceea8b6f9380'">mẫu.doc</a>)
+- 01 Bản chính, 01 Bản sao Danh sách hoa tiêu kèm theo bản sao Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải và bản sao Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải của từng hoa tiêu
+- 01 Bản chính, 01 Bản sao - Bản kê khai phương tiện đưa, đón hoa tiêu kèm theo bản sao Giấy chứng nhận đăng ký của phương tiện đó.

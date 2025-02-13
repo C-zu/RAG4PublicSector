@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại giấy phép nhập khẩu thủy sản sống đối với trường hợp phải đánh giá rủi ro
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 ngày (đối với trường hợp cấp mới), 05 ngày (đối với trường hợp cấp lại) kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia (nếu có).|
+|Trực tuyến|30 ngày (đối với trường hợp cấp mới), 05 ngày (đối với trường hợp cấp lại) kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia (nếu có).|
+|Dịch vụ bưu chính|30 ngày (đối với trường hợp cấp mới), 05 ngày (đối với trường hợp cấp lại) kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia (nếu có).|

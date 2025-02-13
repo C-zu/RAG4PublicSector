@@ -1,0 +1,18 @@
+Tên thủ tục: Thẩm định, phê duyệt Hồ sơ mời thầu/Hồ sơ yêu cầu/Hồ sơ mời quan tâm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị thẩm định, phê duyệt Hồ sơ mời thầu/Hồ sơ yêu cầu/Hồ sơ mời quan tâm của tổ chức;
+- 01 Bản chính 2. Quyết định phê duyệt dự án hoặc Quyết định của người đứng đầu chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án (trong trường hợp chưa xác định được chủ đầu tư đối với gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án)
+- 01 Bản chính 3. Quyết định phê duyệt dự án điều chỉnh (nếu có)
+- 01 Bản chính 4. Quyết định phê duyệt kế hoạch lựa chọn nhà thầu;
+- 01 Bản chính 5. Quyết định phê duyệt kế hoạch lựa chọn nhà thầu điều chỉnh (nếu có);
+- 01 Bản chính 6. Hiệp định, hợp đồng vay vốn (nếu có)
+- 01 Bản chính 7. Tài liệu về thiết kế kèm theo dự toán được duyệt đối với gói thầu xây lắp hoặc yêu cầu về đặc tính, thông số kỹ thuật của hàng hóa (nếu có) đối với gói thầu mua sắm hàng hóa hoặc điều khoản tham chiếu đối với gói thầu tư vấn
+- 01 Bản chính 8. Các văn bản về việc điều chỉnh các tài liệu nêu trên (nếu có)
+- 01 Bản chính 9. Văn bản cho phép thực hiện theo hình thức lựa chọn nhà thầu hạn chế hoặc chỉ định thầu (nếu có).
+- 01 Bản chính 10. Bản vẽ thiết kế thi công, dự toán hoặc chứng từ thẩm định giá được duyệt và các văn bản pháp lý khác có liên quan.
+- 01 Bản chính 11. Đĩa CD gồm các file: toàn bộ bản vẽ thiết kế thi công, hồ sơ mời thầu, tiên lượng mời thầu;
+- 01 Bản chính 12. Hồ sơ mời thầu/ Hồ sơ yêu cầu/ Hồ sơ mời quan tâm (đối với lựa chọn nhà thầu rộng rãi và hạn chế) có chữ ký và đóng dấu của Tổ chức.

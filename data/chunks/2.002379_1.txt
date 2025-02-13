@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp chứng chỉ nhân viên bức xạ (đối với người phụ trách an toàn cơ sở X-quang chẩn đoán trong y tế).
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002379
+Số quyết định:
+1915/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp chứng chỉ nhân viên bức xạ (đối với người phụ trách an toàn cơ sở X-quang chẩn đoán trong y tế).
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân

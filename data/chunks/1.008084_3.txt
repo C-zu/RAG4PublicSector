@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục xét hỗ trợ doanh nghiệp, hợp tác xã áp dụng công cụ cải tiến năng suất chất lượng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Khoa học và Công nghệ tại Trung tâm phục vụ hành chính công tỉnh Bắc Giang.|

@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Quản lý mật mã dân sự và Kiểm định sản phẩm mật mã/Ban Cơ yếu Chính phủ
+Cơ quan có thẩm quyền:
+Ban Cơ yếu Chính phủ
+Địa chỉ tiếp nhận HS:
+Số 43 Ngụy Như Kon Tum, phường Nhân Chính, quận Thanh Xuân, TP. Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được cấp lại
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2016/NĐ-CP|Nghị định 58/2016/NĐ-CP|01-07-2016|Chính phủ|
+|86/2015/QH13|LUẬT AN TOÀN THÔNG TIN MẠNG 2015|19-11-2015|Văn phòng Quốc hội|

@@ -1,0 +1,9 @@
+Tên thủ tục: Chấp thuận đăng ký niêm yết chứng khoán của tổ chức phát hành nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Trường hợp Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu bị mất, bị cháy, bị tiêu hủy dưới hình thức khác, thương nhân phải lập hồ sơ gửi về Bộ Công Thương đề nghị cấp lại Giấy xác nhận. Hồ sơ gồm:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu theo Mẫu số 1 tại Phụ lục kèm theo Nghị định số 95/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c889c050d6c8'">Mẫu số 1.doc</a>)
+- 01 Bản chính - Bản gốc hoặc bản sao Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu (nếu có).

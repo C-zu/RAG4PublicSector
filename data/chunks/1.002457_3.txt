@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn giấy đăng ký lưu hành dược liệu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|6 Tháng|Phí : 4.500.000 Đồng|Trong thời hạn 06 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ xem xét phê duyệt danh mục dược liệu gia hạn giấy đăng ký lưu hành.|
+|Trực tuyến|6 Tháng|Phí : 4.500.000 Đồng|Trong thời hạn 06 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ xem xét phê duyệt danh mục dược liệu gia hạn giấy đăng ký lưu hành.|
+|Dịch vụ bưu chính|6 Tháng|Phí : 4.500.000 Đồng|Trong thời hạn 06 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ xem xét phê duyệt danh mục dược liệu gia hạn giấy đăng ký lưu hành.|

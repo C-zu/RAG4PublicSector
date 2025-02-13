@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp điều chỉnh Giấy chứng nhận đủ điều kiện sản xuất hoá chất sản xuất, kinh doanh có điều kiện trong ngành công nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện sản xuất hóa chất sản xuất, kinh doanh có điều kiện trong lĩnh vực công nghiệp theo mẫu BM.HC.03.01 ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe47834ec8487e5'">BM.HC.03.01.doc</a>)
+- 01 Bản chính Giấy chứng nhận đủ điều kiện đã được cấp; giấy tờ, tài liệu chứng minh việc đáp ứng được điều kiện sản xuất đối với các nội dung điều chỉnh.

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục gia hạn hiệu lực của quyết định phê duyệt mẫu phương tiện đo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị gia hạn hiệu lực của quyết định phê duyệt mẫu phương tiện đo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc536f4c6aed050'">Mẫu 5. ĐNGHPDM.doc</a>)
+- 01 Bản sao Bản sao (có xác nhận sao y bản chính của cơ sở) quyết định phê duyệt mẫu.

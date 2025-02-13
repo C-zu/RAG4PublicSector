@@ -1,0 +1,12 @@
+Tên thủ tục: Phê duyệt hoặc điều chỉnh Phương án tạm sử dụng rừng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|12 Ngày làm việc||Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh: 12 ngày làm việc, kể từ ngày Sở Nông nghiệp và Phát triển nông thôn nhận được hồ sơ hợp lệ.|
+|Trực tiếp|20 Ngày làm việc||Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành chủ quản: 20 ngày làm việc, kể từ ngày Sở Nông nghiệp và Phát triển nông thôn nhận được hồ sơ hợp lệ.|
+|Trực tuyến|12 Ngày làm việc||Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh: 12 ngày làm việc, kể từ ngày Sở Nông nghiệp và Phát triển nông thôn nhận được hồ sơ hợp lệ.|
+|Trực tuyến|20 Ngày làm việc||Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành chủ quản: 20 ngày làm việc, kể từ ngày Sở Nông nghiệp và Phát triển nông thôn nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|12 Ngày làm việc||Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh: 12 ngày làm việc, kể từ ngày Sở Nông nghiệp và Phát triển nông thôn nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày làm việc||Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành chủ quản: 20 ngày làm việc, kể từ ngày Sở Nông nghiệp và Phát triển nông thôn nhận được hồ sơ hợp lệ.|

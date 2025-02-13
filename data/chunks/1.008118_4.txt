@@ -1,0 +1,10 @@
+Tên thủ tục: Xuất khẩu giống vật nuôi, sản phẩm giống vật nuôi trong Danh mục giống vật nuôi cấm xuất khẩu phục vụ nghiên cứu khoa học, triển lãm, quảng cáo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký xuất khẩu giống vật nuôi, sản phẩm giống vật nuôi trong Danh mục giống vật nuôi cấm xuất khẩu phục vụ nghiên cứu khoa học, triển lãm, quảng cáo (theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư số 22/2019/TT-BNNPTNT ngày 30 tháng 11 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn một số điều của Luật Chăn nuôi về quản lý giống và sản phẩm giống vật nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf9a23e4f7d770'">Phục lục IV.docx</a>)
+- 01 Bản chính - Lý lịch giống vật nuôi, sản phẩm giống vật nuôi xuất khẩu trong Danh mục giống vật nuôi cấm xuất khẩu phục vụ nghiên cứu khoa học, triển lãm, quảng cáo (theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư số 22/2019/TT-BNNPTNT ngày 30 tháng 11 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn một số điều của Luật Chăn nuôi về quản lý giống và sản phẩm giống vật nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedc1ed419ec026'">Phục lục III Lý lịch.docx</a>)
+- 01 Bản sao - Bản chính hoặc bản sao chứng thực thỏa thuận hợp tác nghiên cứu khoa học, triển lãm, quảng cáo về giống vật nuôi, sản phẩm giống vật nuôi trong Danh mục giống vật nuôi cấm xuất khẩu phục vụ nghiên cứu khoa học, triển lãm, quảng cáo.
+- 01 Bản chính - Các văn bản khác có liên quan đến xuất khẩu giống vật nuôi, sản phẩm giống vật nuôi (nếu có).

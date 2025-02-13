@@ -1,0 +1,12 @@
+Tên thủ tục: Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LNG
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp Giấy chứng nhận đủ điều kiện thương nhân kinh doanh mua bán LPG/LNG/CNG theo Mẫu số 03 tại Phụ lục kèm theo Nghị định 87/2018/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdec05797d2080e'">Mẫu số 03.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp/hợp tác xã/hộ kinh doanh
+- 01 Bản sao Bản sao Giấy chứng nhận kết quả kiểm định kỹ thuật an toàn lao động bồn chứa
+- 01 Bản chính Tài liệu chứng minh đáp ứng các điều kiện về phòng cháy và chữa cháy
+- 01 Bản chính, 01 Bản sao Đối với thương nhân kinh doanh mua bán khí qua đường ống ngoài các giấy tờ quy định tại khoản 2,3,4 Điều 38 Nghị định số 87/NĐ-CP phải bổ sung tài liệu chứng minh có trạm cấp khí đáp ứng các quy định về an toàn theo quy định tại Nghị định 87/2018/NĐ-CP và pháp luật có liên quan.
+- 01 Bản chính, 01 Bản sao Đối với thương nhân kinh doanh mua bán LNG ngoài các giấy tờ quy định tại khoản 2, 3 Điều 38 Nghị định số 87/2018/NĐ-CP phải bổ sung tài liệu chứng minh có trạm cấp LNG đáp ứng các quy định về an toàn theo quy định tại Chương IV Nghị định số 87/2018/NĐ-CP hoặc trạm nạp LNG vào phương tiện vận tải đã được cấp Giấy chứng nhận đủ còn hiệu lực.

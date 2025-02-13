@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp phép xuất khẩu thuốc phải kiểm soát đặc biệt để viện trợ, viện trợ nhân đạo
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004390
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cấp phép xuất khẩu thuốc phải kiểm soát đặc biệt để viện trợ, viện trợ nhân đạo
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

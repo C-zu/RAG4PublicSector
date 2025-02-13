@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký thương nhân hoạt động thương mại biên giới Việt Nam - Lào
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Xác nhận đăng ký hoàn thành và công bố: 5 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Xác nhận đăng ký hoàn thành và công bố: 5 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký đầy đủ, hợp lệ.|

@@ -1,0 +1,15 @@
+Tên thủ tục: Tiếp nhận công bố hợp quy đối với sản phẩm chuyên ngành công nghệ thông tin và truyền thông sản xuất trong nước bắt buộc phải công bố hợp quy
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tổ chức, cá nhân thực hiện công bố hợp quy theo trình tự sau:
+Bước 1: Tự đánh giá sự phù hợp của sản phẩm với quy chuẩn tương ứng theo các bước:
++ Kiểm tra tính phù hợp của kết quả đo kiểm để đảm bảo kết quả đo kiểm của đơn vị đo kiểm có đủ thẩm quyền theo quy định tại khoản 2, Điều 5 Thông tư số 30/2011/TT-BTTTT được sửa đổi, bổ sung tại khoản 1, Điều 1 Thông tư số 15/2018/TT-BTTTT.
++ Tự đánh giá sự phù hợp của mẫu sản phẩm trên cơ sở so sánh kết quả đo kiểm với các chỉ tiêu của Quy chuẩn kỹ thuật tương ứng.
+Bước 2: Đăng ký mẫu dấu hợp quy (Phụ lục VI Thông tư số 30/2011/TT-BTTTT).
+Bước 3: Lập hồ sơ đăng ký công bố hợp quy theo quy định tại khoản 1 Điều 17 của Thông tư 30/2011/TT-BTTTT được sửa đổi tại khoản 4 Điều 1 Thông tư số 10/2020/TT-BTTTT và gửi hồ sơ đến cơ quan tiếp nhận công bố hợp quy.
+Bước 4: Tổ chức, cá nhân được Thông báo tiếp nhận Bản công bố hợp quy trong thời gian năm (05) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp không tiếp nhận Bản công bố hợp quy, cơ quan tiếp nhận hồ sơ có trách nhiệm thông báo bằng văn bản cho tổ chức, cá nhân đăng ký công bố hợp quy về những nội dung chưa phù hợp để hoàn thiện và thực hiện lại việc đăng ký công bố hợp quy.
+Tổ chức, cá nhân phải thực hiện lại việc công bố hợp quy trong các trường hợp sau:
++ Thiết kế kỹ thuật của sản phẩm, hàng hóa đã công bố hợp quy thay đổi làm thay đổi chỉ tiêu kỹ thuật của sản phẩm.
++  Nội dung của hồ sơ công bố hợp quy đã đăng ký có sự thay đổi.
+Trình tự thực hiện công bố hợp quy lại giống như đăng ký công bố hợp quy lần đầu.

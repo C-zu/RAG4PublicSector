@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002896
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp do bị mất hoặc cấp đổi do bị hư hỏng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ
+Trình tự thực hiện:
+- Tổ chức, doanh nghiệp nộp hồ sơ cho Tổng cục Công nghiệp quốc phòng (số 28A Điện Biên Phủ, Ba Đình, Hà Nội);
+
+- Tổng cục Công nghiệp quốc phòng thẩm định, cấp Giấy phép sử dụng vật liệu nổ công nghiệp cho tổ chức, doanh nghiệp hoặc có văn bản trả lời trong trường hợp không cấp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Lệ phí : Theo quy định của Bộ Tài chính|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại Tổng cục Công nghiệp quốc phòng 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|05 Ngày làm việc|Lệ phí : Theo quy định của Bộ Tài chính|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại Tổng cục Công nghiệp quốc phòng 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại (hoặc cấp đổi) Giấy phép sử dụng vật liệu nổ công nghiệp (bản chính) ([GIẤY ĐỀ NGHỊ SDVLNCN - mẫu 05.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed96aa13e0295'))
+- 01 Bản sao Bản sao giấy tờ chứng minh đã nộp tiền lệ phí thẩm định cấp phép theo quy định
+- 01 Bản sao Hồ sơ, tài liệu khác có liên quan (nếu có) BQP
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Công nghiệp Quốc phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+28A Điện Biên Phủ, Ba Đình, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng vật liệu nổ công nghiệp hoặc văn bản trả lời đối với trường hợp không cấp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|14/2017/QH14|Luật 14/2017/QH14|20-06-2017|Quốc Hội|
+|71/2018/NĐ-CP|Nghị định 71/2018/NĐ-CP - Quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp và tiền chất thuốc nổ|15-05-2018|Thủ tướng Chính phủ|
+|85/2018/TT-BQP|quy định về quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Quốc phòng.|23-06-2018|Bộ Quốc phòng|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức, doanh nghiệp có Giấy phép sử dụng vật liệu nổ công nghiệp bị mất hoặc bị hư hỏng
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

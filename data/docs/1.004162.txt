@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004162
+Số quyết định:
+1322/QĐ-BGTVT
+Tên thủ tục:
+Công bố đưa luồng hàng hải vào sử dụng đối với trường hợp luồng hàng hải công bố sau thời điểm công bố mở cảng biển hoặc luồng hàng hải được đầu tư mới, công bố lại do điều chỉnh, mở rộng, nâng cấp
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Sau khi hoàn thành việc đầu tư xây dựng mới, điều chỉnh, mở rộng, nâng cấp luồng hàng hải, chủ đầu tư hoặc tổ chức quản lý dự án gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác 01 bộ hồ sơ đề nghị công bố đưa luồng hàng hải vào sử dụng đến Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC:
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ quy định tại khoản này, Cục Hàng hải Việt Nam thực hiện công bố đưa tuyến luồng vào sử dụng theo quy định; trường hợp không đồng ý, Cục Hàng hải Việt Nam phải có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định.|
+|Trực tuyến|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Văn bản đề nghị công bố đưa luồng hàng hải vào sử dụng theo mẫu; ([mẫu tờ khai.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe63be1d268c09c'))
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính biên bản nghiệm thu để đưa công trình đã hoàn thành xây dựng vào sử dụng có kèm theo bản vẽ hoàn công luồng hàng hải, hệ thống báo hiệu hàng hải được đầu tư theo dự án;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính quy trình hướng dẫn khai thác luồng hàng hải bao gồm: Chuẩn tắc luồng, hệ thống báo hiệu hàng hải, thông số tàu thiết kế và các điều kiện khai thác cụ thể khác;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính thông báo hàng hải về các thông số kỹ thuật của luồng hàng hải kèm theo bình đồ của luồng hàng hải; thông báo hàng hải về hệ thống báo hiệu hàng hải được đầu tư theo dự án; biên bản nghiệm thu giữa chủ đầu tư và cơ quan, tổ chức có thẩm quyền về kết quả khảo sát rà quét chướng ngại vật mặt đáy luồng hàng hải và vùng nước liên quan.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng hải VN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Công bố đưa tuyến luồng vào sử dụng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|69/2022/NĐ-CP|Nghị định 69/2022/NĐ-CP|23-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

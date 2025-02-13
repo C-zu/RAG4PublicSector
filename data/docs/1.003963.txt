@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003963
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cấp giấy xác nhận nội dung thông tin thuốc theo hình thức hội thảo giới thiệu thuốc
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị xác nhận nội dung thông tin thuốc nộp hồ sơ đến Sở Y tế;
+Bước 2: Trong thời hạn 10 (mười) ngày, kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ cấp giấy xác nhận theo Mẫu số 06 Phụ lục VI của Nghị định số 54/2017/NĐ-CP. Trường hợp không cấp giấy xác nhận, Sở Y tế phải trả lời bằng văn bản và nêu rõ lý do không cấp;
+Bước 3: Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 10 (mười) ngày kể từ ngày nhận đủ hồ sơ, Sở Y tế có văn bản đề nghị cơ sở sửa đổi, bổ sung nêu cụ thể, chi tiết những tài liệu, nội dung cần sửa đổi, bổ sung;
+Bước 4: Trong thời hạn 10 (mười) ngày, kể từ ngày nhận được hồ sơ sửa đổi, bổ sung theo yêu cầu, Sở Y tế cấp giấy xác nhận theo Mẫu số 06 Phụ lục VI của Nghị định số 54/2017/NĐ-CP hoặc trả lời không cấp giấy xác nhận bằng văn bản và nêu rõ lý do;
+Bước 5: Trong thời hạn 90 (chín mươi) ngày, kể từ ngày Sở Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Nếu quá thời hạn trên, hồ sơ đã nộp không còn giá trị.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 1.600.000 Đồng Phí xác nhận|10 ngày, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|10 Ngày|Phí : 1.600.000 Đồng Phí xác nhận|10 ngày, kể từ ngày nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xác nhận nội dung thông tin thuốc theo hình thức hội thảo giới thiệu thuốc theo Mẫu số 02 Phụ lục VI của Nghị định số 54/2017/NĐ-CP; ([ND54_Mau 02_Phu luc VI.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfde58831d382a'))
+- 02 Bản chính Nội dung thông tin thuốc (Bản chính và được làm thành 02 (hai) bản);
+- 01 Bản sao Mẫu nhãn và tờ hướng dẫn sử dụng thuốc hiện hành đã được Bộ Y tế phê duyệt (Bản sao);
+- 01 Bản chính Tài liệu tham khảo có liên quan đến nội dung thông tin thuốc đề nghị xác nhận (nếu có) (Bản sao có đóng dấu của cơ sở đề nghị xác nhận nội dung thông tin thuốc đối với tài liệu do Bộ Y tế cấp hoặc bản sao có chứng thực đối với tài liệu không do Bộ Y tế cấp);
+- 01 Bản chính Giấy phép thành lập văn phòng đại diện của công ty nước ngoài tại Việt Nam đối với cơ sở nước ngoài đứng tên đề nghị xác nhận nội dung thông tin thuốc (Bản sao có chứng thực) hoặc Giấy chứng nhận đủ điều kiện kinh doanh dược đối với cơ sở kinh doanh dược của Việt Nam đứng tên đề nghị xác nhận nội dung thông tin thuốc (Bản sao có đóng dấu của cơ sở đề nghị xác nhận nội dung thông tin thuốc) Miễn nộp Giấy chứng nhận đủ điều kiện kinh doanh dược do Bộ Y tế cấp đối với cơ sở kinh doanh dược của Việt Nam đứng tên đề nghị xác nhận nội dung thông tin thuốc;
+- 01 Bản chính Giấy ủy quyền của cơ sở đăng ký thuốc cho cơ sở đứng tên trên hồ sơ đề nghị xác nhận nội dung thông tin thuốc trong trường hợp ủy quyền (Bản chính hoặc bản sao có chứng thực);
+- 01 Bản chính Chương trình hội thảo giới thiệu thuốc.
+- 01 Bản chính (Yêu cầu đối với hồ sơ: Tài liệu được in trên khổ A4. Toàn bộ các tài liệu có trong hồ sơ phải có dấu giáp lai của cơ sở đề nghị xác nhận nội dung thông tin thuốc.) * Quy định cho mỗi hồ sơ đề nghị cấp giấy xác nhận nội dung thông tin thuốc theo hình thức phát hành tài liệu thông tin thuốc: a) 01 (một) nội dung thông tin thuốc cho một thuốc; b) 01 (một) nội dung thông tin thuốc cho 02 (hai) hay nhiều thuốc có cùng hoạt chất và đường dùng của cùng nhà sản xuất nhưng khác hàm lượng hoặc dạng bào chế.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận nội dung thông tin thuốc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|277/2016/TT-BTC|Thông tư 277/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực dược, mỹ phẩm|14-11-2016|Bộ Tài chính|
+|105/2016/QH13|Luật 105/2016/QH13 Dược|06-04-2016|Quốc Hội|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|
+|114/2017/TT-BTC|Thông tư 114/2017/TT-BTC - Sửa đổi, bổ sung Biểu mức thu phí trong lĩnh vực dược, mỹ phẩm ban hành kèm theo Thông tư số 277/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực dược, mỹ phẩm|24-10-2017|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+1. Khoản 1 Điều 106 Nghị định số 54/2017/NĐ-CP: Cơ sở được đứng tên trong hồ sơ đề nghị xác nhận nội dung thông tin thuốc bao gồm:
+a) Cơ sở đăng ký thuốc tại Việt Nam;
+b) Văn phòng đại diện tại Việt Nam của chính cơ sở nước ngoài đăng ký thuốc tại Việt Nam và được cơ sở này uỷ quyền;
+c) Cơ sở kinh doanh dược của Việt Nam được cơ sở đăng ký thuốc tại Việt Nam uỷ quyền.
+d) Cơ sở nhập khẩu thuốc của Việt Nam chỉ được thông tin thuốc theo hình thức hội thảo giới thiệu thuốc đối với thuốc chưa có giấy đăng ký lưu hành do chính cơ sở nhập khẩu.
+2. Khoản 1 Điều 107 Nghị định số 54/2017/NĐ-CP: Các trường hợp cấp giấy xác nhận nội dung thông tin:
+a) Nội dung thông tin thuốc được đề nghị cấp giấy xác nhận lần đầu;
+b) Nội dung thông tin thuốc đã được cấp giấy xác nhận nhưng có thay đổi cơ sở đứng tên đăng ký thuốc, tên thuốc, thành phần, nồng độ hoặc hàm lượng, dạng bào chế, chỉ định, chống chỉ định, liều dùng, cách dùng, sử dụng thuốc trên các đối tượng đặc biệt, các thông tin liên quan đến cảnh báo và an toàn thuốc.
+1. Khoản 1 Điều 106 Nghị định số 54/2017/NĐ-CP: Cơ sở được đứng tên trong hồ sơ đề nghị xác nhận nội dung thông tin thuốc bao gồm:
+a) Cơ sở đăng ký thuốc tại Việt Nam;
+b) Văn phòng đại diện tại Việt Nam của chính cơ sở nước ngoài đăng ký thuốc tại Việt Nam và được cơ sở này uỷ quyền;
+c) Cơ sở kinh doanh dược của Việt Nam được cơ sở đăng ký thuốc tại Việt Nam uỷ quyền.
+d) Cơ sở nhập khẩu thuốc của Việt Nam chỉ được thông tin thuốc theo hình thức hội thảo giới thiệu thuốc đối với thuốc chưa có giấy đăng ký lưu hành do chính cơ sở nhập khẩu.
+2. Khoản 1 Điều 107 Nghị định số 54/2017/NĐ-CP: Các trường hợp cấp giấy xác nhận nội dung thông tin:
+a) Nội dung thông tin thuốc được đề nghị cấp giấy xác nhận lần đầu;
+b) Nội dung thông tin thuốc đã được cấp giấy xác nhận nhưng có thay đổi cơ sở đứng tên đăng ký thuốc, tên thuốc, thành phần, nồng độ hoặc hàm lượng, dạng bào chế, chỉ định, chống chỉ định, liều dùng, cách dùng, sử dụng thuốc trên các đối tượng đặc biệt, các thông tin liên quan đến cảnh báo và an toàn thuốc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

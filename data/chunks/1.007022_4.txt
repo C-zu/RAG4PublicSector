@@ -1,0 +1,8 @@
+Tên thủ tục: Khai thuế giá trị gia tăng đối với phương pháp trực tiếp trên doanh thu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Tờ khai thuế GTGT (áp dụng đối với người nộp thuế tính thuế theo phương pháp trực tiếp trên doanh thu) mẫu số 04/GTGT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdab00d213a79f8'">Mẫu 04.GTGT.doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ).

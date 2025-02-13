@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh, cấp cơ sở sử dụng ngân sách nhà nước và nhiệm vụ khoa học và công nghệ do quỹ của Nhà nước trong lĩnh vực khoa học và công nghệ tài trợ thuộc phạm vi quản lý của tỉnh, thành phố trực thuộc trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 01 Phiếu đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước theo Mẫu 5 tại Phụ lục ban hành kèm theo Thông tư số 11/2023/TT-BKHCN. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe351e95d2c2349'">Mẫu số 5.docx</a>)
+- 01 Bản chính 01 bản Báo cáo tổng hợp kết quả thực hiện nhiệm vụ có xác nhận hợp pháp của tổ chức chủ trì nhiệm vụ về việc đã hoàn thiện kết quả thực hiện nhiệm vụ sau khi nghiệm thu chính thức.
+- 01 Bản chính 01 bản Báo cáo tóm tắt kết quả thực hiện nhiệm vụ; 01 bản dữ liệu điều tra, khảo sát, bản đồ, bản vẽ, ảnh, tài liệu đa phương tiện, phần mềm (bao gồm mã nguồn và dữ liệu) và các tài liệu khác (nếu có).
+- 01 Bản sao Bản sao Biên bản họp Hội đồng đánh giá, nghiệm thu chính thức kết quả thực hiện nhiệm vụ khoa học và công nghệ.
+- 01 Bản chính Văn bản xác nhận về sự thỏa thuận của các tác giả về việc sắp xếp thứ tự tên trong danh sách tác giả thực hiện nhiệm vụ (nếu có).
+- 01 Bản chính Đơn đăng ký bảo hộ quyền sở hữu công nghiệp (nếu có).
+- 01 Bản chính 01 Phiếu mô tả công nghệ theo Mẫu 8 tại Phụ lục ban hành kèm theo Thông tư số 14/2014/TT-BKHCN đối với nhiệm vụ khoa học và công nghệ mà sản phẩm bao gồm quy trình công nghệ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd78514dd0490a0'">Mẫu số 8.docx</a>)

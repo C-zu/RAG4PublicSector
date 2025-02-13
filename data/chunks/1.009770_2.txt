@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn thời hạn hoạt động của dự án đầu tư đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư nộp hồ sơ theo quy định tại điểm a khoản 2 Điều 55 Nghị định số 31/2021/NĐ-CP cho Ban Quản lý
+- Bước 2: Ban Quản lý gửi hồ sơ cho cơ quan quản lý đất đai và các cơ quan có liên quan để lấy ý kiến về việc đáp ứng điều kiện quy định tại khoản 4 Điều 44 của Luật Đầu tư và khoản 4 Điều 27 của Nghị định số 31/2021/NĐ-CP;
+- Bước 3: Cơ quan được lấy ý kiến có ý kiến về việc đáp ứng điều kiện quy định tại khoản 4 Điều 44 Luật Đầu tư và khoản 4 Điều 27 Nghị định này;
+- Bước 4: Ban Quản lý xem xét điều kiện gia hạn thời hạn hoạt động của dự án đầu tư quy định tại khoản 4 Điều 44 của Luật Đầu tư và khoản 4 Điều 27 của Nghị định này để gia hạn đối với trường hợp thẩm quyền chấp thuận chủ trương đầu tư của Ban
+- Bước 5: Đối với trường hợp chấp thuận chủ trương của UBND tỉnh, Ban Quản lý xem xét điều kiện gia hạn thời hạn hoạt động của dự án đầu tư quy định tại khoản 4 Điều 44 của Luật Đầu tư và khoản 4 Điều 27 của Nghị định này để lập báo cáo thẩm định trình Ủy ban nhân dân cấp tỉnh.

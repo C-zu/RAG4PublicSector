@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục cấp Giấy xác nhận đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hoá của tổ chức, cá nhân
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Giấy xác nhận đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hóa. - Hiệu lực của Giấy xác nhận như sau: + Đối với các giải thưởng được tổ chức xét tặng định kỳ hàng năm, Giấy xác nhận có hiệu lực không quá 03 năm. Trường hợp Giấy xác nhận hết hiệu lực, đơn vị muốn tiếp tục tổ chức hoạt động xét tặng giải thưởng, phải lập hồ sơ đăng ký gửi về Sở Khoa học và Công nghệ để được cấp lại Giấy xác nhận. + Đối với các giải thưởng không tổ chức định kỳ, Giấy xác nhận có hiệu lực cho từng trường hợp tổ chức xét tặng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|39/2013/QH13|Luật 39/2013/QH13|16-11-2013|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|06/2009/TT-BKHCN|Thông tư 06/2009/TT-BKHCN|03-04-2009|Bộ Khoa học và Công nghệ|
+|42/2010/NĐ-CP|Nghị định 42/2010/NĐ-CP|15-04-2010|Chính phủ|
+|51/2010/QĐ-TTg|Quyết định 51/2010/QĐ-TTg|28-07-2010|Thủ tướng Chính phủ|

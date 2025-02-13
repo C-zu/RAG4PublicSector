@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp mới chứng chỉ hành nghề phân loại trang thiết bị y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Sau 30 ngày kể từ ngày xác nhận nộp phí|
+|Trực tuyến|30 Ngày||Sau 30 ngày kể từ ngày xác nhận nộp phí|
+|Dịch vụ bưu chính|30 Ngày||Sau 30 ngày kể từ ngày xác nhận nộp phí|

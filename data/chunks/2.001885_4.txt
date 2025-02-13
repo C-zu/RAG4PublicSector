@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Áp dụng cho chủ điểm là cá nhân
+- 01 Bản chính ĐƠN ĐỀ NGHỊ CẤP GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1cc473782fc2a'">Mẫu số 05. ĐƠN ĐỀ NGHỊ CẤP GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ.docx</a>)
+- 01 Bản chính - Bản sao có chứng thực giấy đăng ký kinh doanh điểm cung cấp dịch vụ trò chơi điện tử công cộng;
+- 01 Bản chính - Bản sao có chứng thực chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu của chủ điểm cấp dịch vụ trò chơi điện tử công cộng đối với trường hợp chủ điểm là cá nhân;/ - Bản sao có chứng thực chứng minh nhân dân/thẻ căn cước công dân/hộ chiếucủa cá nhân địa diện cho tổ chức, doanh nghiệp trực tiếp quản lý điểm cấp dịch vụ trò chơi điện tử công cộng đối với trường hợp chủ điểm là tổ chức, doanh nghiệp.
+
+
+Áp dụng cho chủ điểm là tổ chức, doanh nghiệp
+- 01 Bản chính ĐƠN ĐỀ NGHỊ CẤP GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2c1fb04691b2a'">Mẫu số 06. ĐƠN ĐỀ NGHỊ CẤP GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ.docx</a>)
+- 01 Bản chính - Bản sao có chứng thực giấy đăng ký kinh doanh điểm cung cấp dịch vụ trò chơi điện tử công cộng;
+- 01 Bản chính - Bản sao có chứng thực chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu của chủ điểm cấp dịch vụ trò chơi điện tử công cộng đối với trường hợp chủ điểm là cá nhân;/ - Bản sao có chứng thực chứng minh nhân dân/thẻ căn cước công dân/hộ chiếucủa cá nhân địa diện cho tổ chức, doanh nghiệp trực tiếp quản lý điểm cấp dịch vụ trò chơi điện tử công cộng đối với trường hợp chủ điểm là tổ chức, doanh nghiệp.

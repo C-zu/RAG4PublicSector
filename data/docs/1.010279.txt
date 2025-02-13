@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010279
+Số quyết định:
+1603/QĐ-BTTTT
+Tên thủ tục:
+Sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động mặt đất
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tần số vô tuyến điện
+Trình tự thực hiện:
+- Khi giấy phép còn hiệu lực, tổ chức, cá nhân có nhu cầu sửa đổi, bổ sung một số nội dung trong giấy phép (trừ thời hạn sử dụng) thì phải hoàn thiện hồ sơ đề nghị sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động mặt đất theo quy định tại khoản 2 Điều 7 Nghị định số 63/2023/NĐ-CP và nộp hồ sơ đến Cục Tần số vô tuyến điện.
+- Cục Tần số vô tuyến điện tiếp nhận, kiểm tra tính hợp lệ của hồ sơ. 
++ Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện có trách nhiệm thông báo, hướng dẫn cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
++ Trường hợp hồ sơ đầy đủ, đúng quy định, Cục Tần số vô tuyến điện sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động mặt đất hoặc từ chối sửa đổi, bổ sung nội dung giấy phép và nêu rõ lý do trong thời hạn 28 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
++ Trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân, Cục Tần số vô tuyến điện cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động mặt đất hoặc từ chối cấp giấy phép và nêu rõ lý do trong thời hạn 03 tháng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|28 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 28 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+|Trực tuyến|28 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 28 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+|Dịch vụ bưu chính|28 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính  Lệ phí : Đồng Theo quy định của Bộ Tài chính|- 28 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - 03 tháng trong trường hợp số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số trong một hồ sơ hoặc vượt quá 100 tần số trong các hồ sơ được gửi trong vòng 28 ngày của một tổ chức, cá nhân.|
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 01 bộ.
+- 01 Bản chính - Bản khai thông tin chung và Bản khai thông số kỹ thuật, khai thác đối với mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động mặt đất theo Mẫu 1g1 quy định tại Phụ lục II của Nghị định số 63/2023/NĐ-CP;
+- 02 Bản chính, 01 Bản sao - Tài liệu liên quan đến hồ sơ đề nghị cấp phép (Trong trường hợp cơ quan cấp giấy phép cần phải xác minh lại thông tin trong bản khai đề nghị cấp phép để ấn định tần số vô tuyến điện và sửa đổi, bổ sung nội dung giấy phép) theo quy định tại khoản 4 Điều 4 Nghị định số 63/2023/NĐ-CP.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Tần số vô tuyến điện
+Cơ quan có thẩm quyền:
+Cục Tần số vô tuyến điện
+Địa chỉ tiếp nhận HS:
+Cục Tần số vô tuyến điện: Số 115 đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, Thành phố Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng tần số và thiết bị vô tuyến điện (Mẫu 1g1 Phụ lục III ban hành kèm theo Nghị định 63/2023/NĐ-CP)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|265/2016/TT-BTC|Thông tư 265/2016/TT-BTC|14-11-2016||
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009||
+|120/2021/TT-BTC|QUY ĐỊNH MỨC THU MỘT SỐ KHOẢN PHÍ, LỆ PHÍ NHẰM HỖ TRỢ, THÁO GỠ KHÓ KHĂN CHO ĐỐI TƯỢNG CHỊU ẢNH HƯỞNG BỞI DỊCH COVID-19|24-12-2021||
+|44/2023/TT-BTC|Thông tư 44/2023/TT-BTC|29-06-2023|Bộ Tài chính|
+|11/2022/TT-BTC|Thông tư số 11/2022/TT-BTC ngày 21/02/2022 của Bộ trưởng Bộ Tài chính|21-02-2022|Bộ Tài chính|
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||
+
+Yêu cầu, điều kiện thực hiện:
+- Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;
+- Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;
+- Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;
+- Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện.
+- Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;
+- Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;
+- Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;
+- Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

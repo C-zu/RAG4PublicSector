@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004976
+Số quyết định:
+1079/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực nhập khẩu sử dụng trong giao thông vận tải
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân nộp hồ sơ đăng ký kiểm tra đến Cơ quan kiểm tra (Cục Đăng kiểm Việt Nam hoặc Chi cục Đăng kiểm);
+- Tờ khai hàng hóa nhập khẩu có xác nhận của tổ chức, cá nhân nhập khẩu có thể nộp trước khi kiểm tra thiết bị.
+b) Giải quyết TTHC:
+- Cơ quan kiểm tra tiếp nhận, kiểm tra hồ sơ: Nếu hồ sơ không đầy đủ theo quy định thì hướng dẫn hoàn thiện ngay trong ngày làm việc (đối với trường hợp nộp trực tiếp) hoặc hướng dẫn hoàn thiện trong 02 (hai) ngày làm việc (đối với trường hợp nộp hồ sơ qua hệ thống bưu chính hoặc qua cổng dịch vụ công); nếu hồ sơ đầy đủ theo quy định thì xác nhận vào Giấy đăng ký kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu trong 01 (một) ngày làm việc và thống nhất về thời gian, địa điểm kiểm tra;
+- Sau khi tổ chức, cá nhân bổ sung Tờ khai hàng hóa nhập khẩu có xác nhận của tổ chức, cá nhân nhập khẩu, Cơ quan kiểm tra tiến hành kiểm tra: Nếu đạt thì cấp Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị nhập khẩu và Thông báo kết quả kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu; nếu không đạt thì cấp Thông báo kết quả kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu;
+- Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị nhập khẩu hoặc thông báo không đạt chất lượng an toàn kỹ thuật thiết bị nhập khẩu được cấp trong phạm vi 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định;
+- Tổ chức, cá nhân nhận kết quả trực tiếp tại Cơ quan kiểm tra hoặc qua hệ thống bưu chính hoặc qua cổng dịch vụ công.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho Cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận vào Giấy đăng ký kiểm tra và thống nhất về thời gian, địa điểm kiểm tra: trong 01 (một) ngày làm việc nếu hồ sơ đầy đủ theo quy định;|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị nhập khẩu hoặc thông báo không đạt chất lượng an toàn kỹ thuật thiết bị nhập khẩu: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+|Trực tuyến|1 Ngày làm việc|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho Cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận vào Giấy đăng ký kiểm tra và thống nhất về thời gian, địa điểm kiểm tra: trong 01 (một) ngày làm việc nếu hồ sơ đầy đủ theo quy định;|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị nhập khẩu hoặc thông báo không đạt chất lượng an toàn kỹ thuật thiết bị nhập khẩu: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+|Dịch vụ bưu chính|1 Ngày làm việc|Mức giá : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho Cơ quan cấp Giấy chứng nhận.|- Thời hạn xác nhận vào Giấy đăng ký kiểm tra và thống nhất về thời gian, địa điểm kiểm tra: trong 01 (một) ngày làm việc nếu hồ sơ đầy đủ theo quy định;|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 50000 Đồng - Lệ phí cấp giấy chứng nhận: 50 000 (đồng/giấy);|- Thời hạn cấp Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị nhập khẩu hoặc thông báo không đạt chất lượng an toàn kỹ thuật thiết bị nhập khẩu: 03 ngày làm việc sau khi hoàn thành kiểm tra theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc bản khai biểu mẫu điện tử Giấy đăng ký kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu theo mẫu quy định. ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb1bcf828ed4308'))
+- 01 Bản sao - 01 (một) bản sao điện tử (đối với trường hợp nộp thông qua cổng dịch vụ công) hoặc 01 (một) bản sao (đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính) hồ sơ nhập khẩu theo quy định của pháp luật kiểm tra chuyên ngành đối với hàng hóa nhập khẩu.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam, Chi cục Đăng kiểm
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam, Chi cục Đăng kiểm
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị nhập khẩu (cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sử dụng trong giao thông vận tải), Thông báo kết quả kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu (cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sử dụng trong giao thông vận tải)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|35/2011/TT-BGTVT|Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị xếp dỡ, nồi hơi, thiết bị áp lực sử dụng trong giao thông vận tải|06-05-2011|Bộ Giao thông vận tải|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy móc, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|21/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 35/2011/TT-BGTVT ngày 06 tháng 5 năm 2011 của Bộ trưởng Bộ Giao thông vận tải quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật thiết bị xếp dỡ, nồi hơi, thiết bị áp lực sử dụng trong giao thông vận tải.|30-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+- Thỏa mãn các quy định, tiêu chuẩn tương ứng: QCVN 22 : 2018/BGTVT; QCVN 67:2018/BGTVT
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,10 @@
+Tên thủ tục: Trả lại khu vực biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Bản chính Đơn đề nghị trả lại khu vực biển theo Mẫu số 03 ban hành kèm theo Nghị định số 11/2021/NĐ/CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd1d4d328ad5d8'">Mẫu 03.docx</a>)
+- 01 Bản chính b) Bản chính Quyết định giao khu vực biển đã được cấp;
+- 01 Bản chính c) Bản chính Báo cáo tình hình sử dụng khu vực biển, công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ theo quy định của pháp luật tính đến thời điểm nộp hồ sơ đề nghị trả lại khu vực biển;
+- 01 Bản chính d) Bản chính Sơ đồ khu vực biển còn lại sau khi trả lại một phần khu vực biển (đối với trường hợp trả lại một phần diện tích khu vực biển).

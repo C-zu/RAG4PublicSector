@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đặt và tặng giải thưởng về khoa học và công nghệ của tổ chức, cá nhân cư trú hoặc hoạt động hợp pháp tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày||Hồ sơ đăng ký đặt và tặng giải thưởng về khoa học và công nghệ được tổ chức, cá nhân nộp trực tiếp đến Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (qua Sở Khoa học và Công nghệ)|
+|Trực tuyến|25 Ngày||Nộp trực tuyến qua Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh nơi đặt trụ sở chính của tổ chức hoặc nơi cá nhân cư trú.|
+|Dịch vụ bưu chính|25 Ngày||Hồ sơ đăng ký đặt và tặng giải thưởng về khoa học và công nghệ được tổ chức, cá nhân nộp qua đường bưu chính đến Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (qua Sở Khoa học và Công nghệ)|

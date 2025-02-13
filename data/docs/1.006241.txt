@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006241
+Số quyết định:
+2008/QĐ-BTC
+Tên thủ tục:
+Quyết định giá thuộc thẩm quyền của cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý giá
+Trình tự thực hiện:
+Bước 1: Cơ quan, đơn vị, tổ chức, cá nhân sản xuất, kinh doanh lập Hồ sơ phương án giá theo quy định tại khoản 2 Thông tư 56/2014/TT-BTC và gửi 01 bản chính hoặc 01 bản sao có chứng thực của cơ quan có thẩm quyền cho cơ quan nhà nước có thẩm quyền theo quy định tại Điều 8, Điều 9, Điều 10 Nghị định số 177/2013/NĐ-CP và hướng dẫn tại Thông tư 56/2014/TT-BTC.
+Bước 2: 
+a) Tham mưu cho Ủy ban nhân dân tỉnh quy định trình tự, quy trình thẩm định phương án giá và phân cấp quyết định giá;
+b) Tham mưu cho Ủy ban nhân dân tỉnh phân công cụ thể thẩm quyền, trách nhiệm của các cơ quan, đơn vị đối với hàng hóa, dịch vụ thuộc thẩm quyền định giá của Ủy ban nhân dân tỉnh;
+c) Thẩm định trình Ủy ban nhân dân tỉnh quyết định giá hoặc thẩm định phương án giá theo đề nghị của Sở quản lý ngành, lĩnh vực, đơn vị sản xuất kinh doanh để Sở quản lý ngành, lĩnh vực, đơn vị sản xuất kinh doanh trình Ủy ban nhân dân tỉnh quyết định theo quy định của pháp luật về giá và quy định khác của pháp luật có liên quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày làm việc||- Cơ quan, đơn vị có thẩm quyền thẩm định phương án giá quy định tại khoản 1 Điều 9 Nghị định 177/2013/NĐ-CP phải có ý kiến thẩm định bằng văn bản về nội dung phương án giá chậm nhất là 15 ngày làm việc, kể từ ngày nhận đủ Hồ sơ phương án giá theo quy định; - Kể từ ngày nhận được phương án giá đã có ý kiến của cơ quan có liên quan và văn bản thẩm định của cơ quan có thẩm quyền, thời hạn quyết định giá của các cấp được quy định như sau: + Tối đa không quá 15 ngày làm việc đối với giá hàng hóa, dịch vụ do Chính phủ, Thủ tướng Chính phủ quyết định; + Tối đa không quá 10 ngày làm việc đối với giá hàng hóa, dịch vụ do các Bộ, ngành quyết định; - Trường hợp cần thiết phải kéo dài thêm thời gian thẩm định phương án giá, quyết định giá thì cơ quan, đơn vị có thẩm quyền thẩm định phương án giá hoặc cơ quan có thẩm quyền quyết định giá phải thông báo bằng văn bản và nêu rõ lý do phải kéo dài cho cơ quan trình phương án giá biết; thời gian kéo dài không quá 15 ngày làm việc.|
+|Dịch vụ bưu chính|45 Ngày làm việc||- Cơ quan, đơn vị có thẩm quyền thẩm định phương án giá quy định tại khoản 1 Điều 9 Nghị định 177/2013/NĐ-CP phải có ý kiến thẩm định bằng văn bản về nội dung phương án giá chậm nhất là 15 ngày làm việc, kể từ ngày nhận đủ Hồ sơ phương án giá theo quy định; - Kể từ ngày nhận được phương án giá đã có ý kiến của cơ quan có liên quan và văn bản thẩm định của cơ quan có thẩm quyền, thời hạn quyết định giá của các cấp được quy định như sau: + Tối đa không quá 15 ngày làm việc đối với giá hàng hóa, dịch vụ do Chính phủ, Thủ tướng Chính phủ quyết định; + Tối đa không quá 10 ngày làm việc đối với giá hàng hóa, dịch vụ do các Bộ, ngành quyết định; - Trường hợp cần thiết phải kéo dài thêm thời gian thẩm định phương án giá, quyết định giá thì cơ quan, đơn vị có thẩm quyền thẩm định phương án giá hoặc cơ quan có thẩm quyền quyết định giá phải thông báo bằng văn bản và nêu rõ lý do phải kéo dài cho cơ quan trình phương án giá biết; thời gian kéo dài không quá 15 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Công văn đề nghị định giá, điều chỉnh giá theo mẫu quy định tại Phụ lục số 2a ban hành kèm Thông tư số 56/2014/TT-BTC; ([Quyet dinh gia.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefbfda79425156'))
+- 01 Bản chính + Phương án giá thực hiện theo mẫu quy định tại Phụ lục số 2a ban hành kèm Thông tư số 56/2014/TT-BTC. ([Quyet dinh gia.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd04fd57413775a'))
+- 01 Bản chính + Văn bản tổng hợp ý kiến tham gia của các cơ quan liên quan, đính kèm bản sao ý kiến của các cơ quan theo quy định (nếu có);
+- 01 Bản chính + Văn bản thẩm định phương án giá của các cơ quan có chức năng thẩm định theo quy định;
+- 01 Bản chính + Các tài liệu khác có liên quan.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Các Sở, ngành và địa phương liên quan
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định hành chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|177/2013/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá|14-11-2019|Chính phủ|
+|11/2012/QH13|Luật 11/2012/QH13 - Giá|20-06-2012|Quốc Hội|
+|56/2014/TT-BTC|Thông tư 56/2014/TT-BTC|28-04-2014|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Phương án giá bao gồm những nội dung chính như sau: 
+- Sự cần thiết và các mục tiêu định giá hoặc điều chỉnh giá (trong đó nêu rõ tình hình sản xuất, kinh doanh của hàng hoá, dịch vụ cần định giá hoặc điều chỉnh giá; diễn biến giá cả thị trường trong nước và thế giới; sự cần thiết phải thay đổi giá...);
+- Các căn cứ định giá hoặc điều chỉnh giá; 
+- Bảng tính toán các yếu tố hình thành giá mua, giá bán; các mức giá kiến nghị được tính theo phương pháp định giá chung do Bộ Tài chính quy định và hướng dẫn phương pháp định giá của cơ quan có thẩm quyền theo quy định của pháp luật;
++ So sánh các yếu tố hình thành giá, mức giá của phương án giá đề nghị với các yếu tố hình thành giá, mức giá của phương án giá được duyệt lần trước liền kề; nêu rõ nguyên nhân tăng, giảm;
++ So sánh mức giá đề nghị với mức giá hàng hóa, dịch vụ tương tự ở thị trường - Dự kiến tác động của mức giá mới đến sản xuất, đời sống và đến thu chi của ngân sách nhà nước (nếu có);
+- Các biện pháp tổ chức triển khai thực hiện mức giá mới (nếu có).
+Phương án giá bao gồm những nội dung chính như sau: 
+- Sự cần thiết và các mục tiêu định giá hoặc điều chỉnh giá (trong đó nêu rõ tình hình sản xuất, kinh doanh của hàng hoá, dịch vụ cần định giá hoặc điều chỉnh giá; diễn biến giá cả thị trường trong nước và thế giới; sự cần thiết phải thay đổi giá...);
+- Các căn cứ định giá hoặc điều chỉnh giá; 
+- Bảng tính toán các yếu tố hình thành giá mua, giá bán; các mức giá kiến nghị được tính theo phương pháp định giá chung do Bộ Tài chính quy định và hướng dẫn phương pháp định giá của cơ quan có thẩm quyền theo quy định của pháp luật;
++ So sánh các yếu tố hình thành giá, mức giá của phương án giá đề nghị với các yếu tố hình thành giá, mức giá của phương án giá được duyệt lần trước liền kề; nêu rõ nguyên nhân tăng, giảm;
++ So sánh mức giá đề nghị với mức giá hàng hóa, dịch vụ tương tự ở thị trường - Dự kiến tác động của mức giá mới đến sản xuất, đời sống và đến thu chi của ngân sách nhà nước (nếu có);
+- Các biện pháp tổ chức triển khai thực hiện mức giá mới (nếu có).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại, đổi, điều chỉnh thông tin trên sổ BHXH, thẻ BHYT
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày||1. Nộp hồ sơ: Người tham gia và đơn vị nộp hồ sơ cho cơ quan BHXH bằng một trong các hình thức sau: 1.1. Trực tiếp tại Bộ phận Một cửa của cơ quan BHXH; 1.2. Thông qua dịch vụ bưu chính; 1.3. Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công BHXH Việt Nam hoặc thông qua Tổ chức I-VAN. 2. Nhận kết quả giải quyết: a) Người tham gia nhận sổ BHXH, thẻ BHYT theo hình thức đăng ký. b) Đơn vị nhận kết quả trực tiếp tại Bộ phận Một cửa của cơ quan BHXH hoặc qua dịch vụ bưu chính.|
+|Trực tuyến|45 Ngày||1. Nộp hồ sơ: Người tham gia và đơn vị nộp hồ sơ cho cơ quan BHXH bằng một trong các hình thức sau: 1.1. Trực tiếp tại Bộ phận Một cửa của cơ quan BHXH; 1.2. Thông qua dịch vụ bưu chính; 1.3. Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công BHXH Việt Nam hoặc thông qua Tổ chức I-VAN. 2. Nhận kết quả giải quyết: a) Người tham gia nhận sổ BHXH, thẻ BHYT theo hình thức đăng ký. b) Đơn vị nhận kết quả trực tiếp tại Bộ phận Một cửa của cơ quan BHXH hoặc qua dịch vụ bưu chính.|
+|Dịch vụ bưu chính|45 Ngày||1. Nộp hồ sơ: Người tham gia và đơn vị nộp hồ sơ cho cơ quan BHXH bằng một trong các hình thức sau: 1.1. Trực tiếp tại Bộ phận Một cửa của cơ quan BHXH; 1.2. Thông qua dịch vụ bưu chính; 1.3. Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công BHXH Việt Nam hoặc thông qua Tổ chức I-VAN. 2. Nhận kết quả giải quyết: a) Người tham gia nhận sổ BHXH, thẻ BHYT theo hình thức đăng ký. b) Đơn vị nhận kết quả trực tiếp tại Bộ phận Một cửa của cơ quan BHXH hoặc qua dịch vụ bưu chính.|

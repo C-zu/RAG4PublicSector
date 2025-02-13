@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007781
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục xác nhận hoàn thành nghĩa vụ nộp thuế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+- Bước 1: Người nộp thuế có văn bản đề nghị xác nhận hoàn thành nghĩa vụ nộp thuế gửi Tổng cục Hải quan và các tài liệu theo quy định.
+- Bước 2: Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ, căn cứ hệ thống kế toán tập trung để xác nhận và thông báo kết quả cho người nộp thuế biết.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ + Văn bản đề nghị xác nhận hoàn thành nghĩa vụ nộp thuế do người đại diện theo pháp luật của doanh nghiệp ký, đóng dấu (trường hợp người đại diện theo uỷ quyền ký thì phải có giấy uỷ quyền của người đại diện theo pháp luật) (01 bản chính), trong đó có các nội dung: ++ Tên người nộp thuế, mã số thuế; ++ Nội dung, mục đích, yêu cầu xác nhận; ++ Tài liệu chứng minh nội dung yêu cầu xác nhận (bản chụp).
+ + Giấy chứng nhận đăng ký kinh doanh (hoặc Giấy chứng nhận Đầu tư; Giấy chứng nhận thành lập doanh nghiệp; hoặc các Giấy tờ khác có giá trị tương đương quy định về việc thành lập doanh nghiệp): 01 bản chụp từ bản chính (có xác nhận, ký tên, đóng dấu của người nộp thuế);
+ + Giấy chứng nhận đăng ký mã số thuế: 01 bản chụp từ bản chính (có xác nhận, ký tên, đóng dấu của người nộp thuế);
+ + Tài liệu khác có liên quan đến nội dung xác nhận: 01 bản chụp từ bản chính (có xác nhận, ký tên, đóng dấu của người nộp thuế);
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
++ Xác nhận việc thực hiện nghĩa vụ nộp thuế + Trường hợp không xác nhận phải có văn bản thông báo cụ thể lý do không xác nhận. + Trường hợp cần kiểm tra, đối chiếu lại các thông tin về tình hình thực hiện nghĩa vụ thuế của người nộp thuế trước khi xác nhận, cơ quan hải quan gửi thông báo cho người nộp thuế biết lý do chưa xác nhận.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật 78/2006/QH11|29-11-2006|Quốc Hội|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+|83/2013/NĐ-CP|Nghị định 83/2013/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế|22-07-2013|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

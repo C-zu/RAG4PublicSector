@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép chặt hạ, dịch chuyển cây xanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Sơ đồ, vị trí cây xanh đô thị cần chặt hạ, dịch chuyển
+- 01 Bản chính Ảnh chụp hiện trạng cây xanh đô thị cần chặt hạ, dịch chuyển
+ Đơn đề nghị cấp giấy phép chặt hạ, dịch chuyển cây xanh đô thị; nêu rõ vị trí chặt hạ, dịch chuyển, kích thước loại cây và lý do cần chặt hạ, dịch chuyển cây xanh đô thị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe012fee4b884af'">Don de nghi cap giay phep chat ha, dich chuyen cay xanh.doc</a>)

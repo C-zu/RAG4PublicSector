@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Chứng nhận huấn luyện nghiệp vụ phòng cháy và chữa cháy
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Trực tiếp tại Công an cấp huyện hoặc Bộ phận Một cửa cấp huyện (trường hợp đã đưa thủ tục ra tiếp nhận tại Bộ phận Một cửa cấp huyện); - Đối với cơ sở huấn luyện, hướng dẫn về nghiệp vụ phòng cháy, chữa cháy tổ chức huấn luyện: trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Công an cấp huyện tổ chức kiểm tra, đánh giá kết quả của đối tượng tham gia huấn luyện. - Đối với cơ quan, tổ chức, cơ sở, cá nhân đề nghị cơ quan Công an tổ chức huấn luyện: + Trường hợp số lượng người đăng ký huấn luyện từ 20 người trở lên: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Công an cấp huyện tổ chức huấn luyện và kiểm tra, đánh giá kết quả của đối tượng tham gia huấn luyện. + Trường hợp số lượng người đăng ký huấn luyện ít hơn 20 người: Công an cấp huyện có trách nhiệm tập hợp; khi đủ số lượng thì thông báo thời gian, địa điểm tổ chức huấn luyện và kiểm tra, đánh giá kết quả. - Trong thời hạn 05 ngày làm việc, kể từ ngày có kết quả kiểm tra đạt yêu cầu, Công an cấp huyện cấp Chứng nhận huấn luyện nghiệp vụ phòng cháy, chữa cháy cho các cá nhân hoàn thành chương trình huấn luyện nghiệp vụ. Trường hợp không cấp Chứng nhận có văn bản trả lời, nêu rõ lý do.|
+|Trực tuyến|05 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có);|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Giao nộp, thu nhận dữ liệu về địa chất, khoáng sản
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 0 Đồng|Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận dữ liệu, Trung tâm Thông tin Lưu trữ Địa chất hoàn thành việc kiểm tra và lập biên bản kiểm tra, cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân đã giao nộp dữ liệu|
+|Trực tuyến|10 Ngày|Phí : 0 Đồng|Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận dữ liệu, Trung tâm Thông tin Lưu trữ Địa chất hoàn thành việc kiểm tra và lập biên bản kiểm tra, cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân đã giao nộp dữ liệu|
+|Dịch vụ bưu chính|10 Ngày|Phí : 0 Đồng|Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận dữ liệu, Trung tâm Thông tin Lưu trữ Địa chất hoàn thành việc kiểm tra và lập biên bản kiểm tra, cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân đã giao nộp dữ liệu|

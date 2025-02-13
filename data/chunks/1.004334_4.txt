@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cho kiểu loại linh kiện xe chở hàng bốn bánh có gắn động cơ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản đăng ký thông số kỹ thuật kèm theo bản vẽ kỹ thuật thể hiện kích thước chính, vật liệu chế tạo và ảnh chụp sản phẩm; Bản thuyết minh các ký hiệu, số đóng trên sản phẩm (nếu có) (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc biểu mẫu điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến);
+- 01 Bản sao - Báo cáo kết quả thử nghiệm của Cơ sở thử nghiệm (Bản sao có xác nhận của cơ sở đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản sao điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến);
+- 01 Bản chính - Bản kê các linh kiện chính sử dụng để lắp ráp động cơ (đối với trường hợp sản phẩm là động cơ) theo mẫu (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc biểu mẫu điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfdfe1f336e768'">Mẫu.docx</a>)

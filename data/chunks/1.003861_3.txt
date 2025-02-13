@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục hội tự giải thể.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : 0 Đồng Không quy định|Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua đường bưu điện. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu điện, thời gian được tính từ ngày đến trên phong bì. 30 ngày làm việc kể từ ngày Vụ Tổ chức phi chính phủ nhận hồ sơ đầy đủ và hợp pháp.|
+|Trực tuyến|30 Ngày làm việc|Phí : 0 Đồng Không quy định|Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua đường bưu điện. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu điện, thời gian được tính từ ngày đến trên phong bì. 30 ngày làm việc kể từ ngày Vụ Tổ chức phi chính phủ nhận hồ sơ đầy đủ và hợp pháp.|
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 0 Đồng Không quy định|Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua đường bưu điện. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu điện, thời gian được tính từ ngày đến trên phong bì. 30 ngày làm việc kể từ ngày Vụ Tổ chức phi chính phủ nhận hồ sơ đầy đủ và hợp pháp.|

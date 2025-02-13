@@ -1,0 +1,29 @@
+Tên thủ tục: Giải thể doanh nghiệp trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc theo quyết định của Tòa án
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giải thể doanh nghiệp trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc theo quyết định của Tòa án
+- 01 Bản chính (i) Thông báo về việc giải thể doanh nghiệp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fce570afb093ac0'">Phụ lục II-22.docx</a>)
+- 01 Bản chính (ii) Báo cáo thanh lý tài sản doanh nghiệp; danh sách chủ nợ và số nợ đã thanh toán, gồm cả thanh toán hết các khoản nợ về thuế và nợ tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người lao động sau khi quyết định giải thể doanh nghiệp (nếu có)
+
+
+Giải thể doanh nghiệp trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc theo quyết định của Tòa án đối với doanh nghiệp xã hội: Trường hợp doanh nghiệp xã hội còn số dư tài sản hoặc tài chính đối với nguồn viện trợ, tài trợ đã nhận, thì hồ sơ giải thể phải có thêm bản sao tài liệu về việc xử lý số dư tài sản hoặc tài chính đối với nguồn viện trợ, tài trợ mà doanh nghiệp xã hội đã nhận
+- 01 Bản chính (i) Thông báo về việc giải thể doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7283828f36e1a'">Phụ lục II-22.docx</a>)
+- 01 Bản chính (ii) Báo cáo thanh lý tài sản doanh nghiệp; danh sách chủ nợ và số nợ đã thanh toán, gồm cả thanh toán hết các khoản nợ về thuế và nợ tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người lao động sau khi quyết định giải thể doanh nghiệp (nếu có)
+- 01 Bản sao (iii) Bản sao tài liệu về việc xử lý số dư tài sản hoặc tài chính đối với nguồn viện trợ, tài trợ mà doanh nghiệp xã hội đã nhận
+
+
+Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây: - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp

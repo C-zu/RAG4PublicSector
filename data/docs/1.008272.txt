@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008272
+Số quyết định:
+1689/QĐ-BTTTT
+Tên thủ tục:
+Cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài để tiêu thụ ở nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+- Thương nhân nộp 01 bộ hồ sơ (đề nghị cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài để tiêu thụ ở nước ngoài) trực tiếp hoặc qua bưu chính về Bộ Thông tin và Truyền thông (địa chỉ: số 18 Nguyễn Du, quận Hai Bà Trưng, thành phố Hà Nội) hoặc qua cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông; 
+- Trong trường hợp thương nhân cung cấp hồ sơ chưa đầy đủ, chưa đúng quy định, trong thời hạn 01 ngày làm việc, Bộ Thông tin và Truyền thông có thông báo yêu cầu sửa đổi, bổ sung hồ sơ;
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, Bộ Thông tin và Truyền thông xem xét, quyết định cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài. Trong trường hợp không cho phép, Bộ Thông tin và Truyền thông có văn bản trả lời và nêu rõ lý do.
+Trường hợp cần thiết, trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, Bộ Thông tin và Truyền thông có văn bản lấy ý kiến các bộ, cơ quan ngang bộ có liên quan; trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Bộ Thông tin và Truyền thông, bộ, cơ quan ngang bộ có văn bản trả lời. Thời gian lấy ý kiến không tính vào thời hạn xử lý hồ sơ đề nghị cấp phép.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Quận Hai Bà Trưng, Hà Nội|
+|Trực tuyến|05 Ngày làm việc||Nộp trực tuyến tại Cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản cam kết và đề nghị cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài của thương nhân (Mẫu số 02 tại Phụ lục ban hành kèm theo Quyết định số 31/2019/QĐ-TTg) ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a7ca4d34b646'))
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký đầu tư
+- 01 Bản chính Hồ sơ năng lực của thương nhân bao gồm: Cơ sở, nhà máy sản xuất; hệ thống dây chuyền, thiết bị, thực hiện hoạt động gia công sửa chữa phù hợp với từng loại sản phẩm; nhân lực đáp ứng quy mô sản xuất; năng lực tài chính: 01 bản chính. (Đối với các thương nhân đã được cấp phép, nếu Hợp đồng gia công mới hoặc điều chỉnh, bổ sung không làm thay đổi quy mô, công suất, chủng loại, tính chất sản phẩm của dự án thì không phải nộp tài liệu này
+- 01 Bản sao Quyết định phê duyệt Báo cáo đánh giá tác động môi trường hoặc Giấy xác nhận Kế hoạch bảo vệ môi trường cho dự án thực hiện hoạt động gia công sửa chữa theo quy định của pháp luật bảo vệ môi trường của cơ quan quản lý nhà nước có thẩm quyền căn cứ theo quy mô, công suất, tính chất sản phẩm của dự án: 01 bản sao có chứng thực. (Đối với các thương nhân đã được cấp phép, nếu Hợp đồng gia công mới hoặc điều chỉnh, bổ sung không làm thay đổi quy mô, công suất, chủng loại, tính chất sản phẩm của dự án thì không phải nộp tài liệu này
+- 01 Bản chính Hợp đồng thực hiện hoạt động gia công sửa chữa với thương nhân nước ngoài theo quy định của pháp luật
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Công nghiệp công nghệ thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời cho phép hoặc không cho phép nhập khẩu sản phẩm công nghệ thông tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|69/2018/NĐ-CP|Nghị định 69/2018/NĐ-CP|15-05-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Hàng hóa nhập khẩu chỉ để phục vụ trực tiếp cho hoạt động gia công của thương nhân; không được phục vụ mục đích bán, biếu, tặng;
+- Hàng hóa nhập khẩu không được gây ô nhiễm môi trường theo quy định của pháp luật về bảo vệ môi trường;
+- Phải có phương án, biện pháp bảo đảm quá trình thực hiện hoạt động gia công sửa chữa không gây ô nhiễm môi trường theo quy định của pháp luật về bảo vệ môi trường;
+- Có cơ sở, nhà máy sản xuất; hệ thống dây chuyền, thiết bị thực hiện hoạt động gia công sửa chữa phù hợp với quy trình sản xuất của từng loại sản phẩm; có phương án bảo đảm nhân lực đáp ứng quy mô sản xuất.
+Ngoài việc bảo đảm tuân thủ các điều kiện trên, hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu phải thực hiện theo các quy định về gia công hàng hóa thông thường quy định tại Nghị định số 69/2018/NĐ-CP và các văn bản pháp luật có liên quan.
+- Hàng hóa nhập khẩu chỉ để phục vụ trực tiếp cho hoạt động gia công của thương nhân; không được phục vụ mục đích bán, biếu, tặng;
+- Hàng hóa nhập khẩu không được gây ô nhiễm môi trường theo quy định của pháp luật về bảo vệ môi trường;
+- Phải có phương án, biện pháp bảo đảm quá trình thực hiện hoạt động gia công sửa chữa không gây ô nhiễm môi trường theo quy định của pháp luật về bảo vệ môi trường;
+- Có cơ sở, nhà máy sản xuất; hệ thống dây chuyền, thiết bị thực hiện hoạt động gia công sửa chữa phù hợp với quy trình sản xuất của từng loại sản phẩm; có phương án bảo đảm nhân lực đáp ứng quy mô sản xuất.
+Ngoài việc bảo đảm tuân thủ các điều kiện trên, hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu phải thực hiện theo các quy định về gia công hàng hóa thông thường quy định tại Nghị định số 69/2018/NĐ-CP và các văn bản pháp luật có liên quan.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,13 @@
+Tên thủ tục: Trình thẩm định, phê duyệt Hồ sơ phương án kỹ thuật khảo sát xây dựng (Đối với các công trình do Sở GTVT làm chủ đầu tư)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính 1. Tờ trình thẩm định hoặc phê duyệt PA KSXD (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfd81c4694757c'">BM-KCHT-16.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb14beac18074b0'">BM-KCHT-17.docx</a>)
+- 02 Bản chính 2. Các văn bản pháp lý (do cơ quan có thẩm quyền cấp) (Bản chính hoặc bản sao, Đối với công trình do Sở GTVT làm chủ đầu)
+- 02 Bản chính 2.1. Văn bản chấp thuận nhà thầu khảo sát của cấp có thẩm quyền.
+- 02 Bản chính 2.2. Quyết định phê duyệt nhiệm vụ khảo sát của cấp có thẩm quyền
+- 02 Bản chính 2.3. Kết quả thẩm định nhiệm vụ khảo sát của Sở GTVT (nếu có)
+- 02 Bản chính 3. Hồ sơ nhiệm vụ khảo sát đã được phê duyệt của cấp có thẩm quyền
+- 01 Bản chính 4. Hồ sơ phương án khảo sát

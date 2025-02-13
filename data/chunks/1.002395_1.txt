@@ -1,0 +1,16 @@
+Tên thủ tục: Tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh tại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ (do Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc giao quản lý)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002395
+Số quyết định:
+1330/QĐ-BKHĐT
+Tên thủ tục:
+Tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh tại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ (do Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc giao quản lý)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và sắp xếp lại doanh nghiệp do Nhà nước nắm giữ 100 phần trăm vốn điều lệ

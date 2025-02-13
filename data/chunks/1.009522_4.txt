@@ -1,0 +1,13 @@
+Tên thủ tục: Điều chỉnh Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán do tăng, giảm vốn điều lệ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị theo Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính Nghị quyết của đại hội đồng cổ đông thông qua việc tăng, giảm vốn điều lệ, phương án tăng, giảm vốn và Điều lệ công ty sửa đổi
+- 01 Bản chính Danh sách cổ đông sau điều chỉnh vốn theo Mẫu số 105 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef5d909f2611b4'">105.docx</a>)
+- 01 Bản chính báo cáo kết quả giảm vốn điều lệ kèm theo văn bản xác nhận của ngân hàng lưu ký, giám sát về việc công ty đã hoàn tất việc chi trả, thanh toán cho các cổ đông; số lượng cổ đông, số lượng cổ phiếu lưu hành sau khi điều chỉnh vốn
+- 01 Bản chính báo cáo kết quả đợt chào bán để tăng vốn theo Mẫu số 102 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP, kèm theo giấy xác nhận về mức vốn tăng thêm đã được phong tỏa tại ngân hàng giám sát; danh sách nhà đầu tư mới (nếu có); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf90930f45471e'">102.docx</a>)
+- 01 Bản chính Báo cáo tài chính năm gần nhất đã được kiểm toán đáp ứng quy định tại Luật Chứng khoán và báo cáo tài chính kỳ gần nhất tính đến thời điểm nộp hồ sơ đề nghị điều chỉnh vốn điều lệ
+- 01 Bản chính Bản cáo bạch, Điều lệ công ty (nếu có thay đổi) theo mẫu Phụ lục IV và Phụ lục II ban hành kèm theo Thông tư 98/2020/TT-BTC. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed29b3a0bdcd83'">PL IV.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea1e7301103c95'">PL II.docx</a>)

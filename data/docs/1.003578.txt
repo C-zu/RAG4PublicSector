@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003578
+Số quyết định:
+4357a/QĐ-BNN-TCLN
+Tên thủ tục:
+Cấp Giấy phép CITES nhập khẩu mẫu vật các loài động vật, thực vật hoang dã nguy cấp thuộc các Phụ lục CITES
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kiểm lâm
+Trình tự thực hiện:
+- Tổ chức, cá nhân có nhu cầu được cấp giấy phép nhập khẩu gửi 01 bộ hồ sơ tới Cơ quan thẩm quyền quản lý CITES Việt Nam.
+- Trong thời hạn 08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan thẩm quyền quản lý CITES Việt Nam có trách nhiệm cấp giấy phép. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước xuất khẩu thì Cơ quan thẩm quyền quản lý CITES Việt Nam tổ chức thực hiện, nhưng thời hạn cấp không quá 22 ngày làm việc.
+Trường hợp hồ sơ không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan thẩm quyền quản lý CITES Việt Nam thông báo cho tổ chức, cá nhân biết.
+- Trong vòng 01 ngày làm việc, kể từ ngày cấp giấy phép Cơ quan thẩm quyền quản lý CITES Việt Nam thực hiện việc trả giấy phép cho tổ chức, cá nhân đề nghị đồng thời đăng tải kết quả giải quyết lên cổng thông tin điện tử của Cơ quan thẩm quyền quản lý CITES Việt Nam.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quá 22 ngày làm việc||Trong thời hạn 08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước xuất khẩu, thời hạn cấp không quá 22 ngày làm việc.|
+|Trực tuyến|Không quá 22 ngày làm việc||Trong thời hạn 08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước xuất khẩu, thời hạn cấp không quá 22 ngày làm việc.|
+|Dịch vụ bưu chính|Không quá 22 ngày làm việc||Trong thời hạn 08 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước xuất khẩu, thời hạn cấp không quá 22 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+- Trường hợp nhập khẩu không vì mục đích thương mại phục vụ nghiên cứu khoa học, ngoại giao và tham gia triển lãm, biểu diễn xiếc:
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. ([Mẫu số 12.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8af546800c75a'))
+- 01 Bản sao + Một trong các giấy tờ tương ứng sau: Bản sao văn bản ký kết về chương trình hợp tác nghiên cứu khoa học do cơ quan có thẩm quyền phê duyệt đối với trường hợp nghiên cứu khoa học; hoặc văn bản xác nhận quà biếu, tặng ngoại giao do cơ quan có thẩm quyền phê duyệt đối với trường hợp phục vụ ngoại giao; hoặc bản sao giấy mời tham gia triển lãm, biểu diễn xiếc của cơ quan có thẩm quyền đối với trường hợp phục vụ triển lãm không vì mục đích thương mại, biễu diễn xiếc.
+
+
+- Trường hợp nhập khẩu mẫu vật tiền Công ước, mẫu vật săn bắn:
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. ([Mẫu số 12.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8af546800c75a'))
+- 01 Bản sao + Bản sao hồ sơ chứng minh mẫu vật tiền Công ước hoặc bản sao giấy phép, chứng chỉ của Cơ quan quản lý CITES nước xuất khẩu cấp đối với mẫu vật tiền Công ước; hoặc bản sao Giấy phép CITES xuất khẩu, giấy chứng nhận mẫu vật săn bắn do cơ quan có thẩm quyền của nước xuất khẩu cấp đối với mẫu vật săn bắn.
+
+
+Bao gồm
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. ([Mẫu số 12. Đề nghị cấp phép Cites.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd243fd25fe2766'))
+- 01 Bản sao + Bản sao Giấy phép CITES xuất khẩu do Cơ quan quản lý CITES của nước xuất khẩu, tái xuất khẩu cấp.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cơ quan Quản lý CITES Việt Nam - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cơ quan thẩm quyền quản lý CITES Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép CITES
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2019/NĐ-CP|Về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp|22-01-2019||
+|84/2021/NĐ-CP|84/2021/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 06/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp|22-09-2021|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp nhập khẩu mẫu vật sống của các loài động vật hoang dã để nuôi, giữ, phải đáp ứng một trong các điều kiện sau:
+- Cơ sở nuôi, trồng phù hợp với đặc tính sinh trưởng của loài được nuôi, trồng; đảm bảo an toàn cho người và vật nuôi, trồng, vệ sinh môi trường, phòng ngừa dịch bệnh.
+- Chuồng, trại được xây dựng phù hợp với đặc tính của loài nuôi; bảo đảm các điều kiện an toàn cho người và vật nuôi, vệ sinh môi trường, phòng ngừa dịch bệnh.
+Trường hợp nhập khẩu mẫu vật sống của các loài động vật hoang dã để nuôi, giữ, phải đáp ứng một trong các điều kiện sau:
+- Cơ sở nuôi, trồng phù hợp với đặc tính sinh trưởng của loài được nuôi, trồng; đảm bảo an toàn cho người và vật nuôi, trồng, vệ sinh môi trường, phòng ngừa dịch bệnh.
+- Chuồng, trại được xây dựng phù hợp với đặc tính của loài nuôi; bảo đảm các điều kiện an toàn cho người và vật nuôi, vệ sinh môi trường, phòng ngừa dịch bệnh.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

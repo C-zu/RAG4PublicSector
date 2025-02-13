@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi giấy chứng nhận đăng ký xe, biển số xe tại Công an cấp xã
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||+ Trực tiếp tại trụ sở Công an cấp xã. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). Không quá 2 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. Trường hợp giấy chứng nhận đăng ký xe, biển số xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, biển số xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe.|
+|Trực tuyến|02 Ngày làm việc||+ Khai báo thông tin thu hồi đăng ký, biển số xe qua Cổng Dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an. Không quá 2 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. Trường hợp giấy chứng nhận đăng ký xe, biển số xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, biển số xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe.|
+|Dịch vụ bưu chính|02 Ngày làm việc||+ Qua dịch vụ bưu chính công ích. Không quá 2 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. Trường hợp giấy chứng nhận đăng ký xe, biển số xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, biển số xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe.|

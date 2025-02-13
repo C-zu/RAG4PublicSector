@@ -1,0 +1,13 @@
+Tên thủ tục: Hưởng chế độ thai sản đối với lao động nữ sinh con
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản sao giấy khai sinh hoặc bản sao giấy chứng sinh của con
+- 01 Bản chính Bản sao giấy chứng tử của con trong trường hợp con chết, bản sao giấy chứng tử của mẹ trong trường hợp sau khi sinh con mà mẹ chết
+- 01 Bản chính Giấy xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về tình trạng người mẹ sau khi sinh con mà không còn đủ sức khỏe để chăm sóc con
+- 01 Bản chính Trích sao hồ sơ bệnh án hoặc giấy ra viện của người mẹ trong trường hợp con chết sau khi sinh mà chưa được cấp giấy chứng sinh
+- 01 Bản chính Giấy xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc lao động nữ phải nghỉ việc để dưỡng thai đối với trường hợp lao động nữ sinh con đã đóng bảo hiểm xã hội từ đủ 12 tháng trở lên mà khi mang thai phải nghỉ việc để dưỡng thai theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền
+- 01 Bản chính Danh sách người lao động nghỉ việc hưởng chế độ thai sản do người sử dụng lao động lập
+- 01 Bản chính Giấy tờ của người lao động là công dân nước ngoài làm việc tại Việt Nam do cơ quan nước ngoài cấp thì phải được dịch ra Tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam

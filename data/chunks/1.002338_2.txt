@@ -1,0 +1,32 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật trên cạn vận chuyển ra khỏi địa bàn cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Trước khi vận chuyển động vật, sản phẩm động vật ra khỏi địa bàn cấp tỉnh, chủ hàng phải đăng ký kiểm dịch với Chi cục có chức năng quản lý chuyên ngành thú y cấp tỉnh hoặc Trạm thuộc Chi cục có chức năng quản lý chuyên ngành thú y cấp tỉnh được ủy quyền (sau đây gọi là cơ quan kiểm dịch động vật nội địa).
+Bước 2: Tiến hành kiểm dịch và cấp Giấy chứng nhận kiểm dịch.
+(i) Kiểm dịch động vật vận chuyển ra khỏi địa bàn cấp tỉnh:
+* Đối với động vật xuất phát từ cơ sở theo quy định tại khoản 1 Điều 37 Luật Thú y, Cơ quan kiểm dịch động vật nội địa thực hiện như sau:
++ Kiểm tra lâm sàng;
++ Lấy mẫu xét nghiệm bệnh theo quy định tại Mục I của Phụ lục XI ban hành kèm theo Thông tư số 25/2016/TT-BNNPNT (được sửa đổi, bổ sung tại Thông tư số 09/2022/TT-BNNPTNT và Thông tư số 04/2024/TT-BNNPTNT): Mẫu xét nghiệm là mẫu gộp từ 05 mẫu đơn thành 01 mẫu để xét nghiệm tác nhân gây bệnh. Chỉ gộp mẫu đơn cùng loài động vật, cùng lô hàng, cùng một cơ sở chăn nuôi hoặc thu gom, kinh doanh động vật. Trường hợp không thể gộp mẫu để xét nghiệm theo mẫu gộp, xét nghiệm các tác nhân gây bệnh theo mẫu đơn;
++ Niêm phong, kẹp chì phương tiện chứa đựng, vận chuyển động vật;
++ Hướng dẫn, giám sát chủ hàng thực hiện tiêu độc khử trùng phương tiện chứa đựng, vận chuyển động vật;
++ Cấp Giấy chứng nhận kiểm dịch trong thời hạn 05 ngày làm việc kể từ ngày bắt đầu kiểm dịch nếu đáp ứng yêu cầu kiểm dịch; trường hợp kéo dài hơn 05 ngày làm việc cơ quan quản lý chuyên ngành thú y địa phương thông báo, trả lời bằng văn bản và nêu rõ lý do; trường hợp động vật không bảo đảm các yêu cầu vệ sinh thú y, cơ quan kiểm dịch động vật không cấp Giấy chứng nhận kiểm dịch, tiến hành xử lý theo quy định và thông báo, trả lời bằng văn bản và nêu rõ lý do.
++ Thông báo cho cơ quan kiểm dịch động vật nội địa nơi đến qua thư điện tử hoặc fax các thông tin sau đây: Số Giấy chứng nhận kiểm dịch, ngày cấp, số lượng hàng, mục đích sử dụng, biển kiểm soát phương tiện vận chuyển. Thực hiện thông báo ngay sau khi cấp Giấy chứng nhận kiểm dịch đối với động vật vận chuyển để làm giống, tổng hợp thông báo theo tuần đối với động vật vận chuyển để giết mổ.
+* Đối với động vật xuất phát từ cơ sở đã được công nhận an toàn dịch bệnh hoặc đã được giám sát không có mầm bệnh hoặc đã được phòng bệnh bằng vắc xin và còn miễn dịch bảo hộ với các bệnh theo quy định tại Phụ lục XI ban hành kèm theo Thông tư số 25/2016/TT-BNNPTNT (được sửa đổi, bổ sung tại Thông tư số 09/2022/TT-BNNPTNT), cơ quan kiểm dịch động vật nội địa thực hiện như sau:
++ Niêm phong, kẹp chì phương tiện chứa đựng, vận chuyển động vật;
++ Hướng dẫn, giám sát chủ hàng thực hiện tiêu độc khử trùng phương tiện chứa đựng, vận chuyển động vật;
++ Cấp Giấy chứng nhận kiểm dịch trong thời hạn 01 ngày làm việc, kể từ ngày nhận được đăng ký kiểm dịch;
++ Thông báo cho cơ quan kiểm dịch động vật nội địa nơi đến qua thư điện tử hoặc fax các thông tin sau đây: Số Giấy chứng nhận kiểm dịch, ngày cấp, số lượng hàng, mục đích sử dụng, biển kiểm soát phương tiện vận chuyển. Thực hiện thông báo ngay sau khi cấp Giấy chứng nhận kiểm dịch đối với động vật vận chuyển để làm giống, tổng hợp thông báo theo tuần đối với động vật vận chuyển để giết mổ.
+(ii) Kiểm dịch sản phẩm động vật trên cạn vận chuyển ra khỏi địa bàn cấp tỉnh
+* Đối với sản phẩm động vật xuất phát từ cơ sở theo quy định tại khoản 1 Điều 37 Luật Thú y, cơ quan kiểm dịch động vật nội địa thực hiện như sau:
++ Kiểm tra thực trạng hàng hóa; điều kiện bao gói, bảo quản sản phẩm động vật;
++ Lấy mẫu kiểm tra các chỉ tiêu vệ sinh thú y theo quy định tại Phụ lục XI ban hành kèm theo Thông tư số 25/2016/TT-BNNPTNT;
++ Niêm phong, kẹp chì phương tiện chứa đựng, vận chuyển sản phẩm động vật;
++ Hướng dẫn, giám sát chủ hàng thực hiện tiêu độc khử trùng phương tiện chứa đựng, vận chuyển sản phẩm động vật;
++ Cấp Giấy chứng nhận kiểm dịch trong thời hạn 05 ngày làm việc kể từ ngày bắt đầu kiểm dịch nếu đáp ứng yêu cầu kiểm dịch; trường hợp kéo dài hơn 05 ngày làm việc cơ quan quản lý chuyên ngành thú y địa phương thông báo, trả lời bằng văn bản và nêu rõ lý do; trường hợp sản phẩm động vật không bảo đảm các yêu cầu vệ sinh thú y, cơ quan kiểm dịch động vật không cấp Giấy chứng nhận kiểm dịch, tiến hành xử lý theo quy định và thông báo, trả lời bằng văn bản và nêu rõ lý do;
++ Tổng hợp thông báo theo tuần cho cơ quan kiểm dịch động vật nội địa nơi đến qua thư điện tử hoặc fax các thông tin sau đây: Số Giấy chứng nhận kiểm dịch, ngày cấp, loại hàng, số lượng hàng, mục đích sử dụng, biển kiểm soát phương tiện vận chuyển.
+* Đối với sản phẩm động vật xuất phát từ cơ sở đã được công nhận an toàn dịch bệnh hoặc đã được giám sát không có mầm bệnh hoặc đã được phòng bệnh bằng vắc xin và còn miễn dịch bảo hộ với các bệnh theo quy định tại Phụ lục XI ban hành kèm theo Thông tư số 25/2016/TT-BNNPTNT; từ cơ sở sơ chế, chế biến được định kỳ kiểm tra vệ sinh thú y; cơ quan kiểm dịch động vật nội địa thực hiện như sau:
++ Niêm phong, kẹp chì phương tiện chứa đựng, vận chuyển sản phẩm động vật;
++ Hướng dẫn, giám sát chủ hàng thực hiện tiêu độc khử trùng phương tiện chứa đựng, vận chuyển sản phẩm động vật;
++ Cấp Giấy chứng nhận kiểm dịch trong thời hạn 01 ngày làm việc, kể từ ngày nhận được đăng ký kiểm dịch;
++ Tổng hợp thông báo theo tuần cho cơ quan kiểm dịch động vật nội địa nơi đến qua thư điện tử hoặc fax các thông tin sau đây: Số Giấy chứng nhận kiểm dịch, ngày cấp, loại hàng, số lượng hàng, mục đích sử dụng, biển kiểm soát phương tiện vận chuyển.

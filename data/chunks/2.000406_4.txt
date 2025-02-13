@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục chứng nhận lãnh sự, hợp pháp hoá lãnh sự tại Cơ quan đại diện VIệt Nam ở nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a. Đối với việc chứng nhận lãnh sự giấy tờ, tài liệu của Việt Nam để được công nhận và sử dụng ở nước ngoài:
+- 01 Bản chính 01 Tờ khai chứng nhận/hợp pháp hoá lãnh sự theo mẫu số LS/HPH-2012/TK (có thể in từ Cổng thông tin điện tử về công tác lãnh sự - Bộ Ngoại giao: lanhsuvietnam.gov.vn). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedcbc3375b1aa0'">Mẫu LS.doc</a>)
+- 01 Bản chính Bản chính giấy tờ tùy thân (chứng minh nhân dân, hộ chiếu hoặc giấy tờ có giá trị thay thế hộ chiếu,…).
+- 01 Bản chính Giấy tờ, tài liệu đề nghị được chứng nhận lãnh sự (đã được Bộ Ngoại giao Việt Nam chứng nhận theo quy định tại Điều 11 và Điều 12 Nghị định số 111/2011/NĐ-CP).
+- 01 Bản sao 01 bản chụp các giấy tờ, tài liệu đề nghị được chứng nhận lãnh sự.
+
+
+b. Đối với việc hợp pháp hóa lãnh sự giấy tờ, tài liệu của nước ngoài để được công nhận và sử dụng ở Việt Nam:
+- 01 Bản chính 01 Tờ khai chứng nhận/hợp pháp hoá lãnh sự theo mẫu số LS/HPH-2012/TK. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe98aa5c7be76ce'">Mẫu LS.doc</a>)
+- 01 Bản chính Bản chính giấy tờ tùy thân (chứng minh nhân dân, hộ chiếu hoặc giấy tờ có giá trị thay thế hộ chiếu).
+- 01 Bản chính Giấy tờ, tài liệu đề nghị được hợp pháp hóa lãnh sự (đã được chứng nhận bởi Bộ Ngoại giao nước sở tại hoặc cơ quan có thẩm quyền khác của nước ngoài nơi có Cơ quan đại diện Việt Nam hoặc có Cơ quan đại diện Việt Nam kiêm nhiệm).
+- 01 Bản chính 01 bản dịch giấy tờ, tài liệu đề nghị được hợp pháp hóa lãnh sự sang tiếng Việt, tiếng Anh, trừ các trường hợp sau đây: + Giấy tờ, tài liệu đó được lập bằng tiếng Việt hoặc tiếng Anh; hoặc + Giấy tờ, tài liệu bằng tiếng Nga, tiếng Pháp, tiếng Tây Ban Nha, tiếng Trung, tiếng Đức và đề nghị hợp pháp hóa lãnh sự tại Cơ quan đại diện Việt Nam tương ứng ở Nga, Pháp, Tây Ban Nha, Trung Quốc, Đức; hoặc + Giấy tờ, tài liệu được lập bằng các thứ tiếng khác ngoài các tiếng Nga, Pháp, Tây Ban Nha, Trung, Đức, đề nghị hợp pháp hóa tại các Cơ quan đại diện khác, nếu Cơ quan đại diện này có cán bộ tiếp nhận hồ sơ hiểu được thứ tiếng đó.
+- 01 Bản sao 01 bản chụp bản dịch giấy tờ, tài liệu để lưu hồ sơ.
+- 01 Bản chính, 01 Bản sao * Trường hợp cần kiểm tra tính xác thực của giấy tờ, tài liệu đề nghị được hợp pháp hóa lãnh sự, cán bộ tiếp nhận hồ sơ có thể yêu cầu người đề nghị hợp pháp hóa xuất trình bổ sung bản chính giấy tờ, tài liệu có liên quan và nộp 01 bản chụp giấy tờ, tài liệu này.
+ Trường hợp cần kiểm tra tính xác thực của con dấu, chữ ký, chức danh trên giấy tờ, tài liệu đề nghị được chứng nhận lãnh sự thì ngay sau khi nhận hồ sơ, Cơ quan đại diện có văn bản đề nghị Bộ Ngoại giao Việt Nam xác minh. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đề nghị, Bộ Ngoại giao có trách nhiệm trả lời bằng văn bản cho Cơ quan đại diện. Ngay sau khi nhận được trả lời, Cơ quan đại diện giải quyết và thông báo kết quả cho người đề nghị chứng nhận lãnh sự.

@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký tập sự hành nghề công chứng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Trực tiếp|10 Ngày||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Trực tuyến|7 Ngày làm việc||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Trực tuyến|10 Ngày||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Dịch vụ bưu chính|7 Ngày làm việc||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Dịch vụ bưu chính|10 Ngày||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|

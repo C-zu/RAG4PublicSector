@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi, bổ sung lĩnh vực giám định của Văn phòng giám định tư pháp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||kể từ ngày nhận được hồ sơ hợp lệ của Văn phòng giám định tư pháp xin thay đổi, bổ sung lĩnh vực giám định, Giám đốc Sở Tư pháp xem xét, thẩm định, thống nhất ý kiến với người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh quản lý lĩnh vực giám định tư pháp, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định. Trong thời hạn 15 ngày, kể từ ngày Sở Tư pháp trình hồ sơ, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thay đổi, bổ sung lĩnh vực giám định. Trường hợp không cho phép thay đổi, bổ sung lĩnh vực giám định thì phải thông báo bằng văn bản và nêu rõ lý do.|
+|Dịch vụ bưu chính|30 Ngày||kể từ ngày nhận được hồ sơ hợp lệ của Văn phòng giám định tư pháp xin thay đổi, bổ sung lĩnh vực giám định, Giám đốc Sở Tư pháp xem xét, thẩm định, thống nhất ý kiến với người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh quản lý lĩnh vực giám định tư pháp, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định. Trong thời hạn 15 ngày, kể từ ngày Sở Tư pháp trình hồ sơ, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thay đổi, bổ sung lĩnh vực giám định. Trường hợp không cho phép thay đổi, bổ sung lĩnh vực giám định thì phải thông báo bằng văn bản và nêu rõ lý do.|

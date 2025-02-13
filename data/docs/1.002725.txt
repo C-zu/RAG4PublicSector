@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002725
+Số quyết định:
+1337/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+-  Trường hợp tổ chức, doanh nghiệp (sau đây viết chung là doanh nghiệp) đang tiến hành sản xuất tại Việt Nam, để bảo đảm duy trì hoạt động sản xuất, có nhu cầu nhập khẩu máy móc, thiết bị đã qua sử dụng có tuổi thiết bị vượt quá quy định tại khoản 1 Điều 6 Quyết định số 18/2019/QĐ-TTg ngày 19/4/2019 của Thủ tướng Chính phủ nhưng công suất (tính theo số lượng sản phẩm được tạo ra bởi máy móc, thiết bị trong một đơn vị thời gian) hoặc hiệu suất còn lại của máy móc, thiết bị vẫn đạt từ 85% trở lên so với công suất hoặc hiệu suất thiết kế và mức tiêu hao nguyên, vật liệu, năng lượng của máy móc, thiết bị không vượt quá 15% so với thiết kế
+Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cho phép nhập khẩu, trực tiếp hoặc qua bưu điện hoặc qua cổng dịch vụ công trực tuyến về Bộ Khoa học và Công nghệ để được xem xét, giải quyết.
+- Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ theo quy định
++ Trả lại ngay hồ sơ cho doanh nghiệp để sửa đổi, bổ sung trong trường hợp doanh nghiệp nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả (Bộ phận Một cửa) của Bộ Khoa học và Công nghệ;
++ Trường hợp nhận hồ sơ qua cổng dịch vụ công trực tuyến của Bộ Khoa học và Công nghệ, trong thời hạn 08 giờ làm việc kể từ thời điểm nhận hồ sơ, Bộ Khoa học và Công nghệ có ý kiến đề nghị doanh nghiệp sửa đổi, bổ sung hồ sơ;
++ Trường hợp nhận hồ sơ qua đường bưu điện, trong thời hạn 02 ngày làm việc kể từ ngày nhận hồ sơ, Bộ Khoa học và Công nghệ có văn bản đề nghị doanh nghiệp sửa đổi, bổ sung hồ sơ.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ
+Bộ Khoa học và Công nghệ gửi văn bản kèm theo bản chụp hồ sơ đề nghị các bộ, cơ quan ngang bộ liên quan có ý kiến. Trường hợp cần thiết, Bộ Khoa học và Công nghệ lấy ý kiến chuyên gia về máy móc, thiết bị đã qua sử dụng đề nghị được nhập khẩu.
+- Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Bộ Khoa học và Công nghệ
+Các bộ, cơ quan ngang bộ, chuyên gia có ý kiến về việc nhập khẩu máy móc, thiết bị trong lĩnh vực quản lý chuyên ngành và cho ý kiến về đề xuất được nhập khẩu máy móc, thiết bị của doanh nghiệp.
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được ý kiến của các bộ, cơ quan ngang bộ, chuyên gia
+Bộ Khoa học và Công nghệ có văn bản trả lời doanh nghiệp, nêu rõ lý do nếu không chấp thuận đề nghị nhập khẩu máy móc, thiết bị.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Nộp hồ sơ tại Trụ sở Bộ Khoa học và Công nghệ|
+|Trực tuyến|15 Ngày||Nộp hồ sơ tại Cổng dịch vụ công trực tuyến của Bộ Khoa học và Công nghệ|
+|Dịch vụ bưu chính|15 Ngày|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng (theo Mẫu số 01 Quyết định 18/2019/QĐ-TTg), theo đó giải trình về sự cần thiết phải nhập khẩu máy móc, thiết bị để bảo đảm duy trì hoạt động sản xuất kinh doanh, phương án sử dụng và sự cần thiết của máy móc, thiết bị dự kiến nhập khẩu trong dây chuyền công nghệ; ([Mẫu văn bản đề nghị cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7a0a74812ec16'))
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp có đóng dấu của doanh nghiệp
+- 01 Bản chính Chứng thư giám định được cấp bởi tổ chức giám định được Bộ Khoa học và Công nghệ chỉ định. Nội dung chứng thư giám định được thực hiện theo quy định tại điểm a, b, c, d, g khoản 1 Điều 10 Quyết định 18/2019/QĐ-TTg
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời tổ chức, doanh nghiệp về việc chấp thuận đề nghị cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2017/QH14|Luật 05/2017/QH14|12-06-2017|Quốc Hội|
+|69/2018/NĐ-CP|Nghị định 69/2018/NĐ-CP|15-05-2018|Chính phủ|
+|18/2019/QĐ-TTg|Quyết định 18/2019/QĐ-TTg|19-04-2019|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Đối tượng thực hiện TTHC: Doanh nghiệp nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác.
+- Máy móc, thiết bị đã qua sử dụng nhập khẩu có tuổi thiết bị vượt quá quy định tại khoản 1 Điều 6 Quyết định số 18/2019/QĐ-TTg nhưng công suất (tính theo số lượng sản phẩm được tạo ra bởi máy móc, thiết bị trong một đơn vị thời gian) hoặc hiệu suất còn lại của máy móc, thiết bị vẫn đạt từ 85% trở lên so với công suất hoặc hiệu suất thiết kế và mức tiêu hao nguyên, vật liệu, năng lượng của máy móc, thiết bị không vượt quá 15% so với thiết kế.
+- Đối tượng thực hiện TTHC: Doanh nghiệp nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác.
+- Máy móc, thiết bị đã qua sử dụng nhập khẩu có tuổi thiết bị vượt quá quy định tại khoản 1 Điều 6 Quyết định số 18/2019/QĐ-TTg nhưng công suất (tính theo số lượng sản phẩm được tạo ra bởi máy móc, thiết bị trong một đơn vị thời gian) hoặc hiệu suất còn lại của máy móc, thiết bị vẫn đạt từ 85% trở lên so với công suất hoặc hiệu suất thiết kế và mức tiêu hao nguyên, vật liệu, năng lượng của máy móc, thiết bị không vượt quá 15% so với thiết kế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

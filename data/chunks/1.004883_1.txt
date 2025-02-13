@@ -1,0 +1,16 @@
+Tên thủ tục: Chấp thuận chủ trương xây dựng đường ngang (đối với đường sắt có tốc độ thiết kế nhỏ hơn 100 km/giờ giao nhau với đường bộ; đường sắt giao nhau với đường bộ từ cấp IV trở xuống)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004883
+Số quyết định:
+21/QĐ-BGTVT
+Tên thủ tục:
+Chấp thuận chủ trương xây dựng đường ngang (đối với đường sắt có tốc độ thiết kế nhỏ hơn 100 km/giờ giao nhau với đường bộ; đường sắt giao nhau với đường bộ từ cấp IV trở xuống)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt

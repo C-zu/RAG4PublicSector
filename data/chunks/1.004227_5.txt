@@ -1,0 +1,32 @@
+Tên thủ tục: Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp Giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ); giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận (Cấp tỉnh - trường hợp đã thành lập VP đăng ký đất đai)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai
+Cơ quan có thẩm quyền:
+Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Ủy ban nhân dân cấp xã
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng đất quyền sở hữu nhà ở và tài sản khác gắn liền với đất tài sản khác gắn liền với đất, Ghi vào sổ địa chính và lập hồ sơ để Nhà nước quản lý.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP ngày 06 tháng 01 năm 2014 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai|06-01-2017|Chính phủ|
+|45/2013/QH13|Luật 45/2013/QH13|02-01-2014|Quốc Hội|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|23/2014/TT-BTNMT|Thông tư số 23/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất|19-05-2014|Bộ Tài nguyên và Môi trường|
+|24/2014/TT-BTNMT|Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính|19-05-2014|Bộ Tài nguyên và Môi trường|
+|33/2017/TT-BTNMT|Thông tư số 33/2017/TT-BTNMT ngày 29/9/2017 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai và sửa đổi, bổ sung một số điều của các thông tư hướng dẫn thi hành Luật Đất đai|29-09-2017|Bộ Tài nguyên và Môi trường|
+|148/2020/NĐ-CP|Nghị định 148/2020/NĐ-CP|18-12-2020||
+|09/2021/TT-BTNMT|Thông tư 09/2021/TT-BTNMT|30-06-2021||
+|104/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của các nghị định liên quan đến việc nộp, xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công|21-12-2022|Chính phủ|
+|10/2023/NĐ-CP|Nghị định 10/2023/NĐ-CP|03-04-2023||
+|85/2019/TT-BTC|Thông tư 85/2019/TT-BTC|29-11-2019||
+|14/2023/TT- BTNMT|Thông tư số|16-10-2023|Bộ Tài nguyên và Môi trường|

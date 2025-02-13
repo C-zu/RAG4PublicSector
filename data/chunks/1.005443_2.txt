@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp, phân bổ số hiệu mạng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Cơ quan, tổ chức, doanh nghiệp đã được cấp, phân bổ địa chỉ IP từ Trung tâm Internet Việt Nam có nhu cầu cấp, phân bổ số hiệu mạng hoặc thay đổi tên chủ thể đăng ký sử dụng số hiệu mạng thì chuẩn bị hồ sơ cấp, phân bổ số hiệu mạng theo quy định và nộp đến Trung tâm Internet Việt Nam
+2. Trung tâm Internet Việt Nam tiếp nhận và giải quyết hồ sơ theo quy định.
+3. Trả kết quả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Trung tâm Internet Việt Nam có trách nhiệm cấp, phân bổ số hiệu mạng cho cơ quan, tổ chức, doanh nghiệp theo mẫu quy định tại Phụ lục 11a ban hành kèm theo Thông tư số 21/2021/TT-BTTTT. 
+Trường hợp từ chối cấp, Trung tâm Internet Việt Nam phải thông báo bằng văn bản và nêu rõ lý do.

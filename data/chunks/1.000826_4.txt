@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục cấp Giấy phép nhập cảnh thi hài, hài cốt, tro cốt về Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giấy tờ của người chết
+- 01 Bản sao Bản chụp giấy tờ chứng minh nhân thân của người chết (Chứng minh nhân dân, Thẻ căn cước, hộ chiếu hoặc giấy tờ có giá trị nhập cảnh, xuất cảnh).
+- 01 Bản sao Bản chụp giấy phép thường trú tại Việt Nam của người chết
+- 01 Bản sao Bản chụp Giấy chứng nhận vệ sinh, kiểm dịch y tế do cơ quan có thẩm quyền của nước ngoài cấp (đối với thi hài); Giấy chứng nhận khai quật và Giấy chứng nhận vệ sinh, kiểm dịch y tế do cơ quan có thẩm quyền của nước ngoài cấp (đối với hài cốt); Giấy chứng nhận hỏa thiêu thi hài (đối với tro cốt)
+- 01 Bản sao Bản chụp Đơn xin phép mang thi hài/hài cốt/tro cốt của người thân về chôn cất/bảo quản tại địa phương (mẫu số 02/NG-LS ban hành kèm theo Thông tư số 01/2011/TT-BNG) có xác nhận đồng ý của ủy ban nhân dân xã, phường, thị trấn hoặc cơ quan quản lý nghĩa trang tại Việt Nam (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc535552bcac844'">mauso 02.doc</a>)
+- 01 Bản sao Bản chụp Giấy chứng tử do cơ quan có thẩm quyền của nước ngoài hoặc Cơ quan đại diện Việt Nam ở nước ngoài cấp cho người chết
+- 01 Bản sao Bản sao giấy phép do cơ quan có thẩm quyền nước sở tại cho phép xuất cảnh thi hài/di hài
+
+
+Giấy tờ của người đề nghị
+- 01 Bản chính Đơn đề nghị đưa thi hài, hài cốt, tro cốt về nước theo mẫu số 01/NG-LS ban hành kèm theo Thông tư số 01/2011/TT-BNG (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4b49422fa65a4'">mauso 01.doc</a>)
+- 01 Bản chính - 01 bản chụp hộ chiếu hoặc giấy tờ có giá trị xuất cảnh, nhập cảnh của người đề nghị;
+- 01 Bản chính - 01 bản chụp giấy tờ chứng minh quan hệ thân nhân với người chết;
+- 01 Bản chính - 01 bản chụp một trong các loại giấy tờ: căn cước công dân, giấy xác nhận thông tin về cư trú, giấy thông báo số định danh cá nhân và thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư trong trường hợp người chết là người Việt Nam cư trú ở nước ngoài có thân nhân thường trú tại Việt Nam.
+- 01 Bản chính, 01 Bản sao - Bản gốc văn bản ủy quyền trong trường hợp người đề nghị được thân nhân của người chết ủy quyền bằng văn bản. - Bản gốc văn bản ủy quyền trong trường hợp người đề nghị là cơ quan, đơn vị chủ quản của người chết.

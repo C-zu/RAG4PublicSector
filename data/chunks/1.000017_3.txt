@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận, tem kiểm định chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí cấp giấy chứng nhận|01 ngày làm việc kể từ ngày nhận được đề nghị|
+|Trực tuyến|1 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí cấp giấy chứng nhận|01 ngày làm việc kể từ ngày nhận được đề nghị|
+|Dịch vụ bưu chính|1 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí cấp giấy chứng nhận|01 ngày làm việc kể từ ngày nhận được đề nghị|

@@ -1,0 +1,14 @@
+Tên thủ tục: Xác nhận bảng kê lâm sản.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Bước 1: Nộp hồ sơ
+Chủ lâm sản hoặc tổ chức, cá nhân được chủ lâm sản ủy quyền nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ tương ứng với từng loại lâm sản đề nghị xác nhận đến Cơ quan Kiểm lâm cấp huyện hoặc Cơ quan Kiểm lâm cấp tỉnh ở những địa phương không có Cơ quan Kiểm lâm cấp huyện (Cơ quan kiểm lâm sở tại).
+Trường hợp chủ lâm sản tạo mã phản hồi nhanh (QR) chứa đựng hồ sơ lâm sản trong Bảng kê lâm sản thì không phải nộp hồ sơ quy định tại các điểm c, d, đ, e và g khoản 7 Điều 5 Thông tư số 26/2022/TT-BNNPTNT. 
+Trường hợp nộp hồ sơ qua môi trường điện tử thực hiện theo quy định tại Nghị định số 45/2020/NĐ-CP.
+b) Bước 2: Tiếp nhận hồ sơ
+Trường hợp nộp hồ sơ trực tiếp: Cơ quan Kiểm lâm sở tại kiểm tra thành phần hồ sơ và trả lời ngay tính hợp lệ của thành phần hồ sơ cho chủ lâm sản hoặc tổ chức, cá nhân được chủ lâm sản ủy quyền.
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường điện tử: Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, Cơ quan Kiểm lâm sở tại xem xét tính hợp lệ của thành phần hồ sơ; trường hợp hồ sơ không hợp lệ theo quy định, thông báo bằng văn bản và nêu rõ lý do.
+c) Bước 3: Thẩm định và trả kết quả
+Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan Kiểm lâm sở tại xác nhận Bảng kê lâm sản; xác nhận lâm sản tồn trong Sổ theo dõi nhập, xuất lâm sản đối với trường hợp tổ chức, hộ kinh doanh; xác nhận Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp.
+Trường hợp cần xác minh nguồn gốc lâm sản, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan Kiểm lâm sở tại thông báo cho chủ lâm sản về việc xác minh; trong thời hạn 03 ngày làm việc kể từ ngày thông báo, Cơ quan Kiểm lâm sở tại tiến hành xác minh, lập Biên bản xác minh theo Mẫu số 08 tại Phụ lục ban hành kèm theo Thông tư số 26/2022/TT-BNNPTNT và hoàn thành xác nhận Bảng kê lâm sản; xác nhận lâm sản tồn vào Sổ theo dõi nhập, xuất lâm sản đối với tổ chức, hộ kinh doanh; trường hợp có nhiều nội dung phức tạp, việc xác minh và xác nhận được thực hiện không quá 07 ngày. Trường hợp không xác nhận thì trả lời bằng văn bản và nêu rõ lý do.

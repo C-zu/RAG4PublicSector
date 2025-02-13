@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính (cấp Tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Giấy đề nghị cấp sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd367c0796a7aaa'">Phụ lục IV giay de nghi sua dôi bo sung xntb.docx</a>)
+- 01 Bản chính, 01 Bản sao - Tài liệu liên quan đến nội dung đề nghị sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+- 01 Bản chính, 01 Bản sao Số lượng hồ sơ: 01 bộ là bản gốc

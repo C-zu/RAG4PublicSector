@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục thực hiện chế độ một lần đối với đối tượng hạ sĩ quan, chiến sĩ quân đội theo Quyết định số 188/2007/QĐ-TTg (đối tượng cư trú ở địa phương khác không còn lưu giữ được giấy tờ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Bản khai cá nhân hoặc Bản khai thân nhân (phải kèm theo giấy uỷ quyền của các thân nhân chủ yếu khác), có xác nhận của chính quyền xã nơi cư trú (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6332849ec1936'">Mẫu 2A.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf656395b2bd00'">Mẫu 2B.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb487a680010ab'">Mẫu 04.doc</a>)
+- 02 Bản chính Biên bản xem xét và xác nhận đối tượng của hội nghị liên tịch thôn, xóm, tổ dân phố, ấp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc8bd74a78c58e'">Mẫu 05. BIÊN BẢN HỌI NGHỊ LIÊN TICH.docx</a>)
+- 02 Bản chính Biên bản xét và xác nhận của Hội nghị Ban chấp hành Hội Cựu chiến binh xã, phường (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeea9df33bd396'">Mẫu 06. BIÊN BẢN HỘI NGHỊ BCH HỘI CỰU CHIẾN BINH.docx</a>)
+- 02 Bản chính Công văn đề nghị hưởng chế độ một lần cho đối tượng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f64bb8114df6'">Mẫu 8A.docx</a>)
+- 02 Bản chính Công văn đề nghị của UBND xã, phường (kèm danh sách) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd02da609e9fc8'">Mẫu 7A.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8762ec0ad640c'">Mẫu 9B.docx</a>)

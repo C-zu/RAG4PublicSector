@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde619b37656c54'">Phụ lục II.docx</a>)
+- 01 Bản sao - Bản sao chụp Giấy phép khảo nghiệm đã được cấp.
+- 01 Bản chính - Mẫu nhãn thuốc.
+- 01 Bản chính - Bản chính kết quả khảo nghiệm hiệu lực sinh học, kết quả khảo nghiệm xác định thời gian cách ly và báo cáo tổng hợp kết quả khảo nghiệm (theo mẫu quy định tại Phụ lục VI, Phụ lục VII và Phụ lục XI ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3a8a871187fe4'">Phụ lục VI.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedf0afe2525de2'">Phu luc IX.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3f7a6910f190e'">phu luc VII.docx</a>)
+ Số lượng hồ sơ: 01 bản giấy và 01 bản điện tử định dạng word hoặc excel hoặc power point đối với mẫu nhãn.

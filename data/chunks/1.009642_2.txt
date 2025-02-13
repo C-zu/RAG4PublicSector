@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục chấp thuận nhà đầu tư của UBND cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp 1: Nhà đầu tư duy nhất đã đăng ký tham gia đấu giá hoặc nhà đầu tư đề nghị thực hiện dự án đầu tư sau khi tổ chức đấu giá ít nhất 02 lần nhưng không thành theo quy định tại điểm a khoản 3 Điều 29 Nghị định số 31 2021/NĐ-CP được xem xét chấp thuận theo thủ tục sau:
+- Bước 1: Nhà đầu tư nộp hồ sơ đề nghị chấp thuận nhà đầu tư cho Sở Kế hoạch và Đầu tư tại nơi dự kiến thực hiện dự án đầu tư;
+- Bước 2: Sở Kế hoạch và Đầu tư gửi hồ sơ lấy ý kiến của cơ quan nhà nước có liên quan về việc đáp ứng yêu cầu quy định tại các điểm b, c và d khoản 4 Điều 33 Luật Đầu tư. Đối với dự án đã được Quốc hội, Thủ tướng Chính phủ chấp thuận chủ trương đầu tư, Sở Kế hoạch và Đầu tư đồng thời gửi hồ sơ lấy ý kiến Bộ Kế hoạch và Đầu tư;
+- Bước 3: Cơ quan được lấy ý kiến có ý kiến về nội dung thuộc phạm vi quản lý nhà nước của mình, gửi Sở Kế hoạch và Đầu tư;
+- Bước 4: Sở Kế hoạch và Đầu tư lập báo cáo thẩm định gồm các nội dung theo quy định tại các điểm b, c và d khoản 4 Điều 33 Luật Đầu tư, trình Ủy ban nhân dân cấp tỉnh;
+- Bước 5: Ủy ban nhân dân cấp tỉnh chấp thuận nhà đầu tư và gửi Quyết định chấp thuận nhà đầu tư cho Bộ Kế hoạch và Đầu tư (đối với dự án đã được Quốc hội, Thủ tướng Chính phủ chấp thuận chủ trương đầu tư); cơ quan tổ chức đấu giá; Sở Kế hoạch và Đầu tư và nhà đầu tư.
+Trường hợp 2: Nhà đầu tư đáp ứng các điều kiện quy định tại điểm b khoản 3 Điều 29 Nghị định số 31/2021/NĐ-CP được xem xét chấp thuận theo thủ tục sau:
+- Bước 1: Nhà đầu tư nộp hồ sơ đề nghị chấp thuận nhà đầu tư cho Sở Kế hoạch và Đầu tư tại nơi dự kiến thực hiện dự án đầu tư;
+- Bước 2: Sở Kế hoạch và Đầu tư gửi báo cáo kết quả đánh giá sơ bộ năng lực, kinh nghiệm và hồ sơ để lấy ý kiến của cơ quan nhà nước có liên quan về việc đáp ứng yêu cầu quy định tại các điểm b, c và d khoản 4 Điều 33 Luật Đầu tư. Đối với dự án đã được Quốc hội, Thủ tướng Chính phủ chấp thuận chủ trương đầu tư, Sở Kế hoạch và Đầu tư đồng thời gửi hồ sơ lấy ý kiến Bộ Kế hoạch và Đầu tư;
+- Bước 3:  Cơ quan được lấy ý kiến có ý kiến về nội dung thuộc phạm vi quản lý nhà nước của mình, gửi Sở Kế hoạch và Đầu tư;
+- Bước 4: Sở Kế hoạch và Đầu tư lập báo cáo thẩm định gồm các nội dung theo quy định tại các điểm b, c và d khoản 4 Điều 33 Luật Đầu tư, trình Ủy ban nhân dân cấp tỉnh;
+- Bước 5:  Ủy ban nhân dân cấp tỉnh chấp thuận nhà đầu tư và gửi Quyết định chấp thuận nhà đầu tư cho Bộ Kế hoạch và Đầu tư (đối với dự án đã được Quốc hội, Thủ tướng Chính phủ chấp thuận chủ trương đầu tư); cơ quan tổ chức đấu giá; Sở Kế hoạch và Đầu tư và nhà đầu tư.

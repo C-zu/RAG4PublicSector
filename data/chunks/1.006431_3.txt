@@ -1,0 +1,7 @@
+Tên thủ tục: Điều chỉnh giấy chứng nhận đủ điều kiện xét nghiệm khẳng định các trường hợp HIV dương tính thuộc thẩm quyền của Sở Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|

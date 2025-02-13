@@ -1,0 +1,15 @@
+Tên thủ tục: Phục hồi hoạt động của cơ sở, phương tiện giao thông cơ giới, hộ gia đình và cá nhân (thực hiện tại cấp trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện: 
+- Nộp hồ sơ trực tiếp tại Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ;
+- Trực tuyến tại Cổng dịch vụ công (nếu có);
+- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.
+Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của 
+pháp luật).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|07 Ngày làm việc||Trực tuyến tại Cổng dịch vụ công (nếu có); Thời hạn giải quyết: 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Thời hạn giải quyết: 07 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

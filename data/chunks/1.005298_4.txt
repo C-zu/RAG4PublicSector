@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục khai báo chất phóng xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c4f9e54367f4'">phieu khai bao nguon phong xa kin.doc</a>)
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín đã qua sử dụng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1a1b2b4d386e4'">phieu khai bao nguon phog xa da qua su dung.doc</a>)
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ hở (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed47d192921c0'">phieu khai bao nguon phong xa ho.doc</a>)

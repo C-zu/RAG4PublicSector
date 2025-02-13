@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp thay đổi nội dung, cấp lại Giấy chứng nhận doanh nghiệp khoa học và công nghệ.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đề nghị cấp thay đổi nội dung, cấp lại Giấy chứng nhận doanh nghiệp khoa học và công nghệ (theo Mẫu số 04); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdad03f60346dbe'">Mẫu số 04-Giấy đề nghị thay đổi nội dung.docx</a>)
+- 01 Bản chính - Đối với trường hợp thay đổi thông tin đăng ký doanh nghiệp: Văn bản, tài liệu chứng minh về việc thay đổi thông tin đăng ký doanh nghiệp;
+ - Đối với trường hợp bổ sung danh mục sản phẩm hình thành từ kết quả khoa học và công nghệ:
+- 01 Bản sao + Văn bản xác nhận, công nhận kết quả khoa học và công nghệ của cơ quan có thẩm quyền (bản sao xuất trình kèm bản chính để đối chiếu hoặc bản sao có chứng thực) thuộc một trong các văn bản đã quy định;
+- 01 Bản chính + Phương án sản xuất, kinh doanh sản phẩm hình thành từ kết quả khoa học và công nghệ (theo Mẫu số 02). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd655e352c44118'">Mẫu số 04-Giấy đề nghị thay đổi nội dung.docx</a>)

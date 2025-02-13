@@ -1,0 +1,7 @@
+Tên thủ tục: Xác nhận xe thuộc đối tượng không chịu phí sử dụng đường bộ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tổ chức, cá nhân nộp hồ sơ tại Trung tâm Phục vụ hành chính công (PVHCC) tỉnh hoặc qua hệ thống dịch vụ công trực tuyến. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.

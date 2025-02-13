@@ -1,0 +1,13 @@
+Tên thủ tục: Nộp lại Giấy chứng nhận đăng ký đầu tư - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+Tổ chức cá nhân đến nộp hồ sơ, chuyên viên tiếp nhận hồ sơ kiểm tra đồng thời cập nhật vào sổ theo dõi hồ sơ và yêu cầu cá nhân nộp hồ sơ ký vào sổ tiếp nhận để kết thúc quá trình xử lý. Lập phiếu theo dõi quá trình xử lý công việc.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Chuyên viên phòng chuyên môn vào sổ theo dõi và cập nhật vào phần mềm (nếu có), dự thảo văn bản thông báo (nếu có)
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC.
+B6	Phê duyệt kết quả giải quyết TTHC
+B7	Phát hành văn bản và trả kết quả cho TTHC công
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn

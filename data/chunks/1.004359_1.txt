@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp, cấp lại giấy phép khai thác thủy sản
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004359
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Cấp, cấp lại giấy phép khai thác thủy sản
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản

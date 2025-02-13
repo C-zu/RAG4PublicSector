@@ -1,0 +1,34 @@
+Tên thủ tục: Xác nhận người lao động nước ngoài không thuộc diện cấp Giấy phép lao động - BQL
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1. Người lao động nước ngoài quy định tại các Khoản 1, 2, 3, 4, 5, 6, 7 và 8 Điều 172 của Bộ luật Lao động.
+2. Các trường hợp người lao động nước ngoài khác không thuộc diện cấp giấy phép lao động, bao gồm:
+a) Di chuyển trong nội bộ doanh nghiệp thuộc phạm vi 11 ngành dịch vụ trong biểu cam kết dịch vụ của Việt Nam với Tổ chức Thương mại thế giới, bao gồm: kinh doanh, thông tin, xây dựng, phân phối, giáo dục, môi trường, tài chính, y tế, du lịch, văn hóa giải trí và vận tải;
+b) Vào Việt Nam để cung cấp dịch vụ tư vấn về chuyên môn và kỹ thuật hoặc thực hiện các nhiệm vụ khác phục vụ cho công tác nghiên cứu, xây dựng, thẩm định, theo dõi đánh giá, quản lý và thực hiện chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA) theo quy định hay thỏa thuận trong các điều ước quốc tế về ODA đã ký kết giữa cơ quan có thẩm quyền của Việt Nam và nước ngoài;
+c) Được Bộ Ngoại giao cấp giấy phép hoạt động thông tin, báo chí tại Việt Nam theo quy định của pháp luật;
+d) Được cơ quan, tổ chức của nước ngoài cử sang Việt Nam giảng dạy, nghiên cứu tại trường quốc tế thuộc phạm vi quản lý của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam hoặc được Bộ Giáo dục và Đào tạo xác nhận vào giảng dạy, nghiên cứu tại các cơ sở giáo dục, đào tạo tại Việt Nam;
+đ) Tình nguyện viên có xác nhận của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam;
+e) Vào Việt Nam làm việc tại vị trí chuyên gia, nhà quản lý, giám đốc điều hành hoặc lao động kỹ thuật có thời gian làm việc dưới 30 ngày và thời gian cộng dồn không quá 90 ngày trong 01 năm;
+g) Vào Việt Nam thực hiện thỏa thuận quốc tế mà cơ quan, tổ chức ở Trung ương, cấp tỉnh ký kết theo quy định của pháp luật;
+h) Học sinh, sinh viên đang học tập tại các trường, cơ sở đào tạo ở nước ngoài có thỏa thuận thực tập trong các cơ quan, tổ chức, doanh nghiệp tại Việt Nam;
+i) Thân nhân thành viên cơ quan đại diện nước ngoài tại Việt Nam làm việc sau khi được Bộ Ngoại giao cấp phép, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác;
+k) Có hộ chiếu công vụ vào làm việc cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội;
+l) Các trường hợp khác do Thủ tướng Chính phủ quyết định theo đề nghị của Bộ Lao động - Thương binh và Xã hội.
+1. Người lao động nước ngoài quy định tại các Khoản 1, 2, 3, 4, 5, 6, 7 và 8 Điều 172 của Bộ luật Lao động.
+2. Các trường hợp người lao động nước ngoài khác không thuộc diện cấp giấy phép lao động, bao gồm:
+a) Di chuyển trong nội bộ doanh nghiệp thuộc phạm vi 11 ngành dịch vụ trong biểu cam kết dịch vụ của Việt Nam với Tổ chức Thương mại thế giới, bao gồm: kinh doanh, thông tin, xây dựng, phân phối, giáo dục, môi trường, tài chính, y tế, du lịch, văn hóa giải trí và vận tải;
+b) Vào Việt Nam để cung cấp dịch vụ tư vấn về chuyên môn và kỹ thuật hoặc thực hiện các nhiệm vụ khác phục vụ cho công tác nghiên cứu, xây dựng, thẩm định, theo dõi đánh giá, quản lý và thực hiện chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA) theo quy định hay thỏa thuận trong các điều ước quốc tế về ODA đã ký kết giữa cơ quan có thẩm quyền của Việt Nam và nước ngoài;
+c) Được Bộ Ngoại giao cấp giấy phép hoạt động thông tin, báo chí tại Việt Nam theo quy định của pháp luật;
+d) Được cơ quan, tổ chức của nước ngoài cử sang Việt Nam giảng dạy, nghiên cứu tại trường quốc tế thuộc phạm vi quản lý của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam hoặc được Bộ Giáo dục và Đào tạo xác nhận vào giảng dạy, nghiên cứu tại các cơ sở giáo dục, đào tạo tại Việt Nam;
+đ) Tình nguyện viên có xác nhận của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam;
+e) Vào Việt Nam làm việc tại vị trí chuyên gia, nhà quản lý, giám đốc điều hành hoặc lao động kỹ thuật có thời gian làm việc dưới 30 ngày và thời gian cộng dồn không quá 90 ngày trong 01 năm;
+g) Vào Việt Nam thực hiện thỏa thuận quốc tế mà cơ quan, tổ chức ở Trung ương, cấp tỉnh ký kết theo quy định của pháp luật;
+h) Học sinh, sinh viên đang học tập tại các trường, cơ sở đào tạo ở nước ngoài có thỏa thuận thực tập trong các cơ quan, tổ chức, doanh nghiệp tại Việt Nam;
+i) Thân nhân thành viên cơ quan đại diện nước ngoài tại Việt Nam làm việc sau khi được Bộ Ngoại giao cấp phép, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác;
+k) Có hộ chiếu công vụ vào làm việc cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội;
+l) Các trường hợp khác do Thủ tướng Chính phủ quyết định theo đề nghị của Bộ Lao động - Thương binh và Xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

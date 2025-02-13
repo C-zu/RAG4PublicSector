@@ -1,0 +1,12 @@
+Tên thủ tục: Khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Bước 1: Nộp hồ sơ
+Tổ chức, cá nhân nộp Phiếu yêu cầu cung cấp thông tin, dữ liệu tài nguyên và môi trường (theo mẫu số 02 hoặc mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 đã sửa đổi theo quy định của Nghị định số 22/2023/NĐ-CP) qua Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh, Cổng dịch vụ công quốc gia theo địa chỉ https://dichvucong.gov.vn hoặc trực tiếp hoặc gửi qua dịch vụ bưu chính đến Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương.
+b) Bước 2: Kiểm tra hồ sơ
+Sở Tài nguyên và Môi trường các tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Cơ quan quản lý thông tin, dữ liệu) có trách nhiệm kiểm tra yêu cầu khai thác và sử dụng thông tin, dữ liệu của tổ chức, cá nhân, đảm bảo được thuận tiện, dễ dàng và đúng kết quả.
+c) Bước 3: Thông báo và trả kết quả hồ sơ
+Trường hợp thông tin yêu cầu hợp lệ, cơ quan quản lý thông tin, dữ liệu thực hiện việc cung cấp thông tin, dữ liệu cho tổ chức, cá nhân.
+Trường hợp từ chối cung cấp thông tin, dữ liệu thì cơ quan quản lý thông tin, dữ liệu phải gửi thông tin thông báo nêu rõ lý do cho tổ chức, cá nhân.
+Trường hợp tạm ngừng cung cấp thông tin, dữ liệu, dịch vụ có liên quan trên môi trường mạng, cơ quan cung cấp thông tin, dữ liệu có trách nhiệm thông báo công khai chậm nhất là 07 ngày làm việc trước khi chủ động tạm ngừng cung cấp trừ trường hợp bất khả kháng.

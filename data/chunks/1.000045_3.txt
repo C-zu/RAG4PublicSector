@@ -1,0 +1,15 @@
+Tên thủ tục: Xác nhận bảng kê lâm sản.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||- Trường hợp không phải xác minh: 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tiếp|04 Ngày làm việc||- Trường hợp phải xác minh: 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tiếp|08 Ngày làm việc||- Trường hợp xác minh có nhiều nội dung phức tạp: Không quá 08 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|02 Ngày làm việc||- Trường hợp không phải xác minh: 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|04 Ngày làm việc||- Trường hợp phải xác minh: 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|08 Ngày làm việc||- Trường hợp xác minh có nhiều nội dung phức tạp: Không quá 08 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|02 Ngày làm việc||- Trường hợp không phải xác minh: 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|04 Ngày làm việc||- Trường hợp phải xác minh: 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|08 Ngày làm việc||- Trường hợp xác minh có nhiều nội dung phức tạp: Không quá 08 ngày kể từ ngày nhận được hồ sơ hợp lệ.|

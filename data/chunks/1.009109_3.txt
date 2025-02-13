@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp mã địa điểm thu gom hàng lẻ ( đối với doanh nghiệp kinh doanh địa điểm thu gom hàng lẻ nằm trong khu vực cảng biển, cảng cạn là doanh nghiệp kinh doanh cảng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||1. Trong thời hạn 05 ngày làm việc kể từ khi nhận được đề nghị của Doanh nghiệp, Cục hải quan tỉnh, thành phố hoàn thành việc kiểm tra thực tế địa điểm thu gom hàng lẻ; 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả kiểm tra thực tế địa điểm thu gom hàng lẻ của Cục Hải quan tỉnh, thành phố, Tổng cục Hải quan thực hiện cấp mã, ra thông báo cho Doanh nghiệp và Hải quan tỉnh, thành phố.|
+|Dịch vụ bưu chính|10 Ngày làm việc||1. Trong thời hạn 05 ngày làm việc kể từ khi nhận được đề nghị của Doanh nghiệp, Cục hải quan tỉnh, thành phố hoàn thành việc kiểm tra thực tế địa điểm thu gom hàng lẻ; 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả kiểm tra thực tế địa điểm thu gom hàng lẻ của Cục Hải quan tỉnh, thành phố, Tổng cục Hải quan thực hiện cấp mã, ra thông báo cho Doanh nghiệp và Hải quan tỉnh, thành phố.|

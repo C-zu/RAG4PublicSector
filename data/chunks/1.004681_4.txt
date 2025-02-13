@@ -1,0 +1,18 @@
+Tên thủ tục: Gia hạn giấy phép kết nối, bãi bỏ kết nối các tuyến đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị bãi bỏ kết nối gồm:
+- 01 Bản chính + Đơn đề nghị bãi bỏ kết nối của tổ chức, cá nhân theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f46c14d314e8800'">12.2-Mẫu đơn đề nghị .doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường mạng) tài liệu: Phương án tổ chức thi công khi bãi bỏ kết nối.
+
+
+Hồ sơ đề nghị gia hạn thời gian khai thác, sử dụng kết nối gồm:
+- 01 Bản chính Đơn đề nghị gia hạn của chủ đầu tư theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd74717d4ebc44c'">12.1-Mẫu đơn đề nghị (1).doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường mạng) tài liệu: Văn bản pháp lý chứng minh lý do đề nghị kéo dài thời gian khai thác, sử dụng kết nối theo giấy phép được cấp;
+
+
+Hồ sơ đề nghị gia hạn thời gian thi công kết nối gồm:
+- 01 Bản chính Đơn đề nghị gia hạn của chủ đầu tư theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf399fe4cb8a60'">12.1-Mẫu đơn đề nghị .doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường mạng) các tài liệu: Văn bản pháp lý chứng minh lý do đề nghị kéo dài thời gian thi công kết nối theo giấy phép được cấp và tiến độ tổng thể dự án được cấp có thẩm quyền phê duyệt

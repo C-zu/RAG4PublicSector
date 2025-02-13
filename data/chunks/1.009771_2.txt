@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục ngừng hoạt động của dự án đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư gửi thông báo cho Ban Quản lý
+- Bước 2: Ban Quản lý tiếp nhận và thông báo việc ngừng hoạt động của dự án đầu tư cho các cơ quan liên quan

@@ -1,0 +1,8 @@
+Tên thủ tục: Giao tài sản kết cấu hạ tầng cấp nước sạch cho doanh nghiệp đang quản lý, sử dụng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|75 Ngày|Phí : 0 Đồng||
+|Dịch vụ bưu chính|75 Ngày|Phí : 0 Đồng||

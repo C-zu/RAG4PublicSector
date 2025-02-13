@@ -1,0 +1,19 @@
+Tên thủ tục: Thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a.1. Trường hợp chỉ định lần đầu, thay đổi, bổ sung phạm vi, lĩnh vực chỉ định
+- Bước 1: Tổ chức có nhu cầu tham gia hoạt động giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng nộp hồ sơ đăng ký chỉ định đến về Bộ Khoa học và Công nghệ.
+- Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký, nếu hồ sơ không đầy đủ, hợp lệ theo quy định, Bộ Khoa học và Công nghệ thông báo bằng văn bản yêu cầu tổ chức giám định sửa đổi, bổ sung hồ sơ.
+- Bước 3:
++ Trong thời hạn 20 ngày kể từ khi nhận được hồ sơ hợp lệ, Bộ Khoa học và Công nghệ tổ chức đánh giá năng lực thực tế tại tổ chức giám định thông qua việc cử chuyên gia hoặc thành lập đoàn đánh giá. Nội dung đánh giá thực tế:
+Sự tuân thủ quy định pháp luật của tổ chức giám định trong lĩnh vực đăng ký chỉ định;
+Tính xác thực của hồ sơ đăng ký;
+Hoạt động khác có liên quan tới lĩnh vực đăng ký.
++ Trường hợp chỉ định thay đổi, bổ sung, nếu hồ sơ đăng ký đầy đủ và hợp lệ, Bộ Khoa học và Công nghệ tiến hành thẩm xét hồ sơ, không tổ chức đánh giá năng lực thực tế. Trường hợp hồ sơ đăng ký đầy đủ nhưng có nội dung không phù hợp hoặc có yêu cầu của cơ quan nhà nước có thẩm quyền hoặc có thông tin, phản ánh về dấu hiệu vi phạm liên quan đến hồ sơ thì Bộ Khoa học và Công nghệ tổ chức đánh giá năng lực thực tế tại tổ chức giám định.
++ Việc đánh giá năng lực thực tế tại tổ chức giám định phải được thông báo bằng văn bản cho tổ chức giám định đã nộp hồ sơ đăng ký biết. Chuyên gia hoặc thành viên đoàn đánh giá năng lực thực tế phải được đào tạo về hệ thống quản lý chất lượng tương ứng với từng loại hình tổ chức giám định đăng ký chỉ định. Kết thúc việc đánh giá, chuyên gia hoặc đoàn đánh giá do Bộ Khoa học và Công nghệ thành lập phải ký biên bản đánh giá thực tế.
++ Trường hợp tổ chức giám định phải khắc phục các nội dung quy định trong biên bản đánh giá thực tế, trong thời hạn 30 ngày, tổ chức giám định phải gửi báo cáo kết quả hành động khắc phục về Bộ Khoa học và Công nghệ. Trường hợp các nội dung cần khắc phục phải kéo dài thêm thời hạn thì tổ chức giám định báo cáo với Bộ Khoa học và Công nghệ bằng văn bản và nêu rõ thời hạn chính thức hoàn thành việc khắc phục các nội dung trên.
+- Bước 4: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả hành động khắc phục theo biên bản đánh giá thực tế, nếu tổ chức giám định đáp ứng yêu cầu theo quy định, Bộ Khoa học và Công nghệ ban hành quyết định chỉ định cho tổ chức giám định theo quy định. Tùy thuộc vào năng lực thực tế của tổ chức giám định, Bộ Khoa học và Công nghệ quyết định thời hạn hiệu lực của quyết định chỉ định nhưng không quá 05 năm kể từ ngày ký ban hành. Trong trường hợp từ chối việc chỉ định, Bộ Khoa học và Công nghệ phải thông báo lý do bằng văn bản cho tổ chức giám định.
+a.2. Trường hợp cấp lại quyết định chỉ định
+Trong thời hạn hiệu lực của quyết định chỉ định, tổ chức giám định có nhu cầu đăng ký cấp lại quyết định chỉ định, lập 01 bộ hồ sơ đề nghị cấp lại và gửi về Bộ Khoa học và Công nghệ.
+Trong thời hạn 05 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ, Bộ Khoa học và Công nghệ xem xét, cấp lại quyết định chỉ định. Trường hợp không đáp ứng yêu cầu, Bộ Khoa học và Công nghệ có văn bản trả lời và nêu rõ lý do.

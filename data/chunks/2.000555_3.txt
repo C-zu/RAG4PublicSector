@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy đăng ký hoạt động của Văn phòng giám định tư pháp trong trường hợp thay đổi tên gọi, địa chỉ trụ sở, người đại diện theo pháp luật, danh sách thành viên hợp danh của Văn phòng giám định tư pháp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|5 Ngày làm việc||kể từ ngày nhận đủ hồ sơ hợp lệ|

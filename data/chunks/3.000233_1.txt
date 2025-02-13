@@ -1,0 +1,16 @@
+Tên thủ tục: Hỗ trợ cho sản phẩm đạt chuẩn OCOP.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000233
+Số quyết định:
+1274/QĐ-UBND
+Tên thủ tục:
+Hỗ trợ cho sản phẩm đạt chuẩn OCOP.
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Kinh tế hợp tác và Phát triển nông thôn

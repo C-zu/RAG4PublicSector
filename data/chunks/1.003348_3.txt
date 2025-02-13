@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký bản công bố sản phẩm nhập khẩu đối với thực phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sản phẩm dinh dưỡng dùng cho trẻ đến 36 tháng tuổi
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : 1.500.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febdd677fe7587d'">117 2018 THU PHI ATTP.PDF</a>|07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|7 Ngày làm việc|Phí : 1.500.000 Đồng|07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : 1.500.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc316541d4541b8'">117 2018 THU PHI ATTP.PDF</a>|07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

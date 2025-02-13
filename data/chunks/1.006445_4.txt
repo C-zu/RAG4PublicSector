@@ -1,0 +1,8 @@
+Tên thủ tục: Sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đề án sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ, trong đó có phương án để bảo đảm quyền, lợi ích hợp pháp của trẻ em, giáo viên, cán bộ quản lý và nhân viên;
+- 01 Bản chính b) Tờ trình Ủy ban nhân dân cấp huyện đề nghị sáp nhập, chia, tách trường mẫu giáo, trường mầm non, nhà trẻ

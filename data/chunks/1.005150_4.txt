@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi tên gọi, Trưởng chi nhánh, địa chỉ trụ sở của chi nhánh tổ chức hòa giải thương mại nước ngoài tại Việt Nam từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị thay đổi theo mẫu do Bộ Tư pháp ban hành; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcadc4768758cf0'">Mau so 13.TP-HGTM.docx</a>)
+- 01 Bản chính - Giấy tờ có liên quan đến việc thay đổi.

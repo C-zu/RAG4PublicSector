@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi định mức sử dụng điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fccead31b8c40f0'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)
+- 01 Bản sao Sổ hộ khẩu/Sổ tạm trú/xác nhận công an quản lý địa bàn cho các hộ/người dùng chung tại địa điểm sử dụng điện

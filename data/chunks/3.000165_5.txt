@@ -1,0 +1,19 @@
+Tên thủ tục: Đăng ký cấp sao bản án, tài liệu trong hồ sơ vụ án
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân cấp huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao bản án, bản sao tài liệu trong hồ sơ vụ án
+Căn cứ pháp lý:
+Không có thông tin

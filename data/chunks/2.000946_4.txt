@@ -1,0 +1,19 @@
+Tên thủ tục: Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng trong các dự án phát triển nhà ở
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Thành phần hồ sơ đối với chủ đầu tư dự án phát triển nhà ở:
+- 01 Bản chính - Giấy chứng nhận hoặc quyết định giao đất, cho thuê đất của cơ quan có thẩm quyền; chứng từ thực hiện nghĩa vụ tài chính của chủ đầu tư dự án, trường hợp có thay đổi nghĩa vụ tài chính thì phải nộp chứng từ chứng minh việc hoàn thiện nghĩa vụ tài chính đối với sự thay đổi đó (trừ trường hợp được miễn hoặc chậm nộp theo quy định của pháp luật);
+- 01 Bản chính - Sơ đồ nhà, đất đã xây dựng là bản vẽ mặt bằng hoàn công hoặc bản vẽ thiết kế mặt bằng có kích thước các cạnh của từng căn hộ đã bán phù hợp với hiện trạng xây dựng và hợp đồng đã ký; Giấy phép xây dựng (nếu có); Thông báo của cơ quan chuyên môn về xây dựng cho phép chủ đầu tư nghiệm thu công trình hoặc chấp thuận kết quả nghiệm thu hoàn thành công trình đưa vào sử dụng theo quy định của pháp luật về xây dựng; danh sách các căn hộ, công trình xây dựng (có các thông tin số hiệu căn hộ, diện tích đất, diện tích xây dựng và diện tích sử dụng chung, riêng của từng căn hộ; trường hợp nhà chung cư thì sơ đồ phải thể hiện phạm vi (kích thước, diện tích) phần đất sử dụng chung của các chủ căn hộ, mặt bằng xây dựng nhà chung cư, mặt bằng của từng tầng, từng căn hộ;
+
+
+* Thành phần hồ sơ đối với người mua nhà, công trình xây dựng
+- 01 Bản chính (1) Đơn đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo Mẫu số 04a/ĐK. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb176fc68833d20'">Mau so 04a-DK.pdf</a>)
+- 01 Bản chính (2) Hợp đồng về chuyển nhượng quyền sử dụng đất, mua bán nhà ở, công trình xây dựng theo quy định của pháp luật.
+- 01 Bản chính (3) Biên bản bàn giao nhà, đất, công trình xây dựng.
+
+
+Thành phần hồ sơ đối với Chủ đầu tư dự án kinh doanh bất động sản không phải là dự án phát triển nhà ở
+- 01 Bản chính, 01 Bản sao - Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; chứng từ thực hiện nghĩa vụ tài chính của chủ dự án, trường hợp có thay đổi nghĩa vụ tài chính thì phải nộp chứng từ chứng minh việc hoàn thiện nghĩa vụ tài chính đối với sự thay đổi đó (trừ trường hợp được miễn hoặc chậm nộp theo quy định của pháp luật);
+- 01 Bản chính, 01 Bản sao - Bản vẽ thiết kế mặt bằng phù hợp với hiện trạng xây dựng và hợp đồng đã ký; Thông báo của cơ quan chuyên môn về xây dựng cho phép chủ đầu tư nghiệm thu hạng mục công trình, công trình hoặc chấp thuận kết quả nghiệm thu hoàn thành hạng mục công trình, công trình đưa vào sử dụng theo quy định của pháp luật về xây dựng; danh sách các tài sản (công trình, hạng mục công trình, phần diện tích của hạng mục công trình) gồm các thông tin tên của tài sản, diện tích đất, diện tích xây dựng sử dụng chung, sử dụng riêng của từng tài sản.

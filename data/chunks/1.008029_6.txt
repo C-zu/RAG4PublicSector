@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp lại biển hiệu phương tiện vận tải khách du lịch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Biển hiệu được cấp lại khi bị mất hoặc hư hỏng.
+Thời hạn sử dụng biển hiệu cấp lại được tính theo thời hạn còn lại của biển hiệu đã bị mất hoặc hư hỏng
+Biển hiệu được cấp lại khi bị mất hoặc hư hỏng.
+Thời hạn sử dụng biển hiệu cấp lại được tính theo thời hạn còn lại của biển hiệu đã bị mất hoặc hư hỏng
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

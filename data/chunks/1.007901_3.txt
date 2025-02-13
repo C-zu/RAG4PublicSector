@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấm dứt đại lý hoàn thuế đối với Ngân hàng thương mại
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Tổng cục Hải quan trình Bộ Tài chính có văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng nhà nước và các đơn vị có liên quan|
+|Dịch vụ bưu chính|10 Ngày||Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Tổng cục Hải quan trình Bộ Tài chính có văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng nhà nước và các đơn vị có liên quan|

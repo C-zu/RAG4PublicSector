@@ -1,0 +1,7 @@
+Tên thủ tục: Danh mục dự án đầu tư có sử dụng đất do nhà đầu tư đề xuất (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 30 ngày kể từ khi nhận được đề xuất, Sở Kế hoạch và Đầu tư phối hợp với các cơ quan có liên quan tổng hợp danh mục dự án đầu tư có sử dụng đất; đánh giá việc đáp ứng đầy đủ điều kiện xác định dự án đầu tư có sử dụng đất quy định khoản 4 Điều 108 Nghị định số 31/2021/NĐ-CP; xác định yêu cầu sơ bộ về năng lực, kinh nghiệm của nhà đầu tư, báo cáo Chủ tịch Ủy ban nhân dân cấp tỉnh. - Trong thời hạn 10 ngày kể từ ngày nhận được báo cáo của Sở Kế hoạch và Đầu tư, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, phê duyệt danh mục dự án đầu tư có sử dụng đất, trong đó bao gồm yêu cầu sơ bộ về năng lực, kinh nghiệm của nhà đầu tư.|Phí : 0 Đồng không có.|- Trực tiếp tại Sở Kế hoạch và Đầu tư; bằng văn bản.|

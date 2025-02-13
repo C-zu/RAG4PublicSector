@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 2.000.000 Đồng Thêm một loại hình sản phẩm hoặc dịch vụ  Phí : 8.000.000 Đồng Một loại hình sản phẩm hoặc dịch vụ|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|15 Ngày làm việc|Phí : 2.000.000 Đồng Thêm một loại hình sản phẩm hoặc dịch vụ  Phí : 8.000.000 Đồng Một loại hình sản phẩm hoặc dịch vụ|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 2.000.000 Đồng Thêm một loại hình sản phẩm hoặc dịch vụ  Phí : 8.000.000 Đồng Một loại hình sản phẩm hoặc dịch vụ|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|

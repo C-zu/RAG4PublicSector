@@ -1,0 +1,9 @@
+Tên thủ tục: Tham vấn trong đánh giá tác động môi trường
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||- Thời hạn kiểm tra về tính đầy đủ của hồ sơ: không quy định. - Thời hạn xử lý, trả kết quả: + Tối đa 15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ tham vấn theo quy định. + Trường hợp không có phản hồi trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.|
+|Trực tuyến|15 Ngày||- Thời hạn kiểm tra về tính đầy đủ của hồ sơ: không quy định. - Thời hạn xử lý, trả kết quả: + Tối đa 15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ tham vấn theo quy định. + Trường hợp không có phản hồi trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.|
+|Dịch vụ bưu chính|15 Ngày làm việc||- Thời hạn kiểm tra về tính đầy đủ của hồ sơ: không quy định. - Thời hạn xử lý, trả kết quả: + Tối đa 15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ tham vấn theo quy định. + Trường hợp không có phản hồi trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.|

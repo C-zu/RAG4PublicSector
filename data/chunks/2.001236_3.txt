@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận tổ chức đủ điều kiện thực hiện khảo nghiệm thuốc bảo vệ thực vật
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- 18 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ đối với trường hợp nộp hồ sơ trực tiếp. - 20 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ đối với hồ sơ gửi qua đường bưu điện.|Phí : 2.000.0000 Đồng đồng/lần||
+|Trực tuyến|- 18 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ đối với trường hợp nộp hồ sơ trực tiếp. - 20 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ đối với hồ sơ gửi qua đường bưu điện.|Phí : 2.000.0000 Đồng đồng/lần||
+|Dịch vụ bưu chính|- 18 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ đối với trường hợp nộp hồ sơ trực tiếp. - 20 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ đối với hồ sơ gửi qua đường bưu điện.|Phí : 2.000.0000 Đồng đồng/lần||

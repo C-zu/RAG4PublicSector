@@ -1,0 +1,7 @@
+Tên thủ tục: Hỗ trợ học tập đối với trẻ mẫu giáo, học sinh tiểu học, học sinh trung học cơ sở, sinh viên các dân tộc thiểu số rất ít người
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hỗ trợ học tập (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3837a11c99df3'">Mau don2_ND57 sd theo ND104.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe61120dc84f881'">Mau don_ND57 sd theo ND104.docx</a>)

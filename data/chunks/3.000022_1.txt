@@ -1,0 +1,16 @@
+Tên thủ tục: Miễn, giảm tiền thuê đất trong Khu công nghệ cao
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000022
+Số quyết định:
+102/QĐ-BTC
+Tên thủ tục:
+Miễn, giảm tiền thuê đất trong Khu công nghệ cao
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Quản lý công sản

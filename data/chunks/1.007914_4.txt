@@ -1,0 +1,11 @@
+Tên thủ tục: Thẩm định lựa chọn giao doanh nghiệp/hợp tác xã quản lý chợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 010 Bản chính Công văn đề nghị chuyển giao quản lý chợ;
+- 010 Bản chính Hồ sơ năng lực của đơn vị gồm: + Giới thiệu về đơn vị: tên gọi, trụ sở làm việc, số tài khoản, nơi mở tài khoản, ngành nghề kinh doanh, năng lực tài chính, kinh nghiệm tổ chức quản lý kinh doanh; + Phương án giải quyết các nội dung, yêu cầu, điều kiện của Phương án chuyển đổi mô hình quản lý chợ đã được phê duyệt; + Quyền lợi, trách nhiệm của các đối tượng có liên quan trong thực hiện Phương án; + Các đề xuất, kiến nghị;
+- 010 Bản chính Phương án tổ chức quản lý chợ;
+- 010 Bản chính Các tài liệu khác có liên quan;
+- 010 Bản chính Cam kết tổ chức quản lý hoạt động chợ theo quy định hiện hành

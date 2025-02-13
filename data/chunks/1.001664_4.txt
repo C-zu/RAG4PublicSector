@@ -1,0 +1,9 @@
+Tên thủ tục: Giải ngân khoản vốn hỗ trợ cho doanh nghiệp (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị giải ngân của doanh nghiệp theo mẫu số 06, quy định tại Phụ lục II ban hành kèm theo Nghị định 57/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8082473220bc3'">Mau so 6_ND 57.docx</a>)
+- 01 Bản chính - Biên bản nghiệm thu hạng mục đầu tư hoặc toàn bộ dự án đã được cam kết vốn hỗ trợ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc35599fed2d964'">Mau so 5_ND 57.docx</a>)
+- 01 Bản chính - Quyết định giao vốn hàng năm hoặc bổ sung cho dự án của cơ quan nhà nước có thẩm quyền (Ủy ban nhân dân cấp tỉnh đối với nguồn vốn từ ngân sách địa phương, Bộ Kế hoạch và Đầu tư đối với nguồn vốn từ ngân sách trung ương).

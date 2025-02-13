@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Điều chuyển tài sản là hệ thống điện được đầu tư từ nguồn vốn nhà nước sang ngành điện quản lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||30 ngày, kể từ ngày nhận đầy đủ hồ sơ hợp lệ đối với mỗi bước.|

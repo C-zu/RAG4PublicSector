@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (theo quy định tại Điều 47 Luật Quản lý thuế số 78/2006/QH10 ngày 29/11/2006 được bổ sung tại khoản 13 Điều 1 Luật sửa đổi bổ sung một số điều của Luật Quản lý thuế, Điều 29 Nghị định 83/2013/NĐ-CP ngày 22/7/2013 và Điều 49 Thông tư số 38/2015/TT-BTC ngày 25/3/2015)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007830
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (theo quy định tại Điều 47 Luật Quản lý thuế số 78/2006/QH10 ngày 29/11/2006 được bổ sung tại khoản 13 Điều 1 Luật sửa đổi bổ sung một số điều của Luật Quản lý thuế, Điều 29 Nghị định 83/2013/NĐ-CP ngày 22/7/2013 và Điều 49 Thông tư số 38/2015/TT-BTC ngày 25/3/2015)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

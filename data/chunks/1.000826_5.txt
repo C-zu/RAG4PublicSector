@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục cấp Giấy phép nhập cảnh thi hài, hài cốt, tro cốt về Việt Nam
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan đại diện ngoại giao, Cơ quan lãnh sự
+Cơ quan có thẩm quyền:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy cấp phép nhập cảnh thi hài, hài cốt, tro cốt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|33/2009/QH12|Luật 33/2009/QH12|18-06-2009|Quốc Hội|
+|05/2002/QĐ-BNG|Quyết định 05/2002/QĐ-BNG|30-07-2002|Bộ Ngoại giao|
+|01/2011/TT-BNG|Thông tư 01/2011/TT-BNG|20-06-2011|Bộ Ngoại giao|
+|Thông tư số 03/2023/TT-BNG|Thông tư số 03/2023/TT-BNG hướng dẫn việc tổ chức giải quyết công tác lãnh sự.|27-07-2023||
+|Thông tư 06/2023/TT-BNG|Thông tư 06/2023/TT-BNG sửa đổi, bổ sung một số điều của Thông tư số 01/2011/TT-BNG ngày 20 tháng 6 năm 2011 của Bộ Ngoại giao Quy định thủ tục cấp giấy phép nhập cảnh thi hài, hài cốt, tro cốt về Việt Nam; Thông tư số 02/2011/TT-BNG ngày 27 tháng 6 năm 2011 của Bộ Ngoại giao Hướng dẫn thủ tục đăng ký công dân Việt Nam ở nước ngoài; Thông tư số 04/2020/TT-BNG ngày 25 tháng 9 năm 2020 Hướng dẫn việc cấp, gia hạn, hủy giá trị sử dụng hộ chiếu ngoại giao, hộ chiếu công vụ và cấp công hàm đề nghị phía nước ngoài cấp thị thực.|26-12-2023|Bộ Ngoại giao|

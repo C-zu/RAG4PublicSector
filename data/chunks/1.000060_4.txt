@@ -1,0 +1,11 @@
+Tên thủ tục: Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng từ 3.000m3/ngày đêm trở lên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn hoặc điều chỉnh nội dung giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7d5697d585c94'">Mẫu 04.doc</a>)
+- 01 Bản chính Báo cáo cáo hiện trạng khai thác, sử dụng nước và tình hình thực hiện giấy phép. Trường hợp điều chỉnh giấy phép có liên quan đến quy mô công trình, số lượng giếng khai thác, mực nước khai thác thì phải nêu rõ phương án khai thác nước (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4bb40bd86f7c4'">Mẫu 27.doc</a>)
+- 01 Bản chính Kết quả phân tích chất lượng nguồn nước không quá sáu (06) tháng tính đến thời điểm nộp hồ sơ
+- 01 Bản sao Giấy phép khai thác, sử dụng nước dưới đất (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec7d3e9c325415'">Mẫu 14.doc</a>)
+- 01 Bản chính Bản kê khai tính tiền cấp quyền khai thác tài nguyên nước (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef41e8f7e62834'">PHỤ LỤC III-ban ke khai tien KT nuoc.docx</a>)

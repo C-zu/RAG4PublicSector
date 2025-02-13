@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001744
+Số quyết định:
+2291/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại giấy phép hoạt động in (cấp địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Cơ sở in phải gửi hồ sơ đề nghị cấp lại giấy phép hoạt động in trong thời hạn 07 ngày làm việc, kể từ ngày giấy phép hoạt động in bị mất, bị hư hỏng tới cơ quan quản lý nhà nước về hoạt động in ở địa phương (Sở Thông tin và Truyền thông).
+- Trường hợp có một trong các thay đổi về: Tên gọi của cơ sở in; địa chỉ trụ sở chính, chi nhánh của cơ sở in; loại hình tổ chức hoạt động của cơ sở in; thành lập hoặc giải thể chi nhánh của cơ sở in và người đứng đầu cơ sở in mà cơ sở in đề nghị cấp lại giấy phép hoạt động in.
+- Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định, cơ quan quản lý về hoạt động in ở địa phương phải cấp lại giấy phép; trường hợp không cấp lại giấy phép phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại trụ sở cơ quan hành chính. 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định|
+|Trực tuyến|07 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua mạng Internet: Nộp qua cổng dịch vụ công trực tuyến. Hồ sơ gửi qua hệ thống dịch vụ công trực tuyến phải tuân thủ các quy định về thực hiện thủ tục hành chính trên môi trường điện tử. 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định|
+|Dịch vụ bưu chính|07 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống bưu chính, chuyển phát. 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép hoạt động in ([Mẫu số 02 Đơn đề nghị cấp lại giấy phép hoạt động in.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe38d843a7d837c'))
+- 01 Bản chính Giấy phép hoạt động in (đối với trường hợp giấy phép bị hư hỏng)
+- 01 Bản chính Các giấy tờ chứng minh sự thay đổi trong các trường hợp cụ thể như: Tên gọi của cơ sở in; địa chỉ trụ sở chính, chi nhánh của cơ sở in; loại hình tổ chức hoạt động của cơ sở in; thành lập hoặc giải thể chi nhánh của cơ sở in và người đứng đầu cơ sở in
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản, in và phát hành
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động in.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2014/NĐ-CP|Nghị định 60/2014/NĐ-CP|19-06-2014|Chính phủ|
+|03/2015/TT-BTTTT|Thông tư 03/2015/TT-BTTTT|06-03-2015|Bộ Thông tin và Truyền thông|
+|25/2018/NĐ-CP|Nghị định 25/2018/NĐ-CP|28-02-2018|Chính phủ|
+|72/2022/NĐ-CP|Nghị định 72/2022/NĐ-CP|04-10-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

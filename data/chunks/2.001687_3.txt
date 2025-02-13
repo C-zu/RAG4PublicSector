@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thay đổi người thực hiện trợ giúp pháp lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||03 ngày làm việc kể từ ngày nhận được đơn đề nghị thay đổi người thực hiện trợ giúp pháp lý.|
+|Trực tuyến|3 Ngày làm việc||03 ngày làm việc kể từ ngày nhận được đơn đề nghị thay đổi người thực hiện trợ giúp pháp lý|
+|Dịch vụ bưu chính|3 Ngày làm việc||03 ngày làm việc kể từ ngày nhận được đơn đề nghị thay đổi người thực hiện trợ giúp pháp lý.|

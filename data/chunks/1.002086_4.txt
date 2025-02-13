@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp lại Giấy phép dịch vụ nổ mìn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Văn bản đề nghị cấp lại Giấy phép dịch vụ nổ mìn;
+- 01 Bản chính Báo cáo hoạt động dịch vụ nổ mìn trong thời hạn hiệu lực của Giấy phép đã cấp lần trước
+- 01 Bản chính, 01 Bản sao Bản sao quyết định thành lập hoặc bản sao Giấy chứng nhận đăng ký doanh nghiệp. Doanh nghiệp có vốn đầu tư nước ngoài phải có bản sao Giấy chứng nhận đầu tư
+- 01 Bản chính, 01 Bản sao - Văn bản đề nghị cấp lại Giấy phép dịch vụ nổ mìn; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe30902ac6d792e'">Mẫu số 03.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản sao Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị cấp Giấy phép dịch vụ nổ mìn của Ủy ban nhân dân cấp tỉnh đối với hình thức dịch vụ nổ mìn tại địa phương có phạm vi hoạt động giới hạn trong địa bàn đất liền của một tỉnh hoặc thành phố trực thuộc Trung ương; văn bản đề nghị cấp Giấy phép dịch vụ nổ mìn của cơ quan quản lý có thẩm quyền đối với dịch vụ nổ mìn trên thềm lục địa; dịch vụ nổ mìn có phạm vi hoạt động trên toàn lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam
+- 01 Bản chính, 01 Bản sao Đề án dịch vụ nổ mìn nêu rõ mục tiêu, quy mô, phạm vi, tính phù hợp quy hoạch, nhu cầu về dịch vụ nổ mìn và khả năng đáp ứng của doanh nghiệp; các điều kiện cần thiết và giải pháp bảo đảm về an ninh, an toàn trong hoạt động cung ứng dịch vụ nổ mìn; bản sao các giấy phép sử dụng vật liệu nổ công nghiệp và phương án nổ mìn điển hình đã thực hiện trong 02 năm trở về trước, tính từ thời điểm đề nghị cấp Giấy phép dịch vụ nổ mìn
+- 01 Bản chính, 01 Bản sao Bản sao văn bản nghiệm thu về phòng cháy và chữa cháy đối với kho vật liệu nổ công nghiệp và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật
+- 01 Bản chính, 01 Bản sao Trường hợp tổ chức, doanh nghiệp đề nghị cấp phép sử dụng vật liệu nổ công nghiệp không có kho hoặc không có phương tiện vận chuyển, hồ sơ đề nghị cấp giấy phép phải có bản sao hợp đồng nguyên tắc thuê kho, phương tiện vận chuyển vật liệu nổ công nghiệp với tổ chức, doanh nghiệp có kho, phương tiện vận chuyển vật liệu nổ công nghiệp bảo đảm điều kiện về an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật, phòng cháy và chữa cháy hoặc bản sao hợp đồng nguyên tắc với tổ chức được phép kinh doanh vật liệu nổ công nghiệp để cung ứng vật liệu nổ công nghiệp đến công trình theo hộ chiếu nổ mìn
+- 01 Bản chính, 01 Bản sao Quyết định bổ nhiệm người chỉ huy nổ mìn của lãnh đạo doanh nghiệp và danh sách thợ mìn, người liên quan trực tiếp đến sử dụng vật liệu nổ công nghiệp; Giấy phép lao động của người nước ngoài làm việc có liên quan đến sử dụng vật liệu nổ công nghiệp (nếu có); bản sao chứng chỉ chuyên môn, giấy chứng nhận huấn luyện về kỹ thuật an toàn trong hoạt động vật liệu nổ công nghiệp của người chỉ huy nổ mìn và đội ngũ thợ mìn.

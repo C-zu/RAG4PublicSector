@@ -1,0 +1,12 @@
+Tên thủ tục: Giao tài sản kết cấu hạ tầng cấp nước sạch cho doanh nghiệp đang quản lý, sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị được giao tài sản theo hình thức có hoàn trả giá trị tài sản cho Nhà nước (giải trình quá trình được giao hoặc tạm giao quản lý; thực trạng việc quản lý, sử dụng và lý do đề xuất giao theo hình thức có hoàn trả); với doanh nghiệp có vốn nhà nước có thêm ý kiến bằng văn bản của Cơ quan đại diện chủ sở hữu vốn nhà nước tại doanh nghiệp về việc lựa chọn hình thức giao tài sản có hoàn trả giá trị)
+- 01 Bản chính Danh mục tài sản đề nghị được giao tài sản có hoàn trả (tên tài sản; địa chỉ; loại hình công trình; năm đưa vào sử dụng; diện tích; công suất, số hộ sử dụng nước theo thiết kế và thực tế; giá trị; tình trạng tài sản)
+- 01 Bản chính Biên bản kiểm tra hiện trạng quản lý tài sản; hồ sơ, tài liệu bàn giao, tạm bàn giao tài sản cho doanh nghiệp
+- 01 Bản sao Hồ sơ, tài liệu liên quan đến việc đầu tư tăng thêm vào tài sản (như: văn bản, quyết định đầu tư của cấp có thẩm quyền, quyết toán)
+- 01 Bản sao Báo cáo tài chính của doanh nghiệp trong thời gian quản lý
+- 01 Bản sao Hồ sơ liên quan khác

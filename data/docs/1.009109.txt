@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009109
+Số quyết định:
+1080/QĐ-BTC
+Tên thủ tục:
+Thủ tục cấp mã địa điểm thu gom hàng lẻ ( đối với doanh nghiệp kinh doanh địa điểm thu gom hàng lẻ nằm trong khu vực cảng biển, cảng cạn là doanh nghiệp kinh doanh cảng)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1:  Doanh nghiệp gửi đề nghị cấp mã địa điểm thu gom hàng lẻ đến Cục Hải quan tỉnh, thành phố
+Bước 2: Cục Hải quan tỉnh thành phố kiểm tra thanh khoản toàn bộ lượng hàng tồn, báo cáo đề xuất Tổng cục Hải quan
+Bước 3: Tổng cục Hải quan thực hiện cấp mã, ra thông báo cấp mã địa điểm cho Doanh nghiệp và Hải quan tỉnh, thành phố.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||1. Trong thời hạn 05 ngày làm việc kể từ khi nhận được đề nghị của Doanh nghiệp, Cục hải quan tỉnh, thành phố hoàn thành việc kiểm tra thực tế địa điểm thu gom hàng lẻ; 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả kiểm tra thực tế địa điểm thu gom hàng lẻ của Cục Hải quan tỉnh, thành phố, Tổng cục Hải quan thực hiện cấp mã, ra thông báo cho Doanh nghiệp và Hải quan tỉnh, thành phố.|
+|Dịch vụ bưu chính|10 Ngày làm việc||1. Trong thời hạn 05 ngày làm việc kể từ khi nhận được đề nghị của Doanh nghiệp, Cục hải quan tỉnh, thành phố hoàn thành việc kiểm tra thực tế địa điểm thu gom hàng lẻ; 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả kiểm tra thực tế địa điểm thu gom hàng lẻ của Cục Hải quan tỉnh, thành phố, Tổng cục Hải quan thực hiện cấp mã, ra thông báo cho Doanh nghiệp và Hải quan tỉnh, thành phố.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cục Hải quan tỉnh, thành phố
+Kết quả thực hiện:
+Không có thông tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014||
+|67/2014/QH13|Luật 67/2014/QH13|26-11-2014||
+|03/2016/QH14|Luật 03/2016/QH14|01-01-2016||
+|67/2020/NĐ-CP|Nghị định 67/2020/NĐ-CP|15-06-2020||
+|68/2016/NĐ-CP|Nghị định 68/2016/NĐ-CP|01-07-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp kinh doanh địa điểm thu gom hàng lẻ là doanh nghiệp kinh doanh cảng thực hiện thủ tục cấp mã địa điểm thu gom hàng lẻ để làm thủ tục hàng hóa đưa vào, đưa ra địa điểm thu gom hàng lẻ trước khi đưa địa điểm thu gom hàng lẻ vào hoạt động.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,12 @@
+Tên thủ tục: Giải thể doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Khi xác định doanh nghiệp thuộc một trong các trường hợp xem xét giải thể quy định tại Điều 39 Nghị định số 23/2022/NĐ-CP, người có thẩm quyền quyết định giải thể doanh nghiệp ra quyết định giải thể và thành lập Hội đồng giải thể để thực hiện các bước giải thể doanh nghiệp.
+Đối với doanh nghiệp do Thủ tướng Chính phủ quyết định thành lập, Thủ tướng Chính phủ quyết định giải thể trên cơ sở đề nghị của cơ quan đại diện chủ sở hữu và ý kiến của Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Bộ Nội vụ, Bộ Tư pháp, Bộ Lao động - Thương binh và Xã hội và bộ quản lý ngành.
+- Người có thẩm quyền ra quyết định giải thể doanh nghiệp theo các nội dung quy định tại Điều 42 Nghị định số 23/2022/NĐ-CP.
+- Sau khi có quyết định giải thể:
++ Hội đồng giải thể có trách nhiệm thực hiện các quy định tại Điều 43 Nghị định số 23/2022/NĐ-CP;
++ Doanh nghiệp có trách nhiệm thực hiện các quy định tại Điều 45 Nghị định số 23/2022/NĐ-CP;
++ Cơ quan thuế trực tiếp quản lý việc thu thuế có trách nhiệm ban hành văn bản xác nhận việc thực hiện nghĩa vụ thuế của doanh nghiệp khi nhận được văn bản đề nghị xác nhận việc thực hiện nghĩa vụ thuế của doanh nghiệp.
+- Hội đồng giải thể tự động chấm dứt hoạt động khi doanh nghiệp đã hoàn tất các thủ tục giải thể theo quy định của pháp luật và cơ quan đăng ký kinh doanh chuyển tình trạng pháp lý của doanh nghiệp trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp sang tình trạng đã giải thể.

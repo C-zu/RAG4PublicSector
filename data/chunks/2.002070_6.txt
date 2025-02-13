@@ -1,0 +1,18 @@
+Tên thủ tục: Thông báo lập chi nhánh, văn phòng đại diện ở nước ngoài (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+(i) Hồ sơ đăng ký doanh nghiệp được tiếp nhận để nhập thông tin vào Hệ thống thông tin quốc gia về đăng ký doanh nghiệp khi có đủ các điều kiện sau:
+- Có đủ giấy tờ theo quy định tại Nghị định số 01/2021/NĐ-CP;
+- Có địa chỉ liên lạc của người nộp hồ sơ đăng ký doanh nghiệp;
+- Đã nộp đủ lệ phí đăng ký doanh nghiệp theo quy định.
+(ii)  Doanh nghiệp không bắt buộc phải đóng dấu trong giấy đề nghị đăng ký doanh nghiệp, thông báo thay đổi nội dung đăng ký doanh nghiệp, nghị quyết, quyết định, biên bản họp trong hồ sơ đăng ký doanh nghiệp. Việc đóng dấu đối với các tài liệu khác trong hồ sơ đăng ký doanh nghiệp thực hiện theo quy định của pháp luật có liên quan.
+(i) Hồ sơ đăng ký doanh nghiệp được tiếp nhận để nhập thông tin vào Hệ thống thông tin quốc gia về đăng ký doanh nghiệp khi có đủ các điều kiện sau:
+- Có đủ giấy tờ theo quy định tại Nghị định số 01/2021/NĐ-CP;
+- Có địa chỉ liên lạc của người nộp hồ sơ đăng ký doanh nghiệp;
+- Đã nộp đủ lệ phí đăng ký doanh nghiệp theo quy định.
+(ii)  Doanh nghiệp không bắt buộc phải đóng dấu trong giấy đề nghị đăng ký doanh nghiệp, thông báo thay đổi nội dung đăng ký doanh nghiệp, nghị quyết, quyết định, biên bản họp trong hồ sơ đăng ký doanh nghiệp. Việc đóng dấu đối với các tài liệu khác trong hồ sơ đăng ký doanh nghiệp thực hiện theo quy định của pháp luật có liên quan.
+Từ khóa:
+Thông báo, lập chi nhánh, văn phòng, đại diện, ở nước ngoài (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)
+Mô tả:
+Không có thông tin

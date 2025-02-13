@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thu hồi mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thu hồi mã số nhân viên đại lý làm thủ tục hải quan theo mẫu số 07C ban hành kèm Thông tư: 01 bản chính. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc183334eab5814'">22_2019_TT_BTC_PL.doc</a>)
+ Số lượng hồ sơ: 01 bộ

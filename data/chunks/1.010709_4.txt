@@ -1,0 +1,10 @@
+Tên thủ tục: Ngừng khai thác tuyến, ngừng phương tiện hoạt động trên tuyến vận tải hành khách cố định giữa Việt Nam, Lào và Campuchia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị ngừng khai thác tuyến vận tải hành khách cố định giữa Việt Nam, Lào và Campuchia theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1759f5551bd52'">Mẫu.docx</a>)
+- 01 Bản chính - Thông báo khai thác tuyến;
+- 01 Bản chính - Ký hiệu phân biệt quốc gia;
+- 01 Bản chính - Giấy phép liên vận của các phương tiện ngừng khai thác.

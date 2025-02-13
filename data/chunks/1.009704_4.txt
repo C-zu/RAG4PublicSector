@@ -1,0 +1,10 @@
+Tên thủ tục: Lập, thẩm định, quyết định phê duyệt khoản viện trợ là chương trình, dự án hỗ trợ kỹ thuật sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Văn bản đề nghị phê duyệt chương trình, dự án
+- 02 Bản chính Văn bản nhất trí cung cấp viện trợ của Bên cung cấp viện trợ
+- 02 Bản chính Văn kiện chương trình, dự án
+- 02 Bản sao Giấy tờ chứng minh tư cách pháp nhân (không áp dụng với trường hợp Bên cung cấp viện trợ là các cơ quan đại diện ngoại giao, các cơ quan thuộc chính phủ, chính quyền địa phương nước ngoài). + Đối với các tổ chức phi chính phủ nước ngoài đã đăng ký tại Việt Nam: Bản sao Giấy đăng ký do cơ quan nhà nước Việt Nam có thẩm quyền cấp; + Đối với cá nhân cung cấp viện trợ: Bản sao công chứng hộ chiếu còn hiệu lực; + Đối với các bên cung cấp viện trợ khác: Bản sao công chứng giấy tờ hợp lệ chứng minh địa vị pháp lý của tổ chức.

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đăng ký xe, biển số xe (thực hiện tại cấp huyện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Lệ phí : Đồng Thu theo Thông tư 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông cơ giới đường bộ.|+ Trực tiếp tại trụ sở Công an cấp huyện. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). Cấp ngay biển số sau khi tiếp nhận đủ hồ sơ hợp lệ; Trường hợp phải chờ sản xuất biển số thì thời gian cấp, đổi lại không quá 7 ngày làm việc kể, từ ngày nhận đủ hồ sơ hợp lệ. Trường hợp cấp lại giấy chứng nhận đăng ký xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết cấp lại giấy chứng nhận đăng ký xe và cấp lại biển số xe không quá 07 ngày kể từ ngày hết thời hạn niêm yết.|
+|Trực tuyến|30 Ngày|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp Giấy khai đăng ký xe điện tử trên Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an. Cấp ngay biển số sau khi tiếp nhận đủ hồ sơ hợp lệ; Trường hợp phải chờ sản xuất biển số thì thời gian cấp, đổi lại không quá 7 ngày làm việc kể, từ ngày nhận đủ hồ sơ hợp lệ. Trường hợp cấp lại giấy chứng nhận đăng ký xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết cấp lại giấy chứng nhận đăng ký xe và cấp lại biển số xe không quá 07 ngày kể từ ngày hết thời hạn niêm yết.|
+|Dịch vụ bưu chính|30 Ngày||+ Trả kết quả qua dịch vụ bưu chính.|

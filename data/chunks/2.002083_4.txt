@@ -1,0 +1,51 @@
+Tên thủ tục: Đăng ký doanh nghiệp đối với các công ty được thành lập trên cơ sở tách công ty
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp thành lập doanh nghiệp xã hội mới trên cơ sở tách doanh nghiệp, hồ sơ phải có thêm Cam kết thực hiện mục tiêu xã hội, môi trường quy định tại khoản 1 Điều 28 Nghị định số 01/2021/NĐ-CP
+- 01 Bản chính (i) Hồ sơ đăng ký doanh nghiệp đối với công ty trách nhiệm hữu hạn, công ty cổ phần của công ty được tách (công ty mới) (Điều 23, Điều 24 Nghị định số 01/2021/NĐ-CP)
+- 01 Bản chính * Đăng ký thành lập công ty TNHH một thành viên
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe237ba64a22610'">Phụ lục I-2.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9ef18428c2e600'">Phụ lục I-3.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc58420d02e12e0'">Phụ lục I-4.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3e00e88a4ddbc'">Phụ lục I-10.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành
+- 01 Bản chính * Đăng ký thành lập công ty TNHH hai thành viên trở lên (ngoài các thành phần hồ sơ giống như Đăng ký thành lập công ty TNHH một thành viên) còn có:
+- 01 Bản chính Danh sách thành viên (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde7ab8824af786'">Phụ lục I-6.docx</a>)
+- 01 Bản chính * Đăng ký thành lập công ty cổ phần (ngoài các thành phần hồ sơ giống như Đăng ký thành lập công ty TNHH một thành viên) còn có:
+- 01 Bản chính Danh sách cổ đông sáng lập và danh sách cổ đông là nhà đầu tư nước ngoài (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7ca8a7ee6081e'">Phụ lục I-7.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc2773b0639004'">Phụ lục I-8.docx</a>)
+- 01 Bản chính (ii) Nghị quyết, quyết định về việc tách công ty theo quy định tại Điều 199 Luật Doanh nghiệp
+- 01 Bản sao (iii) Bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, của Đại hội đồng cổ đông đối với công ty cổ phần về việc tách công ty
+- 01 Bản chính (iv) Cam kết thực hiện mục tiêu xã hội, môi trường quy định tại khoản 1 Điều 28 Nghị định số 01/2021/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefdb89cc9ddb45'">Phụ lục II-26.docx</a>)
+
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Đăng ký doanh nghiệp đối với các công ty được thành lập trên cơ sở tách công ty
+- 01 Bản chính (i) Hồ sơ đăng ký doanh nghiệp đối với công ty trách nhiệm hữu hạn, công ty cổ phần của công ty được tách (công ty mới) (Điều 23, Điều 24 Nghị định số 01/2021/NĐ-CP)
+- 01 Bản chính * Đăng ký thành lập công ty TNHH một thành viên
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb521e133689c8'">Phụ lục I-4.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7f3bd04c0c7f1'">Phụ lục I-2.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5740f415b8a90'">Phụ lục I-3.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe950de51e3cf42'">Phụ lục I-10.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành
+- 01 Bản chính * Đăng ký thành lập công ty TNHH hai thành viên trở lên (ngoài các thành phần hồ sơ giống như Đăng ký thành lập công ty TNHH một thành viên) còn có:
+- 01 Bản chính Danh sách thành viên (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb40ae8c1b9f71'">Phụ lục I-6.docx</a>)
+- 01 Bản chính * Đăng ký thành lập công ty cổ phần (ngoài các thành phần hồ sơ giống như Đăng ký thành lập công ty TNHH một thành viên) còn có:
+- 01 Bản chính Danh sách cổ đông sáng lập và danh sách cổ đông là nhà đầu tư nước ngoài (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdef739a9034e3c'">Phụ lục I-7.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f97adc688ae56a0'">Phụ lục I-8.docx</a>)
+- 01 Bản chính (ii) Nghị quyết, quyết định về việc tách công ty theo quy định tại Điều 199 Luật Doanh nghiệp
+- 01 Bản sao (iii) Bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, của Đại hội đồng cổ đông đối với công ty cổ phần về việc tách công ty

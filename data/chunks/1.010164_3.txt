@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký Hợp đồng nhận lao động thực tập của doanh nghiệp đưa người lao động đi làm việc ở nước ngoài theo hình thức thực tập nâng cao tay nghề dưới 90 ngày - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|10 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 0 Đồng||

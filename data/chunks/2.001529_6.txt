@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
+-	Có ít nhất 02 cán bộ kỹ thuật có trình độ đại học trở lên thuộc một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin; cán bộ quản lý, điều hành tốt nghiệp một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin hoặc tốt nghiệp một ngành khác và có chứng chỉ đào tạo về an toàn thông tin;
+-	Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có phương án kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật;
+-	Có phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có hệ thống phục vụ khách hàng và bảo đảm kỹ thuật phù hợp với phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm.
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
+-	Có ít nhất 02 cán bộ kỹ thuật có trình độ đại học trở lên thuộc một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin; cán bộ quản lý, điều hành tốt nghiệp một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin hoặc tốt nghiệp một ngành khác và có chứng chỉ đào tạo về an toàn thông tin;
+-	Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có phương án kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật;
+-	Có phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có hệ thống phục vụ khách hàng và bảo đảm kỹ thuật phù hợp với phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

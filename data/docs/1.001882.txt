@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001882
+Số quyết định:
+1700/QĐ-NHNN
+Tên thủ tục:
+Thủ tục đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu đối với doanh nghiệp có vốn đầu tư nước ngoài để sản xuất vàng trang sức, mỹ nghệ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động ngoại hối
+Trình tự thực hiện:
+Bước 1: Khi có nhu cầu nhập khẩu vàng nguyên liệu để sản xuất vàng trang sức, mỹ nghệ, doanh nghiệp có vốn đầu tư nước ngoài lập 01 bộ hồ sơ theo quy định gửi đến Ngân hàng Nhà nước Việt Nam (NHNN). Trong trường hợp doanh nghiệp đề nghị cấp phép theo cơ chế một cửa quốc gia thì thực hiện theo quy định sau:
+(i) Hồ sơ điện tử được sử dụng chữ ký số gửi trên Cổng thông tin một cửa quốc gia. Việc khai, gửi, tiếp nhận, trả kết quả, trao đổi, phản hồi thông tin, sử dụng chữ ký số trên Cổng thông tin một cửa quốc gia và hệ thống xử lý chuyên ngành của NHNN thực hiện theo quy định tại Nghị định số 85/2019/NĐ-CP ngày 14/11/2019 của Chính phủ quy định thực hiện thủ tục hành chính theo cơ chế một cửa quốc gia, cơ chế một cửa ASEAN và kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập khẩu và các văn bản sửa đổi, bổ sung, thay thế (nếu có);
+(ii) Trường hợp hệ thống Cổng thông tin một cửa quốc gia hoặc hệ thống xử lý chuyên ngành của NHNNgặp sự cố hoặc có lỗi không thể tiếp nhận, trao đổi thông tin điện tử, việc khai, gửi, tiếp nhận, trả kết quả, trao đổi, phản hồi thông tin được thực hiện qua dịch vụ bưu chính hoặc trực tiếp tại Bộ phận Tiếp nhận và trả kết quả của NHNN;
+(iii) Các tài liệu trong hồ sơ điện tử là bản điện tử quét từ bản gốc hoặc bản chính (tập tin định dạng PDF, TIF, JPG), trừ văn bản đề nghị cấp phép nhập khẩu vàng nguyên liệu được khai trên Cổng thông tin một cửa quốc gia. Các tài liệu nộp dưới hình thức hồ sơ giấy là bản chính hoặc bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực theo quy định của pháp luật hoặc bản sao có xuất trình bản chính để đối chiếu. Trong trường hợp người nộp hồ sơ nộp bản sao có xuất trình bản chính để đối chiếu, người đối chiếu có trách nhiệm xác nhận tính chính xác của bản sao so với bản chính.
+Bước 2: NHNN xem xét, thẩm định hồ sơ, cấp hoặc từ chối cấp (ghi rõ lý do) Giấy phép nhập khẩu vàng nguyên liệu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (đối với trường hợp doanh nghiệp nộp hồ sơ giấy).|
+|Trực tuyến|15 Ngày làm việc||15 (mười lăm) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (đối với trường hợp doanh nghiệp nộp hồ sơ đề nghị cấp phép theo cơ chế một cửa quốc gia)|
+|Dịch vụ bưu chính|30 Ngày làm việc||30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (đối với trường hợp doanh nghiệp nộp hồ sơ giấy).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu. ([PHỤ LỤC 5.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec05015313a8e0'))
+- 01 Bản chính Giấy chứng nhận đầu tư.
+- 01 Bản chính Báo cáo tình hình thực hiện xuất khẩu, nhập khẩu và tiêu thụ sản phẩm vàng tại thị trường Việt Nam trong thời hạn 12 (mười hai) tháng liền kề trước thời điểm báo cáo (trường hợp đề nghị cấp Giấy phép nhập khẩu trong năm kế hoạch) hoặc từ đầu năm đến thời điểm báo cáo (trường hợp bổ sung khối lượng nhập khẩu vàng nguyên liệu), kèm bảng kê các tờ khai Hải quan xuất khẩu, nhập khẩu và phiếu trừ lùi in từ hệ thống thông tin nghiệp vụ Hải quan có xác nhận của doanh nghiệp về tính chính xác của tài liệu này. ([PHỤ LỤC 8.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe567a34719ba9d'))
+- 01 Bản chính Bản kế hoạch sản xuất, kinh doanh của doanh nghiệp; văn bản, tài liệu chứng minh năng lực sản xuất của doanh nghiệp; ([PHỤ LỤC 7a.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6016fcc2c8c30'))
+- 01 Bản chính Hợp đồng gia công vàng trang sức, mỹ nghệ với nước ngoài.
+
+Đối tượng thực hiện:
+Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộp phận Một cửa Ngân hàng Nhà nước 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu vàng nguyên liệu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|16/2012/TT-NHNN|Hướng dẫn một số điều của Nghị định số 24/2012/NĐ-CP ngày 03 tháng 04 năm 2012 của Chính phủ về quản lý hoạt động kinh doanh vàng|25-05-2012|Ngân hàng Nhà nước Việt Nam|
+|24/2012/NĐ-CP|Nghị định 24/2012/NĐ-CP|03-04-2012||
+|38/2015/TT-NHNN|Thông tư 38/2015/TT-NHNN|31-12-2015||
+|15/2021/TT-NHNN|Thông tư 15/2021/TT-NHNN|30-09-2021||
+
+Yêu cầu, điều kiện thực hiện:
+1. Là doanh nghiệp được thành lập theo quy định của pháp luật, có đăng ký hoạt động sản xuất vàng trang sức, mỹ nghệ.
+
+2. Nhu cầu nhập khẩu vàng nguyên liệu phù hợp với năng lực sản xuất, kế hoạch sản xuất, kinh doanh và hợp đồng gia công vàng trang sức, mỹ nghệ.
+
+3. Không vi phạm quy định của pháp luật về quản lý hoạt động kinh doanh vàng trong thời hạn 12 (mười hai) tháng liền kề trước thời điểm đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu.
+1. Là doanh nghiệp được thành lập theo quy định của pháp luật, có đăng ký hoạt động sản xuất vàng trang sức, mỹ nghệ.
+
+2. Nhu cầu nhập khẩu vàng nguyên liệu phù hợp với năng lực sản xuất, kế hoạch sản xuất, kinh doanh và hợp đồng gia công vàng trang sức, mỹ nghệ.
+
+3. Không vi phạm quy định của pháp luật về quản lý hoạt động kinh doanh vàng trong thời hạn 12 (mười hai) tháng liền kề trước thời điểm đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

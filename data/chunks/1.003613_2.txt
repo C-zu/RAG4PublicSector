@@ -1,0 +1,9 @@
+Tên thủ tục: Kê khai lại giá thuốc sản xuất trong nước
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở sản xuất thuốc hoặc cơ sở đặt gia công thuốc nộp hồ sơ Kê khai lại giá thuốc sản xuất trong nước về Sở Y tế.
+Bước 2: Sở Y tiếp nhận hồ sơ, kiểm tra hồ sơ và trả Phiếu tiếp nhận hồ sơ kê khai lại giá thuốc.
+Bước 3: Sở Y tế tổ chức rà soát giá thuốc kê khai lại.
+Bước 4: Sở Y tế báo cáo Cục Quản lý Y Dược cổ truyền(đối với thuốc cổ truyền), Cục Quản lý Dược (đối với các thuốc còn lại) các thuốc kê khai lại đối với các trường hợp chưa phát hiện mức giá kê khai lại không hợp lý. Trường hợp mức giá kê khai lại không hợp lý, Sở Y tế thông báo bằng văn bản cho cơ sở kê khai giá xem xét lại mức giá kê khai lại và nêu rõ lý do.
+Bước 5: Cục Quản lý Y Dược cổ truyền (đối với thuốc cổ truyền), Cục Quản lý Dược (đối với các thuốc còn lại) tổng hợp báo cáo của Sở Y tế về giá thuốc kê khai lại và công bố trên Cổng thông tin điện tử của Cục Quản lý Y Dược cổ truyền; đối với thuốc cổ truyền, Cục Quản lý Dược: đối với các thuốc còn lại

@@ -1,0 +1,28 @@
+Tên thủ tục: Thủ tục khai bổ sung hồ sơ hải quan
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Các trường hợp được khai bổ sung:
+Trừ các chỉ tiêu thông tin trên tờ khai hải quan không được khai bổ sung quy định tại mục 3 Phụ lục II ban hành kèm Thông tư 38/2015/TT-BTC được sửa đổi bổ sung tại Phụ lục I Thông tư 39/2018/TT-BTC, người khai hải quan được khai bổ sung các chỉ tiêu thông tin trên tờ khai hải quan trong các trường hợp sau:
+a) Khai bổ sung trong thông quan:
+a.1) Người khai hải quan, người nộp thuế được khai bổ sung hồ sơ hải quan trước thời điểm cơ quan hải quan thông báo kết quả phân luồng tờ khai hải quan cho người khai hải quan;
+a.2) Người khai hải quan, người nộp thuế phát hiện sai sót trong việc khai hải quan sau thời điểm cơ quan hải quan thông báo kết quả phân luồng nhưng trước khi thông quan thì được khai bổ sung hồ sơ hải quan và bị xử lý theo quy định của pháp luật;
+a.3) Người khai hải quan, người nộp thuế thực hiện khai bổ sung hồ sơ hải quan theo yêu cầu của cơ quan hải quan khi cơ quan hải quan phát hiện sai sót, không phù hợp giữa thực tế hàng hóa, hồ sơ hải quan với thông tin khai báo trong quá trình kiểm tra hồ sơ, kiểm tra thực tế hàng hóa thì bị xử lý theo quy định của pháp luật.
+b) Khai bổ sung sau khi hàng hóa đã được thông quan:
+Trừ nội dung khai bổ sung liên quan đến giấy phép xuất khẩu, nhập khẩu; kiểm tra chuyên ngành về chất lượng hàng hóa, y tế, văn hóa, kiểm dịch động vật, sản phẩm động vật, thực vật, an toàn thực phẩm, người khai hải quan thực hiện khai bổ sung sau thông quan trong các trường hợp sau:
+b.1) Người khai hải quan, người nộp thuế xác định có sai sót trong việc khai hải quan thì được khai bổ sung hồ sơ hải quan trong thời hạn 60 ngày kể từ ngày thông quan nhưng trước thời điểm cơ quan hải quan quyết định kiểm tra sau thông quan, thanh tra;
+b.2) Quá thời hạn 60 ngày kể từ ngày thông quan và trước khi cơ quan hải quan quyết định kiểm tra sau thông quan, thanh tra, người khai hải quan, người nộp thuế mới phát hiện sai sót trong việc khai hải quan thì thực hiện khai bổ sung và bị xử lý theo quy định của pháp luật
+Các trường hợp được khai bổ sung:
+Trừ các chỉ tiêu thông tin trên tờ khai hải quan không được khai bổ sung quy định tại mục 3 Phụ lục II ban hành kèm Thông tư 38/2015/TT-BTC được sửa đổi bổ sung tại Phụ lục I Thông tư 39/2018/TT-BTC, người khai hải quan được khai bổ sung các chỉ tiêu thông tin trên tờ khai hải quan trong các trường hợp sau:
+a) Khai bổ sung trong thông quan:
+a.1) Người khai hải quan, người nộp thuế được khai bổ sung hồ sơ hải quan trước thời điểm cơ quan hải quan thông báo kết quả phân luồng tờ khai hải quan cho người khai hải quan;
+a.2) Người khai hải quan, người nộp thuế phát hiện sai sót trong việc khai hải quan sau thời điểm cơ quan hải quan thông báo kết quả phân luồng nhưng trước khi thông quan thì được khai bổ sung hồ sơ hải quan và bị xử lý theo quy định của pháp luật;
+a.3) Người khai hải quan, người nộp thuế thực hiện khai bổ sung hồ sơ hải quan theo yêu cầu của cơ quan hải quan khi cơ quan hải quan phát hiện sai sót, không phù hợp giữa thực tế hàng hóa, hồ sơ hải quan với thông tin khai báo trong quá trình kiểm tra hồ sơ, kiểm tra thực tế hàng hóa thì bị xử lý theo quy định của pháp luật.
+b) Khai bổ sung sau khi hàng hóa đã được thông quan:
+Trừ nội dung khai bổ sung liên quan đến giấy phép xuất khẩu, nhập khẩu; kiểm tra chuyên ngành về chất lượng hàng hóa, y tế, văn hóa, kiểm dịch động vật, sản phẩm động vật, thực vật, an toàn thực phẩm, người khai hải quan thực hiện khai bổ sung sau thông quan trong các trường hợp sau:
+b.1) Người khai hải quan, người nộp thuế xác định có sai sót trong việc khai hải quan thì được khai bổ sung hồ sơ hải quan trong thời hạn 60 ngày kể từ ngày thông quan nhưng trước thời điểm cơ quan hải quan quyết định kiểm tra sau thông quan, thanh tra;
+b.2) Quá thời hạn 60 ngày kể từ ngày thông quan và trước khi cơ quan hải quan quyết định kiểm tra sau thông quan, thanh tra, người khai hải quan, người nộp thuế mới phát hiện sai sót trong việc khai hải quan thì thực hiện khai bổ sung và bị xử lý theo quy định của pháp luật
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp văn bản chấp thuận cho tàu cá khai thác thuỷ sản ở vùng biển ngoài vùng biển Việt Nam hoặc cấp phép cho đi khai thác tại vùng biển thuộc thẩm quyền quản lý của Tổ chức nghề cá khu vực
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004940
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Cấp văn bản chấp thuận cho tàu cá khai thác thuỷ sản ở vùng biển ngoài vùng biển Việt Nam hoặc cấp phép cho đi khai thác tại vùng biển thuộc thẩm quyền quản lý của Tổ chức nghề cá khu vực
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản

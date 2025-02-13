@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004470
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Cấp văn bản xác nhận thông báo hoạt động bưu chính (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp, tổ chức hoàn thiện hồ sơ đề nghị cấp văn bản xác nhận thông báo hoạt động bưu chính theo quy định và nộp hồ sơ về Sở Thông tin và Truyền thông
+Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Thông tin và Truyền thông từ chối cấp văn bản xác nhận thông báo hoạt động bưu chính đối với trường hợp không đúng thẩm quyền và nêu rõ lý do.
+Bước 3: Trong thời hạn 10 ngày làm việc, Sở Thông tin và Truyền thông thực hiện cấp văn bản xác nhận thông báo hoạt động bưu chính đối với trường hợp hồ sơ đã đầy đủ, đúng quy định, trường hợp hồ sơ chưa đáp ứng quy định thì Sở Thông tin và Truyền thông thông báo cho doanh nghiệp, tổ chức thực hiện sửa đổi, bổ sung.
+- Trong thời hạn 15 ngày làm việc kể từ ngày thông báo, doanh nghiệp, tổ chức có trách nhiệm sửa đổi, bổ sung hồ sơ theo yêu cầu. 
+Trường hợp doanh nghiệp, tổ chức không sửa đổi, bổ sung hồ sơ theo yêu cầu hoặc có sửa đổi, bổ sung nhưng chưa đạt yêu cầu, Sở Thông tin và Truyền thông thông báo từ chối cấp giấy phép bưu chính, văn bản xác nhận thông báo hoạt động bưu chính và nêu rõ lý do.
+- Các thông báo của Sở Thông tin và Truyền thông được thực hiện bằng văn bản qua hệ thống dịch vụ công trực tuyến.
+- Kết quả giải quyết thủ tục cấp giấy phép bưu chính, văn bản xác nhận thông báo hoạt động bưu chính được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 1.250.000 Đồng Trường hợp chuyển nhượng toàn bộ doanh nghiệp do mua bán, sáp nhập doanh nghiệp  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3d6dc600eaf5a') Phí : 1.000.000 Đồng Trường hợp với chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6f7941f8fa79e') Phí : 1.250.000 Đồng Trường hợp tự cung ứng dịch vụ phạm vi nội tỉnh  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe97db02f47c9fe')||
+|Trực tuyến|10 Ngày làm việc|Phí : 1.250.000 Đồng Trường hợp tự cung ứng dịch vụ phạm vi nội tỉnh  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe97db02f47c9fe') Phí : 1.000.000 Đồng Trường hợp với chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6f7941f8fa79e') Phí : 1.250.000 Đồng Trường hợp chuyển nhượng toàn bộ doanh nghiệp do mua bán, sáp nhập doanh nghiệp  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3d6dc600eaf5a')|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Sở Thông tin và Truyền thông hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 1.000.000 Đồng Trường hợp với chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6f7941f8fa79e') Phí : 1.250.000 Đồng Trường hợp tự cung ứng dịch vụ phạm vi nội tỉnh  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe97db02f47c9fe') Phí : 1.250.000 Đồng Trường hợp chuyển nhượng toàn bộ doanh nghiệp do mua bán, sáp nhập doanh nghiệp  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3d6dc600eaf5a')||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Hồ sơ đề nghị xác nhận thông báo hoạt động bưu chính đối với trường hợp tự cung ứng dịch vụ: Cung ứng dịch vụ thư không có địa chỉ nhận có khối lượng đơn chiếc đến 02 kg, cung ứng dịch vụ thư có khối lượng đơn chiếc trên 02 kg và cung ứng dịch vụ gói, kiện hàng hóa gồm: + Văn bản thông báo hoạt động bưu chính; + Bản sao giấy chứng nhận đăng ký doanh nghiệp + Mẫu hợp đồng cung ứng và sử dụng dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Mẫu biểu trưng, nhãn hiệu, ký hiệu đặc thù hoặc các yếu tố thuộc hệ thống nhận diện của doanh nghiệp được thể hiện trên bưu gửi (nếu có); + Bảng giá cước dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Tiêu chuẩn chất lượng dịch vụ bưu chính công bố áp dụng phù hợp với quy định của pháp luật về bưu chính; + Quy định về mức giới hạn trách nhiệm bồi thường thiệt hại trong trường hợp phát sinh thiệt hại, quy trình giải quyết khiếu nại của khách hàng, thời hạn giải quyết khiếu nại phù hợp với quy định của pháp luật về bưu chính; + Hợp đồng nhượng quyền thương mại với doanh nghiệp đang cung ứng dịch vụ bưu chính (nếu có). + Các biện pháp bảo đảm an toàn đối với con người, bưu gửi, mạng bưu chính và an ninh thông tin trong hoạt động bưu chính; ([Van ban thong bao hoat dong buu chính.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8ffdb02e2a56b'))
+- 01 Bản chính, 01 Bản sao Hồ sơ đề nghị xác nhận thông báo hoạt động bưu chính đối với các trường hợp làm chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam. + Văn bản thông báo hoạt động bưu chính; + Bản sao giấy phép thành lập do cơ quan nhà nước có thẩm quyền cấp được doanh nghiệp tự đóng dấu xác nhận và chịu trách nhiệm về tính chính xác của bản sao. ([Van ban thong bao hoat dong buu chính.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f658bffc5708c00'))
+- 01 Bản chính, 01 Bản sao Số lượng hồ sơ: 01 bộ là bản gốc
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông tỉnh, thành phố
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận thông báo hoạt động bưu chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|49/2010/QH12|Luật 49/2010/QH12|17-06-2010|Quốc Hội|
+|47/2011/NĐ-CP|Nghị định 47/2011/NĐ-CP|17-06-2011|Chính phủ|
+|291/2016/TT-BTC|Thông tư 291/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|25/2020/TT-BTC|Thông tư sửa đổi, bổ sung một số điều của Thông tư 219/2016-TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý phí thẩm định điều kiện hoạt động bưu chính|04-04-2020|Bộ Tài chính|
+|25/2022/NĐ-CP|Nghị định 25/2022/NĐ-CP|12-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Việc thông báo hoạt động bưu chính được thực hiện chậm nhất là 07 ngày làm việc, kể từ ngày đầu tiên hoạt động bưu chính.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Thông tư số 25/2020/TT-BTC ngày 14/4/2020 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 291/2016/TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.

@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011454
+Số quyết định:
+261/QĐ-BVHTTDL
+Tên thủ tục:
+Thủ tục cấp Giấy phép phân loại phim (thẩm quyền của ủy ban nhân dân cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Điện ảnh
+Trình tự thực hiện:
+- Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị cấp giấy phép qua Cổng dịch vụ công quốc gia hoặc qua đường bưu điện hoặc nộp trực tiếp đến Ủy ban nhân dân cấp tỉnh.
+-  Ủy ban nhân dân cấp tỉnh tiếp nhận hồ sơ có trách nhiệm kiểm tra tính hợp lệ của hồ sơ, viết giấy biên nhận và hẹn thời gian trả giấy phép.
+- Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền thực hiện cấp Giấy phép phân loại phim theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định.
+	- Trường hợp không cấp Giấy phép phải trả lời bằng văn bản và nêu rõ lý do.
+- Trường hợp phim phải điều chỉnh nội dung hoặc hồ sơ phải sửa đổi, bổ sung thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều 27 Luật Điện ảnh 2022, trong thời hạn 15 ngày kể từ ngày nhận được bản phim đã điều chỉnh nội dung, 10 ngày kể từ ngày nhận được hồ sơ đã sửa đổi, bổ sung đầy đủ thông tin, cơ quan nhà nước có thẩm quyền thực hiện cấp Giấy phép.
+	- Trường hợp thay đổi nội dung phim đã được cấp Giấy phép phân loại phim, tổ chức, cá nhân phải thực hiện đề nghị cấp lại Giấy phép phân loại phim theo quy định tại Điều 27 của Luật Điện ảnh 2022.
+- Trường hợp thay đổi tên phim mà không thay đổi nội dung phim đã được cấp Giấy phép phân loại phim, tổ chức, cá nhân phải thông báo bằng văn bản cho cơ quan nhà nước có thẩm quyền đã cấp Giấy phép phân loại phim.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : Đồng Chưa quy định|kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|15 Ngày|Phí : Đồng Chưa quy định|kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày|Phí : Đồng Chưa quy định|kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp Giấy phép phân loại phim theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định ([Don de nghi cap phep phan loai phim (cap Tinh).doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb5637a1220909'))
+- 01 Bản sao Văn bản chứng minh quyền sở hữu phim hoặc quyền sử dụng phim hợp pháp
+- 01 Bản chính Bản phim hoàn chỉnh
+- 01 Bản chính Bản thuyết minh phim bằng tiếng Việt đối với phim nước ngoài
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép phân loại phim (thuộc thẩm quyền của UBND cấp tỉnh)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2022/QH15|Luật 05/2022/QH15|15-06-2022||
+|17/2022/TT-BVHTTDL|Thông tư 17/2022/TT-BVHTTDL|27-12-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

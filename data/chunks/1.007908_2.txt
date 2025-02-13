@@ -1,0 +1,7 @@
+Tên thủ tục: Kiểm tra việc in, phát hành, quản lý và sử dụng Biên lai
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Cơ quan hải quan nơi đăng ký tờ khai hải quan thực hiện kiểm tra việc tạo, phát hành, quản lý và sử dụng Biên lai trên báo cáo tình hình sử dụng Biên lai của các Doanh nghiệp. Tối đa là mười (10) ngày làm việc kể từ ngày nhận được báo cáo tình hình sử dụng Biên lai của Doanh nghiệp, cơ quan hải quan phải tiến hành việc kiểm tra.
++ Bước 2: Trường hợp cơ quan hải quan kiểm tra phát hiện có dấu hiệu vi phạm, trong thời hạn ba (03) ngày làm việc kể từ ngày phát hiện, cơ quan hải quan có văn bản yêu cầu Doanh nghiệp báo cáo giải trình.
++ Bước 3: Trường hợp Doanh nghiệp không giải trình hoặc giải trình không thỏa đáng, cơ quan hải quan ban hành quyết định kiểm tra Biên lai tại trụ sở của Doanh nghiệp.

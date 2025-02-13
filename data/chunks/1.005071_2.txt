@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp giấy phép lái tàu cho lái tàu trên các tuyến đường sắt đang khai thác
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+Doanh nghiệp nộp 01 bộ hồ sơ về cơ quan cấp giấy phép lái tàu, cụ thể:
+- Cục Đường sắt Việt Nam đối với đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng (trừ trường hợp đường sắt đô thị, đường sắt chuyên dùng trên địa bàn các tỉnh, thành phố Hồ Chí Minh, Quảng Ninh, Thái Nguyên).
+- Ủy ban nhân dân các tỉnh, thành phố: TP.  Hồ Chí Minh, Quảng Ninh, Thái Nguyên đối với đường sắt chuyên dùng, đường sắt đô thị trên địa bàn. Trước ngày 01/01/2025, nếu Ủy ban nhân dân các tỉnh, thành phố nêu trên chưa thực hiện được nội dung này thì hướng dẫn Chủ sở hữu phương tiện gửi 01 bộ hồ sơ làm thủ tục đến Cục Đường sắt Việt Nam.
+Giải quyết TTHC
+- Trường hợp hồ sơ không đúng theo quy định, trong thời hạn 01 ngày làm
+việc kể từ ngày tiếp nhận hồ sơ qua bộ phận một cửa hoặc qua cổng dịch vụ công trực tuyến; 02 ngày làm việc kể từ ngày tiếp nhận hồ sơ theo các hình thức khác, cơ quan cấp giấy phép lái tàu có trách nhiệm thông báo, hướng dẫn doanh nghiệp hoàn thiện hồ sơ theo quy định; 
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, cơ quan cấp giấy phép lái tàu ra quyết định tổ chức kỳ sát hạch cấp  giấy phép lái tàu, quyết định thành lập hội đồng sát hạch và thông báo bằng văn bản cho doanh nghiệp. Trong đó, quyết định tổ chức kỳ sát hạch phải nêu rõ hình thức sát hạch lý thuyết (thi viết hoặc thi trắc nghiệm), danh sách thí sinh đủ điều kiện dự sát hạch, loại giấy phép lái tàu đăng ký sát hạch, loại phương tiện sát hạch đối với từng thí sinh dự sát hạch;
+- Trong thời gian tối đa 03 tháng kể từ ngày có quyết định thành lập, Hội
+đồng sát hạch phối hợp với các doanh nghiệp tổ chức kỳ sát hạch, báo cáo kết quả cho cơ quan cấp giấy phép lái tàu. Trường hợp không hoàn thành kỳ sát hạch trong thời hạn trên, hội đồng sát hạch phải báo cáo cơ quan cấp giấy phép lái tàu nêu rõ lý do, đề xuất gia hạn thời gian hoặc kết thúc kỳ sát hạch. Thời gian gia hạn là 01 lần và tối đa không quá 01 tháng; 
+- Trong thời hạn 03 ngày làm việc kể từ ngày có báo cáo kết quả kỳ sát hạch, cơ quan cấp giấy phép lái tàu cấp giấy phép lái tàu cho những trường hợp đạt yêu cầu. Đối với những trường hợp không được cấp giấy phép lái tàu, cơ quan cấp giấy phép lái tàu có văn bản thông báo và nêu rõ lý do cho doanh nghiệp.

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép tài nguyên nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|16 Ngày làm việc||Thời hạn giải quyết: 16 ngày làm việc - Nộp hồ sơ: Nộp trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện (Chú ý: Phải đảm bảo thành phần, nội dung hồ sơ đúng theo quy định). - Trả kết quả giải quyết: Kết quả được trả trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc trả gián tiếp thông qua dịch vụ bưu chính công ích cho cá nhân khi có yêu cầu.|
+|Trực tuyến|16 Ngày làm việc||Thời hạn giải quyết: 16 ngày làm việc - Nộp hồ sơ: Nộp trực tuyến đến Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện thông qua trang dịch vụ công Quốc gia hoặc dịch vụ công tỉnh Bình Dương (https://dichvucong.binhduong.gov.vn) (Chú ý: Phải đảm bảo thành phần, nội dung hồ sơ đúng theo quy định). - Trả kết quả giải quyết: Kết quả được trả trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc trả gián tiếp thông qua dịch vụ bưu chính công ích cho cá nhân khi có yêu cầu.|
+|Dịch vụ bưu chính|16 Ngày làm việc||Thời hạn giải quyết: 16 ngày làm việc - Nộp hồ sơ: Nộp hồ sơ đến Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện thông qua dịch vụ bưu chính công ích (Chú ý: Phải đảm bảo thành phần, nội dung hồ sơ đúng theo quy định). - Trả kết quả giải quyết: Kết quả được trả trực tiếp tại Bộ phận tiếp nhận hồ sơ và trả kết quả của Ủy ban nhân dân cấp huyện hoặc trả gián tiếp thông qua dịch vụ bưu chính công ích cho cá nhân khi có yêu cầu.|

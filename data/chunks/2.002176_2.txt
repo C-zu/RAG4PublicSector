@@ -1,0 +1,27 @@
+Tên thủ tục: Thủ tục tiếp công dân tại các cơ quan Trung ương
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Đón tiếp, xác định nhân thân của công dân
+Người tiếp công dân đón tiếp, yêu cầu công dân nêu rõ họ tên, địa chỉ hoặc xuất trình giấy tờ tuỳ thân; trường hợp được ủy quyền thì yêu cầu xuất trình giấy ủy quyền. 
+- Bước 2: Nghe, ghi chép nội dung khiếu nại, tố cáo, kiến nghị, phản ánh, tiếp nhận thông tin, tài liệu
+Khi người khiếu nại, tố cáo, kiến nghị, phản ánh có đơn trình bày nội dung rõ ràng, đầy đủ thì người tiếp công dân cần xác định nội dung vụ việc, yêu cầu của công dân để xử lý cho phù hợp.
+Nếu nội dung đơn khiếu nại, tố cáo, kiến nghị, phản ánh không rõ ràng, chưa đầy đủ thì người tiếp công dân đề nghị công dân viết lại đơn hoặc viết bổ sung vào đơn những nội dung chưa rõ, còn thiếu.
+Trường hợp không có đơn khiếu nại, tố cáo, kiến nghị, phản ánh thì người tiếp công dân hướng dẫn công dân viết đơn theo quy định của pháp luật.
+Nếu công dân trình bày trực tiếp thì người tiếp công dân ghi chép đầy đủ, trung thực, chính xác nội dung khiếu nại, tố cáo, kiến nghị, phản ánh do công dân trình bày; nội dung nào chưa rõ thì đề nghị công dân trình bày thêm, sau đó đọc lại cho công dân nghe và đề nghị công dân ký tên hoặc điểm chỉ xác nhận vào văn bản.
+Trường hợp nhiều người đến khiếu nại, tố cáo, kiến nghị, phản ánh về cùng một nội dung thì người tiếp công dân hướng dẫn họ cử người đại diện để trình bày nội dung khiếu nại, tố cáo, kiến nghị, phản ánh; người tiếp công dân ghi lại nội dung bằng văn bản.
+Trường hợp đơn có nhiều nội dung khác nhau thì người tiếp công dân hướng dẫn công dân tách riêng từng nội dung để gửi đến đúng cơ quan, tổ chức, đơn vị có thẩm quyền giải quyết.
+Người tiếp công dân tiếp nhận các thông tin, tài liệu, bằng chứng liên quan đến việc khiếu nại, tố cáo, kiến nghị, phản ánh do công dân cung cấp (nếu có) và phải viết, giao giấy  biên nhận các tài liệu đã tiếp nhận cho công dân.
+Bước 3: Phân loại, xử lý khiếu nại, tố cáo, kiến nghị, phản ánh tại nơi tiếp công dân
+- Việc phân loại, xử lý khiếu nại, tố cáo đến cơ quan, tổ chức, đơn vị, người có thẩm quyền thụ lý, giải quyết trong quá trình tiếp công dân được thực hiện như sau:
++ Trường hợp khiếu nại, tố cáo thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình và đủ điều kiện thụ lý thì người tiếp công dân tiếp nhận thông tin, tài liệu, chứng cứ kèm theo, đồng thời báo cáo với Thủ trưởng cơ quan, tổ chức, đơn vị thụ lý.
++ Trường hợp khiếu nại, tố cáo không thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình thì hướng dẫn người khiếu nại, tố cáo đến cơ quan, tổ chức, đơn vị có thẩm quyền để khiếu nại, tố cáo.
+Nếu khiếu nại, tố cáo thuộc thẩm quyền giải quyết của cấp dưới mà chưa được giải quyết thì xử lý như sau:
+Trường hợp khiếu nại thuộc thẩm quyền của cấp dưới nhưng quá thời gian quy định mà chưa được giải quyết thì người tiếp công dân phải báo cáo với thủ trưởng cơ quan, tổ chức, đơn vị xem xét, quyết định.
+Trường hợp khiếu nại lần đầu đã hết thời hạn nhưng chưa được giải quyết thì người tiếp công dân báo cáo thủ trưởng cơ quan, tổ chức, đơn vị để xem xét, giải quyết theo quy định của Luật khiếu nại.
+Trường hợp tố cáo thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị cấp dưới trực tiếp nhưng quá thời gian quy định mà chưa được giải quyết thì người tiếp công dân báo cáo thủ trưởng cơ quan, tổ chức, đơn vị để ra văn bản yêu cầu cấp dưới giải quyết.
++ Trường hợp khiếu nại, tố cáo đã được giải quyết đúng chính sách, pháp luật thì người tiếp công dân giải thích, hướng dẫn để người đến khiếu nại, tố cáo chấp hành nghiêm chỉnh quyết định giải quyết khiếu nại, quyết định xử lý hành vi vi phạm bị tố cáo và yêu cầu công dân chấm dứt việc khiếu nại, tố cáo.
++ Trường hợp nhận được đơn khiếu nại, tố cáo không do người khiếu nại, người tố cáo trực tiếp chuyển đến thì thực hiện việc phân loại và xử lý theo quy định của pháp luật về khiếu nại, tố cáo.
+- Việc phân loại, xử lý kiến nghị, phản ánh đến cơ quan, tổ chức, đơn vị, người có thẩm quyền thụ lý, giải quyết trong quá trình tiếp công dân được thực hiện như sau:
++ Trường hợp kiến nghị, phản ánh thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình thì người tiếp công dân báo cáo người có thẩm quyền để nghiên cứu, xem xét, giải quyết hoặc phân công bộ phận nghiên cứu, xem xét, giải quyết.
++ Trường hợp kiến nghị, phản ánh không thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình thì người tiếp công dân chuyển đơn hoặc chuyển bản ghi lại nội dung trình bày của người kiến nghị, phản ánh đến cơ quan, tổ chức, đơn vị có thẩm quyền để nghiên cứu, tiếp thu, xem xét, giải quyết.

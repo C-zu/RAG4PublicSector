@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký khoản cho vay ra nước ngoài của tổ chức tín dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đăng ký khoản cho vay ra nước ngoài (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe061b4cab00ce5'">PHỤ LỤC SỐ 01_Thông tư 45.docx</a>)
+- 01 Bản chính 2. Báo cáo đánh giá tác động của khoản cho vay ra nước ngoài đến việc tuân thủ quy định về tỷ lệ an toàn vốn tối thiểu; giới hạn cấp tín dụng đối với một khách hàng (bên vay nước ngoài) và người có liên quan; tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn; tỷ lệ dư nợ cho vay so với tổng tiền gửi; tỷ lệ khả năng chi trả; trạng thái ngoại tệ của tổ chức tín dụng cho vay ra nước ngoài.
+- 01 Bản chính 3. Báo cáo thẩm định khoản cho vay ra nước ngoài gồm các nội dung chủ yếu sau: đánh giá tính khả thi, hiệu quả của dự án đầu tư, phương án sản xuất kinh doanh của bên vay nước ngoài; các rủi ro liên quan, khả năng thu hồi vốn gốc, lãi cho vay đầy đủ và đúng hạn; sự phù hợp về trị giá khoản cho vay và quy mô dự án sử dụng vốn vay; vấn đề bảo đảm khoản cho vay và các nội dung liên quan khác.
+- 01 Bản chính 4. Báo cáo về nguồn vốn ngoại tệ cho vay bao gồm nội dung liên quan đến quy mô, cơ cấu đồng tiền và cơ cấu kỳ hạn giữa nguồn vốn huy động và cho vay bằng ngoại tệ tại thời điểm ký thỏa thuận cho vay.
+- 01 Bản sao 5. Bản sao và bản dịch tiếng Việt Quyết định thành lập hoặc Giấy chứng nhận đăng ký đầu tư của bên vay nước ngoài theo quy định của nước sở tại.
+- 01 Bản sao 6. Bản sao Giấy chứng nhận đăng ký đầu tư ra nước ngoài của nhà đầu tư Việt Nam sở hữu vốn đầu tư và trực tiếp tham gia quản lý hoạt động đầu tư tại Bên vay nước ngoài.
+- 01 Bản sao 7. Bản sao và bản dịch tiếng Việt (có xác nhận của đại diện có thẩm quyền của tổ chức tín dụng) thỏa thuận cho vay đã ký.
+- 01 Bản sao 8. Bản sao và bản dịch tiếng Việt (có xác nhận của đại diện có thẩm quyền của tổ chức tín dụng) các văn bản, thỏa thuận bảo lãnh, bảo đảm khoản cho vay ra nước ngoài (nếu có).”

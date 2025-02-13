@@ -1,0 +1,8 @@
+Tên thủ tục: Hiệp thương, giải quyết tranh chấp trong kinh doanh dịch vụ viễn thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|chưa xác định||- Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị giải quyết tranh chấp, Cục Viễn thông tổ chức hiệp thương giữa hai bên; - Trong thời hạn 15 ngày làm việc kể từ ngày kết thúc Hiệp thương, Cục Viễn thông ra quyết định giải quyết tranh chấp..|
+|Dịch vụ bưu chính|chưa xác định||- Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị giải quyết tranh chấp, Cục Viễn thông tổ chức hiệp thương giữa hai bên; - Trong thời hạn 15 ngày làm việc kể từ ngày kết thúc Hiệp thương, Cục Viễn thông ra quyết định giải quyết tranh chấp..|

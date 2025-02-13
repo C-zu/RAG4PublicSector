@@ -1,0 +1,131 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003650
+Số quyết định:
+1283/QĐ-BNN-TS
+Tên thủ tục:
+Cấp giấy chứng nhận đăng ký tàu cá
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+a) Tổ chức, cá nhân nộp 01 bộ hồ sơ đến cơ quan quản lý nhà nước về thủy sản cấp tỉnh;
+b) Trường hợp nộp hồ sơ trực tiếp: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+c) Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, cơ quan có thẩm quyền quy định tại khoản 1 Điều này xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan có thẩm quyền quy định tại khoản 1 Điều này có văn bản thông báo rõ cho tổ chức, cá nhân bổ sung;
+d) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định, cơ quan có thẩm quyền quy định tại khoản 1 Điều này có trách nhiệm làm thủ tục đăng ký, vào sổ đăng ký tàu cá, tàu công vụ thủy sản và cấp Giấy chứng nhận đăng ký tàu cá, tàu công vụ thủy sản theo Mẫu số 05.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT và cấp Sổ danh bạ thuyền viên tàu cá theo Mẫu số 06.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; Trường hợp không cấp Giấy chứng nhận đăng ký tàu cá, tàu công vụ thủy sản cơ quan có thẩm quyền trả lời bằng văn bản và nêu rõ lý do;
+đ) Cách thức trả kết quả: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh trả kết quả tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+
+Thành phần hồ sơ:
+
+1) Hồ sơ đối với tàu đóng mới gồm:
+- 01 Bản chính a) Tờ khai đăng ký tàu cá, tàu công vụ thủy sản theo Mẫu số 02.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1f26f6b4062f2'))
+- 01 Bản chính b) Bản chính Giấy chứng nhận xuất xưởng do chủ cơ sở đóng tàu cấp theo Mẫu số 03.ĐKT Phụ lục Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9b848b4cba7a0'))
+- 01 Bản chính c) Bản chính văn bản chấp thuận đóng mới đối với tàu cá hoặc văn bản phê duyệt của cơ quan có thẩm quyền đối với tàu công vụ thủy sản;
+- 01 Bản chính d) Bản chính biên lai nộp thuế trước bạ của tàu hoặc bản chính Tờ khai lệ phí trước bạ của tàu có xác nhận của cơ quan thuế;
+- 01 Bản chính đ) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu);
+- 01 Bản sao e) Bản sao chụp Giấy chứng nhận an toàn kỹ thuật của tàu cá có chiều dài lớn nhất từ 12 mét trở lên.
+
+
+2) Hồ sơ đối với tàu cải hoán gồm:
+- 01 Bản chính a) Tờ khai đăng ký tàu cá, tàu công vụ thủy sản theo Mẫu số 02.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7a0f51737bb60'))
+- 01 Bản chính b) Bản chính biên lai nộp thuế trước bạ của tàu hoặc bản chính Tờ khai lệ phí trước bạ của tàu có xác nhận của cơ quan thuế;
+- 01 Bản chính c) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu);
+- 01 Bản chính d) Bản sao có chứng thực Giấy chứng nhận an toàn kỹ thuật của tàu (đối với tàu có chiều dài lớn nhất từ 12 mét trở lên).
+- 01 Bản chính đ) Bản chính Giấy chứng nhận cải hoán, sửa chữa tàu theo Mẫu số 04.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee2d47a3425735'))
+- 01 Bản chính e) Bản chính Giấy chứng nhận đăng ký cũ;
+- 01 Bản chính g) Văn bản chấp thuận cải hoán của Ủy ban nhân dân cấp tỉnh.
+
+
+3) Hồ sơ đối với tàu được mua bán, tặng cho gồm:
+- 01 Bản chính a) Tờ khai đăng ký tàu cá, tàu công vụ thủy sản theo Mẫu số 02.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe47571190b2cd8'))
+- 01 Bản chính b) Bản chính biên lai nộp thuế trước bạ của tàu hoặc bản chính Tờ khai lệ phí trước bạ của tàu có xác nhận của cơ quan thuế;
+- 01 Bản chính c) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu);
+- 01 Bản sao d) Bản sao có chứng thực Giấy chứng nhận an toàn kỹ thuật của tàu (đối với tàu có chiều dài lớn nhất từ 12 mét trở lên).
+- 01 Bản chính đ) Bản chính Giấy tờ chuyển nhượng quyền sở hữu tàu theo quy định;
+- 01 Bản chính e) Văn bản chấp thuận mua, bán tàu cá của Ủy ban nhân dân cấp tỉnh, trừ trường hợp tàu cá mua bán trong tỉnh, thành phố trực thuộc Trung ương;
+- 01 Bản chính g) Bản chính Giấy chứng nhận đăng ký tàu cá cũ kèm theo hồ sơ đăng ký gốc của tàu;
+- 01 Bản chính h) Bản chính Giấy chứng nhận xóa đăng ký.
+
+
+4) Hồ sơ đối với tàu nhập khẩu gồm:
+- 01 Bản chính a) Tờ khai đăng ký tàu cá, tàu công vụ thủy sản theo Mẫu số 02.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febdb78a2fea9eb'))
+- 01 Bản chính b) Bản chính biên lai nộp thuế trước bạ của tàu hoặc bản chính Tờ khai lệ phí trước bạ của tàu có xác nhận của cơ quan thuế;
+- 01 Bản chính c) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu);
+- 01 Bản sao d) Bản sao có chứng thực Giấy chứng nhận an toàn kỹ thuật của tàu (đối với tàu có chiều dài lớn nhất từ 12 mét trở lên).
+- 01 Bản chính đ) Bản sao có chứng thực văn bản cho phép nhập khẩu tàu cá của cơ quan có thẩm quyền;
+- 01 Bản chính e) Bản chính Giấy chứng nhận xóa đăng ký kèm theo bản sao có chứng thực bản dịch tiếng Việt đối với tàu cá đã qua sử dụng;
+- 01 Bản sao g) Bản sao có chứng thực Tờ khai Hải quan có xác nhận đã hoàn thành thủ tục hải quan
+- 01 Bản sao h) Bản sao có chứng thực Biên lai nộp các khoản thuế theo quy định của pháp luật Việt Nam.
+
+
+5) Hồ sơ đối với tàu thuộc diện thuê tàu trần gồm:
+- 01 Bản chính a) Tờ khai đăng ký tàu cá, tàu công vụ thủy sản theo Mẫu số 02.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca5377cd24b400'))
+- 01 Bản chính b) Bản chính biên lai nộp thuế trước bạ của tàu hoặc bản chính Tờ khai lệ phí trước bạ của tàu có xác nhận của cơ quan thuế;
+- 01 Bản chính c) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu);
+- 01 Bản sao d) Bản sao có chứng thực Giấy chứng nhận an toàn kỹ thuật của tàu (đối với tàu có chiều dài lớn nhất từ 12 mét trở lên).
+- 01 Bản chính đ) Bản chính Giấy chứng nhận xóa đăng ký kèm theo bản sao có chứng thực bản dịch tiếng Việt đối với tàu cá, tàu công vụ thủy sản đã qua sử dụng;
+- 01 Bản sao e) Bản chụp có chứng thực Tờ khai Hải quan có xác nhận đã hoàn thành thủ tục hải quan;
+- 01 Bản sao g) Bản sao có chứng thực Biên lai nộp các khoản thuế theo quy định của pháp luật Việt Nam.
+- 01 Bản chính h) Bản chính văn bản chấp thuận cho thuê tàu trần do cơ quan nhà nước Việt Nam có thẩm quyền cấp;
+- 01 Bản chính i) Bản chính hợp đồng thuê tàu trần.
+
+
+6) Hồ sơ đối với tàu cá đã được Uỷ ban nhân dân cấp tỉnh công bố danh sách tàu cá đã được đóng mới, cải hoán, mua bán, tặng cho không đủ thành phần hồ sơ theo quy định tại khoản 2, khoản 3, khoản 4, khoản 6 Điều 21 Thông tư số 23/2018/TT-BNNPTNT (đã được sửa đổi, bổ sung tại Thông tư số 01/2022/TT-BNNPTNT), gồm:
+- 01 Bản chính a) Tờ khai đăng ký tàu cá có xác nhận của Ủy ban nhân dân cấp xã nơi chủ tàu đăng ký hộ khẩu thường trú theo Phụ lục ban hành kèm theo Thông tư số 06/2024/TT-BNNPTNT; ([MẪU TỜ KHAI ĐĂNG KÝ ĐỐI VỚI TÀU CÁ theo khoản 6a Điều 21 Thông tư số 23.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4b93e3fd6311e'))
+- 01 Bản sao b) Bản sao chụp Giấy chứng nhận an toàn kỹ thuật của tàu cá có chiều dài lớn nhất từ 12m trở lên;
+- 01 Bản chính c) Bản chính Thông báo nộp lệ phí trước bạ của tàu;
+- 01 Bản chính d) Ảnh màu (9cm x 12cm chụp toàn tàu theo hướng 2 bên mạn tàu).
+ đ) Giấy tờ mua bán theo quy định của pháp luật (nếu có);
+ e) Bản chính Giấy chứng nhận đăng ký tàu cá cũ (đối với trường hợp cải hoán, mua bán, tặng cho) (nếu có);
+ g) Bản chính giấy chứng nhận xoá đăng ký đối với trường hợp mua bán, tặng cho hoặc chuyển tỉnh, thành phố trực thuộc Trung ương (nếu có);
+ h) Các giấy tờ hợp pháp khác (nếu có).
+ (Thời gian tiếp nhận hồ sơ đối với các tàu cá trong trường hợp này đến hết ngày 31/12/2024).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan quản lý nhà nước về thủy sản cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+giấy chứng nhận đăng ký tàu cá
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|23/2018/TT-BNNPTNT|Thông tư 23/2018/TT-BNNPTNT|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|01/2022/TT-BNNPTNT|Thông tư 01/2022/TT-BNNPTNT|18-01-2022||
+|Thông tư số 06/2024/TT-BNNPTNT ngày 06/5/2024|Thông tư số 06/2024/TT-BNNPTNT ngày 06/5/2024|06-05-2024|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Khoản 3 Điều 70 Luật Thủy sản quy định:
+3. Tàu cá được cấp Giấy chứng nhận đăng ký tàu cá khi đáp ứng các điều kiện sau đây:
+a) Có giấy tờ chứng minh về sở hữu hợp pháp tàu cá;
+b) Có Giấy chứng nhận an toàn kỹ thuật tàu cá đối với tàu cá quy định phải đăng kiểm;
+c) Có giấy chứng nhận tạm ngừng đăng ký tàu cá đối với trường hợp thuê tàu trần; giấy chứng nhận xóa đăng ký tàu cá đối với trường hợp nhập khẩu, mua bán, tặng cho hoặc chuyển tỉnh, thành phố trực thuộc trung ương;
+d) Chủ tàu cá có trụ sở hoặc nơi đăng ký thường trú tại Việt Nam.
+Khoản 3 Điều 70 Luật Thủy sản quy định:
+3. Tàu cá được cấp Giấy chứng nhận đăng ký tàu cá khi đáp ứng các điều kiện sau đây:
+a) Có giấy tờ chứng minh về sở hữu hợp pháp tàu cá;
+b) Có Giấy chứng nhận an toàn kỹ thuật tàu cá đối với tàu cá quy định phải đăng kiểm;
+c) Có giấy chứng nhận tạm ngừng đăng ký tàu cá đối với trường hợp thuê tàu trần; giấy chứng nhận xóa đăng ký tàu cá đối với trường hợp nhập khẩu, mua bán, tặng cho hoặc chuyển tỉnh, thành phố trực thuộc trung ương;
+d) Chủ tàu cá có trụ sở hoặc nơi đăng ký thường trú tại Việt Nam.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

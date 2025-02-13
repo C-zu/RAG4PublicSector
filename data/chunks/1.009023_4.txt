@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký giám sát việc giám hộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai đăng ký giám sát việc giám hộ (theo mẫu đính kèm) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe86795f83fa231'">Tờ khai đăng ký giám sát việc giám hộ theo mẫu.docx</a>)
+- 01 Bản chính 2. Văn bản thỏa thuận cử hoặc chọn người giám sát việc giám hộ (cá nhân hoặc pháp nhân) của những người thân thích của người được giám hộ (có chứng thực chữ ký của những người thân thích của người được giám hộ và phải có ý kiến đồng ý của người được cử hoặc chọn giám sát việc giám hộ).
+- 01 Bản sao 3. Bản sao trích lục đăng ký giám hộ
+- 01 Bản sao 4. Trường hợp người giám sát việc giám hộ là cá nhân thì phải có: Bản sao Hộ chiếu hoặc bản sao chứng minh nhân dân hoặc bản sao chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc bản sao thẻ căn cước công dân còn thời hạn sử dụng (có chứng thực hoặc cung cấp bản chính để đối chiếu)
+- 02 Bản sao 5. Trường hợp người giám sát việc giám hộ là pháp nhân thì phải có: * Bản sao Giấy tờ chứng minh là pháp nhân (Quyết định thành lập pháp nhân hoặc giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đầu tư hoặc điều lệ của pháp nhân...); Bản sao Quyết định bổ nhiệm hoặc bản sao Quyết định cử người đại diện theo pháp luật của pháp nhân (có chứng thực hoặc cung cấp bản chính để đối chiếu)
+- 01 Bản sao 6. Trường hợp người giám sát việc giám hộ là pháp nhân thì phải có: * Giấy tờ tùy thân của người đại diện theo pháp luật của pháp nhân: Bản sao Hộ chiếu hoặc bản sao chứng minh nhân dân hoặc bản sao chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc bản sao thẻ căn cước công dân còn giá trị sử dụng (có chứng thực hoặc cung cấp bản chính để đối chiếu)
+- 01 Bản chính 7. Người yêu cầu thực hiện thủ tục hành chính phải xuất trình Giấy tờ: Hộ chiếu hoặc chứng minh nhân dân hoặc thẻ căn cước công dân hoặc chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc thẻ căn cước công dân hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân.

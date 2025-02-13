@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000363
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Cấp phép nhập khẩu tự động thuốc lá điếu, xì gà
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghiệp tiêu dùng
+Trình tự thực hiện:
+Thương nhân gửi 1 (một) bộ hồ sơ xin cấp Giấy phép qua đường bưu điện đến Cục Xuất nhập khẩu - Bộ Công Thương
+Bộ Công Thương kiểm tra tính hợp lệ, đầy đủ của hồ sơ. Trường hợp hồ sơ đầy đủ, hợp lệ, trong thời hạn 05 ngày làm việc, Bộ Công Thương cấp giấy phép nhập khẩu tự động
+Trường hợp hồ sơ không đầy đủ, hợp lệ hoặc không đồng ý xác nhận, Bộ thông báo bằng văn bản cho thương nhân để hoàn chỉnh hồ sơ hoặc nêu rõ lý do không xác nhận
+Thương nhân nhận văn bản cấp phép bằng đường bưu điện
+Chế độ báo cáo:
+Trong 15 (mười lăm) ngày đầu của quý kế tiếp, thương nhân nhập khẩu thuốc lá điếu, xì gà phải gửi về Cục Xuất nhập khẩu - Bộ Công Thương Báo cáo bằng văn bản tình hình nhập khẩu tự động thuốc lá điếu, xì gà của quý trước đó, trong đó nêu rõ: chủng loại, số lượng, trị giá nhập khẩu, giá bán, và dự kiến kế hoạch nhập khẩu trong thời gian tới (theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư số 37/2013/TT-BCT).
+Trước ngày 15 tháng 10 hàng năm, thương nhân nhập khẩu thuốc lá điếu, xì gà phải báo cáo Cục Xuất nhập khẩu - Bộ Công Thương (thay cho báo cáo quý III) tình hình nhập khẩu 3 (ba) quý và dự kiến nhập khẩu năm tiếp theo
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Dịch vụ bưu chính|5 Ngày làm việc||Trong vòng 5 (năm) ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ của thương nhân, Cục Xuất nhập khẩu - Bộ Công Thương tiến hành xác nhận Đơn đăng ký nhập khẩu tự động thuốc lá điếu, xì gà. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc trường hợp không xác nhận, Cục Xuất nhập khẩu - Bộ Công Thương có văn bản thông báo cho thương nhân bổ sung hồ sơ hoặc nêu rõ lý do|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký nhập khẩu tự động thuốc lá điếu, xì gà: 2 (hai) bản theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 37/2013/TT-BCT ([1.2_PHỤ LỤC II_rev4.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa9091ce1dc3920'))
+- 01 Bản chính Hợp đồng nhập khẩu: 1 (một) bản sao (có đóng dấu sao y bản chính của thương nhân)
+- 01 Bản chính Hóa đơn thương mại: 1 (một) bản sao (có đóng dấu sao y bản chính của thương nhân)
+- 01 Bản chính Vận đơn hoặc chứng từ vận tải của lô hàng: 1 (một) bản sao (có đóng dấu sao y bản chính của thương nhân)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Xuất nhập khẩu - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Bộ Công thương
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+văn bản xác nhận nhập khẩu tự động thuốc lá điếu, xì gà
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|187/2013/NĐ-CP|Nghị định 20187/2013/NĐ-CP11/2013|20-11-2013|Chính phủ|
+|67/2013/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá|27-06-2013|Chính phủ|
+|37/2013/TT-BCT|Quy định nhập khẩu thuốc lá điếu, xì gà|30-12-2013|Bộ Công thương|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

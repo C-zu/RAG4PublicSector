@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000781
+Số quyết định:
+6640/QĐ-BCA
+Tên thủ tục:
+Đăng ký, cấp biển số xe lần đầu (thực hiện tại cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01A/58) và nhận mã số thứ tự, lịch hẹn giải quyết hồ sơ qua địa chỉ thư điện tử hoặc qua tin nhắn điện thoại để làm thủ tục đăng ký xe tại cơ quan đăng ký xe.
+Bước 2: Đến cơ quan Công an huyện và cán bộ đăng ký xe tiếp nhận và nhập mã hồ sơ đăng ký trực tuyến của chủ xe trên hệ thống đăng ký, quản lý xe để kiểm tra thông tin khai báo đăng ký trực tuyến của chủ xe; in Giấy khai đăng ký xe điện tử trên hệ thống; trực tiếp đến cơ quan đăng ký xe kê khai giấy khai đăng ký xe theo (mẫu số 01) theo quy định.
+Bước 3: Hướng dẫn chủ xe ký và ghi rõ họ tên vào Giấy khai đăng ký xe và dán bản chà số máy, số khung của xe vào Giấy khai đăng ký xe điện tử; 
+Bước 4: Kiểm tra thông tin của chủ xe:
+Nhập số căn cước công dân, họ tên của chủ xe (đối với cá nhân), đổ dữ liệu căn cước công dân truyền sang cơ sở dữ liệu đăng ký xe; kiểm tra, đối chiếu thông tin cá nhân của chủ xe: tên, địa chỉ chủ xe với nội dung thông tin về căn cước công dân trong Giấy khai đăng ký xe điện tử với giấy tờ của xe. 
+Kiểm tra, đối chiếu giấy tờ của người đến làm thủ tục đăng ký xe (đối với cơ quan, tổ chức). 
+Bước 5: Hóa đơn điện tử: 
+Truy cập hệ thống đăng ký, quản lý xe, nhập mã xác thực hóa đơn điện tử ghi tại Giấy khai đăng ký xe điện tử để kiểm tra thông tin hóa đơn điện tử, in hóa đơn điện tử và kiểm tra, đối chiếu thông tin, nội dung hóa đơn điện tử: Doanh nghiệp bán xe, địa chỉ, người mua xe và đặc điểm, thông số của xe với hồ sơ xe. Trường hợp chưa kết nối, chia sẻ dữ liệu hóa đơn điện tử thì yêu cầu chủ xe nộp hóa đơn bán xe theo quy định. 
+ 	Bước 6: Chứng từ lệ phí trước bạ điện tử:  
+Truy cập hệ thống đăng ký, quản lý xe, tìm kiếm mã hồ sơ lệ phí trước bạ điện tử ghi tại Giấy khai đăng ký xe điện tử; tải và in dữ liệu điện tử lệ phí trước bạ và kiểm tra, đối chiếu nội dung hoàn thành nghĩa vụ nộp lệ phí trước bạ điện tử: thông tin của chủ xe (tên, địa chỉ), thông tin của xe (nhãn hiệu, số loại, số máy, số khung, loại xe), biển số xe (nếu có), giá trị tài sản tính lệ phí trước bạ, số tiền lệ phí trước bạ, ngày nộp lệ phí trước bạ với hồ sơ xe;
+ 	Bước 7: Chứng từ nguồn gốc điện tử: 
+Truy cập hệ thống đăng ký, quản lý xe, tìm kiếm chứng từ nguồn gốc của xe ghi tại Giấy khai đăng ký xe điện tử, tải và in dữ liệu điện tử về chứng từ nguồn gốc của xe. Kiểm tra, đối chiếu nội dung thông tin dữ liệu tờ khai hải quan điện tử, thông tin dữ liệu xe sản xuất lắp ráp trong nước với nội dung ghi tại Giấy khai đăng ký xe điện tử và hồ sơ xe;
+Bước 8. Trường hợp hồ sơ không đảm bảo thủ tục theo quy định, thông tin dữ liệu điện tử không đầy đủ, không đúng so với hồ sơ xe hoặc không có thông tin dữ liệu điện tử: cán bộ đăng ký phải hướng dẫn cụ thể, đầy đủ một lần và ghi nội dung bổ sung vào Phiếu hướng dẫn bổ sung thủ tục đăng ký xe; ký, ghi rõ họ tên và chịu trách nhiệm về hướng dẫn đó;    
+Bước 9:
+a) Trực tiếp đối chiếu nội dung trong giấy khai đăng ký xe với thực tế xe, gồm: Nhãn hiệu, loại xe, số máy, số khung, màu sơn, số chỗ ngồi, số chỗ đứng, số chỗ nằm, năm sản xuất, tải trọng và các thông số kỹ thuật khác; kiểm tra toàn bộ, chi tiết hình dáng kích thước, tổng thành khung, tổng thành máy của xe;
+Trường hợp cơ quan Hải quan xác nhận xe chỉ có số VIN, không có số máy, số khung thì lấy số VIN thay thế cho số khung (chụp ảnh số VIN thay thế cho bản chà số khung), đóng số máy theo biển số.
+Bước 10: Nhập thông tin chủ xe, thông tin xe vào hệ thống đăng ký, quản lý xe; cập nhật trạng thái: xe tạm nhập tái xuất, xe miễn thuế, xe được cơ quan đăng ký giải quyết đóng lại số khung, số máy (nếu có), xe thế chấp ngân hàng.
+Bước 11: Hướng dẫn chủ xe kiểm tra thông tin: Chủ xe và xe, cấp biển số ngẫu nhiên trên hệ thống đăng ký, quản lý xe theo quy định; ghi biển số vào giấy khai đăng ký xe. 
+Bước 12: Cấp giấy hẹn cho chủ xe; trường hợp chủ xe có yêu cầu chuyển chứng nhận đăng ký xe qua Bưu điện thì hướng dẫn chủ xe làm thủ tục đăng ký sử dụng dịch vụ chuyển phát chứng nhận đăng ký xe.
+Bước 13: Thu lệ phí đăng ký xe theo quy định.
+Bước 14: Trả biển số xe (hướng dẫn chủ xe lắp biển số vào vị trí theo thiết kế của xe); trường hợp xe ô tô chỉ lắp được 2 biển số dài hoặc 1 biển ngắn và 1 biển dài thì cho đổi biển số xe, kinh phí chủ xe chi trả theo quy định.
+Bước 15: Hướng dẫn chủ xe kẻ, ghi biển số, khối lượng chuyên chở, khối lượng bản thân, tên chủ xe đối với các loại xe ô tô theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày|Lệ phí : Đồng Thu theo Thông tư 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông cơ giới đường bộ.|+ Trực tiếp tại trụ sở Công an cấp huyện. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). Thời hạn giải quyết: Cấp ngay biển số sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ; cấp giấy chứng nhận đăng ký xe thì thời hạn hoàn thành thủ tục không quá 2 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+|Trực tuyến|02 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp Giấy khai đăng ký xe điện tử trên Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an. Cấp ngay biển số sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ; cấp giấy chứng nhận đăng ký xe thì thời hạn hoàn thành thủ tục không quá 2 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|02 Ngày làm việc||+ Trả kết quả qua dịch vụ bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Giấy khai đăng ký xe. ([Mẫu số 1 Giay khai đăng ký xe.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0287ca193c0ca'))
+- 01 Bản chính b) Giấy tờ chuyển quyền sở hữu của xe.
+- 01 Bản chính c) Giấy tờ lệ phí trước bạ.
+- 01 Bản chính d) Giấy tờ nguồn gốc của xe.
+- 01 Bản chính đ) Giấy tờ của chủ xe.
+ Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ,ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an huyện
+Cơ quan có thẩm quyền:
+Công an huyện
+Địa chỉ tiếp nhận HS:
+Công an cấp huyện; Cổng Dịch vụ công quốc gia; Cổng dịch vụ công Bộ Công an.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe, Biển số xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật giao thông đường bộ|13-11-2008|Quốc Hội|
+|Thông tư số 229/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ|11-11-2016||
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Đăng ký, cấp biển số lần đầu mô tô, xe gắn máy tại Công an cấp huyện nơi được phân cấp đăng ký mô tô, xe gắn máy
+Mô tả:
+Không có thông tin

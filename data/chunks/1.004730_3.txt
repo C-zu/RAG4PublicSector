@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi (trường hợp được ít nhất 05 (năm) nước phát triển cho phép sử dụng làm thực phẩm, thức ăn chăn nuôi)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Phí : 105.000.000 Đồng lần/thẩm định||
+|Dịch vụ bưu chính|60 Ngày|Phí : 105.000.000 Đồng lần/thẩm định||

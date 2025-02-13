@@ -1,0 +1,11 @@
+Tên thủ tục: Cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài để tiêu thụ ở nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản cam kết và đề nghị cho phép thực hiện hoạt động gia công sửa chữa hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho thương nhân nước ngoài của thương nhân (Mẫu số 02 tại Phụ lục ban hành kèm theo Quyết định số 31/2019/QĐ-TTg) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a7ca4d34b646'">Mẫu số 02.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký đầu tư
+- 01 Bản chính Hồ sơ năng lực của thương nhân bao gồm: Cơ sở, nhà máy sản xuất; hệ thống dây chuyền, thiết bị, thực hiện hoạt động gia công sửa chữa phù hợp với từng loại sản phẩm; nhân lực đáp ứng quy mô sản xuất; năng lực tài chính: 01 bản chính. (Đối với các thương nhân đã được cấp phép, nếu Hợp đồng gia công mới hoặc điều chỉnh, bổ sung không làm thay đổi quy mô, công suất, chủng loại, tính chất sản phẩm của dự án thì không phải nộp tài liệu này
+- 01 Bản sao Quyết định phê duyệt Báo cáo đánh giá tác động môi trường hoặc Giấy xác nhận Kế hoạch bảo vệ môi trường cho dự án thực hiện hoạt động gia công sửa chữa theo quy định của pháp luật bảo vệ môi trường của cơ quan quản lý nhà nước có thẩm quyền căn cứ theo quy mô, công suất, tính chất sản phẩm của dự án: 01 bản sao có chứng thực. (Đối với các thương nhân đã được cấp phép, nếu Hợp đồng gia công mới hoặc điều chỉnh, bổ sung không làm thay đổi quy mô, công suất, chủng loại, tính chất sản phẩm của dự án thì không phải nộp tài liệu này
+- 01 Bản chính Hợp đồng thực hiện hoạt động gia công sửa chữa với thương nhân nước ngoài theo quy định của pháp luật

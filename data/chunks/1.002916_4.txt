@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục xác định danh mục nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu đề xuất nhiệm vụ hằng năm, định kỳ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9ebe754157c62'">Mẫu C1.1-PĐX.docx</a>)

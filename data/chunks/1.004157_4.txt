@@ -1,0 +1,12 @@
+Tên thủ tục: Công bố mở bến cảng, cầu cảng, bến phao và các khu nước, vùng nước (bao gồm cả việc đưa kết cấu hạ tầng cảng biển tạm thời vào sử dụng)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị công bố theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed367efafaf148'">mẫu tờ khai.doc</a>)
+- 01 Bản chính, 01 Bản sao - Biên bản nghiệm thu để đưa công trình đã hoàn thành xây dựng vào sử dụng có kèm theo Văn bản chấp thuận kết quả nghiệm thu công trình đưa vào sử dụng theo quy định, bản vẽ hoàn công mặt bằng, mặt chiếu đứng và mặt cắt ngang công trình bến cảng, cầu cảng và các khu nước, vùng nước;
+- 01 Bản chính, 01 Bản sao - Thông báo hàng hải kèm theo bình đồ của luồng hàng hải cho tàu thuyền vào, rời bến cảng, cầu cảng và các khu nước, vùng nước; biên bản nghiệm thu giữa chủ đầu tư và cơ quan, tổ chức có thẩm quyền về kết quả khảo sát mặt đáy vùng nước trước bến cảng, cầu cảng và các khu nước, vùng nước;
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt báo cáo đánh giá tác động môi trường của dự án (trừ trường hợp đối với khu nước, vùng nước, công trình chỉ phục vụ việc đón trả hoa tiêu, vùng kiểm dịch, tránh trú bão hay neo đậu tàu thuyền để chờ vào cảng, bến cảng, cầu cảng, neo đậu tàu công vụ, không thực hiện chuyển tải bốc xếp hàng hóa hoặc các dịch vụ vận tải khác);
+- 01 Bản chính, 01 Bản sao - Văn bản nghiệm thu về phòng cháy và chữa cháy (trừ trường hợp đối với khu nước, vùng nước, công trình chỉ phục vụ việc đón trả hoa tiêu, vùng kiểm dịch, tránh trú bão hay neo đậu tàu thuyền để chờ vào cảng, bến cảng, cầu cảng, neo đậu tàu công vụ, không thực hiện chuyển tải bốc xếp hàng hóa hoặc các dịch vụ vận tải khác);
+- 01 Bản chính, 01 Bản sao - Bản sao văn bản chứng nhận an ninh bến cảng theo quy định (trừ trường hợp đối với khu nước, vùng nước, công trình chỉ phục vụ việc đón trả hoa tiêu, vùng kiểm dịch, tránh trú bão hay neo đậu tàu thuyền để chờ vào cảng, bến cảng, cầu cảng, neo đậu tàu công vụ, không thực hiện chuyển tải bốc xếp hàng hóa hoặc các dịch vụ vận tải khác).

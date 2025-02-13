@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002485
+Số quyết định:
+1650/QĐ-UBND
+Tên thủ tục:
+Hỗ trợ đầu tư dự án sản xuất công nghiệp - tiểu thủ công nghiệp vào khu vực miền núi
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Công nghiệp địa phương
+Trình tự thực hiện:
+- Bước 1: Chủ đầu tư/doanh nghiệp nộp trực tiếp (hoặc qua dịch vụ bưu chính công ích) hồ sơ đề nghị hỗ trợ tại Bộ phận tiếp nhận và trả kết quả của Trung tâm Phục vụ hành chính công tỉnh. Sau khi tiếp nhận hồ sơ đầy đủ, hợp lệ, Trung tâm Phục vụ hành chính công tỉnh chuyển hồ sơ về Sở Công Thương để xem xét giải quyết. 
+- Bước 2: Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Sở Công Thương tổ chức thẩm định hồ sơ đề nghị hỗ trợ. Trên cơ sở kết quả thẩm định, Sở Công Thương có văn bản kèm theo các hồ sơ, tài liệu có liên quan gửi Sở Tài chính; trường hợp Chủ đầu tư/doanh nghiệp không đủ điều kiện được hưởng chính sách, Sở Công Thương có văn bản thông báo và nêu rõ lý do cho Chủ đầu tư/doanh nghiệp đã đề nghị được thụ hưởng chính sách.
+- Bước 3: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản và hồ sơ của Sở Công Thương, Sở Tài chính căn cứ mức hỗ trợ trình Chủ tịch UBND tỉnh xem xét, quyết định. 
+- Bước 4: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được Tờ trình của Sở Tài chính, Chủ tịch UBND tỉnh xem xét, ban hành quyết định hỗ trợ, gửi Sở Tài Chính và Sở Công Thương. 
+Sau khi có Quyết định hỗ trợ của Chủ tịch UBND tỉnh, Sở Công Thương chuyển Quyết định hỗ trợ về Trung tâm Phục vụ hành chính công tỉnh để trả kết quả cho Chủ đầu tư/doanh nghiệp.
+- Bước 5: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận được Quyết định hỗ trợ của Chủ tịch UBND tỉnh, Sở Tài chính có trách nhiệm thực hiện việc chi trả kinh phí hỗ trợ đảm bảo đúng quy định của pháp luật hiện hành.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|21 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|Phí : 0 Đồng||
+|Trực tuyến|15 Ngày làm việc|Phí : 0 Đồng|Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình)|
+|Dịch vụ bưu chính|21 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ của doanh nghiệp (theo Mẫu 1, ban hành kèm theo Nghị quyết 121/2021/NQ-HĐND ngày 11/10/2121 của Hội đồng nhân dân tỉnh) ([Mẫu số 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9e6e55df01868'))
+- 01 Bản chính - Quyết định phê duyệt dự án đầu tư kèm theo dự án đầu tư (bản gốc)
+- 01 Bản sao - Quyết định chấp thuận chủ trương đầu tư (bản sao);
+- 01 Bản sao - Hợp đồng thuê đất (bản sao công chứng);
+- 01 Bản sao - Văn bản xác nhận của Chủ tịch Uỷ ban nhân dân huyện về việc nhà máy đã đi vào sản xuất (bản gốc) kèm theo hồ sơ dự án hoàn thành đưa vào sử dụng (bản sao).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Công Thương Thanh Hóa
+Cơ quan có thẩm quyền:
+Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và Trả kết quả của Sở Công Thương tại Trung tâm Phục vụ hành chính công tỉnh Thanh Hóa (Số 28, đại lộ Lê Lợi, phường Điện Biên, thành phố Thanh Hóa, tỉnh Thanh Hóa); Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Sở Tài chính Thanh Hóa
+Kết quả thực hiện:
+Quyết định hành chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|121/2021/NQ-HĐND|Nghị quyết về việc ban hành một số chính sách khuyến khích phát triển công nghiệp, tiểu thủ công nghiệp trên địa bàn tỉnh Thanh Hóa giai đoạn 2022-2026|11-10-2021|Hội đồng nhân dân tỉnh|
+
+Yêu cầu, điều kiện thực hiện:
+- Dự án chưa được hỗ trợ theo Nghị định số 57/2018/NĐ-CP ngày 17/04/2018 về cơ chế, chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn;
+- Dự án thuộc Danh mục các lĩnh vực sản xuất công nghiệp - tiểu thủ công nghiệp khuyến khích đầu tư vào các huyện miền núi của tỉnh ban hành kèm theo Nghị quyết này;
+- Dự án đã đi vào sản xuất trên phần diện tích đã được Nhà nước cho thuê đất.
+- Dự án chưa được hỗ trợ theo Nghị định số 57/2018/NĐ-CP ngày 17/04/2018 về cơ chế, chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn;
+- Dự án thuộc Danh mục các lĩnh vực sản xuất công nghiệp - tiểu thủ công nghiệp khuyến khích đầu tư vào các huyện miền núi của tỉnh ban hành kèm theo Nghị quyết này;
+- Dự án đã đi vào sản xuất trên phần diện tích đã được Nhà nước cho thuê đất.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

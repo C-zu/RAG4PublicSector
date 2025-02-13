@@ -1,0 +1,7 @@
+Tên thủ tục: Chấm dứt hoạt động Trung tâm hòa giải thương mại trong trường hợp Trung tâm hòa giải thương mại tự chấm dứt hoạt động (cấp bộ)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Trường hợp Trung tâm hòa giải thương mại tự chấm dứt hoạt động thì chậm nhất 30 ngày trước ngày chấm dứt hoạt động, Trung tâm hòa giải thương mại thông báo bằng văn bản về việc chấm dứt hoạt động cho Bộ Tư pháp.
+- Trong thời hạn 10 ngày, kể từ ngày Trung tâm hòa giải thương mại thanh toán xong các khoản nợ, nghĩa vụ tài sản khác, thanh lý các hợp đồng, hoàn tất các vụ việc đã nhận, Trung tâm hòa giải thương mại báo cáo bằng văn bản cho Bộ Tư pháp.
+- Bộ trưởng Bộ Tư pháp quyết định thu hồi Giấy phép thành lập Trung tâm hòa giải thương mại.

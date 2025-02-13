@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp sử dụng quyền sử dụng đất, tài sản gắn liền với đất thuộc dự án đầu tư để hợp tác kinh doanh đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6a93bdb35f2b4'">Mẫu A.I.11.g.docx</a>)
+- 01 Bản chính, 03 Bản sao - Báo cáo tình hình thực hiện dự án đầu tư đến thời điểm hợp tác kinh doanh; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7ad605403161c'">Mẫu A.I.12.docx</a>)
+- 04 Bản sao - Bản sao hợp đồng hợp tác kinh doanh;
+- 04 Bản sao - Bản sao tài liệu về tư cách pháp lý của các bên tham gia hợp tác kinh doanh;
+- 04 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư hoặc Quyết định chấp thuận chủ trương đầu tư, Quyết định chấp thuận nhà đầu tư (nếu có) của nhà đầu tư sử dụng quyền sử dụng đất, tài sản gắn liền với đất thuộc dự án đầu tưđể hợp tác kinh doanh;
+- 04 Bản sao - Bản sao một trong các giấy tờ sau: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà và và tài sản khác gắn liền với đất;
+- 04 Bản sao - Bản sao một trong các tài liệu sau của bên tham gia hợp tác kinh doanh: báo cáo tài chính 02 năm gần nhất hoặc báo cáo kiểm toán vốn chủ sở hữu của nhà đầu tư, cam kết hỗ trợ tài chính của công ty mẹ, cam kết hỗ trợ tài chính của tổ chức tài chính, bảo lãnh về năng lực tài chính của nhà đầu tư, tài liệu thuyết minh năng lực tài chính của nhà đầu tư.

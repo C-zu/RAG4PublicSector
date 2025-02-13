@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Phiếu lý lịch tư pháp theo yêu cầu của cơ quan tiến hành tố tụng (đối tượng là công dân Việt Nam không xác định được nơi thường trú hoặc nơi tạm trú, người nước ngoài đã cư trú tại Việt Nam)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Mẫu văn bản yêu cầu cấp Phiếu lý lịch tư pháp dùng cho cơ quan tiến hành tố tụng, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội theo Thông tư 06/2024/TT-BTP (Mẫu số 05/2024/LLTP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcdd1dcafd00268'">Mẫu số 05.2024. LLTP.docx</a>)
+- 01 Bản chính Mẫu văn bản yêu cầu cấp Phiếu lý lịch tư pháp điện tử tương tác theo Thông tư 06/2024/TT-BTP (Mẫu số 14/2024/LLTP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf6ef96ad7e71c'">Mẫu số 14.2024.LLTP.docx</a>)

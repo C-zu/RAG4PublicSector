@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004193
+Số quyết định:
+3873/QĐ-BTNMT
+Tên thủ tục:
+Đính chính Giấy chứng nhận đã cấp (cấp tỉnh - trường hợp đã thành lập VP đăng ký đất đai)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai
+Trình tự thực hiện:
+Trực tiếp
+- Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất nộp hồ sơ cho Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai hoặc cơ quan tiếp nhận hồ sơ theo quy định của Ủy ban nhân dân cấp tỉnh hoặc địa điểm theo nhu cầu đối với những địa phương mà Ủy ban nhân dân cấp tỉnh đã ban hành quy chế tiếp nhận, luân chuyển hồ sơ, giải quyết và trả kết quả giải quyết thủ tục theo nhu cầu về địa điểm. 
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định. 
+Trường hợp Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai phát hiện Giấy chứng nhận, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng đã cấp có sai sót thì thông báo cho người sử dụng đất biết và yêu cầu người sử dụng đất, chủ sở hữu tài sản gắn liền với đất nộp Giấy chứng nhận đã cấp để thực hiện đính chính.
+- Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai có trách nhiệm kiểm tra; lập biên bản kết luận về nội dung và nguyên nhân sai sót; lập hồ sơ trình cơ quan có thẩm quyền thực hiện đính chính vào Giấy chứng nhận đã cấp có sai sót; đồng thời chỉnh lý nội dung sai sót vào hồ sơ địa chính, cơ sở dữ liệu đất đai.
+Trường hợp đính chính mà người được cấp Giấy chứng nhận có yêu cầu cấp đổi sang Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất thì Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai thực hiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. 
+- Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai trao Giấy chứng nhận cho người sử dụng đất, chủ sở hữu tài sản gắn liền với đất.
+Thực hiện thủ tục trên môi trường điện tử
+Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do.
+Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công.
+Cơ quan tiếp nhận hoặc cơ quan giải quyết hồ sơ thông báo cho người yêu cầu thực hiện thủ tục hành chính nộp bản chính Giấy chứng nhận đã cấp, các giấy tờ theo quy định sau khi người sử dụng đất hoàn thành nghĩa vụ tài chính.
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : Đồng Thực hiện theo quy định của Luật Phí, lệ phí.|Cách thức thực hiện: Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất nộp hồ sơ tại Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai hoặc cơ quan tiếp nhận hồ sơ theo quy định của Ủy ban nhân dân cấp tỉnh hoặc địa điểm theo nhu cầu đối với những địa phương mà Ủy ban nhân dân cấp tỉnh đã ban hành quy chế tiếp nhận, luân chuyển hồ sơ, giải quyết và trả kết quả giải quyết thủ tục theo nhu cầu về địa điểm hoặc trên môi trường điện tử. Thời hạn giải quyết: Do Ủy ban nhân dân cấp tỉnh quy định nhưng không quá 10 ngày kể từ ngày nhận được hồ sơ hợp lệ. Thời gian này không tính thời gian các ngày nghỉ, ngày lễ theo quy định của pháp luật; không tính thời gian tiếp nhận hồ sơ tại xã, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất; không tính thời gian xem xét xử lý đối với trường hợp sử dụng đất có vi phạm pháp luật, thời gian trưng cầu giám định. Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện được tăng thêm 10 ngày. Kết quả giải quyết thủ tục hành chính phải trả cho người sử dụng đất, chủ sở hữu tài sản gắn liền với đất trong thời hạn không quá 03 ngày làm việc kể từ ngày có kết quả giải quyết. Đối với những địa phương mà Ủy ban nhân dân cấp tỉnh đã ban hành quy chế tiếp nhận, luân chuyển hồ sơ, giải quyết và trả kết quả giải quyết thủ tục theo nhu cầu về thời gian thì thời gian giải quyết thủ tục được thực hiện theo thỏa thuận giữa người có nhu cầu và Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai nhưng không quá thời gian thực hiện thủ tục do Ủy ban nhân dân cấp tỉnh quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đính chính Giấy chứng nhận đối với trường hợp phát hiện sai sót do lỗi của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất.
+- 01 Bản chính Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp Huyện, Ủy ban nhân dân cấp Tỉnh, Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện, Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Sở Tài nguyên và Môi trường
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng đất quyền sở hữu nhà ở và tài sản khác gắn liền với đất tài sản khác gắn liền với đất, Ghi vào sổ địa chính và lập hồ sơ để Nhà nước quản lý.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP ngày 06 tháng 01 năm 2014 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai|06-01-2017|Chính phủ|
+|45/2013/QH13|Luật 45/2013/QH13|02-01-2014|Quốc Hội|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|23/2014/TT-BTNMT|Thông tư số 23/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất|19-05-2014|Bộ Tài nguyên và Môi trường|
+|24/2014/TT-BTNMT|Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính|19-05-2014|Bộ Tài nguyên và Môi trường|
+|148/2020/NĐ-CP|Nghị định 148/2020/NĐ-CP|18-12-2020||
+|85/2019/TT-BTC|Thông tư 85/2019/TT-BTC|29-11-2019||
+|10/2023/NĐ-CP|Nghị định 10/2023/NĐ-CP|03-04-2023||
+|02/2023/TT-BTNMT|Thông tư|15-05-2023|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Đối với trường hợp thực hiện thủ tục trên môi trường điện tử: Căn cứ điều kiện cụ thể về hạ tầng kỹ thuật công nghệ thông tin đất đai và cơ sở dữ liệu đất đai đang quản lý, cơ quan tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục hành chính về đất đai quy định tại Điều 60 của Nghị định số 43/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai (được sửa đổi, bổ sung tại khoản 7 Điều 1 của Nghị định số 10/2023/NĐ-CP ngày 03/4/2023 sửa đổi, bổ sung một số điều của các nghị định hướng dẫn thi hành Luật Đất đai) có trách nhiệm tổ chức việc tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục hành chính trên môi trường điện tử theo quy định của Chính phủ.
+Từ khóa:
+Sổ đỏ
+Mô tả:
+Không có thông tin

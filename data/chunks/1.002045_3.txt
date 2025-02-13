@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đánh giá, nghiệm thu, công nhận kết quả thực hiện nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Thành lập hội đồng đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ: 10 ngày kể từ ngày nhận được hồ sơ đánh giá, nghiệm thu. - Quyết định công nhận kết quả thực hiện nhiệm vụ: 05 ngày làm việc kể từ ngày hoàn tất thanh lý hợp đồng.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Thành lập hội đồng đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ: 10 ngày kể từ ngày nhận được hồ sơ đánh giá, nghiệm thu. - Quyết định công nhận kết quả thực hiện nhiệm vụ: 05 ngày làm việc kể từ ngày hoàn tất thanh lý hợp đồng.|

@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục tặng thưởng Huân chương các loại, các hạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Đối với cá nhân
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách cá nhân được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe500089311a843'">Mẫu số 01.docx</a>)
+- 01 Bản chính + 02 báo cáo thành tích của cá nhân có xác nhận của đơn vị trình khen thưởng (mẫu số 03 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee7ac9d21ae973'">Mẫu số 03.docx</a>)
+- 01 Bản chính + Chứng nhận hoặc xác nhận của cơ quan, tổ chức có thẩm quyền đối với thành tích đặc biệt xuất sắc đột xuất trong lao động, công tác, sản xuất, kinh doanh, học tập và nghiên cứu khoa học hoặc lĩnh vực khác; đóng góp lớn vào sự phát triển kinh tế - xã hội, bảo đảm an sinh xã hội, từ thiện nhân đạo; phát minh, sáng chế, sáng kiến, ứng dụng tiến bộ khoa học, công nghệ hoặc tác phẩm, công trình khoa học và công nghệ
+- 01 Bản chính + Biên bản họp kèm kết quả bỏ phiếu kín của Hội đồng Thi đua - Khen thưởng của đơn vị có tỷ lệ phiếu bầu từ 80% trở lên, tính trên tổng số thành viên của Hội đồng đơn vị (nếu thành viên Hội đồng vắng mặt thì lấy ý kiến bằng văn bản). Trừ các trường hợp xét khen thưởng theo thủ tục đơn giản được thực hiện theo quy định tại Điều 85 của Luật Thi đua, khen thưởng
+- 01 Bản chính - Đối với tập thể
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách tập thể được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fce4ea1843fa5b8'">Mẫu số 01.docx</a>)
+- 01 Bản chính + 02 báo cáo thành tích của tập thể được đề nghị khen thưởng (mẫu số 02 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed58fc3e1f8617'">Mẫu số 02 (áp dụng đối với tập thể).docx</a>)
+- 01 Bản chính + Biên bản kèm kết quả bỏ phiếu kín của Hội đồng Thi đua - Khen thưởng đơn vị phải có tỷ lệ phiếu bầu từ 80% trở lên, tính trên tổng số thành viên của Hội đồng đơn vị (nếu thành viên Hội đồng vắng mặt thì lấy ý kiến bằng phiếu bầu). Trừ các trường hợp xét khen thưởng theo thủ tục đơn giản được thực hiện theo quy định tại Điều 85 của Luật Thi đua, khen thưởng

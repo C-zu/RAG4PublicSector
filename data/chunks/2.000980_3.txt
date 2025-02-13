@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy chứng nhận người sở hữu bài thuốc gia truyền và phương pháp chữa bệnh gia truyền thuộc thẩm quyền của Sở Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày làm việc|Lệ phí : 2500000 Đồng 2.500.000 đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd708421e847cfa'">VanBanGoc_278-2016-TT-BTC.pdf</a>|Trong thời hạn 60 ngày làm việc , kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|60 Ngày làm việc|Lệ phí : 2.500.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe281204e79f95a'">VanBanGoc_278-2016-TT-BTC.pdf</a>|Trong thời hạn 60 ngày làm việc, kể từ ngày nhận đủ hồ sơ.|

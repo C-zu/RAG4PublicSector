@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép hành nghề khoan nước dưới đất quy mô lớn (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại giấy phép hành nghề khoan nước dưới đất. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe69792e91f3897'">Mẫu số 07.doc</a>)
+- 01 Bản chính - Tài liệu chứng mình lý do đề nghị cấp lại giấy phép.
+- 01 Bản sao Giấy phép hành nghề khoan nước dưới đất có quy mô lớn.

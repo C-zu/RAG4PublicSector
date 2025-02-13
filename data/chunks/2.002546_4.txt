@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính Văn bản đề nghị sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao theo Mẫu số 08 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0a9e3d07f0260'">Mẫu 08_VB sửa đổi, bổ sung đề nghị cấp Giấy CN CGCN KKCG.docx</a>)
+- 01 Bản chính Bản chính Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có chứng thực văn bản thỏa thuận chuyển giao công nghệ sửa đổi, bổ sung bằng tiếng Việt hoặc bản dịch sang tiếng Việt có công chứng hoặc chứng thực đối với văn bản thỏa thuận bằng tiếng nước ngoài
+- 01 Bản chính Thuyết minh nội dung chuyển giao công nghệ khuyến khích chuyển giao trong văn bản thỏa thuận chuyển giao công nghệ sửa đổi, bổ sung theo Mẫu số 02 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0ab6bea330fd1'">Mẫu 02_Thuyết minh nội dung CGCN KKCG.docx</a>)
+- 01 Bản sao Bản sao văn bằng bảo hộ hoặc đơn đăng ký đối tượng sở hữu công nghiệp (trong trường hợp chưa được cấp văn bằng bảo hộ), giấy chứng nhận chuyển giao quyền sở hữu hoặc quyền sử dụng đối tượng sở hữu công nghiệp (nếu có bổ sung)
+- 01 Bản chính Báo cáo triển khai hoạt động chuyển giao công nghệ khuyến khích chuyển giao theo nội dung trong văn bản thỏa thuận chuyển giao công nghệ sửa đổi, bổ sung theo Mẫu số 03 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc48e78243fa9ac'">Mẫu 03_Báo cáo triển khai CGCN KKCG.docx</a>)

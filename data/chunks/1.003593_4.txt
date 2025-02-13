@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy xác nhận nguyên liệu thủy sản khai thác trong nước (theo yêu cầu)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Giấy xác nhận nguyên liệu thủy sản khai thác theo Mẫu số 01 Phụ lục III ban hành theo Thông tư số 21/2018/TT-BNNPTNT đã kê khai đầy đủ thông tin; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6af9f811b42e0'">Mẫu số 01.docx</a>)
+ - Bản chính Giấy biên nhận thủy sản bốc dỡ qua cảng đã được tổ chức quản lý cảng cá cấp, trường hợp nộp hồ sơ qua môi trường mạng thì nộp bản sao chụp.

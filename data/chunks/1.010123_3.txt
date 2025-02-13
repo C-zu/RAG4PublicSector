@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục phê duyệt phương án bố trí, sắp xếp ngành nghề kinh doanh, sử dụng điểm kinh doanh tại chợ đối với chợ hạng 2, hạng 3.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|20 Ngày làm việc|Phí : Miễn phí|Chủ thể kinh doanh và khai thác chợ nộp hồ sơ trực tuyến tại địa chỉ: https://dichvucong.backan.gov.vn.|

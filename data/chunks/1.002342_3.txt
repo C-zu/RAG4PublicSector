@@ -1,0 +1,8 @@
+Tên thủ tục: Đánh giá định kỳ việc duy trì đáp ứng Thực hành tốt thử thuốc trên lâm sàng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|35 Ngày|Phí : 30.000.000 Đồng|35 ngày làm việc kể tử ngày nhận đủ hồ sơ và đáp ứng việc đánh giá|
+|Dịch vụ bưu chính|35 Ngày|Phí : 30.000.000 Đồng|35 ngày làm việc kể tử ngày nhận đủ hồ sơ và đáp ứng việc đánh giá|

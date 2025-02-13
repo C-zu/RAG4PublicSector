@@ -1,0 +1,7 @@
+Tên thủ tục: Giải quyết hưởng trợ cấp nghỉ dưỡng sức, phục hồi sức khỏe sau ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Danh sách đề nghị giải quyết hưởng chế độ ốm đau, thai sản, DSPHSK (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3a05ab8bb9134'">01B-HSB.doc</a>)

@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004483
+Số quyết định:
+3246/QĐ-BYT
+Tên thủ tục:
+Cấp phép nhập khẩu thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam, vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp phép nhập khẩu nộp hồ sơ nhập khẩu trực tiếp hoặc gửi qua đường bưu điện về:
+- Cục Quản lý Dược đối với vắc xin, sinh phẩm, thuốc hóa dược, thuốc dược liệu;
+- Cục Quản lý Y, Dược cổ truyền đối với thuốc cổ truyền.
+Bước 2: Sau khi nhận được hồ sơ, cơ quan tiếp nhận hồ sơ trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP;
+Bước 3: Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 15 (mười lăm) ngày, Bộ Y tế cấp phép nhập khẩu.
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 15 (mười lăm) ngày, Bộ Y tế gửi văn bản cho cơ sở để yêu cầu sửa đổi, bổ sung hồ sơ;
+Bước 4: Sau khi nhận hồ sơ sửa đổi, bổ sung, cơ quan tiếp nhận hồ sơ trả cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP.
+Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Bộ Y tế có văn bản thông báo cho cơ sở theo quy định tại bước 3.
+Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Bộ Y tế cấp phép nhập khẩu theo quy định tại bước 3.
+Trong thời hạn 06 (sáu) tháng, kể từ ngày Bộ Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị cấp phép nhập khẩu phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 12 (mười hai) tháng kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị;
+Bước 5: Trong thời hạn 10 (mười) ngày làm việc, kể từ ngày cấp phép nhập khẩu thuốc, Bộ Y tế có trách nhiệm công bố trên Cổng thông tin điện tử của đơn vị bao gồm thông tin nhà nhập khẩu, nhà sản xuất, số lượng, tên thuốc và số giấy phép nhập khẩu, số lượng giấy đăng ký lưu hành đối với mỗi hoạt chất.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản sao có đóng dấu xác nhận của cơ sở nhập khẩu giấy ủy quyền hoặc giấy phép bán hàng hoặc giấy chứng nhận quan hệ đối tác theo quy định tại điểm đ khoản 15 Điều 91 của Nghị định số 54/2017/NĐ-CP. Trường hợp không cung cấp được, cơ sở nhập khẩu phải có văn bản nêu rõ lý do để Bộ trưởng Bộ Y tế xem xét.
+- 01 Bản chính Danh mục thuốc đề nghị nhập khẩu của cơ sở khám bệnh, chữa bệnh theo: - Mẫu số 19 Phụ lục III của Nghị định số 54/2017/NĐ-CP đối với vắc xin, sinh phẩm, thuốc hóa dược; - Mẫu số 20 Phụ lục III của Nghị định số 54/2017/NĐ-CP đối với thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất; - Mẫu số 21 Phụ lục III của Nghị định số 54/2017/NĐ-CP đối với thuốc dược liệu, thuốc cổ truyền;
+- 01 Bản chính Báo cáo của cơ sở khám bệnh, chữa bệnh về thuốc đề nghị nhập khẩu gồm các thông tin sau: Số lượng thuốc đã sử dụng, hiệu quả điều trị (trừ vắc xin), độ an toàn của theo Mẫu số 22 Phụ lục III của Nghị định số 54/2017/NĐ-CP;
+- 01 Bản chính Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện về Cục Quản lý Dược/Cục Quản lý Y, Dược cổ truyền. ([mẫu đơn 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5e10c8609f7cd'))
+- 01 Bản chính Tài liệu chứng minh chất lượng, an toàn, hiệu quả của vắc xin đề nghị nhập khẩu;
+- 01 Bản chính Bản chính văn bản do người đứng đầu cơ sở khám bệnh, chữa bệnh ký, đóng dấu nêu rõ lý do đề nghị nhập khẩu thuốc, số lượng bệnh nhân dự kiến cần sử dụng thuốc, nhu cầu thuốc tương ứng và cam kết chịu hoàn toàn trách nhiệm liên quan đến việc sử dụng thuốc đề nghị nhập khẩu. Văn bản phải kèm theo bản chính hoặc bản sao có đóng dấu của cơ sở khám bệnh, chữa bệnh Biên bản họp Hội đồng thuốc và điều trị đối với nhu cầu nhập khẩu thuốc. Trường hợp cơ sở tiêm chủng không có Hội đồng thuốc và điều trị thì không phải nộp kèm theo Biên bản;
+- 01 Bản chính Bản chính Bản cam kết của cơ sở sản xuất và cơ sở cung cấp thuốc nước ngoài về việc đảm bảo chất lượng, an toàn, hiệu quả vắc xin, sinh phẩm cung cấp cho Việt Nam theo Mẫu số 23 Phụ lục III của Nghị định số 54/2017/NĐ-CP;
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Quản lý Dược - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu/Công văn cho phép nhập khẩu thuốc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|105/2016/QH13|Luật 105/2016/QH13 Dược|06-04-2016|Quốc Hội|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+1. Thuốc đáp ứng một trong các tiêu chí sau:
+
+a) Thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam,
+
+b) Vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn.
+2. Cơ sở nhập khẩu là cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, phạm vi: xuất khẩu, nhập khẩu thuốc phù hợp với thuốc đề nghị nhập khẩu.
+1. Thuốc đáp ứng một trong các tiêu chí sau:
+
+a) Thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam,
+
+b) Vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn.
+2. Cơ sở nhập khẩu là cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, phạm vi: xuất khẩu, nhập khẩu thuốc phù hợp với thuốc đề nghị nhập khẩu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

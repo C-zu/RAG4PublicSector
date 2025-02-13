@@ -1,0 +1,8 @@
+Tên thủ tục: Tuyển chọn, giao trực tiếp tổ chức và cá nhân chủ trì đề tài khoa học và công nghệ, dự án sản xuất thử nghiệm cấp bộ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|75 Ngày||Trong đó: 10 ngày mở hồ sơ; 05 ngày gửi hồ sơ cho các thành viên Hội đồng tư vấn; 20 ngày tổ chức họp Hội đồng tư vấn; 15 ngày hoàn thiện hồ sơ tuyển chọn, giao trực tiếp; 10 ngày thẩm định nội dung tài chính; 15 ngày hoàn thiện Hồ sơ để trình Bộ phê duyệt.|
+|Dịch vụ bưu chính|75 Ngày||Trong đó: 10 ngày mở hồ sơ; 05 ngày gửi hồ sơ cho các thành viên Hội đồng tư vấn; 20 ngày tổ chức họp Hội đồng tư vấn; 15 ngày hoàn thiện hồ sơ tuyển chọn, giao trực tiếp; 10 ngày thẩm định nội dung tài chính; 15 ngày hoàn thiện Hồ sơ để trình Bộ phê duyệt.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thuỷ lợi: Trồng cây lâu năm; Hoạt động của phương tiện thủy nội địa, phương tiện cơ giới, trừ xe mô tô, xe gắn máy, phương tiện thủy nội địa thô sơ thuộc thẩm quyền cấp phép của UBND tỉnh.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Trực tuyến|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|

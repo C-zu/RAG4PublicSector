@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận cơ sở đủ Điều kiện kinh doanh dịch vụ đào tạo thuyền viên, người lái phương tiện thủy nội địa
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001998
+Số quyết định:
+1336/QĐ-BGTVT
+Tên thủ tục:
+Thủ tục cấp lại Giấy chứng nhận cơ sở đủ Điều kiện kinh doanh dịch vụ đào tạo thuyền viên, người lái phương tiện thủy nội địa
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa

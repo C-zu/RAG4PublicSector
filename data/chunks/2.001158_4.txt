@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp chỉ định lần đầu
+- 01 Bản chính Đơn đăng ký chỉ định giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng (theo Mẫu số 04 Nghị định số 74/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3c53ed0eec25a'">Đơn đăng ký chỉ định tổ chức giám định MMTBDCCN ĐQSD.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký hoạt động giám định (đối với tổ chức giám định trong nước) hoặc bản sao văn bản cho phép hoạt động giám định của cơ quan có thẩm quyền nước ngoài nơi tổ chức giám định đăng ký hoạt động, kèm bản dịch tiếng Việt được hợp pháp hóa lãnh sự (đối với tổ chức giám định nước ngoài)
+- 01 Bản chính Danh sách giám định viên (theo Mẫu số 05 Nghị định số 74/2018/NĐ-CP), có bản sao chứng chỉ đào tạo chuyên môn, nghiệp vụ kèm theo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9ec5a3de880000'">Danh sách giám định viên.docx</a>)
+- 01 Bản chính Danh mục tài liệu kỹ thuật, tiêu chuẩn và quy trình, thủ tục giám định (theo Mẫu số 06 Nghị định số 74/2018/NĐ-CP), có bản sao quy trình, thủ tục giám định đăng ký chỉ định kèm theo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5229997ebb55c'">Danh mục tài liệu kỹ thuật.docx</a>)
+- 01 Bản sao Chứng chỉ công nhận năng lực giám định do tổ chức công nhận hợp pháp cấp (nếu có)
+
+
+Trường hợp cấp lại đối với tổ chức giám định có Quyết định chỉ định còn hiệu lực nhưng bị mất, thất lạc, hư hỏng hoặc thay đổi tên, địa chỉ hoặc thu hẹp phạm vi chỉ định
+- 01 Bản chính Đơn đề nghị cấp lại quyết định chỉ định (theo Mẫu số 10 Nghị định số 74/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd45afd45c80b60'">Mẫu Đơn đề nghị cấp lại quyết định chỉ định.docx</a>)
+- 01 Bản chính Quyết định chỉ định bị hư hỏng (đối với trường hợp quyết định chỉ định bị hư hỏng)
+
+
+Trường hợp thay đổi, bổ sung phạm vi, lĩnh vực được chỉ định
+- 01 Bản chính Đơn đăng ký thay đổi, bổ sung phạm vi, lĩnh vực được chỉ định (theo Mẫu số 09 Nghị định số 74/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb83ead2df2aa0'">Mẫu Đơn đăng ký thay đổi, bổ sung phạm vi, lĩnh vực được chỉ định.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký hoạt động giám định (đối với tổ chức giám định trong nước) hoặc bản sao văn bản cho phép hoạt động giám định của cơ quan có thẩm quyền nước ngoài nơi tổ chức giám định đăng ký hoạt động, kèm bản dịch tiếng Việt được hợp pháp hóa lãnh sự (đối với tổ chức giám định nước ngoài)
+- 01 Bản sao Quyết định chỉ định tổ chức giám định máy móc, thiết bị, dây chuyền công nghệ đã qua sử dụng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9ec7d5f500172'">Mẫu Quyết định về việc chỉ định tổ chức giám định máy móc, thiết bị,dây chuyền công nghệ đã qua sử dụng.docx</a>)
+- 01 Bản chính Danh sách giám định viên đối với phạm vi, lĩnh vực đăng ký thay đổi, bổ sung, (theo Mẫu số 05 Nghị định số 74/2018/NĐ-CP), có bản sao Chứng chỉ đào tạo chuyên môn, nghiệp vụ kèm theo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec89bb0aafa0ef'">Mẫu Danh sách giám định viên.docx</a>)
+- 01 Bản chính Danh mục tài liệu kỹ thuật, tiêu chuẩn và quy trình giám định đối với phạm vi, lĩnh vực đăng ký thay đổi, bổ sung (theo Mẫu số 06 Nghị định số 74/2018/NĐ-CP), có bản sao quy trình, thủ tục giám định kèm theo
+- 01 Bản sao Chứng chỉ công nhận năng lực giám định do tổ chức công nhận hợp pháp cấp (nếu có) đối với phạm vi, lĩnh vực đăng ký thay đổi, bổ sung; (Đối với tổ chức giám định nước ngoài thì các văn bản và tài liệu trong hồ sơ phải được dịch sang tiếng Việt)

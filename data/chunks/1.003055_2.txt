@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Trước khi tiến hành sản xuất, cơ sở sản xuất mỹ phẩm nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm tới Sở Y tế.
+Bước 2: Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm, Sở Y tế có trách nhiệm kiểm tra hồ sơ và cấp Phiếu tiếp nhận hồ sơ theo mẫu số 05 quy định tại Phụ lục ban hành kèm theo Nghị định số 93/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về điều kiện sản xuất mỹ phẩm nếu hồ sơ đầy đủ và hợp lệ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ thì thông báo bằng văn bản và nêu những nội dung chưa đầy đủ, hợp lệ tới cơ sở sản xuất mỹ phẩm.
+Bước 3: Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ và phí thẩm định theo quy định, Sở Y tế có trách nhiệm kiểm tra cơ sở sản xuất, cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm; trường hợp không cấp Giấy chứng nhận hoặc yêu cầu cơ sở thay đổi, khắc phục, phải thông báo bằng văn bản và nêu rõ lý do.
+
+- Đối với trường hợp yêu cầu cơ sở thay đổi, khắc phục:
++ Cơ sở sản xuất mỹ phẩm tiến hành thay đổi, khắc phục và gửi báo cáo đến Sở Y tế.
+
++ Sở Y tế có trách nhiệm xem xét báo cáo, kiểm tra trên hồ sơ hoặc kiểm tra lại cơ sở sản xuất mỹ phẩm (trong trường hợp cần thiết) và phải trả lời bằng văn bản về kết quả kiểm tra trong thời hạn 15 ngày kể từ ngày nhận được báo cáo khắc phục.
+
+- Đối với các cơ sở sản xuất mỹ phẩm được Bộ Y tế cấp Giấy chứng nhận “Thực hành tốt sản xuất mỹ phẩm” (CGMP-ASEAN):
+
++ Bộ Y tế có văn bản gửi Sở Y tế tỉnh nơi đặt nhà máy sản xuất mỹ phẩm về việc cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm.
++ Sở Y tế cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm cho các cơ sở sản xuất mỹ phẩm này

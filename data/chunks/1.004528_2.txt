@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục công nhận điểm du lịch
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân sở hữu, quản lý điểm du lịch nộp hồ sơ đến Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch nơi có điểm du lịch.
+- Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch thẩm định, trình Ủy ban nhân dân cấp tỉnh.
+- Trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định, Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.

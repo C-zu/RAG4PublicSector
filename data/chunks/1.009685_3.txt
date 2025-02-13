@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận và giao quyền quản lý cho tổ chức cộng đồng thực hiện đồng quản lý trong bảo vệ nguồn lợi thủy sản (thuộc địa bàn hai huyện trở lên)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|63 Ngày||Nộp hồ sơ trực tiếp tại Trung tâm hành chính công Tỉnh số 02A Đường Nguyễn Chí Thanh TP Hà Tĩnh|
+|Trực tuyến|63 Ngày||Nộp hồ sơ qua trang dichvucong.hatinh.gov.vn|
+|Dịch vụ bưu chính|63 Ngày||Nộp qua đường bưu điện đến số 02A Đường Nguyễn Chí Thanh TP Hà Tĩnh|

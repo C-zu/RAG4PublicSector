@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần cấp lại Giấy phép sử dụng băng tần
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Tòa nhà Cục Viễn thông, đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh dịch vụ viễn thông sửa đổi
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009|Quốc Hội|
+|81/2016/NĐ-CP|Nghị định 81/2016/NĐ-CP|01-07-2016|Chính phủ|
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||

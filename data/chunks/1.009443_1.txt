@@ -1,0 +1,16 @@
+Tên thủ tục: Đổi tên cảng, bến thủy nội địa, khu neo đậu
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009443
+Số quyết định:
+285/QĐ-BGTVT
+Tên thủ tục:
+Đổi tên cảng, bến thủy nội địa, khu neo đậu
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa

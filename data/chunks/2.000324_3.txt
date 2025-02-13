@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận kiến thức pháp luật về bán hàng đa cấp, kiến thức cho đầu mối tại địa phương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : Theo quy định của Bộ Công Thương.|15 ngày làm việc kể từ ngày thực hiện kiểm tra kiến thức pháp luật về bán hàng đa cấp.|
+|Trực tuyến|15 Ngày làm việc||15 ngày làm việc kể từ ngày thực hiện kiểm tra kiến thức pháp luật về bán hàng đa cấp.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : Theo quy định của Bộ Công Thương.|15 ngày làm việc kể từ ngày thực hiện kiểm tra kiến thức pháp luật về bán hàng đa cấp.|

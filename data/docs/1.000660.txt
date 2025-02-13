@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000660
+Số quyết định:
+1915/QĐ-BGTVT
+Tên thủ tục:
+Công bố đưa bến xe khách vào khai thác
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Sau khi hoàn thành việc xây dựng, đơn vị khai thác bến xe nộp hồ sơ đề nghị công bố đưa bến xe khách vào khai thác đến Sở Giao thông vận tải địa phương nơi bến xe khách được xây dựng.
+b) Giải quyết TTHC:
+- Chậm nhất trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định, Sở Giao thông vận tải tổ chức kiểm tra theo các tiêu chí phân loại bến xe khách và lập biên bản kiểm tra.
+- Trường hợp sau khi kiểm tra, nếu bến xe khách không đáp ứng đúng các tiêu chí thì phải ghi rõ các nội dung không đạt trong biên bản kiểm tra và phải thông báo ngay cho đơn vị khai thác bến xe; nếu bến xe khách đáp ứng đúng các quy định kỹ thuật của loại bến xe khách mà đơn vị khai thác bến xe đề nghị thì chậm nhất trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc kiểm tra, Sở Giao thông vận tải quyết định công bố đưa bến xe khách vào khai thác.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||chậm nhất trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc kiểm tra|
+|Dịch vụ bưu chính|5 Ngày làm việc||chậm nhất trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc kiểm tra|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị công bố đưa bến xe khách vào khai thác theo mẫu ([Mẫu2.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4863d982cd474'))
+- 01 Bản chính Văn bản chấp thuận đấu nối đường ra, vào bến xe khách với đường bộ của cơ quan có thẩm quyền
+- 01 Bản chính Bản vẽ bố trí mặt bằng tổng thể bến xe khách
+- 01 Bản chính Quyết định cho phép đầu tư xây dựng của cơ quan có thẩm quyền và biên bản nghiệm thu xây dựng
+- 01 Bản chính Bản đối chiếu các quy định kỹ thuật của bến xe khách theo mẫu ([Mau.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4224121eaf077'))
+- 01 Bản chính Quy chế quản lý khai thác bến xe khách do đơn vị quản lý, khai thác bến xe khách ban hành
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Giao thông vận tải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công bố đưa bến xe khách vào khai thác
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Giao thông đường bộ|13-11-2008|Quốc Hội|
+|73/2015/TT-BGTVT|Ban hành Quy chuẩn kỹ thuật quốc gia về Bến xe khách sửa đổi lần 1 năm 2015|01-11-2015|Bộ Giao thông vận tải|
+|49/2012/TT-BGTVT|Ban hành quy chuẩn kỹ thuật quốc gia về bến xe khách|12-12-2012|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Đơn vị trực tiếp quản lý, khai thác bến xe khách phải là doanh nghiệp hoặc hợp tác xã
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

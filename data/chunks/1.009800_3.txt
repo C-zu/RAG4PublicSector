@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo, thay đổi về tỷ lệ sở hữu nước ngoài tối đa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|07 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|07 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|

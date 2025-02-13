@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005152
+Số quyết định:
+1956/QĐ-BTP
+Tên thủ tục:
+Thay đổi tên gọi, địa chỉ trụ sở Trung tâm hòa giải thương mại từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hòa giải thương mại
+Trình tự thực hiện:
+- Trung tâm hòa giải thương mại có nhu cầu thay đổi về tên gọi, địa chỉ trụ sở từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác thì gửi hồ sơ đề nghị thay đổi đến Bộ Tư pháp.
+- Bộ trưởng Bộ Tư pháp xem xét ra văn bản chấp thuận hoặc từ chối.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ đề nghị thay đổi; trường hợp từ chối phải thông báo lý do bằng văn bản.|
+|Dịch vụ bưu chính|15 Ngày||Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ đề nghị thay đổi; trường hợp từ chối phải thông báo lý do bằng văn bản.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị thay đổi theo mẫu do Bộ Tư pháp ban hành; ([Mau so 07.TP-HGTM.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe594fe50a3e497'))
+- 01 Bản chính - Giấy tờ có liên quan đến việc thay đổi.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Bộ Tư pháp
+Cơ quan có thẩm quyền:
+Bộ Tư pháp
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận nội dung thay đổi.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|22/2017/NĐ-CP|Về hòa giải thương mại|24-02-2017|Chính phủ|
+|02/2018/TT-BTP|Ban hành và hướng dẫn sử dụng một số biểu mẫu về tổ chức và hoạt động hòa giải thương mại|26-02-2018|Bộ Tư pháp|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

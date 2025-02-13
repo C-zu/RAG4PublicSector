@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính Văn bản đề nghị cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao theo Mẫu số 01 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1fac7043443c0'">Mẫu 01_VB đề nghị cấp Giấy CN CGCN KKCG.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có chứng thực văn bản thỏa thuận chuyển giao công nghệ bằng tiếng Việt hoặc bản dịch sang tiếng Việt có công chứng hoặc chứng thực đối với văn bản thỏa thuận bằng tiếng nước ngoài
+- 01 Bản chính Thuyết minh nội dung chuyển giao công nghệ khuyến khích chuyển giao trong văn bản thỏa thuận chuyển giao công nghệ theo Mẫu số 02 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc52d16d5aaac64'">Mẫu 02_Thuyết minh nội dung CGCN KKCG.docx</a>)
+- 01 Bản sao Bản sao văn bằng bảo hộ hoặc đơn đăng ký đối tượng sở hữu công nghiệp (trong trường hợp chưa được cấp văn bằng bảo hộ), giấy chứng nhận chuyển giao quyền sở hữu hoặc quyền sử dụng đối tượng sở hữu công nghiệp (trong trường hợp có chuyển giao quyền đối với đối tượng sở hữu công nghiệp)
+- 01 Bản chính Báo cáo triển khai hoạt động chuyển giao công nghệ khuyến khích chuyển giao theo nội dung trong văn bản thỏa thuận chuyển giao công nghệ có xác nhận của đầy đủ các bên tham gia chuyển giao công nghệ theo Mẫu số 03 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7393b947335f3'">Mẫu 03_Báo cáo triển khai CGCN KKCG.docx</a>)
+- 01 Bản sao Bản sao một trong các giấy tờ sau: Quyết định chấp thuận chủ trương đầu tư, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ khác có giá trị pháp lý tương đương của các bên tham gia chuyển giao công nghệ

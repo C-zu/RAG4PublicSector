@@ -1,0 +1,23 @@
+Tên thủ tục: Đăng ký dấu nổi, dấu thu nhỏ, dấu xi (thực hiện tại cấp tỉnh)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh
+Cơ quan có thẩm quyền:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh
+Địa chỉ tiếp nhận HS:
+Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Con dấu và Giấy chứng nhận đăng ký mẫu con dấu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|99/2016/NĐ-CP|Nghị định 99/2016/NĐ-CP|01-07-2016|Chính phủ|
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+|56/2023/NĐ-CP|Nghị định 56/2023/NĐ-CP|24-07-2023|Chính phủ|

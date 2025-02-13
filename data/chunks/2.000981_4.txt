@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm dịch y tế đối với hàng hóa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đối với hàng hóa vận tải bằng đường bộ, đường sắt, đường hàng không: giấy khai báo y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không, giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có);
+- 01 Bản chính Đối với hàng hóa vận tải bằng đường thủy: bản sao bản khai hàng hóa; giấy chứng nhận kiểm tra y tế hàng hóa (trên tàu thuyền), tàu thuyền (nếu có).
+- 01 Bản chính Đơn đề nghị: Trường hợp người khai báo y tế yêu cầu kiểm tra, xử lý y tế hàng hóa để cấp giấy chứng nhận kiểm tra/xử lý y tế hàng hóa.

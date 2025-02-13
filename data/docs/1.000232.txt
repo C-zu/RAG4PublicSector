@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000232
+Số quyết định:
+6968/QĐ-BCA
+Tên thủ tục:
+Huỷ tài khoản điện tử trong trường hợp cơ quan, tổ chức có tài khoản đề nghị bằng văn bản
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Nộp hồ sơ
+* Cơ quan, tổ chức tại Việt Nam trực tiếp nộp vào giờ hành chính các ngày làm việc trong tuần hoặc gửi hồ sơ qua dịch vụ bưu chính công ích đến một trong hai trụ sở làm việc của Cục Quản lý xuất nhập cảnh - Bộ Công an:
++ Số 44-46 Trần Phú, quận Ba Đình, thành phố Hà Nội;
++ Số 333-335-337 Nguyễn Trãi, Quận 1, Tp. Hồ Chí Minh.
+Hoặc nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an và gửi bổ sung hồ sơ qua dịch vụ bưu chính công ích theo thông báo của Cục Quản lý xuất nhập cảnh trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an (nếu có).
+* Trường hợp trực tiếp nộp hồ sơ:
+Cán bộ quản lý xuất nhập cảnh tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử ghi đầy đủ thì tiếp nhận, in giấy biên nhận trao cho người nộp.
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử chưa ghi đầy đủ thì đề nghị cơ quan, tổ chức bổ sung.
+* Trường hợp gửi hồ sơ hoàn toàn qua dịch vụ bưu chính công ích:
+Cán bộ quản lý xuất nhập cảnh kiểm tra tính pháp lý và nội dung hồ sơ:
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử chưa ghi đầy đủ thì có văn bản đề nghị cơ quan, tổ chức bổ sung.
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử ghi đầy đủ thì xem xét, có văn bản trả lời cơ quan, tổ chức.
+* Trường hợp nộp hồ sơ trực tuyến:
++ Nếu hồ sơ đầy đủ, hợp lệ cán bộ tiếp nhận hồ sơ thông báo đã tiếp nhận trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
++ Nếu hồ sơ thiếu hoặc không hợp lệ thì cán bộ tiếp nhận hồ sơ thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an để người nộp hồ sơ hoàn chỉnh.
+ + Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận hồ sơ, thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an và nêu rõ lý do.
+* Người đề nghị hủy tài khoản điện tử có thể đề nghị nhận kết quả qua dịch vụ bưu chính và phải trả phí dịch vụ chuyển phát.
+* Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+Bước 3: Nhận kết quả
++ Cơ quan, tổ chức trực tiếp nhận công văn trả lời tại Cục Quản lý xuất nhập cảnh hoặc nhận kết quả qua dịch vụ bưu chính công ích (thực hiện theo hướng dẫn của cơ quan cung cấp dịch vụ bưu chính) hoặc nhận văn bản điện tử qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
++ Thời gian nhận kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Ngay sau khi nhận được văn bản đề nghị hủy tài khoản điện tử của cơ quan, tổ chức.||nộp hồ sơ trực tiếp tại trụ sở Cục Quản lý xuất nhập cảnh.|
+|Trực tuyến|ngay sau khi nhận được văn bản đề nghị hủy tài khoản điện tử của cơ quan, tổ chức.||Trực tuyến: nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+|Dịch vụ bưu chính|Ngay sau khi nhận được văn bản đề nghị hủy tài khoản điện tử của cơ quan, tổ chức.||Gửi hồ sơ và nhận kết quả qua đường bưu điện.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị hủy tài khoản điện tử (NA20). ([Mau NA20-BCA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5b40fe5ef5078'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền:
+Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS:
+Cơ quan, tổ chức tại Việt Nam trực tiếp nộp hoặc gửi hồ sơ đến một trong hai trụ sở làm việc của Cục Quản lý xuất nhập cảnh - Bộ Công an: + Số 44-46 Trần Phú, quận Ba Đình, thành phố Hà Nội; + Số 333-335-337 Nguyễn Trãi, Quận 1, Tp. Hồ Chí Minh.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công văn thông báo hủy tài khoản điện tử (NB10)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|47/2014/QH13|Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam|16-06-2014||
+|51/2019/QH14|Luật 51/2019/QH14|25-11-2019||
+|57/2020/TT-BCA|Thông tư 57/2020/TT-BCA|10-06-2020||
+|04/2015/TT-BCA|Thông tư 04/2015/TT-BCA|06-01-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Cơ quan, tổ chức đã được cấp tài khoản điện tử.
+Từ khóa:
+Hủy tài khoản điện tử
+Mô tả:
+Không có thông tin

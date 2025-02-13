@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp phương tiện không có hợp đồng mua bán, hóa đơn riêng (do việc mua bán các phương tiện chỉ là hợp phần của gói thầu và không thể tách rời)
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe62f129427050d'">1.010000.doc</a>)
+- 01 Bản chính, 01 Bản sao bản chính văn bản giấy hoặc hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực hợp đồng gói thầu hoặc hợp phần của gói thầu có thể hiện việc cung cấp phương tiện, biên bản bàn giao phương tiện cho chủ sở hữu
+
+
+Trường hợp phương tiện nhập khẩu
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb45016ca535e0'">1.010000.doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực các giấy tờ của phương tiện bao gồm: Hợp đồng mua bán, cho, tặng; chứng từ đã nộp lệ phí trước bạ (nếu có); quyết định điều chuyển phương tiện; hóa đơn của tổ chức, cá nhân bán phương tiện (nếu phương tiện đã chuyển qua nhiều tổ chức, cá nhân thì khi làm thủ tục cấp Giấy chứng nhận đăng ký phương tiện chỉ cần hóa đơn của tổ chức, cá nhân bán cuối cùng); Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường của phương tiện do tổ chức đăng kiểm Việt Nam hoặc tổ chức đăng kiểm nước ngoài được Bộ trưởng Bộ Giao thông vận tải ủy quyền cấp còn hiệu lực. Đối với các giấy tờ bằng tiếng nước ngoài thì phải có bản dịch tiếng Việt đã được công chứng dịch thuật kèm theo.
+- 01 Bản chính, 01 Bản sao bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực tờ khai hải quan dùng cho phương tiện nhập khẩu hoặc tờ khai hải quan đã được thông quan
+
+
+Trường hợp trong cùng một hợp đồng mua bán, cho, tặng phương tiện, hóa đơn, tờ khai hải quan của hồ sơ có kê khai nhiều phương tiện
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea89b261bc24a2'">1.010000.doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực các giấy tờ của phương tiện bao gồm: Hợp đồng mua bán, cho, tặng; chứng từ đã nộp lệ phí trước bạ (nếu có); quyết định điều chuyển phương tiện; hóa đơn của tổ chức, cá nhân bán phương tiện (nếu phương tiện đã chuyển qua nhiều tổ chức, cá nhân thì khi làm thủ tục cấp Giấy chứng nhận đăng ký phương tiện chỉ cần hóa đơn của tổ chức, cá nhân bán cuối cùng); Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường của phương tiện do tổ chức đăng kiểm Việt Nam hoặc tổ chức đăng kiểm nước ngoài được Bộ trưởng Bộ Giao thông vận tải ủy quyền cấp còn hiệu lực. Đối với các giấy tờ bằng tiếng nước ngoài thì phải có bản dịch tiếng Việt đã được công chứng dịch thuật kèm theo.
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực bảng kê khai cho từng phương tiện đề nghị được cấp Giấy chứng nhận đăng ký hoặc hồ sơ đối với từng phương tiện
+
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc00b5ae972ff1c'">1.010000.doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực các giấy tờ của phương tiện bao gồm: Hợp đồng mua bán, cho, tặng; chứng từ đã nộp lệ phí trước bạ (nếu có); quyết định điều chuyển phương tiện; hóa đơn của tổ chức, cá nhân bán phương tiện (nếu phương tiện đã chuyển qua nhiều tổ chức, cá nhân thì khi làm thủ tục cấp Giấy chứng nhận đăng ký phương tiện chỉ cần hóa đơn của tổ chức, cá nhân bán cuối cùng); Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường của phương tiện do tổ chức đăng kiểm Việt Nam hoặc tổ chức đăng kiểm nước ngoài được Bộ trưởng Bộ Giao thông vận tải ủy quyền cấp còn hiệu lực. Đối với các giấy tờ bằng tiếng nước ngoài thì phải có bản dịch tiếng Việt đã được công chứng dịch thuật kèm theo.

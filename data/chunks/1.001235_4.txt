@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục đăng ký thực hiện đề tài nghiên cứu ứng dụng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ + Đơn đăng ký thực hiện đề tài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde738a383d48e4'">01 Mau NCUD01 Don dang ky.doc</a>)
+ + Thuyết minh đề tài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ad03b63dfb14'">02 Mau NCUD02 TMDC.doc</a>)
+ + Lý lịch khoa học của chủ nhiệm đề tài; các thành viên và các tài liệu chứng minh thành tích nghiên cứu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb38878f2021950'">03 Mau NCUD03 Ly lich khoa hoc.doc</a>)
+ + Tài liệu liên quan khác nếu tổ chức, cá nhân thấy cần thiết bổ sung làm tăng tính thuyết phục của hồ sơ;

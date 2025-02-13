@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký trong các giấy tờ, văn bản (áp dụng cho cả trường hợp chứng thực điểm chỉ và trường hợp người yêu cầu chứng thực không thể ký, không thể điểm chỉ được)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Người yêu cầu chứng thực chữ ký/điểm chỉ/không thể ký, không thể điểm chỉ được phải xuất trình các giấy tờ phục vụ việc chứng thực chữ ký.
++ Trong trường hợp người yêu cầu chứng thực không thông thạo tiếng Việt thì phải có người phiên dịch. Người phiên dịch phải là người có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật, thông thạo tiếng Việt và ngôn ngữ mà người yêu cầu chứng thực sử dụng. Người phiên dịch do người yêu cầu chứng thực mời hoặc do cơ quan thực hiện chứng thực chỉ định. Thù lao phiên dịch do người yêu cầu chứng thực trả.
++ Người thực hiện chứng thực (hoặc người tiếp nhận hồ sơ trong trường hợp tiếp nhận tại bộ phận một cửa, một cửa liên thông) kiểm tra giấy tờ yêu cầu chứng thực, nếu thấy đủ giấy tờ theo quy định, tại thời điểm chứng thực, người yêu cầu chứng thực minh mẫn, nhận thức và làm chủ được hành vi của mình và việc chứng thực không thuộc các trường hợp không được chứng thực chữ ký thì yêu cầu người yêu cầu chứng thực ký/điểm chỉ trước mặt và thực hiện chứng thực như sau:
+* Ghi đầy đủ lời chứng chứng thực chữ ký theo mẫu quy định phía dưới chữ ký được chứng thực hoặc trang liền sau của trang giấy tờ, văn bản có chữ ký được chứng thực; Nếu hồ sơ tiếp nhận tại bộ phận một cửa, một cửa liên thông thì người tiếp nhận hồ sơ ký vào dưới lời chứng theo mẫu quy định và chuyển hồ sơ cho người thực hiện chứng thực.
+* Người thực hiện chứng thực ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.
+Đối với giấy tờ, văn bản có từ (02) hai tờ trở lên thì phải đóng dấu giáp lai. Trường hợp lời chứng được ghi tại tờ liền sau của trang có chữ ký thì phải đóng dấu giáp lai giữa giấy tờ, văn bản chứng thực chữ ký và trang ghi lời chứng.

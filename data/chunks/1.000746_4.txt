@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp lại Quyết định chỉ định tổ chức đánh giá sự phù hợp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại quyết định chỉ định theo quy định tại Mẫu số 10 Phụ lục ban hành kèm theo Nghị định số 74/2018/NĐ-CP; - Bản chính Quyết định chỉ định bị hư hỏng (đối với trường hợp quyết định chỉ định bị hư hỏng). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb81d74385ad2e'">Mẫu số 10.docx</a>)

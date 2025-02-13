@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn Giấy chứng nhận tên định danh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ gian hạn Giấy chứng nhận tên định danh
+- 01 Bản chính Bản khai Gia hạn tên định danh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feee283125f1b6b'">Bản khai đăng ký tên định danh.docx</a>)
+- 01 Bản sao Các giấy tờ khác có liên quan (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe08e7f32b1b065'">Giấy ủy quyền.docx</a>)

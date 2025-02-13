@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị X-quang chẩn đoán trong y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbcbb8c8db39420'">Mẫu 8 PL IV.docx</a>)
+- 01 Bản chính Trường hợp giấy phép bị rách, nát: Bản gốc giấy phép bị rách, nát

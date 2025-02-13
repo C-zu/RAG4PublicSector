@@ -1,0 +1,49 @@
+Tên thủ tục: Đăng ký thành lập, đăng ký thay đổi nội dung đăng ký hoạt động, tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã thông báo, chấm dứt hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh trong trường hợp chi nhánh, văn phòng đại diện, địa điểm kinh doanh khác tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt trụ sở chính đối với doanh nghiệp hoạt động theo Giấy phép đầu tư, Giấy chứng nhận đầu tư (đồng thời là Giấy chứng nhận đăng ký kinh doanh) hoặc các giấy tờ có giá trị pháp lý tương đương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Đối với hồ sơ chấm dứt hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh. Hồ sơ thực hiện theo quy định tại Điều 72 Nghị định số 01/2021/NĐ-CP
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd73bf56b2df242'">Phụ lục II-20.docx</a>)
+- 01 Bản chính Trường hợp chấm dứt hoạt động chi nhánh, văn phòng đại diện, kèm theo thông báo phải có nghị quyết, quyết định và bản sao biên bản họp của Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Hội đồng quản trị đối với công ty cổ phần; nghị quyết, quyết định của chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn một thành viên về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện
+- 01 Bản chính Văn bản đề nghị bổ sung cập nhật thông tin đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1a8a5897f2abf'">Phụ lục II-15.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp đối với trường hợp chi nhánh, văn phòng đại diện hoạt động theo Giấy này
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế của chi nhánh, văn phòng đại diện
+
+
+Đối với hồ sơ đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh: hồ sơ thực hiện theo quy định tại Điều 31 Nghị định số 01/2021/NĐ-CP.
+- 01 Bản chính Thông báo thành lập chi nhánh, văn phòng đại diện do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee471b0aede7d3'">Phụ lục II-7.docx</a>)
+- 01 Bản sao Bản sao nghị quyết, quyết định và bản sao biên bản họp của Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Hội đồng quản trị đối với công ty cổ phần; bản sao nghị quyết, quyết định của chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn một thành viên về việc thành lập chi nhánh, văn phòng đại diện
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân đối với người đứng đầu chi nhánh, văn phòng đại diện
+- 01 Bản chính, 01 Bản sao Thông báo lập địa điểm kinh doanh. Thông báo lập địa điểm kinh doanh do người đại diện theo pháp luật của doanh nghiệp ký trong trường hợp địa điểm kinh doanh trực thuộc doanh nghiệp hoặc do người đứng đầu chi nhánh ký trong trường hợp địa điểm kinh doanh trực thuộc chi nhánh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe22e1d2b5e1584'">Phụ lục II-7.docx</a>)
+
+
+Đối với hồ sơ đăng ký thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh. Hồ sơ thực hiện theo quy định tại Điều 62 Nghị định số 01/2021/NĐ-CP
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe08003ba560c38'">Phụ lục II-9.docx</a>)
+- 01 Bản sao Trường hợp thay đổi người đứng đầu chi nhánh, văn phòng đại diện, kèm theo thông báo phải có bản sao giấy tờ pháp lý của cá nhân đối với người đứng đầu chi nhánh, văn phòng đại diện
+- 01 Bản chính Văn bản đề nghị bổ sung cập nhật thông tin đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9e61466127997'">Phụ lục II-15.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp đối với trường hợp chi nhánh, văn phòng đại diện hoạt động theo Giấy này
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế của chi nhánh, văn phòng đại diện
+
+
+Đối với hồ sơ đăng ký tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã thông báo. Hồ sơ thực hiện theo quy định tại Điều 66 Nghị định số 01/2021/NĐ-CP
+- 01 Bản chính Thông báo về việc tạm ngừng kinh doanh/tiếp tục kinh doanh trước thời hạn đã thông báo của doanh nghiệp/chi nhánh/văn phòng đại diện/địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea3550a66f8474'">Phụ lục II-19.docx</a>)
+- 01 Bản chính Trường hợp doanh nghiệp tạm ngừng kinh doanh, kèm theo thông báo phải có nghị quyết, quyết định và bản sao biên bản họp của Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Hội đồng quản trị đối với công ty cổ phần; nghị quyết, quyết định của chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn một thành viên về việc tạm ngừng kinh doanh
+- 01 Bản chính Văn bản đề nghị bổ sung cập nhật thông tin đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd360a04f6fecdc'">Phụ lục II-15.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp đối với trường hợp chi nhánh, văn phòng đại diện hoạt động theo Giấy này
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký thuế của chi nhánh, văn phòng đại diện

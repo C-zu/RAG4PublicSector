@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đề nghị trả lại phù hiệu, biển hiệu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị trả lại phù hiệu, biển hiệu theo Mẫu số 09 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72cc97bba419a'">Mẫu số 09.docx</a>)
+- 01 Bản chính Quyết định về việc bù trừ phí sử dụng đường bộ hoặc Biên lai thu phí trong trường hợp chưa nộp phí cho thời gian dừng lưu hành (nộp bản chụp và mang bản chính để đối chiếu).

@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký sửa đổi, bổ sung nội dung chương trình khuyến mại đối với chương trình khuyến mại mang tính may rủi thực hiện trên địa bàn 1 tỉnh, thành phố trực thuộc Trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký sửa đổi, bổ sung nội dung chương trình khuyến mại theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbe3a0eedb020a'">Mẫu số 06.docx</a>)

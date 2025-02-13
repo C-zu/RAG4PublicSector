@@ -1,0 +1,15 @@
+Tên thủ tục: Giao khu vực biển (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1.3.1. Thành phần, số lượng hồ sơ đề nghị giao khu vực biển bao gồm:
+- 01 Bản chính a) Bản chính Đơn đề nghị giao khu vực biển được lập theo Mẫu số 01 của Nghị định số 11/2021/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe970a3b68cfbb1'">Mẫu 01.docx</a>)
+- 01 Bản sao b) Bản sao văn bản cho phép khai thác, sử dụng tài nguyên biển của cơ quan nhà nước có thẩm quyền cấp;
+- 01 Bản sao c) Bản sao một trong các văn bản sau: quyết định phê duyệt báo cáo đánh giá tác động môi trường, văn bản xác nhận kế hoạch bảo vệ môi trường, cam kết bảo vệ môi trường, đề án bảo vệ môi trường chi tiết hoặc đề án bảo vệ môi trường đơn giản của dự án theo quy định của pháp luật về bảo vệ môi trường (nếu có quy định);
+- 01 Bản chính d) Bản chính Sơ đồ khu vực biển đề nghị giao, trong đó thể hiện tọa độ các điểm góc của khu vực biển đề nghị giao được lập theo Mẫu số 05 của Nghị định số 11/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd679e215853a34'">Mẫu số 05.docx</a>)
+
+
+1.3.2. Hồ sơ đề nghị giao khu vực biển để thực hiện nhiệm vụ khoa học và công nghệ bao gồm:
+- 01 Bản chính a) Đơn đề nghị giao khu vực biển được lập theo Mẫu số 01 của Nghị định số 11/2021/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0a657d0dc68ea'">Mẫu 01.docx</a>)
+- 01 Bản chính c) Sơ đồ khu vực biển đề nghị giao, trong đó thể hiện tọa độ các điểm góc của khu vực biển đề nghị giao được lập theo Mẫu số 05 của Nghị định số 11/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa389edfacf2380'">Mẫu số 05.docx</a>)

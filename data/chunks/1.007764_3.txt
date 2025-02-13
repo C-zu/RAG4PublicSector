@@ -1,0 +1,7 @@
+Tên thủ tục: Cho thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|tùy trường hợp||nộp hồ sơ tại đơn vị quản lý vận hành hoặc Sở Xây dựng nơi có nhà ở. Không quá 30 ngày, kể từ ngày đơn vị quản lý vận hành nhà ở nhận đủ hồ sơ hợp lệ, trường hợp phải xét duyệt, tổ chức chấm điểm thì thời hạn giải quyết là không quá 60 ngày.|

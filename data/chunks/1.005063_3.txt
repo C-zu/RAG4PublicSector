@@ -1,0 +1,8 @@
+Tên thủ tục: Thành lập trường đại học công lập, cho phép thành lập trường đại học tư thục
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|150 Ngày làm việc||a) Phê duyệt chủ trương thành lập hoặc chủ trương cho phép thành lập trường đại học: 45 ngày. b) Đề nghị Thủ tướng Chính phủ quyết định thành lập hoặc cho phép thành lập trường đại học: - Trong thời hạn 15 ngày làm việc nếu không đủ hồ sơ theo quy định thì thông báo để chủ đầu tư sửa đổi, bổ sung; - Đối với hồ sơ đã đầy đủ theo quy định trong vòng 60 ngày làm việc, Bộ Giáo dục và Đào tạo có trách nhiệm chủ trì, phối hợp với các cơ quan liên quan, tổ chức thẩm định hồ sơ và thẩm định thực tế. - Trong thời hạn 30 ngày làm việc, kể từ ngày nhận đủ ý kiến bằng văn bản của các cơ quan, đơn vị liên quan, Bộ Giáo dục và Đào tạo tổng hợp các ý kiến, hoàn thiện hồ sơ đề án và trình Thủ tướng Chính phủ.|
+|Dịch vụ bưu chính|150 Ngày làm việc||a) Phê duyệt chủ trương thành lập hoặc chủ trương cho phép thành lập trường đại học: 45 ngày. b) Đề nghị Thủ tướng Chính phủ quyết định thành lập hoặc cho phép thành lập trường đại học: - Trong thời hạn 15 ngày làm việc nếu không đủ hồ sơ theo quy định thì thông báo để chủ đầu tư sửa đổi, bổ sung; - Đối với hồ sơ đã đầy đủ theo quy định trong vòng 60 ngày làm việc, Bộ Giáo dục và Đào tạo có trách nhiệm chủ trì, phối hợp với các cơ quan liên quan, tổ chức thẩm định hồ sơ và thẩm định thực tế. - Trong thời hạn 30 ngày làm việc, kể từ ngày nhận đủ ý kiến bằng văn bản của các cơ quan, đơn vị liên quan, Bộ Giáo dục và Đào tạo tổng hợp các ý kiến, hoàn thiện hồ sơ đề án và trình Thủ tướng Chính phủ.|

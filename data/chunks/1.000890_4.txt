@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Giấy phép kinh doanh chuyển khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp Giấy phép kinh doanh chuyển khẩu: 1 bản chính.Mẫu đơn đề nghị cấp Giấy phép kinh doanh chuyển khẩu quy định tại Phụ lục IV Thông tư số 12/2018/TT-BCT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd673bccfcfca90'">Phụ lục IV m4.docx</a>)
+- 01 Bản sao - Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp: 1 bản sao có đóng dấu của thương nhân.
+- 01 Bản sao - Hợp đồng mua hàng và hợp đồng bán hàng do thương nhân ký với khách hàng nước ngoài: mỗi loại 1 bản sao có đóng dấu của thương nhân
+- 01 Bản chính - Báo cáo tình hình thực hiện Giấy phép kinh doanh chuyển khẩu đã được cấp, nêu rõ số lượng hàng hóa đã đưa vào, đưa ra khỏi Việt Nam: 1 bản chính. - Mẫu báo cáo tình hình thực hiện Giấy phép kinh doanh chuyển khẩu đã được cấp quy định tại Phụ V ban hành kèm theo Thông tư số 12/2018/TT-BCT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3b1c4032e2eb8'">Phụ lục V.docx</a>)

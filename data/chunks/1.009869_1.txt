@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục gia hạn Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009869
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục gia hạn Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân

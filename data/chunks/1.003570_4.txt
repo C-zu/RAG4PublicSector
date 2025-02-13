@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính - Đơn đề nghị phê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee6b9bdea9e2a1'">14.docx</a>)
+- 03 Bản chính - Bản đánh giá an ninh đã được cơ quan có thẩm quyền phê duyệt;
+- 03 Bản chính - Kế hoạch an ninh.

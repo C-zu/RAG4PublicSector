@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007764
+Số quyết định:
+705/QĐ-BXD
+Tên thủ tục:
+Cho thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nhà ở và công sở
+Trình tự thực hiện:
+-- Người có nhu cầu thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước nộp 02 bộ hồ sơ tại đơn vị được giao quản lý vận hành nhà ở hoặc tại Sở Xây dựng nơi có nhà ở.
+
+-- Cơ quan tiếp nhận hồ sơ có trách nhiệm kiểm tra và phân loại hồ sơ; nếu hồ sơ không có đủ các giấy tờ theo quy định thì phải trả lời ngay để người nộp đơn bổ sung giấy tờ. Trường hợp đơn vị quản lý vận hành nhà ở tiếp nhận hồ sơ thì sau khi kiểm tra và phân loại hồ sơ, đơn vị này phải có báo cáo danh sách người đủ điều kiện thuê, thuê mua nhà ở kèm theo hồ sơ hợp lệ gửi Sở Xây dựng xem xét, kiểm tra.
+
+-- Trên cơ sở danh sách người đủ điều kiện thuê, thuê mua nhà ở kèm theo hồ sơ hợp lệ, Sở Xây dựng trực tiếp xét duyệt hoặc thành lập Hội đồng xét duyệt hồ sơ để thực hiện xét duyệt từng hồ sơ đăng ký, xác định đối tượng đủ điều kiện hoặc chấm điểm xét chọn đối tượng ưu tiên (nếu có).
+
+-- Trường hợp đủ điều kiện hoặc được ưu tiên xét duyệt thuê, thuê mua nhà ở thì Sở Xây dựng có tờ trình kèm theo danh sách và biên bản xét duyệt hoặc biên bản chấm điểm báo cáo UBND cấp tỉnh quyết định; trường hợp không đủ điều kiện hoặc chưa được xét duyệt thì Sở Xây dựng có văn bản thông báo cho đơn vị quản lý vận hành nhà ở để trả lời cho người nộp đơn biết.
+
+-- Trên cơ sở báo cáo của Sở Xây dựng, UBND cấp tỉnh xem xét, ban hành quyết định phê duyệt danh sách người được thuê, thuê mua nhà ở và gửi quyết định này cho Sở Xây dựng để ký hợp đồng thuê mua với người được thuê mua hoặc gửi cho đơn vị quản lý vận hành nhà ở để ký hợp đồng thuê nhà với người được thuê nhà ở.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|tùy trường hợp||nộp hồ sơ tại đơn vị quản lý vận hành hoặc Sở Xây dựng nơi có nhà ở. Không quá 30 ngày, kể từ ngày đơn vị quản lý vận hành nhà ở nhận đủ hồ sơ hợp lệ, trường hợp phải xét duyệt, tổ chức chấm điểm thì thời hạn giải quyết là không quá 60 ngày.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước ([Don dang ky thue thue mua nha o XH thuoc SHNN.55.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc050709fa23f0'))
+- 01 Bản chính Giấy tờ chứng minh thuộc đối tượng và có đủ điều kiện về nhà ở, cư trú, thu nhập; ([Giay xac nhan ve doi tuong va thuc trang nha o de dang ky thue thue muaNOXH thuoc SHNN.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42048e7dd26b7'))
+ Giấy tờ chứng minh thuộc đối tượng được miễn, giảm tiền thuê nhà ở xã hội (nếu có). ([Mau ke khai ve thu nhap.57.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd96950144f9ec0'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Xây dựng, Đơn vị quản lý vận hành nhà ở
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt danh sách người được thuê, thuê mua nhà ở xã hội thuộc SHNN
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2016/TT-BXD|Thông tư 19/2016/TT-BXD|30-06-2016|Bộ Xây dựng|
+|99/2015/NĐ-CP|Nghị định số 99/2015/NĐ-CP ngày 20/10/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Nhà ở|20-10-2015|Chính phủ|
+|65/2014/QH13|Luật Nhà ở|25-11-2014|Quốc Hội|
+|30/2021/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 99/2015/NĐ-CP ngày 20 tháng 10 năm 2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Nhà ở ____________|26-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Đối tượng được thuê, thuê mua nhà ở bao gồm: (1) Người có công với cách mạng theo quy định của pháp luật về ưu đãi người có công với cách mạng; (2) Người thu nhập thấp, hộ nghèo, cận nghèo tại khu vực đô thị; (3) Người lao động đang làm việc tại các doanh nghiệp trong và ngoài khu công nghiệp; (4) Sĩ quan, hạ sĩ quan nghiệp vụ, hạ sĩ quan chuyên môn kỹ thuật, quân nhân chuyên nghiệp, công nhân trong cơ quan, đơn vị thuộc công an nhân dân và quân đội nhân dân; (5) Cán bộ, công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức; (6) Các đối tượng đã trả lại nhà ở công vụ; (7) Hộ gia đình, cá nhân thuộc diện bị thu hồi đất và phải giải tỏa, phá dỡ nhà ở theo quy định của pháp luật mà chưa được Nhà nước bồi thường bằng nhà ở, đất ở đáp ứng các điều kiện sau:
+
+- Chưa có nhà ở thuộc sở hữu của mình, chưa được mua, thuê hoặc thuê mua nhà ở xã hội, chưa được hưởng chính sách hỗ trợ nhà ở, đất ở dưới mọi hình thức tại nơi sinh sống, trường hợp đã có nhà ở thuộc sở hữu của mình thì phải có diện tích bình quân trong hộ gia đình dưới 10m2 sàn/người;
+
+- Phải có đăng ký thường trú tại tỉnh, thành phố trực thuộc trung ương nơi có nhà ở xã hội; trường hợp không có đăng ký thường trú thì phải có đăng ký tạm trú từ một năm trở lên tại tỉnh, thành phố này,
+
+- Đối với các đối tượng (2), (3), (4), (5) nêu trên thì phải thuộc diện không phải nộp thuế thu nhập thường xuyên theo quy định của pháp luật về thuế thu nhập cá nhân; trường hợp là hộ nghèo, cận nghèo thì phải thuộc diện nghèo, cận nghèo theo quy định của Thủ tướng Chính phủ.
+Đối tượng được thuê, thuê mua nhà ở bao gồm: (1) Người có công với cách mạng theo quy định của pháp luật về ưu đãi người có công với cách mạng; (2) Người thu nhập thấp, hộ nghèo, cận nghèo tại khu vực đô thị; (3) Người lao động đang làm việc tại các doanh nghiệp trong và ngoài khu công nghiệp; (4) Sĩ quan, hạ sĩ quan nghiệp vụ, hạ sĩ quan chuyên môn kỹ thuật, quân nhân chuyên nghiệp, công nhân trong cơ quan, đơn vị thuộc công an nhân dân và quân đội nhân dân; (5) Cán bộ, công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức; (6) Các đối tượng đã trả lại nhà ở công vụ; (7) Hộ gia đình, cá nhân thuộc diện bị thu hồi đất và phải giải tỏa, phá dỡ nhà ở theo quy định của pháp luật mà chưa được Nhà nước bồi thường bằng nhà ở, đất ở đáp ứng các điều kiện sau:
+
+- Chưa có nhà ở thuộc sở hữu của mình, chưa được mua, thuê hoặc thuê mua nhà ở xã hội, chưa được hưởng chính sách hỗ trợ nhà ở, đất ở dưới mọi hình thức tại nơi sinh sống, trường hợp đã có nhà ở thuộc sở hữu của mình thì phải có diện tích bình quân trong hộ gia đình dưới 10m2 sàn/người;
+
+- Phải có đăng ký thường trú tại tỉnh, thành phố trực thuộc trung ương nơi có nhà ở xã hội; trường hợp không có đăng ký thường trú thì phải có đăng ký tạm trú từ một năm trở lên tại tỉnh, thành phố này,
+
+- Đối với các đối tượng (2), (3), (4), (5) nêu trên thì phải thuộc diện không phải nộp thuế thu nhập thường xuyên theo quy định của pháp luật về thuế thu nhập cá nhân; trường hợp là hộ nghèo, cận nghèo thì phải thuộc diện nghèo, cận nghèo theo quy định của Thủ tướng Chính phủ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

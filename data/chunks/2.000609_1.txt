@@ -1,0 +1,16 @@
+Tên thủ tục: Thông báo tổ chức hội nghị, hội thảo, đào tạo về bán hàng đa cấp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000609
+Số quyết định:
+1299/QĐ-BCT
+Tên thủ tục:
+Thông báo tổ chức hội nghị, hội thảo, đào tạo về bán hàng đa cấp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý bán hàng đa cấp

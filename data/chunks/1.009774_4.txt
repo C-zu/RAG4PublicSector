@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp lại hoặc hiệu đính Giấy chứng nhận đăng ký đầu tư (BQL)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp lại hoặc hiệu đính (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe52b65f1824286'">Mẫu A.I.17.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaaf7537085136'">Mẫu A.I.18.docx</a>)

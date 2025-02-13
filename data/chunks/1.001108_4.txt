@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục xét tặng danh hiệu Nghệ sĩ ưu tú
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản khai thành tích đề nghị xét tặng danh hiệu “Nghệ sĩ ưu tú” (Mẫu số 1b tại Phụ lục I ban hành kèm theo Nghị định số 89/2014/NĐ-CP của Chính phủ) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9f64e05224792'">mẫu đơn tdkt 2.doc</a>)
+- 01 Bản chính Bản xác nhận của cơ quan tổ chức cuộc thi, liên hoan, hội diễn nghệ thuật chuyên nghiệp về sự tham gia của cá nhân trong các tác phẩm đạt giải Vàng hoặc Bạc dùng để quy đổi khi tính thành tích cho cá nhân tham gia theo quy định tại Khoản 4 Điều 9 Nghị định số 89/2014/NĐ-CP của Chính phủ (nếu có)
+- 01 Bản sao Bản sao các Quyết định về danh hiệu thi đua và hình thức khen thưởng (nếu có)
+- 01 Bản sao Các quyết định tặng giải thưởng quy định tại Khoản 4 Điều 9: Nộp bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu (trường hợp nộp hồ sơ trực tiếp); nộp bản sao từ sổ gốc hoặc bản sao có chứng thực (trường hợp nộp hồ sơ qua bưu điện).

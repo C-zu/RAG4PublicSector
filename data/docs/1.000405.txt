@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000405
+Số quyết định:
+1762/QĐ-NHNN
+Tên thủ tục:
+Đăng ký thay đổi khoản vay nước ngoài/khoản phát hành trái phiếu quốc tế được Chính phủ bảo lãnh
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động ngoại hối
+Trình tự thực hiện:
+- Bước 1: Trong thời hạn ba mươi (30) ngày kể từ ngày ký thỏa thuận thay đổi hoặc ngày Bộ Tài chính phát hành thư, phụ lục điều chỉnh thư bảo lãnh (nếu có) và trước khi thực hiện nội dung thay đổi, Bên đi vay gửi trực tiếp hoặc qua đường bưu điện đến Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) một (01) bộ hồ sơ theo quy định.
+- Bước 2: Ngân hàng Nhà nước xem xét và thẩm định hồ sơ, trường hợp hồ sơ không đầy đủ, hợp lệ, NHNN đề nghị doanh nghiệp bổ sung, sửa đổi hồ sơ.
+- Bước 3: Trong thời hạn mười lăm (15) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ của Bên đi vay, Ngân hàng Nhà nước gửi Bên đi vay văn bản xác nhận đăng ký thay đổi khoản vay nước ngoài, khoản phát hành trái phiếu quốc tế. Trường hợp từ chối xác nhận đăng ký, Ngân hàng Nhà nước có văn bản nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 Ngày|
+|Dịch vụ bưu chính|15 Ngày||15 Ngày|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký thay đổi khoản vay nước ngoài ([PHỤ LỤC 2A.TT22.13.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3d4d269ca7c98'))
+- 01 Bản chính hoặc Đơn đăng ký thay đổi khoản phát hành trái phiếu quốc tế ([PHỤ LỤC 2B.TT22.13.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc19fdc52960e8'))
+- 01 Bản sao Bản sao tiếng nước ngoài và bản dịch tiếng Việt các thỏa thuận thay đổi đã ký (có xác nhận của đại diện có thẩm quyền theo pháp luật của Bên đi vay về tính chính xác của bản sao và bản dịch) trong trường hợp các nội dung thay đổi cần được thỏa thuận giữa các bên.
+- 01 Bản sao Bản sao thư hoặc phụ lục điều chỉnh thư bảo lãnh của Bộ Tài chính (nếu có).
+- 01 Bản chính Văn bản của Bên đi vay giải trình rõ về nội dung thay đổi khoản vay nước ngoài, khoản phát hành trái phiếu quốc tế (áp dụng với trường hợp không có các thành phần hồ sơ nêu tại Điểm b và Điểm c Khoản 4 Thông tư số 22/2013/TT-NHNN).
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền:
+Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam số 49, Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công văn xác nhận đăng ký thay đổi khoản vay nước ngoài/khoản phát hành trái phiếu quốc tế được Chính phủ bảo lãnh.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|22/2013/TT-NHNN|Thông tư 22/2013/TT-NHNN|24-09-2013|Ngân hàng Nhà nước Việt Nam|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

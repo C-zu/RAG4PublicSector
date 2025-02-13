@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố đóng khu neo đậu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde022e0eac762e'">11.docx</a>)
+- 01 Bản chính - Biên bản hoàn thành thu hồi báo hiệu, thiết bị neo đậu; biên bản hoàn thành rà quét vật chướng ngại trong vùng nước khu neo đậu.

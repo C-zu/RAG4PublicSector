@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép lái tàu cho lái tàu trên các tuyến đường sắt đang khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử văn bản đề nghị tổ chức sát hạch, cấp giấy phép lái tàu của doanh nghiệp kinh doanh đường sắt theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf2c3075703dd2'">1.005071_Tổ chức.doc</a>)
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: Bản gốc hoặc bản điện tử đơn đề nghị sát hạch cấp giấy phép lái tàu theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff02d54949b72'">1.005071_cá nhân.doc</a>)
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: Bản gốc hoặc bản điện tử hoặc bản sao có chứng thực hoặc bản sao điện tử có chứng thực giấy chứng nhận đủ tiêu chuẩn sức khỏe lái tàu theo quy định của Bộ trưởng Bộ Y tế
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: Bản sao có chứng thực hoặc bản sao điện tử có chứng thực bằng hoặc chứng chỉ chuyên ngành lái phương tiện giao thông đường sắt phù hợp với loại phương tiện dự sát hạch
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo:03 ảnh màu cỡ 3x4cm ảnh chụp hoặc ảnh điện tử chụp trong thời hạn không quá 06 tháng tính đến ngày nộp hồ sơ.

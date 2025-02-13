@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002757
+Số quyết định:
+5568/QĐ-BCA
+Tên thủ tục:
+Cấp thị thực điện tử theo đề nghị của người nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+Bước 1: Người nước ngoài truy cập Trang thông tin cấp thị thực điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh (có tên miền tiếng Việt là “https://evisa.xuatnhapcanh.gov.vn”, tiếng Anh là “https://evisa.immigration.gov.vn”) hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an để nhập thông tin đề nghị cấp thị thực điện tử, tải ảnh mặt chân dung và trang nhân thân hộ chiếu. Sau khi thực hiện bước này, người nước ngoài sẽ được hệ thống cấp mã hồ sơ điện tử.
+Bước 2: Nộp phí cấp thị thực vào tài khoản quy định tại Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an sau khi nhận mã hồ sơ điện tử của cơ quan quản lý xuất nhập cảnh.
+Thời gian nộp hồ sơ: 24 giờ/07 ngày.
+Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến sang thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+Bước 3: Nhận kết quả
+Người nước ngoài đề nghị cấp thị thực điện tử sử dụng mã hồ sơ điện tử để kiểm tra và in kết quả cấp thị thực điện tử tại Trang thông tin cấp thị thực điện tử.
+Thời gian trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ)
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 25 USD + Thị thực có giá trị một lần: 25USD/thị thực điện tử.  Lệ phí : 50 USD + Thị thực có giá trị nhiều lần: 50USD/thị thực điện tử.|Nộp hồ sơ trực tuyến qua Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an. Không quá 03 ngày làm việc kể từ ngày nhận đủ thông tin đề nghị cấp thị thực điện tử và phí cấp thị thực|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Thông tin đề nghị cấp thị thực điện tử (trên Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an) theo mẫu NA1a ban hành kèm theo Thông tư số 22/2023/TT-BCA ngày 30/6/2023 của Bộ Công an.
+- 01 Bản chính + Ảnh mới chụp của người đề nghị cấp thị thực điện tử, kích cỡ ảnh 4 x 6cm, định dạng jpeg, kích thước ≤ 2 MB, mặt nhìn thẳng, không đội mũ, không đeo kính, trang phục lịch sự, phông ảnh nền trắng
+- 01 Bản sao Ảnh trang nhân thân hộ chiếu được tải lên Trang thông tin cấp thị thực điện tử theo quy định.
+
+Đối tượng thực hiện:
+Người nước ngoài
+Cơ quan thực hiện:
+Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+https://www.xuatnhapcanh.gov.vn hoặc https://www.immigration.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thị thực điện tử
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|47/2014/QH13|Luật 47/2014/QH13|17-06-2014||
+|51/2019/QH14|Luật 51/2019/QH14|25-11-2019||
+|57/2020/TT-BCA|Thông tư 57/2020/TT-BCA|10-06-2020||
+|25/2021/TT-BTC|Thông tư 25/2021/TT-BTC|07-04-2021||
+|23/2023/QH15|Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023|24-06-2023||
+|22/2023/TT-BCA|Thông tư số 22/2023/TT-BCA|30-06-2023|Bộ Công an|
+
+Yêu cầu, điều kiện thực hiện:
++ Người nước ngoài có hộ chiếu và không thuộc trường hợp chưa cho nhập cảnh quy định tại Điều 21 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
++ Người nước ngoài là công dân các nước, vùng lãnh thổ thuộc danh sách được cấp thị thực điện tử theo Nghị quyết của Chính phủ.
++ Người nước ngoài có hộ chiếu và không thuộc trường hợp chưa cho nhập cảnh quy định tại Điều 21 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
++ Người nước ngoài là công dân các nước, vùng lãnh thổ thuộc danh sách được cấp thị thực điện tử theo Nghị quyết của Chính phủ.
+Từ khóa:
+Cấp thị thực điện tử theo đề nghị của người nước ngoài
+Mô tả:
+Không có thông tin

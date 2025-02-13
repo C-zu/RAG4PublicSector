@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp văn bản ủy quyền cho tổ chức đăng kiểm nước ngoài kiểm định, phân cấp và cấp giấy chứng nhận an toàn kỹ thuật về an toàn hàng hải, an ninh tàu biển, điều kiện bảo đảm lao động hàng hải và phòng ngừa ô nhiễm môi trường cho tàu biển Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||- Trong thời hạn 01 ngày làm việc, kể từ khi nhận đầy đủ hồ sơ theo quy định.|
+|Trực tuyến|1 Ngày làm việc||- Trong thời hạn 01 ngày làm việc, kể từ khi nhận đầy đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|1 Ngày làm việc||- Trong thời hạn 01 ngày làm việc, kể từ khi nhận đầy đủ hồ sơ theo quy định.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Nộp trực tiếp tại Sở Công Thương.|
+|Trực tuyến|5 Ngày làm việc||Qua hệ thống dịch vụ công trực tuyến (nếu đủ điều kiện áp dụng)|
+|Dịch vụ bưu chính|5 Ngày làm việc||Qua bưu điện|

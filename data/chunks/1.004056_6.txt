@@ -1,0 +1,24 @@
+Tên thủ tục: Hỗ trợ một lần sau đầu tư đóng mới tàu cá
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+a) Chủ tàu là thành viên của tổ đội sản xuất, nghiệp đoàn nghề cá, hợp tác xã nghề cá được Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương phê duyệt;
+
+b) Tàu cá đóng mới phải là tàu khai thác hải sản xa bờ, tàu dịch vụ hậu cần khai thác hải sản xa bờ vỏ thép, vỏ composite;
+c) Tàu đóng mới máy chính phải sử dụng máy thủy mới 100% chính hãng;
+d) Tàu cá phải lắp đặt máy thông tin liên lạc tầm xa có tích hợp thiết bị định vị vệ tinh và kết nối được với trạm bờ để quản lý, giám sát hành trình trong quá trình tàu hoạt động trên biển;
+đ) Tàu khai thác hải sản xa bờ đã được cấp Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy chứng nhận đăng ký tàu cá và Giấy phép khai thác thủy sản;
+
+e) Tàu dịch vụ hậu cần khai thác hải sản xa bờ đã được cấp Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy chứng nhận đăng ký tàu cá.
+a) Chủ tàu là thành viên của tổ đội sản xuất, nghiệp đoàn nghề cá, hợp tác xã nghề cá được Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương phê duyệt;
+
+b) Tàu cá đóng mới phải là tàu khai thác hải sản xa bờ, tàu dịch vụ hậu cần khai thác hải sản xa bờ vỏ thép, vỏ composite;
+c) Tàu đóng mới máy chính phải sử dụng máy thủy mới 100% chính hãng;
+d) Tàu cá phải lắp đặt máy thông tin liên lạc tầm xa có tích hợp thiết bị định vị vệ tinh và kết nối được với trạm bờ để quản lý, giám sát hành trình trong quá trình tàu hoạt động trên biển;
+đ) Tàu khai thác hải sản xa bờ đã được cấp Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy chứng nhận đăng ký tàu cá và Giấy phép khai thác thủy sản;
+
+e) Tàu dịch vụ hậu cần khai thác hải sản xa bờ đã được cấp Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy chứng nhận đăng ký tàu cá.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

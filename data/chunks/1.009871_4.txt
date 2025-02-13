@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản gốc Giấy đăng ký hoạt động (Trường hợp đề nghị cấp lại do bị rách, nát)
+- 01 Bản chính Đơn đề nghị cấp lại Giấy đăng ký hoạt động (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe946a2c1983b00'">Mẫu số 12 – PL IV.docx</a>)

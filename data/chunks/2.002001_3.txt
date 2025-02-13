@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận cơ sở đủ Điều kiện kinh doanh dịch vụ đào tạo thuyền viên, người lái phương tiện thủy nội địa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Hoặc hình thức phù hợp khác|
+|Dịch vụ bưu chính|10 Ngày làm việc||Hoặc hình thức phù hợp khác|

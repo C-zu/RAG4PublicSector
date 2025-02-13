@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xác nhận sử dụng mã nước ngoài hoặc ủy quyền sử dụng mã số, mã vạch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 500000 Đồng Hồ sơ có ít hơn hoặc bằng 50 mã sản phẩm 500.000 đồng/hồ sơ  Phí : 10000 Đồng Hồ sơ trên 50 mã sản phẩm 10.000 đồng/mã|20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : 10000 Đồng Hồ sơ trên 50 mã sản phẩm 10.000 đồng/mã  Phí : 500000 Đồng Hồ sơ có ít hơn hoặc bằng 50 mã sản phẩm 500.000 đồng/hồ sơ|20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục gia hạn nộp tiền thuế, tiền chậm nộp, tiền phạt theo Điều 31 Nghị định 83/2013/NĐ-CP ngày 22/07/2013, được sửa đổi, bổ sung tại khoản 8 Điều 5 Nghị định 12/2015/NĐ-CP ngày 12/2/2015 của Chính phủ đối với trường hợp bị thiệt hại vật chất, gây ảnh hưởng trực tiếp đến sản xuất, kinh doanh do gặp thiên tai, hỏa hoạn, tai nạn bất ngờ; phải ngừng hoạt động do di dời cơ sở sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền làm ảnh hưởng đến kết quả sản xuất, kinh doanh; không có khả năng nộp thuế đúng hạn trong trường hợp nguyên liệu, vật tư nhập khẩu để sản xuất hàng hóa xuất khẩu có chu kỳ sản xuất, dự trữ dài hơn 275 ngày hoặc do phía khách hàng hủy hợp đồng hoặc kéo dài thời gian giao hàng mà số tiền thuế, tiền chậm nộp, tiền phạt phát sinh tại 02 Chi cục Hải quan trở lên trong cùng một Cục Hải quan
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007810
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục gia hạn nộp tiền thuế, tiền chậm nộp, tiền phạt theo Điều 31 Nghị định 83/2013/NĐ-CP ngày 22/07/2013, được sửa đổi, bổ sung tại khoản 8 Điều 5 Nghị định 12/2015/NĐ-CP ngày 12/2/2015 của Chính phủ đối với trường hợp bị thiệt hại vật chất, gây ảnh hưởng trực tiếp đến sản xuất, kinh doanh do gặp thiên tai, hỏa hoạn, tai nạn bất ngờ; phải ngừng hoạt động do di dời cơ sở sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền làm ảnh hưởng đến kết quả sản xuất, kinh doanh; không có khả năng nộp thuế đúng hạn trong trường hợp nguyên liệu, vật tư nhập khẩu để sản xuất hàng hóa xuất khẩu có chu kỳ sản xuất, dự trữ dài hơn 275 ngày hoặc do phía khách hàng hủy hợp đồng hoặc kéo dài thời gian giao hàng mà số tiền thuế, tiền chậm nộp, tiền phạt phát sinh tại 02 Chi cục Hải quan trở lên trong cùng một Cục Hải quan
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

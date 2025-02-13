@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị chứng nhận doanh nghiệp khoa học và công nghệ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec284014a19965'">Mẫu số 01.docx</a>)
+- 01 Bản sao Văn bản xác nhận, công nhận kết quả khoa học và công nghệ của cơ quan có thẩm quyền (bản sao xuất trình kèm bản chính để đối chiếu hoặc bản sao có chứng thực), thuộc một trong các văn bản sau: + Văn bằng bảo hộ quyền sở hữu trí tuệ; + Quyết định công nhận giống cây trồng mới, giống vật nuôi mới, giống thủy sản mới, giống cây lâm nghiệp mới, tiến bộ kỹ thuật; + Bằng chứng nhận giải thưởng đối với kết quả thực hiện nhiệm vụ đã đạt được các giải thưởng về khoa học và công nghệ do các cơ quan nhà nước có thẩm quyền chủ trì, phối hợp tổ chức xét tặng giải thưởng hoặc đồng ý cho tổ chức xét tặng giải thưởng; + Quyết định công nhận kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước hoặc Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; Giấy xác nhận hoặc giấy thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước; + Giấy chứng nhận đăng ký chuyển giao công nghệ; + Các văn bản xác nhận, công nhận khác có giá trị pháp lý tương đương.
+- 01 Bản chính Phương án sản xuất, kinh doanh sản phẩm hình thành từ kết quả khoa học và công nghệ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1f2b1e451b1f0'">Mẫu số 02.docx</a>)

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc có chứa dược chất đã có giấy đăng ký lưu hành thuốc tại Việt Nam nhưng chưa đáp ứng đủ nhu cầu điều trị,thuốc có chứa dược liệu đã từng sử dụng làm thuốc tại Việt Nam nhưng chưa đáp ứng đủ nhu cầu điều trị
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 60 (sáu mươi) ngày đối với các hồ sơ không yêu cầu dữ liệu lâm sàng|
+|Trực tiếp|90 Ngày|Phí : 1.200.000 Đồng|90 (chín mươi) ngàyđối với các hồ sơ yêu cầu dữ liệu lâm sàng kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|60 Ngày|Phí : 1.200.000 Đồng|Trong thời hạn 60 (sáu mươi) ngày đối với các hồ sơ không yêu cầu dữ liệu lâm sàng|
+|Dịch vụ bưu chính|90 Ngày|Phí : 1.200.000 Đồng|90 (chín mươi) ngàyđối với các hồ sơ yêu cầu dữ liệu lâm sàng kể từ ngày nhận đủ hồ sơ hợp lệ|

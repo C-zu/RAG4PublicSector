@@ -1,0 +1,21 @@
+Tên thủ tục: Phê duyệt việc dạy và học bằng tiếng nước ngoài
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở Lao động-Thương binh và Xã hội, Sở Giáo dục và Đào tạo, Cơ sở giáo dục nghề nghiệp và giáo dục đại học công lập, Cơ sở giáo dục đại học, Phòng Giáo dục và Đào tạo
+Cơ quan có thẩm quyền:
+Giám đốc Sở Giáo dục và Đào tạo, Trưởng phòng Giáo dục và Đào tạo, Giám đốc Sở Lao động - Thương binh và Xã hội, Hiệu trưởng (Thủ trưởng) cơ sở giáo dục
+Địa chỉ tiếp nhận HS:
+Sở Giáo dục và Đào tạo, Sở Lao động - Thương binh và Xã hội, phòng Giáo dục và Đào tạo, Cơ sở giáo dục đại học, trường cao đẳng nghề, trường trung cấp chuyên nghiệp trực thuộc các bộ cơ quan ngang bộ
+Cơ quan được ủy quyền:
+Trường Trung cấp chuyên nghiệp và dạy nghề
+Cơ quan phối hợp:
+Sở Lao động-Thương binh và Xã hội, Sở Giáo dục và Đào tạo, Trường Trung cấp chuyên nghiệp và dạy nghề, Cơ sở giáo dục đại học, Phòng Giáo dục và Đào tạo
+Kết quả thực hiện:
+Quyết định phê duyệt Đề án tổ chức thực hiện chương trình dạy và học bằng tiếng nước ngoài
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2014/QĐ-TTg|Quy định việc dạy và học bằng tiếng nước ngoài trong nhà trường và cơ sở giáo dục khác|17-12-2014|Thủ tướng Chính phủ|

@@ -1,0 +1,9 @@
+Tên thủ tục: Sáp nhập, chia, tách trường tiểu học
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình về việc sáp nhập, chia, tách;
+- 01 Bản chính Đề án sáp nhập, chia, tách, trong đó có phương án để bảo đảm quyền, lợi ích hợp pháp của học sinh, giáo viên, cán bộ quản lý và nhân viên
+- 01 Bản chính Các văn bản xác nhận về tài chính, tài sản, đất đai, các khoản vay, nợ phải trả và các vấn đề khác có liên quan

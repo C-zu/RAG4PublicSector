@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đăng ký khai sinh kết hợp nhận cha, mẹ, con
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 ngày làm việc, trường hợp phải xác minh thì không quá 08 ngày làm việc.|Lệ phí : Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định. Miễn lệ phí cho người thuộc gia đình có công với cách mạng; người thuộc hộ nghèo; người khuyết tật. Phí cấp bản sao Giấy khai sinh, bản sao Trích lục đăng ký nhận cha, mẹ, con (nếu có yêu cầu) thực hiện theo quy định tại Thông tư số 281/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính.|Người có yêu cầu đăng ký khai sinh và nhận cha, mẹ, con thực hiện nộp hồ sơ trực tiếp tại Bộ phận một cửa của UBND cấp xã (một bên có thể nộp hồ sơ mà không phải có văn bản ủy quyền của bên còn lại).|

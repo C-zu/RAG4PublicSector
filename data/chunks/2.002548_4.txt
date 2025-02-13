@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao theo Mẫu số 09 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd73605932ff988'">Mẫu 09_VB đề nghị cấp lại Giấy CN CGCN KKCG.docx</a>)
+- 01 Bản chính Bản chính Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp Giấy chứng nhận bị mất)
+- 01 Bản sao Bản sao một trong các giấy tờ sau: Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký doanh nghiệp hoặc các giấy tờ khác có giá trị pháp lý tương đương của các bên tham gia chuyển giao công nghệ (nếu thay đổi tên, địa chỉ của các bên tham gia chuyển giao công nghệ)

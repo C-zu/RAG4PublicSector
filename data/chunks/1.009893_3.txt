@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Đồng Không thu phí cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy; phí in và dán tem kiểm định được quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm điểm phương tiện phòng cháy, chữa cháy.|Không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp không cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy phải có văn bản trả lời, nêu rõ lý do.|
+|Trực tuyến|05 Ngày làm việc|Phí : Đồng Không thu phí cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy; phí in và dán tem kiểm định được quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm điểm phương tiện phòng cháy, chữa cháy.|- Trực tuyến tại Cổng dịch vụ công (nếu có);|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Đồng Không thu phí cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy; phí in và dán tem kiểm định được quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm điểm phương tiện phòng cháy, chữa cháy.|- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật).|

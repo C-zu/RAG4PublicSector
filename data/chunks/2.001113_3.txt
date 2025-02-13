@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi chứng chỉ hành nghề Quản tài viên
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Khi phát hiện hoặc có căn cứ cho rằng người đã được cấp chứng chỉ hành nghề Quản tài viên thuộc một trong các trường hợp quy định tại Khoản 1 Điều 15 của Luật Phá sản thì cá nhân, cơ quan, tổ chức có văn bản đề nghị Bộ trưởng Bộ Tư pháp thu hồi chứng chỉ hành nghề Quản tài viên của người đó.|
+|Trực tuyến|30 Ngày||Khi phát hiện hoặc có căn cứ cho rằng người đã được cấp chứng chỉ hành nghề Quản tài viên thuộc một trong các trường hợp quy định tại Khoản 1 Điều 15 của Luật Phá sản thì cá nhân, cơ quan, tổ chức có văn bản đề nghị Bộ trưởng Bộ Tư pháp thu hồi chứng chỉ hành nghề Quản tài viên của người đó.|
+|Dịch vụ bưu chính|30 Ngày||Khi phát hiện hoặc có căn cứ cho rằng người đã được cấp chứng chỉ hành nghề Quản tài viên thuộc một trong các trường hợp quy định tại Khoản 1 Điều 15 của Luật Phá sản thì cá nhân, cơ quan, tổ chức có văn bản đề nghị Bộ trưởng Bộ Tư pháp thu hồi chứng chỉ hành nghề Quản tài viên của người đó.|

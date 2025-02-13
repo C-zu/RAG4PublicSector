@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (sử dụng thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : 2.000.000 Đồng Phí thẩm định Thiết bị X-quang chụp răng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc87e9f1115958'">Phi tham dinh an toan.docx</a> Phí : 2.000.000 Đồng Phí thẩm định Thiết bị X-quang chụp vú  Phí : 2.000.000 Đồng Phí thẩm định Thiết bị X-quang di động  Phí : 3.000.000 Đồng Phí thẩm định Thiết bị X-quang chẩn đoán thông thường  Phí : 3.000.000 Đồng Phí thẩm định Thiết bị đo mật độ xương:  Phí : 5.000.000 Đồng Phí thẩm định Thiết bị X-quang tăng sáng truyền hình  Phí : 8.000.000 Đồng Phí thẩm định Thiết bị X-quang chụp cắt lớp vi tính  Phí : 16.000.000 Đồng Phí thẩm định Hệ thiết bị PET/CT|30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 2.000.000 Đồng Phí thẩm định Thiết bị X-quang chụp răng  Phí : 2.000.000 Đồng Phí thẩm định Thiết bị X-quang chụp vú  Phí : 2.000.000 Đồng Phí thẩm định Thiết bị X-quang di động  Phí : 3.000.000 Đồng Phí thẩm định Thiết bị X-quang chẩn đoán thông thường  Phí : 3.000.000 Đồng Phí thẩm định Thiết bị đo mật độ xương:  Phí : 5.000.000 Đồng Phí thẩm định Thiết bị X-quang tăng sáng truyền hình  Phí : 8.000.000 Đồng Phí thẩm định Thiết bị X-quang chụp cắt lớp vi tính  Phí : 16.000.000 Đồng Phí thẩm định Hệ thiết bị PET/CT|30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

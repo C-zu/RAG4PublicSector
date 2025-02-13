@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký mã số đơn vị có quan hệ với ngân sách
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Đơn vị sử dụng ngân sách, đơn vị dự toán nộp hồ sơ đăng ký mã số cho Cơ quan tài chính (Cục Tin học và Thống kê tài chính; Sở Tài chính).
++ Bước 2: Cơ quan tài chính thực hiện kiểm tra tính hợp lệ của hồ sơ. 
+	Nếu hồ sơ đăng ký mã số ĐVQHNS đầy đủ, hợp lệ thì lập Giấy biên nhận hồ sơ đăng ký mã số ĐVQHNS theo mẫu số 09-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC ngày 17/11/2015 để gửi người nộp hồ sơ.   
+	Nếu hồ sơ hợp lệ nhưng không đầy đủ, Cơ quan tài chính vẫn tiếp nhận hồ sơ và đề nghị đơn vị bổ sung hồ sơ trong thời hạn 10 (mười) ngày làm việc kể từ ngày tiếp nhận hồ sơ. 
+	Nếu hồ sơ không hợp lệ, Cơ quan tài chính trả lại hồ sơ và hướng dẫn đơn vị hoàn chỉnh để nộp lại hồ sơ.

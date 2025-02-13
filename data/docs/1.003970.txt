@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003970
+Số quyết định:
+3110/QĐ-BGTVT
+Tên thủ tục:
+Đăng ký lại phương tiện trong trường hợp chuyển quyền sở hữu phương tiện đồng thời thay đổi cơ quan đăng ký phương tiện
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
++ Cơ quan quản lý giao thông cấp huyện thực hiện đăng ký phương tiện có động cơ tổng công suất máy chính từ 05 sức ngựa đến 15 sức ngựa hoặc có sức chở từ 05 người đến 12 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại địa bàn quản lý.
++ Cấp xã, phường, thị trấn: Thực hiện đăng ký phương tiện không có động cơ trọng tải toàn phần từ 01 tấn đến 15 tấn hoặc có sức chở từ 05 người đến 12 người, phương tiện có động cơ công suất máy chính dưới 05 sức ngựa hoặc có sức chở dưới 05 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại địa bàn quản lý; Tổ chức quản lý đối với phương tiện thô sơ có trọng tải toàn phần dưới 01 tấn hoặc sức chở dưới 05 người hoặc bè khi hoạt động trên đường thủy nội địa phải đảm bảo điều kiện an toàn theo quy định.
+Tổ chức, cá nhân nộp hồ sơ đề nghị đến cơ quan đăng ký phương tiện có thẩm quyền.
+Cơ quan đăng ký phương tiện bao gồm:
++ Cục Đường thủy nội địa Việt Nam và các Chi cục Đường thủy nội địa khu vực tổ chức, thực hiện đăng ký phương tiện mang cấp VR-SB của tổ chức, cá nhân.
++ Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương thực hiện đăng ký phương tiện mang cấp VR-SB, phương tiện không có động cơ trọng tải toàn phần trên 15 tấn, phương tiện có động cơ tổng công suất máy chính trên 15 sức ngựa, phương tiện có sức chở trên 12 người của tổ chức, cá nhân có trụ sở hoặc nơi đăng ký hộ khẩu thường trú tại tỉnh, thành phố trực thuộc Trung ương đó
++ Cơ quan đăng ký quy định tại khoản 2 Điều 8 được tổ chức, thực hiện đăng ký phương tiện quy định tại khoản 3, khoản 4 Điều 8 Thông tư số 75/2014/TT-BGTVT; cơ quan đăng ký quy định tại khoản 3 Điều 8 được tổ chức, thực hiện đăng ký phương tiện quy định tại khoản 4 Điều 8 Thông tư số 75/2014/TT-BGTVT.
+b) Giải quyết TTHC
+Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; nếu hồ sơ không đầy đủ theo quy định thì trả lại và hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ;
+Trường hợp hồ sơ nhận qua hệ thống bưu điện hoặc hình thức phù hợp khác, nếu hồ sơ không đầy đủ theo quy định, trong thời gian 02 ngày làm việc, kể từ ngày nhận được hồ sơ, có văn bản gửi tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ;
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan đăng ký cấp giấy chứng nhận đăng ký phương tiện cho chủ phương tiện. Trường hợp không cấp phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 70000 Đồng 70.000 đồng/Giấy chứng nhận.|Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 70000 Đồng 70.000 đồng/Giấy chứng nhận.|Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 70000 Đồng 70.000 đồng/Giấy chứng nhận.|Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Xuất trình bản chính các loại giấy tờ sau đây để cơ quan đăng ký phương tiện kiểm tra:
+- 01 Bản chính Hợp đồng mua bán phương tiện hoặc quyết định điều chuyển phương tiện của cơ quan có thẩm quyền hoặc giấy tờ khác chứng minh phương tiện được cho, tặng, thừa kế theo quy định của pháp luật. Trường hợp chủ phương tiện là tổ chức, cá nhân nước ngoài đứng tên đăng ký lại phương tiện thì phải xuất trình giấy tờ chứng minh được phép hoạt động và có trụ sở tại Việt Nam hoặc giấy tờ chứng minh được phép cư trú tại Việt Nam;
+- 01 Bản chính Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm..
+
+
+Giấy tờ phải nộp để lưu giữ tại cơ quan đăng ký phương tiện:
+- 01 Bản chính Đơn đề nghị đăng ký lại phương tiện thủy nội địa theo mẫu ([Mẫu31.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5686402105e54'))
+- 01 Bản chính 02 ảnh có kích thước 10 x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi;
+- 01 Bản chính Hồ sơ gốc còn dấu niêm phong, thành phần hồ sơ gốc ứng với từng trường hợp đăng ký đã được cơ quan đăng ký phương tiện cấp trước đó;
+- 01 Bản chính Biên lai nộp lệ phí trước bạ (bản chính), đối với phương tiện thuộc diện phải nộp lệ phí trước bạ.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải, Chi cục đường thủy nội địa
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục ĐTNĐ Việt Nam; Chi cục ĐTNĐ khu vực; Sở GTVT; Cơ quan quản lý giao thông cấp huyện; Cấp xã, phường, thị trấn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đăng ký lại phương tiện
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2004/QH11|Giao thông đường thủy nội địa|15-06-2004|Quốc Hội|
+|75/2014/TT-BGTVT|Quy định về đăng ký phương tiện thủy nội địa|19-12-2014|Bộ Giao thông vận tải|
+|198/2016/TT-BTC|Thông tư 198/2016/TT-BTC quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực đường thủy nội địa và đường sắt do Bộ trưởng Bộ Tài chính ban|11-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

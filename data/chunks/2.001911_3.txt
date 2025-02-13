@@ -1,0 +1,7 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Thủ tướng Chính phủ (đối với dự án không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư).BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ dự án đầu tư, Ban Quản lý gửi hồ sơ cho Bộ Kế hoạch và Đầu tư và gửi hồ sơ lấy ý kiến của cơ quan nhà nước có liên quan. - Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ lấy ý kiến, cơ quan được lấy ý kiến có ý kiến về những nội dung thuộc phạm vi quản lý nhà nước, gửi Ban Quản lý và Bộ Kế hoạch và Đầu tư. - Trong thời hạn 25 ngày kể từ ngày nhận được hồ sơ dự án đầu tư, Ban Quản lý trình Ủy ban nhân dân cấp tỉnh xem xét, có ý kiến thẩm định về hồ sơ dự án đầu tư và gửi Bộ Kế hoạch và Đầu tư. - Trong thời hạn 15 ngày kể từ ngày nhận được ý kiến của Ủy ban nhân dân cấp tỉnh, Bộ Kế hoạch và Đầu tư tổ chức thẩm định hồ sơ dự án đầu tư và lập báo cáo thẩm định. - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được báo cáo thẩm định của Bộ Kế hoạch và Đầu tư, Thủ tướng Chính phủ quyết định chủ trương đầu tư.|Lệ phí : 0 Đồng Không có|Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|

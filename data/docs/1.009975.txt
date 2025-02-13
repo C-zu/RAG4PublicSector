@@ -1,0 +1,111 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009975
+Số quyết định:
+1105/QĐ-BXD
+Tên thủ tục:
+Cấp giấy phép xây dựng sửa chữa, cải tạo đối với công trình cấp đặc biệt, cấp I, cấp II (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+- Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp giấy phép xây dựng sửa chữa, cải tạo công trình cho Trung tâm phục vụ hành chính công hoặc Bộ phận tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Sở Xây dựng hoặc ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh.
+- Trong thời hạn 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan có thẩm quyền cấp giấy phép xây dựng phải tổ chức thẩm định hồ sơ, kiểm tra thực địa, thông báo 1 lần bằng văn bản cho chủ đầu tư bổ sung, hoàn thiện hồ sơ nếu tài liệu còn thiếu, tài liệu không đúng quy định hoặc không đúng thực tế.
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận bổ sung hồ sơ nhưng chưa đáp ứng được yêu cầu theo văn bản thông báo, cơ quan có thẩm quyền cấp giấy phép xây dựng có trách nhiệm thông báo bằng văn bản hướng dẫn cho chủ đầu tư tiếp tục hoàn thiện hồ sơ. Trường hợp việc bổ sung hồ sơ vẫn không đáp ứng được các nội dung theo thông báo thì trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ bổ sung, cơ quan có thẩm quyền cấp giấy phép xây dựng có trách nhiệm thông báo đến chủ đầu tư về lý do không cấp giấy phép xây dựng.
+- Cơ quan có thẩm quyền cấp giấy phép xây dựng đối chiếu các điều kiện theo quy định của Luật Xây dựng để gửi văn bản lấy ý kiến của cơ quan quản lý nhà nước liên quan. Trong thời gian 12 ngày kể từ ngày nhận được hồ sơ, các cơ quan quản lý nhà nước được hỏi ý kiến có trách nhiệm trả lời bằng văn bản về những nội dung thuộc chức năng quản lý của mình. Sau thời hạn trên, nếu các cơ quan này không có ý kiến thì được coi là đã đồng ý và phải chịu trách nhiệm về những nội dung thuộc chức năng quản lý của mình; cơ quan cấp giấy phép xây dựng căn cứ các quy định hiện hành để quyết định việc cấp giấy phép xây dựng.
+Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền có trách nhiệm xem xét cấp giấy phép xây dựng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|20 ngày đối với công trình kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|20 ngày đối với công trình kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|20 ngày đối với công trình kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị cấp giấy phép sửa chữa, cải tạo công trình theo Mẫu số 1 Phụ lục số II Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ. ([Don de nghi cap GPXD sua chua cai tao CTXD.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0611ce0d4e008'))
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh về quyền sở hữu, quản lý, sử dụng công trình theo quy định của pháp luật.
+- 01 Bản chính, 01 Bản sao - Bản vẽ hiện trạng của các bộ phận công trình dự kiến sửa chữa, cải tạo đã được phê duyệt theo quy định có tỷ lệ tương ứng với tỷ lệ các bản vẽ của hồ sơ đề nghị cấp phép sửa chữa, cải tạo và ảnh chụp (kích thước tối thiểu 10 x 15 cm) hiện trạng công trình và công trình lân cận trước khi sửa chữa, cải tạo.
+- 01 Bản chính, 01 Bản sao Thành phần hồ sơ khác cho từng loại công trình, cụ thể như sau:
+- 01 Bản chính, 01 Bản sao (1.1) Đối với công trình không theo tuyến:
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai.
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt dự án; văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có); báo cáo kết quả thẩm tra thiết kế xây dựng theo quy định tại khoản 4 Điều 41 Nghị định số 15/2021/NĐ-CP; giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy và các tài liệu, bản vẽ được thẩm duyệt kèm theo theo quy định của pháp luật về phòng cháy, chữa cháy; văn bản kết quả thực hiện thủ tục về bảo vệ môi trường theo quy định của pháp luật về bảo vệ môi trường đối với trường hợp không thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng.
+- 01 Bản chính, 01 Bản sao - 02 bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau thiết kế cơ sở được phê duyệt theo quy định của pháp luật về xây dựng, gồm; bản vẽ tổng mặt bằng toàn dự án, mặt bằng định vị công trình trên lô đất; bản vẽ kiến trúc các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình; bản vẽ mặt bằng, mặt cắt móng; các bản vẽ thể hiện giải pháp kết cấu chính của công trình; bản vẽ mặt bằng đấu nối với hệ thống hạ tầng kỹ thuật bên ngoài công trình, dự án.
+- 01 Bản chính, 01 Bản sao - Trường hợp chủ đầu tư thuê đất để đầu tư xây dựng thì bổ sung thêm hợp đồng thuê đất hợp pháp. Trường hợp đầu tư xây dựng công trình gắn vào công trình, bộ phận của công trình hiện hữu thì bổ sung giấy tờ chứng minh quyền sở hữu công trình, bộ phận công trình hoặc hợp đồng thuê công trình, bộ phận công trình hợp pháp (nếu chủ đầu tư thuê công trình, bộ phận công trình để đầu tư xây dựng); báo cáo kết quả đánh giá an toàn công trình và bản vẽ thể hiện giải pháp liên kết của công trình với công trình hiện hữu.
+- 01 Bản chính, 01 Bản sao (1.2) Đối với công trình theo tuyến:
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai hoặc văn bản chấp thuận của cơ quan nhà nước có thẩm quyền về vị trí và phương án tuyến hoặc Quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về đất đai.
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt dự án; văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có); báo cáo kết quả thẩm tra thiết kế xây dựng theo quy định tại khoản 4 Điều 41 Nghị định số 15/2021/NĐ-CP; giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy và các tài liệu, bản vẽ được thẩm duyệt kèm theo theo quy định của pháp luật về phòng cháy, chữa cháy; văn bản kết quả thực hiện thủ tục về bảo vệ môi trường theo quy định của pháp luật về bảo vệ môi trường đối với trường hợp không thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng.
+- 01 Bản chính, 01 Bản sao - 02 bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau thiết kế cơ sở được phê duyệt theo quy định của pháp luật về xây dựng, gồm: sơ đồ vị trí tuyến công trình; bản vẽ mặt bằng tổng thể hoặc bản vẽ bình đồ công trình; bản vẽ các mặt cắt dọc và mặt cắt ngang chủ yếu của tuyến công trình; bản vẽ mặt bằng, mặt cắt móng; các bản vẽ thể hiện giải pháp kết cấu chính của công trình; bản vẽ mặt bằng đấu nối với hệ thống hạ tầng kỹ thuật bên ngoài công trình, dự án.
+- 01 Bản chính, 01 Bản sao (1.3) Đối với công trình tôn giáo:
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai.
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt dự án; văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có); báo cáo kết quả thẩm tra thiết kế xây dựng theo quy định tại khoản 4 Điều 41 Nghị định số 15/2021/NĐ-CP; giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy và các tài liệu, bản vẽ được thẩm duyệt kèm theo theo quy định của pháp luật về phòng cháy, chữa cháy; văn bản kết quả thực hiện thủ tục về bảo vệ môi trường theo quy định của pháp luật về bảo vệ môi trường đối với trường hợp không thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng.
+- 01 Bản chính, 01 Bản sao - 02 bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau thiết kế cơ sở được phê duyệt theo quy định của pháp luật về xây dựng, gồm; bản vẽ tổng mặt bằng toàn dự án, mặt bằng định vị công trình trên lô đất; bản vẽ kiến trúc các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình; bản vẽ mặt bằng, mặt cắt móng; các bản vẽ thể hiện giải pháp kết cấu chính của công trình; bản vẽ mặt bằng đấu nối với hệ thống hạ tầng kỹ thuật bên ngoài công trình, dự án.
+- 01 Bản chính, 01 Bản sao - Trường hợp chủ đầu tư thuê đất để đầu tư xây dựng thì bổ sung thêm hợp đồng thuê đất hợp pháp. Trường hợp đầu tư xây dựng công trình gắn vào công trình, bộ phận của công trình hiện hữu thì bổ sung giấy tờ chứng minh quyền sở hữu công trình, bộ phận công trình hoặc hợp đồng thuê công trình, bộ phận công trình hợp pháp (nếu chủ đầu tư thuê công trình, bộ phận công trình để đầu tư xây dựng); báo cáo kết quả đánh giá an toàn công trình và bản vẽ thể hiện giải pháp liên kết của công trình với công trình hiện hữu.
+- 01 Bản chính, 01 Bản sao - Văn bản chấp thuận về sự cần thiết xây dựng và quy mô công trình của cơ quan chuyên môn về tôn giáo thuộc Ủy ban nhân dân cấp tỉnh;
+- 01 Bản chính, 01 Bản sao - Công trình tôn giáo thuộc dự án bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh, phải bổ sung văn bản về sự cần thiết xây dựng và quy mô công trình của cơ quan quản lý nhà nước về văn hóa theo quy định của pháp luật về di sản văn hóa.
+- 01 Bản chính, 01 Bản sao (1.4) Đối với công trình tín ngưỡng:
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai.
+- 01 Bản chính, 01 Bản sao - 02 bộ bản vẽ thiết kế xây dựng kèm theo Giấy chứng nhận thẩm duyệt thiết kế về phòng cháy, chữa cháy kèm theo bản vẽ thẩm duyệt trong trường hợp pháp luật về phòng cháy và chữa cháy có yêu cầu; báo cáo kết quả thẩm tra thiết kế xây dựng trong trường hợp pháp luật về xây dựng có yêu cầu, gồm:
+- 01 Bản chính, 01 Bản sao + Bản vẽ mặt bằng công trình trên lô đất kèm theo sơ đồ vị trí công trình;
+- 01 Bản chính, 01 Bản sao + Bản vẽ mặt bằng các tầng, các mặt đứng và mặt cắt chính của công trình;
+- 01 Bản chính, 01 Bản sao + Bản vẽ mặt bằng móng và mặt cắt móng kèm theo sơ đồ đấu nối hệ thống hạ tầng kỹ thuật bên ngoài công trình gồm cấp nước, thoát nước, cấp điện;
+- 01 Bản chính, 01 Bản sao + Đối với công trình xây dựng có công trình liền kề phải có bản cam kết bảo đảm an toàn đối với công trình liền kề.
+- 01 Bản chính, 01 Bản sao - Văn bản của cơ quan chuyên môn về tín ngưỡng thuộc Ủy ban nhân dân cấp tỉnh; báo cáo kết quả thẩm tra thiết kế xây dựng đối với công trình tín ngưỡng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng.
+- 01 Bản chính, 01 Bản sao - Công trình tín ngưỡng thuộc dự án bảo quản, tu bổ, phục hồi di tích lịch sử - văn hóa, danh lam thắng cảnh, phải bổ sung văn bản về sự cần thiết xây dựng và quy mô công trình của cơ quan quản lý nhà nước về văn hóa theo quy định của pháp luật về di sản văn hóa.
+- 01 Bản chính, 01 Bản sao (1.5) Đối với công trình tượng đài, tranh hoành tráng:
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai.
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt dự án; văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có); báo cáo kết quả thẩm tra thiết kế xây dựng theo quy định tại khoản 4 Điều 41 Nghị định số 15/2021/NĐ-CP; giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy và các tài liệu, bản vẽ được thẩm duyệt kèm theo theo quy định của pháp luật về phòng cháy, chữa cháy; văn bản kết quả thực hiện thủ tục về bảo vệ môi trường theo quy định của pháp luật về bảo vệ môi trường đối với trường hợp không thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng.
+- 01 Bản chính, 01 Bản sao - 02 bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau thiết kế cơ sở được phê duyệt theo quy định của pháp luật về xây dựng, gồm; bản vẽ tổng mặt bằng toàn dự án, mặt bằng định vị công trình trên lô đất; bản vẽ kiến trúc các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình; bản vẽ mặt bằng, mặt cắt móng; các bản vẽ thể hiện giải pháp kết cấu chính của công trình; bản vẽ mặt bằng đấu nối với hệ thống hạ tầng kỹ thuật bên ngoài công trình, dự án.
+- 01 Bản chính, 01 Bản sao - Văn bản chấp thuận về sự cần thiết xây dựng và quy mô công trình của cơ quan quản lý nhà nước về văn hóa.
+- 01 Bản chính, 01 Bản sao - Trường hợp chủ đầu tư thuê đất để đầu tư xây dựng thì bổ sung thêm hợp đồng thuê đất hợp pháp. Trường hợp đầu tư xây dựng công trình gắn vào công trình, bộ phận của công trình hiện hữu thì bổ sung giấy tờ chứng minh quyền sở hữu công trình, bộ phận công trình hoặc hợp đồng thuê công trình, bộ phận công trình hợp pháp (nếu chủ đầu tư thuê công trình, bộ phận công trình để đầu tư xây dựng); báo cáo kết quả đánh giá an toàn công trình và bản vẽ thể hiện giải pháp liên kết của công trình với công trình hiện hữu.
+- 01 Bản chính, 01 Bản sao (1.6) Đối với công trình của các cơ quan ngoại giao và tổ chức quốc tế:
+- 01 Bản chính, 01 Bản sao - Một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai hoặc trường hợp chủ đầu tư thuê đất để đầu tư xây dựng thì bổ sung thêm hợp đồng thuê đất hợp pháp. Trường hợp đầu tư xây dựng công trình gắn vào công trình, bộ phận của công trình hiện hữu thì bổ sung giấy tờ chứng minh quyền sở hữu công trình, bộ phận công trình hoặc hợp đồng thuê công trình, bộ phận công trình hợp pháp (nếu chủ đầu tư thuê công trình, bộ phận công trình để đầu tư xây dựng); báo cáo kết quả đánh giá an toàn công trình và bản vẽ thể hiện giải pháp liên kết của công trình với công trình hiện hữu.
+- 01 Bản chính, 01 Bản sao - Quyết định phê duyệt dự án; văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có); báo cáo kết quả thẩm tra thiết kế xây dựng theo quy định tại khoản 4 Điều 41 Nghị định số 15/2021/NĐ-CP; giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy và các tài liệu, bản vẽ được thẩm duyệt kèm theo theo quy định của pháp luật về phòng cháy, chữa cháy; văn bản kết quả thực hiện thủ tục về bảo vệ môi trường theo quy định của pháp luật về bảo vệ môi trường đối với trường hợp không thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng tại cơ quan chuyên môn về xây dựng.
+- 01 Bản chính, 01 Bản sao - 02 bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau thiết kế cơ sở được phê duyệt theo quy định của pháp luật về xây dựng, gồm; bản vẽ tổng mặt bằng toàn dự án, mặt bằng định vị công trình trên lô đất; bản vẽ kiến trúc các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình; bản vẽ mặt bằng, mặt cắt móng; các bản vẽ thể hiện giải pháp kết cấu chính của công trình; bản vẽ mặt bằng đấu nối với hệ thống hạ tầng kỹ thuật bên ngoài công trình, dự án.
+- 01 Bản chính, 01 Bản sao - Các điều khoản quy định của Hiệp định hoặc thỏa thuận đã được ký kết với Chính phủ Việt Nam.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Xây dựng, Ban Quản lý Khu công nghệ cao, Ban Quản lý Khu công nghiệp và Chế xuất, Ban quản lý khu kinh tế
+Cơ quan có thẩm quyền:
+Sở Xây dựng, Ban quản lý các khu công nghiệp và chế xuất, Ban quản lý khu kinh tế, Ban Quản lý Khu công nghệ cao
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả giải quyết TTHC thuộc Sở Xây dựng, GTVT, NN và PTNT, Công thương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xây dựng kèm theo hồ sơ thiết kế trình xin cấp GPXD có đóng dấu của cơ quan có thẩm quyền cấp GPXD
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|62/2020/QH14|Luật 62/2020/QH14|17-06-2020||
+|15/2021/NĐ-CP|Quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|35/2023/NĐ-CP|Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng|20-06-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan nhà nước có thẩm quyền chấp thuận bằng văn bản).
+- Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+- Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+- Thiết kế xây dựng công trình đã được thẩm định, phê duyệt theo quy định. 
+-- Đối với khu vực đã có quy hoạch xây dựng và theo quy định, dự án đầu tư xây dựng phải phù hợp với quy hoạch có tính chất kỹ thuật, chuyên ngành khác thì quy hoạch xây dựng và quy hoạch có tính chất kỹ thuật, chuyên ngành này là cơ sở để xem xét cấp giấy phép xây dựng;
+- Đối với khu vực chưa có quy hoạch xây dựng thì quy hoạch có tính chất kỹ thuật, chuyên ngành khác có liên quan hoặc thiết kế đô thị hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng; 
+- Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
+- Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan nhà nước có thẩm quyền chấp thuận bằng văn bản).
+- Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+- Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+- Thiết kế xây dựng công trình đã được thẩm định, phê duyệt theo quy định. 
+-- Đối với khu vực đã có quy hoạch xây dựng và theo quy định, dự án đầu tư xây dựng phải phù hợp với quy hoạch có tính chất kỹ thuật, chuyên ngành khác thì quy hoạch xây dựng và quy hoạch có tính chất kỹ thuật, chuyên ngành này là cơ sở để xem xét cấp giấy phép xây dựng;
+- Đối với khu vực chưa có quy hoạch xây dựng thì quy hoạch có tính chất kỹ thuật, chuyên ngành khác có liên quan hoặc thiết kế đô thị hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng; 
+- Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

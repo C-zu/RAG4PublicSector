@@ -1,0 +1,97 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002106
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Cấp Giấy xác nhận đăng ký công cụ hỗ trợ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+Bước 1: Cơ quan, tổ chức, doanh nghiệp ở trung ương có nhu cầu cấp Giấy xác nhận đăng ký công cụ hỗ trợ nộp hồ sơ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an vào giờ hành chính các ngày làm việc trong tuần, qua Cổng dịch vụ công trực tuyến hoặc qua dịch vụ bưu chính.
+Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ. Nếu hồ sơ đủ điều kiện, thủ tục thì tiếp nhận hồ sơ, giao giấy biên nhận hoặc thông báo trên Cổng dịch vụ công trực tuyến cho người được cơ quan, tổ chức, doanh nghiệp giao nộp hồ sơ. Trường hợp hồ sơ đủ điều kiện nhưng thiếu thủ tục hoặc kê khai chưa đầy đủ, chính xác thì hướng dẫn bằng văn bản hoặc thông báo trên Cổng dịch vụ công trực tuyến ghi rõ thủ tục, nội dung cần bổ sung, kê khai. Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận hồ sơ và trả lời bằng văn bản hoặc thông báo trên Cổng dịch vụ công trực tuyến nêu rõ lý do không tiếp nhận hồ sơ.
+Bước 3: Căn cứ theo ngày hẹn trên giấy biên nhận hoặc thông báo trên Cổng dịch vụ công trực tuyến, cơ quan, tổ chức, doanh nghiệp được cấp Giấy xác nhận đăng ký công cụ hỗ trợ đến nhận Giấy xác nhận đăng ký công cụ hỗ trợ hoặc nhận qua dịch vụ bưu chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 0 Đồng|Nộp hồ sơ trực tiếp tại trụ sở Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an|
+|Trực tuyến|10 Ngày làm việc|Phí : 0 Đồng|Nộp hồ sơ trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy giới thiệu
+- 01 Bản chính Văn bản đề nghị nêu rõ số lượng, chủng loại, nước sản xuất, nhãn hiệu, số hiệu, ký hiệu của từng công cụ hỗ trợ
+- 01 Bản sao Bản sao Giấy phép trang bị công cụ hỗ trợ
+- 01 Bản sao Bản sao hóa đơn hoặc bản sao phiếu xuất kho
+- 01 Bản sao Bản sao thẻ Căn cước công dân, Chứng minh nhân dân, Hộ chiếu hoặc Chứng minh Công an nhân dân của người đến liên hệ
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+Nộp hồ sơ trực tiếp tại cơ quan Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký công cụ hỗ trợ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|14/2017/QH14|Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|20-06-2017|Quốc Hội|
+|Thông tư 16/2018/TT-BCA|Quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|15-05-2018|Bộ Công an|
+|Thông tư 17/2018/TT-BCA|Quy định về trang bị vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ|15-05-2018|Bộ Công an|
+|Nghị định 79/2018/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|16-05-2018|Chính phủ|
+|45/2020/NĐ-CP|Nghị định 45/2020/NĐ-CP|08-04-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Chỉ cấp Giấy xác nhận đăng ký công cụ hỗ trợ cho đối tượng được trang bị công cụ hỗ trợ theo quy định tại khoản 1 Điều 55 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 14/2017/QH14 ngày 20/6/2017), cụ thể:
+“1. Đối tượng được trang bị công cụ hỗ trợ baogồm:
+a) Quân đội nhân dân;
+b) Dân quân tự vệ;
+c) Cảnh sát biển; 
+d) Công an nhân dân; 
+đ) Cơ yếu; 
+e) Cơ quan điều tra của Viện kiểm sát nhân dân tối cao;
+g) Cơ quan thi hành án dân sự;
+h) Kiểm lâm, lực lượng bảo vệ rừng chuyên trách, Kiểm ngư, lực lượng trực tiếp thực hiện nhiệm vụ thanh tra chuyên ngành thủy sản;
+i) Hải quan cửa khẩu, lực lượng chuyên trách chống buôn lậu của Hải quan; 
+k) Đội kiểm tra của lực lượng Quản lý thị trường; 
+l) An ninh hàng không, lực lượng trực tiếp thực hiện nhiệm vụ thanh tra chuyên ngành giao thông vận tải; 
+m) Lực lượng bảo vệ cơ quan, tổ chức, doanh nghiệp; doanh nghiệp kinh doanh dịch vụ bảo vệ;
+n) Ban Bảo vệ dân phố; 
+o) Câu lạc bộ, cơ sở đào tạo, huấn luyện thể thao có giấy phép hoạt động;
+p) Cơ sở cai nghiện ma túy; 
+q) Các đối tượng khác có nhu cầu trang bị công cụ hỗ trợ thì căn cứ vào tính chất, yêu cầu, nhiệm vụ, Bộ trưởng Bộ Công an quyết định.”
+Chỉ cấp Giấy xác nhận đăng ký công cụ hỗ trợ cho đối tượng được trang bị công cụ hỗ trợ theo quy định tại khoản 1 Điều 55 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 14/2017/QH14 ngày 20/6/2017), cụ thể:
+“1. Đối tượng được trang bị công cụ hỗ trợ baogồm:
+a) Quân đội nhân dân;
+b) Dân quân tự vệ;
+c) Cảnh sát biển; 
+d) Công an nhân dân; 
+đ) Cơ yếu; 
+e) Cơ quan điều tra của Viện kiểm sát nhân dân tối cao;
+g) Cơ quan thi hành án dân sự;
+h) Kiểm lâm, lực lượng bảo vệ rừng chuyên trách, Kiểm ngư, lực lượng trực tiếp thực hiện nhiệm vụ thanh tra chuyên ngành thủy sản;
+i) Hải quan cửa khẩu, lực lượng chuyên trách chống buôn lậu của Hải quan; 
+k) Đội kiểm tra của lực lượng Quản lý thị trường; 
+l) An ninh hàng không, lực lượng trực tiếp thực hiện nhiệm vụ thanh tra chuyên ngành giao thông vận tải; 
+m) Lực lượng bảo vệ cơ quan, tổ chức, doanh nghiệp; doanh nghiệp kinh doanh dịch vụ bảo vệ;
+n) Ban Bảo vệ dân phố; 
+o) Câu lạc bộ, cơ sở đào tạo, huấn luyện thể thao có giấy phép hoạt động;
+p) Cơ sở cai nghiện ma túy; 
+q) Các đối tượng khác có nhu cầu trang bị công cụ hỗ trợ thì căn cứ vào tính chất, yêu cầu, nhiệm vụ, Bộ trưởng Bộ Công an quyết định.”
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

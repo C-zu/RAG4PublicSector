@@ -1,0 +1,8 @@
+Tên thủ tục: Cung cấp thông tin, dữ liệu ảnh viễn thám
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 01 Phiếu yêu cầu (cá nhân, tổ chức trong nước) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2b42a1a3d9a12'">Mẫu số 02 (1).docx</a>)
+- 01 Bản chính 01 Phiếu yêu cầu (cá nhân nước ngoài; chuyên gia, thực tập sinh là người nước ngoài) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fba606244254700'">Mẫu số 03 (1).docx</a>)

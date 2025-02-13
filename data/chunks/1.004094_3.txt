@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép tài nguyên nước (TTHC cấp trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|16 Ngày làm việc||- Thời hạn kiểm tra hồ sơ: trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận hồ sơ, Văn phòng Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định hồ sơ: trong thời hạn mười (10) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định hồ sơ. - Thời hạn trả giấy phép: trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận được giấy phép của Bộ Tài nguyên và Môi trường, Văn phòng Một cửa thông báo cho tổ chức, cá nhân đề nghị cấp phép để nhận giấy phép|
+|Trực tuyến|16 Ngày làm việc||- Thời hạn kiểm tra hồ sơ: trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận hồ sơ, Văn phòng Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định hồ sơ: trong thời hạn mười (10) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định hồ sơ. - Thời hạn trả giấy phép: trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận được giấy phép của Bộ Tài nguyên và Môi trường, Văn phòng Một cửa thông báo cho tổ chức, cá nhân đề nghị cấp phép để nhận giấy phép|
+|Dịch vụ bưu chính|16 Ngày làm việc||- Thời hạn kiểm tra hồ sơ: trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận hồ sơ, Văn phòng Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định hồ sơ: trong thời hạn mười (10) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định hồ sơ. - Thời hạn trả giấy phép: trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận được giấy phép của Bộ Tài nguyên và Môi trường, Văn phòng Một cửa thông báo cho tổ chức, cá nhân đề nghị cấp phép để nhận giấy phép|

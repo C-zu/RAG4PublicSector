@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận nguồn gốc gỗ trước khi xuất khẩu.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản chính Đề nghị xác nhận nguồn gốc gỗ xuất khẩu theo Mẫu số 04 Phụ lục I kèm theo Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (có Mẫu số 04 kèm theo). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd53960fe586c1c'">Mẫu số 04. Đề nghị xác nhận nguồn gốc gỗ xuất khẩu.doc</a>)
+- 01 Bản chính - Bản chính Bảng kê gỗ xuất khẩu/tạm nhập, tái xuất theo Mẫu số 05 hoặc Bảng kê sản phẩm gỗ xuất khẩu/tạm nhập, tái xuất theo Mẫu số 06 Phụ lục I kèm theo Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (có Mẫu số 05 và Mẫu số 06 kèm theo). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7261c6a427068'">Mẫu số 05. Bảng kê gỗ xuất khẩu.tạm nhập, tái xuất.doc</a>)
+- 01 Bản sao - Bản sao hồ sơ gỗ nhập khẩu theo quy định tại Điều 7 Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam hoặc bản sao hồ sơ nguồn gốc gỗ khai thác trong nước theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về quản lý, truy xuất nguồn gốc lâm sản (Thông tư số 27/2018/TT-BNNTPNT ngày 16/11/2018).

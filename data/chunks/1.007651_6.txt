@@ -1,0 +1,42 @@
+Tên thủ tục: Thủ tục cấp mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Có Bằng tốt nghiệp cao đẳng thuộc các chuyên ngành luật, kinh tế, kỹ thuật trở lên;
+
+- Có Chứng chỉ nghiệp vụ khai hải quan.
+
+- Các trường hợp không được cấp mã số nhân viên đại lý làm thủ tục hải quan:
+
++ Người bị hạn chế hoặc mất năng lực hành vi dân sự;
+
++ Người đang bị truy cứu trách nhiệm hình sự hoặc đang phải chấp hành hình phạt tù;
+
++ Người có hành vi vi phạm pháp luật về thuế, hải quan, kiểm toán bị xử phạt vi phạm hành chính thuộc thẩm quyền của Cục trưởng Cục Thuế hoặc Cục trưởng Cục Hải quan tỉnh, thành phố trong thời hạn 01 năm kể từ ngày có quyết định xử phạt;
+
++ Cán bộ, công chức theo quy định của pháp luật về cán bộ, công chức;
+
++ Cán bộ, công chức thôi giữ chức vụ nhưng đang trong thời gian quy định không được kinh doanh theo quy định tại Nghị định số 102/2007/NĐ-CP ngày 14/6/2007 của Chính phủ về việc quy định thời hạn không được kinh doanh trong lĩnh vực trách nhiệm quản lý đối với cán bộ, công chức, viên chức sau khi thôi giữ chức vụ;
+
++ Các trường hợp bị thu hồi mã số nhân viên đại lý làm thủ tục hải quan theo quy định
+- Có Bằng tốt nghiệp cao đẳng thuộc các chuyên ngành luật, kinh tế, kỹ thuật trở lên;
+
+- Có Chứng chỉ nghiệp vụ khai hải quan.
+
+- Các trường hợp không được cấp mã số nhân viên đại lý làm thủ tục hải quan:
+
++ Người bị hạn chế hoặc mất năng lực hành vi dân sự;
+
++ Người đang bị truy cứu trách nhiệm hình sự hoặc đang phải chấp hành hình phạt tù;
+
++ Người có hành vi vi phạm pháp luật về thuế, hải quan, kiểm toán bị xử phạt vi phạm hành chính thuộc thẩm quyền của Cục trưởng Cục Thuế hoặc Cục trưởng Cục Hải quan tỉnh, thành phố trong thời hạn 01 năm kể từ ngày có quyết định xử phạt;
+
++ Cán bộ, công chức theo quy định của pháp luật về cán bộ, công chức;
+
++ Cán bộ, công chức thôi giữ chức vụ nhưng đang trong thời gian quy định không được kinh doanh theo quy định tại Nghị định số 102/2007/NĐ-CP ngày 14/6/2007 của Chính phủ về việc quy định thời hạn không được kinh doanh trong lĩnh vực trách nhiệm quản lý đối với cán bộ, công chức, viên chức sau khi thôi giữ chức vụ;
+
++ Các trường hợp bị thu hồi mã số nhân viên đại lý làm thủ tục hải quan theo quy định
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

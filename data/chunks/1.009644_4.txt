@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục điều chỉnh văn bản chấp thuận nhà đầu tư của UBND cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao Văn bản đề nghị chấp thuận điều chỉnh nhà đầu tư (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe854d04bf7e894'">Mẫu A.I.11.b.docx</a>)
+- 01 Bản chính, 03 Bản sao - Báo cáo tình hình thực hiện dự án đầu tư đến thời điểm chuyển nhượng dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4b033df70457a'">Mẫu A.I.12.docx</a>)
+- 01 Bản chính, 03 Bản sao - Hợp đồng hoặc hợp đồng nguyên tắc về việc chuyển nhượng một phần hoặc toàn bộ dự án đầu tư;
+- 04 Bản sao Bản sao tài liệu về tư cách pháp lý của nhà đầu tư chuyển nhượng và nhận chuyển nhượng;
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư; Quyết định chấp thuận chủ trương đầu tư; Quyết định chấp thuận nhà đầu tư (nếu có);
+- 03 Bản sao - Bản sao Hợp đồng BCC (đối với dự án đầu tư theo hình thức Hợp đồng BCC);
+- 03 Bản sao Bản sao một trong các tài liệu sau của nhà đầu tư nhận chuyển nhượng dự án đầu tư: báo cáo tài chính 02 năm gần nhất hoặc báo cáo kiểm toán vốn chủ sở hữu của nhà đầu tư, cam kết hỗ trợ tài chính của công ty mẹ, cam kết hỗ trợ tài chính của tổ chức tài chính, bảo lãnh về năng lực tài chính của nhà đầu tư, tài liệu thuyết minh năng lực tài chính của nhà đầu tư.

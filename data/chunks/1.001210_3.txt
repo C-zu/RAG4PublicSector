@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy xác nhận là người gốc Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày|Lệ phí : 100.000 Đồng Giấy xác nhận là người gốc Việt Nam (nộp tại Ủy ban Nhà nước về người Việt Nam ở nước ngoài, Bộ Ngoại giao)  Lệ phí : 20 USD Giấy xác nhận là người gốc Việt Nam (Nộp tai Cơ quan đại diện Việt Nam ở nước ngoài)||

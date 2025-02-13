@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : Đồng Theo quy định tại Thông tư số 85/2019/TT-BTC ngày 29/11/2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương được sửa đổi, bổ sung tại Thông tư số 106/2021/TT-BTC ngày 26/11/2021.|Qua dịch vụ bưu chính công ích hoặc trực tuyến (nếu có) hoặc trực tiếp tới Sở Lao động - Thương binh và Xã hội nơi người lao động nước ngoài dự kiến làm việc. Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Phí : Đồng Theo quy định tại Thông tư số 85/2019/TT-BTC ngày 29/11/2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương được sửa đổi, bổ sung tại Thông tư số 106/2021/TT-BTC ngày 26/11/2021.|Qua dịch vụ bưu chính công ích hoặc trực tuyến (nếu có) hoặc trực tiếp tới Sở Lao động - Thương binh và Xã hội nơi người lao động nước ngoài dự kiến làm việc. Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : Đồng Theo quy định tại Thông tư số 85/2019/TT-BTC ngày 29/11/2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương được sửa đổi, bổ sung tại Thông tư số 106/2021/TT-BTC ngày 26/11/2021.|Qua dịch vụ bưu chính công ích hoặc trực tuyến (nếu có) hoặc trực tiếp tới Sở Lao động - Thương binh và Xã hội nơi người lao động nước ngoài dự kiến làm việc. Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|

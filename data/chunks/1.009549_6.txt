@@ -1,0 +1,36 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ thành viên do tăng, giảm vốn điều lệ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1) Điều lệ quỹ có quy định việc tăng, giảm vốn điều lệ.
+2) Được Đại hội nhà đầu tư quỹ thông qua việc tăng, giảm vốn điều lệ quỹ, phương án tăng, giảm vốn điều lệ và Điều lệ quỹ sửa đổi.
+3) Sau khi điều chỉnh vốn, quỹ vẫn đáp ứng các điều kiện sau đây:
+a) Vốn góp tối thiểu là 50 tỷ đồng;
+b) Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+c) Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+d) Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+4) Trường hợp tăng vốn, công ty quản lý quỹ đầu tư chứng khoán đáp ứng quy định có tối thiểu 02 người điều hành quỹ có chứng chỉ hành nghề quản lý quỹ; không bị đặt vào tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoặc chưa thực hiện đầy đủ các hình thức xử phạt, biện pháp khắc phục hậu quả theo quyết định xử phạt hành vi vi phạm pháp luật chứng khoán và thị trường chứng khoán.
+5) Việc góp vốn được thực hiện bằng tiền hoặc các loại chứng khoán đang niêm yết, đăng ký giao dịch tại Sở giao dịch chứng khoán. Việc góp vốn bằng chứng khoán phải bảo đảm:
+a) Nhà đầu tư góp vốn không bị hạn chế chuyển nhượng đối với số tài sản dự kiến đưa vào quỹ; không phải là tài sản bảo đảm đang được cầm cố, thế chấp, ký quỹ, ký cược, bị phong tỏa hoặc trong các giao dịch tài sản bảo đảm khác theo quy định của pháp luật dân sự;
+b) Tài sản đưa vào quỹ phải đáp ứng Điềulệ quỹ, mục tiêu đầu tư, chính sách đầu tư của quỹ; không phải là loại tài sản đang có trong danh mục đầu tư của quỹ nhưng sắp thanh lý, thoái vốn; không phải là các loại chứng khoán bị đình chỉ, tạm ngừng giao dịch, hủy bỏ niêm yết hoặc chứng khoán của các tổ chức phát hành đang trong tình trạng thanh lý, giải thể, phá sản;
+c) Việc góp vốn bằng tài sản phải được sự chấp thuận của tất cả các nhà đầu tư của quỹ, và chỉ được coi là đã hoàn tất sau khi quyền sở hữu hợp pháp đối với tài sản góp vốn đã chuyển sang quỹ. Việc chuyển quyền sở hữu thực hiện theo hướng dẫn của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam;
+d) Việc định giá tài sản góp vốn phải theo Điềulệ quỹ và các quy định pháp luật khác liên quan. Giá trị tài sản đưa vào quỹ được xác định trên cơ sở giá cuối ngày tại ngày hoàn tất thủ tục chuyển quyền sở hữu tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+6) Trường hợp giảm vốn, tài sản phân bổ cho các nhà đầu tư là tiền hoặc các tài sản khác. Công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký có trách nhiệm phân bổ tài sản một cách công bằng, tương ứng với tỷ lệ vốn góp của mỗi nhà đầu tư tham gia góp vốn vào quỹ.
+1) Điều lệ quỹ có quy định việc tăng, giảm vốn điều lệ.
+2) Được Đại hội nhà đầu tư quỹ thông qua việc tăng, giảm vốn điều lệ quỹ, phương án tăng, giảm vốn điều lệ và Điều lệ quỹ sửa đổi.
+3) Sau khi điều chỉnh vốn, quỹ vẫn đáp ứng các điều kiện sau đây:
+a) Vốn góp tối thiểu là 50 tỷ đồng;
+b) Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+c) Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+d) Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+4) Trường hợp tăng vốn, công ty quản lý quỹ đầu tư chứng khoán đáp ứng quy định có tối thiểu 02 người điều hành quỹ có chứng chỉ hành nghề quản lý quỹ; không bị đặt vào tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoặc chưa thực hiện đầy đủ các hình thức xử phạt, biện pháp khắc phục hậu quả theo quyết định xử phạt hành vi vi phạm pháp luật chứng khoán và thị trường chứng khoán.
+5) Việc góp vốn được thực hiện bằng tiền hoặc các loại chứng khoán đang niêm yết, đăng ký giao dịch tại Sở giao dịch chứng khoán. Việc góp vốn bằng chứng khoán phải bảo đảm:
+a) Nhà đầu tư góp vốn không bị hạn chế chuyển nhượng đối với số tài sản dự kiến đưa vào quỹ; không phải là tài sản bảo đảm đang được cầm cố, thế chấp, ký quỹ, ký cược, bị phong tỏa hoặc trong các giao dịch tài sản bảo đảm khác theo quy định của pháp luật dân sự;
+b) Tài sản đưa vào quỹ phải đáp ứng Điềulệ quỹ, mục tiêu đầu tư, chính sách đầu tư của quỹ; không phải là loại tài sản đang có trong danh mục đầu tư của quỹ nhưng sắp thanh lý, thoái vốn; không phải là các loại chứng khoán bị đình chỉ, tạm ngừng giao dịch, hủy bỏ niêm yết hoặc chứng khoán của các tổ chức phát hành đang trong tình trạng thanh lý, giải thể, phá sản;
+c) Việc góp vốn bằng tài sản phải được sự chấp thuận của tất cả các nhà đầu tư của quỹ, và chỉ được coi là đã hoàn tất sau khi quyền sở hữu hợp pháp đối với tài sản góp vốn đã chuyển sang quỹ. Việc chuyển quyền sở hữu thực hiện theo hướng dẫn của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam;
+d) Việc định giá tài sản góp vốn phải theo Điềulệ quỹ và các quy định pháp luật khác liên quan. Giá trị tài sản đưa vào quỹ được xác định trên cơ sở giá cuối ngày tại ngày hoàn tất thủ tục chuyển quyền sở hữu tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+6) Trường hợp giảm vốn, tài sản phân bổ cho các nhà đầu tư là tiền hoặc các tài sản khác. Công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký có trách nhiệm phân bổ tài sản một cách công bằng, tương ứng với tỷ lệ vốn góp của mỗi nhà đầu tư tham gia góp vốn vào quỹ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

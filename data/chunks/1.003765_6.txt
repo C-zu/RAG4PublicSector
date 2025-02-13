@@ -1,0 +1,24 @@
+Tên thủ tục: Gia hạn Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Là doanh nghiệp được thành lập tại Việt Nam theo quy định của pháp luật và chưa từng bị thu hồi giấy chứng nhận đăng ký hoạt động bán hàng đa cấp;
+- Có vốn điều lệ từ 10 tỷ đồng trở lên;
+- Thành viên đối với công ty hợp danh, chủ sở hữu đối với doanh nghiệp tư nhân hoặc công ty trách nhiệm hữu hạn một thành viên, thành viên đối với công ty trách nhiệm hữu hạn có từ hai thành viên trở lên, cổ đông sáng lập đối với công ty cổ phần, người đại diện theo pháp luật của doanh nghiệp không bao gồm tổ chức hoặc cá nhân từng giữ một trong các chức vụ nêu trên tại doanh nghiệp bán hàng đa cấp đã bị thu hồi giấy chứng nhận đăng ký hoạt động bán hàng đa cấp theo quy định của Nghị định 42/2014/NĐ-CP ngày 14 tháng 5 năm 2014 của Chính phủ về quản lý hoạt động bán hàng đa cấp và Nghị định số 40/2018/NĐ-CP;
+- Ký quỹ tại một ngân hàng thương mại hoặc chi nhánh ngân hàng nước ngoài tại Việt Nam số tiền 5% vốn điều lệ nhưng không thấp hơn 10 tỷ đồng;
+- Có mẫu hợp đồng tham gia bán hàng đa cấp, quy tắc hoạt động, kế hoạch trả thưởng, chương trình đào tạo cơ bản rõ ràng, minh bạch và phù hợp với quy định của Nghị định số 40/2018/NĐ-CP.;
+- Có hệ thống công nghệ thông tin quản lý mạng lưới người tham gia bán hàng đa cấp, trang thông tin điện tử để cung cấp thông tin về doanh nghiệp và hoạt động bán hàng đa cấp của doanh nghiệp;
+- Có hệ thống thông tin liên lạc để tiếp nhận, giải quyết thắc mắc, khiếu nại của người tham gia bán hàng đa cấp.
+- Trong trường hợp tổ chức đăng ký hoạt động bán hàng đa cấp là doanh nghiệp có nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài là chủ sở hữu hoặc thành viên hoặc cổ đông, tất cả các nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đó phải có thời gian hoạt động bán hàng đa cấp trong thực tế tối thiểu là 03 năm liên tục ở một nước, vùng lãnh thổ trên thế giới.
+- Là doanh nghiệp được thành lập tại Việt Nam theo quy định của pháp luật và chưa từng bị thu hồi giấy chứng nhận đăng ký hoạt động bán hàng đa cấp;
+- Có vốn điều lệ từ 10 tỷ đồng trở lên;
+- Thành viên đối với công ty hợp danh, chủ sở hữu đối với doanh nghiệp tư nhân hoặc công ty trách nhiệm hữu hạn một thành viên, thành viên đối với công ty trách nhiệm hữu hạn có từ hai thành viên trở lên, cổ đông sáng lập đối với công ty cổ phần, người đại diện theo pháp luật của doanh nghiệp không bao gồm tổ chức hoặc cá nhân từng giữ một trong các chức vụ nêu trên tại doanh nghiệp bán hàng đa cấp đã bị thu hồi giấy chứng nhận đăng ký hoạt động bán hàng đa cấp theo quy định của Nghị định 42/2014/NĐ-CP ngày 14 tháng 5 năm 2014 của Chính phủ về quản lý hoạt động bán hàng đa cấp và Nghị định số 40/2018/NĐ-CP;
+- Ký quỹ tại một ngân hàng thương mại hoặc chi nhánh ngân hàng nước ngoài tại Việt Nam số tiền 5% vốn điều lệ nhưng không thấp hơn 10 tỷ đồng;
+- Có mẫu hợp đồng tham gia bán hàng đa cấp, quy tắc hoạt động, kế hoạch trả thưởng, chương trình đào tạo cơ bản rõ ràng, minh bạch và phù hợp với quy định của Nghị định số 40/2018/NĐ-CP.;
+- Có hệ thống công nghệ thông tin quản lý mạng lưới người tham gia bán hàng đa cấp, trang thông tin điện tử để cung cấp thông tin về doanh nghiệp và hoạt động bán hàng đa cấp của doanh nghiệp;
+- Có hệ thống thông tin liên lạc để tiếp nhận, giải quyết thắc mắc, khiếu nại của người tham gia bán hàng đa cấp.
+- Trong trường hợp tổ chức đăng ký hoạt động bán hàng đa cấp là doanh nghiệp có nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài là chủ sở hữu hoặc thành viên hoặc cổ đông, tất cả các nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đó phải có thời gian hoạt động bán hàng đa cấp trong thực tế tối thiểu là 03 năm liên tục ở một nước, vùng lãnh thổ trên thế giới.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

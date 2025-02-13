@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục công bố sử dụng dấu định lượng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Bản công bố sử dụng dấu định lượng trên nhãn hàng đóng gói sẵn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe00662b3c85594'">Mẫu 1. CBDĐL.doc</a>)

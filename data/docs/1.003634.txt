@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003634
+Số quyết định:
+Quyết định số: 676/QĐ-BNN-TCTS
+Tên thủ tục:
+Cấp lại giấy chứng nhận đăng ký tàu cá
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+2.1. Trình tự thực hiện:
+a) Tổ chức, cá nhân nộp 01 bộ hồ sơ đến Cơ quan quản lý nhà nước về thủy sản cấp tỉnh;
+b) Trường hợp nộp hồ sơ trực tiếp: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ; 
+c) Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh có văn bản thông báo rõ cho tổ chức, cá nhân bổ sung;
+d) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh cấp lại Giấy chứng nhận đăng ký tàu cá. Trường hợp không cấp lại Giấy chứng nhận đăng ký tàu cá, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.  
+đ) Cách thức trả kết quả: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh trả kết quả tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|03 Ngày làm việc||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|03 Ngày làm việc||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Tờ khai đề nghị cấp lại Giấy chứng nhận đăng ký tàu cá theo Mẫu số 07.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 07.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe79964241280b1'))
+- 01 Bản chính b) Bản chính Giấy chứng nhận đăng ký tàu cá hoặc Giấy xác nhận đã đăng ký, Giấy chứng nhận đăng ký tàu công vụ thủy sản cũ; trường hợp Giấy chứng nhận đăng ký tàu cá bị mất, chủ tàu phải khai báo và nêu rõ lý do;
+- 01 Bản sao c) Bản sao chụp Giấy chứng nhận an toàn kỹ thuật của tàu cá có chiều dài lớn nhất từ 12 mét trở lên;
+- 01 Bản chính d) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan quản lý nhà nước về thủy sản cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+giấy chứng nhận đăng ký tàu cá
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|23/2018/TT-BNNPTNT|Thông tư 23/2018/TT-BNNPTNT|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|01/2022/TT-BNNPTNT|Thông tư 01/2022/TT-BNNPTNT|18-01-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

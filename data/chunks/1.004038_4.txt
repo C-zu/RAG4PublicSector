@@ -1,0 +1,20 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch thực vật nhập khẩu, kiểm tra nhà nước về an toàn thực phẩm hàng hóa có nguồn gốc thực vật nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp chỉ thực hiện thủ tục kiểm dịch thực vật nhập khẩu
+- 01 Bản chính Giấy đăng ký kiểm dịch thực vật (theo mẫu qui định tại Phụ lục I ban hành kèm theo Thông tư 33/2014/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2010b19b03630'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản sao chụp hoặc bản điện tử hoặc bản chính Giấy chứng nhận kiểm dịch thực vật do cơ quan kiểm dịch thực vật có thẩm quyền của nước xuất khẩu cấp; Trường hợp chủ vật thể nộp bản sao chụp hoặc bản điện tử thì phải nộp bản chính trước khi được cấp Giấy chứng nhận kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa cho lô vật thể.
+- 01 Bản chính - Bản chính hoặc bản điện tử hoặc bản sao chứng thực Giấy phép kiểm dịch thực vật nhập khẩu (trường hợp quy định phải có Giấy phép).
+ Số lượng hồ sơ: 01 bộ.
+
+
+Trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về an toàn thực phẩm nhập khẩu
+- 01 Bản chính Giấy đăng ký kiểm dịch thực vật và kiểm tra an toàn thực phẩm hàng hóa có nguồn gốc thực vật nhập khẩu (theo mẫu quy định tại Phụ lục Ia ban hành kèm theo Thông tư số 34/2018/TT-BNNPTNT); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee77d9a2236982'">Phụ lục Ia.docx</a>)
+- 01 Bản chính - Bản sao chụp hoặc bản điện tử hoặc bản chính Giấy chứng nhận kiểm dịch thực vật do cơ quan kiểm dịch thực vật có thẩm quyền của nước xuất khẩu cấp; Trường hợp chủ vật thể nộp bản sao chụp hoặc bản điện tử thì phải nộp bản chính trước khi được cấp Giấy chứng nhận kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa cho lô vật thể.
+- 01 Bản chính - Bản chính hoặc bản điện tử hoặc bản sao chứng thực Giấy phép kiểm dịch thực vật nhập khẩu (trường hợp quy định phải có Giấy phép;
+- 01 Bản chính - Bản tự công bố sản phẩm
+- 01 Bản chính - 03 (ba) Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu liên tiếp theo phương thức kiểm tra chặt đối với các lô hàng, mặt hàng được chuyển đổi phương thức từ kiểm tra chặt sang kiểm tra thông thường (bản chính);
+- 01 Bản sao - Bản sao Danh mục hàng hóa (Packing list).
+ Số lượng hồ sơ: 01 bộ.

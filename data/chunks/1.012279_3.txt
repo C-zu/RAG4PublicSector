@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép hoạt động khám bệnh, chữa bệnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 1500000 Đồng không thu phí đối với trường hợp cấp sai do lỗi của cơ quan có thẩm quyền cấp|20 ngày kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|20 Ngày|Phí : 1500000 Đồng không thu phí đối với trường hợp cấp sai do lỗi của cơ quan có thẩm quyền cấp|20 ngày kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|20 Ngày|Phí : 1500000 Đồng không thu phí đối với trường hợp cấp sai do lỗi của cơ quan có thẩm quyền cấp|20 ngày kể từ ngày nhận đủ hồ sơ|

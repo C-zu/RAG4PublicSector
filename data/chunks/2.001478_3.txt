@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp mới Giấy chứng nhận đủ điều kiện về an ninh, trật tự (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 300.000 Đồng|Nộp hồ sơ, trả kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 300.000 Đồng|Nộp hồ sơ, nhận kết quả qua Cổng dịch vụ công (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 300.000 Đồng|Nộp hồ sơ, trả kết quả qua dịch vụ bưu chính.|

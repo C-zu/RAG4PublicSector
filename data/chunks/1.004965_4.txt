@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu giống cây trồng nông nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Văn bản đề nghị cấp giấy phép nhập khẩu theo Mẫu số 03/TT Phụ lục I ban hành kèm theo Thông tư số 43/2018/TT-BNNPTNT ngày 28/12/2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcaa69338238980'">mau 3.doc</a>)
+- 01 Bản chính b) Tờ khai kỹ thuật theo Mẫu số 04/TT Phụ lục I ban hành kèm theo Thông tư số 43/2018/TT-BNNPTNT ngày 28/12/2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (chỉ nộp khi nhập khẩu lần đầu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef21410f0a2436'">mau 4.doc</a>)
+- 01 Bản chính c) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh (đối với trường hợp phải đăng ký) hoặc Giấy chứng nhận đăng ký đầu tư (đối với trường hợp doanh nghiệp có vốn đầu tư nước ngoài); chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (đối với cá nhân);
+- 01 Bản chính d) Trường hợp giống cây trồng nhập khẩu lần thứ hai trở đi để khảo nghiệm, sản xuất thử phải nộp báo cáo kết quả nhập khẩu, khảo nghiệm, sản xuất thử lần nhập trước;
+- 01 Bản chính đ) Trường hợp nhập khẩu phục vụ nghiên cứu, khảo nghiệm, hợp tác quốc tế phải bổ sung 01 bản sao thỏa thuận hợp tác bằng tiếng nước ngoài kèm theo 01 bản dịch sang tiếng Việt có xác nhận của cơ quan dịch thuật;
+- 01 Bản chính e) Trường hợp nhập khẩu tham gia hội chợ, triển lãm phải bổ sung Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm tại Việt Nam;
+- 01 Bản chính g) Trường hợp nhập khẩu làm quà tặng phải bổ sung 01 bản sao giấy xác nhận giữa hai bên bằng tiếng nước ngoài kèm theo 01 bản dịch sang tiếng Việt có xác nhận của cơ quan dịch thuật;
+- 01 Bản chính h) Trường hợp nhập khẩu để thực hiện các chương trình, dự án đầu tư, hồ sơ phải bổ sung bản sao (mang theo bản chính để đối chiếu) hoặc bản sao có chứng thực của văn bản phê duyệt hoặc chấp thuận chương trình, dự án đầu tư của cơ quan nhà nước có thẩm quyền hoặc dự án được doanh nghiệp phê duyệt theo quy định của pháp luật;
+- 01 Bản chính i) Trường hợp nhập khẩu giống cây trồng để phục vụ dự án xây dựng đường giao thông phải bổ sung bản sao chứng thực Giấy chứng nhận lưu hành tự do (Certificate of Free Sale - CFS) do cơ quan có thẩm quyền của nước xuất khẩu cấp hoặc bản sao có chứng thực một trong các giấy tờ sau: Giấy công nhận giống cây trồng mới; Giấy xác nhận giống cây trồng không nằm trong Danh mục cấm sử dụng của nước xuất khẩu; Giấy chứng nhận khác có nội dung tương tự kèm theo bản dịch ra tiếng Việt có xác nhận của cơ quan dịch thuật hoặc kết quả nghiên cứu, khảo nghiệm tại Việt Nam cho thấy giống cây trồng an toàn với môi trường.

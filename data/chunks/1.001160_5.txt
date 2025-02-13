@@ -1,0 +1,22 @@
+Tên thủ tục: Gia hạn đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn thực phẩm - Bộ Y tế
+Cơ quan có thẩm quyền:
+Cục An toàn thực phẩm - Bộ Y tế
+Địa chỉ tiếp nhận HS:
+Cục An toàn thực phẩm - Bộ Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận gia hạn đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2010/QH12|Luật 55/2010/QH12-An toàn thực phẩm|17-06-2010|Quốc Hội|
+|38/2012/NĐ-CP|Nghị định 38/2012/NĐ-CP-Quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm|25-04-2012|Chính phủ|

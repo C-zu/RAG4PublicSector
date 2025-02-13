@@ -1,0 +1,14 @@
+Tên thủ tục: Thẩm định báo cáo đánh giá tác động môi trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ nộp lại sau khi họp hội đồng
+- 01 Bản chính 1. Văn bản đề nghị phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường, trong đó giải trình rõ những nội dung đã được chỉnh sửa, bổ sung theo kết quả thẩm định, trừ trường hợp không phải chỉnh sửa, bổ sung
+- 01 Bản chính 2. Báo cáo đánh giá tác động môi trường được đóng quyển gáy cứng, tổ chức/cá nhân ký vào phía dưới của từng trang hoặc đóng dấu giáp lai báo cáo kể cả phụ lục kèm theo đĩa CD trong đó chứa tệp văn bản điện tử định dạng đuôi “.doc” chứa nội dung của báo cáo và tệp văn bản điện tử định dạng đuôi “.pdf” chứa nội dung đã quét (scan) của toàn bộ báo cáo (bao gồm cả phụ lục).
+
+
+Hồ sơ đề nghị thẩm định
+- 01 Bản chính 1. Văn bản đề nghị thẩm định báo cáo đánh giá tác động môi trường theo Mẫu số 02 Phụ lục II ban hành kèm theo Thông tư số 02/2022/TT-BTNMT ngày 10 tháng 01 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f91fb2d8ce5c680'">Mau 01 VB de nghi thham dinh BC danh gia tac dong moi truong.docx</a>)
+- 01 Bản chính 2. Báo cáo nghiên cứu khả thi hoặc báo cáo kinh tế - kỹ thuật của dự án đầu tư hoặc các tài liệu tương đương
+- 01 Bản chính 3. Báo cáo đánh giá tác động môi trường theo Mẫu số 04 Phụ lục II ban hành kèm theo Thông tư số 02/2022/TT-BTNMT ngày 10 tháng 01 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe04693a6ae9a5c'">Noi dung BC danh gia tac dong moi truong.docx</a>)

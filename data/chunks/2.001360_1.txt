@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục tuyển sinh theo chế độ cử tuyển đại học, cao đẳng, trung cấp chuyên nghiệp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001360
+Số quyết định:
+3002/QĐ-BQP
+Tên thủ tục:
+Thủ tục tuyển sinh theo chế độ cử tuyển đại học, cao đẳng, trung cấp chuyên nghiệp
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tuyển sinh quân sự

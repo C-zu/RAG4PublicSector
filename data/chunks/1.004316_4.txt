@@ -1,0 +1,8 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 bản chính văn bản đề nghị điều chỉnh nội dung giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường (mẫu quy định tại Phụ lục XXVII ban hành kèm theo Nghị định số 08/2022/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1a75941d69cba'">Mau 01_Don de nghi dieu chinh GCN.docx</a>)
+- 01 Bản chính - 01 bản chính hồ sơ năng lực của tổ chức (mẫu quy định tại Phụ lục XXVI ban hành kèm theo Nghị định số 08/2022/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc1d0ad164dd57c'">Mau 02_Ho so nang luc cap.dieu chinh GCN.docx</a>)

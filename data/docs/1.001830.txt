@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001830
+Số quyết định:
+1322/QĐ-BGTVT
+Tên thủ tục:
+Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh khai thác cảng biển
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Doanh nghiệp cảng gửi hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh khai thác cảng biển trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến Cục Hàng hải Việt Nam.
+- Việc cấp lại Giấy chứng nhận được thực hiện trong trường hợp có sự thay đổi nội dung ghi trong Giấy chứng nhận hoặc Giấy chứng nhận bị mất, bị hư hỏng.
+b) Giải quyết TTHC:
+- Cục Hàng hải Việt Nam tiếp nhận hồ sơ; trường hợp hồ sơ chưa hợp lệ, trong thời hạn 02 ngày làm việc kể từ ngày nhận hồ sơ, Cục Hàng hải Việt Nam hướng dẫn doanh nghiệp hoàn thiện hồ sơ theo quy định; nếu hồ sơ hợp lệ thì cấp giấy biên nhận hồ sơ.
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Hàng hải Việt Nam kiểm tra, cấp lại Giấy chứng nhận và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến doanh nghiệp cảng; trường hợp không cấp lại Giấy chứng nhận, Cục Hàng hải Việt Nam phải có văn bản trả lời và nêu rõ lý do
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||- Trong thời hạn 03 ngày làm việc, kể từ ngày đã nhận đủ các hồ sơ hợp lệ.|
+|Trực tuyến|3 Ngày làm việc||- Trong thời hạn 03 ngày làm việc, kể từ ngày đã nhận đủ các hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày đã nhận đủ các hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ khai đề nghị cấp lại Giấy chứng nhận theo mẫu; ([mẫu tờ khai.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3526975619d01'))
+- 01 Bản chính, 01 Bản sao - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính Giấy chứng nhận đăng ký doanh nghiệp (đối với trường hợp thay đổi thông tin về doanh nghiệp);
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính Phương án khai thác cảng biển của doanh nghiệp cảng (đối với trường hợp thay đổi nội dung về vị trí hoặc quy mô, công năng của cảng biển).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục hàng hải VN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Giấy chứng nhận đủ điều kiện kinh doanh khai thác cảng biển.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|37/2017/NĐ-CP|Về điều kiện kinh doanh khai thác cảng biển|04-04-2017|Chính phủ|
+|69/2022/NĐ-CP|Nghị định 69/2022/NĐ-CP|23-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

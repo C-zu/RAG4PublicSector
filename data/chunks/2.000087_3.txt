@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định thiết kế tàu biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|18 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/01 giấy chứng nhận  Mức giá : Đồng Giá thẩm định: Theo Thông tư số 234/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính.|- 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày.|
+|Trực tuyến|18 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/01 giấy chứng nhận  Mức giá : Đồng Giá thẩm định: Theo Thông tư số 234/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính.|- 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày.|
+|Dịch vụ bưu chính|18 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/01 giấy chứng nhận  Mức giá : Đồng Giá thẩm định: Theo Thông tư số 234/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính.|- 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày.|

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp lại mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Lập hồ sơ:
+
+Nhân viên đại lý làm thủ tục hải quan được cấp mã số nhân viên đại lý làm thủ tục hải quan còn thời hạn sử dụng trong trường hợp:
+
++ Thẻ nhân viên đại lý làm thủ tục hải quan bị mất và được đại lý làm thủ tục hải quan xác nhận tại Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan.
+
++ Đại lý làm thủ tục hải quan có thay đổi tên đăng ký kinh doanh.
+
++ Nhân viên đại lý làm thủ tục hải quan có thay đổi số định danh cá nhân hoặc số chứng minh nhân dân hoặc số căn cước công dân
+Bước 2: Cấp lại mã số nhân viên đại lý làm thủ tục hải quan:
+
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ và điều kiện theo quy định; Tổng cục trưởng Tổng cục Hải quan thực hiện cấp lại mã số nhân viên đại lý làm thủ tục hải quan. Trường hợp không đủ điều kiện thì có văn bản trả lời doanh nghiệp.

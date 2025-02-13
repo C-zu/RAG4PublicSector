@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận tên định danh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp lại Giấy chứng nhận tên định danh
+- 01 Bản chính, 01 Bản sao Bản khai cấp lại tên định danh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1b8f58fce18e2'">Bản khai đăng ký tên định danh.docx</a>)
+- 01 Bản chính, 01 Bản sao Các giấy tờ khác có liên quan (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7d80de1d58706'">Giấy ủy quyền.docx</a>)

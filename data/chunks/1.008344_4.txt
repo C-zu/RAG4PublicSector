@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế thu nhập doanh nghiệp đối với hoạt động chuyển nhượng vốn của nhà thầu nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp (1)
+- 01 Bản chính ++ Tờ khai thuế thu nhập doanh nghiệp (áp dụng đối với thu nhập từ chuyển nhượng vốn) theo mẫu số 05/TNDN ban hành kèm theo Thông tư số 80/2021/TT-BTC; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6eeb7e6c5dc38'">Mẫu 05.TNDN.docx</a>)
+- 01 Bản sao ++ Bản sao hợp đồng chuyển nhượng, Bản sao chứng nhận vốn góp, chứng từ gốc của các khoản chi phí (nếu có).
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ.

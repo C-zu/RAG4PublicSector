@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục giải quyết tố cáo tại cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|khác||Theo quy định tại Điều 21 Luật tố cáo: thời hạn giải quyết tố cáo là 60 ngày, kể từ ngày thụ lý giải quyết tố cáo; đối với vụ việc phức tạp thì thời hạn giải quyết là 90 ngày, kể từ ngày thụ lý giải quyết tố cáo. Trường hợp cần thiết, người có thẩm quyền giải quyết tố cáo có thể gia hạn giải quyết một lần nhưng không quá 30 ngày; đối với vụ việc phức tạp thì không quá 60 ngày.|
+|Dịch vụ bưu chính|Khác||Theo quy định tại Điều 21 Luật tố cáo: thời hạn giải quyết tố cáo là 60 ngày, kể từ ngày thụ lý giải quyết tố cáo; đối với vụ việc phức tạp thì thời hạn giải quyết là 90 ngày, kể từ ngày thụ lý giải quyết tố cáo. Trường hợp cần thiết, người có thẩm quyền giải quyết tố cáo có thể gia hạn giải quyết một lần nhưng không quá 30 ngày; đối với vụ việc phức tạp thì không quá 60 ngày.|

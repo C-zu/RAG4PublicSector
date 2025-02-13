@@ -1,0 +1,8 @@
+Tên thủ tục: Khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản, phiếu yêu cầu cung cấp thông tin, dữ liệu tài nguyên và môi trường (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcf8aa3f46f14c'">Mẫu số 02.docx</a>)
+- 01 Bản chính Phiếu yêu cầu cung cấp thông tin, dữ liệu tài nguyên và môi trường đối với cá nhân nước ngoài tại Việt Nam (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febd83c603559c8'">Mẫu số 03.docx</a>)

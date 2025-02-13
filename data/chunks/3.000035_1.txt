@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000035
+Số quyết định:
+309/QĐ-BTC
+Tên thủ tục:
+Thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Tài chính ngân hàng

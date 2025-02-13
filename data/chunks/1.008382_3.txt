@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm nông, lâm, thủy sản, trước 6 tháng tính đến ngày Giấy chứng nhận hết hạn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 700.000 Đồng Phí thẩm định cơ sở sản xuất, kinh doanh thực phẩm (lần/cơ sở)|Kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|15 Ngày làm việc|Phí : 700.000 Đồng Phí thẩm định cơ sở sản xuất, kinh doanh thực phẩm (lần/cơ sở)|Kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 700.000 Đồng Phí thẩm định cơ sở sản xuất, kinh doanh thực phẩm (lần/cơ sở)|Kể từ ngày nhận đủ hồ sơ hợp lệ|

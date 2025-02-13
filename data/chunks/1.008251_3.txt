@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định thiết kế cơ sở
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : Theo dự án Đồng Số phí thẩm định thiết kế cơ sở = Tổng mức đầu được phê duyệt x 50% Mức thu|Đối với dự án nhóm B|
+|Trực tiếp|10 Ngày làm việc||Đối với dự án nhóm A|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : Theo dự án Đồng Số phí thẩm định thiết kế cơ sở = Tổng mức đầu được phê duyệt x 50% Mức thu|Đối với dự án nhóm B|
+|Dịch vụ bưu chính|10 Ngày làm việc||Đối với dự án nhóm A|

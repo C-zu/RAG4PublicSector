@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ học tập đối với trẻ mẫu giáo, học sinh tiểu học, học sinh trung học cơ sở, sinh viên các dân tộc thiểu số rất ít người
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||- Đối với trẻ mẫu giáo, học sinh, sinh viên học tại các cơ sở giáo dục công lập: Thời hạn ra quyết định là 10 ngày làm việc kể từ ngày hết hạn nhận đơn. - Đối với trẻ mẫu giáo, học sinh, sinh viên học tại các cơ sở giáo dục ngoài công lập: Thời hạn ra quyết định là 40 ngày làm việc kể từ ngày khai giảng năm học.|
+|Trực tuyến|Không quy định||- Đối với trẻ mẫu giáo, học sinh, sinh viên học tại các cơ sở giáo dục công lập: Thời hạn ra quyết định là 10 ngày làm việc kể từ ngày hết hạn nhận đơn. - Đối với trẻ mẫu giáo, học sinh, sinh viên học tại các cơ sở giáo dục ngoài công lập: Thời hạn ra quyết định là 40 ngày làm việc kể từ ngày khai giảng năm học.|
+|Dịch vụ bưu chính|Không quy định||- Đối với trẻ mẫu giáo, học sinh, sinh viên học tại các cơ sở giáo dục công lập: Thời hạn ra quyết định là 10 ngày làm việc kể từ ngày hết hạn nhận đơn. - Đối với trẻ mẫu giáo, học sinh, sinh viên học tại các cơ sở giáo dục ngoài công lập: Thời hạn ra quyết định là 40 ngày làm việc kể từ ngày khai giảng năm học.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Chuyển đổi loại hình Văn phòng giám định tư pháp cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày||kể từ ngày nhận đủ hồ sơ hợp lệ của Văn phòng giám định tư pháp, Sở Tư pháp trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển đổi loại hình Văn phòng giám định tư pháp. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển đổi loại hình Văn phòng giám định tư pháp.|
+|Dịch vụ bưu chính|7 Ngày||kể từ ngày nhận đủ hồ sơ hợp lệ của Văn phòng giám định tư pháp, Sở Tư pháp trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển đổi loại hình Văn phòng giám định tư pháp. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển đổi loại hình Văn phòng giám định tư pháp.|

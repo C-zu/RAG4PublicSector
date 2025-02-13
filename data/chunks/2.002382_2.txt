@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục sửa đổi giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị X-quang chẩn đoán trong y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+	Tổ chức, cá nhân phải đề nghị sửa đổi giấy phép trong các trường hợp sau:
+- Thay đổi các thông tin về tổ chức, cá nhân được ghi trong giấy phép bao gồm tên, địa chỉ, số điện thoại, số fax;
+- Giảm số lượng thiết bị bức xạ trong giấy phép do chuyển nhượng, xuất khẩu, chấm dứt sử dụng, chấm dứt vận hành hoặc bị mất;
+- Hiệu chỉnh lại thông tin về thiết bị bức xạ trong trường hợp phát hiện thông tin về thiết bị bức xạ trong giấy phép chưa chính xác so với thực tế;
+- Có nhiều giấy phép còn hiệu lực do cùng một cơ quan có thẩm quyền cấp.
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị sửa đổi Giấy phép tiến hành công việc bức xạ sử dụng thiết bị X - quang chẩn đoán trong y tế đến UBND cấp tỉnh.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, UBND cấp tỉnhkiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí (nếu có) đối với hồ sơ hợp lệ hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nểu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 10 ngày kể từ ngày nhận được phí, lệ phí (nếu có) và hồ sơ đầy đủ, hợp lệ, UBND cấp tỉnh tổ chức thẩm định hồ sơ và cấp sửa đổi giấy phép tiến hành công việc bức xạ (sử dụng thiết bị X - quang chấn đoán trong y tế).
+Trường hợp không cấp sửa đổi giấy phép, UBND cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.

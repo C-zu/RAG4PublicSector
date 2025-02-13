@@ -1,0 +1,10 @@
+Tên thủ tục: Công bố đủ điều kiện mua bán trang thiết bị y tế thuộc loại B, C, D
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản công bố đủ điều kiện mua bán trang thiết bị y tế thuộc loại B, C, D theo Mẫu số 04 thuộc Phụ lục I ban hành kèm theo Thông tư số 19/2021/TT-BYT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbd7d41311bbfc8'">Mẫu số 4 VĂN BẢN CÔNG BỐ.docx</a>)
+- 01 Bản chính Bản kê khai nhân sự theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 19/2021/TT-BYT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe519a92afe164a'">MẪU BẢN KÊ KHAI NHÂN SỰ.docx</a>)
+- 01 Bản chính Các giấy tờ chứng minh kho bảo quản, phương tiện vận chuyển trang thiết bị y tế đáp ứng các yêu cầu theo quy định tại khoản 2 Điều 40 Nghị định 98/2021/NĐ-CP. Các giấy tờ này phải được xác nhận bởi cơ sở công bố đủ điều kiện mua bán;
+- 01 Bản chính Các giấy tờ chứng minh kho bảo quản, hệ thống theo dõi quản lý quá trình xuất, nhập, tồn kho trang thiết bị y tế có chứa chất ma túy và tiền chất đáp ứng các yêu cầu theo quy định tại khoản 3 Điều 40 Nghị định 98/2021/NĐ-CP. Các giấy tờ này phải được xác nhận bởi cơ sở công bố đủ điều kiện mua bán trang thiết bị y tế có chứa chất ma túy và tiền chất.

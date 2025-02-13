@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo về việc sáp nhập công ty trong trường hợp sau sáp nhập công ty, công ty nhận sáp nhập không thay đổi nội dung đăng ký doanh nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày||Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công tỉnh (Số 02A, Đường Nguyễn Chí Thanh, TP Hà Tĩnh, tỉnh Hà Tĩnh).|
+|Trực tuyến|2 Ngày||Qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp (http://dangkykinhdoanh.gov.vn).|
+|Dịch vụ bưu chính|2 Ngày||Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công tỉnh (Số 02A, Đường Nguyễn Chí Thanh, TP Hà Tĩnh, tỉnh Hà Tĩnh).|

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đánh giá, nghiệm thu, công nhận kết quả thực hiện nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị đánh giá, nghiệm thu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8758d0112ef64'">Mẫu C3.3-ĐNNT.docx</a>)
+- 01 Bản chính Báo cáo kết quả thực hiện nhiệm vụ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb033ee55ebfb5'">Mẫu C3.1-BCKQ.docx</a>)
+- 01 Bản chính Sản phẩm, kết quả thực hiện nhiệm vụ và tài liệu liên quan theo thuyết minh nhiệm vụ và hợp đồng thực hiện nhiệm vụ đã được phê duyệt. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6e89f0c990c05'">Mẫu C3.7-QĐCN.docx</a>)

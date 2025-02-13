@@ -1,0 +1,24 @@
+Tên thủ tục: Hỗ trợ cho người lao động thuộc đối tượng là người bị thu hồi đất nông nghiệp đi làm việc ở nước ngoài theo hợp đồng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Chủ đầu tư
+Cơ quan có thẩm quyền:
+Chủ đầu tư
+Địa chỉ tiếp nhận HS:
+Chủ đầu tư
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Người lao động được hỗ trợ bằng tiền
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2006/QH11|Luật 72/2006/QH11|29-11-2006|Quốc Hội|
+|61/2015/NĐ-CP|Nghị định 61/2015/NĐ-CP|09-07-2015|Chính phủ|
+|09/2016/TTLT-BLĐTBXH-BTC|HƯỚNG DẪN THỰC HIỆN MỘT SỐ ĐIỀU VỀ HỖ TRỢ ĐƯA NGƯỜI LAO ĐỘNG ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG QUY ĐỊNH TẠI NGHỊ ĐỊNH SỐ 61/2015/NĐ-CP NGÀY 09 THÁNG 7 NĂM 2015 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ CHÍNH SÁCH HỖ TRỢ TẠO VIỆC LÀM VÀ QUỸ QUỐC GIA VỀ VIỆC LÀM|15-06-2016|Bộ Lao động - Thương binh và Xã hội|
+|08/2023/TT-BLĐTBXH|Sửa đổi, bổ sung, bãi bỏ một số điều của các Thông tư, Thông tư liên tịch có quy định liên quan đến việc nộp, xuất trình sổ hộ khẩu giấy, sổ tạm trú giấy hoặc giấy tờ có yêu cầu xác nhận nơi cư trú khi thực hiện thủ tục hành chính thuộc lĩnh vực quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội.|29-08-2023|Bộ Lao động - Thương binh và Xã hội|

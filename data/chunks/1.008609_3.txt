@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký, công nhận Đại lý giám sát hải quan
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trường hợp hồ sơ nộp đầy đủ, hợp lệ, Tổng cục Hải quan ban hành Quyết định công nhận đại lý giám sát hải quan trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ;|||
+|Trực tiếp|Trường hợp hồ sơ nộp chưa hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Tổng cục Hải quan có văn bản thông báo nội dung chưa hợp lệ và yêu cầu doanh nghiệp hoàn chỉnh lại hồ sơ. Trường hợp hồ sơ nộp chưa đầy đủ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ,Tổng cục Hải quan có văn bản thông báo thành phần hồ sơ thiếu và yêu cầu doanh nghiệp nộp bổ sung hồ sơ (nêu rõ chứng từ còn thiếu). Khi doanh nghiệp nộp bổ sung, hoàn chỉnh hồ sơ đầy đủ, Tổng cục Hải quan ban hành Quyết định công nhận Đại lý giám sát hải quan trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung.|||
+|Trực tiếp|Quá thời hạn 30 ngày kể từ ngày Tổng cục Hải quan ban hành văn bản thông báo mà doanh nghiệp không bổ sung, hoàn chỉnh lại hồ sơ hoặc đã hoàn chỉnh lại hồ sơ nhưng vẫn chưa đáp ứng quy định, Tổng cục Hải quan có văn bản từ chối (nêu rõ lý do) trả lời doanh nghiệp.|||

@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001790
+Số quyết định:
+70/QĐ-TTCP
+Tên thủ tục:
+Thủ tục thực hiện việc kê khai tài sản thu nhập
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Phòng, chống tham nhũng
+Trình tự thực hiện:
+- Bước 1: Cơ quan, tổ chức, đơn vị ban hành văn bản tổ chức triển khai việc kê khai;
+- Bước 2: Bộ phận phụ trách công tác tổ chức, cán bộ tiến hành triển khai việc kê khai:
++ Lập danh sách Người có nghĩa vụ kê khai của cơ quan, tổ chức, đơn vị mình, trình người đứng đầu cơ quan, tổ chức, đơn vị phê duyệt; danh sách phải xác định rõ đối tượng thuộc cấp ủy quản lý, đối tượng thuộc cấp trên quản lý, đối tượng thuộc cơ quan, tổ chức, đơn vị quản lý;
++ Gửi danh sách Người có nghĩa vụ kê khai đến các cơ quan, tổ chức, đơn vị trực thuộc;
++ Gửi mẫu Bản kê khai tài sản, thu nhập (sau đây gọi là Bản kê khai), hướng dẫn và yêu cầu người có nghĩa vụ kê khai thực hiện việc kê khai tài sản, thu nhập.
+- Bước 3: Người có nghĩa vụ kê khai phải hoàn thành việc kê khai trong thời gian 10 ngày kể từ ngày nhận được mẫu bản kê khai, nộp 01 bản về bộ phận phụ trách công tác tổ chức, cán bộ và lưu cá nhân 01 bản. Trường hợp tại thời điểm kê khai, người có nghĩa vụ kê khai không thể tiến hành kê khai đúng thời hạn vì lý do khách quan thì việc kê khai có thể được thực hiện trước hoặc sau thời điểm quy định của cơ quan, tổ chức, đơn vị (với thời gian gần nhất).
+- Bước 4: Bộ phận phụ trách công tác tổ chức, cán bộ tiếp nhận, kiểm tra, sao lục, gửi, lưu, quản lý Bản kê khai như sau:
++ Trong thời hạn 07 ngày làm việc (kể từ ngày nhận được Bản kê khai) kiểm tra tính đầy đủ về nội dung phải kê khai; trường hợp Bản kê khai chưa đúng quy định (theo mẫu) thì yêu cầu kê khai lại, thời hạn kê khai lại là 03 ngày làm việc kể từ ngày nhận được yêu cầu;
++ Sao lục, gửi và lưu Bản kê khai như sau: Gửi bản chính đến Ban tổ chức Đảng, 01 bản sao đến cơ quan Ủy ban kiểm tra của cấp ủy Đảng quản lý người kê khai, nếu người đó là cán bộ thuộc diện cấp ủy quản lý (theo phân cấp quản lý cán bộ). Gửi bản chính đến cơ quan tổ chức cấp trên đối với người kê khai do cấp trên quản lý (hoặc gửi bản sao nếu người đó thuộc cấp ủy quản lý). Gửi bản sao đến cơ quan, tổ chức, đơn vị nơi sẽ công khai Bản kê khai để thực hiện việc công khai theo quy định; sau khi công khai, lưu bản này cùng hồ sơ của người có nghĩa vụ kê khai tại cơ quan mình.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Khác||Thời gian kê khai chậm nhất là ngày 30 tháng 11 hàng năm; việc kê khai tài sản, thu nhập phải hoàn thành chậm nhất là ngày 31 tháng 12 hàng năm. Việc giao nhận Bản kê khai phải hoàn thành chậm nhất vào ngày 31 tháng 03 của năm sau.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Các văn bản chỉ đạo tổ chức triển khai thực hiện việc kê khai ([Mẫu Thông tư 08-2013.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4c0fae6a7e655'))
+- 01 Bản chính Danh sách đối tượng phải kê khai theo quy định ([Mẫu Thông tư 08-2013.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed1981b2513741'))
+- 01 Bản chính Bản kê khai tài sản, thu nhập, bản sao bản kê khai theo quy định ([Mẫu Thông tư 08-2013.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febc8c61532b927'))
+- 01 Bản chính Sổ theo dõi việc giao, nhận Bản kê khai ([Mẫu Thông tư 08-2013.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe84da95983455d'))
+- 01 Bản chính Danh sách những người đã kê khai, báo cáo kết quả kê khai ([Mẫu Thông tư 08-2013.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee85efcba31b35'))
+
+Đối tượng thực hiện:
+Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Cơ quan hành chính nhà nước các cấp, Đơn vị sự nghiệp công lập thuộc cơ quan hành chính nhà nước
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản kê khai tài sản, thu nhập, Bản kê khai tài sản, thu nhập
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2005/QH11|Luật|29-11-2005|Quốc Hội|
+|78/2013/NĐ-CP|Nghị định|17-07-2013|Chính phủ|
+|08/2013/TT-TTCP|Thông tư|31-10-2013|Thanh tra Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+1. Người có nghĩa vụ kê khai tài sản, thu nhập phải kê khai trung thực, đầy đủ, rõ ràng, đúng thời hạn các thông tin về số lượng, giá trị tài sản, thu nhập và những biến động về tài sản, thu nhập phải kê khai và tự chịu trách nhiệm về những thông tin đã kê khai.
+
+2. Tài sản, thu nhập phải kê khai gồm tài sản, thu nhập thuộc sở hữu hoặc quyền sử dụng của bản thân, của vợ hoặc chồng và con chưa thành niên (con đẻ, con nuôi theo quy định của pháp luật) tại thời điểm hoàn thành Bản kê khai tài sản, thu nhập.
+
+3. Giá trị tài sản, thu nhập kê khai được tính bằng tiền phải trả khi mua, khi nhận chuyển nhượng, xây dựng hoặc giá trị ước tính khi được cho, tặng, thừa kế.
+
+4. Việc kê khai, giải trình nguồn gốc tài sản tăng, giảm thực hiện theo mẫu Bản kê khai tài sản, thu nhập (phụ lục II) và Hướng dẫn kê khai tài sản, thu nhập (phụ lục III) ban hành kèm theo Thông tư số 08/2013/TT-TTCP.
+1. Người có nghĩa vụ kê khai tài sản, thu nhập phải kê khai trung thực, đầy đủ, rõ ràng, đúng thời hạn các thông tin về số lượng, giá trị tài sản, thu nhập và những biến động về tài sản, thu nhập phải kê khai và tự chịu trách nhiệm về những thông tin đã kê khai.
+
+2. Tài sản, thu nhập phải kê khai gồm tài sản, thu nhập thuộc sở hữu hoặc quyền sử dụng của bản thân, của vợ hoặc chồng và con chưa thành niên (con đẻ, con nuôi theo quy định của pháp luật) tại thời điểm hoàn thành Bản kê khai tài sản, thu nhập.
+
+3. Giá trị tài sản, thu nhập kê khai được tính bằng tiền phải trả khi mua, khi nhận chuyển nhượng, xây dựng hoặc giá trị ước tính khi được cho, tặng, thừa kế.
+
+4. Việc kê khai, giải trình nguồn gốc tài sản tăng, giảm thực hiện theo mẫu Bản kê khai tài sản, thu nhập (phụ lục II) và Hướng dẫn kê khai tài sản, thu nhập (phụ lục III) ban hành kèm theo Thông tư số 08/2013/TT-TTCP.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

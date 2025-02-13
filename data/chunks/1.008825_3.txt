@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định, phê duyệt nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình không theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND thành phố
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (trong đó: Sở Xây dựng 20 ngày, UBND thành phố 10 ngày)|Phí : Được quy định cụ thể tại khoản 3, Điều 6 Thông tư số 20/2019/TT-BXD ngày 31/12/2019 của Bộ trưởng Bộ Xây dựng.|Nộp hồ sơ trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Xây dựng, Trung tâm Hành Chính thành phố Đà Nẵng, số 24 Trần Phú, phường Thạch Thang, quận Hải châu, thành phố Đà Nẵng.|
+|Trực tuyến|30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (trong đó: Sở Xây dựng 20 ngày, UBND thành phố 10 ngày)|Phí : Được quy định cụ thể tại khoản 3, Điều 6 Thông tư số 20/2019/TT-BXD ngày 31/12/2019 của Bộ trưởng Bộ Xây dựng.|Nộp trực tuyến tại: https://dichvucong.danang.gov.vn/|

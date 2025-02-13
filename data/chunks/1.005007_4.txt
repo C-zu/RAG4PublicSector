@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục mua bán hóa đơn bán tài sản nhà nước và hóa đơn bán tài sản tịch thu sung quỹ nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Ghi chú
+ - Bộ hồ sơ để làm thủ tục mua hóa đơn lần đầu gồm: (1) và (2)
+ - Bộ hồ sơ để làm thủ tục mua hóa đơn lần tiếp theo gồm (1), (2) và (3)
+ - Bộ hồ sơ để làm thủ tục mua hóa đơn lẻ gồm (1), (2) và (4)
+
+
+Bao gồm
+- 01 Bản chính Giấy giới thiệu kèm theo công văn đề nghị được mua hoá đơn do thủ trưởng đơn vị ký, đóng dấu (01 bản chính);
+ Chứng minh nhân dân hoặc hộ chiếu (còn trong thời hạn sử dụng theo quy định của pháp luật) của người trực tiếp mua hoá đơn;
+ Báo cáo tình hình quản lý, sử dụng hoá đơn đối với toàn bộ số hoá đơn đã mua lần trước theo mẫu số 06/HĐ-BC ban hành kèm theo Thông tư 225/2009/TT-BTC ngày 26/11/2009
+ Quyết định xử lý tài sản của cơ quan nhà nước có thẩm quyền và các giấy tờ có liên quan đến việc bán tài sản.

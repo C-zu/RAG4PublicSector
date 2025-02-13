@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (theo quy định tại Điều 47 Luật Quản lý thuế số 78/2006/QH10 ngày 29/11/2006 được bổ sung tại khoản 13 Điều 1 Luật sửa đổi bổ sung một số điều của Luật Quản lý thuế, Điều 29 Nghị định 83/2013/NĐ-CP ngày 22/7/2013 và Điều 49 Thông tư số 38/2015/TT-BTC ngày 25/3/2015)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Tùy từng trường hợp||Trực tiếp tại cơ quan hải quan hoặc Hệ thống xử lý dữ liệu điện tử hải quan.|

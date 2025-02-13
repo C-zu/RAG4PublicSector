@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thực hiện hoạt động đầu tư theo hình thức góp vốn, mua cổ phần, mua phần vốn góp đối với nhà đầu tư nước ngoài (BQL)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ theo quy định tại khoản 2 Điều 66 Nghị định số 31/2021/NĐ-CP, Ban Quản lý xem xét việc đáp ứng điều kiện góp vốn, mua cổ phần, mua phần vốn góp quy định tại khoản 2 Điều 24 của Luật Đầu tư, khoản 4 Điều 65 của Nghị định số 31/2021/NĐ-CP và thông báo cho nhà đầu tư, trừ trường hợp quy định tại khoản 4 Điều 66 Nghị định số 31/2021/NĐ-CP. Văn bản thông báo được gửi cho nhà đầu tư nước ngoài và tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính.|
+|Dịch vụ bưu chính|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ theo quy định tại khoản 2 Điều 66 Nghị định số 31/2021/NĐ-CP, Ban Quản lý xem xét việc đáp ứng điều kiện góp vốn, mua cổ phần, mua phần vốn góp quy định tại khoản 2 Điều 24 của Luật Đầu tư, khoản 4 Điều 65 của Nghị định số 31/2021/NĐ-CP và thông báo cho nhà đầu tư, trừ trường hợp quy định tại khoản 4 Điều 66 Nghị định số 31/2021/NĐ-CP. Văn bản thông báo được gửi cho nhà đầu tư nước ngoài và tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh (đối với dự án không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư) - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|35 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|35 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|35 Ngày làm việc|Phí : 0 Đồng||

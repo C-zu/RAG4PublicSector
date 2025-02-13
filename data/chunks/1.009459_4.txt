@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố mở luồng chuyên dùng nối với luồng quốc gia, luồng chuyên dùng nối với luồng địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố mở luồng đường thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0681f63867bd0'">27.docx</a>)
+- 01 Bản chính - Biên bản nghiệm thu hoàn thành công trình xây dựng đưa vào sử dụng, bản vẽ hoàn công công trình luồng, hệ thống báo hiệu đường thủy nội địa đối với luồng có dự án đầu tư xây dựng mới hoặc luồng được cải tạo, nâng cấp;
+- 01 Bản chính - Bình đồ hiện trạng luồng đề nghị công bố thể hiện địa danh, lý trình, vị trí báo hiệu, các công trình hiện có trên luồng đối với luồng không có dự án đầu tư xây dựng.

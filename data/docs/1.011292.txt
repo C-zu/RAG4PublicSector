@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011292
+Số quyết định:
+2444./QĐ- UBND
+Tên thủ tục:
+Đăng ký lại phương tiện trong trường hợp chuyển từ cơ quan đăng ký khác sang cơ quan đăng ký phương tiện thủy nội địa
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Tổ chức, cá nhân nộp hồ sơ tại Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc||- Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh - Thành phố Hà Tĩnh; - Qua Bưu điện; - Qua hệ thống mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn).|
+|Trực tuyến|01 Ngày làm việc||- Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh - Thành phố Hà Tĩnh; - Qua Bưu điện; - Qua hệ thống mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn).|
+|Dịch vụ bưu chính|01 Ngày làm việc||- Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh - Thành phố Hà Tĩnh; - Qua Bưu điện; - Qua hệ thống mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đăng ký phương tiện thuỷ nội địa theo mẫu BM.PTNL.61.01 ([Giay de nghi dang ký PT từ co quan khac sang co quan TNĐ.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febcb7570918ba4'))
+- 01 Bản chính Giấy chứng nhận xóa đăng ký của cơ quan đăng ký phương tiện trước đó (bản chính) đối với phương tiện là tàu biển;
+- 01 Bản chính 02 (hai) ảnh có kích thước 10x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi;
+- 01 Bản chính Biên lai nộp thuế trước bạ (bản chính) đối với phương tiện thuộc diện nộp phí trước bạ;
+- 01 Bản chính Bản kê khai điều kiện an toàn của phương tiện, đối với phương tiện không thuộc diện đăng kiểm theo mẫu BM.PTNL.61.02; ([Bang ke khai dieu kiên an toan doi voi PT khong dăng kiem.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb6fa94506b926'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Số 02A- Nguyễn Chí Thanh- TP. Hà Tĩnh- Tỉnh Hà Tĩnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký phương tiện thủy nội địa
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

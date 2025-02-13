@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đề nghị trả lại phù hiệu, biển hiệu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Phí : 0 Đồng|Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu cho doanh nghiệp, thời gian thực hiện 02 ngày làm việc.|
+|Trực tuyến|2 Ngày làm việc|Phí : 0 Đồng|Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu cho doanh nghiệp, thời gian thực hiện 02 ngày làm việc.|
+|Dịch vụ bưu chính|2 Ngày làm việc|Phí : 0 Đồng|Sở Giao thông vận tải xem xét hồ sơ, cấp lại phù hiệu, biển hiệu cho doanh nghiệp, thời gian thực hiện 02 ngày làm việc.|

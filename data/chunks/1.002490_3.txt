@@ -1,0 +1,9 @@
+Tên thủ tục: Giao tuyến dẫn tàu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|11 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.|
+|Trực tuyến|11 Ngày||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.|
+|Dịch vụ bưu chính|11 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.|

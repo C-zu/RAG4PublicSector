@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ tư vấn chuyên sâu cho các doanh nghiệp xuất khẩu tiếp cận thị trường xuất khẩu mới
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|7 Ngày làm việc||Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (mức độ 3)|
+|Dịch vụ bưu chính|7 Ngày làm việc||Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

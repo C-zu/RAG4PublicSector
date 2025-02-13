@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp đổi giấy phép kinh doanh dịch vụ lữ hành nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép kinh doanh dịch vụ lữ hành nội địa (Mẫu số 05 Phụ lục II ban hành kèm theo Thông tư số 06/2017/TT-BVHTTDL ngày 15 tháng 12 năm 2017). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd39a86cffb3b8a'">Mau so 05 PLII TT06.2017.docx</a>)
+- 01 Bản chính Giấy phép kinh doanh dịch vụ lữ hành nội địa của doanh nghiệp
+- 01 Bản sao Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp

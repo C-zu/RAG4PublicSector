@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh dự án đầu tư trong trường hợp chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình tổ chức kinh tế - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.12.01
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu có giá trị pháp lý tương đương của nhà đầu tư tiếp nhận dự án đầu tư
+- 01 Bản sao Bản sao nghị quyết hoặc quyết định của nhà đầu tư về việc tổ chức lại, trong đó có nội dung về việc xử lý tài sản, quyền và nghĩa vụ liên quan đến dự án đầu tư.

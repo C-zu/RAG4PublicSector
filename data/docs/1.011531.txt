@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011531
+Số quyết định:
+478/QĐ-BTTTT
+Tên thủ tục:
+Công bố về sự phù hợp của trung tâm dữ liệu với tiêu chuẩn, quy chuẩn kỹ thuật
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+Tổ chức, doanh nghiệp chuẩn bị hồ sơ công bố về sự phù hợp của trung tâm dữ liệu với tiêu chuẩn, quy chuẩn kỹ thuật theo quy định và gửi hồ sơ qua hệ thống bưu chính, chuyển phát hoặc nộp trực tiếp tại Bộ phận một cửa trụ sở Cục Viễn thông, Tòa nhà Cục Viễn thông, số 68 đường Dương Đình Nghệ, Phường Yên Hòa, quận Cầu Giấy, TP. Hà Nội hoặc nộp trực tuyến qua Cổng dịch vụ công quốc gia, Cổng Dịch vụ công Bộ Thông tin và Truyền thông, Cổng Dịch vụ công của Cục Viễn thông.
+
+Trong thời hạn bảy (07) ngày làm việc kể từ khi hồ sơ được tiếp nhận:
++ Trường hợp hồ sơ được chấp nhận, Cục Viễn thông cấp “Thông báo tiếp nhận Bản công bố phù hợp tiêu chuẩn, quy chuẩn kỹ thuật” (theo mẫu tại Phụ lục III của Thông tư số 03/2013/TT-BTTTT ngày 22/01/2013 được sửa đổi, bổ sung bởi Thông tư số 23/2022/TT-BTTTT ngày 30/11/2022) cho cơ quan, doanh nghiệp.
++ Trường hợp hồ sơ không được chấp nhận, Cục Viễn thông thông báo bằng văn bản cho cơ quan, doanh nghiệp về những nội dung chưa phù hợp để hoàn thiện và thực hiện lại việc công bố phù hợp tiêu chuẩn, quy chuẩn kỹ thuật.
+
+Trả kết quả trực tiếp tại trụ sở Cục Viễn thông hoặc theo hệ thống bưu chính, chuyển phát hoặc trả kết quả trực tuyến.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||Nộp trực tiếp tại Bộ phận một cửa trụ sở Cục Viễn thông, Tòa nhà Cục Viễn thông, số 68 đường Dương Đình Nghệ, Phường Yên Hòa, quận Cầu Giấy, TP. Hà Nội.|
+|Trực tuyến|07 Ngày làm việc||Qua Cổng Dịch vụ công quốc gia https://dichvucong.gov.vn Cổng Dịch vụ công Bộ Thông tin và Truyền thông https://dichvucong.mic.gov.vn Hoặc Cổng Dịch vụ công của Cục Viễn thông tại địa chỉ: dichvucong.vnta.gov.vn.|
+|Dịch vụ bưu chính|07 Ngày làm việc||Qua hệ thống bưu chính, chuyển phát.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao có chứng thực giấy tờ chứng minh tư cách pháp nhân của cơ quan, doanh nghiệp, bao gồm một trong các loại giấy tờ sau: Giấy chứng nhận đăng ký kinh doanh; Quyết định/Giấy phép thành lập, Giấy chứng nhận đầu tư/Giấy phép đầu tư;
+- 01 Bản chính Tài liệu thuyết minh về hạ tầng kỹ thuật của trung tâm dữ liệu
+- 01 Bản chính Bản công bố trung tâm dữ liệu phù hợp tiêu chuẩn quy định tại khoản 1 Điều 4 của Thông tư số 03/2013/TT-BTTTT ngày 22/01/2013 được sửa đổi, bổ sung bởi Thông tư số 23/2022/TT-BTTTT ngày 30/11/2022 (theo mẫu tại Phụ lục I của Thông tư số 03/2013/TT-BTTTT ngày 22/01/2013 được sửa đổi, bổ sung bởi Thông tư số 23/2022/TT-BTTTT ngày 30/11/2022) ([Phụ lục I.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbd4e230a345ba'))
+- 01 Bản chính Bản công bố trung tâm dữ liệu phù hợp quy chuẩn kỹ thuật quy định tại khoản 2 và 3 Điều 4 của Thông tư này (theo mẫu tại Phụ lục II của Thông tư số 03/2013/TT-BTTTT ngày 22/01/2013 được sửa đổi, bổ sung bởi Thông tư số 23/2022/TT-BTTTT ngày 30/11/2022) ([Phụ lục II.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda1d628b81e582'))
+- 01 Bản chính Kết quả đo kiểm trung tâm dữ liệu phù hợp với quy chuẩn kỹ thuật quy định tại khoản 2 và khoản 3 Điều 4 của Thông tư số 03/2013/TT-BTTTT ngày 22/01/2013 được sửa đổi, bổ sung bởi Thông tư số 23/2022/TT-BTTTT ngày 30/11/2022 và được cấp trong vòng một (01) năm tính đến ngày nhận đủ hồ sơ theo quy định
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục Viễn thông, 68 Dương Đình Nghệ, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo tiếp nhận Bản công bố phù hợp tiêu chuẩn, quy chuẩn kỹ thuật
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|03/2013/TT-BTTTT|Thông tư 03/2013/TT-BTTTT|22-01-2013|Bộ Thông tin và Truyền thông|
+|41/2009/QH12|Luật viễn thông|23-11-2009|Quốc Hội|
+|67/2006/QH11|Luật Công nghệ thông tin|29-06-2006|Văn phòng Quốc hội|
+|Nghị định số 25/2011/NĐ-CP|Nghị định số 25/2011/NĐ-CP|06-04-2011||
+|68/2006/QH11|Luật Tiêu chuẩn và Quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật Chất lượng sản phẩm, hàng hóa|21-11-2007||
+|23/2022/TT-BTTTT|Thông tư 23/2022/TT-BTTTT|30-11-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Trung tâm dữ liệu phải áp dụng các tiêu chuẩn và quy chuẩn kỹ thuật sau:
+- Tiêu chuẩn quốc gia TCVN 9250:2021 (hoặc tiêu chuẩn ANSI/TIA-942-B:2017), hoặc tiêu chuẩn Tier của Uptime Institute;
+- Quy chuẩn kỹ thuật quốc gia về chống sét cho các trạm viễn thông và mạng cáp ngoại vi viễn thông, ký hiệu QCVN 32:2020/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về tiếp đất cho các trạm viễn thông, ký hiệu QCVN 9:2016/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình, ký hiệu QCVN 06:2021/BXD.
+Trung tâm dữ liệu phải áp dụng các tiêu chuẩn và quy chuẩn kỹ thuật sau:
+- Tiêu chuẩn quốc gia TCVN 9250:2021 (hoặc tiêu chuẩn ANSI/TIA-942-B:2017), hoặc tiêu chuẩn Tier của Uptime Institute;
+- Quy chuẩn kỹ thuật quốc gia về chống sét cho các trạm viễn thông và mạng cáp ngoại vi viễn thông, ký hiệu QCVN 32:2020/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về tiếp đất cho các trạm viễn thông, ký hiệu QCVN 9:2016/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình, ký hiệu QCVN 06:2021/BXD.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

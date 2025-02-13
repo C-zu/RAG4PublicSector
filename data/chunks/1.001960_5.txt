@@ -1,0 +1,23 @@
+Tên thủ tục: Phê duyệt chương trình huấn luyện sơ cấp cứu
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Khoa học Công nghệ và Đào tạo - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt chương trình huấn luyện
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|11/2008/QH12|Luật 11/2008/QH12-Hoạt động chữ thập đỏ|03-06-2008|Quốc Hội|
+|03/2011/NĐ-CP|Nghị định 03/2011/NĐ-CP-Quy định chi tiết và biện pháp thi hành Luật Hoạt động chữ thập đỏ|07-01-2011|Chính phủ|
+|17/2014/TT-BYT|Thông tư 17/2014/TT-BYT-Quy định việc cấp giấy phép hoạt động đối với trạm, điểm sơ cấp cứu chữ thập đỏ và việc huấn luyện sơ cấp cứu chữ thập đỏ|02-06-2014|Bộ Y tế|

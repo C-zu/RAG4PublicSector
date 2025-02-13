@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp, cấp lại giấy phép khai thác thủy sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Hồ sơ đề nghị cấp giấy phép khai thác thủy sản bao gồm:
+- 01 Bản chính Đơn đề nghị theo Mẫu số 21 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd423aa2548bac'">Mẫu số 21.docx</a>)
+- 01 Bản chính Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá đối với tàu cá theo quy định phải đăng kiểm
+- 01 Bản chính Bản chụp văn bằng hoặc chứng chỉ thuyền trưởng, máy trưởng tàu cá đối với loại tàu cá theo quy định phải có văn bằng hoặc chứng chỉ thuyền trưởng, máy trưởng tàu cá
+
+
+b) Hồ sơ đề nghị cấp lại giấy phép khai thác thủy sản:
+- 01 Bản chính Đơn đề nghị cấp lại theo Mẫu số 03.KT Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe500588806639f'">Mẫu số 03.docx</a>)
+- 01 Bản chính Bản chính giấy phép khai thác thủy sản đã được cấp, trong trường hợp thay đổi thông tin trong giấy phép

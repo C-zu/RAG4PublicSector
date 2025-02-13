@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép họp báo trong nước (địa phương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày||Nộp trực tiếp tại Ủy ban nhân dân cấp tỉnh|
+|Trực tuyến|1 Ngày|||
+|Dịch vụ bưu chính|1 Ngày|||

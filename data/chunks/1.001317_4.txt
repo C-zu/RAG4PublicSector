@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Mở tài khoản thanh toán tại Ngân hàng Nhà nước của Tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài, Kho bạc Nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị mở tài khoản thanh toán kèm bản đăng ký mẫu dấu, mẫu chữ ký theo Mẫu số 01 ban hành kèm theo Nghị định 52/2024/NĐ-CP do người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức mở tài khoản thanh toán ký tên, đóng dấu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecb49c66537cdf'">Mẫu số 01.docx</a>)
+- 01 Bản chính Các tài liệu chứng minh tổ chức mở tài khoản thanh toán được thành lập và hoạt động hợp pháp, gồm: quyết định thành lập, giấy phép hoạt động, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã hoặc giấy tờ có giá trị tương đương;
+- 01 Bản chính Các tài liệu chứng minh tư cách đại diện của người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức mở tài khoản thanh toán và thẻ căn cước, thẻ căn cước công dân, căn cước điện tử hoặc chứng minh nhân dân hoặc hộ chiếu còn thời hạn của người đó;
+- 01 Bản chính Văn bản hoặc quyết định bổ nhiệm và thẻ căn cước, thẻ căn cước công dân, căn cước điện tử hoặc chứng minh nhân dân hoặc hộ chiếu còn thời hạn của kế toán trưởng hoặc người phụ trách kế toán, người kiểm soát chứng từ giao dịch với Ngân hàng Nhà nước của tổ chức mở tài khoản thanh toán.

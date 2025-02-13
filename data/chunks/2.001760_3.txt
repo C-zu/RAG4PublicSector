@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp chứng thư số cho tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 3000 Đồng Thông tư số 305/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư số Thông tư số 17/2018/TT-BTC sửa đổi, bổ sung một số điều của Thông tư số 305/2016/TT-BTC.||
+|Dịch vụ bưu chính|30 Ngày|||

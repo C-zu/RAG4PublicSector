@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định các hoạt động sử dụng bãi sông liên quan đến đê điều nơi chưa có công trình xây dựng để xây dựng công trình theo dự án đầu tư do Thủ tướng Chính phủ phê duyệt
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Thời hạn cấp giấy phép: 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|30 Ngày làm việc||Thời hạn cấp giấy phép: 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|

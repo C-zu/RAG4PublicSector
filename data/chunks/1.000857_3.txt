@@ -1,0 +1,8 @@
+Tên thủ tục: Hưởng lương hưu đối với người lao động đang tham gia bảo hiểm xã hội bắt buộc
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||- Cách thức thực hiện: Nộp hồ sơ qua dịch vụ bưu chính công ích hoặc nộp trực tiếp tại cơ quan bảo hiểm xã hội. - Thời hạn giải quyết: Trong 20 ngày kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|20 Ngày làm việc||- Cách thức thực hiện: Nộp hồ sơ qua dịch vụ bưu chính công ích hoặc nộp trực tiếp tại cơ quan bảo hiểm xã hội. - Thời hạn giải quyết: Trong 20 ngày kể từ ngày nhận đủ hồ sơ.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép, gia hạn, bổ sung, phục hồi năng định nhân viên kiểm soát an ninh hàng không
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : 250000 Đồng Sát hạch thực hành  Phí : 400000 Đồng Sát hạch cấp lại giấy phép theo thời hạn, gia hạn, bổ sung năng định:  Phí : 600000 Đồng Phí sát hạch đủ điều kiện cấp giấy phép nhân viên hàng không: - Sát hạch lý thuyết: + Sát hạch cấp giấy phép lần đầu:|- Cấp giấy phép lần đầu, cấp lại giấy phép đã hết thời hạn hiệu lực, gia hạn, bổ sung, phục hồi năng định: 20 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ. - Cấp lại giấy phép bị mất, hỏng: 07 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ.|
+|Trực tuyến|20 Ngày làm việc|Phí : 250000 Đồng Sát hạch thực hành  Phí : 400000 Đồng Sát hạch cấp lại giấy phép theo thời hạn, gia hạn, bổ sung năng định:  Phí : 600000 Đồng Phí sát hạch đủ điều kiện cấp giấy phép nhân viên hàng không: - Sát hạch lý thuyết: + Sát hạch cấp giấy phép lần đầu:|- Cấp giấy phép lần đầu, cấp lại giấy phép đã hết thời hạn hiệu lực, gia hạn, bổ sung, phục hồi năng định: 20 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ. - Cấp lại giấy phép bị mất, hỏng: 07 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ.|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : 250000 Đồng Sát hạch thực hành  Phí : 400000 Đồng Sát hạch cấp lại giấy phép theo thời hạn, gia hạn, bổ sung năng định:  Phí : 600000 Đồng Phí sát hạch đủ điều kiện cấp giấy phép nhân viên hàng không: - Sát hạch lý thuyết: + Sát hạch cấp giấy phép lần đầu:|- Cấp giấy phép lần đầu, cấp lại giấy phép đã hết thời hạn hiệu lực, gia hạn, bổ sung, phục hồi năng định: 20 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ. - Cấp lại giấy phép bị mất, hỏng: 07 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ.|

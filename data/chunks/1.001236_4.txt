@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục bổ sung, sửa đổi hộ chiếu phổ thông (điều chỉnh họ tên, ngày tháng năm sinh, nơi sinh, giới tính, số giấy chứng minh nhân dân trong hộ chiếu), hoặc bổ sung trẻ em dưới 09 tuổi vào hộ chiếu Việt Nam của cha hoặc mẹ tại cơ quan đại diện Việt Nam ở nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp
+- 01 Bản chính Tờ khai đề nghị bổ sung, sửa đổi hộ chiếu phổ thông theo mẫu. Người đề nghị cần điền đầy đủ các nội dung trong Tờ khai, ký trực tiếp. 02 ảnh cỡ 4x6 cm, chụp trên nền mầu trắng, mắt nhìn thẳng, đầu để trần, không đeo kính màu, mặc thường phục, chụp không quá 1 năm dán vào Tờ khai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd97dcd386b8812'">Mẫu X02.docx</a>)
+- 01 Bản sao Bản sao hoặc bản chụp giấy tờ có giá trị pháp lý chứng minh việc sửa đổi, bổ sung hộ chiếu là cần thiết (Ví dụ: Giấy khai sinh, CMND nếu có sự sai lệch về ngày tháng năm sinh, Quyết định của cơ quan có thẩm quyền về việc thay đổi họ tên, giới tính …). Nếu là bản chụp thì xuất trình bản chính để kiểm tra, đối chiếu”
+- 01 Bản chính - Giấy xác nhận nhân sự (nếu có) do Cục Quản lý xuất nhập cảnh, Bộ Công an cấp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb84e961c291080'">TTLT 08.pdf</a>)
+- 02 Bản chính 02 ảnh cỡ 4x6 cm, chụp trên nền mầu trắng, mắt nhìn thẳng, đầu để trần, không đeo kính màu, mặc thường phục, chụp không quá 1 năm dán vào Tờ khai
+
+
+Giấy tờ phải xuất trình
+- 01 Bản chính Hộ chiếu đã được cấp cần sửa đổi, bổ sung

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Lắp đặt, bảo dưỡng, sửa chữa thiết bị bức xạ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 7.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Trực tuyến|30 Ngày|Phí : 7.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Dịch vụ bưu chính|30 Ngày|Phí : 7.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|

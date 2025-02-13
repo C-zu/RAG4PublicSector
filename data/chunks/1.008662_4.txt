@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp Giấy phép thi công lắp đặt công trình
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị theo mẫu Phụ lục KCHT-07 hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe77f4b1a1d120c'">PL_KCHT-07.docx</a>)
+- 01 Bản chính 2. Văn bản cam kết về việc tháo dỡ, di chuyển hoặc cải tạo công trình đã lắp đặt trả lại mặt bằng để Nhà nước xây dựng công trình công cộng hoặc nâng cấp mở rộng nền mặt đường; không được yêu cầu bồi thường và phải chịu hoàn toàn trách nhiệm kinh phí liên quan
+- 01 Bản chính 3. Văn bản chấp thuận thi công công trình thiết yếu của cơ quan quản lý đường bộ có thẩm quyền (đối với thi công lắp đặt công trình thiết yếu)
+- 01 Bản chính 4. Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công hoặc hồ sơ thiết kế kỹ thuật thi công được cấp có thẩm quyền phê duyệt
+- 01 Bản chính 5. Biện pháp đảm bảo an toàn công trình giao thông đường bộ và các công trình hạ tầng kỹ thuật khác hiện có trên đường bộ.
+- 01 Bản chính 6. Biện pháp bảo đảm an toàn giao thông trong suốt thời gian thi công có xác nhận của Ban Quản lý dự án (trường hợp các công trình đơn giản, không có thiết kế tổ chức thi công)
+- 01 Bản chính 7. Báo cáo đánh giá tác động môi trường do Sở Tài nguyên và Môi trường Đà Nẵng thẩm định (đối với công trình quy định lập báo cáo đánh giá tác động môi trường) hoặc Biện pháp đảm bảo vệ sinh môi trường (đối với công trình không quy định lập báo cáo đánh giá tác động môi trường)
+- 01 Bản chính 8. Hồ sơ thiết kế - dự toán hoàn trả nguyên trạng mặt bằng do cơ quan cấp phép thẩm định và phê duyệt đối với các công trình có chiều dài mặt bằng hoàn trả lớn hơn 10,5m.
+- 01 Bản chính 9. Hợp đồng xây lắp (Nếu chủ đầu tư là pháp nhân có chức năng thi công và tự thi công thì không cần thủ tục này).
+- 01 Bản chính 10. Nộp tiền đặt cọc bằng 100% kinh phí hoàn trả mặt bằng nguyên trạng theo đơn giá dự toán được cấp có thẩm quyền phê duyệt tại cơ quan cấp giấy phép thi công; khoản tiền này được hoàn trả lại sau khi đơn vị đã thi công hoàn thành công trình, nộp hồ sơ hoàn công cho cơ quan cấp phép và tự tổ chức hoàn trả sau 7 ngày kể từ khi thi công lắp đặt cấu kiện công trình dưới mặt đường, trong phần đất bảo vệ, bảo trì đường bộ và hành lang an toàn đường bộ hoàn thành. Nếu sau thời gian 7 ngày, đơn vị được cấp giấy phép thi công chưa hoàn trả nguyên trạng mặt bằng hoặc đã hoàn trả nhưng không đảm bảo theo yêu cầu thì cơ quan cấp giấy phép thi công được quyền sử dụng tiền đặt cọc trên để chỉ định đơn vị thi công hoàn trả mặt bằng theo nguyên trạng ban đầu và không chi trả lại cho đơn vị được cấp giấy phép.
+- 01 Bản chính 11. Riêng trường hợp các tuyến đường đang triển khai thi công để cải tạo, nâng cấp, sửa chữa hoặc đã hoàn thành nhưng chưa bàn giao các tổ chức, cá nhân có nhu cầu thi công phải bổ sung thêm văn bản thống nhất của chủ đầu tư quản lý dự án cải tạo, nâng cấp, sửa chữa tuyến đường đó.

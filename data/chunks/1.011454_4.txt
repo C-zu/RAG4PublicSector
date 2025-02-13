@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp Giấy phép phân loại phim (thẩm quyền của ủy ban nhân dân cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp Giấy phép phân loại phim theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb5637a1220909'">Don de nghi cap phep phan loai phim (cap Tinh).doc</a>)
+- 01 Bản sao Văn bản chứng minh quyền sở hữu phim hoặc quyền sử dụng phim hợp pháp
+- 01 Bản chính Bản phim hoàn chỉnh
+- 01 Bản chính Bản thuyết minh phim bằng tiếng Việt đối với phim nước ngoài

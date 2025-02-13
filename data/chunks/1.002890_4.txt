@@ -1,0 +1,9 @@
+Tên thủ tục: Đóng tạm thời cảng hàng không, sân bay trong trường hợp cải tạo, mở rộng, sửa chữa kết cấu hạ tầng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị đóng tạm thời cảng hàng không, sân bay bao gồm các thông tin: tên cảng hàng không, sân bay; lý do đóng tạm thời cảng hàng không, sân bay; thời gian đóng cửa tạm thời cảng hàng không, sân bay;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Quyết định phê duyệt dự án cải tạo, mở rộng, sửa chữa kết cấu hạ tầng của cơ quan có thẩm quyền;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Phương án tổ chức thi công, biện pháp đảm bảo an toàn và vệ sinh môi trường.

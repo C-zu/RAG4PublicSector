@@ -1,0 +1,70 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trừ trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng khi đáp ứng đủ các điều kiện sau đây:
+
+1. Đối với hoạt động nhập khẩu sản phẩm an toàn thông tin mạng:
+
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ an toàn thông tin mạng;
+
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có cán bộ kỹ thuật chịu trách nhiệm chính có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Mục đích nhập khẩu; phạm vi, đối tượng cung cấp sản phẩm; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; chi tiết các tính năng kỹ thuật cơ bản của sản phẩm.
+
+2. Đối với hoạt động sản xuất sản phẩm an toàn thông tin mạng:
+
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+
+b) Có hệ thống trang thiết bị, cơ sở vật chất và công nghệ sản xuất phù hợp với phương án kinh doanh sản phẩm an toàn thông tin mạng;
+
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp sản phẩm; loại hình sản phẩm dự kiến sản xuất; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; các tính năng kỹ thuật cơ bản của sản phẩm.
+
+3. Đối với hoạt động cung cấp dịch vụ an toàn thông tin mạng:
+
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ.
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng khi đáp ứng đủ các điều kiện sau đây:
+
+1. Đối với hoạt động nhập khẩu sản phẩm an toàn thông tin mạng:
+
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ an toàn thông tin mạng;
+
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có cán bộ kỹ thuật chịu trách nhiệm chính có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Mục đích nhập khẩu; phạm vi, đối tượng cung cấp sản phẩm; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; chi tiết các tính năng kỹ thuật cơ bản của sản phẩm.
+
+2. Đối với hoạt động sản xuất sản phẩm an toàn thông tin mạng:
+
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+
+b) Có hệ thống trang thiết bị, cơ sở vật chất và công nghệ sản xuất phù hợp với phương án kinh doanh sản phẩm an toàn thông tin mạng;
+
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp sản phẩm; loại hình sản phẩm dự kiến sản xuất; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; các tính năng kỹ thuật cơ bản của sản phẩm.
+
+3. Đối với hoạt động cung cấp dịch vụ an toàn thông tin mạng:
+
+a) Phù hợp với chiến lược, quy hoạch, kế hoạch phát triển an toàn thông tin mạng quốc gia;
+
+b) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp dịch vụ, phương án kinh doanh;
+
+c) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;
+
+d) Có phương án kinh doanh phù hợp và bao gồm các nội dung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

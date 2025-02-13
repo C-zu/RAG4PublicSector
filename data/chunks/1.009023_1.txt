@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký giám sát việc giám hộ
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009023
+Số quyết định:
+1402/QĐ-UBND_ĐT
+Tên thủ tục:
+Đăng ký giám sát việc giám hộ
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hộ tịch

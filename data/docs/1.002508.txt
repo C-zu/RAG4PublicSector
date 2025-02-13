@@ -1,0 +1,88 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002508
+Số quyết định:
+1671/QĐ-BGTVT
+Tên thủ tục:
+Xóa đăng ký
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+- Tổ chức, cá nhân gửi hồ sơ đề nghị xóa đăng ký tàu biển (hoặc tàu công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động) đến cơ quan đăng ký tàu biển nơi tàu biển đã được đăng ký trước đây.
+- Cơ quan đăng ký tàu biển gồm:
+	+ Cục Hàng hải Việt Nam thực hiện chức năng của cơ quan đăng ký tàu biển Việt Nam.
+	+ Các Chi cục hàng hải, Cảng vụ hàng hải thực hiện nhiệm vụ đăng ký tàu biển theo phân cấp của Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC
+Cơ quan đăng ký tàu biển tiếp nhận hồ sơ, thực hiện theo quy trình sau:
+- Trường hợp nộp hồ sơ trực tiếp, nếu hồ sơ chưa hợp lệ thì hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện hồ sơ; nếu hồ sơ hợp lệ thì vào sổ theo dõi, cấp giấy biên nhận hồ sơ và hẹn trả kết quả đúng thời gian quy định;
+- Trường hợp nhận hồ sơ qua đường bưu chính, nếu hồ sơ không hợp lệ, chậm nhất 02 ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan đăng ký tàu biển hướng dẫn hoàn thiện hồ sơ theo quy định;
+-Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đăng ký tàu biển cấp Giấy chứng nhận xóa đăng ký và trả trực tiếp hoặc gửi qua hệ thống bưu chính; trường hợp không cấp giấy chứng nhận phải trả lời bằng văn bản nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|2 Ngày làm việc||Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai xóa đăng ký theo mẫu ([10.1TK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a9a23b27774e'))
+- 01 Bản chính Giấy chứng nhận đăng ký (bản chính); trường hợp giấy chứng nhận đăng ký bị mất, chủ tàu phải khai báo và nêu rõ lý do; ([GCN đăng ký.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2d8510bc2406c'))
+- 01 Bản chính Trường hợp tàu biển đang được thế chấp thì phải được sự chấp thuận bằng văn bản của người nhận thế chấp và phải thực hiện thủ tục xóa đăng ký thế chấp trước khi tiến hành thủ tục xóa đăng ký tàu biển.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam, Cảng vụ hàng hải, Chi cục Hàng hải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cơ quan đăng ký tàu biển
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận xóa đăng ký
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|171/2016/NĐ-CP|Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển|27-12-2016|Chính phủ|
+|86/2020/NĐ-CP|Nghị định 86/2020/NĐ-CP|23-07-2020||
+
+Yêu cầu, điều kiện thực hiện:
+a) Tàu biển Việt Nam được xóa đăng ký tại Việt Nam trong các trường hợp sau:
+-  Bị phá hủy, phá dỡ hoặc chìm đắm mà không thể trục vớt được;
+-Mất tích;
+-  Không còn đủ điều kiện để được mang cờ quốc tịch Việt Nam;
+-  Không còn tính năng tàu biển;
+-Theo đề nghị của chủ tàu hoặc người đứng tên đăng ký tàu biển.
+b) Trong các trường hợp tàu biển không còn tính năng tàu biển vàtheo đề nghị của chủ tàu hoặc người đứng tên đăng ký tàu biển, tàu biển đang thế chấp chỉ được xóa đăng ký tàu biển Việt Nam, nếu người nhận thế chấp tàu biển đó chấp thuận;
+c) Khi xóa đăng ký tàu biển hoặc xóa đăng ký tàu biển đang đóng, Cơ quan đăng ký tàu biển Việt Nam thu hồi Giấy chứng nhận đăng ký tàu biển Việt Nam hoặc Giấy chứng nhận đăng ký tàu biển đang đóng và cấp Giấy chứng nhận xóa đăng ký;
+d) Chủ tàu phải thực hiện thủ tục xóa đăng ký tàu biển trong thời hạn quy định đối với một số trường hợp sau:
+- Chậm nhất trong vòng 60 ngày kể từ khi tàu biển không còn tính năng tàu biển; bị phá hủy, phá dỡ hoặc chìm đắm mà không trục vớt được;
+- Chậm nhất trong vòng 24 tháng kể từ khi tàu biển bị mất tích;
+- Chậm nhất trong vòng 30 ngày kể từ khi chủ tàu không còn trụ sở, chi nhánh hoặc văn phòng đại diện tại Việt Nam.
+đ) Tàu biển Việt Nam đăng ký tạm thời không được xóa đăng ký nếu chưa nộp phí, lệ phí theo quy định.
+a) Tàu biển Việt Nam được xóa đăng ký tại Việt Nam trong các trường hợp sau:
+-  Bị phá hủy, phá dỡ hoặc chìm đắm mà không thể trục vớt được;
+-Mất tích;
+-  Không còn đủ điều kiện để được mang cờ quốc tịch Việt Nam;
+-  Không còn tính năng tàu biển;
+-Theo đề nghị của chủ tàu hoặc người đứng tên đăng ký tàu biển.
+b) Trong các trường hợp tàu biển không còn tính năng tàu biển vàtheo đề nghị của chủ tàu hoặc người đứng tên đăng ký tàu biển, tàu biển đang thế chấp chỉ được xóa đăng ký tàu biển Việt Nam, nếu người nhận thế chấp tàu biển đó chấp thuận;
+c) Khi xóa đăng ký tàu biển hoặc xóa đăng ký tàu biển đang đóng, Cơ quan đăng ký tàu biển Việt Nam thu hồi Giấy chứng nhận đăng ký tàu biển Việt Nam hoặc Giấy chứng nhận đăng ký tàu biển đang đóng và cấp Giấy chứng nhận xóa đăng ký;
+d) Chủ tàu phải thực hiện thủ tục xóa đăng ký tàu biển trong thời hạn quy định đối với một số trường hợp sau:
+- Chậm nhất trong vòng 60 ngày kể từ khi tàu biển không còn tính năng tàu biển; bị phá hủy, phá dỡ hoặc chìm đắm mà không trục vớt được;
+- Chậm nhất trong vòng 24 tháng kể từ khi tàu biển bị mất tích;
+- Chậm nhất trong vòng 30 ngày kể từ khi chủ tàu không còn trụ sở, chi nhánh hoặc văn phòng đại diện tại Việt Nam.
+đ) Tàu biển Việt Nam đăng ký tạm thời không được xóa đăng ký nếu chưa nộp phí, lệ phí theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

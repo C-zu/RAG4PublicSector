@@ -1,0 +1,16 @@
+Tên thủ tục: Xác nhận trình báo đường thủy nội địa hoặc trình báo đường thủy nội địa bổ sung
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005040
+Số quyết định:
+2784/QĐ-BGTVT
+Tên thủ tục:
+Xác nhận trình báo đường thủy nội địa hoặc trình báo đường thủy nội địa bổ sung
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa

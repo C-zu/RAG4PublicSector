@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cung cấp dữ liệu đất đai (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu đề nghị cung cấp dữ liệu đất đai Mẫu số 01/PYC (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd9692d1405582'">Mau so 01-PYC.pdf</a>)

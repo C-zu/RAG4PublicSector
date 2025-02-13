@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký cung cấp dịch vụ của công ty chứng khoán
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Quyết định của Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc cung cấp dịch vụ đáp ứng điều kiện tương ứng quy định tại Điều 198, Điều 199, Điều 200, Điều 201 Nghị định số 155/2020/NĐ-CP
+- 01 Bản chính Quyết định của cấp có thẩm quyền ban hành quy trình nghiệp vụ, quản lý rủi ro, kiểm soát hoạt động
+- 01 Bản chính Đối với trường hợp cho vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán, phối hợp với các tổ chức tín dụng cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán, hồ sơ kèm theo thuyết minh hệ thống giao dịch phục vụ hoạt động cho khách hàng vay tiền mua chứng khoán, giám sát tài khoản vay tiền mua chứng khoán; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng
+- 01 Bản chính Đối với trường hợp cho vay chứng khoán, hồ sơ kèm theo thuyết minh hệ thống giao dịch phục vụ hoạt động cho vay chứng khoán, giám sát tài khoản vay chứng khoán; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng
+- 01 Bản chính Đối với trường hợp đăng ký cung cấp dịch vụ giao dịch trực tuyến, hồ sơ kèm theo quyết định chấp thuận tư cách thành viên, kết quả kiểm tra hệ thống của Sở Giao dịch chứng khoán và tài liệu đáp ứng quy định tại khoản 2 Điều 201 Nghị định số 155/2020/NĐ-CP
+- 01 Bản chính Giấy đề nghị (theo Mẫu số 77 Phụ lục ban hành kèm theo Nghị định số 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe22ba1e5d82781'">Mẫu số 77 theo NĐ155.docx</a>)

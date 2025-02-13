@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký phương tiện lần đầu đối với phương tiện chưa khai thác trên đường thủy nội địa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 70000 Đồng 70.000 đồng/Giấy chứng nhận|Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 70000 Đồng 70.000 đồng/Giấy chứng nhận|Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 70000 Đồng 70.000 đồng/Giấy chứng nhận|Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|

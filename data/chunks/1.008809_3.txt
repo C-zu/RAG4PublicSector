@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn giấy phép thi công
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : Mức phí phải nộp = 1.500 đồng/m2/ngày x S x D Đối với đường tỉnh nằm trong đô thị, thực hiện đóng phí sử dụng tạm thời một phần lòng đường, hè phố trong đô thị không vì mục đích giao thông trên địa bàn tỉnh Khánh Hòa theo Nghị quyết số 23/2016/NQ-HĐND ngày 13/12/2016 của HĐND tỉnh Khánh Hòa. Mức phí phải nộp = 1.500 đồng/m2/ngày x S x D S = Diện tích đào, lấp D = Số ngày thi công, hoàn trả lại nguyên trạng|Thời gian giải quyết trong 10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : Mức phí phải nộp = 1.500 đồng/m2/ngày x S x D Đối với đường tỉnh nằm trong đô thị, thực hiện đóng phí sử dụng tạm thời một phần lòng đường, hè phố trong đô thị không vì mục đích giao thông trên địa bàn tỉnh Khánh Hòa theo Nghị quyết số 23/2016/NQ-HĐND ngày 13/12/2016 của HĐND tỉnh Khánh Hòa. Mức phí phải nộp = 1.500 đồng/m2/ngày x S x D S = Diện tích đào, lấp D = Số ngày thi công, hoàn trả lại nguyên trạng|Thời gian giải quyết trong 10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.|

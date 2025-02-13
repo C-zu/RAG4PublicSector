@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại, chỉnh sửa số nhà
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại, chỉnh sửa số nhà (theo mẫu) có xác nhận của UBND cấp xã (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee173391bf3b11'">DON DE NGHI CAP LAI SO NHA.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận cấp số nhà

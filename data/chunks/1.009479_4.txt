@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy phép lái tàu cho các lái tàu đầu tiên trên các tuyến đường sắt đô thị mới đưa vào khai thác, vận hành có công nghệ lần đầu sử dụng tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đối với doanh nghiệp:(1) Bản chính văn bản giấy hoặc bản điện tử: Văn bản đề nghị cấp giấy phép lái tàu của doanh nghiệp theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8611a42b8858d'">1.009479_doanh nghiệp.docx</a>)
+- 01 Bản chính, 01 Bản sao Đối với doanh nghiệp: (2) Văn bản xác nhận của doanh nghiệp hoặc Chủ đầu tư dự án (hoặc tổ chức được Chủ đầu tư dự án giao quản lý dự án đường sắt đô thị) về việc nhân sự đạt yêu cầu, điều khiển đoàn tàu an toàn trong thời gian vận hành thử toàn hệ thống của dự án, theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe06589457d7111'">1.009479_mẫu xác nhận.docx</a>)
+- 01 Bản chính, 01 Bản sao Đối với doanh nghiệp: (3) Bản sao có chứng thực hoặc bản sao điện tử có chứng thực biên bản nghiệm thu đạt yêu cầu hạng mục đào tạo nhân lực vận hành khai thác dự án đường sắt đô thị chuyên ngành lái tàu theo hợp đồng của dự án, kèm theo danh sách nhân sự được đề nghị cấp giấy phép lái tàu;
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: (4) Bản gốc hoặc bản điện tử đơn đề nghị cấp giấy phép lái tàu theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fba65efc926ae00'">1.009479_cá nhân.docx</a>)
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: (5) Bản gốc hoặc bản điện tử hoặc bản sao có chứng thực hoặc bản sao điện tử có chứng thực giấy chứng nhận đủ tiêu chuẩn sức khỏe lái tàu theo quy định của Bộ trưởng Bộ Y tế
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: (6) Bản sao có chứng thực hoặc bản sao điện tử có chứng thực: Bằng hoặc chứng chỉ trình độ sơ cấp trở lên về lái phương tiện giao thông đường sắt phù hợp với loại phương tiện dự sát hạch do cơ sở đào tạo của Việt Nam cấp, hoặc bằng hoặc chứng chỉ hoặc giấy chứng nhận tốt nghiệp lái phương tiện giao thông đường sắt phù hợp với loại phương tiện dự sát hạch do tổ chức nước ngoài cấp qua quá trình đào tạo, chuyển giao công nghệ của dự án; chứng chỉ hoặc chứng nhận bồi dưỡng kiến thức pháp luật đường sắt đô thị do cơ sở đào tạo có thẩm quyền cấp
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: (7) 03 ảnh màu cỡ 3x4cm ảnh chụp hoặc ảnh điện tử chụp trong thời hạn không quá 06 tháng tính đến ngày nộp hồ sơ.

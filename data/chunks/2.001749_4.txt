@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép hoạt động in (cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép hoạt động in (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe38d843a7d837c'">Mẫu số 02 Đơn đề nghị cấp lại giấy phép hoạt động in.pdf</a>)
+- 01 Bản chính Giấy phép hoạt động in (đối với trường hợp giấy phép bị hư hỏng)
+- 01 Bản chính Các giấy tờ chứng minh sự thay đổi trong các trường hợp thay đổi về: Tên gọi của cơ sở in; địa chỉ trụ sở chính, chi nhánh của cơ sở in; loại hình tổ chức hoạt động của cơ sở in; thành lập hoặc giải thể chi nhánh của cơ sở in và người đứng đầu cơ sở in

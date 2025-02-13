@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục xác nhận kho xăng dầu đủ điều kiện kiểm tra, giám sát của cơ quan hải quan
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
++) Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, chủng loại, nguồn gốc, số lượng, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ tại các bồn bể trong kho xăng dầu chi tiết theo tờ khai hải quan để thực hiện Hệ thống quản lý, giám sát hàng hóa tự động.
+Quy định này không áp dụng đối với các kho xăng dầu quân đội có chứa chung hàng nhập kinh doanh với hàng phục vụ quốc phòng
++)  Có thiết bị đo mức bồn, bể tự động kết nối trực tuyến số lượng xăng dầu xuất, nhập, tồn kho với cơ quan hải quan.
+Đối với kho xăng dầu quân đội, chỉ kết nối trực tuyến với đơn vị quản lý do Bộ Quốc phòng quy định.
++)  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan; đảm bảo quan sát được vào tất cả các thời điểm trong ngày (24/24 giờ) toàn cảnh khu vực kho, giám sát được mọi hoạt động đưa hàng hóa và phương tiện vận tải vào, ra kho xăng dầu. Dữ liệu về hình ảnh camera lưu giữ tối thiểu 06 tháng.
+Đối với kho xăng dầu có đường ống bơm xăng dầu ngoài khơi không thể lắp đặt hệ thống camera tại khu vực phao neo đậu cách xa bờ, doanh nghiệp kinh doanh kho phải đảm bảo điều kiện làm việc để công chức hải quan giám sát trực tiếp.
+Quy định này không áp dụng đối với các kho xăng dầu quân đội có chứa chung hàng nhập kinh doanh với hàng phục vụ quốc phòng
++) Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, chủng loại, nguồn gốc, số lượng, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ tại các bồn bể trong kho xăng dầu chi tiết theo tờ khai hải quan để thực hiện Hệ thống quản lý, giám sát hàng hóa tự động.
+Quy định này không áp dụng đối với các kho xăng dầu quân đội có chứa chung hàng nhập kinh doanh với hàng phục vụ quốc phòng
++)  Có thiết bị đo mức bồn, bể tự động kết nối trực tuyến số lượng xăng dầu xuất, nhập, tồn kho với cơ quan hải quan.
+Đối với kho xăng dầu quân đội, chỉ kết nối trực tuyến với đơn vị quản lý do Bộ Quốc phòng quy định.
++)  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan; đảm bảo quan sát được vào tất cả các thời điểm trong ngày (24/24 giờ) toàn cảnh khu vực kho, giám sát được mọi hoạt động đưa hàng hóa và phương tiện vận tải vào, ra kho xăng dầu. Dữ liệu về hình ảnh camera lưu giữ tối thiểu 06 tháng.
+Đối với kho xăng dầu có đường ống bơm xăng dầu ngoài khơi không thể lắp đặt hệ thống camera tại khu vực phao neo đậu cách xa bờ, doanh nghiệp kinh doanh kho phải đảm bảo điều kiện làm việc để công chức hải quan giám sát trực tiếp.
+Quy định này không áp dụng đối với các kho xăng dầu quân đội có chứa chung hàng nhập kinh doanh với hàng phục vụ quốc phòng
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

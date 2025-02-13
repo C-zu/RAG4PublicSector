@@ -1,0 +1,19 @@
+Tên thủ tục: Thủ tục miễn giảm kiểm tra chất lượng hàng hóa nhóm 2 nhập khẩu (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Người nhập khẩu khi có nhu cầu miễn giảm kiểm tra lập 01 bộ hồ sơ đề nghị miễn kiểm tra, gửi về:
+- Cơ quan kiểm tra chuyên ngành thuộc Ủy ban nhân dân cấp tỉnh;
+- Chi cục Tiêu chuẩn Đo lường Chất lượng (sản phẩm, hàng hóa hàng hóa nhóm 2 thuộc trách nhiệm của Bộ Khoa học và Công nghệ, trừ xăng, nhiên liệu điêzen, nhiên liệu sinh học, khí dầu mỏ hóa lỏng (LPG), Dầu nhờn động cơ đốt trong và các loại hàng hóa khác theo sự chỉ đạo của cơ quan có thẩm quyền).
+(Sau đây gọi tắt là Cơ quan kiểm tra)
+Trường hợp nộp hồ sơ trực tiếp tại trụ sở cơ quan kiểm tra, các tài liệu quy định chưa được chứng thực từ bản chính, người nhập khẩu phải xuất trình bản chính để đối chiếu.
+Trường hợp hồ sơ được gửi qua bưu điện, các tài liệu quy định, người nhập khẩu phải nộp bản sao đã được chứng thực từ bản chính.
+Trường hợp nộp hồ sơ qua Cổng dịch vụ công trực tuyến của cơ quan kiểm tra, thực hiện theo văn bản hướng dẫn về giải quyết thủ tục hành chính trực tuyến.
+Bước 2: Xử lý hồ sơ
+Cơ quan kiểm tra tiếp nhận hồ sơ, xem xét, kiểm tra theo quy định:
+- Trường hợp hồ sơ không đầy đủ theo quy định, Cơ quan kiểm tra thông báo bằng văn bản yêu cầu tổ chức công nhận sửa đổi, bổ sung.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, Cơ quan kiểm tra xác nhận miễn kiểm tra nhà nước về chất lượng với các thông tin sau: tên hàng hóa, nhãn hiệu, kiểu loại; đặc tính kỹ thuật; xuất xứ, nhà sản xuất; số lượng, khối lượng nhập khẩu theo đăng ký; đơn vị tính.
+Trong trường hợp từ chối việc xác nhận miễn kiểm tra nhà nước về chất lượng, cơ quan kiểm tra phải thông báo lý do bằng văn bản cho người nhập khẩu.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Cơ quan kiểm tra hoặc theo đường bưu điện hoặc Cổng dịch vụ công trực tuyến của cơ quan kiểm tra theo quy định.

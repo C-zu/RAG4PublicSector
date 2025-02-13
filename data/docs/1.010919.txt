@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010919
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Thu hồi giấy chứng nhận đăng ký xe, biển số xe tại Công an cấp xã
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Cơ quan, tổ chức, cá nhân là chủ xe hoặc người đang sử dụng xe đăng nhập cổng dịch vụ công kê khai các thông tin của xe, chủ xe vào Giấy chứng nhận thu hồi đăng ký, biển số xe hết niên hạn sử dụng, xe hỏng không sử dụng được (theo mẫu số 09A/58); nộp trực tiếp hoặc sử dụng dịch vụ bưu chính công ích để chuyển phát Giấy chứng nhận đăng ký xe, biển số xe cho Công an cấp xã nơi cơ quan, tổ chức, cá nhân có trụ sở hoặc thường trú. Trường hợp đến trực tiếp làm thủ tục thu hồi đăng ký, biển số xe để làm thủ tục sang tên thì chủ xe nộp giấy chứng nhận đăng ký xe, biển số xe, chứng từ chuyển quyền sở hữu, bản cà số máy số khung để dán vào giấy chứng nhận thu hồi đăng ký, biển số xe (theo mẫu số 09). 
+Bước 2: Cán bộ tiếp nhận hồ sơ: Tiếp nhận thông tin (biển số xe và chủ xe) do chủ xe hoặc tổ chức, cá nhân được ủy quyền cung cấp hoặc thông tin khai báo trên Cổng dịch vụ công trực tuyến; nhận giấy chứng nhận đăng ký và biển số xe. 
+Đối với xe sang tên chuyển quyền sở hữu: Kiểm tra, đối chiếu chứng từ chuyển quyền sở hữu xe đối với trường hợp thu hồi đăng ký, biển số xe để làm thủ tục đăng ký sang tên xe. 
+Bước 3: Thu hồi giấy chứng nhận đăng ký, biển số xe. 
+Trường hợp xe bị mất giấy chứng nhận đăng ký xe hoặc biển số xe hoặc mất cả giấy chứng nhận đăng ký xe và biển số xe, chủ xe phải có: Đơn trình bày rõ lý do bị mất. Lập 02 bản thông báo mất giấy chứng nhận đăng ký, biển số xe, ghi rõ họ tên, địa chỉ chủ xe, số máy, số khung, nhãn hiệu, loại xe (01 bản niêm yết công khai tại trụ sở, 01 bản lưu trong hồ sơ xe); thông báo trên hệ thống đăng ký, quản lý xe. Sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe. 
+Bước 4: Nhập thông tin trên hệ thống và trình lãnh đạo Công an cấp xã duyệt, ký số Giấy chứng nhận thu hồi đăng ký xe, biển số xe hết niên hạn sử dụng, xe hỏng không sử dụng được trên hệ thống đăng ký, quản lý xe và ký giấy chứng nhận thu hồi đăng ký, biển số xe (mẫu 09) theo quy định.
+Trường hợp chưa được kết nối hệ thống đăng ký, quản lý xe thì cán bộ Công an cấp xã tiến hành thu hồi và bàn giao Giấy chứng nhận đăng ký xe, biển số xe đối với xe hết niên hạn sử dụng, xe hỏng không sử dụng được cho Công an cấp huyện tại địa phương để thực hiện thu hồi trên hệ thống theo quy định; sau đó thông báo cho chủ xe hoặc người sử dụng xe in Giấy chứng nhận thu hồi đăng ký xe, biển số xe hết niên hạn sử dụng, xe hỏng không sử dụng được từ Cổng dịch vụ công hoặc địa chỉ thư điện tử của chủ xe.
+Bước 5: Nhận Giấy chứng nhận thu hồi đăng ký xe, biển số xe hết niên hạn sử dụng, xe hỏng không sử dụng được từ Cổng dịch vụ công hoặc địa chỉ thư điện tử của chủ xe và giấy chứng nhận thu hồi đăng ký xe, biển số xe tại cơ quan đăng ký xe hoặc chuyển chứng nhận thu hồi đăng ký, biển số xe qua dịch vụ bưu chính thì hướng dẫn chủ xe làm thủ tục đăng ký sử dụng dịch vụ chuyển phát chứng nhận thu hồi đăng ký, biển số xe.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||+ Trực tiếp tại trụ sở Công an cấp xã. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). Không quá 2 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. Trường hợp giấy chứng nhận đăng ký xe, biển số xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, biển số xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe.|
+|Trực tuyến|02 Ngày làm việc||+ Khai báo thông tin thu hồi đăng ký, biển số xe qua Cổng Dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an. Không quá 2 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. Trường hợp giấy chứng nhận đăng ký xe, biển số xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, biển số xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe.|
+|Dịch vụ bưu chính|02 Ngày làm việc||+ Qua dịch vụ bưu chính công ích. Không quá 2 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. Trường hợp giấy chứng nhận đăng ký xe, biển số xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, biển số xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy chứng nhận đăng ký xe, biển số xe.
+- 01 Bản chính Trường hợp xe bị mất giấy chứng nhận đăng ký xe hoặc biển số xe hoặc mất cả giấy chứng nhận đăng ký xe và biển số xe, chủ xe phải có: Đơn trình bày rõ lý do bị mất.
+- 01 Bản chính Giấy tờ của người làm thủ tục.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an Xã
+Cơ quan có thẩm quyền:
+Công an Xã
+Địa chỉ tiếp nhận HS:
+Công an cấp xã; Cổng Dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thu hồi đăng ký, biển số xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật Giao thông|13-11-2008|Quốc Hội|
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục cấp Giấy xác nhận đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hoá của tổ chức, cá nhân.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hoá (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfb935b7dc1fbc'">Mẫu đơn đề nghị cấp Giấy xác nhận đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hóa gốc.docx</a>)
+- 01 Bản sao - Bản sao Quyết định thành lập hoặc bản sao Giấy phép kinh doanh/Giấy đăng ký hoạt động (đối với tổ chức)
+- 01 Bản chính - Văn bản, quyết định của cơ quan quản lý nhà nước có thẩm quyền cho phép tổ chức giải thưởng (nếu có)
+- 01 Bản chính - Danh sách cán bộ, nhân viên tham gia tổ chức hoạt động xét tặng giải thưởng (tên, chức danh, trình độ, kinh nghiệm tổ chức hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hoá, Quyết định tuyển dụng/Hợp đồng lao động)
+- 01 Bản chính - Kế hoạch và thời gian xét tặng giải thưởng
+- 01 Bản chính - Quy chế xét thưởng
+- 01 Bản chính - Dự kiến danh sách thành viên Hội đồng xét thưởng (trình độ, chuyên môn)
+- 01 Bản chính - Báo cáo về khả năng tài chính để bảo đảm tổ chức thành công hoạt động xét tặng giải thưởng, gồm các nội dung sau: dự kiến kinh phí chi cho toàn bộ hoạt động xét tặng giải thưởng, mức chi cho từng hoạt động và nguồn kinh phí sử dụng
+- 01 Bản chính - Mẫu hồ sơ mời đăng ký để được xét tặng giải thưởng

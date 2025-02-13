@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai báo nguồn phóng xạ, chất thải phóng xạ, thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế), vật liệu hạt nhân nguồn, vật liệu hạt nhân, thiết bị hạt nhân
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ, chất thải phóng xạ, thiết bị bức xạ, vật liệu hạt nhân nguồn, vật liệu hạt nhân, thiết bị hạt nhân (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6de1eadb078b0'">Mau phieu khai bao.docx</a>)

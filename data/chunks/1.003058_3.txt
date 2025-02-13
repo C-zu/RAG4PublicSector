@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 22.500.000 Đồng Phí thẩm định công nhận hoặc chỉ định phòng kiểm nghiệm, phòng thử nghiệm trong lĩnh vực nông nghiệp, lâm nghiệp, thủy sản: 22.500.000 đồng/lần/phòng kiểm nghiệm|- Soát xét hồ sơ: Thời gian 10 (mười) ngày làm việc; nếu hồ sơ không hợp lệ, thông báo cho cơ sở để hoàn chỉnh. - Đánh giá cơ sở kiểm nghiệm: + Thành lập đoàn đánh giá: Thời gian 15 (mười lăm) ngày làm việc nếu hồ sơ hợp lệ. + Kết luận kết quả đánh giá: Thời gian 05 (năm) ngày làm việc kể từ khi kết thúc đánh giá tại cơ sở. - Gia hạn chỉ định cơ sở kiểm nghiệm: Thời gian 15 (mười lăm) ngày làm việc kể từ khi nhận được kết luận đánh giá của Đoàn.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 22.500.000 Đồng Phí thẩm định công nhận hoặc chỉ định phòng kiểm nghiệm, phòng thử nghiệm trong lĩnh vực nông nghiệp, lâm nghiệp, thủy sản: 22.500.000 đồng/lần/phòng kiểm nghiệm|- Soát xét hồ sơ: Thời gian 10 (mười) ngày làm việc; nếu hồ sơ không hợp lệ, thông báo cho cơ sở để hoàn chỉnh. - Đánh giá cơ sở kiểm nghiệm: + Thành lập đoàn đánh giá: Thời gian 15 (mười lăm) ngày làm việc nếu hồ sơ hợp lệ. + Kết luận kết quả đánh giá: Thời gian 05 (năm) ngày làm việc kể từ khi kết thúc đánh giá tại cơ sở. - Gia hạn chỉ định cơ sở kiểm nghiệm: Thời gian 15 (mười lăm) ngày làm việc kể từ khi nhận được kết luận đánh giá của Đoàn.|

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục biên phòng điện tử đối với tàu thuyền, thuyền viên nước ngoài chuyển cảng đến tại cửa khẩu cảng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ khai báo qua mạng internet:
+- 01 Bản chính + Bản khai chung;
+- 01 Bản chính + Danh sách thuyền viên;
+- 01 Bản chính + Danh sách hành khách (nếu có);
+- 01 Bản chính + Bản khai vũ khí và vật liệu nổ (nếu có);
+- 01 Bản chính + Bản khai người trốn trên tàu (nếu có)

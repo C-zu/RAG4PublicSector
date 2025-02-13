@@ -1,0 +1,12 @@
+Tên thủ tục: Trả lại giấy phép tài nguyên nước (cấp tỉnh)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Giấy phép tài nguyên nước đã được cấp nhưng chủ giấy phép không sử dụng hoặc không có nhu cầu sử dụng tiếp thì có quyền trả lại cho cơ quan cấp giấy phép và thông báo lý do.
+- Giấy phép tài nguyên nước đã được cấp nhưng quy mô công trình thay đổi dẫn đến thay đổi thẩm quyền cấp giấy phép thì chủ giấy phép trả lại giấy phép đã được cấp cho cơ quan có thẩm quyền sau khi được cấp giấy phép mới.
+- Giấy phép tài nguyên nước đã được cấp nhưng chủ giấy phép không sử dụng hoặc không có nhu cầu sử dụng tiếp thì có quyền trả lại cho cơ quan cấp giấy phép và thông báo lý do.
+- Giấy phép tài nguyên nước đã được cấp nhưng quy mô công trình thay đổi dẫn đến thay đổi thẩm quyền cấp giấy phép thì chủ giấy phép trả lại giấy phép đã được cấp cho cơ quan có thẩm quyền sau khi được cấp giấy phép mới.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

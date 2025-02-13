@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục cấp lại chứng chỉ kiểm định viên kỹ thuật an toàn lao động do chứng chỉ kiểm định viên mất hoặc rách, nát
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan An toàn, bảo hộ lao động quân đội
+Cơ quan có thẩm quyền:
+Cơ quan An toàn, bảo hộ lao động quân đội
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng chỉ Chứng chỉ kiểm định viên kỹ thuật an toàn lao động.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|45/2013/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Lao động về thời giờ làm việc, thời giờ nghỉ ngơi và an toàn lao động, vệ sinh lao động|10-05-2013|Chính phủ|
+|142/2014/TT-BQP|Quy định công tác kiểm định kỹ thuật an toàn máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động trong Bộ Quốc phòng|22-10-2014|Bộ Quốc phòng|

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xử lý đơn tại cấp huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Gửi đơn trực tiếp đến cơ quan hoặc gửi đơn qua dịch vụ bưu chính.|
+|Trực tuyến|Khác||Không gửi đơn qua mạng|
+|Dịch vụ bưu chính|10 Ngày||Gửi đơn trực tiếp đến cơ quan hoặc gửi đơn qua dịch vụ bưu chính.|

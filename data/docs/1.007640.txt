@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007640
+Số quyết định:
+2061/QĐ-BTC
+Tên thủ tục:
+Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương.
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Người khai hải quan khai báo có khoản giảm giá tại tiêu chí “chi tiết khai trị giá” trên tờ khai nhập khẩu hoặc tại tiêu chí tương ứng trên tờ khai trị giá hải quan, nhưng chưa thực hiện điều chỉnh trừ khoản giảm giá trên tờ khai trị giá hải quan; Tính, nộp thuế theo trị giá chưa được trừ khoản giảm giá.
+Bước 2: Người khai hải quan nộp hồ sơ đề nghị xét khoản giảm giá sau khi hoàn thành việc nhập khẩu và thanh toán cho toàn bộ hàng hóa thuộc hợp đồng mua bán đến Cục Hải quan tỉnh, thành phố nơi người khai hải quan đăng ký tờ khai đối với trường hợp khoản giảm giá đáp ứng đầy đủ các điều kiện theo quy định với trị giá của khoản giảm giá dưới 5% tổng trị giá lô hàng và trị giá khai báo không thấp hơn mức giá tham chiếu của hàng hóa giống hệt tại Danh mục hàng hóa nhập khẩu rủi ro về trị giá.
+Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan hải quan nơi người khai hải quan nộp hồ sơ đề nghị xem xét điều chỉnh trừ khoản giảm giá thực hiện kiểm tra hồ sơ, chứng từ và các tài liệu có liên quan kèm theo văn bản đề nghị của người khai hải quan; kiểm tra, đối chiếu trị giá khai báo và thực tế về số lượng; cấp độ thương mại; hình thức và thời gian thanh toán với Bảng công bố giảm giá của người bán và ban hành văn bản trả lời người khai hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Nộp hồ sơ trực tiếp tại cơ quan hải quan - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Gửi hồ sơ qua đường bưu chính. - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị trừ khoản giảm giá sau khi hoàn thành việc nhập khẩu và thanh toán cho toàn bộ hàng hóa thuộc hợp đồng: 01 bản chính;
+- 01 Bản sao - Hợp đồng mua bán hàng hóa: 01 bản chụp;
+- 01 Bản chính - Bảng kê theo dõi thực tế việc nhập khẩu hàng hóa theo mẫu số 01/GG/2015 Phụ lục II Thông tư số 39/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính đối với trường hợp hàng hóa trong cùng một hợp đồng được nhập khẩu theo nhiều chuyến (nhiều tờ khai) khác nhau: 01 bản chính; ([39_2015_TT_BTC_25_03_2015_dinhkem.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef3ec024553ac7'))
+- 01 Bản sao - Bảng công bố giảm giá của người bán: 01 bản chụp;
+- 01 Bản sao - Chứng từ thanh toán của toàn bộ hàng hóa thuộc hợp đồng mua bán: 01 bản chụp.
+ Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời người khai hải quan
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan|21-01-2015|Chính phủ|
+|59/2018/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan|20-04-2018|Chính phủ|
+|39/2015/TT-BTC|Thông tư số 39/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+|60/2019/TT-BTC|Thông tư số 60/2019/TT-BTC ngày 30/8/2019 sửa đổi, bổ sung một số điều của Thông tư số 39/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về trị giá hải quan đối với hàng hóa xuất khẩu, nhập khẩu.|30-08-2019|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+1.1. Khoản giảm giá đáp ứng đầy đủ các điều kiện theo quy định với trị giá của khoản giảm giá dưới 5% tổng trị giá lô hàng và trị giá khai báo không thấp hơn mức giá tham chiếu của hàng hóa giống hệt tại Danh mục hàng hóa nhập khẩu rủi ro về trị giá giảm giá.
+
+1.2. Khoản giảm giá thuộc một trong các loại giảm giá sau: Giảm giá theo cấp độ thương mại của giao dịch mua bán hàng hóa; Giảm giá theo số lượng hàng hóa mua bán; Giảm giá theo hình thức và thời gian thanh toán.
+
+1.3. Khoản giảm giá được lập thành văn bản trước khi xếp hàng lên phương tiện vận tải ở nước xuất khẩu hàng hóa.
+
+1.4. Có số liệu khách quan, định lượng được phù hợp với các chứng từ để tách khoản giảm giá này ra khỏi trị giá giao dịch. Các chứng từ này được nộp cùng với tờ khai hải quan.
+
+1.5. Thực hiện thanh toán qua ngân hàng bằng phương thức L/C hoặc TTR cho toàn bộ hàng hóa nhập khẩu thuộc hợp đồng mua bán.
+
+1.6. Trị giá khai báo và thực tế về số lượng hàng hóa nhập khẩu, cấp độ thương mại, hình thức và thời gian thanh toán phải phù hợp với Bảng công bố giảm giá của người bán.
+1.1. Khoản giảm giá đáp ứng đầy đủ các điều kiện theo quy định với trị giá của khoản giảm giá dưới 5% tổng trị giá lô hàng và trị giá khai báo không thấp hơn mức giá tham chiếu của hàng hóa giống hệt tại Danh mục hàng hóa nhập khẩu rủi ro về trị giá giảm giá.
+
+1.2. Khoản giảm giá thuộc một trong các loại giảm giá sau: Giảm giá theo cấp độ thương mại của giao dịch mua bán hàng hóa; Giảm giá theo số lượng hàng hóa mua bán; Giảm giá theo hình thức và thời gian thanh toán.
+
+1.3. Khoản giảm giá được lập thành văn bản trước khi xếp hàng lên phương tiện vận tải ở nước xuất khẩu hàng hóa.
+
+1.4. Có số liệu khách quan, định lượng được phù hợp với các chứng từ để tách khoản giảm giá này ra khỏi trị giá giao dịch. Các chứng từ này được nộp cùng với tờ khai hải quan.
+
+1.5. Thực hiện thanh toán qua ngân hàng bằng phương thức L/C hoặc TTR cho toàn bộ hàng hóa nhập khẩu thuộc hợp đồng mua bán.
+
+1.6. Trị giá khai báo và thực tế về số lượng hàng hóa nhập khẩu, cấp độ thương mại, hình thức và thời gian thanh toán phải phù hợp với Bảng công bố giảm giá của người bán.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

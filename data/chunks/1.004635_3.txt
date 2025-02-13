@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký đầu tư đối với dự án không thuộc diện quyết định chủ trương đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ.|Lệ phí : 0 Đồng Không có|Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|

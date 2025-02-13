@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002169
+Số quyết định:
+1707/QD-BTC
+Tên thủ tục:
+Chi trả phí bảo hiểm nông nghiệp được hỗ trợ từ ngân sách nhà nước
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Bảo hiểm
+Trình tự thực hiện:
+a) Trong thời hạn 10 ngày kể từ ngày kết thúc tháng, doanh nghiệp bảo hiểm lập hồ sơ đề nghị chi trả phí bảo hiểm nông nghiệp được ngân sách nhà nước hỗ trợ và gửi đến Sở Nông nghiệp và Phát triển nông thôn tỉnh, thành phố trực thuộc trung ương.
+b) Trong thời hạn 10 ngày kể từ ngày nhận được đầy đủ hồ sơ hợp lệ, căn cứ Quyết định của Thủ tướng Chính phủ, Quyết định phê duyệt đối tượng được hỗ trợ của Ủy ban nhân dân cấp tỉnh, Sở Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Sở Tài chính hoàn thành việc thẩm định trình Ủy ban nhân dân cấp tỉnh ban hành Quyết định chi trả phí bảo hiểm nông nghiệp được ngân sách trung ương và ngân sách địa phương hỗ trợ. Trường hợp từ chối chi trả, Sở Nông nghiệp và Phát triển nông thôn có trách nhiệm thông báo bằng văn bản cho doanh nghiệp bảo hiểm và nêu rõ lý do.
+c) Trong thời hạn 10 ngày kể từ ngày Ủy ban nhân dân cấp tỉnh ban hành Quyết định chi trả, Sở Tài chính căn cứ vào Quyết định chi trả của Ủy ban nhân dân cấp tỉnh để lập lệnh chi tiền cho doanh nghiệp bảo hiểm qua Kho bạc Nhà nước cấp tỉnh; Kho bạc Nhà nước cấp tỉnh thực hiện chuyển tiền về tài khoản của doanh nghiệp bảo hiểm mở tại các ngân hàng thương mại.
+d) Trường hợp chưa hoàn thành việc chi trả cho doanh nghiệp bảo hiểm theo quy định tại điểm c, Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo Sở Tài chính thông báo bằng văn bản cho doanh nghiệp bảo hiểm và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Nộp trực tiếp|
+|Dịch vụ bưu chính|30 Ngày||Nộp qua bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bảng kê (kèm theo bản sao) hợp đồng bảo hiểm nông nghiệp mà doanh nghiệp bảo hiểm đã ký kết với tổ chức, cá nhân sản xuất nông nghiệp theo mẫu quy định tại Phụ lục 6 ban hành kèm theo Nghị định số 58/2018/NĐ-CP. ([Bang ke BHNN 06.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcc7b96128eff4'))
+- 01 Bản chính - Đơn đề nghị chi trả phí bảo hiểm nông nghiệp được hỗ trợ từ ngân sách nhà nước theo mẫu quy định tại Phụ lục 5 ban hành kèm theo Nghị định số 58/2018/NĐ-CP. ([De nghị chi tra phi bao hiem.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecbbba30c36862'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Tài chính, Sở Nông nghiệp và Phát triển Nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chi trả phí bảo hiểm nông nghiệp của UBND cấp tỉnh hoặc Thông báo từ chối chi trả phí bảo hiểm nông nghiệp của Sở Nông nghiệp và Phát triển nông thôn tỉnh, - Lệnh chi tiền cho doanh nghiệp bảo hiểm qua Khoa bạc nhà nước., Kho bạc Nhà nước cấp tỉnh thực hiện chuyển tiền về tài khoản của doanh nghiệp bảo hiểm mở tại các ngân hàng thương mại, Văn bản thông báo của Sở Tài chính về việc chưa hoàn thành việc chi trả cho doanh nghiệp bảo hiểm và nêu rõ lý do., Quyết định chi trả phí bảo hiểm nông nghiệp được ngân sách trung ương và ngân sách địa phương hỗ trợ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|61/2010/QH12|Sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm|24-11-2010|Quốc Hội|
+|24/2000/QH10|Kinh doanh bảo hiểm|09-12-2000|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

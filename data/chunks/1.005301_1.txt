@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục khai báo thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005301
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục khai báo thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân

@@ -1,0 +1,14 @@
+Tên thủ tục: Công bố đưa trạm dừng nghỉ vào khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Biên bản nghiệm thu xây dựng;
+- 01 Bản chính Giấy đề nghị tiếp tục công bố đưa trạm dừng nghỉ vào khai thác theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedad776ef67dbf'">Mẫu TT 20 - 1.doc</a>)
+- 01 Bản chính Văn bản chấp thuận đấu nối đường ra, vào trạm dừng nghỉ với đường giao thông của cơ quan có thẩm quyền;
+- 01 Bản chính Sơ đồ mặt bằng tổng thể, thiết kế kỹ thuật trạm dừng nghỉ;
+- 01 Bản chính Quyết định cho phép đầu tư xây dựng của cơ quan có thẩm quyền;
+- 01 Bản chính Bản đối chiếu các quy định kỹ thuật của Quy chuẩn với các công trình của trạm dừng nghỉ theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feda5f54d2209a4'">Mẫu TT 20 - 2.doc</a>)
+- 01 Bản chính Giấy chứng nhận đăng ký kinh doanh của đơn vị kinh doanh khai thác trạm dừng nghỉ;
+- 01 Bản chính Quy chế quản lý khai thác do trạm dừng nghỉ ban hành

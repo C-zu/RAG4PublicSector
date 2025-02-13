@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục hỗ trợ tư vấn, hướng dẫn hồ sơ, thủ tục chuyển đổi hộ kinh doanh thành doanh nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao hợp lệ Giấy đăng ký kinh doanh của hộ kinh doanh;
+- 01 Bản sao - Bản sao hợp lệ Giấy chứng nhận đăng ký mã số thuế;
+- 01 Bản sao - Bản sao hợp lệ chứng từ nộp lệ phí môn bài, các loại thuế và khoản nộp ngân sách nhà nước khác (nếu có), ờ khai thuế trong thời hạn 01 năm trước khi chuyển đổi.

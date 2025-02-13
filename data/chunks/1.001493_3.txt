@@ -1,0 +1,8 @@
+Tên thủ tục: Chấm dứt hoạt động cơ sở đào tạo, bồi dưỡng ngắn hạn có vốn đầu tư nước ngoài tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|30 Ngày làm việc||Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ|

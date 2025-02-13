@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp mã số, mã vạch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Đơn đăng ký sử dụng mã số, mã vạch theo Mẫu số 12 Phụ lục ban hành kèm theo Nghị định số 74/2018/NĐ-CP; - Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập.

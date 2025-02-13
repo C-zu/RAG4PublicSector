@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới sản xuất, lắp ráp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Cơ sở thiết kế hoặc cơ sở sản xuất đối với trường hợp đủ điều kiện tự thiết kế sản phẩm (sau đây gọi chung là cơ sở thiết kế) lập hồ sơ đề nghị thẩm định thiết kế theo quy định và nộp đến Cục Đăng kiểm Việt Nam.
+b) Giải quyết TTHC:
+- Cục Đăng kiểm Việt Nam tiếp nhận và kiểm tra thành phần hồ sơ: nếu hồ sơ không đầy đủ theo quy định thì hướng dẫn cơ sở hoàn thiện lại; Nếu hồ sơ đầy đủ theo quy định thì viết giấy hẹn thời gian trả kết quả thẩm định thiết kế;
+- Thẩm định nội dung thiết kế được thực hiện trong thời hạn 08 ngày làm việc kể từ ngày nhận được đủ thành phần hồ sơ theo quy định. Trường hợp hồ sơ thiết kế có kết quả thẩm định đạt yêu cầu (hồ sơ thiết kế đạt yêu cầu), Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ thiết kế đạt yêu cầu.
++ Trường hợp hồ sơ thiết kế đầy đủ nhưng có các nội dung chưa đạt yêu cầu thì Cục Đăng kiểm Việt Nam thông báo bằng văn bản hoặc thông báo thông qua hệ thống dịch vụ công trực tuyến lý do và nội dung chưa đạt yêu cầu để Cơ sở thiết kế hoàn thiện hồ sơ thiết kế. Cơ sở thiết kế có trách nhiệm hoàn thiện hồ sơ thiết kế và nộp lại trong thời hạn 30 ngày làm việc kể từ ngày thông báo và gửi lại Cục Đăng kiểm Việt Nam. Trong 08 ngày làm việc kể từ ngày nhận được hồ sơ đã hoàn thiện đầy đủ, Cục Đăng kiểm Việt Nam kiểm tra, đánh giá lại hồ sơ thiết kế. Nếu hồ sơ thiết kế đạt yêu cầu, Cục Đăng kiểm Việt Nam cấp Giấy chứng nhận thẩm định thiết kế; nếu hồ sơ thiết kế không đạt yêu cầu, Cục Đăng kiểm Việt Nam thông báo bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế và nêu rõ lý do. 
++ Quá thời hạn 30 ngày làm việc kể từ ngày thông báo, cơ sở thiết kế không hoàn thiện các nội dung chưa phù phù hợp của hồ sơ thiết kế, Cục Đăng kiểm Việt Nam sẽ dừng việc thẩm định hồ sơ thiết kế và thông báo bằng văn bản hoặc thông báo trên hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế. Để tiếp tục thực hiện việc thẩm định hồ sơ thiết kế, cơ sở thiết kế phải thực hiện nộp lại hồ sơ từ đầu;
+- Cơ sở thiết kế nhận kết quả thẩm định thiết kế gồm:
++ Trường hợp nhận trực tiếp tại trụ sở Cơ quan QLCL hoặc qua hệ thống bưu chính: 01 Giấy chứng nhận thẩm định thiết kế; bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật (01 bản đối với trường hợp cơ sở thiết kế đồng thời là cơ sở sản xuất hoặc 02 bản đối với trường hợp cơ sở thiết kế khác cơ sở sản xuất) của hồ sơ thiết kế; 
++ Trường hợp nhận qua hệ thống dịch vụ công trực tuyến: bản điện tử Giấy chứng nhận thẩm định thiết kế; bản điện tử bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật của hồ sơ thiết kế.

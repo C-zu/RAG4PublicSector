@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND cấp huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|19 Ngày làm việc|Lệ phí : Đồng Theo quy định tại Thông tư số 20/2019/TT-BXD ngày 31/12/2019 về hướng dẫn xác định, quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị.|Tại Trung tâm Hành chính công cấp huyện.|
+|Dịch vụ bưu chính|19 Ngày làm việc|Lệ phí : Đồng Theo quy định tại Thông tư số 20/2019/TT-BXD ngày 31/12/2019 về hướng dẫn xác định, quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị.|Qua dịch vụ bưu chính|

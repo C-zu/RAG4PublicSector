@@ -1,0 +1,8 @@
+Tên thủ tục: Công nhận nguồn giống cây trồng lâm nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị công nhận nguồn giống cây trồng lâm nghiệp theo Mẫu số 04 Phụ lục II ban hành kèm theo Thông tư số 30/2018/TT-BNNPTNT ngày 15/11/2018 quy định Danh mục giống cây trồng lâm nghiệp chính; công nhận giống, nguồn giống và quản lý vật liệu giống cây trồng lâm nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf9adb49134726'">Mẫu số 04.TT30.2018.docx</a>)
+- 01 Bản chính Báo cáo kỹ thuật về nguồn giống theo Mẫu số 05 Phụ lục II ban hành kèm theo Thông tư số 30/2018/TT-BNNPTNT ngày 15/11/2018 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecf1576606535e'">Mẫu 05.TT30.2018.doc</a>)

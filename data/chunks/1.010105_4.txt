@@ -1,0 +1,10 @@
+Tên thủ tục: Xác nhận đủ điều kiện nhập khẩu danh mục đối với đồ chơi trẻ em, máy móc thiết bị trò chơi điện tử
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị nhập khẩu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd962d736024a70'">DDN Xac nhan du DK nhap khau doi voi do choi tre em.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe17747f778051b'">DDN Xac nhan du dieu kien NK may moc thiet bi tro choi dien tu.docx</a>)
+- 01 Bản chính 2. Văn bản chấp thuận cho Doanh nghiệp đủ điều kiện nhập khẩu hàng hóa và danh mục hàng hóa được nhập khẩu;
+- 01 Bản chính 3. Hồ sơ tài liệu chứng minh nguồn gốc hợp pháp của sản phẩm hàng hóa đề nghị nhập khẩu (kèm theo văn bản dịch ra tiếng Việt);
+- 01 Bản chính 4. Bản mô tả nội dung, hình ảnh, cách thức vận hành/sử dụng, chủng loại, số lượng, tính năng của từng loại hàng hóa và các thông tin liên quan khác đến sản phẩm nhập khẩu (nếu có);

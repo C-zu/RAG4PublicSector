@@ -1,0 +1,9 @@
+Tên thủ tục: cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định chất lượng sản phẩm, hàng hóa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc|
+|Trực tuyến|15 Ngày làm việc||15 ngày làm việc|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc|

@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001322
+Số quyết định:
+701/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Đơn vị đăng kiểm có nhu cầu lập 01 (một) bộ hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới gửi về Sở Giao thông vận tải, Sở Giao thông - Xây dựng (sau đây gọi chung là Sở Giao thông vận tải).
+b) Giải quyết TTHC:
+- Trong thời hạn 03 ngày làm việc, nếu hồ sơ đầy đủ và phù hợp theo quy định, Sở Giao thông vận tải thông báo cho tổ chức thành lập đơn vị đăng kiểm về thời gian kiểm tra, đánh giá thực tế đơn vị đăng kiểm. Trường hợp hồ sơ không đầy đủ, không phù hợp theo quy định, Sở Giao thông vận tải phải thông báo cho tổ chức thành lập đơn vị đăng kiểm bằng văn bản, trong đó nêu rõ lý do
+- Trong thời hạn 05 ngày làm việc, kể từ ngày thông báo kiểm tra, đánh giá, Sở Giao thông vận tải tiến hành kiểm tra, đánh giá thực tế. Kết quả đánh giá được lập thành Biên bản theo mẫu quy định. Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới với mã số đơn vị đăng kiểm trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để tổ chức thành lập đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, nếu hồ sơ đầy đủ và phù hợp theo quy định, Sở Giao thông vận tải thông báo cho tổ chức thành lập đơn vị đăng kiểm về thời gian kiểm tra, đánh giá thực tế đơn vị đăng kiểm|
+|Trực tiếp|5 Ngày làm việc||Trong thời hạn 05 ngày làm việc, kể từ ngày thông báo kiểm tra, đánh giá, Sở Giao thông vận tải tiến hành kiểm tra, đánh giá thực tế|
+|Trực tiếp|5 Ngày làm việc||Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới với mã số đơn vị đăng kiểm trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để tổ chức thành lập đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại|
+|Trực tuyến|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, nếu hồ sơ đầy đủ và phù hợp theo quy định, Sở Giao thông vận tải thông báo cho tổ chức thành lập đơn vị đăng kiểm về thời gian kiểm tra, đánh giá thực tế đơn vị đăng kiểm|
+|Trực tuyến|5 Ngày làm việc||Trong thời hạn 05 ngày làm việc, kể từ ngày thông báo kiểm tra, đánh giá, Sở Giao thông vận tải tiến hành kiểm tra, đánh giá thực tế|
+|Trực tuyến|5 Ngày làm việc||Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới với mã số đơn vị đăng kiểm trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để tổ chức thành lập đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, nếu hồ sơ đầy đủ và phù hợp theo quy định, Sở Giao thông vận tải thông báo cho tổ chức thành lập đơn vị đăng kiểm về thời gian kiểm tra, đánh giá thực tế đơn vị đăng kiểm|
+|Dịch vụ bưu chính|5 Ngày làm việc||Trong thời hạn 05 ngày làm việc, kể từ ngày thông báo kiểm tra, đánh giá, Sở Giao thông vận tải tiến hành kiểm tra, đánh giá thực tế|
+|Dịch vụ bưu chính|5 Ngày làm việc||Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới với mã số đơn vị đăng kiểm trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để tổ chức thành lập đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị kiểm tra cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới theo mẫu quy định ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fccacbcb36097cc'))
+- 01 Bản chính, 01 Bản sao Danh sách trích ngang nhân lực của đơn vị kèm theo các hồ sơ sau: Quyết định bổ nhiệm lãnh đạo đơn vị đăng kiểm; quyết định bổ nhiệm đối với phụ trách bộ phận kiểm định; bản sao được chứng thực hợp đồng lao động theo quy định, quyết định tuyển dụng hoặc tiếp nhận đối với đăng kiểm viên, nhân viên nghiệp vụ và các văn bằng, chứng chỉ được chứng thực của từng cá nhân
+- 01 Bản chính Bản đối chiếu các quy định về cơ sở vật chất, dây chuyền kiểm định theo quy chuẩn kỹ thuật quốc gia
+- 01 Bản chính Bản vẽ bố trí mặt bằng tổng thể và mặt bằng nhà xưởng có bố trí dây chuyền và thiết bị kiểm tra
+- 01 Bản chính, 01 Bản sao Văn bản chấp thuận chủ trương đầu tư của cơ quan có thẩm quyền của địa phương (bản sao có chứng thực hoặc bản chính để đối chiếu)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới với mã số đơn vị đăng kiểm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|139/2018/NĐ-CP|Quy định về kinh doanh dịch vụ kiểm định xe cơ giới|08-10-2018|Chính phủ|
+|30/2023/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 139/2018/NĐ-CP ngày 08 tháng 10 năm 2018 của Chính phủ Quy định về kinh doanh dịch vụ kiểm định xe cơ giới|08-06-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức đáp ứng điều kiện về cơ sở vật chất, cơ cấu tổ chức, nhân lực theo quy định tại Nghị định số 139/2018/NĐ-CP và Quy chuẩn kỹ thuật quốc gia về đơn vị đăng kiểm do Bộ Giao thông vận tải ban hành được cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

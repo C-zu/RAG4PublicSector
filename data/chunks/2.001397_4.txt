@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký thêm con dấu (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đối với cơ quan, tổ chức, chức danh nhà nước đăng ký thêm dấu ướt: Giấy giới thiệu hoặc Giấy ủy quyền; văn bản cho phép được sử dụng thêm dấu ướt của cơ quan có thẩm quyền.
+- 01 Bản chính - Đối với cơ quan, tổ chức, chức danh nhà nước đăng ký thêm dấu nổi, dấu thu nhỏ, dấu xi: Văn bản đề nghị đăng ký thêm con dấu của người đứng đầu cơ quan, tổ chức hoặc chức danh nhà nước, trong đó nêu rõ lý do và người được cử liên hệ nộp hồ sơ.
+- 01 Bản chính - Đối với tổ chức kinh tế đăng ký thêm dấu nổi, dấu thu nhỏ, dấu xi: Văn bản đề nghị đăng ký thêm con dấu của người đứng đầu tổ chức kinh tế, trong đó nêu rõ lý do và người được cử liên hệ nộp hồ sơ.

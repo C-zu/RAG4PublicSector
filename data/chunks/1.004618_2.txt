@@ -1,0 +1,9 @@
+Tên thủ tục: Bổ sung, thay đổi thông tin của thuốc đã kê khai, kê khai lại trong trường hợp có thay đổi so với thông tin đã được công bố nhưng giá thuốc không đổi
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở kê khai giá thuốc gửi hồ sơ Bổ sung, thay đổi thông tin của thuốc đã kê khai, kê khai lại về Cơ quan tiếp nhận. (Cục Quản lý Y Dược cổ truyền: đối với thuốc cổ truyền. Cục Quản lý Dược: đối với các thuốc còn lại)
+Bước 2: Cơ quan tiếp nhận tiếp nhận, kiểm tra hồ sơ và trả Phiếu tiếp nhận hồ sơ thay đổi, bổ sung thông tin
+Bước 3: Cơ quan quản lý nhà nước rà soát thông tin đề nghị bổ sung, thay đổi của thuốc đã kê khai
+Bước 4:  -Công bố thông tin bổ sung, thay đổi của thuốc đã kê khai trên Cổng thông tin điện tử của cơ quan thực hiện đối với các trường hợp đáp ứng quy định trong vòng 07 (bảy) ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định.
+               - Thông báo bằng văn bản cho cơ sở kê khai giá rà soát lại thông tin

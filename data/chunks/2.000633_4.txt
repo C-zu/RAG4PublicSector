@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép sản xuất rượu thủ công nhằm mục đích kinh doanh theo Mẫu số 01 ban hành kèm theo Nghị định số 17/2020/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc82acdc1c9edb4'">Mẫu số 01.docx</a>)
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã hoặc hộ kinh doanh.
+- 01 Bản sao + Bản sao Bản công bố sản phẩm rượu hoặc bản sao Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm (đối với rượu chưa có quy chuẩn kỹ thuật); bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm, trừ trường hợp đối với cơ sở thuộc loại kinh doanh thực phẩm nhỏ lẻ theo quy định của pháp luật về an toàn thực phẩm.
+- 01 Bản chính, 01 Bản sao + Bản liệt kê tên hàng hóa rượu kèm theo bản sao nhãn hàng hóa rượu mà tổ chức, cá nhân sản xuất hoặc dự kiến sản xuất.

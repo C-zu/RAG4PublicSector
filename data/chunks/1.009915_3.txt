@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ câu lạc bộ, đội văn nghệ dân gian tại các điểm du lịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||a) Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, UBND huyện thông báo kết quả thẩm định hồ sơ; b) Trong thời hạn 02 ngày làm việc Phòng Văn hóa, Thông tin thực hiện thanh toán cho tổ chức, cá nhân theo quy định.|
+|Dịch vụ bưu chính|15 Ngày||a) Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, UBND huyện thông báo kết quả thẩm định hồ sơ; b) Trong thời hạn 02 ngày làm việc Phòng Văn hóa, Thông tin thực hiện thanh toán cho tổ chức, cá nhân theo quy định.|

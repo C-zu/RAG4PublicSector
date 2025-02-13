@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cung cấp dữ liệu đất đai (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Phí : Đồng Thực hiện theo quy định pháp luật về phí, lệ phí và quy định của pháp luật hiện hành.|Cách thức thực hiện: - Nộp trực tiếp hoặc nộp trên môi trường điện tử qua Cổng dịch vụ công cấp tỉnh hoặc nộp trực tiếp đến Văn phòng đăng ký đất đai. Đối với địa phương chưa xây dựng cơ sở dữ liệu đất đai, Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp xã hoặc gửi qua đường công văn, fax, bưu điện, thư điện tử hoặc qua cổng thông tin đất đai. Thời hạn giải quyết - Trường hợp nhận được yêu cầu trước 15 giờ thì phải cung cấp ngay trong ngày; trường hợp nhận được yêu cầu sau 15 giờ thì cung cấp dữ liệu đất đai được thực hiện vào ngày làm việc tiếp theo; - Trường hợp yêu cầu cung cấp dữ liệu đất đai dưới hình thức tổng hợp thông tin thì thời hạn cung cấp dữ liệu đất đai được xác định theo thỏa thuận giữa cơ quan cung cấp dữ liệu đất đai và người có yêu cầu bằng hình thức hợp đồng. - Trường hợp từ chối cung cấp thông tin, dữ liệu thì phải nêu rõ lý do và trả lời bằng văn bản cho tổ chức, cá nhân biết.|

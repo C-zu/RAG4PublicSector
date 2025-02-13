@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện đặt trên phương tiện nghề cá
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Đồng Theo Thông tư số 265/2016/TT-BTC ngày 14/11/2016của Bộ Tài chínhquy định mức thu, chế độ thu, nộp và quản lý sử dụng lệ phí cấp giấy phép sử dụng tần số vô tuyến điện và phí sử dụng tần số vô tuyến điện.|Trực tiếp tại các Trung tâm Tần số vô tuyến điện khu vực phục trách địa bàn hoặc các cơ quan phối hợp trên địa bàn do Cục Tần số vô tuyến điện ủy quyền. 10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định|
+|Trực tuyến|10 Ngày làm việc|Lệ phí : Đồng Theo Thông tư số 265/2016/TT-BTC ngày 14/11/2016của Bộ Tài chínhquy định mức thu, chế độ thu, nộp và quản lý sử dụng lệ phí cấp giấy phép sử dụng tần số vô tuyến điện và phí sử dụng tần số vô tuyến điện.|10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Đồng Theo Thông tư số 265/2016/TT-BTC ngày 14/11/2016của Bộ Tài chínhquy định mức thu, chế độ thu, nộp và quản lý sử dụng lệ phí cấp giấy phép sử dụng tần số vô tuyến điện và phí sử dụng tần số vô tuyến điện.|10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định|

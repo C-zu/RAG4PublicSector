@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xác định danh mục nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Thành lập Hội đồng tư vấn xác định nhiệm vụ: 10 ngày làm việc kể từ ngày kết thúc nhận đề xuất nhiệm vụ; - Phê duyệt Danh mục nhiệm vụ hằng năm, định kỳ: 10 ngày làm việc kể từ khi có kết quả làm việc của Hội đồng tư vấn xác định nhiệm vụ; - Công bố Danh mục nhiệm vụ hằng năm, định kỳ trên Cổng Thông tin điện tử của Bộ Khoa học và Công nghệ và Cổng Thông tin khởi nghiệp đổi mới sáng tạo quốc gia: 10 ngày làm việc kể từ ngày có quyết định phê duyệt Danh mục nhiệm vụ hằng năm, định kỳ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Thành lập Hội đồng tư vấn xác định nhiệm vụ: 10 ngày làm việc kể từ ngày kết thúc nhận đề xuất nhiệm vụ; - Phê duyệt Danh mục nhiệm vụ hằng năm, định kỳ: 10 ngày làm việc kể từ khi có kết quả làm việc của Hội đồng tư vấn xác định nhiệm vụ; - Công bố Danh mục nhiệm vụ hằng năm, định kỳ trên Cổng Thông tin điện tử của Bộ Khoa học và Công nghệ và Cổng Thông tin khởi nghiệp đổi mới sáng tạo quốc gia: 10 ngày làm việc kể từ ngày có quyết định phê duyệt Danh mục nhiệm vụ hằng năm, định kỳ.|

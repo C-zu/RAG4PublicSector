@@ -1,0 +1,23 @@
+Tên thủ tục: Đăng ký hoạt động bán hàng đa cấp tại địa phương
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký hoạt động bán hàng đa cấp tại địa phương
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Nghị định 40/2018/NĐ-CP|Về quản lý hoạt động kinh doanh theo phương thức đa cấp|12-03-2018|Chính phủ|
+|03/2023/NĐ-CP|Nghị định 03/2023/NĐ-CP|10-02-2023||
+|18/2023/NĐ-CP|NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 40/2018/NĐ-CP NGÀY 12 THÁNG 3 NĂM 2018 CỦA CHÍNH PHỦ VỀ QUẢN LÝ HOẠT ĐỘNG KINH DOANH THEO PHƯƠNG THỨC ĐA CẤP|28-04-2023|Chính phủ|

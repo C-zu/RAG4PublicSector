@@ -1,0 +1,9 @@
+Tên thủ tục: Cho thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc050709fa23f0'">Don dang ky thue thue mua nha o XH thuoc SHNN.55.docx</a>)
+- 01 Bản chính Giấy tờ chứng minh thuộc đối tượng và có đủ điều kiện về nhà ở, cư trú, thu nhập; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42048e7dd26b7'">Giay xac nhan ve doi tuong va thuc trang nha o de dang ky thue thue muaNOXH thuoc SHNN.docx</a>)
+ Giấy tờ chứng minh thuộc đối tượng được miễn, giảm tiền thuê nhà ở xã hội (nếu có). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd96950144f9ec0'">Mau ke khai ve thu nhap.57.docx</a>)

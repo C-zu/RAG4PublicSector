@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ cho người lao động thuộc đối tượng là người bị thu hồi đất nông nghiệp đi làm việc ở nước ngoài theo hợp đồng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị hỗ trợ theo Mẫu số 02a tại Phụ lục; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9c42764ee6470'">Mau so 02a.docx</a>)
+- 01 Bản sao - Bản sao hợp đồng đi làm việc ở nước ngoài ký giữa người lao động và doanh nghiệp đưa người lao động đi làm việc ở nước ngoài (có xác nhận của doanh nghiệp) hoặc hợp đồng lao động trực tiếp giao kết giữa người lao động với người sử dụng lao động ở nước ngoài (nếu hợp đồng bằng tiếng nước ngoài thì phải dịch sang tiếng Việt và có chứng thực) và xác nhận đăng ký hợp đồng lao động của Sở Lao động - Thương binh và Xã hội;
+- 01 Bản sao - Bản sao hộ chiếu và thị thực;
+- 01 Bản sao - Bản sao chứng chỉ hoặc giấy chứng nhận hoàn thành khóa đào tạo nghề, ngoại ngữ, giáo dục định hướng của người lao động làm cơ sở thanh toán chi phí ăn, ở trong thời gian đào tạo;
+- 01 Bản chính - Hóa đơn hoặc biên lai thu tiền đào tạo nghề, ngoại ngữ, giáo dục định hướng, khám sức khỏe, hộ chiếu, thị thực và lý lịch tư pháp.

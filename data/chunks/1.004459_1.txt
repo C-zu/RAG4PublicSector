@@ -1,0 +1,16 @@
+Tên thủ tục: Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004459
+Số quyết định:
+2416/QĐ-BYT
+Tên thủ tục:
+Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

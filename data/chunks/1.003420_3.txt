@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục giải quyết hưởng chế độ tử tuất một lần
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Lệ phí : 0 Đồng|1. Cấp trung đoàn và tương đương: 30 ngày; 2. Cấp sư đoàn và tương đương: 10 ngày; 3. Cấp đơn vị trực thuộc Bộ: 05 ngày; 4. Bảo hiểm xã hội Bộ Quốc phòng: 15 ngày * Cách thức thực hiện: Thân nhân của người lao động trực tiếp nộp hồ sơ theo quy định cho cơ quan nhân sự cấp trung đoàn và tương đương.|

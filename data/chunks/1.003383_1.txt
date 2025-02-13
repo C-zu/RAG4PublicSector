@@ -1,0 +1,16 @@
+Tên thủ tục: Lấy ý kiến báo cáo ĐTM không thuộc thẩm quyền thẩm định và phê duyệt của Bộ Nông nghiệp và PTNT
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003383
+Số quyết định:
+2481/QĐ-BNN-VP
+Tên thủ tục:
+Lấy ý kiến báo cáo ĐTM không thuộc thẩm quyền thẩm định và phê duyệt của Bộ Nông nghiệp và PTNT
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nông nghiệp

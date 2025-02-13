@@ -1,0 +1,27 @@
+Tên thủ tục: Đăng ký kế hoạch mua/mua bổ sung tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Msố 02/TB/TEM
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|51/2005/QH11|Luật 51/2005/QH11|30-11-2005||
+|67/2006/QH11|Luật 67/2006/QH11|30-06-2006||
+|67/2013/NĐ-CP|Nghị định 67/2013/NĐ-CP|28-06-2013||
+|105/2017/NĐ-CP|Nghị định 105/2017/NĐ-CP|14-09-2017||
+|123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP|19-10-2020||
+|23/2021/TT-BTC|Thông tư 23/2021/TT-BTC|30-03-2021||

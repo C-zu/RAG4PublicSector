@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002031
+Số quyết định:
+1118/QĐ-NHNN
+Tên thủ tục:
+Thủ tục cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động thanh toán

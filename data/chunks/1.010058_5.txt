@@ -1,0 +1,22 @@
+Tên thủ tục: Trình tự xác định tiền thuê đất, thuê mặt nước (gọi chung là tiền thuê đất).
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo về việc nộp tiền thuê đất, thuê mặt nước ban hành kèm theo Thông tư số 77/2014/TT-BTC ngày 16/6/2014 của Bộ Tài chính.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|77/2014/TT-BTC|Thông tư 77/2014/TT-BTC|16-06-2014|Bộ Tài chính|
+|46/2014/NĐ-CP|Nghị đinh 46/2014/NĐ-CP|15-05-2014|Chính phủ|

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá kinh doanh theo phương thức chuyển khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Văn bản đề nghị chuyển khẩu hàng hóa theo mẫu số 22/CKHH/GSQL Phụ lục V ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính
+ Vận tải đơn hàng nhập khẩu: 01 bản chụp.

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đăng ký thay đổi khoản vay nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|27 Ngày làm việc||+ Trường hợp bên đi vay đã khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ đăng ký thay đổi: 12 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ; + Trường hợp bên đi vay không khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ đăng ký thay đổi: 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|27 Ngày làm việc||+ Trường hợp bên đi vay đã khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ đăng ký thay đổi: 12 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ; + Trường hợp bên đi vay không khai báo thông tin thay đổi khoản vay trên Trang điện tử trước khi gửi hồ sơ đăng ký thay đổi: 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|

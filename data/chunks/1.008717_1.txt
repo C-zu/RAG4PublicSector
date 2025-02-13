@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt Hồ sơ dự toán; Thẩm định hoặc Thẩm định và Phê duyệt Hồ sơ Báo cáo kinh tế kỹ thuật, Báo cáo Kinh tế kỹ thuật điều chỉnh (Thuộc nguồn vốn sự nghiệp hoặc nguồn vốn ủy quyền quản lý của trung ương hoặc nguồn vốn ATGT)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008717
+Số quyết định:
+910/QĐ-UBND_ĐT
+Tên thủ tục:
+Phê duyệt Hồ sơ dự toán; Thẩm định hoặc Thẩm định và Phê duyệt Hồ sơ Báo cáo kinh tế kỹ thuật, Báo cáo Kinh tế kỹ thuật điều chỉnh (Thuộc nguồn vốn sự nghiệp hoặc nguồn vốn ủy quyền quản lý của trung ương hoặc nguồn vốn ATGT)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

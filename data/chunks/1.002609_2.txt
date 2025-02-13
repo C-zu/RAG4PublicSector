@@ -1,0 +1,6 @@
+Tên thủ tục: Cấp lại giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin bị mất hoặc bị hư hỏng, doanh nghiệp gửi hồ sơ đề nghị cấp lại Giấy phép tới Bộ Thông tin và Truyền thông.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông xem xét và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.

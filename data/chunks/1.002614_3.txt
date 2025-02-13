@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Quyêt định sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ để thực hiện cam kết, thỏa thuận, hợp đồng với bên nước ngoài (không bao gồm việc mở và sử dụng tài khoản ngoại tệ ở nước ngoài để thực hiện khoản vay nước ngoài theo yêu cầu của bên cho vay nước ngoài)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|||
+|Dịch vụ bưu chính|15 Ngày|||

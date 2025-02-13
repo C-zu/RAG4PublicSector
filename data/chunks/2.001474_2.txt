@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Thương nhân trước gửi thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại đến Sở Công Thương nơi đã thông báo thực hiện khuyến mại.
+- Sở Công Thương tiếp nhận hồ sơ thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại của thương nhân.
+- Việc sửa đổi, bổ sung nội dung chương trình khuyến mại phải đảm bảo không ảnh hưởng đến quyền lợi của các thương nhân, tổ chức, cá nhân có liên quan.

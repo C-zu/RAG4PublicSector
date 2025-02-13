@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002925
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền
+Cấp thực hiện:
+Cấp Bộ, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý biên giới

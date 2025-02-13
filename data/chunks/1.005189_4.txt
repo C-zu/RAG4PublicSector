@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép nhận chìm ở biển (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Đơn đề nghị cấp Giấy phép nhận chìm ở biển được lập theo Mẫu số 04 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa38dc0164cc390'">Mẫu số 04 nhận chìm.docx</a>)
+- 02 Bản chính Dự án nhận chìm ở biển được lập theo Mẫu số 03 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd34b26af8d643c'">Mẫu số 03 du an nhận chìm.docx</a>)
+- 02 Bản sao Bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực báo cáo đánh giá tác động môi trường được cơ quan nhà nước có thẩm quyền phê duyệt theo quy định của pháp luật
+- 02 Bản sao Bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực giấy chứng nhận đăng ký doanh nghiệp (nếu là doanh nghiệp)
+- 02 Bản chính Bản đồ khu vực biển đề nghị được sử dụng để nhận chìm được lập theo Mẫu số 09 quy định tại Phụ lục của Nghị định Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee4d651d2565b8'">Mẫu số 09 - ban do nhận chìm.docx</a>)

@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007900
+Số quyết định:
+814/QĐ-BTC
+Tên thủ tục:
+Thủ tục lựa chọn Ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Ngân hàng thương mại nộp hồ sơ tại Tổng cục Hải quan
++ Bước 2: Tổng cục Hải quan kiểm tra, thẩm định hồ sơ:
+- Nếu hồ sơ chưa đầy đủ, trong thời hạn ba (03) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản thông báo cho ngân hàng bổ sung hồ sơ;
+- Nếu hồ sơ không đáp ứng điều kiện quy định, trong thời hạn năm (05) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản trả lời cho ngân hàng;
+- Nếu hồ sơ đầy đủ, đáp ứng các điều kiện quy định, trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Tài chính (Tổng cục Hải quan) có văn bản thông báo ngân hàng thương mại đủ điều kiện tham gia đại lý hoàn thuế giá trị gia tăng và cấp tài khoản truy cập Hệ thống cho ngân hàng thương mại.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Nếu hồ sơ chưa đầy đủ, trong thời hạn ba (03) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản thông báo cho ngân hàng bổ sung hồ sơ; Nếu hồ sơ không đáp ứng điều kiện quy định, trong thời hạn năm (05) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản trả lời cho ngân hàng; Nếu hồ sơ đầy đủ, đáp ứng các điều kiện quy định, trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Tài chính (Tổng cục Hải quan) có văn bản thông báo ngân hàng thương mại đủ điều kiện tham gia đại lý hoàn thuế giá trị gia tăng và cấp tài khoản truy cập Hệ thống cho ngân hàng thương mại.||Nộp hồ sơ trực tiếp tại cơ quan hải quan hoặc thông qua đường bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Công văn đăng ký tham gia đại lý hoàn thuế giá trị gia tăng cho người nước ngoài;
+- 01 Bản sao + Văn bản của Ngân hàng nhà nước cấp cho ngân hàng thương mại được hoạt động ngoại hối và cung ứng dịch vụ ngoại hối: 01 bản chụp có đóng dấu xác nhận của ngân hàng thương mại.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Bộ Tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan phối hợp:
+Kho bạc Nhà nước Việt Nam - Bộ tài chính, Tổng cục Thuế - Bộ tài chính, Ngân hàng Nhà nước Việt Nam
+Kết quả thực hiện:
+Văn bản thông báo Ngân hàng thương mại đủ điều kiện tham gia làm đại lý hoàn thuế GTGT.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|21/2012/QH13|Luật 21/2012/QH13|20-11-2012|Quốc Hội|
+|219/2013/TT-BTC|Hướng dẫn thi hành Luật Thuế giá trị gia tăng và Nghị định số 209/2013/NĐ-CP ngày 18/12/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật Thuế giá trị gia tăng;|31-12-2013|Bộ Tài chính|
+|13/2008/QH12|Luật thuế giá trị gia tăng số 13/2008/QH12 ngày 03/06/2008|03-06-2008|Quốc Hội|
+|31/2013/QH13|Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng số 31/2013/QH13 ngày 19/06/2013|19-06-2013|Quốc Hội|
+|78/2006/QH10|Luật Quản lý thuế số 78/2006/QH10 ngày 29/11/2006|29-11-2006|Quốc Hội|
+|72/2014/TT-BTC|Thông tư số 72/2014/TT-BTC ngày 30/5/2014 của Bộ Tài chính quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mang theo khi xuất cảnh|30-05-2014|Bộ Tài chính|
+|100/2016/NĐ-CP|Nghị định 100/2016/NĐ-CP|01-07-2016||
+|146/2017/NĐ-CP|Nghị định 146/2017/NĐ-CP|16-12-2017||
+|87/2017/NĐ-CP|Nghị định 87/2017/NĐ-CP|26-07-2017||
+
+Yêu cầu, điều kiện thực hiện:
+Là ngân hàng thương mại được hoạt động ngoại hối và cung ứng dịch vụ ngoại hối theo quy định của pháp luật về ngoại hối.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,11 @@
+Tên thủ tục: Khai thuế tài nguyên đối với cơ sở khai thác tài nguyên
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: 
+++ Tổ chức, cá nhân khai thác tài nguyên thiên nhiên lập hồ sơ khai thuế và  gửi đến cơ quan thuế quản lý trực tiếp (trường hợp Tổ chức, cá nhân khai thác tài nguyên thiên nhiên có trụ sở chính tại tỉnh, thành phố này nhưng có hoạt động khai thác tài nguyên tại tỉnh, thành phố khác thì nộp hồ sơ khai thuế tại Cục Thuế hoặc Chi cục Thuế do Cục trưởng Cục Thuế nơi phát sinh hoạt động khai thác tài nguyên quy định). 
+Tổ chức, cá nhân có nhà máy sản xuất thuỷ điện thực hiện khai thuế tài nguyên và nộp hồ sơ khai thuế tài nguyên theo mẫu số 01/TAIN, cho cơ quan thuế quản lý khoản thu ngân sách nhà nước nơi có hoạt động khai thác tài nguyên nước. Trường hợp tổ chức, cá nhân có hoạt động sản xuất thủy điện mà hồ thủy điện của nhà máy thủy điện nằm trên nhiều tỉnh thì nộp hồ sơ khai thuế tài nguyên và phụ lục bảng phân bổ số thuế tài nguyên phải nộp cho các địa phương nơi được hưởng nguồn thu đối với hoạt động sản xuất thủy điện của nhà máy thủy điện tại cơ quan thuế nơi có văn phòng điều hành nhà máy thủy điện và nộp số tiền thuế phân bổ cho tỉnh nơi có hồ thủy điện theo quy định
+Thời hạn nộp hồ sơ : Chậm nhất là ngày thứ 20 (hai mươi) của tháng tiếp theo tháng phát sinh nghĩa vụ thuế.
+++ Tổ chức được giao bán loại tài nguyên thiên nhiên bị bắt giữ, tịch thu; khai thác tài nguyên không thường xuyên đã được cơ quan nhà nước có thẩm quyền cấp phép hoặc không thuộc trường hợp cấp phép theo quy định của pháp luật thì thực hiện nộp hồ sơ kê khai thuế chậm nhất là ngày thứ 10 (mười) kể từ ngày phát sinh nghĩa vụ thuế cho Cục thuế hoặc Chi cục Thuế do Cục trưởng Cục Thuế nơi bán hoặc khai thác tài nguyên quy định. 
++ Bước 2. Cơ quan thuế thực hiện tiếp nhận:
+Cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định đối sơ hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính. Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

@@ -1,0 +1,16 @@
+Tên thủ tục: Kiểm tra hồ sơ kỹ thuật, hồ sơ hợp quy đối với lắp đặt và sử dụng thang máy điện, thang cuốn, băng tải chở người tại các công trình xây dựng trên địa bàn
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008953
+Số quyết định:
+2102/QĐ-UBND_ĐT
+Tên thủ tục:
+Kiểm tra hồ sơ kỹ thuật, hồ sơ hợp quy đối với lắp đặt và sử dụng thang máy điện, thang cuốn, băng tải chở người tại các công trình xây dựng trên địa bàn
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn, vệ sinh lao động

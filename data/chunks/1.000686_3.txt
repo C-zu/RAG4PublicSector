@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) ưu đãi mẫu VJ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Giờ|Phí : 60000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Đối với trường hợp hồ sơ đề nghị cấp C/O của thương nhân được nộp trực tiếp tại trụ sở của Tổ chức cấp C/O dưới dạng bản giấy, trong thời hạn 8 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được hồ sơ đề nghị cấp C/O đầy đủ và hợp lệ, Tổ chức cấp C/O trả kết quả cấp C/O.|
+|Trực tuyến|6 Giờ|Phí : 60000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Đối với trường hợp hồ sơ đề nghị cấp C/O của thương nhân được đính kèm trên hệ thống eCoSys dưới dạng điện tử: +) Trong thời hạn 6 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được hồ sơ đầy đủ và hợp lệ dưới dạng điện tử, kết quả xét duyệt hồ sơ đề nghị cấp C/O được thông báo trên hệ thống eCoSys; +) Trong thời hạn 2 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được Đơn đề nghị cấp C/O và C/O đã được khai hoàn chỉnh và hợp lệ dưới dạng bản giấy, Tổ chức cấp C/O trả kết quả cấp C/O dưới dạng bản giấy|
+|Dịch vụ bưu chính|24 Giờ|Phí : 60000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|- Đối với trường hợp hồ sơ đề nghị cấp C/O của thương nhân được nộp qua bưu điện, trong thời hạn 24 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được hồ sơ đề nghị cấp C/O đầy đủ và hợp lệ theo ngày ghi trên bì thư, Tổ chức cấp C/O trả kết quả cấp C/O.|

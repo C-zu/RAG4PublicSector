@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt hoặc điều chỉnh Phương án tạm sử dụng rừng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Gửi hồ sơ
+Chủ đầu tư dự án có văn bản đề nghị quyết định phê duyệt Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ đến Sở Nông nghiệp và Phát triển nông thôn. 
+Trường hợp hồ sơ không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Nông nghiệp và Phát triển nông thôn trả lời bằng văn bản và nêu rõ lý do.
+Bước 2. Xác minh, tổ chức thẩm định Phương án hoặc điều chỉnh Phương án tạm sử dụng rừng
+Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Nông nghiệp và Phát triển nông thôn: kiểm tra, xác minh về báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị tạm sử dụng rừng và tổ chức thẩm định Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng; trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định phê duyệt hoặc điều chỉnh Phương án tạm sử dụng rừng.
+Bước 3. Xem xét, quyết định phê duyệt Phương án hoặc điều chỉnh Phương án tạm sử dụng rừng
+3.1. Trường hợp phải lấy ý kiến của bộ, ngành chủ quản (đối với diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành):
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được tờ trình và hồ sơ của Sở Nông nghiệp và Phát triển nông thôn, Ủy ban nhân dân cấp tỉnh lấy ý kiến của bộ, ngành chủ quản. 
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ lấy ý kiến của Ủy ban nhân dân cấp tỉnh, bộ, ngành chủ quản có ý kiến bằng văn bản gửi Ủy ban nhân dân cấp tỉnh.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của bộ, ngành chủ quản, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định phê duyệt Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng. Trường hợp không phê duyệt, Chủ tịch Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.
+3.2. Trường hợp không phải lấy ý kiến của bộ, ngành chủ quản:
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ của Sở Nông nghiệp và Phát triển nông thôn, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định phê duyệt Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng. Trường hợp không phê duyệt, Chủ tịch Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.

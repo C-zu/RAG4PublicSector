@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012097
+Số quyết định:
+4457/QĐ-BYT
+Tên thủ tục:
+Thủ tục cấp giấy chứng nhận bị nhiễm HIV do tai nạn rủi ro nghề nghiệp
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y tế Dự phòng
+Trình tự thực hiện:
+Bước 1: Cơ quan, tổ chức, đơn vị quản lý người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp (sau đây gọi là cơ quan quản lý) gửi 01 bộ hồ sơ cho cơ quan có thẩm quyền cấp giấy chứng nhận theo quy định tại Điều 4 Quyết định số 24/2023/QĐ-TTg ngày 22/9/2023 của Thủ tướng Chính phủ.
+Bước 2: Cơ quan có thẩm quyền tiếp nhận và gửi Phiếu tiếp nhận hồ sơ cho cơ quan quản lý.
+Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ, trường hợp hồ sơ hợp lệ, cơ quan có thẩm quyền cấp giấy chứng nhận bị nhiễm HIV do tai nạn rủi ro nghề nghiệp.
+Trường hợp hồ sơ không hợp lệ, trong vòng 02 ngày làm việc kể từ ngày tiếp nhận hồ sơ cơ quan có thẩm quyền phải có văn bản thông báo nêu rõ lý do và hướng dẫn cho cơ quan quản lý bổ sung hồ sơ.
+Bước 4 : Trả giấy chứng nhận bị nhiễm HIV do tai nạn rủi ro nghề nghiệp cho cơ quan quản lý.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Trong thời hạn 5 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|5 Ngày làm việc||Trong thời hạn 5 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Trong thời hạn 5 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Công văn đề nghị cấp giấy chứng nhận bị nhiễm HIV do tai nạn rủi ro nghề nghiệp theo quy định tại mẫu số 02 Phụ lục ban hành kèm theo Quyết định số 24/2023/QĐ-TTg ngày 22/9/2023; ([Mẫu số 02 QD242023.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe27187ea4f40a5'))
+- 01 Bản chính, 01 Bản sao 2. Bản chính hoặc bản sao một trong các giấy tờ sau: kết quả xét nghiệm HIV dương tính, tóm tắt hồ sơ bệnh án của người nhiễm HIV do tai nạn rủi ro nghề nghiệp.
+
+Đối tượng thực hiện:
+Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Phòng chống HIV/AIDS - Bộ Y tế, Bộ Công an, Bộ Quốc phòng, Sở Y tế - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận bị nhiễm với HIV
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|64/2006/QH11|Luật 64/2006/QH11|29-06-2006|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Người được xác định bị nhiễm HIV do tai nạn rủi ro nghề nghiệp phải đáp ứng các điều kiện sau:
+1. Bị phơi nhiễm với HIV do tai nạn rủi ro nghề nghiệp.
+2. Có kết quả xét nghiệm HIV dương tính do cơ sở xét nghiệm HIV đủ điều kiện khẳng định HIV dương tính thực hiện. Mẫu máu sử dụng xét nghiệm phải lấy từ người bị phơi nhiễm với HIV tại thời điểm từ đủ 30 ngày đến trước 180 ngày kể từ thời điểm bị tai nạn rủi ro nghề nghiệp.
+Người được xác định bị nhiễm HIV do tai nạn rủi ro nghề nghiệp phải đáp ứng các điều kiện sau:
+1. Bị phơi nhiễm với HIV do tai nạn rủi ro nghề nghiệp.
+2. Có kết quả xét nghiệm HIV dương tính do cơ sở xét nghiệm HIV đủ điều kiện khẳng định HIV dương tính thực hiện. Mẫu máu sử dụng xét nghiệm phải lấy từ người bị phơi nhiễm với HIV tại thời điểm từ đủ 30 ngày đến trước 180 ngày kể từ thời điểm bị tai nạn rủi ro nghề nghiệp.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

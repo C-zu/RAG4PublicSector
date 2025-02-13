@@ -1,0 +1,10 @@
+Tên thủ tục: Khai quyết toán thuế TNDN đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên (trừ Lô 09.1)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao ++ Tờ khai quyết toán thuế TNDN đối với dầu khí Mẫu số 02/TNDN – DK ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe509dc3e59d592'">Mẫu 02.TNDN.DK.doc</a>)
+- 01 Bản chính, 01 Bản sao ++ Phụ lục chi tiết nghĩa vụ thuế của các nhà thầu dầu khí Mẫu số 01/PL-DK ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe666ca950c9e90'">mẫu 01.PL.DK (2).doc</a>)
+- 01 Bản chính, 01 Bản sao ++ Báo cáo tài chính năm hoặc báo cáo tài chính đến thời điểm kết thúc hợp đồng dầu khí ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ).

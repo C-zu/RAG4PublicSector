@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009580
+Số quyết định:
+12051NHAP
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chăn nuôi
+Trình tự thực hiện:
+B1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở NN&PTNT - Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2: Chuyển hồ sơ từ Trung tâm Phục vụ HCC tỉnh về Chi cục Chăn nuôi và Thú y
+B3: Duyệt hồ sơ, chuyển cho phòng chuyên môn xử lý
+B4: Xem xét, kiểm tra tính hợp lệ của hồ sơ:
+- Nếu đạt, Dự thảo quyết định thành lập Đoàn đánh giá trình lãnh đạo Phòng xem xét
+- Nếu hồ sơ không hợp lệ thì hướng dẫn, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn chỉnh thì dự thảo nêu lý do không cấp bằng văn bản trình lãnh đạo phòng.
+B5: Lãnh đạo Phòng xem xét trình Lãnh đạo Chi cục bản Dự thảo Quyết định thành lập Đoàn đánh giá hoặc văn bản dự thảo lý do không cấp.
+B6: Lãnh đạo Chi cục xem xét, ký nháy trình lãnh đạo Sở Nông nghiệp và PTNT quyết định thành lập Đoàn đánh giá hoặc văn bản lý do không cấp.
+B7: Lãnh đạo Sở Nông nghiệp và PTNT:
+- Ra quyết định thành lập Đoàn đánh giá. Chuyển Văn thư phát hành văn bản
+chuyển thực hiện bước 8.
+- Hoặc văn bản lý do không cấp. Chuyển Văn thư phát hành văn bản.
+ chuyển thực hiện  bước 10.
+B8: Đoàn tiến hành đánh giá các nội dung kiện chăn nuôi, lập biên đánh giá.
++ Nếu đạt Dự thảo Giấy chứng đủ điều kiện chăn nuôi
++ Nếu không đạt dự thảo văn bản nêu rõ lý do trình lãnh đạo Sở Nông nghiệp và PTNT.
+B9: Lãnh đạo Sở Nông nghiệp và PTNT, ký Giấy chứng nhận đủ điều chăn nuôi hoặc ký văn bản nếu lý do không cấp.
+B10: Phát hành văn bản và chuyển kết quả cho bộ phận TN&TKQ Trung tâm Phục vụ hành chính công tỉnh
+B11: Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc|||
+|Trực tuyến|25 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện chăn nuôi đối với chăn nuôi trang trại quy mô lớn ([don.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe99365f8e5a47c'))
+- 01 Bản chính Bản thuyết minh về điều kiện chăn nuôi ([TM.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3592b37c6a214'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Chăn nuôi và Thú y
+Cơ quan có thẩm quyền:
+Sở Nông nghiệp và Phát triển nông thôn tỉnh Sơn La
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện chăn nuôi hoặc Văn bản từ chối cấp giấy chứng nhận (nêu rõ lý do không cấp)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|13/2020/NĐ-CP|Nghị định 13/2020/NĐ-CP|21-01-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

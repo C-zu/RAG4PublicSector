@@ -1,0 +1,14 @@
+Tên thủ tục: Hỗ trợ ứng dụng kỹ thuật cao trong khám bệnh, chữa bệnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị hỗ trợ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định (sau đây viết tắt là Hội đồng) để đánh giá, xem xét hồ sơ đề nghị hỗ trợ.
+- Trong thời hạn 20 ngày làm việc kể từ ngày có quyết định thành lập, Hội đồng tổ chức kiểm tra thực tế và họp thẩm định, đánh giá hồ sơ đề nghị hỗ trợ.
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả thẩm định của Hội đồng, Sở Khoa học và Công nghệ tập hợp hồ sơ của đối tượng đủ điều kiện hỗ trợ gửi Sở Tài chính để thực hiện việc thẩm định kinh phí hỗ trợ. 
+Hồ sơ gửi Sở Tài chính thẩm định gồm: Văn bản đề nghị của Sở Khoa học và Công nghệ; Hồ sơ của tổ chức đề nghị hỗ trợ theo quy định; Biên bản họp hội đồng; Báo cáo kết quả của Hội đồng; Biên bản kiểm tra thực tế.
+Trong trường hợp không đủ điều kiện hỗ trợ, Sở Khoa học và Công nghệ thông báo và nêu rõ lý do cho đối tượng thụ hưởng. 
+- Trong thời hạn 20 ngày làm việc kể từ khi nhận được hồ sơ thẩm định do Sở Khoa học và Công nghệ chuyển đến, Sở Tài chính có trách nhiệm thẩm định mức kinh phí hỗ trợ cụ thể của đối tượng thụ hưởng theo các nội dung hỗ trợ, trình Chủ tịch UBND tỉnh xem xét, quyết định. Trong trường hợp cần thiết, Sở Tài chính được quyền thuê đơn vị thẩm định giá hoặc tổ chức có chức năng tư vấn về giá có đủ năng lực và kinh nghiệm thực hiện thẩm định giá.
+Hồ sơ trình Chủ tịch UBND tỉnh phê duyệt gồm: Tờ trình của Sở Tài chính; Kết luận thẩm định mức kinh phí hỗ trợ của Sở Tài chính; Hồ sơ thẩm định do Sở Khoa học và Công nghệ cung cấp; văn bản giải trình hoặc tài liệu khác do đối tượng thụ hưởng cung cấp (nếu có). 
+Trường hợp không đủ căn cứ trình Chủ tịch UBND tỉnh phê duyệt mức kinh phí hỗ trợ cụ thể theo đề nghị của Hội đồng, Sở Tài chính phải nêu rõ lý do và thông báo bằng văn bản cho Sở Khoa học và Công nghệ để thông báo cho đối tượng thụ hưởng.
+- Trong thời hạn 15 ngày làm việc kể từ khi nhận được hồ sơ thẩm định do Sở Tài chính trình, Chủ tịch UBND tỉnh phê duyệt kinh phí hỗ trợ đối với đối tượng đủ điều kiện hỗ trợ. Trường hợp không đủ điều kiện hỗ trợ thì Chủ tịch UBND tỉnh có văn bản trả lời và nêu rõ lý do. Văn bản phê duyệt hoặc văn bản trả lời của Chủ tịch UBND tỉnh được gửi Sở Tài chính; Sở Khoa học và Công nghệ; tổ chức, cá nhân nộp hồ sơ qua Trung tâm Phục vụ Hành chính công tỉnh.
+- Sở Tài chính cấp kinh phí cho tổ chức thụ hưởng theo Quyết định phê duyệt của Chủ tịch UBND tỉnh.

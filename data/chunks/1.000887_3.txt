@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : 5000000 Đồng Mô tả Mức phí theo Thông tư 156/2016/TT-BTC ngày 21 tháng 10 năm 2016 của Bộ Tài chính  Lệ phí : 5000000 Đồng Theo Thông tư 156/2016/TT-BTC ngày 21 tháng 10 năm 2016 của Bộ Tài chính|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|20 Ngày làm việc|Phí : 5000000 Đồng theo Thông tư 156/2016/TT-BTC ngày 21 tháng 10 năm 2016 của Bộ Tài chính  Lệ phí : 5000000 Đồng theo Thông tư 156/2016/TT-BTC ngày 21 tháng 10 năm 2016 của Bộ Tài chính|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : 5000000 Đồng Mô tả Mức phí theo Thông tư 156/2016/TT-BTC ngày 21 tháng 10 năm 2016 của Bộ Tài chính  Lệ phí : 5000000 Đồng Theo Thông tư 156/2016/TT-BTC ngày 21 tháng 10 năm 2016 của Bộ Tài chính|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

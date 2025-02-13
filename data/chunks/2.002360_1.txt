@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời vỉa hè, lòng đường làm nơi để xe
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002360
+Số quyết định:
+5358/QĐ-UBND
+Tên thủ tục:
+Cấp phép sử dụng tạm thời vỉa hè, lòng đường làm nơi để xe
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hạ tầng kỹ thuật

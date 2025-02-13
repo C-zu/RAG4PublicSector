@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy phép kinh doanh vận tải bằng xe ô tô khi có sự thay đổi liên quan đến nội dung của Giấy phép kinh doanh hoặc Giấy phép kinh doanh bị thu hồi, bị tước quyền sử dụng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, Sở Giao thông vận tải thẩm định hồ sơ, cấp Giấy phép kinh doanh vận tải bằng xe ô tô theo mẫu quy định. Trường hợp không cấp Giấy phép kinh doanh thì Sở Giao thông vận tải phải trả lời bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.|
+|Trực tuyến|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, Sở Giao thông vận tải thẩm định hồ sơ, cấp Giấy phép kinh doanh vận tải bằng xe ô tô theo mẫu quy định. Trường hợp không cấp Giấy phép kinh doanh thì Sở Giao thông vận tải phải trả lời bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, Sở Giao thông vận tải thẩm định hồ sơ, cấp Giấy phép kinh doanh vận tải bằng xe ô tô theo mẫu quy định. Trường hợp không cấp Giấy phép kinh doanh thì Sở Giao thông vận tải phải trả lời bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.|

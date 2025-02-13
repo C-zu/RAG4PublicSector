@@ -1,0 +1,8 @@
+Tên thủ tục: Kê khai lại giá thuốc sản xuất trong nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bảng kê khai lại giá thuốc sản xuất trong nước theo Mẫu số 04 Phụ lục VII của Nghị định số 155/2018/NĐ-CP. Mẫu này được sửa đổi theo quy định tại khoản 3 Điều 2 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeabf9923b109a'">Mẫu số 04.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bảng thuyết minh cơ cấu giá (Theo Mẫu số 10 Phụ lục VII kèm theo Nghị định này). - Bảng so sánh nội dung thay đổi cơ cấu giá so với cơ cấu giá tại Hồ sơ kê khai liền kề. - Công văn phân tích nguyên nhân, nêu rõ biến động của các yếu tố hình thành giá tác động làm tăng hoặc giảm giá bán buôn, bán lẻ dự kiến (nếu có) kê khai. - Các tài liệu khác kèm theo (nếu có)

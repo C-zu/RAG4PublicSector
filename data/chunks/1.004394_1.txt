@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004394
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử

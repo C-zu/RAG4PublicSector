@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu (đối với các công trình được UBND thành phố ủy quyền)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcaa54404d35b74'">To trinh tham dinh, phe duyet ke hoach lua chon nha thau (theo mau quy định tai Thong tu so 10-2015-TT-BKHĐT).docx</a>)
+- 01 Bản chính 2. Văn bản của cấp có thẩm quyền về chủ trương đầu tư xây dựng công trình
+- 01 Bản chính 3. Quyết định phê duyệt Báo cáo Kinh tế kỹ thuật

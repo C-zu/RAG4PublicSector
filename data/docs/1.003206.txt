@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003206
+Số quyết định:
+3727/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp lại Giấy chứng nhận đăng ký hoạt động kiểm định
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức kiểm định được Bộ, quản lý ngành lĩnh vực cấp Giấy chứng nhận đăng ký hoạt động kiểm định có nhu cầu cấp lại Giấy chứng nhận chuẩn bị hồ sơ theo quy định và gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại trụ sở hoặc qua Cổng dịch vụ công trực tuyến của Cơ quan tiếp nhận hồ sơ thuộc Bộ, quản lý ngành lĩnh vực.
+Bước 2: Xử lý hồ sơ
+Cơ quan tiếp nhận hồ sơ, xem xét, thẩm định theo quy định:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản và nêu rõ lý do.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, Bộ quản lý ngành lĩnh vực chịu trách nhiệm cấp lại Giấy chứng nhận cho tổ chức kiểm định.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Cơ quan tiếp nhận hồ sơ hoặc theo đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Bộ quản lý ngành lĩnh vực chịu trách nhiệm cấp lại Giấy chứng nhận cho tổ chức kiểm định. Trường hợp không đáp ứng yêu cầu, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản và nêu rõ lý do.|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Bộ quản lý ngành lĩnh vực chịu trách nhiệm cấp lại Giấy chứng nhận cho tổ chức kiểm định. Trường hợp không đáp ứng yêu cầu, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản và nêu rõ lý do.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận; ([Đơn đề nghị cấp lại Giấy chứng nhận hoạt động kiểm định.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febba42571a13fb'))
+- 01 Bản chính - Bản chính Giấy chứng nhận bị hư hỏng (nếu có) đối với trường hợp Giấy chứng nhận bị hư hỏng.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động kiểm định.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|132/2008/NĐ-CP|Nghị định 132/2008/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa|31-12-2008|Chính phủ|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP-Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành|09-11-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức kiểm định đã được cấp Giấy chứng nhận đăng ký lĩnh vực hoạt động kiểm định còn hiệu lực nhưng bị mất, hư hỏng, hoặc thay đổi tên, địa chỉ của tổ chức.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

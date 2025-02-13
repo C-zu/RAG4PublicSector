@@ -1,0 +1,8 @@
+Tên thủ tục: Chuyển đổi điểm thông quan hàng hóa xuất, nhập khẩu thành cảng cạn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Ngày làm việc||- Chậm nhất 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Hàng hải Việt Nam thẩm định và có văn bản báo cáo Bộ Giao thông vận tải; - Chậm nhất 03 ngày làm việc kể từ khi nhận được văn bản của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản chấp thuận chủ trương chuyển đổi điểm thông quan thành cảng cạn.|
+|Dịch vụ bưu chính|8 Ngày làm việc||- Chậm nhất 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Hàng hải Việt Nam thẩm định và có văn bản báo cáo Bộ Giao thông vận tải; - Chậm nhất 03 ngày làm việc kể từ khi nhận được văn bản của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản chấp thuận chủ trương chuyển đổi điểm thông quan thành cảng cạn.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Tiếp nhận đối tượng cần bảo vệ khẩn cấp vào cơ sở trợ giúp xã hội cấp tỉnh, cấp huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Cơ sở trợ giúp xã hội có trách nhiệm tiếp nhận ngay các đối tượng cần sự bảo vệ khẩn cấp để chăm sóc, nuôi dưỡng và hoàn thiện các thủ tục theo quy định|
+|Trực tuyến|10 Ngày làm việc||Cơ sở trợ giúp xã hội có trách nhiệm tiếp nhận ngay các đối tượng cần sự bảo vệ khẩn cấp để chăm sóc, nuôi dưỡng và hoàn thiện các thủ tục theo quy định (nếu điều kiện cho phép)|

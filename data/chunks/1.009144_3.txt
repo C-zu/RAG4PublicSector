@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ mời thầu, hồ sơ yêu cầu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời gian thẩm định: 09 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. Thời gian phê duyệt: 05 ngày.|Phí : Bằng 0,05% giá gói thầu (Tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng)|Cá nhân, tổ chức nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhậnvà trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|

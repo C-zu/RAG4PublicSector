@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004404
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cho phép mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất thuộc thẩm quyền của Bộ Y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị mua thuốc nộp hồ sơ tại Bộ Y tế (Cục Quản lý dược – Bộ Y tế).
+Bước 2: Khi nhận hồ sơ đầy đủ, hợp lệ, Bộ Y tế cấp cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP.
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tế ký duyệt đơn hàng mua trong vòng 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ.
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tế có văn bản yêu cầu sửa đổi, bổ sung hồ sơ trong thời hạn 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Bước 3: Sau khi cơ sở nộp hồ sơ sửa đổi, bổ sung, Bộ Y tế cấp cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 Phụ lục I của Nghị định số 54/2017/NĐ-CP
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tế ký duyệt đơn hàng mua trong vòng 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ.
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, Bộ Y tế có văn bản yêu cầu sửa đổi, bổ sung hồ sơ trong thời hạn 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Trong thời hạn 06  tháng, kể từ ngày Bộ Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 12 tháng kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|30 Ngày||30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính 03 bản đơn hàng: Đơn hàng mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất (Mẫu số 19 Phụ lục II của Phụ lục II tại Nghị định số 155/2018/NĐ-CP); (cơ sở lưu 01 bản, nơi bán 01 bản, cơ quan chấp thuận lưu 01 bản). ([ND54_Mau 19_Phụ lục II PLII.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe113b376180d12'))
+- 01 Bản chính Văn bản giải thích rõ lý do khi số lượng thuốc đề nghị mua vượt quá 150% so với số lượng sử dụng lần trước.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Dược - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+138a Giảng Võ – Ba ĐÌnh – Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đơn hàng được duyệt/ Văn bản không đồng ý
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|105/2016/QH13|Luật 105/2016/QH13 Dược|06-04-2016|Quốc Hội|
+|54/2017/NĐ-CP|Nghị định 54/2017/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật dược|08-05-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Cơ sở đồng thời có Giấy chứng nhận đủ điều kiện kinh doanh dược phạm vi xuất khẩu, nhập khẩu thuốc và bán buôn đối với thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

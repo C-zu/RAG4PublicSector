@@ -1,0 +1,44 @@
+Tên thủ tục: Cấp, bổ sung, gia hạn, cấp lại, cấp đổi giấy phép hoạt động đo đạc và bản đồ cấp Trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a.1) Về cấp giấy phép hoạt động đo đạc và bản đồ
+ a.1.1) Hồ sơ của tổ chức trong nước đề nghị cấp giấy phép hoạt động đo đạc và bản đồ bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp giấy phép hoạt động đo đạc và bản đồ theo Mẫu số 04 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 6 Điều 9 Nghị định số 22/2023/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f4bd99e00107400'">Mẫu số 04.docx</a>)
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính quyết định quy định chức năng, nhiệm vụ đối với các tổ chức đề nghị cấp giấy phép hoạt động đo đạc và bản đồ không có giấy chứng nhận đăng ký doanh nghiệp.
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính văn bằng tốt nghiệp đại học trở lên thuộc chuyên ngành về đo đạc và bản đồ, bản khai quá trình công tác của người phụ trách kỹ thuật theo Mẫu số 05 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 5 Điều 9 Nghị định số 22/2023/NĐ-CP) hoặc chứng chỉ hành nghề đo đạc và bản đồ hạng I; hợp đồng lao động hoặc quyết định tuyển dụng; quyết định bổ nhiệm của người phụ trách kỹ thuật. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7140918f912b4'">Mẫu số 05.docx</a>)
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính văn bằng, chứng chỉ chuyên môn về đo đạc và bản đồ kèm theo hợp đồng lao động hoặc quyết định tuyển dụng của các nhân viên kỹ thuật đo đạc và bản đồ; bản khai quá trình công tác của ít nhất 01 nhân viên kỹ thuật có thời gian hoạt động thực tế tối thiểu 05 năm phù hợp với nội dung đề nghị cấp phép theo Mẫu số 05 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 5 Điều 9 Nghị định số 22/2023/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda331f66e4fd72'">Mẫu số 05.docx</a>)
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính hóa đơn hoặc giấy tờ chứng minh sở hữu phương tiện đo, thiết bị, chứng minh sở hữu hoặc quyền sử dụng phần mềm, công nghệ đo đạc và bản đồ; giấy kiểm định, hiệu chuẩn phương tiện đo còn hiệu lực. Danh mục phương tiện đo, thiết bị, phần mềm phù hợp với nội dung hoạt động đo đạc và bản đồ của tổ chức đề nghị cấp giấy phép theo Phụ lục IC ban hành kèm theo Nghị định số 136/2021/NĐ-CP.
+ a.1.2) Hồ sơ của nhà thầu nước ngoài đề nghị cấp giấy phép hoạt động đo đạc và bản đồ bao gồm:
+- 01 Bản chính - Đơn đề nghị hoặc tệp tin chứa đơn đề nghị cấp giấy phép hoạt động đo đạc và bản đồ theo Mẫu số 11 Phụ lục I ban hành kèm theo Nghị định số 27/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8212492d7485e'">Mẫu số 11.docx</a>)
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính quyết định trúng thầu (hoặc quyết định được chọn thầu) của chủ đầu tư, trong đó có nội dung về đo đạc và bản đồ thuộc danh mục hoạt động đo đạc và bản đồ phải có giấy phép.
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính văn bằng, chứng chỉ chuyên môn về đo đạc và bản đồ, giấy phép lao động do cơ quan có thẩm quyền cấp theo quy định của pháp luật lao động nước ngoài làm việc tại Việt Nam đối với nhân viên kỹ thuật là người nước ngoài; hoặc văn bằng, chứng chỉ chuyên môn về đo đạc và bản đồ, hợp đồng lao động của các nhân viên kỹ thuật đo đạc và bản đồ là người Việt Nam phù hợp với số lượng và trình độ chuyên môn trong hồ sơ dự thầu đã trúng thầu hoặc hồ sơ được chọn thầu.
+- 01 Bản sao - Bản sao hoặc tệp tin chụp bản chính hóa đơn hoặc giấy tờ chứng minh sở hữu hoặc quyền sử dụng phương tiện đo, thiết bị, phần mềm, công nghệ đo đạc và bản đồ phù hợp với hồ sơ dự thầu đã trúng thầu hoặc hồ sơ được chọn thầu.
+
+
+a.2) Về cấp bổ sung danh mục hoạt động đo đạc và bản đồ
+- 01 Bản chính - Đơn đề nghị cấp bổ sung danh mục hoạt động đo đạc và bản đồ theo Mẫu số 06 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 6 Điều 9 Nghị định số 22/2023/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc514bdd22a2248'">Mẫu số 06.docx</a>)
+ - Các tài liệu quy định tại điểm b, điểm c, điểm d, điểm đ khoản 1 Điều 32 Nghị định số 27/2019/NĐ-CP (được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 136/2021/NĐ-CP) liên quan đến nội dung đề nghị bổ sung danh mục hoạt động đo đạc và bản đồ; trường hợp hồ sơ các nội dung đã được cấp phép trong đó có các tài liệu đáp ứng được quy định tại điểm này thì không cần nộp bổ sung.
+- 01 Bản chính - Bản gốc giấy phép hoạt động đo đạc và bản đồ đã được cấp.
+
+
+a.3) Về gia hạn giấy phép hoạt động đo đạc và bản đồ
+ a.3.1) Hồ sơ của tổ chức trong nước đề nghị gia hạn giấy phép hoạt động đo đạc và bản đồ bao gồm:
+- 01 Bản chính - Đơn đề nghị gia hạn giấy phép hoạt động đo đạc và bản đồ theo Mẫu số 07 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 6 Điều 9 Nghị định số 22/2023/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbfeedc739f6f40'">Mẫu số 07.docx</a>)
+ - Các tài liệu quy định điểm b, điểm c, điểm d, điểm đ khoản 1 Điều 32 Nghị định số 27/2019/NĐ-CP (được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 136/2021/NĐ-CP) liên quan đến nội dung đề nghị gia hạn giấy phép hoạt động đo đạc và bản đồ (nếu có thay đổi điều kiện đáp ứng quy định tại Điều 52 Luật Đo đạc và bản đồ số 27/2018/QH14 ngày 14 tháng 6 năm 2018 và Nghị định số 136/2021/NĐ-CP so với cấp phép lần đầu).
+- 01 Bản chính - Bản gốc giấy phép hoạt động đo đạc và bản đồ đã được cấp.
+ a.3.2) Hồ sơ của nhà thầu nước ngoài đề nghị gia hạn giấy phép hoạt động đo đạc và bản đồ bao gồm:
+- 01 Bản chính - Đơn đề nghị gia hạn giấy phép hoạt động đo đạc và bản đồ theo Mẫu số 07 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 6 Điều 9 Nghị định số 22/2023/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc981e7d4c74e78'">Mẫu số 07.docx</a>)
+- 01 Bản chính - Bản gốc giấy phép hoạt động đo đạc và bản đồ đã được cấp.
+- 01 Bản sao - Bản sao có xác thực các văn bản của chủ đầu tư về việc gia hạn thời gian thực hiện gói thầu.
+
+
+a.4) Về cấp lại giấy phép hoạt động đo đạc và bản đồ
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép giấy phép hoạt động đo đạc và bản đồ theo Mẫu số 08 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 6 Điều 9 Nghị định số 22/2023/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0abd27a4bbbf5'">Mẫu số 08.docx</a>)
+
+
+a.5) Về cấp đổi giấy phép hoạt động đo đạc và bản đồ
+- 01 Bản chính - Đơn đề nghị cấp đổi giấy phép hoạt động đo đạc và bản đồ theo Mẫu số 08 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc143aa4913a41c'">Mẫu số 08.doc</a>)
+ - Các tài liệu quy định điểm b, điểm c, điểm d khoản 1 Điều 32 Nghị định số 27/2019/NĐ-CP (được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 136/2021/NĐ-CP) liên quan đến thông tin đề nghị cấp đổi giấy phép hoạt động đo đạc và bản đồ.
+- 01 Bản chính - Bản gốc giấy phép hoạt động đo đạc và bản đồ đã được cấp.

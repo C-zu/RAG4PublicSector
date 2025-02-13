@@ -1,0 +1,8 @@
+Tên thủ tục: Quyết định, phê duyệt văn kiện dự án hỗ trợ kỹ thuật, phi dự án (bao gồm dự án hỗ trợ kỹ thuật sử dụng vốn ODA, vốn vay ưu đãi để chuẩn bị dự án đầu tư)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quá 20 ngày kể từ khi nhận đủ hồ sơ hợp lệ.|Phí : Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Dịch vụ bưu chính|Không quá 20 ngày kể từ khi nhận đủ hồ sơ hợp lệ.|Phí : Đồng Không có|- Thông qua hệ thống bưu chính.|

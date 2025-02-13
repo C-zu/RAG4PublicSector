@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục bổ sung, sửa đổi hộ chiếu phổ thông (điều chỉnh họ tên, ngày tháng năm sinh, nơi sinh, giới tính, số giấy chứng minh nhân dân trong hộ chiếu), hoặc bổ sung trẻ em dưới 09 tuổi vào hộ chiếu Việt Nam của cha hoặc mẹ tại cơ quan đại diện Việt Nam ở nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001236
+Số quyết định:
+Số 1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục bổ sung, sửa đổi hộ chiếu phổ thông (điều chỉnh họ tên, ngày tháng năm sinh, nơi sinh, giới tính, số giấy chứng minh nhân dân trong hộ chiếu), hoặc bổ sung trẻ em dưới 09 tuổi vào hộ chiếu Việt Nam của cha hoặc mẹ tại cơ quan đại diện Việt Nam ở nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Cấp hộ chiếu, giấy thông hành, công hàm đề nghị cấp thị thực

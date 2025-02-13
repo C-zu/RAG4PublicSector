@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký hành nghề
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: 
+Cơ sở khám bệnh, chữa bệnh thực hiện đăng ký hành nghề cho người hành nghề làm việc tại cơ sở của mình như sau:
+a) Gửi danh sách đăng ký hành nghề cùng thời điểm với thời điểm đề nghị cấp mới giấy phép hoạt động đến cơ quan có thẩm quyền cấp giấy phép hoạt động;
+b) Trường hợp có thay đổi về người hành nghề trong thời gian chờ cấp giấy phép hoạt động thì phải gửi danh sách đăng ký hành nghề đã thay đổi theo Mẫu 01 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP đến cơ quan có thẩm quyền cấp giấy phép hoạt động;
+c) Trường hợp có thay đổi về người hành nghề trong quá trình hoạt động thì phải gửi văn bản đăng ký đến cơ quan có thẩm quyền cấp giấy phép hoạt động cụ thể như sau:
+- Trường hợp người hành nghề không còn làm việc tại cơ sở: báo cáo với cơ quan có thẩm quyền trong thời gian 03 ngày làm việc kể từ thời điểm người hành nghề chấm dứt hành nghề tại cơ sở.
+- Trường hợp bổ sung người hành nghề: gửi danh sách đăng ký hành nghề đã bổ sung theo Mẫu 01 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP về cơ quan cấp giấy phép hoạt động trong thời gian 10 ngày kể từ thời điểm bổ sung người hành nghề.
+Bước 2: 
+Cơ quan có thẩm quyền cấp giấy phép hoạt động có trách nhiệm công bố công khai danh sách người hành nghề trên cổng thông tin điện tử hoặc trang tin điện tử của cơ quan mình và trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh như sau:
+a) Cùng thời điểm cấp giấy phép hoạt động đối với trường hợp quy định tại điểm a, b khoản 1 Điều này;
+b) Trong thời hạn 05 ngày làm việc kể từ thời điểm tiếp nhận văn bản đăng ký hành nghề đối với trường hợp quy định tại điểm c khoản 1 Điều này;
+c) Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.

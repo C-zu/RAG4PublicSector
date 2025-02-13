@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục gia hạn thời hạn hoạt động của dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị gia hạn thời hạn hoạt động của dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd738cb55a605a0'">Mẫu A.I.14.docx</a>)
+- 01 Bản chính, 03 Bản sao - Quyết định chấp thuận chủ trương đầu tư;
+- 01 Bản chính, 03 Bản sao - Giấy chứng nhận đăng ký đầu tư;
+- 01 Bản chính, 03 Bản sao - Quyết định chấp thuận nhà đầu tư hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản chính, 03 Bản sao - Giấy chứng nhận quyền sử dụng đất hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản chính, 03 Bản sao - Tài liệu chứng minh năng lực tài chính của nhà đầu tư gồm một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu khác chứng minh năng lực tài chính của nhà đầu tư.

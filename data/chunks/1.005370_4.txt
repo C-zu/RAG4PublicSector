@@ -1,0 +1,21 @@
+Tên thủ tục: Thủ tục đăng ký thực hiện đề tài nghiên cứu cơ bản do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký thực hiện đề tài bằng tiếng Anh
+- 01 Bản chính Đơn đăng ký đề tài nghiên cứu cơ bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2ffbb80fc1937'">03 Mau NCCB01E_Don dang ky.doc</a>)
+- 01 Bản chính Thuyết minh đề tài nghiên cứu cơ bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6e7f6ade63468'">06 Mau NCCB02E - TMDC phan 1.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd07d09bc2ea34c'">07 Mau NCCB02E - TMDC phan 2.xls</a>)
+- 01 Bản chính Lý lịch khoa học của chủ nhiệm đề tài và từng thành viên nhóm nghiên cứu cùng với các tài liệu chứng minh thành tích nghiên cứu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe39f7eaec87ea2'">09 Mau NCCB03E_Ly lich khoa hoc_2.doc</a>)
+- 01 Bản chính Tài liệu chứng minh về việc đào tạo nghiên cứu sinh;
+- 01 Bản chính Phiếu khai hồ sơ;
+- 01 Bản chính Tài liệu liên quan khác theo yêu cầu của Quỹ.
+
+
+Hồ sơ đăng ký thực hiện đề tài bằng tiếng Việt
+- 01 Bản chính Đơn đăng ký đề tài nghiên cứu cơ bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9bcb3a0f8873e'">02 Mau NCCB01_Don dang ky.doc</a>)
+- 01 Bản chính Thuyết minh đề tài nghiên cứu cơ bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9376def0e7889'">04 Mau NCCB02 - TMDC phan 1.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbec0482f365578'">05 Mau NCCB02 - TMDC phan 2.xls</a>)
+- 01 Bản chính Lý lịch khoa học của chủ nhiệm đề tài và từng thành viên nhóm nghiên cứu cùng với các tài liệu chứng minh thành tích nghiên cứu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe607bc240cb75f'">08 Mau NCCB03_Ly lich khoa hoc_2.doc</a>)
+- 01 Bản chính Tài liệu chứng minh về việc đào tạo nghiên cứu sinh;
+- 01 Bản chính Phiếu khai hồ sơ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa5acd91ddc7420'">10-Mau-NCCB04_PKHS.doc</a>)
+- 01 Bản chính Tài liệu liên quan khác theo yêu cầu của Quỹ.

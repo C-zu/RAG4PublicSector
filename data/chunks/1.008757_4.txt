@@ -1,0 +1,25 @@
+Tên thủ tục: Thẩm định đề nghị hỗ trợ theo Nghị quyết số 270/2019/NQ-HĐND ngày 12/12/2019 của Hội đồng nhân dân thành phố Đà Nẵng Quy định chính sách hỗ trợ phát triển công nghệ thông tin trên địa bàn thành phố Đà Nẵng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1: Đối với điều kiện xét hỗ trợ:
+- 01 Bản chính 1. Văn bản đề nghị hỗ trợ của tổ chức, doanh nghiệp: bản chính (Mẫu KHTC 10) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe15bf3b6814f04'">Van ban de nghi ho tro (Mau KHTC 10).docx</a>)
+- 01 Bản chính 2. Văn bản xác nhận của cơ quan thuế và bảo hiểm xã hội (bản sao có chứng thực) về việc tổ chức, doanh nghiệp hoàn thành các nghĩa vụ về thuế và nghĩa vụ đối với người lao động.
+- 01 Bản chính 3. Tài liệu chứng minh (bản sao có chứng thực) tổ chức, doanh nghiệp đáp ứng đủ điều kiện xét hỗ trợ theo Điều 3 Quy định này, bao gồm một trong các thành phần sau:
+- 01 Bản chính - Hóa đơn và chứng từ liên quan đến hoạt động xuất khẩu phần mềm của năm đạt điều kiện hỗ trợ.
+- 01 Bản chính - Các tài liệu chứng minh tổ chức, doanh nghiệp đã nhận giải thưởng.
+- 01 Bản chính - Hợp đồng, thanh lý hợp đồng, hóa đơn và các chứng từ khác (nếu có) liên quan đến việc triển khai sản phẩm phần mềm, nội dung số, điện tử tích hợp mang tính hệ thống hoặc có nền tảng riêng, sử dụng công nghệ mới.
+
+
+Trường hợp 2: Đối với nội dung đề nghị hỗ trợ. Tài liệu chứng minh (bản sao có chứng thực) tương ứng với từng nội dung đề nghị hỗ trợ, cụ thể:
+- 01 Bản chính 1. Trường hợp hỗ trợ cơ sở hạ tầng: Hợp đồng, hóa đơn và các chứng từ có liên quan đến việc thuê mặt bằng, thuê lưu ký website, thuê máy chủ, thuê chỗ đặt máy chủ, dịch vụ lưu trữ dữ liệu, dịch vụ an toàn an ninh thông tin.
+- 01 Bản chính 2. Trường hợp hỗ trợ cơ sở hạ tầng: Hợp đồng, hóa đơn và các chứng từ có liên quan đến việc thuê mặt bằng, thuê lưu ký website, thuê máy chủ, thuê chỗ đặt máy chủ, dịch vụ lưu trữ dữ liệu, dịch vụ an toàn an ninh thông tin.
+- 01 Bản chính 3. Trường hợp hỗ trợ khóa đào tạo: Hóa đơn và các chứng từ khác liên quan đến việc đào tạo; Chứng chỉ/văn bản chứng nhận hoàn thành khóa đào tạo của từng cá nhân tham gia đào tạo; Hợp đồng lao động của các đối tượng được đào tạo.
+- 01 Bản chính 4. Trường hợp hỗ trợ xây dựng quy trình sản xuất phần mềm, nội dung số: Giấy chứng nhận quy trình sản xuất phần mềm theo chuẩn CMMI, Scrum, Agile hoặc tương đương; Hợp đồng, thanh lý hợp đồng, hóa đơn và các chứng từ khác (nếu có).
+- 01 Bản chính 5. Trường hợp hỗ trợ xúc tiến thương mại, phát triển thị trường:
+- 01 Bản chính - Hỗ trợ chi phí đăng ký lần đầu bảo hộ bản quyền phần mềm trong nước: Các chứng từ liên quan đến việc đăng ký bảo hộ.
+- 01 Bản chính - Hỗ trợ tham gia hội chợ, triển lãm, hội thảo chuyên ngành và Hỗ trợ tham gia đoàn xúc tiến thương mại, đầu tư nước ngoài: Áp dụng theo trình tự thủ tục của Nghị quyết số 20/2016/NQ-HĐND ngày 11 tháng 8 năm 2016 của Hội đồng nhân dân thành phố về quy định nội dung và mức kinh phí hỗ trợ đầu tư phát triển công nghiệp hỗ trợ thành phố Đà Nẵng.
+- 01 Bản chính - Hỗ trợ quảng bá thông tin: Hợp đồng, thanh lý hợp đồng, hóa đơn hoặc các chứng từ khác liên quan đến chi phí đã thực hiện về quảng bá sản phẩm trên các phương tiện truyền thông, thông tin đại chúng.
+- 01 Bản chính - Trường hợp hỗ trợ lãi suất vay vốn: Áp dụng theo trình tự thủ tục của Nghị quyết số 149/2018/NQ-HĐND ngày 12 tháng 7 năm 2018 của Hội đồng nhân dân thành phố về quy định chính sách hỗ trợ lãi suất đối với các tổ chức vay vốn đầu tư các dự án phát triển kinh tế- xã hội quan trọng trên địa bàn thành phố.
+ (Tất cả đều có chữ ký số hoặc bản scan có chữ ký và đóng dấu đỏ của cơ quan trình hồ sơ).

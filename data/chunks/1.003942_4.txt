@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục thành lập hội.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thành lập hội (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe98aafc54f7d7d'">Mau 4.doc</a>)
+- 01 Bản chính Dự thảo điều lệ hội (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb75a8861ebddd'">Mẫu 9 - Điều lệ hội.doc</a>)
+- 01 Bản chính Danh sách những người trong ban vận động thành lập hội được cơ quan nhà nước có thẩm quyền công nhận;
+- 01 Bản chính Lý lịch tư pháp của người đứng đầu ban vận động thành lập hội;
+- 01 Bản chính Văn bản xác nhận nơi dự kiến đặt trụ sở hội
+- 01 Bản chính Bản kê khai tài chính, tài sản (nếu có).

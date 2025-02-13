@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp tín chỉ cho dự án JCM (TTHC cấp trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Tùy thuộc vào giai đoạn xử lý hồ sơ||- Trong thời hạn không quá bảy (07) ngày, Tổ thư ký thông báo cho bên xây dựng dự án và TPE của dự án về tính hợp lệ và đầy đủ của hồ sơ qua thư điện tử. - Đối với hồ sơ đầy đủ và hợp lệ, Tổ thư ký trình Ủy ban Hỗn hợp xem xét, quyết định về lượng tín chỉ sẽ được cấp.|

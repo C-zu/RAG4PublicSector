@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định, phê duyệt báo cáo kinh tế kỹ thuật công trình giao thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình của chủ đầu tư theo mẫu BM.QLCL.02.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9e4dfd87931e8'">To trinh bcao cao KTKT.doc</a>)
+- 01 Bản sao Văn bản về chủ trương đầu tư xây dựng công trình theo quy định của pháp luật về đầu tư, đầu tư công, đầu tư theo phương thức đối tác công tư;
+- 01 Bản sao Quyết định lựa chọn phương án thiết kế kiến trúc thông qua thi tuyển theo quy định và phương án thiết kế được lựa chọn kèm theo (nếu có yêu cầu);
+- 01 Bản sao Văn bản/quyết định phê duyệt và bản vẽ kèm theo (nếu có) của một trong các loại quy hoạch sau đây: Quy hoạch chi tiết xây dựng được cấp có thẩm quyền phê duyệt; quy hoạch có tính chất kỹ thuật chuyên ngành khác theo quy định của pháp luật về quy hoạch; phương án tuyến, vị trí công trình được cơ quan nhà nước có thẩm quyền chấp thuận đối với công trình xây dựng theo tuyến; quy hoạch phân khu xây dựng đối với trường hợp không có yêu cầu lập quy hoạch chi tiết xây dựng;
+- 01 Bản chính Văn bản thẩm duyệt thiết kế phòng cháy chữa cháy, kết quả thực hiện thủ tục về đánh giá tác động môi trường theo quy định của pháp luật về bảo vệ môi trường (nếu có yêu cầu); Thủ tục về phòng cháy chữa cháy được thực hiện theo nguyên tắc đồng thời, không yêu cầu bắt buộc xuất trình tại thời điểm trình hồ sơ thẩm định, song phải có kết quả gửi cơ quan chuyên môn về xây dựng trước thời hạn thông báo kết quả thẩm định;
+- 01 Bản sao Các văn bản thỏa thuận, xác nhận về đấu nối hạ tầng kỹ thuật của dự án; văn bản chấp thuận độ cao công trình theo quy định của Chính phủ về quản lý độ cao chướng ngại vật hàng không và các trận địa quản lý, bảo vệ vùng trời tại Việt Nam (trường hợp dự án không thuộc khu vực hoặc đối tượng có yêu cầu lấy ý kiến thống nhất về bề mặt quản lý độ cao công trình tại giai đoạn phê duyệt quy hoạch xây dựng) (nếu có);
+- 01 Bản chính Hồ sơ khảo sát xây dựng được chủ đầu tư phê duyệt; thuyết minh Báo cáo kinh tế - kỹ thuật; thiết kế bản vẽ thi công; danh mục tiêu chuẩn chủ yếu áp dụng cho dự án;
+- 01 Bản chính Danh sách các nhà thầu kèm theo mã số chứng chỉ năng lực của nhà thầu khảo sát, nhà thầu lập thiết kế bản vẽ thi công, nhà thầu thẩm tra (nếu có); mã số chứng chỉ hành nghề hoạt động xây dựng của các chức danh chủ nhiệm khảo sát xây dựng; chủ nhiệm, chủ trì các bộ môn thiết kế, lập tổng mức đầu tư; chủ nhiệm, chủ trì thẩm tra;
+- 01 Bản chính Đối với dự án sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công có yêu cầu xem xét tổng mức đầu tư, hồ sơ trình thẩm định phải có các nội dung sau: Tổng mức đầu tư; các thông tin, số liệu về giá, định mức có liên quan để xác định tổng mức đầu tư; báo giá, kết quả thẩm định giá (nếu có);
+- 01 Bản sao Các tài liệu khác có liên quan (nếu có).

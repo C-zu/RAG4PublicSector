@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận thực hành tốt sản xuất thuốc thú y (trong trường hợp bị mất, sai sót, hư hỏng; thay đổi thông tin có liên quan đến tổ chức đăng ký)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại GMP theo phụ lục XXXI Thông tư số 13/2016/TT-BNNPTNTP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec8e834bcd563d'">PHỤ LỤC XXXI.docx</a>)
+- 01 Bản chính Giấy chứng nhận thực hành tốt sản xuất thuốc thú y đã được cấp, trừ trường hợp bị mất;
+- 01 Bản sao Tài liệu chứng minh nội dung thay đổi trong trường hợp thay đổi thông tin có liên quan đến tổ chức đăng ký (bản chính hoặc bản sao có chứng thực hoặc bản sao có đóng dấu xác nhận của Doanh nghiệp);

@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ dự án liên kết (cấp huyện)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Chủ đầu tư dự án liên kết gửi 01 bộ hồ sơ tới Phòng Nông nghiệp (hoặc Phòng Kinh tế, sau đây gọi chung là Phòng Nông nghiệp).
+Bước 2. Sau khi nhận đủ hồ sơ theo quy định, Phòng Nông nghiệp thành lập Hội đồng thẩm định hồ sơ. Hội đồng thẩm định gồm Lãnh đạo Phòng Nông nghiệp là chủ tịch hội đồng, các thành viên là đại diện Phòng Kế hoạch, Tài chính, các đơn vị liên quan và lãnh đạo Ủy ban nhân dân các xã có liên quan.
+Trong thời hạn 15 ngày làm việc sau khi nhận được hồ sơ, Hội đồng tổ chức thẩm định, nếu hồ sơ đủ điều kiện thì Phòng Nông nghiệp có tờ trình trình Ủy ban nhân dân cấp huyện xem xét phê duyệt.
+Nếu hồ sơ không đủ điều kiện thì trong vòng 10 ngày làm việc kể từ khi thẩm định, Phòng Nông nghiệp phải thông báo và nêu rõ lý do cho chủ đầu tư dự án liên kết được biết.
+Bước 3. Trong thời hạn 10 ngày làm việc sau khi nhận được tờ trình của Phòng Nông nghiệp, Ủy ban nhân dân cấp huyện ra quyết định phê duyệt hỗ trợ dự án liên kết;

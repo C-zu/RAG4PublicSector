@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thôi quốc tịch Việt Nam ở nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo mô tả|Lệ phí : 200 USD|- Người xin thôi quốc tịch Việt Nam phải nộp hồ sơ trực tiếp tại Cơ quan đại diện Việt Nam nơi cư trú ở nước ngoài vào thời điểm nộp hồ sơ. Trong trường hợp ở nước đó không có Cơ quan đại diện thì nộp hồ sơ tại Cơ quan đại diện kiêm nhiệm hoặc Cơ quan đại diện nào thuận tiện nhất, không ủy quyền cho người khác nộp hồ sơ. - Thời gian thực tế giải quyết hồ sơ tại các cơ quan có thẩm quyền là: + 60 ngày đối với trường hợp không phải xác minh nhân thân; + 105 ngày đối với trường hợp phải xác minh nhân thân.|
+|Dịch vụ bưu chính|Theo mô tả|Lệ phí : 200 USD|- Người xin thôi quốc tịch Việt Nam gửi hồ sơ qua hệ thống bưu chính đến Cơ quan đại diện Việt Nam nơi cư trú ở nước ngoài vào thời điểm nộp hồ sơ. Trong trường hợp ở nước đó không có Cơ quan đại diện thì nộp hồ sơ tại Cơ quan đại diện kiêm nhiệm hoặc Cơ quan đại diện nào thuận tiện nhất, không ủy quyền cho người khác nộp hồ sơ. Trường hợp hồ sơ được gửi qua hệ thống bưu chính thì người thụ lý hồ sơ gửi Phiếu thụ lý cho người nộp hồ sơ qua hệ thống bưu chính. - Thời gian thực tế giải quyết hồ sơ tại các cơ quan có thẩm quyền là: + 60 ngày đối với trường hợp không phải xác minh nhân thân; + 105 ngày đối với trường hợp phải xác minh nhân thân.|

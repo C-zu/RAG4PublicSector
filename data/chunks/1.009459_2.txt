@@ -1,0 +1,13 @@
+Tên thủ tục: Công bố mở luồng chuyên dùng nối với luồng quốc gia, luồng chuyên dùng nối với luồng địa phương
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân nộp hồ sơ đến Cục Đường thủy nội địa Việt Nam ( đối với luồng chuyên dùng nối với luồng quốc gia) hoặc Sở Giao thông vận tải (đối với luồng chuyên dùng nối với luồng địa phương)
+b) Giải quyết TTHC:
+- Công bố mở luồng chuyên dùng nối với luồng quốc gia:  
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Đường thủy nội địa Việt Nam thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Giao thông vận tải;
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Cục Đường thủy nội địa Việt Nam, Bộ Giao thông vận tải ban hành quyết định công bố mở luồng
+- Công bố luồng chuyên dùng nối với luồng địa phương:
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Giao thông vận tải thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Ủy ban nhân dân cấp tỉnh;
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Sở Giao thông vận tải, Ủy ban nhân dân cấp tỉnh ban hành quyết định công bố mở luồng.

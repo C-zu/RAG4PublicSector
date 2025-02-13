@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010153
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Chấm dứt hoạt động của dự án đầu tư- BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa trả lại cho tổ chức, cá nhân.
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC.
+B6	Phê duyệt kết quả giải quyết TTHC
+B7	Phát hành văn bản và trả kết quả cho TTHC công
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn giải quyết: Ngay khi tiếp nhận|Phí : 0 Đồng||
+|Trực tuyến|Thời hạn giải quyết: Ngay khi tiếp nhận|Phí : 0 Đồng||
+|Dịch vụ bưu chính|Thời hạn giải quyết: Ngay khi tiếp nhận|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Trường hợp tự quyết định chấm dứt hoạt động của dự án đầu tư theo quy định tại Điểm a Khoản 1 Điều 48 Luật Đầu tư: + Quyết định chấm dứt chấm dứt hoạt động của dự án đầu tư; + Kèm theo Giấy chứng nhận đăng ký đầu tư (nếu có);
+- 01 Bản chính Trường hợp chấm dứt hoạt động của dự án đầu tư theo các điều kiện quy định trong hợp đồng, điều lệ doanh nghiệp hoặc hết thời hạn hoạt động của dự án đầu tư (theo quy định tại Điểm b và Điểm c Khoản 1 Điều 48 Luật Đầu tư): + Thông báo của nhà đầu tư, theo mẫu BM.ĐT.19.01 + Giấy chứng nhận đăng ký đầu tư (nếu có) + Điều lệ hoặc hợp đồng trong trường hợp điều lệ hoặc hợp đồng ghi nhận việc chấm dứt hoạt động của dự án đầu tư.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Tiếp nhận hồ sơ chấm dứt hoạt động của dự án đầu tư.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Luật đầu tư|26-11-2014|Bộ Tài chính|
+|118/2015/NĐ-CP|Nghị định 118/2015/NĐ-CP|12-11-2015||
+|16/2015/TT-BKHĐT|Thông tư 16/2015/TT-BKHĐT|18-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

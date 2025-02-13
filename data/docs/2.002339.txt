@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002339
+Số quyết định:
+346/QĐ-BNN-TT
+Tên thủ tục:
+Chứng nhận lại chủng loại gạo thơm xuất khẩu được hưởng miễn thuế nhập khẩu theo hạn ngạch
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Trồng trọt
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân gửi hồ sơ chứng nhận lại chủng loại gạo thơm xuất khẩu sang Liên minh châu Âu (sau đây viết tắt là EU) và Liên hiệp Vương Quốc Anh và Bắc Ai-len (sau đây viết tắt là UK) đến Cục Trồng trọt trong trường hợp Giấy chứng nhận chủng loại gạo thơm bị mất hoặc bị hư hỏng hoặc thay đổi thông tin liên quan đến Giấy chứng nhận chủng loại gạo thơm đã chứng nhận.
+Bước 2: Tiếp nhận, kiểm tra tính hợp lệ của hồ sơ
+Trường hợp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính: Cục Trồng trọt kiểm tra thành phần hồ sơ và trả lời ngay tính đầy đủ của hồ sơ cho tổ chức, cá nhân. 
+Trường hợp nộp hồ sơ qua môi trường điện tử: Trong thời hạn không quá 01 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Trồng trọt xem xét tính đầy đủ của thành phần hồ sơ; trường hợp hồ sơ chưa đầy đủ theo quy định, thông báo bằng văn bản cho tổ chức, cá nhân.
+Bước 3: Thẩm định và trả kết quả
+ Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định và chứng nhận vào mục 10 mẫu Giấy chứng nhận lại chủng loại gạo thơm quy định tại Phụ lục VII ban hành kèm theo Nghị định số 103/2020/NĐ-CP đối với gạo thơm xuất khẩu sang EU hoặc Phụ lục VIIa ban hành kèm theo Nghị định số 11/2022/NĐ-CP đối với gạo thơm xuất khẩu sang UK; trường hợp không chứng nhận lại phải trả lời bằng văn bản và nêu rõ lý do.
+Bước 4: Công bố trên Cổng thông tin điện tử
+Cục Trồng trọt công bố trên Cổng thông tin điện tử của Cục Trồng trọt, Bộ Nông nghiệp và Phát triển nông thôn danh sách tổ chức khảo nghiệm; tên tổ chức, cá nhân được chứng nhận chủng loại gạo thơm, Giấy chứng nhận chủng loại gạo thơm đã cấp hoặc hủy bỏ; Danh mục chủng loại gạo thơm xuất khẩu sang EU được cập nhật sửa đổi, bổ sung theo Quyết định của Ủy ban Thương mại Hiệp định EVFTA; Danh mục gạo thơm xuất khẩu sang UK được cập nhật sửa đổi, bổ sung theo Quyết định của Ủy ban Thương mại Hiệp định UKVFTA.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|||
+|Trực tuyến|03 Ngày làm việc|||
+|Dịch vụ bưu chính|03 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị chứng nhận lại chủng loại gạo thơm theo Mẫu quy định tại Phụ lục V ban hành kèm theo Nghị định số 11/2022/NĐ-CP; ([PL V mẫu đơn đề nghị.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd69af62974a694'))
+- 01 Bản chính - Mẫu Giấy chứng nhận lại chủng loại gạo thơm được kê khai đầy đủ thông tin từ mục 1 đến mục 9 theo Mẫu quy định tại Phụ lục VII ban hành kèm theo Nghị định số 103/2020/NĐ-CP đối với gạo thơm xuất khẩu sang EU hoặc Phụ lục VIIa ban hành kèm theo Nghị định số 11/2022/NĐ-CP đối với gạo thơm xuất khẩu sang UK; ([PL VII, VIIa mẫu giấy chứng nhận cấp lại.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac2c46e4c8d630'))
+- 01 Bản sao - Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin liên quan đến Giấy chứng nhận chủng loại gạo thơm đã chứng nhận;
+- 01 Bản chính - Giấy chứng nhận chủng loại gạo thơm đã cấp đối với trường hợp bị hư hỏng hoặc thay đổi thông tin liên quan.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Trồng trọt - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Trồng trọt - Số 2, Ngọc Hà, Ba Đình, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng nhận lại chủng loại gạo thơm xuất khẩu được hưởng miễn thuế nhập khẩu theo hạn ngạch
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|103/2020/NĐ-CP|Nghị định 103/2020/NĐ-CP|04-09-2020||
+|11/2022/NĐ-CP|Nghị định số 11/2022/NĐ-CP ngày 15 tháng 01 năm 2022 của Chính phủ Sửa đổi, bổ sung một số điều của Nghị định số 103/2020/NĐ-CP ngày 04 tháng 9 năm 2020 của Chính phủ về chứng nhận chủng loại gạo thơm xuất khẩu sang Liên minh châu Âu để hướng dẫn thực hiện việc chứng nhận chủng loại gạo thơm xuất khẩu sang Liên minh châu Âu và Liên hiệp Vương Quốc Anh và Bắc Ai-len.|15-01-2022|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

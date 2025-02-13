@@ -1,0 +1,98 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009833
+Số quyết định:
+546/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế) đến Cục ATBXHN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cục ATBXHN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí đối với hồ sơ hợp lệ và phí, lệ phí (nếu có) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nểu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ và phí, lệ phí (nếu có), Cục ATBXHN tổ chức thẩm định và cấp Giấy phép tiến hành công việc bức xạ (sử dụng thiết bị bức xạ).
+Trường hợp không cấp Giấy phép, Cục ATBXHN trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : 4.000.000 Đồng Sử dụng thiết bị đo hạt nhân: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phân tích huỳnh quang tia X: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phát tia X dùng trong soi kiểm tra bo mạch: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phát tia X dùng trong kiểm tra an ninh: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng phổ kế Mossbauer: 4.000.000 đồng/1 thiết bị.  Phí : 5.000.000 Đồng Sử dụng thiết bị phát tia X chụp ảnh bức xạ công nghiệp: 5.000.000/1 thiết bị.  Phí : 7.000.000 Đồng Sử dụng thiết bị đo địa vật lý giếng khoan và thăm dò địa chất: 7.000.000 đồng/1 thiết bị.  Phí : 8.000.000 Đồng Sử dụng thiết bị chụp ảnh bức xạ công nghiệp chứa nguồn gamma: 8.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị đo sắc ký khí: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị khử tĩnh điện: 4.000.000 đồng/1 thiết bị.  Phí : 13.000.000 Đồng Sử dụng thiết bị gamma chiếu xạ tự che chắn (gamma cell): 13.000.000 đồng/1 thiết bị.  Phí : 52.000.000 Đồng Sử dụng thiết bị tạo trường gamma (gamma field): 52.000.000 đồng/1 thiết bị.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Trực tuyến|45 Ngày|Phí : 4.000.000 Đồng Sử dụng thiết bị đo hạt nhân: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phân tích huỳnh quang tia X: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị đo sắc ký khí: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị khử tĩnh điện: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phát tia X dùng trong soi kiểm tra bo mạch: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phát tia X dùng trong kiểm tra an ninh: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng phổ kế Mossbauer: 4.000.000 đồng/1 thiết bị.  Phí : 5.000.000 Đồng Sử dụng thiết bị phát tia X chụp ảnh bức xạ công nghiệp: 5.000.000/1 thiết bị.  Phí : 7.000.000 Đồng Sử dụng thiết bị đo địa vật lý giếng khoan và thăm dò địa chất: 7.000.000 đồng/1 thiết bị.  Phí : 8.000.000 Đồng Sử dụng thiết bị chụp ảnh bức xạ công nghiệp chứa nguồn gamma: 8.000.000 đồng/1 thiết bị.  Phí : 13.000.000 Đồng Sử dụng thiết bị gamma chiếu xạ tự che chắn (gamma cell): 13.000.000 đồng/1 thiết bị.  Phí : 52.000.000 Đồng Sử dụng thiết bị tạo trường gamma (gamma field): 52.000.000 đồng/1 thiết bị.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Dịch vụ bưu chính|45 Ngày|Phí : 4.000.000 Đồng Sử dụng thiết bị đo hạt nhân: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phân tích huỳnh quang tia X: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị đo sắc ký khí: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị khử tĩnh điện: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phát tia X dùng trong soi kiểm tra bo mạch: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng thiết bị phát tia X dùng trong kiểm tra an ninh: 4.000.000 đồng/1 thiết bị.  Phí : 4.000.000 Đồng Sử dụng phổ kế Mossbauer: 4.000.000 đồng/1 thiết bị.  Phí : 5.000.000 Đồng Sử dụng thiết bị phát tia X chụp ảnh bức xạ công nghiệp: 5.000.000/1 thiết bị.  Phí : 7.000.000 Đồng Sử dụng thiết bị đo địa vật lý giếng khoan và thăm dò địa chất: 7.000.000 đồng/1 thiết bị.  Phí : 8.000.000 Đồng Sử dụng thiết bị chụp ảnh bức xạ công nghiệp chứa nguồn gamma: 8.000.000 đồng/1 thiết bị.  Phí : 13.000.000 Đồng Sử dụng thiết bị gamma chiếu xạ tự che chắn (gamma cell): 13.000.000 đồng/1 thiết bị.  Phí : 52.000.000 Đồng Sử dụng thiết bị tạo trường gamma (gamma field): 52.000.000 đồng/1 thiết bị.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ ([Mau 1_Don CP tien hanh CVBX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5dc10bf74d239'))
+- 01 Bản sao Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản chính Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn ([Mau 01_KB nhan vien BX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5825b1bd33486'))
+- 01 Bản sao Bản sao Chứng chỉ nhân viên bức xạ của các nhân viên: nhân viên bức xạ được đào tạo chuyên môn, nghiệp vụ về sử dụng thiết bị bức xạ, vận hành thiết bị bức xạ; có người phụ trách an toàn, trừ trường hợp cơ sở chỉ sử dụng thiết bị X – quang chụp răng sử dụng phim đặt sau huyệt ổ răng, thiết bị phát tia X trong phân tích huỳnh quang tia X và thiết bị soi bo mạch. Trường hợp các nhân viên này chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ.
+- 01 Bản sao Bản sao Giấy chứng nhận đào tạo an toàn bức xạ của nhân viên bức xạ.
+- 01 Bản chính Phiếu khai thiết bị bức xạ ([Mau 04_KB nguon PX kin gan thiet bi.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde3e26415ed846') [Mau 08_KB may phat tia X.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf9d651cd83260'))
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất có thông tin về thiết bị bức xạ như trong phiếu khai báo. Trường hợp không có tài liệu của nhà sản xuất về các thông tin này, tổ chức, cá nhân đề nghị cấp giấy phép phải nộp kết quả xác định thông số kỹ thuật của thiết bị.
+- 01 Bản chính + Báo cáo đánh giá an toàn ([Mau 04_PL5 _BC su dung thiet bi BX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febd310ea6dbac5'))
+- 01 Bản sao Bản sao Biên bản kiểm xạ
+- 01 Bản chính, 01 Bản sao Kế hoạch ứng phó sự cố ([PL02_NoidungKHUPSC.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5357835a2ad9c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+|02/2022/TT-BKHCN|Thông tư 02/2022/TT-BKHCN|25-02-2022|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải được đào tạo chuyên môn, nghiệp vụ về sử dụng thiết bị bức xạ, vận hành thiết bị chiếu xạ; có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ và có Chứng chỉ nhân viên bức xạ theo quy định tại Điều 28 của Luật Năng lượng nguyên tử.
+- Có người phụ trách an toàn, trừ trường hợp cơ sở chỉ sử dụng thiết bị trong phân tích huỳnh quang tia X và thiết bị soi bo mạch. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: Tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 03 tháng một lần;
+- Trường hợp sử dụng di động thiết bị bức xạ gắn nguồn phóng xạ Nhóm 1, Nhóm 2 và Nhóm 3 theo QCVN 6:2010/BKHCN, thiết bị phát tia X sử dụng trong chụp ảnh phóng xạ công nghiệp phải có thiết bị đo suất liều chiếu xạ; dụng cụ để thiết lập khu vực kiểm soát, khu vực giám sát tại nơi tiến hành công việc bức xạ. Trường hợp sử dụng thiết bị bức xạ gắn nguồn phóng xạ trong chụp ảnh phóng xạ công nghiệp phải có tay gắp nguồn và bình chì để thao tác với nguồn phóng xạ.
+- Trường hợp sử dụng thiết bị bức xạ gắn nguồn phóng xạ phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định số 142/2020/NĐ-CP.
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định số 142/2020/NĐ-CP. Trường hợp sử dụng thiết bị bức xạ gắn nguồn phóng xạ Nhóm 1, Nhóm 2 theo QCVN 6:2010/BKHCN, kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định số 142/2020/NĐ-CP.
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải được đào tạo chuyên môn, nghiệp vụ về sử dụng thiết bị bức xạ, vận hành thiết bị chiếu xạ; có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ và có Chứng chỉ nhân viên bức xạ theo quy định tại Điều 28 của Luật Năng lượng nguyên tử.
+- Có người phụ trách an toàn, trừ trường hợp cơ sở chỉ sử dụng thiết bị trong phân tích huỳnh quang tia X và thiết bị soi bo mạch. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: Tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 03 tháng một lần;
+- Trường hợp sử dụng di động thiết bị bức xạ gắn nguồn phóng xạ Nhóm 1, Nhóm 2 và Nhóm 3 theo QCVN 6:2010/BKHCN, thiết bị phát tia X sử dụng trong chụp ảnh phóng xạ công nghiệp phải có thiết bị đo suất liều chiếu xạ; dụng cụ để thiết lập khu vực kiểm soát, khu vực giám sát tại nơi tiến hành công việc bức xạ. Trường hợp sử dụng thiết bị bức xạ gắn nguồn phóng xạ trong chụp ảnh phóng xạ công nghiệp phải có tay gắp nguồn và bình chì để thao tác với nguồn phóng xạ.
+- Trường hợp sử dụng thiết bị bức xạ gắn nguồn phóng xạ phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định số 142/2020/NĐ-CP.
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định số 142/2020/NĐ-CP. Trường hợp sử dụng thiết bị bức xạ gắn nguồn phóng xạ Nhóm 1, Nhóm 2 theo QCVN 6:2010/BKHCN, kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định số 142/2020/NĐ-CP.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế)
+Mô tả:
+Không có thông tin

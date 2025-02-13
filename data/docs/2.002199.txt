@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002199
+Số quyết định:
+1753/QĐ-BKHĐT
+Tên thủ tục:
+Xác nhận chuyên gia
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức
+Trình tự thực hiện:
+- Bước 1: Chuyên gia người nước ngoài cung cấp thông tin cần thiết cho Chủ dự án.
+- Bước 2: Trong vòng 30 ngày làm việc kể từ khi hợp đồng chuyên gia có hiệu lực, Chủ dự án gửi Cơ quan chủ quản công văn đề nghị xác nhận chuyên gia kèm theo hồ sơ theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Cơ quan chủ quản xác nhận chuyên gia theo đúng mẫu quy định trong vòng 15 làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Dịch vụ bưu chính|Cơ quan chủ quản xác nhận chuyên gia theo đúng mẫu quy định trong vòng 15 làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Lệ phí : Đồng Không có|- Thông qua hệ thống bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản cam kết không mang quốc tịch Việt Nam của chuyên gia.
+- 01 Bản sao - Bản sao hộ chiếu (có chứng thực) của chuyên gia và các thành viên trong gia đình chuyên gia, trong đó có trang thị thực nhập cảnh Việt Nam (nếu có) và trang đóng dấu xuất nhập cảnh của cơ quan quản lý xuất nhập cảnh.
+- 01 Bản chính - Bản gốc hoặc bản sao (có chứng thực) các tài liệu sau: (i) Quyết định phê duyệt kết quả đấu thầu dịch vụ tư vấn (cá nhân hoặc nhóm chuyên gia); (ii) Tài liệu đấu thầu đã được cấp có thẩm quyền phê duyệt (bao gồm phần danh sách tư vấn).
+- 01 Bản chính - Văn bản chấp thuận của Bên Việt Nam và Bên nước ngoài trong trường hợp có sự thay đổi và bổ sung so với danh sách chuyên gia, tư vấn trong tài liệu đấu thầu đã được cấp có thẩm quyền phê duyệt.
+- 01 Bản sao - Bản sao hợp đồng tư vấn của chuyên gia (cá nhân hoặc Nhóm chuyên gia) ký với nhà thầu, cơ quan có thẩm quyền Bên Việt Nam hoặc Bên nước ngoài.
+ Cơ quan chủ quản xác nhận chuyên gia theo đúng mẫu quy định trong vòng 15 làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. ([Mẫu số 1_ TT 12.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6df08b495487c'))
+
+Đối tượng thực hiện:
+Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cơ quan chủ quản
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận của cơ quan chủ quản các chương trình, dự án ODA
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|12/2010/TTLT-BKHĐT-BTC|Thông tư liên tịch 12/2010/TTLT-BKHĐT-BTC|28-05-2010|Bộ Kế hoạch và Đầu tư|
+|119/2009/QĐ-TTg|Quyết định số 119/2009/QĐ-TTg ngày 01 tháng 10 năm 2009 của Thủ tướng Chính phủ về việc ban hành Quy chế chuyên gia nước ngoài thực hiện các chương trình, dự án ODA|10-10-2009||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Xác nhận chuyên gia
+Mô tả:
+Không có thông tin

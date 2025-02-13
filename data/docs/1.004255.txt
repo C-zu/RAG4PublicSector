@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004255
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+Trường hợp giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng bị mất hoặc bị hư hại không còn sử dụng được, doanh nghiệp gửi hồ sơ đề nghị cấp lại giấy phép đến Bộ Thông tin và Truyền thông.
+Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông xem xét cấp lại giấy phép cho doanh nghiệp. Trường hợp từ chối, Bộ Thông tin và Truyền thông có văn bản trả lời, trong đó nêu rõ lý do từ chối.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng bao gồm: Tên, địa chỉ của doanh nghiệp; số, nơi cấp, ngày cấp giấy chứng nhận đăng ký doanh nghiệp; số, ngày cấp, ngày hiệu lực của giấy phép đã được cấp; lý do đề nghị cấp lại giấy phép; cam kết của doanh nghiệp về các nội dung kê khai trong đơn đề nghị.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục Phát thanh, truyền hình và thông tin điện tử Số 115 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2013/NĐ-CP|Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng|15-07-2013|Chính phủ|
+|27/2018/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng|01-03-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

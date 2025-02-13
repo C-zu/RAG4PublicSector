@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy chứng nhận lưu hành tự do (CFS) đối với trang thiết bị y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|03 Ngày làm việc|Phí : 1.000.000 Đồng Phí thẩm định hồ sơ xuất khẩu trang thiết bị y tế|Sau 03 ngày làm việc kể từ thời điểm nhận được hồ sơ đầy đủ và hợp lệ|

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục công nhận tuổi nghề cơ yếu đối với người làm công tác cơ yếu thôi làm việc trong tổ chức cơ yếu (nghỉ hưu, chuyển ngành, thôi việc)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : 0 Đồng|30 (ba mươi) ngày làm việc (không tính thời gian gửi cho cá nhân, tổ chức hoàn thiện hồ sơ), trong đó: - Cục Cơ yếu các Bộ, ngành: 15 ngày làm việc kể; - Cục Chính trị - Tổ chức/Ban Cơ yếu Chính phủ: 15 ngày làm việc.|
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 0 Đồng|30 (ba mươi) ngày làm việc (không tính thời gian gửi cho cá nhân, tổ chức hoàn thiện hồ sơ), trong đó: - Cục Cơ yếu các Bộ, ngành: 15 ngày làm việc kể; - Cục Chính trị - Tổ chức/Ban Cơ yếu Chính phủ: 15 ngày làm việc.|

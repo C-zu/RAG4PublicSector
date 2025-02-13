@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục kiểm tra và xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân đề nghị cơ quan hải quan xác định trước xuất xứ đối với hàng hóa dự kiến xuất khẩu, nhập khẩu và gửi hồ sơ đề nghị xác định trước xuất xứ hàng hóa đến Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan.
+Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng hoặc bị lỗi, người khai hải quan nộp 01 bộ hồ sơ giấy đến Tổng cục Hải quan.
+Bước 2: Người hải quan thực hiện
+- Người khai hải quan thông báo bằng văn bản cho Tổng cục Hải quan trong thời hạn 10 ngày làm việc kể từ ngày có sự thay đổi nào liên quan đến hàng hóa đã đề nghị xác định trước xuất xứ trong đó nêu rõ nội dung, lý do, ngày, tháng, năm có sự thay đổi.
+	- Cơ quan hải quan căn cứ hồ sơ đề nghị xác định trước để ban hành Thông báo xác định trước xuất xứ.

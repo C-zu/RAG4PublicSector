@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000154
+Số quyết định:
+3585/QĐ-BNN-VP
+Tên thủ tục:
+Xác nhận bảng kê gỗ nhập khẩu khi thực hiện thủ tục Hải quan
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Kiểm lâm
+Trình tự thực hiện:
+- Bước 1: Thực hiện theo thủ tục hành chính ban hành kèm theo Quyết định số 2770/QĐ-BTC ngày 25/12/2015 của Bộ Tài chính về việc công bố thủ tục hành chính mới/thủ tục hành chính thay thế/thủ tục hành chính bãi bỏ/thủ tục hành chính giữ nguyên trong lĩnh vực Hải quan thuộc phạm vi chức năng quản lý Nhà nước của Bộ Tài chính (mã hồ sơ thủ tục hành chính số 1.006440 được công khai trên Cổng dịch vụ công quốc gia).
+- Bước 2: Sau khi hoàn thành thủ tục thông quan, cơ quan Hải quan cửa khẩu nơi thông quan xác nhận nội dung chủ gỗ đã kê khai.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|2 Giờ|Phí : 20000 Đồng|Ngay sau khi hoàn thành thủ tục thông quan (Hoàn thành việc kiểm tra hồ sơ chậm nhất là 02 giờ làm việc kể từ thời điểm cơ quan hải quan tiếp nhận đầy đủ hồ sơ hải quan);|
+|Trực tuyến|8 Giờ|Phí : 20000 Đồng|Ngay sau khi hoàn thành thủ tục thông quan (Hoàn thành việc kiểm tra thực tế hàng hoá chậm nhất là 08 giờ làm việc kể từ thời điểm người khai hải quan xuất trình đầy đủ hàng hoá cho cơ quan hải quan. Trường hợp hàng hóa thuộc đối tượng kiểm tra chuyên ngành về chất lượng, y tế, văn hóa, kiểm dịch động vật, thực vật, an toàn thực phẩm theo quy định của pháp luật có liên quan thì thời hạn hoàn thành kiểm tra thực tế hàng hóa được tính từ thời điểm nhận được kết quả kiểm tra chuyên ngành theo quy định.)|
+|Trực tuyến|2 Ngày|Phí : 20000 Đồng|Ngay sau khi hoàn thành thủ tục thông quan Trường hợp lô hàng có số lượng lớn, nhiều chủng loại hoặc việc kiểm tra phức tạp thì Thủ trưởng cơ quan hải quan nơi làm thủ tục hải quan quyết định việc gia hạn thời gian kiểm tra thực tế hàng hóa, nhưng thời gian gia hạn tối đa không quá 02 ngày.|
+
+Thành phần hồ sơ:
+
+Và một trong các tài liệu sau:
+- 01 Bản sao - Trường hợp gỗ thuộc Phụ lục CITES: Bản sao giấy phép CITES xuất khẩu hoặc tái xuất khẩu do Cơ quan thẩm quyền quản lý CITES nước xuất khẩu hoặc nước tái xuất khẩu cấp; Bản sao giấy phép CITES nhập khẩu do Cơ quan thẩm quyền quản lý CITES Việt Nam cấp;
+- 01 Bản sao - Trường hợp gỗ nhập khẩu từ quốc gia đã ký kết Hiệp định gỗ hợp pháp với EU và đang vận hành hệ thống cấp phép FLEGT: Bản sao giấy phép FLEGT xuất khẩu do cơ quan có thẩm quyền nước xuất khẩu cấp;
+- 01 Bản chính - Trường hợp lô hàng gỗ nhập khẩu không thuộc quy định tại điểm c.1 hoặc điểm c.2 khoản này: Bảng kê khai nguồn gốc gỗ nhập khẩu theo Mẫu số 03 Phụ lục I ban hành kèm theo Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (có Mẫu số 03 kèm theo). ([Mẫu số 03. Bảng kê khai nguồn gốc gỗ nhập khẩu.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd286bc49987098'))
+
+
+Bao gồm
+ Thực hiện theo Quyết định số 2770/QĐ-BTC ngày 25/12/2015 của Bộ Tài chính về việc công bố thủ tục hành chính mới/thủ tục hành chính thay thế/thủ tục hành chính bãi bỏ/thủ tục hành chính giữ nguyên trong lĩnh vực Hải quan thuộc phạm vi chức năng quản lý Nhà nước của Bộ Tài chính (mã hồ sơ thủ tục hành chính số 1.006440 được công khai trên Cổng dịch vụ công quốc gia). ([Mẫu số 01. Bảng kê gỗ nhập khẩu.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe57d49805f997b'))
+- 01 Bản chính Bản chính Bảng kê gỗ nhập khẩu theo Mẫu số 01 hoặc Bảng kê nhập khẩu gỗ nhập khẩu theo Mẫu số 02 Phụ lục I kèm theo Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (có Mẫu số 01 và Mẫu số 02 Phụ lục I kèm theo). ([Mẫu số 02. Bảng kê sản phẩm gỗ nhập khẩu.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdabf50380cfc00'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận của Chi cục Hải quan trực tiếp trên Bảng kê gỗ nhập khẩu hoặc Bảng kê sản phẩm gỗ nhập khẩu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|102/2020/NĐ-CP|Nghị định 102/2020/NĐ-CP|01-09-2020||
+|14/2021/TT-BTC|Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện vận tải quá cảnh|18-02-2021|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+.
+Từ khóa:
+Không có thông tin
+Mô tả:
+- Quyết định số 2770/QĐ-BTC ngày 25/12/2015 của Bộ Tài chính về việc công bố thủ tục hành chính mới/thủ tục hành chính thay thế/thủ tục hành chính bãi bỏ/thủ tục hành chính giữ nguyên trong lĩnh vực Hải quan thuộc phạm vi chức năng quản lý Nhà nước của Bộ Tài chính (mã hồ sơ thủ tục hành chính số 1.006440 được công khai trên Cổng dịch vụ công quốc gia). - Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ Quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam.

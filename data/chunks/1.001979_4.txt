@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy phép thành lập chi nhánh, công ty luật nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại Giấy phép thành lập chi nhánh, công ty luật nước ngoài, trong đó nêu rõ lý do, số Giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b638ee5b1e4c'">17. TP-LS-17. De nghi cap lai, thay doi noi dung GP CN, CTLNN.doc</a>)
+- 01 Bản chính Các giấy tờ theo quy định tại Điều 78 của Luật luật sư.

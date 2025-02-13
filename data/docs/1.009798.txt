@@ -1,0 +1,84 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009798
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Chấp thuận đăng ký niêm yết chứng khoán của tổ chức phát hành nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
++ Bước 1: Tổ chức phát hành nước ngoài nộp hồ sơ xin chấp thuận đăng ký niêm yết chứng khoán trên Sở giao dịch chứng khoán Việt Nam.
++ Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh 	mục hồ sơ theo quy định.
++ Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, trong thời hạn 07 (bẩy) ngày làm việc, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu tổ chức phát hành nước ngoài bổ sung hoặc giải trình.
++ Bước 4: Trong thời hạn 30 (ba mươi) ngày kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước gửi công văn chấp thuận cho tổ chức phát hành nước ngoài làm thủ tục đăng ký niêm yết trên SGDCK tại Việt Nam. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao * Trường hợp niêm yết cổ phiếu: 1) Giấy đề nghị chấp thuận việc đăng ký niêm yết chứng khoán tại Việt Nam của tổ chức phát hành nước ngoài. 2) Bản cáo bạch niêm yết, Giấy chứng nhận đăng ký chào bán của Ủy ban Chứng khoán Nhà nước, báo cáo kết quả chào bán chứng khoán ra công chúng của tổ chức đăng ký niêm yết và Quyết định của Đại hội đồng cổ đông thông qua việc niêm yết cổ phiếu. 3) Sổ đăng ký cổ đông của tổ chức đăng ký niêm yết được lập trong thời hạn 01 tháng trước thời điểm nộp hồ sơ đăng ký niêm yết; kèm theo danh sách cổ đông lớn, cổ đông chiến lược, người nội bộ và người có liên quan của người nội bộ (số lượng, tỷ lệ nắm giữ, thời gian bị hạn chế chuyển nhượng (nếu có)); 4) Cam kết của cổ đông là cá nhân, tổ chức có đại diện sở hữu là Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Trưởng Ban kiểm soát và thành viên Ban Kiểm soát (Kiểm soát viên), Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng, Giám đốc tài chính và các chức danh quản lý tương đương do Đại hội đồng cổ đông bầu hoặc Hội đồng quản trị bổ nhiệm và cam kết của cổ đông lớn là người có liên quan của các đối tượng trên về việc nắm giữ 100% số cổ phiếu do mình sở hữu trong thời gian 06 tháng kể từ ngày giao dịch đầu tiên của cổ phiếu trên Sở giao dịch chứng khoán và 50% số cổ phiếu này trong thời gian 06 tháng tiếp theo. 5) Hợp đồng tư vấn niêm yết. 6) Giấy chứng nhận của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về việc cổ phiếu của tổ chức đăng ký niêm yết đã đăng ký chứng khoán tập trung. 7) Giấy chứng nhận đăng ký doanh nghiệp, Giấy phép thành lập và hoạt động hoặc giấy tờ pháp lý có giá trị tương đương. 8) Báo cáo tài chính trong 02 năm liền trước năm đăng ký niêm yết của tổ chức đăng ký niêm yết theo quy định tại khoản 1 Điều 107 Nghị định 155/2020/NĐ-CP. * Trường hợp niêm yết trái phiếu: 1) Giấy đề nghị chấp thuận việc đăng ký niêm yết chứng khoán tại Việt Nam của tổ chức phát hành nước ngoài. 2) Sổ đăng ký người sở hữu trái phiếu của tổ chức đăng ký niêm yết được lập trong thời hạn 01 tháng trước thời điểm nộp hồ sơ đăng ký niêm yết. 3) Cam kết thực hiện nghĩa vụ của tổ chức đăng ký niêm yết đối với nhà đầu tư, bao gồm các điều kiện thanh toán, tỷ lệ nợ trên vốn chủ sở hữu, điều kiện chuyển đổi (trường hợp niêm yết trái phiếu chuyển đổi) và các điều kiện khác. 4) Hợp đồng tư vấn niêm yết trái phiếu giữa tổ chức phát hành và công ty chứng khoán, trừ trường hợp tổ chức phát hành là công ty chứng khoán. 5) Giấy chứng nhận của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về việc trái phiếu của tổ chức đăng ký niêm yết đã đăng ký chứng khoán tập trung.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận 1 cửa Ủy ban Chứng khoán Nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công văn chấp thuận; hoặc Công văn từ chối và nêu rõ lý do
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+1. Là chứng khoán của tổ chức phát hành nước ngoài đã được chào bán ra công chúng tại Việt Nam theo quy định pháp luật về chứng khoán Việt Nam.
+	2. Số lượng chứng khoán đăng ký niêm yết tương ứng với số lượng chứng khoán được phép chào bán tại Việt Nam.
+	3. Được một (01) công ty chứng khoán thành lập và hoạt động tại Việt Nam tham gia tư vấn niêm yết chứng khoán.
+	4. Tuân thủ các quy định của pháp luật Việt Nam về quản lý ngoại hối.
+	5. Đáp ứng điều kiện niêm yết chứng khoán tại SGDCK như sau:
+	* Trường hợp niêm yết cổ phiếu:
+	a) Là công ty cổ phần có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 30 tỷ đồng trở lên căn cứ trên báo cáo tài chính gần nhất được kiểm toán, đồng thời giá trị vốn hóa đạt tối thiểu 30 tỷ đồng tính theo bình quân gia quyền giá thanh toán cổ phiếu trong đợt chào bán ra công chúng gần nhất theo quy định của Nghị định 155/2020/NĐ-CP.;
+b) Đã được Đại hội đồng cổ đông thông qua việc niêm yết; đã giao dịch trên hệ thống giao dịch Upcom tối thiểu 02 năm, trừ trường hợp tổ chức đăng ký niêm yết đã chào bán cổ phiếu ra công chúng;
+c) Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu (ROE) năm liền trước năm đăng ký niêm yết tối thiểu là 5% và hoạt động kinh doanh của 02 năm liền trước năm đăng ký niêm yết phải có lãi; không có các khoản nợ phải trả quá hạn trên 01 năm tính đến thời điểm đăng ký niêm yết; không có lỗ lũy kế căn cứ trên báo cáo tài chính năm gần nhất được kiểm toán hoặc báo cáo tài chính bán niên được soát xét trong trường hợp đăng ký niêm yết sau ngày kết thúc của kỳ lập báo cáo tài chính bán niên;
+	d) Tổ chức đăng ký niêm yết phải có tối thiểu 15% số cổ phiếu có quyền biểu quyết do ít nhất 100 cổ đông không phải cổ đông lớn nắm giữ; trường hợp vốn điều lệ của tổ chức đăng ký niêm yết từ 1.000 tỷ đồng trở lên, tỷ lệ tối thiểu là 10% số cổ phiếu có quyền biểu quyết;
+đ) Cổ đông là cá nhân, tổ chức có đại diện sở hữu là Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Trưởng Ban kiểm soát và thành viên Ban Kiểm soát (Kiểm soát viên), Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng, Giám đốc tài chính và các chức danh quản lý tương đương do Đại hội đồng cổ đông bầu hoặc Hội đồng quản trị bổ nhiệm và cổ đông lớn là người có liên quan của các đối tượng trên phải cam kết tiếp tục nắm giữ 100% số cổ phiếu do mình sở hữu trong thời gian 06 tháng kể từ ngày giao dịch đầu tiên của cổ phiếu trên Sở giao dịch chứng khoán và 50% số cổ phiếu này trong thời gian 06 tháng tiếp theo, không tính số cổ phiếu thuộc sở hữu nhà nước do các cá nhân trên đại diện nắm giữ;
+	e) Công ty, người đại diện theo pháp luật của công ty không bị xử lý vi phạm trong thời hạn 02 năm tính đến thời điểm đăng ký niêm yết do thực hiện hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán quy định tại Điều 12 Luật Chứng khoán;
+	g) Có công ty chứng khoán tư vấn hồ sơ đăng ký niêm yết.
+	* Trường hợp niêm yết trái phiếu:
+Trái phiếu doanh nghiệp niêm yết trên Sở giao dịch chứng khoán là trái phiếu đã chào bán ra công chúng.
+1. Là chứng khoán của tổ chức phát hành nước ngoài đã được chào bán ra công chúng tại Việt Nam theo quy định pháp luật về chứng khoán Việt Nam.
+	2. Số lượng chứng khoán đăng ký niêm yết tương ứng với số lượng chứng khoán được phép chào bán tại Việt Nam.
+	3. Được một (01) công ty chứng khoán thành lập và hoạt động tại Việt Nam tham gia tư vấn niêm yết chứng khoán.
+	4. Tuân thủ các quy định của pháp luật Việt Nam về quản lý ngoại hối.
+	5. Đáp ứng điều kiện niêm yết chứng khoán tại SGDCK như sau:
+	* Trường hợp niêm yết cổ phiếu:
+	a) Là công ty cổ phần có vốn điều lệ đã góp tại thời điểm đăng ký niêm yết từ 30 tỷ đồng trở lên căn cứ trên báo cáo tài chính gần nhất được kiểm toán, đồng thời giá trị vốn hóa đạt tối thiểu 30 tỷ đồng tính theo bình quân gia quyền giá thanh toán cổ phiếu trong đợt chào bán ra công chúng gần nhất theo quy định của Nghị định 155/2020/NĐ-CP.;
+b) Đã được Đại hội đồng cổ đông thông qua việc niêm yết; đã giao dịch trên hệ thống giao dịch Upcom tối thiểu 02 năm, trừ trường hợp tổ chức đăng ký niêm yết đã chào bán cổ phiếu ra công chúng;
+c) Tỷ lệ lợi nhuận sau thuế trên vốn chủ sở hữu (ROE) năm liền trước năm đăng ký niêm yết tối thiểu là 5% và hoạt động kinh doanh của 02 năm liền trước năm đăng ký niêm yết phải có lãi; không có các khoản nợ phải trả quá hạn trên 01 năm tính đến thời điểm đăng ký niêm yết; không có lỗ lũy kế căn cứ trên báo cáo tài chính năm gần nhất được kiểm toán hoặc báo cáo tài chính bán niên được soát xét trong trường hợp đăng ký niêm yết sau ngày kết thúc của kỳ lập báo cáo tài chính bán niên;
+	d) Tổ chức đăng ký niêm yết phải có tối thiểu 15% số cổ phiếu có quyền biểu quyết do ít nhất 100 cổ đông không phải cổ đông lớn nắm giữ; trường hợp vốn điều lệ của tổ chức đăng ký niêm yết từ 1.000 tỷ đồng trở lên, tỷ lệ tối thiểu là 10% số cổ phiếu có quyền biểu quyết;
+đ) Cổ đông là cá nhân, tổ chức có đại diện sở hữu là Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Trưởng Ban kiểm soát và thành viên Ban Kiểm soát (Kiểm soát viên), Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng, Giám đốc tài chính và các chức danh quản lý tương đương do Đại hội đồng cổ đông bầu hoặc Hội đồng quản trị bổ nhiệm và cổ đông lớn là người có liên quan của các đối tượng trên phải cam kết tiếp tục nắm giữ 100% số cổ phiếu do mình sở hữu trong thời gian 06 tháng kể từ ngày giao dịch đầu tiên của cổ phiếu trên Sở giao dịch chứng khoán và 50% số cổ phiếu này trong thời gian 06 tháng tiếp theo, không tính số cổ phiếu thuộc sở hữu nhà nước do các cá nhân trên đại diện nắm giữ;
+	e) Công ty, người đại diện theo pháp luật của công ty không bị xử lý vi phạm trong thời hạn 02 năm tính đến thời điểm đăng ký niêm yết do thực hiện hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán quy định tại Điều 12 Luật Chứng khoán;
+	g) Có công ty chứng khoán tư vấn hồ sơ đăng ký niêm yết.
+	* Trường hợp niêm yết trái phiếu:
+Trái phiếu doanh nghiệp niêm yết trên Sở giao dịch chứng khoán là trái phiếu đã chào bán ra công chúng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

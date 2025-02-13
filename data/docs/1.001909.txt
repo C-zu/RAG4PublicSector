@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001909
+Số quyết định:
+222/QĐ-BHXH
+Tên thủ tục:
+Thanh toán chi phí khám, chữa bệnh bảo hiểm y tế với cơ sở khám chữa bệnh bảo hiểm y tế
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thực hiện chính sách BHYT
+Trình tự thực hiện:
+Bước 1. Lập, nộp hồ sơ
+- Trong thời hạn 7 ngày làm việc (kể từ ngày kết thúc việc KCB đối với người bệnh) cơ sở KCB BHYT phải gửi dữ liệu điện tử lên Cổng Thông tin giám định BHYT, dữ liệu phát sinh vào những ngày cuối của tháng hoặc của quý hoặc của năm đến Cổng Thông tin giám định BHYT trước ngày mùng 5 của tháng kế tiếp.
+- Trong thời gian 15 ngày đầu mỗi tháng, cơ sở KCB BHYT lập bảng Tổng hợp chi phí khám bệnh, chữa bệnh của người tham gia BHYT (mẫu C79-HD) tháng trước và gửi cho cơ quan BHXH.
+- Trong thời hạn 15 ngày đầu mỗi quý, cơ sở KCB BHYT gửi Báo cáo quyết toán chi phí khám bệnh, chữa bệnh BHYT của quý trước cho cơ quan BHXH.
+Bước 2.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày||- Cơ sở KCB BHYT nộp hồ sơ tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích (đồng thời chuyển dữ liệu điện tử qua mạng Internet). - Thực hiện ký biên bản quyết toán chi phí KCB BHYT tại trụ sở cơ quan BHXH hoặc tại cơ sở KCB|
+|Trực tuyến|40 Ngày||- Cơ sở KCB BHYT nộp hồ sơ tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích (đồng thời chuyển dữ liệu điện tử qua mạng Internet). - Thực hiện ký biên bản quyết toán chi phí KCB BHYT tại trụ sở cơ quan BHXH hoặc tại cơ sở KCB|
+|Dịch vụ bưu chính|40 Ngày||- Cơ sở KCB BHYT nộp hồ sơ tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích (đồng thời chuyển dữ liệu điện tử qua mạng Internet). - Thực hiện ký biên bản quyết toán chi phí KCB BHYT tại trụ sở cơ quan BHXH hoặc tại cơ sở KCB|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bảng tổng hợp chi phí KCB của người tham gia BHYT (theo mẫu số C79-HD ban hành kèm theo Thông tư số 102/2018/TT-BTC). ([C79_HD.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd11245d47cd814'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Biên bản thanh quyết toán chi phí khám chữa bệnh BHYT được ký giữa cơ quan BHXH và cơ sở khám bệnh, chữa bệnh theo Mẫu số C82-HD, cơ quan BHXH chuyển tiền trả cơ sở khám bệnh, chữa bệnh., Biên bản thanh, quyết toán chi phí khám chữa bệnh BHYT
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2008/QH12|Luật 25/2008/QH12|14-11-2008||
+|46/2014/QH13|Luật 46/2014/QH13|13-06-2014||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+|102/2018/TT-BTC|Thông tư 102/2018/TT-BTC|14-11-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

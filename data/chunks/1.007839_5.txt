@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá kinh doanh theo phương thức chuyển khẩu
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận thông quan
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|172/2010/TT-BTC|Thông tư 172/2010/TT-BTC|02-11-2010|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|

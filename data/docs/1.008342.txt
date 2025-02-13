@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008342
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai thuế thu nhập cá nhân tháng/quý của tổ chức khấu trừ thuế đối với cá nhân trực tiếp ký hợp đồng làm đại lý xổ số, đại lý bảo hiểm, đại lý bán hàng đa cấp, cá nhân có thu nhập từ phí tích luỹ bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++Bước 1. Công ty xổ số, doanh nghiệp bảo hiểm, doanh nghiệp bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích luỹ bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác, chuẩn bị hồ sơ và gửi đến cơ quan thuế. 
+Thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế. Thời hạn nộp hồ sơ khai thuế quý chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo quý phát sinh nghĩa vụ thuế.
++ Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định.
+++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ (và trả kết quả nếu có kết quả) thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không phải trả kết quả cho người nộp thuế|||
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||
+|Dịch vụ bưu chính|Không phải trả kết quả cho người nộp thuế|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao ++ Tờ khai khấu trừ thuế thu nhập cá nhân (Áp dụng cho doanh nghiệp xổ số, bảo hiểm, bán hàng đa cấp trả tiền hoa hồng cho cá nhân trực tiếp ký hợp đồng làm đại lý bán đúng giá; doanh nghiệp bảo hiểm trả phí tích lũy bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác) mẫu số 01/XSBHĐC theo Phụ lục I - Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Phụ lục II - Danh mục mẫu biểu ban hành kèm theo Thông tư số 40/2021/TT-BTC ngày 01/6/2021 của Bộ trưởng Bộ Tài chính
+- 01 Bản chính ++ Phụ lục bảng kê chi tiết cá nhân có phát sinh doanh thu từ hoạt động đại lý xổ số, đại lý bảo hiểm, bán hàng đa cấp (Kèm theo Tờ khai 01/KK-XSBHĐC kê khai vào hồ sơ khai thuế của tháng/quý cuối cùng trong năm tính thuế) mẫu số 01-1/BK-XSBHĐC theo Phụ lục I - Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Phụ lục II - Danh mục mẫu biểu ban hành kèm theo Thông tư số 40/2021/TT-BTC ngày 01/6/2021 của Bộ trưởng Bộ Tài chính. ([Mẫu 01.1.BK.XSBHĐC.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0619db8b25505'))
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Thuế, Cục Thuế, Chi cục Thuế.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+0
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|100/2021/TT-BTC|Thông tư 100/2021/TT-BTC|15-11-2021||
+|40/2021/TT-BTC|Thông tư 40/2021/TT-BTC|01-06-2021||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,10 @@
+Tên thủ tục: Sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính (cấp Tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Doanh nghiệp, tổ chức hoàn thiện hồ sơ đề nghị cấp sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính theo quy định và nộp hồ sơ về Sở Thông tin và Truyền thông.
+- Sau khi hồ sơ được tiếp nhận, Sở Thông tin và Truyền thông cấp sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+- Trường hợp không chấp thuận sửa đổi, bổ sung, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Thông tin và Truyền thông thông báo cho doanh nghiệp, tổ chức và nêu rõ lý do.
+- Trường hợp sửa đổi, bổ sung phạm vi cung ứng dịch vụ bưu chính dẫn đến thay đổi thẩm quyền cấp văn bản xác nhận thông báo hoạt động bưu chính thì doanh nghiệp, tổ chức nộp hồ sơ và thực hiện các thủ tục như cấp văn bản xác nhận thông báo hoạt động bưu chính mới.
+- Các thông báo của Sở Thông tin và Truyền thông được thực hiện bằng văn bản qua hệ thống dịch vụ công trực tuyến.
+- Kết quả giải quyết thủ tục cấp sửa đổi, bổ sung giấy phép bưu chính được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.

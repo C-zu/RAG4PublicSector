@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy chứng nhận đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2120b219fbda2'">Mẫu số 04 ban hành kèm theo Thông tư số 17.doc</a>)

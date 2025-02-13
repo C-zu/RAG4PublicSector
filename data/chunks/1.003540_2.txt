@@ -1,0 +1,14 @@
+Tên thủ tục: Thẩm định điều kiện bảo đảm an toàn thực phẩm cơ sở sản xuất, kinh doanh thủy sản có xuất khẩu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở sản xuất, kinh doanh thủy sản có xuất khẩu sang các quốc gia, vùng lãnh thổ có yêu cầu lô hàng được cấp chứng thư bởi Cục Chất lượng, Chế biến và Phát triển thị trường lập và gửi hồ sơ đăng ký kiểm tra cho Cơ quan thẩm định (Cục Chất lượng, Chế biến và Phát triển thị trường và các cơ quan, đơn vị trực thuộc Cục).
+Bước 2: Trong thời gian 03 ngày làm việc kể từ ngày nhận được hồ sơ của Cơ sở, Cơ quan thẩm định phải thẩm tra tính đầy đủ, hợp lệ của hồ sơ, hướng dẫn Cơ sở bổ sung những nội dung còn thiếu hoặc chưa đúng quy định.
+Bước 3: Cơ quan thẩm định thông báo cho Cơ sở thời điểm dự kiến tiến hành thẩm định tại Cơ sở nhưng không quá 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+Bước 4: Trong thời hạn không quá 06 ngày làm việc kể từ ngày kết thúc thẩm định, Cơ quan thẩm định thẩm tra Biên bản thẩm định và thực hiện như sau:
+a) Trường hợp thẩm định cấp Giấy chứng nhận ATTP, bổ sung Danh sách xuất khẩu:
+- Đối với Cơ sở có kết quả đạt (hạng 1, hạng 2 và hạng 3): thông báo kết quả; cấp mã số theo Phụ lục VII ban hành kèm theo Thông tư 48/2013/TT-BNNPTNT ngày 12/11/2013; bổ sung vào Danh sách xuất khẩu, tổng hợp để đề nghị Cơ quan thẩm quyền nước nhập khẩu bổ sung vào Danh sách cơ sở được phép xuất khẩu sang thị trường tương ứng; cấp Giấy chứng nhận ATTP theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư 32/2022/TT-BNNPTNT đối với cơ sở không thuộc diện miễn cấp theo quy định tại điểm k khoản 1 Điều 12 Nghị định 15/2018/NĐ-CP ngày 02/02/2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm.
+- Đối với Cơ sở có kết quả không đạt (hạng 4): thông báo kết quả, yêu cầu Cơ sở thực hiện và gửi Báo cáo kết quả khắc phục sai lỗi; thu hồi Giấy chứng nhận ATTP còn hiệu lực (nếu có).
+b) Trường hợp thẩm định đánh giá định kỳ điều kiện an toàn thực phẩm (cơ sở đã có tên trong Danh sách xuất khẩu, bổ sung thị trường xuất khẩu có yêu cầu lập danh sách; sửa chữa, nâng cấp điều kiện bảo đảm ATTP): 
+- Đối với Cơ sở có kết quả đạt (hạng 1, hạng 2 và hạng 3): thông báo kết quả; tổng hợp để đề nghị Cơ quan thẩm quyền nước nhập khẩu cập nhật thông tin (nếu cần thiết); 
+- Đối với cơ sở có kết quả không đạt (hạng 4): thông báo kết quả, yêu cầu Cơ sở thực hiện và báo cáo kết quả khắc phục các sai lỗi, thu hồi Giấy chứng nhận ATTP còn hiệu lực (nếu có).

@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh dự án đầu tư theo bản án, quyết định của tòa án, trọng tài - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.13.01
+- 01 Bản sao Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân, bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức.
+- 01 Bản chính Bản án, quyết định có hiệu lực pháp luật của tòa án, trọng tài.

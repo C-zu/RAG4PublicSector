@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp Giấy phép khảo nghiệm thuốc bảo vệ thực vật để đăng ký bổ sung
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp bổ sung phạm vi sử dụng, liều lượng sử dụng, cách sử dụng
+- 01 Bản chính Đơn đề nghị cấp Giấy phép khảo nghiệm thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fece78a484c1e13'">TTHC 1.doc</a>)
+- 01 Bản chính Bản sao chụp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật đã được cấp
+
+
+Trường hợp bổ sung tên thương phẩm khác
+- 01 Bản chính Đơn đề nghị cấp Giấy phép khảo nghiệm thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fece78a484c1e13'">TTHC 1.doc</a>)
+- 01 Bản chính Bản chính hoặc bản sao chứng thực văn bản xác nhận là nhà sản xuất trong đó có thuốc bảo vệ thực vật đề nghị cấp giấy phép khảo nghiệm do cơ quan có thẩm quyền của nước sở tại cấp (đối với nhà sản xuất nước ngoài).
+- 01 Bản chính Bản sao chứng thực hoặc bản sao chụp (mang theo bản chính để đối chiếu) giấy phép thành lập công ty, chi nhánh công ty hoặc văn phòng đại diện tại Việt Nam (đối với nhà sản xuất nước ngoài đăng ký lần đầu)
+- 01 Bản chính Bản chính giấy ủy quyền của nhà sản xuất cho tổ chức, cá nhân đăng ký (trường hợp ủy quyền đứng tên đăng ký). Giấy ủy quyền của nhà sản xuất nước ngoài phải được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam, trừ trường hợp được miễn hợp pháp hóa theo các điều ước quốc tế mà Việt Nam là thành viên
+- 01 Bản chính Bản sao chụp Giấy chứng nhận đủ điều kiện buôn bán thuốc bảo vệ thực vật (đối với tổ chức, cá nhân trong nước được ủy quyền đứng tên đăng ký lần đầu)
+- 01 Bản chính Tài liệu kỹ thuật thuốc bảo vệ thực vật (theo quy định tại Phụ lục III ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f87f284c6488480'">Phụ lục III.docx</a>)
+
+
+Trường hợp thay đổi dạng thành phẩm, thay đổi hàm lượng hoạt chất
+- 01 Bản chính Đơn đề nghị cấp Giấy phép khảo nghiệm thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fece78a484c1e13'">TTHC 1.doc</a>)
+- 01 Bản chính Bản sao chụp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật đã được cấp
+- 01 Bản chính Tài liệu kỹ thuật thuốc bảo vệ thực vật thành phẩm (theo quy định tại Phụ lục III ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee851849a26a89'">Phụ lục III.docx</a>)

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, phân bổ số hiệu mạng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Cách thức thực hiện: Trường hợp không có khả năng nộp trực tuyến, cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Internet Việt Nam, địa chỉ: Tòa nhà VNTA đường Dương Đình Nghệ, Cầu Giấy, Hà Nội. Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|5 Ngày làm việc||Cách thức thực hiện: Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ https://dichvucong.mic.gov.vn/ hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/. Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|5 Ngày làm việc||Cách thức thực hiện: Trường hợp không có khả năng nộp trực tuyến, cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Internet Việt Nam, địa chỉ: Tòa nhà VNTA đường Dương Đình Nghệ, Cầu Giấy, Hà Nội. Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

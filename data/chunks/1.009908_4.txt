@@ -1,0 +1,8 @@
+Tên thủ tục: Phê duyệt phương án chữa cháy của cơ sở (thực hiện tại cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị phê duyệt phương án chữa cháy của cơ sở (Mẫu số PC19 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc62ad590fbef18'">PC19-pheduyetphuonganchuachaycoso.docx</a>)
+- 02 Bản chính - 02 bản phương án chữa cháy của cơ sở đã được người có trách nhiệm tổ chức xây dựng phương án ký tên, đóng dấu (nếu có). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8fb221a7255bc'">PC17-Phuonganchuachay.docx</a>)

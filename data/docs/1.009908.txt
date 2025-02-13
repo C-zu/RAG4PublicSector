@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009908
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Phê duyệt phương án chữa cháy của cơ sở (thực hiện tại cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Công an cấp huyện quản lý về phòng cháy, chữa cháy. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+- Bước 4: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Công an cấp huyện hoặc Bộ phận Một cửa cấp huyện (trường hợp đã đưa thủ tục ra tiếp nhận tại Bộ phận Một cửa);|
+|Trực tuyến|07 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có);|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị phê duyệt phương án chữa cháy của cơ sở (Mẫu số PC19 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); ([PC19-pheduyetphuonganchuachaycoso.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc62ad590fbef18'))
+- 02 Bản chính - 02 bản phương án chữa cháy của cơ sở đã được người có trách nhiệm tổ chức xây dựng phương án ký tên, đóng dấu (nếu có). ([PC17-Phuonganchuachay.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8fb221a7255bc'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an huyện
+Cơ quan có thẩm quyền:
+Công an huyện
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phương án chữa cháy của cơ sở
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Phê duyệt phương án chữa cháy của cơ sở (thực hiện tại cấp huyện)
+Mô tả:
+Không có thông tin

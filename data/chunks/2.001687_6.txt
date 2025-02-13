@@ -1,0 +1,34 @@
+Tên thủ tục: Thủ tục thay đổi người thực hiện trợ giúp pháp lý
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Khi có căn cứ cho rằng người thực hiện trợ giúp pháp lý thuộc một trong các trường hợp không được tiếp tục thực hiện hoặc phải từ chối thực hiện trợ giúp pháp lý, cụ thể như sau:
+
+- Thực hiện hành vi bị nghiêm cấm quy định của Luật trợ giúp pháp lý, trừ trường hợp đã chấp hành xong hình thức xử lý vi phạm và được thực hiện trợ giúp pháp lý theo quy định của Luật trợ giúp pháp lý;
+
+- Bị thu hồi thẻ trợ giúp viên pháp lý, thẻ cộng tác viên trợ giúp pháp lý, Chứng chỉ hành nghề luật sư, thẻ tư vấn viên pháp luật;
+
+- Các trường hợp không được tham gia tố tụng theo quy định của pháp luật về tố tụng;
+
+- Đã hoặc đang thực hiện trợ giúp pháp lý cho người được trợ giúp pháp lý là các bên có quyền lợi đối lập nhau trong cùng một vụ việc, trừ trường hợp các bên có thỏa thuận khác đối với vụ việc tư vấn pháp luật, đại diện ngoài tố tụng trong lĩnh vực dân sự;
+
+- Có căn cứ cho rằng người thực hiện trợ giúp pháp lý có thể không khách quan trong thực hiện trợ giúp pháp lý;
+
+- Có lý do cho thấy không thể thực hiện vụ việc trợ giúp pháp lý một cách hiệu quả, ảnh hưởng đến quyền và lợi ích hợp pháp của người được trợ giúp pháp lý.
+Khi có căn cứ cho rằng người thực hiện trợ giúp pháp lý thuộc một trong các trường hợp không được tiếp tục thực hiện hoặc phải từ chối thực hiện trợ giúp pháp lý, cụ thể như sau:
+
+- Thực hiện hành vi bị nghiêm cấm quy định của Luật trợ giúp pháp lý, trừ trường hợp đã chấp hành xong hình thức xử lý vi phạm và được thực hiện trợ giúp pháp lý theo quy định của Luật trợ giúp pháp lý;
+
+- Bị thu hồi thẻ trợ giúp viên pháp lý, thẻ cộng tác viên trợ giúp pháp lý, Chứng chỉ hành nghề luật sư, thẻ tư vấn viên pháp luật;
+
+- Các trường hợp không được tham gia tố tụng theo quy định của pháp luật về tố tụng;
+
+- Đã hoặc đang thực hiện trợ giúp pháp lý cho người được trợ giúp pháp lý là các bên có quyền lợi đối lập nhau trong cùng một vụ việc, trừ trường hợp các bên có thỏa thuận khác đối với vụ việc tư vấn pháp luật, đại diện ngoài tố tụng trong lĩnh vực dân sự;
+
+- Có căn cứ cho rằng người thực hiện trợ giúp pháp lý có thể không khách quan trong thực hiện trợ giúp pháp lý;
+
+- Có lý do cho thấy không thể thực hiện vụ việc trợ giúp pháp lý một cách hiệu quả, ảnh hưởng đến quyền và lợi ích hợp pháp của người được trợ giúp pháp lý.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

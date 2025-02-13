@@ -1,0 +1,12 @@
+Tên thủ tục: Sửa đổi, bổ sung Giấy phép nhận chìm ở biển (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Đơn đề nghị sửa đổi, bổ sung Giấy phép nhận chìm ở biển trong đó nêu rõ lý do đề nghị sửa đổi, bổ sung được lập theo Mẫu số 08 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa2d4e1e6e0b7c0'">Mẫu số 08 nhận chìm.docx</a>)
+- 02 Bản chính - Giấy phép nhận chìm ở biển đã được cấp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc37cec32c95a50'">Mẫu số 09 nhận chìm.docx</a>)
+- 02 Bản chính - Báo cáo tình hình, kết quả hoạt động nhận chìm ở biển; công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ theo quy định của pháp luật tính đến thời điểm đề nghị sửa đổi, bổ sung Giấy phép nhận chìm ở biển; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc66eddd3431e88'">mấu số 10 nhận chìm.docx</a>)
+- 02 Bản sao - Bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực báo cáo đánh giá tác động môi trường được cơ quan nhà nước có thẩm quyền phê duyệt theo quy định của pháp luật về bảo vệ môi trường trong trường hợp đề nghị sửa đổi, bổ sung Giấy phép nhận chìm ở biển do có sự thay đổi quy mô nhận chìm; ranh giới, diện tích khu vực biển sử dụng để nhận chìm; cách thức nhận chìm; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3ae37d8a8ac84'">Mẫu số 11 nhận chìm.docx</a>)
+- 02 Bản sao - Bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực văn bản chứng minh việc tổ chức, cá nhân được phép nhận chìm ở biển thay đổi tên trong trường hợp đề nghị sửa đổi, bổ sung Giấy phép nhận chìm ở biển do thay đổi tên; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa5c0d47b706800'">Mẫu số 14 nhận chìm (2).docx</a>)
+- 02 Bản chính - Bản đồ khu vực biển trong trường hợp có sự thay đổi về ranh giới, diện tích khu vực biển đề nghị sử dụng để nhận chìm được lập theo Mẫu số 09 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb957bbb2029f78'">Mẫu số 09 - ban do nhận chìm.docx</a>)

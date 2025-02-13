@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đăng ký tham dự sơ tuyển xét tặng giải thưởng chất lượng quốc gia
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|||Hàng năm|

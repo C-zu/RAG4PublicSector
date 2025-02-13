@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày|||
+|Trực tuyến|7 Ngày|||
+|Dịch vụ bưu chính|7 Ngày|||

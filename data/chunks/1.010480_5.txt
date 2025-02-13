@@ -1,0 +1,31 @@
+Tên thủ tục: Nhóm thủ tục giao lại đất tái định cư và cấp Giấy chứng nhận đối với hộ gia đình, cá nhân bị thu hồi đất để thực hiện bồi thường, giải phóng mặt bằng do triển khai dự án trong Khu kinh tế Nhơn Hội
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Huyện, Ban Quản lý Khu kinh tế tỉnh Bình Định
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh (Địa chỉ: 127 Hai Bà Trưng, thành phố Quy Nhơn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy Chứng nhận Qyyền sử dụng đất, Quyết định giao lại đất
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|30/2014/TT-BTNMT|Thông tư 30/2014/TT-BTNMT|02-06-2014|Bộ Tài nguyên và Môi trường|
+|35/2017/NĐ-CP|Quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao|03-04-2017|Chính phủ|
+|45/2013/QH13|Đất đai|29-11-2013|Quốc Hội|
+|89/2017/TT-BTC|Hướng dẫn một số điều của Nghị định số 35/2017/NĐ-CP ngày 03/4/2017 của Chính phủ quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao|23-08-2017|Bộ Tài chính|
+|156/2013/TT-BTC|Thông tư 156/2013/TT-BTC|06-11-2013||
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP|06-01-2017||
+|148/2020/NĐ-CP|Nghị định 148/2020/NĐ-CP|18-12-2020||
+|34/2020/QĐ-UBND|Ban hành quy chế phối hợp giải quyết thủ tục hành chính về đất đai trong Khu kinh tế Nhơn Hội|15-06-2020|UBND tỉnh Bình Định|
+|58/2021/QĐ-UBND|Sửa đổi, bổ sung một số Điều của Quy chế phối hợp giải quyết thủ tục hành chính về đất đai trong Khu kinh tế Nhơn Hội ban hành kèm theo Quyết định số 34/2020/QĐ-UBND ngày 15 tháng 6 năm 2020 của Ủy ban nhân dân tỉnh|30-09-2021|UBND tỉnh Bình Định|
+|76/2021/QĐ-UBND|Ban hành Quy định các loại phí, lệ phí trên địa bàn tỉnh Bình Định|14-12-2021|UBND tỉnh Bình Định|

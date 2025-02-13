@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao của câu lạc bộ thể thao chuyên nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : Do Hội đồng nhân dân cấp tỉnh, thành phố trực thuộc Trung ương quy định.|Trong thời hạn bảy (07) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|7 Ngày làm việc|Phí : Do Hội đồng nhân dân cấp tỉnh, thành phố trực thuộc Trung ương quy định.|Trong thời hạn bảy (07) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : Do Hội đồng nhân dân cấp tỉnh, thành phố trực thuộc Trung ương quy định.|Trong thời hạn bảy (07) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|

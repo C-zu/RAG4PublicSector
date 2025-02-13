@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục xác định xe thuộc diện không chịu phí, được bù trừ hoặc trả lại tiền phí đã nộp
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Xe ô tô (trừ xe ô tô của lực lượng quốc phòng và công an) trong các trường hợp quy định tại các điểm a, b, c, e và g khoản 2 Điều 2 Nghị định số 90/2023/NĐ-CP đã nộp phí sử dụng đường bộ thì chủ phương tiện được trả lại phí đã nộp hoặc trừ vào số phí phải nộp kỳ sau, cụ thể:  
+- Bị hủy hoại do tai nạn hoặc thiên tai.
+- Bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe.
+- Bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên (trước khi mang xe đi sửa chữa, chủ phương tiện phải xuất trình Biên bản hiện trường tai nạn có xác nhận của cơ quan công an và nộp lại Tem kiểm định, Giấy chứng nhận kiểm định cho đơn vị đăng kiểm gần nhất để có căn cứ trả lại phí sau khi phương tiện hoàn thành việc sửa chữa và kiểm định lại để tiếp tục lưu hành).
+- Xe đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên. 
+- Xe bị mất trộm trong thời gian từ 30 ngày trở lên.
+Xe ô tô (trừ xe ô tô của lực lượng quốc phòng và công an) trong các trường hợp quy định tại các điểm a, b, c, e và g khoản 2 Điều 2 Nghị định số 90/2023/NĐ-CP đã nộp phí sử dụng đường bộ thì chủ phương tiện được trả lại phí đã nộp hoặc trừ vào số phí phải nộp kỳ sau, cụ thể:  
+- Bị hủy hoại do tai nạn hoặc thiên tai.
+- Bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe.
+- Bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên (trước khi mang xe đi sửa chữa, chủ phương tiện phải xuất trình Biên bản hiện trường tai nạn có xác nhận của cơ quan công an và nộp lại Tem kiểm định, Giấy chứng nhận kiểm định cho đơn vị đăng kiểm gần nhất để có căn cứ trả lại phí sau khi phương tiện hoàn thành việc sửa chữa và kiểm định lại để tiếp tục lưu hành).
+- Xe đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên. 
+- Xe bị mất trộm trong thời gian từ 30 ngày trở lên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

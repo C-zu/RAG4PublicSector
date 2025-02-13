@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại Giấy phép kinh doanh vận tải bằng xe ô tô khi có sự thay đổi liên quan đến nội dung của Giấy phép kinh doanh hoặc Giấy phép kinh doanh bị thu hồi, bị tước quyền sử dụng
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002286
+Số quyết định:
+355/QĐ-BGTVT
+Tên thủ tục:
+Cấp lại Giấy phép kinh doanh vận tải bằng xe ô tô khi có sự thay đổi liên quan đến nội dung của Giấy phép kinh doanh hoặc Giấy phép kinh doanh bị thu hồi, bị tước quyền sử dụng
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đường bộ

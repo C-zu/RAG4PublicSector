@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008620
+Số quyết định:
+2248/QĐ-UBND_ĐT
+Tên thủ tục:
+Cấp Giấy phép cho phương tiện vận tải vào đường cấm; dừng, đỗ xe tại khu vực cấm
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Bước 1: Tổ chức hoàn thiện hồ sơ theo hướng dẫn của thủ tục này và nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải).
+Bước 2: Sở GTVT tiếp nhận hồ sơ, kiểm tra tính hợp lệ và đầy đủ của các loại giấy tờ trong hồ sơ; yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ. 
+Bước 3: Sở GTVT thẩm định hồ sơ:
+a) Trường hợp hồ sơ đạt yêu cầu thì tiến hành giải quyết.
+b) Trường hợp xét thấy hồ sơ không đạt yêu cầu thì có phiếu hướng dẫn yêu cầu bổ sung. 
+Bước 4: Trả kết quả cho tổ chức, công dân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|01 Ngày làm việc||- Hồ sơ được nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Chứng minh nhân dân của chủ phương tiện (nếu chủ phương tiện không trực tiếp đến nộp hồ sơ cấp phép phải có giấy ủy quyền của chủ phương tiện theo quy định hiện hành) hoặc giấy giới thiệu (đối với tổ chức, cơ quan, đơn vị, công ty, doanh nghiệp)
+- 01 Bản chính 2. Đơn đề nghị cấp giấy phép theo mẫu Phụ lục KCHT-03 hoặc văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu ([KCHT-03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4ac395eab0b90'))
+- 01 Bản chính, 01 Bản sao 3. Giấy tờ phương tiện (photo kèm bản chính để đối chiếu): Giấy chứng nhận đăng ký xe, sổ kiểm định kỹ thuật
+- 01 Bản sao 4. Bản sao giấy chứng nhận đăng ký kinh doanh, hợp đồng thuê xe (đối với xe thuê)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Giao thông vận tải TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Giao thông vận tải thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật 23/2008/QH12|13-11-2008||
+|29/2014/QĐ-UBND|Quyết định số 29/2014/QĐ-UBND ngày 06/9/2014 của UBND thành phố Đà Nẵng Ban hành Quy định về phân luồng tuyến và thời gian hoạt động đối với các phương tiện tham gia giao thông đường bộ trên địa bàn thành phố|06-09-2014|Ủy ban nhân dân cấp Tỉnh|
+|12/2016/QĐ-UBND|Quyết định số 12/2016/QĐ-UBND ngày 26/3/2016 của UBND thành phố Đà Nẵng sửa đổi bãi bỏ một số nội dung của quy định về phân luồng tuyến và thời gian hoạt động đối với các phương tiện tham gia giao thông đường bộ trên địa bàn thành phố Đà Nẵng ban hành kèm theo Quyết định số 29/2014/QĐ-UBND ngày 06/9/2014 của UBND thành phố Đà Nẵng.|26-03-2016|Ủy ban nhân dân cấp Tỉnh|
+
+Yêu cầu, điều kiện thực hiện:
+1. Yêu cầu: Không có
+2. Điều kiện: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe còn thời hạn hiệu lực.
+1. Yêu cầu: Không có
+2. Điều kiện: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe còn thời hạn hiệu lực.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

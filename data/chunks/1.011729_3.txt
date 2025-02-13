@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xác nhận vật tư, thiết bị là hàng hóa nhập khẩu phục vụ dự án chế tạo thiết bị sản xuất vật liệu xây không nung nhẹ và sản xuất gạch xi măng - cốt liệu công suất từ 10 triệu viên quy tiêu chuẩn/năm trở lên thuộc Nhóm 98.22.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Người khai hải quan nộp hồ sơ đề nghị xác nhận trực tiếp hoặc gửi qua đường bưu điện tới Sở Xây dựng.|
+|Dịch vụ bưu chính|10 Ngày||Người khai hải quan nộp hồ sơ đề nghị xác nhận trực tiếp hoặc gửi qua đường bưu điện tới Sở Xây dựng.|

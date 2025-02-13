@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận làng nghề
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Danh sách các hộ tham gia hoạt động ngành nghề nông thôn.
+- 01 Bản chính Bản tóm tắt kết quả hoạt động sản xuất, kinh doanh của các tổ chức, cá nhân tham gia hoạt động ngành nghề nông thôn trong 02 năm gần nhất.
+- 01 Bản chính Văn bản bảo đảm điều kiện về bảo vệ môi trường theo quy định.

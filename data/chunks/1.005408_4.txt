@@ -1,0 +1,11 @@
+Tên thủ tục: Trả lại Giấy phép thăm dò khoáng sản hoặc trả lại một phần diện tích khu vực thăm dò khoáng sản (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị trả lại Giấy phép thăm dò khoáng sản hoặc trả lại một phần diện tích khu vực thăm dò khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe807587b2e6e8c'">Mẫu số 05 Đơn đề nghị trả lại GP thăm dò.docx</a>)
+- 01 Bản chính Giấy phép thăm dò khoáng sản
+- 01 Bản chính báo cáo kết quả thăm dò khoáng sản đã thực hiện đến thời điểm đề nghị trả lại (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2ec7e7eaa8887'">Mẫu số 42 báo cáo hoạt động thăm dò KS và kế hoạch tiếp tục thăm dò.docx</a>)
+- 01 Bản chính bản đồ khu vực thăm dò khoáng sản, kế hoạch thăm dò khoáng sản tiếp theo trong trường hợp trả lại một phần diện tích khu vực thăm dò (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb508ef96dc9e6'">Mẫu số 33 PL 2 Bản đồ ranh giới khu vực trả lại 1 phần diện tích thăm dò.docx</a>)
+- 01 Bản chính Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu: Các văn bản thực hiện nghĩa vụ liên quan đến hoạt động thăm dò tính đến thời điểm đề nghị trả lại.

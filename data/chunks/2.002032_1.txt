@@ -1,0 +1,16 @@
+Tên thủ tục: Chuyển đổi doanh nghiệp tư nhân thành công ty hợp danh, công ty trách nhiệm hữu hạn, công ty cổ phần
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002032
+Số quyết định:
+885/QĐ-BKHĐT
+Tên thủ tục:
+Chuyển đổi doanh nghiệp tư nhân thành công ty hợp danh, công ty trách nhiệm hữu hạn, công ty cổ phần
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp

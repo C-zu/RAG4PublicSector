@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001865
+Số quyết định:
+572 /QĐ-LĐTBXH
+Tên thủ tục:
+Cấp giấy phép hoạt động dịch vụ việc làm của doanh nghiệp hoạt động dịch vụ việc làm
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Việc làm
+Trình tự thực hiện:
+- Bước 1: Doanh nghiệp gửi 01 (một) bộ hồ sơ theo quy định đến Sở Lao động - Thương binh và Xã hội nơi doanh nghiệp đặt trụ sở chính để đề nghị cấp giấy phép. Sau khi kiểm tra đủ giấy tờ quy định, Sở Lao động - Thương binh và Xã hội cấp giấy biên nhận ghi rõ ngày, tháng, năm nhận hồ sơ đề nghị cấp giấy phép. 
+- Bước 2: Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được hồ sơ đảm bảo theo quy định, cơ quan nhà nước có thẩm quyền xem xét, cấp giấy phép đối với doanh nghiệp; trường hợp không cấp giấy phép thì có văn bản trả lời doanh nghiệp và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|07 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|07 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp giấy phép của doanh nghiệp theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ. ([Mau 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6d817f1c4227b'))
+- 01 Bản chính, 01 Bản sao - 01 bản sao được chứng thực từ bản chính hoặc bản sao, xuất trình bản gốc để đối chiếu Giấy chứng nhận quyền sở hữu hoặc hợp đồng thuê địa điểm đặt trụ sở, chi nhánh để tổ chức hoạt động dịch vụ việc làm từ 03 năm (36 tháng) trở lên.
+- 01 Bản chính - Giấy chứng nhận tiền ký quỹ hoạt động dịch vụ việc làm theo Mẫu số 03 Phụ lục II ban hành kèm theo Nghị định số 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ. ([Mau 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2f8cef41f2450'))
+- 01 Bản chính - Bản lý lịch tự thuật của người đại diện theo pháp luật của doanh nghiệp theo Mẫu số 04 Phụ lục II ban hành kèm theo Nghị định số 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ. ([Mau 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef7ed4655d43ab'))
+- 01 Bản chính - Phiếu lý lịch tư pháp số 1 theo quy định pháp luật về lý lịch tư pháp của người đại diện theo pháp luật của doanh nghiệp. Trường hợp người đại diện là người nước ngoài không thuộc đối tượng cấp phiếu lý lịch tư pháp số 1 thì được thay thế bằng phiếu lý lịch tư pháp hoặc văn bản xác nhận không phải là người đang trong thời gian chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian bị truy cứu trách nhiệm hình sự của nước ngoài (các văn bản này được cấp trước ngày nộp hồ sơ không quá 06 tháng; văn bản bằng tiếng nước ngoài thì phải được dịch ra tiếng Việt, chứng thực và được hợp pháp hóa lãnh sự theo quy định của pháp luật).
+- 01 Bản chính, 01 Bản sao - 01 bản sao chứng thực từ bản chính hoặc bản sao, xuất trình bản gốc để đối chiếu bằng cấp chuyên môn theo quy định: bằng đại học trở lên hoặc một trong các văn bản chứng minh thời gian trực tiếp làm chuyên môn hoặc quản lý dịch vụ việc làm hoặc cung ứng lao động từ đủ 02 năm (24 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép của người đại diện theo pháp luật của doanh nghiệp như sau:
+- 01 Bản chính, 01 Bản sao + Bản sao được chứng thực từ bản chính hoặc bản sao, xuất trình bản gốc để đối chiếu hợp đồng lao động hoặc hợp đồng làm việc hoặc quyết định tuyển dụng, bổ nhiệm, giao nhiệm vụ của người đại diện theo pháp luật của doanh nghiệp. Trường hợp văn bản là văn bản của nước ngoài thì phải được dịch ra tiếng Việt, chứng thực và được hợp pháp hóa lãnh sự theo quy định pháp luật.
+- 01 Bản chính, 01 Bản sao + Bản sao được chứng thực từ bản chính hoặc bản sao, xuất trình bản gốc để đối chiếu quyết định bổ nhiệm (đối với người làm việc theo chế độ bổ nhiệm) hoặc văn bản công nhận kết quả bầu (đối với người làm việc theo chế độ bầu cử) của người đại diện theo pháp luật của doanh nghiệp hoặc bản sao giấy chứng nhận đăng ký doanh nghiệp (đối với trường hợp là người đại diện theo pháp luật của doanh nghiệp hoạt động dịch vụ việc làm). Trường hợp văn bản là văn bản của nước ngoài thì phải được dịch ra tiếng Việt, chứng thực và được hợp pháp hóa lãnh sự theo quy định pháp luật.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Lao động-Thương binh và Xã hội, Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương.
+Cơ quan có thẩm quyền:
+Sở Lao động-Thương binh và Xã hội, Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương.
+Địa chỉ tiếp nhận HS:
+Uỷ ban nhân dân tỉnh hoặc Sở Lao động - Thương binh và Xã hội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động dịch vụ việc làm.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2021/NĐ-CP|QUY ĐỊNH CHI TIẾT KHOẢN 3 ĐIỀU 37 VÀ ĐIỀU 39 CỦA LUẬT VIỆC LÀM VỀ TRUNG TÂM DỊCH VỤ VIỆC LÀM, DOANH NGHIỆP HOẠT ĐỘNG DỊCH VỤ VIỆC LÀM|19-03-2021|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp giấy phép phải đảm bảo các quy định sau đây:
+- Có địa điểm đặt trụ sở, chi nhánh để tổ chức hoạt động dịch vụ việc làm thuộc sở hữu của doanh nghiệp hoặc được doanh nghiệp thuê ổn định theo hợp đồng từ 03 năm (36 tháng) trở lên. 
+- Doanh nghiệp đã thực hiện ký quỹ 300.000.000 đồng (Ba trăm triệu đồng).
+- Người đại diện theo pháp luật của doanh nghiệp thực hiện hoạt động dịch vụ việc làm phải bảo đảm điều kiện:
++ Là người quản lý doanh nghiệp theo quy định của Luật Doanh nghiệp. 
++ Không thuộc một trong các trường hợp sau đây: đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc, trốn khỏi nơi cư trú, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, bị Tòa án cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc liên quan đến dịch vụ việc làm.
++ Có trình độ từ đại học trở lên hoặc đã có thời gian trực tiếp làm chuyên môn hoặc quản lý dịch vụ việc làm hoặc cung ứng lao động từ đủ 02 năm (24 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép.
+Doanh nghiệp được cấp giấy phép phải đảm bảo các quy định sau đây:
+- Có địa điểm đặt trụ sở, chi nhánh để tổ chức hoạt động dịch vụ việc làm thuộc sở hữu của doanh nghiệp hoặc được doanh nghiệp thuê ổn định theo hợp đồng từ 03 năm (36 tháng) trở lên. 
+- Doanh nghiệp đã thực hiện ký quỹ 300.000.000 đồng (Ba trăm triệu đồng).
+- Người đại diện theo pháp luật của doanh nghiệp thực hiện hoạt động dịch vụ việc làm phải bảo đảm điều kiện:
++ Là người quản lý doanh nghiệp theo quy định của Luật Doanh nghiệp. 
++ Không thuộc một trong các trường hợp sau đây: đang bị truy cứu trách nhiệm hình sự, bị tạm giam, đang chấp hành hình phạt tù, đang chấp hành biện pháp xử lý hành chính tại cơ sở cai nghiện bắt buộc, cơ sở giáo dục bắt buộc, trốn khỏi nơi cư trú, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, bị Tòa án cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc liên quan đến dịch vụ việc làm.
++ Có trình độ từ đại học trở lên hoặc đã có thời gian trực tiếp làm chuyên môn hoặc quản lý dịch vụ việc làm hoặc cung ứng lao động từ đủ 02 năm (24 tháng) trở lên trong thời hạn 05 năm liền kề trước khi đề nghị cấp giấy phép.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

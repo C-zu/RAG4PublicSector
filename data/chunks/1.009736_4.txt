@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục chấm dứt hoạt động văn phòng điều hành của nhà đầu tư nước ngoài trong hợp đồng BCC
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Quyết định chấm dứt hoạt động của văn phòng điều hành trong trường hợp văn phòng điều hành chấm dứt hoạt động trước thời hạn; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea271061f8f93b'">Mẫu A.I.10.docx</a>)
+- 01 Bản chính - Danh sách chủ nợ và số nợ đã thanh toán;
+- 01 Bản chính - Danh sách người lao động, quyền và lợi ích của người lao động đã được giải quyết;
+- 01 Bản chính - Xác nhận của cơ quan thuế về việc đã hoàn thành nghĩa vụ về thuế;
+- 01 Bản chính - Xác nhận của cơ quan bảo hiểm xã hội về việc đã hoàn thành nghĩa vụ về bảo hiểm xã hội;
+- 01 Bản chính - Giấy chứng nhận đăng ký hoạt động văn phòng điều hành;
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư;
+- 01 Bản sao - Bản sao hợp đồng BCC.

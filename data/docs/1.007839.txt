@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007839
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục hải quan đối với hàng hoá kinh doanh theo phương thức chuyển khẩu
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Hàng hoá kinh doanh chuyển khẩu được vận chuyển từ nước xuất khẩu đến nước nhập khẩu, có đưa vào khu vực kho bãi thuộc các cảng biển Việt Nam (không đưa vào kho ngoại quan, không đưa vào khu vực trung chuyển hàng hoá), thủ tục kiểm tra, giám sát hải quan thực hiện như sau:
+- Bước 1: Nộp cho Chi cục Hải quan nơi có hàng hóa nhập khẩu chuyển khẩu 01 bộ hồ sơ.
+- Bước 2: Chi cục Hải quan cửa khẩu thực hiện:
++ Tiếp nhận, kiểm tra bộ hồ sơ lô hàng nhập khẩu chuyển khẩu; 
++ Xác nhận nhập khẩu và ký tên, đóng dấu công chức trên công văn đề nghị của doanh nghiệp;
++ Giám sát và theo dõi lô hàng chuyển khẩu cho đến khi xuất ra khỏi Việt Nam;
++ Sau khi hàng hóa xếp lên phương tiện, công chức hải quan giám sát tại cửa khẩu xác nhận hàng đã qua khu vực giám sát trên văn bản đề nghị chuyển khẩu hàng hóa;
++ Trường hợp hàng hóa chuyển khẩu xuất qua cửa khẩu khác với cửa khẩu nhập nhưng cùng trong hệ thống khu vực cảng biển thuộc địa bàn giám sát của Cục Hải quan thì sau khi hàng hóa đưa vào khu vực giám sát hải quan tại cửa khẩu xuất, công chức hải quan giám sát xác nhận hàng đã qua khu vực giám sát trên văn bản đề nghị chuyển khẩu hàng hóa; việc giám sát hàng hóa đưa ra, đưa vào khu vực giám sát hải quan tại cửa khẩu thực hiện theo quy định tại Điều 52 Thông tư này; 
++ Trong quá trình kiểm tra, giám sát nếu phát hiện lô hàng chuyển khẩu có dấu hiệu vi phạm thì Chi cục trưởng Chi cục Hải quan cửa khẩu quyết định kiểm tra thực tế và xử lý theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định của Luật Hải quan|Lệ phí : 20.000 Đồng 20.000 đồng|+ Thời hạn tiếp nhận, đăng ký, kiểm tra hồ sơ hải quan: ngay sau khi người khai hải quan nộp, xuất trình hồ sơ hải quan đúng quy định của pháp luật (Khoản 1, Điều 23 Luật Hải quan) + Thời hạn hoàn thành thành kiểm tra hồ sơ và kiểm tra thực tế hàng hóa, phương tiện vận tải: ++ Hoàn thành việc kiểm tra hồ sơ chậm nhất là 02 giờ làm việc kể từ thời điểm cơ quan hải quan tiếp nhận đầy đủ hồ sơ hải quan; ++ Hoàn thành việc kiểm tra thực tế hàng hoá chậm nhất là 08 giờ làm việc kể từ thời điểm người khai hải quan xuất trình đầy đủ hàng hoá cho cơ quan hải quan; Trường hợp hàng hóa thuộc đối tượng kiểm tra chuyên ngành về chất lượng, y tế, văn hóa, kiểm dịch động vật, thực vật, an toàn thực phẩm theo quy định của pháp luật có liên quan thì thời hạn hoàn thành kiểm tra thực tế hàng hóa được tính từ thời điểm nhận được kết quả kiểm tra chuyên ngành theo quy định. Trường hợp lô hàng có số lượng lớn, nhiều chủng loại hoặc việc kiểm tra phức tạp thì Thủ trưởng cơ quan hải quan nơi làm thủ tục hải quan quyết định việc gia hạn thời gian kiểm tra thực tế hàng hóa, nhưng thời gian gia hạn tối đa không quá 02 ngày.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Văn bản đề nghị chuyển khẩu hàng hóa theo mẫu số 22/CKHH/GSQL Phụ lục V ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính
+ Vận tải đơn hàng nhập khẩu: 01 bản chụp.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận thông quan
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|172/2010/TT-BTC|Thông tư 172/2010/TT-BTC|02-11-2010|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
++ Hàng hoá kinh doanh chuyển khẩu được vận chuyển thẳng từ nước xuất khẩu đến nước nhập khẩu không qua cửa khẩu Việt Nam thì không phải làm thủ tục hải quan.
++ Hàng hóa kinh doanh chuyển khẩu phải được xuất ra khỏi lãnh thổ Việt Nam trong vòng 30 ngày kể từ ngày được Chi cục Hải quan cửa khẩu hoàn thành việc tiếp nhận, kiểm tra hồ sơ hải quan hoặc kiểm tra thực tế hàng hóa.
++ Hàng hoá được vận chuyển từ nước xuất khẩu đến nước nhập khẩu có qua cửa khẩu Việt Nam và đưa vào kho ngoại quan, khu vực trung chuyển hàng hoá tại các cảng Việt Nam thì làm thủ tục hải quan theo quy định đối với hàng hoá đưa vào, đưa ra kho ngoại quan, khu vực trung chuyển hàng hóa tại các cảng Việt Nam.
++ Hàng hóa kinh doanh theo phương thức chuyển khẩu phải đưa ra khỏi lãnh thổ Việt Nam tại cửa khẩu nhập.
++ Hàng hoá kinh doanh chuyển khẩu thuộc đối tượng được miễn kiểm tra. Trường hợp phát hiện có dấu hiệu vi phạm pháp luật thì thực hiện kiểm tra thực tế hàng hóa theo quy định tại Điều 29 Thông tư này.
++ Hàng hoá kinh doanh chuyển khẩu được vận chuyển thẳng từ nước xuất khẩu đến nước nhập khẩu không qua cửa khẩu Việt Nam thì không phải làm thủ tục hải quan.
++ Hàng hóa kinh doanh chuyển khẩu phải được xuất ra khỏi lãnh thổ Việt Nam trong vòng 30 ngày kể từ ngày được Chi cục Hải quan cửa khẩu hoàn thành việc tiếp nhận, kiểm tra hồ sơ hải quan hoặc kiểm tra thực tế hàng hóa.
++ Hàng hoá được vận chuyển từ nước xuất khẩu đến nước nhập khẩu có qua cửa khẩu Việt Nam và đưa vào kho ngoại quan, khu vực trung chuyển hàng hoá tại các cảng Việt Nam thì làm thủ tục hải quan theo quy định đối với hàng hoá đưa vào, đưa ra kho ngoại quan, khu vực trung chuyển hàng hóa tại các cảng Việt Nam.
++ Hàng hóa kinh doanh theo phương thức chuyển khẩu phải đưa ra khỏi lãnh thổ Việt Nam tại cửa khẩu nhập.
++ Hàng hoá kinh doanh chuyển khẩu thuộc đối tượng được miễn kiểm tra. Trường hợp phát hiện có dấu hiệu vi phạm pháp luật thì thực hiện kiểm tra thực tế hàng hóa theo quy định tại Điều 29 Thông tư này.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

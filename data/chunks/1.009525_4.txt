@@ -1,0 +1,16 @@
+Tên thủ tục: Chấm dứt tự nguyện hoạt động kinh doanh chứng khoán phái sinh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động kinh doanh chứng khoán phái sinh bao gồm:
+- 01 Bản chính, 01 Bản sao Danh sách khách hàng với đầy đủ thông tin nhận diện khách hàng, số tài khoản giao dịch chứng khoán phái sinh, số tài khoản ký quỹ và danh mục tài sản ký quỹ, vị thế trên từng tài khoản; lý do không thể tất toán, xử lý các tài khoản còn tồn (nếu chưa xử lý được);
+- 01 Bản chính, 01 Bản sao Biên bản thanh lý, có xác nhận của thành viên bù trừ thay thế và tài liệu xác nhận việc đã hoàn tất bàn giao toàn bộ tài khoản, tài sản ký quỹ của khách hàng cho thành viên thay thế (nếu có);
+- 01 Bản chính, 01 Bản sao Quyết định rút tư cách thành viên giao dịch, thành viên bù trừ.
+- 01 Bản chính, 01 Bản sao Văn bản xác nhận đã thanh toán đầy đủ các khoản thuế, giá dịch vụ, các khoản nợ và các nghĩa vụ tài chính khác liên quan đến hoạt động kinh doanh chứng khoán phái sinh.
+
+
+Hồ sơ đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh bao gồm:
+- 01 Bản chính, 01 Bản sao Giấy đề nghị chấm dứt hoạt động kinh doanh chứng khoán phái sinh;
+- 01 Bản chính, 01 Bản sao Nghị quyết Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định của chủ sở hữu về việc chấm dứt hoạt động kinh doanh chứng khoán phái sinh và thông qua phương án xử lý các vấn đề liên quan;
+- 01 Bản chính, 01 Bản sao Phương án xử lý các hợp đồng kinh doanh chứng khoán phái sinh còn hiệu lực, bao gồm phương án xử lý các tài khoản và tài sản ký quỹ của khách hàng.

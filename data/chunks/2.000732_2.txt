@@ -1,0 +1,7 @@
+Tên thủ tục: Phê duyệt hoặc điều chỉnh chương trình giáo dục tích hợp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Sở giáo dục và đào tạo gửi 01 bộ hồ sơ trực tiếp hoặc qua bưu điện đến Bộ Giáo dục và Đào tạo..
+Bước 2:Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Bộ Giáo dục và Đào tạo thông báo bằng văn bản gửi trực tiếp hoặc qua bưu điện hoặc thư điện tử cho sở giáo dục và đào tạo đã nộp hồ sơ đối với trường hợp hồ sơ không đầy đủ.
+Bước 3: Trong thời hạn 20 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Giáo dục và Đào tạo có trách nhiệm thẩm định chương trình giáo dục tích hợp và thông báo kết quả bằng văn bản gửi Sở Giáo dục và Đào tạo.

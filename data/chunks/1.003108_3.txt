@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký nội dung quảng cáo đối với sản phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sản phẩm dinh dưỡng dùng cho trẻ đến 36 tháng tuổi
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 1.100.000 Đồng 1.100.000 /lần/1 sản phẩm  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaa95f3198daa2'">TT 117.2018 TT-BTC Sua doi, bo sung TT 279 thu phi, le phi.pdf</a>||
+|Trực tuyến|10 Ngày làm việc|Phí : 1.100.000 Đồng 1.100.000 /lần/1 sản phẩm  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaa95f3198daa2'">TT 117.2018 TT-BTC Sua doi, bo sung TT 279 thu phi, le phi.pdf</a>||
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 1.100.000 Đồng 1.100.000 /lần/1 sản phẩm  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaa95f3198daa2'">TT 117.2018 TT-BTC Sua doi, bo sung TT 279 thu phi, le phi.pdf</a>||

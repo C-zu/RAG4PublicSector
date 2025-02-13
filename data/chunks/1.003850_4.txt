@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3cf45094d86cb'">1.003850.docx</a>)
+- 01 Bản chính Tài liệu giải trình tổ chức bảo dưỡng;
+- 01 Bản chính Liệt kê các công việc bảo dưỡng dự kiến hợp đồng thuê AMO khác thực hiện

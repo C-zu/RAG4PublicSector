@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007811
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục tham vấn trị giá đối với hàng hóa xuất khẩu, nhập khẩu (cấp Cục hải quan)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+- Bước 1: tổ chức, cá nhân khai hải quan nộp hồ sơ đề nghị tham vấn
+- Bước 2: cơ quan hải quan: 
+	+ Tiếp nhận hồ sơ tham vấn
+	+ Kiểm tra hồ sơ, chứng từ do người khai hải quan nộp để làm rõ các dấu hiệu nghi vấn trị giá khai báo
+	+ Lập biên bản tham vấn: ghi rõ kết luận vào biên bản tham vấn theo một trong các trường hợp “không đủ cơ sở bác bỏ trị giá khai báo”, hoặc “đủ  cơ  sở bác bỏ trị giá khai báo”, hoặc “ đủ cơ sở bác bỏ trị giá khai báo nhưng người khai hải quan không chấp nhận”.
+- Bước 3: các bên tham gia tham vấn cùng ký vào biên bản tham vấn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||30 ngày kể từ ngày đăng ký tờ khai hải quan|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Chứng từ tài liệu có liên quan phù hợp với phương pháp xác định trị giá hải quan hàng hóa xuất khẩu, nhập khẩu
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Cục Hải quan tỉnh, thành phố
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Biên bản tham vấn
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
++ Hàng hóa xuất khẩu, nhập khẩu cùng hợp đồng mua bán, được xuất khẩu hoặc nhập khẩu theo nhiều chuyến khác nhau;
++ Thông tin, dữ liệu để kiểm tra, xác định trị giá hải quan không thay đổi;
++ Người khai hải quan có văn bản đề nghị tham vấn một lần, trong đó nêu rõ cam kết sử dụng kết quả tham vấn cho các lần xuất khẩu hoặc nhập khẩu tiếp theo.
++ Hàng hóa xuất khẩu, nhập khẩu cùng hợp đồng mua bán, được xuất khẩu hoặc nhập khẩu theo nhiều chuyến khác nhau;
++ Thông tin, dữ liệu để kiểm tra, xác định trị giá hải quan không thay đổi;
++ Người khai hải quan có văn bản đề nghị tham vấn một lần, trong đó nêu rõ cam kết sử dụng kết quả tham vấn cho các lần xuất khẩu hoặc nhập khẩu tiếp theo.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

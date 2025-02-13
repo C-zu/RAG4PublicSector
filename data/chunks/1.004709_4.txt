@@ -1,0 +1,9 @@
+Tên thủ tục: Đưa công trình, một phần công trình thuộc kết cấu hạ tầng cảng hàng không, sân bay vào khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị đưa công trình, một phần công trình vào khai thác bao gồm các thông tin: vị trí và phạm vi đưa vào sử dụng; thời gian đưa vào sử dụng phù hợp với quy định thông báo tin tức hàng không; các thông số kỹ thuật chính của hạng mục công trình; tuổi thọ công trình;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng đưa vào sử dụng và bản sao văn bản thông báo kết quả kiểm tra công tác nghiệm thu hạng mục công trình, công trình đưa vào sử dụng của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về xây dựng;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Dự thảo tài liệu khai thác công trình.

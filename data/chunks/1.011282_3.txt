@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký khai thác tuyến và Lựa chọn đơn vị khai thác tuyến vận tải hành khách theo tuyến cố định
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh - Thành phố Hà Tĩnh; - Qua Bưu điện; - Qua hệ thống mạng điện tử (Địa chỉ http://qlvt.mt.gov.vn).|
+|Trực tuyến|03 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh - Thành phố Hà Tĩnh; - Qua Bưu điện; - Qua hệ thống mạng điện tử (Địa chỉ http://qlvt.mt.gov.vn).|
+|Dịch vụ bưu chính|03 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh - Thành phố Hà Tĩnh; - Qua Bưu điện; - Qua hệ thống mạng điện tử (Địa chỉ http://qlvt.mt.gov.vn).|

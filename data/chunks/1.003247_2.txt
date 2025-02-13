@@ -1,0 +1,6 @@
+Tên thủ tục: Hủy yêu cầu cấp tín chỉ cho dự án JCM (TTHC cấp trung ương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Các bên tham gia dự án gửi đơn hủy yêu cầu cấp tín chỉ bằng tiếng Việt và tiếng Anh qua thư điện tử cho Tổ thư ký.
+Tổ thư ký trình Ủy ban Hỗn hợp đơn hủy yêu cầu cấp tín chỉ để ra quyết định

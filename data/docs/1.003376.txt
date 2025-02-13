@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003376
+Số quyết định:
+76/QĐ-BGTVT
+Tên thủ tục:
+Sửa đổi, bổ sung chương trình an ninh, quy chế an ninh hàng không
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không
+Trình tự thực hiện:
+Nộp hồ sơ thủ tục hành chính:
+Doanh nghiệp, đơn vị có chương trình, quy chế an ninh hàng không sửa đổi, bổ sung gửi hồ sơ (đối với doanh nghiệp Việt Nam, hồ sơ bằng tiếng Việt; đối với hãng hàng không nước ngoài, hồ sơ bằng tiếng Anh kèm theo bản dịch tiếng Việt) trực tiếp hoặc qua dịch vụ bưu chính hoặc các hình thức phù hợp khác đến Cục Hàng không Việt Nam.
+Giải quyết thủ tục hành chính:
+- Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Hàng không Việt Nam có văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử yêu cầu doanh nghiệp, đơn vị đề nghị phê duyệt bổ sung hồ sơ.
+- Trường hợp nhận được đầy đủ hồ sơ theo quy định, trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ, Cục Hàng không Việt Nam có trách nhiệm thẩm định hồ sơ, xem xét tổ chức kiểm tra thực tế nếu cần (trường hợp cần kiểm tra thực tế, Cục Hàng không Việt Nam có văn bản thông báo gửi đến doanh nghiệp, đơn vị đề nghị phê duyệt nêu rõ lý do, thời gian kiểm tra trong thời hạn giải quyết thủ tục hành chính).
++ Nếu chương trình, quy chế an ninh hàng không đủ điều kiện phê duyệt, chấp thuận, Cục Hàng không Việt Nam ban hành quyết định phê duyệt hoặc chấp thuận; Quyết định phê duyệt được gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử;
++ Nếu chương trình, quy chế an ninh hàng không chưa đủ điều kiện phê duyệt, chấp thuận, Cục Hàng không Việt Nam ban hành văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử nêu rõ lý do chưa phê duyệt, chấp thuận.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ|
+|Trực tuyến|05 Ngày làm việc||trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|05 Ngày làm việc||trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính hoặc bản điện tử văn bản đề nghị theo mẫu quy định. ([1.003376.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe66541269b7fb3'))
+- 01 Bản chính Bản giấy hoặc bản điện tử dự thảo chương trình, quy chế an ninh hàng không.
+- 01 Bản chính Bản giấy hoặc bản điện tử bảng đánh giá nội dung khác biệt của chương trình an ninh hàng không của hãng hàng không với quy định của pháp luật Việt Nam và các biện pháp nhằm khắc phục các khác biệt đối với hồ sơ trình chấp thuận chương trình an ninh hàng không của hãng hàng không nước ngoài
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng không Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt hoặc chấp thuận
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|92/2015/NĐ-CP|Về an ninh hàng không|13-10-2015|Chính phủ|
+|13/2019/TT-BGTVT|Quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam|29-03-2019|Bộ Giao thông vận tải|
+|42/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 13/2019/TT-BGTVT ngày 29 tháng 3 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam và Thông tư số 41/2020/TT-BGTVT ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 13/2019/TT-BGTVT ngày 29 tháng 3 năm 2019 quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam|29-12-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

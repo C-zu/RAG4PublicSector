@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị theo Mẫu số 07.TC Phụ lục V ban hành kèm theo Nghị định số 26/2019/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea0dfcbe11efeb'">Mẫu số 07.docx</a>)
+- 01 Bản sao Hợp đồng nhập khẩu tàu cá hoặc hợp đồng thuê tàu trần
+- 01 Bản sao Giấy chứng nhận an toàn kỹ thuật tàu cá hoặc hồ sơ phân cấp tàu cá còn hiệu lực từ 06 tháng trở lên do tổ chức đăng kiểm của nước có tàu cấp (bản chụp có đóng dấu của cơ sở nhập khẩu)
+- 01 Bản sao Giấy chứng nhận đăng ký tàu cá, đối với tàu cá đã qua sử dụng (bản chụp có đóng dấu của cơ sở nhập khẩu)
+- 01 Bản sao Hợp đồng, thanh lý hợp đồng đóng tàu, đối với tàu cá đóng mới.
+ Hồ sơ nêu tại điểm b, c, d và đ phải dịch ra tiếng Việt. Đối với hồ sơ quy định tại điểm d phải được hợp pháp hóa lãnh sự theo quy định.

@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp Giấy phép nhập khẩu giống cây trồng lâm nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính đ) Trường hợp nhập khẩu giống cây lâm nghiệp để làm cây cảnh, cây bóng mát phải có văn bản của Sở Nông nghiệp và Phát triển nông thôn sở tại chấp thuận phương án và đề nghị cho nhập khẩu giống;
+- 01 Bản chính c) Các tài liệu liên quan như hợp đồng mua bán giống hoặc hợp đồng tặng cho giống cây trồng lâm nghiệp của đối tác;
+- 01 Bản chính a) Văn bản đề nghị nhập khẩu giống cây trồng lâm nghiệp theo Mẫu số 01/LN Phụ lục II ban hành kèm theo Thông tư này; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb46f15ef3825c'">mau 1.doc</a>)
+- 01 Bản chính b) Lý lịch giống cây trồng lâm nghiệp đề nghị nhập khẩu theo Mẫu số 02/LN Phụ lục II ban hành kèm theo Thông tư này; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7fc26ec9dd302'">mau 2.doc</a>)
+- 01 Bản chính d) Trường hợp nhập khẩu giống cây lâm nghiệp để trồng khảo nghiệm, trồng sản xuất thử nghiệm phải có hồ sơ thiết kế kỹ thuật trồng khảo nghiệm, trồng sản xuất thử nghiệm. Trường hợp nhập khẩu lần thứ hai trở đi để khảo nghiệm, sản xuất thử nghiệm phải nộp báo cáo kết quả nhập khẩu, khảo nghiệm, sản xuất thử nghiệm lần nhập trước;
+- 01 Bản chính, 01 Bản sao e) Trường hợp nhập khẩu phục vụ nghiên cứu, hợp tác quốc tế phải bổ sung 01 bản sao thỏa thuận hợp tác bằng tiếng nước ngoài kèm theo 01 bản dịch sang tiếng Việt có chữ ký xác nhận của cơ quan dịch thuật;
+- 01 Bản chính g) Trường hợp nhập khẩu tham gia hội chợ, triển lãm phải bổ sung Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm tại Việt Nam;
+- 01 Bản sao h) Trường hợp nhập khẩu làm quà tặng phải bổ sung 01 bản sao giấy xác nhận giữa hai bên bằng tiếng nước ngoài kèm theo 01 bản dịch sang tiếng Việt có xác nhận của cơ quan dịch thuật;
+- 01 Bản chính i) Trường hợp nhập khẩu để thực hiện các chương trình, dự án đầu tư, hồ sơ phải bổ sung bản sao (mang theo bản chính để đối chiếu) hoặc bản sao có chứng thực của văn bản phê duyệt hoặc chấp thuận chương trình, dự án đầu tư của cơ quan nhà nước có thẩm quyền hoặc dự án được doanh nghiệp phê duyệt theo quy định của pháp luật;

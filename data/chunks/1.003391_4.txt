@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cho phương tiện thủy nội địa vào cảng biển (trừ phương tiện thủy nội địa mang cấp VR-SB)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản khai chung (đối với phương tiện thủy nội địa) theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2bed0d944bc90'">Mẫu Bản khai chung cho phương tiện thủy nội địa.docx</a>)
+- 01 Bản chính Danh sách hành khách (đối với phương tiện chở khách) theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac095899c811e0'">Mẫu danh sách hành khách.docx</a>)
+- 01 Bản chính Giấy phép rời cảng
+- 01 Bản sao Các giấy tờ phải xuất trình (bản chính), bao gồm: Giấy chứng nhận đăng ký phương tiện thủy nội địa; Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện; Sổ Danh bạ thuyền viên; Bằng hoặc Giấy chứng nhận khả năng chuyên môn, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện; Hợp đồng vận chuyển hoặc hóa đơn xuất kho hoặc giấy vận chuyển hàng hóa (nếu có)
+- 01 Bản chính + Danh sách thuyền viên (đối với phương tiện thủy nội địa) theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1cebd9dd6d697'">Mẫu Danh sách thuyền viên.docx</a>)

@@ -1,0 +1,113 @@
+Tên thủ tục: Đăng ký thay đổi thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp thay đổi thành viên do chuyển nhượng phần vốn góp
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe06b9509624280'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3ea76eea1281a'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd91b1e2b8ad1e'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp thay đổi thành viên do thừa kế
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7276d68186988'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3e1a940452ed6'">Phụ lục I-6.docx</a>)
+- 01 Bản sao Bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp người thừa kế là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp người thừa kế là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8db55a59bf581'">Phụ lục I-10.docx</a>)
+
+
+Trường hợp thay đổi thành viên theo quyết định chia, tách công ty
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb879cb082ab5d'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca405879712f38'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản chính Nghị quyết, quyết định chia công ty (trong trường hợp thay đổi thành viên do chia công ty); Nghị quyết, quyết định tách công ty (trong trường hợp thay đổi thành viên do tách công ty)
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3827906ff326b'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư.
+
+
+Trường hợp thay đổi thành viên theo quyết định hợp nhất công ty
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef6e4ced80bd3e'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0d92c00aa7850'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5f5dbf297ec06'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng hợp nhất theo quy định tại Điều 200 Luật Doanh nghiệp
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng hợp nhất công ty của các công ty bị hợp nhất và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng hợp nhất để thành lập công ty mới
+
+
+Trường hợp thay đổi thành viên theo quyết định sáp nhập công ty
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febee0446e29cb5'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd724d8bf225e38'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2cd009d4ceaea'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+- 01 Bản chính Nghị quyết, quyết định về việc thông qua hợp đồng sáp nhập và bản sao biên bản họp Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập, trừ trường hợp công ty nhận sáp nhập là thành viên, cổ đông sở hữu trên 65% vốn điều lệ đối với công ty trách nhiệm hữu hạn, công ty hợp danh hoặc cổ phần có quyền biểu quyết đối với công ty cổ phần của công ty bị sáp nhập
+
+
+Trường hợp tiếp nhận thành viên mới dẫn đến tăng vốn điều lệ công ty
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe638373ec50072'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf02cadfeffbd4'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản chính Giấy tờ xác nhận việc góp vốn của thành viên mới của công ty
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb4045d20652b68'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp đăng ký thay đổi thành viên do có thành viên không thực hiện cam kết góp vốn theo quy định tại Điều 47 Luật Doanh nghiệp
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8c45edd0bd860'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên còn lại của công ty. Danh sách thành viên phải bao gồm chữ ký của thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa80c751a4db450'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc thay đổi thành viên do không thực hiện cam kết góp vốn
+
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Đăng ký thay đổi thành viên do tặng cho phần vốn góp: (i) Trường hợp người được tặng cho phần vốn góp thuộc đối tượng quy định tại điểm a khoản 6 Điều 53 Luật Doanh nghiệp, hồ sơ đăng ký doanh nghiệp bao gồm các giấy tờ quy định tại khoản 2 Điều 52 Nghị định số 01/2021/NĐ-CP, trong đó, hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng được thay bằng hợp đồng tặng cho phần vốn góp
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42612aad7ae0c'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe76a48386adfac'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Hợp đồng tặng cho phần vốn góp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefc35e896e3209'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Đăng ký thay đổi thành viên do tặng cho phần vốn góp: (ii) Trường hợp người được tặng cho phần vốn góp thuộc đối tượng quy định tại điểm b khoản 6 Điều 53 Luật Doanh nghiệp, hồ sơ đăng ký doanh nghiệp bao gồm các giấy tờ quy định tại khoản 1 Điều 52 Nghị định số 01/2021/NĐ-CP, trong đó, giấy tờ xác nhận việc góp vốn của thành viên mới của công ty được thay bằng hợp đồng tặng cho phần vốn góp
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd35c0c085b2016'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febbdf5279f41df'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản chính Hợp đồng tặng cho phần vốn góp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe02c028eafa4f9'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Đăng ký thay đổi thành viên trong trường hợp thành viên sử dụng phần vốn góp để trả nợ (ii) Trường hợp công ty đăng ký thay đổi thành viên do thành viên sử dụng phần vốn góp để trả nợ và người nhận thanh toán sử dụng phần vốn góp đó để chào bán và chuyển nhượng cho người khác theo quy định tại điểm b khoản 7 Điều 53 Luật Doanh nghiệp, hồ sơ đăng ký doanh nghiệp bao gồm các giấy tờ quy định tại khoản 2 Điều 52 Nghị định số 01/2021/NĐ-CP kèm theo hợp đồng về việc vay nợ và các giấy tờ thể hiện việc sử dụng phần vốn góp để trả nợ:
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe695012b67316d'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab42a40e665b20'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefd6a7c4df2752'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+- 01 Bản chính Hợp đồng về việc vay nợ và các giấy tờ thể hiện việc sử dụng phần vốn góp để trả nợ
+
+
+Đăng ký thay đổi thành viên trong trường hợp thành viên sử dụng phần vốn góp để trả nợ(i) Trường hợp công ty đăng ký thay đổi thành viên do thành viên sử dụng phần vốn góp để trả nợ và người nhận thanh toán được Hội đồng thành viên chấp thuận trở thành thành viên công ty theo quy định tại điểm a khoản 7 Điều 53 Luật Doanh nghiệp, hồ sơ đăng ký doanh nghiệp bao gồm các giấy tờ quy định tại khoản 1 Điều 52 Nghị định số 01/2021/NĐ-CP, trong đó, giấy tờ xác nhận việc góp vốn của thành viên mới của công ty được thay bằng hợp đồng về việc vay nợ và các giấy tờ thể hiện việc sử dụng phần vốn góp để trả nợ
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f888d8099bc3fc0'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách thành viên công ty trách nhiệm hữu hạn hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe37861309051a3'">Phụ lục I-6.docx</a>)
+- 01 Bản chính Nghị quyết, quyết định và bản sao biên bản họp Hội đồng thành viên về việc tiếp nhận thành viên mới
+- 01 Bản chính Hợp đồng về việc vay nợ và các giấy tờ thể hiện việc sử dụng phần vốn góp để trả nợ
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp thành viên mới là cá nhân hoặc bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda0629c41c940e'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục hội tự giải thể.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Nghị quyết giải thể hội
+- 01 Bản chính Bản kê tài sản, tài chính
+- 01 Bản chính Dự kiến phương thức xử lý tài sản, tài chính, lao động và thời hạn thanh toán các khoản nợ khác
+- 01 Bản chính Đơn đề nghị giải thể hội (theo mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea528097764d1c'">Mẫu 14- Đơn đề nghị giải thể hội.doc</a>)

@@ -1,0 +1,8 @@
+Tên thủ tục: Khai thuế thu nhập cá nhân tháng/quý của tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân khi nhận chuyển nhượng vốn góp của cá nhân không cư trú
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1. Tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế chuẩn bị hồ sơ khai thuế, gửi đến cơ quan Thuế. Thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế. Thời hạn nộp hồ sơ khai thuế quý chậm nhất là ngày thứ 30 của quý tiếp theo quý phát sinh nghĩa vụ thuế.
++ Bước 2. Cơ quan thuế thực hiện tiếp nhận: 
+++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định.
+++ Trường hợp hồ sơ được nộp thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ(và trả kết quả nếu có kết quả) thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

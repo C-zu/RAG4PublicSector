@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động (cấp trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Trực tuyến|5 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|

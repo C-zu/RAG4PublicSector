@@ -1,0 +1,9 @@
+Tên thủ tục: Tuyển chọn tổ chức, cá nhân thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày|Phí : Miễn phí|Tổ chức, cá nhân nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Bắc Kạn. Địa chỉ: Tổ 7, Phường Đức Xuân, thành phố Bắc Kạn.|
+|Trực tuyến|25 Ngày|Phí : Miễn phí|Tổ chức, cá nhân nộp hồ sơ trực tuyến tại http://dichvucong.backan.gov.vn|
+|Dịch vụ bưu chính|25 Ngày|Phí : Miễn phí|Tổ chức, cá nhân nộp hồ sơ qua dịch vụ bưu chính công ích đến Trung tâm phục vụ hành chính công tỉnh Bắc Kạn. Địa chỉ: tổ 7, phường Đức Xuân, thành phố Bắc Kạn.|

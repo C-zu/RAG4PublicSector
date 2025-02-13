@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trả lời tính đầy đủ của hồ sơ|
+|Trực tiếp|10 Ngày làm việc||Cấp giấy chứng nhận sau khi nhận hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|05 Ngày làm việc||Trả lời tính đầy đủ của hồ sơ|
+|Trực tuyến|10 Ngày làm việc||Cấp Giấy chứng nhận kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trả lời tính đầy đủ của hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc||Cấp Giấy chứng nhận kể từ ngày nhận hồ sơ đầy đủ, hợp lệ|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép kiểm dịch thực vật nhập khẩu đối với vật thể trong Danh mục vật thể thuộc diện kiểm dịch thực vật phải phân tích nguy cơ dịch hại trước khi nhập khẩu vào Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến (nếu có áp dụng).|
+|Trực tuyến|10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến (nếu có áp dụng).|
+|Dịch vụ bưu chính|10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến (nếu có áp dụng).|

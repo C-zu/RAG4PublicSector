@@ -1,0 +1,116 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001442
+Số quyết định:
+QĐ/0001-BTC
+Tên thủ tục:
+Thủ tục công nhận Doanh nghiệp ưu tiên
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp gửi hồ sơ đề nghị công nhận là doanh nghiệp ưu tiên.
+Bước 2: Tổng cục Hải quan thẩm định điều kiện doanh nghiệp ưu tiên.
+Bước 3: Tổng cục Hải quan và doanh nghiệp tiến hành ký bản ghi nhớ.
+Bước 4: Tổng cục Hải quan quyết định công nhận doanh nghiệp ưu tiên.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời gian xem xét công nhận doanh nghiệp ưu tiên không quá 45 (bốn mươi lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ. Đối với các trường hợp phức tạp, doanh nghiệp lớn thì có thể gia hạn một lần nhưng không quá 30 (ba mươi) ngày làm việc.|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo tình hình, thống kê số liệu xuất khẩu, nhập khẩu của doanh nghiệp trong 02 năm gần nhất ([Mẫu 02DNUT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6d5305b7974a8'))
+- 01 Bản sao Báo cáo tài chính đã được kiểm toán 02 năm gần nhất: Nộp 01 bản sao có xác nhận của doanh nghiệp;
+- 01 Bản sao Bản kết luận kiểm toán và thanh tra (nếu có) gần nhất (không quá 01 năm)
+- 01 Bản chính Bản tự phân tích, đánh giá hoạt động kinh doanh, tình hình tài chính của doanh nghiệp;
+- 01 Bản chính Bản tự đánh giá về hệ thống kiểm soát nội bộ của doanh nghiệp; quy trình tác nghiệp nội bộ, trong đó mô tả đầy đủ quy trình tác nghiệp nghiệp vụ của tất cả các bộ phận liên quan trong chuỗi cung ứng (như bộ phận liên quan tới thủ tục xuất nhập khẩu: logistic, kế toán, mua hàng, bán hàng, quản lý chất lượng sản phẩm);
+- 01 Bản chính Các giấy tờ khác mà doanh nghiệp thấy cần thiết cung cấp cho cơ quan hải quan, hỗ trợ cơ quan hải quan trong quá trình thẩm định (như các giấy chứng nhận khen thưởng, chứng nhận quốc tế và quốc gia, các tiêu chuẩn quản lý áp dụng).
+- 01 Bản chính Văn bản đề nghị: 01 bản chính (theo mẫu 01/DNUT ban hành kèm theo Thông tư 86/2013/TT-BTC ngày 27/6/2013) trong đó doanh nghiệp tự xác định, đề nghị loại doanh nghiệp ưu tiên; ([Mẫu 01DNUT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca08ad6953972c'))
+- 01 Bản chính Báo cáo chấp hành pháp luật 02 năm gần nhất (nếu bị xử lý vi phạm thì nêu rõ số lần, hành vi, hình thức xử phạt) mức xử phạt, cấp xử phạt, tình hình chấp hành quyết định xử phạt)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận doanh nghiệp ưu tiên.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật 78/2006/QH11|29-11-2006|Quốc Hội|
+|29/2001/QH10|Luật 29/2001/QH10|29-06-2001|Quốc Hội|
+|87/2012/NĐ-CP|87/2012/NĐ-CP|23-10-2012|Chính phủ|
+|60/2007/TT-BTC|Hướng dẫn thi hành một số điều của Luật Quản lý thuế và hướng dẫn thi hành Nghị định số 85/2007/NĐ-CP ngày 25/5/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế|14-06-2007|Bộ Tài chính|
+|154/2005/NĐ-CP|Nghị định 154/2005/NĐ-CP|15-12-2005|Chính phủ|
+|86/2013/TT-BTC|Thông tư 86/2013/TT-BTC - Quy định về việc áp dụng chế độ ưu tiên trong lĩnh vực quản lý nhà nước về hải quan đổi với doanh nghiệp đủ điều kiện|27-06-2013|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được xét chế độ ưu tiên theo quy định tại Thông tư 86/2013/TT-BTC phải đáp ứng đầy đủ các điều kiện từ Điều 3 đến Điều 9 Thông tư 86/2013/TT-BTC, cụ thể:
++ Điều kiện về tuân thủ pháp luật
+1. Thời hạn đánh giá quá trình tuân thủ pháp luật của doanh nghiệp là 24 (hai mươi bốn) tháng trở về trước, kể từ ngày Tổng cục Hải quan nhận được văn bản của doanh nghiệp đề nghị được công nhận là doanh nghiệp ưu tiên.
+2. Trong thời hạn quy định tại khoản 1 Điều này, doanh nghiệp không vi phạm các pháp luật về thuế, hải quan tới mức bị xử lý về một trong những hành vi dưới đây được coi là đáp ứng điều kiện tuân thủ pháp luật:
+2.1. Xuất khẩu, nhập khẩu hàng hóa thuộc danh mục hàng hóa cấm xuất khẩu, cấm nhập khẩu không đúng quy định của pháp luật.
+2.2. Bị xử lý về hành vi trốn thuế, gian lận thuế, buôn lậu, vận chuyển trái phép hàng hóa qua biên giới;
+2.3. Quá 3 (ba) lần bị các cơ quan hải quan, cơ quan thuế xử lý hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp, tăng số tiền thuế được miễn, giảm, hoàn với mức xử phạt vi phạm hành chính bằng tiền mỗi lần vượt quá thẩm quyền của Chi cục trưởng hoặc các chức danh tương đương theo quy định của pháp luật về xử lý vi phạm hành chính.
+2.4. Bị cơ quan hải quan xử lý hành chính về hành vi không chấp hành yêu cầu của cơ quan hải quan trong kiểm tra hải quan, cung cấp thông tin, hồ sơ doanh nghiệp.
++ Điều kiện về thanh toán
+Thực hiện thanh toán các lô hàng xuất khẩu, nhập khẩu theo đúng quy định của Ngân hàng Nhà nước. Thanh toán thuế qua ngân hàng hoặc kho bạc.
++ Điều kiện về kế toán, tài chính
+Áp dụng chuẩn mực kế toán được Bộ Tài chính chấp nhận. Mọi hoạt động kinh tế phải được phản ánh đầy đủ trong sổ kế toán. Báo cáo tài chính hàng năm được công ty kiểm toán đủ điều kiện chấp nhận các nội dung trọng yếu và đánh giá hoạt động kinh doanh có hiệu quả, không có khoản nợ thuế quá hạn trong 2 (hai) năm liền kề năm xem xét.
++ Điều kiện về kim ngạch
+1. Đối với doanh nghiệp quy định tại khoản 1 Điều 2 Thông tư này: kim ngạch xuất khẩu, nhập khẩu tối thiểu đạt 200 (hai trăm) triệu USD/năm.
+2. Đối với doanh nghiệp quy định tại khoản 2 Điều 2 Thông tư này: kim ngạch xuất khẩu tối thiểu đạt 50 (năm mươi) triệu USD/năm.
+3. Đối với doanh nghiệp quy định tại khoản 3 Điều 2 Thông tư này, không quy định kim ngạch xuất khẩu, nhập khẩu.
+4. Kim ngạch xuất khẩu, nhập khẩu quy định tại khoản 1 và 2 Điều này là kim ngạch bình quân trong 2 (hai) năm xem xét.
++ Điều kiện về thực hiện thủ tục hải quan, thủ tục thuế điện tử
+1. Tại thời điểm cơ quan hải quan xem xét đánh giá, thẩm định, doanh nghiệp đã thực hiện thủ tục hải quan điện tử với cơ quan hải quan, thủ tục thuế điện tử với cơ quan thuế.
+2. Doanh nghiệp có hạ tầng kỹ thuật ứng dụng công nghệ thông tin đáp ứng yêu cầu trao đổi dữ liệu điện tử giữa doanh nghiệp và cơ quan hải quan.
++ Điều kiện về độ tin cậy
+1. Cơ quan hải quan xác định độ tin cậy về sự tuân thủ pháp luật trong tương lai của doanh nghiệp căn cứ vào các tiêu chí về bộ máy kiểm soát nội bộ của doanh nghiệp, cơ chế kiểm soát tài chính, việc hợp tác của doanh nghiệp với cơ quan hải quan, cơ quan quản lý thuế (theo bộ tiêu chí đánh giá của Tổng cục Hải quan).
+2. Đối với doanh nghiệp đáp ứng các điều kiện quy định tại Điều 3 đến Điều 7 Thông tư này, nhưng cơ quan hải quan chưa có đủ cơ sở để xác định độ tin cậy về sự tuân thủ pháp luật trong tương lai của doanh nghiệp thì chưa công nhận doanh nghiệp ưu tiên.
++ Tự nguyện đề nghị được công nhận là doanh nghiệp ưu tiên
+1. Doanh nghiệp có yêu cầu được áp dụng chế độ ưu tiên, tự đối chiếu với các điều kiện, có văn bản đề nghị Tổng cục Hải quan xét, công nhận là doanh nghiệp ưu tiên và cam kết tuân thủ tốt các quy định của pháp luật.
+2. Doanh nghiệp có trách nhiệm xây dựng các chương trình, kế hoạch, sắp xếp bộ máy, nhân sự, đầu tư phương tiện, thiết bị để đảm bảo đáp ứng đủ và duy trì được các điều kiện quy định đối với doanh nghiệp ưu tiên.
+Doanh nghiệp được xét chế độ ưu tiên theo quy định tại Thông tư 86/2013/TT-BTC phải đáp ứng đầy đủ các điều kiện từ Điều 3 đến Điều 9 Thông tư 86/2013/TT-BTC, cụ thể:
++ Điều kiện về tuân thủ pháp luật
+1. Thời hạn đánh giá quá trình tuân thủ pháp luật của doanh nghiệp là 24 (hai mươi bốn) tháng trở về trước, kể từ ngày Tổng cục Hải quan nhận được văn bản của doanh nghiệp đề nghị được công nhận là doanh nghiệp ưu tiên.
+2. Trong thời hạn quy định tại khoản 1 Điều này, doanh nghiệp không vi phạm các pháp luật về thuế, hải quan tới mức bị xử lý về một trong những hành vi dưới đây được coi là đáp ứng điều kiện tuân thủ pháp luật:
+2.1. Xuất khẩu, nhập khẩu hàng hóa thuộc danh mục hàng hóa cấm xuất khẩu, cấm nhập khẩu không đúng quy định của pháp luật.
+2.2. Bị xử lý về hành vi trốn thuế, gian lận thuế, buôn lậu, vận chuyển trái phép hàng hóa qua biên giới;
+2.3. Quá 3 (ba) lần bị các cơ quan hải quan, cơ quan thuế xử lý hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp, tăng số tiền thuế được miễn, giảm, hoàn với mức xử phạt vi phạm hành chính bằng tiền mỗi lần vượt quá thẩm quyền của Chi cục trưởng hoặc các chức danh tương đương theo quy định của pháp luật về xử lý vi phạm hành chính.
+2.4. Bị cơ quan hải quan xử lý hành chính về hành vi không chấp hành yêu cầu của cơ quan hải quan trong kiểm tra hải quan, cung cấp thông tin, hồ sơ doanh nghiệp.
++ Điều kiện về thanh toán
+Thực hiện thanh toán các lô hàng xuất khẩu, nhập khẩu theo đúng quy định của Ngân hàng Nhà nước. Thanh toán thuế qua ngân hàng hoặc kho bạc.
++ Điều kiện về kế toán, tài chính
+Áp dụng chuẩn mực kế toán được Bộ Tài chính chấp nhận. Mọi hoạt động kinh tế phải được phản ánh đầy đủ trong sổ kế toán. Báo cáo tài chính hàng năm được công ty kiểm toán đủ điều kiện chấp nhận các nội dung trọng yếu và đánh giá hoạt động kinh doanh có hiệu quả, không có khoản nợ thuế quá hạn trong 2 (hai) năm liền kề năm xem xét.
++ Điều kiện về kim ngạch
+1. Đối với doanh nghiệp quy định tại khoản 1 Điều 2 Thông tư này: kim ngạch xuất khẩu, nhập khẩu tối thiểu đạt 200 (hai trăm) triệu USD/năm.
+2. Đối với doanh nghiệp quy định tại khoản 2 Điều 2 Thông tư này: kim ngạch xuất khẩu tối thiểu đạt 50 (năm mươi) triệu USD/năm.
+3. Đối với doanh nghiệp quy định tại khoản 3 Điều 2 Thông tư này, không quy định kim ngạch xuất khẩu, nhập khẩu.
+4. Kim ngạch xuất khẩu, nhập khẩu quy định tại khoản 1 và 2 Điều này là kim ngạch bình quân trong 2 (hai) năm xem xét.
++ Điều kiện về thực hiện thủ tục hải quan, thủ tục thuế điện tử
+1. Tại thời điểm cơ quan hải quan xem xét đánh giá, thẩm định, doanh nghiệp đã thực hiện thủ tục hải quan điện tử với cơ quan hải quan, thủ tục thuế điện tử với cơ quan thuế.
+2. Doanh nghiệp có hạ tầng kỹ thuật ứng dụng công nghệ thông tin đáp ứng yêu cầu trao đổi dữ liệu điện tử giữa doanh nghiệp và cơ quan hải quan.
++ Điều kiện về độ tin cậy
+1. Cơ quan hải quan xác định độ tin cậy về sự tuân thủ pháp luật trong tương lai của doanh nghiệp căn cứ vào các tiêu chí về bộ máy kiểm soát nội bộ của doanh nghiệp, cơ chế kiểm soát tài chính, việc hợp tác của doanh nghiệp với cơ quan hải quan, cơ quan quản lý thuế (theo bộ tiêu chí đánh giá của Tổng cục Hải quan).
+2. Đối với doanh nghiệp đáp ứng các điều kiện quy định tại Điều 3 đến Điều 7 Thông tư này, nhưng cơ quan hải quan chưa có đủ cơ sở để xác định độ tin cậy về sự tuân thủ pháp luật trong tương lai của doanh nghiệp thì chưa công nhận doanh nghiệp ưu tiên.
++ Tự nguyện đề nghị được công nhận là doanh nghiệp ưu tiên
+1. Doanh nghiệp có yêu cầu được áp dụng chế độ ưu tiên, tự đối chiếu với các điều kiện, có văn bản đề nghị Tổng cục Hải quan xét, công nhận là doanh nghiệp ưu tiên và cam kết tuân thủ tốt các quy định của pháp luật.
+2. Doanh nghiệp có trách nhiệm xây dựng các chương trình, kế hoạch, sắp xếp bộ máy, nhân sự, đầu tư phương tiện, thiết bị để đảm bảo đáp ứng đủ và duy trì được các điều kiện quy định đối với doanh nghiệp ưu tiên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

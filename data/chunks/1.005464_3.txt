@@ -1,0 +1,8 @@
+Tên thủ tục: Đề nghị hỗ trợ chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, bộ, cơ quan ngang bộ xem xét thông báo bằng văn bản về việc đồng ý hoặc không đồng ý hỗ trợ chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa theo nguyên tắc quy định tại Điều 4 và các quy định tại Nghị định số 55/2019/NĐ-CP.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, bộ, cơ quan ngang bộ xem xét thông báo bằng văn bản về việc đồng ý hoặc không đồng ý hỗ trợ chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa theo nguyên tắc quy định tại Điều 4 và các quy định tại Nghị định số 55/2019/NĐ-CP.|

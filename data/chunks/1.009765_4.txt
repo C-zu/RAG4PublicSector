@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình tổ chức kinh tế đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe24a012fe4ac20'">Mẫu A.I.11.đ.docx</a>)
+- 04 Bản sao - Bản sao tài liệu về tư cách pháp lý của tổ chức kinh tế sau khi tổ chức lại;
+- 04 Bản sao - Bản sao nghị quyết hoặc quyết định của nhà đầu tư là tổ chức kinh tế bị tổ chức lại về việc tổ chức lại, trong đó có nội dung về việc xử lý tài sản, quyền và nghĩa vụ liên quan đến dự án đầu tư;
+- 01 Bản chính, 03 Bản sao - Giải trình hoặc cung cấp tài liệu liên quan đến việc điều chỉnh những nội dung quy định tại các điểm b, c, d, đ, e, g và h khoản 1 Điều 33 của Luật Đầu tư (nếu có);
+- 04 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư, Quyết định chấp thuận chủ trương đầu tư; Quyết định chấp thuận nhà đầu tư (nếu có).

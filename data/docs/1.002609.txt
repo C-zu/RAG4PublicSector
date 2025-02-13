@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002609
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+Trường hợp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin bị mất hoặc bị hư hỏng, doanh nghiệp gửi hồ sơ đề nghị cấp lại Giấy phép tới Bộ Thông tin và Truyền thông.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông xem xét và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 0 Đồng|05 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|5 Ngày|Lệ phí : 0 Đồng|05 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|5 Ngày|Lệ phí : 0 Đồng|05 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng gồm có:
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng. ([Mẫu số 02 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1772ce994ddc3'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông Số 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|86/2015/QH13|Luật 86/2015/QH13|19-11-2015|Quốc Hội|
+|108/2016/NĐ-CP|Nghị định 108/2016/NĐ-CP|01-07-2016|Chính phủ|
+|269/2016/TT-BTC|Thông tư 269/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

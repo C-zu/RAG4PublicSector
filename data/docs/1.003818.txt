@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003818
+Số quyết định:
+1613/QĐ-BGTVT
+Tên thủ tục:
+Thủ tục Gia hạn Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+AMO nộp 01 bộ hồ sơ đề nghị trực tiếp hoặc qua đường bưu chính hoặc qua hệ thống dịch vụ công trực tuyến tới Cục Hàng không Việt Nam.
+Giải quyết TTHC:
+Cục Hàng không Việt Nam xem xét quyết định gia hạn Giấy chứng nhận trong thời hạn 20 ngày, kể từ ngày nhận được đơn đề nghị hoặc thông báo từ chối cấp bằng văn bản, có nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 15000000 Đồng Phí, lệ phí|20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|20 Ngày|Phí : 15000000 Đồng (Phí, lệ phí)|20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : 15000000 Đồng Phí, lệ phí|20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao hoặc biểu mẫu điện tử đơn đề nghị gia hạn Giấy chứng nhận phê chuẩn AMO theo mẫu quy định tại Phụ lục 1 Điều 5.033 ([Mau 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb40ad34df9640'))
+- 01 Bản sao Bản sao hoặc bản sao điện tử của tài liệu giải trình tổ chức bảo dưỡng;
+- 01 Bản sao Bản sao hoặc bản sao điện tử báo cáo liệt kê các công việc bảo dưỡng đã thực hiện cho tàu bay quốc tịch Việt Nam;
+- 01 Bản sao Bản sao hoặc bản sao điện tử Giấy chứng nhận Tổ chức bảo dưỡng, tài liệu phạm vi hoạt động và tài liệu giải trình năng lực.”;
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng không Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|01/2011/TT-BGTVT|Ban hành Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay|27-01-2011|Bộ Giao thông vận tải|
+|03/2016/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 của Bộ trưởng Bộ Giao thông vận tải ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay|31-03-2016|Bộ Giao thông vận tải|
+|56/2018/TT-BGTVT|Thông tư sửa đổi, bổ sung một số điều của Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay|11-12-2018|Bộ Giao thông vận tải|
+|11/2022/TT-BGTVT|Thông tư 11/2022/TT-BGTVT|29-06-2022||
+|Thông tư 09/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay ban hành kèm theo Thông tư số 01/2011/TT-BGTVT ngày 27/01/2011 của Bộ trưởng Bộ GTVT và các Thông tư sửa đổi, bổ sung Thông tư số 01/2011/TT-BGTVT ngày 27/01/2011 của Bộ trưởng Bộ GTVT|09-06-2023|Bộ Giao thông vận tải|
+|Thông tư 21/2017/TT-BGTVT|Thông tư 21/2017/TT-BGTVT sửa đổi Thông tư 01/2011/TT-BGTVT về Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay và Thông tư 03/2016/TT-BGTVT sửa đổi Thông tư 01/2011/TT-BGTVT do Bộ trưởng Bộ Giao thông vận tải ban hành|30-06-2017|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+AMO phải đề nghị gia hạn Giấy chứng nhận phê chuẩn 30 ngày trước ngày hết hạn của Giấy chứng nhận phê chuẩn.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

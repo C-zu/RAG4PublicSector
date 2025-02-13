@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001564
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép in gia công xuất bản phẩm cho nước ngoài (cấp địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Cơ sở in có giấy phép hoạt động in xuất bản phẩm được in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài (trừ cơ sở in sự nghiệp in phục vụ nội bộ, không in kinh doanh).
+- Trước khi thực hiện, cơ sở in phải lập hồ sơ đề nghị cấp giấy phép in gia công xuất bản phẩm cho nước ngoài gửi Sở Thông tin và Truyền thông hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản (gọi tắt là Sở).
+- Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở phải cấp giấy phép, trường hợp không cấp giấy phép phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 0 Đồng Không có|Nộp trực tiếp tại Sở;|
+|Dịch vụ bưu chính|10 Ngày|Phí : 0 Đồng Không có|- Nộp qua hệ thống bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép in gia công xuất bản phẩm cho nước ngoài ([Mẫu số 20- Đơn đề nghị cấp GPHĐ In gia công cho NN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc848fefd799954'))
+- 02 Bản chính Hai bản mẫu xuất bản phẩm đặt in
+- 01 Bản sao Bản sao có chứng thực giấy phép hoạt động in xuất bản phẩm
+- 01 Bản sao Bản sao có chứng thực hợp đồng in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài; trường hợp hợp đồng bằng tiếng nước ngoài thì phải kèm theo bản dịch tiếng Việt
+- 01 Bản sao Bản sao hộ chiếu còn thời hạn sử dụng của người đặt in hoặc giấy ủy quyền, giấy chứng minh nhân dân của người được ủy quyền đặt in
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép in gia công xuất bản phẩm cho nước ngoài.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật 19/2012/QH13|20-11-2012|Quốc Hội|
+|195/2013/NĐ-CP|Nghị định 195/2013/NĐ-CP|21-11-2013|Chính phủ|
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

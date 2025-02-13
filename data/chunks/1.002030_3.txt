@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng lần đầu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Trường hợp hồ sơ đăng ký đầy đủ theo quy định thì Sở Giao thông vận tải có Giấy hẹn kiểm tra . Thời gian kiểm tra xe máy chuyên dùng không quá 05 ngày kể từ ngày viết giấy hẹn. Đối với trường hợp xe máy chuyên dùng đang hoạt động, tập kết ngoài địa phương cấp đăng ký thì Sở Giao thông vận tải nhận hồ sơ có văn bản đề nghị Sở Giao thông vận tải nơi có xe máy chuyên dùng đang hoạt động, tập kết kiểm tra xe máy chuyên dùng, thời hạn kiểm tra không quá 05 ngày kể từ ngày nhận được văn bản đề nghị.|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 200000 Đồng 200.000 đồng/lần/phương tiện|Trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra hoặc nhận được kết quả kiểm tra đối với trường hợp xe máy chuyên dùng đang hoạt động, tập kết ngoài địa phương cấp đăng ký: trường hợp kết quả kiểm tra các hạng mục trong Biên bản đạt yêu cầu, Sở Giao thông vận tải cấp Giấy chứng nhận đăng ký, biển số cho chủ sở hữu xe máy chuyên dùng và vào sổ quản lý đăng ký xe máy chuyên dùng; trường hợp kết quả kiểm tra không đạt yêu cầu thì thông báo cho chủ phương tiện và nêu rõ lý do|

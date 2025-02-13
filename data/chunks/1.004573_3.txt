@@ -1,0 +1,12 @@
+Tên thủ tục: Đánh giá việc đáp ứng thực hành tốt sản xuất của cơ sở sản xuất nguyên liệu làm thuốc là dược liệu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||20 ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp đánh giá theo hình thức công nhận, thừa nhận kết quả thanh tra, kiểm tra của cơ quan quản lý nhà nước về dược đối với yêu cầu đáp ứng thực hành tốt sản xuất;|
+|Trực tiếp|40 Ngày||40 (bốn mươi) ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp đánh giá theo hình thức thẩm định hồ sơ liên quan đến điều kiện sản xuất;|
+|Trực tiếp|90 Ngày||90 (chín mươi) ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp quy định tại điểm b khoản 3 Điều 96 của Nghị định số 54/2017/NĐ-CP hoặc kể từ ngày thông báo kết quả thẩm định hồ sơ đăng ký thuốc hoặc hồ sơ đề nghị đánh giá cơ sở sản xuất đáp ứng Thực hành tốt sản xuất và kế hoạch kiểm tra, đánh giá thực tế tại cơ sở sản xuất đối với trường hợp quy định tại các điểm a và c khoản 3 Điều 96 của Nghị định số 54/2017/NĐ-CP.|
+|Dịch vụ bưu chính|20 Ngày||20 ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp đánh giá theo hình thức công nhận, thừa nhận kết quả thanh tra, kiểm tra của cơ quan quản lý nhà nước về dược đối với yêu cầu đáp ứng thực hành tốt sản xuất;|
+|Dịch vụ bưu chính|40 Ngày||40 (bốn mươi) ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp đánh giá theo hình thức thẩm định hồ sơ liên quan đến điều kiện sản xuất;|
+|Dịch vụ bưu chính|90 Ngày||90 (chín mươi) ngày kể từ ngày nhận đủ hồ sơ đối với trường hợp quy định tại điểm b khoản 3 Điều 96 của Nghị định số 54/2017/NĐ-CP hoặc kể từ ngày thông báo kết quả thẩm định hồ sơ đăng ký thuốc hoặc hồ sơ đề nghị đánh giá cơ sở sản xuất đáp ứng Thực hành tốt sản xuất và kế hoạch kiểm tra, đánh giá thực tế tại cơ sở sản xuất đối với trường hợp quy định tại các điểm a và c khoản 3 Điều 96 của Nghị định số 54/2017/NĐ-CP.|

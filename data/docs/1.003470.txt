@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003470
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Cấp lại giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+- Bước 4: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh hoặc Bộ phận Một cửa của Công an tỉnh hoặc Trung tâm phục vụ hành chính công của tỉnh (trường hợp đã đưa thủ tục ra tiếp nhận tại Trung tâm phục vụ hành chính công); Thời hạn giải quyết: Không quá 07 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|07 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có); Thời hạn giải quyết: Không quá 07 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Thời hạn giải quyết: Không quá 07 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp lại Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy, chữa cháy (Mẫu số PC33 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); ([PC33-dieukienkinhdoanhPCCC.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc81304c731030c'))
+- 01 Bản chính - Giấy báo mất có xác nhận của cơ quan Công an nơi bị mất Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy, chữa cháy.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Phòng cảnh sát phòng cháy, chữa cháy Công an tỉnh, thành phố trực thuộc Trung ương
+Cơ quan có thẩm quyền:
+Phòng cảnh sát phòng cháy, chữa cháy Công an tỉnh, thành phố trực thuộc Trung ương
+Địa chỉ tiếp nhận HS:
+Trực tiếp tại cơ quan Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ cấp tỉnh.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|27/2001/QH10|Phòng cháy và chữa cháy|29-06-2001|Quốc Hội|
+|40/2013/QH13|Sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|22-11-2013|Quốc Hội|
+|01/2013/TT-BVHTTDL|01/2013/TT-BVHTTDL|02-01-2013||
+|136/2020/NĐ-CP|Nghị định 136/2020/NĐ-CP|24-11-2020||
+|149 /2020/TT-BCA|Thông tư 149 /2020/TT-BCA|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+- Cơ sở kinh doanh dịch vụ phòng cháy, chữa cháy phải bảo đảm các điều kiện theo quy định tại Điều 41 Nghị định số 136/2020/NĐ-CP. 
+- Cơ sở kinh doanh dịch vụ phòng cháy, chữa cháy bị mất Giấy xác nhận đủ điều kiện kinh doanh dịch vụ do Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh cấp.
+- Cơ sở kinh doanh dịch vụ phòng cháy, chữa cháy phải bảo đảm các điều kiện theo quy định tại Điều 41 Nghị định số 136/2020/NĐ-CP. 
+- Cơ sở kinh doanh dịch vụ phòng cháy, chữa cháy bị mất Giấy xác nhận đủ điều kiện kinh doanh dịch vụ do Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh cấp.
+Từ khóa:
+Cấp lại giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy (thực hiện tại cấp tỉnh)
+Mô tả:
+Không có thông tin

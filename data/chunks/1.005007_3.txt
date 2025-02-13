@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục mua bán hóa đơn bán tài sản nhà nước và hóa đơn bán tài sản tịch thu sung quỹ nhà nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Kể từ ngày nhận được đủ hồ sơ mua hóa đơn, đơn vị bán hóa đơn chậm nhất không quá 05 ngày làm việc|
+|Dịch vụ bưu chính|5 Ngày làm việc||Kể từ ngày nhận được đủ hồ sơ mua hóa đơn, đơn vị bán hóa đơn chậm nhất không quá 05 ngày làm việc (Ghi chú: Sở Tài chính mua hóa đơn tại Bộ Tài chính; Phòng Tài chính kế hoạch cấp huyện mua hóa đơn tại Sở Tài chính; Đơn vị được giao xử lý tài sản mua hóa đơn tại Sở Tài chính hoặc Phòng Tài chính kế hoạch cấp huyện)|

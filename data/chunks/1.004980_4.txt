@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật đối với xe đạp điện được sản xuất, lắp ráp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản đăng ký thông số kỹ thuật xe theo mẫu (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc biểu mẫu điện tử bản đăng ký thông số kỹ thuật xe đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9ce7191fc6fa0'">Mẫu.docx</a>)
+- 01 Bản sao - Báo cáo kết quả thử nghiệm xe của Cơ sở thử nghiệm (Bản sao có xác nhận của cơ sở sản xuất đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản sao điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến);
+- 01 Bản chính - Hướng dẫn sử dụng xe trong đó có các thông số kỹ thuật chính, cách thức sử dụng các thiết bị của xe, hướng dẫn về an toàn cháy nổ và bảo vệ môi trường và Phiếu bảo hành xe (ghi rõ điều kiện và địa chỉ các cơ sở bảo hành) hoặc các tài liệu dạng điện tử như đã nêu (đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến);
+- 01 Bản chính - Bản cam kết của Cơ sở sản xuất về việc kiểu loại xe đề nghị chứng nhận không xâm phạm quyền sở hữu công nghiệp đang được bảo hộ và doanh nghiệp tự chịu trách nhiệm theo quy định của pháp luật nếu có xảy ra xâm phạm (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản dạng điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến);
+- 01 Bản chính - Bản mô tả nhãn hàng hóa, bao gồm: kích thước, nội dung và vị trí gắn trên xe. Nhãn hàng hóa phải thể hiện ít nhất các nội dung sau: Tên, địa chỉ Cơ sở sản xuất; nhãn hiệu; số loại; khối lượng bản thân; số người cho phép chở; công suất động cơ; số giấy chứng nhận kiểu loại được phê duyệt; năm sản xuất; xuất xứ (Bản chính đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính; hoặc bản dạng điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến).

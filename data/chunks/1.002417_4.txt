@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị theo mẫu tại Phụ lục II ban hành kèm theo Thông tư số 11/2022/TT-BNNPTNT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea28a49415e6bc'">Phụ lục II.docx</a>)
+- 01 Bản chính b) Bản thuyết minh về quy trình kỹ thuật, phương tiện, danh mục trang thiết bị xử lý đối với từng biện pháp, loại hình và quy mô đăng ký theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư số 05/2015/TT-BNNPTNT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1c904136ba77e'">Phụ lục VII.docx</a>)
+- 01 Bản sao c) Bản sao có chứng thực hoặc bản sao chụp mang theo bản chính để đối chiếu Bằng tốt nghiệp trình độ từ đại học trở lên của người trực tiếp quản lý điều hành.
+- 01 Bản chính d) Bản chính Giấy khám sức khỏe của người trực tiếp quản lý điều hành do cơ quan y tế cấp huyện trở lên cấp; Bản sao chụp giấy khám sức khỏe của người trực tiếp thực hiện xử lý vật thể.
+- 01 Bản chính đ) Danh sách người trực tiếp thực hiện xử lý vật thể đã được cấp Thẻ hành nghề.
+- 01 Bản sao e) Bản sao chụp Phương án phòng cháy chữa cháy được phê duyệt hoặc Biên bản kiểm tra an toàn về phòng cháy và chữa cháy hoặc giấy tờ chứng minh đủ điều kiện về phòng cháy chữa cháy theo quy định của pháp luật; cam kết bảo vệ môi trường đã được phê duyệt hoặc giấy tờ chứng minh đủ điều kiện về đảm bảo môi trường theo quy định của pháp luật.

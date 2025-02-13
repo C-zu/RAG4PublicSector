@@ -1,0 +1,11 @@
+Tên thủ tục: Giao tuyến dẫn tàu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Công ty hoa tiêu gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC:
+- Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; trường hợp hồ sơ không đầy đủ theo quy định thì trả lại ngay và hướng dẫn công ty hoa tiêu hoàn thiện lại hồ sơ;
+- Trường hợp nhận qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng các hình thức phù hợp khác, nếu hồ sơ không đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Hàng hải Việt Nam có văn bản gửi công ty hoa tiêu qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng các hình thức phù hợp khác, nêu rõ lý do và yêu cầu bổ sung, hoàn thiện hồ sơ;
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do để Cục Hàng hải Việt Nam có văn bản trả lời cho công ty hoa tiêu;
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.

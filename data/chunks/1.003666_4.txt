@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận nguồn gốc thủy sản khai thác (theo yêu cầu)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1.3.1. Hồ sơ đề nghị chứng nhận gồm:
+- 01 Bản sao a) Bản sao Giấy xác nhận nguyên liệu thủy sản khai thác có mô tả nguyên liệu đã sử dụng theo mục B Mẫu số 01 Phụ lục III ban hành kèm theo Thông tư số 21/2018/TT-BNNPTNT; trường hợp nguyên liệu thủy sản chưa sử dụng hết, tổ chức, cá nhân đề nghị chứng nhận nộp bản chính Giấy xác nhận nguyên liệu thủy sản khai thác để cơ quan thẩm quyền xác nhận phần nguyên liệu chưa sử dụng; Trường hợp nguyên liệu thủy sản đã sử dụng hết, cơ quan thẩm quyền thu bản chính Giấy xác nhận nguyên liệu thủy sản khai thác và lưu hồ sơ.
+- 01 Bản chính, 01 Bản sao b) Giấy chứng nhận nguồn gốc thủy sản khai thác theo Mẫu số 05 Phụ lục VII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT đối với sản phẩm xuất khẩu vào thị trường châu Âu hoặc theo Mẫu số 03 Phụ lục III ban hành kèm theo Thông tư số 21/2018/TT-BNNPTNT đối với sản phẩm xuất khẩu vào thị trường các nước thuộc Ủy ban quốc tế về bảo tồn cá ngừ Đại Tây Dương hoặc giấy chứng nhận theo yêu cầu của cơ quan thẩm quyền nước nhập khẩu đã kê khai đầy đủ thông tin; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feeb9494ecbbfd0'">Mẫu số 05.docx</a>)
+- 01 Bản chính, 01 Bản sao c) Thông tin bổ sung cho sản phẩm thủy sản được chế biến từ tàu cá Việt Nam và Thông tin vận tải theo Mẫu số 02a, 02b Phụ lục III ban hành kèm theo Thông tư số 21/2018/TT-BNNPTNT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe00ece9ce279e8'">Mẫu số 02a.docx</a>)
+
+
+1.3.2. Hồ sơ đề nghị cấp lại giấy chứng nhận gồm:
+- 01 Bản sao a) Đơn đề nghị cấp lại Giấy chứng nhận nguồn gốc thủy sản khai thác theo Mẫu số 05 Phụ lục III ban hành theo Thông tư số 21/2018/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5862e01958b15'">Mẫu số 05.doc</a>)
+- 01 Bản chính b) Giấy chứng nhận nguồn gốc thủy sản khai thác theo Mẫu số 05 Phụ lục VII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT hoặc giấy chứng nhận theo yêu cầu của cơ quan thẩm quyền nước nhập khẩu đã kê khai đầy đủ thông tin; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc1b6bc1dc07c6c'">Mẫu số 05.docx</a>)
+- 01 Bản chính c) Bản gốc Giấy chứng nhận nguồn gốc thủy sản khai thác bị rách, nát không còn nguyên vẹn, bị sai thông tin (trừ trường hợp giấy chứng nhận bị mất).

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự đổi với thiệt hại ô nhiễm dầu (CLC 1992)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị của chủ tàu theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5eafead70f370'">don de nghị.doc</a>)
+- 01 Bản chính Bản chính đơn bảo hiểm hoặc giấy chứng nhận bảo đảm tài chính phù hợp với quy định của Công ước CLC 1992; trường hợp việc bảo hiểm có tái bảo hiểm thì chủ tàu phải nộp cả bản gốc giấy chứng nhận của tổ chức nhận tái bảo hiểm liên quan; Trường hợp đơn bảo hiểm hoặc bảo đảm tài chính, giấy chứng nhận tái bảo hiểm về trách nhiệm dân sự của chủ tàu được cấp dưới dạng dữ liệu điện tử, chủ tàu phải cung cấp địa chỉ chính thức, hợp pháp trang thông tin điện tử của tổ chức đã cấp để kiểm tra;
+- 01 Bản sao Bản sao (chụp) Giấy chứng nhận đăng ký tàu biển. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2e5808c0f65ab'">GCN ĐK tàu biển.docx</a>)

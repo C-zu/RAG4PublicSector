@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép trường trung học phổ thông hoạt động giáo dục
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị cho phép nhà trường hoạt động giáo dục;
+- 01 Bản sao Bản sao được cấp từ sổ gốc, bản sao được chứng thực từ bản chính hoặc bản sao kèm theo bản chính để đối chiếu quyết định thành lập hoặc quyết định cho phép thành lập trường

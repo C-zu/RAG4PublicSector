@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005075
+Số quyết định:
+994/QĐ-BGTVT
+Tên thủ tục:
+Xóa, thu hồi Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+Chủ sở hữu phương tiện nộp 01 bộ hồ sơ làm thủ tục đề nghị thu hồi, xóa Giấy chứng nhận đăng ký phương tiện trên đường sắt quốc gia gửi đến Cục Đường sắt Việt Nam.
+Chủ sở hữu phương tiện nộp 01 bộ hồ sơ làm thủ tục đề nghị thu hồi, xóa Giấy chứng nhận đăng ký phương tiện trên đường sắt chuyên dùng, đường sắt đô thị gửi đến Ủy ban nhân dân các tỉnh, thành phố: Hà Nội, Hồ Chí Minh, Quảng Ninh, Thái Nguyên. Trước ngày 01/01/2023, Ủy ban nhân dân các tỉnh, thành phố nêu trên chưa thực hiện được nội dung này thì hướng dẫn Chủ sở hữu phương tiện gửi 01 bộ hồ sơ làm đến Cục Đường sắt Việt Nam.
+Giải quyết TTHC
+- Trường hợp hồ sơ không đúng theo quy định, trong thời hạn 01 ngày làm
+việc kể từ ngày tiếp nhận hồ sơ qua bộ phận một cửa hoặc qua cổng dịch vụ công trực tuyến; 02 ngày làm việc kể từ ngày tiếp nhận hồ sơ theo các hình thức khác, cơ quan cấp giấy phép lái tàu có trách nhiệm thông báo, hướng dẫn doanh nghiệp hoàn thiện hồ sơ theo quy định.
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đúng quy định, cơ quan nhà nước có thẩm quyền thông báo bằng văn bản cho chủ sở hữu về việc thu hồi, xóa Giấy chứng nhận đăng ký phương tiện. Trường hợp chủ phương tiện đã nộp bản điện tử Giấy chứng nhận đăng ký phương tiện qua cổng dịch vụ công trực tuyến hoặc cổng dịch vụ công quốc gia thì có trách nhiệm nộp lại bản gốc cho cơ quan nhà nước có thẩm quyền.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn không quá 03 ngày làm việc, kể từ khi nhận được hồ sơ đầy đủ và đúng quy định.|
+|Trực tuyến|3 Ngày làm việc||Trong thời hạn không quá 03 ngày làm việc, kể từ khi nhận được hồ sơ đầy đủ và đúng quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn không quá 03 ngày làm việc, kể từ khi nhận được hồ sơ đầy đủ và đúng quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị thu hồi, xóa Giấy chứng nhận đăng ký phương tiện theo mẫu quy ([1.005075.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd575ec68c24a9c'))
+- 01 Bản chính Bản gốc hoặc bản điện tử Giấy chứng nhận đăng ký phương tiện đã được cấp.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam, UBND tỉnh Thái Nguyên, UBND Thành phố Hồ Chí Minh, UBND tỉnh Quảng Ninh, UBND Thành phố Hà Nội
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam, UBND tỉnh Thái Nguyên, UBND Thành phố Hồ Chí Minh, UBND tỉnh Quảng Ninh, UBND Thành phố Hà Nội
+Địa chỉ tiếp nhận HS:
+Cục Đường sắt Việt Nam, Ủy ban nhân dân các tỉnh, thành phố: Hà Nội, Hồ Chí Minh, Quảng Ninh, Thái Nguyên.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xóa Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|21/2018/TT-BGTVT|Quy định về đăng ký phương tiện giao thông đường sắt di chuyển phương tiện giao thông đường sắt trong trường hợp đặc biệt|27-04-2018|Bộ Giao thông vận tải|
+|14/2023/TT-BGTVT|Thông tư quy định về đăng ký phương tiện giao thông đường sắt, di chuyển phương tiện giao thông đường sắt trong trường hợp đặc biệt|30-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
++ Cục Đường sắt Việt Nam thực hiện thu hồi, xóa Giấy chứng nhận đăng ký phương tiện trên đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng, trừ đường sắt chuyên dùng, đường sắt đô thị trên địa bàn các tỉnh, thành phố: Hà Nội, Hồ Chí Minh, Quảng Ninh, Thái Nguyên; + Ủy ban nhân dân các tỉnh, thành phố: Hà Nội, Hồ Chí Minh, Quảng Ninh, Thái Nguyên thực hiện thu hồi, xóa Giấy chứng nhận đăng ký phương tiện trên đường sắt chuyên dùng, đường sắt đô thị (nếu Ủy ban nhân dân các tỉnh, thành phố chưa thực hiện được thủ tục hành chính trước ngày 01/01/2025 thì Cục Đường sắt Việt Nam tiếp tục thực hiện đến hết ngày 31/12/2024 hoặc theo ngày đề nghị căn cứ vào văn bản đề nghị của Ủy ban nhân dân các tỉnh, thành phố).

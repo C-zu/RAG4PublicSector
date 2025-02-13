@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp điện mới từ lưới điện trung áp (cấp điện áp 6kV, 10kV, 15kV, 22kV, 35kV)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Khảo sát hiện trường
+Thỏa thuận đấu nối
+Ký kết HĐMBĐ, nghiệm thu và đóng điện

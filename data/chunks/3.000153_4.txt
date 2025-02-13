@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo tình hình sử dụng lao động và tham gia BHXH, BHYT, BHTN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd02f71ec481278'">D02-TS_new.xlsx</a>)

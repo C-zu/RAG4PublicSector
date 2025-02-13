@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : Bộ Xây dựng quy định chi tiết về chi phí thẩm định nhiệm vụ đồ án quy hoạch xây dựng.  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feeaa6609418419'">BXD_05_2017-TT-BXD_05042017.signed.pdf</a>|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

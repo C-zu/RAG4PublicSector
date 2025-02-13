@@ -1,0 +1,7 @@
+Tên thủ tục: Chấm dứt hợp đồng mua bán điện
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Chốt chỉ số
+Ký Biên bản chấm dứt HĐMBĐ

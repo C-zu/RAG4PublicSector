@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010898
+Số quyết định:
+563/QĐ-UBND
+Tên thủ tục:
+Đề nghị dừng thực hiện thủ tục đăng ký doanh nghiệp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT tại Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ về phòng Đăng ký dinh doanh để giải quyết.
+B3	Thẩm định hồ sơ:
++ Nếu hồ sơ đủ điều kiện thì Phòng Đăng ký kinh doanh ra thông báo về việc dừng thực hiện thủ tục đăng ký doanh nghiệp cho doanh nghiệp và hủy hồ sơ đăng ký doanh nghiệp theo quy trình trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp.
++ Nếu hồ sơ không đủ điều kiện: Dự thảo Thông báo sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp trình lãnh đạo phòng ký duyệt.
+B4	Xem xét, phê duyệt kết quả thẩm định hồ sơ tại B3.
+B5	Phát hành văn bản và chuyển kết quả sang Trung tâm PV HCC tỉnh để trả cho tổ chức/cá nhân.
+
+B6	Trả kết quả cho tổ chức, cá nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||- Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ Hành chính công tỉnh - Số 02A - Nguyễn Chí Thanh - TP Hà Tĩnh - tỉnh Hà Tĩnh. - Nộp hồ sơ qua Bưu điện. - Qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp (http://dangkykinhdoanh.gov.vn).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị dừng thực hiện thủ tục đăng ký doanh nghiệp theo mẫu BM.DN.01.01. ([1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd40c29469c17e8'))
+- 01 Bản chính Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác dừng thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây: Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có: + Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp (Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực).
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền.
+- 01 Bản sao Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có: + Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản chính Bản chính giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.
+- 01 Bản sao Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp.
+- 01 Bản sao Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì việc ủy quyền thực hiện như Trường hợp ủy quyền cho tổ chức, kèm theo hồ sơ đăng ký doanh nghiệp phải có: + Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản chính Bản chính giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư
+Cơ quan có thẩm quyền:
+Sở Kế hoạch và Đầu tư
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo về việc dừng/từ chối dừng thực hiện thủ tục đăng ký doanh nghiệp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|59/2020/QH14|Luật Doanh nghiệp số 59/2020/QH14|17-06-2020||
+|01/2021/NĐ-CP|Nghị định số 01/2021/NĐ-CP của Chính phủ: Về đăng ký doanh nghiệp|04-01-2021||
+|01/2021/TT-BKHĐT|Hướng dẫn về đăng ký doanh nghiệp|16-03-2021|Bộ Kế hoạch và Đầu tư|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh- Thành phố Hà Tĩnh;|
+|Trực tuyến|07 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh- Thành phố Hà Tĩnh;|
+|Dịch vụ bưu chính|07 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 02A - đường Nguyễn Chí Thanh- Thành phố Hà Tĩnh;|

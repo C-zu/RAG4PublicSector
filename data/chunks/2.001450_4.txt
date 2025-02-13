@@ -1,0 +1,11 @@
+Tên thủ tục: Miễn thuế, giảm thuế theo Hiệp định đối với cá nhân là đối tượng cư trú nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thông báo thuộc diện miễn, giảm thuế theo Hiệp định theo mẫu số 01-1A/TNCN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6c18296cd9298'">140.doc</a>)
+- 01 Bản chính Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định
+- 01 Bản sao Hợp đồng lao động với người sử dụng lao động ở nước ngoài (nếu có)
+- 01 Bản sao Hợp đồng lao động với người sử dụng lao động tại Việt Nam
+- 01 Bản sao Hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam

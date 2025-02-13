@@ -1,0 +1,38 @@
+Tên thủ tục: Quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích khác 1
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp hồ sơ thuộc thẩm quyền của Hội đồng nhân dân
+Bước 1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận tiếp nhận và trả kết quả (TN&TKQ) của Sở Nông nghiệp và Phát triển nông thôn - Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ về Chi cục Kiểm lâm, Văn thư tiếp nhận hồ sơ, chuyển cho phòng Sử dụng và Phát triển rừng (SD&PTR) để xử lý.
+Bước 3: Duyệt hồ sơ và chuyển cho công chức xử lý.
+Bước 4: Xem xét, xử lý hồ sơ:
+- Nếu hồ sơ đủ điều kiện thì lập dự thảo Báo cáo kết quả kiểm tra hồ sơ và dự thảo Tờ  trình đề nghị Ủy ban nhân dân tỉnh thẩm định hồ sơ xin  chủ trương chuyển mục đích sử dụng rừng sang mục đích khác, trình lãnh đạo phòng xem xét, lãnh đạo Chi cục ký nháy. Tiếp theo thực hiện theo bước B5.
+- Nếu hồ sơ không đủ điều kiện thì tham mưu Chi cục ban hành Văn bản thông báo (nêu rõ lý do) kèm hồ sơ chuyển Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B9.
+Bước 5: Xem xét, phê duyệt kết quả kiểm tra hồ sơ của Chi cục Kiểm Lâm.
+Bước 6: Đóng dấu, phát hành văn bản và chuyển toàn bộ hồ sơ cho Ủy ban nhân dân tỉnh giải quyết (qua Trung tâm Phục vụ hành chính công tỉnh).
+Bước 7: UBND tỉnh tổ chức thẩm định nội dung hồ sơ:
+- Nếu hồ sơ đủ điều kiện: Báo cáo kết quả thẩm định hồ sơ xin chủ trương chuyển mục đích sử dụng rừng sang mục đích khác; Tờ trình xin chủ trương chuyển mục đích sử dụng rừng sang mục đích khác, trình Hội đồng nhân dân tỉnh.
+- Nếu hồ sơ không đủ điều kiện ban hành Văn bản thông báo (nêu rõ lý do), chuyển Sở Nông nghiệp và Phát triển nông thôn.
+Bước 8: Hội đồng nhân dân tỉnh họp, xem xét, quyết định
+Bước 9: Trả kết quả cho tổ chức, cá nhân.
+Trường hợp hồ sơ thuộc thẩm quyền của Quốc hội/Thủ tướng Chính phủ
+B1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận tiếp nhận và trả kết quả (TN&TKQ) của Sở Nông nghiệp và Phát triển nông thôn - Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2: Chuyển hồ sơ về Chi cục Kiểm lâm, Văn thư tiếp nhận hồ sơ, chuyển cho phòng Sử dụng và Phát triển rừng (SD&PTR) để xử lý.
+B3: Duyệt hồ sơ và chuyển cho công chức xử lý.
+B4: Xem xét, xử lý hồ sơ:
+- Nếu hồ sơ đủ điều kiện thì lập dự thảo Báo cáo kết quả kiểm tra hồ sơ và dự thảo Tờ  trình đề nghị Ủy ban nhân dân tỉnh thẩm định hồ sơ xin  chủ trương chuyển mục đích sử dụng rừng sang mục đích khác, trình lãnh đạo phòng xem xét, lãnh đạo Chi cục ký nháy. Tiếp theo thực hiện theo bước B5.
+- Nếu hồ sơ không đủ điều kiện thì tham mưu Văn bản thông báo hồ sơ không đủ điều kiện giải quyết trình Lãnh đạo Chi cục xem xét, ban hành và chuyển kèm hồ sơ sang Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B10.
+B5: Xem xét, phê duyệt kết quả xử lý hồ sơ của Chi cục Kiểm Lâm.
+B6: Đóng dấu, phát hành văn bản và chuyển toàn bộ hồ sơ cho Ủy ban nhân dân tỉnh giải quyết (qua Trung tâm Phục vụ hành chính công tỉnh).
+B7: UBND tỉnh tổ chức thẩm định nội dung hồ sơ:
+- Nếu hồ sơ đủ điều kiện: Báo cáo kết quả thẩm định hồ sơ xin chủ trương chuyển mục đích sử dụng rừng sang mục đích khác; Tờ trình xin chủ trương chuyển mục đích sử dụng rừng sang mục đích khác kèm hồ sơ, trình Bộ Nông nghiệp và Phát triển nông thôn.
+- Nếu hồ sơ không đủ điều kiện ban hành Văn bản thông báo (nêu rõ lý do), chuyển Sở Nông nghiệp và Phát triển nông thôn (qua Trung tâm Phục vụ Hành chính công tỉnh).
+B8: Bộ NN&PTNT phối hợp với Bộ Tài Nguyên và Môi trường và các bộ, ngành có liên quan tổ chức thẩm định hồ sơ.
+B9: Thủ tướng chính phủ xem xét, quyết định.
+B10: Quốc hội xem xét, quyết định.
+B11: Trả kết quả cho tổ chức, cá nhân.

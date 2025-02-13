@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung quảng cáo thuốc (trừ trường hợp quảng cáo thuốc theo phương tiện tổ chức hội thảo, hội nghị, sự kiện giới thiệu thuốc)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004548
+Số quyết định:
+3246/QĐ-BYT
+Tên thủ tục:
+Cấp giấy xác nhận nội dung quảng cáo thuốc (trừ trường hợp quảng cáo thuốc theo phương tiện tổ chức hội thảo, hội nghị, sự kiện giới thiệu thuốc)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

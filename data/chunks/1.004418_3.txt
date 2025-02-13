@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp cho doanh nghiệp giao nhận nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 2.400.000/lần cấp Đồng Lệ phí cấp giấy chứng nhận|03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Phí : 2.400.000 Đồng Lệ phí cấp giấy chứng nhận|03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 2.400.000/lần cấp Đồng Lệ phí cấp giấy chứng nhận|03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định.|

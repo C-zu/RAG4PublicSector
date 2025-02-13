@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục tiếp tục hoạt động đại lý làm thủ tục hải quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Công văn đề nghị tiếp tục hoạt động đại lý làm thủ tục hải quan. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8506b69e54cf4'">22_2019_TT_BTC_PL.doc</a>)

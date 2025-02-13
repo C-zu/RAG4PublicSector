@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục hành chính phê duyệt nội quy chợ hạng 1.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Công văn đề nghị phê duyệt nội quy chợ của chủ thể quản lý chợ;
+- 01 Bản chính, 01 Bản sao + Dự thảo Nội quy chợ.

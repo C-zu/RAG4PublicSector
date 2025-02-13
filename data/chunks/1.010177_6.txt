@@ -1,0 +1,20 @@
+Tên thủ tục: Cấp Giấy phép xây dựng - BQL
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện thực hiện TTHC:
+- Phù hợp với quy hoạch xây dựng, mục đích sử dụng đất, mục tiêu đầu tư.
+- Tùy thuộc vào quy mô, tính chất, địa điểm xây dựng, công trình được cấp giấy phép xây dựng phải: Tuân thủ các quy định về chỉ giới đường đỏ, chỉ giới xây dựng; đảm bảo an toàn công trình và công trình lân cận và các yêu cầu về: Giới hạn tĩnh không, độ thông thuỷ, bảo đảm các yêu cầu về bảo vệ môi trường theo quy định của pháp luật, phòng cháy chữa cháy (viết tắt là PCCC), hạ tầng kỹ thuật (giao thông, điện, nước, viễn thông), hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa và đảm bảo khoảng cách đến các công trình dễ cháy, nổ, độc hại, các công trình quan trọng liên quan đến an ninh quốc gia.
+-  Đối với công trình trong đô thị phải:
++ Phù hợp với: Quy hoạch chi tiết xây dựng, quy chế quản lý quy hoạch, kiến trúc đô thị, thiết kế đô thị được cơ quan nhà nước có thẩm quyền phê duyệt;
++ Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết, thì phải phù hợp với Quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành.
+Điều kiện thực hiện TTHC:
+- Phù hợp với quy hoạch xây dựng, mục đích sử dụng đất, mục tiêu đầu tư.
+- Tùy thuộc vào quy mô, tính chất, địa điểm xây dựng, công trình được cấp giấy phép xây dựng phải: Tuân thủ các quy định về chỉ giới đường đỏ, chỉ giới xây dựng; đảm bảo an toàn công trình và công trình lân cận và các yêu cầu về: Giới hạn tĩnh không, độ thông thuỷ, bảo đảm các yêu cầu về bảo vệ môi trường theo quy định của pháp luật, phòng cháy chữa cháy (viết tắt là PCCC), hạ tầng kỹ thuật (giao thông, điện, nước, viễn thông), hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa và đảm bảo khoảng cách đến các công trình dễ cháy, nổ, độc hại, các công trình quan trọng liên quan đến an ninh quốc gia.
+-  Đối với công trình trong đô thị phải:
++ Phù hợp với: Quy hoạch chi tiết xây dựng, quy chế quản lý quy hoạch, kiến trúc đô thị, thiết kế đô thị được cơ quan nhà nước có thẩm quyền phê duyệt;
++ Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết, thì phải phù hợp với Quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

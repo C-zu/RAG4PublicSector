@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục Đăng ký việc nuôi con nuôi tại Cơ quan đại diện Việt Nam ở nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003213
+Số quyết định:
+2687/QĐ-BTP
+Tên thủ tục:
+Thủ tục Đăng ký việc nuôi con nuôi tại Cơ quan đại diện Việt Nam ở nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Nuôi con nuôi

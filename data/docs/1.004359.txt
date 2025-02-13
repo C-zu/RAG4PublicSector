@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004359
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Cấp, cấp lại giấy phép khai thác thủy sản
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+8.1. Trình tự thực hiện: 
+Bước 1. Tổ chức, cá nhân gửi hồ sơ đến Cơ quan quản lý nhà nước về thủy sản cấp tỉnh;
+Trường hợp nộp hồ sơ trực tiếp: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh thông báo cho tổ chức, cá nhân biết để bổ sung;Bước 2. Trong thời hạn 06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại) kể từ ngày nhận đủ hồ sơ, cơ quan thẩm quyền thực hiện cấp, cấp lại Giấy phép khai thác thuỷ sản theo Mẫu số 22 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; trong trường hợp không cấp, cấp lại cơ quan có thẩm quyền trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|Phí : Đồng Lệ phí cấp mới 40.000đồng/lần; lệ phí cấp lại 20.000 đồng/lần.|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|
+|Trực tuyến|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|Phí : Đồng Lệ phí cấp mới 40.000đồng/lần; lệ phí cấp lại 20.000 đồng/lần.|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|Phí : Đồng Lệ phí cấp mới 40.000đồng/lần; lệ phí cấp lại 20.000 đồng/lần.|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|
+
+Thành phần hồ sơ:
+
+a) Hồ sơ đề nghị cấp giấy phép khai thác thủy sản bao gồm:
+- 01 Bản chính Đơn đề nghị theo Mẫu số 21 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP ([Mẫu số 21.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd423aa2548bac'))
+- 01 Bản chính Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá đối với tàu cá theo quy định phải đăng kiểm
+- 01 Bản chính Bản chụp văn bằng hoặc chứng chỉ thuyền trưởng, máy trưởng tàu cá đối với loại tàu cá theo quy định phải có văn bằng hoặc chứng chỉ thuyền trưởng, máy trưởng tàu cá
+
+
+b) Hồ sơ đề nghị cấp lại giấy phép khai thác thủy sản:
+- 01 Bản chính Đơn đề nghị cấp lại theo Mẫu số 03.KT Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ-CP ([Mẫu số 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe500588806639f'))
+- 01 Bản chính Bản chính giấy phép khai thác thủy sản đã được cấp, trong trường hợp thay đổi thông tin trong giấy phép
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cơ quan quản lý nhà nước về thủy sản cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép khai thác thuỷ sản theo Mẫu số 22 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|26/2019/NĐ-CP|Nghị định 26/2019/NĐ-CP|08-03-2019|Chính phủ|
+|94/2021/TT-BTC|Thông tư 94/2021/TT-BTC|02-11-2021||
+|105/2022/NĐ-CP|Nghị định số 105/2022/NĐ-CP ngày 22 tháng 12 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn;|22-12-2022|Chính phủ|
+|Nghị định số 37/2024/NĐ-CP|Nghị định số 37/2024/NĐ-CP ngày 04/4/2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2019/NĐ-CP ngày 08/3/2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thủy sản.|04-04-2024|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức, cá nhân khai thác thủy sản bằng tàu cá có chiều dài lớn nhất từ 06 mét trở lên được cấp Giấy phép khai thác thủy sản khi đáp ứng các điều kiện sau đây:
+a) Trong hạn ngạch Giấy phép khai thác thủy sản, đối với khai thác thủy sản trên biển;
+b) Có nghề khai thác thủy sản không thuộc Danh mục nghề cấm khai thác;
+c) Có Giấy chứng nhận an toàn kỹ thuật tàu cá, đối với tàu cá phải đăng kiểm;
+d) Tàu cá có trang thiết bị thông tin liên lạc theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn;
+đ) Có thiết bị giám sát hành trình đối với tàu cá có chiều dài lớn nhất từ 15 mét trở lên theo quy định của Chính phủ (khoản 20 Điều 1 Nghị định số 37/2024/NĐ-CP sửa đổi, bổ sung Điều 44 Nghị định số 26/2019/NĐ-CP;
+e) Có Giấy chứng nhận đăng ký tàu cá;
+g) Thuyền trưởng, máy trưởng phải có văn bằng, chứng chỉ theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn;
+h) Trường hợp cấp lại do giấy phép hết hạn phải đáp ứng điều kiện quy định tại các điểm b, c, d, đ, e và g khoản này, đã nộp nhật ký khai thác theo quy định và tàu cá không thuộc danh sách tàu cá khai thác thủy sản bất hợp pháp do Bộ Nông nghiệp và Phát triển nông thôn công bố.
+Tổ chức, cá nhân khai thác thủy sản bằng tàu cá có chiều dài lớn nhất từ 06 mét trở lên được cấp Giấy phép khai thác thủy sản khi đáp ứng các điều kiện sau đây:
+a) Trong hạn ngạch Giấy phép khai thác thủy sản, đối với khai thác thủy sản trên biển;
+b) Có nghề khai thác thủy sản không thuộc Danh mục nghề cấm khai thác;
+c) Có Giấy chứng nhận an toàn kỹ thuật tàu cá, đối với tàu cá phải đăng kiểm;
+d) Tàu cá có trang thiết bị thông tin liên lạc theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn;
+đ) Có thiết bị giám sát hành trình đối với tàu cá có chiều dài lớn nhất từ 15 mét trở lên theo quy định của Chính phủ (khoản 20 Điều 1 Nghị định số 37/2024/NĐ-CP sửa đổi, bổ sung Điều 44 Nghị định số 26/2019/NĐ-CP;
+e) Có Giấy chứng nhận đăng ký tàu cá;
+g) Thuyền trưởng, máy trưởng phải có văn bằng, chứng chỉ theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn;
+h) Trường hợp cấp lại do giấy phép hết hạn phải đáp ứng điều kiện quy định tại các điểm b, c, d, đ, e và g khoản này, đã nộp nhật ký khai thác theo quy định và tàu cá không thuộc danh sách tàu cá khai thác thủy sản bất hợp pháp do Bộ Nông nghiệp và Phát triển nông thôn công bố.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu các dự án có tổng mức đầu tư dưới 15 tỷ đồng thuộc dự án đầu tư xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Thẩm định Kế hoạch lựa chọn nhà thầu: 05 ngày làm việc - Phê duyệt kế hoạch lựa chọn nhà thầu: 05 ngày làm việc|
+|Trực tuyến|10 Ngày làm việc||- Thẩm định Kế hoạch lựa chọn nhà thầu: 05 ngày làm việc - Phê duyệt kế hoạch lựa chọn nhà thầu: 05 ngày làm việc|

@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục xác định có quốc tịch Việt Nam và cấp hộ chiếu Việt Nam
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Cơ quan có thẩm quyền:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cấp hộ chiếu Việt Nam hoặc thông báo cho họ đến Cơ quan đại diện để làm thủ tục cấp hộ chiếu Việt Nam trong trường hợp yêu cầu cấp hộ chiếu Việt NamĐối với trường hợp chỉ yêu cầu xác định có quốc tịch Việt Nam mà không yêu cầu cấp hộ chiếu Việt Nam, sau khi ghi vào Sổ đăng ký là người đó có quốc tịch Việt Nam, cơ quan đại diện cấp cho họ bản trích lục xác nhận về việc người đó đã được xác định có quốc tịch Việt Nam, trong đó ghi rõ mục đích và thời hạn sử dụng bản trích lục, trường hợp yêu cầu cấp hộ chiếu Việt Nam, cơ quan đại diện làm thủ tục cấp hộ chiếu Việt Nam cho họ hoặc thông báo cho họ đến Cơ quan đại diện để làm thủ tục cấp hộ chiếu Việt Nam, nếu nhận hồ sơ qua đường bưu điện
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|33/2009/QH12|Luật 33/2009/QH12|18-06-2009|Quốc Hội|
+|264/2016/TT-BTC|Thông tư 264/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|56/2014/QH13|Luật 56/2014/QH13|24-06-2014|Quốc Hội|
+|7/2014/NĐ-CP|Nghị định 97/2014/NĐ-CP|17-10-2014|Chính phủ|

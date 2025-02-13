@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Chứng chỉ hành nghề thú y (trong trường hợp bị mất, sai sót, hư hỏng; có thay đổi thông tin liên quan đến cá nhân đã được cấp Chứng chỉ hành nghề thú y)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký cấp lại chứng chỉ hành nghề
+- 01 Bản chính Chứng chỉ hành nghề thú y đã được cấp, trừ trường hợp bị mất
+- 02 Bản chính 02 ảnh 4x6

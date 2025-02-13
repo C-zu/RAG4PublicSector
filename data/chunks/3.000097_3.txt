@@ -1,0 +1,12 @@
+Tên thủ tục: Thay đổi mục đích sử dụng điện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Mức giá : Miễn phí|Nếu thay đổi mục đích sử dụng điện từ ngoài sinh hoạt sang sinh hoạt|
+|Trực tiếp|3 Ngày làm việc|Mức giá : Miễn phí|Nếu thay đổi mục đích sử dụng điện từ sinh hoạt sang ngoài sinh hoạt hoặc Chuyển sử dụng điện ngoài sinh hoạt phải thay đổi giá bán điện|
+|Trực tuyến|1 Ngày làm việc|Mức giá : Miễn phí|Nếu thay đổi mục đích sử dụng điện từ ngoài sinh hoạt sang sinh hoạt|
+|Trực tuyến|3 Ngày làm việc|Mức giá : Miễn phí|Nếu thay đổi mục đích sử dụng điện từ sinh hoạt sang ngoài sinh hoạt hoặc Chuyển sử dụng điện ngoài sinh hoạt phải thay đổi giá bán điện|
+|Dịch vụ bưu chính|1 Ngày làm việc|Mức giá : Miễn phí|Nếu thay đổi mục đích sử dụng điện từ ngoài sinh hoạt sang sinh hoạt|
+|Dịch vụ bưu chính|3 Ngày làm việc|Mức giá : Miễn phí|Nếu thay đổi mục đích sử dụng điện từ sinh hoạt sang ngoài sinh hoạt hoặc Chuyển sử dụng điện ngoài sinh hoạt phải thay đổi giá bán điện|

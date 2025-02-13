@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp lại chứng chỉ kiểm định viên kỹ thuật an toàn lao động khi hết thời hạn quy định trong chứng chỉ kiểm định viên
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày làm việc||Cơ quan, đơn vị kiểm định kỹ thuật an toàn lao động nộp hồ sơ theo quy định cho Cơ quan An toàn, bảo hộ lao động quân đội.|

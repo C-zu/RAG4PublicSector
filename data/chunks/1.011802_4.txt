@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ kinh phí mua bộ thiết bị giám sát hành trình thay thế thiết bị Movimar
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị hỗ trợ kinh phí mua bộ thiết bị giám sát hành trình thay thế thiết bị Movimar (theo mẫu số 02 ban hành kèm theo Nghị quyết số 01/2023/NQ-HĐND ngày 07/7/2023 của HĐND tỉnh Nghệ An). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb28251afd44ca0'">Đơn đề nghị hỗ trợ Kinh phí mua bộ thiết bị giám sát hành trình thay thế thiết bị Movimar.docx</a>)
+- 01 Bản chính, 01 Bản sao Phiếu khai báo thông tin lắp đặt thiết bị giám sát hành trình tàu cá ((mẫu số 01.KT, Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ).
+- 01 Bản chính, 01 Bản sao Biên bản giao nhận lại thiết bị Movimar (phụ lục II ban hành kèm theo Quyết định 4371/QĐ-BNN-TCTS ngày 14/10/2014 của Bộ Nông nghiệp và Phát triển nông thôn)

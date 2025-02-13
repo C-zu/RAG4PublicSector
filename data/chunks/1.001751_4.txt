@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy phép xe tập lái
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Danh sách xe đề nghị cấp Giấy phép xe tập lái theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe67e72afe628a7'">Mau.doc</a>)
+- 01 Bản sao Giấy đăng ký xe (bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực)

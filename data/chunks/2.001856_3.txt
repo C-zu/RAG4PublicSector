@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố, công bố lại chất lượng dịch vụ viễn thông đối với các dịch vụ thuộc “Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng"
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Nộp trực tiếp tại Cục Viễn thông: Địa chỉ Cục Viễn thông: Số 68 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, Hà Nội|
+|Trực tuyến|03 Ngày làm việc||Ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Nộp trực tuyến qua Cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công của Cục Viễn thông (http://dichvucong.vnta.gov.vn).|
+|Dịch vụ bưu chính|03 Ngày làm việc||Ba (03) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Nộp qua hệ thống bưu chính;|

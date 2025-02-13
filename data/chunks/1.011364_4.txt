@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục công nhận gương điển hình tiên tiến cấp thành phố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình của các cơ quan, đơn vị, địa phương thuộc thành phố (theo mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe66cc3bdd89195'">Mẫu số 10.docx</a>)
+- 01 Bản chính Bản tóm tắt thành tích của tập thể, cá nhân được đề nghị khen thưởng (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febb729615fa019'">Mẫu số 21.docx</a>)
+- 01 Bản chính Biên bản họp Hội đồng Thi đua - Khen thưởng cấp đề nghị

@@ -1,0 +1,46 @@
+Tên thủ tục: Cấp Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+a) Điều 68 Luật Thủy sản:
+“- Được thành lập theo quy định của pháp luật;
+- Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu;
+- Có đội ngũ đăng kiểm viên đáp ứng yêu cầu;
+- Có hệ thống quản lý chất lượng phù hợp”.
+b) Điều 56 Nghị định số 26/2019/NĐ-CP:
+“1. Đối với cơ sở đăng kiểm tàu cá loại I:
+a) Được cơ quan có thẩm quyền quyết định thành lập (đối với trường hợp là cơ sở đăng kiểm công lập) hoặc được thành lập theo quy định của Luật doanh nghiệp, Luật hợp tác xã; cơ sở đăng kiểm tàu cá phải độc lập về pháp lý, độc lập về tài chính với tổ chức, cá nhân kinh doanh tàu cá, đóng mới, cải hoán tàu cá, thiết kế tàu cá;
+b) Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu: Có thiết bị nhập và lưu trữ dữ liệu; có thiết bị được kết nối mạng và truyền dữ liệu với các cơ quan liên quan về hoạt động đăng kiểm tàu cá của cơ sở; có dụng cụ, trang thiết bị phục vụ kiểm tra kỹ thuật theo Phụ lục VII ban hành kèm theo Nghị định này;
+c) Có đăng kiểm viên trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 01 đăng kiểm viên hạng I và 02 đăng kiểm viên hạng II;
+d) Thiết lập và duy trì áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001 hoặc tương đương.
+2. Đối với cơ sở đăng kiểm tàu cá loại II:
+a) Đáp ứng điều kiện quy định tại điểm a, b, d khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 02 đăng kiểm viên hạng II.
+3. Đối với cơ sở đăng kiểm tàu cá loại III:
+a) Đáp ứng điều kiện quy định tại điểm a, b khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ cao đẳng trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, khai thác thủy sản; trong đó, tối thiểu 01 đăng kiểm viên hạng II;
+c) Có quy trình kiểm tra, giám sát kỹ thuật tàu cá phù hợp với quy định tại quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+4. Các cơ sở đăng kiểm tàu cá loại I và loại II được phép thành lập các chi nhánh trực thuộc gần với nơi neo đậu tàu cá hoặc gần các cơ sở đóng mới, sửa chữa tàu cá, mỗi chi nhánh phải đáp ứng các điều kiện quy định tại điểm b khoản 1 Điều này và bảo đảm đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành liên quan: vỏ tàu thủy, máy tàu thủy, điện, cơ khí tàu thuyền hoặc khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, tối thiểu 02 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại I và 01 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại II.”.
+a) Điều 68 Luật Thủy sản:
+“- Được thành lập theo quy định của pháp luật;
+- Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu;
+- Có đội ngũ đăng kiểm viên đáp ứng yêu cầu;
+- Có hệ thống quản lý chất lượng phù hợp”.
+b) Điều 56 Nghị định số 26/2019/NĐ-CP:
+“1. Đối với cơ sở đăng kiểm tàu cá loại I:
+a) Được cơ quan có thẩm quyền quyết định thành lập (đối với trường hợp là cơ sở đăng kiểm công lập) hoặc được thành lập theo quy định của Luật doanh nghiệp, Luật hợp tác xã; cơ sở đăng kiểm tàu cá phải độc lập về pháp lý, độc lập về tài chính với tổ chức, cá nhân kinh doanh tàu cá, đóng mới, cải hoán tàu cá, thiết kế tàu cá;
+b) Có cơ sở vật chất, trang thiết bị kỹ thuật đáp ứng yêu cầu: Có thiết bị nhập và lưu trữ dữ liệu; có thiết bị được kết nối mạng và truyền dữ liệu với các cơ quan liên quan về hoạt động đăng kiểm tàu cá của cơ sở; có dụng cụ, trang thiết bị phục vụ kiểm tra kỹ thuật theo Phụ lục VII ban hành kèm theo Nghị định này;
+c) Có đăng kiểm viên trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 01 đăng kiểm viên hạng I và 02 đăng kiểm viên hạng II;
+d) Thiết lập và duy trì áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn ISO 9001 hoặc tương đương.
+2. Đối với cơ sở đăng kiểm tàu cá loại II:
+a) Đáp ứng điều kiện quy định tại điểm a, b, d khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, điện, khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, có ít nhất 02 đăng kiểm viên hạng II.
+3. Đối với cơ sở đăng kiểm tàu cá loại III:
+a) Đáp ứng điều kiện quy định tại điểm a, b khoản 1 Điều này;
+b) Đăng kiểm viên có trình độ cao đẳng trở lên thuộc các chuyên ngành kỹ thuật liên quan: vỏ tàu thủy, máy tàu thủy, khai thác thủy sản; trong đó, tối thiểu 01 đăng kiểm viên hạng II;
+c) Có quy trình kiểm tra, giám sát kỹ thuật tàu cá phù hợp với quy định tại quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+4. Các cơ sở đăng kiểm tàu cá loại I và loại II được phép thành lập các chi nhánh trực thuộc gần với nơi neo đậu tàu cá hoặc gần các cơ sở đóng mới, sửa chữa tàu cá, mỗi chi nhánh phải đáp ứng các điều kiện quy định tại điểm b khoản 1 Điều này và bảo đảm đăng kiểm viên có trình độ đại học trở lên thuộc các chuyên ngành liên quan: vỏ tàu thủy, máy tàu thủy, điện, cơ khí tàu thuyền hoặc khai thác thủy sản, nhiệt lạnh hoặc chế biến thủy sản; trong đó, tối thiểu 02 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại I và 01 đăng kiểm viên hạng II trở lên đối với chi nhánh của cơ sở đăng kiểm tàu cá loại II.”.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện sản xuất thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản (đối với nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp Giấy chứng nhận cơ sở đủ điều kiện sản xuất theo Mẫu số 06 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP (đối với trường hợp cấp mới và trường hợp cấp lại); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6d20e328a6bf4'">Mẫu số 6-PL1.docx</a>)
+- 01 Bản chính b) Bản thuyết minh điều kiện cơ sở sản xuất theo Mẫu số 07 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP (đối với trường hợp cấp mới). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee0383daae006a'">Mẫu số 7-PL1.docx</a>)
+- 01 Bản sao c) Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin có liên quan đến tổ chức, cá nhân trong Giấy chứng nhận (đối với trường hợp cấp lại).
+- 01 Bản chính d) Bản chính Giấy chứng nhận cơ sở đủ điều kiện sản xuất thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản đã được cấp, trừ trường hợp Giấy chứng nhận bị mất (đối với trường hợp cấp lại).

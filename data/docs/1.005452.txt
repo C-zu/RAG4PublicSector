@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005452
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Sửa đổi, bổ sung giấy phép thiết lập trang thông tin điện tử tổng hợp (địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+1. Tổ chức, doanh nghiệp có giấy phép thiết lập trang thông tin điện tử tổng hợp phải làm thủ tục sửa đổi, bổ sung giấy phép trong những trường hợp sau:
+-   Thay đổi tên của tổ chức, doanh nghiệp;
+-   Thay đổi địa điểm đặt máy chủ tại Việt Nam;
+-   Thay đổi nhân sự chịu trách nhiệm;
+-   Thay đổi, bổ sung nội dung thông tin, phạm vi cung cấp cung cấp thông tin (tên miền khi cung cấp trên trang thông tin điện tử, hệ thống phân phối ứng dụng khi cấp cho các thiết bị di động)
+2. Tổ chức, doanh nghiệp gửi hồ sơ đề nghị đến cơ quan cấp giấy phép.
+Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Sở Thông tin và Truyền thông thẩm định, cấp sửa đổi, bổ sung giấy phép đã cấp. Trường hợp từ chối có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Số lượng 01 bộ hồ sơ
+- 01 Bản chính Văn bản đề nghị (nêu rõ nội dung, lý do cần sửa đổi, bổ sung);
+- 01 Bản sao Các tài liệu chứng minh có liên quan
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép thiết lập trang thông tin điện tử tổng hợp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Nghị định số 72/2013/NĐ-CP|Nghị định số 72/2013/NĐ-CP|15-07-2013||
+|Nghị định số 27/2018/NĐ-CP|Nghị định số 27/2018/NĐ-CP|01-03-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

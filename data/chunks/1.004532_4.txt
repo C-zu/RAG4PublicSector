@@ -1,0 +1,7 @@
+Tên thủ tục: Cho phép hủy thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc thuộc thẩm quyền Sở Y tế (Áp dụng với cơ sở có sử dụng, kinh doanh thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc trừ cơ sở sản xuất, xuất khẩu, nhập khẩu)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị hủy thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, trong đó ghi rõ: - Tên thuốc, nguyên liệu làm thuốc - Nồng độ, hàm lượng. - Số lượng - Lý do xin hủy - Phương pháp hủy.

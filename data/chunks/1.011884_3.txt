@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần cấp lại Giấy phép sử dụng băng tần
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Lệ phí : Đồng Theo quy định của Bộ Tài chính|30 ngày trước ngày giấy phép sử dụng băng tần đã cấp hết hiệu lực, tổ chức nộp hồ sơ hợp lệ và đã nộp đủ các khoản tiền quy định được cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông. Nộp trực tiếp tại Cục Viễn thông; (Địa chỉ: Tòa nhà Cục Viễn thông, đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội).|
+|Dịch vụ bưu chính|30 Ngày|Lệ phí : Đồng Theo quy định của Bộ Tài chính|30 ngày trước ngày giấy phép sử dụng băng tần đã cấp hết hiệu lực, tổ chức nộp hồ sơ hợp lệ và đã nộp đủ các khoản tiền quy định được cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông. Nộp qua hệ thống bưu chính. (Địa chỉ: Tòa nhà Cục Viễn thông, đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội).|

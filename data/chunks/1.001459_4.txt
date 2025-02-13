@@ -1,0 +1,15 @@
+Tên thủ tục: Hủy đăng ký hoặc thôi không tham gia dự án JCM (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với yêu cầu hủy dự án:
+- 01 Bản chính Đơn xin hủy đăng ký dự án bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe413bc42be7a4b'">Mẫu 23.docx</a>)
+- 01 Bản chính Đơn xin hủy đăng ký dự án bằng tiếng anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0e023879fafec'">Mẫu 24.docx</a>)
+
+
+Đối với yêu cầu thôi không tham gia dự án:
+- 01 Bản chính Đơn thôi không tham gia dự án bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb78b7d6e7f0b98'">Mẫu 19.docx</a>)
+- 01 Bản chính Đơn thôi không tham gia dự án bằng tiếng Anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdad4bde0043a1e'">Mẫu 20.docx</a>)
+- 01 Bản chính Đơn đề nghị thay đổi nội dung MoC bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7c6d297901ddd'">Mẫu 21.docx</a>)
+- 01 Bản chính Đơn đề nghị thay đổi nội dung MoC bằng tiếng Anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe064351b1830cb'">Mẫu 22.docx</a>)

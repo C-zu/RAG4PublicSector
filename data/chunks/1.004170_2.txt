@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đăng ký xe, biển số xe (thực hiện tại cấp huyện)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01A/58) và nhận mã số thứ tự, lịch hẹn giải quyết hồ sơ qua địa chỉ thư điện tử hoặc qua tin nhắn điện thoại để làm thủ tục đăng ký xe tại cơ quan đăng ký xe.
+Nộp hồ sơ đề nghị cấp lại giấy chứng nhận đăng ký xe, biển số xe tại bộ phận tiếp nhận và trả kết quả Công an cấp huyện.
+Cán bộ tiếp nhận kiểm tra tiếp nhận và nhập mã hồ sơ đăng ký trực tuyến của chủ xe trên hệ thống đăng ký, quản lý xe để kiểm tra thông tin khai báo đăng ký trực tuyến của chủ xe; in Giấy khai đăng ký xe điện tử trên hệ thống; giấy tờ của chủ xe, giấy chứng nhận đăng ký xe hoặc biển số xe (đối với trường hợp đổi giấy chứng nhận đăng ký xe, biển số xe). 
+Bước 3: Trường hợp mất giấy chứng nhận đăng ký xe, biển số xe: Lập 02 bản thông báo ghi rõ họ tên, địa chỉ chủ xe, biển số xe, số máy, số khung, nhãn hiệu, số loại, loại xe (01 bản niêm yết công khai tại trụ sở, 01 bản lưu trong hồ sơ xe).
+Bước 4: Tìm kiếm xe trên hệ thống đăng ký, quản lý, kiểm tra đối chiếu kê khai của chủ xe. Hồ sơ đăng ký xe đầy đủ theo quy định: Cấp giấy hẹn cho chủ xe theo quy định. 
+Bước 5: Thu lệ phí cấp đăng ký, biển số xe theo quy định. 
+Bước 6: Thu giấy hẹn, trả giấy chứng nhận đăng ký xe, biển số xe cho chủ xe.

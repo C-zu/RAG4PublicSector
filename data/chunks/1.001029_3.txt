@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Đồng - Tại các thành phố trực thuộc trung ương và tại các thành phố, thị xã trực thuộc tỉnh: + Từ 01 đến 03 phòng: 4.000.000 đồng/giấy. + Từ 04 đến 05 phòng: 6.000.000 đồng/giấy. + Từ 06 phòng trở lên: 12.000.000 đồng/giấy.  Phí : Đồng - Tại khu vực khác + Từ 01 đến 03 phòng: 2.000.000 đồng/giấy. + Từ 04 đến 05 phòng: 3.000.000 đồng/giấy. + Từ 06 phòng trở lên: 6.000.000 đồng/giấy.|05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|05 Ngày làm việc|Phí : Đồng - Tại các thành phố trực thuộc trung ương và tại các thành phố, thị xã trực thuộc tỉnh: + Từ 01 đến 03 phòng: 4.000.000 đồng/giấy. + Từ 04 đến 05 phòng: 6.000.000 đồng/giấy. + Từ 06 phòng trở lên: 12.000.000 đồng/giấy.  Phí : Đồng - Tại khu vực khác + Từ 01 đến 03 phòng: 2.000.000 đồng/giấy. + Từ 04 đến 05 phòng: 3.000.000 đồng/giấy. + Từ 06 phòng trở lên: 6.000.000 đồng/giấy.|05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Đồng - Tại các thành phố trực thuộc trung ương và tại các thành phố, thị xã trực thuộc tỉnh: + Từ 01 đến 03 phòng: 4.000.000 đồng/giấy. + Từ 04 đến 05 phòng: 6.000.000 đồng/giấy. + Từ 06 phòng trở lên: 12.000.000 đồng/giấy.  Phí : Đồng - Tại khu vực khác + Từ 01 đến 03 phòng: 2.000.000 đồng/giấy. + Từ 04 đến 05 phòng: 3.000.000 đồng/giấy. + Từ 06 phòng trở lên: 6.000.000 đồng/giấy.|05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|

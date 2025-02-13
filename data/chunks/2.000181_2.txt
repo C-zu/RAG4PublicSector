@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy phép bán lẻ sản phẩm thuốc lá
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Thương nhân bán lẻ sản phẩm thuốc lá gửi 01 bộ hồ sơ về Phòng Công Thương.
++ Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Phòng Công Thương xem xét và cấp giấy phép bán lẻ sản phẩm thuốc lá. Trường hợp thương nhân không đáp ứng được điều kiện theo quy định, Phòng Công Thương sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do
++ Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 07 ngày làm việc kể từ ngày tiếp nhận hồ sơ của thương nhân, Phòng Công Thương có văn bản yêu cầu thương nhân bổ sung hồ sơ

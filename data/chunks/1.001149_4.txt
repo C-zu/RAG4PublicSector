@@ -1,0 +1,7 @@
+Tên thủ tục: Khai thác, sử dụng thông tin, dữ liệu khí tượng thủy văn (cấp TW)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu hoặc văn bản yêu cầu (Phụ lục 4 kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd46204b07960e4'">Mẫu số 04.docx</a>)

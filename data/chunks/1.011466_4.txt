@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ phát triển sản xuất liên kết theo chuỗi giá trị đối với các dự án, kế hoạch liên kết trên phạm vi một huyện, thị xã, thành phố (liên kết cấp huyện) thuộc các Chương trình mục tiêu quốc gia trên địa bàn tỉnh Thanh Hóa.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị của chủ trì liên kết (theo Mẫu số 01 ban hành kèm theo Nghị định số 98/2018/NĐ-CP ngày 05/7/2018 của Chính phủ) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7a690f0021125'">Mẫu số 01.docx</a>)
+- 01 Bản chính - Dự án liên kết (theo Mẫu số 02 ban hành kèm theo Nghị định số 98/2018/NĐ-CP ngày 05/7/2018 của Chính phủ) hoặc kế hoạch đề nghị hỗ trợ liên kết (theo Mẫu số 03 ban hành kèm theo Nghị định số 98/2018/NĐ-CP ngày 05/7/2018 của Chính phủ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2f304b11a71c9'">Mẫu số 03.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd9da16db60d04'">Mẫu số 02.docx</a>)
+- 01 Bản chính - Bản thỏa thuận cử đơn vị chủ trì liên kết (theo Mẫu số 04 ban hành kèm theo Nghị định số 98/2018/NĐ-CP ngày 05/7/2018 của Chính phủ) đối với trường hợp các doanh nghiệp, hợp tác xã ký hợp đồng liên kết với nhau; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd21f6f38d79952'">Mẫu số 04.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao chụp các chứng nhận hoặc Bản cam kết về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường; hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường (theo Mẫu số 05 ban hành kèm theo Nghị định số 98/2018/NĐ-CP ngày 05/7/2018 của Chính phủ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc20f6f08a4ecbc'">Mẫu số 05.docx</a>)
+- 01 Bản sao - Bản sao chụp hợp đồng liên kết.

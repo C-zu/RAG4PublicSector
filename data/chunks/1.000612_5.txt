@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục cấp thị thực cho người nước ngoài tại các cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Người nước ngoài, Doanh nghiệp
+Cơ quan thực hiện:
+Cơ quan đại diện ngoại giao, Cơ quan lãnh sự
+Cơ quan có thẩm quyền:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thị thực nhập cảnh Việt Nam, Thị thực nhập cảnh Việt Nam cho người nước ngoài (cấp tại các cơ quan đại diện Việt Nam ở nước ngoài)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|47/2014/QH13|Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam|16-06-2014|Quốc Hội|
+|04/2015/TT-BCA|Quy định mẫu giấy tờ liên quan đến việc nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam|05-01-2015|Bộ Công an|
+|04/2016/TT-BNG|Hướng dẫn thủ tục cấp thị thực, cấp thẻ tạm trú, gia hạn tạm trú cho người nước ngoài tại Việt Nam thuộc thẩm quyền của Bộ Ngoại giao|30-06-2016|Bộ Ngoại giao|
+|264/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực ngoại giao áp dụng tại các Cơ quan đại diện Việt Nam ở nước ngoài|14-11-2016|Bộ Tài chính|

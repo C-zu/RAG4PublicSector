@@ -1,0 +1,8 @@
+Tên thủ tục: Ký hợp đồng khám, chữa bệnh bảo hiểm y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||- Cơ sở KCB nộp hồ sơ trực tiếp tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích. - Tổ chức ký hợp đồng KCB nếu đủ điều kiện. - Văn bản trả lời không đủ điều kiện ký hợp đồng của cơ quan BHXH gửi cơ sở KCB|
+|Dịch vụ bưu chính|30 Ngày||- Cơ sở KCB nộp hồ sơ trực tiếp tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích. -Tổ chức ký hợp đồng KCB nếu đủ điều kiện. - Văn bản trả lời không đủ điều kiện ký hợp đồng của cơ quan BHXH gửi cơ sở KCB|

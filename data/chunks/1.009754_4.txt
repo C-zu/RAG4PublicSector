@@ -1,0 +1,10 @@
+Tên thủ tục: Hỗ trợ người sử dụng lao động vay vốn để trả lương ngừng việc đối với người lao động phải ngừng việc do đại dịch COVID-19
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị xác nhận đối tượng được hưởng chính sách vay vốn để trả lương ngừng việc (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee1dadee7ee5fc'">Mẫu Xác nhận đối tượng được hưởng CS vay vốn.docx</a>)
+- 01 Bản sao Một trong các giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đăng ký Hợp tác xã/hộ kinh doanh; Quyết định thành lập của cơ quan nhà nước có thẩm quyền (nếu có); Giấy phép kinh doanh/Giấy phép hoạt động/Chứng chỉ hành nghề (đối với ngành nghề kinh doanh có điều kiện hoặc pháp luật có quy định); Giấy phép đầu tư/Giấy chứng nhận đầu tư (đối với doanh nghiệp được thành lập bởi nhà đầu tư nướcngoài).
+- 01 Bản chính Báo cáo tài chính năm 2019, quý I năm 2020 (đối với doanh nghiệp và tổ chức).
+- 01 Bản chính Danh sách người lao động phải ngừng việc do người sử dụng lao động lập (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd003bd639fa62e'">Mẫu DS lao động bị ngừng việc do đại dịch Covid19.docx</a>)

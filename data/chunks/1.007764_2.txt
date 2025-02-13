@@ -1,0 +1,13 @@
+Tên thủ tục: Cho thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+-- Người có nhu cầu thuê, thuê mua nhà ở xã hội thuộc sở hữu nhà nước nộp 02 bộ hồ sơ tại đơn vị được giao quản lý vận hành nhà ở hoặc tại Sở Xây dựng nơi có nhà ở.
+
+-- Cơ quan tiếp nhận hồ sơ có trách nhiệm kiểm tra và phân loại hồ sơ; nếu hồ sơ không có đủ các giấy tờ theo quy định thì phải trả lời ngay để người nộp đơn bổ sung giấy tờ. Trường hợp đơn vị quản lý vận hành nhà ở tiếp nhận hồ sơ thì sau khi kiểm tra và phân loại hồ sơ, đơn vị này phải có báo cáo danh sách người đủ điều kiện thuê, thuê mua nhà ở kèm theo hồ sơ hợp lệ gửi Sở Xây dựng xem xét, kiểm tra.
+
+-- Trên cơ sở danh sách người đủ điều kiện thuê, thuê mua nhà ở kèm theo hồ sơ hợp lệ, Sở Xây dựng trực tiếp xét duyệt hoặc thành lập Hội đồng xét duyệt hồ sơ để thực hiện xét duyệt từng hồ sơ đăng ký, xác định đối tượng đủ điều kiện hoặc chấm điểm xét chọn đối tượng ưu tiên (nếu có).
+
+-- Trường hợp đủ điều kiện hoặc được ưu tiên xét duyệt thuê, thuê mua nhà ở thì Sở Xây dựng có tờ trình kèm theo danh sách và biên bản xét duyệt hoặc biên bản chấm điểm báo cáo UBND cấp tỉnh quyết định; trường hợp không đủ điều kiện hoặc chưa được xét duyệt thì Sở Xây dựng có văn bản thông báo cho đơn vị quản lý vận hành nhà ở để trả lời cho người nộp đơn biết.
+
+-- Trên cơ sở báo cáo của Sở Xây dựng, UBND cấp tỉnh xem xét, ban hành quyết định phê duyệt danh sách người được thuê, thuê mua nhà ở và gửi quyết định này cho Sở Xây dựng để ký hợp đồng thuê mua với người được thuê mua hoặc gửi cho đơn vị quản lý vận hành nhà ở để ký hợp đồng thuê nhà với người được thuê nhà ở.

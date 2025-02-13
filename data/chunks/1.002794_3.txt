@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đăng ký cấp bổ sung thẻ chuyên gia tư vấn, thẻ chuyên gia đánh giá cho tổ chức tư vấn, tổ chức chứng nhận
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Thời hạn 05 (năm) ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và hợp lệ, trừ trường hợp sau: Trường hợp cần thiết phải đánh giá thực tế, trong thời hạn 30 ngày làm việc.|

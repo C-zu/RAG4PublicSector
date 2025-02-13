@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt chương trình huấn luyện sơ cấp cứu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị phê duyệt chương trình huấn luyện;
+- 01 Bản chính Chương trình huấn luyện;
+- 01 Bản chính Các văn bản, tài liệu liên quan (nếu có).

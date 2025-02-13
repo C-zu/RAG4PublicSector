@@ -1,0 +1,12 @@
+Tên thủ tục: Trả lại giấy phép tài nguyên nước (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ:
+Chủ giấy phép nộp 01 bộ hồ sơ trực tiếp hoặc qua đường bưu điện hoặc bản điện tử qua hệ thống dịch vụ công trực tuyến đến Sở Tài nguyên và Môi trường; trường hợp địa phương đã tổ chức Bộ phận một cửa hoặc Trung tâm Phục vụ hành chính công thì thực hiện việc tiếp nhận hồ sơ và trả kết quả qua Bộ phận một cửa hoặc Trung tâm Phục vụ hành chính công theo quyết định của Ủy ban nhân dân cấp tỉnh (sau đây gọi tắt là Bộ phận Một cửa).
+- Bước 2. Kiểm tra hồ sơ:
+Bộ phận Một cửa có trách nhiệm kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ, tiếp nhận hồ sơ; hướng dẫn bổ sung hồ sơ nếu chưa hợp lệ, chưa đầy đủ; chuyển hồ sơ cho Sở Tài nguyên và Môi trường thẩm định.
+- Bước 3: Thẩm định hồ sơ và quyết định chấp thuận trả lại giấy phép:
+Kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm thẩm định hồ sơ, trình Ủy ban nhân dân cấp tỉnh hoặc quyết định theo thẩm quyền ký Quyết định chấp thuận đề nghị trả lại giấy phép tài nguyên nước.
+- Bước 4. Trả kết quả hồ sơ:
+Bộ phận Một cửa thông báo cho Chủ giấy phép đến Bộ phận Một cửa nhận quyết định.

@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012353
+Số quyết định:
+156/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+- Nhà đầu tư lập 01 bộ hồ sơ đề nghị xác định công nghệ, gửi trực tiếp hoặc gửi qua đường bưu chính đến Trung tâm phục vụ hành chính công cấp tỉnh hoặc gửi trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh. 
+- Đối với hồ sơ chưa đầy đủ, chưa hợp lệ theo quy định, Trung tâm phục vụ hành chính công cấp tỉnh trả ngay lại hồ sơ cho nhà đầu tư và thông báo rõ về các văn bản cần sửa đổi, bổ sung để nhà đầu tư hoàn thiện hồ sơ trong trường hợp nhà đầu tư nộp hồ sơ trực tiếp. Trường hợp nhà đầu tư gửi hồ sơ trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh hoặc qua đường bưu chính, trong thời hạn 02 ngày làm việc kể từ ngày nhận hồ sơ, Sở Khoa học và Công nghệ có văn bản đề nghị nhà đầu tư sửa đổi, bổ sung, hoàn thiện hồ sơ.
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ,
+hợp lệ, Sở Khoa học và Công nghệ có văn bản gửi Sở Tài nguyên và Môi trường, cơ quan quản lý chuyên ngành cùng cấp liên quan để lấy ý kiến phối hợp. Trường hợp cần thiết, Sở Khoa học và Công nghệ lấy thêm ý kiến tổ chức, chuyên gia độc lập để tham vấn về chuyên môn, xác định công nghệ của dự án đầu tư.
+- Trong thời hạn 15 ngày làm việc, cơ quan được lấy ý kiến phối hợp, tổ
+chức, chuyên gia độc lập có ý kiến bằng văn bản gửi Sở Khoa học và Công nghệ.
+- Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, trong trường hợp cần thiết, trong thời hạn 20 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Sở Khoa học và Công nghệ quyết định thành lập Hội đồng tư vấn khoa học và công nghệ, tổ chức khảo sát thực tế để xác định công nghệ của dự án đầu tư.
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đủ ý kiến của
+cơ quan phối hợp, hội đồng tư vấn khoa học và công nghệ, tổ chức, chuyên gia
+độc lập, Sở Khoa học và Công nghệ có ý kiến xác định công nghệ của dự án bằng văn bản gửi nhà đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|23 Ngày làm việc||- Trong thời hạn 23 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định. - Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày.|
+|Trực tiếp|43 Ngày làm việc||Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày làm việc|
+|Trực tuyến|23 Ngày làm việc||- Trong thời hạn 23 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định. - Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày.|
+|Trực tuyến|43 Ngày làm việc||Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày làm việc|
+|Dịch vụ bưu chính|23 Ngày làm việc||- Trong thời hạn 23 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định. - Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày.|
+|Dịch vụ bưu chính|43 Ngày làm việc||Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, thời hạn giải quyết có thể kéo dài thêm 20 ngày làm việc|
+
+Thành phần hồ sơ:
+
+Văn bản đề nghị xác định công nghệ
+- 01 Bản chính Văn bản đề nghị xác định công nghệ ([1. VB de nghi xac dinh cong nghe_mau so 01.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5c93561b058ac'))
+- 01 Bản chính Thuyết minh hiện trạng công nghệ sử dụng trong dự án đầu tư ([2. Thuyet minh hien trang..._mau so 02.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde6bb89560df02'))
+- 01 Bản chính Chứng thư giám định máy móc, thiết bị, dây chuyền công nghệ sử dụng trong dự án đầu tư còn hiệu lực ([3. Chưng thu giam dinh_mau so 03.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe92be5d87a8aed'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Sở khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác định công nghệ dự án đầu tư
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|131/2021/NĐ-CP|Nghị định 131/2021/NĐ-CP|30-12-2021||
+|61/2020/QH14|Luật Đầu tư ngày 17 tháng 6 năm 2020|17-06-2020|Ủy ban thường vụ quốc hội|
+|29/2023/QĐ-TTg|Quyết định của Thủ tướng Chính phủ quy định hồ sơ, trình tự, thủ tục xác định dự án đầu tư sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên|19-12-2023|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Dự án đầu tư đăng ký hoạt động theo quy định của pháp luật về đầu tư;
+- Việc xem xét, xác định dự án đầu tư sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên thực hiện khi nhà đầu tư có nhu cầu gia hạn thời gian hoat động của dự án đầu tư.
+- Dự án đầu tư đăng ký hoạt động theo quy định của pháp luật về đầu tư;
+- Việc xem xét, xác định dự án đầu tư sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên thực hiện khi nhà đầu tư có nhu cầu gia hạn thời gian hoat động của dự án đầu tư.
+Từ khóa:
+xác định dự án đầu tư
+Mô tả:
+Không có thông tin

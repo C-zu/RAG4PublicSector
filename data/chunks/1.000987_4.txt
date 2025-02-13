@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp giấy phép hoạt động dự báo, cảnh báo đối với cá nhân:
+- 01 Bản chính (1) Đơn đề nghị cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn theo Mẫu số 02 Phụ lục kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd281ad95817aea'">Mẫu số 02.docx</a>)
+- 01 Bản chính, 01 Bản sao (2) 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu hoặc 01 bản sao điện tử có chứng thực từ bản chính: Văn bằng, chứng chỉ đào tạo chuyên ngành phù hợp với nội dung xin cấp phép hoạt động dự báo, cảnh báo;
+- 01 Bản chính (3) Bản khai cơ sở vật chất, kỹ thuật; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo khí tượng thủy văn; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo theo Mẫu số 06 Phụ lục kèm theo Nghị định số 48/2020/NĐ-CP ngày 15 tháng 4 năm 2020 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf39552c8aa7f0'">Mẫu số 06.docx</a>)
+- 01 Bản chính (4) Bản khai kinh nghiệm công tác, có xác nhận của cơ quan, tổ chức quản lý nhân sự nơi đã từng làm việc .
+
+
+Hồ sơ cấp giấy phép hoạt động dự báo, cảnh báo đối với tổ chức:
+- 01 Bản chính (1) Đơn đề nghị cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn theo Mẫu số 2 Phụ lục kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed9046ba907fb4'">Mẫu số 02.docx</a>)
+- 01 Bản chính, 01 Bản sao (2) 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử có chứng thực từ bản chính: Quyết định thành lập tổ chức (không áp dụng đối với các công ty, doanh nghiệp, tổ chức kinh doanh đã được cấp Giấy chứng nhận hoạt động kinh doanh trên Cơ sở dữ liệu quốc gia về đăng ký kinh doanh);
+- 01 Bản chính, 01 Bản sao (3) 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu hoặc 01 bản sao điện tử có chứng thực từ bản chính: Văn bằng, chứng chỉ và hợp đồng lao động của đội ngũ nhân viên;
+- 01 Bản chính (4) Bản khai cơ sở vật chất, kỹ thuật; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo khí tượng thủy văn; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo theo Mẫu số 06 Phụ lục kèm theo Nghị định số 48/2020/NĐ-CP ngày 15 tháng 4 năm 2020 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec9657862688d9'">Mẫu số 06.docx</a>)
+- 01 Bản chính (5) Bản khai kinh nghiệm công tác của nhân viên tham gia dự báo, cảnh báo, có xác nhận của cơ quan, tổ chức quản lý nhân sự nơi đã từng làm việc .

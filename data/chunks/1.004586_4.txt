@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, phân bổ địa chỉ IP
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Theo quy định tại Điều 23, Thông tư số 24/2015/TT-BTTTT ngày 18/8/2015, thành phần hồ sơ bao gồm:
+- 01 Bản chính, 01 Bản sao Bản khai đăng ký địa chỉ IP theo mẫu quy định tại Phụ lục 10 ban hành kèm theo Thông tư số 21/2021/TT-BTTTT ngày 08/12/2021 của Bộ trưởng Bộ Thông tin và Truyền thông (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf722ac9302fb0'">Mau-01-Ban Khai Dang ky Cap IP (hoac IP va ASN).docx</a>)
+- 01 Bản chính, 01 Bản sao Bản sao có chứng thực hoặc bản sao (kèm bản chính để đối chiếu) quyết định thành lập hoặc các loại Giấy chứng nhận hợp lệ khác được cấp trước ngày có hiệu lực của Luật Doanh nghiệp năm 2020 (trong trường hợp không có Mã số doanh nghiệp);
+- 01 Bản chính, 01 Bản sao Bản sao có chứng thực hoặc bản sao (kèm bản chính để đối chiếu) quyết định của cơ quan nhà nước có thẩm quyền hoặc văn bản tổ chức lại doanh nghiệp theo quy định của Luật Doanh nghiệp và các giấy tờ khác chứng minh sự thay đổi hợp lệ về quyền sử dụng địa chỉ IP (đối với trường hợp thay đổi tên chủ thể)

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp phép thi công nút giao đấu nối tạm có thời hạn vào đường tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp phép thi công công trình (bản chính) theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc669d1ed42102'">don.7.docx</a>)
+- 01 Bản sao + Văn bản chấp thuận chủ trương đầu tư hoặc Quyết định phê duyệt dự án đầu tư của cơ quan có thẩm quyền, các tài liệu liên quan khác (nếu có);
+- 01 Bản chính + Bản vẽ bình đồ đoạn tuyến có điểm đấu nối tạm và phương án tổ chức giao thông của nút giao.

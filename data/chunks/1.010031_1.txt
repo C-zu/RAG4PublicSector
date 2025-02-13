@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký doanh nghiệp, đăng ký hoạt động chi nhánh đối với các doanh nghiệp hoạt động theo Giấy phép thành lập và hoạt động kinh doanh chứng khoán
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010031
+Số quyết định:
+885/QĐ-BKHĐT
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký doanh nghiệp, đăng ký hoạt động chi nhánh đối với các doanh nghiệp hoạt động theo Giấy phép thành lập và hoạt động kinh doanh chứng khoán
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp

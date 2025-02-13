@@ -1,0 +1,11 @@
+Tên thủ tục: Sửa đổi, bổ sung nội dung quyết định công nhận và giao quyền quản lý cho tổ chức cộng đồng (thuộc địa bàn từ hai huyện trở lên)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị theo Mẫu số 07.BT Phụ lục I ban hành kèm theo Nghị định số 26/2019/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1bfc72b11779e'">Mẫu số 07.docx</a>)
+- 01 Bản chính Thông tin về tổ chức cộng đồng theo Mẫu số 04.BT Phụ lục I ban hành kèm theo Nghị định số 26/2019/NĐ-CP đối với trường hợp sửa đổi, bổ sung tên tổ chức và tên người đại diện của tổ chức cộng đồng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe812bd83ef53e1'">Mẫu số 04.docx</a>)
+- 01 Bản chính Báo cáo đánh giá kết quả thực hiện và dự thảo phương án bảo vệ và khai thác nguồn lợi thủy sản mới đối với trường hợp sửa đổi, bổ sung phương án bảo vệ và khai thác nguồn lợi thủy sản; vị trí, ranh giới khu vực địa lý được giao; phạm vi quyền được giao
+- 01 Bản chính Báo cáo đánh giá kết quả thực hiện và dự thảo quy chế mới đối với trường hợp sửa đổi, bổ sung Quy chế hoạt động của tổ chức cộng đồng
+- 01 Bản chính Bản chính biên bản họp của tổ chức cộng đồng về các nội dung đề nghị sửa đổi, bổ sung theo Mẫu số 05.BT Phụ lục I ban hành kèm theo Nghị định số 26/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0694bd183f2ba'">Mẫu số 05.docx</a>)

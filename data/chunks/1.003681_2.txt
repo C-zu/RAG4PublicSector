@@ -1,0 +1,12 @@
+Tên thủ tục: Xóa đăng ký tàu cá
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Tổ chức, cá nhân nộp 01 bộ hồ sơ đến Cơ quan quản lý nhà nước về thủy sản cấp tỉnh;
+b) Trường hợp nộp hồ sơ trực tiếp: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+c) Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh có văn bản thông báo rõ cho tổ chức, cá nhân bổ sung; 
+d) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh cấp Giấy chứng nhận xóa đăng ký tàu cá theo Mẫu số 11.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18/01/2022; bàn giao Giấy chứng nhận đăng ký tàu cá cũ đã cắt góc phía trên bên phải và hồ sơ đăng ký gốc của tàu cho chủ tàu. Trường hợp không cấp Giấy chứng nhận xóa đăng ký tàu cá, tàu công vụ thủy sản cơ quan có thẩm quyền trả lời bằng văn bản và nêu rõ lý do;
+đ) Cơ quan quản lý nhà nước về thủy sản cấp tỉnh trả kết quả trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có);
+e) Giấy chứng nhận xóa đăng ký tàu cá được cấp 01 bản chính cho chủ tàu;
+g) Đối với tàu cá bị phá hủy, phá dỡ hoặc chìm đắm không thể trục vớt được quy định tại điểm a khoản 1 Điều 72 Luật Thủy sản, chậm nhất 30 ngày kể từ ngày tàu cá bị phá hủy, phá dỡ hoặc chìm đắm, chủ tàu phải nộp lại bản chính Giấy chứng nhận đăng ký tàu cá cho cơ quan nơi tàu cá đăng ký (trừ trường hợp Giấy chứng nhận đăng ký tàu cá bị mất); Cơ quan đăng ký tàu cá xóa tên tàu cá trong sổ đăng ký tàu cá quốc gia;
+h) Đối với tàu cá mất tích được quy định tại điểm b khoản 1 Điều 72 Luật Thủy sản, cơ quan đăng ký tàu cá mất tích phải thông báo trên phương tiện thông tin đại chúng. Chậm nhất 30 ngày, sau thời hạn 01 năm kể từ ngày có thông báo, chủ tàu có tàu cá mất tích phải nộp lại bản chính Giấy chứng nhận đăng ký tàu cá cho cơ quan nơi tàu cá đăng ký (trừ trường hợp Giấy chứng nhận đăng ký tàu cá bị mất); Cơ quan đăng ký tàu cá xóa tên tàu cá trong sổ đăng ký tàu cá quốc gia.

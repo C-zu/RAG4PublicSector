@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000035
+Số quyết định:
+309/QĐ-BTC
+Tên thủ tục:
+Thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Tài chính ngân hàng
+Trình tự thực hiện:
+Đối với cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số
++ Các công ty xổ số đủ điều kiện, tiêu chuẩn gửi hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số tới Bộ Tài chính.
++ Trong vòng 15 ngày làm việc kể từ ngày Bộ Tài chính nhận được đủ hồ sơ hợp lệ theo quy định, Bộ Tài chính cấp giấy chứng nhận đủ điều kiện kinh doanh xổ số cho Công ty, trường hợp từ chối Bộ Tài chính có văn bản thông báo rõ lý do từ chối.
+Đối với cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
++ Công ty có đề nghị điều chỉnh hoặc cấp lại Giấy chứng nhận gửi hồ sơ đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số tới Bộ Tài chính.
++ Trong vòng 10 ngày làm việc kể từ ngày Bộ Tài chính nhận được đủ hồ sơ hợp lệ theo quy định, Bộ Tài chính cấp giấy chứng nhận đủ điều kiện kinh doanh xổ số cho Công ty, trường hợp từ chối Bộ Tài chính có văn bản thông báo rõ lý do từ chối.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||Đối với cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số: trong vòng 15 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ|
+|Trực tiếp|10 Ngày làm việc||Đối với cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số: trong vòng 10 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc||Đối với cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số: trong vòng 15 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc||Đối với cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số: trong vòng 10 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Đối với cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+- 01 Bản chính + Văn bản đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh của công ty xổ số kiến thiết, trong đó nêu rõ loại hình sản phẩm đề nghị được phép kinh doanh ([Mẫu đơn thu tuc 2.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc10524a9ec126'))
+- 01 Bản chính + Ý kiến của chủ sở hữu về việc cấp giấy chứng nhận đủ điều kiện kinh doanh
+- 01 Bản chính + Phương án tổ chức hoạt động kinh doanh của công ty xổ số kiến thiết;
+- 01 Bản sao + Quyết định thành lập doanh nghiệp (bản sao có chứng thực)
+- 01 Bản sao + Giấy đăng ký doanh nghiệp (bản sao có chứng thực)
+- 01 Bản sao + Điều lệ hoạt động của công ty xổ số kiến thiết được chủ sở hữu phê duyệt
+- 01 Bản sao + Báo cáo tài chính của công ty xổ số kiến thiết năm gần nhất đã được kiểm toán.
+
+
+Đối với cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+- 01 Bản chính + Văn bản đề nghị điều chỉnh, cấp lại giấy chứng nhận đủ điều kiện kinh doanh xổ số của công ty xổ số kiến thiết, trong đó nêu rõ nguyên nhân đề nghị điều chỉnh, cấp lại giấy chứng nhận đủ điều kiện đăng ký kinh doanh xổ số; ([Mẫu đơn thu tuc 2.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbbb05e9340dae'))
+- 01 Bản chính + Ý kiến của chủ sở hữu về việc điều chỉnh, cấp lại giấy chứng nhận đủ điều kiện kinh doanh xổ số;
+- 01 Bản sao + Giấy chứng nhận đăng ký doanh nghiệp mới nhất (bản sao có chứng thực).
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+28 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bộ Tài chính cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số và có văn bản thông báo rõ lý do từ chối trường hợp từ chối cấp, cấp lại, điều chỉnh Giấy chứng nhận.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|30/2007/NĐ-CP|Về kinh doanh xổ số|01-03-2007|Chính phủ|
+|78/2012/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 30/2007/NĐ-CP ngày 01 tháng 3 năm 2007 của Chính phủ về kinh doanh xổ số|05-10-2012|Chính phủ|
+|75/2013/TT-BTC|Hướng dẫn chi tiết về hoạt động kinh doanh xổ số|04-06-2013|Bộ Tài chính|
+|112/2014/TT-BTC|sửa đổi, bổ sung một số điều của Thông tư số 75/2013/TT-BTC ngày 04/6/2014 của Bộ tài chính hướng dẫn chi tiết về hoạt động kinh doanh xổ số|19-08-2014|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

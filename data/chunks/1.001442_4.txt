@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục công nhận Doanh nghiệp ưu tiên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo tình hình, thống kê số liệu xuất khẩu, nhập khẩu của doanh nghiệp trong 02 năm gần nhất (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6d5305b7974a8'">Mẫu 02DNUT.doc</a>)
+- 01 Bản sao Báo cáo tài chính đã được kiểm toán 02 năm gần nhất: Nộp 01 bản sao có xác nhận của doanh nghiệp;
+- 01 Bản sao Bản kết luận kiểm toán và thanh tra (nếu có) gần nhất (không quá 01 năm)
+- 01 Bản chính Bản tự phân tích, đánh giá hoạt động kinh doanh, tình hình tài chính của doanh nghiệp;
+- 01 Bản chính Bản tự đánh giá về hệ thống kiểm soát nội bộ của doanh nghiệp; quy trình tác nghiệp nội bộ, trong đó mô tả đầy đủ quy trình tác nghiệp nghiệp vụ của tất cả các bộ phận liên quan trong chuỗi cung ứng (như bộ phận liên quan tới thủ tục xuất nhập khẩu: logistic, kế toán, mua hàng, bán hàng, quản lý chất lượng sản phẩm);
+- 01 Bản chính Các giấy tờ khác mà doanh nghiệp thấy cần thiết cung cấp cho cơ quan hải quan, hỗ trợ cơ quan hải quan trong quá trình thẩm định (như các giấy chứng nhận khen thưởng, chứng nhận quốc tế và quốc gia, các tiêu chuẩn quản lý áp dụng).
+- 01 Bản chính Văn bản đề nghị: 01 bản chính (theo mẫu 01/DNUT ban hành kèm theo Thông tư 86/2013/TT-BTC ngày 27/6/2013) trong đó doanh nghiệp tự xác định, đề nghị loại doanh nghiệp ưu tiên; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca08ad6953972c'">Mẫu 01DNUT.doc</a>)
+- 01 Bản chính Báo cáo chấp hành pháp luật 02 năm gần nhất (nếu bị xử lý vi phạm thì nêu rõ số lần, hành vi, hình thức xử phạt) mức xử phạt, cấp xử phạt, tình hình chấp hành quyết định xử phạt)

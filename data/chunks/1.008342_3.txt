@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế thu nhập cá nhân tháng/quý của tổ chức khấu trừ thuế đối với cá nhân trực tiếp ký hợp đồng làm đại lý xổ số, đại lý bảo hiểm, đại lý bán hàng đa cấp, cá nhân có thu nhập từ phí tích luỹ bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không phải trả kết quả cho người nộp thuế|||
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||
+|Dịch vụ bưu chính|Không phải trả kết quả cho người nộp thuế|||

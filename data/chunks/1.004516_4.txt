@@ -1,0 +1,10 @@
+Tên thủ tục: Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ theo Mẫu số 22 Phụ lục II của Nghị định 54/2017/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8ed28199306e6'">mẫu đơn 01.docx</a>)
+- 01 Bản chính Tài liệu kỹ thuật bao gồm Giấy chứng nhận đủ điều kiện kinh doanh dược hoặc Giấy chứng nhận Thực hành tốt tại địa điểm kinh doanh (nếu có) và các tài liệu kỹ thuật sau: a) Đối với cơ sở bán lẻ thuốc: Tài liệu về địa điểm, khu vực bảo quản, trang thiết bị bảo quản, tài liệu chuyên môn kỹ thuật và nhân sự theo nguyên tắc Thực hành tốt cơ sở bán lẻ thuốc. b) Đối với cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền: Tài liệu chứng minh việc đáp ứng quy định tại khoản 5 Điều 31 của Nghị định 54/2017/NĐ-CP theo quy định của Bộ trưởng Bộ Y tế; (Yêu cầu đối với Tài liệu quy định tại điểm này phải được đóng dấu của cơ sở trên trang bìa ngoài và đóng dấu giáp lai đối với tất cả các trang còn lại của tài liệu kỹ thuật. Trường hợp cơ sở không có con dấu thì phải có chữ ký của người đại diện theo pháp luật của cơ sở).
+- 01 Bản sao Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu pháp lý chứng minh việc thành lập cơ sở.
+- 01 Bản sao Bản sao có chứng thực Chứng chỉ hành nghề dược.

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ:
+- 01 Bản chính, 01 Bản sao - Công văn của tổ chức hoa tiêu hàng hải hoặc đơn vị quản lý thuyền trưởng theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdee214943c0b52'">Mẫu công văn đề nghị cấp Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải.docx</a>)
+- 01 Bản chính, 01 Bản sao - Tờ khai theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2fd7e10f6cba6'">Mẫu Tờ khai danh sách tàu biển, thời gian dẫn tàu an toàn, thời gian thực tập dẫn tàu.docx</a>)
+- 01 Bản chính, 01 Bản sao - 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất.

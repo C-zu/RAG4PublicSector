@@ -1,0 +1,48 @@
+Tên thủ tục: Thông báo thay đổi thông tin cổ đông là nhà đầu tư nước ngoài, thông báo thay đổi thông tin người đại diện theo ủy quyền của cổ đông là tổ chức nước ngoài, thông báo cho thuê doanh nghiệp tư nhân, thông báo thay đổi thông tin người đại diện theo ủy quyền
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+(i) Doanh nghiệp không được đăng ký, thông báo thay đổi nội dung đăng ký doanh nghiệp trong các trường hợp sau:
+- Đã bị Phòng Đăng ký kinh doanh ra Thông báo về việc vi phạm của doanh nghiệp thuộc trường hợp thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc đã bị ra Quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp;
+- Đang trong quá trình giải thể theo quyết định giải thể của doanh nghiệp;
+- Theo yêu cầu của Tòa án hoặc Cơ quan thi hành án hoặc Cơ quan điều tra, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên quy định tại Bộ luật Tố tụng hình sự;
+- Doanh nghiệp đang trong tình trạng pháp lý “Không còn hoạt động kinh doanh tại địa chỉ đã đăng ký”.
+(ii) Doanh nghiệp được tiếp tục đăng ký, thông báo thay đổi nội dung đăng ký doanh nghiệp trong các trường hợp sau:
+- Đã có biện pháp khắc phục những vi phạm theo yêu cầu trong Thông báo về việc vi phạm của doanh nghiệp thuộc trường hợp thu hồi Giấy chứng nhận đăng ký doanh nghiệp và được Phòng Đăng ký kinh doanh chấp nhận;
+- Phải đăng ký thay đổi một số nội dung đăng ký doanh nghiệp để phục vụ quá trình giải thể và hoàn tất bộ hồ sơ giải thể theo quy định. Trong trường hợp này, hồ sơ đăng ký thay đổi phải kèm theo văn bản giải trình của doanh nghiệp về lý do đăng ký thay đổi;
+- Có ý kiến chấp thuận bằng văn bản của các tổ chức, cá nhân gửi yêu cầu quy định tại điểm c khoản 1 Điều 65 Nghị định số 01/2021/NĐ-CP về việc cho phép tiếp tục đăng ký thay đổi nội dung đăng ký doanh nghiệp;
+- Doanh nghiệp đã được chuyển tình trạng pháp lý từ “Không còn hoạt động kinh doanh tại địa chỉ đã đăng ký” sang “Đang hoạt động”.
+(iii) Doanh nghiệp chịu trách nhiệm thông báo thay đổi nội dung đăng ký doanh nghiệp trong thời hạn 10 ngày kể từ ngày có thay đổi.
+(iv) Hồ sơ đăng ký doanh nghiệp được tiếp nhận để nhập thông tin vào Hệ thống thông tin quốc gia về đăng ký doanh nghiệp khi có đủ các điều kiện sau:
+- Có đủ giấy tờ theo quy định tại Nghị định số 01/2021/NĐ-CP;
+- Có địa chỉ liên lạc của người nộp hồ sơ đăng ký doanh nghiệp;
+- Đã nộp đủ phí, lệ phí đăng ký doanh nghiệp theo quy định.
+(v) Hồ sơ đăng ký doanh nghiệp qua mạng điện tử được chấp thuận khi có đầy đủ các yêu cầu sau:
+- Có đầy đủ các giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định như hồ sơ bằng bản giấy và được thể hiện dưới dạng văn bản điện tử. Tên văn bản điện tử phải được đặt tương ứng với tên loại giấy tờ trong hồ sơ bằng bản giấy. Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp hoặc cá nhân khác ký tên trong hồ sơ đăng ký doanh nghiệp có thể sử dụng chữ ký số để ký trực tiếp trên văn bản điện tử hoặc ký trực tiếp trên văn bản giấy và quét (scan) văn bản giấy theo các định dạng quy định tại khoản 2 Điều 43 Nghị định số 01/2021/NĐ-CP;
+- Các thông tin đăng ký doanh nghiệp được kê khai trên cổng thông tin quốc gia về đăng ký doanh nghiệp phải đầy đủ và chính xác theo các thông tin trong hồ sơ bằng bản giấy; có bao gồm thông tin về số điện thoại, thư điện tử của người nộp hồ sơ;
+- Hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử phải được xác thực bằng chữ ký số hoặc Tài khoản đăng ký kinh doanh của người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp hoặc người được người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp ủy quyền thực hiện thủ tục đăng ký doanh nghiệp. Trường hợp ủy quyền thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có các giấy tờ, tài liệu quy định tại Điều 12 Nghị định số 01/2021/NĐ-CP.
+(vi) Doanh nghiệp không bắt buộc phải đóng dấu trong giấy đề nghị đăng ký doanh nghiệp, thông báo thay đổi nội dung đăng ký doanh nghiệp, nghị quyết, quyết định, biên bản họp trong hồ sơ đăng ký doanh nghiệp. Việc đóng dấu đối với các tài liệu khác trong hồ sơ đăng ký doanh nghiệp thực hiện theo quy định của pháp luật có liên quan.
+(i) Doanh nghiệp không được đăng ký, thông báo thay đổi nội dung đăng ký doanh nghiệp trong các trường hợp sau:
+- Đã bị Phòng Đăng ký kinh doanh ra Thông báo về việc vi phạm của doanh nghiệp thuộc trường hợp thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc đã bị ra Quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp;
+- Đang trong quá trình giải thể theo quyết định giải thể của doanh nghiệp;
+- Theo yêu cầu của Tòa án hoặc Cơ quan thi hành án hoặc Cơ quan điều tra, Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên quy định tại Bộ luật Tố tụng hình sự;
+- Doanh nghiệp đang trong tình trạng pháp lý “Không còn hoạt động kinh doanh tại địa chỉ đã đăng ký”.
+(ii) Doanh nghiệp được tiếp tục đăng ký, thông báo thay đổi nội dung đăng ký doanh nghiệp trong các trường hợp sau:
+- Đã có biện pháp khắc phục những vi phạm theo yêu cầu trong Thông báo về việc vi phạm của doanh nghiệp thuộc trường hợp thu hồi Giấy chứng nhận đăng ký doanh nghiệp và được Phòng Đăng ký kinh doanh chấp nhận;
+- Phải đăng ký thay đổi một số nội dung đăng ký doanh nghiệp để phục vụ quá trình giải thể và hoàn tất bộ hồ sơ giải thể theo quy định. Trong trường hợp này, hồ sơ đăng ký thay đổi phải kèm theo văn bản giải trình của doanh nghiệp về lý do đăng ký thay đổi;
+- Có ý kiến chấp thuận bằng văn bản của các tổ chức, cá nhân gửi yêu cầu quy định tại điểm c khoản 1 Điều 65 Nghị định số 01/2021/NĐ-CP về việc cho phép tiếp tục đăng ký thay đổi nội dung đăng ký doanh nghiệp;
+- Doanh nghiệp đã được chuyển tình trạng pháp lý từ “Không còn hoạt động kinh doanh tại địa chỉ đã đăng ký” sang “Đang hoạt động”.
+(iii) Doanh nghiệp chịu trách nhiệm thông báo thay đổi nội dung đăng ký doanh nghiệp trong thời hạn 10 ngày kể từ ngày có thay đổi.
+(iv) Hồ sơ đăng ký doanh nghiệp được tiếp nhận để nhập thông tin vào Hệ thống thông tin quốc gia về đăng ký doanh nghiệp khi có đủ các điều kiện sau:
+- Có đủ giấy tờ theo quy định tại Nghị định số 01/2021/NĐ-CP;
+- Có địa chỉ liên lạc của người nộp hồ sơ đăng ký doanh nghiệp;
+- Đã nộp đủ phí, lệ phí đăng ký doanh nghiệp theo quy định.
+(v) Hồ sơ đăng ký doanh nghiệp qua mạng điện tử được chấp thuận khi có đầy đủ các yêu cầu sau:
+- Có đầy đủ các giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định như hồ sơ bằng bản giấy và được thể hiện dưới dạng văn bản điện tử. Tên văn bản điện tử phải được đặt tương ứng với tên loại giấy tờ trong hồ sơ bằng bản giấy. Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp hoặc cá nhân khác ký tên trong hồ sơ đăng ký doanh nghiệp có thể sử dụng chữ ký số để ký trực tiếp trên văn bản điện tử hoặc ký trực tiếp trên văn bản giấy và quét (scan) văn bản giấy theo các định dạng quy định tại khoản 2 Điều 43 Nghị định số 01/2021/NĐ-CP;
+- Các thông tin đăng ký doanh nghiệp được kê khai trên cổng thông tin quốc gia về đăng ký doanh nghiệp phải đầy đủ và chính xác theo các thông tin trong hồ sơ bằng bản giấy; có bao gồm thông tin về số điện thoại, thư điện tử của người nộp hồ sơ;
+- Hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử phải được xác thực bằng chữ ký số hoặc Tài khoản đăng ký kinh doanh của người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp hoặc người được người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp ủy quyền thực hiện thủ tục đăng ký doanh nghiệp. Trường hợp ủy quyền thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có các giấy tờ, tài liệu quy định tại Điều 12 Nghị định số 01/2021/NĐ-CP.
+(vi) Doanh nghiệp không bắt buộc phải đóng dấu trong giấy đề nghị đăng ký doanh nghiệp, thông báo thay đổi nội dung đăng ký doanh nghiệp, nghị quyết, quyết định, biên bản họp trong hồ sơ đăng ký doanh nghiệp. Việc đóng dấu đối với các tài liệu khác trong hồ sơ đăng ký doanh nghiệp thực hiện theo quy định của pháp luật có liên quan.
+Từ khóa:
+Thông báo, thay đổi, thông tin, cổ đông, là nhà đầu tư nước ngoài, người đại diện theo ủy quyền, cổ đông là tổ chức nước ngoài, thông báo cho thuê doanh nghiệp tư nhân, thông báo thay đổi thông tin người đại diện theo ủy quyền
+Mô tả:
+Không có thông tin

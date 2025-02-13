@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||Nộp hồ sơ đề nghị cấp Giấy chứng nhận trực tiếp đến trụ sở của Cơ quan cấp Giấy chứng nhận|
+|Trực tuyến|15 Ngày làm việc||Nộp hồ sơ đề nghị cấp Giấy chứng nhận qua Cổng dịch vụ công trực tuyến đến Cơ quan cấp Giấy chứng nhận|
+|Dịch vụ bưu chính|15 Ngày làm việc||Nộp hồ sơ đề nghị cấp Giấy chứng nhận gửi qua đường bưu chính đến Cơ quan cấp Giấy chứng nhận|

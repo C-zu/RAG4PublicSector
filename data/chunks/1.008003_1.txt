@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Quyết định, phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008003
+Số quyết định:
+151/QĐ-BNN-TT
+Tên thủ tục:
+Cấp Quyết định, phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trồng trọt

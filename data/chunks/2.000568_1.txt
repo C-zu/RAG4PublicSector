@@ -1,0 +1,16 @@
+Tên thủ tục: Thay đổi, bổ sung lĩnh vực giám định của Văn phòng giám định tư pháp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000568
+Số quyết định:
+524/QĐ-BTP
+Tên thủ tục:
+Thay đổi, bổ sung lĩnh vực giám định của Văn phòng giám định tư pháp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Giám định tư pháp

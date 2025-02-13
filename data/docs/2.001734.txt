@@ -1,0 +1,80 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001734
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Đăng ký dán nhãn năng lượng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Năng lượng
+Trình tự thực hiện:
+* Trường hơp đăng ký mới:
+
+Bước 1: Lập hồ sơ đăng ký
+
+Trước khi đưa phương tiện, thiết bị ra thị trường, doanh nghiệp sản xuất, nhập khẩu phương tiện, thiết bị đó phải lập 01 bộ hồ sơ đăng ký dán nhãn năng lượng và gửi về Bộ Công Thương.
+
+Bước 2: Đăng ký
+
+Doanh nghiệp đăng ký dán nhãn năng lượng được lựa chọn hình thức gửi hồ sơ qua mạng internet tại Trang thông tin điện tử của Bộ Công Thương hoặc gửi hồ sơ trực tiếp hoặc qua đường bưu điện về Bộ Công Thương. Trường hợp các hồ sơ, tài liệu bằng tiếng nước ngoài thì phải dịch sang tiếng Việt và có công chứng.
+
+Bước 3: Sau đăng ký
+
+Sau khi nộp hồ sơ đăng ký dán nhãn năng lượng đến Bộ Công Thương, doanh nghiệp được tự thực hiện việc dán nhãn năng lượng phù hợp với thông tin trong Giấy công bố dán nhãn năng lượng cho sản phẩm đã đăng ký. Doanh nghiệp phải chịu trách nhiệm về tính chính xác, trung thực đối với các thông tin đã công bố trong Giấy công bố dán nhãn năng lượng và thông tin hiển thị trên nhãn năng lượng.
+
+* Trường hợp đăng ký dán nhẵn năng lượng lại:
+
+         Doanh nghiệp phải đăng ký dán nhãn năng lượng lại khi thuộc một trong các trường hợp sau đây:
+
+- Tiêu chuẩn đánh giá thay đổi;
+
+-  Phương tiện, thiết bị đã được đăng ký dán nhãn năng lượng có những thay đổi về mức tiêu thụ năng lượng.
+
+         Nội dung và thủ tục đăng ký dãn nhãn năng lượng lại như quy định tại bước 1 đến bước 3 đã nêu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|không|||
+|Trực tuyến|Không|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy công bố dán nhãn năng lượng cho phương tiện, thiết bị sử dụng năng lượng, trong đó nêu rõ doanh nghiệp đăng ký dán nhãn so sánh hay nhãn xác nhận theo mẫu tại Phụ lục 1;
+- 01 Bản chính - Kết quả thử nghiệm do tổ chức thử nghiệm cấp cho model sản phẩm;
+- 01 Bản chính - Tài liệu chứng minh phòng thử nghiệm nước ngoài đã đáp ứng đủ điều kiện (Đối với trường hợp việc thử nghiệm dán nhãn năng lượng được thực hiện bởi tổ chức thử nghiệm nước ngoài);
+- 01 Bản chính - Mẫu nhãn năng lượng dự kiến.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Vụ Tiết kiệm năng lượng và Phát triển bền vững - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Bộ Công thương
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Sau khi nộp hồ sơ đăng ký dán nhãn năng lượng đến Bộ Công Thương, doanh nghiệp được tự thực hiện việc dán nhãn năng lượng phù hợp với thông tin trong Giấy công bố dán nhãn năng lượng cho sản phẩm đã đăng ký. Doanh nghiệp tự chịu trách nhiệm đối với các thông tin công bố đối với sản phẩm đăng ký dán nhãn năng lượng. Cơ quan quản lý nhà nước sẽ dựa trên thông tin công bố của doanh nghiệp cung cấp để tiến hành các biện pháp quản lý hậu kiểm sau khi sản phẩm được dán nhãn đưa ra thị trường.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|
+|Luật 50/2010/QH12|Luật 50/2010/QH12 Sử dụng năng lượng tiết kiệm và hiệu quả|17-06-2010|Quốc Hội|
+|21/2011/NĐ-CP|Quy định chi tiết và biện pháp thi hành Luật Sử dụng năng lượng tiết kiệm và hiệu quả|29-03-2011|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Trước khi đưa phương tiện, thiết bị ra thị trường, doanh nghiệp sản xuất, nhập khẩu phương tiện, thiết bị đó phải lập 01 bộ hồ sơ đăng ký dán nhãn năng lượng và gửi về Bộ Công Thương.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

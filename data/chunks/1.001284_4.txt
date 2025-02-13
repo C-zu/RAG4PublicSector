@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho phương tiện thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Đối với kiểm tra và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho phương tiện đang khai thác:
+- 01 Bản chính + Giấy đề nghị kiểm tra theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5aaee9bae5302'">Mẫu.docx</a>)
+- 01 Bản sao + Bản sao có chứng thực hợp đồng mua bán phương tiện (đối với trường hợp thay đổi chủ sở hữu phương tiện).
+
+
+- Đối với kiểm tra và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho phương tiện đóng mới, hoán cải, sửa chữa phục hồi (bao gồm các loại tàu thuyền không phải là phương tiện thủy nội địa chuyển đổi thành phương tiện thủy nội địa); phương tiện đã đóng không có sự giám sát của đăng kiểm (bao gồm tàu làm nhiệm vụ quốc phòng, an ninh, tàu cá chuyển đổi thành phương tiện thủy nội địa):
+- 01 Bản chính + Giấy đề nghị kiểm tra theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe726a9a411ba80'">Mẫu.docx</a>)
+- 01 Bản sao + Bản sao giấy xóa đăng ký (đối với tàu biển, tàu cá chuyển đổi thành phương tiện thủy nội địa);
+- 01 Bản sao + Văn bản chấp thuận sử dụng thiết kế của đơn vị thiết kế (đối với phương tiện đóng theo loạt).

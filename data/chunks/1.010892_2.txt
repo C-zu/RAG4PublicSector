@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với tổ chức nhận chuyển nhượng chưa được cấp phép kinh doanh dịch vụ viễn thông sử dụng băng tần
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Doanh nghiệp đề nghị nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện phải gửi 01 bộ hồ sơ chuyển nhượng đến Cục Viễn thông.
+- Trong thời hạn 05 ngày kể từ ngày nhận được hồ sơ, Cục Viễn thông thông báo cho doanh nghiệp về hồ sơ không hợp lệ (nếu có);
+- Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông xem xét quyết định việc cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện.
+- Trường hợp từ chối cho phép chuyển nhượng, Bộ Thông tin và Truyền thông có văn bản thông báo, nêu rõ lý do.

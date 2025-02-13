@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009797
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Hủy tư cách công ty đại chúng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
++ Bước 1: Công ty đại chúng gửi Ủy ban Chứng khoán Nhà nước (UBCKNN) văn bản thông báo kèm danh sách cổ đông do Tổng Công ty lưu ký và bù trừ chứng khoán Việt Nam cung cấp, kể từ ngày có vốn điều lệ đã góp không đủ 30 tỷ đồng tính trên báo cáo tài chính gần nhất được kiểm toán hoặc có cơ cấu cổ đông không đáp ứng điều kiện quy định tại điểm a khoản 1 Điều 32 Luật Chứng khoán trong thời hạn cụ thể như sau:
+•	15 (mười lăm) ngày đối với các công ty đại chúng.
+•	30 (ba mươi) ngày kể từ ngày Đại hội đồng cổ đông thông qua đối với công ty đại chúng theo quy định tại khoản 4 Điều 135 Luật Chứng khoán được Đại hội đồng cổ đông thông qua việc hủy tư cách công ty đại chúng.
+•	90 ngày kể từ ngày Luật Chứng khoán số 54/2019/QH14 có hiệu lực thi hành đối với công ty đại chúng theo quy định tại khoản 5 Điều 135 Luật Chứng khoán.
++ Bước 2: Sau 01 năm kể từ ngày không còn đáp ứng quy định tại điểm a khoản 1 Điều 32 Luật Chứng khoán, công ty đại chúng nộp hồ sơ hủy công ty đại chúng đến UBCKNN.
+	+ Bước 3: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ UBCKNN hướng dẫn công ty bổ sung hồ sơ theo quy định.
+	+ Bước 4: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ hoặc chưa rõ ràng, UBCKNN yêu cầu công ty đại chúng bổ sung hoặc giải trình.
+	+ Bước 5: UBCKNN gửi thông báo về việc huỷ tư cách công ty đại chúng cho công ty.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e25470eb2c2b')|+ 01 (một) năm kể từ ngày công ty không còn đáp ứng được các điều kiện là công ty đại chúng. + 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ đối với công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp|
+|Trực tuyến|15 Ngày|Phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e25470eb2c2b')|+ 01 (một) năm kể từ ngày công ty không còn đáp ứng được các điều kiện là công ty đại chúng. + 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ đối với công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp|
+|Dịch vụ bưu chính|15 Ngày|Phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e25470eb2c2b')|+ 01 (một) năm kể từ ngày công ty không còn đáp ứng được các điều kiện là công ty đại chúng. + 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ đối với công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1) Giấy chứng nhận đăng ký doanh nghiệp; 2) Văn bản thông báo về việc công ty đại chúng không còn đáp ứng quy định tại điểm a khoản 1 Điều 32 Luật Chứng khoán; 3) Danh sách cổ đông do Tổng Công ty lưu ký và bù trừ chứng khoán Việt Nam cung cấp; 4) Báo cáo tài chính năm gần nhất được kiểm toán bởi tổ chức kiểm toán được chấp thuận. Trường hợp công ty tăng vốn điều lệ sau thời điểm kết thúc kỳ kế toán năm gần nhất, công ty phải bổ sung báo cáo tài chính kỳ gần nhất được kiểm toán.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận 1 cửa Ủy ban Chứng khoán Nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo của UBCKNN về việc huỷ tư cách công ty đại chúng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+|118/2020/TT-BTC|Thông tư 118/2020/TT-BTC|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

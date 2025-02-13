@@ -1,0 +1,16 @@
+Tên thủ tục: Giấy chứng nhận xuất xứ hàng hoá (C/O) cho hàng hóa xuất khẩu, nhập khẩu từ doanh nghiệp chế xuất, khu chế xuất, kho ngoại quan, khu phi thuế quan và các khu vực hải quan riêng khác có quan hệ xuất nhập khẩu với nội địa
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001370
+Số quyết định:
+142/QĐ-BCT
+Tên thủ tục:
+Giấy chứng nhận xuất xứ hàng hoá (C/O) cho hàng hóa xuất khẩu, nhập khẩu từ doanh nghiệp chế xuất, khu chế xuất, kho ngoại quan, khu phi thuế quan và các khu vực hải quan riêng khác có quan hệ xuất nhập khẩu với nội địa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất nhập khẩu

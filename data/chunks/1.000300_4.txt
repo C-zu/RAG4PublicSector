@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận thợ hàn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc biểu mẫu điện tử giấy đề nghị theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7a9237ed31d4b'">Mẫu VB đề nghị.docx</a>)
+- 01 Bản chính, 01 Bản sao - 01 (một) ảnh màu cỡ 3 x 4 cm của người đề nghị được cấp giấy chứng nhận thợ hàn chụp trong thời gian không quá 06 tháng (mặt sau của ảnh có ghi họ, tên và ngày, tháng, năm sinh).

@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ dự án liên kết (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị của chủ dự án (theo Phụ lục I ban hành kèm theo Nghị định số 98/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd37320dd2a0dba'">PLsố 01.NĐ 98.docx</a>)
+- 01 Bản chính Dự án liên kết (theo Phụ lục II ban hành kèm theo Nghị định số 98/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a6de8a0d751a'">PL 02.NĐ 98.docx</a>)
+- 01 Bản chính Bản thỏa thuận cử đơn vị làm chủ đầu tư dự án liên kết (theo Phụ lục III ban hành kèm theo Nghị định số 98/2018/NĐ-CP) đối với trường hợp các doanh nghiệp, hợp tác xã ký hợp đồng liên kết với nhau (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9d771ea40125c0'">PL 03.NĐ 98.docx</a>)
+- 01 Bản sao Bản sao chụp các chứng nhận về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường; hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường (theo Phụ lục IV ban hành kèm theo Nghị định số 98/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febcc6a32bc30ae'">PL 04.NĐ 98.docx</a>)
+- 01 Bản sao Bản sao chụp hợp đồng liên kết.

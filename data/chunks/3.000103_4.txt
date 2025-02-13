@@ -1,0 +1,7 @@
+Tên thủ tục: Thay đổi hình thức thanh toán tiền điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde17f92bd2fde6'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)

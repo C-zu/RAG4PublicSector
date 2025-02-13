@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép đấu nối chiếu sáng công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1. Đơn đề nghị cấp phép đấu nối của tổ chức, công dân.
+- 01 Bản chính, 01 Bản sao 2. Văn bản đề xuất của Trung tâm Quản lý hạ tầng đô thị
+- 01 Bản chính, 01 Bản sao 3. Bản vẽ mặt bằng thể hiện vị trí, công suất đấu nối (với tỉ lệ theo quy định hiện hành).
+- 01 Bản chính, 01 Bản sao 4. Văn bản thỏa thuận vị trí đấu nối.

@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp giấy phép kinh doanh dịch vụ viễn thông
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+-Bước 1: 
+Doanh nghiệp gửi hồ sơ đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông đến Cục Viễn thông. (Hồ sơ đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông bao gồm hồ sơ đề nghị cấp giấy phép thiết lập mạng viễn thông công cộng và hồ sơ đề nghị cấp giấy phép cung cấp dịch vụ viễn thông).
+-Bước 2: 
+Cục Viễn thông kiểm tra và thông báo cho doanh nghiệp biết về tính hợp lệ của hồ sơ trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được hồ sơ.
+- Bước 3: 
+Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cục Viễn thông chủ trì, phối hợp với các cơ quan liên quan thẩm định hồ sơ và cấp giấy phép cung cấp dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền quy định tại Điều 18 Nghị định số 25/2011/NĐ-CP;
+- Bước 4: 
+Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cục Viễn thông chủ trì, phối hợp với các cơ quan liên quan thẩm định hồ sơ và cấp giấy phép thiết lập mạng viễn thông công cộng cho doanh nghiệp theo thẩm quyền quy định tại Điều 18 Nghị định số 25/2011/NĐ-CP. Đối với trường hợp quy định tại khoản 2 Điều 19 và khoản 3 Điều 20 Nghị định số 25/2011/NĐ-CP, doanh nghiệp được cấp giấy phép viễn thông trong thời hạn 05 ngày làm việc kể từ ngày doanh nghiệp hoàn thành nghĩa vụ bảo đảm thực hiện giấy phép theo thông báo của Cục Viễn Thông (Bộ Thông tin và Truyền thông);
+- Bước 5: 
+Trường hợp từ chối cấp phép, Cục Viễn thông thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp biết.

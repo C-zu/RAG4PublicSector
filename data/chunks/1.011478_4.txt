@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận vùng an toàn dịch bệnh động vật (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị theo mẫu tại Phụ lục II ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcf26e224aee42'">Phụ lục II.docx</a>)
+- 01 Bản chính 2. Bản mô tả thông tin về vùng đăng ký công nhận an toàn dịch bệnh động vật theo mẫu tại Phụ lục IV ban hành kèm theo Thông tư số 24/2022/TT-BNNPTNT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7550a85142690'">Phụ lục IV.docx</a>)
+- 01 Bản chính 3. Báo cáo khắc phục sai lỗi (đối với trường hợp vùng phải thực hiện khắc phục nếu kiểm tra thực tế tại cơ sở không đạt yêu cầu theo quy định tại điểm c khoản 5 Điều 29 Thông tư số 24/2022/TT-BNNPTNT)

@@ -1,0 +1,7 @@
+Tên thủ tục: Phê duyệt nhiệm vụ khuyến nông thường xuyên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề xuất nhiệm vụ khuyến nông thường xuyên (theo mẫu 08 ban hành kèm theo Nghị định 83/2018/NĐ-CP ngày 24/5/2018). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec80dcf4ae57b7'">Mẫu số 08.NDD.2018.docx</a>)

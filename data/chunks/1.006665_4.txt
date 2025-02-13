@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp sửa đổi, bổ sung Giấy phép bán lẻ sản phẩm thuốc lá cho thương nhân đặt trụ sở tại khu công nghiệp (KCN), khu kinh tế (KKT), khu kinh tế cửa khẩu (KKTCK)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Văn bản đề nghị sửa đổi, bổ sung Giấy phép bán lẻ sản phẩm thuốc lá; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe521038f31cdce'">Phụ lục số 50-51.docx</a>)
+- 01 Bản sao b) Bản sao Giấy phép mua bán sản phẩm thuốc lá đã được cấp;
+- 01 Bản chính c) Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung.

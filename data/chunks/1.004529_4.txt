@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất thuộc thẩm quyền của Sở Y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính 03 (ba) bản Đơn hàng mua thuốc theo Mẫu số 19 Phụ lục II tại Phụ lục II ban hành kèm theo Nghị định 155/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6caa125c8ee48'">ND54_Mau 19_Phụ lục II PLII.docx</a>)
+- 01 Bản chính Văn bản giải thích rõ lý do khi số lượng thuốc đề nghị mua vượt quá 150% so với số lượng sử dụng lần trước.

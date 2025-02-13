@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001760
+Số quyết định:
+1810/QĐ-BTTTT
+Tên thủ tục:
+Cấp chứng thư số cho tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số nộp hồ sơ cấp chứng thư số tại Trung tâm Chứng thực điện tử quốc gia.
+
+Trong thời hạn 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ cấp chứng thư số hợp lệ, Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia thẩm tra hồ sơ:
+1. Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia thực hiện thẩm tra các nội dung sau:
+a) Kiểm tra hệ thống kỹ thuật thực tế của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng để đảm bảo hệ thống kỹ thuật thực tế theo đúng hồ sơ cấp giấy phép;
+b) Chứng kiến việc tạo cặp khóa bí mật và khóa công khai của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng để đảm bảo cặp khóa được tạo ra là an toàn theo quy định.
+2. Trường hợp đáp ứng điều kiện cấp chứng thư số, Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia cấp chứng thư số. Trường hợp không đáp ứng đủ điều kiện, Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia có văn bản từ chối cấp chứng thư số và nêu rõ lý do.
+Việc cấp chứng thư số của Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia cho các tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng phải đảm bảo tính liên tục của dịch vụ mà các tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng cung cấp cho thuê bao.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 3000 Đồng Thông tư số 305/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư số Thông tư số 17/2018/TT-BTC sửa đổi, bổ sung một số điều của Thông tư số 305/2016/TT-BTC.||
+|Dịch vụ bưu chính|30 Ngày|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia cấp chứng thư số; ([Mẫu số 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc38766cb1f7cec'))
+- 01 Bản chính - Bản sao giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng.
+- 01 Bản chính - Các giấy tờ khác theo quy định trong quy chế chứng thực của Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia.
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Trung tâm Chứng thực điện tử quốc gia
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Trung tâm Chứng thực điện tử quốc gia, 115 Trần Duy Hưng, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng thư số cho tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|51/2005/QH11|Luật 51/2005/QH11|29-11-2005|Quốc Hội|
+|130/2018/NĐ-CP|Nghị định 130/2018/NĐ-CP|27-09-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số phải đáp ứng các điều kiện:
+1. Có giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng do Bộ Thông tin và Truyền thông cấp đang còn hiệu lực.
+2. Hệ thống kỹ thuật thực tế đảm bảo theo đúng hồ sơ cấp phép.
+3. Khóa công khai trên chứng thư số sẽ được cấp là duy nhất và cùng cặp với khóa bí mật của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số
+Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số phải đáp ứng các điều kiện:
+1. Có giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng do Bộ Thông tin và Truyền thông cấp đang còn hiệu lực.
+2. Hệ thống kỹ thuật thực tế đảm bảo theo đúng hồ sơ cấp phép.
+3. Khóa công khai trên chứng thư số sẽ được cấp là duy nhất và cùng cặp với khóa bí mật của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

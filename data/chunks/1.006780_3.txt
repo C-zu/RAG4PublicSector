@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy phép hoạt động đối với trạm, điểm sơ cấp cứu chữ thập đỏ do mất, rách, hỏng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : Không có  Lệ phí : Không có|Trong thời hạn 20 ngày, kể từ ngày nhận được đơn đề nghị cấp lại Giấy phép hoạt động của trạm, điểm sơ cấp cứu|
+|Dịch vụ bưu chính|20 Ngày|Phí : Không có  Lệ phí : Không có|Trong thời hạn 20 ngày, kể từ ngày nhận được đơn đề nghị cấp lại Giấy phép hoạt động của trạm, điểm sơ cấp cứu|

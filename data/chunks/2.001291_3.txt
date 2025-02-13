@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh nông, lâm, thủy sản (trường hợp Giấy chứng nhận ATTP vẫn còn thời hạn hiệu lực nhưng bị mất, bị hỏng, thất lạc, hoặc có sự thay đổi, bổ sung thông tin trên giấy chứng nhận)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Hồ sơ gửi bằng một trong các hình thức sau: Gửi văn bản trực tiếp; Fax, E-mail|
+|Dịch vụ bưu chính|5 Ngày làm việc||Hồ sơ gửi bằng một trong các hình thức sau: Gửi văn bản trực tiếp; Fax, E-mail|

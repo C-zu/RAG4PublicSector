@@ -1,0 +1,14 @@
+Tên thủ tục: Công bố đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: 
+Cơ sở khám bệnh, chữa bệnh gửi 01 bộ hồ sơ công bố đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa theo quy định tại khoản 2 Điều 87 Nghị định số 96/2023/NĐ-CP về:
+- Bộ Y tế đối với cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý;
+- Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh đối với cơ sở khám bệnh, chữa bệnh trên địa bàn (bao gồm cả cơ sở khám bệnh, chữa bệnh tư nhân), trừ cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Bộ Y tế, Bộ Quốc phòng, Bộ Công an.
+Bước 2: 
+     Sau khi nhận được hồ sơ công bố cơ sở khám bệnh, chữa bệnh đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa, cơ quan tiếp nhận cấp cho cơ sở phiếu tiếp nhận hồ sơ theo Mẫu 02 Phụ lục I ban hành kèm theo Nghị định số 96/2023/NĐ-CP.
+Bước 3: 
+    Trong thời hạn 10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ quy định tại khoản 2 Điều này, cơ quan tiếp nhận có trách nhiệm đăng tải thông tin của cơ sở đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa trên cổng thông tin điện tử hoặc trang thông tin điện tử của cơ quan và trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh.
+Trường hợp chưa đáp ứng yêu cầu thì cơ quan tiếp nhận phải có văn bản gửi cơ sở khám bệnh, chữa bệnh và nêu rõ lý do.
+Trường hợp sau thời hạn 10 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa mà cơ quan tiếp nhận không có văn bản gửi cơ sở khám bệnh, chữa bệnh về việc đủ điều kiện thực hiện khám bệnh, chữa bệnh từ xa hoặc không thực hiện việc đăng tải thông tin theo quy định tại điểm c khoản này, cơ sở khám bệnh, chữa bệnh được bắt đầu thực hiện khám bệnh, chữa bệnh từ xa

@@ -1,0 +1,8 @@
+Tên thủ tục: Điều chỉnh, đề tài khoa học và công nghệ, dự án sản xuất thử nghiệm cấp bộ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|||
+|Dịch vụ bưu chính|20 Ngày làm việc|||

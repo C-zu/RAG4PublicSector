@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký bổ sung, sửa đổi hoạt động kiểm định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed3eab54f51595'">Đơn đăng ký bổ sung, sửa đổi hoạt động kiểm định.docx</a>)
+ - Danh sách kiểm định viên bổ sung, sửa đổi và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên gồm: (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd49b64f17f21f4'">Danh sách kiểm định viên.docx</a>)
+- 01 Bản sao Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 5 Nghị định 107/2016/NĐ-CP;
+ - Danh sách máy móc, thiết bị, dụng cụ phục vụ hoạt động kiểm định đối với lĩnh vực kiểm định đăng ký bổ sung, sửa đổi; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febce148097dbdc'">Danh sách máy móc, thiết bị, dụng cụ phục vụ hoạt động kiểm định đối với lĩnh vực kiểm định đăng ký.docx</a>)
+- 01 Bản chính - Tài liệu chứng minh năng lực hoạt động kiểm định bổ sung, sửa đổi đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO 9001:2008 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với kiểm định chuyên ngành:
+- 01 Bản sao + Bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 hoặc bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận trong trường hợp tổ chức kiểm định đã được tổ chức chứng nhận cấp Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 hoặc đã được tổ chức công nhận quy định tại Điều 21 Nghị định 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP công nhận hoạt động kiểm định phù hợp tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với lĩnh vực chuyên ngành, tổ chức kiểm định.
+- 01 Bản sao + Trường hợp tổ chức kiểm định đã được chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 nhưng có phạm vi đăng ký hoạt động rộng hơn phạm vi đã được chứng nhận, tổ chức kiểm định nộp bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 và các tài liệu, quy trình kiểm định, các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 9 Nghị định này đối với phạm vi chưa được chứng nhận

@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007797
+Số quyết định:
+446/QĐ-BTC
+Tên thủ tục:
+Thủ tục đề nghị, gia hạn và chấm dứt thời hạn kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ và bổ sung, thay đổi thông tin đề nghị kiểm tra, giám sát
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Thủ tục đề nghị, gia hạn và chấm dứt thời hạn kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ và bổ sung, thay đổi thông tin đề nghị kiểm tra, giám sát:
++ Bước 1: 
+Người nộp Đơn đề nghị gửi hồ sơ đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ đến Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan.
+Trường hợp người nộp đơn có thông báo thay đổi, bổ sung hồ sơ; gia hạn, chấm dứt thời hạn áp dụng các biện pháp kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ, người nộp đơn gửi văn bản đề nghị thông báo thay đổi, bổ sung hồ sơ; gia hạn, chấm dứt thời hạn áp dụng các biện pháp kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ đến Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan.
++ Bước 2: 
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ, điều kiện theo quy định và và thông báo bằng văn bản cho người nộp đơn về việc chấp nhận hoặc không chấp nhận đơn đề nghị.
+Trường hợp người nộp Đơn đề nghị gia hạn thời hạn áp dụng biện pháp kiểm tra, giám sát hải quan đối với hàng hóa có yêu cầu bảo vệ quyền sở hữu trí tuệ theo quy định tại khoản 2 Điều 74 Luật Hải quan, chủ thể quyền sở hữu trí tuệ hoặc người được ủy quyền hợp pháp gửi Đơn đề nghị gia hạn đến Tổng cục Hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan chậm nhất 20 ngày trước ngày hết hiệu lực ghi trong văn bản thông báo chấp nhận đề nghị kiểm tra, giám sát; trong Đơn nêu rõ thông tin về số, ngày và thời hạn hiệu lực của văn bằng bảo hộ quyền sở hữu trí tuệ đề nghị gia hạn; số, ngày văn bản thông báo chấp nhận kiểm tra, giám sát của cơ quan hải quan. 
+Trường hợp chủ thể quyền có đề nghị chấm dứt hiệu lực áp dụng các biện pháp kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ, thì gửi văn bản tới Tổng cục Hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 ngày hoặc 5 ngày căn cứ vào đề nghị của chủ thể quyền|Phí : 200.000 Đồng Phí thu trên 01 Đơn đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo vệ quyền SHTT|-- Đối với đề nghị kiểm tra, giám sát và gia hạn: 20 ngày kể từ ngày tiếp nhận đủ bộ hồ sơ đề nghị đề nghị kiểm tra, giám sát; -- Đối với đề nghị chấm dứt kiểm tra, giám sát: 5 ngày làm việc kể từ ngày nhận được văn bản đề nghị của người nộp Đơn hoặc thông báo của cơ quan quản lý nhà nước.|
+|Dịch vụ bưu chính|20 Ngày||Trong thời hạn 20 ngày kể từ ngày tiếp nhận đủ bộ hồ sơ, Tổng cục Hải quan (Cục Giám sát quản lý về hải quan) kiểm tra và thông báo bằng văn bản cho người nộp đơn về việc chấp nhận hoặc không chấp nhận Đơn đề nghị.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ theo mẫu số 01-ĐĐN/SHTT/2020 Phụ lục ban hành kèm Thông tư số 13/2020/TT-BTC ngày 06/3/2020 của Bộ Tài chính; ([1.docx.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4004e5bf5589a'))
+- 01 Bản sao b) Văn bằng bảo hộ quyền sở hữu công nghiệp hoặc tài liệu khác chứng minh quyền sở hữu công nghiệp đang được bảo hộ tại Việt Nam hoặc Giấy chứng nhận đăng ký hợp đồng chuyển giao quyền sử dụng đối tượng sở hữu công nghiệp; Giấy chứng nhận đăng ký quyền tác giả, quyền liên quan đến quyền tác giả, quyền đối với giống cây trồng hoặc tài liệu khác chứng minh quyền tác giả, quyền liên quan đến quyền tác giả, quyền đối với giống cây trồng;
+- 01 Bản chính c) Mô tả chi tiết hàng hóa xâm phạm quyền sở hữu trí tuệ, ảnh chụp, các đặc điểm phân biệt hàng thật với hàng xâm phạm quyền sở hữu trí tuệ;
+- 01 Bản chính d) Danh sách những người xuất khẩu, nhập khẩu hợp pháp hàng hóa có yêu cầu giám sát; danh sách những người có khả năng xuất khẩu, nhập khẩu hàng hóa xâm phạm quyền sở hữu trí tuệ;
+- 01 Bản sao đ) Văn bản uỷ quyền (trong trường hợp uỷ quyền nộp đơn);
+- 01 Bản sao e) Chứng từ nộp phí hải quan theo quy định tại Thông tư số 274/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện quá cảnh.
+
+Đối tượng thực hiện:
+Cán bộ, công chức, viên chức, Doanh nghiệp
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo chấp nhận Đơn đề nghị kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ., Trường hợp bổ sung, thay đổi thông tin, gia hạn, chấm dứt thời hạn áp dụng các biện pháp kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu có yêu cầu bảo hộ quyền sở hữu trí tuệ là thông báo bổ sung, thay đổi thông tin, chấp nhận đề nghị gia hạn, chấm dứt kiểm tra, giám sát hàng hóa có yêu cầu bảo hộ quyền sở hữu trí tuệ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|50/2005/QH11|Luật 50/2005/QH11|29-11-2005|Quốc Hội|
+|13/2015/TT-BTC|Thông tư số 13/2015/TT-BTC ngày 30 tháng 01 năm 2015 của Bộ Tài chính quy định chi tiết thủ tục kiểm tra, giám sát, tạm dừng làm thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu có yêu cầu bảo vệ quyền sở hữu trí tuệ; kiểm soát hàng giả và hàng hóa xâm phạm quyền sở hữu trí tuệ|30-01-2015|Bộ Tài chính|
+|13/2020/TT-BTC|Thông tư 13/2020/TT-BTC|06-03-2020||
+|274/2016/TT-BTC|Thông tư 274/2016/TT-BTC|14-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+-- Hàng hóa xuất khẩu, nhập khẩu đã được bảo hộ quyền sở hữu trí tuệ ở Việt Nam.
+-- Trường hợp hồ sơ chưa đầy đủ, được nộp bổ sung hồ sơ, thời hạn không quá 10 ngày làm việc kể từ ngày cơ quan Hải quan gửi thông báo nộp bổ sung.
+-- Trường hợp chấm dứt áp dụng biện pháp kiểm tra, giám sát, người nộp Đơn đề nghị có văn bản gửi Tổng cục Hải quan (Cục Giám sát quản lý về hải quan) đề nghị chấm dứt việc kiểm tra, giám sát hải quan đối với hàng hóa có yêu cầu bảo vệ quyền sở hữu trí tuệ.
+-- Trường hợp đề nghị gia hạn thời hạn kiểm tra giám sát, hồ sơ đề nghị gia hạn thời hạn là chậm nhất 20 ngày trước ngày hết hiệu lực ghi trong văn bản thông báo chấp nhận đề nghị kiểm tra, giám sát.
+-- Hàng hóa xuất khẩu, nhập khẩu đã được bảo hộ quyền sở hữu trí tuệ ở Việt Nam.
+-- Trường hợp hồ sơ chưa đầy đủ, được nộp bổ sung hồ sơ, thời hạn không quá 10 ngày làm việc kể từ ngày cơ quan Hải quan gửi thông báo nộp bổ sung.
+-- Trường hợp chấm dứt áp dụng biện pháp kiểm tra, giám sát, người nộp Đơn đề nghị có văn bản gửi Tổng cục Hải quan (Cục Giám sát quản lý về hải quan) đề nghị chấm dứt việc kiểm tra, giám sát hải quan đối với hàng hóa có yêu cầu bảo vệ quyền sở hữu trí tuệ.
+-- Trường hợp đề nghị gia hạn thời hạn kiểm tra giám sát, hồ sơ đề nghị gia hạn thời hạn là chậm nhất 20 ngày trước ngày hết hiệu lực ghi trong văn bản thông báo chấp nhận đề nghị kiểm tra, giám sát.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

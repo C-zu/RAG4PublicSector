@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu giống cây trồng nông nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.|
+|Trực tuyến|05 Ngày làm việc||05 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, đúng quy định.|

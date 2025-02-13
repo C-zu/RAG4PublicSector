@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm tra hồ sơ kỹ thuật, hồ sơ hợp quy đối với lắp đặt và sử dụng thang máy điện, thang cuốn, băng tải chở người tại các công trình xây dựng trên địa bàn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Tại Bộ phận TN&TKQ - Sở LĐ-TB&XH|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ trực tuyến tại Trang thông tin điện tử Sở|
+|Dịch vụ bưu chính|5 Ngày làm việc|||

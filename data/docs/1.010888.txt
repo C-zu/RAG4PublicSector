@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010888
+Số quyết định:
+807/QĐ-UBND
+Tên thủ tục:
+Kiểm tra công tác nghiệm thu hoàn thành công trình (đối với các công trình trên địa bàn thuộc trách nhiệm quản lý của Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành, trừ các công trình thuộc thẩm quyền kiểm tra của Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng và cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý chất lượng công trình xây dựng
+Trình tự thực hiện:
+B1. Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2. Chuyển hồ sơ cho phòng chuyên môn xử lý.
+B3. Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4. Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu Dự thảo Văn bản thông báo hồ sơ không đủ điều kiện chấp thuận nghiệm thu đưa công trình vào sử dụng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 6
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho chủ đầu tư:
++ Nếu không bổ sung được thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện chấp thuận nghiệm thu đưa công trình vào sử dụng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 6.
++ Nếu bổ sung đầy đủ thì, ban hành giấy mời xem xét hiện trường, Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, ban hành giấy mời xem xét hiện trường, Chuyển sang thực hiện Bước 5.
+B5. Sau khi xem xét hiện trường:
+- Nếu đáp ứng yêu cầu, dự thảo văn bản thông báo kết quả nghiệm thu đưa công trình vào sử dụng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 6.
+- Nếu không đáp ứng yêu cầu,  dự toán văn bản thông báo đủ điều kiện chấp thuận nghiệm thu đưa công trình vào sử dụng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 6.
+B6. Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Sở phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở Bước 4 (trường hợp thiếu hồ sơ).
+B7. Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện chấp thuận nghiệm thu đưa công trình vào sử dụng hoặc Văn bản thông báo kết quả nghiệm thu đưa công trình vào sử dụng đã ký; 
+- Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B8. Phát hành văn bản và trả kết quả cho Trung tâm hành chính công tỉnh
+B9. Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 0 Đồng Không (chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế).|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+|Trực tuyến|20 Ngày|Lệ phí : 0 Đồng Không (chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế).|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+|Dịch vụ bưu chính|20 Ngày|Lệ phí : 0 Đồng Không (chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế).|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng theo Phụ lục VIa Nghị định số 06/2021/NĐ-CP. ([MẪU BÁO CÁO HOÀN THÀNH THI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe29f4b2a14a8e4'))
+- 01 Bản sao - Danh mục hồ sơ hoàn thành công trình theo Phụ lục Vlb Nghị định số 06/2021/NĐ-CP. ([MẪU DANH MỤC HỒ SƠ HOÀN THÀNH CÔNG TRÌNH.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd12e06bcdc02a2'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Xây dựng Hà Tĩnh
+Cơ quan có thẩm quyền:
+Sở Xây dựng Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh (Số 02A, đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh).
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo kết quả kiểm tra công tác nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng, Văn bản thông báo không đủ điều kiện chấp thuận nghiệm thu đưa công trình vào sử dụng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|06/2021/NĐ-CP|Nghị định 06/2021/NĐ-CP|26-01-2021||
+|477/QĐ-BXD|QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH MỚI BAN HÀNH; THỦ TỤC HÀNH CHÍNH ĐƯỢC THAY THẾ TRONG LĨNH VỰC QUẢN LÝ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ NHÀ NƯỚC CỦA BỘ XÂY DỰNG|29-04-2021|Bộ Xây dựng|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

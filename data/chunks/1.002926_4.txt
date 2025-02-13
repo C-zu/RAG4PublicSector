@@ -1,0 +1,20 @@
+Tên thủ tục: Cấp giấy phép, gia hạn, bổ sung, phục hồi năng định nhân viên kiểm soát an ninh hàng không
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp lại giấy phép đã hết thời hạn hiệu lực, mất, hỏng:
+- 01 Bản chính (1) Bản chính hoặc bản điện tử văn bản đề nghị theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbfc36b5d0e01f0'">1.002926.docx</a>)
+- 01 Bản chính, 01 Bản sao (2) 01 ảnh màu chân dung (đối với trường hợp gửi trực tiếp hoặc qua đường bưu chính) hoặc ảnh màu chân dung được số hóa (đối với trường hợp gửi trên môi trường điện tử), kích thước 03 cen-ti-mét x 04 cen-ti-mét (chụp trên phông nền màu trắng, đầu và vai thẳng để khuôn mặt chiếm từ 70% đến 80% ảnh, không quá 06 tháng kể từ ngày chụp tính đến ngày nộp hồ sơ).
+
+
+Hồ sơ đề nghị cấp giấy phép lần đầu:
+- 01 Bản chính - Bản chính hoặc bản điện tử văn bản đề nghị theo mẫu quy định. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9a326aa2b0014'">1.002926.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản sao xuất trình bản chính văn bằng, chứng chỉ chuyên môn phù hợp hoặc nộp bản sao có chứng thực văn bằng, chứng chỉ chuyên môn phù hợp để đối chiếu hoặc nộp bản sao điện tử có chứng thực (đối với trường hợp nộp hồ sơ trên môi trường điện tử) văn bằng, chứng chỉ chuyên môn phù hợp;
+- 01 Bản chính, 01 Bản sao 01 ảnh màu chân dung (đối với trường hợp gửi trực tiếp hoặc qua đường bưu chính) hoặc ảnh màu chân dung được số hóa (đối với trường hợp gửi trên môi trường điện tử) kích thước 03 cen-ti-mét x 04 cen-ti-mét (chụp trên phông nền màu trắng, đầu và vai thẳng để khuôn mặt chiếm từ 70% đến 80% ảnh, không quá 06 tháng kể từ ngày chụp tính đến ngày nộp hồ sơ)
+
+
+Hồ sơ đề nghị gia hạn, bổ sung, phục hồi năng định:
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản điện tử văn bản đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1dc141f59fdfb'">1.002926.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản sao hoặc bản sao điện tử kết quả huấn luyện định kỳ phù hợp với năng định đề nghị gia hạn, phục hồi
+- 01 Bản chính, 01 Bản sao Bản sao xuất trình bản chính văn bằng, chứng chỉ chuyên môn phù hợp để đối chiếu hoặc nộp bản sao có chứng thực văn bằng, chứng chỉ chuyên môn phù hợp hoặc nộp bản sao điện tử có chứng thực (đối với trường hợp nộp trên môi trường điện tử) văn bằng, chứng chỉ chuyên môn phù hợp (trường hợp bổ sung năng định)

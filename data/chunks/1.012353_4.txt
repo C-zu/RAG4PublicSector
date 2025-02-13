@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Văn bản đề nghị xác định công nghệ
+- 01 Bản chính Văn bản đề nghị xác định công nghệ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5c93561b058ac'">1. VB de nghi xac dinh cong nghe_mau so 01.pdf</a>)
+- 01 Bản chính Thuyết minh hiện trạng công nghệ sử dụng trong dự án đầu tư (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde6bb89560df02'">2. Thuyet minh hien trang..._mau so 02.pdf</a>)
+- 01 Bản chính Chứng thư giám định máy móc, thiết bị, dây chuyền công nghệ sử dụng trong dự án đầu tư còn hiệu lực (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe92be5d87a8aed'">3. Chưng thu giam dinh_mau so 03.pdf</a>)

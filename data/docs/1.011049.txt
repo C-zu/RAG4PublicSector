@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011049
+Số quyết định:
+1463/QĐ-BTC
+Tên thủ tục:
+Thông báo kết quả huỷ tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
+Doanh nghiệp sản xuất sản phẩm thuốc lá hoặc tổ chức, cá nhân sản xuất rượu khi ngừng sản xuất, giải thể, phá sản, chia, tách, sáp nhập hoặc chuyển cơ quan thuế quản lý sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Cổng thông tin điện tử của Tổng cục Thuế để thực hiện quyết toán và hủy số tem điện tử đã mua còn lại không có nhu cầu sử dụng trong vòng năm (05) ngày làm việc kể từ ngày tổ chức, cá nhân thông báo ngừng sản xuất hoặc ngày Quyết định giải thể, phá sản, chia, tách, sáp nhập hoặc ngày chuyển cơ quan thuế quản lý theo các nội dung sau: phương pháp hủy, lý do hủy, ký hiệu mẫu, ký hiệu, số lượng theo Mẫu số 04/TEM, Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC ngày 30/03/2021 của Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá.
+Trường hợp tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước bị hỏng: Doanh nghiệp sản xuất sản phẩm thuốc lá hoặc tổ chức, cá nhân sản xuất rượu tiêu thụ trong nước, phải thực hiện huỷ tem điện tử thuốc lá hoặc tem điện tử rượu bị hỏng không tiếp tục sử dụng. Tổ chức, cá nhân sử dụng tài khoản giao dịch điện tử còn hiệu lực đã được cơ quan thuế cấp, truy cập Cổng thông tin điện tử của Tổng cục Thuế để lập thông báo kết quả huỷ tem điện tử thuốc lá hoặc tem điện tử rượu trên Cổng thông tin điện tử của Tổng cục Thuế chậm nhất không quá năm (05) ngày làm việc kể từ ngày huỷ tem hỏng theo Mẫu số 04/TEM, Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC.
++ Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+Cơ quan thuế thực hiện tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ (và trả kết quả, nếu có kết quả) trong vòng 01 ngày làm việc  thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|01 Ngày làm việc||Trong 01 ngày làm việc|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Mẫu 04/TEM ban hành theo Phụ lục 3 Thông tư số 23/2021/TT-BTC. ([Mẫu 04.TEM.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde3a1d53edfb44'))
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Mẫu 02/TB/TEM
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|51/2005/QH11|Luật 51/2005/QH11|30-11-2005||
+|67/2006/QH11|Luật 67/2006/QH11|30-06-2006||
+|67/2013/NĐ-CP|Nghị định 67/2013/NĐ-CP|28-06-2013||
+|105/2017/NĐ-CP|Nghị định 105/2017/NĐ-CP|14-09-2017||
+|123/2020/NĐ-CP|Nghị định 123/2020/NĐ-CP|19-10-2020||
+|23/2021/TT-BTC|Thông tư 23/2021/TT-BTC|30-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

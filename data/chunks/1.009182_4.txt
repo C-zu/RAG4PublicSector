@@ -1,0 +1,14 @@
+Tên thủ tục: Thẩm định Hồ sơ thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc Hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) đối với công trình cấp III, IV do quận, huyện quản lý.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị thẩm định thiết kế và dự toán xây dựng công trình; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc685cdbc490304'">To trinh tham dinh thiet ke va du toan dau tu xay dung.doc</a>)
+- 01 Bản chính 2. Văn bản phê duyệt chủ trương và nguồn vốn thực hiện công trình kèm hồ sơ thiết kế cơ sở được phê duyệt;
+- 01 Bản chính 3. Quyết định phê duyệt, lựa chọn đơn vị tư vấn lập hồ sơ thiết kế kỹ thuật - dự toán, khảo sát địa chất, kiểm định chất lượng công trình (đối với các công trình có yêu cầu theo quy định);
+- 01 Bản chính 4. Hồ sơ thiết kế kỹ thuật và dự toán hoặc hồ sơ thiết kế bản vẽ thi công và dự toán công trình;
+- 01 Bản sao 5. Bản sao hồ sơ năng lực của tổ chức, cá nhân tham gia lập thiết kế, dự toán. Bản sao hồ sơ thiết kế cơ sở (nếu có);
+- 01 Bản sao 6. Bản sao Quyết định phê duyệt quy hoạch chi tiết đối với công trình có phê duyệt quy hoạch;
+- 01 Bản chính 7. Giấy Chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy, kèm theo hồ sơ đã được thẩm duyệt về phòng cháy và chữa cháy, báo cáo đánh giá tác động môi trường của cơ quan có thẩm quyền (đối với các công trình có yêu cầu theo quy định);
+- 01 Bản chính 8. Hồ sơ khảo sát địa chất, kiểm định chất lượng công trình do đơn vị tư vấn lập (đối với các công trình có yêu cầu theo quy định);

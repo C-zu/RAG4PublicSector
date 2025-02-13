@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000132
+Số quyết định:
+1351/QĐ-BKHĐT
+Tên thủ tục:
+Đăng ký tham gia Hệ thống mạng đấu thầu quốc gia đối với nhà thầu, nhà đầu tư
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đấu thầu
+Trình tự thực hiện:
+- Bước 1: Đăng ký thông tin nhà thầu, nhà đầu tư trên mạng
++ Nhà thầu, nhà đầu tư đăng ký các thông tin của đơn vị mình trên Hệ thống mạng đấu thầu quốc gia tại địa chỉ https://muasamcong.mpi.gov.vn (Hệ thống);
++ Nhà thầu, nhà đầu tư in đơn đăng ký từ Hệ thống; gửi đính kèm bản scan đơn đăng ký có chữ ký và dấu trên Hệ thống
+-  Bước 2: Nhận kết quả xử lý đơn đăng ký và thông tin tải khoản đăng nhập của Tổ chức tham gia Hệ thống qua thư điện tử.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ đăng ký|Phí : 550.000 Đồng 550.000 VNĐ (đã bao gồm 10% phí VAT) theo quy định tại Điều 5 Thông tư 06/2021/TT-BKHĐT|- Nhà thầu, nhà đầu tư gửi hồ sơ đăng ký trên Hệ thống theo Hướng dẫn sử dụng.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký tham gia Hệ thống được hình thành trên Hệ thống trong quá trình nhà thầu, nhà đầu tư kê khai thông tin đăng ký tham gia Hệ thống. Trường hợp người đại diện theo pháp luật của Tổ chức tham gia Hệ thống ủy quyền ký đơn đăng ký thì giấy ủy quyền này phải được đính kèm trên Hệ thống;
+- 01 Bản chính - Trường hợp Tổ chức tham gia Hệ thống không có tên trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp thì phải đính kèm trên Hệ thống bản chụp Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hộ kinh doanh (đối với hộ kinh doanh cá thể) hoặc các tài liệu tương đương khác.
+- 01 Bản chính Tên mẫu đơn, mẫu tờ khai: Thực hiện theo form Mẫu do Hệ thống hướng dẫn trong quá trình thực hiện đăng ký.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Kế hoạch và Đầu tư
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trung tâm Đấu thầu qua mạng quốc gia - Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư;
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Nhà thầu, nhà đầu tư có tên trong danh sách cơ sở dữ liệu nhà thầu, nhà đầu tư được phê duyệt trên Hệ thống, được cấp Tài khoản tham gia Hệ thống
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2013/QH13|Luật 43/2013/QH13|26-11-2013|Quốc Hội|
+|63/2014/NĐ-CP|Nghị định 63/2014/NĐ-CP|26-06-2014|Chính phủ|
+|25/2020/NĐ-Cp|quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư|28-02-2020|Bộ Kế hoạch và Đầu tư|
+|95/2020/NĐ-CP|Hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương|24-08-2020|Chính phủ|
+|09/2022/NĐ-CP|- Nghị định số 09/2022/NĐ-CP ngày 12 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính phủ hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương để hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương, Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh Châu Âu, Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len (Nghị định số 09/2022/NĐ-CP);|12-01-2022||
+|10/2022/TT-BKHĐT|Thông tư số 10/2022/TT-BKHĐT của Bộ Kế hoạch và Đầu tư: Quy định chi tiết việc cung cấp, đăng tải thông tin và lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia|15-06-2022||
+|08/2022/TT-BKHĐT|Quy định chi tiết về việc cung cấp, đăng tải thông tin về đấu thầu và lựa chọn nhà thầu trên hệ thống mạng đấu thầu Quốc gia|31-05-2022||
+|12/2022/TT-BKHĐT|Quy định chi tiết về lập hồ sơ mời thầu mua sắm hàng hóa đối với gói thầu thuộc phạm vi điều chỉnh của Hiệp định Đối tác toàn diện và tiến bộ xuyên Thái Bình Dương, Hiệp định thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh châu Âu, Hiệp định thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len|30-06-2022||
+|15/2022/TT-BKHĐT|Quy định chi tiết về lập hồ sơ mời thầu xây lắp đối với gói thầu thuộc phạm vi điều chỉnh của Hiệp định đối tác toàn diện và Tiến bộ xuyên Thái Bình Dương, Hiệp định thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh châu Âu, Hiệp định thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai - len|30-06-2022||
+|20/2022/TT-BKHĐT|quy định chi tiết về lập hồ sơ mời thầu dịch vụ tư vấn đối với gói thầu thuộc phạm vi điều chỉnh của Hiệp định Đối tác Toàn điện và Tiến bộ xuyên Thái Bình Dương, Hiệp định Thương mại tự do giữa Cộng hoà xã hội chủ nghĩa Việt Nam và Liên minh Châu Âu, Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len|30-09-2022|Bộ Kế hoạch và Đầu tư|
+|21/2022/TT-BKHĐT|quy định chi tiết về lập hồ sơ mời thầu dịch vụ phi tư vấn đối với gói thầu thuộc phạm vi điều chỉnh của Hiệp định Đối tác Toàn điện và Tiến bộ xuyên Thái Bình Dương, Hiệp định Thương mại tự do giữa Cộng hoà xã hội chủ nghĩa Việt Nam và Liên minh Châu Âu, Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len|30-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Đăng ký tham gia, Hệ thống, mạng đấu thầu quốc gia, đối với nhà thầu, nhà đầu tư
+Mô tả:
+Không có thông tin

@@ -1,0 +1,7 @@
+Tên thủ tục: Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Hồ sơ 01 bộ gửi trực tiếp hoặc qua đường bưu chính hoặc qua mạng điện tử (nếu đủ điều kiện áp dụng) đến Cơ quan cấp Giấy phép;
+b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy phép kiểm tra và yêu cầu sửa đổi, bổ sung nếu hồ sơ chưa đủ và hợp lệ;
+c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đủ và hợp lệ, Cơ quan cấp giấy phép điều chỉnh Giấy phép lập cơ sở bán lẻ, trường hợp từ chối phải có văn bản trả lời và nêu rõ lý do.

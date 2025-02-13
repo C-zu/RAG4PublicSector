@@ -1,0 +1,9 @@
+Tên thủ tục: Thanh toán chi phí khám, chữa bệnh bảo hiểm y tế với cơ sở khám chữa bệnh bảo hiểm y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày||- Cơ sở KCB BHYT nộp hồ sơ tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích (đồng thời chuyển dữ liệu điện tử qua mạng Internet). - Thực hiện ký biên bản quyết toán chi phí KCB BHYT tại trụ sở cơ quan BHXH hoặc tại cơ sở KCB|
+|Trực tuyến|40 Ngày||- Cơ sở KCB BHYT nộp hồ sơ tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích (đồng thời chuyển dữ liệu điện tử qua mạng Internet). - Thực hiện ký biên bản quyết toán chi phí KCB BHYT tại trụ sở cơ quan BHXH hoặc tại cơ sở KCB|
+|Dịch vụ bưu chính|40 Ngày||- Cơ sở KCB BHYT nộp hồ sơ tại cơ quan BHXH hoặc qua dịch vụ bưu chính công ích (đồng thời chuyển dữ liệu điện tử qua mạng Internet). - Thực hiện ký biên bản quyết toán chi phí KCB BHYT tại trụ sở cơ quan BHXH hoặc tại cơ sở KCB|

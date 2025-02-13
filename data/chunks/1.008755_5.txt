@@ -1,0 +1,25 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu (Sở Thông tin và Truyền thông)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Thông tin và Truyền thông thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt kết quả lựa chọn nhà thầu (đối với hồ sơ đạt yêu cầu), Công văn đề nghị bổ sung, làm rõ hồ sơ trình thẩm định (đối với hồ sơ không đạt yêu cầu)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|12/2020/QĐ-UBND|Quy định nội dung về quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|11-05-2020|UBND Thành phố Đà Nẵng|
+|18/2019/QĐ-UBND|Quyết định 18/2019/QĐ-UBND quy định về nội dung trong mua sắm, thuê tài sản, hàng hoá, dịch vụ tại cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của thành phố Đà Nẵng|11-03-2019||
+|43/2013/QH13|Luật 43/2013/QH13|26-11-2013||
+|63/2014/NĐ-CP|Nghị định 63/2014/NĐ-CP|26-06-2014||
+|58/2016/TT-BTC|Thông tư 58/2016/TT-BTC|29-03-2016||

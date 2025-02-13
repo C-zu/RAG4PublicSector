@@ -1,0 +1,12 @@
+Tên thủ tục: Thay đổi chủ thể hợp đồng mua bán điện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Mức giá : Miễn phí|Với khách hàng mua điện sinh hoạt|
+|Trực tiếp|3 Ngày làm việc|Mức giá : Miễn Phí|Với khách hàng mua điện ngoài sinh hoạt|
+|Trực tuyến|2 Ngày làm việc|Mức giá : Miễn phí|Với khách hàng mua điện sinh hoạt|
+|Trực tuyến|3 Ngày làm việc|Mức giá : Miễn Phí|Với khách hàng mua điện ngoài sinh hoạt|
+|Dịch vụ bưu chính|2 Ngày làm việc|Mức giá : Miễn phí|Với khách hàng mua điện sinh hoạt|
+|Dịch vụ bưu chính|3 Ngày làm việc|Mức giá : Miễn Phí|Với khách hàng mua điện ngoài sinh hoạt|

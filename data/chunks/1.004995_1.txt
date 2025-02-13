@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004995
+Số quyết định:
+2272/QĐ-BGTVT
+Tên thủ tục:
+Cấp giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ

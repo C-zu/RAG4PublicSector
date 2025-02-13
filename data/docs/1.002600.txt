@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002600
+Số quyết định:
+3629/QĐ-BYT
+Tên thủ tục:
+Cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm sản xuất trong nước
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Mỹ phẩm
+Trình tự thực hiện:
+Bước 1: Trước khi sản xuất, Tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm mỹ phẩm ra thị trường nộp hồ sơ công bố sản phẩm mỹ phẩm về Sở Y tế nơi đặt nhà máy sản xuất (Sản phẩm mỹ phẩm được sản xuất, đóng gói từ bán thành phẩm nhập khẩu được coi như sản phẩm sản xuất trong nước).
+Bước 2: Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ công bố mỹ phẩm, Sở Y tế có trách nhiệm tiếp nhận hồ sơ và gửi Phiếu báo thu nếu hồ sơ đầy đủ và hợp lệ.
+Bước 3: Giải quyết hồ sơ công bố sản phẩm mỹ phẩm:
+a) Trong vòng 03 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ và phí công bố theo quy định, Sở Y tế có trách nhiệm ban hành số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm.
+b) Trường hợp hồ sơ công bố chưa đáp ứng theo quy định thì trong vòng 05 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Y tế thông báo bằng văn bản điện tử cho tổ chức, cá nhân công bố biết các nội dung chưa đáp ứng để sửa đổi, bổ sung hồ sơ (nêu cụ thể các nội dung chưa đáp ứng).
+Hồ sơ bổ sung của đơn vị gồm:
+- Văn bản giải trình về việc sửa đổi, bổ sung của tổ chức, cá nhân đứng tên công bố;
+- Phiếu công bố sản phẩm mỹ phẩm và/hoặc các tài liệu khác được sửa đổi, bổ sung;
+Trong vòng 05 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung đáp ứng theo quy định, Sở Y tế có trách nhiệm ban hành số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm.
+Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng theo quy định thì trong vòng 05 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung, Sở Y tế thông báo bằng văn bản điện tử không đồng ý cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm cho sản phẩm này.
+c) Trong thời gian 03 tháng kể từ ngày ban hành văn bản thông báo theo quy định tại điểm b nêu trên, nếu Sở Y tế không nhận được hồ sơ bổ sung của tổ chức, cá nhân đứng tên công bố thì hồ sơ công bố không còn giá trị. Trong trường hợp này, nếu tổ chức, cá nhân muốn tiếp tục công bố thì phải nộp hồ sơ mới và nộp phí/lệ phí mới theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|Phí : 500.000 Đồng phí công bố|- 03 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ và phí công bố theo quy định (đối với trường hợp cấp số tiếp nhận);|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ công bố và phí công bố theo quy định (đối với trường hợp chưa cấp số tiếp nhận).|
+|Dịch vụ bưu chính|03 Ngày làm việc|Phí : 500.000 Đồng Phí công bố|- 03 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ và phí công bố theo quy định (đối với trường hợp cấp số tiếp nhận);|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ công bố và phí công bố theo quy định (đối với trường hợp chưa cấp số tiếp nhận).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu công bố sản phẩm mỹ phẩm; ([Mẫu phiếu CB.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc57da46be2da04'))
+- 01 Bản chính Giấy ủy quyền của nhà sản xuất hoặc chủ sở hữu sản phẩm ủy quyền cho tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra thị trường được phân phối sản phẩm mỹ phẩm tại Việt Nam (áp dụng đối với mỹ phẩm sản xuất trong nước mà tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra thị trường không phải là nhà sản xuất).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Y tế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018|Chính phủ|
+|277/2016/TT-BTC|Thông tư 277/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực dược, mỹ phẩm|14-11-2016|Bộ Tài chính|
+|06/2011/TT-BYT|Thông tư 06/2011/TT-BYT Quy định về quản lý mỹ phẩm|25-01-2011|Bộ Y tế|
+|93/2016/NĐ-CP|Nghị định 93/2016/NĐ-CP- Quy định về điều kiện sản xuất mỹ phẩm|01-07-2016|Chính phủ|
+|29/2020/TT-BYT|Thông tư 29/2020/TT-BYT|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra lưu thông trên thị trường phải có chức năng kinh doanh mỹ phẩm tại Việt Nam.
+- Việc công bố tính năng của sản phẩm mỹ phẩm (mục đích sử dụng của sản phẩm) phải đáp ứng hướng dẫn của ASEAN về công bố tính năng sản phẩm mỹ phẩm.
+- Cơ sở sản xuất mỹ phẩm phải có Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm do Sở Y tế nơi đặt nhà máy sản xuất cấp.
+- Tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra lưu thông trên thị trường phải có chức năng kinh doanh mỹ phẩm tại Việt Nam.
+- Việc công bố tính năng của sản phẩm mỹ phẩm (mục đích sử dụng của sản phẩm) phải đáp ứng hướng dẫn của ASEAN về công bố tính năng sản phẩm mỹ phẩm.
+- Cơ sở sản xuất mỹ phẩm phải có Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm do Sở Y tế nơi đặt nhà máy sản xuất cấp.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

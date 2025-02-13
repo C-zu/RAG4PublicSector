@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Đăng ký cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Thành phần hồ sơ, bao gồm:
+- 01 Bản chính a) Đơn đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán theo mẫu quy định tại Phụ lục số 02/ĐKHN ban hành kèm theo Thông tư 296/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính hướng dẫn về cấp, thu hồi và quản lý Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb132f3d07e8d3'">Đơn ĐN cấp lai GCNĐKHNDVKT Phụ lục số 02-TT296.docx</a>)
+- 02 Bản chính b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán;
+- 01 Bản chính c) Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán cũ đối với các trường hợp bị hỏng.
+ * Số lượng hồ sơ: 01 (bộ)

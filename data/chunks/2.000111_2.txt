@@ -1,0 +1,7 @@
+Tên thủ tục: Hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động cho doanh nghiệp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Người sử dụng lao động nộp 01 bộ hồ sơ cho Sở Lao động – Thương binh và Xã hội.
+	- Bước 2: Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Sở Lao động - Thương binh và Xã hội tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ gửi quyết định (kèm theo dữ liệu danh sách hỗ trợ) cho cơ quan Bảo hiểm xã hội. Trường hợp không hỗ trợ thì phải trả lời bằng văn bản cho người sử dụng lao động hoặc người lao động nộp hồ sơ đề nghị và nêu rõ lý do.
+	- Bước 3: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định hỗ trợ của Sở Lao động - Thương binh và Xã hội, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ khám bệnh nghề nghiệp cho người sử dụng lao động hoặc người lao động theo quyết định hỗ trợ. Trường hợp không chi trả thì phải trả lời bằng văn bản cho Sở Lao động - Thương binh và Xã hội và nêu rõ lý do.

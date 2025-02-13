@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp sử dụng quyền sử dụng đất, tài sản gắn liền với đất thuộc dự án đầu tư để góp vốn vào doanh nghiệp đối với dự án thuộc thẩm quyền chấp thuận của UBND cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8048edf2c2d2c'">Mẫu A.I.11.e.docx</a>)
+- 01 Bản chính, 03 Bản sao - Báo cáo tình hình thực hiện dự án đầu tư đến thời điểm góp vốn; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd12412fc5f1908'">Mẫu A.I.12.docx</a>)
+- 01 Bản chính, 03 Bản sao - Thỏa thuận của các cổ đông, thành viên về việc sử dụng quyền sử dụng đất, tài sản gắn liền với đất thuộc dự án đầu tư để góp vốn thành lập doanh nghiệp hoặc góp thêm vốn điều lệ của doanh nghiệp đang hoạt động;
+- 04 Bản sao - Bản sao tài liệu về tư cách pháp lý của nhà đầu tư góp vốn, nhà đầu tư nhận góp vốn;
+- 04 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư, Quyết định chấp thuận chủ trương đầu tư, Quyết định chấp thuận nhà đầu tư (nếu có) của bên góp vốn;
+- 04 Bản sao - Bản sao Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà và tài sản khác gắn liền với đất.

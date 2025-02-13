@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004883
+Số quyết định:
+21/QĐ-BGTVT
+Tên thủ tục:
+Chấp thuận chủ trương xây dựng đường ngang (đối với đường sắt có tốc độ thiết kế nhỏ hơn 100 km/giờ giao nhau với đường bộ; đường sắt giao nhau với đường bộ từ cấp IV trở xuống)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+Chủ đầu tư nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện hoặc gửi trên môi trường điện tử (thực hiện trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Giao thông vận tải hoặc Cổng Dịch vụ công quốc gia) đến cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang.
+Cục Đường sắt Việt Nam đối với đường ngang xây dựng trên đường sắt quốc gia, đường ngang công cộng xây dựng trên đường sắt chuyên dùng liên quan đến quốc lộ;
+Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương đối với đường ngang công cộng xây dựng trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị, đường bộ chuyên dùng thuộc phạm vi quản lý.
+Chủ sở hữu đường sắt chuyên dùng đối với đường ngang chuyên dùng xây dựng trên đường sắt chuyên dùng.
+Giải quyết TTHC:
+Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan, tổ chức có thẩm quyền gửi văn bản lấy ý kiến của các cơ quan, đơn vị liên quan; nếu hồ sơ chưa hợp lệ, trong thời hạn 02 ngày làm việc phải có văn bản trả lời và hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định;
+Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.|
+|Trực tuyến|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn không quá 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan, tổ chức có thẩm quyền chấp thuận chủ trương xây dựng đường ngang ban hành văn bản chấp thuận theo mẫu quy định. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị theo mẫu quy định ([13-Mẫu VB đề nghị .doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9cf7301c49358'))
+- 01 Bản chính Bình đồ khu vực xây dựng đường ngang
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam, Ủy ban nhân dân cấp Tỉnh, Chủ sở hữu đường sắt chuyên dùng
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam, Ủy ban nhân dân cấp Tỉnh, Chủ sở hữu đường sắt chuyên dùng
+Địa chỉ tiếp nhận HS:
+- Cục Đường sắt Việt Nam đối với đường ngang xây dựng trên đường sắt quốc gia, đường ngang công cộng xây dựng trên đường sắt chuyên dùng liên quan đến quốc lộ. - Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương đối với đường ngang công cộng xây dựng trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị, đường bộ chuyên dùng thuộc phạm vi quản lý. - Chủ sở hữu đường sắt chuyên dùng đối với đường ngang chuyên dùng xây dựng trên đường sắt chuyên dùng.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+VĂN BẢN CHẤP THUẬN CHỦ TRƯƠNG XÂY DỰNG ĐƯỜNG NGANG
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|65/2018/NĐ-CP|Quy định chi tiết thi hành một số Điều của Luật Đường sắt|12-05-2018|Chính phủ|
+|91/2023/NĐ-CP|sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP ngày 12/5/2018 và Nghị định 01/2022/ND-CP ngày 04/01/2022|14-12-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

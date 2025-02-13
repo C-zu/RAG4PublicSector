@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008253
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+Cấp thực hiện:
+Cấp Bộ, Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Mật mã dân sự
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp lập hồ sơ đề nghị cấp Giấy phép gửi Ban Cơ yếu Chính phủ thông qua Cục Quản lý mật mã dân sự và Kiểm định sản phẩm mật mã. Đại chỉ như sau:
+Số điện thoại/số fax: 04-3775.6896;
+Thư điện tử: info@nacis.gov.vn
+Website: http://www.nacis.gov.vn
+Bước 2: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định và cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Theo quy định của Luật phí và lệ phí tại Thông tư số 249/2016/TT-BTC||
+|Trực tuyến|10 Ngày làm việc|Lệ phí : Theo quy định của Luật phí và lệ phí tại Thông tư số 249/2016/TT-BTC||
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Theo quy định của Luật phí và lệ phí tại Thông tư số 249/2016/TT-BTC||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Đơn đề nghị cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự; ([Mẫu Đơn đề nghị Cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaff04eacd8f1b'))
+- 02 Bản sao - Bản sao Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
+- 02 Bản sao - Bản sao Giấy chứng nhận hợp quy đối với sản phẩm mật mã dân sự nhập khẩu (trường hợp đề nghị cấp Giấy phép nhập khẩu sản phẩm mật mã dân sự).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ban Cơ yếu Chính phủ
+Cơ quan có thẩm quyền:
+Ban Cơ yếu Chính phủ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2016/NĐ-CP|Nghị định 58/2016/NĐ-CP|01-07-2016|Chính phủ|
+|86/2015/QH13|Luật An toàn thông tin mạng số 86/2015/QH13 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII thông qua ngày 19 tháng 11 năm 2015|19-11-2015|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+-	Có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
+-	Sản phẩm mật mã dân sự nhập khẩu phải được chứng nhận, công bố hợp quy theo quy định của pháp luật;
+-	Đối tượng và mục đích sử dụng sản phẩm mật mã dân sự không gây phương hại đến quốc phòng, an ninh quốc gia và trật tự, an toàn xã hội.
+-	Có Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
+-	Sản phẩm mật mã dân sự nhập khẩu phải được chứng nhận, công bố hợp quy theo quy định của pháp luật;
+-	Đối tượng và mục đích sử dụng sản phẩm mật mã dân sự không gây phương hại đến quốc phòng, an ninh quốc gia và trật tự, an toàn xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

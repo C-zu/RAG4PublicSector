@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009542
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Hợp nhất, sáp nhập quỹ thành viên
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ thành viên đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.	
+		Bước 4: Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận đủ hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ, UBCKNN ra quyết định chấp thuận hợp nhất, sáp nhập quỹ; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+		Lưu ý: Trường hợp hợp nhất, sáp nhập quỹ có kết hợp với chào bán chứng chỉ quỹ, quỹ phải tuân thủ các quy định về chào bán có liên quan.
+		Bước 5: Trong thời hạn 05 (năm) ngày kể từ ngày hoàn tất việc hợp nhất, sáp nhập, công ty quản lý quỹ đầu tư chứng khoán gửi hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký lập quỹ đối với quỹ hình thành sau hợp nhất hoặc hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký lập cho quỹ hình thành sau sáp nhập. 
+		Bước 6: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+		Bước 7: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầusửa đổi, bổ sung.
+		Bước 8: Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ hình thành sau hợp nhất, sáp nhập; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea5f245b0f9b3e')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|07 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea5f245b0f9b3e')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1) Hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ a) Giấy đề nghị chấp thuận hợp nhất, sáp nhập quỹ; b) Biên bản họp và nghị quyết của các Đại hội nhà đầu tư thông qua việc hợp nhất, sáp nhập, thông qua hợp đồng hợp nhất, sáp nhập và Điều lệ quỹ hợp nhất, quỹ nhận sáp nhập; c) Hợp đồng hợp nhất, sáp nhập quỹ đầu tư chứng khoán /công ty đầu tư chứng khoán - Mẫu số 96 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; d) Điều lệ quỹ hợp nhất hoặc Điềulệ quỹ nhận sáp nhập sửa đổi - Mẫu Phụ lục I ban hành kèm theo Thông tư 98/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính. 2. Hồ sơ đề nghị cấp lại, điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ hình thành sau hợp nhất, sáp nhập a) Giấy đề nghị điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; b) Báo cáo kết quả thực hiện phương án hợp nhất, sáp nhập, kết quả thực hiện chuyển nhượng (nếu có), kết quả chào bán chứng chỉ quỹ (nếu có); c) Hợp đồng lưu ký tài sản của quỹ hợp nhất, quỹ nhận sáp nhập (nếu có); d) Danh sách nhà đầu tư chứng khoán chuyên nghiệp tham gia góp vốn lập quỹ thành viên của quỹ sau hợp nhất, sáp nhập - Mẫu số 93 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; đ) Bản gốc Giấy chứng nhận đăng ký lập quỹ của các quỹ bị hợp nhất, bị sáp nhập; e) Danh mục tài sản của quỹ hình thành sau hợp nhất, sáp nhập.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký lập quỹ cho quỹ hợp nhất hoặc Giấy chứng nhận điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ nhận sáp nhập; hoặc Công văn từ chối và nêu rõ lý do., Quyết định chấp thuận hợp nhất, sáp nhập quỹ; hoặc Công văn từ chối và nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+1) Quỹ thành viên được hợp nhất, sáp nhập với một quỹ thành viên khác theo nghị quyết các Đại hội nhà đầu tư của các quỹ thành viên bị hợp nhất, bị sáp nhập và nhận sáp nhập. 
+2) Quỹ thành viên hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện:
+a) Vốn góp tối thiểu là 50 tỷ đồng;
+b) Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+c) Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+d) Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+1) Quỹ thành viên được hợp nhất, sáp nhập với một quỹ thành viên khác theo nghị quyết các Đại hội nhà đầu tư của các quỹ thành viên bị hợp nhất, bị sáp nhập và nhận sáp nhập. 
+2) Quỹ thành viên hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện:
+a) Vốn góp tối thiểu là 50 tỷ đồng;
+b) Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+c) Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+d) Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

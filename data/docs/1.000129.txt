@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000129
+Số quyết định:
+1561/QĐ-NHNN
+Tên thủ tục:
+Thủ tục đăng ký khoản cho vay ra nước ngoài của tổ chức tín dụng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động ngoại hối
+Trình tự thực hiện:
+Bước 1: Tổ chức tín dụng cho vay nước ngoài gửi hồ sơ đến cơ quan xác nhận đăng ký khoản cho vay trong thời hạn 30 (ba mươi) ngày kể từ ngày ký thỏa thuận cho vay (trường hợp khoản cho vay không được bảo lãnh) hoặc trong thời hạn 30 (ba mươi) ngày kể từ ngày tổ chức bảo lãnh ký văn bản bảo lãnh (trường hợp khoản cho vay được bảo lãnh).
+Bước 2: Trong trường hợp cần thêm thông tin, điều kiện khác để có đủ cơ sở xác nhận hoặc từ chối xác nhận đăng ký, Ngân hàng Nhà nước Việt Nam thông báo bằng văn bản cho tổ chức tín dụng trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ của tổ chức tín dụng.
+Bước 3: Ngân hàng Nhà nước Việt Nam có văn bản xác nhận hoặc từ chối xác nhận đăng ký khoản cho vay nước ngoài trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày||Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đăng ký khoản cho vay ra nước ngoài ([PHỤ LỤC SỐ 01_Thông tư 45.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe061b4cab00ce5'))
+- 01 Bản chính 2. Báo cáo đánh giá tác động của khoản cho vay ra nước ngoài đến việc tuân thủ quy định về tỷ lệ an toàn vốn tối thiểu; giới hạn cấp tín dụng đối với một khách hàng (bên vay nước ngoài) và người có liên quan; tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung và dài hạn; tỷ lệ dư nợ cho vay so với tổng tiền gửi; tỷ lệ khả năng chi trả; trạng thái ngoại tệ của tổ chức tín dụng cho vay ra nước ngoài.
+- 01 Bản chính 3. Báo cáo thẩm định khoản cho vay ra nước ngoài gồm các nội dung chủ yếu sau: đánh giá tính khả thi, hiệu quả của dự án đầu tư, phương án sản xuất kinh doanh của bên vay nước ngoài; các rủi ro liên quan, khả năng thu hồi vốn gốc, lãi cho vay đầy đủ và đúng hạn; sự phù hợp về trị giá khoản cho vay và quy mô dự án sử dụng vốn vay; vấn đề bảo đảm khoản cho vay và các nội dung liên quan khác.
+- 01 Bản chính 4. Báo cáo về nguồn vốn ngoại tệ cho vay bao gồm nội dung liên quan đến quy mô, cơ cấu đồng tiền và cơ cấu kỳ hạn giữa nguồn vốn huy động và cho vay bằng ngoại tệ tại thời điểm ký thỏa thuận cho vay.
+- 01 Bản sao 5. Bản sao và bản dịch tiếng Việt Quyết định thành lập hoặc Giấy chứng nhận đăng ký đầu tư của bên vay nước ngoài theo quy định của nước sở tại.
+- 01 Bản sao 6. Bản sao Giấy chứng nhận đăng ký đầu tư ra nước ngoài của nhà đầu tư Việt Nam sở hữu vốn đầu tư và trực tiếp tham gia quản lý hoạt động đầu tư tại Bên vay nước ngoài.
+- 01 Bản sao 7. Bản sao và bản dịch tiếng Việt (có xác nhận của đại diện có thẩm quyền của tổ chức tín dụng) thỏa thuận cho vay đã ký.
+- 01 Bản sao 8. Bản sao và bản dịch tiếng Việt (có xác nhận của đại diện có thẩm quyền của tổ chức tín dụng) các văn bản, thỏa thuận bảo lãnh, bảo đảm khoản cho vay ra nước ngoài (nếu có).”
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền:
+Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa Ngân hàng Nhà nước 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công văn xác nhận đăng ký khoản cho vay ra nước ngoài
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|45/2011/TT-NHNN|Quy định về quản lý ngoại hối đối với việc cho vay, thu hồi nợ nước ngoài của tổ chức tín dụng|30-12-2011|Ngân hàng Nhà nước Việt Nam|
+|13/2016/TT-NHNN|Sửa đổi, bổ sung một số điều của Thông tư 45/2011/TT-NHNN ngày 30 tháng 12 năm 2011 của Thống đốc Ngân hàng Nhà nước quy định về quản lý ngoại hối đối với việc cho vay, thu hồi nợ nước ngoài của tổ chức tín dụng|30-06-2016|Ngân hàng Nhà nước Việt Nam|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

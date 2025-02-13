@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp mới số lưu hành đối với trang thiết bị y tế là phương tiện đo nhưng không phải phê duyệt mẫu theo quy định của pháp luật về đo lường
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày làm việc|Phí : 3000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại B  Phí : 5000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C,D|Sau 60 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Trực tuyến|60 Ngày làm việc|Phí : 3.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại B  Phí : 5.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C, D|Sau 60 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|60 Ngày làm việc|Phí : 3000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại B  Phí : 5000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C,D|Sau 60 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|

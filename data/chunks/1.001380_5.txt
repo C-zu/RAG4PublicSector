@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) cấp sau
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Phòng Quản lý Xuất Nhập khẩu khu vực, Các Chi nhánh, các tổ chức cấp C/O trực thuộc Phòng Thương mại và Công nghiệp Việt Nam (VCCI), Ban Quản lý Khu công nghiệp và Chế xuất, Sở Công Thương - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+Bộ Công thương, Cục Xuất nhập khẩu - Bộ Công Thương
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cục Thương mại điện tử và Kinh tế số - Bộ Công Thương, Tổng cục Hải quan - Bộ tài chính
+Kết quả thực hiện:
+Giấy chứng nhận xuất xứ hàng hóa (C/O) cấp sau
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|31/2018/NĐ-CP Nghị định 31/2018/NĐ-CP|Nghị định 31/2018/NĐ-CP|08-03-2018|Chính phủ|
+|05/2018/TT-BCT|Thông tư 05/2018/TT-BCT|03-04-2018|Bộ Công thương|

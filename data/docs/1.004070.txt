@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004070
+Số quyết định:
+4508/QĐ-BYT
+Tên thủ tục:
+Công bố cơ sở đủ điều kiện kiểm nghiệm chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y tế Dự phòng
+Trình tự thực hiện:
+Bước 1: Trước khi thực hiện kiểm nghiệm lần đầu tiên, cơ sở kiểm nghiệm gửi thông báo gồm các giấy tờ theo quy định tại Điều 11 Nghị định số 91/2016/NĐ-CP của Chính phủ đến Cục Quản lý môi trường y tế. 
+Bước 2: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được thông báo của cơ sở kiểm nghiệm, Cục Quản lý môi trường y tế có trách nhiệm công khai trên trang thông tin điện tử của Bộ Y tế các thông tin: Tên, địa chỉ, số điện thoại liên hệ của đơn vị kiểm nghiệm; danh mục các loại hóa chất mà đơn vị có khả năng kiểm nghiệm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày||Gửi qua đường bưu điện hoặc nộp trực tiếp tại Cục Quản lý môi trường y tế, Bộ Y tế. Trường hợpCục Quản lý môi trường y tế triển khai công bố trực tuyến, cơ sở công bố nộp hồ sơ trực tuyến|
+|Dịch vụ bưu chính|03 Ngày||Gửi qua đường bưu điện hoặc nộp trực tiếp tại Cục Quản lý môi trường y tế, Bộ Y tế. Trường hợpCục Quản lý môi trường y tế triển khai công bố trực tuyến, cơ sở công bố nộp hồ sơ trực tuyến|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản công bố đủ điều kiện thực hiện kiểm nghiệm theo Mẫu số 02 tại Phụ lục Iban hành kèm theo Nghị định số 91/2016/NĐ-CP; ([Mau 02 MTYT 5083.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea95b1c16034e6'))
+- 01 Bản chính Danh mục tên các hoạt chất mà cơ sở có khả năng kiểm nghiệm có xác nhận của cơ sở kiểm nghiệm;
+- 01 Bản sao Bản sao hợp lệ Giấy chứng nhận đạt tiêu chuẩn ISO 17025:2005 hoặc phiên bản cập nhật.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Môi trường Y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công bố thông tin trên trang thông tin điện tử
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|68/2014/QH13|Luật 68/2014/QH13|26-11-2014|Quốc Hội|
+|36/2005/QH11|Luật 36/2005/QH11 - Thương mại|14-06-2005|Quốc Hội|
+|06/2007/QH12|Luật 06/2007/QH12 - Hóa chất|21-11-2007|Quốc Hội|
+|91/2016/NĐ-CP|Nghị định 91/2016/NĐ-CP-Về quản lý hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13 -Đầu tư|26-11-2014|Quốc Hội|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018||
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC|14-11-2016||
+|28/2018/QH14|Luật 28/2018/QH14|15-06-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Khoản 5 Điều 9 Nghị định số 155/2018/NĐ-CP: 
+Đạt tiêu chuẩn ISO 17025:2005 hoặc các phiên bản cập nhật được cấp chứng nhận bởi tổ chức chứng nhận đã đăng ký theo quy định của pháp luật về điều kiện kinh doanh đánh giá sự phù hợp.
+Khoản 5 Điều 9 Nghị định số 155/2018/NĐ-CP: 
+Đạt tiêu chuẩn ISO 17025:2005 hoặc các phiên bản cập nhật được cấp chứng nhận bởi tổ chức chứng nhận đã đăng ký theo quy định của pháp luật về điều kiện kinh doanh đánh giá sự phù hợp.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

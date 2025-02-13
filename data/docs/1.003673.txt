@@ -1,0 +1,86 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003673
+Số quyết định:
+4508/QĐ-BYT
+Tên thủ tục:
+Đăng ký lưu hành bổ sung do thay đổi tác dụng, chỉ tiêu chất lượng, phương pháp sử dụng chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y tế Dự phòng
+Trình tự thực hiện:
+Bước 1.Cơ sở đăng ký lưu hành bổ sung nộp hồ sơ và phí thẩm định hồ sơ đến Cục Quản lý môi trường y tế, Bộ Y tế.
+Bước 2.Sau khi nhận được hồ sơ đăng ký lưu hành bổ sung đầy đủ và phí thẩm định hồ sơ, Cục Quản lý môi trường y tế, Bộ Y tế gửi cho cơ sở đăng ký Phiếu tiếp nhận hồ sơ theo Mẫu số 05 tại Phụ lục III ban hành kèm theo Nghị định số  91/2016/NĐ-CP.
+Bước 3. Đối với trường hợp thay đổi hạn sử dụng chế phẩm, trong thời hạn 30 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Cục Quản lý môi trường y tế, Bộ Y tế thông báo bằng văn bản cho cơ sở đăng ký về việc yêu cầu sửa đổi, bổ sung hồ sơ hoặc cho phép bổ sung hoặc không cho phép bổ sung Giấy chứng nhận đăng ký lưu hành và nêu rõ lý do.
+Đối với các trường hợp khác, trong thời hạn 30 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Cục Quản lý môi trường y tế, Bộ Y tế thông báo bằng văn bản cho cơ sở đăng ký về việc yêu cầu sửa đổi, bổ sung hồ sơ hoặc cho phép khảo nghiệm hoặc không cho phép khảo nghiệm và nêu rõ lý do.
+Bước 4.Trường hợp Cục Quản lý môi trường y tế, Bộ Y tế có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 90 ngày kể từ ngày ghi trên văn bản, cơ sở đăng ký lưu hành bổ sung phải hoàn chỉnh hồ sơ, giải trình bằng văn bản và gửi về Cục Quản lý môi trường y tế, Bộ Y tế. 
+Trường hợp Cục Quản lý môi trường y tế, Bộ Y tế có văn bản cho phép khảo nghiệm, trong thời gian tối đa 12 tháng kể từ ngày ghi trên công văn cho phép khảo nghiệm, cơ sở đăng ký lưu hành bổ sung phải nộp kết quả khảo nghiệm để bổ sung vào hồ sơ.
+Bước 5.Trong thời hạn 30 ngày, kể từ ngày nhận được Phiếu trả lời kết quả khảo nghiệm và phí thẩm định hồ sơ đăng ký lưu hành bổ sung, Cục Quản lý môi trường y tế phải có văn bản thông báo yêu cầu sửa đổi, bổ sung hồ sơ hoặc cho phép hoặc không cho phép bổ sung Giấy chứng nhận đăng ký lưu hành nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 2.000.000 Đồng Phí thẩm định hồ sơ cho phép khảo nghiệm: 2.000.000 đồng/hồ sơ  Phí : 2.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành bổ sung: 2.000.000 đồng/hồ sơ|30 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ hoặc kể từ ngày nhận được Phiếu trả lời kết quả khảo nghiệm và phí thẩm định hồ sơ|
+|Trực tuyến|30 Ngày|Phí : 2.000.000 Đồng Phí thẩm định hồ sơ cho phép khảo nghiệm: 2.000.000 đồng/hồ sơ  Phí : 2.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành bổ sung: 2.000.000 đồng/hồ sơ|30 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ hoặc kể từ ngày nhận được Phiếu trả lời kết quả khảo nghiệm và phí thẩm định hồ sơ|
+|Dịch vụ bưu chính|30 Ngày||30 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ hoặc kể từ ngày nhận được Phiếu trả lời kết quả khảo nghiệm và phí thẩm định hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị đăng ký lưu hành bổ sung theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP; ([Mau 05 MTYT 5083.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3ef6e9053977c'))
+- 01 Bản chính, 01 Bản sao 2. Phiếu trả lời kết quả khảo nghiệm (trừ trường hợp thay đổi hạn sử dụng của chế phẩm);
+- 01 Bản chính, 01 Bản sao 3. Tài liệu nghiên cứu độ ổn định (đối với trường hợp thay đổi hạn sử dụng của chế phẩm);
+- 01 Bản chính, 01 Bản sao 4. Kết quả kiểm nghiệm thành phần và hàm lượng hoạt chất (đối với trường hợp thay đổi thành phần và hàm lượng hoạt chất);
+- 01 Bản sao 5. Mẫu nhãn mới của chế phẩm.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Môi trường Y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký lưu hành
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|68/2014/QH13|Luật 68/2014/QH13|26-11-2014|Quốc Hội|
+|36/2005/QH11|Luật 36/2005/QH11 - Thương mại|14-06-2005|Quốc Hội|
+|06/2007/QH12|Luật 06/2007/QH12 - Hóa chất|21-11-2007|Quốc Hội|
+|91/2016/NĐ-CP|Nghị định 91/2016/NĐ-CP-Về quản lý hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13 -Đầu tư|26-11-2014|Quốc Hội|
+|28/2018/QH14|Luật 28/2018/QH14|15-06-2018||
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018||
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC|14-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Yêu cầu đối với hồ sơ đăng ký lưu hành):
+1. Các tài liệu trong hồ sơ được in rõ ràng, sắp xếp theo trình tự theo quy định tại Điều 23 Nghị định số 91/2016/NĐ-CP, giữa các phần có phân cách, có trang bìa và danh mục tài liệu.
+2. Các tài liệu bằng tiếng Anh phải dịch ra tiếng Việt và kèm theo tài liệu gốc. Tài liệu bằng tiếng nước ngoài không phải là tiếng Anh phải được dịch ra tiếng Việt, bản dịch tiếng Việt phải được công chứng theo quy định của pháp luật.
+3. Yêu cầu đối với giấy tờ trong bộ hồ sơ đăng ký lưu hành:
+a) Bản gốc hoặc bản sao hợp lệ Phiếu trả lời kết quả khảo nghiệm được thực hiện bởi cơ sở độc lập (không phải cơ sở sản xuất, cơ sở đăng ký chế phẩm) và đủ điều kiện thực hiện khảo nghiệm theo quy định tại Điều 14 Nghị định số 91/2016/NĐ-CP;
+b) Bản gốc hoặc bản sao hợp lệ Kết quả kiểm nghiệm thành phần và hàm lượng hoạt chất của chế phẩm. Kết quả kiểm nghiệm phải được thực hiện bởi cơ sở đủ điều kiện thực hiện kiểm nghiệm theo quy định tại Điều 10 Nghị định này. Trường hợp các cơ sở kiểm nghiệm ở Việt Nam không đủ năng lực để kiểm nghiệm, cơ sở đăng ký được sử dụng kết quả kiểm nghiệm của đơn vị sản xuất hoặc một phòng xét nghiệm độc lập đạt ISO 17025:2005 hoặc tiêu chuẩn ISO 15189:2012 hoặc phiên bản cập nhật và đơn vị đăng ký phải chịu trách nhiệm trước pháp luật về tính hợp pháp của kết quả kiểm nghiệm do mình cung cấp;
+c) Mẫu nhãn của tất cả các quy cách đóng gói theo kích thước thực có xác nhận của cơ sở đăng ký. Trường hợp nhiều quy cách đóng gói có nhãn thiết kế giống nhau, cơ sở đăng ký nộp nhãn của quy cách đóng gói nhỏ nhất. Trường hợp mẫu nhãn chế phẩm nhập khẩu ghi bằng tiếng nước ngoài thì phải kèm theo nội dung nhãn phụ bằng tiếng Việt. Mẫu nhãn, nội dung nhãn phụ của chế phẩm phải đáp ứng các yêu cầu tại Phụ lục IX ban hành kèm theo Nghị định số 155/2018/NĐ-CP.
+4. Các giấy tờ khác trong bộ hồ sơ đăng ký lưu hành phải được cơ sở đăng ký đóng dấu giáp lai hoặc vào từng trang tài liệu).
+Yêu cầu đối với hồ sơ đăng ký lưu hành):
+1. Các tài liệu trong hồ sơ được in rõ ràng, sắp xếp theo trình tự theo quy định tại Điều 23 Nghị định số 91/2016/NĐ-CP, giữa các phần có phân cách, có trang bìa và danh mục tài liệu.
+2. Các tài liệu bằng tiếng Anh phải dịch ra tiếng Việt và kèm theo tài liệu gốc. Tài liệu bằng tiếng nước ngoài không phải là tiếng Anh phải được dịch ra tiếng Việt, bản dịch tiếng Việt phải được công chứng theo quy định của pháp luật.
+3. Yêu cầu đối với giấy tờ trong bộ hồ sơ đăng ký lưu hành:
+a) Bản gốc hoặc bản sao hợp lệ Phiếu trả lời kết quả khảo nghiệm được thực hiện bởi cơ sở độc lập (không phải cơ sở sản xuất, cơ sở đăng ký chế phẩm) và đủ điều kiện thực hiện khảo nghiệm theo quy định tại Điều 14 Nghị định số 91/2016/NĐ-CP;
+b) Bản gốc hoặc bản sao hợp lệ Kết quả kiểm nghiệm thành phần và hàm lượng hoạt chất của chế phẩm. Kết quả kiểm nghiệm phải được thực hiện bởi cơ sở đủ điều kiện thực hiện kiểm nghiệm theo quy định tại Điều 10 Nghị định này. Trường hợp các cơ sở kiểm nghiệm ở Việt Nam không đủ năng lực để kiểm nghiệm, cơ sở đăng ký được sử dụng kết quả kiểm nghiệm của đơn vị sản xuất hoặc một phòng xét nghiệm độc lập đạt ISO 17025:2005 hoặc tiêu chuẩn ISO 15189:2012 hoặc phiên bản cập nhật và đơn vị đăng ký phải chịu trách nhiệm trước pháp luật về tính hợp pháp của kết quả kiểm nghiệm do mình cung cấp;
+c) Mẫu nhãn của tất cả các quy cách đóng gói theo kích thước thực có xác nhận của cơ sở đăng ký. Trường hợp nhiều quy cách đóng gói có nhãn thiết kế giống nhau, cơ sở đăng ký nộp nhãn của quy cách đóng gói nhỏ nhất. Trường hợp mẫu nhãn chế phẩm nhập khẩu ghi bằng tiếng nước ngoài thì phải kèm theo nội dung nhãn phụ bằng tiếng Việt. Mẫu nhãn, nội dung nhãn phụ của chế phẩm phải đáp ứng các yêu cầu tại Phụ lục IX ban hành kèm theo Nghị định số 155/2018/NĐ-CP.
+4. Các giấy tờ khác trong bộ hồ sơ đăng ký lưu hành phải được cơ sở đăng ký đóng dấu giáp lai hoặc vào từng trang tài liệu).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

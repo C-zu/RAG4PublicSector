@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục khai báo nguồn phóng xạ, chất thải phóng xạ, thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế), vật liệu hạt nhân nguồn, vật liệu hạt nhân, thiết bị hạt nhân
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đủ hồ sơ khai báo Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy xác nhận khai báo theo một trong các cách thức sau: - Trực tuyến tại Cổng dịch vụ công của Bộ KH&CN; - Trực tiếp tại Bộ phận một cửa hoặc thông qua dịch vụ bưu chính đến Bộ KH&CN.|
+|Trực tuyến|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đủ hồ sơ khai báo Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy xác nhận khai báo theo một trong các cách thức sau: - Trực tuyến tại Cổng dịch vụ công của Bộ KH&CN; - Trực tiếp tại Bộ phận một cửa hoặc thông qua dịch vụ bưu chính đến Bộ KH&CN.|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận đủ hồ sơ khai báo Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy xác nhận khai báo theo một trong các cách thức sau: - Trực tuyến tại Cổng dịch vụ công của Bộ KH&CN; - Trực tiếp tại Bộ phận một cửa hoặc thông qua dịch vụ bưu chính đến Bộ KH&CN.|

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp đổi Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí đổi giấy đăng ký không kèm theo biển số 50.000 đồng/lần/phương tiện  Lệ phí : 50000 Đồng Lệ phí đóng lại số khung, số máy 50.000 đồng/lần/phương tiện  Lệ phí : 200000 Đồng Lệ phí đổi giấy đăng ký kèm theo biển số 200.000 đồng/lần/phương tiện|- Trường hợp thay đổi các thông tin liên quan đến chủ sở hữu (không thay đổi chủ sở hữu); Giấy chứng nhận đăng ký hoặc biển số bị hỏng: 03 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ theo quy định; - Trường hợp cải tạo, thay đổi màu sơn: 03 ngày làm việc kể từ ngày kết thúc kiểm tra hoặc nhận được kết quả kiểm tra đối với trường hợp xe máy chuyên dùng đang hoạt động, tập kết ngoài địa phương cấp đăng ký.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Bảo đảm đầu tư trong trường hợp không được tiếp tục áp dụng ưu đãi đầu tư - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị áp dụng các biện pháp bảo đảm đầu tư gồm các nội dung sau: + Tên và địa chỉ của nhà đầu tư; + Ưu đãi đầu tư theo quy định tại văn bản pháp luật trước thời điểm văn bản pháp luật mới có hiệu lực gồm: Loại ưu đãi, điều kiện hưởng ưu đãi, mức ưu đãi (nếu có); + Nội dung văn bản pháp luật mới có quy định làm thay đổi ưu đãi đầu tư; + Đề xuất của nhà đầu tư về áp dụng biện pháp bảo đảm ưu đãi đầu tư quy định tại Khoản 4 Điều 13 Luật Đầu tư.
+- 01 Bản chính Giấy phép đầu tư, Giấy phép kinh doanh, Giấy chứng nhận ưu đãi đầu tư, Giấy chứng nhận đầu tư, Giấy chứng nhận đăng ký đầu tư, văn bản quyết định chủ trương đầu tư hoặc văn bản khác của cơ quan nhà nước có thẩm quyền có quy định về ưu đãi đầu tư (nếu có một trong các loại giấy tờ đó).

@@ -1,0 +1,7 @@
+Tên thủ tục: Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện (cấp tỉnh - trường hợp đã thành lập VP đăng ký đất đai)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định||Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất nộp hồ sơ tại cơ quan có thẩm quyền cấp Giấy chứng nhận hoặc trên môi trường điện tử.|

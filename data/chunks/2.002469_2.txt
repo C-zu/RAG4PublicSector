@@ -1,0 +1,16 @@
+Tên thủ tục: Chứng nhận Nhãn sinh thái Việt Nam
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Nộp hồ sơ: 
+Tổ chức/cá nhân nộp hồ sơ qua hệ thống dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường theo địa chỉ https://dichvucong.monre.gov.vn, Cổng dịch vụ công quốc gia theo địa chỉ https://dichvucong.gov.vn hoặc gửi trực tiếp, qua dịch vụ bưu chính đến Văn phòng tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường, địa chỉ số 10 Tôn Thất Thuyết, quận Nam Từ Liêm, Hà Nội.
+Bước 2. Kiểm tra hồ sơ: 
+Bộ Tài nguyên và Môi trường kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản để yêu cầu tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ trong trường hợp hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3. Trình tự chứng nhận: 
+Sau khi nhận được hồ sơ đầy đủ, hợp lệ, cơ quan được giao đánh giá của Bộ Tài nguyên và Môi trường tổ chức đánh giá theo trình tự sau:
++ Thành lập hội đồng đánh giá;
++ Tiến hành khảo sát thực tế; 
++ Họp hội đồng đánh giá hồ sơ; trong trường hợp cần thiết, tiến hành trưng cầu giám định để đánh giá sự phù hợp với bộ tiêu chí Nhãn sinh thái Việt Nam. 
+Bước 4. Cấp Quyết định chứng nhận Nhãn sinh thái Việt Nam
+Sau khi có kết quả họp hội đồng đánh giá sản phẩm, dịch vụ đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam, cơ quan được giao đánh giá báo cáo và trình Bộ Tài nguyên và Môi trường ban hành Quyết định chứng nhận Nhãn sinh thái Việt Nam.
+Trường hợp kết quả đánh giá sản phẩm, dịch vụ không đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam, cơ quan được giao đánh giá của Bộ Tài nguyên và Môi trường thông báo bằng văn bản cho tổ chức, cá nhân biết và nêu rõ lý do không chứng nhận Nhãn sinh thái Việt Nam.

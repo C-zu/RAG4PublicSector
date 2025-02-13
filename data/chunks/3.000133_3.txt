@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường kiểu loại sản phẩm (xe ô tô sản xuất, lắp ráp thuộc đối tượng của Nghị định 116/2017/NĐ-CP)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||Thời hạn kiểm tra nội dung hồ sơ và kết quả đánh giá COP: trong phạm vi 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ|
+|Trực tiếp|03 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe cơ giới; linh kiện (bao gồm cả xe cải tạo): 40.000 đồng/01 Giấy chứng nhận;  Lệ phí : 90.000 Đồng Lệ phí cấp Giấy chứng nhận cấp cho xe ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 90.000 đồng/01 Giấy chứng nhận.|Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ theo quy định và có kết quả đánh giá COP đạt yêu cầu|
+|Trực tuyến|07 Ngày làm việc||Thời hạn kiểm tra nội dung hồ sơ và kết quả đánh giá COP: trong phạm vi 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ|
+|Trực tuyến|03 Ngày làm việc|Lệ phí : 90.000 Đồng Lệ phí cấp Giấy chứng nhận cấp cho xe ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 90.000 đồng/01 Giấy chứng nhận.  Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe cơ giới; linh kiện (bao gồm cả xe cải tạo): 40.000 đồng/01 Giấy chứng nhận;|Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ theo quy định và có kết quả đánh giá COP đạt yêu cầu|
+|Dịch vụ bưu chính|07 Ngày làm việc||Thời hạn kiểm tra nội dung hồ sơ và kết quả đánh giá COP: trong phạm vi 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ|
+|Dịch vụ bưu chính|03 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe cơ giới; linh kiện (bao gồm cả xe cải tạo): 40.000 đồng/01 Giấy chứng nhận;  Lệ phí : 90.000 Đồng Lệ phí cấp Giấy chứng nhận cấp cho xe ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 90.000 đồng/01 Giấy chứng nhận.|Thời hạn cấp Giấy chứng nhận: 03 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ theo quy định và có kết quả đánh giá COP đạt yêu cầu|

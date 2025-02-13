@@ -1,0 +1,16 @@
+Tên thủ tục: Danh mục dự án đầu tư có sử dụng đất do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện lập (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010767
+Số quyết định:
+563/QĐ-UBND
+Tên thủ tục:
+Danh mục dự án đầu tư có sử dụng đất do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện lập (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đấu thầu

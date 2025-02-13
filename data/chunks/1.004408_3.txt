@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp, công nhận Giấy chứng nhận loại
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1|Phí : 30000000/lần Đồng Tàu bay->Dưới 20 tấn  Phí : 80000000/lần Đồng Tàu bay->Từ 20 - dưới 50 tấn  Phí : 250000000/lần Đồng Tàu bay->Từ 50 - dưới 150 tấn  Phí : 410000000/lần Đồng Tàu bay->Từ 150 - dưới 250 tấn  Phí : 580000000/lần Đồng Tàu bay->Từ 250 tấn trở lên  Phí : 30000000/lần Đồng Thiết bị đồng bộ  Phí : 5000000/lần Đồng Thiết bị lẻ, vật tư khác|- 10 tháng đối với cấp Giấy chứng nhận loại. - 06 tháng đối với công nhận hiệu lực Giấy chứng nhận loại.|
+|Dịch vụ bưu chính|1|Phí : 30000000/lần Đồng Tàu bay->Dưới 20 tấn  Phí : 80000000/lần Đồng Tàu bay->Từ 20 - dưới 50 tấn  Phí : 250000000/lần Đồng Tàu bay->Từ 50 - dưới 150 tấn  Phí : 410000000/lần Đồng Tàu bay->Từ 150 - dưới 250 tấn  Phí : 580000000/lần Đồng Tàu bay->Từ 250 tấn trở lên  Phí : 30000000/lần Đồng Thiết bị đồng bộ  Phí : 5000000/lần Đồng Thiết bị lẻ, vật tư khác|- 10 tháng đối với cấp Giấy chứng nhận loại. - 06 tháng đối với công nhận hiệu lực Giấy chứng nhận loại.|

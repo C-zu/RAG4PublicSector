@@ -1,0 +1,7 @@
+Tên thủ tục: Lập, phê duyệt kế hoạch tổng thể thực hiện chương trình, dự án sử dụng vốn ODA, vốn vay ưu đãi, vốn đối ứng.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Kế hoạch tổng thể thực hiện chương trình, dự án được lập cho toàn bộ thời gian thực hiện chương trình, dự án và phải bao gồm tất cả hợp phần, hạng mục, nhóm hoạt động, nguồn vốn tương ứng (vốn ODA, vốn vay ưu đãi, vốn đối ứng) và tiến độ thực hiện dự kiến kèm theo.

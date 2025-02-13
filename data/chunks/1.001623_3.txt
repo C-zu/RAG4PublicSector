@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp điều chỉnh hạng xe đào tạo, lưu lượng đào tạo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Ngày làm việc||Trong thời gian không quá 08 (tám) ngày làm việc, kể từ ngày nhận đủ hồ sơ cấp lại theo quy định|
+|Dịch vụ bưu chính|8 Ngày làm việc||Trong thời gian không quá 08 (tám) ngày làm việc, kể từ ngày nhận đủ hồ sơ cấp lại theo quy định|

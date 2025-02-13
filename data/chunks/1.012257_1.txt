@@ -1,0 +1,16 @@
+Tên thủ tục: Cho phép tổ chức hoạt động khám bệnh, chữa bệnh nhân đạo theo đợt, khám bệnh, chữa bệnh lưu động thuộc trường hợp quy định tại khoản 1 Điều 79 của Luật Khám bệnh, chữa bệnh hoặc cá nhân khám bệnh, chữa bệnh nhân đạo
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012257
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Cho phép tổ chức hoạt động khám bệnh, chữa bệnh nhân đạo theo đợt, khám bệnh, chữa bệnh lưu động thuộc trường hợp quy định tại khoản 1 Điều 79 của Luật Khám bệnh, chữa bệnh hoặc cá nhân khám bệnh, chữa bệnh nhân đạo
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh

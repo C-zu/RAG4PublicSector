@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục thực hiện chế độ trợ cấp một lần đối với quân nhân, công nhân viên chức quốc phòng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chế độ, chính sách của Đảng và Nhà nước (đối tượng cư trú ở địa phương khác không còn lưu giữ giấy tờ)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001995
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục thực hiện chế độ trợ cấp một lần đối với quân nhân, công nhân viên chức quốc phòng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chế độ, chính sách của Đảng và Nhà nước (đối tượng cư trú ở địa phương khác không còn lưu giữ giấy tờ)
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chính sách

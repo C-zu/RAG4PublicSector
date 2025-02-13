@@ -1,0 +1,7 @@
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp hoạt động dịch vụ việc làm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị rút tiền ký quỹ của doanh nghiệp theo quy định. - Văn bản đồng ý về việc rút tiền ký quỹ của cơ quan nhà nước có thẩm quyền theo Mẫu số 07 Phụ lục II ban hành kèm theo Nghị định số 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ. - Chứng từ rút tiền ký quỹ theo quy định của ngân hàng nhận ký quỹ (nếu có). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe73d5cd6e6de92'">Mau 07.docx</a>)

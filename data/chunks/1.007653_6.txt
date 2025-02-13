@@ -1,0 +1,18 @@
+Tên thủ tục: Thủ tục cấp lại mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Thẻ nhân viên đại lý làm thủ tục hải quan bị mất và được đại lý làm thủ tục hải quan xác nhận tại Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan;
+
+- Đại lý làm thủ tục hải quan có thay đổi tên đăng ký kinh doanh;
+
+- Nhân viên đại lý làm thủ tục hải quan có thay đổi số định danh cá nhân hoặc số chứng minh nhân dân hoặc số căn cước công dân.
+- Thẻ nhân viên đại lý làm thủ tục hải quan bị mất và được đại lý làm thủ tục hải quan xác nhận tại Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan;
+
+- Đại lý làm thủ tục hải quan có thay đổi tên đăng ký kinh doanh;
+
+- Nhân viên đại lý làm thủ tục hải quan có thay đổi số định danh cá nhân hoặc số chứng minh nhân dân hoặc số căn cước công dân.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

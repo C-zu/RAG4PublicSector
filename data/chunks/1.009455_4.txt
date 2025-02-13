@@ -1,0 +1,10 @@
+Tên thủ tục: Công bố hoạt động bến khách ngang sông, bến thủy nội địa phục vụ thi công công trình chính
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn nghị công bố hoạt động theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9958a6110234d'">23.docx</a>)
+- 01 Bản chính - Hồ sơ thiết kế kỹ thuật, biên bản nghiệm thu hoàn thành công trình (nếu có),
+- 01 Bản sao - Bản sao có chứng thực giấy tờ về sử dụng đất để xây dựng bến (đối với bến khách ngang sông);
+- 01 Bản sao -Bản sao giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của kết cấu nổi, phương tiện, pông-tông hoặc phao neo thuộc diện phải đăng kiểm (nếu sử dụng kết cấu nổi, phương tiện, pông-tông làm bến).

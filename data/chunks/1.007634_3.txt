@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (điều chỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 2.000.000 Đồng|- Nộp hồ sơ trực tiếp tại trụ sở Bô Tài chính hoặc qua đường bưu điện - 20 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : 2.000.000 Đồng|- Nộp hồ sơ trực tiếp tại trụ sở Bô Tài chính hoặc qua đường bưu điện - 20 ngày kể từ ngày nhận được hồ sơ hợp lệ.|

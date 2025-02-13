@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo, thay đổi về tỷ lệ sở hữu nước ngoài tối đa
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Công ty đại chúng, doanh nghiệp cổ phần hóa nộp hồ sơ thông báo, thay đổi tỷ lệ sở hữu nước ngoài tối đa.
++ Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh mục hồ sơ theo quy định.
++ Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, trong thời hạn 07 (bẩy) ngày Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu công ty đại chúng, doanh nghiệp cổ phần hóa bổ sung hoặc giải trình.
++ Bước 4: Trong thời hạn 07 (bẩy) ngày kể từ khi nhận hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước gửi công văn thông báo về việc nhận đủ hồ sơ thông báo, thay đổi tỷ lệ sở hữu nước ngoài tối đa. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước gửi văn bản và nêu rõ lý do.

@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (xuất khẩu chất phóng xạ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6bd3335b1a67c'">Đơn đề nghị.docx</a>)
+- 01 Bản chính Báo cáo đánh giá an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed092d64c626f4'">Bao cao danh gia an toan.doc</a>)
+- 01 Bản sao Bản sao quyết định thành lập tổ chức, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặc giấy đăng ký hành nghề
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất cung cấp thông tin như được khai trong phiếu khai báo nguồn phóng xạ kín, nguồn phóng xạ hở
+- 01 Bản sao Bản sao hợp đồng mua bán và văn bản thỏa thuận về việc chuyển giao, tiếp nhận nguồn phóng xạ giữa tổ chức, cá nhân xuất khẩu phía Việt Nam với tổ chức, cá nhân tiếp nhận nguồn ở nước ngoài
+- 01 Bản sao Bản sao giấy phép nhập khẩu của cơ quan có thẩm quyền nước nhập khẩu cấp cho tổ chức, cá nhân nhập khẩu đối với chất phóng xạ có mức nguy hiểm trên trung bình
+- 01 Bản chính Bản dịch các tài liệu tiếng nước ngoài
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed3bb939deb1c7'">Phiếu khai báo nguồn phóng xạ kín.docx</a>)
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ hở (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe73bb19106462c'">phiếu khai báo nguồn phóng xạ hở.docx</a>)

@@ -1,0 +1,8 @@
+Tên thủ tục: Điều chỉnh Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán do thay đổi tên công ty, người đại diện theo pháp luật, thay đổi công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, giám sát, thay đổi thời gian hoạt động, thay đổi trụ sở công ty
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec553b22d90af7'">272-2016-TT-BTC.pdf</a>|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec553b22d90af7'">272-2016-TT-BTC.pdf</a>|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|

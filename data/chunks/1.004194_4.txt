@@ -1,0 +1,24 @@
+Tên thủ tục: Đăng ký tạm trú
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Hồ sơ đăng ký tạm trú gồm:
+- 01 Bản chính, 01 Bản sao - Tờ khai thay đổi thông tin cư trú (Mẫu CT01); đối với người đăng ký tạm trú là người chưa thành niên thì trong tờ khai phải ghi rõ ý kiến đồng ý của cha, mẹ hoặc người giám hộ, trừ trường hợp đã có ý kiến đồng ý bằng văn bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea5ed7a4f41dd9'">Mẫu CT01 _66.doc</a>)
+- 01 Bản sao Giấy tờ, tài liệu chứng minh chỗ ở hợp pháp. Trừ trường hợp thông tin chứng minh về chỗ ở hợp pháp của công dân đã có trong cơ sở dữ liệu chuyên ngành đã được kết nối, chia sẻ với cơ quan đăng ký cư trú và trường hợp, giấy tờ chứng minh về chỗ ở hợp pháp đã có bản điện tử trên dịch vụ công qua giải quyết thủ tục hành chính khác thì cơ quan đăng ký cư trú tự kiểm tra, xác minh không yêu cầu công dân xuất trình giấy tờ chứng minh.
+ Trường hợp giấy tờ, tài liệu chứng minh chỗ ở hợp pháp để đăng ký tạm trú là văn bản cho thuê, cho mượn, cho ở nhờ nhà ở, nhà khác của cá nhân, tổ chức thì văn bản đó không bắt buộc phải công chứng hoặc chứng thực.
+
+
+* Đăng ký tạm trú theo danh sách, hồ sơ gồm:
+- 01 Bản chính - Văn bản đề nghị đăng ký tạm trú trong đó ghi rõ thông tin về chỗ ở hợp pháp kèm danh sách người tạm trú. Danh sách bao gồm những thông tin cơ bản của từng người: họ, chữ đệm và tên; ngày, tháng, năm sinh; giới tính; số định danh cá nhân và thời hạn tạm trú.
+- 01 Bản chính - Tờ khai thay đổi thông tin cư trú (của từng người) (Mẫu CT01); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb37c739834e86'">Mẫu CT01 _66.doc</a>)
+
+
+Đăng ký tạm trú tại nơi đơn vị đóng quân trong Công an nhân dân, Quân đội nhân nhân (đơn vị đóng quân, nhà ở công vụ) hồ sơ gồm:
+- 01 Bản chính - Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fad12df551b4540'">Mẫu CT01 _66.doc</a>)
+- 01 Bản chính - Đối với Công an nhân dân: Giấy giới thiệu của Thủ trưởng đơn vị quản lý trực tiếp ghi rõ nội dung để làm thủ tục đăng ký tạm trú và đơn vị có chỗ ở cho cán bộ chiến sĩ (ký tên, đóng dấu);
+- 01 Bản chính - Đối với Quân đội nhân dân: Giấy giới thiệu đăng ký tạm trú của đơn vị cấp trung đoàn và tương đương trở lên.
+
+
+Bao gồm
+ Lưu ý: Việc nộp hồ sơ đăng ký cư trú - Trường hợp nộp hồ sơ trực tiếp tại cơ quan đăng ký cư trú thì người yêu cầu đăng ký cư trú có thể nộp bản sao giấy tờ, tài liệu được chứng thực từ bản chính hoặc bản sao giấy tờ được cấp từ sổ gốc (sau đây gọi là bản sao) hoặc bản quét, bản chụp kèm theo bản chính giấy tờ, tài liệu để đối chiếu. Trường hợp người yêu cầu đăng ký cư trú nộp bản quét hoặc bản chụp kèm theo bản chính giấy tờ để đối chiếu thì người tiếp nhận có trách nhiệm kiểm tra, đối chiếu bản quét, bản chụp với bản chính và ký xác nhận, không được yêu cầu nộp bản sao giấy tờ đó. - Trường hợp thực hiện đăng ký cư trú trực tuyến, người yêu cầu đăng ký cư trú khai báo thông tin theo biểu mẫu điện tử được cung cấp sẵn, đăng tải bản quét hoặc bản chụp giấy tờ, tài liệu hợp lệ (không bắt buộc phải công chứng, chứng thực, ký số hoặc xác thực bằng hình thức khác) hoặc dẫn nguồn tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân. Trường hợp công dân đăng tải bản quét, bản chụp giấy tờ, tài liệu mà không được ký số hoặc xác thực bằng hình thức khác thì khi cơ quan đăng ký cư trú tiến hành kiểm tra, xác minh để giải quyết thủ tục về cư trú; công dân có trách nhiệm xuất trình giấy tờ, tài liệu đã đăng tải để cơ quan đăng ký cư trú kiểm tra, đối chiếu và ghi nhận tính chính xác vào biên bản xác minh. Cơ quan đăng ký cư trú không yêu cầu công dân nộp để lưu giữ giấy tờ đó. - Bản quét hoặc bản chụp giấy tờ bằng thiết bị điện tử từ giấy tờ được cấp hợp lệ, còn giá trị sử dụng phải bảo đảm rõ nét, đầy đủ, toàn vẹn về nội dung; đã được hợp pháp hóa lãnh sự, dịch sang tiếng Việt theo quy định nếu là giấy tờ do cơ quan có thẩm quyền nước ngoài cấp trừ trường hợp được miễn hợp pháp hóa lãnh sự. - Trường hợp thông tin giấy tờ chứng minh điều kiện đăng ký cư trú đã được chia sẻ và khai thác từ cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành thì cơ quan đăng ký cư trú không được yêu cầu công dân nộp, xuất trình giấy tờ đó để giải quyết đăng ký cư trú.

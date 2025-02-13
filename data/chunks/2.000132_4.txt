@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký tham gia Hệ thống mạng đấu thầu quốc gia đối với nhà thầu, nhà đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký tham gia Hệ thống được hình thành trên Hệ thống trong quá trình nhà thầu, nhà đầu tư kê khai thông tin đăng ký tham gia Hệ thống. Trường hợp người đại diện theo pháp luật của Tổ chức tham gia Hệ thống ủy quyền ký đơn đăng ký thì giấy ủy quyền này phải được đính kèm trên Hệ thống;
+- 01 Bản chính - Trường hợp Tổ chức tham gia Hệ thống không có tên trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp thì phải đính kèm trên Hệ thống bản chụp Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hộ kinh doanh (đối với hộ kinh doanh cá thể) hoặc các tài liệu tương đương khác.
+- 01 Bản chính Tên mẫu đơn, mẫu tờ khai: Thực hiện theo form Mẫu do Hệ thống hướng dẫn trong quá trình thực hiện đăng ký.

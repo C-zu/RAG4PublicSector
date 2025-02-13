@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại giấy phép nuôi trồng thủy sản trên biển cho tổ chức, cá nhân Việt Nam (đối với khu vực biển ngoài 06 hải lý, khu vực biển giáp ranh giữa các tỉnh, thành phố trực thuộc trung ương, khu vực biển nằm đồng thời trong và ngoài 06 hải lý)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 ngày đối với trường hợp cấp mới, 15 ngày đối với trường hợp cấp lại/gia hạn.||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Trực tuyến|45 ngày đối với trường hợp cấp mới, 15 ngày đối với trường hợp cấp lại/gia hạn.||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Dịch vụ bưu chính|45 ngày đối với trường hợp cấp mới, 15 ngày đối với trường hợp cấp lại/gia hạn.||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|

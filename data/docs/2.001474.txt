@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001474
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Xúc tiến thương mại
+Trình tự thực hiện:
+- Thương nhân trước gửi thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại đến Sở Công Thương nơi đã thông báo thực hiện khuyến mại.
+- Sở Công Thương tiếp nhận hồ sơ thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại của thương nhân.
+- Việc sửa đổi, bổ sung nội dung chương trình khuyến mại phải đảm bảo không ảnh hưởng đến quyền lợi của các thương nhân, tổ chức, cá nhân có liên quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||Nộp 01 hồ sơ thông báo trực tiếp tại trụ sở các Sở Công Thương nơi tổ chức khuyến mại;|
+|Trực tuyến|0||Sử dụng hệ thống dịch vụ công trực tuyến do cơ quan quản lý nhà nước cung cấp.|
+|Dịch vụ bưu chính|0||Nộp 01 hồ sơ thông báo qua thư điện tử kèm chữ ký điện tử hoặc kèm bản scan Thông báo thực hiện khuyến mại có chữ ký và dấu đến địa chỉ đã được các Sở Công Thương công bố; Nộp 01 hồ sơ thông báo qua đường bưu điện đến các Sở Công Thương nơi tổ chức khuyến mại;|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Thông báo sửa đổi, bổ sung nội dung chương trìnhkhuyến mại theo mẫu quy định; ([Mẫu số 06.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd3f313c7db300'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Không có thôn tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|36/2005/QH11|Luật 36/2005/QH11|14-06-2005||
+|81/2018/NĐ-CP|Nghị định 81/2018/NĐ-CP|22-05-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

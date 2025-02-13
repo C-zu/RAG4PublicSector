@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp bản sao trích lục hộ tịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai cấp bản sao trích lục hộ tịch theo mẫu đối với trường hợp người yêu cầu là cá nhân. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feafd8e3a82ecca'">Tờ khai cấp bản sao trích lục hộ tịch.docx</a>)
+- 01 Bản chính 2. Văn bản yêu cầu cấp bản sao trích lục hộ tịch nêu rõ lý do trong trường hợp người yêu cầu là cơ quan, tổ chức.
+- 01 Bản chính 3. Văn bản ủy quyền theo quy định của pháp luật trong trường hợp ủy quyền thực hiện yêu cầu cấp bản sao trích lục hộ tịch. Trường hợp người được ủy quyền là ông, bà, cha, mẹ, con, vợ, chồng, anh, chị, em ruột của người ủy quyền thì văn bản ủy quyền không phải công chứng, chứng thực.
+- 01 Bản chính 4. Giấy tờ phải xuất trình: • Hộ chiếu hoặc chứng minh nhân dân hoặc chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc thẻ căn cước công dân hoặc các giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người có yêu cầu cấp bản sao trích lục hộ tịch.
+- 01 Bản sao 5. Trường hợp gửi hồ sơ qua hệ thống bưu chính thì phải gửi kèm theo bản sao có chứng thực giấy tờ phải xuất trình nêu trên.

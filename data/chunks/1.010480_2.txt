@@ -1,0 +1,18 @@
+Tên thủ tục: Nhóm thủ tục giao lại đất tái định cư và cấp Giấy chứng nhận đối với hộ gia đình, cá nhân bị thu hồi đất để thực hiện bồi thường, giải phóng mặt bằng do triển khai dự án trong Khu kinh tế Nhơn Hội
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1. Tiếp nhận hồ sơ đề nghị giải quyết: 
+Công dân đã nhận tiền bồi thường, hỗ trợ theo phương án đã được Ủy ban nhân dân tỉnh phê duyệt, nộp 01 (một) bộ hồ sơ đề nghị giao lại đất tái định cư cho Ban Quản lý Khu kinh tế. Trong thời gian 01 ngày làm việc, Ban Quản lý Khu kinh tế có trách nhiệm kiểm tra tính hợp lệ của hồ sơ, viết phiếu hẹn và chuyển hồ sơ đến Phòng Quản lý Tài nguyên và Môi trường thuộc Ban Quản lý Khu kinh tế để giải quyết.
+- Bước 2. Thẩm định hồ sơ và ra Quyết định giao lại đất: 
+Trong thời gian không quá 03 ngày làm việc, Phòng Quản lý Tài nguyên và Môi trường thuộc Ban Quản lý Khu kinh tế thẩm định, trình Trưởng ban Ban Quản lý Khu kinh tế ra quyết định giao lại đất; thông báo kết quả, hướng dẫn người sử dụng đất kê khai, thực hiện nghĩa vụ tài chính và tiếp nhận các Tờ khai thực hiện nghĩa vụ tài chính của người sử dụng đất; chuyển hồ sơ đến cơ quan thuế để xác định nghĩa vụ tài chính. 
+- Bước 3. Xác định và thực hiện nghĩa vụ tài chính 
+Trong thời gian không quá 02 ngày làm việc, Cơ quan thuế phải xác định nghĩa vụ tài chính và gửi cho Ban Quản lý Khu kinh tế để gửi lại cho người sử dụng đất thực hiện nghĩa vụ tài chính. Sau khi hoàn thành việc thực hiện nghĩa vụ tài chính, người sử dụng đất phải nộp biên lai gốc cho Ban Quản lý Khu kinh tế để chuyển cho Chi nhánh Văn phòng đăng ký đất đai. 
+- Bước 4. Trong thời gian không quá 01 ngày làm việc kể từ ngày nhận chứng từ hoàn thành nghĩa vụ tài chính, Ban Quản lý Khu kinh tế phải gửi hồ sơ đề nghị cấp Giấy chứng nhận đến Chi nhánh Văn phòng đăng ký đất đai (nộp qua Bộ phận nhận và trả kết quả Ủy ban nhân dân cấp huyện) để đăng ký vào hồ sơ địa chính, cập nhật cơ sở dữ liệu đất đai và trình cơ quan có thẩm quyền cấp Giấy chứng nhận. 
+- Bước 5. Trong thời gian không quá 0,5 ngày làm việc kể từ ngày nhận hồ sơ từ Ban Quản lý Khu kinh tế, Bộ phận nhận và trả kết quả Ủy ban nhân dân cấp huyện chuyển hồ sơ đến Chi nhánh Văn phòng đăng ký đất đai .
+- Bước 6. Trong thời gian không quá 2,5 ngày làm việc kể từ ngày nhận hồ sơ từ Bộ phận tiếp nhận và trả kết quả Ủy ban nhân dân cấp huyện, Chi nhánh Văn phòng đăng ký đất đai thực hiện kiểm tra, chuẩn bị hồ sơ trình cấp Giấy chứng nhận. Đồng thời, chuyển hồ sơ đến Phòng Tài nguyên và môi trường cấp huyện để trình Ủy ban nhân dân cấp huyện cấp Giấy chứng nhận.
+- Bước 7. Cấp Giấy chứng nhận: 
+Trong thời gian không quá 03 ngày làm việc kể từ ngày Chi nhánh Văn phòng đăng ký đất đai chuyển hồ sơ đến (có chứng từ hoàn thành nghĩa vụ tài chính), Phòng Tài nguyên và môi trường cấp huyện thẩm định, trình Ủy ban nhân dân cấp huyện cấp Giấy chứng nhận và chuyển trả hồ sơ cho Chi nhánh Văn phòng đăng ký đất đai. 
+Trong thời gian không quá 01 ngày làm việc kể từ ngày nhận quyết định và Giấy chứng nhận, Chi nhánh Văn phòng đăng ký đất đai thực hiện cập nhật cơ sở dữ liệu, đăng ký vào hồ sơ địa chính và chuyển kết quả cho Bộ phận tiếp nhận và trả kết quả của Ủy ban nhân dân cấp huyện để trả lại kết quả cho Ban Quản lý Khu kinh tế. 
+	- Bước 8. Trả kết quả: 
+Trong thời gian không quá 01 ngày làm việc, sau khi nhận được Giấy chứng nhận, Ban Quản lý Khu kinh tế có trách nhiệm liên hệ, trao Giấy chứng nhận, bàn giao đất ngoài thực địa cho người sử dụng đất.

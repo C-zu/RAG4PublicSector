@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||- Nộp 01 hồ sơ đăng ký trực tiếp tại trụ sở Sở Công Thương;|
+|Trực tuyến|7 Ngày làm việc||- Sử dụng hệ thống dịch vụ công trực tuyến do cơ quan quản lý nhà nước cung cấp|
+|Dịch vụ bưu chính|7 Ngày làm việc||- Nộp 01 hồ sơ đăng ký qua đường bưu điện đến Sở Công Thương;|

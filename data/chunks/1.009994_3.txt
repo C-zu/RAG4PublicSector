@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép xây dựng mới đối với công trình cấp III, cấp IV (Công trình không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án) và nhà ở riêng lẻ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính và địa phương|20 ngày đối với công trình và 15 ngày đối với nhà ở riêng lẻ kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính và địa phương|20 ngày đối với công trình và 15 ngày đối với nhà ở riêng lẻ kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính và địa phương|20 ngày đối với công trình và 15 ngày đối với nhà ở riêng lẻ kể từ ngày nhận đủ hồ sơ hợp lệ.|

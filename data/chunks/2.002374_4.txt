@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm thuộc thẩm quyền cấp của UBND cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp Giấy chứng nhận theo biểu mẫu BM.ATTP.01.01
+- 01 Bản chính, 01 Bản sao Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm theo biểu mẫu BM.ATTP.01.02 đối với cơ sở sản xuất; biểu mẫu BM.ATTP.01.03 đối với cơ sở kinh doanh hoặc cả biểu mẫu BM.ATTP.01.02 và BM.ATTP.01.03 đối với cơ sở vừa sản xuất vừa kinh doanh
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đủ sức khỏe/Danh sách tổng hợp xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở y tế cấp huyện trở lên cấp (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm/Giấy xác nhận kiến thức an toàn thực phẩm của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm (bản sao có xác nhận của cơ sở)

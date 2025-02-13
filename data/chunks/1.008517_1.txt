@@ -1,0 +1,16 @@
+Tên thủ tục: Chấm dứt hiệu lực mã số thuế đối với trường hợp chuyển đổi mô hình hoạt động của tổ chức kinh tế và tổ chức khác (Chuyển đơn vị phụ thuộc thành đơn vị độc lập hoặc ngược lại) - Đối với đơn vị trước chuyển đổi (Cấp cục Thuế/chi cục Thuế).
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008517
+Số quyết định:
+2589
+Tên thủ tục:
+Chấm dứt hiệu lực mã số thuế đối với trường hợp chuyển đổi mô hình hoạt động của tổ chức kinh tế và tổ chức khác (Chuyển đơn vị phụ thuộc thành đơn vị độc lập hoặc ngược lại) - Đối với đơn vị trước chuyển đổi (Cấp cục Thuế/chi cục Thuế).
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế

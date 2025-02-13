@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục chứng thực việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Người yêu cầu chứng thực nộp 01 (một) bộ hồ sơ yêu cầu chứng thực, gồm các giấy tờ sau đây:
+- 01 Bản chính + Hợp đồng, giao dịch đã được chứng thực
+- 01 Bản chính + Dự thảo hợp đồng, giao dịch sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch đã được chứng thực
+- 01 Bản chính + Trong trường hợp nội dung sửa đổi, bổ sung có liên quan đến tài sản thì người yêu cầu chứng thực phải nộp bản sao kèm bản chính để đối chiếu giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc bản sao giấy tờ thay thế được pháp luật quy định đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng, trừ trường hợp người lập di chúc đang bị cái chết đe dọa đến tính mạng.

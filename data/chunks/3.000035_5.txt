@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+28 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bộ Tài chính cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số và có văn bản thông báo rõ lý do từ chối trường hợp từ chối cấp, cấp lại, điều chỉnh Giấy chứng nhận.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|30/2007/NĐ-CP|Về kinh doanh xổ số|01-03-2007|Chính phủ|
+|78/2012/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 30/2007/NĐ-CP ngày 01 tháng 3 năm 2007 của Chính phủ về kinh doanh xổ số|05-10-2012|Chính phủ|
+|75/2013/TT-BTC|Hướng dẫn chi tiết về hoạt động kinh doanh xổ số|04-06-2013|Bộ Tài chính|
+|112/2014/TT-BTC|sửa đổi, bổ sung một số điều của Thông tư số 75/2013/TT-BTC ngày 04/6/2014 của Bộ tài chính hướng dẫn chi tiết về hoạt động kinh doanh xổ số|19-08-2014|Bộ Tài chính|

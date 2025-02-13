@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai báo thiết bị X-quang chẩn đoán trong y tế.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu khai báo thiết bị X-quang chẩn đoán trong y tế (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb021dd0ec8d51'">Mau 07_KB thiet bi x quang.doc</a>)

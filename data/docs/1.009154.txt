@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009154
+Số quyết định:
+3710/QĐ-UBND_ĐT
+Tên thủ tục:
+Tham vấn ý kiến trong quá trình thực hiện đánh giá tác động môi trường (UBND cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Môi trường
+Trình tự thực hiện:
+Bước 1. Tổ chức/cá nhân hoàn thiện hồ sơ và gửi đến Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp huyện. 
+Bước 2: Bộ phận Tiếp nhận và trả kết quả tiếp nhận hồ sơ và chuyển Phòng Tài nguyên và Môi trường xử lý.
+Bước 3. Phòng Tài nguyên và Môi trường xem xét hồ sơ, báo cáo Ủy ban nhân dân cấp huyện cho ý kiến về báo cáo ĐTM và dự án đầu tư theo mẫu quy định tại Phụ lục 6.2 kèm theo Nghị định số 40/2019/NĐ-CP. 
+Bước 4. Ủy ban nhân dân cấp huyện có ý kiến bằng văn bản hoặc không có văn bản phản hồi trong trường hợp chấp thuận việc thực hiện dự án.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 ngày làm việc.|Phí : Không quy định.|Hồ sơ được nộp trực tiếp tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|
+|Trực tuyến|05 ngày làm việc.|Phí : Không quy định.|Nộp hồ sơ trực tuyến trên trang dichvucong.danang.gov.vn|
+|Dịch vụ bưu chính|05 ngày làm việc.|Phí : Không quy định.|Nộp hồ qua đường bưu điện đến Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Một (01) văn bản đề nghị cho ý kiến theo mẫu quy định tại Phụ lục 2.1 kèm theo dưới đây. ([PL 6.1-Mau van ban de nghi cho y kien.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cb5a1c00afcf') [PL 6.2-Mau van ban phan hoi cho y kien.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd753644f1edcbc'))
+- 01 Bản chính 2. Một (01) bản báo cáo đánh giá tác động môi trường và các tài liệu liên quan.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản cho ý kiến về báo cáo ĐTM và dự án hoặc không phản hồi trong trường hợp chấp thuận.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2015/NĐ-CP|Nghị định 18/2015/NĐ-CP|14-02-2015|Chính phủ|
+|55/2014/QH13|Luật bảo vệ môi trường|23-06-2014|Quốc Hội|
+|40/2019/NĐ-CP|Nghị định 40/2019/NĐ-CP|13-05-2019||
+|2736/QĐ-BTNMT|Công bố thủ tục hành chính mới ban hành, thủ tục hành chính được sửa đổi, bổ sung, thủ tục hành chính bị bãi bỏ trong lĩnh vực bảo vệ môi trường thuộc phạm vi chức năng quản lý của Bộ Tài nguyên và Môi trường|29-10-2019|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không quy định
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

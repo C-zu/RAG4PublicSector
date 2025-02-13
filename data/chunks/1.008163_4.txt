@@ -1,0 +1,8 @@
+Tên thủ tục: Đính chính vào Giấy chứng nhận đã cấp(VPĐK)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị đính chính Giấy chứng nhận đối với trường hợp phát hiện sai sót do lỗi của người sử dụng đất, chủ sở hữu tài sản gắn liền với đất: Bản chính.
+- 01 Bản chính - Bản gốc Giấy chứng nhận đã cấp.

@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký thuế đối với trường hợp chuyển đổi mô hình hoạt động của tổ chức kinh tế và tổ chức khác (chuyển đơn vị độc lập thành đơn vị trực thuộc của một đơn vị chủ quản khác) – Đối với đơn vị trước chuyển đổi.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chấm dứt hiệu lực mã số thuế mẫu số 24/ĐK-TCT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcffe8b0cd96fa8'">mau24.docx</a>)
+- 01 Bản chính Giấy chứng nhận đăng ký thuế hoặc Thông báo mã số thuế (bản gốc); hoặc công văn giải trình mất Giấy chứng nhận đăng ký thuế hoặc Thông báo mã số thuế
+- 01 Bản sao Bản sao không yêu cầu chứng thực Quyết định chấm dứt hoạt động đơn vị trực thuộc, hoặc Thông báo chấm dứt hoạt động của đơn vị chủ quản, hoặc Quyết định thu hồi giấy chứng nhận đăng ký hoạt động đối với đơn vị trực thuộc của cơ quan có thẩm quyền
+- 01 Bản chính Văn bản xác nhận hoàn thành nghĩa vụ thuế đối với hoạt động xuất nhập khẩu của Tổng cục Hải quan nếu tổ chức có hoạt động xuất nhập khẩu

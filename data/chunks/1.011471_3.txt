@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt Phương án khai thác thực vật rừng loài thông thường thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||10 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày||10 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày||10 ngày kể từ ngày nhận được hồ sơ hợp lệ.|

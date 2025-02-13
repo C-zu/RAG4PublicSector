@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép đối vớihoạt động khai thác đất, đá, cát, sỏi, khoáng sản khác ở lòng sông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|19 ngày||Tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính đến Sở Nông nghiệp và Phát triển nông thôn tỉnh Bắc Giang (qua Bộ phận một cửa tại trung tâm phục vụ hành chính công tỉnh Bắc Giang).|
+|Dịch vụ bưu chính|19 ngày||Tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính đến Sở Nông nghiệp và Phát triển nông thôn tỉnh Bắc Giang (qua Bộ phận một cửa tại trung tâm phục vụ hành chính công tỉnh Bắc Giang).|

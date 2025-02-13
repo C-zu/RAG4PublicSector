@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép thiết lập mạng viễn thông dùng riêng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 03 bộ (01 bộ là bản chính, 02 bộ là bản sao)
+- 01 Bản chính Đơn đề nghị cấp giấy phép thiết lập mạng viễn thông dùng riêng theo mẫu do Bộ TTTT ban hành;
+- 01 Bản sao Bản sao có chứng thực quyết định thành lập, giấy phép hoạt động hoặc bản sao có chứng thực giấy chứng nhận đăng ký kinh doanh của tổ chức đề nghị cấp phép;
+- 01 Bản sao Bản sao có chứng thực điều lệ, văn bản quy định cơ cấu tổ chức chung hoặc hình thức liên kết, hoạt động chung giữa các thành viên (nếu có);
+- 01 Bản chính Đề án thiết lập mạng, trong đó nêu rõ: Mục đích thiết lập mạng; cấu hình mạng; chủng loại thiết bị; dịch vụ sử dụng; thành viên của mạng (nếu có); phạm vi hoạt động, công nghệ sử dụng; tần số, mã, số viễn thông đề nghị sử dụng (nếu có); trang thiết bị và biện pháp kỹ thuật nghiệp vụ bảo đảm an toàn, an ninh thông tin.

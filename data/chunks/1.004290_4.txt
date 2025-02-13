@@ -1,0 +1,8 @@
+Tên thủ tục: Sửa đổi, bổ sung Giấy chứng nhận đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị sửa đổi, bổ sung giấy chứng nhận đăng ký cung cấp dịch vụ nội dung trên mạng viễn thông di động
+- 01 Bản chính Tài liệu liên quan đến các thông tin thay đổi

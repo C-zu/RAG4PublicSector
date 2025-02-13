@@ -1,0 +1,20 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện buôn bán phân bón
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+(i) Trường hợp Giấy chứng nhận bị mất, hư hỏng
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận theo Phụ lục II ban hành kèm theo Nghị định số 130/2022/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfb895b02181a6'">Phụ lục II.docx</a>)
+- 01 Bản chính - Bản chính Giấy chứng nhận đã được cấp (trường hợp Giấy chứng nhận bị hư hỏng).
+
+
+(ii) Trường hợp thay đổi nội dung thông tin tổ chức, cá nhân ghi trên Giấy chứng nhận
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận theo Phụ lục II ban hành kèm theo Nghị định số 130/2022/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc32dc09b721f6c'">Phụ lục II.docx</a>)
+- 01 Bản chính - Bản chính Giấy chứng nhận đã được cấp.
+
+
+(iii) Trường hợp thay đổi về địa điểm buôn bán phân bón
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận theo Phụ lục II ban hành kèm theo Nghị định số 130/2022/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefcca66a101673'">Phụ lục II.docx</a>)
+- 01 Bản sao - Bản sao Bằng tốt nghiệp trung cấp trở lên của người trực tiếp buôn bán phân bón theo quy định tại điểm c khoản 2 Điều 42 Luật Trồng trọt (trường hợp có thông tin về chứng nhận đã được tập huấn, bồi dưỡng chuyên môn về phân bón được thể hiện tại Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện buôn bán phân bón thì không phải nộp thành phần hồ sơ này).
+- 01 Bản chính - Bản chính Giấy chứng nhận đã được cấp.
+ Quy định về các loại thành phần hồ sơ: - Trường hợp nộp hồ sơ trực tiếp, qua dịch vụ bưu chính: Các thành phần hồ sơ phải là bản chính hoặc bản sao từ sổ gốc hoặc bản sao chứng thực hoặc nộp bản sao xuất trình bản chính để đối chiếu. - Trường hợp nộp hồ sơ qua môi trường mạng: Các thành phần hồ sơ phải được scan, chụp từ bản chính.

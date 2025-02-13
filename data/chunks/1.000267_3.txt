@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Bản công bố phù hợp Lao động hàng hải Phần I
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 250000 Đồng 250,000 đồng/bản.|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 250000 Đồng 250,000 đồng/bản|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|

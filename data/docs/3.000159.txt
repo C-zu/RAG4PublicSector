@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000159
+Số quyết định:
+4044/QĐ-BNN-TCLN
+Tên thủ tục:
+Xác nhận nguồn gốc gỗ trước khi xuất khẩu
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Lâm nghiệp
+Trình tự thực hiện:
+1. Trường hợp nộp hồ sơ trực tiếp:
+a) Bước 1: Nộp hồ sơ
+Tổ chức, cá nhân nộp hồ sơ đến Chi cục Kiểm lâm cấp tỉnh.
+	b) Bước 2: Trả lời tính đầy đủ của hồ sơ.
+Chi cục Kiểm lâm cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay tính đầy đủ của hồ sơ cho chủ gỗ.
+c) Bước 3: Thẩm định và trả kết quả.
+Trong thời hạn 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Chi cục Kiểm lâm cấp tỉnh hoàn thành việc kiểm tra thực tế lô hàng gỗ xuất khẩu theo quy định và xác nhận bảng kê gỗ. Trường hợp không xác nhận bảng kê gỗ, trong thời hạn 01 ngày làm việc kể từ ngày lập biên bản kiểm tra, Chi cục Kiểm lâm cấp tỉnh thông báo bằng văn bản và nêu rõ lý do.
+2. Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường điện tử hoặc qua hòm thư điện tử:
+a) Bước 1: Nộp hồ sơ
+Tổ chức, cá nhân nộp hồ sơ đến Chi cục Kiểm lâm cấp tỉnh.
+	b) Bước 2: Trả lời tính đầy đủ của hồ sơ.
+Trong thời hạn không quá 01 ngày làm việc, kể từ ngày nhận được hồ sơ, Chi cục Kiểm lâm cấp tỉnh có trách nhiệm kiểm tra tính hợp lệ của hồ sơ gỗ. Trường hợp hồ sơ không hợp lệ, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, Chi cục Kiểm lâm cấp tỉnh có trách nhiệm hướng dẫn trực tiếp hoặc bằng văn bản cho chủ gỗ để hoàn thiện hồ sơ.
+c) Bước 3: Thẩm định và trả kết quả.
+Trong thời hạn 04 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Chi cục Kiểm lâm cấp tỉnh hoàn thành việc kiểm tra thực tế lô hàng gỗ xuất khẩu theo quy định và xác nhận bảng kê gỗ. Trường hợp không xác nhận bảng kê gỗ, trong thời hạn 01 ngày làm việc kể từ ngày lập biên bản kiểm tra, Chi cục Kiểm lâm cấp tỉnh thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|04 Ngày làm việc|||
+|Trực tiếp|06 Ngày làm việc||trường hợp có thông tin vi phạm|
+|Trực tuyến|04 Ngày làm việc|||
+|Trực tuyến|06 Ngày làm việc||trường hợp có thông tin vi phạm|
+|Dịch vụ bưu chính|04 Ngày làm việc|||
+|Dịch vụ bưu chính|06 Ngày làm việc||trường hợp có thông tin vi phạm|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản chính Đề nghị xác nhận nguồn gốc gỗ xuất khẩu theo Mẫu số 04 Phụ lục I kèm theo Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (có Mẫu số 04 kèm theo). ([Mẫu số 04. Đề nghị xác nhận nguồn gốc gỗ xuất khẩu.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec97c37bb0b359'))
+- 01 Bản chính - Bản chính Bảng kê gỗ xuất khẩu/tạm nhập, tái xuất theo Mẫu số 05 hoặc Bảng kê sản phẩm gỗ xuất khẩu/tạm nhập, tái xuất theo Mẫu số 06 Phụ lục I kèm theo Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam (có Mẫu số 05 và Mẫu số 06 kèm theo). ([Mẫu số 05. Bảng kê gỗ xuất khẩu.tạm nhập, tái xuất.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee155cbbfea5c9') [Mẫu số 06. Bảng kê sản phẩm gỗ xuất khẩu.tạm nhập, tái xuất.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde00ebc3850a36'))
+- 01 Bản sao - Bản sao hồ sơ gỗ nhập khẩu theo quy định tại Điều 7 Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam hoặc bản sao hồ sơ nguồn gốc gỗ khai thác trong nước theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về quản lý, truy xuất nguồn gốc lâm sản (Thông tư số 27/2018/TT-BNNTPNT ngày 16/11/2018).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Chi cục Kiểm lâm
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận của Chi cục Kiểm lâm cấp tỉnh trên Bảng kê gỗ xuất khẩu/tạm nhập, tái xuất hoặc Bảng kê sản phẩm gỗ xuất khẩu/tạm nhập, tái xuất.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|102/2020/NĐ-CP|Nghị định 102/2020/NĐ-CP|01-09-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không yêu cầu
+Từ khóa:
+Không có thông tin
+Mô tả:
+Điều 9 Nghị định số 102/2020/NĐ-CP ngày 01/9/2020 của Chính phủ quy định Hệ thống bảo đảm gỗ hợp pháp Việt Nam.

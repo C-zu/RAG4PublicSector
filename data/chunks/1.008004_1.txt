@@ -1,0 +1,16 @@
+Tên thủ tục: Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008004
+Số quyết định:
+151/QĐ-BNN-TT
+Tên thủ tục:
+Chuyển đổi cơ cấu cây trồng trên đất trồng lúa
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trồng trọt

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) cho hàng hóa gửi kho ngoại quan đến các nước thành viên theo Điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001298
+Số quyết định:
+142/QĐ-BCT
+Tên thủ tục:
+Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) cho hàng hóa gửi kho ngoại quan đến các nước thành viên theo Điều ước quốc tế mà Việt Nam ký kết hoặc gia nhập
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất nhập khẩu

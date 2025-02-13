@@ -1,0 +1,105 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002986
+Số quyết định:
+1239/QĐ-BTNMT
+Tên thủ tục:
+Cấp lại giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn (cấp TW)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khí tượng, thủy văn
+Trình tự thực hiện:
+a) Trình tự thực hiện
+- Bước 1. Nộp hồ sơ:
+Tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện đến Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội) hoặc nộp qua Cổng dịch vụ công trực tuyến tại địa chỉ https://dichvucong.monre.gov.vn.
+- Bước 2. Thẩm định và cấp phép:
+Bộ Tài nguyên và Môi trường có trách nhiệm xem xét, thẩm định, thẩm tra, cấp lại giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức, cá nhân có đủ điều kiện trong thời hạn 05 ngày làm việc.
+Trường hợp không đủ điều kiện cấp lại giấy phép thì trả lời bằng văn bản cho tổ chức, cá nhân biết lý do.
+- Bước 3: Trả kết quả: 
+Trong thời hạn không quá 01 ngày làm việc kể từ ngày nhận được kết quả giải quyết hồ sơ, Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường có trách nhiệm thông báo cho cơ quan, tổ chức đã nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||- Thời hạn tiến hành thẩm định, thẩm tra, khảo sát, đánh giá, kết luận Cấp phép: Năm (05) ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. - Thẩm định và cấp phép: Bộ Tài nguyên và Môi trường có trách nhiệm xem xét, thẩm định, thẩm tra, cấp lại giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức, cá nhân có đủ điều kiện trong thời hạn 05 ngày làm việc. Trường hợp không đủ điều kiện cấp lại giấy phép thì trả lời bằng văn bản cho tổ chức, cá nhân biết lý do.|
+|Trực tuyến|5 Ngày làm việc||- Nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.monre.gov.vn. - Thời hạn tiến hành thẩm định, thẩm tra, khảo sát, đánh giá, kết luận Cấp phép: Năm (05) ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. - Thẩm định và cấp phép: Bộ Tài nguyên và Môi trường có trách nhiệm xem xét, thẩm định, thẩm tra, cấp lại giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức, cá nhân có đủ điều kiện trong thời hạn 05 ngày làm việc. Trường hợp không đủ điều kiện cấp lại giấy phép thì trả lời bằng văn bản cho tổ chức, cá nhân biết lý do.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Nộp qua đường bưu điện đến Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội) - Thời hạn tiến hành thẩm định, thẩm tra, khảo sát, đánh giá, kết luận Cấp phép: Năm (05) ngày làm việc kể từ ngày nhận hồ sơ hợp lệ. - Thẩm định và cấp phép: Bộ Tài nguyên và Môi trường có trách nhiệm xem xét, thẩm định, thẩm tra, cấp lại giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức, cá nhân có đủ điều kiện trong thời hạn 05 ngày làm việc. Trường hợp không đủ điều kiện cấp lại giấy phép thì trả lời bằng văn bản cho tổ chức, cá nhân biết lý do.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn theo Mẫu số 02 Phụ lục kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ. ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb01fa3b23a9ac'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Tổng cục Khí tượng Thủy văn - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Cơ quan, tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện đến Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội) hoặc nộp qua Cổng dịch vụ công trực tuyến tại địa chỉ https://dichvucong.monre.gov.vn.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn theo Mẫu số 05 (kèm theo Nghị định số 48/2020/NĐ-CP ngày 15 tháng 4 năm 2020 của Chính phủ) hoặc văn bản từ chối cấp phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức, cá nhân.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|90/2015/QH13|Luật 90/2015/QH13|23-11-2015|Quốc Hội|
+|38/2016/NĐ-CP|Nghị định 38/2016/NĐ-CP|15-05-2016|Chính phủ|
+|48/2020/NĐ-CP|Nghị định 48/2020/NĐ-CP|15-04-2020||
+|22/2023/NĐ-CP|Nghị định 22/2023/NĐ-CP|12-05-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+k)	Yêu cầu, điều kiện thực hiện thủ tục hành chính:
+(1)	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức
+-	Có tư cách pháp nhân theo quy định của pháp luật về dân sự.
+-	Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
+-	Có đội ngũ nhân lực tối thiểu 01 (một) người tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(2)	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân
+-	Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
+-	Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(3)	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức, cá nhân nước ngoài tại Việt Nam
+-	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức nước ngoài tại Việt Nam
++ Có tư cách pháp nhân theo quy định của pháp luật về dân sự.
++ Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
++ Có đội ngũ nhân lực tối thiểu 01 (một) người tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam.
++ Có nhân lực thông thạo tiếng Việt hoặc có phiên dịch phù hợp.
+-	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân nước ngoài tại Việt Nam
++ Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy
+ 
+trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
++ Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam.
++ Có nhân lực thông thạo tiếng Việt hoặc có phiên dịch phù hợp.
+k)	Yêu cầu, điều kiện thực hiện thủ tục hành chính:
+(1)	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức
+-	Có tư cách pháp nhân theo quy định của pháp luật về dân sự.
+-	Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
+-	Có đội ngũ nhân lực tối thiểu 01 (một) người tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(2)	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân
+-	Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
+-	Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(3)	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức, cá nhân nước ngoài tại Việt Nam
+-	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức nước ngoài tại Việt Nam
++ Có tư cách pháp nhân theo quy định của pháp luật về dân sự.
++ Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
++ Có đội ngũ nhân lực tối thiểu 01 (một) người tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam.
++ Có nhân lực thông thạo tiếng Việt hoặc có phiên dịch phù hợp.
+-	Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân nước ngoài tại Việt Nam
++ Có cơ sở vật chất, kỹ thuật tối thiểu đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo; quy
+ 
+trình kỹ thuật dự báo, cảnh báo để các sản phẩm dự báo đủ độ tin cậy; quy trình quản lý, đánh giá chất lượng dự báo, cảnh báo.
++ Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam.
++ Có nhân lực thông thạo tiếng Việt hoặc có phiên dịch phù hợp.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

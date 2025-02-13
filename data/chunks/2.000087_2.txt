@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định thiết kế tàu biển
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+- Tổ chức, cá nhân nộp hồ sơ đề nghị thẩm định thiết kế tàu biển đến Cục Đăng kiểm Việt Nam.
+b) Giải quyết TTHC
+- Cục Đăng kiểm Việt Nam tiếp nhận hồ sơ, kiểm tra thành phần hồ sơ: nếu hồ sơ không đầy đủ thì hướng dẫn tổ chức, cá nhân hoàn thiện ngay trong ngày làm việc (nếu nộp hồ sơ trực tiếp); hoặc hướng dẫn hoàn thiện trong 02 (hai) ngày làm việc, kể từ ngày nhận được hồ sơ đối với trường hợp nộp hồ sơ qua hệ thống bưu chính và hình thức phù hợp khác; nếu hồ sơ đầy đủ thì hẹn thời gian trả kết quả.
+- Trong thời hạn 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày, Cục Đăng kiểm Việt Nam tiến hành thẩm định thiết kế, nếu không đạt yêu cầu thì trả lời tổ chức, cá nhân; nếu đạt yêu cầu thì cấp giấy chứng nhận thẩm định thiết kế và đóng dấu thẩm định vào tài liệu thiết kế.

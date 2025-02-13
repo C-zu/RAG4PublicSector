@@ -1,0 +1,23 @@
+Tên thủ tục: Thay đổi, bổ sung nội dung Giấy chứng nhận hoạt động cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Bản gốc Giấy chứng nhận hoạt động văn phòng đại diện/chi nhánh đã được cấp.
+ + Đối với trường hợp trường hợp đăng ký thay đổi tên văn phòng đại diện, chi nhánh:
+- 01 Bản chính * Quyết định về thay đổi tên văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ.
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) Giấy chứng nhận và Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ chủ quan.
+ + Đối với trường hợp đăng ký thay đổi địa chỉ trụ sở văn phòng đại diện, chi nhánh: Hồ sơ về trụ sở của văn phòng đại diện, chi nhánh: Phải có một trong các giấy tờ sau:
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất của tổ chức khoa học và công nghệ đối với địa điểm nơi đặt trụ sở văn phòng đại diện, chi nhánh;
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất hoặc giấy tờ chứng minh quyền được phép cho thuê, cho mượn của bên cho thuê, cho mượn kèm theo hợp đồng thuê, mượn địa điểm làm trụ sở văn phòng đại diện, chi nhánh; trường hợp bản sao hợp đồng không có chứng thực hợp pháp, tổ chức có thể xuất trình bản chính để người tiếp nhận hồ sơ đối chiếu và ký xác nhận vào bản sao.
+ + Đối với trường hợp đăng ký thay đổi người đứng đầu văn phòng đại diện, chi nhánh:
+- 01 Bản chính * Đơn đề nghị được làm việc chính thức (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedaad46f5ef427'">Mẫu 9 - Đơn làm việc chính thức.docx</a>)
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) Quyết định bổ nhiệm của cơ quan, tổ chức có thẩm quyền.
+- 01 Bản chính * Lý lịch khoa học có xác nhận của cơ quan, tổ chức có thẩm quyền (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb1c3ccb60564d'">Mẫu 11 - Lý lịch khoa học.docx</a>)
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) các văn bằng đào tạo.
+ + Đối với trường hợp đăng ký thay đổi thông tin của tổ chức khoa học công nghệ ghi trên giấy chứng nhận hoạt động văn phòng đại diện, chi nhánh:
+- 01 Bản sao Bản sao (có chứng thực hợp pháp) Giấy chứng nhận và Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ chủ quan.
+ + Đối với trường hợp đăng ký thay đổi, bổ sung lĩnh vực hoạt động khoa học và công nghệ của văn phòng đại diện, chi nhánh:
+- 01 Bản sao Bản sao (có chứng thực hợp pháp) Giấy chứng nhận và Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ chủ quan.
+- 01 Bản chính + Đơn đề nghị thay đổi, bổ sung, cấp lại Giấy chứng nhận hoạt động (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb35ca585c1f94'">Mẫu 13 - Đơn đề nghị thay đổi, bổ sung, cấp lại.docx</a>)

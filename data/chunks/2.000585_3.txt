@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục điều chỉnh quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày làm việc||40 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ và không tính thời gian đánh giá tại cơ sở.|
+|Trực tuyến|40 Ngày làm việc||40 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ và không tính thời gian đánh giá tại cơ sở.|
+|Dịch vụ bưu chính|40 Ngày làm việc||40 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ và không tính thời gian đánh giá tại cơ sở.|

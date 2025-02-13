@@ -1,0 +1,97 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010162
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Xác nhận người lao động nước ngoài không thuộc diện cấp Giấy phép lao động - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lao động
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý.  
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ thì cấp giấy phép theo quy định.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm công văn trả lời khách hàng  thông báo không đủ điều kiện giải quyết
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC 
+B6	Phê duyệt kết quả giải quyết TTHC
+B7
+	Phát hành văn bản và trả kết quả cho TTHC công
+B8	Trả kết quả cho tổ chức cá nhân.  Thực hiện thao tác trả hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động, theo mẫu BM.LĐ.03.01
+- 01 Bản chính Văn bản của doanh nghiệp nước ngoài cử người lao động sang làm việc tại hiện diện thương mại của doanh nghiệp nước ngoài đó trên lãnh thổ Việt Nam có nêu vị trí công việc, chức danh công việc và thời gian làm việc;
+- 01 Bản chính Văn bản chứng minh người lao động nước ngoài là chuyên gia thực hiện theo quy định tại khoản 2. Điều 6 của Thông tư số 40/2016/TT- BLĐTBXH ngày 25 tháng 10 năm 2016 của Bộ Lao động - Thương binh và Xã hội hướng dẫn thi hành một số điều của Nghị định số 11/2016/NĐ-CP (sau đây gọi tắt là Thông tư số 40/2016/TT-BLĐTBXH);
+- 01 Bản chính Văn bản chứng minh người lao động nước ngoài là lao động kỹ thuật thực hiện theo quy định tại khoản 3 Điều 6 Thông tư số 40/2016/TT- BLĐTBXH;
+- 01 Bản chính Văn bản chứng minh người lao động nước ngoài đã được doanh nghiệp nước ngoài tuyển dụng ít nhất 12 tháng trước khi được cử sang làm việc tại hiện diện thương mại của doanh nghiệp nước ngoài đó trên lãnh thổ Việt Nam thực hiện theo quy định tại khoản 4 Điều 6 Thông tư số 40/2016/TT-BLĐTBXH;
+- 01 Bản sao Văn bản chứng minh hiện diện thương mại của doanh nghiệp nước ngoài trên lãnh thổ Việt Nam hoạt động trong phạm vi mười một ngành dịch vụ quy định tại các Phụ lục của Thông tư này là một trong các giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương; Giấy phép thành lập Văn phòng đại diện; Giấy phép thành lập Chi nhánh do cơ quan có thẩm quyền của Việt Nam cấp.
+- 01 Bản chính, 01 Bản sao * Giấy tờ chứng minh người lao động nước ngoài không thuộc diện cấp giấy phép lao động là 01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực, nếu của nước ngoài thì miễn hợp pháp hóa lãnh sự, nhưng phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+`
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|10/2012/QH13|Bộ luật lao động|18-06-2013|Quốc Hội|
+|11/2016/NĐ-CP|Nghị định 11/2016/NĐ-CP|03-02-2016||
+|40/2016/TT-BLĐTBXH|Thông tư 40/2016/TT-BLĐTBXH|25-10-2016||
+
+Yêu cầu, điều kiện thực hiện:
+1. Người lao động nước ngoài quy định tại các Khoản 1, 2, 3, 4, 5, 6, 7 và 8 Điều 172 của Bộ luật Lao động.
+2. Các trường hợp người lao động nước ngoài khác không thuộc diện cấp giấy phép lao động, bao gồm:
+a) Di chuyển trong nội bộ doanh nghiệp thuộc phạm vi 11 ngành dịch vụ trong biểu cam kết dịch vụ của Việt Nam với Tổ chức Thương mại thế giới, bao gồm: kinh doanh, thông tin, xây dựng, phân phối, giáo dục, môi trường, tài chính, y tế, du lịch, văn hóa giải trí và vận tải;
+b) Vào Việt Nam để cung cấp dịch vụ tư vấn về chuyên môn và kỹ thuật hoặc thực hiện các nhiệm vụ khác phục vụ cho công tác nghiên cứu, xây dựng, thẩm định, theo dõi đánh giá, quản lý và thực hiện chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA) theo quy định hay thỏa thuận trong các điều ước quốc tế về ODA đã ký kết giữa cơ quan có thẩm quyền của Việt Nam và nước ngoài;
+c) Được Bộ Ngoại giao cấp giấy phép hoạt động thông tin, báo chí tại Việt Nam theo quy định của pháp luật;
+d) Được cơ quan, tổ chức của nước ngoài cử sang Việt Nam giảng dạy, nghiên cứu tại trường quốc tế thuộc phạm vi quản lý của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam hoặc được Bộ Giáo dục và Đào tạo xác nhận vào giảng dạy, nghiên cứu tại các cơ sở giáo dục, đào tạo tại Việt Nam;
+đ) Tình nguyện viên có xác nhận của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam;
+e) Vào Việt Nam làm việc tại vị trí chuyên gia, nhà quản lý, giám đốc điều hành hoặc lao động kỹ thuật có thời gian làm việc dưới 30 ngày và thời gian cộng dồn không quá 90 ngày trong 01 năm;
+g) Vào Việt Nam thực hiện thỏa thuận quốc tế mà cơ quan, tổ chức ở Trung ương, cấp tỉnh ký kết theo quy định của pháp luật;
+h) Học sinh, sinh viên đang học tập tại các trường, cơ sở đào tạo ở nước ngoài có thỏa thuận thực tập trong các cơ quan, tổ chức, doanh nghiệp tại Việt Nam;
+i) Thân nhân thành viên cơ quan đại diện nước ngoài tại Việt Nam làm việc sau khi được Bộ Ngoại giao cấp phép, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác;
+k) Có hộ chiếu công vụ vào làm việc cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội;
+l) Các trường hợp khác do Thủ tướng Chính phủ quyết định theo đề nghị của Bộ Lao động - Thương binh và Xã hội.
+1. Người lao động nước ngoài quy định tại các Khoản 1, 2, 3, 4, 5, 6, 7 và 8 Điều 172 của Bộ luật Lao động.
+2. Các trường hợp người lao động nước ngoài khác không thuộc diện cấp giấy phép lao động, bao gồm:
+a) Di chuyển trong nội bộ doanh nghiệp thuộc phạm vi 11 ngành dịch vụ trong biểu cam kết dịch vụ của Việt Nam với Tổ chức Thương mại thế giới, bao gồm: kinh doanh, thông tin, xây dựng, phân phối, giáo dục, môi trường, tài chính, y tế, du lịch, văn hóa giải trí và vận tải;
+b) Vào Việt Nam để cung cấp dịch vụ tư vấn về chuyên môn và kỹ thuật hoặc thực hiện các nhiệm vụ khác phục vụ cho công tác nghiên cứu, xây dựng, thẩm định, theo dõi đánh giá, quản lý và thực hiện chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA) theo quy định hay thỏa thuận trong các điều ước quốc tế về ODA đã ký kết giữa cơ quan có thẩm quyền của Việt Nam và nước ngoài;
+c) Được Bộ Ngoại giao cấp giấy phép hoạt động thông tin, báo chí tại Việt Nam theo quy định của pháp luật;
+d) Được cơ quan, tổ chức của nước ngoài cử sang Việt Nam giảng dạy, nghiên cứu tại trường quốc tế thuộc phạm vi quản lý của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam hoặc được Bộ Giáo dục và Đào tạo xác nhận vào giảng dạy, nghiên cứu tại các cơ sở giáo dục, đào tạo tại Việt Nam;
+đ) Tình nguyện viên có xác nhận của cơ quan đại diện ngoại giao nước ngoài hoặc tổ chức quốc tế tại Việt Nam;
+e) Vào Việt Nam làm việc tại vị trí chuyên gia, nhà quản lý, giám đốc điều hành hoặc lao động kỹ thuật có thời gian làm việc dưới 30 ngày và thời gian cộng dồn không quá 90 ngày trong 01 năm;
+g) Vào Việt Nam thực hiện thỏa thuận quốc tế mà cơ quan, tổ chức ở Trung ương, cấp tỉnh ký kết theo quy định của pháp luật;
+h) Học sinh, sinh viên đang học tập tại các trường, cơ sở đào tạo ở nước ngoài có thỏa thuận thực tập trong các cơ quan, tổ chức, doanh nghiệp tại Việt Nam;
+i) Thân nhân thành viên cơ quan đại diện nước ngoài tại Việt Nam làm việc sau khi được Bộ Ngoại giao cấp phép, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác;
+k) Có hộ chiếu công vụ vào làm việc cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội;
+l) Các trường hợp khác do Thủ tướng Chính phủ quyết định theo đề nghị của Bộ Lao động - Thương binh và Xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

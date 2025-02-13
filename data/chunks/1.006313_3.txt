@@ -1,0 +1,8 @@
+Tên thủ tục: Nhóm thủ tục liên thông đăng ký hộ kinh doanh và đăng ký thuế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 100.000 Đồng|Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ. hoặc đăng ký trực tuyến http://expway.inetcloud.vn/expway/smartcloud/icloudgate/page/dichvuquamang.cpx?procedure=5cc04d1c16b0c273c9c3ecc8&orgcode=000.00.54.H29&formUI=5ccbb54a16b0c220fa34e7c5&sso=vnconnect|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 50.000 Đồng|Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận đủ hồ sơ. link đăng ký trực tuyến http://expway.inetcloud.vn/expway/smartcloud/icloudgate/page/dichvuquamang.cpx?procedure=5cc04d1c16b0c273c9c3ecc8&orgcode=000.00.54.H29&formUI=5ccbb54a16b0c220fa34e7c5&sso=vnconnect|

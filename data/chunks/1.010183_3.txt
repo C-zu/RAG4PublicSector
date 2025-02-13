@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định Báo cáo kinh tế - kỹ thuật/Báo cáo kinh tế - kỹ thuật điều chỉnh; thiết kế bản vẽ thi công, dự toán xây dựng/thiết kế bản vẽ thi công, dự toán xây dựng điều chỉnh (trường hợp thiết kế 1 bước) - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : Đồng Thực hiện theo Thông tư số 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở;||
+|Trực tuyến|20 Ngày làm việc|Phí : Đồng Thực hiện theo Thông tư số 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở;||
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : Đồng Thực hiện theo Thông tư số 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở;||

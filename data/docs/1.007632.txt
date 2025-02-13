@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007632
+Số quyết định:
+2083/QĐ-BTC
+Tên thủ tục:
+Thủ tục Đăng ký cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kế toán, kiểm toán
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí.
+- Bước 4: Cấp giấy chứng nhận.
+- Bước 5: Công khai danh sách trên trang điện tử Bộ Tài chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000; 800.000; 300.000 Đồng - Cấp lại do hết hạn: 1.200.000 VNĐ - Cấp lại do thu hồi: 800.000 VNĐ - Cấp lại do mất, hỏng: 300.000 VNĐ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và đảm bảo đủ điều kiện.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000; 800.000; 300.000 Đồng - Cấp lại do hết hạn: 1.200.000 VNĐ - Cấp lại do thu hồi: 800.000 VNĐ - Cấp lại do mất, hỏng: 300.000 VNĐ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - ngày kể từ ngày nhận được hồ sơ hợp lệ và đảm bảo đủ điều kiện.|
+
+Thành phần hồ sơ:
+
+1/ Hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán đối với trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn bao gồm:
+- 01 Bản chính a) Đơn đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 02/ĐKHN ban hành kèm theo Thông tư 202/2012/TT-BTC. ([Phụ lục Thông tư số 202-2012-TT-BTC_41741_1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb59d04e0d2316'))
+- 02 Bản chính b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+- 01 Bản chính c) Các tài liệu bổ sung: Hợp đồng lao động, bản thông tin cá nhân, quyết định chấm dứt, giấy phép lao động nếu có thay đổi so với lần đăng ký hành nghề gần nhất.
+
+
+2/ Hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán đối với trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán bị mất, hỏng bao gồm:
+- 01 Bản chính a) Đơn đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 02/ĐKHN ban hành kèm theo Thông tư này.
+- 01 Bản chính b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+ c) Giấy chứng nhận đăng ký hành nghề kiểm toán cũ đối với trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán bị hỏng.
+ * Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hành nghề kiểm toán
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2011/QH12|Luật kiểm toán độc lập số 67/2011/QH12|29-03-2011|Quốc Hội|
+|17/2012/NĐ-CP|Nghị định số 17/2012/NĐ-CP|13-03-2012|Chính phủ|
+|202/2012/TT-BTC|- Thông tư 202/2012/TT-BTC của Bộ Tài chính Hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán.|19-11-2012|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn, nếu kiểm toán viên hành nghề muốn tiếp tục hành nghề kiểm toán thì nộp hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán. Thời hạn nộp hồ sơ đề nghị cấp lại chậm nhất là 60 ngày trước ngày hết hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán.
+- Trường hợp hết hạn thu hồi Giấy chứng nhận đăng ký hành nghề, xin cấp lại (Khoản 4 Điều 13 Thông tư 202/2012/TT-BTC).
+- Trường hợp Giấy chứng nhận đăng ký hành nghề kiểm toán hết thời hạn, nếu kiểm toán viên hành nghề muốn tiếp tục hành nghề kiểm toán thì nộp hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký hành nghề kiểm toán. Thời hạn nộp hồ sơ đề nghị cấp lại chậm nhất là 60 ngày trước ngày hết hạn của Giấy chứng nhận đăng ký hành nghề kiểm toán.
+- Trường hợp hết hạn thu hồi Giấy chứng nhận đăng ký hành nghề, xin cấp lại (Khoản 4 Điều 13 Thông tư 202/2012/TT-BTC).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

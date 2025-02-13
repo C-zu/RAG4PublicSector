@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000103
+Số quyết định:
+1351/QĐ-BKHĐT
+Tên thủ tục:
+Thay đổi, bổ sung các thông tin của nhà thầu, nhà đầu tư đăng ký tham gia vào Hệ thống mạng đấu thầu quốc gia
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đấu thầu
+Trình tự thực hiện:
+Nhà thầu, nhà đầu tư tự thực hiện thay đổi, bổ sung thông tin theo Hướng dẫn sử dụng trên Hệ thống.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ|Phí : 0 Đồng Không có|Gửi văn bản đề nghị sửa đổi, bổ sung thông tin đến Trung tâm trực tiếp|
+|Trực tuyến|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ.|Phí : 0 Đồng Không|Nhà thầu, nhà đầu tư tự thực hiện thay đổi, bổ sung thông tin theo Hướng dẫn sử dụng trên Hệ thống|
+|Dịch vụ bưu chính|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ|Phí : 0 Đồng Không có|Gửi văn bản đề nghị sửa đổi, bổ sung thông tin đến Trung tâm qua đường bưu điện|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Công văn của nhà thầu, nhà đầu tư về việc thay đổi, bổ sung thông tin đăng ký tham gia vào Hệ thống mạng đấu thầu quốc gia;
+- 01 Bản chính - Các tài liệu liên quan đến nội dung cần thay đổi, bổ sung
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư
+Cơ quan có thẩm quyền:
+Bộ Kế hoạch và Đầu tư
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông tin của nhà thầu, nhà đầu tư được sửa đổi, bổ sung trên Hệ thống mạng đấu thầu quốc gia
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|63/2014/NĐ-CP|Quy định chi tiết thi hành mốt số điều của Luật Đấu thầu về lựa chọn nhà thầu|26-06-2014|Chính phủ|
+|43/2013/QH13|Luật đấu thầu|26-11-2013|Quốc Hội|
+|06/2020/TT-BKHĐT|Hướng dẫn thực hiện Nghị định số 25/2020/NĐ-CP ngày 28/02/2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư|18-09-2020|Bộ Kế hoạch và Đầu tư|
+|95/2020/NĐ-CP|Hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương|24-08-2020|Chính phủ|
+|09/2022/NĐ-CP|- Nghị định số 09/2022/NĐ-CP ngày 12 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 95/2020/NĐ-CP ngày 24 tháng 8 năm 2020 của Chính phủ hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương để hướng dẫn thực hiện về đấu thầu mua sắm theo Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương, Hiệp định Thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh Châu Âu, Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len (Nghị định số 09/2022/NĐ-CP);|12-01-2022||
+|10/2022/TT-BKHĐT|Thông tư số 10/2022/TT-BKHĐT của Bộ Kế hoạch và Đầu tư: Quy định chi tiết việc cung cấp, đăng tải thông tin và lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia|15-06-2022||
+|08/2022/TT-BKHĐT|Quy định chi tiết về việc cung cấp, đăng tải thông tin về đấu thầu và lựa chọn nhà thầu trên hệ thống mạng đấu thầu Quốc gia|31-05-2022||
+|12/2022/TT-BKHĐT|Quy định chi tiết về lập hồ sơ mời thầu mua sắm hàng hóa đối với gói thầu thuộc phạm vi điều chỉnh của Hiệp định Đối tác toàn diện và tiến bộ xuyên Thái Bình Dương, Hiệp định thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh châu Âu, Hiệp định thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai-len|30-06-2022||
+|15/2022/TT-BKHĐT|Quy định chi tiết về lập hồ sơ mời thầu xây lắp đối với gói thầu thuộc phạm vi điều chỉnh của Hiệp định đối tác toàn diện và Tiến bộ xuyên Thái Bình Dương, Hiệp định thương mại tự do giữa Cộng hòa xã hội chủ nghĩa Việt Nam và Liên minh châu Âu, Hiệp định thương mại tự do giữa Việt Nam và Liên hiệp Vương quốc Anh và Bắc Ai - len|30-06-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Thay đổi, bổ sung, các thông tin, của nhà thầu, nhà đầu tư, đăng ký tham gia, vào Hệ thống, mạng đấu thầu, quốc gia
+Mô tả:
+Không có thông tin

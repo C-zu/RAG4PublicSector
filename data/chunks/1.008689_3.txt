@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy phép thi công lắp đặt bảng quảng cáo trong phạm vi đất dành cho đường bộ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Hồ sơ nộp trực tiếp tại Sở Văn hóa và Thể thao|

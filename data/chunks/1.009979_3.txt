@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Sửa chữa, cải tạo/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án):
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|- 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|05 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|- 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|05 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|- 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

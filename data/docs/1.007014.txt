@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007014
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai thuế GTGT đối với phương pháp khấu trừ đối với hoạt động sản xuất kinh doanh
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1. Người nộp thuế áp dụng phương pháp tính thuế GTGT theo phương pháp khấu trừ theo quy định của pháp luật về thuế GTGT lập hồ sơ khai thuế và gửi đến cơ quan thuế chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế (đối với trường hợp khai và nộp thuế GTGT theo tháng); chậm nhất là ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ thuế (đối với trường hợp khai và nộp thuế GTGT theo quý); chậm nhất là ngày thứ 10 kể từ ngày phát sinh nghĩa vụ thuế (chỉ áp dụng đối với trường hợp khai và nộp thuế GTGT theo Tờ khai mẫu số 05/GTGT theo lần phát sinh).
+Trường hợp người nộp thuế gửi hồ sơ qua giao dịch điện tử: Người nộp thuế (NNT) truy cập vào Cổng thông tin điện tử mà người nộp thuế lựa chọn (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền bao gồm: Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp Bộ, cấp tỉnh theo quy định về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính và đã được kết nối với Cổng thông tin điện tử của Tổng cục Thuế (sau đây gọi là Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền)/Cổng thông tin của tổ chức cung cấp dịch vụ T-VAN) để khai hồ sơ khai thuế và các phụ lục đính kèm theo quy định dưới dạng điện tử (nếu có), ký điện tử và gửi đến cơ quan thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn.
++ Bước 2. Cơ quan thuế tiếp nhận:
+++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận hồ sơ theo quy định.
+++ Trường hợp hồ sơ được nộp thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
++++ Tiếp nhận hồ sơ: Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận việc NNT đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho NNT qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế.
++++ Kiểm tra, giải quyết hồ sơ: Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của NNT theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành:
+Cơ quan thuế gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà NNT lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không phải trả kết quả cho người nộp thuế|||
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||
+|Dịch vụ bưu chính|Không phải trả kết quả cho người nộp thuế|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Thành phần hồ sơ gồm: Danh mục hồ sơ khai thuế tại Phụ lục I ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (sau đây gọi là Nghị định số 126/2020/NĐ-CP) và phụ lục II ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ trưởng Bộ Tài chính ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (sau đây gọi là Thông tư số 80/2021/TT-BTC). Hồ sơ khai thuế GTGT cụ thể như sau: + Đối với người nộp thuế có hoạt động sản xuất điện: ++ Tờ khai thuế GTGT mẫu số 01/GTGT; ++ Trường hợp người nộp thuế là cơ sở sản xuất thủy điện có nhà máy thủy điện nằm chung trên địa bàn các tỉnh thì nộp thêm Phụ lục bảng phân bổ số thuế GTGT phải nộp đối với hoạt động sản xuất thủy điện mẫu số 01-2/GTGT. + Đối với người nộp thuế có hoạt động kinh doanh xổ số điện toán: ++ Tờ khai thuế GTGT mẫu số 01/GTGT; ++ Phụ lục bảng phân bổ số thuế GTGT phải nộp đối với hoạt động kinh doanh xổ số điện toán mẫu số 01-3/GTGT (nếu có). + Đối với người nộp thuế là doanh nghiệp viễn thông có các chi nhánh hạch toán phụ thuộc tại tỉnh khác với nơi doanh nghiệp đóng trụ sở chính: ++ Tờ khai thuế GTGT mẫu số 01/GTGT; ++ Trường hợp người nộp thuế có dịch vụ viễn thông cước trả sau thì nộp thêm Phụ lục bảng phân bổ thuế GTGT phải nộp (trừ sản xuất thủy điện, kinh doanh xổ số điện toán) mẫu số 01-6/GTGT. + Đối với người nộp thuế có đơn vị phụ thuộc, địa điểm kinh doanh là cơ sở sản xuất khác tỉnh với nơi người nộp thuế đóng trụ sở chính: ++ Tờ khai thuế GTGT mẫu số 01/GTGT; ++ Phụ lục bảng phân bổ thuế GTGT phải nộp (trừ sản xuất thủy điện, kinh doanh xổ số điện toán) mẫu số 01-6/GTGT. + Đối với người nộp thuế chỉ có hoạt động sản xuất kinh doanh thông thường không thuộc các trường hợp nêu trên: ++ Tờ khai thuế GTGT mẫu số 01/GTGT. + Đối với người nộp thuế thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừ có hoạt động chuyển nhượng bất động sản tại địa bàn khác tỉnh, thành phố trực thuộc trung ương với nơi người nộp thuế đóng trụ sở chính (trừ hoạt động chuyển nhượng bất động sản của dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng theo quy định tại điểm b khoản 1 Điều 11 Nghị định số 126/2020/NĐ-CP): ++ Hồ sơ khai thuế gồm: Tờ khai thuế GTGT mẫu số 05/GTGT; ++ Người nộp thuế phải tổng hợp doanh thu chưa có thuế giá trị gia tăng đối với hoạt động chuyển nhượng bất động sản vào hồ sơ khai thuế tại trụ sở chính để xác định số thuế phải nộp cho toàn bộ hoạt động sản xuất kinh doanh tại trụ sở chính. Số thuế giá trị gia tăng đã nộp tại tỉnh nơi có bất động sản chuyển nhượng được bù trừ với số thuế giá trị gia tăng phải nộp tại trụ sở chính. + Đối với người nộp thuế thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừ là nhà thầu xây dựng (nhà thầu chính, nhà thầu phụ), ký hợp đồng (phụ lục hợp đồng) trực tiếp với chủ đầu tư để thi công công trình xây dựng (hoạt động xây dựng theo quy định của pháp luật về hệ thống ngành kinh tế quốc dân và quy định của pháp luật chuyên ngành) tại địa bàn khác tỉnh, thành phố trực thuộc trung ương với nơi người nộp thuế đóng trụ sở chính (bao gồm cả công trình, hạng mục công trình xây dựng liên quan tới nhiều tỉnh): ++ Hồ sơ khai thuế gồm: Tờ khai thuế GTGT mẫu số 05/GTGT; ++ Người nộp thuế phải tổng hợp doanh thu chưa có thuế giá trị gia tăng đối với hoạt động xây dựng vào hồ sơ khai thuế tại trụ sở chính để xác định số thuế phải nộp cho toàn bộ hoạt động sản xuất kinh doanh tại trụ sở chính. Số thuế giá trị gia tăng đã nộp tại tỉnh nơi có công trình xây dựng được bù trừ với số thuế giá trị gia tăng phải nộp tại trụ sở chính. ([mẫu 01.GTGT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe874dd7075dd53') [Mẫu 01.3.GTGT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed7dbb8ae3b6cd') [Mẫu 01.2.GTGT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0e7e7900c1860') [Mẫu 05.GTGT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb738148797a448') [Mẫu 01.6.GTGT.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe46395a3158161'))
+- 01 Bản chính, 01 Bản sao Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

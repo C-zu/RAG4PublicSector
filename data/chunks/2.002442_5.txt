@@ -1,0 +1,25 @@
+Tên thủ tục: Gia hạn giấy phép sử dụng tạm thời một phần hè phố, lòng đường
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+UBND cấp huyện
+Cơ quan có thẩm quyền:
+UBND cấp huyện
+Địa chỉ tiếp nhận HS:
+Trung tâm Hành chính công cấp huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng tạm thời một phần vỉa hè, lòng đường được gia hạn.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|Nghị định số 100/2013/NĐ-CP|100/2013/NĐ-CP|03-09-2013||
+|16/2009/TT-BXD|Thông tư về sửa đổi, bổ sung Thông tư số 04/2008/TT-BXD ngày 20 tháng 02 năm 2008 của Bộ Xây dựng hướng dẫn quản lý đường đô thị.|30-06-2009|Bộ Lao động - Thương binh và Xã hội|
+|04/2008/TT-BXD|Thông tư hướng dẫn quản lý đường đô thị|20-02-2008|Bộ Xây dựng|
+|11/2010/NĐ-CP|Nghị định|24-02-2010||

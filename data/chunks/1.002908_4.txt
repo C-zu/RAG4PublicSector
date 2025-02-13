@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục điều chỉnh nội dung quyết định chứng nhận, cấp thẻ kiểm định viên đo lường, cấp lại thẻ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Trường hợp điều chỉnh nội dung của quyết định chứng nhận, cấp thẻ kiểm định viên đo lường
+- 01 Bản chính Công văn đề nghị điều chỉnh.
+- 01 Bản sao Bản sao điện tử của giấy chứng nhận hoàn thành khóa đào tạo về kiểm định đối với lĩnh vực kiểm định đề nghị bổ sung đáp ứng yêu cầu quy định tại Khoản 2 Điều 29 của Thông tư 24 (đối với trường hợp đề nghị bổ sung lĩnh vực kiểm định cho kiểm định viên đo lường).
+- 01 Bản chính Tài liệu khác có liên quan đến nội dung đề nghị điều chỉnh.
+
+
+2. Trường hợp cấp lại thẻ
+- 01 Bản chính Công văn đề nghị cấp lại thẻ.
+- 02 Bản chính Hai (02) ảnh màu cỡ (2 x 3) cm, chụp trên nền trắng.

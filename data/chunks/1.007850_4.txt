@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa đưa vào, đưa ra cảng trung chuyển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bảng kê hàng trung chuyển

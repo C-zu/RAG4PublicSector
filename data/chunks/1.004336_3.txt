@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo thay đổi chủ sở hữu, địa chỉ trụ sở chính của tổ chức, doanh nghiệp đã được cấp Giấy phép thiết lập mạng xã hội
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 (bảy) ngày làm việc kể từ ngày nhận được thông báo|
+|Trực tuyến|7 Ngày làm việc||07 (bảy) ngày làm việc kể từ ngày nhận được thông báo|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 (bảy) ngày làm việc kể từ ngày nhận được thông báo|

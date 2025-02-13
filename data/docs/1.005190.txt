@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005190
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Đăng ký dấu nghiệp vụ giám định thương mại
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Giám định thương mại
+Trình tự thực hiện:
+Bước 1:          Sở Công Thương tiếp nhận Hồ sơ đề nghị đăng ký dấu nghiệp vụ từ các thương nhân kinh doanh dịch vụ giám định thương mại và các tổ chức, cá nhân khác có liên quan
+Bước 2:          Trong thời gian 03 ngày làm việc kể từ ngày nhận bộ hồ sơ, cơ quan đăng ký dấu nghiệp vụ có trách nhiệm thông báo bằng văn bản cho thương nhân yêu cầu bổ sung và hoàn chỉnh hồ sơ trong trường hợp hồ sơ chưa đầy đủ, hợp lệ
+Bước 3:          Trong thời hạn 07 ngày làm việc kể từ ngày tiếp nhận bộ hồ sơ hợp lệ, cơ quan đăng ký dấu nghiệp vụ có trách nhiệm đăng ký dấu nghiệp vụ sử dụng trong chứng thư giám định của thương nhân vào Sổ đăng ký dấu nghiệp vụ và thông báo đăng ký dấu nghiệp vụ giám định cho thương nhân bằng văn bản
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|7 Ngày làm việc||07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Bản chính Đơn đăng ký dấu nghiệp vụ thực hiện theo mẫu tại Phụ lục ban hành kèm theo Thông tư này ([Mau don dang ky dau nghiep vu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec44d9979ab79a'))
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư trong các trường hợp sau - Bản sao có chứng thực đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện - Bản chụp kèm theo bản chính để đối chiếu đối với trường hợp nộp hồ sơ trực tiếp
+- 01 Bản chính + Các mẫu dấu nghiệp vụ hoặc bản thiết kế các mẫu dấu nghiệp vụ mà thương nhân đăng ký Trường hợp thủ tục hành chính có áp dụng nộp hồ sơ qua mạng điện tử thì thương nhân gửi bản scan từ bản gốc các giấy tờ quy định tại khoản 1 Điều 4 Thông tư số 01/2015/TT-BCT
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo xác nhận dấu nghiệp vụ giám định thương mại
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2006/NĐ-CP|Quy định chi tiết Luật Thương mại về kinh doanh dịch vụ giám định thương mại|20-02-2006|Chính phủ|
+|125/2014/NĐ-CP|Sửa đổi, bổ sung quy định về dịch vụ giám định thương mại tại Nghị định số 120/2011/NĐ-CP ngày 16 tháng 12 năm 2011 và nghị định số 20/2006/NĐ-CP ngày 20 tháng 02 năm 2006|26-08-2019|Chính phủ|
+|01/2015/TT-BCT|Quy định thủ tục đăng ký dấu nghiệp vụ của thương nhân kinh doanh dịch vụ giám định thương mại|12-01-2015|Bộ Công thương|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

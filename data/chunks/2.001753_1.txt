@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy phép hoạt động in (cấp Trung ương)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001753
+Số quyết định:
+2291/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép hoạt động in (cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành

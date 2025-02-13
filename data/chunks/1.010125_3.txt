@@ -1,0 +1,7 @@
+Tên thủ tục: Trình cấp phép xuất nhập cảnh cho cán bộ, công chức, viên chức, người lao động (CBCCVC, NLĐ) thành phố Đà Nẵng (UBND TP Đà Nẵng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trường hợp 1: 05 ngày làm việc - Sở Ngoại vụ Đà Nẵng: 02 ngày làm việc; - HĐND/UBND thành phố: 03 ngày làm việc. Trường hợp 2: Trong vòng 02 ngày làm việc, Sở Ngoại vụ thành phố Đà Nẵng có văn bản tham mưu HĐND/UBND thành phố; trong vòng 01 ngày làm việc kể từ khi nhận văn bản của HĐND/UBND thành phố, Sở Ngoại vụ thành phố Đà Nẵng thông báo CBCCVC, NLĐ (nộp hồ sơ) đến nhận kết quả.|Phí : Không.|Hồ sơ được nộp trực tiếp tại Bộ phận TN&TKQ Sở Ngoại vụ thành phố Đà Nẵng.|

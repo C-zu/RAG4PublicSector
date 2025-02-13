@@ -1,0 +1,7 @@
+Tên thủ tục: Công nhận tiến bộ kỹ thuật
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc kể từ ngày ban hành, cơ quan có thẩm quyền đăng tải Quyết định công nhận tiến bộ kỹ thuật trên cổng thông tin điện tử của đơn vị.|

@@ -1,0 +1,10 @@
+Tên thủ tục: Hỗ trợ chi phí mua cây giống cây ăn quả
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 06 ban hành kèm theo Nghị quyết số 185/2021/NQ-HĐND ngày 10/12/2021 của Hội đồng nhân dân tỉnh Thanh Hóa. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe652331e4323fa'">Mẫu số 06.docx</a>)
+- 01 Bản chính - Giấy xác nhận diện tích đã trồng mới cây ăn quả của Ủy ban nhân dân cấp xã (bản chính).
+- 01 Bản sao - Hợp đồng với tổ chức chứng nhận sản xuất cây ăn quả theo tiêu chuẩn VietGAP trở lên (bản sao).
+- 01 Bản sao - Hợp đồng, thanh lý hợp đồng mua bán giống của tổ chức, cá nhân trực tiếp trồng cây ăn quả với đơn vị cung cấp giống và chứng từ theo quy định (bản sao).

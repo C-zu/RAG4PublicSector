@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp bản sao và chứng thực tài liệu lưu trữ (Cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Thủ tục cấp bản sao
+Bước 1: Độc giả có nhu cầu cấp bản sao tài liệu phải đăng ký vào Phiếu yêu cầu sao tài liệu;
+Bước 2: Sau khi độc giả điền đầy đủ các thông tin vào Phiếu yêu cầu sao tài liệu, viên chức Phòng đọc sẽ trình hồ sơ cho người đứng đầu Lưu trữ lịch sử cấp tỉnh phê duyệt;
+Bước 3: Viên chức Phòng đọc ghi vào Sổ đăng ký phiếu yêu cầu sao tài liệu và tiến hành thực hiện sao tài liệu, sau đó trả bản sao tài liệu cho độc giả tại Phòng đọc.
+Thủ tục cấp chứng thực lưu trữ
+Bước 1: Độc giả có nhu cầu chứng thực lưu trữ phải đăng ký vào Phiếu yêu cầu chứng thực tài liệu;
+Bước 2: Sau khi độc giả điền đầy đủ các thông tin vào Phiếu yêu cầu chứng thực, viên chức Phòng đọc xác nhận thông tin về nguồn gốc, địa chỉ lưu trữ của tài liệu đang bảo quản tại Lưu trữ lịch sử cấp tỉnh, gồm: Tờ số, hồ sơ số, số mục lục hồ sơ, tên phông, số chứng thực được đăng ký trong Sổ chứng thực. Các thông tin về chứng thực tài liệu được thể hiện trên Dấu chứng thực;
+Bước 3: Viên chức Phòng đọc điền đầy đủ các thông tin vào Dấu chứng thực đóng trên bản sao, ghi ngày, tháng, năm chứng thực, trình người đứng đầu Lưu trữ lịch sử cấp tỉnh ký xác nhận và đóng dấu của Lưu trữ Lịch sử, sau đó trả bản chứng thực tài liệu cho độc giả tại Phòng đọc.

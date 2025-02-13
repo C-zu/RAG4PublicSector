@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo hoạt động khuyến mại
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||Nộp 01 hồ sơ thông báo trực tiếp tại trụ sở các Sở Công Thương nơi tổ chức khuyến mại;|
+|Trực tuyến|0||Nộp 01 hồ sơ thông báo qua thư điện tử kèm chữ ký điện tử hoặc kèm bản scan Thông báo thực hiện khuyến mại có chữ ký và dấu đến địa chỉ đã được các Sở Công Thương công bố; - Sử dụng hệ thống dịch vụ công trực tuyến do cơ quan quản lý nhà nước cung cấp.|
+|Dịch vụ bưu chính|0||Nộp 01 hồ sơ thông báo qua đường bưu điện đến các Sở Công Thương nơi tổ chức khuyến mại;|

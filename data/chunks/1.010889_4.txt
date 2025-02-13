@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy xác nhận đủ điều kiện tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với doanh nghiệp đã được cấp phép kinh doanh dịch vụ viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp giấy xác nhận đáp ứng điều kiện tham gia đấu giá theo Mẫu 01 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab2fe3a175cc20'">đơn đề nghị cấp giấy xác nhận đáp ứng điều kiện tham gia đấu giá.docx</a>)
+- 01 Bản chính Đơn đề nghị sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông theo quy định của pháp luật về viễn thông;
+- 01 Bản chính Báo cáo tình hình thực hiện giấy phép kể từ ngày được cấp giấy phép đến ngày nộp hồ sơ đề nghị sửa đổi, bổ sung giấy phép theo quy định của pháp luật về viễn thông
+- 01 Bản chính Kế hoạch kinh doanh và kế hoạch kỹ thuật phù hợp với tài nguyên viễn thông thay đổi theo quy định của pháp luật về viễn thông
+- 01 Bản chính c) Bản cam kết triển khai mạng viễn thông sau khi trúng đấu giá theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 63/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2f37fcefb6b46'">bản cam kết triển khai mạng viễn thông.docx</a>)
+- 01 Bản chính d) Bản cam kết mức trả giá trong trường hợp tổ chức trúng đấu giá đảm bảo phương án kỹ thuật và phương án kinh doanh đáp ứng điều kiện cấp hoặc cấp mới hoặc sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần được cấp phép thông qua đấu giá theo quy định của pháp luật về viễn thông theo Mẫu 02 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6908013551598'">bản cam kết mức giá.docx</a>)
+- 01 Bản chính e) Cam kết đáp ứng điều kiện quy định tại điểm a khoản 1 Điều 18a Luật Tần số vô tuyến điện được bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện

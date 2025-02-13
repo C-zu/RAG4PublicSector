@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009893
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+- Bước 4: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Đồng Không thu phí cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy; phí in và dán tem kiểm định được quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm điểm phương tiện phòng cháy, chữa cháy.|Không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp không cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy phải có văn bản trả lời, nêu rõ lý do.|
+|Trực tuyến|05 Ngày làm việc|Phí : Đồng Không thu phí cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy; phí in và dán tem kiểm định được quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm điểm phương tiện phòng cháy, chữa cháy.|- Trực tuyến tại Cổng dịch vụ công (nếu có);|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Đồng Không thu phí cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy; phí in và dán tem kiểm định được quy định tại Thông tư số 02/2021/TT-BTC ngày 08/01/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm điểm phương tiện phòng cháy, chữa cháy.|- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp Giấy chứng nhận kiểm định phương tiện phòng cháy, chữa cháy (Mẫu số PC27 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); ([PC27-capCNkiemdinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a3065c7a51dd'))
+- 01 Bản chính - Biên bản kiểm định phương tiện phòng cháy, chữa cháy của cơ sở kinh doanh dịch vụ tư vấn kiểm tra, kiểm định kỹ thuật về phòng cháy, chữa cháy; ([PC25-Bienbankiemdinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0f3542b0dd3d8'))
+- 01 Bản chính - Biên bản lấy mẫu phương tiện kiểm định (Mẫu số PC28 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); ([PC28-Bienbanlaymaukiemdinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf2497d870f094'))
+- 01 Bản chính - Giấy chứng nhận xuất xứ hoặc xuất xưởng của phương tiện;
+- 01 Bản chính - Giấy chứng nhận chất lượng của phương tiện (nếu có);
+- 01 Bản chính - Tài liệu kỹ thuật của phương tiện đề nghị kiểm định.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Cơ quan có thẩm quyền:
+Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận kiểm định phương tiện phòng cháy, chữa cháy, Tem kiểm định phương tiện PCCC, Văn bản thu phí kiểm định/ phí in tem kiểm định phương tiện PCCC, Văn bản trả lời, nêu rõ lý do
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|112/2020/TT-BTC|THÔNG TƯ 112/2020/TT-BTC QUY ĐỊNH VỀ MỨC THU MỘT SỐ KHOẢN PHÍ, LỆ PHÍ NHẰM HỖ TRỢ, THÁO GỠ KHÓ KHĂN CHO SẢN XUẤT KINH DOANH, BẢO ĐẢM AN SINH XÃ HỘI ỨNG PHÓ VỚI DỊCH COVID-19 DO BỘ TÀI CHÍNH BAN HÀNH|29-12-2020|Bộ Tài chính|
+|136/2020/NĐ-CP|Nghị định 136/2020/NĐ-CP|24-11-2020||
+|02/2021/TT-BTC|Thông tư|08-01-2021|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Phương tiện phòng cháy, chữa cháy sản xuất, lắp ráp, hoán cải trong nước hoặc nhập khẩu (thuộc danh mục quy định tại Phụ lục VII Nghị định số 136/2020/NĐ-CP) trước khi lưu thông ra thị trường.
+- Phương tiện phòng cháy, chữa cháy đã được cơ quan có thẩm quyền kiểm định về phòng cháy, chữa cháy.
+- Phương tiện phòng cháy, chữa cháy sản xuất, lắp ráp, hoán cải trong nước hoặc nhập khẩu (thuộc danh mục quy định tại Phụ lục VII Nghị định số 136/2020/NĐ-CP) trước khi lưu thông ra thị trường.
+- Phương tiện phòng cháy, chữa cháy đã được cơ quan có thẩm quyền kiểm định về phòng cháy, chữa cháy.
+Từ khóa:
+Cấp Giấy chứng nhận kiểm định phương tiện phòng cháy và chữa cháy
+Mô tả:
+Không có thông tin

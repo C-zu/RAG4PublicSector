@@ -1,0 +1,20 @@
+Tên thủ tục: Đăng ký khai thác tuyến.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+Doanh nghiệp, hợp tác xã gửi hồ sơ đăng ký khai thác tuyến về Sở Giao thông vận tải nơi đã cấp Giấy phép kinh doanh cho đơn vị.
+Giải quyết TTHC
+- Áp dụng đến hết ngày 30 tháng 6 năm 2021:
++ Trong thời hạn tối đa 02 ngày làm việc kể từ ngày nhận hồ sơ, Sở Giao thông vận tải phải kiểm tra hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Sở Giao thông vận tải nơi tiếp nhận hồ sơ thông báo trực tiếp hoặc băng văn bản nội dung cần sửa đổi, bổ sung đến doanh nghiệp, hợp tác xã.
+Trong thời gian tối đa 02 ngày làm việc kể từ ngày nhận thông báo sửa đổi, bổ sung của Sở Giao thông vận tải, doanh nghiệp, hợp tác xã phải hoàn thiện và cập nhật đủ hồ sơ. Trường hợp quá 02 ngày làm việc kể từ ngày nhận thông báo, doanh nghiệp, hợp tác xã không hoàn thiện, bổ sung đủ hồ sơ thì hồ sơ được coi là không hợp lệ, Sở Giao thông vận tải tiếp tục kiểm tra hồ sơ tiếp theo theo thứ tự thời gian nộp;
++ Đối với tuyến vận tải hành khách cố định liên tỉnh:
+Trong thời hạn tối đa 03 ngày làm việc kể từ ngày nhận đủ hồ sơ đúng theo quy định, Sở Giao thông vận tải nơi tiếp nhận hồ sơ có văn bản gửi Sở Giao thông vận tải đầu tuyến bên kia để lấy ý kiến.
+Trong thời hạn tối đa 02 ngày làm việc kể từ ngày nhận được văn bản lấy ý kiến, Sở Giao thông vận tải được xin ý kiến phải có văn bản trả lời. Trường hợp có doanh nghiệp, hợp tác xã đăng ký khai thác tuyến (trùng tuyến, trùng giờ), Sở Giao thông vận tải được lấy ý kiến thống nhất với Sở Giao thông vận tải lấy ý kiến để quyết định theo nguyên tắc doanh nghiệp, hợp tác xã nộp hồ sơ trước được kiểm tra và xử lý hồ sơ trước theo thứ tự thời gian. Hết thời hạn trên nếu không có văn bản trả lời thì coi như Sở Giao thông vận tải được xin ý kiến đã đồng ý.
+Trong thời hạn tối đa 07 ngày kể từ ngày nhận đủ hồ sơ theo quy định, Sở Giao thông vận tải nơi tiếp nhận hồ sơ ban hành Thông báo đăng ký khai thác tuyến thành công (bằng văn bản) gửi doanh nghiệp, hợp tác xã, Sở Giao thông vận tải đầu tuyến bên kia, bến xe hai đầu tuyến để phối hợp quản lý;
++ Đối với tuyến vận tải hành khách cố định nội tỉnh: Trong thời hạn tối đa 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Sở Giao thông vận tải nơi tiếp nhận hồ sơ ban hành Thông báo đăng ký khai thác tuyến thành công (bằng văn bản) gửi doanh nghiệp, hợp tác xã, bến xe hai đầu tuyến để phối hợp quản lý.
+- Áp dụng từ ngày 01 tháng 7 năm 2021:
++ Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, Sở Giao thông vận tải phải kiểm tra hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Sở Giao thông vận tải nơi tiếp nhận hồ sơ thông báo trực tiếp trên hệ thống dịch vụ công nội dung cần sửa đổi, bổ sung đến doanh nghiệp, hợp tác xã.
+Trong thời gian 02 ngày làm việc kể từ ngày nhận thông báo sửa đổi, bổ sung của Sở Giao thông vận tải, doanh nghiệp, hợp tác xã phải hoàn thiện và cập nhật hồ sơ lên hệ thống dịch vụ công trực tuyến. Trường hợp quá 02 ngày làm việc kể từ ngày nhận thông báo, doanh nghiệp, hợp tác xã không hoàn thiện, bổ sung đủ hồ sơ thì hồ sơ được coi là không hợp lệ, Sở Giao thông vận tải tiếp tục kiểm tra hồ sơ tiếp theo theo thứ tự thời gian nộp trên hệ thống dịch vụ công;
++ Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ đúng theo quy định, Sở Giao thông vận tải nơi tiếp nhận hồ sơ ban hành Thông báo đăng ký khai thác tuyến thành công (bằng văn bản) và trên hệ thống dịch vụ công trực tuyến gửi doanh nghiệp, hợp tác xã, Sở Giao thông vận tải đầu tuyến bên kia (đối với tuyến vận tải khách cố định liên tỉnh), bến xe hai đầu tuyến để phối hợp quản lý.
+Trường hợp có nhiều hồ sơ cùng đăng ký trùng tuyến và trùng giờ xuất bến, Sở Giao thông vận tải xử lý hồ sơ theo thứ tự thời gian nộp hồ sơ của doanh nghiệp, hợp tác xã trên hệ thống dịch vụ công trực tuyến, đơn vị nộp trước được kiểm tra, xử lý trước.

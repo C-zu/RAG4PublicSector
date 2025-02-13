@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tuc thực hiện chế độ một lần đối với đối tượng hạ sĩ quan, chiến sĩ quân đội theo Quyết định 188/2007/QĐ-TTg (đối tượng lập hồ sơ lần đầu)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001892
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tuc thực hiện chế độ một lần đối với đối tượng hạ sĩ quan, chiến sĩ quân đội theo Quyết định 188/2007/QĐ-TTg (đối tượng lập hồ sơ lần đầu)
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chính sách

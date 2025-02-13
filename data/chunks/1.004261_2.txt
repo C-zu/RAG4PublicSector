@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy phép vận tải qua biên giới
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân gửi hồ sơ đề nghị cấp Giấy phép vận tải qua biên giới đến một trong các cơ quan có thẩm quyền cấp giấy phép:
++ Cục Đường thủy nội địa Việt Nam là cơ quan có thẩm quyền cấp Giấy phép vận tải qua biên giới cho phương tiện thủy hoạt động vận tải Nhóm 1 và Nhóm Đặc biệt.
++ Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương là cơ quan có thẩm quyền cấp Giấy phép vận tải qua biên giới cho phương tiện thủy thuộc quyền quản lý của địa phương Nhóm 1, 2 và Nhóm Đặc biệt.
+b) Giải quyết TTHC:
+- Cơ quan có thẩm quyền cấp giấy phép tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định thì cơ quan có thẩm quyền cấp giấy phép hướng dẫn hoàn thiện trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ đầy đủ theo quy định thì cơ quan có thẩm quyền cấp giấy phép trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến tổ chức, cá nhân. Trường hợp không cấp Giấy phép, cơ quan có thẩm quyền cấp giấy phép phải trả lời bằng văn bản và nêu rõ lý do.
+- Trường hợp Cục Đường thủy nội địa Việt Nam cấp Giấy phép vận tải qua biên giới cho phương tiện thủy hoạt động vận tải Nhóm 1 và Nhóm Đặc biệt có trách nhiệm thông báo cho Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương nơi phương tiện đăng ký. Trường hợp Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương cấp Giấy phép vận tải qua biên giới cho phương tiện thủy thuộc quyền quản lý của địa phương Nhóm 1, 2 và Nhóm Đặc biệt có trách nhiệm thông báo cho Cục Đường thủy nội địa Việt Nam.

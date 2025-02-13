@@ -1,0 +1,112 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000984
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Cấp giấy phép hoạt động đối với cơ sở dịch vụ y tế thuộc thẩm quyền của Sở Y tế
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: Cơ sở khám bệnh, chữa bệnh gửi hồ sơ  xin cấp giấy phép hoạt động (GPHĐ) về Sở Y tế;
+Bước 2: Sở Y tế tiếp nhận và gửi Phiếu tiếp nhận hồ sơ theo quy định tại mẫu số 09 Phụ lục XI ban hành kèm theo Nghị định số 109/2016/NĐ-CP cho người đề nghị
+Bước 3: Trong thời hạn 45 ngày kể từ ngày nhận đủ hồ sơ, Sở Y tế sẽ xem xét thẩm định hồ sơ  và thẩm định tại cơ sở xin cấp GPHĐ:
+-         Trường hợp hồ sơ chưa hợp lệ thì trong thời hạn 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Sở Y tế phải có văn bản thông báo cho cơ sở xin cấp giấy phép hoàn chỉnh hồ sơ. Thời gian giải quyết thủ tục sẽ tính từ ngày nhận đủ hồ sơ bổ sung.
+-         Trường hợp hồ sơ đã đầy đủ và hợp lệ, Sở Y tế thành lập đoàn thẩm định và tiến hành thẩm định tại cơ sở khám bệnh, chữa bệnh để cấp giấy phép hoạt động.
+-         Trường hợp không cấp GPHĐ, Sở Y tế phải có văn bản trả lời và nêu lý do.
+Bước 4 : Trả GPHĐ cho cơ sở
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Lệ phí : 4300000 Đồng Theo quy định tại Thông tư 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|Nộp trực tiếp tại Sở Y tế|
+|Dịch vụ bưu chính|45 Ngày|Lệ phí : 4300000 Đồng Theo quy định tại Thông tư 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|Gửi hồ sơ qua đường bưu điện đến Sở Y tế|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động theo Mẫu 01 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP ([phụ lục 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0d9da7f044d20'))
+- 01 Bản sao Bản sao hợp lệ quyết định thành lập hoặc văn bản có tên của cơ sở khám bệnh, chữa bệnh của cơ quan nhà nước có thẩm quyền đối với cơ sở khám bệnh, chữa bệnh của Nhà nước hoặc giấy chứng nhận đăng ký doanh nghiệp đối với cơ sở khám bệnh, chữa bệnh tư nhân hoặc giấy chứng nhận đầu tư đối với cơ sở khám bệnh, chữa bệnh có vốn đầu tư nước ngoài;
+- 01 Bản sao Bản sao hợp lệ chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh; người phụ trách bộ phận chuyên môn của cơ sở khám bệnh, chữa bệnh;
+- 01 Bản chính Danh sách đăng ký người hành nghề tại cơ sở khám bệnh, chữa bệnh (bao gồm đăng ký người hành nghề và người làm việc chuyên môn y tế tại cơ sở nhưng không thuộc diện phải cấp chứng chỉ hành nghề) theo mẫu quy định tại Phụ lục IV ban hành kèm theo Nghị định 109/2016/NĐ-CP;
+- 01 Bản chính Bản kê khai cơ sở vật chất, thiết bị y tế, tổ chức và nhân sự của cơ sở khám bệnh, chữa bệnh theo Mẫu 02 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP; ([phụ lục 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc195a6af5611dc'))
+- 01 Bản chính Tài liệu chứng minh cơ sở khám bệnh, chữa bệnh đáp ứng điều kiện về cơ sở vật chất, thiết bị y tế, tổ chức nhân sự phù hợp với phạm vi hoạt động chuyên môn của một trong các hình thức tổ chức quy định tại Mục 1 Chương III Nghị định 109/2016/NĐ-CP;
+- 01 Bản chính Bản sao hợp lệ hợp đồng vận chuyển người bệnh đối với nhà hộ sinh không có phương tiện vận chuyển cấp cứu ngoài cơ sở; ([phụ lục 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea254c66b56721'))
+- 01 Bản chính Danh mục chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh đề xuất trên cơ sở danh mục chuyên môn kỹ thuật do Giám đốc Sở Y tế ban hành; ([phụ lục 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd65247770b26da'))
+- 01 Bản chính Dự kiến phạm vi hoạt động chuyên môn: Cơ sở khám bệnh, chữa bệnh đề xuất phạm vi hoạt động chuyên môn, danh mục kỹ thuật dự kiến thực hiện trên cơ sở danh mục kỹ thuật chuyên môn do Giám đốc Sở Y tế ban hành.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2009/QH12|Luật 40/2009/QH12|23-11-2009|Quốc Hội|
+|87/2011/NĐ-CP|Nghị định 87/2011/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khám bệnh, chữa bệnh|27-09-2011|Chính phủ|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018|Chính phủ|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|109/2016/NĐ-CP|Quy định cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh|01-07-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+1. Cơ sở vật chất:
+a) Có địa điểm cố định (trừ trường hợp tổ chức khám bệnh, chữa bệnh lưu động);
+b) Bảo đảm các điều kiện về an toàn bức xạ, phòng cháy chữa cháy theo quy định của pháp luật;
+c) Phải bố trí khu vực tiệt trùng để xử lý dụng cụ y tế sử dụng lại, trừ trường hợp không có dụng cụ phải tiệt trùng lại hoặc có hợp đồng với cơ sở y tế khác để tiệt trùng dụng cụ.
+2. Trang thiết bị y tế:
+a) Có đủ trang thiết bị y tế phù hợp với phạm vi hoạt động chuyên môn của cơ sở;
+b) Riêng cơ sở khám, điều trị bệnh nghề nghiệp ít nhất phải có bộ phận xét nghiệm sinh hóa;
+c) Phòng khám tư vấn sức khỏe hoặc phòng tư vấn sức khỏe qua các phương tiện công nghệ thông tin, viễn thông không bắt buộc phải có trang thiết bị y tế quy định tại điểm a, b khoản này nhưng phải có đủ các phương tiện công nghệ thông tin, viễn thông, thiết bị phù hợp với phạm vi hoạt động đăng ký.
+3. Nhân lực:
+ a) Mỗi cơ sở khám bệnh, chữa bệnh phải có một người chịu trách nhiệm chuyên môn kỹ thuật. Người chịu trách nhiệm chuyên môn kỹ thuật và trưởng các khoa chuyên môn của cơ sở khám bệnh, chữa bệnh phải đáp ứng các điều kiện sau đây:
+- Là bác sỹ có chứng chỉ hành nghề có phạm vi hoạt động chuyên môn phù hợp phạm vi hoạt động chuyên môn của cơ sở.
+- Trường hợp cơ sở khám bệnh, chữa bệnh gồm nhiều chuyên khoa thì chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật phải có phạm vi hoạt động chuyên môn phù hợp với ít nhất một trong các chuyên khoa lâm sàng mà cơ sở đăng ký hoạt động.
+- Có thời gian hành nghề khám bệnh, chữa bệnh ít nhất là 36 tháng sau khi được cấp chứng chỉ hành nghề hoặc có thời gian trực tiếp tham gia khám bệnh, chữa bệnh ít nhất là 54 tháng. Việc phân công, bổ nhiệm người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh phải được thể hiện bằng văn bản;
+- Là người hành nghề cơ hữu tại cơ sở.
+b) Ngoài người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh, các đối tượng khác làm việc trong cơ sở nếu có thực hiện việc khám bệnh, chữa bệnh thì phải có chứng chỉ hành nghề và chỉ được thực hiện việc khám bệnh, chữa bệnh trong phạm vi công việc được phân            công. Căn cứ vào phạm vi hoạt động chuyên môn, văn bằng, chứng chỉ, chứng nhận đào tạo và năng lực của người hành nghề, người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh phân công người hành nghề được thực hiện các kỹ thuật chuyên môn bằng văn bản;
+c) Kỹ thuật viên xét nghiệm có trình độ đại học được đọc và ký kết quả xét nghiệm. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa xét nghiệm hoặc kỹ thuật viên xét nghiệm có trình độ đại học thì bác sỹ chỉ định xét nghiệm đọc và ký kết quả xét nghiệm;
+d) Cử nhân X-Quang có trình độ đại học được đọc và mô tả hình ảnh chẩn đoán. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa chẩn đoán hình ảnh hoặc bác sỹ X-Quang thì bác sỹ chỉ định kỹ thuật chẩn đoán hình ảnh đọc và ký kết quả chẩn đoán hình ảnh;
+đ) Các đối tượng khác tham gia vào quá trình khám bệnh, chữa bệnh nhưng không cần phải cấp chứng chỉ hành nghề theo quy định của Luật khám bệnh, chữa bệnh thì được phép thực hiện các hoạt động theo phân công của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh (kỹ sư vật lý y học, kỹ sư xạ trị, âm ngữ trị liệu, tâm lý trị liệu và các đối tượng khác), việc phân công phải phù hợp với văn bằng chuyên môn của người đó.
+3. Cơ sở dịch vụ thẩm mỹ không thuộc loại hình phải có giấy phép hoạt động nhưng phải có văn bản thông báo đáp ứng đủ điều kiện cung cấp dịch vụ thẩm mỹ theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Nghị định này gửi về Sở Y tế nơi đặt trụ sở trước khi hoạt động ít nhất 10 ngày.
+Các dịch vụ thẩm mỹ có sử dụng thuốc, các chất, thiết bị để can thiệp vào cơ thể người (phẫu thuật, thủ thuật, các can thiệp có tiêm, chích, bơm, chiếu tia, sóng, đốt hoặc các can thiệp xâm lấn khác) làm thay đổi màu sắc da, hình dạng, cân nặng, khiếm khuyết của các bộ phận trên cơ thể (da, mũi, mắt, môi, khuôn mặt, ngực, bụng, mông và các bộ phận khác trên cơ thể người), xăm, phun, thêu trên da có sử dụng thuốc gây tê dạng tiêm chỉ được thực hiện tại bệnh viện có chuyên khoa thẩm mỹ hoặc phòng khám chuyên khoa thẩm mỹ hoặc cơ sở khám bệnh, chữa bệnh có phạm vi hoạt động chuyên môn về chuyên khoa thẩm mỹ tùy theo phạm vi hoạt động chuyên môn được cơ quan có thẩm quyền phê duyệt.
+4. Phạm vi hoạt động chuyên môn:
+Thực hiện các kỹ thuật chuyên môn theo danh mục được Giám đốc Sở Y tế phê duyệt.
+1. Cơ sở vật chất:
+a) Có địa điểm cố định (trừ trường hợp tổ chức khám bệnh, chữa bệnh lưu động);
+b) Bảo đảm các điều kiện về an toàn bức xạ, phòng cháy chữa cháy theo quy định của pháp luật;
+c) Phải bố trí khu vực tiệt trùng để xử lý dụng cụ y tế sử dụng lại, trừ trường hợp không có dụng cụ phải tiệt trùng lại hoặc có hợp đồng với cơ sở y tế khác để tiệt trùng dụng cụ.
+2. Trang thiết bị y tế:
+a) Có đủ trang thiết bị y tế phù hợp với phạm vi hoạt động chuyên môn của cơ sở;
+b) Riêng cơ sở khám, điều trị bệnh nghề nghiệp ít nhất phải có bộ phận xét nghiệm sinh hóa;
+c) Phòng khám tư vấn sức khỏe hoặc phòng tư vấn sức khỏe qua các phương tiện công nghệ thông tin, viễn thông không bắt buộc phải có trang thiết bị y tế quy định tại điểm a, b khoản này nhưng phải có đủ các phương tiện công nghệ thông tin, viễn thông, thiết bị phù hợp với phạm vi hoạt động đăng ký.
+3. Nhân lực:
+ a) Mỗi cơ sở khám bệnh, chữa bệnh phải có một người chịu trách nhiệm chuyên môn kỹ thuật. Người chịu trách nhiệm chuyên môn kỹ thuật và trưởng các khoa chuyên môn của cơ sở khám bệnh, chữa bệnh phải đáp ứng các điều kiện sau đây:
+- Là bác sỹ có chứng chỉ hành nghề có phạm vi hoạt động chuyên môn phù hợp phạm vi hoạt động chuyên môn của cơ sở.
+- Trường hợp cơ sở khám bệnh, chữa bệnh gồm nhiều chuyên khoa thì chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật phải có phạm vi hoạt động chuyên môn phù hợp với ít nhất một trong các chuyên khoa lâm sàng mà cơ sở đăng ký hoạt động.
+- Có thời gian hành nghề khám bệnh, chữa bệnh ít nhất là 36 tháng sau khi được cấp chứng chỉ hành nghề hoặc có thời gian trực tiếp tham gia khám bệnh, chữa bệnh ít nhất là 54 tháng. Việc phân công, bổ nhiệm người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh phải được thể hiện bằng văn bản;
+- Là người hành nghề cơ hữu tại cơ sở.
+b) Ngoài người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh, các đối tượng khác làm việc trong cơ sở nếu có thực hiện việc khám bệnh, chữa bệnh thì phải có chứng chỉ hành nghề và chỉ được thực hiện việc khám bệnh, chữa bệnh trong phạm vi công việc được phân            công. Căn cứ vào phạm vi hoạt động chuyên môn, văn bằng, chứng chỉ, chứng nhận đào tạo và năng lực của người hành nghề, người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh phân công người hành nghề được thực hiện các kỹ thuật chuyên môn bằng văn bản;
+c) Kỹ thuật viên xét nghiệm có trình độ đại học được đọc và ký kết quả xét nghiệm. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa xét nghiệm hoặc kỹ thuật viên xét nghiệm có trình độ đại học thì bác sỹ chỉ định xét nghiệm đọc và ký kết quả xét nghiệm;
+d) Cử nhân X-Quang có trình độ đại học được đọc và mô tả hình ảnh chẩn đoán. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa chẩn đoán hình ảnh hoặc bác sỹ X-Quang thì bác sỹ chỉ định kỹ thuật chẩn đoán hình ảnh đọc và ký kết quả chẩn đoán hình ảnh;
+đ) Các đối tượng khác tham gia vào quá trình khám bệnh, chữa bệnh nhưng không cần phải cấp chứng chỉ hành nghề theo quy định của Luật khám bệnh, chữa bệnh thì được phép thực hiện các hoạt động theo phân công của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh (kỹ sư vật lý y học, kỹ sư xạ trị, âm ngữ trị liệu, tâm lý trị liệu và các đối tượng khác), việc phân công phải phù hợp với văn bằng chuyên môn của người đó.
+3. Cơ sở dịch vụ thẩm mỹ không thuộc loại hình phải có giấy phép hoạt động nhưng phải có văn bản thông báo đáp ứng đủ điều kiện cung cấp dịch vụ thẩm mỹ theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Nghị định này gửi về Sở Y tế nơi đặt trụ sở trước khi hoạt động ít nhất 10 ngày.
+Các dịch vụ thẩm mỹ có sử dụng thuốc, các chất, thiết bị để can thiệp vào cơ thể người (phẫu thuật, thủ thuật, các can thiệp có tiêm, chích, bơm, chiếu tia, sóng, đốt hoặc các can thiệp xâm lấn khác) làm thay đổi màu sắc da, hình dạng, cân nặng, khiếm khuyết của các bộ phận trên cơ thể (da, mũi, mắt, môi, khuôn mặt, ngực, bụng, mông và các bộ phận khác trên cơ thể người), xăm, phun, thêu trên da có sử dụng thuốc gây tê dạng tiêm chỉ được thực hiện tại bệnh viện có chuyên khoa thẩm mỹ hoặc phòng khám chuyên khoa thẩm mỹ hoặc cơ sở khám bệnh, chữa bệnh có phạm vi hoạt động chuyên môn về chuyên khoa thẩm mỹ tùy theo phạm vi hoạt động chuyên môn được cơ quan có thẩm quyền phê duyệt.
+4. Phạm vi hoạt động chuyên môn:
+Thực hiện các kỹ thuật chuyên môn theo danh mục được Giám đốc Sở Y tế phê duyệt.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

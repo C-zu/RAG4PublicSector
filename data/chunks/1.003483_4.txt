@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép tổ chức triển lãm, hội chợ xuất bản phẩm (cấp địa phương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép tổ chức triển lãm/ hội chợ xuất bản phẩm (trong đó ghi rõ mục đích, thời gian, địa điểm và tên các đơn vị tham gia triển lãm, hội chợ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd79d6a8c48da4'">Mẫu số 32- Đơn ĐN cấp GP TCTLHC.doc</a>)
+- 01 Bản chính Danh mục xuất bản phẩm để triển lãm, hội chợ theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72d274162ab94'">Mẫu số 33- DM XBP TLHC.doc</a>)

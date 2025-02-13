@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000109
+Số quyết định:
+407
+Tên thủ tục:
+Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1. Người nộp thuế (NNT) lập tờ khai đăng ký sử dụng dịch vụ T-VAN/đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/đăng ký ngừng sử dụng dịch vụ T-VAN, ký điện tử và gửi đến Cổng thông tin điện tử của Tổng cục Thuế qua tổ chức cung cấp dịch vụ T-VAN.
+Sau khi hoàn thành việc thực hiện đăng ký giao dịch điện tử với cơ quan thuế theo quy định, NNT phải thực hiện đăng ký với ngân hàng nơi mở tài khoản theo quy định của ngân hàng (đối với trường hợp đăng ký để thực hiện nộp thuế điện tử).
++ Bước 2. Tổng cục Thuế thực hiện tiếp nhận hồ sơ qua Cổng thông tin điện tử của Tổng cục Thuế, thực hiện kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|0|Phí : Đồng|Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký sử dụng dịch vụ T-VAN. Đối với trường hợp đăng ký để thực hiện nộp thuế điện tử: Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán nơi người nộp thuế mở tài khoản gửi thông báo về việc chấp nhận hoặc không chấp nhận đăng ký nộp thuế điện tử cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế trong thời hạn chậm nhất là 03 (ba) ngày làm việc kể từ ngày nhận được bản đăng ký của người nộp thuế.|
+|Trực tuyến|0||Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký thay đổi, bổ sung thông tin sử dụng dịch vụ T-VAN.|
+|Trực tuyến|0||Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký ngừng sử dụng dịch vụ T-VAN.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Trường hợp (1) Đăng ký sử dụng dịch vụ T-VAN: Tờ khai đăng ký sử dụng dịch vụ T-VAN theo mẫu số 01/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính. ([01 DK TVAN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe58a4cc8d5e5ec'))
+- 01 Bản chính Trường hợp (2) Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN: Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN theo mẫu số 02/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính. ([02 ĐK TVAN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc1ecd8ebd0c180'))
+- 01 Bản chính Đăng ký ngừng sử dụng dịch vụ T-VAN: Tờ khai đăng ký ngừng sử dụng dịch vụ T-VAN theo mẫu số 03/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính. ([03 ĐK TVAN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcd07bac6bba56'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo tài khoản giao dịch thuế điện tử theo mẫu số 03/TB-TĐT ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|165/2018/NĐ-CP|Nghị định 165/2018/NĐ-CP|24-12-2018||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|130/2018/NĐ-CP|Nghị định 130/2018/NĐ-CP|27-09-2018||
+|45/2020/NĐ-CP|Nghị định 45/2020/NĐ-CP|08-04-2020||
+|11/2020/NĐ-CP|Nghị định 11/2020/NĐ-CP|20-01-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Đảm bảo đầy đủ các điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế (theo quy định tại Điều 5 Thông tư số 110/2015/TT-BTC ngày 28/7/2015 của Bộ Tài chính)
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng bị mất
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ khi nhận hồ sơ, Sở Giao thông vận tải đăng tải trên Trang thông tin điện tử của Sở Giao thông vận tải|
+|Trực tiếp|15 Ngày||Thời gian đăng tải|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng Lệ phí cấp lại giấy đăng ký không kèm theo biển số 50.000 đồng/lần/phương tiện  Lệ phí : 200000 Đồng Lệ phí cấp lại giấy đăng ký kèm theo biển số 200.000 đồng/lần/phương tiện|Hết thời gian đăng tải nếu không nhận được ý kiến phản hồi liên quan đến tranh chấp xe máy chuyên dùng đề nghị cấp lại đăng ký, trong thời hạn không quá 3 ngày làm việc Sở Giao thông vận tải cấp lại Giấy chứng nhận đăng ký xe máy chuyên dùng cho chủ sở hữu.|

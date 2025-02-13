@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục xác định xe thuộc diện không chịu phí, được bù trừ hoặc trả lại tiền phí đã nộp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Đối với xe ô tô quy định tại các điểm a, b, c, e và g khoản 2 Điều 2 Nghị định số 90/2023/NĐ-CP, chủ phương tiện lập hồ sơ đề nghị trả lại/bù trừ phí sử dụng đường bộ gửi đơn vị đăng kiểm. 
+Đơn vị đăng kiểm kiểm tra và tiếp nhận hồ sơ, đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận các tài liệu trong hồ sơ, tính và trả lại/bù trừ phí cho chủ phương tiện.

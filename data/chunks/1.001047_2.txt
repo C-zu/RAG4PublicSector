@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định điều chỉnh một phần kế hoạch tác động vào thời tiết
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1. Nộp hồ sơ: 
+Tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc nộp qua đường bưu điện đến Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội) hoặc qua hệ thống dịch vụ công trực tuyến tại địa chỉ https://dvc.monre.gov.vn.
+- Bước 2. Kiểm tra hồ sơ:
+Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ kiểm tra hồ sơ, trường hợp hồ sơ chưa đúng quy định, cơ quan tiếp nhận hồ sơ hướng dẫn một lần bằng văn bản cho cơ quan, tổ chức để bổ sung, hoàn thiện; trường hợp hồ sơ đúng quy định, cơ quan tiếp nhận hồ sơ lập phiếu tiếp nhận, hẹn giải quyết hồ sơ cho cơ quan, tổ chức đã nộp hồ sơ và chuyển hồ sơ cho cơ quan thẩm định hồ sơ.
+- Bước 3. Thẩm định:
+Bộ Tài nguyên và Môi trường tổ chức lấy ý kiến thẩm định của các cơ quan, tổ chức, cá nhân có liên quan đến Kế hoạch đã được phê duyệt, tổng hợp ý kiến thẩm định, xem xét, phê duyệt theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền xem xét, phê duyệt.

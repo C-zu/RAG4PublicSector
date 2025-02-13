@@ -1,0 +1,18 @@
+Tên thủ tục: Thủ tục hải quan đối với trường hợp tạm nhập, tạm xuất các phương tiện chứa hàng hóa theo phương thức quay vòng
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Các phương tiện chứa hàng hóa theo phương thức quay vòng bao gồm:
+	a) Container rỗng có hoặc không có móc treo;
+	b) Bồn mềm lót trong container để chứa hàng lỏng;
+	c) Phương tiện (bồn) chứa khí, chất lỏng có kết cấu ổn định, bền chắc, được sử dụng chuyên dùng chứa và vận chuyển khí, có số ký hiệu in cố định trên vỏ mặt bồn, và chuyên chở bằng xe ô tô chuyên dùng;
+	d) Các phương tiện khác có thể sử dụng nhiều lần để chứa hàng hóa xuất khẩu, nhập khẩu.
+Các phương tiện chứa hàng hóa theo phương thức quay vòng bao gồm:
+	a) Container rỗng có hoặc không có móc treo;
+	b) Bồn mềm lót trong container để chứa hàng lỏng;
+	c) Phương tiện (bồn) chứa khí, chất lỏng có kết cấu ổn định, bền chắc, được sử dụng chuyên dùng chứa và vận chuyển khí, có số ký hiệu in cố định trên vỏ mặt bồn, và chuyên chở bằng xe ô tô chuyên dùng;
+	d) Các phương tiện khác có thể sử dụng nhiều lần để chứa hàng hóa xuất khẩu, nhập khẩu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

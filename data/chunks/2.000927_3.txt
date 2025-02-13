@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục sửa lỗi sai sót trong hợp đồng, giao dịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn thực hiện yêu cầu chứng thực phải được bảo đảm ngay trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ. Trường hợp trả kết quả trong ngày làm việc tiếp theo thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực.|Phí : 25.000 Đồng 25.000 đồng/hợp đồng, giao dịch|Nộp hồ sơ trực tiếp tại Phòng Tư pháp, UBND cấp xã|

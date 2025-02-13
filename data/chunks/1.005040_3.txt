@@ -1,0 +1,7 @@
+Tên thủ tục: Xác nhận trình báo đường thủy nội địa hoặc trình báo đường thủy nội địa bổ sung
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quá 02 (hai) giờ làm việc đối với Cảng vụ đường thủy nội địa và 03 (ba) giờ làm việc đối với các cơ quan có thẩm quyền khác, kể từ khi đã nhận đủ các giấy tờ hợp lệ.|||

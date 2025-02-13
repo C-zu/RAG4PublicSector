@@ -1,0 +1,8 @@
+Tên thủ tục: Chuyển đổi điểm thông quan hàng hóa xuất, nhập khẩu thành cảng cạn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chấp thuận chủ trương chuyển đổi điểm thông quan hàng hóa xuất, nhập khẩu thành cảng cạn
+- 01 Bản chính Bản vẽ tổng thể thể hiện vị trí điểm thông quan, phương án kết nối mặt bằng phân khu chức năng

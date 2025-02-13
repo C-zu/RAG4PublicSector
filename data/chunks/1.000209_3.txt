@@ -1,0 +1,9 @@
+Tên thủ tục: Miễn trừ áp dụng biện pháp phòng vệ thương mại
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.|
+|Trực tuyến|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.|

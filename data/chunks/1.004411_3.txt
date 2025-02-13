@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện bay xuất khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|17 Ngày làm việc|Phí : 200.000 đồng/tấn Đồng Phí kiểm định cấp giấy chứng nhận đủ điều kiện bay cho tàu bay (tính theo trọng tải cất cánh tối đa của từng loại tàu bay)|17 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|17 Ngày làm việc|Phí : 200.000 đồng/tấn Đồng Phí kiểm định cấp giấy chứng nhận đủ điều kiện bay cho tàu bay (tính theo trọng tải cất cánh tối đa của từng loại tàu bay)|17 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|

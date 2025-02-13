@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định dự án thuộc đối tượng lập báo cáo kinh tế - kỹ thuật do UBND tỉnh hoặc chủ tịch UBND tỉnh quyết định đầu tư (Phần nhiệm vụ thẩm định của người quyết định đầu tư dự án) hoặc Thẩm định dự án thuộc đối tượng lập Báo cáo kinh tế - kỹ thuật do UBND huyện hoặc chủ tịch UBND huyện quyết định đầu tư (Phần nhiệm vụ thẩm định cơ quan chuyên môn về xây dựng)..
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|Trong thời hạn 15 ngày làm viêc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|15 Ngày làm việc|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|Trong thời hạn 15 ngày làm viêc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|Trong thời hạn 15 ngày làm viêc, kể từ ngày nhận được hồ sơ hợp lệ.|

@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011812
+Số quyết định:
+1668/QĐ-BKHCN
+Tên thủ tục:
+(Cấp tỉnh) Thủ tục công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+- Tổ chức, cá nhân nộp hồ sơ đề nghị công nhận kết quả nghiên cứu khoa học và phát triển công nghệ đến Ủy ban nhân dân cấp tỉnh nơi kết quả nghiên cứu khoa học và phát triển công nghệ được chuyển giao, ứng dụng.
+- Cơ quan tiếp nhận hồ sơ có trách nhiệm kiểm tra, xác nhận tính đầy đủ và hợp lệ của hồ sơ: 
++ Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, trường hợp hồ sơ chưa hợp lệ, cơ quan có thẩm quyền xem xét, đánh giá hồ sơ thông báo để tổ chức, cá nhân nộp bổ sung, hoàn thiện;
++ Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét, đánh giá hồ sơ thông qua hội động đánh giá công nhận kết quả nghiên cứu khoa học và phát triển công nghệ. Hội đồng đánh giá có từ 07 đến 09 thành viên, gồm đại diện của các cơ quan quản lý và các chuyên gia trong lĩnh vực có liên quan; 
++ Trong thời hạn 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng, cơ quan có thẩm quyền xem xét, đánh giá hồ sơ ban hành quyết định công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu. 
++ Trường hợp kết quả nghiên cứu khoa học và phát triển công nghệ không được công nhận phải có văn bản thông báo, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ; - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc; - Công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+|Trực tuyến|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ; - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc; - Công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+|Dịch vụ bưu chính|25 Ngày làm việc||Cách thức: Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính. Thời hạn: - Gửi thông báo cho tổ chức, cá nhân về kết quả xem xét hồ sơ và yêu cầu sửa đổi, bổ sung (nếu có): 03 ngày làm việc kể từ ngày nhận được hồ sơ; - Thực hiện việc đánh giá hồ sơ thông qua hội đồng đánh giá: 15 ngày làm việc; - Công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu: 07 ngày làm việc kể từ ngày nhận được kết quả đánh giá hồ sơ của hội đồng.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị công nhận kết quả nghiên cứu khoa học và phát triển công nghệ của tổ chức, cá nhân theo mẫu BM I.1 tại Phụ lục 1 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM I.1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe645f512b7d340'))
+- 01 Bản chính Bản cam kết về quyền sở hữu hợp pháp đối với kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu (Đối với trường hợp không có tài liệu chứng minh) theo mẫu BM I.2 tại Phụ lục 1 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM I.2.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd638c55a20b302'))
+- 01 Bản chính Bản mô tả đặc tính, hiệu quả về kỹ thuật, kinh tế - xã hội, môi trường của kết quả nghiên cứu khoa học và phát triển công nghệ theo mẫu BM I.3 tại Phụ lục 1 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM I.3.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5e86a8a12a57a'))
+- 01 Bản chính Bản thể hiện kết quả nghiên cứu khoa học và phát triển công nghệ đã được chuyển giao, ứng dụng hiệu quả trong thực tiễn theo mẫu BM I.4 tại Phụ lục 1 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN ([BM I.4.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe551fb70dd41ed'))
+- 01 Bản sao Các tài liệu sau (nếu có): Văn bản nhận xét của tổ chức, cá nhân về hiệu quả ứng dụng thực tiễn, giải thưởng, tài liệu về sở hữu trí tuệ, tiêu chuẩn, đo lường, chất lượng, tài liệu khác
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|07/2017/QH14|Luật 07/2017/QH14-Luật chuyển giao công nghệ|19-06-2017|Quốc Hội|
+|76/2018/NĐ-CP|Nghị định 76/2018/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ|15-05-2018|Chính phủ|
+|14/2023/TT-BKHCN|Thông tư số 14/2023/TT-BKHCN ngày 30 tháng 6 năm 2023 của Bộ trưởng Bộ Khoa học và Công nghệ ban hành Biểu mẫu hồ sơ thực hiện thủ tục hành chính quy định tại một số điều của Nghị định số 76/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ|30-06-2023||
+
+Yêu cầu, điều kiện thực hiện:
+- Tuân thủ các quy định pháp luật về quyền sở hữu đối với kết quả nghiên cứu khoa học và phát triển công nghệ.
+- Làm rõ nội dung, phương pháp thực hiện nghiên cứu, thử nghiệm, chuyển giao, ứng dụng; đặc tính, hiệu quả về kỹ thuật của kết quả nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực cụ thể.
+- Làm rõ phạm vi, quy mô ứng dụng, chuyển giao; giá trị kinh tế - xã hội, môi trường, quốc phòng, an ninh trong điều kiện cụ thể của đất nước, địa phương.
+- Tuân thủ các quy định pháp luật về quyền sở hữu đối với kết quả nghiên cứu khoa học và phát triển công nghệ.
+- Làm rõ nội dung, phương pháp thực hiện nghiên cứu, thử nghiệm, chuyển giao, ứng dụng; đặc tính, hiệu quả về kỹ thuật của kết quả nghiên cứu khoa học và phát triển công nghệ trong lĩnh vực cụ thể.
+- Làm rõ phạm vi, quy mô ứng dụng, chuyển giao; giá trị kinh tế - xã hội, môi trường, quốc phòng, an ninh trong điều kiện cụ thể của đất nước, địa phương.
+Từ khóa:
+(Cấp tỉnh) Thủ tục công nhận kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Mô tả:
+Không có thông tin

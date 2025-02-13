@@ -1,0 +1,16 @@
+Tên thủ tục: Cung cấp dữ liệu đất đai
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002317
+Số quyết định:
+3873/QĐ-BTNMT
+Tên thủ tục:
+Cung cấp dữ liệu đất đai
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đất đai

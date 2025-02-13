@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002883
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Công bố lại đưa trạm dừng nghỉ vào khai thác
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Trước khi hết hạn được phép kinh doanh, khai thác 60 ngày (theo thời hạn quy định tại quyết định công bố đưa trạm dừng nghỉ vào khai thác), đơn vị kinh doanh, khai thác trạm dừng nghỉ nộp hồ sơ đề nghị tiếp tục công bố đưa trạm dừng nghỉ vào khai thác đến Cục Đường bộ Việt Nam đối với trạm dừng nghỉ trên tuyến quốc lộ) hoặc Sở Giao thông vận tải (đối với các trạm dừng nghỉ trên tuyến đường bộ thuộc địa phương quản lý).
+b) Giải quyết TTHC:
+Chậm nhất trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ đúng quy định, cơ quan có thẩm quyền tổ chức kiểm tra và lập biên bản kiểm tra. Trường hợp sau khi kiểm tra, nếu trạm dừng nghỉ không đáp ứng đúng các quy định kỹ thuật của loại trạm dừng nghỉ, mà đơn vị khai thác trạm dừng nghỉ đề nghị, thì các tiêu chí không đạt yêu cầu, phải được ghi rõ trong biên bản kiểm tra và được thông báo ngay cho đơn vị khai thác trạm dừng nghỉ.
+Sau khi kiểm tra, nếu trạm dừng nghỉ đáp ứng đúng các quy định kỹ thuật của loại trạm dừng nghỉ, mà đơn vị khai thác trạm dừng nghỉ đề nghị, thì chậm nhất trong thời hạn 05 ngày làm việc kể từ ngày kết thúc kiểm tra, cơ quan có thẩm quyền ban hành quyết định công bố tiếp tục đưa trạm dừng nghỉ vào khai thác.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo kết quả hoạt động theo mẫu. ([Mẫu TT 20 - 2.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe22e7a7ada40d1'))
+- 01 Bản chính Giấy đề nghị tiếp tục công bố đưa trạm dừng nghỉ vào khai thác theo mẫu; ([Mẫu TT 20 - 1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedad776ef67dbf'))
+- 01 Bản chính Sơ đồ mặt bằng tổng thể, thiết kế kỹ thuật các công trình xây dựng, cải tạo trạm dừng nghỉ (nếu có thay đổi so với lần công bố trước);
+- 01 Bản chính Quyết định cho phép đầu tư xây dựng, cải tạo của cơ quan có thẩm quyền (nếu có thay đổi so với lần công bố trước);
+- 01 Bản chính Biên bản nghiệm thu các công trình xây dựng, cải tạo (nếu có thay đổi so với lần công bố trước);
+- 01 Bản chính Bản đối chiếu các quy định kỹ thuật của Quy chuẩn với các công trình của trạm dừng nghỉ (nếu có thay đổi so với lần công bố trước);
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công bố đưa trạm dừng nghỉ vào khai thác
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|26/2001/QH10|Giao thông đường bộ|29-06-2001|Quốc Hội|
+|48/2012/TT-BGTVT|Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ|15-11-2012|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Đơn vị trực tiếp quản lý, khai thác trạm dừng nghỉ phải là doanh nghiệp hoặc hợp tác xã.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép tổ chức hội nghị, hội thảo quốc tế không thuộc thẩm quyền cho phép của Thủ tướng Chính phủ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|||
+|Trực tuyến|15 Ngày làm việc|||
+|Dịch vụ bưu chính|15 Ngày làm việc|||

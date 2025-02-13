@@ -1,0 +1,7 @@
+Tên thủ tục: Vay vốn hỗ trợ tạo việc làm, duy trì và mở rộng việc làm từ Quỹ quốc gia về việc làm đối với cơ sở sản xuất, kinh doanh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||- Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định (trong đó 10 ngày và 5 ngày làm việc) - Cơ sở sản xuất, kinh doanh nộp hồ sơ trực tiếp tại Ngân hàng Chính sách xã hội địa phương nơi thực hiện dự án.|

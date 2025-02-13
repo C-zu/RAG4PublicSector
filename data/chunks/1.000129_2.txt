@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đăng ký khoản cho vay ra nước ngoài của tổ chức tín dụng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức tín dụng cho vay nước ngoài gửi hồ sơ đến cơ quan xác nhận đăng ký khoản cho vay trong thời hạn 30 (ba mươi) ngày kể từ ngày ký thỏa thuận cho vay (trường hợp khoản cho vay không được bảo lãnh) hoặc trong thời hạn 30 (ba mươi) ngày kể từ ngày tổ chức bảo lãnh ký văn bản bảo lãnh (trường hợp khoản cho vay được bảo lãnh).
+Bước 2: Trong trường hợp cần thêm thông tin, điều kiện khác để có đủ cơ sở xác nhận hoặc từ chối xác nhận đăng ký, Ngân hàng Nhà nước Việt Nam thông báo bằng văn bản cho tổ chức tín dụng trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ của tổ chức tín dụng.
+Bước 3: Ngân hàng Nhà nước Việt Nam có văn bản xác nhận hoặc từ chối xác nhận đăng ký khoản cho vay nước ngoài trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.

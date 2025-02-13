@@ -1,0 +1,11 @@
+Tên thủ tục: Cho phép tái nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục sản phẩm công nghệ thông tin đã hết thời hạn bảo hành sau khi đưa ra nước ngoài sửa chữa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cho phép nhập khẩu theo mẫu tại Phụ lục I ban hành kèm theo Quyết định số 18/2016/QĐ-TTg
+ Giấy tờ chứng minh tư cách pháp nhân (giấy chứng nhận đăng ký doanh nghiệp hoặc Quyết định, giấy phép thành lập, giấy chứng nhận đầu tư, giấy phép đầu tư): 01 (một) bản sao có chứng thực, trường hợp nộp bản sao không có chứng thực thì khi nộp phải mang theo bản chính để đối chiếu
+- 01 Bản sao Hợp đồng thực hiện dịch vụ sửa chữa
+- 01 Bản sao Tài liệu thể hiện nguồn gốc sản phẩm (hóa đơn, hợp đồng mua bán hoặc tài liệu tương đương)
+- 01 Bản sao Hồ sơ xuất khẩu

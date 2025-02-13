@@ -1,0 +1,28 @@
+Tên thủ tục: Hỗ trợ ứng dụng kỹ thuật cao trong khám bệnh, chữa bệnh
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Các đối tượng được hỗ trợ phải đảm bảo đồng thời các điều kiện sau:
+- Bắt đầu thực hiện và hoàn thành việc nhận chuyển giao kỹ thuật trong khoảng thời gian từ ngày Nghị quyết số 20/2021/NQ-HĐND ngày 17/7/2021 của HĐND tỉnh Thanh Hóa ban hành Chính sách khuyến khích phát triển khoa học và công nghệ trở thành khâu đột phá trong phát triển kinh tế - xã hội tỉnh Thanh Hóa giai đoạn 2021 - 2025 có hiệu lực đến ngày 31/12/2025.
+- Phải được cơ quan có thẩm quyền: Quyết định cho phép cơ sở khám bệnh, chữa bệnh triển khai chính thức áp dụng kỹ thuật mới, phương pháp mới và phê duyệt kỹ thuật theo quy định tại Điều 12 Thông tư số 07/2015/TT-BYT ngày 03/4/2015 của Bộ Y tế hoặc Phê duyệt Danh mục kỹ thuật lần đầu và Danh mục kỹ thuật bổ sung theo quy định tại Điều 9 Thông tư số 43/2013/TT- BYT ngày 11/12/2013 của Bộ Y tế hoặc các văn bản thay thế của cơ quan có thẩm quyền tại thời điểm hỗ trợ, đối với một trong các kỹ thuật sau đây:
++ Ứng dụng tế bào gốc trong điều trị bệnh;
++ Ứng dụng kỹ thuật phẫu thuật bằng robot;
++ Ứng dụng kỹ thuật ghép tạng, cấy ghép các bộ phận trên cơ thể;
++ Ứng dụng kỹ thuật Oxy hóa qua màng ngoài cơ thể (ECMO);
++ Ứng dụng sinh học phân tử trong chẩn đoán và điều trị;
++ Ứng dụng kỹ thuật chụp mạch số hóa xóa nền (DSA).
+- Máy móc, thiết bị chuyên dụng phục vụ trực tiếp cho việc triển khai thực hiện kỹ thuật được đầu tư trong dự án phải mới 100%, có nguồn gốc xuất xứ rõ ràng.
+Các đối tượng được hỗ trợ phải đảm bảo đồng thời các điều kiện sau:
+- Bắt đầu thực hiện và hoàn thành việc nhận chuyển giao kỹ thuật trong khoảng thời gian từ ngày Nghị quyết số 20/2021/NQ-HĐND ngày 17/7/2021 của HĐND tỉnh Thanh Hóa ban hành Chính sách khuyến khích phát triển khoa học và công nghệ trở thành khâu đột phá trong phát triển kinh tế - xã hội tỉnh Thanh Hóa giai đoạn 2021 - 2025 có hiệu lực đến ngày 31/12/2025.
+- Phải được cơ quan có thẩm quyền: Quyết định cho phép cơ sở khám bệnh, chữa bệnh triển khai chính thức áp dụng kỹ thuật mới, phương pháp mới và phê duyệt kỹ thuật theo quy định tại Điều 12 Thông tư số 07/2015/TT-BYT ngày 03/4/2015 của Bộ Y tế hoặc Phê duyệt Danh mục kỹ thuật lần đầu và Danh mục kỹ thuật bổ sung theo quy định tại Điều 9 Thông tư số 43/2013/TT- BYT ngày 11/12/2013 của Bộ Y tế hoặc các văn bản thay thế của cơ quan có thẩm quyền tại thời điểm hỗ trợ, đối với một trong các kỹ thuật sau đây:
++ Ứng dụng tế bào gốc trong điều trị bệnh;
++ Ứng dụng kỹ thuật phẫu thuật bằng robot;
++ Ứng dụng kỹ thuật ghép tạng, cấy ghép các bộ phận trên cơ thể;
++ Ứng dụng kỹ thuật Oxy hóa qua màng ngoài cơ thể (ECMO);
++ Ứng dụng sinh học phân tử trong chẩn đoán và điều trị;
++ Ứng dụng kỹ thuật chụp mạch số hóa xóa nền (DSA).
+- Máy móc, thiết bị chuyên dụng phục vụ trực tiếp cho việc triển khai thực hiện kỹ thuật được đầu tư trong dự án phải mới 100%, có nguồn gốc xuất xứ rõ ràng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

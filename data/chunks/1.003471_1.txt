@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định, phê duyệt đề cương, kết quả kiểm định an toàn đập, hồ chứa thủy lợi thuộc thẩm quyền của UBND huyện
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003471
+Số quyết định:
+4638/QĐ-BNN-TCTL
+Tên thủ tục:
+Thẩm định, phê duyệt đề cương, kết quả kiểm định an toàn đập, hồ chứa thủy lợi thuộc thẩm quyền của UBND huyện
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy lợi

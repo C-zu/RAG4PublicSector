@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000294
+Số quyết định:
+1427/QĐ-BGTVT
+Tên thủ tục:
+Bãi bỏ đường ngang
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ đầu tư dự án hoặc chủ quản lý, sử dụng đường ngang nộp trực tiếp hoặc qua đường bưu điện hoặc qua môi trường điện tử hồ sơ đề nghị bãi bỏ đường ngang về cơ quan quyết định bãi bỏ đường ngang
+- Cục Đường sắt Việt Nam đối với đường ngang trên đường sắt quốc gia.
+- Cục Đường bộ Việt Nam đối với đường ngang trên đường sắt chuyên dùng liên quan đến quốc lộ.
+- Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với đường ngang trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị và đường bộ chuyên dùng trong phạm vi quản lý.
+Trường hợp thực hiện trên môi trường điện tử chủ đầu tư dự án, chủ quản lý, sử dụng đường ngang có nhu cầu xây dựng, cải tạo, nâng cấp đường ngang thực hiện trên địa chỉ website: https://dichvucong.mt.gov.vn.
+b) Giải quyết TTHC:
+- Trường hợp nộp hồ sơ trực tiếp, cơ quan có thẩm quyền bãi bỏ đường ngang trả kết quả trong ngày làm việc về thành phần hồ sơ đề nghị bãi bỏ đường ngang.
+- Trường hợp nộp hồ sơ qua đường bưu điện hoặc thực hiện qua môi trường điện tử, nếu thành phần hồ sơ chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, cơ quan có thẩm quyền bãi bỏ đường ngang thông báo bằng văn bản hướng dẫn hoàn thiện hồ sơ.
+- Trong thời hạn 02 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ theo quy định, cơ quan có thẩm quyền bãi bỏ đường ngang có trách nhiệm gửi hồ sơ đến các cơ quan đơn vị liên quan để lấy ý kiến:
++ Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt, cơ quan quản lý đường bộ (nếu có liên quan) đối với đường ngang trên đường sắt quốc gia;
++ Chủ sở hữu đường sắt chuyên dùng, cơ quan quản lý đường bộ (nếu có liên quan) đối với đường ngang trên đường sắt chuyên dùng.
+- Trong vòng 05 ngày làm việc kể từ thời điểm cơ quan có thẩm quyền thẩm quyền bãi bỏ đường ngang có văn bản lấy ý kiến, cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời bằng văn bản.
+- Quyết định bãi bỏ đường ngang được cấp theo mẫu quy định. Trường hợp không ban hành quyết định, cơ quan có thẩm quyền bãi bỏ đường ngang có văn bản trả lời, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|7 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị bãi bỏ đường ngang theo quy định ([1.000294 mẫu đơn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4ebd60265ad12'))
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử) một trong các tài liệu sau: + Biên bản nghiệm thu hoàn thành công trình, hạng mục công trình vào sử dụng đối với cầu vượt, hầm chui hoặc đường ngang khác để tổ chức giao thông thay thế cho đường ngang đề nghị bãi bỏ; + Phương án tổ chức giao thông thay thế khi bãi bỏ đường ngang.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Địa chỉ tiếp nhận HS:
+- Cục Đường sắt Việt Nam đối với đường ngang trên đường sắt quốc gia; - Tổng Cục Đường bộ Việt Nam đối với đường ngang trên đường sắt chuyên dùng liên quan đến quốc lộ; - Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với đường ngang trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị và đường bộ chuyên dùng trong phạm vi quản lý.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định bãi bỏ đường ngang
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2017/QH14|Luật Đường sắt|16-06-2017||
+|TT 29/2023/TT-BGTVT|quy định về đường ngang và cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt|29-09-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,21 @@
+Tên thủ tục: Cấp Giấy xác nhận ưu đãi dự án sản xuất sản phẩm công nghiệp hỗ trợ thuộc Danh mục sản phẩm công nghiệp hỗ trợ ưu tiên phát triển đối với các doanh nghiệp nhỏ và vừa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp dự án đang sản xuất
+- 01 Bản chính, 05 Bản sao Văn bản đề nghị xác nhận ưu đãi (Phụ lục 2 ban hành kèm theo Thông tư số 55/2015/TT-BCT ngày 30 tháng 12 năm 2015 của Bộ trưởng Bộ Công Thương) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2344cd2a8f742'">Mau 1.doc</a>)
+- 01 Bản chính Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh
+- 01 Bản chính Thuyết minh hiện trạng quy trình sản xuất, cơ sở vật chất (nhà xưởng), máy móc thiết bị (bảng kê danh mục và công suất máy móc, thiết bị chuyên ngành cho các công đoạn chính phù hợp với sản phẩm và quy mô đang sản xuất của cơ sở; thiết bị đo lường, kiểm tra chất lượng…); công suất sản xuất
+- 01 Bản chính Báo cáo kiểm toán độc lập năm gần nhất trước thời điểm nộp hồ sơ xin xác nhận ưu đãi (hoặc báo cáo tài chính)
+- 01 Bản chính Dự án đầu tư mở rộng quy mô, đổi mới công nghệ có ứng dụng thiết bị mới, quy trình sản xuất mới theo quy định hiện hành của pháp luật về đầu tư và xây dựng
+- 01 Bản chính Cam kết bảo vệ môi trường theo quy định pháp luật bảo vệ môi trường hoặc xác nhận hoàn thành công trình, biện pháp bảo vệ môi trường
+- 01 Bản chính Giấy chứng nhận phù hợp tiêu chuẩn kỹ thuật của Liên minh Châu Âu (các tiêu chuẩn do Ủy ban tiêu chuẩn hóa Châu Âu CEN - European Committee for Standardization ban hành) hoặc tương đương (nếu có) do tổ chức chứng nhận được phép hoạt động chứng nhận theo quy định của pháp luật về chất lượng sản phẩm hàng hóa cấp
+
+
+Trường hợp dự án được thực hiện lần đầu hoặc hoạt động độc lập
+- 01 Bản chính, 05 Bản sao Văn bản đề nghị xác nhận ưu đãi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea7ad3fa8b6631'">Mau xac nhan uu dai.docx</a>)
+- 01 Bản chính Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh;
+- 01 Bản chính Báo cáo (dự án) đầu tư theo quy định hiện hành của pháp luật về đầu tư và xây dựng
+- 01 Bản chính Quyết định phê duyệt báo cáo đánh giá tác động môi trường
+- 01 Bản chính Giấy chứng nhận phù hợp tiêu chuẩn kỹ thuật của Liên minh Châu Âu (các tiêu chuẩn do Ủy ban tiêu chuẩn hóa Châu Âu CEN - European Committee for Standardization ban hành) hoặc tương đương (nếu có) do tổ chức chứng nhận được phép hoạt động chứng nhận theo quy định của pháp luật về chất lượng sản phẩm hàng hóa cấp.

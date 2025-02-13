@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký tham gia và thay đổi, bổ sung thông tin đã đăng ký trên Hệ thống giao dịch điện tử về tài sản công của cơ quan, tổ chức, đơn vị có tài sản
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1.1. Đăng ký tham gia Hệ thống giao dịch điện tử về tài sản công:
+Bước 1: Cơ quan, tổ chức, đơn vị có tài sản thực hiện đăng ký tư cách bên bán, cho thuê, chuyển nhượng trên Hệ thống giao dịch điện tử về tài sản công và gửi hồ sơ đến cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công (Cơ quan, tổ chức, đơn vị, cá nhân được gửi văn bản đề nghị điện tử trong trường hợp đã có chữ ký số).
+Bước 2: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công kiểm tra, đối chiếu tính chính xác của đơn đăng ký trên Hệ thống và hồ sơ đăng ký. Trường hợp hồ sơ hợp lệ, bên mua được đăng ký tham gia Hệ thống giao dịch điện tử về tài sản công. Trường hợp hồ sơ chưa hợp lệ, cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công có trách nhiệm thông báo lý do trên Hệ thống giao dịch điện tử về tài sản công và hướng dẫn bên mua bổ sung, sửa đổi hồ sơ, bản đăng ký cho phù hợp.
+Ghi chú: Trong thời hạn 30 ngày, kể từ ngày gửi đề nghị đăng ký trên Hệ thống giao dịch điện tử về tài sản công mà cơ quan quản lý, vận hành Hệ thống giao dịch điện tử không nhận được hồ sơ đăng ký hợp lệ của cơ quan, tổ chức, đơn vị, cá nhân thì cơ quan quản lý, vận hành Hệ thống giao dịch điện tử thực hiện hủy đề nghị đăng ký trên Hệ thống.
+1.2. Thay đổi, bổ sung thông tin đã đăng ký trên Hệ thống giao dịch điện tử về tài sản công:
+Bước 1: Đăng nhập vào Hệ thống giao dịch điện tử về tài sản công;
+Bước 2: Thực hiện chỉnh sửa, bổ sung thông tin đã đăng ký;
+Bước 3: Gửi văn bản đề nghị thay đổi, bổ sung thông tin và các văn bản có liên quan đến việc thay đổi, bổ sung thông tin đến cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công (Cơ quan, tổ chức, đơn vị, cá nhân được gửi văn bản đề nghị điện tử trong trường hợp đã có chữ ký số).
+Bước 4: Trong thời hạn 02 ngày làm việc, kể từ khi nhận được văn bản đề nghị thay đổi, bổ sung thông tin đã đăng ký, cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công kiểm tra tính chính xác của việc thay đổi, bổ sung thông tin và chấp thuận việc thay đổi, bổ sung trong trường hợp thông tin chính xác. Trường hợp thông tin thay đổi, bổ sung chưa chính xác, cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công có trách nhiệm thông báo trên Hệ thống giao dịch điện tử về tài sản công và hướng dẫn bên bán, cho thuê, chuyển nhượng sửa đổi thông tin cho phù hợp.

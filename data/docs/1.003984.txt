@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003984
+Số quyết định:
+3585/QĐ-BNN-VP
+Tên thủ tục:
+Cấp Giấy chứng nhận kiểm dịch thực vật đối với các lô vật thể vận chuyển từ vùng nhiễm đối tượng kiểm dịch thực vật
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo vệ thực vật
+Trình tự thực hiện:
+Bước 1: Chủ vật thể nộp trực tiếp 01 bộ hồ sơ đăng ký kiểm dịch thực vật đối với các lô vật thể vận chuyển từ vùng nhiễm đối tượng kiểm dịch thực vật (vận chuyển nội địa) tại Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật.
+Bước 2: Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật có trách nhiệm tiếp nhận và kiểm tra ngay tính hợp lệ của hồ sơ theo quy định. Trường hợp hồ sơ không hợp lệ thì yêu cầu chủ vật thể bổ sung, hoàn thiện hồ sơ.
+Bước 3: Căn cứ kết quả kiểm tra hồ sơ, Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật quyết định địa điểm và bố trí công chức kiểm tra ngay lô vật thể.
+Bước 4: Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật cấp Giấy chứng nhận kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa trong vòng 24 giờ kể từ khi bắt đầu kiểm dịch đối với lô vật thể không bị nhiễm đối tượng kiểm dịch thực vật hoặc đối tượng phải kiểm soát của Việt Nam hoặc sinh vật gây hại lạ.
+
+Trường hợp kéo dài hơn 24 giờ do yêu cầu về chuyên môn kỹ thuật hoặc trường hợp không cấp Giấy chứng nhận kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa thì Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật phải thông báo hoặc trả lời bằng văn bản và nêu rõ lý do cho chủ vật thể biết.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Giờ||Hồ sơ được nộp trực tiếp cho Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký kiểm dịch thực vật vận chuyển nội địa (theo mẫu qui định tại Phụ lục II ban hành kèm theo Thông tư 35/2015/TT-BNNPTNT). ([Giay dkkdtv vcnd.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd80f0cb2c57706'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Trồng trọt và Bảo vệ thực vật
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật các tỉnh, thành phố trực thuộc trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận kiểm dịch thực vật nhập khẩu, quá cảnh và vận chuyển nội địa.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2013/QH13|Bảo vệ và kiểm dịch thực vật|25-11-2013|Quốc Hội|
+|35/2015/TT-BNNPTNT|Thông tư 35/2015/TT-BNNPTNT - Quy định về kiểm dịch thực vật nội địa|14-10-2015|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

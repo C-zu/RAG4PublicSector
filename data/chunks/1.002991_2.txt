@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận lưu hành tự do (CFS) đối với trang thiết bị y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Thương nhân nộp hồ sơ cho Bộ Y tế thông qua Hệ thống thông tin giải quyết thủ tục hành chính Bộ Y tế (https://dichvucong.moh.gov.vn) hoặc Cổng thông tin điện tử về quản lý trang thiết bị y tế (https://dmec.moh.gov.vn/);
+Bước 2: Trường hợp hồ sơ chưa đầy đủ, đúng quy định, trong thời hạn 3 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Vụ Trang thiết bị và Công trình y tế - Bộ Y tế thông báo để thương nhân hoàn thiện hồ sơ.
+Bước 3: Thời hạn cấp CFS không quá 3 ngày làm việc, kể từ ngày thương nhân nộp hồ sơ đầy đủ, đúng quy định. Trường hợp không cấp CFS, Bộ Y tế có văn bản trả lời nêu rõ lý do.
+Cơ quan cấp CFS có thể tiến hành kiểm tra tại nơi sản xuất trường hợp nhận thấy việc kiểm tra trên hồ sơ là chưa đủ căn cứ để cấp CFS hoặc phát hiện có dấu hiệu vi phạm quy định đối với CFS đã cấp trước đó.
+Số lượng CFS được cấp cho hàng hóa theo yêu cầu của thương nhân.

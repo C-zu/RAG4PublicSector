@@ -1,0 +1,16 @@
+Tên thủ tục: Đánh giá đồng thời thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước mà có tiềm ẩn yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an ninh, môi trường, tính mạng, sức khỏe con người.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị đánh giá, thẩm định của tổ chức, cá nhân ứng dụng kết quả thực hiện nhiệm vụ khoa học và công nghệ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc426158eaabde0'">Giấy đề nghị đánh giá, thẩm định kết quả nhiệm vụ KHCN không sử dụng NSNN.docx</a>)
+- 01 Bản chính Văn bản cho phép ứng dụng của tổ chức, cá nhân chủ trì kết quả thực hiện nhiệm vụ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5c5bd04f9a5c7'">Văn bản cho phép sử dụng kết quả nhiệm vụ KHCN không sử dụng NSNN.docx</a>)
+- 01 Bản chính Tài liệu về kết quả thực hiện nhiệm vụ: Thuyết minh nhiệm vụ khoa học và công nghệ đã được phê duyệt (nếu có); Báo cáo kết quả thực hiện nhiệm vụ và các tài liệu kèm theo; Quyết định thành lập Hội đồng nghiệm thu kết quả nghiên cứu và Biên bản đánh giá của Hội đồng nghiệm thu các cấp (nếu có)
+- 01 Bản chính Thuyết minh chi tiết việc ứng dụng kết quả thực hiện nhiệm vụ vào sản xuất, đời sống (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed6a0716b2ca5c'">Thuyết minh chi tiết việc ứng dụng kết quả nhiệm vụ KHCN không sử dụng NSNN.docx</a>)
+- 01 Bản sao Dự án đầu tư ứng dụng kết quả thực hiện nhiệm vụ khoa học và công nghệ (nếu có).
+- 01 Bản sao Quyết định thành lập, đăng ký hoạt động khoa học và công nghệ (đối với tổ chức khoa học và công nghệ) hoặc đăng ký hoạt động sản xuất, kinh doanh (đối với doanh nghiệp) của tổ chức đăng ký ứng dụng; Chứng minh thư nhân dân đối với cá nhân đăng ký ứng dụng.
+- 01 Bản chính Tóm tắt hoạt động khoa học và công nghệ, sản xuất kinh doanh của tổ chức, cá nhân đăng ký ứng dụng
+- 01 Bản sao Giấy xác nhận kết quả thực hiện nhiệm (nếu có).
+- 01 Bản sao Giấy xác nhận thẩm định kết quả thực hiện nhiệm vụ đã được cấp (nếu có).
+- 01 Bản chính, 01 Bản sao Những tài liệu khác có liên quan đến kết quả thực hiện nhiệm vụ khoa học và công nghệ cần thẩm định

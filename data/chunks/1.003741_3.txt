@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc kể từ ngày kết thúc kiểm tra.|Phí : 12.450.000 Đồng|Trực tiếp tại Tổng cục Thủy sản hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng dịch vụ công quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|10 ngày làm việc kể từ ngày kết thúc kiểm tra.|Phí : 12.450.000 Đồng|TTrực tiếp tại Tổng cục Thủy sản hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng dịch vụ công quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|10 ngày làm việc kể từ ngày kết thúc kiểm tra.|Phí : 12.450.000 Đồng|TTrực tiếp tại Tổng cục Thủy sản hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng dịch vụ công quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|

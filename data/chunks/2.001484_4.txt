@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tặng thưởng Huy chương Hữu nghị
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb24926f8582368'">Mẫu số 01.docx</a>)
+- 01 Bản chính + 02 báo cáo thành tích của cá nhân, tập thể được đề nghị khen thưởng (mẫu số 09, 10 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea2968b4ff9411'">Mẫu số 10.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4dec277d2efe2'">Mẫu số 09 (áp dụng đối với tổ chức).docx</a>)

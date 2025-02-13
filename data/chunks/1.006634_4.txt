@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cho phép đi nước ngoài vì việc riêng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị của cơ quan thuộc hệ thống UBND tỉnh nêu rõ mục đích, thời gian, nước đến, nguồn kinh phí và các nội dung liên quan khác theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f80d95319bc6340'">Mẫu phu luc III.docx</a>)
+- 01 Bản chính - Đơn xin phép đi nước ngoài vì việc riêng.

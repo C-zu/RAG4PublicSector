@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất thuốc thú y
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : - Cơ sở đang hoạt động có 1 dây chuyền (hoặc 1 phân xưởng): 700.000đ/lần  Phí : - Cơ sở mới thành lập có 1 dây chuyền (hoặc 1 phân xưởng); Hoặc cơ sở đang hoạt động có 2 dây chuyền (hoặc 2 phân xưởng) trở lên: 1.025.000đ/lần  Phí : - Cơ sở mới thành lập có từ 2 dây chuyền (hoặc 2 phân xưởng) trở lên: 1.300.000đ/lần||

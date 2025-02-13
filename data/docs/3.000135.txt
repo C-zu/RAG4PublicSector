@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000135
+Số quyết định:
+1437/QĐ-BGTVT
+Tên thủ tục:
+Cấp mở rộng, bổ sung Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường kiểu loại sản phẩm (xe ô tô sản xuất, lắp ráp thuộc đối tượng của Nghị định 116/2017/NĐ-CP)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+Doanh nghiệp lập 01 bộ hồ sơ đề nghị Cấp mở rộng, bổ sung Giấy chứng nhận theo quy định nộp đến Cục Đăng kiểm Việt Nam.
+Giải quyết TTHC:
+Cục Đăng kiểm Việt Nam tiếp nhận và kiểm tra thành phần hồ sơ. Trường hợp hồ sơ không đầy đủ theo quy định thì Cục Đăng kiểm Việt Nam trả lại hồ sơ trong ngày làm việc đối với trường hợp nộp hồ sơ trực tiếp hoặc trả lại hồ sơ trong vòng 02 ngày làm việc kể từ ngày nhận được hồ sơ đối với các hình thức nộp khác, hướng dẫn để doanh nghiệp hoàn thiện hồ sơ;
+Cục Đăng kiểm Việt Nam kiểm tra nội dung hồ sơ, nếu hồ sơ đầy đủ, hợp lệ và có kết quả đánh giá COP phù hợp thì cấp Giấy chứng nhận mở rộng trong vòng 03 ngày làm việc kể từ ngày hồ sơ hợp lệ. Trường hợp bổ sung hồ sơ thì ghi nhận và bổ sung các nội dung thay đổi vào hồ sơ đăng ký chứng nhận của kiểu loại sản phẩm đã cấp. Nếu có các nội dung không hợp lệ thì Cục Đăng kiểm Việt Nam thông báo cho doanh nghiệp để hoàn thiện hồ sơ.
+Thời hạn hiệu lực của Giấy chứng nhận mở rộng được lấy theo hiệu lực của Giấy chứng nhận của kiểu loại xe trước khi thay đổi.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|Lệ phí : 50.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe xe cơ giới; linh kiện, thiết bị, xe máy chuyên dùng (bao gồm cả xe cải tạo): 50.000 đồng/01 Giấy chứng nhận  Lệ phí : 100.000 Đồng Lệ phí cấp Giấy chứng nhận cấp cho xe ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 100.000 đồng/01 Giấy chứng nhận|03 ngày làm việc kể từ ngày hồ sơ hợp lệ|
+|Trực tuyến|03 Ngày làm việc|Lệ phí : 50.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe xe cơ giới; linh kiện, thiết bị, xe máy chuyên dùng (bao gồm cả xe cải tạo): 50.000 đồng/01 Giấy chứng nhận  Lệ phí : 100.000 Đồng Lệ phí cấp Giấy chứng nhận cấp cho xe ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 100.000 đồng/01 Giấy chứng nhận|03 ngày làm việc kể từ ngày hồ sơ hợp lệ|
+|Dịch vụ bưu chính|03 Ngày làm việc|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy chứng nhận cấp cho xe ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 100.000 đồng/01 Giấy chứng nhận  Lệ phí : 50.000 Đồng Lệ phí cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho: xe xe cơ giới; linh kiện, thiết bị, xe máy chuyên dùng (bao gồm cả xe cải tạo): 50.000 đồng/01 Giấy chứng nhận|03 ngày làm việc kể từ ngày hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị theo mẫu quy định; ([M1.1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f76f63640c75900'))
+- 01 Bản chính - Báo cáo kết quả thử nghiệm bổ sung các yêu cầu về an toàn kỹ thuật và bảo vệ môi trường quy định tại tiêu chuẩn, quy chuẩn kỹ thuật và quy định liên quan đến các hạng mục thay đổi của sản phẩm tại Việt Nam; Miễn thử nghiệm đối với trường hợp sản phẩm có sự thay đổi về tính tiện nghi và thẩm mỹ nhưng không làm thay đổi các thông số an toàn kỹ thuật và bảo vệ môi trường được sử dụng làm cơ sở để cấp Giấy chứng nhận.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Đăng kiểm Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường ô tô sản xuất, lắp ráp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy móc, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|25/2019/TT-BGTVT|Thông tư số 25/2019/TT-BGTVT ngày 05 tháng 7 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường trong sản xuất, lắp ráp ô tô|05-07-2019|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

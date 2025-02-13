@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thay đổi, bổ sung giấy đăng ký lưu hành thuốc cổ truyền (thay đổi lớn)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Tháng|Lệ phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành thuốc cổ truyền có thay đổi lớn theo quy định tại Mục I Phụ lục II, trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản đồng ý hoặc không đồng ý với nội dung thay đổi, bổ sung giấy đăng ký lưu hành thuốc cổ truyền.|
+|Trực tuyến|1 Tháng|Lệ phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành thuốc cổ truyền có thay đổi lớn theo quy định tại Mục I Phụ lục II, trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản đồng ý hoặc không đồng ý với nội dung thay đổi, bổ sung giấy đăng ký lưu hành thuốc cổ truyền.|
+|Dịch vụ bưu chính|1 Tháng|Lệ phí : 1.500.000 Đồng|Đối với hồ sơ đăng ký lưu hành thuốc cổ truyền có thay đổi lớn theo quy định tại Mục I Phụ lục II, trong thời hạn 01 tháng kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản đồng ý hoặc không đồng ý với nội dung thay đổi, bổ sung giấy đăng ký lưu hành thuốc cổ truyền.|

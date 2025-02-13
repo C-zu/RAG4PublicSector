@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy phép khai thác, sử dụng nước dưới đất đối với công trình có quy mô dưới 3.000m3/ngày đêm
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004223
+Số quyết định:
+1545/QĐ-BTNMT
+Tên thủ tục:
+Cấp giấy phép khai thác, sử dụng nước dưới đất đối với công trình có quy mô dưới 3.000m3/ngày đêm
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước

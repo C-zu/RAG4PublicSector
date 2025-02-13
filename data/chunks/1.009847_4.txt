@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục phê duyệt Kế hoạch ứng phó sự cố bức xạ cấp cơ sở (trừ việc sử dụng thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị phê duyệt kế hoạch ứng phó sự cố
+- 01 Bản chính Kế hoạch ứng phó sự cố (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0e3266deb5f86'">PL02_NoidungKHUPSC.doc</a>)

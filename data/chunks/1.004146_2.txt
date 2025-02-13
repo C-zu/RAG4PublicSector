@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy xác nhận đăng ký nhập khẩu xuất bản phẩm để kinh doanh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Việc nhập khẩu xuất bản phẩm để kinh doanh phải do cơ sở nhập khẩu xuất bản phẩm thực hiện.
+- Trước khi nhập khẩu, cơ sở nhập khẩu xuất bản phẩm phải lập hồ sơ đăng ký nhập khẩu gửi Cục Xuất bản, In và Phát hành và nộp lệ phí theo quy định của pháp luật.
+- Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ đăng ký nhập khẩu xuất bản phẩm, Cục Xuất bản, In và Phát hành xác nhận đăng ký bằng văn bản; trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do.

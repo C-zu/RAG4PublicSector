@@ -1,0 +1,23 @@
+Tên thủ tục: Thanh toán trực tiếp chi phí khám, chữa bệnh bảo hiểm y tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Tiền thanh toán chi phí KCB (trong trường hợp đủ điều kiện thanh toán). Trong trường hợp không được thanh toán phải có văn bản trả lời của cơ quan BHXH nêu rõ lý., Giấy chứng nhận không cùng chi trả trong năm; trường hợp không được cấp giấy chứng nhận thì kết quả là văn bản trả lời của cơ quan BHXH có nêu rõ lý do, Giấy chứng nhận không cùng chi trả trong năm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 46/2014/QH13|46/2014/QH13 Sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế|13-06-2014|Quốc Hội|
+|25/2008/QH12|Luật 25/2008/QH12|14-11-2008||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||

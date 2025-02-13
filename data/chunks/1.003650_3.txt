@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận đăng ký tàu cá
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện khảo nghiệm chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong ngày tiếp nhận hồ sơ||Nộp trực tiếp tại Bộ phận một cửa, Bộ Y tế.|
+|Trực tuyến|Trong ngày tiếp nhận hồ sơ||Nộp hồ sợ trực tuyến tại Cổng dịch vụ công quốc gia hoặc bộ phận một cửa Bộ Y tế|
+|Dịch vụ bưu chính|Trong ngày tiếp nhận hồ sơ||Gửi qua đường bưu điện.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Bổ sung, thay đổi thông tin của thuốc đã kê khai, kê khai lại trong trường hợp có thay đổi so với thông tin đã được công bố nhưng giá thuốc không đổi
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày|Phí : Không thu phí|07 (bảy) ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|07 Ngày|Phí : Không thu phí|07 (bảy) ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định|

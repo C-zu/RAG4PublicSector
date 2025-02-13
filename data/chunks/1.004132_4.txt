@@ -1,0 +1,19 @@
+Tên thủ tục: Đăng ký khai thác khoáng sản vật liệu xây dựng thông thường trong diện tích dự án xây dựng công trình (đã được cơ quan nhà nước có thẩm quyền phê duyệt hoặc cho phép đầu tư mà sản phẩm khai thác chỉ được sử dụng cho xây dựng công trình đó) bao gồm cả đăng ký khối lượng cát, sỏi thu hồi từ dự án nạo vét, khơi thông luồng lạch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với thủ tục đăng ký khai thác khoáng sản vật liệu xây dựng thông thường trong diện tích dự án xây dựng công trình
+- 01 Bản chính Bản đăng ký khu vực, công suất, khối lượng, phương pháp, thiết bị và kế hoạch khai thác khoáng sản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea1413b6ed5d31'">Mẫu số 18 Thông tư số 45.2016.TT-BTNMT.docx</a>)
+ Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của giấy tờ sau:
+- 01 Bản sao - Bản vẽ quy hoạch tổng thể khu vực xây dựng dự án và quyết định phê duyệt dự án của cơ quan nhà nước có thẩm quyền
+- 01 Bản sao - Báo cáo đánh giá tác động môi trường của dự án đã được cơ quan nhà nước có thẩm quyền phê duyệt
+
+
+Đối với thủ tục đăng ký khối lượng cát, sỏi thu hồi từ dự án nạo vét, khơi thông luồng lạch
+- 01 Bản chính Đơn đề nghị thu hồi cát, sỏi, kèm theo bản vẽ vị trí, phạm vi khu vực dự án nạo vét, khơi thông luồng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7294decf13934'">Mẫu số 16 Thông tư số 45.2016.TT-BTNMT.docx</a>)
+- 01 Bản chính Bản đăng ký khối lượng, kế hoạch, phương pháp, thiết bị dùng để thu hồi cát, sỏi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f769ff579f00200'">Mẫu số 17 Thông tư số 45.2016.TT-BTNMT.docx</a>)
+ Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của giấy tờ sau:
+- 01 Bản sao - Kế hoạch, thời gian thực hiện dự án nạo vét, khơi thông luồng lạch và quyết định phê duyệt dự án của cơ quan nhà nước có thẩm quyền;
+- 01 Bản sao - Báo cáo đánh giá tác động môi trường của dự án đã được cơ quan nhà nước có thẩm quyền phê duyệt;
+- 01 Bản chính - Hợp đồng thuê bến bãi chứa cát (nếu có).

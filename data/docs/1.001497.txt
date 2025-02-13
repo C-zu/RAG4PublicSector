@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001497
+Số quyết định:
+2108/QĐ-BGDĐT
+Tên thủ tục:
+Gia hạn, điều chỉnh hoạt động liên kết giáo dục
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đào tạo với nước ngoài
+Trình tự thực hiện:
+Bước 1: Các bên liên kết nộp hồ sơ choSở Giáo dục và Đào tạo.
+Bước 2: Trong thời hạn 05 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, nếu hồ sơ không đầy đủ theo quy định, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản gửi trực tiếp hoặc qua bưu điện hoặc thư điện tử cho các bên liên kết.
+Bước 3: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được đủ hồ sơ, cơ quan tiếp nhận hồ sơ tổ chức thẩm định, quyết định phê duyệt gia hạn hoặc điều chỉnh liên kết giáo dục;
+Trường hợp liên kết đào tạo không được gia hạn, điều chỉnh, cơ quan tiếp nhận hồ sơ phải trả lời bằng văn bản, trong đó nêu rõ lý do.
+Trường hợp điều chỉnh liên kết giáo dục trong đó có điều chỉnh chương trình giáo dục tích hợp thì Sở GDĐT có trách nhiệm thực hiện việc gửi hồ sơ đề nghị phê duyệt điều chỉnh chương trình giáo dục tích hợp đến Bộ Giáo dục và Đào tạo theo quy định
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được đủ hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn hoặc điều chỉnh liên kết giáo dục do các bên liên kết cùng ký tại Mẫu số 04 của Phụ lục Nghị định số 86/2018/NĐ-CP ([PHỤ LỤC.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb001ade255c2d0'))
+ Báo cáo tổng kết hoạt động liên kết trong thời gian được cấp phép
+ Thỏa thuận (Hợp đồng) hợp tác đang còn hiệu lực giữa các bên liên kết trong đó có thông tin theo quy định tại điểm b khoản 1 Điều 9 Nghị định số 86/2018/NĐ-CP
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Giáo dục và Đào tạo
+Cơ quan có thẩm quyền:
+Giám đốc Sở Giáo dục và Đào tạo
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt gia hạn hoặc điều chỉnh liên kết giáo dục của Giám đốc Sở Giáo dục và Đào tạo
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|86/2018/NĐ-CP|quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục|06-06-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Việc gia hạn liên kết giáo dục phải được thực hiện trong thời hạn 06 tháng trước khi liên kết giáo dục hết thời hạn.
+- Thực hiện đúng quy định trong Quyết định phê duyệt liên kết giáo dục, không có hành vi vi phạm pháp luật Việt Nam và pháp luật nước ngoài
+- Việc gia hạn liên kết giáo dục phải được thực hiện trong thời hạn 06 tháng trước khi liên kết giáo dục hết thời hạn.
+- Thực hiện đúng quy định trong Quyết định phê duyệt liên kết giáo dục, không có hành vi vi phạm pháp luật Việt Nam và pháp luật nước ngoài
+Từ khóa:
+Không có thông tin
+Mô tả:
+Ghi chú: Đối tượng thực hiện thủ tục hành chính: Cơ sở giáo dục mầm non tư thục, cơ sở giáo dục phổ thông tư thục của Việt Nam và cơ sở giáo dục hoạt động hợp pháp ở nước ngoài, được cơ quan, tổ chức kiểm định chất lượng giáo dục hoặc cơ quan có thẩm quyền của nước ngoài công nhận về chất lượng giáo dục

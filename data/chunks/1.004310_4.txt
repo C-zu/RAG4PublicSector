@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp các Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+i. Đối với kiểm tra lần đầu, hồ sơ bao gồm:
+- 01 Bản chính Giấy đề nghị kiểm tra theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe153e2b4bf688d'">phuluc3.doc</a>)
+ - Đối với công trình biển chế tạo mới, hoán cải và công trình biển nhập khẩu, thay đổi tổ chức đăng kiểm ngay sau khi chế tạo mới hoặc hoán cải, hồ sơ kỹ thuật bao gồm:
+- 01 Bản chính, 01 Bản sao + Hồ sơ thiết kế đã được thẩm định (bản chính hoặc bản sao chụp)
+- 01 Bản chính, 01 Bản sao + Hồ sơ kiểm tra trong quá trình chế tạo mới hoặc hoán cải (bản chính hoặc bản sao chụp)
+ - Đối với công trình biển đang khai thác được nhập khẩu, thay đổi tổ chức đăng kiểm, hồ sơ kỹ thuật bao gồm:
+- 01 Bản chính + Hồ sơ thiết kế
+- 01 Bản chính, 01 Bản sao + Hồ sơ đăng kiểm hiện có của công trình biển (bản chính hoặc bản sao chụp)
+
+
+ii. Đối với công trình biển kiểm tra hằng năm, trung gian, dưới nước/trên đà, bất thường và định kỳ, hồ sơ bao gồm
+- 01 Bản chính, 01 Bản sao Giấy đề nghị kiểm tra theo mẫu (bản chính hoặc bản sao chụp trong trường hợp hồ sơ nộp qua fax hoặc email). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde96e59e0e0002'">phuluc3.doc</a>)

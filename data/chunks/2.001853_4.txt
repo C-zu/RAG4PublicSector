@@ -1,0 +1,39 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Cấp giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh
+- 04 Bản chính - Văn bản đề nghị thực hiện dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8cead9499757e'">Mau I- 1_TT16_ De nghi thưc hien du an DT.docx</a>)
+- 04 Bản sao - Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân; bản sao Giấy chứng nhận thành lập hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức;
+- 04 Bản chính - Đề xuất dự án đầu tư bao gồm các nội dung: nhà đầu tư thực hiện dự án, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ đầu tư, nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, đánh giá tác động, hiệu quả kinh tế - xã hội của dự án; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca12ef25665a88'">Mau I-2_TT16 _De xuat du an DT thuoc dien.docx</a>)
+- 04 Bản sao - Bản sao một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu thuyết minh năng lực tài chính của nhà đầu tư;
+- 04 Bản chính - Đề xuất nhu cầu sử dụng đất đối với dự án đề nghị nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; Trường hợp dự án không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nhà đầu tư nộp bản sao thỏa thuận thuê địa điểm hoặc tài liệu khác xác nhận nhà đầu tư có quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+- 04 Bản chính - Giải trình về sử dụng công nghệ đối với dự án quy định tại điểm b khoản 1 Điều 32 của Luật Đầu tư gồm các nội dung: tên công nghệ, xuất xứ công nghệ, sơ đồ quy trình công nghệ; thông số kỹ thuật chính, tình trạng sử dụng của máy móc, thiết bị và dây chuyền công nghệ chính;
+- 04 Bản chính - Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC.
+
+
+2. Cấp giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư của Thủ tướng Chính phủ
+- 08 Bản chính - Văn bản đề nghị thực hiện dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec60709e468f82'">Mau I- 1_TT16_ De nghi thưc hien du an DT.docx</a>)
+- 08 Bản sao - Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân; bản sao Giấy chứng nhận thành lập hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức;
+- 08 Bản chính - Đề xuất dự án đầu tư bao gồm các nội dung: nhà đầu tư thực hiện dự án, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ đầu tư, nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, đánh giá tác động, hiệu quả kinh tế - xã hội của dự án; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0d83d2c440042'">Mau I-3_TT16_De xuat du an DT k thuoc dien.docx</a>)
+- 08 Bản sao - Bản sao một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu thuyết minh năng lực tài chính của nhà đầu tư;
+- 08 Bản chính - Đề xuất nhu cầu sử dụng đất đối với dự án đề nghị nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; Trường hợp dự án không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nhà đầu tư nộp bản sao thỏa thuận thuê địa điểm hoặc tài liệu khác xác nhận nhà đầu tư có quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+- 08 Bản chính - Giải trình về sử dụng công nghệ đối với dự án quy định tại điểm b khoản 1 Điều 32 của Luật Đầu tư gồm các nội dung: tên công nghệ, xuất xứ công nghệ, sơ đồ quy trình công nghệ; thông số kỹ thuật chính, tình trạng sử dụng của máy móc, thiết bị và dây chuyền công nghệ chính;
+- 08 Bản chính - Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC;
+- 08 Bản chính - Phương án giải phóng mặt bằng, di dân, tái định cư (nếu có);
+- 08 Bản chính - Đánh giá sơ bộ tác động môi trường, các giải pháp bảo vệ môi trường.
+
+
+3. Cấp giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư của Quốc hội
+- 021 Bản chính - Văn bản đề nghị thực hiện dự án đầu tư;
+- 021 Bản sao - Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân; bản sao Giấy chứng nhận thành lập hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức;
+- 021 Bản chính - Đề xuất dự án đầu tư bao gồm các nội dung: nhà đầu tư thực hiện dự án, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ đầu tư, nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, đánh giá tác động, hiệu quả kinh tế - xã hội của dự án;
+- 021 Bản sao - Bản sao một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu thuyết minh năng lực tài chính của nhà đầu tư;
+- 021 Bản chính - Đề xuất nhu cầu sử dụng đất đối với dự án đề nghị nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; Trường hợp dự án không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nhà đầu tư nộp bản sao thỏa thuận thuê địa điểm hoặc tài liệu khác xác nhận nhà đầu tư có quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+- 021 Bản chính - Giải trình về sử dụng công nghệ đối với dự án quy định tại điểm b khoản 1 Điều 32 của Luật Đầu tư gồm các nội dung: tên công nghệ, xuất xứ công nghệ, sơ đồ quy trình công nghệ; thông số kỹ thuật chính, tình trạng sử dụng của máy móc, thiết bị và dây chuyền công nghệ chính;
+- 021 Bản chính - Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC;
+- 021 Bản chính - Phương án giải phóng mặt bằng, di dân, tái định cư (nếu có);
+- 021 Bản chính - Đánh giá sơ bộ tác động môi trường, các giải pháp bảo vệ môi trường;
+- 021 Bản chính - Đánh giá tác động, hiệu quả kinh tế - xã hội của dự án;
+- 021 Bản chính - Đề xuất cơ chế, chính sách đặc thù (nếu có).

@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004995
+Số quyết định:
+2272/QĐ-BGTVT
+Tên thủ tục:
+Cấp giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+Tổ chức, cá nhân gửi văn bản đề nghị đến Sở Giao thông vận tải
+Giải quyết TTHC
+Trong thời gian không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Sở Giao thông vận tải tổ chức kiểm tra, cấp giấy chứng nhận. Trường hợp không cấp, phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Trong thời gian không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|5 Ngày làm việc||Trong thời gian không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản vẽ bố trí mặt bằng tổng thể, hồ sơ thiết kế kích thước hình sát hạch, loại xe cơ giới dùng để sát hạch.
+- 01 Bản sao Giấy phép xây dựng (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Sở Giao thông vận tải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận trung tâm sát hạch lái xe đủ điều kiện hoạt động
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|138/2018/NĐ-CP|Sửa đổi, bổ sung một số điều Nghị định số 65/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe|08-10-2018|Chính phủ|
+|65/2016/NĐ-CP|Quy định về điều kiện kinh doanh dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe|01-07-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện về cơ sở vật chất
++ Điều kiện chung
++ Diện tích trung tâm sát hạch lái xe: Trung tâm loại 3 có diện tích không nhỏ hơn 4.000 m2;
++ Số lượng xe cơ giới dùng để sát hạch: Sát hạch lái xe trong hình hạng A1, B1, B2 và C tối thiểu mỗi hạng 02 xe, các hạng khác tối thiểu mỗi hạng 01 xe và không được sử dụng vào mục đích kinh doanh khác; sát hạch lái xe trên đường tối thiểu mỗi hạng 01 xe. Xe sát hạch lái xe thuộc quyền sử dụng hợp pháp của tổ chức, cá nhân có trung tâm sát hạch lái xe;
++ Thiết bị sát hạch lý thuyết: Tối thiểu 02 máy chủ (server); tối thiểu 10 máy trạm đối với trung tâm sát hạch lái xe loại 3;
++ Thiết bị sát hạch thực hành lái xe trong hình: Tối thiểu 02 máy tính cài đặt phần mềm điều hành và quản lý sát hạch đối với mỗi loại trung tâm sát hạch;
++ Thiết bị sát hạch thực hành lái xe trên đường: Có ít nhất 02 máy tính cài đặt phần mềm điều hành và quản lý sát hạch, 01 máy tính làm chức năng máy chủ và điều hành có đường thuê bao riêng và địa chỉ IP tĩnh;
++ Thiết bị mô phỏng để sát hạch lái xe: Có ít nhất 01 thiết bị được cài đặt phần mềm sát hạch lái xe mô phỏng do Bộ Giao thông vận tải quy định.
+- Điều kiện kỹ thuật: Trung tâm sát hạch phải đáp ứng các yêu cầu kỹ thuật theo quy định của Quy chuẩn kỹ thuật quốc gia về trung tâm sát hạch lái xe cơ giới đường bộ do Bộ Giao thông vận tải ban hành gồm: Làn đường, đèn tín hiệu giao thông, hệ thống báo hiệu đường bộ, vạch giới hạn, vỉa hè hình sát hạch, cọc chuẩn và hình các bài sát hạch trong sân sát hạch; xe cơ giới dùng để sát hạch; thiết bị sát hạch lý thuyết; thiết bị sát hạch thực hành lái xe trong hình; thiết bị sát hạch thực hành lái xe trên đường; nhà điều hành và công trình phụ trợ khác.
+Điều kiện về cơ sở vật chất
++ Điều kiện chung
++ Diện tích trung tâm sát hạch lái xe: Trung tâm loại 3 có diện tích không nhỏ hơn 4.000 m2;
++ Số lượng xe cơ giới dùng để sát hạch: Sát hạch lái xe trong hình hạng A1, B1, B2 và C tối thiểu mỗi hạng 02 xe, các hạng khác tối thiểu mỗi hạng 01 xe và không được sử dụng vào mục đích kinh doanh khác; sát hạch lái xe trên đường tối thiểu mỗi hạng 01 xe. Xe sát hạch lái xe thuộc quyền sử dụng hợp pháp của tổ chức, cá nhân có trung tâm sát hạch lái xe;
++ Thiết bị sát hạch lý thuyết: Tối thiểu 02 máy chủ (server); tối thiểu 10 máy trạm đối với trung tâm sát hạch lái xe loại 3;
++ Thiết bị sát hạch thực hành lái xe trong hình: Tối thiểu 02 máy tính cài đặt phần mềm điều hành và quản lý sát hạch đối với mỗi loại trung tâm sát hạch;
++ Thiết bị sát hạch thực hành lái xe trên đường: Có ít nhất 02 máy tính cài đặt phần mềm điều hành và quản lý sát hạch, 01 máy tính làm chức năng máy chủ và điều hành có đường thuê bao riêng và địa chỉ IP tĩnh;
++ Thiết bị mô phỏng để sát hạch lái xe: Có ít nhất 01 thiết bị được cài đặt phần mềm sát hạch lái xe mô phỏng do Bộ Giao thông vận tải quy định.
+- Điều kiện kỹ thuật: Trung tâm sát hạch phải đáp ứng các yêu cầu kỹ thuật theo quy định của Quy chuẩn kỹ thuật quốc gia về trung tâm sát hạch lái xe cơ giới đường bộ do Bộ Giao thông vận tải ban hành gồm: Làn đường, đèn tín hiệu giao thông, hệ thống báo hiệu đường bộ, vạch giới hạn, vỉa hè hình sát hạch, cọc chuẩn và hình các bài sát hạch trong sân sát hạch; xe cơ giới dùng để sát hạch; thiết bị sát hạch lý thuyết; thiết bị sát hạch thực hành lái xe trong hình; thiết bị sát hạch thực hành lái xe trên đường; nhà điều hành và công trình phụ trợ khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

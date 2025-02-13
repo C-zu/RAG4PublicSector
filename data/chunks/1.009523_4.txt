@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký hoạt động lưu ký chứng khoán (QĐ 12/QĐ-BTC)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao * Đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài: + Giấy đề nghị đăng ký hoạt động lưu ký chứng khoán; + Giấy phép thành lập và hoạt động; + Bản thuyết minh về cơ sở vật chất, kỹ thuật bảo đảm thực hiện hoạt động lưu ký chứng khoán; + Tài liệu chứng minh đáp ứng điều kiện về tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về ngân hàng; + Báo cáo tài chính năm gần nhất đã được kiểm toán. * Đối với công ty chứng khoán: + Giấy đề nghị đăng ký hoạt động lưu ký chứng khoán; + Bản thuyết minh về cơ sở vật chất, kỹ thuật bảo đảm thực hiện hoạt động lưu ký chứng khoán;

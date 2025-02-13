@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003269
+Số quyết định:
+3727/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp Giấy chứng nhận đăng ký hoạt động kiểm định
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức kiểm định có nhu cầu bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động kiểm định chất lượng sản phẩm, hàng hóa trong quá trình sử dụng:
+- Đối với chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Khoa học và Công nghệ hoặc kiểm định chất lượng sản phẩm, hàng hóa tổng hợp đa ngành thuộc trách nhiệm quản lý từ hai bộ quản lý ngành, lĩnh vực trở lên, hồ sơ đăng ký gửi về Bộ Khoa học và Công nghệ (Tổng cục Tiêu chuẩn Đo lường Chất lượng – Cơ quan tiếp nhận hồ sơ)
+- Đối với chất lượng sản phẩm, hàng hóa chuyên ngành thuộc trách nhiệm quản lý nhà nước của một bộ quản lý ngành, lĩnh vực theo chức năng, nhiệm vụ quyền hạn được phân công, hồ sơ đăng ký gửi về Bộ, quản lý ngành, lĩnh vực (Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công).
+Bước 2: Xử lý hồ sơ
+Cơ quan tiếp nhận hồ sơ, xem xét, thẩm định theo quy định:
+- Trường hợp hồ sơ không đầy đủ theo quy định, Cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi, bổ sung.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, Bộ quản lý ngành lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức kiểm định.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Cơ quan tiếp nhận hồ sơ hoặc theo đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức kiểm định.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức kiểm định sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức kiểm định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký bổ sung, sửa đổi hoạt động kiểm định; ([Đơn đăng ký bổ sung, sửa đổi hoạt động kiểm định.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed3eab54f51595'))
+ - Danh sách kiểm định viên bổ sung, sửa đổi và các chứng chỉ, tài liệu liên quan đối với mỗi kiểm định viên gồm: ([Danh sách kiểm định viên.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd49b64f17f21f4'))
+- 01 Bản sao Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 5 Nghị định 107/2016/NĐ-CP;
+ - Danh sách máy móc, thiết bị, dụng cụ phục vụ hoạt động kiểm định đối với lĩnh vực kiểm định đăng ký bổ sung, sửa đổi; ([Danh sách máy móc, thiết bị, dụng cụ phục vụ hoạt động kiểm định đối với lĩnh vực kiểm định đăng ký.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febce148097dbdc'))
+- 01 Bản chính - Tài liệu chứng minh năng lực hoạt động kiểm định bổ sung, sửa đổi đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO 9001:2008 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với kiểm định chuyên ngành:
+- 01 Bản sao + Bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 hoặc bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận trong trường hợp tổ chức kiểm định đã được tổ chức chứng nhận cấp Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 hoặc đã được tổ chức công nhận quy định tại Điều 21 Nghị định 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP công nhận hoạt động kiểm định phù hợp tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với lĩnh vực chuyên ngành, tổ chức kiểm định.
+- 01 Bản sao + Trường hợp tổ chức kiểm định đã được chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 nhưng có phạm vi đăng ký hoạt động rộng hơn phạm vi đã được chứng nhận, tổ chức kiểm định nộp bản sao Giấy chứng nhận phù hợp tiêu chuẩn TCVN ISO 9001:2008 hoặc ISO 9001:2008 và các tài liệu, quy trình kiểm định, các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 9 Nghị định này đối với phạm vi chưa được chứng nhận
+- 01 Bản chính - Mẫu Giấy chứng nhận kiểm định
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động giám định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|132/2008/NĐ-CP|Nghị định 132/2008/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa|31-12-2008|Chính phủ|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP-Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành|09-11-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Là tổ chức được thành lập theo quy định của pháp luật.;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO 9001:2008 hoặc các tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với kiểm định chuyên ngành;
+- Có ít nhất 04 kiểm định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), đáp ứng yêu cầu chuyên môn đối với lĩnh vực kiểm định tương ứng, được đào tạo về tiêu chuẩn quốc gia TCVN ISO 9001:2008;
+- Có máy móc, thiết bị, dụng cụ theo yêu cầu tại quy trình kiểm định.
+- Là tổ chức được thành lập theo quy định của pháp luật.;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO 9001:2008 hoặc các tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với kiểm định chuyên ngành;
+- Có ít nhất 04 kiểm định viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), đáp ứng yêu cầu chuyên môn đối với lĩnh vực kiểm định tương ứng, được đào tạo về tiêu chuẩn quốc gia TCVN ISO 9001:2008;
+- Có máy móc, thiết bị, dụng cụ theo yêu cầu tại quy trình kiểm định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

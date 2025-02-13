@@ -1,0 +1,9 @@
+Tên thủ tục: Thỏa thuận vị trí, thông số kỹ thuật chi tiết cảng biển, bến cảng, cầu cảng, luồng hàng hải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi chủ đầu tư.|
+|Trực tuyến|10 Ngày làm việc||- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi chủ đầu tư.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Chậm nhất 03 ngày làm việc, kể từ khi nhận được đầy đủ ý kiến tham gia của các cơ quan liên quan đối với đề nghị của chủ đầu tư, Cục Hàng hải Việt Nam có văn bản thỏa thuận vị trí, thông số kỹ thuật chi tiết và gửi chủ đầu tư.|

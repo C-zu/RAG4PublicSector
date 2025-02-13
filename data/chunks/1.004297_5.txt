@@ -1,0 +1,27 @@
+Tên thủ tục: Cấp giấy phép xả nước thải vào nguồn nước với lưu lượng từ 30.000m3/ngày đêm trở lên đối với hoạt động nuôi trồng thủy sản; với lưu lượng từ 3.000m3/ngày đêm trở lên đối với các hoạt động khác
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý tài nguyên nước - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xả nước thải vào nguồn nước theo mẫu 20 ban hành kèm theo Thông tư số 27/2014/TT-BTNMT.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|201/2013/NĐ-CP|Nghị định 201/2013/NĐ-CP|27-11-2013|Chính phủ|
+|27/2014/TT-BTNMT|Thông tư 27/2014/TT-BTNMT|30-05-2014|Bộ Tài nguyên và Môi trường|
+|60/2016/NĐ-CP|Nghị định 60/2016/NĐ-CP|01-07-2016|Chính phủ|
+|17/2012/QH13|Luật 17/2012/QH13|21-06-2012|Quốc Hội|
+|270/2016/TT-BTC|Thông tư 270/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|82/2017/NĐ-CP|Nghị định 82/2017/NĐ-CP|17-07-2017|Chính phủ|
+|136/2018/NĐ-CP|Nghị định 136/2018/NĐ-CP|05-10-2018|Chính phủ|

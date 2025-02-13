@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép kinh doanh tại chợ trong khu kinh tế cửa khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị cấp Giấy phép kinh doanh tại chợ theo mẫu. Đơn đề nghị cấp Giấy phép kinh doanh tại chợ phải được sự xác nhận của cơ quan có thẩm quyền nước có chung biên giới. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe52a483933a338'">Mẫu số 1b.docx</a>)
+- 01 Bản chính 2. Bản sao Giấy chứng nhận đăng ký kinh doanh (đối với thương nhân là doanh nghiệp hoặc hộ kinh doanh) hoặc bản sao của một trong những giấy tờ sau đối với thương nhân là cá nhân kinh doanh có quốc tịch của nước có chung biên giới: giấy chứng minh thư biên giới, hoặc giấy thông hành biên giới, hoặc hộ chiếu hoặc giấy tờ có giá trị xuất nhập cảnh khác được cấp theo quy định của pháp luật của nước có chung biên giới. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f91412505e0c5e0'">Mẫu số 2b.docx</a>)
+- 01 Bản chính 3. Hai (02) ảnh cỡ 3x4cm.

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001600
+Số quyết định:
+01/QĐ-BCT
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Vật liệu nổ công nghiệp, tiền chất thuốc nổ

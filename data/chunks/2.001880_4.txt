@@ -1,0 +1,13 @@
+Tên thủ tục: Gia hạn giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Áp dụng cho chủ điểm cá nhân
+- 01 Bản chính ĐƠN ĐỀ NGHỊ GIA HẠN GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ CÔNG CỘNG (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe18331c7fe6352'">Mẫu số 09. ĐƠN ĐỀ NGHỊ GIA HẠN GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG.docx</a>)
+- 01 Bản chính Bản sao có chứng thực chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu của chủ điểm là cá nhân
+
+
+Áp dụng cho chủ điểm là tổ chức, doanh nghiệp
+- 01 Bản chính ĐƠN ĐỀ NGHỊ GIA HẠN GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ CÔNG CỘNG (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe238ebfc842fe8'">Mẫu số 10. ĐƠN ĐỀ NGHỊ GIA HẠN GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM.docx</a>)
+- 01 Bản chính Bản sao có chứng thực chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu của chủ điểm là cá nhân

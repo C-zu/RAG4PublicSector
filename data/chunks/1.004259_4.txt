@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Giấy phép vận tải qua biên giới
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản chính hoặc biểu mẫu điện tử Đơn đề nghị cấp Giấy phép vận tải qua biên giới cho phương tiện theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec691ac7514e13'">Mẫu.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy chứng nhận đăng ký phương tiện;
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường;
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy chứng nhận bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải hàng hóa dễ cháy, dễ nổ đối với người thứ ba; bản sao Giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của người kinh doanh vận tải hành khách đối với hành khách.

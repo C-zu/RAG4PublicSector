@@ -1,0 +1,13 @@
+Tên thủ tục: Thông báo chấm dứt hoạt động bán hàng đa cấp tại địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp doanh nghiệp chấm dứt hoạt động bán hàng đa cấp do xác nhận đăng ký hoạt động bán hàng đa cấp tại địa phương bị thu hồi
+- 01 Bản chính Thông báo chấm dứt hoạt động bán hàng đa cấp tại địa phương theo Mẫu số 11 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febc5cae01fbb6b'">Mẫu số 11.docx</a>)
+- 01 Bản chính Báo cáo theo Mẫu số 16 tại Phụ lục ban hành kèm theo Nghị định 40/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe408c2e15fb993'">Mẫu số 16.docx</a>)
+
+
+Trường hợp doanh nghiệp tự nguyện chấm dứt hoạt động bán hàng đa cấp tại địa phương
+- 01 Bản chính Thông báo chấm dứt hoạt động bán hàng đa cấp tại địa phương theo Mẫu số 11 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea48f61ebaabe3'">Mẫu số 11.docx</a>)
+- 01 Bản chính Báo cáo theo Mẫu số 16 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee453df3b5d919'">Mẫu số 16.docx</a>)

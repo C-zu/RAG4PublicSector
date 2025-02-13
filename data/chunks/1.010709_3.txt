@@ -1,0 +1,9 @@
+Tên thủ tục: Ngừng khai thác tuyến, ngừng phương tiện hoạt động trên tuyến vận tải hành khách cố định giữa Việt Nam, Lào và Campuchia
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||Chậm nhất 02 ngày làm việc kể từ ngày nhận được đề nghị|
+|Trực tuyến|02 Ngày làm việc||Chậm nhất 02 ngày làm việc kể từ ngày nhận được đề nghị|
+|Dịch vụ bưu chính|02 Ngày làm việc||Chậm nhất 02 ngày làm việc kể từ ngày nhận được đề nghị|

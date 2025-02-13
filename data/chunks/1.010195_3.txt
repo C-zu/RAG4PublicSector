@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp bản sao và chứng thực tài liệu lưu trữ (Cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Phí : Đồng Thực hiện theo Thông tư số 275/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng tài liệu lưu trữ.|Thời hạn trả bản sao tài liệu và bản chứng thực tài liệu cho độc giả theo quy định của các Lưu trữ lịch sử cấp tỉnh, thành phố trực thuộc Trung ương.|

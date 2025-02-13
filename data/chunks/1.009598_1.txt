@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc Trung ương
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009598
+Số quyết định:
+2595/QĐ-UBND
+Tên thủ tục:
+Cấp sửa đổi, bổ sung Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc Trung ương
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lưu thông hàng hóa trong nước

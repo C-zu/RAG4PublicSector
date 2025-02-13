@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cho phương tiện thủy nội địa vào cảng biển (trừ phương tiện thủy nội địa mang cấp VR-SB)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003391
+Số quyết định:
+2380/QĐ-BGTVT
+Tên thủ tục:
+Thủ tục cho phương tiện thủy nội địa vào cảng biển (trừ phương tiện thủy nội địa mang cấp VR-SB)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải

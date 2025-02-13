@@ -1,0 +1,16 @@
+Tên thủ tục: Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000948
+Số quyết định:
+4694/QĐ-BYT
+Tên thủ tục:
+Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+An toàn thực phẩm và Dinh dưỡng

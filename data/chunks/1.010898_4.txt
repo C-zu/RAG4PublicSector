@@ -1,0 +1,16 @@
+Tên thủ tục: Đề nghị dừng thực hiện thủ tục đăng ký doanh nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị dừng thực hiện thủ tục đăng ký doanh nghiệp theo mẫu BM.DN.01.01. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd40c29469c17e8'">1.docx</a>)
+- 01 Bản chính Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác dừng thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây: Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có: + Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp (Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực).
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền.
+- 01 Bản sao Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có: + Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản chính Bản chính giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.
+- 01 Bản sao Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp.
+- 01 Bản sao Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì việc ủy quyền thực hiện như Trường hợp ủy quyền cho tổ chức, kèm theo hồ sơ đăng ký doanh nghiệp phải có: + Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+- 01 Bản chính Bản chính giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu.

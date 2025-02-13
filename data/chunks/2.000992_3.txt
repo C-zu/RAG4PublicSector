@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký người dịch mà người dịch là cộng tác viên dịch thuật của Phòng Tư pháp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ hoặc có thể kéo dài hơn theo thỏa thuận bằng văn bản với người yêu cầu chứng thực. Trường hợp trả kết quả trong ngày làm việc tiếp theo hoặc phải kéo dài thời gian theo thỏa thuận thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực.|Phí : 10.000 Đồng 10.000 đồng/trường hợp|Nộp hồ sơ trực tiếp tại Phòng Tư pháp.|

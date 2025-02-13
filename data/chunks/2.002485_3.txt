@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ đầu tư dự án sản xuất công nghiệp - tiểu thủ công nghiệp vào khu vực miền núi
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|21 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|Phí : 0 Đồng||
+|Trực tuyến|15 Ngày làm việc|Phí : 0 Đồng|Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình)|
+|Dịch vụ bưu chính|21 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|Phí : 0 Đồng||

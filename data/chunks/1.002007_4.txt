@@ -1,0 +1,9 @@
+Tên thủ tục: Di chuyển đăng ký xe máy chuyên dùng ở khác tỉnh, thành phố trực thuộc Trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai di chuyển đăng ký xe máy chuyên dùng theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcaf26a6b065910'">01.2Mẫu.docx</a>)
+- 01 Bản chính Bản chính giấy tờ xác định quyền sở hữu xe máy chuyên dùng (là một trong những giấy tờ sau): + Hợp đồng mua bán, cho tặng hoặc văn bản thừa kế theo quy định của pháp luật; + Hóa đơn bán hàng theo quy định của Bộ Tài chính; + Văn bản của cấp có thẩm quyền đồng ý thanh lý xe theo quy định của pháp luật; + Văn bản của bên cho thuê tài chính đồng ý cho bên thuê xe máy chuyên dùng được đăng ký quyền sở hữu theo quy định của pháp luật; + Quyết định tiếp nhận viện trợ của cơ quan có thẩm quyền theo quy định của pháp luật; + Quyết định xuất, bán hàng dự trữ quốc gia của cơ quan có thẩm quyền theo quy định của pháp luật. (Trường hợp nhiều xe chung một giấy tờ giấy tờ xác định quyền sở hữu xe máy chuyên dùng thi tổ chức, cá nhân khi đăng ký phải nộp bản chính và bản sao cho mỗi xe tại Sở Giao thông vận tải nơi đăng ký (trừ trường hợp Xe máy chuyên dùng chưa đăng ký, khi di chuyển trên đường bộ phải được đăng ký tạm thời). Sở Giao thông vận tải nơi đăng ký có trách nhiệm xác nhận bằng văn bản với tổ chức, cá nhân đăng ký về việc đang lưu giữ bản chính)
+- 01 Bản sao Giấy chứng nhận đăng ký xe máy chuyên dùng đã được cấp (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có chứng thực)

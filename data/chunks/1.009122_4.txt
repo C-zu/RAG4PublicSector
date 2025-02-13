@@ -1,0 +1,34 @@
+Tên thủ tục: Cấp giấy phép xây dựng có thời hạn đối với công trình, nhà ở riêng lẻ (công trình cấp III, cấp IV)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với công trình
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép xây dựng có thời hạn theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd30056f7a15280'">MAU 01-Cap phep xay dung co thoi han su dung cho cong trinh.doc</a>)
+- 01 Bản sao 2. Bản sao được công chứng hoặc chứng thực một trong những giấy tờ về quyền sử dụng đất theo quy định của pháp luật về đất đai;
+- 02 Bản chính 3. Hai bộ bản vẽ thiết kế, mỗi bộ gồm:
+- 01 Bản chính - Bản vẽ mặt bằng vị trí công trình trên lô đất tỷ lệ 1/100 - 1/500, kèm theo sơ đồ vị trí công trình;
+- 01 Bản chính - Bản vẽ các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình, tỷ lệ 1/50 - 1/200;
+- 01 Bản chính - Bản vẽ mặt bằng móng tỷ lệ 1/100 - 1/200 và mặt cắt móng tỷ lệ 1/50, kèm theo sơ đồ đấu nối với hệ thống hạ tầng kỹ thuật về giao thông; cấp nước; thoát nước mưa, nước bẩn; xử lý nước thải; cấp điện; thông tin liên lạc; các hệ thống hạ tầng kỹ thuật khác liên quan đến dự án, tỷ lệ 1/50 - 1/200.
+- 01 Bản sao * Tùy từng trường hợp phải bổ sung: Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.
+
+
+Đối với nhà ở riêng lẻ tại đô thị:
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép xây dựng có thời hạn theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2b352ad4bc861'">Mau 2-Cap giay phep xay dung co thoi han su dung cho nha o rieng le.doc</a>)
+- 01 Bản sao 2. Bản sao được công chứng hoặc chứng thực một trong những giấy tờ về quyền sử dụng đất theo quy định của pháp luật về đất đai;
+- 02 Bản chính, 02 Bản sao 3. Bản sao hoặc tệp tin chứa bản chụp chính hai bộ bản vẽ thiết kế, mỗi bộ gồm:
+- 01 Bản chính, 01 Bản sao - Bản vẽ mặt bằng công trình trên lô đất tỷ lệ 1/50 - 1/500, kèm theo sơ đồ vị trí công trình;
+- 01 Bản chính, 01 Bản sao - Bản vẽ mặt bằng các tầng, các mặt đứng và mặt cắt chính của công trình, tỷ lệ 1/50 - 1/200;
+- 01 Bản chính, 01 Bản sao - Bản vẽ mặt bằng móng tỷ lệ 1/50 - 1/200 và mặt cắt móng tỷ lệ 1/50, kèm theo sơ đồ đấu nối hệ thống thoát nước mưa, xử lý nước thải, cấp nước, cấp điện, thông tin tỷ lệ 1/50 - 1/200.
+- 01 Bản chính, 01 Bản sao - Trường hợp thiết kế xây dựng của công trình đã được cơ quan chuyên môn về xây dựng thẩm định, các bản vẽ thiết kế quy định tại nêu trên là bản sao hoặc tệp tin chứa bản chụp các bản vẽ thiết kế xây dựng đã được cơ quan chuyên môn về xây dựng thẩm định.
+- 01 Bản chính, 01 Bản sao - Đối với công trình xây chen có tầng hầm, ngoài các tài liệu quy định tại Khoản 1, 2, 3 Điều 11 Thông tư số 15/2016/TT-BXD, hồ sơ còn phải bổ sung bản sao hoặc tệp tin chứa bản chụp chính văn bản chấp thuận biện pháp thi công móng của chủ đầu tư đảm bảo an toàn cho công trình và công trình lân cận.
+- 01 Bản chính, 01 Bản sao - Đối với công trình xây dựng có công trình liền kề phải có bản cam kết của chủ đầu tư bảo đảm an toàn đối với công trình liền kề.
+- 01 Bản sao * Tùy từng trường hợp phải bổ sung: Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.
+
+
+Đối với trường hợp sửa chữa, cải tạo:
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép xây dựng có thời hạn theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7fa2fda60b83c'">Mau 3-Cap phep xay dung co thoi han su dung cho truong hop sua chua, cai tao.doc</a>)
+- 01 Bản chính, 01 Bản sao 2. Bản sao hoặc tệp tin chứa bản chụp chính một trong những giấy tờ chứng minh về quyền sở hữu, quản lý, sử dụng công trình, nhà ở theo quy định của pháp luật hoặc bản sao giấy phép xây dựng đã được cơ quan nhà nước có thẩm quyền cấp;
+- 01 Bản chính, 01 Bản sao 3. Bản sao hoặc tệp tin chứa bản chụp chính bản vẽ hiện trạng của bộ phận, hạng Mục công trình sửa chữa, cải tạo đã được phê duyệt theo quy định có tỷ lệ tương ứng với tỷ lệ các bản vẽ của hồ sơ đề nghị cấp phép sửa chữa, cải tạo và ảnh chụp (10 x 15 cm) hiện trạng công trình và công trình lân cận trước khi sửa chữa, cải tạo;
+- 01 Bản chính, 01 Bản sao 4. Đối với các công trình di tích lịch sử, văn hóa và danh lam, thắng cảnh đã được xếp hạng, thì phải có bản sao hoặc tệp tin chứa bản chụp chính văn bản chấp thuận của cơ quan quản lý nhà nước có thẩm quyền theo phân cấp.
+- 01 Bản sao * Tùy từng trường hợp phải bổ sung: Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.

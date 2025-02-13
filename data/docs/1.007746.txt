@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007746
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục thuê kho bên ngoài Doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của Doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp chế xuất (DNCX) gửi văn bản tới Chi cục Hải quan quản lý DNCX kèm theo thông tin về địa điểm, vị trí, diện tích, các điều kiện về cơ sở hạ tầng, cơ chế quản lý giám sát hàng hóa đưa vào, đưa ra kho, thời gian thuê kho;
++ Bước 2: Căn cứ đề nghị của DNCX, Chi cục Hải quan quản lý DNCX thực hiện kiểm tra hiện trạng kho, đối chiếu với điều kiện quy định tại điểm a khoản này để xem xét, quyết định cho DNCX được thuê kho bên ngoài DNCX hoặc báo cáo nếu vượt thẩm quyền.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Không quy định|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Gửi văn bản tới Chi cục Hải quan quản lý DNCX
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định được phép thuê kho
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện về kho:
++ Có tường rào cứng bao quanh, ngăn cách với khu vực bên ngoài;
++ Có camera giám sát liên tục tại cửa ra, vào và cơ quan hải quan được quyền tra cứu được hình ảnh khi cần thiết.
+Điều kiện về kho:
++ Có tường rào cứng bao quanh, ngăn cách với khu vực bên ngoài;
++ Có camera giám sát liên tục tại cửa ra, vào và cơ quan hải quan được quyền tra cứu được hình ảnh khi cần thiết.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

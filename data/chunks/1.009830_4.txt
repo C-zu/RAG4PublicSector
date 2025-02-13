@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef7dfcbe5418e'">Mau 1_Don CP tien hanh CVBX.doc</a>)
+- 01 Bản sao + Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản chính + Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4be09c21e1a34'">Mau 01_KB nhan vien BX.doc</a>)
+- 01 Bản sao + Bản sao Chứng chỉ nhân viên bức xạ của các nhân viên: người phụ trách an oàn, trừ trường hợp nguồn phóng xạ thuộc nhóm 5 theo QCVN 6:2010/BKHCN, người phụ trách tẩy xạ. Trường hợp các nhân viên này chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ.
+- 01 Bản sao + Bản sao Giấy chứng nhận đào tạo an toàn bức xạ của nhân viên bức xạ. Bản sao văn bằng hoặc chứng nhận đào tạo về xử lý chất thải phóng xạ đối với nhân viên xử lý chất thải phóng xạ.
+- 01 Bản chính + Phiếu khai báo nguồn phóng xạ kín đã qua sử dụng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23e333620381b'">Mau 05_KB nguon PX qua dung.doc</a>)
+- 01 Bản chính + Phiếu khai báo chất thải phóng xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec6052307ddf2c'">Mau 14_KB chat thai PX.doc</a>)
+- 01 Bản chính + Báo cáo đánh giá an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe173f9e6ef4d36'">Mau 07_PL5_BC xu ly chat thai PX.doc</a>)
+- 01 Bản sao + Bản sao Biên bản kiểm xạ.
+- 01 Bản chính + Kế hoạch ứng phó sự cố (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefd3ca4866bea9'">PL02_NoidungKHUPSC.doc</a>)

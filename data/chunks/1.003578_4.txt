@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp Giấy phép CITES nhập khẩu mẫu vật các loài động vật, thực vật hoang dã nguy cấp thuộc các Phụ lục CITES
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Trường hợp nhập khẩu không vì mục đích thương mại phục vụ nghiên cứu khoa học, ngoại giao và tham gia triển lãm, biểu diễn xiếc:
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8af546800c75a'">Mẫu số 12.docx</a>)
+- 01 Bản sao + Một trong các giấy tờ tương ứng sau: Bản sao văn bản ký kết về chương trình hợp tác nghiên cứu khoa học do cơ quan có thẩm quyền phê duyệt đối với trường hợp nghiên cứu khoa học; hoặc văn bản xác nhận quà biếu, tặng ngoại giao do cơ quan có thẩm quyền phê duyệt đối với trường hợp phục vụ ngoại giao; hoặc bản sao giấy mời tham gia triển lãm, biểu diễn xiếc của cơ quan có thẩm quyền đối với trường hợp phục vụ triển lãm không vì mục đích thương mại, biễu diễn xiếc.
+
+
+- Trường hợp nhập khẩu mẫu vật tiền Công ước, mẫu vật săn bắn:
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8af546800c75a'">Mẫu số 12.docx</a>)
+- 01 Bản sao + Bản sao hồ sơ chứng minh mẫu vật tiền Công ước hoặc bản sao giấy phép, chứng chỉ của Cơ quan quản lý CITES nước xuất khẩu cấp đối với mẫu vật tiền Công ước; hoặc bản sao Giấy phép CITES xuất khẩu, giấy chứng nhận mẫu vật săn bắn do cơ quan có thẩm quyền của nước xuất khẩu cấp đối với mẫu vật săn bắn.
+
+
+Bao gồm
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd243fd25fe2766'">Mẫu số 12. Đề nghị cấp phép Cites.docx</a>)
+- 01 Bản sao + Bản sao Giấy phép CITES xuất khẩu do Cơ quan quản lý CITES của nước xuất khẩu, tái xuất khẩu cấp.

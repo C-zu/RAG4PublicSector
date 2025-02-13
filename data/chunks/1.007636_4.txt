@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Đăng ký kinh doanh dịch vụ kiểm toán cho chi nhánh doanh nghiệp kiểm toán
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Doanh nghiệp kiểm toán đăng ký cho chi nhánh được kinh doanh dịch vụ kiểm toán gửi 01 bộ hồ sơ đến Bộ Tài chính. Hồ sơ gồm:
+- 01 Bản chính a) Đơn đăng ký kinh doanh dịch vụ kiểm toán đối với chi nhánh doanh nghiệp kiểm toán (theo mẫu quy định tại Phụ lục VIII); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec076324ba69ca'">Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc</a>)
+- 01 Bản sao b) Bản sao Giấy chứng nhận đăng ký hoạt động chi nhánh do cơ quan đăng ký kinh doanh cấp;
+- 01 Bản sao c) Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề làm việc tại chi nhánh;
+- 01 Bản sao d) Quyết định bổ nhiệm Giám đốc chi nhánh.

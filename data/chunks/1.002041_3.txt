@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh Giấy phép vận chuyển tiền chất thuốc nổ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng|03 ngày làm việc.|
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng|03 ngày làm việc.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng|03 ngày làm việc.|

@@ -1,0 +1,15 @@
+Tên thủ tục: Hiệp thương, giải quyết tranh chấp trong kinh doanh dịch vụ viễn thông
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Các doanh nghiệp viễn thông gửi hồ sơ đề nghị giải quyết tranh chấp tới Cục Viễn thông - Bộ Thông tin Truyền thông.
+- Cục Viễn thông có trách nhiệm xem xét, thu thập thông tin, chứng cứ có liên quan. Các bên tranh chấp có nghĩa vụ cung cấp đầy đủ thông tin, chứng cứ theo yêu cầu của Cục Viễn thông.
+- Trong thời hạn 30 ngày làm việc, kể từ ngày nhận được đầy đủ hồ sơ đề nghị giải quyết tranh chấp, Cục Viễn thông có trách nhiệm tổ chức hiệp thương giữa các bên có liên quan. Kết quả hiệp thương được lập thành biên bản có chữ ký của người đại diện theo pháp luật của các bên tham gia hiệp thương và Cục Viễn thông.
+- Nếu thông qua hiệp thương các bên có liên quan thống nhất được các nội dung tranh chấp thì các bên thực hiện theo thỏa thuận đã thống nhất. Trong trường hợp các bên có liên quan không thống nhất được các nội dung tranh chấp thì trong thời hạn 15 ngày làm việc kể từ ngày ký biên bản hiệp thương, Cục Viễn thông ra quyết định giải quyết tranh chấp.
+- Trong quá trình giải quyết tranh chấp, Cục Viễn thông có thể xem xét, quyết định yêu cầu các bên bảo đảm việc kết nối đúng theo hiện trạng trước khi phát sinh tranh chấp hoặc đưa ra một giải pháp khác để bảo đảm kết nối, trong trường hợp:
+a)   Bảo đảm lợi ích công cộng hoặc sự toàn vẹn của mạng lưới viễn thông;
+b) Việc tranh chấp gây ảnh hưởng đến hoạt động của doanh nghiệp viễn thông khác;
+c)   Để bảo đảm quyền lợi của người sử dụng dịch vụ viễn thông, bảo đảm khả năng truy nhập của người sử dụng dịch vụ viễn thông đến các số liên lạc khẩn cấp;
+d) Để bảo đảm hoạt động viễn thông công ích;
+đ) Các trường hợp khác theo quy định của Bộ Thông tin và Truyền thông.
+- Các bên tranh chấp có nghĩa vụ thi hành ngay quyết định giải quyết tranh chấp của Cục Viễn thông, kể cả trường hợp không đồng ý với quyết định giải quyết tranh chấp và có quyền khiếu nại, khởi kiện theo quy định của pháp luật.

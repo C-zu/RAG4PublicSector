@@ -1,0 +1,12 @@
+Tên thủ tục: Công bố đưa bến xe khách vào khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị công bố đưa bến xe khách vào khai thác theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4863d982cd474'">Mẫu2.doc</a>)
+- 01 Bản chính Văn bản chấp thuận đấu nối đường ra, vào bến xe khách với đường bộ của cơ quan có thẩm quyền
+- 01 Bản chính Bản vẽ bố trí mặt bằng tổng thể bến xe khách
+- 01 Bản chính Quyết định cho phép đầu tư xây dựng của cơ quan có thẩm quyền và biên bản nghiệm thu xây dựng
+- 01 Bản chính Bản đối chiếu các quy định kỹ thuật của bến xe khách theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4224121eaf077'">Mau.doc</a>)
+- 01 Bản chính Quy chế quản lý khai thác bến xe khách do đơn vị quản lý, khai thác bến xe khách ban hành

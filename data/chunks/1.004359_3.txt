@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại giấy phép khai thác thủy sản
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|Phí : Đồng Lệ phí cấp mới 40.000đồng/lần; lệ phí cấp lại 20.000 đồng/lần.|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|
+|Trực tuyến|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|Phí : Đồng Lệ phí cấp mới 40.000đồng/lần; lệ phí cấp lại 20.000 đồng/lần.|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|Phí : Đồng Lệ phí cấp mới 40.000đồng/lần; lệ phí cấp lại 20.000 đồng/lần.|06 ngày làm việc (đối với cấp mới), 03 ngày làm việc (đối với cấp lại), kể từ ngày nhận đủ hồ sơ.|

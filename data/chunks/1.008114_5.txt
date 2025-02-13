@@ -1,0 +1,26 @@
+Tên thủ tục: Thẩm định Báo cáo Kinh tế - Kỹ thuật.
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải - tỉnh Bắc Giang
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải - tỉnh Bắc Giang
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thông báo kết quả thẩm định báo cáo kinh tế - kỹ thuật.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật Xây dựng|18-06-2014||
+|59/2015/NĐ-CP|Nghị định|18-06-2015||
+|46/2015/NĐ-CP|Nghị định|12-05-2015||
+|18/2016/TT-BXD|Thông tư|30-06-2016||
+|209/2016/TT-BTC|Thông tư|10-11-2016||
+|01/2019/QĐ-UBND|Quyết định|02-04-2018||

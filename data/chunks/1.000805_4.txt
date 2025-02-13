@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy chứng nhận đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Tờ khai đăng ký sửa đổi, bổ sung danh mục kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền theo mẫu của Bộ Thông tin và Truyền thông quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe51ce762f7e4ea'">mau so 05 - Tokhai - DM kenh chuong trinh.doc</a>)
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản thỏa thuận bản quyền đối với kênh chương trình trên dịch vụ phát thanh, truyền hình trả tiền đăng ký
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kem bản gốc để đối chiếu văn bản thỏa thuận điểm nhận tín hiệu các kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu

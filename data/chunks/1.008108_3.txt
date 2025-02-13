@@ -1,0 +1,8 @@
+Tên thủ tục: Chấp thuận xây dựng công trình thiết yếu, biển quảng cáo tạm thời trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ đối với đường huyện đang khai thác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||07 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.|

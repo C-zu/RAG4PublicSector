@@ -1,0 +1,10 @@
+Tên thủ tục: Chấp thuận thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao đấu nối vào quốc lộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị chấp thuận thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fada141b5f3ce80'">Mẫu2.doc</a>)
+- 01 Bản sao Quy hoạch các điểm đấu nối vào quốc lộ đã được Ủy ban nhân dân cấp tỉnh phê duyệt (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu); hoặc văn bản thỏa thuận của Bộ Giao thông vận tải cho phép đấu nối đường nhánh vào quốc lộ đối với các trường hợp quốc lộ chưa có quy hoạch các điểm đấu nối vào quốc lộ được phê duyệt (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu)
+- 01 Bản sao Văn bản của Ủy ban nhân dân cấp tỉnh (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu) giao tổ chức, cá nhân làm chủ đầu tư hoặc chủ sử dụng nút giao
+- 01 Bản chính Thiết kế kỹ thuật và phương án tổ chức giao thông của nút giao (có biện pháp tổ chức thi công bảo đảm an toàn giao thông) do tổ chức tư vấn được phép hành nghề trong lĩnh vực công trình đường bộ lập (bản chính)

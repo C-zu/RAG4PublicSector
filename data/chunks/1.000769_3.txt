@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thay đổi, bổ sung phạm vi, lĩnh vực đánh giá sự phù hợp được chỉ định
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký: Cơ quan chỉ định thông báo yêu cầu sửa đổi, bổ sung hồ sơ. - Trong thời hạn 20 ngày kể từ khi nhận được hồ sơ hợp lệ: Cơ quan chỉ định đánh giá năng lực thực tế tại tổ chức đánh giá sự phù hợp. - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả hành động khắc phục theo biên bản đánh giá thực tế: Cơ quan chỉ định ban hành Quyết định chỉ định. Trong trường hợp từ chối việc chỉ định, Cơ quan chỉ định phải thông báo lý do bằng văn bản cho tổ chức đánh giá sự phù hợp.|

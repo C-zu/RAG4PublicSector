@@ -1,0 +1,38 @@
+Tên thủ tục: Thủ tục tặng thưởng Bằng khen của Thống đốc
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Theo quy định tại Điều 10 Thông tư số 25/2023/TT-NHNN:
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng hoặc truy tặng cho cá nhân gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, quy định, quy chế của ngành Ngân hàng, địa phương, của đơn vị và đạt một trong các tiêu chuẩn quy định tại điểm a, b, c, d khoản 1 Điều 74 Luật Thi đua, khen thưởng, cụ thể: 
+i) Có thành tích xuất sắc được bình xét trong các phong trào thi đua do Bộ, ban, ngành, tỉnh phát động;
+ii) Lập được nhiều thành tích hoặc thành tích đột xuất, có phạm vi ảnh hưởng ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+iii) Có đóng góp vào sự phát triển kinh tế - xã hội, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
+iv) Có 02 lần liên tục được tặng danh hiệu “Chiến sĩ thi đua cơ sở” hoặc có liên tục từ 02 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ, trong thời gian đó có 02 sáng kiến được công nhận và áp dụng có hiệu quả trong phạm vi cơ sở hoặc có 02 đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả trong phạm vi cơ sở; 
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho cá nhân có thời gian công tác trong ngành Ngân hàng từ 25 năm trở lên đối với nam và 20 năm trở lên đối với nữ, 05 năm liên tục liền kề trước thời điểm nghỉ hưu hoàn thành tốt nhiệm vụ được giao, trong quá trình công tác không bị kỷ luật và chưa được khen thưởng Bằng khen của Thống đốc hoặc các hình thức khen thưởng cấp Nhà nước.
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để truy tặng cho cá nhân có hành động dũng cảm cứu người, cứu tài sản bị hy sinh trong quá trình thực hiện nhiệm vụ được giao liên quan đến hoạt động ngân hàng.
+	- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho tập thể gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, của ngành Ngân hàng, quy định, quy chế của ngành Ngân hàng, địa phương, của đơn vị, nội bộ đoàn kết và đạt một trong các tiêu chuẩn quy định tại khoản 3 Điều 74 Luật Thi đua, khen thưởng, cụ thể:
+i) Có thành tích xuất sắc được bình xét trong phong trào thi đua;
+ii) Lập được thành tích xuất sắc đột xuất, có phạm vi ảnh hưởng trong từng lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+iii) Có đóng góp vào sự phát triển kinh tế - xã hội, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
+iv) Có 02 năm liên tục được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc” hoặc “Đơn vị quyết thắng”, thực hiện tốt dân chủ ở cơ sở, tổ chức tốt các phong trào thi đua; chăm lo đời sống vật chất, tinh thần trong tập thể; thực hành tiết kiệm, chống lãng phí; phòng, chống tham nhũng, tiêu cực.
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho các tập thể, cá nhân ngoài ngành Ngân hàng gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, có nhiều thành tích đóng góp trực tiếp, thiết thực cho hoạt động của ngành Ngân hàng.
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho hộ gia đình gương mẫu chấp hành tốt chủ trương của Đảng, chính sách pháp luật của Nhà nước có nhiều đóng góp về công sức, vật chất đất đai và tài sản cho ngành Ngân hàng.
+Theo quy định tại Điều 10 Thông tư số 25/2023/TT-NHNN:
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng hoặc truy tặng cho cá nhân gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, quy định, quy chế của ngành Ngân hàng, địa phương, của đơn vị và đạt một trong các tiêu chuẩn quy định tại điểm a, b, c, d khoản 1 Điều 74 Luật Thi đua, khen thưởng, cụ thể: 
+i) Có thành tích xuất sắc được bình xét trong các phong trào thi đua do Bộ, ban, ngành, tỉnh phát động;
+ii) Lập được nhiều thành tích hoặc thành tích đột xuất, có phạm vi ảnh hưởng ở một trong các lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+iii) Có đóng góp vào sự phát triển kinh tế - xã hội, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
+iv) Có 02 lần liên tục được tặng danh hiệu “Chiến sĩ thi đua cơ sở” hoặc có liên tục từ 02 năm trở lên được công nhận hoàn thành xuất sắc nhiệm vụ, trong thời gian đó có 02 sáng kiến được công nhận và áp dụng có hiệu quả trong phạm vi cơ sở hoặc có 02 đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả trong phạm vi cơ sở; 
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho cá nhân có thời gian công tác trong ngành Ngân hàng từ 25 năm trở lên đối với nam và 20 năm trở lên đối với nữ, 05 năm liên tục liền kề trước thời điểm nghỉ hưu hoàn thành tốt nhiệm vụ được giao, trong quá trình công tác không bị kỷ luật và chưa được khen thưởng Bằng khen của Thống đốc hoặc các hình thức khen thưởng cấp Nhà nước.
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để truy tặng cho cá nhân có hành động dũng cảm cứu người, cứu tài sản bị hy sinh trong quá trình thực hiện nhiệm vụ được giao liên quan đến hoạt động ngân hàng.
+	- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho tập thể gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, của ngành Ngân hàng, quy định, quy chế của ngành Ngân hàng, địa phương, của đơn vị, nội bộ đoàn kết và đạt một trong các tiêu chuẩn quy định tại khoản 3 Điều 74 Luật Thi đua, khen thưởng, cụ thể:
+i) Có thành tích xuất sắc được bình xét trong phong trào thi đua;
+ii) Lập được thành tích xuất sắc đột xuất, có phạm vi ảnh hưởng trong từng lĩnh vực thuộc phạm vi quản lý của Bộ, ban, ngành, tỉnh;
+iii) Có đóng góp vào sự phát triển kinh tế - xã hội, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
+iv) Có 02 năm liên tục được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc” hoặc “Đơn vị quyết thắng”, thực hiện tốt dân chủ ở cơ sở, tổ chức tốt các phong trào thi đua; chăm lo đời sống vật chất, tinh thần trong tập thể; thực hành tiết kiệm, chống lãng phí; phòng, chống tham nhũng, tiêu cực.
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho các tập thể, cá nhân ngoài ngành Ngân hàng gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, có nhiều thành tích đóng góp trực tiếp, thiết thực cho hoạt động của ngành Ngân hàng.
+- “Bằng khen của Thống đốc Ngân hàng Nhà nước” để tặng cho hộ gia đình gương mẫu chấp hành tốt chủ trương của Đảng, chính sách pháp luật của Nhà nước có nhiều đóng góp về công sức, vật chất đất đai và tài sản cho ngành Ngân hàng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dược thuộc thẩm quyền của Sở Y tế (Cơ sở bán buôn thuốc, nguyên liệu làm thuốc; Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp Giấy chứng nhận đủ điều kiện kinh doanh dược bị mất, hư hỏng.|
+|Trực tiếp|07 Ngày làm việc||07 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp cấp lại do lỗi của cơ quan cấp Giấy chứng nhận đủ điều kiện kinh doanh dược.|
+|Dịch vụ bưu chính|15 Ngày||15 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp Giấy chứng nhận đủ điều kiện kinh doanh dược bị mất, hư hỏng.|
+|Dịch vụ bưu chính|07 Ngày làm việc||07 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp cấp lại do lỗi của cơ quan cấp Giấy chứng nhận đủ điều kiện kinh doanh dược.|

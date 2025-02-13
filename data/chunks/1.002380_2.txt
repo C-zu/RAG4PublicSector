@@ -1,0 +1,25 @@
+Tên thủ tục: Đăng ký thay đổi tài sản gắn liền với đất vào Giấy chứng nhận đã cấp.(643)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trực tiếp
+(1) Người sử dụng đất nộp hồ sơ tại Văn phòng đăng ký quyền sử dụng đất thuộc Sở Tài nguyên và Môi trường hoặc cơ quan tiếp nhận hồ sơ và trả kết quả theo quy định của Ủy ban nhân dân cấp tỉnh.
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định. 
+(2) Cơ quan tiếp nhận hồ sơ ghi đầy đủ thông tin vào Sổ tiếp nhận hồ sơ và trả kết quả, trao Phiếu tiếp nhận hồ sơ và trả kết quả cho người nộp hồ sơ; chuyển hồ sơ đến Văn phòng đăng ký quyền sử dụng đất.
+(3) Văn phòng đăng ký quyền sử dụng đất thực hiện các công việc như sau:
+- Kiểm tra, xác nhận sơ đồ tài sản gắn liền với đất đối với tổ chức trong nước, cơ sở tôn giáo, tổ chức nước ngoài, cá nhân nước ngoài, người Việt Nam định cư ở nước ngoài thực hiện dự án đầu tư mà sơ đồ đó chưa có xác nhận của tổ chức có tư cách pháp nhân về hoạt động xây dựng hoặc hoạt động đo đạc bản đồ;
+- Gửi phiếu lấy ý kiến cơ quan quản lý nhà nước đối với loại tài sản đăng ký đối với trường hợp chủ sở hữu tài sản gắn liền với đất không có giấy tờ hoặc hiện trạng tài sản có thay đổi so với giấy tờ theo quy định. Cơ quan quản lý nhà nước đối với tài sản gắn liền với đất có trách nhiệm trả lời bằng văn bản cho Văn phòng đăng ký quyền sử dụng đất trong thời hạn không quá 05 ngày làm việc.
+(4) Văn phòng đăng ký quyền sử dụng đất thực hiện các công việc như sau:
+- Cập nhật thông tin vào hồ sơ địa chính, cơ sở dữ liệu đất đai (nếu có);
+- Gửi số liệu địa chính đến cơ quan thuế để xác định và thông báo thu nghĩa vụ tài chính (trừ trường hợp không thuộc đối tượng phải nộp nghĩa vụ tài chính hoặc được ghi nợ theo quy định của pháp luật); chuẩn bị hồ sơ để cơ quan tài nguyên và môi trường trình ký cấp Giấy chứng nhận.
+(5) Cơ quan tài nguyên và môi trường thực hiện các công việc sau:
+- Kiểm tra hồ sơ và trình cơ quan có thẩm quyền cấp Giấy chứng nhận;
+- Chuyển hồ sơ đã giải quyết cho Văn phòng đăng ký quyền sử dụng đất.
+(6) Văn phòng đăng ký quyền sử dụng đất cập nhật bổ sung việc cấp Giấy chứng nhận vào hồ sơ địa chính, cơ sở dữ liệu đất đai và trao Giấy chứng nhận cho người được cấp cho người được cấp đã nộp chứng từ hoàn thành nghĩa vụ tài chính.
+Xác nhận vào bản chính giấy tờ việc đã cấp Giấy chứng nhận theo quy định.
+(7) Người được cấp Giấy chứng nhận nhận lại bản chính giấy tờ đã được xác nhận cấp Giấy chứng nhận và Giấy chứng nhận.
+Thực hiện thủ tục trên môi trường điện tử
+Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do.
+Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công.
+Cơ quan tiếp nhận hoặc cơ quan giải quyết hồ sơ thông báo cho người yêu cầu thực hiện thủ tục hành chính nộp bản chính Giấy chứng nhận đã cấp, các giấy tờ theo quy định sau khi người sử dụng đất hoàn thành nghĩa vụ tài chính.
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất.

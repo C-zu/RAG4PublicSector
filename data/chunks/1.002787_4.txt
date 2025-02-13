@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Sổ thuyền viên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ:
+- 01 Bản chính - Tờ khai đề nghị cấp lại Sổ thuyền viên theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedb93a5087c092'">Mẫu Tờ khai đề nghị cấp, cấp lại Sổ thuyền viên.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính giấy tờ có giá trị pháp lý chứng minh sự điều chỉnh đối với trường hợp thay đổi thông tin;
+- 02 Bản chính - Hai (02) ảnh màu (đối với trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính), 01 tệp (file) ảnh (đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến), cỡ 4cm x 6cm, theo kiểu chụp ảnh căn cước công dân, chụp trong vòng 06 tháng trước ngày nộp hồ sơ.

@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp chủ điểm là cá nhân
+- 01 Bản chính Đơn đề nghị cấp lại giấy chứng nhận đủ điều kiện hoạt động trò chơi điện tử công cộng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe83cd67c8737bc'">Mẫu số 12. ĐƠN ĐỀ NGHỊ CẤP LẠI GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM.doc</a>)
+
+
+Trường hợp chủ điểm là tổ chức
+- 01 Bản chính Đơn đề nghị cấp lại giấy chứng nhận đủ điều kiện hoạt động trò chơi điện tử công cộng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c332b2cc2d5b'">Mẫu số 13. ĐƠN ĐỀ NGHỊ CẤP LẠI GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM.doc</a>)

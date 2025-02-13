@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định kế hoạch lựa chọn Nhà đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Tờ trình đề nghị phê duyệt nội dung kế hoạch lựa chọn nhà đầu tư;
+- 02 Bản chính Báo cáo thẩm định;
+- 02 Bản sao Các tài liệu liên quan cần thiết khác.

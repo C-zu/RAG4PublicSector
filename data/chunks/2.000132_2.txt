@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tham gia Hệ thống mạng đấu thầu quốc gia đối với nhà thầu, nhà đầu tư
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Đăng ký thông tin nhà thầu, nhà đầu tư trên mạng
++ Nhà thầu, nhà đầu tư đăng ký các thông tin của đơn vị mình trên Hệ thống mạng đấu thầu quốc gia tại địa chỉ https://muasamcong.mpi.gov.vn (Hệ thống);
++ Nhà thầu, nhà đầu tư in đơn đăng ký từ Hệ thống; gửi đính kèm bản scan đơn đăng ký có chữ ký và dấu trên Hệ thống
+-  Bước 2: Nhận kết quả xử lý đơn đăng ký và thông tin tải khoản đăng nhập của Tổ chức tham gia Hệ thống qua thư điện tử.

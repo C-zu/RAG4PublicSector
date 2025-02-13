@@ -1,0 +1,34 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm thuộc thẩm quyền cấp của UBND cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp đề nghị cấp lại do cơ sở thay đổi địa điểm sản xuất, kinh doanh; thay đổi, bổ sung quy trình sản xuất, mặt hàng kinh doanh và khi Giấy chứng nhận hết hiệu lực
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm theo biểu mẫu BM.ATTP.02.02 đối với cơ sở sản xuất; biểu mẫu BM.ATTP.02.03 đối với cơ sở kinh doanh hoặc cả biểu mẫu BM.ATTP.02.02 và BM.ATTP.02.03 đối với cơ sở vừa sản xuất vừa kinh doanh
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đủ sức khỏe/Danh sách tổng hợp xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở y tế cấp huyện trở lên cấp (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm/Giấy xác nhận kiến thức an toàn thực phẩm của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm (bản sao có xác nhận của cơ sở).
+- 01 Bản chính, 01 Bản sao Trường hợp đề nghị cấp lại do Giấy chứng nhận bị mất hoặc bị hỏng
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Trường hợp đề nghị cấp lại do thay đổi chủ cơ sở nhưng không thay đổi tên cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đã được cấp (bản sao có xác nhận của cơ sở);
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đủ sức khỏe của chủ cơ sở do cơ sở y tế cấp huyện trở lên cấp (bản sao có xác nhận của cơ sở);
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm/Giấy xác nhận kiến thức an toàn thực phẩm của chủ cơ sở (bản sao có xác nhận của cơ sở).
+- 01 Bản chính, 01 Bản sao Trường hợp đề nghị cấp lại do cơ sở có thay đổi tên cơ sở nhưng không thay đổi chủ cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đã được cấp (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm theo biểu mẫu BM.ATTP.02.02 đối với cơ sở sản xuất; biểu mẫu BM.ATTP.02.03 đối với cơ sở kinh doanh hoặc cả biểu mẫu BM.ATTP.02.02 và BM.ATTP.02.03 đối với cơ sở vừa sản xuất vừa kinh doanh
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đủ sức khỏe/Danh sách tổng hợp xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở y tế cấp huyện trở lên cấp (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm/Giấy xác nhận kiến thức an toàn thực phẩm của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Trường hợp đề nghị cấp lại do Giấy chứng nhận bị mất hoặc bị hỏng
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Trường hợp đề nghị cấp lại do thay đổi chủ cơ sở nhưng không thay đổi tên cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đã được cấp (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đủ sức khỏe của chủ cơ sở do cơ sở y tế cấp huyện trở lên cấp (bản sao có xác nhận của cơ sở)
+- 01 Bản chính, 01 Bản sao Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm/Giấy xác nhận kiến thức an toàn thực phẩm của chủ cơ sở (bản sao có xác nhận của cơ sở).
+- 01 Bản chính, 01 Bản sao Trường hợp đề nghị cấp lại do cơ sở có thay đổi tên cơ sở nhưng không thay đổi chủ cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại Giấy chứng nhận theo biểu mẫu BM.ATTP.02.01 BM.ATTP.02.01.
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đã được cấp (bản sao có xác nhận của cơ sở)

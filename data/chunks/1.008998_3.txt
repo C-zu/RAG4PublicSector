@@ -1,0 +1,8 @@
+Tên thủ tục: Quyết định công nhận Ban vận động thành lập Hội (đối với hoạt động trong lĩnh vực quản lý Nhà nước của Sở LĐTBXH)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|04 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận TN&TKQ - Sở LĐ-TB&XH hoặc gửi hồ sơ qua đường buu điện|
+|Dịch vụ bưu chính|04 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận TN&TKQ - Sở LĐ-TB&XH hoặc gửi hồ sơ qua đường buu điện|

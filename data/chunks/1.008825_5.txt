@@ -1,0 +1,28 @@
+Tên thủ tục: Thẩm định, phê duyệt nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình không theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND thành phố
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Xây dựng TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+UBND Thành phố Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả Sở Xây dựng, Trung tâm Hành Chính thành phố Đà Nẵng, số 24 Trần Phú, phường Thạch Thang, quận Hải châu, thành phố Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Báo cáo thẩm định nhiệm vụ, nhiệm vụ điều chỉnh đồ án quy hoạch chi tiết của Sở Xây dựng và Quyết định phê duyệt nhiệm vụ đồ án, đồ án điều chỉnh quy hoạch chi tiết của UBND thành phố.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|30/2009/QH12|Luật 30/2009/QH12|17-06-2009||
+|44/2015/NĐ-CP|Nghị định 44/2015/NĐ-CP|06-05-2015|Chính phủ|
+|37/2010/NĐ-CP|Nghị định 37/2010/NĐ-CP|07-04-2010||
+|12/2016/TT-BXD|12/2016/TT-BXD|29-06-2016|Vụ Quy hoạch - Kiến trúc|
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|20/2019/TT-BXD|Thông tư 20/2019/TT-BXD|31-12-2019||
+|35/2018/QH14|Luật 35/2018/QH14|20-11-2018||
+|1167/QĐ-UBND|Về việc công bố sửa đổi, bổ sung một số thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Xây dựng thành phố Đà Nẵng|05-06-2023|Chủ tịch ủy ban nhân dân cấp tỉnh|

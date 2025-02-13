@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chuyển đổi mục đích sử dụng, di dời tháo dỡ công trình quốc phòng và khu quân sự thuộc nhóm II, Nhóm III
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Lệ phí : 0 Đồng|30 ngày kể từ khi nhận đủ hồ sơ quy định. Cách thức thực hiện: Cơ quan, tổ chức gửi hồ sơ về Cục Tác chiến/BTTM và đơn vị quản lý công trình quốc phòng và khu quân sự cấp quân khu và tương đương.|
+|Dịch vụ bưu chính|30 Ngày làm việc|Lệ phí : 0 Đồng|30 ngày kể từ khi nhận đủ hồ sơ quy định. Cách thức thực hiện: Cơ quan, tổ chức gửi hồ sơ về Cục Tác chiến/BTTM và đơn vị quản lý công trình quốc phòng và khu quân sự cấp quân khu và tương đương.|

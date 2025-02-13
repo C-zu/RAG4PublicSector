@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký lại phương tiện trong trường hợp chuyển từ cơ quan đăng ký khác sang cơ quan đăng ký phương tiện thủy nội địa
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tổ chức, cá nhân nộp hồ sơ tại Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.

@@ -1,0 +1,12 @@
+Tên thủ tục: Đánh giá nghiệm thu kết quả thực hiện nhiệm vụ môi trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 09 Bản sao Báo cáo tổng kết theo mẫu
+- 01 Bản chính, 09 Bản sao Công văn đề nghị nghiệm thu nhiệm vụ môi trường;
+- 01 Bản chính, 09 Bản sao Báo cáo tự đánh giá kết quả thực hiện nhiệm vụ môi trường theo mẫu;
+- 01 Bản chính, 09 Bản sao Các sản phẩm của nhiệm vụ.
+- 01 Bản chính, 09 Bản sao - Báo cáo tự đánh giá kết quả thực hiện nhiệm vụ môi trường theo mẫu B12.BCTĐG-NVMT.
+- 01 Bản chính, 09 Bản sao - Báo cáo tổng kết (theo mẫu B14.BCTK-NVMT)

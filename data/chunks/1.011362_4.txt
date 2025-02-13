@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tặng Thư khen của Chủ tịch Ủy ban nhân dân thành phố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình của các cơ quan, đơn vị, địa phương thuộc thành phố (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe41e719af2c893'">Mẫu số 10.docx</a>)
+- 01 Bản chính Tóm tắt thành tích của các tập thể, cá nhân, trong đó ghi rõ hành động, thành tích, công trạng để đề nghị khen thưởng theo thủ tục đơn giản (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbae7dea382bcc8'">Mẫu số 06.docx</a>)

@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp mới số lưu hành đối với trang thiết bị y tế là phương tiện đo nhưng không phải phê duyệt mẫu theo quy định của pháp luật về đo lường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp số lưu hành nộp hồ sơ tại Bộ Y tế (Vụ Trang thiết bị và Công trình Y tế).
+Bước 2: Khi nhận hồ sơ đầy đủ, hợp lệ, Bộ Y tế cấp cho cơ sở đề nghị cấp số lưu hành Phiếu tiếp nhận hồ sơ đề nghị cấp số lưu hành trang thiết bị y tế theo mẫu số 04 quy định tại Phụ lục IV ban hành kèm theo Nghị định số 36/2016/NĐ-CP.
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ đăng ký lưu hành, Bộ trưởng Bộ Y tế có trách nhiệm: Tổ chức thẩm định để cấp mới số lưu hành trong thời hạn 60 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ. Trường hợp không cấp mới số lưu hành phải có văn bản trả lời và nêu rõ lý do;
+Trường hợp hồ sơ đề nghị cấp số lưu hành chưa hoàn chỉnh thì Bộ Y tế phải có văn bản thông báo cho cơ sở đề nghị cấp mới số lưu hành để bổ sung, sửa đổi hồ sơ, trong đó phải nêu cụ thể là bổ sung những tài liệu nào, nội dung nào cần sửa đổi trong thời hạn 15 ngày làm việc.
+Trường hợp hội đồng thẩm định yêu cầu sửa đổi, bổ sung hồ sơ thì trong thời hạn 10 ngày làm việc, kể từ ngày có biên bản họp hội đồng, Bộ Y tế có văn bản thông báo cho cơ sở đề nghị cấp số lưu hành để bổ sung hồ sơ. Văn bản thông báo phải nêu cụ thể là bổ sung những tài liệu nào, nội dung nào cần sửa đổi.
+Bước 3: Khi nhận được văn bản yêu cầu bổ sung, sửa đổi hồ sơ đề nghị cấp số lưu hành, cơ sở đề nghị cấp số lưu hành phải bổ sung, sửa đổi theo đúng những nội dung đã được ghi trong văn bản và gửi về Bộ Y tế. Ngày tiếp nhận hồ sơ bổ sung, sửa đổi được ghi trên Phiếu tiếp nhận hồ sơ.
+Sau 60 ngày, kể từ ngày Bộ Y tế có văn bản yêu cầu mà cơ sở không bổ sung, sửa đổi hồ sơ thì phải thực hiện lại từ đầu thủ tục đề nghị cấp số lưu hành.
+Bước 4: Trong thời hạn 03 ngày làm việc, kể từ ngày cấp số lưu hành, Bộ Y tế có trách nhiệm công khai trên cổng thông tin điện tử của Bộ Y tế các thông tin sau:
+a) Tên, phân loại, cơ sở sản xuất, nước sản xuất trang thiết bị y tế;
+b) Số lưu hành của trang thiết bị y tế;
+c) Tên, địa chỉ của chủ sở hữu trang thiết bị y tế;
+d) Tên, địa chỉ của chủ sở hữu số lưu hành;
+đ) Tên, địa chỉ của cơ sở bảo hành trang thiết bị y tế;

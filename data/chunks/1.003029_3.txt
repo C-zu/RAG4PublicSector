@@ -1,0 +1,7 @@
+Tên thủ tục: Công bố tiêu chuẩn áp dụng đối với trang thiết bị y tế thuộc loại A, B
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|01 Ngày|Phí : 1.000.000 Đồng Phí thẩm định công bố trang thiết bị y tế loại A  Phí : 3.000.000 Đồng Phí thẩm định công bố trang thiết bị y tế loại B|01 ngày|

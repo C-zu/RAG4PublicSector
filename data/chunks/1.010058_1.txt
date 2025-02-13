@@ -1,0 +1,16 @@
+Tên thủ tục: Trình tự xác định tiền thuê đất, thuê mặt nước (gọi chung là tiền thuê đất).
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010058
+Số quyết định:
+2069/QĐ-BTC
+Tên thủ tục:
+Trình tự xác định tiền thuê đất, thuê mặt nước (gọi chung là tiền thuê đất).
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý công sản

@@ -1,0 +1,27 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao đối với môn Lặn biển thể thao giải trí
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cơ quan chuyên môn về thể dục, thể thao thuộc Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao đối với môn Lặn biển thể thao giải trí
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|77/2006/QH11|Luật 77/2006/QH11|11-11-2006|Quốc Hội|
+|97/2015/QH13|Luật 97/2015/QH13|25-11-2015|Quốc Hội|
+|21/2018/TT-BVHTTDL|Thông tư 21/2018/TT-BVHTTDL|05-04-2018|Bộ Văn hóa, Thể thao và Du lịch|
+|36/2019/NĐ-CP|Nghị định 36/2019/NĐ-CP|29-04-2019|Chính phủ|
+|26/2018/QH14|Luật 26/2018/QH14|14-06-2018|Quốc Hội|
+|04/2019/TT-BVHTTDL|Thông tư 04/2019/TT-BVHTTDL ngày 17/7/2019|17-07-2019||
+|31/2024/NĐ-CP|Nghị định Chính phủ|15-03-2024|Chính phủ|

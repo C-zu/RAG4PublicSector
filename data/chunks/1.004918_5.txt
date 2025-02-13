@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện sản xuất, ương dưỡng giống thuỷ sản (trừ cơ sở sản xuất, ương dưỡng giống thủy sản bố mẹ, cơ sở sản xuất, ương dưỡng đồng thời giống thủy sản bố mẹ và giống thủy sản không phải là giống thủy sản bố mẹ)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan quản lý nhà nước về thủy sản cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận cơ sở đủ điều kiện sản xuất, ương dưỡng giống thủy sản theo Mẫu số 04 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|26/2019/NĐ-CP|Nghị định 26/2019/NĐ-CP|08-03-2019|Chính phủ|
+|105/2022/NĐ-CP|Nghị định số 105/2022/NĐ-CP ngày 22 tháng 12 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn;|22-12-2022|Chính phủ|
+|Nghị định số 37/2024/NĐ-CP|Nghị định số 37/2024/NĐ-CP ngày 04/4/2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2019/NĐ-CP ngày 08/3/2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thủy sản.|04-04-2024|Chính phủ|

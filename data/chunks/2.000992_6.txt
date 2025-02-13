@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký người dịch mà người dịch là cộng tác viên dịch thuật của Phòng Tư pháp
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch:
++ Giấy tờ, văn bản đã bị tẩy xóa, sửa chữa; thêm, bớt nội dung không hợp lệ.
++ Giấy tờ, văn bản bị hư hỏng, cũ nát không xác định được nội dung.
++ Giấy tờ, văn bản đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được dịch.
++ Giấy tờ, văn bản có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận chưa được hợp pháp hóa lãnh sự theo quy định tại Khoản 1 Điều 20 của Nghị định số 23/2015/NĐ-CP, trừ giấy hộ chiếu, thẻ căn cước, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ.
+Giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch:
++ Giấy tờ, văn bản đã bị tẩy xóa, sửa chữa; thêm, bớt nội dung không hợp lệ.
++ Giấy tờ, văn bản bị hư hỏng, cũ nát không xác định được nội dung.
++ Giấy tờ, văn bản đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được dịch.
++ Giấy tờ, văn bản có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận chưa được hợp pháp hóa lãnh sự theo quy định tại Khoản 1 Điều 20 của Nghị định số 23/2015/NĐ-CP, trừ giấy hộ chiếu, thẻ căn cước, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

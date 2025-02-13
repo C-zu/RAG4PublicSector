@@ -1,0 +1,16 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu hoàn thành công trình (đối với các công trình trên địa bàn thuộc trách nhiệm quản lý của Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành, trừ các công trình thuộc thẩm quyền kiểm tra của Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng và cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010888
+Số quyết định:
+807/QĐ-UBND
+Tên thủ tục:
+Kiểm tra công tác nghiệm thu hoàn thành công trình (đối với các công trình trên địa bàn thuộc trách nhiệm quản lý của Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành, trừ các công trình thuộc thẩm quyền kiểm tra của Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng và cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý chất lượng công trình xây dựng

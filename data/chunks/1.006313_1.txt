@@ -1,0 +1,16 @@
+Tên thủ tục: Nhóm thủ tục liên thông đăng ký hộ kinh doanh và đăng ký thuế
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006313
+Số quyết định:
+2505/QĐ-UBND
+Tên thủ tục:
+Nhóm thủ tục liên thông đăng ký hộ kinh doanh và đăng ký thuế
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động doanh nghiệp (hộ kinh doanh), Thuế

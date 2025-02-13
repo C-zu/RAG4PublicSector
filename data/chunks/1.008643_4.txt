@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép cho phương tiện vận tải phục vụ giải quyết sự cố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép theo mẫu Phụ lục KCHT-05 hoặc văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9e21678bfc966'">PL_KCHT5.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Giấy tờ phương tiện (Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu): Giấy chứng nhận đăng ký xe, sổ kiểm định kỹ thuật
+- 01 Bản chính, 01 Bản sao 3. Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu giấy chứng nhận đăng ký kinh doanh, hợp đồng thuê xe (đối với xe thuê).

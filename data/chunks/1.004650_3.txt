@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục tiếp nhận hồ sơ thông báo sản phẩm quảng cáo trên bảng quảng cáo, băng-rôn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao có ý kiến trả lời bằng văn bản cho tổ chức, cá nhân thông báo sản phẩm quảng cáo. Trường hợp không đồng ý với các nội dung trong hồ sơ thông báo sản phẩm quảng cáo của tổ chức, cá nhân, Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao phải trả lời, nêu rõ lý do và yêu cầu nội dung cần chỉnh sửa.|

@@ -1,0 +1,7 @@
+Tên thủ tục: Cho thuê nhà ở cũ thuộc sở hữu nhà nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||không quá 30 ngày, kể từ ngày cơ quản tiếp nhận hồ sơ nhận đủ hồ sơ hợp lệ.|

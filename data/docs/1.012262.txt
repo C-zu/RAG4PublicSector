@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012262
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Xếp cấp chuyên môn kỹ thuật
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: 
+Bệnh viện đề nghị xếp cấp nộp 01 bộ hồ sơ quy định tại khoản 1 Điều này cho cơ quan quy định tại khoản 3 Điều này.
+Bước 2: 
+Sau khi tiếp nhận hồ sơ, cơ quan tiếp nhận hồ sơ cấp cho cơ sở đề nghị phiếu tiếp nhận hồ sơ theo Mẫu 02 Phụ lục I ban hành kèm theo Nghị định số 96/2023/NĐ-CP
+Bước 3: 
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, cơ quan quy định tại khoản 3 Điều này ban hành văn bản xếp cấp trong thời hạn 60 ngày, kể từ ngày ghi trên phiếu tiếp nhận hồ sơ.
+Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, cơ quan quy định tại khoản 3 Điều này ban hành văn bản đề nghị sửa đổi, bổ sung hồ sơ trong thời hạn 10 ngày, kể từ ngày ghi trên phiếu tiếp nhận hồ sơ, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung. Sau khi sửa đổi, bổ sung hồ sơ, bệnh viện đề nghị xếp cấp gửi văn bản kèm theo tài liệu chứng minh đã hoàn thành việc sửa đổi, bổ sung.
+Bước 4: 
+Sau khi nhận được hồ sơ sửa đổi, bổ sung, cơ quan quy định tại khoản 3 Điều này có trách nhiệm thực hiện trình tự theo quy định:
+- Tại điểm c khoản này đối với trường hợp không còn có yêu cầu sửa đổi, bổ sung;
+- Tại điểm d, đ khoản này đối với trường hợp cơ sở đã sửa đổi, bổ sung nhưng chưa đáp ứng yêu cầu.
+Bước 5: 
+Trong thời hạn 05 ngày làm việc, kể từ ngày xếp cấp, cơ quan quy định tại khoản 3 Điều này công bố trên Cổng thông tin điện tử của cơ quan và trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh của Bộ Y tế các thông tin sau: tên, địa chỉ cơ sở được xếp cấp và cấp chuyên môn kỹ thuật của cơ sở đó.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày||60 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+|Trực tuyến|60 Ngày||60 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|60 Ngày||60 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị xếp cấp
+- 01 Bản chính 2. Bảng tự chấm điểm theo tiêu chí và nội dung đánh giá quy định tại Phụ lục V ban hành kèm theo Nghị định số 96/2023/NĐ-CP
+- 01 Bản chính 3. Các tài liệu, số liệu thống kê minh chứng điểm số đạt được;
+- 01 Bản chính 4. Các tài liệu khác có liên quan
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc xếp cấp chuyên môn kỹ thuật
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2023/QH15|Luật Khám, chữa bệnh|30-01-2023|Ủy ban thường vụ quốc hội|
+|96/2023/NĐ-CP|Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.|30-12-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Không quy định
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

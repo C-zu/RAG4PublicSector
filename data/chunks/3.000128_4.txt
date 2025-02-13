@@ -1,0 +1,14 @@
+Tên thủ tục: Công bố thông tin sản phẩm thức ăn bổ sung nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố thông tin sản phẩm.
+- 01 Bản chính - Giấy chứng nhận lưu hành tự do hoặc văn bản có giá trị tương đương do cơ quan có thẩm quyền của nước xuất xứ cấp.
+- 01 Bản chính - Một trong các giấy chứng nhận Hệ thống quản lý chất lượng (ISO), Thực hành sản xuất tốt (GMP), Phân tích nguy cơ và kiểm soát điểm tới hạn (HACCP) hoặc giấy chứng nhận tương đương của cơ sở sản xuất.
+- 01 Bản chính - Bản thông tin sản phẩm do nhà sản xuất cung cấp bao gồm thành phần nguyên liệu, công dụng, hướng dẫn sử dụng; chỉ tiêu chất lượng, chỉ tiêu an toàn theo quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn.
+- 01 Bản chính - Bản tiêu chuẩn công bố áp dụng của tổ chức, cá nhân đăng ký theo quy định của pháp luật về chất lượng sản phẩm hàng hóa; nhãn phụ của sản phẩm thể hiện bằng tiếng Việt theo quy định.
+- 01 Bản chính - Phiếu kết quả thử nghiệm các chỉ tiêu chất lượng và an toàn sản phẩm được cấp bởi phòng thử nghiệm do cơ quan có thẩm quyền của nước xuất xứ chỉ định hoặc được công nhận bởi tổ chức công nhận quốc tế hoặc tổ chức công nhận khu vực hoặc phòng thử nghiệm do Bộ Nông nghiệp và Phát triển nông thôn chỉ định hoặc thừa nhận.
+- 01 Bản chính - Mẫu của nhãn sản phẩm do nhà sản xuất cung cấp.
+- 01 Bản chính Hồ sơ là bản chính hoặc bản sao có chứng thực và bản dịch ra tiếng Việt có chứng thực.

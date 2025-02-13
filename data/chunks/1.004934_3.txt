@@ -1,0 +1,9 @@
+Tên thủ tục: Chứng nhận hợp quy, cấp lại giấy chứng nhận hợp quy áp dụng đối với sản phẩm sản xuất trong nước của các đơn vị đã có chứng chỉ chứng nhận hệ thống quản lý chất lượng sản phẩm và sản phẩm nhập khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày|Mức giá : theo thỏa thuận|tới địa chỉ do Cục Viễn thông đăng tải trên Trang thông tin điện tử của Cục Viễn thông: vnta.gov.vn|
+|Trực tuyến|7 Ngày|Mức giá : theo thỏa thuận|tới địa chỉ do Cục Viễn thông đăng tải trên Trang thông tin điện tử của Cục Viễn thông: vnta.gov.vn|
+|Dịch vụ bưu chính|7 Ngày|Mức giá : theo thỏa thuận|do Cục Viễn thông đăng tải, hướng dẫn trên Trang thông tin điện tử của Cục Viễn thông: vnta.gov.vn|

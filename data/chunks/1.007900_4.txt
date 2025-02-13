@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục lựa chọn Ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Công văn đăng ký tham gia đại lý hoàn thuế giá trị gia tăng cho người nước ngoài;
+- 01 Bản sao + Văn bản của Ngân hàng nhà nước cấp cho ngân hàng thương mại được hoạt động ngoại hối và cung ứng dịch vụ ngoại hối: 01 bản chụp có đóng dấu xác nhận của ngân hàng thương mại.

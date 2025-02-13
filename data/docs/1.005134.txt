@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005134
+Số quyết định:
+1427/QĐ-BGTVT
+Tên thủ tục:
+Cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ đầu tư dự án nộp trực tiếp hoặc qua đường bưu điện hoặc nộp qua môi trường điện tử hồ sơ đề nghị cấp giấy phép xây dựng công trình thiết yếu về cơ quan cấp giấy phép:
+- Cục Đường sắt Việt Nam đối với trường hợp xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt quốc gia.
+- Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với trường hợp xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt đô thị.
+Trường hợp thực hiện trên môi trường điện tử chủ đầu tư dự án, chủ quản lý, sử dụng đường ngang có nhu cầu xây dựng, cải tạo, nâng cấp đường ngang thực hiện trên địa chỉ website: https://dichvucong.mt.gov.vn.
+b) Giải quyết TTHC:
+- Trường hợp nộp hồ sơ trực tiếp, cơ quan có thẩm quyền cấp giấy phép trả kết quả trong ngày làm việc về thành phần hồ sơ đề nghị cấp giấy phép.
+- Trường hợp nộp hồ sơ qua đường bưu điện hoặc thực hiện qua môi trường điện tử, nếu thành phần hồ sơ chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, cơ quan có thẩm quyền cấp giấy phép thông báo bằng văn bản hướng dẫn hoàn thiện hồ sơ.
+- Trong thời hạn 02 ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ theo quy định, cơ quan có thẩm quyền cấp giấy phép gửi hồ sơ đến các cơ quan, đơn vị liên quan để lấy ý kiến:
++ Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt khi xây dựng công trình trong phạm vi đất dành cho đường sắt quốc gia;
++ Doanh nghiệp kinh doanh đường sắt đô thị và các cơ quan chuyên môn theo phân cấp của Ủy ban nhân dân cấp tỉnh khi xây dựng công trình trong phạm vi đất dành cho đường sắt đô thị.
+- Trong vòng 05 ngày làm việc kể từ thời điểm cơ quan có thẩm quyền cấp giấy phép xây dựng có văn bản lấy ý kiến, cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời bằng văn bản.
+- Giấy phép xây dựng được cấp theo mẫu quy định. Trường hợp không ban hành giấy phép, cơ quan có thẩm quyền cấp giấy phép có văn bản trả lời, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|10 Ngày làm việc||10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp giấy phép xây dựng theo mẫu quy định tại Phụ lục 14 của Thông tư này ([1.005134 mẫu đơn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5cf92d95316bd'))
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử): Quyết định phê duyệt dự án hoặc văn bản giao nhiệm vụ chủ đầu tư công trình
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Quyết định phê duyệt thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công; ảnh chụp hiện trạng (đối với công trình cải tạo, nâng cấp);
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công đã được phê duyệt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Văn bản pháp lý của cơ quan quản lý nhà nước có thẩm quyền xác định công trình không thể bố trí ngoài phạm vi đất dành cho đường sắt: Tài liệu về quy hoạch được cấp có thẩm quyền phê duyệt hoặc thỏa thuận của ủy ban nhân dân cấp huyện trở lên có liên quan đến việc xây dựng công trình trong phạm vi đất dành cho đường sắt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Tiến độ tổng thể dự án được cấp có thẩm quyền phê duyệt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường điện tử) Phương án tổ chức thi công công trình và biện pháp bảo đảm an toàn giao thông, an toàn công trình trong quá trình thi công.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Địa chỉ tiếp nhận HS:
+- Cục Đường sắt Việt Nam đối với công trình thiết yếu trong phạm vi đất dành cho đường sắt quốc gia. - Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với công trình thiết yếu trong phạm vi đất dành cho đường sắt đô thị
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt, cơ quan quản lý đường bộ
+Kết quả thực hiện:
+Giấy phép xây dựng trong phạm vi đất dành cho đường sắt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2017/QH14|Luật Đường sắt|16-06-2017||
+|TT 29/2023/TT-BGTVT|quy định về đường ngang và cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt|29-09-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

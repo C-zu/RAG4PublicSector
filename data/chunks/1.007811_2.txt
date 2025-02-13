@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục tham vấn trị giá đối với hàng hóa xuất khẩu, nhập khẩu (cấp Cục hải quan)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: tổ chức, cá nhân khai hải quan nộp hồ sơ đề nghị tham vấn
+- Bước 2: cơ quan hải quan: 
+	+ Tiếp nhận hồ sơ tham vấn
+	+ Kiểm tra hồ sơ, chứng từ do người khai hải quan nộp để làm rõ các dấu hiệu nghi vấn trị giá khai báo
+	+ Lập biên bản tham vấn: ghi rõ kết luận vào biên bản tham vấn theo một trong các trường hợp “không đủ cơ sở bác bỏ trị giá khai báo”, hoặc “đủ  cơ  sở bác bỏ trị giá khai báo”, hoặc “ đủ cơ sở bác bỏ trị giá khai báo nhưng người khai hải quan không chấp nhận”.
+- Bước 3: các bên tham gia tham vấn cùng ký vào biên bản tham vấn

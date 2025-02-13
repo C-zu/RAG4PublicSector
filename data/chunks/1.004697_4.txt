@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện đóng mới, cải hoán tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Hồ sơ cấp Giấy chứng nhận cơ sở đủ điều kiện:
+- 01 Bản chính - Đơn đề nghị theo Mẫu số 01.TC Phụ lục V ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde9c54aeb64df0'">Mẫu số 01.docx</a>)
+- 01 Bản chính - Bản thuyết minh điều kiện cơ sở theo Mẫu số 02.TC Phụ lục V ban hành kèm theo Nghị định số 26/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea0f6320ec7459'">Mẫu số 02.docx</a>)
+
+
+b) Hồ sơ cấp lại Giấy chứng nhận cơ sở đủ điều kiện:
+- 01 Bản chính - Đơn đề nghị cấp lại theo Mẫu số 03.TC Phụ lục V ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7ef6e158feead'">Mẫu số 03.docx</a>)
+- 01 Bản chính - Giấy chứng nhận cơ sở đủ điều kiện đã cấp.

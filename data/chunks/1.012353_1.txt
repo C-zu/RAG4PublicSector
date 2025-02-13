@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012353
+Số quyết định:
+156/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ

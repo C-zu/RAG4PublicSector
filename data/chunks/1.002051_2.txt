@@ -1,0 +1,29 @@
+Tên thủ tục: Đăng ký, điều chỉnh đóng BHXH, BHYT, BHTN, BHTNLĐ, BNN; cấp sổ BHXH, thẻ BHYT
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Lập, nộp hồ sơ
+1. NLĐ
+1.1. NLĐ là người tham gia BHXH bắt buộc, BHYT, BHTN, BHTNLĐ, BNN: Lập hồ sơ theo quy định tại điểm 1 mục Thành phần hồ sơ; nộp hồ sơ cho đơn vị quản lý.
+1.2. Người đi làm việc ở nước ngoài theo hợp đồng: 
+a) Trường hợp đóng qua đơn vị đưa NLĐ đi làm việc ở nước ngoài: Lập hồ sơ theo quy định tại điểm 2 mục Thành phần hồ sơ và nộp hồ sơ, đóng tiền cho đơn vị quản lý.
+b) Trường hợp đóng trực tiếp cho cơ quan BHXH nơi thường trú của NLĐ trước khi đi làm việc ở nước ngoài: Lập hồ sơ theo quy định tại điểm 2 mục Thành phần hồ sơ và nộp hồ sơ, đóng tiền cho cơ quan BHXH.
+c) Đối với NLĐ được gia hạn hợp đồng hoặc ký HĐLĐ mới ngay tại nước tiếp nhận lao động truy nộp sau khi về nước: Lập hồ sơ theo quy định tại điểm 2 mục Thành phần hồ sơ và nộp hồ sơ, đóng tiền cho đơn vị hoặc cho cơ quan BHXH.
+1.3. Người hưởng chế độ phu nhân hoặc phu quân tại cơ quan đại diện Việt Nam ở nước ngoài: Lập hồ sơ theo quy định tại điểm 3 Mục Thành phần hồ sơ và nộp hồ sơ, đóng tiền cho đơn vị quản lý. 
+1.4. Đối với NLĐ và người đang bảo lưu thời gian đóng BHXH bắt buộc còn thiếu tối đa 06 tháng để đủ điều kiện hưởng lương hưu hoặc trợ cấp tuất hàng tháng: NLĐ hoặc thân nhân NLĐ chết lập hồ sơ theo quy định tại điểm 4 Mục Thành phần hồ sơ và nộp hồ sơ, đóng tiền vào quỹ hưu trí và tử tuất cho cơ quan BHXH nơi thường trú hoặc thông qua đơn vị trước khi nghỉ việc.
+1.5. NLĐ có từ 02 sổ BHXH đóng trùng BHXH, BHTN: Lập hồ sơ theo quy định tại điểm 5 mục Thành phần hồ sơ: Nộp hồ sơ trực tiếp cho cơ quan BHXH nơi quản lý hoặc nơi cư trú.
+2. Đơn vị SDLĐ
+2.1. Kê khai hồ sơ theo quy định tại điểm 6 mục Thành phần hồ sơ và nộp cho cơ quan BHXH;
+2.2. Nộp tiền đóng của đơn vị (bao gồm tiền đóng thuộc trách nhiệm của đơn vị SDLĐ và NLĐ), tiền đóng của NLĐ đi làm việc ở nước ngoài theo hợp đồng, tiền đóng của phu quân hoặc phu nhân, tiền đóng của NLĐ còn thiếu tối đa 06 tháng để đủ điều kiện hưởng lương hưu hoặc trợ cấp tuất hàng tháng đóng thông qua đơn vị cho cơ quan BHXH
+Bước 2.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+Bước 3. Nhận kết quả giải quyết
+Nhận kết quả gồm: Sổ BHXH, thẻ BHYT; Quyết định hoàn trả; Tiền hoàn trả thời gian đóng trùng BHXH, BHTN (nếu có).
+Thời hạn giải quyết
+Kể từ ngày cơ quan BHXH nhận đủ hồ sơ theo quy định:
+- Trường hợp cấp sổ BHXH, thẻ BHYT mới: Không quá 05 ngày.
+- Trường hợp tạm dừng đóng vào quỹ hưu trí, tử tuất: Không quá 05 ngày.
+- Trường hợp vi phạm quy định của pháp luật về đóng BHXH, BHYT, BHTN, BHTNLĐ-BNN: Không quá 10 ngày.
+- Trường hợp điều chỉnh tăng tiền lương đóng BHXH, BHYT, BHTN, BHTNLĐ-BNN: Không quá 03 ngày.
+- Trường hợp xác nhận sổ BHXH: Không quá 05 ngày.
+- Trường hợp hoàn trả do đóng trùng BHXH, BHTN: Không quá 10 ngày

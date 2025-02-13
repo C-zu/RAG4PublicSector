@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục khai báo vật liệu hạt nhân nguồn
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận khai báo (vật liệu hạt nhân nguồn)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|Luật 18/2008/QH12-Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|08/2010/TT-BKHCN|Thông tư 08/2010/TT-BKHCN|22-07-2010|Bộ Khoa học và Công nghệ|

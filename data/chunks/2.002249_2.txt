@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ (trừ trường hợp thuộc thẩm quyền của Bộ Khoa học và Công nghệ)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân (bên nhận công nghệ trong trường hợp chuyển giao công nghệ từ nước ngoài vào Việt Nam, chuyển giao công nghệ trong nước hoặc bên giao công nghệ trong trường hợp chuyển giao công nghệ từ Việt Nam ra nước ngoài) thay mặt các bên gửi hồ sơ đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ đến Sở Khoa học và Công nghệ (nơi đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ).
+- Sở Khoa học và Công nghệ xem xét hồ sơ:
++ Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Khoa học và Công nghệ có văn bản đề nghị tổ chức, cá nhân bổ sung hồ sơ theo quy định;
++ Nếu hồ sơ đáp ứng yêu cầu theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Sở Khoa học và Công nghệ cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ.
++ Trường hợp không cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ, Sở Khoa học và Công nghệ có văn bản trả lời và nêu rõ lý do.

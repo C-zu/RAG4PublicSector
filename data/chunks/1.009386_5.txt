@@ -1,0 +1,22 @@
+Tên thủ tục: Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản bản tin (địa phương)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông - TP. Hải Phòng
+Cơ quan có thẩm quyền:
+Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp và nộp qua hệ thống bưu chính đến địa chỉ Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền. - Nộp qua Cổng dịch vụ công: + Cổng dịch vụ công quốc gia (http://dichvucong.gov.vn); hoặc + Cổng dịch vụ công của Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|103/2016/QH13|Luật|05-04-2016|Quốc Hội|
+|41/2020/TT-BTTTT|Thông tư 41/2020/TT-BTTTT|24-12-2020||

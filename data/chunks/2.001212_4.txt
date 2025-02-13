@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp Giấy chứng nhận đăng ký bị hư hỏng:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện theo Mẫu và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe132ae333ee17c'">Mẫu đơn đề nghị CẤP LẠI GIẤY CHỨNG NHẬN ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI GIẢI TRÍ DƯỚI NƯỚC.docx</a>)
+
+
+Trường hợp bị mất Giấy chứng nhận đăng ký:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện theo Mẫu, trong đó nêu rõ lý do và chịu trách nhiệm về tính trung thực nội dung khai báo. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbd3fc9be41f710'">Mẫu đơn đề nghị CẤP LẠI GIẤY CHỨNG NHẬN ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI GIẢI TRÍ DƯỚI NƯỚC.docx</a>)

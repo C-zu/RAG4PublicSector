@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký thuốc bảo vệ thực vật trường hợp thay đổi nhà sản xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy chứng nhận đăng ký thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca8e813268e5ec'">Phu luc II moi.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao chứng thực giấy tờ thỏa thuận chấm dứt uỷ quyền giữa nhà sản xuất được ghi trong Giấy chứng nhận đăng ký thuốc bảo vệ thực vật và tổ chức, cá nhân được ủy quyền đăng ký.
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao chứng thực văn bản xác nhận là nhà sản xuất thuốc bảo vệ thực vật của nhà sản xuất mới do cơ quan quản lý có thẩm quyền của nước sở tại cấp (đối với nhà sản xuất nước ngoài).
+- 01 Bản chính Bản chính giấy ủy quyền đăng ký của nhà sản xuất mới cho tổ chức, cá nhân đăng ký (trường hợp ủy quyền đứng tên đăng ký). Giấy ủy quyền của nhà sản xuất nước ngoài phải được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam, trừ trường hợp được miễn hợp pháp hóa theo các điều ước quốc tế mà Việt Nam là thành viên.
+- 01 Bản chính Tài liệu kỹ thuật thuốc bảo vệ thực vật (theo quy định tại Phụ lục III ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT).
+- 01 Bản chính Bản chính Giấy chứng nhận đăng ký thuốc bảo vệ thực vật đã cấp.
+ 01 bản giấy và 01 bản điện tử định dạng PDF

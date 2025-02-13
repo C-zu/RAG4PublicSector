@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm (tàu cá, cảng cá, cơ sở nuôi trồng thủy sản)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 trường hợp|Phí : 700.000 Đồng/cơ sở|1. Đối với cơ sở chưa được thẩm định, xếp loại: 15 ngày làm việc kể từ ngày nhận đủ hồ sơ 2. Đối với cơ sở đã được thẩm định, xếp loại A hoặc B: 07 ngày làm việc kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|2 trường hợp|Phí : 700.000 Đồng/cơ sở|1. Đối với cơ sở chưa được thẩm định, xếp loại: 15 ngày làm việc kể từ ngày nhận đủ hồ sơ 2. Đối với cơ sở đã được thẩm định, xếp loại A hoặc B: 07 ngày làm việc kể từ ngày nhận đủ hồ sơ|

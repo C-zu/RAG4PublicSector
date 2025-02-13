@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thực hiện việc kê khai tài sản thu nhập
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Khác||Thời gian kê khai chậm nhất là ngày 30 tháng 11 hàng năm; việc kê khai tài sản, thu nhập phải hoàn thành chậm nhất là ngày 31 tháng 12 hàng năm. Việc giao nhận Bản kê khai phải hoàn thành chậm nhất vào ngày 31 tháng 03 của năm sau.|

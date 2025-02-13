@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009802
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
++ Bước 1: Công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán;
+	+ Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh mục hồ sơ theo quy định.
+  + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, trong thời hạn 07 (bẩy) ngày, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài bổ sung hoặc giải trình.
+  + Bước 4: Trong thời hạn 15 (mười lăm) ngày kể khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|15 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|15 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao toán giao dịch chứng khoán - Mẫu số 45 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; + Quyết định của Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty về việc thực hiện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán; + Báo cáo tài chính năm gần nhất được kiểm toán và báo cáo tài chính bán niên gần nhất được soát xét; báo cáo tỷ lệ an toàn tài chính trong 12 tháng gần nhất (đối với công ty chứng khoán) hoặc văn bản cam kết về việc đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về các tổ chức tín dụng trong 12 tháng gần nhất (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài). + Văn bản của Ngân hàng Nhà nước Việt Nam về việc ngân hàng thương mại, chi nhánh ngân hàng nước ngoài đáp ứng quy định về cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán theo quy định của pháp luật về các tổ chức tín dụng
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận 1 cửa Ủy ban Chứng khoán Nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán hoặc Công văn từ chối, nêu rõ lý do
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
++ Là công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán. Ngân hàng thương mại, chi nhánh ngân hàng nước ngoài phải đồng thời đáp ứng quy định về cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán theo quy định của pháp luật về các tổ chức tín dụng.
++ Đáp ứng các điều kiện về vốn điều lệ, vốn chủ sở hữu như sau:
+(i) Đối với thành viên bù trừ trực tiếp: Có vốn điều lệ, vốn chủ sở hữu tối thiểu 1.000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài); hoặc tối thiểu 250 tỷ đồng (đối với công ty chứng khoán);
+(ii) Đối với thành viên bù trừ chung: Có vốn điều lệ, vốn chủ sở hữu tối thiểu 7.000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài); hoặc tối thiểu 900 tỷ đồng (đối với công ty chứng khoán).
++ Đáp ứng tỷ lệ an toàn tài chính như sau:
+(i) Đối với công ty chứng khoán: trích lập đầy đủ các khoản dự phòng theo quy định, hệ số nợ trên vốn chủ sở hữu trên báo cáo tài chính năm gần nhất không quá 05 lần và tỷ lệ vốn khả dụng đạt tối thiểu 260% liên tục trong 12 tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán;
+(ii) Đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài: đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về các tổ chức tín dụng trong 12 tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán.
++ Việc thực hiện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán được Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty thông qua.
++ Không đang trong quá trình tổ chức lại, giải thể, phá sản hoặc tình trạng kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động theo quyết định của cơ quan có thẩm quyền.
++ Là công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán. Ngân hàng thương mại, chi nhánh ngân hàng nước ngoài phải đồng thời đáp ứng quy định về cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán theo quy định của pháp luật về các tổ chức tín dụng.
++ Đáp ứng các điều kiện về vốn điều lệ, vốn chủ sở hữu như sau:
+(i) Đối với thành viên bù trừ trực tiếp: Có vốn điều lệ, vốn chủ sở hữu tối thiểu 1.000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài); hoặc tối thiểu 250 tỷ đồng (đối với công ty chứng khoán);
+(ii) Đối với thành viên bù trừ chung: Có vốn điều lệ, vốn chủ sở hữu tối thiểu 7.000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài); hoặc tối thiểu 900 tỷ đồng (đối với công ty chứng khoán).
++ Đáp ứng tỷ lệ an toàn tài chính như sau:
+(i) Đối với công ty chứng khoán: trích lập đầy đủ các khoản dự phòng theo quy định, hệ số nợ trên vốn chủ sở hữu trên báo cáo tài chính năm gần nhất không quá 05 lần và tỷ lệ vốn khả dụng đạt tối thiểu 260% liên tục trong 12 tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán;
+(ii) Đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài: đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về các tổ chức tín dụng trong 12 tháng gần nhất trước tháng nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán.
++ Việc thực hiện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán được Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty thông qua.
++ Không đang trong quá trình tổ chức lại, giải thể, phá sản hoặc tình trạng kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động theo quyết định của cơ quan có thẩm quyền.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

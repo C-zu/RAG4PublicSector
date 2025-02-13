@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007840
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục xem hàng hoá trước khi khai hải quan
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Chủ hàng có đơn đề nghị xem hàng hoá trước khi làm thủ tục hải quan gửi người đang giữ hàng hoá, đồng thời thông báo cho Chi cục Hải quan để giám sát theo quy định.
+Bước 2: Người giữ hàng hoá lập biên bản chứng nhận, có xác nhận của người đang giữ hàng hoá, chủ hàng và công chức hải quan giám sát, mỗi bên tham gia giữ 01 bản.
+Bước 3: Cơ quan hải quan niêm phong hàng hoá. Trường hợp hàng hoá không thể niêm phong được thì trong biên bản chứng nhận phải thể hiện được tình trạng hàng hoá và ghi rõ người giữ hàng hoá chịu trách nhiệm giữ nguyên trạng hàng hoá.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Đơn đề nghị xem hàng hóa trước khi khai hải quan
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chấp nhận phê duyệt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

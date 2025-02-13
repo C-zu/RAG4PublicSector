@@ -1,0 +1,11 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục cấm nhập khẩu để làm thiết bị điều khiển, vận hành, khai thác, kiểm tra hoạt động của một phần hoặc toàn bộ hệ thống, dây chuyền sản xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ 01 bộ, bao gồm:
+- 01 Bản chính Đơn đề nghị cho phép nhập khẩu theo mẫu tại Phụ lục I ban hành kèm theo Quyết định số 18/2016/QĐ-TTg (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef17a619252347'">Phụ lục I.docx</a>)
+- 01 Bản sao Giấy tờ chứng minh tư cách pháp nhân (giấy chứng nhận đăng ký doanh nghiệp hoặc Quyết định, giấy phép thành lập, giấy chứng nhận đầu tư, giấy phép đầu tư): 01 (một) bản sao có chứng thực, trường hợp nộp bản sao không có chứng thực thì khi nộp phải mang theo bản chính để đối chiếu
+- 01 Bản sao Tài liệu kỹ thuật mô tả sản phẩm
+- 01 Bản chính Tài liệu chứng minh sản phẩm công nghệ thông tin nhập khẩu là thiết bị hoặc bộ phận cấu thành của hệ thống, dây chuyền sản xuất
+- 01 Bản sao Tài liệu thể hiện nguồn gốc sản phẩm (hóa đơn, hợp đồng mua bán hoặc tài liệu tương đương)

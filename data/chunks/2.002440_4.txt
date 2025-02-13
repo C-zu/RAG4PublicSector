@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, chấp thuận tổng mặt bằng sử dụng đất xây dựng công trình (dự án đầu tư) thuộc thẩm quyền của UBND cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định, chấp thuận quy hoạch của nhà đầu tư, theo mẫu BM.QH.04.01 (trường hợp quy hoạch trong đô thị) hoặc BM.QH.04.02 (trường hợp quy hoạch ngoài đô thị). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbe0fe007b5f030'">Phu luc 01, 02.docx</a>)
+- 01 Bản chính Văn bản chấp thuận chủ trương đầu tư dự án.
+- 01 Bản chính 01 bộ bản đồ quy hoạch tổng mặt bằng sử dụng đất và các cơ quan liên quan thỏa thuận (do nhà đầu tư lập).

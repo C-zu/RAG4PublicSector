@@ -1,0 +1,8 @@
+Tên thủ tục: Phục hồi danh dự (cấp huyện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 ngày kể từ ngày nhận được văn bản có ý kiến đồng ý của người bị thiệt hại hoặc yêu cầu của người bị thiệt hại về việc phục hồi danh dự.||Yêu cầu phục hồi danh dự tại Văn bản yêu cầu bồi thường hoặc Ý kiến trả lời Thông báo về việc Nhà nước tổ chức phục hồi danh dự hoặc Văn bản đề nghị phục hồi danh dự (trong trường hợp cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại đã Thông báo nhưng người bị thiệt hại chưa đề nghị chưa thực hiện phục hồi danh dự mà yêu cầu sau) được gửi trực tiếp hoặc qua hệ thống bưu chính đến cơ quan quản lý người thi hành công vụ gây thiệt hại.|
+|Dịch vụ bưu chính|15 ngày kể từ ngày nhận được văn bản có ý kiến đồng ý của người bị thiệt hại hoặc yêu cầu của người bị thiệt hại về việc phục hồi danh dự.||Yêu cầu phục hồi danh dự tại Văn bản yêu cầu bồi thường hoặc Ý kiến trả lời Thông báo về việc Nhà nước tổ chức phục hồi danh dự hoặc Văn bản đề nghị phục hồi danh dự (trong trường hợp cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại đã Thông báo nhưng người bị thiệt hại chưa đề nghị chưa thực hiện phục hồi danh dự mà yêu cầu sau) được gửi trực tiếp hoặc qua hệ thống bưu chính đến cơ quan quản lý người thi hành công vụ gây thiệt hại.|

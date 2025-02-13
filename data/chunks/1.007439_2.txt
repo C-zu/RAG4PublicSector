@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán khi kế toán viên thay đổi nơi làm việc hoặc nơi đăng ký hành nghề dịch vụ kế toán
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí.
+- Bước 4: Cấp giấy chứng nhận.
+- Bước 5: Công khai danh sách trên trang điện tử Bộ Tài chính.

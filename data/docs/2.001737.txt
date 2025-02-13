@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001737
+Số quyết định:
+2291/QĐ-BTTTT
+Tên thủ tục:
+Xác nhận thay đổi thông tin đăng ký hoạt động cơ sở in (cấp địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Trong thời hạn 05 ngày, kể từ ngày có một trong các thay đổi về thông tin đã được xác nhận, cơ sở in phải gửi hồ sơ thay đổi thông tin đăng ký hoạt động in theo quy định đến cơ quan quản lý về hoạt động in ở địa phương (Sở Thông tin và Truyền thông) để cấp lại giấy xác nhận đăng ký hoạt động in.
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ thay đổi thông tin đăng ký hoạt động của cơ sở in, cơ quan quản lý về hoạt động in ở địa phương có trách nhiệm xác nhận đăng ký và cập nhật thông tin vào cơ sở dữ liệu quốc gia để quản lý; trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại trụ sở cơ quan hành chính. 03 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|03 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua mạng Internet: Nộp qua cổng dịch vụ công trực tuyến. Hồ sơ gửi qua hệ thống dịch vụ công trực tuyến phải tuân thủ các quy định về thực hiện thủ tục hành chính trên môi trường điện tử. 03 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|03 Ngày làm việc|Phí : 0 Đồng Không có|Nộp quan dịch vụ bưu chính, chuyển phát. 03 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai thay đổi thông tin đăng ký hoạt động cơ sở in. ([Mẫu số 09 Tờ khai thay đổi thông tin đăng ký hoạt động in.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe62207221cb9d4'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản, in và phát hành.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký hoạt động in
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2014/NĐ-CP|Nghị định 60/2014/NĐ-CP|19-06-2014|Chính phủ|
+|03/2015/TT-BTTTT|Thông tư 03/2015/TT-BTTTT|06-03-2015|Bộ Thông tin và Truyền thông|
+|25/2018/NĐ-CP|Nghị định 25/2018/NĐ-CP|28-02-2018|Chính phủ|
+|72/2022/NĐ-CP|Nghị định 72/2022/NĐ-CP|04-10-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng bao gồm: Tên, địa chỉ của doanh nghiệp; số, nơi cấp, ngày cấp giấy chứng nhận đăng ký doanh nghiệp; số, ngày cấp, ngày hiệu lực của giấy phép đã được cấp; lý do đề nghị cấp lại giấy phép; cam kết của doanh nghiệp về các nội dung kê khai trong đơn đề nghị.

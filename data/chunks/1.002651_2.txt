@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu trang thiết bị y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị cấp giấy phép nhập khẩu trang thiết bị y tế nộp hồ sơ tại Bộ Y tế (Vụ Trang thiết bị và Công trình y tế)
+Bước 2: Trong thời gian 05 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Bộ Y tế có trách nhiệm xem xét về tính đầy đủ, hợp lệ của hồ sơ đề nghị cấp mới giấy phép nhập khẩu.
+Trong thời gian 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Bộ Y tế phải có văn bản thông báo cho đơn vị nhập khẩu để sửa đổi, bổ sung hồ sơ nhập khẩu. Văn bản thông báo phải nêu cụ thể là bổ sung những tài liệu nào, nội dung nào cần sửa đổi. Việc thông báo hoàn thiện hồ sơ chỉ được thực hiện 01 lần trừ trường hợp các nội dung mà Bộ Y tế đã thông báo cần hoàn thiện nhưng đơn vị đề nghị nhập khẩu không hoàn thiện hoặc hoàn thiện không đúng yêu cầu của Bộ Y tế;
+Khi nhận được văn bản yêu cầu sửa đổi, bổ sung hồ sơ nhập khẩu, đơn vị nhập khẩu phải sửa đổi, bổ sung theo đúng những nội dung đã được ghi trong văn bản và gửi về Bộ Y tế. Ngày tiếp nhận hồ sơ bổ sung, sửa đổi được ghi trên dấu tiếp nhận công văn đến của Bộ Y tế;
+Bước 3: Trường hợp hồ sơ đầy đủ, hợp lệ, Bộ Y tế có trách nhiệm tổ chức họp Hội đồng tư vấn cấp giấy phép nhập khẩu trang thiết bị y tế của Bộ Y tế (sau đây gọi tắt là Hội đồng tư vấn) để xem xét và cho ý kiến đối với hồ sơ đề nghị cấp mới giấy phép nhập khẩu trong thời gian 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ:
+
++ Trường hợp Hội đồng tư vấn không có yêu cầu sửa đổi, bổ sung hồ sơ nhập khẩu và đồng ý cấp giấy phép nhập khẩu thì Bộ Y tế phải tiến hành việc cấp mới giấy phép nhập khẩu trong thời gian 10 ngày làm việc, kể từ ngày có biên bản họp Hội đồng tư vấn, ngày biên bản họp Hội đồng tư vấn được tính là ngày họp Hội đồng;
+
++ Trường hợp Hội đồng tư vấn yêu cầu sửa đổi, bổ sung hồ sơ:
+
+Trong thời gian 05 ngày làm việc, kể từ ngày có Biên bản họp Hội đồng tư vấn, Bộ Y tế phải có văn bản thông báo cho đơn vị nhập khẩu để sửa đổi, bổ sung hồ sơ nhập khẩu. Văn bản thông báo phải nêu cụ thể là bổ sung những tài liệu nào, nội dung nào cần sửa đổi. Việc thông báo hoàn thiện hồ sơ chỉ được thực hiện 01 lần trừ trường hợp các nội dung mà Bộ Y tế đã thông báo cần hoàn thiện nhưng đơn vị đề nghị nhập khẩu không hoàn thiện hoặc hoàn thiện không đúng yêu cầu của Bộ Y tế;
+Bước 4: Khi nhận được văn bản yêu cầu sửa đổi, bổ sung hồ sơ nhập khẩu, đơn vị nhập khẩu phải sửa đổi, bổ sung theo đúng những nội dung đã được ghi trong văn bản và gửi về Bộ Y tế. Ngày tiếp nhận hồ sơ bổ sung, sửa đổi được ghi trên dấu tiếp nhận công văn đến của Bộ Y tế và thực hiện theo trình tự quy định.
+* Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ nhập khẩu nhưng sau sáu mươi (60) ngày, kể từ ngày Bộ Y tế có văn bản thông báo yêu cầu sửa đổi bổ sung hồ sơ nhập khẩu mà đơn vị nhập khẩu không thực hiện yêu cầu thì Bộ Y tế sẽ từ chối tiếp tục xem xét đối với hồ sơ nhập khẩu.
+Bước 5: Trong thời gian 10 ngày làm việc, kể từ ngày có biên bản họp Hội đồng tư vấn, căn cứ Biên bản họp Hội đồng tư vấn, Bộ trưởng Bộ Y tế xem xét và quyết định cấp giấy phép nhập khẩu trang thiết bị y tế. Trường hợp không cấp phải có văn bản trả lời và nêu rõ lý do.

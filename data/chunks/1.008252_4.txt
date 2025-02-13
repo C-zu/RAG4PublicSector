@@ -1,0 +1,13 @@
+Tên thủ tục: Thẩm định thiết kế, dự toán xây dựng công trình
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình thẩm định thiết kế xây dựng công trình (theo Mẫu số 06, Phụ lục II ban hành kèm theo Nghị định số 59/2015/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe84acb4835776b'">To trinh.Tham dinh thiet ke.docx</a>)
+- 01 Bản chính Thuyết minh thiết kế, các bản vẽ thiết kế, các tài liệu khảo sát xây dựng có liên quan (bản chính).
+- 01 Bản chính Bản sao quyết định phê duyệt dự án đầu tư xây dựng công trình kèm theo hồ sơ thiết kế cơ sở được phê duyệt hoặc phê duyệt chủ trương đầu tư xây dựng công trình.
+- 01 Bản chính Bản sao hồ sơ về điều kiện năng lực của các chủ nhiệm, chủ trì khảo sát, thiết kế xây dựng công trình; văn bản thẩm duyệt phòng cháy chữa cháy, báo cáo đánh giá tác động môi trường (nếu có).
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư về sự phù hợp của hồ sơ thiết kế so với quy định hợp đồng.
+- 01 Bản chính Dự toán xây dựng công trình đối với công trình sử dụng vốn ngân sách nhà nước, vốn nhà nước ngoài ngân sách (bản chính), kèm theo file mềm dự toán.
+- 01 Bản chính Giấy phép hoạt động điện lực của nhà thầu tư vấn thiết kế.

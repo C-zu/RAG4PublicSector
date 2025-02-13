@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001071
+Số quyết định:
+2683/QĐ-BTP
+Tên thủ tục:
+Đăng ký tập sự hành nghề công chứng
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công chứng
+Trình tự thực hiện:
+- Người được tổ chức hành nghề công chứng nhận tập sự nộp trực tiếp hoặc gửi qua đường bưu chính hoặc qua Trung tâm dịch vụ hành chính công 01 bộ hồ sơ đăng ký tập sự theo quy định tại khoản 2 Điều 3 Thông tư số 08/2023/TT-BTP đến Sở Tư pháp nơi có tổ chức hành nghề công chứng nhận tập sự. Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp ra quyết định đăng ký tập sự hành nghề công chứng và gửi quyết định cho người đăng ký tập sự và tổ chức hành nghề công chứng nhận tập sự; trường hợp từ chối thì phải trả lời bằng văn bản có nêu rõ lý do. 
+- Đối với trường hợp người đủ điều kiện đăng ký tập sự đã liên hệ với ít nhất 03 tổ chức hành nghề công chứng đủ điều kiện nhận tập sự trên địa bàn một tỉnh, thành phố trực thuộc trung ương hoặc đã liên hệ với 01 tổ chức hành nghề công chứng đủ điều kiện nhận tập sự trong trường hợp tỉnh, thành phố trực thuộc trung ương có từ 03 tổ chức hành nghề công chứng đủ điều kiện nhận tập sự trở xuống mà bị từ chối nhận tập sự thì nộp hồ sơ quy định tại khoản 2 Điều 3 Thông tư số 08/2023/TT-BTP để Sở Tư pháp tỉnh, thành phố đó bố trí tập sự và đăng ký tập sự hành nghề công chứng.Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xem xét, chỉ định tổ chức hành nghề công chứng nhận tập sự và ra quyết định đăng ký tập sự hành nghề công chứng và gửi quyết định cho người đăng ký tập sự và tổ chức hành nghề công chứng nhận tập sự; trường hợp tại tỉnh, thành phố đó không còn tổ chức hành nghề công chứng đủ điều kiện nhận tập sự thì phải trả lời bằng văn bản có nêu rõ lý do cho người đề nghị. 
+Trong trường hợp cần thiết, Sở Tư pháp thực hiện việc xác minh để làm rõ điều kiện đăng ký tập sự và nhận tập sự theo quy định của Luật Công chứng Thông tư số 08/2023/TT-BTP; thời hạn xác minh tối đa là 10 ngày và không tính vào thời gian xem xét, chỉ định tổ chức hành nghề công chứng nhận tập sự, đăng ký tập sự.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Trực tiếp|10 Ngày||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Trực tuyến|7 Ngày làm việc||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Trực tuyến|10 Ngày||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Dịch vụ bưu chính|7 Ngày làm việc||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+|Dịch vụ bưu chính|10 Ngày||Kể từ ngày nhận đủ hồ sơ hợp lệ (đối với Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng); trường hợp từ chối phải thông bằng văn bản có nêu rõ lý do.|
+
+Thành phần hồ sơ:
+
+Trường hợp người đăng ký tập sự tự liên hệ được với tổ chức hành nghề công chứng nhận tập sự
+- 01 Bản chính Giấy đăng ký tập sự hành nghề công chứng (Mẫu TP-TSCC-01a) ([Mẫu 01 a Đăng ký tập sự.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe02e1c424a2f3e'))
+- 01 Bản chính Giấy chứng nhận tốt nghiệp khoá đào tạo nghề công chứng hoặc giấy chứng nhận hoàn thành khóa bồi dưỡng nghề công chứng hoặc quyết định công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài (bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu)
+
+
+Trường hợp người đăng ký tập sự được Sở Tư pháp bố trí tập sự và đăng ký tập sự hành nghề công chứng
+- 01 Bản chính Giấy đăng ký tập sự hành nghề công chứng (Mẫu TP-TSCC-01b) ([Mẫu 01b Đăng ký tập sự.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee47fb35fa4d1e'))
+- 01 Bản chính Giấy chứng nhận tốt nghiệp khoá đào tạo nghề công chứng hoặc giấy chứng nhận hoàn thành khóa bồi dưỡng nghề công chứng hoặc quyết định công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài (bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu)
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Sở Tư pháp
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định đăng ký tập sự hành nghề công chứng (Mẫu TP-TSCC-02)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|53/2014/QH13|Luật 53/2014/QH13 - Công chứng|20-06-2014|Quốc Hội|
+|08/2023/TT-BTP|Thông tư số 08/2023/TT-BTP ngày 02/10/2023 của Bộ trưởng Bộ Tư pháp hướng dẫn tập sự hành nghề công chứng|02-10-2023|Bộ trưởng Bộ Tư pháp|
+
+Yêu cầu, điều kiện thực hiện:
+- Người yêu cầu tập sự hành nghề công chứng thuộc trường hợp không được bổ nhiệm công chứng viên theo quy định tại Điều 13 của Luật Công chứng:
++ Người đang bị truy cứu trách nhiệm hình sự, đã bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án về tội phạm do vô ý mà chưa được xóa án tích hoặc về tội phạm do cố ý;
++ Người đang bị áp dụng biện pháp xử lý hành chính theo quy định của pháp luật về xử lý vi phạm hành chính;
++ Người bị mất hoặc bị hạn chế năng lực hành vi dân sự;
++ Cán bộ bị kỷ luật bằng hình thức bãi nhiệm, công chức, viên chức bị kỷ luật bằng hình thức buộc thôi việc hoặc sỹ quan, quân nhân chuyên nghiệp, công nhân, viên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân, sỹ quan, hạ sỹ quan, công nhân, viên chức trong đơn vị thuộc Công an nhân dân bị kỷ luật bằng hình thức tước danh hiệu quân nhân, danh hiệu Công an nhân dân hoặc đưa ra khỏi ngành;
++ Người bị thu hồi chứng chỉ hành nghề luật sư do bị xử lý kỷ luật bằng hình thức xóa tên khỏi danh sách của Đoàn luật sư, người bị tước quyền sử dụng chứng chỉ hành nghề luật sư mà chưa hết thời hạn 03 năm kể từ ngày quyết định thu hồi chứng chỉ hành nghề luật sư có hiệu lực hoặc kể từ ngày chấp hành xong quyết định tước quyền sử dụng chứng chỉ hành nghề luật sư;
+- Người đang là cán bộ, công chức, viên chức (trừ viên chức làm việc tại Phòng công chứng), sỹ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sỹ quan, hạ sỹ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân.
+- Người yêu cầu tập sự hành nghề công chứng thuộc trường hợp không được bổ nhiệm công chứng viên theo quy định tại Điều 13 của Luật Công chứng:
++ Người đang bị truy cứu trách nhiệm hình sự, đã bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án về tội phạm do vô ý mà chưa được xóa án tích hoặc về tội phạm do cố ý;
++ Người đang bị áp dụng biện pháp xử lý hành chính theo quy định của pháp luật về xử lý vi phạm hành chính;
++ Người bị mất hoặc bị hạn chế năng lực hành vi dân sự;
++ Cán bộ bị kỷ luật bằng hình thức bãi nhiệm, công chức, viên chức bị kỷ luật bằng hình thức buộc thôi việc hoặc sỹ quan, quân nhân chuyên nghiệp, công nhân, viên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân, sỹ quan, hạ sỹ quan, công nhân, viên chức trong đơn vị thuộc Công an nhân dân bị kỷ luật bằng hình thức tước danh hiệu quân nhân, danh hiệu Công an nhân dân hoặc đưa ra khỏi ngành;
++ Người bị thu hồi chứng chỉ hành nghề luật sư do bị xử lý kỷ luật bằng hình thức xóa tên khỏi danh sách của Đoàn luật sư, người bị tước quyền sử dụng chứng chỉ hành nghề luật sư mà chưa hết thời hạn 03 năm kể từ ngày quyết định thu hồi chứng chỉ hành nghề luật sư có hiệu lực hoặc kể từ ngày chấp hành xong quyết định tước quyền sử dụng chứng chỉ hành nghề luật sư;
+- Người đang là cán bộ, công chức, viên chức (trừ viên chức làm việc tại Phòng công chứng), sỹ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sỹ quan, hạ sỹ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

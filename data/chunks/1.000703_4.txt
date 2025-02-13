@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp Giấy phép kinh doanh vận tải bằng xe ô tô
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp Giấy phép kinh doanh đối với doanh nghiệp, hợp tác xã kinh doanh vận tải bao gồm:
+- 01 Bản chính Giấy đề nghị cấp Giấy phép kinh doanh theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfed2ffb2c1772'">MẪU.doc</a>)
+- 01 Bản sao Bản sao văn bằng, chứng chỉ của người trực tiếp điều hành hoạt động vận tải;
+- 01 Bản sao Bản sao hoặc bản chính Quyết định thành lập và quy định chức năng, nhiệm vụ của bộ phận quản lý, theo dõi các điều kiện về an toàn giao thông (áp dụng đối với doanh nghiệp, hợp tác xã kinh doanh vận tải hành khách theo tuyến cố định, vận tải hành khách bằng xe buýt, vận tải hành khách bằng xe taxi, vận tải hàng hóa bằng công-ten-nơ, vận tải hành khách sử dụng hợp đồng điện tử).
+
+
+Hồ sơ đề nghị cấp Giấy phép kinh doanh đối với hộ kinh doanh vận tải gồm:
+- 01 Bản chính Giấy đề nghị cấp Giấy phép kinh doanh theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23523170bbc86'">MẪU.doc</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký kinh doanh.

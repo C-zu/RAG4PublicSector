@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa xuất khẩu thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp CFS nêu rõ tên hàng, mã HS của hàng hóa, số chứng nhận tiêu chuẩn sản phẩm hoặc số đăng ký, số hiệu tiêu chuẩn (nếu có), thành phần hàm lượng hợp chất (nếu có), nước nhập khẩu hàng hóa: 1 bản chính, thể hiện bằng tiếng Việt và tiếng Anh
+- 01 Bản chính Giấy chứng nhận đầu tư hoặc giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp: 1 bản sao có đóng dấu của thương nhân. + Danh mục các cơ sở sản xuất (nếu có), bao gồm tên, địa chỉ của cơ sở, các mặt hàng sản xuất để xuất khẩu: 1 bản chính.
+- 01 Bản chính Bản tiêu chuẩn công bố áp dụng đối với sản phẩm, hàng hóa kèm theo cách thể hiện (trên nhãn hàng hóa hoặc trên bao bì hàng hóa hoặc tài liệu kèm theo sản phẩm, hàng hóa): 1 bản sao có đóng dấu của thương nhân

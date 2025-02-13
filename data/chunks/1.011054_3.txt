@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Tuyển chọn tổ chức, cá nhân chủ trì nhiệm vụ khoa học và công nghệ cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|59 Ngày làm việc|Phí : 0 Đồng 0|59 ngày làm việc kể từ ngày hết hạn nhận hồ sơ tuyển chọn theo thông báo.|

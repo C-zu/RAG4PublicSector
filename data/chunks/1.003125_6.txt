@@ -1,0 +1,50 @@
+Tên thủ tục: Cấp giấy phép hoạt động ngân hàng mô
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1.	Điều kiện hoạt động của ngân hàng mô: Ngân hàng mô chỉ được hoạt động sau khi có Giấy phép hoạt động ngân hàng mô do Bộ Y tế cấp. 
+2.	Điều kiện hoạt động và cấp Giấy phép hoạt động ngân hàng mô:
+a) Có Quyết định thành lập ngân hàng mô hoặc ngân hàng mô có tên trong văn bản của cơ quan có thẩm quyền quy định cơ cấu tổ chức của cơ sở y tế đối với ngân hàng mô của nhà nước hoặc Giấy chứng nhận doanh nghiệp đối với ngân hàng mô tư nhân.
+b) Cơ sở vật chất phù hợp, phải có các bộ phận sau đây: 
+- Buồng kỹ thuật để tiếp nhận, xử lý, bảo quản và cung ứng mô;
+- Phòng xét nghiệm. Riêng ngân hàng mô thuộc cơ sở y tế thì việc xét nghiệm có thể sử dụng chung với bộ phận xét nghiệm của cơ sở y tế;
+- Khu vực hành chính tổng hợp, quản lý hồ sơ, tư vấn.
+c) Nhân lực tối thiểu:
+- Người quản lý chuyên môn ngân hàng mô phải đủ điều kiện theo quy định tại Khoản 4 Điều 35 Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác. 
+- 01 bác sỹ đa khoa có chứng chỉ hành nghề về xét nghiệm (Sinh hóa hoặc Huyết học hoặc Vi sinh vật) hoặc 01 cử nhân xét nghiệm có chứng chỉ hành nghề khám bệnh, chữa bệnh về xét nghiệm;
+- 01 kỹ thuật viên y hoặc điều dưỡng tốt nghiệp trung cấp trở lên về chuyên ngành y, có chứng chỉ hành nghề khám bệnh, chữa bệnh.
+Đối với ngân hàng mô thuộc cơ sở y tế thì nhân lực có thể kiêm nhiệm, riêng kỹ thuật viên y hoặc điều dưỡng phải làm việc chuyên trách.
+d) Trang thiết bị: Có đủ các trang thiết bị theo Danh mục quy định tại Phụ lục ban hành kèm theo Nghị định số 155/2018/NĐ-CP ngày 12 tháng 11 năm 2018 của Chính phủ. Đối với ngân hàng mô thuộc cơ sở y tế có thể sử dụng chung trang thiết bị với cơ sở y tế.
+- Quy trình quản lý hành chính
+- Quy trình kỹ thuật lấy, bảo quản, phân phối của từng loại mô ngân hàng đăng ký.
+3. Điều kiện cấp giấy phép hoạt động đối với ngân hàng giác mạc (ngân hàng mô chỉ hoạt động về giác mạc):
+a) Cơ sở vật chất: Đủ điều kiện theo quy định tại Điểm b Khoản 2.
+b) Trang thiết bị: Có đủ trang thiết bị theo quy định tại Phụ lục I ban hành kèm theo Nghị định này.
+c) Nhân lực: 
+- Có đủ nhân lực quy định tại Điểm c Khoản 2;
+- Người lấy giác mạc phải có trình độ văn hóa tốt nghiệp phổ thông trung học, được đào tạo về lấy và bảo quản, vận chuyển giác mạc.”
+1.	Điều kiện hoạt động của ngân hàng mô: Ngân hàng mô chỉ được hoạt động sau khi có Giấy phép hoạt động ngân hàng mô do Bộ Y tế cấp. 
+2.	Điều kiện hoạt động và cấp Giấy phép hoạt động ngân hàng mô:
+a) Có Quyết định thành lập ngân hàng mô hoặc ngân hàng mô có tên trong văn bản của cơ quan có thẩm quyền quy định cơ cấu tổ chức của cơ sở y tế đối với ngân hàng mô của nhà nước hoặc Giấy chứng nhận doanh nghiệp đối với ngân hàng mô tư nhân.
+b) Cơ sở vật chất phù hợp, phải có các bộ phận sau đây: 
+- Buồng kỹ thuật để tiếp nhận, xử lý, bảo quản và cung ứng mô;
+- Phòng xét nghiệm. Riêng ngân hàng mô thuộc cơ sở y tế thì việc xét nghiệm có thể sử dụng chung với bộ phận xét nghiệm của cơ sở y tế;
+- Khu vực hành chính tổng hợp, quản lý hồ sơ, tư vấn.
+c) Nhân lực tối thiểu:
+- Người quản lý chuyên môn ngân hàng mô phải đủ điều kiện theo quy định tại Khoản 4 Điều 35 Luật Hiến, lấy, ghép mô, bộ phận cơ thể người và hiến, lấy xác. 
+- 01 bác sỹ đa khoa có chứng chỉ hành nghề về xét nghiệm (Sinh hóa hoặc Huyết học hoặc Vi sinh vật) hoặc 01 cử nhân xét nghiệm có chứng chỉ hành nghề khám bệnh, chữa bệnh về xét nghiệm;
+- 01 kỹ thuật viên y hoặc điều dưỡng tốt nghiệp trung cấp trở lên về chuyên ngành y, có chứng chỉ hành nghề khám bệnh, chữa bệnh.
+Đối với ngân hàng mô thuộc cơ sở y tế thì nhân lực có thể kiêm nhiệm, riêng kỹ thuật viên y hoặc điều dưỡng phải làm việc chuyên trách.
+d) Trang thiết bị: Có đủ các trang thiết bị theo Danh mục quy định tại Phụ lục ban hành kèm theo Nghị định số 155/2018/NĐ-CP ngày 12 tháng 11 năm 2018 của Chính phủ. Đối với ngân hàng mô thuộc cơ sở y tế có thể sử dụng chung trang thiết bị với cơ sở y tế.
+- Quy trình quản lý hành chính
+- Quy trình kỹ thuật lấy, bảo quản, phân phối của từng loại mô ngân hàng đăng ký.
+3. Điều kiện cấp giấy phép hoạt động đối với ngân hàng giác mạc (ngân hàng mô chỉ hoạt động về giác mạc):
+a) Cơ sở vật chất: Đủ điều kiện theo quy định tại Điểm b Khoản 2.
+b) Trang thiết bị: Có đủ trang thiết bị theo quy định tại Phụ lục I ban hành kèm theo Nghị định này.
+c) Nhân lực: 
+- Có đủ nhân lực quy định tại Điểm c Khoản 2;
+- Người lấy giác mạc phải có trình độ văn hóa tốt nghiệp phổ thông trung học, được đào tạo về lấy và bảo quản, vận chuyển giác mạc.”
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

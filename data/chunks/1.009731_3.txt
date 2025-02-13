@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thành lập văn phòng điều hành của nhà đầu tư nước ngoài trong hợp đồng BCC
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ, Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký hoạt động văn phòng điều hành cho nhà đầu tư nước ngoài trong hợp đồng BCC.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính.|
+|Dịch vụ bưu chính|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ, Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký hoạt động văn phòng điều hành cho nhà đầu tư nước ngoài trong hợp đồng BCC.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

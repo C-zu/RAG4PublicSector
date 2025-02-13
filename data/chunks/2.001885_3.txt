@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||- Nộp trực tiếp tại cơ quan cấp giấy chứng nhận; - Thông qua dịch vụ bưu chính.|
+|Dịch vụ bưu chính|10 Ngày||- Nộp trực tiếp tại cơ quan cấp giấy chứng nhận; - Thông qua dịch vụ bưu chính.|

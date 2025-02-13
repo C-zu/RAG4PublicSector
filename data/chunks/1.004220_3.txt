@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký niêm yết chứng khoán của tổ chức phát hành nước ngoài trên SGDCK tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Dịch vụ bưu chính|30 Ngày||- 30 ngày, kể từ ngày UBCKNN nhận được đầy đủ hồ sơ hợp lệ theo quy định. - Thời hạn giải quyết của SGDCK: Quy định tại Quy chế về Niêm yết của SGDCK|

@@ -1,0 +1,25 @@
+Tên thủ tục: Đăng ký khai thác khoáng sản vật liệu xây dựng thông thường trong diện tích dự án xây dựng công trình (đã được cơ quan nhà nước có thẩm quyền phê duyệt hoặc cho phép đầu tư mà sản phẩm khai thác chỉ được sử dụng cho xây dựng công trình đó) bao gồm cả đăng ký khối lượng cát, sỏi thu hồi từ dự án nạo vét, khơi thông luồng lạch
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản xác nhận đăng ký khai thác
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2010/QH12|Luật 60/2010/QH12|17-11-2010|Quốc Hội|
+|27/2015/TT-BTNMT|Thông tư 27/2015/TT-BTNMT|29-05-2015|Bộ Tài nguyên và Môi trường|
+|158/2016/NĐ-CP|Nghị định 158/2016/NĐ-CP|29-11-2016|Chính phủ|
+|45/2016/TT-BTNMT|Thông tư 45/2016/TT-BTNMT|26-12-2016|Bộ Tài nguyên và Môi trường|
+|18/2015/NĐ-CP|Nghị định 18/2015/NĐ-CP|14-02-2015|Chính phủ|

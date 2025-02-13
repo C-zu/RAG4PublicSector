@@ -1,0 +1,8 @@
+Tên thủ tục: Chấp thuận thay đổi, bổ sung người đại diện theo pháp luật, người phụ trách chuyên môn; tên, địa chỉ trụ sở hoặc thông tin liên lạc hành chính của tổ chức hỗ trợ nghiên cứu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||20 ngày kể từ khi nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|20 Ngày||20 ngày kể từ khi nhận được hồ sơ hợp lệ|

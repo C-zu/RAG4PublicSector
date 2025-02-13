@@ -1,0 +1,17 @@
+Tên thủ tục: Thủ tục giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất trong Khu kinh tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Đối với dự án không phải trình cơ quan nhà nước có thẩm quyền xét duyệt; dự án không phải cấp Giấy chứng nhận đầu tư; trường hợp không phải lập dự án đầu tư xây dựng công trình, thành phần hồ sơ gồm:
+- 01 Bản chính a. Đơn xin giao đất, cho thuê đất theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc1a33b223c129c'">Mau so 01.docx</a>)
+- 01 Bản sao b. Trích lục bản đồ địa chính thửa đất hoặc trích đo địa chính thửa đất (Sở Tài nguyên và Môi trường có trách nhiệm cung cấp trích lục bản đồ địa chính thửa đất đối với những nơi đã có bản đồ địa chính hoặc thực hiện trích đo địa chính thửa đất theo yêu cầu của người xin giao đất, thuê đất);
+- 01 Bản sao c. Bản sao thuyết minh dự án đầu tư đối với dự án không phải trình cơ quan nhà nước có thẩm quyền xét duyệt, dự án không phải cấp giấy chứng nhận đầu tư;
+- 01 Bản sao d. Bản sao báo cáo kinh tế - kỹ thuật đối với trường hợp không phải lập dự án đầu tư xây dựng công trình.
+
+
+- Đối với dự án đầu tư phải trình cơ quan nhà nước có thẩm quyền xét duyệt hoặc phải cấp Giấy chứng nhận đầu tư, thành phần hồ sơ gồm:
+- 01 Bản chính a. Đơn xin giao đất, cho thuê đất theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd8b1cef541ba0'">Mau so 01.docx</a>)
+- 01 Bản sao b. Bản sao giấy chứng nhận đầu tư hoặc văn bản chấp thuận đầu tư kèm theo bản thuyết minh dự án đầu tư; Trường hợp xin giao đất để sử dụng vào mục đích quốc phòng, an ninh thì không phải nộp kèm bản sao bản thuyết minh dự án đầu tư nhưng phải nộp bản sao quyết định đầu tư xây dựng công trình quốc phòng, an ninh của cơ quan nhà nước có thẩm quyền gồm các nội dung liên quan đến việc sử dụng đất hoặc quyết định phê duyệt quy hoạch vị trí đóng quân của Bộ Quốc phòng, Bộ Công an.
+- 01 Bản sao c. Văn bản thẩm định nhu cầu sử dụng đất; thẩm định điều kiện giao đất, cho thuê đất quy định tại Khoản 3 Điều 58 của Luật Đất đai và Điều 14 Nghị định số 43/2014/NĐ-CP ngày 15/5/2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai hoặc báo cáo thẩm định dự án đầu tư đã lập tại thời điểm cấp giấy chứng nhận đầu tư hoặc chấp thuận dự án đầu tư hoặc xét duyệt dự án;
+- 01 Bản sao d. Trích lục bản đồ địa chính hoặc trích đo địa chính thửa đất (Sở Tài nguyên và Môi trường có trách nhiệm cung cấp trích lục bản đồ địa chính thửa đất đối với những nơi đã có bản đồ địa chính hoặc thực hiện trích đo địa chính thửa đất theo yêu cầu của người xin giao đất, thuê đất); (Trường hợp trong các thành phần hồ sơ nêu trên là kết quả TTHC do Ban Quản lý Khu kinh tế Quảng Bình giải quyết, người xin giao đất, thuê đất không phải nộp thành phần hồ sơ đó).

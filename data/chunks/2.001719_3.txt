@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đến cảng biển đối với tàu thuyền nước ngoài thực hiện các hoạt động về nghiên cứu khoa học, nghề cá, cứu hộ, trục vớt tài sản chìm đắm, lai dắt hỗ trợ trong vùng nước cảng biển, huấn luyện, văn hóa, thể thao, lắp đặt, xây dựng công trình biển, công trình ngầm, phục vụ khảo sát, thăm dò, khai thác tài nguyên, dịch vụ sửa chữa, đóng mới và các hoạt động về môi trường trong vùng biển Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Chậm nhất 07 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|7 Ngày làm việc||Chậm nhất 07 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|7 Ngày làm việc||Chậm nhất 07 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|

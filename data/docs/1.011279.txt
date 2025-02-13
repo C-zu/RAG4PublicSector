@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011279
+Số quyết định:
+3735 /QĐ-UBND
+Tên thủ tục:
+Xác nhận xe thuộc đối tượng không chịu phí sử dụng đường bộ
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Tổ chức, cá nhân nộp hồ sơ tại Trung tâm Phục vụ hành chính công (PVHCC) tỉnh hoặc qua hệ thống dịch vụ công trực tuyến. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Thực hiện trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 2A Nguyễn Chí Thanh - Thành phố Hà Tĩnh; Trường hợp 1: Đối với xe kinh doanh vận tải thuộc doanh nghiệp kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên: 03 ngày làm việc kể, từ ngày nhận đủ hồ sơ hợp lệ. - Trường hợp 2: Đối với xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ: 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||Thực hiện trên trang (Địa chỉ http://dichvucong.hatinh.gov.vn) Trường hợp 1: Đối với xe kinh doanh vận tải thuộc doanh nghiệp kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên: 03 ngày làm việc kể, từ ngày nhận đủ hồ sơ hợp lệ. - Trường hợp 2: Đối với xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ: 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Thực hiện gửi qua Bưu điện đến Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh - Số 2A Nguyễn Chí Thanh - Thành phố Hà Tĩnh; Trường hợp 1: Đối với xe kinh doanh vận tải thuộc doanh nghiệp kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên: 03 ngày làm việc kể, từ ngày nhận đủ hồ sơ hợp lệ. - Trường hợp 2: Đối với xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ: 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Đối với xe kinh doanh vận tải thuộc doanh nghiệp kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên.
+- 03 Bản chính Đơn xin tạm dừng lưu hành theo mẫu BM.PTNL.27.01 (03 bản). ([Dơn xin tam dưng lưu hanh.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8af346c165fc0'))
+- 01 Bản sao Giấy phép kinh doanh vận tải bằng ô tô.
+
+
+Đối với xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ.
+- 03 Bản chính Đơn xin xác nhận xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ theo mẫu BM.PTNL.27.02 (03 bản); ([Dơn xác nhạn phương tien khong sử dụng he thong giao thong duong bo.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda6cb9635d5730'))
+- 01 Bản sao Bản sao giấy đăng ký kinh doanh hoặc giấy chứng nhận Trung tâm sát hạch lái xe đủ điều kiện hoạt động;
+- 01 Bản sao Bản sao giấy đăng ký xe (của từng xe đề nghị).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Số 02A- Nguyễn Chí Thanh- TP. Hà Tĩnh- Tỉnh Hà Tĩnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận xe thuộc đối tượng không chịu phí sử dụng đường bộ
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+- Xe kinh doanh vận tải thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã kinh doanh vận tải (sau đây gọi chung là doanh nghiệp) tạm dừng lưu hành liên tục từ 30 ngày trở lên.
+- Xe ô tô của doanh nghiệp không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ (chỉ được cấp Giấy chứng nhận kiểm định và không cấp Tem kiểm định theo quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ của Bộ Giao thông vận tải), chỉ sử dụng trong phạm vi Trung tâm sát hạch lái xe, nhà ga, cảng, khu khai thác khoáng sản, nông, lâm, ngư nghiệp, công trường xây dựng (giao thông, thủy lợi, năng lượng).
+- Xe kinh doanh vận tải thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã kinh doanh vận tải (sau đây gọi chung là doanh nghiệp) tạm dừng lưu hành liên tục từ 30 ngày trở lên.
+- Xe ô tô của doanh nghiệp không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ (chỉ được cấp Giấy chứng nhận kiểm định và không cấp Tem kiểm định theo quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ của Bộ Giao thông vận tải), chỉ sử dụng trong phạm vi Trung tâm sát hạch lái xe, nhà ga, cảng, khu khai thác khoáng sản, nông, lâm, ngư nghiệp, công trường xây dựng (giao thông, thủy lợi, năng lượng).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

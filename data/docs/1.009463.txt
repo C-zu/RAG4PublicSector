@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009463
+Số quyết định:
+285/QĐ-BGTVT
+Tên thủ tục:
+Thỏa thuận về nội dung liên quan đến đường thủy nội địa đối với công trình không thuộc kết cấu hạ tầng đường thủy nội địa và các hoạt động trên đường thủy nội địa
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ đầu tư xây dựng công trình, tổ chức, cá nhân tổ chức hoạt động nộp hồ sơ đến cơ quan có thẩm quyền để giải quyết sau:
+	- Bộ Giao thông vận tải: thỏa thuận đối với các công trình, hoạt động quốc phòng, an ninh có liên quan đến giao thông đường thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia;
+	-  Ủy ban nhân dân cấp tỉnh: thỏa thuận đối với công trình, các hoạt động động quốc phòng, an ninh có liên quan đến giao thông đường thủy nội địa trên đường thủy nội địa địa phương, đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương;
+	- Cục Đường thủy nội địa Việt Nam: thỏa thuận về nội dung liên quan đến đường thủy nội địa đối với các công trình, hoạt động trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, hành lang bảo vệ luồng, trừ trường hợp thuộc thẩm quyền của Bộ Giao thông vận tải;
+	-  Sở Giao thông vận tải: thỏa thuận về nội dung liên quan đến đường thủy nội địa đối với các công trình, hoạt động trên đường thủy nội địa địa phương, đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương, hành lang bảo vệ luồng, trừ trường hợp thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp tỉnh.
+	- Cảng vụ, Sở Giao thông vận tải (nơi chưa có Cảng vụ): thỏa thuận đối với hoạt động nạo vét cải tạo vùng nước cảng, bến thủy nội địa, khu neo đậu thuộc phạm vi quản lý.
+b) Giải quyết TTHC:
+Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền có văn bản thỏa thuận gửi chủ đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|5 Ngày làm việc||Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|5 Ngày làm việc||Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Đối với các hoạt động : Hoạt động thi công công trình (bao gồm hoạt động nạo vét vùng nước cảng, bến thủy nội địa, khu neo đậu); khai thác tài nguyên, khoáng sản; Khu vực nuôi trồng thủy sản, hải sản (bè cá, lồng cá, đăng, đáy cá, bãi nuôi trồng thủy sản, hải sản); tổ chức hoạt động vui chơi, giải trí, diễn tập, thể thao, lễ hội; họp chợ, làng nghề, thực hành đào tạo nghề, hồ sơ gồm:
+- 01 Bản chính - Đơn đề nghị thỏa thuận theo mẫu; ([31.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe25b38324f490d'))
+- 01 Bản chính - Bản vẽ thể hiện phạm vi khu vực hoạt động, phạm vi luồng và hành lang bảo vệ luồng, khoảng cách đến các công trình liên quan ở khu vực và phương án bố trí báo hiệu bảo đảm an toàn giao thông đường thủy nội địa;
+- 01 Bản chính - Bản vẽ các mặt cắt ngang và hồ sơ mốc để xác định phạm vi, cao trình nạo vét, khai thác tài nguyên, khoáng sản (đối với hoạt động nạo vét cải tạo vùng nước cảng, bến thủy nội địa, luồng chuyên dùng vào cảng, bến thủy nội địa, khu neo đậu; khai thác tài nguyên, khoáng sản).
+
+
+*) Bản vẽ khu vực xây dựng công trình trên hệ tọa độ quốc gia VN2000, hệ cao độ nhà nước. Trên bản vẽ thể hiện vị trí công trình và cao độ tự nhiên, địa hình, địa vật của sông, kênh đối với khu vực xây dựng công trình, các công trình liền kề (nếu có) và các tài liệu sau:
+- 01 Bản chính + Đối với cầu vĩnh cửu, cầu tạm: số liệu về kích thước khoang thông thuyền (vị trí, chiều rộng, chiều cao tĩnh không); mặt cắt dọc công trình thể hiện trên mặt cắt ngang sông, kênh;
+- 01 Bản chính + Đối với cầu quay, cầu cất, cầu phao, cầu nâng hạ, công trình thủy điện kết hợp giao thông: số liệu về khoang thông thuyền (vị trí, chiều rộng, chiều cao tĩnh không, chiều dài, độ sâu ngưỡng âu); phương án và công nghệ đóng, mở; bản vẽ thiết kế vị trí, vùng nước dự kiến bố trí cho phương tiện neo đậu khi chờ đợi qua công trình;
+- 01 Bản chính + Đối với đường ống, đường dây, công trình vượt qua luồng trên không: bản vẽ, các số liệu về chiều cao tĩnh không, thể hiện điểm cao nhất của đường ống, đường dây (điểm thấp nhất của đường dây điện, tính cả hành lang an toàn lưới điện), công trình vượt qua luồng;
+- 01 Bản chính + Đối với công trình ngầm, đường dây, đường ống dưới đáy luồng: bản vẽ thể hiện khoảng cách, cao trình đỉnh công trình đến cao trình đáy thiết kế luồng, phạm vi luồng và hành lang bảo vệ luồng đường thủy nội địa;
+- 01 Bản chính + Đối với công trình đập, thủy điện, thủy lợi: bình đồ và bản vẽ khu vực cảng, bến thủy nội địa hoặc khu vực chuyển tải tại thượng lưu và hạ lưu công trình; phương án bốc xếp, chuyển tải;
+- 01 Bản chính + Đối với công trình phục vụ quốc phòng, an ninh; công trình phong điện, nhiệt điện; bến phà, kè: bản vẽ thể hiện mặt bằng khu vực cảng; công trình kè, chỉnh trị khác; kích thước, kết cấu các cầu cảng, kè, công trình chỉnh trị khác và các công trình phụ trợ; vùng nước của cảng.
+
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thỏa thuận xây dựng công trình theo mẫu; ([31.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe31b176777f36d'))
+- 01 Bản chính - Bản vẽ mặt cắt công trình thể hiện trên mặt cắt ngang sông.
+- 01 Bản chính - Bản vẽ khu vực xây dựng công trình trên hệ tọa độ quốc gia VN2000, hệ cao độ nhà nước. Trên bản vẽ thể hiện vị trí công trình và cao độ tự nhiên, địa hình, địa vật của sông, kênh đối với khu vực xây dựng công trình, các công trình liền kề (nếu có) và các tài liệu kèm theo.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Giao thông vận tải, Cục Đường thủy nội địa Việt Nam, Ủy ban nhân dân cấp Tỉnh, Sở Giao thông vận tải - TP. Hải Phòng, Cảng vụ Đường thủy nội địa
+Cơ quan có thẩm quyền:
+Bộ Giao thông vận tải, Cục Đường thủy nội địa Việt Nam, Ủy ban nhân dân cấp Tỉnh, Sở Giao thông vận tải - TP. Hải Phòng, Cảng vụ Đường thủy nội địa
+Địa chỉ tiếp nhận HS:
+Bộ Giao thông vận tải, Uỷ ban nhân dân cấp tỉnh, Cục đường thủy nội địa Việt Nam; Sở Giao thông vận tải, Cảng vụ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thỏa thuận.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2021/NĐ-CP|Nghị định 08/2021/NĐ-CP|28-01-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

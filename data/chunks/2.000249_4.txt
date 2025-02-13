@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung thuộc thẩm quyền của Bộ Công Thương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
++ Trong trường hợp gửi hồ sơ bằng phương thức khác:
+- 01 Bản chính 01 bản cứng Dự thảo hợp đồng theo mẫu và/hoặc dự thảo điều kiện giao dịch chung được đóng dấu của tổ chức, cá nhân kinh doanh vào trang đầu và giáp lai toàn bộ văn bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe67d8ade0c092d'">MẪU ĐƠN ĐĂNG KÝ HỢP ĐỒNG THEO MẪU.docx</a>)
+- 01 Bản chính, 01 Bản sao 01 bản mềm Dự thảo hợp đồng theo mẫu và/hoặc điều kiện giao dịch chung dạng Microsoft Word.
+
+
++ Trong trường hợp gửi hồ sơ bằng phương tiện điện tử:
+- 01 Bản chính 01 bản scan màu Dự thảo hợp đồng theo mẫu và/hoặc dự thảo điều kiện giao dịch chung được đóng dấu của tổ chức, cá nhân kinh doanh vào trang đầu và giáp lai toàn bộ văn bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9baebaef57ff2'">MẪU ĐƠN ĐĂNG KÝ HỢP ĐỒNG THEO MẪU.docx</a>)
+- 01 Bản chính, 01 Bản sao 01 bản mềm Dự thảo hợp đồng theo mẫu và/hoặc dự thảo điều kiện giao dịch chung dạng Microsoft Word.

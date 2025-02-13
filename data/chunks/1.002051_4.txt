@@ -1,0 +1,57 @@
+Tên thủ tục: Đăng ký, điều chỉnh đóng BHXH, BHYT, BHTN, BHTNLĐ, BNN; cấp sổ BHXH, thẻ BHYT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ: Nộp hồ sơ trực tiếp cho cơ quan BHXH nơi quản lý hoặc nơi cư trú.
+2. Đơn vị SDLĐ
+2.1. Kê khai hồ sơ theo quy định tại điểm 6 mục Thành phần hồ sơ và nộp cho cơ quan BHXH;
+2.2. Nộp tiền đóng của đơn vị (bao gồm tiền đóng thuộc trách nhiệm của đơn vị SDLĐ và NLĐ), tiền đóng của NLĐ đi làm việc ở nước ngoài theo hợp đồng, tiền đóng của phu quân hoặc phu nhân, tiền đóng của NLĐ còn thiếu tối đa 06 tháng để đủ điều kiện hưởng lương hưu hoặc trợ cấp tuất hàng tháng đóng thông qua đơn vị cho cơ quan BHXH
+Bước 2.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+Bước 3. Nhận kết quả giải quyết
+Nhận kết quả gồm: Sổ BHXH, thẻ BHYT; Quyết định hoàn trả; Tiền hoàn trả thời gian đóng trùng BHXH, BHTN (nếu có).
+Thời hạn giải quyết
+Kể từ ngày cơ quan BHXH nhận đủ hồ sơ theo quy định:
+- Trường hợp cấp sổ BHXH, thẻ BHYT mới: Không quá 05 ngày.
+- Trường hợp tạm dừng đóng vào quỹ hưu trí, tử tuất: Không quá 05 ngày.
+- Trường hợp vi phạm quy định của pháp luật về đóng BHXH, BHYT, BHTN, BHTNLĐ-BNN: Không quá 10 ngày.
+- Trường hợp điều chỉnh tăng tiền lương đóng BHXH, BHYT, BHTN, BHTNLĐ-BNN: Không quá 03 ngày.
+- Trường hợp xác nhận sổ BHXH: Không quá 05 ngày.
+- Trường hợp hoàn trả do đóng trùng BHXH, BHTN: Không quá 10 ngày
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||1. Nộp hồ sơ: NLĐ và đơn vị SDLĐ nộp hồ sơ cho cơ quan BHXH bằng một trong các hình thức sau: a) Trực tiếp tại Bộ phận Một cửa của cơ quan BHXH; b) Thông qua dịch vụ bưu chính; c) Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công BHXH Việt Nam hoặc Tổ chức I-VAN. 2. Đóng tiền theo quy định 3. Nhận kết quả giải quyết: theo hình thức đã đăng ký.|
+|Trực tuyến|10 Ngày||1. Nộp hồ sơ: NLĐ và đơn vị SDLĐ nộp hồ sơ cho cơ quan BHXH bằng một trong các hình thức sau: a) Trực tiếp tại Bộ phận Một cửa của cơ quan BHXH; b) Thông qua dịch vụ bưu chính; c) Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công BHXH Việt Nam hoặc Tổ chức I-VAN. 2. Đóng tiền theo quy định 3. Nhận kết quả giải quyết: theo hình thức đã đăng ký.|
+|Dịch vụ bưu chính|10 Ngày||1. Nộp hồ sơ: NLĐ và đơn vị SDLĐ nộp hồ sơ cho cơ quan BHXH bằng một trong các hình thức sau: a) Trực tiếp tại Bộ phận Một cửa của cơ quan BHXH; b) Thông qua dịch vụ bưu chính; c) Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công BHXH Việt Nam hoặc Tổ chức I-VAN. 2. Đóng tiền theo quy định 3. Nhận kết quả giải quyết: theo hình thức đã đăng ký.|
+
+Thành phần hồ sơ:
+
+1. Đối với người tham gia BHXH bắt buộc, BHYT, BHTN, BHTNLĐ, BNN
+- 01 Bản chính Tờ khai tham gia điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS) đối với người tham gia lần đầu hoặc có mã số BHXH nhưng chưa đủ thông tin (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedc17bf5122706'">Mẫu TK1-TS.docx</a>)
+- 01 Bản chính Trường hợp NLĐ được hưởng quyền lợi BHYT cao hơn, bổ sung Giấy tờ chứng minh (nếu có) theo Phụ lục 03 ban hành kèm theo Quyết định số 948/QĐ-BHXH ngày 05/6/2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam
+
+
+2. Đối với người đi làm việc ở nước ngoài theo hợp đồng
+- 01 Bản chính Tờ khai tham gia điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS) đối với người tham gia lần đầu hoặc có mã số BHXH nhưng chưa đủ thông tin (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdba9bc22275f22'">Mẫu TK1-TS.docx</a>)
+- 01 Bản chính Hợp đồng lao động có thời hạn ở nước ngoài hoặc Hợp đồng lao động được gia hạn kèm theo văn bản gia hạn Hợp đồng lao động hoặc Hợp đồng lao động được ký mới tại nước tiếp nhận lao động theo hợp đồng
+
+
+3. Đối với người hưởng chế độ phu nhân hoặc phu quân tại cơ quan đại diện Việt Nam ở nước ngoài
+- 01 Bản chính Tờ khai tham gia điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS) đối với người tham gia lần đầu hoặc có mã số BHXH nhưng chưa đủ thông tin. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9ef182a3dcfca'">Mẫu TK1-TS.docx</a>)
+
+
+4. NLĐ và người đang bảo lưu thời gian đóng BHXH bắt buộc còn thiếu tối đa 06 tháng để đủ điều kiện hưởng lương hưu hoặc trợ cấp tuất hằng tháng, NLĐ hoặc thân nhân NLĐ chết kèm theo các giấy tờ
+- 01 Bản chính Tờ khai tham gia điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS) đối với người tham gia có mã số BHXH nhưng chưa đủ thông tin (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb7ee5264c5bfe8'">Mẫu TK1-TS.docx</a>)
+- 01 Bản chính Sổ BHXH của NLĐ
+
+
+5. Đối với NLĐ có từ 02 sổ BHXH trở lên có thời gian đóng BHXH, BHTN trùng nhau
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedcbcfa09d8509'">Mẫu TK1-TS.docx</a>)
+- 01 Bản chính Các sổ BHXH
+
+
+6. Đối với đơn vị SDLĐ
+- 01 Bản chính a) Tờ khai đơn vị tham gia, điều chỉnh thông tin BHXH, BHYT (Mẫu TK3-TS) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe69bde898581eb'">Mẫu TK3-TS.docx</a>)
+- 01 Bản chính b) Báo cáo tình hình sử dụng lao động và danh sách tham gia BHXH, BHYT, BHTN (Mẫu D02-LT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc661bfb6d98760'">Mẫu D02-LT.docx</a>)
+- 01 Bản sao c) Bản sao văn bản của cơ quan nhà nước có thẩm quyền liên quan đến điều chỉnh thông tin của đơn vị (nếu có)
+- 01 Bản chính, 01 Bản sao d) Hồ sơ của NLĐ

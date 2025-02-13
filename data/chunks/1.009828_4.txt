@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Sản xuất, chế biến chất phóng xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faaacb636c97200'">Mau 1_Don CP tien hanh CVBX.doc</a>)
+- 01 Bản sao + Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản chính + Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec4dd3a81fadb0'">Mau 01_KB nhan vien BX.doc</a>)
+- 01 Bản sao Bản sao Chứng chỉ nhân viên bức xạ của các nhân viên: sản xuất, chế biến chất phóng xạ, người phụ trách an toàn. Trường hợp người phụ trách an toàn chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ.
+- 01 Bản sao + Bản sao Giấy chứng nhận đào tạo an toàn bức xạ của nhân viên bức xạ.
+- 01 Bản chính + Báo cáo đánh giá an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4b717395f97e8'">Mau 02_PL5_BC san xuat, che bien PX.doc</a>)
+- 01 Bản sao + Bản sao Biên bản kiểm xạ.
+- 01 Bản chính + Kế hoạch ứng phó sự cố (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe729dc4fd7ff2b'">PL02_NoidungKHUPSC.doc</a>)

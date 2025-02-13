@@ -1,0 +1,13 @@
+Tên thủ tục: Giao nộp, thu nhận dữ liệu về địa chất, khoáng sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Các dữ liệu về địa chất, khoáng sản còn lại (trừ báo cáo địa chất)
+- 01 Bản chính Hình thức, quy cách các loại dữ liệu giao nộp được quy định tại các văn bản quy định riêng của từng loại
+
+
+Đối với báo cáo địa chất
+- 01 Bản chính Báo cáo địa chất là thông tin về địa chất, khoáng sản của một đề án, dự án nghiên cứu, điều tra cơ bản địa chất về khoáng sản; thăm dò khoáng sản đã được cơ quan có thẩm quyền phê duyệt hoặc xác nhận tính hợp pháp và giá trị thông tin trong báo cáo. Báo cáo địa chất bao gồm tài liệu tổng hợp, tài liệu nguyên thủy và các mẫu vật (nếu có)
+- 01 Bản chính Tài liệu tổng hợp gồm: thuyết minh và các tài liệu tổng hợp được trình bày dưới dạng phụ lục, bản đồ, ảnh minh họa thể hiện đầy đủ các kết quả thực hiện
+- 01 Bản chính Tài liệu nguyên thủy là các loại tài liệu được thu thập tại thực địa, bao gồm: các loại nhật ký, sổ thực địa, các loại bản đồ, thiết đồ, sơ đồ, ảnh chụp, băng, đĩa; các kết quả đo đạc

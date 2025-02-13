@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký Điều lệ vận chuyển của hãng hàng không Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe14f7e5c2dd84c'">HK-90.doc</a>)
+- 01 Bản chính Bản sao Điều lệ vận chuyển.

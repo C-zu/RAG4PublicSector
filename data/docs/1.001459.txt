@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001459
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Hủy đăng ký hoặc thôi không tham gia dự án JCM (TTHC cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khí tượng, thủy văn
+Trình tự thực hiện:
+Trong quá trình thực hiện dự án, nếu muốn thôi không tham gia dự án hoặc hủy đăng ký dự án, các bên tham gia dự án có thể gửi đơn bằng tiếng Việt và tiếng Anh qua thư điện tử cho Tổ thư ký.
+Sau khi nhận được yêu cầu của bên tham gia dự án, Tổ thư ký trình Ủy ban Hỗn hợp xem xét và ra quyết định.
+Tổ thư ký đăng tải quyết định của Ủy ban Hỗn hợp trên trang điện tử kèm theo các thông tin liên quan đến việc hủy đăng ký dự án hoặc thôi không tham gia dự án của các bên.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Không có quy định cụ thể|||
+
+Thành phần hồ sơ:
+
+Đối với yêu cầu hủy dự án:
+- 01 Bản chính Đơn xin hủy đăng ký dự án bằng tiếng Việt ([Mẫu 23.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe413bc42be7a4b'))
+- 01 Bản chính Đơn xin hủy đăng ký dự án bằng tiếng anh ([Mẫu 24.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0e023879fafec'))
+
+
+Đối với yêu cầu thôi không tham gia dự án:
+- 01 Bản chính Đơn thôi không tham gia dự án bằng tiếng Việt ([Mẫu 19.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb78b7d6e7f0b98'))
+- 01 Bản chính Đơn thôi không tham gia dự án bằng tiếng Anh ([Mẫu 20.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdad4bde0043a1e'))
+- 01 Bản chính Đơn đề nghị thay đổi nội dung MoC bằng tiếng Việt ([Mẫu 21.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7c6d297901ddd'))
+- 01 Bản chính Đơn đề nghị thay đổi nội dung MoC bằng tiếng Anh ([Mẫu 22.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe064351b1830cb'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban hỗ trợ của cơ chế JCM
+Cơ quan có thẩm quyền:
+Ủy ban hỗ trợ của cơ chế JCM
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Tổ thư ký đăng tải quyết định của Ủy ban Hỗn hợp trên trang điện tử kèm theo các thông tin liên quan
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|17/2015/TT-BTNMT|Quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản|06-04-2015|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

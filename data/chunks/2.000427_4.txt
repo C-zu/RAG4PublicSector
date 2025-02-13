@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định, phê duyệt bổ sung, điều chỉnh quy hoạch đối với dự án đầu tư xây dựng công trình kho LNG có dung tích kho dưới 5.000m3
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị bổ sung, điều chỉnh quy hoạch đối với dự án đầu tư xây dựng kho LNG của tổ chức, cá nhân: theo mẫu tại Phụ lục 1 Thông tư số 39/2013/TT-BCT ngày 31 tháng 12 năm 2013 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb0be8fbe4ee44'">Phụ lục I Thông tư số 392013TT-BCT.doc</a>)
+- 01 Bản sao Bản sao có chứng thực Giấy chứng nhận quyền sử dụng đất và Văn bản chấp thuận về địa điểm đầu tư của cấp có thẩm quyền tại địa phương nơi có dự án đầu tư xây dựng công trình kho LNG phù hợp với quy hoạch xây dựng hoặc Thỏa thuận về địa điểm đầu tư xây dựng công trình kho LNG chưa có trong quy hoạch xây dựng của cấp có thẩm quyền
+- 01 Bản sao Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp có đăng ký ngành nghề kinh doanh LNG
+- 01 Bản chính Báo cáo sơ bộ sự cần thiết của dự án đầu tư, cân đối cung cầu LNG khu vực, sự phù hợp về về địa điểm, quy mô; dung tích; các yêu cầu về kỹ thuật an toàn: Phương án phòng cháy, chữa cháy, phương án bảo vệ môi trường; tiến độ của dự án đầu tư; tính toán phương án kinh doanh và hiệu quả dự án đầu tư
+- 01 Bản chính Phương án công nghệ dự kiến áp dụng, các thiết bị công nghệ chính đối với công trình kho LNG
+- 01 Bản chính Hệ thống kỹ thuật và hạ tầng kỹ thuật chủ yếu của công trình
+- 01 Bản chính Phương án thu xếp vốn đầu tư
+- 01 Bản sao Bản sao có chứng thực báo cáo tài chính doanh nghiệp ba (03) năm gần nhất doanh nghiệp đã hoạt động trên ba (03) năm
+- 01 Bản chính Báo cáo tài chính của doanh nghiệp hai (02) năm gần nhất hoặc một (01) năm gần nhất đối với doanh nghiệp mới hoạt động được hai (02) năm hoặc một (01) năm. Những doanh nghiệp mới thành lập hoặc hoạt động dưới một (01) năm không phải nộp báo cáo tài chính doanh nghiệp
+- 01 Bản chính Danh mục các tiêu chuẩn quốc gia (TCVN), quy chuẩn kỹ thuật quốc gia (QCVN) đã được áp dụng hoặc các tiêu chuẩn quốc tế tương đương phù hợp với quy định pháp luật hiện hành và khoảng cách an toàn công trình LNG

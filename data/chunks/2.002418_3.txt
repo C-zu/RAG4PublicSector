@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ tư vấn, công nghệ cho doanh nghiệp nhỏ và vừa, hỗ trợ phát triển nguồn nhân lực, hỗ trợ doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo và tham gia cụm liên kết ngành, chuỗi giá trị
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 14 ngày làm việc kể từ khi nhận đủ hồ sơ đề xuất nhu cầu hỗ trợ doanh nghiệp nhỏ và vừa.|Phí : 0 Đồng Không có|Trực tiếp|
+|Dịch vụ bưu chính|Trong thời hạn 14 ngày làm việc kể từ khi nhận đủ hồ sơ đề xuất nhu cầu hỗ trợ doanh nghiệp nhỏ và vừa|Phí : 0 Đồng Không có|Qua dịch vụ bưu chính công ích|

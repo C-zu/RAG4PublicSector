@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Sổ thuyền viên
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân nộp một (01) bộ hồ sơ đề nghị đăng ký và cấp Sổ thuyền viên trực tiếp hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến một trong các Cơ quan đăng ký thuyền viên.
+b) Giải quyết TTHC:
+- Cơ quan đăng ký thuyền viên tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
++ Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; nếu hồ sơ không đầy đủ theo quy định thì trả lại ngay và hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ;
++ Trường hợp nhận hồ sơ qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến, nếu hồ sơ không đầy đủ theo quy định, trong thời gian chậm nhất hai (02) ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan đăng ký thuyền viên hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ (gửi bằng văn bản hoặc thông qua tài khoản của tổ chức, cá nhân trên hệ thống dịch vụ công).
+- Trong thời hạn hai (02) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, theo quy định, cơ quan đăng ký thuyền viên thực hiện việc vào Sổ đăng ký thuyền viên và cấp Sổ thuyền viên theo mẫu. Trường hợp không cấp, cơ quan đăng ký thuyền viên phải trả lời bằng văn bản trong thời hạn quy định tại khoản này và nêu rõ lý do.

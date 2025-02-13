@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (Theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd47231c9935ba8'">214-btc.signed.pdf</a>|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (Theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9d87e1e552cdc'">214-btc.signed.pdf</a>|- Nộp qua hệ thống dịch vụ công trực tuyến: Cổng Thông tin một cửa Quốc gia (https://vnsw.gov.vn)|
+|Dịch vụ bưu chính|15 Ngày|Lệ phí : 50.0000 Đồng 50.000 đồng/hồ sơ (Theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feda857dd227e33'">214-btc.signed.pdf</a>|Nộp qua hệ thống bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, phường Cửa Đông, quận Hoàn Kiếm, Hà Nội);|

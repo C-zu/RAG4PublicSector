@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp mới số lưu hành đối với trang thiết bị y tế khác thuộc loại C, D
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Trường hợp xử lý ưu tiên: xác định hồ sơ có đủ điều kiện xử lý ưu tiên hay không trong 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của cơ sở đăng ký đề nghị ưu tiên xử lý trước hồ sơ đăng ký lưu hành thiết bị y tế và tài liệu kèm theo. Trường hợp đủ điều kiện xử lý ưu tiên, thực hiện xử lý ưu tiên ngay theo quy định.|
+|Trực tuyến|45 Ngày làm việc|Phí : 6.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C,D|- Trường hợp xử lý bình thường: Sau 45 ngày, kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (bao gồm cả giấy tờ xác nhận đã nộp phí thẩm định cấp giấy phép lưu hành theo quy định của Bộ Tài chính).|
+|Trực tuyến|10 Ngày làm việc||- Trường hợp xử lý ưu tiên: xác định hồ sơ có đủ điều kiện xử lý ưu tiên hay không trong 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của cơ sở đăng ký đề nghị ưu tiên xử lý trước hồ sơ đăng ký lưu hành thiết bị y tế và tài liệu kèm theo. Trường hợp đủ điều kiện xử lý ưu tiên, thực hiện xử lý ưu tiên ngay theo quy định.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trường hợp xử lý ưu tiên: xác định hồ sơ có đủ điều kiện xử lý ưu tiên hay không trong 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của cơ sở đăng ký đề nghị ưu tiên xử lý trước hồ sơ đăng ký lưu hành thiết bị y tế và tài liệu kèm theo. Trường hợp đủ điều kiện xử lý ưu tiên, thực hiện xử lý ưu tiên ngay theo quy định.|

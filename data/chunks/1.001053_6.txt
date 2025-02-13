@@ -1,0 +1,22 @@
+Tên thủ tục: Hưởng chế độ ốm đau
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+* Trường hợp được hưởng chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động hoặc điều trị thương tật do tai nạn lao động, bệnh nghề nghiệp phải nghỉ việc và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế.
+          - Người lao động phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.
+          * Trường hợp không giải quyết chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn phải nghỉ việc do tự hủy hoại sức khỏe do say rượu hoặc sử dụng chất ma túy, tiền chất ma túy theo Danh mục ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ ban hành các danh mục chất ma túy và tiền chất và Nghị định số 126/2015/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ sửa đổi, bổ sung Danh mục các chất ma túy và tiền chất ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013.
+          - Người lao động nghỉ việc điều trị lần đầu do tai nạn lao động, bệnh nghề nghiệp.
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động trong thời gian đang nghỉ phép hằng năm, nghỉ việc riêng, nghỉ không hưởng lương theo quy định của pháp luật lao động; nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+* Trường hợp được hưởng chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động hoặc điều trị thương tật do tai nạn lao động, bệnh nghề nghiệp phải nghỉ việc và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế.
+          - Người lao động phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.
+          * Trường hợp không giải quyết chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn phải nghỉ việc do tự hủy hoại sức khỏe do say rượu hoặc sử dụng chất ma túy, tiền chất ma túy theo Danh mục ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ ban hành các danh mục chất ma túy và tiền chất và Nghị định số 126/2015/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ sửa đổi, bổ sung Danh mục các chất ma túy và tiền chất ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013.
+          - Người lao động nghỉ việc điều trị lần đầu do tai nạn lao động, bệnh nghề nghiệp.
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động trong thời gian đang nghỉ phép hằng năm, nghỉ việc riêng, nghỉ không hưởng lương theo quy định của pháp luật lao động; nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

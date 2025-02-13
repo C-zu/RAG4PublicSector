@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận quyền sử dụng mã số, mã vạch
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm Mã số, Mã vạch Quốc gia
+Cơ quan có thẩm quyền:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng mã số, mã vạch
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|74/2018/NĐ-CP|Nghị định 74/2018/NĐ-CP|15-05-2018|Chính phủ|
+|232/2016/TT-BTC|Thông tư số 232/2016/TT-BTC ngày 11 tháng 11 năm 2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cấp mã số, mã vạch|11-11-2016|Bộ Tài chính|

@@ -1,0 +1,8 @@
+Tên thủ tục: Chuyển loại rừng đối với khu rừng do Thủ tướng Chính phủ quyết định thành lập
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|a) Đối với khu rừng thuộc Bộ Nông nghiệp và Phát triển nông thôn quản lý: 60 ngày làm việc. b) Đối với khu rừng thuộc Ủy ban nhân dân cấp tỉnh quản lý: 75 ngày làm việc.||a) Đối với khu rừng thuộc Bộ Nông nghiệp và Phát triển nông thôn quản lý: 60 ngày làm việc. b) Đối với khu rừng thuộc Ủy ban nhân dân cấp tỉnh quản lý: 75 ngày làm việc.|
+|Dịch vụ bưu chính|a) Đối với khu rừng thuộc Bộ Nông nghiệp và Phát triển nông thôn quản lý: 60 ngày làm việc. b) Đối với khu rừng thuộc Ủy ban nhân dân cấp tỉnh quản lý: 75 ngày làm việc.||a) Đối với khu rừng thuộc Bộ Nông nghiệp và Phát triển nông thôn quản lý: 60 ngày làm việc. b) Đối với khu rừng thuộc Ủy ban nhân dân cấp tỉnh quản lý: 75 ngày làm việc.|

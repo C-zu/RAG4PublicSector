@@ -1,0 +1,9 @@
+Tên thủ tục: Khen thưởng chuyên đề
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của thủ trưởng đơn vị kèm danh sách cá nhân, tập thể được đề nghị khen thưởng (mẫu số 02 tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef24f16b28aad0'">Mẫu số 02.docx</a>)
+- 01 Bản chính + Báo cáo thành tích cá nhân, tập thể được đề nghị khen thưởng (mẫu số 20 tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019). Trường hợp đề nghị Bằng khen của Thủ tướng Chính phủ, báo cáo thành tích là 03 bản; Huân chương, báo cáo thành tích là 04 bản; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedce686c3facf0'">Mẫu số 20.docx</a>)
+- 04 Bản chính + Biên bản họp Hội đồng Thi đua - Khen thưởng đơn vị.

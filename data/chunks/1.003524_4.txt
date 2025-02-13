@@ -1,0 +1,16 @@
+Tên thủ tục: Kiểm tra chất lượng muối nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy Đăng ký kiểm tra chất lượng muối nhập khẩu theo Mẫu số 01 Phụ lục III ban hành kèm theo Nghị định số 154/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc669a6b34b1d4c'">Mẫu số 01.docx</a>)
+- 01 Bản sao - Bản sao Hợp đồng (Contract) mua bán hàng hóa (là bản tiếng Việt hoặc bản tiếng Anh, nếu là ngôn ngữ khác thì người nhập khẩu phải nộp kèm bản dịch ra tiếng Việt và chịu trách nhiệm trước pháp luật về nội dung bản dịch);
+- 01 Bản sao - Bản sao Danh mục hàng hóa (Packing List – nếu có);
+- 01 Bản sao - Bản sao Hóa đơn (Invoice) có xác nhận của người nhập khẩu;
+- 01 Bản sao - Bản sao Vận đơn (Bill of Loading) có xác nhận của người nhập khẩu;
+- 01 Bản sao - Bản sao Tờ khai hàng hóa nhập khẩu có xác nhận của người nhập khẩu;
+- 01 Bản sao - Bản sao Giấy chứng nhận xuất xứ hàng hóa (C/O-Certificate of Origin – nếu có);
+- 01 Bản sao - Bản sao Giấy phép nhập khẩu theo hạn ngạch thuế quan (nếu có);
+- 01 Bản sao - Giấy chứng nhận chất lượng lô hàng muối nhập khẩu hoặc Chứng thư giám định chất lượng lô hàng muối nhập khẩu;
+- 01 Bản sao - Ảnh hoặc bản mô tả hàng hóa có các nội dung bắt buộc phải thể hiện trên nhãn hàng hóa và nhãn phụ nếu nhãn chính chưa đủ nội dung theo quy định (trừ trường hợp nhập khẩu muối rời).

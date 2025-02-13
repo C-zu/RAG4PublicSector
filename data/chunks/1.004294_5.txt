@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Địa chỉ tiếp nhận HS:
+Cục Phát thanh, truyền hình và thông tin điện tử Số 115 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2013/NĐ-CP|Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng|15-07-2013|Chính phủ|
+|27/2018/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng|01-03-2018|Chính phủ|
+|17/2016/TT-BTTTT|Quy định chi tiết về quy trình, thủ tục đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động|28-06-2016|Bộ Thông tin và Truyền thông|

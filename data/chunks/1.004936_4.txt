@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp, cấp lại, gia hạn giấy phép hoạt động cho tổ chức, cá nhân nước ngoài có tàu hoạt động thuỷ sản trong vùng biển Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp giấy phép bao gồm:
+- 01 Bản chính a) Đơn đề nghị theo Mẫu số 11.KT Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c0d3babc81e1'">Mẫu số 11.KT Phụ lục IV.docx</a>)
+- 01 Bản sao b) Bản sao chứng thực các giấy tờ, văn bản quy định tại Ðiều 55 Luật Thủy sản;
+- 01 Bản sao c) Danh sách thuyền viên, người làm việc trên tàu cá theo Mẫu số 12.KT Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea77e0fae48ddf'">Mẫu số 12.KT Phụ lục IV.docx</a>)
+
+
+Hồ sơ đề nghị cấp lại giấy phép bao gồm:
+- 01 Bản chính a) Đơn đề nghị cấp lại theo Mẫu số 13.KT Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6a33ee9fe20fc'">Mẫu số 13.KT Phụ lục IV.docx</a>)
+- 01 Bản sao b) Giấy phép đã được cấp (đối với trường hợp Giấy phép bị rách, nát);
+- 01 Bản sao c) Báo cáo về việc thay đổi tàu cá hoặc thay đổi nghề (nếu có).
+
+
+Hồ sơ đề nghị gia hạn giấy phép gồm:
+- 01 Bản chính a) Đơn đề nghị theo Mẫu số 14.KT Phụ lục IV ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdec7f378ccc074'">Mẫu số 14.KT Phụ lục IV.docx</a>)
+- 01 Bản sao b) Giấy chứng nhận an toàn kỹ thuật tàu cá;
+- 01 Bản sao c) Báo cáo tình hình hoạt động của tàu cá trong thời gian được cấp Giấy phép;
+- 01 Bản sao d) Nhật ký khai thác thủy sản (đối với tàu hoạt động đánh bắt nguồn lợi thuỷ sản).

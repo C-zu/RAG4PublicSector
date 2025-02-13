@@ -1,0 +1,6 @@
+Tên thủ tục: Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Người khai hải quan thực hiện đăng ký Danh mục các chi tiết, linh kiện rời của máy móc, thiết bị, bằng phương thức điện tử kèm theo 01 Phiếu theo dõi trừ lùi các chi tiết, linh kiện rời của máy móc, thiết bị trước khi nhập khẩu lô hàng đầu tiên với Chi cục Hải quan nơi thuận tiện nhất;
++ Chi cục Hải quan nơi người khai hải quan đăng ký Danh mục có trách nhiệm tiếp nhận, lập phiếu theo dõi, đóng dấu xác nhận vào 02 bản Danh mục hàng hóa nhập khẩu và 01 bản phiếu theo dõi trừ; thực hiện phân loại, tính thuế và trừ lùi khi làm thủ tục hải quan cho hàng hóa thực tế nhập khẩu.

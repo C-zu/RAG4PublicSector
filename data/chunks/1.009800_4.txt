@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo, thay đổi về tỷ lệ sở hữu nước ngoài tối đa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Giấy thông báo, thay đổi về tỷ lệ sở hữu nước ngoài tối đa; + Giấy chứng nhận đăng ký doanh nghiệp, Giấy phép thành lập và hoạt động hoặc giấy tờ pháp lý có giá trị tương đương, Giấy xác nhận thay đổi nội dung đăng ký doanh nghiệp, trong đó có nội dung về ngành nghề đăng ký kinh doanh; + Trường hợp doanh nghiệp cổ phần hóa thì bổ sung văn bản của cấp có thẩm quyền phê duyệt đề án cổ phần hóa, trong đó có nội dung về tỷ lệ sở hữu nước ngoài của công ty (nếu có); + Điều lệ công ty và Nghị quyết Đại hội đồng cổ đông thông qua tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng (đối với trường hợp công ty thực hiện tỷ lệ sở hữu nước ngoài tối đa theo Nghị quyết Đại hội đồng cổ đông).

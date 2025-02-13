@@ -1,0 +1,101 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002941
+Số quyết định:
+5652/QĐ-BYT
+Tên thủ tục:
+Cấp mới số lưu hành đối với trang thiết bị y tế là phương tiện đo nhưng không phải phê duyệt mẫu theo quy định của pháp luật về đo lường
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trang thiết bị và công trình y tế
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp số lưu hành nộp hồ sơ tại Bộ Y tế (Vụ Trang thiết bị và Công trình Y tế).
+Bước 2: Khi nhận hồ sơ đầy đủ, hợp lệ, Bộ Y tế cấp cho cơ sở đề nghị cấp số lưu hành Phiếu tiếp nhận hồ sơ đề nghị cấp số lưu hành trang thiết bị y tế theo mẫu số 04 quy định tại Phụ lục IV ban hành kèm theo Nghị định số 36/2016/NĐ-CP.
+Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ đăng ký lưu hành, Bộ trưởng Bộ Y tế có trách nhiệm: Tổ chức thẩm định để cấp mới số lưu hành trong thời hạn 60 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ. Trường hợp không cấp mới số lưu hành phải có văn bản trả lời và nêu rõ lý do;
+Trường hợp hồ sơ đề nghị cấp số lưu hành chưa hoàn chỉnh thì Bộ Y tế phải có văn bản thông báo cho cơ sở đề nghị cấp mới số lưu hành để bổ sung, sửa đổi hồ sơ, trong đó phải nêu cụ thể là bổ sung những tài liệu nào, nội dung nào cần sửa đổi trong thời hạn 15 ngày làm việc.
+Trường hợp hội đồng thẩm định yêu cầu sửa đổi, bổ sung hồ sơ thì trong thời hạn 10 ngày làm việc, kể từ ngày có biên bản họp hội đồng, Bộ Y tế có văn bản thông báo cho cơ sở đề nghị cấp số lưu hành để bổ sung hồ sơ. Văn bản thông báo phải nêu cụ thể là bổ sung những tài liệu nào, nội dung nào cần sửa đổi.
+Bước 3: Khi nhận được văn bản yêu cầu bổ sung, sửa đổi hồ sơ đề nghị cấp số lưu hành, cơ sở đề nghị cấp số lưu hành phải bổ sung, sửa đổi theo đúng những nội dung đã được ghi trong văn bản và gửi về Bộ Y tế. Ngày tiếp nhận hồ sơ bổ sung, sửa đổi được ghi trên Phiếu tiếp nhận hồ sơ.
+Sau 60 ngày, kể từ ngày Bộ Y tế có văn bản yêu cầu mà cơ sở không bổ sung, sửa đổi hồ sơ thì phải thực hiện lại từ đầu thủ tục đề nghị cấp số lưu hành.
+Bước 4: Trong thời hạn 03 ngày làm việc, kể từ ngày cấp số lưu hành, Bộ Y tế có trách nhiệm công khai trên cổng thông tin điện tử của Bộ Y tế các thông tin sau:
+a) Tên, phân loại, cơ sở sản xuất, nước sản xuất trang thiết bị y tế;
+b) Số lưu hành của trang thiết bị y tế;
+c) Tên, địa chỉ của chủ sở hữu trang thiết bị y tế;
+d) Tên, địa chỉ của chủ sở hữu số lưu hành;
+đ) Tên, địa chỉ của cơ sở bảo hành trang thiết bị y tế;
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày làm việc|Phí : 3000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại B  Phí : 5000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C,D|Sau 60 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Trực tuyến|60 Ngày làm việc|Phí : 3.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại B  Phí : 5.000.000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C, D|Sau 60 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|60 Ngày làm việc|Phí : 3000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại B  Phí : 5000000 Đồng Phí thẩm định hồ sơ đăng ký lưu hành trang thiết bị y tế loại C,D|Sau 60 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp mới số lưu hành theo mẫu số 04 quy định tại Phụ lục I ban hành kèm theo Nghị định số 36/2016/NĐ-CP ([Mẫu số 04_PL1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc17da181149744'))
+- 01 Bản chính Bản phân loại trang thiết bị y tế theo mẫu quy định tại Phụ lục V ban hành kèm theo Nghị định 36/2016/NĐ-CP; ([PhulucV.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc090afeacde9ac'))
+- 01 Bản sao Giấy chứng nhận đạt tiêu chuẩn quản lý chất lượng còn hiệu lực tại thời điểm nộp hồ sơ, trừ trường hợp trang thiết bị y tế đã được cấp giấy chứng nhận lưu hành tự do của một trong các nước hoặc tổ chức sau: Các nước thành viên EU, Nhật Bản, Ca-na-đa, TGA của Úc, FDA của Mỹ (Đối với Giấy chứng nhận đạt tiêu chuẩn quản lý chất lượng: Nộp bản gốc hoặc bản sao có chứng thực hoặc bản sao có xác nhận của cơ sở đề nghị cấp số lưu hành. Trường hợp nộp bản sao có xác nhận của cơ sở đề nghị cấp số lưu hành thì khi nộp hồ sơ phải xuất trình bản gốc để đối chiếu hoặc cung cấp nguồn dữ liệu để cơ quan tiếp nhận hồ sơ tra cứu về tính hợp lệ của các giấy tờ này. Trường hợp Giấy chứng nhận đạt tiêu chuẩn quản lý chất lượng không bằng tiếng Anh hoặc không bằng tiếng Việt thì phải dịch ra tiếng Việt. Bản dịch phải được chứng thực theo quy định của pháp luật; Đối với giấy chứng nhận lưu hành tự do: Nộp bản đã được hợp pháp hóa lãnh sự hoặc bản sao có chứng thực của bản đã được hợp pháp hóa lãnh sự. Trường hợp giấy chứng nhận lưu hành tự do không bằng tiếng Anh hoặc không bằng tiếng Việt thì phải dịch ra tiếng Việt. Bản dịch phải được chứng thực theo quy định của pháp luật. Trường hợp giấy chứng nhận lưu hành tự do không ghi rõ thời hạn hết hiệu lực thì thời điểm hết hết hiệu lực của giấy chứng nhận lưu hành tự do được tính là 36 tháng, kể từ ngày cấp) ;
+- 01 Bản sao Giấy ủy quyền của chủ sở hữu trang thiết bị y tế cho cơ sở thực hiện việc đăng ký lưu hành theo mẫu quy định tại Phụ lục VI ban hành kèm theo Nghị định 36/2016/NĐ-CP còn hiệu lực tại thời điểm nộp hồ sơ, trừ trường hợp theo quy định tại điểm a khoản 1 Điều 21 Nghị định 36/2016/NĐ-CP (Đối với trang thiết bị y tế sản xuất trong nước: Nộp bản gốc hoặc bản sao có chứng thực; Đối với trang thiết bị y tế nhập khẩu: Nộp bản đã được hợp pháp hóa lãnh sự hoặc bản sao có chứng thực của bản đã được hợp pháp hóa lãnh sự); ([PhulucVI.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbcf90b436738a0'))
+- 01 Bản sao Giấy xác nhận đủ điều kiện bảo hành do chủ sở hữu trang thiết bị y tế cấp theo mẫu quy định tại Phụ lục VII ban hành kèm theo Nghị định 36/2016/NĐ-CP, trừ trường hợp trang thiết bị y tế sử dụng một lần theo quy định của chủ sở hữu trang thiết bị y tế (Đối với trang thiết bị y tế sản xuất trong nước: Nộp bản gốc hoặc bản sao có chứng thực; Đối với trang thiết bị y tế nhập khẩu: Nộp bản đã được hợp pháp hóa lãnh sự hoặc bản sao có chứng thực của bản đã được hợp pháp hóa lãnh sự); ([PhulucVII.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe162080bdbb4e3'))
+- 01 Bản sao Giấy chứng nhận lưu hành tự do còn hiệu lực tại thời điểm nộp hồ sơ đối với trang thiết bị y tế nhập khẩu (Nộp bản đã được hợp pháp hóa lãnh sự hoặc bản sao có chứng thực của bản đã được hợp pháp hóa lãnh sự. Trường hợp giấy chứng nhận lưu hành tự do không bằng tiếng Anh hoặc không bằng tiếng Việt thì phải dịch ra tiếng Việt. Bản dịch phải được chứng thực theo quy định của pháp luật. Trường hợp giấy chứng nhận lưu hành tự do không ghi rõ thời hạn hết hiệu lực thì thời điểm hết hết hiệu lực của giấy chứng nhận lưu hành tự do được tính là 36 tháng, kể từ ngày cấp);
+- 01 Bản chính Tài liệu mô tả tóm tắt kỹ thuật trang thiết bị y tế bằng tiếng Việt theo mẫu số 01 quy định tại Phụ lục VIII ban hành kèm theo Nghị định 36/2016/NĐ-CP; ([PhulucVIII.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee68f2d6da9e79'))
+- 01 Bản sao Tài liệu kỹ thuật (catalogue) mô tả chức năng, thông số kỹ thuật của trang thiết bị y tế; Tài liệu kỹ thuật đối với thuốc thử, chất hiệu chuẩn, vật liệu kiểm soát in vitro theo mẫu số 02 quy định tại Phụ lục VIII ban hành kèm theo Nghị định 36/2016/NĐ-CP (Nộp bản có xác nhận của cơ sở đề nghị cấp số lưu hành. Trường hợp tài liệu kỹ thuật không bằng tiếng Anh hoặc không bằng tiếng Việt, thì phải dịch ra tiếng Việt. Bản dịch phải được chứng thực theo quy định của pháp luật); ([PhulucVIII.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbe037273dc9a30'))
+- 01 Bản sao Tài liệu hướng dẫn sử dụng của trang thiết bị y tế (Nộp bản bằng tiếng Việt có xác nhận của cơ sở đề nghị cấp số lưu hành);
+- 01 Bản sao Bản tóm tắt dữ liệu thử lâm sàng (Đối với trang thiết bị y tế thuộc loại C, D có xâm nhập cơ thể người) theo mẫu quy định tại Phụ lục IX ban hành kèm theo Nghị định 36/2016/NĐ-CP kèm theo kết quả nghiên cứu thử lâm sàng, trừ các trường hợp sau: Trang thiết bị y tế được sản xuất hoặc gia công tại Việt Nam chỉ với mục đích xuất khẩu mà nước nhập khẩu không yêu cầu phải thử lâm sàng; Trang thiết bị y tế đã được lưu hành và cấp giấy chứng nhận lưu hành tự do của một trong các nước hoặc tổ chức sau: các nước thành viên EU, Nhật Bản, Ca-na-đa, TGA của Úc, FDA của Mỹ; Các trường hợp khác theo quy định của Bộ trưởng Bộ Y tế. ([PHỤ LỤC IX.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee9ae6e2f9abd7'))
+- 01 Bản sao Giấy chứng nhận kiểm nghiệm theo quy định của Bộ trưởng Bộ Y tế (Đối với trang thiết bị y tế chẩn đoán in vitro thuộc loại C, D), trừ trường hợp trang thiết bị y tế đã được cấp giấy chứng nhận lưu hành tự do của một trong các nước hoặc tổ chức sau: Các nước thành viên EU, Nhật Bản, Ca-na-đa, TGA của Úc, FDA của Mỹ (Đối với giấy chứng nhận kiểm nghiệm: Nộp bản gốc hoặc bản sao có chứng thực hoặc bản sao có xác nhận của cơ sở đề nghị cấp số lưu hành. Trường hợp nộp bản sao có xác nhận của cơ sở đề nghị cấp số lưu hành thì khi nộp hồ sơ phải xuất trình bản gốc để đối chiếu);
+- 01 Bản sao Mẫu nhãn sẽ sử dụng khi lưu hành tại Việt Nam của trang thiết bị y tế ( Nộp bản mẫu nhãn có xác nhận của tổ chức đứng tên đăng ký lưu hành. Mẫu nhãn phải đáp ứng các yêu cầu theo quy định tại Điều 54 Nghị định 36/2016/NĐ-CP)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Cơ sở hạ tầng và Trang thiết bị y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Số đăng ký lưu hành
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Luật 67/2014/QH13|26-11-2014|Quốc Hội|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|36/2016/NĐ-CP|Nghị định 36/2016/NĐ-CP Về quản lý trang thiết bị y tế|15-05-2016|Chính phủ|
+|169/2018/NĐ-CP|Nghị định 169/2018/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 36/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ về quản lý trang thiết bị y tế|31-12-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Điều 21 Nghị định số 36/2016/NĐ-CP : Điều kiện của tổ chức được đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế
+
+1. Tổ chức được đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế bao gồm:
+a) Doanh nghiệp, hợp tác xã, hộ kinh doanh của Việt Nam là chủ sở hữu trang thiết bị y tế;
+
+b) Doanh nghiệp, hợp tác xã, hộ kinh doanh của Việt Nam có chức năng kinh doanh trang thiết bị y tế được chủ sở hữu trang thiết bị y tế ủy quyền đăng ký;
+
+c) Văn phòng đại diện thường trú tại Việt Nam của thương nhân nước ngoài mà thương nhân đó là chủ sở hữu trang thiết bị y tế hoặc được ủy quyền của chủ sở hữu trang thiết bị y tế.
+2. Tổ chức đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế phải có cơ sở bảo hành tại Việt Nam hoặc phải có hợp đồng với tổ chức đủ năng lực bảo hành trang thiết bị y tế mà mình đứng tên đăng ký, trừ trường hợp các trang thiết bị y tế sử dụng một lần theo quy định của chủ sở hữu trang thiết bị y tế.
+Trường hợp tổ chức đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế thuộc quy định tại điểm c khoản 1 Điều này thì chủ sở hữu trang thiết bị y tế phải có hợp đồng với cơ sở đủ năng lực bảo hành trang thiết bị y tế mà mình đứng tên công bố hoặc đăng ký, trừ trường hợp các trang thiết bị y tế sử dụng một lần theo quy định của chủ sở hữu trang thiết bị y tế.
+
+Cơ sở bảo hành phải được chủ sở hữu trang thiết bị y tế chứng nhận đủ năng lực bảo hành sản phẩm mà tổ chức đó đứng tên đề nghị cấp số lưu hành.
+Điều 21 Nghị định số 36/2016/NĐ-CP : Điều kiện của tổ chức được đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế
+
+1. Tổ chức được đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế bao gồm:
+a) Doanh nghiệp, hợp tác xã, hộ kinh doanh của Việt Nam là chủ sở hữu trang thiết bị y tế;
+
+b) Doanh nghiệp, hợp tác xã, hộ kinh doanh của Việt Nam có chức năng kinh doanh trang thiết bị y tế được chủ sở hữu trang thiết bị y tế ủy quyền đăng ký;
+
+c) Văn phòng đại diện thường trú tại Việt Nam của thương nhân nước ngoài mà thương nhân đó là chủ sở hữu trang thiết bị y tế hoặc được ủy quyền của chủ sở hữu trang thiết bị y tế.
+2. Tổ chức đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế phải có cơ sở bảo hành tại Việt Nam hoặc phải có hợp đồng với tổ chức đủ năng lực bảo hành trang thiết bị y tế mà mình đứng tên đăng ký, trừ trường hợp các trang thiết bị y tế sử dụng một lần theo quy định của chủ sở hữu trang thiết bị y tế.
+Trường hợp tổ chức đứng tên công bố tiêu chuẩn áp dụng hoặc đăng ký lưu hành trang thiết bị y tế thuộc quy định tại điểm c khoản 1 Điều này thì chủ sở hữu trang thiết bị y tế phải có hợp đồng với cơ sở đủ năng lực bảo hành trang thiết bị y tế mà mình đứng tên công bố hoặc đăng ký, trừ trường hợp các trang thiết bị y tế sử dụng một lần theo quy định của chủ sở hữu trang thiết bị y tế.
+
+Cơ sở bảo hành phải được chủ sở hữu trang thiết bị y tế chứng nhận đủ năng lực bảo hành sản phẩm mà tổ chức đó đứng tên đề nghị cấp số lưu hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp lại Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|103/2016/QH13|Luật 103/2016/QH13|05-04-2016||
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|06/2016/NĐ-CP|Nghị định 06/2016/NĐ-CP|18-01-2016|Chính phủ|
+|19/2016/TT-BTTTT|Thông tư 19/2016/TT-BTTTT|30-06-2016|Bộ Thông tin và Truyền thông|
+|71/2022/NĐ-CP|Nghị định 71/2022/NĐ-CP|01-10-2022||

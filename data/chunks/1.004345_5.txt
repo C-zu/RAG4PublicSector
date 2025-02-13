@@ -1,0 +1,24 @@
+Tên thủ tục: Chuyển nhượng quyền khai thác khoáng sản (cấp tỉnh)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép khai thác khoáng sản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2010/QH12|Luật 60/2010/QH12|17-11-2010|Quốc Hội|
+|191/2016/TT-BTC|Thông tư 191/2016/TT-BTC|08-11-2016|Bộ Tài chính|
+|158/2016/NĐ-CP|Nghị định 158/2016/NĐ-CP|29-11-2016|Chính phủ|
+|45/2016/TT-BTNMT|Thông tư 45/2016/TT-BTNMT|26-12-2016|Bộ Tài nguyên và Môi trường|

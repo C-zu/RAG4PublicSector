@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký giá của các doanh nghiệp thuộc danh sách đăng ký giá tại Bộ Tài chính.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân thực hiện đăng ký giá theo quy định tại Điều 6 Nghị định số 177/2013/NĐ-CP bằng việc lập Biểu mẫu đăng ký giá (sau đây gọi tắt là Biểu mẫu) và gửi cho Bộ Tài chính (Cục Quản lý giá) tiếp nhận Biểu mẫu (sau đây gọi tắt là Cơ quan tiếp nhận Biểu mẫu).
+Bước 2: 
+	a) Đối với Biểu mẫu gửi trực tiếp:
+	- Trường hợp Biểu mẫu có đủ thành phần, số lượng theo quy định, cán bộ tiếp nhận Biểu mẫu đóng dấu công văn đến có ghi ngày, tháng, năm vào Biểu mẫu và trả ngay 01 bản Biểu mẫu cho tổ chức, cá nhân đến nộp trực tiếp; đồng thời chuyển ngay 01 bản Biểu mẫu đến lãnh đạo cơ quan và các phòng, ban nghiệp vụ theo thẩm quyền trong ngày làm việc hoặc đầu giờ của ngày làm việc tiếp theo để thực hiện rà soát;
+	- Trường hợp Biểu mẫu không đủ thành phần, số lượng theo quy định, cán bộ tiếp nhận Biểu mẫu ghi rõ lý do trả lại, các nội dung cần bổ sung và trả lại ngay Biểu mẫu cho tổ chức, cá nhân đến nộp trực tiếp.
+b) Đối với Biểu mẫu gửi qua đường công văn, fax, thư điện tử:
+	- Khi nhận được Biểu mẫu, cán bộ tiếp nhận kiểm tra thành phần, số lượng Biểu mẫu, trường hợp Biểu mẫu có đủ thành phần, số lượng theo quy định, cán bộ tiếp nhận đóng dấu công văn đến có ghi ngày, tháng, năm vào Biểu mẫu và chuyển ngay theo đường bưu điện 01 bản Biểu mẫu cho tổ chức, cá nhân; đồng thời, chuyển ngay 01 bản Biểu mẫu đến lãnh đạo cơ quan, phòng, ban nghiệp vụ theo thẩm quyền để thực hiện rà soát ngay trong ngày làm việc hoặc đầu giờ của ngày làm việc tiếp theo;
+	- Trường hợp Biểu mẫu không đủ thành phần, số lượng theo quy định, tối đa không quá 02 ngày làm việc kể từ ngày nhận được Biểu mẫu, cơ quan tiếp nhận Biểu mẫu thông báo qua đường công văn, fax, thư điện tử yêu cầu tổ chức, cá nhân nộp bổ sung thành phần, số lượng Biểu mẫu. Ngày tổ chức, cá nhân nộp đủ thành phần, số lượng Biểu mẫu được tính là ngày tiếp nhận Biểu mẫu, cán bộ tiếp nhận đóng dấu công văn đến có ghi ngày, tháng, năm tiếp nhận vào Biểu mẫu.
+c) Hết thời hạn 05 ngày làm việc kể từ ngày tiếp nhận Biểu mẫu quy định tại điểm a, điểm b khoản này, nếu cơ quan tiếp nhận Biểu mẫu không có ý kiến yêu cầu tổ chức, cá nhân giải trình về các nội dung của Biểu mẫu thì tổ chức, cá nhân được mua, bán theo mức giá đăng ký.

@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ lãi suất vay vốn từ ngân hàng thương mại cho trang trại và cơ sở ngành nghề nông thôn đối với doanh nghiệp (Căn cứ Điều 32 NQ số 07/2022/NQ-HĐND)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo kỳ họp HĐND tỉnh|||
+|Trực tuyến|Theo kỳ họp HĐND tỉnh||Áp dụng DVC trực tuyến một phần theo Quyết định số 881/QĐ-UBND ngày 24/7/2023 của Chủ tịch UBND tỉnh Bắc Ninh công bố danh mục dịch vụ công trực tuyến toàn trình và một phần thực hiện tại 3 cấp áp dụng trên địa bàn tỉnh Bắc Ninh|
+|Dịch vụ bưu chính|Theo kỳ họp HĐND tỉnh|||

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy chứng nhận đủ điều kiện kinh doanh thuốc đối với cơ sở kinh doanh dịch vụ bảo quản dược liệu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh thuốc theo phụ lục số 01a ban hành kèm theo Thông tư số 03/2016/TT – BYT ngày 21/01/2016 của Bộ trưởng Bộ Y tế.
+- 01 Bản chính Bản chính chứng chỉ hành nghề dược của người quản lý chuyên môn về dược phù hợp với hình thức tổ chức kinh doanh và bản sao Giấy chứng nhận đăng ký hộ kinh doanh cá thể hoặc Giấy chứng nhận đăng ký doanh nghiệp có chứng thực hoặc bản sao có chữ ký của chủ cơ sở và đóng dấu xác nhận (nếu là doanh nghiệp).
+- 01 Bản chính Sơ đồ vị trí và thiết kế của kho bảo quản
+- 01 Bản chính Danh mục thiết bị bảo quản của cơ sở và đối tượng được bảo quản tại kho.

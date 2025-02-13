@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000153
+Số quyết định:
+929/QĐ_BHXH
+Tên thủ tục:
+Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Thu BHXH, BHYT, BHTN, BH tai nạn lao động, BNN

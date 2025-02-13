@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp Giấy phép bị mất, bị hỏng:
+- 01 Bản chính (1) Đơn đề nghị cấp sửa đổi Giấy phép bán buôn rượu theo Mẫu số 03 ban hành kèm theo Nghị định số 17/2020/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd709f39744545e'">MẪU SỐ 03 RƯỢU.docx</a>)
+- 01 Bản chính, 01 Bản sao (2) Bản gốc hoặc bản sao Giấy phép đã được cấp (nếu có);
+
+
+Trường hợp cấp lại do hết thời hạn hiệu lực
+- 01 Bản chính, 01 Bản sao hồ sơ, cấp lại trường hợp này áp dụng như quy định đối với trường hợp cấp mới.

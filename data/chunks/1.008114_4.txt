@@ -1,0 +1,17 @@
+Tên thủ tục: Thẩm định Báo cáo Kinh tế - Kỹ thuật.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+*. Đối với thẩm định Báo cáo kinh tế - kỹ thuật (Theo điều 13- Nghị định 59/2015/NĐ-CP):
+- 01 Bản chính - Tờ trình thẩm định báo cáo KTKT đầu tư xây dựng công trình theo biểu mẫu số 01 (Theo phụ lục số II, Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 của Chính phủ)
+- 01 Bản chính - Văn bản chấp thuận chủ trương đầu tư xây dựng công trình hoặc hồ sơ quy hoạch chi tiết được duyệt (đối với những công trình xây dựng theo quy hoạch).
+- 01 Bản chính - Báo cáo KTKT công trình, hồ sơ khảo sát xây dựng, hồ sơ năng lực của đơn vị tư vấn khảo sát, lập dự án (bản chính có đóng dấu của Chủ đầu tư).
+- 01 Bản chính - Báo cáo tổng hợp của chủ đầu tư theo biểu mẫu số 02 (theo biểu mẫu số 01, thông tư số 18/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng).
+- 01 Bản chính - Văn bản thẩm duyệt phòng cháy chữa cháy, báo cáo đánh giá tác động môi trường (nếu có).
+- 01 Bản chính - Các bản vẽ thiết kế và thuyết minh thiết kế xây dựng công trình.
+- 01 Bản chính - Dự toán Tổng mức đầu tư xây dựng công trình.
+
+
+*. Đối với hồ sơ điều chỉnh, bổ sung:
+- 01 Bản chính - Thành phần hồ sơ như trên chỉ thêm văn bản chấp thuận điều chỉnh, bổ sung dự án của người quyết định đầu tư

@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, phê duyệt dự án không có cấu phần xây dựng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||+ Nhóm A: Sở Kế hoạch và Đầu tư : 25 ngày; UBND tỉnh: 5 ngày.|
+|Trực tiếp|16 Ngày làm việc||+ Nhóm B: Sở Kế hoạch và Đầu tư : 13 ngày; UBND tỉnh: 3 ngày.|
+|Trực tiếp|8 Ngày làm việc||+ Nhóm C: Sở Kế hoạch và Đầu tư : 5 ngày; UBND tỉnh: 3 ngày.|

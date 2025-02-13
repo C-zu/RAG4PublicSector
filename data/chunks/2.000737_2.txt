@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục điều chỉnh nội dung của quyết định phê duyệt mẫu phương tiện đo
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở sản xuất, nhập khẩu phương tiện đo (sau đây gọi tắt là cơ sở) nộp 01 bộ hồ sơ đề nghị điều chỉnh nội dung của quyết định phê duyệt mẫu theo quy định đến Tổng cục Tiêu chuẩn Đo lường Chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định: Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận hồ sơ hợp lệ, Tổng cục xem xét, có văn bản hướng dẫn cơ sở thực hiện việc phê duyệt mẫu mới hoặc ban hành quyết định điều chỉnh theo quy định.

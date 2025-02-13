@@ -1,0 +1,15 @@
+Tên thủ tục: Khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo thông qua mạng điện tử (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Bước 1: gửi hồ sơ
+
+Tổ chức, cá nhân có nhu cầu khai thác và sử dụng cơ sở dữ liệu gửi yêu cầu bằng cách nhập các thông tin vào biểu mẫu trên giao diện của mạng điện tử của cơ quan quản lý cơ sở dữ liệu..
+b) Bước 2: kiểm tra hồ sơ
+
+Cơ quan quản lý cơ sở dữ liệu có trách nhiệm xem xét yêu cầu khai thác và sử dụng cơ sở dữ liệu của tổ chức, cá nhân. Trường hợp thông tin yêu cầu chưa đầy đủ, cơ quan quản lý cơ sở dữ liệu có trách nhiệm gửi thông tin phản hồi đến tổ chức, cá nhân hướng dẫn bổ sung thông tin.
+c) Bước 3: thông báo và trả kết quả hồ sơ
+
+Trường hợp thông tin yêu cầu hợp lệ, cơ quan quản lý cơ sở dữ liệu thực hiện việc cung cấp dữ liệu cho tổ chức, cá nhân.  
+
+Trường hợp từ chối cung cấp dữ liệu thì cơ quan quản lý cơ sở dữ liệu phải gửi thông tin thông báo nêu rõ lý do cho tổ chức, cá nhân.

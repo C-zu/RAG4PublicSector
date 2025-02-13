@@ -1,0 +1,24 @@
+Tên thủ tục: Đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (VPĐK)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+3.1 Hồ sơ đăng ký biến động quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất:
+- 01 Bản chính - Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 09/ĐK; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8aff179db292c'">Mẫu 09.docx</a>)
+- 01 Bản chính - Hợp đồng, văn bản về việc chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định: Bản chính.
+- 01 Bản chính Trường hợp người thừa kế quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là người duy nhất thì phải có đơn đề nghị được đăng ký thừa kế quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của người thừa kế;
+- 01 Bản chính - Bản gốc Giấy chứng nhận đã cấp;
+- 01 Bản sao - Văn bản chấp thuận của cơ quan Nhà nước có thẩm quyền đối với tổ chức kinh tế nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư: Bản sao chứng thực;
+- 01 Bản chính - Văn bản của người sử dụng đất đồng ý cho chủ sở hữu tài sản gắn liền với đất được chuyển nhượng, tặng cho, cho thuê, góp vốn tài sản gắn liền với đất đối với trường hợp chuyển nhượng, tặng cho, cho thuê, góp vốn bằng tài sản gắn liền với đất mà chủ sở hữu tài sản gắn liền với đất không đồng thời là người sử dụng đất: Bản chính.
+- 01 Bản sao Trường hợp người đề nghị cấp Giấy chứng nhận đã chết trước khi được trao Giấy chứng nhận thì người được thừa kế quyền sử dụng đất theo quy định của pháp luật thừa kế nộp bổ sung giấy tờ về thừa kế theo quy định.
+- 01 Bản chính, 01 Bản sao Đối với trường hợp thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất mà có thay đổi thông tin về pháp nhân trên Giấy chứng nhận đã cấp thì thực hiện như sau: Đối với tổ chức, cộng đồng dân cư, cơ sở tôn giáo thì nộp bổ sung văn bản của cơ quan có thẩm quyền cho phép hoặc công nhận việc thay đổi thông tin pháp nhân đối với trường hợp thay đổi thông tin về pháp nhân của tổ chức, cộng đồng dân cư, cơ sở tôn giáo đã ghi trên Giấy chứng nhận.
+
+
+3.2 Hồ sơ xác định nghĩa vụ tài chính:
+- 01 Bản chính - Tờ khai lệ phí trước bạ: Bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1172363dc4fb2'">to-khai-le-phi-truoc-ba-nha-dat ( mẫu 01).doc</a>)
+- 01 Bản chính - Tờ khai thuế sử dụng đất phi nông nghiệp (nếu có), (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe599d2f6df9de0'">TO-KHAI-THUE-SU-DUNG-DAT-PHI-NONG-NGHIEP (Mẫu 02).docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe16cc4c9bbec10'">PNN (04).docx</a>)
+- 01 Bản chính - Tờ khai thuế thu nhập từ chuyển nhượng bất động sản (trừ trường hợp bên chuyển nhượng là doanh nghiệp có chức năng kinh doanh bất động sản) theo quy định của pháp luật về thuế (nếu có): Bản chính, (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3bd84144261a4'">Mau so 03.BDS-TNDN. To khai thue thu nhap Ca nhan.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f86dfed93ce3fc0'">to-khai-thue-tndn (02).doc</a>)
+- 01 Bản chính - Văn bản của người sử dụng đất đề nghị được miễn, giảm các khoản nghĩa vụ tài chính về đất đai: Bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5164bacddc328'">mẫu 01.MGTH.doc</a>)
+- 01 Bản sao - Bản sao các giấy tờ chứng minh thuộc đối tượng được miễn, giảm theo quy định của pháp luật (nếu có);
+- 01 Bản sao - Bản sao Giấy tờ chứng minh thuộc đối tượng không phải nộp nghĩa vụ tài chính theo quy định của pháp luật (nếu có);
+- 01 Bản sao - Hợp đồng chuyển nhượng bất động sản theo quy định của pháp luật (bản sao) hoặc Hợp đồng tặng cho tài sản là bất động sản theo quy định của pháp luật (bản sao) hoặc Hợp đồng (hoặc các giấy tờ) thừa kế bất động sản (bản sao); Hóa đơn giá trị gia tăng đối với trường hợp tổ chức chuyển nhượng bất động sản (bản sao).

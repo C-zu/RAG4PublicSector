@@ -1,0 +1,7 @@
+Tên thủ tục: Khai thác và sử dụng cơ sở dữ liệu tài nguyên, môi trường biển và hải đảo thông qua mạng điện tử (cấp TW)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Yêu cầu được gửi qua mạng điện tử của cơ quan quản lý dữ liệu với các nội dung sau đây: - Tên, địa chỉ của tổ chức; họ và tên, nơi cư trú, địa chỉ, số chứng minh nhân dân, thẻ căn cước công dân hoặc số hộ chiếu của cá nhân; số fax, điện thoại, địa chỉ thư điện tử (nếu có) của tổ chức, cá nhân; - Danh mục và nội dung dữ liệu cần cung cấp; - Mục đích khai thác và sử dụng dữ liệu; - Hình thức khai thác và sử dụng dữ liệu, phương thức nhận kết quả

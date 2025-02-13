@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký hợp đồng nhận lao động thực tập dưới 90 ngày
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đăng ký hợp đồng nhận lao động thực tập (theo Mẫu số 04 Phụ lục I ban hành kèm theo Thông tư số 21/2021/TT-BLĐTBXH); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4cf9cc4d4b046'">Mau 04.docx</a>)
+- 01 Bản sao - Bản sao hợp đồng nhận lao động thực tập kèm theo bản dịch tiếng Việt được chứng thực;
+- 01 Bản chính, 01 Bản sao - Tài liệu chứng minh việc đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hình thức đào tạo, nâng cao trình độ, kỹ năng nghề phù hợp với pháp luật của nước tiếp nhận lao động theo quy định tại Điều 6 Thông tư số 21/2021/TT-BLĐTBXH, cụ thể gồm một trong các giấy tờ sau: + 01 bản sao văn bản cho phép cơ sở tiếp nhận lao động thực tập được tiếp nhận lao động nước ngoài do cơ quan có thẩm quyền của nước sở tại cấp. + Giấy tờ khác thể hiện cơ sở tiếp nhận lao động thực tập được phép tiếp nhận người lao động theo quy định của nước sở tại;
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký doanh nghiệp;
+- 01 Bản chính - Giấy tờ chứng minh việc ký quỹ của doanh nghiệp theo Mẫu số 11 Phụ lục I ban hành kèm theo Nghị định 112/2020/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef711149c151e6'">Mau 11.docx</a>)

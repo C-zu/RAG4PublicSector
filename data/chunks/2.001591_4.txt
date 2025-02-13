@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép khai quật khẩn cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Văn bản đề nghị cấp phép khai quật khẩn cấp của tổ chức chủ trì thăm dò, khai quật khảo cổ (Phụ lục 3 Quy chế ban hành kèm theo Quyết định số 86/2008/QĐ-BVHTTDL ngày 30/12/2008) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa7487b6f404e40'">Phu luc 3 quyet dinh 86-2008-QD-BVHTTDL.docx</a>)
+- 01 Bản chính (2) Sơ đồ tỉ lệ 1:500, thể hiện rõ vị trí, diện tích địa điểm khảo cổ cần khai quật khẩn cấp.
+- 01 Bản chính (3) Văn bản đề nghị cấp phép thăm dò, khai quật khảo cổ của tổ chức phối hợp khai quật khẩn cấp (nếu có).

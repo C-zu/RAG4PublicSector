@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục đánh giá kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Đối với trường hợp đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Trực tiếp|45 Ngày làm việc||- Đối với trường hợp không phải là đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ: 45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Trực tuyến|05 Ngày làm việc||- Đối với trường hợp đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Trực tuyến|45 Ngày làm việc||- Đối với trường hợp không phải là đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ: 45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Đối với trường hợp đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|45 Ngày làm việc||- Đối với trường hợp không phải là đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ: 45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.|

@@ -1,0 +1,26 @@
+Tên thủ tục: Thủ tục công nhận Doanh nghiệp ưu tiên
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận doanh nghiệp ưu tiên.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật 78/2006/QH11|29-11-2006|Quốc Hội|
+|29/2001/QH10|Luật 29/2001/QH10|29-06-2001|Quốc Hội|
+|87/2012/NĐ-CP|87/2012/NĐ-CP|23-10-2012|Chính phủ|
+|60/2007/TT-BTC|Hướng dẫn thi hành một số điều của Luật Quản lý thuế và hướng dẫn thi hành Nghị định số 85/2007/NĐ-CP ngày 25/5/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế|14-06-2007|Bộ Tài chính|
+|154/2005/NĐ-CP|Nghị định 154/2005/NĐ-CP|15-12-2005|Chính phủ|
+|86/2013/TT-BTC|Thông tư 86/2013/TT-BTC - Quy định về việc áp dụng chế độ ưu tiên trong lĩnh vực quản lý nhà nước về hải quan đổi với doanh nghiệp đủ điều kiện|27-06-2013|Bộ Tài chính|

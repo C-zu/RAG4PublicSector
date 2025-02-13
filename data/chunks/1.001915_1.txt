@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục công nhận bảo vật quốc gia đối với bảo tàng quốc gia
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001915
+Số quyết định:
+Số 4874/QĐ-BVHTTDL
+Tên thủ tục:
+Thủ tục công nhận bảo vật quốc gia đối với bảo tàng quốc gia
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Di sản văn hóa

@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy phép xây dựng - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép xây dựng, theo mẫu BM.01.01
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai;
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính hai bộ bản vẽ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công được phê duyệt theo quy định của pháp luật về xây dựng, mỗi bộ gồm: + Bản vẽ mặt bằng vị trí công trình trên lô đất tỷ lệ 1/100 - 1/500, kèm theo sơ đồ vị trí công trình; + Bản vẽ các mặt bằng, các mặt đứng và mặt cắt chủ yếu của công trình, tỷ lệ 1/50 - 1/200; + Bản vẽ mặt bằng móng tỷ lệ 1/100 - 1/200 và mặt cắt móng tỷ lệ 1/50, kèm theo sơ đồ đấu nối với hệ thống hạ tầng kỹ thuật về giao thông; cấp nước; thoát nước mưa, nước bẩn; xử lý nước thải; cấp điện; thông tin liên lạc; các hệ thống hạ tầng kỹ thuật khác liên quan đến công trình tỷ lệ 1/50 - 1/200.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính báo cáo kết quả thẩm định thiết kế của cơ quan chuyên môn về xây dựng đối với công trình theo quy định phải được thẩm định thiết kế.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính văn bản bản cam kết của chủ đầu tư bảo đảm an toàn cho công trình và công trình lân cận đối với công trình xây chen, có tầng hầm.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính bản kê khai năng lực, kinh nghiệm của tổ chức, cá nhân thiết kế theo mẫu tại Phụ lục số 3 Thông tư 15/2016/TT-BXD ngày 30/6/2016 của Bộ Xây dựng, kèm theo bản sao chứng chỉ hành nghề hoạt động xây dựng, đối với công trình chưa được cơ quan chuyên môn về xây dựng thẩm định thiết kế
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính quyết định đầu tư đối với công trình yêu cầu phải lập dự án đầu tư xây dựng

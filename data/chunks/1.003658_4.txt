@@ -1,0 +1,19 @@
+Tên thủ tục: Công bố lại hoạt động bến thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị công bố hoạt động
+- 01 Bản chính - Đơn đề nghị công bố lại hoạt động cảng, bến thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefbd321ebd2b8b'">18.docx</a>)
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu văn bản của cơ quan có thẩm quyền về việc thay đổi vùng đất, vùng nước (đối với trường hợp Thay đổi vùng đất, vùng nước của bến thủy nội địa);
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao xuất trình bản chính để đối chiếu các văn bản chứng minh việc thay đổi chủ cảng, bến (đối với trường hợp Thay đổi chủ bến thủy nội địa).
+
+
+Hồ sơ đối với phần thay đổi kết cấu công trình của bến thủy nội địa:
+- 01 Bản sao - Bản sao có chứng thực quyết định phê duyệt báo cáo kinh tế - kỹ thuật của chủ đầu tư (đối với bến thủy nội địa có dự án đầu tư xây dựng) hoặc phương án khai thác bến thủy nội địa;
+- 01 Bản chính - Biên bản nghiệm thu hoàn thành công trình, bản vẽ hoàn công mặt bằng, mặt chiếu đứng, mặt cắt ngang công trình đối với bến thủy nội địa có dự án đầu tư xây dựng;
+- 01 Bản sao - Bản sao giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của kết cấu nổi, phương tiện, pông-tông hoặc phao neo thuộc diện phải đăng kiểm (nếu sử dụng kết cấu nổi, phương tiện, pông-tông làm cầu bến hoặc bến phao).
+
+
+Trường hợp gửi hồ sơ trực tuyến
+ (Trường hợp gửi hồ sơ trực tuyến, thành phần hồ sơ là bản chính hoặc bản sao điện tử các thành phần hồ sơ tương ứng theo quy định.).

@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp lại giấy phép hoạt động khám bệnh, chữa bệnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1: Trường hợp giấy phép hoạt động bị mất hoặc hư hỏng
+- 01 Bản chính Đơn theo Mẫu 02 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa86b7f6745b140'">Mẫu 02.docx</a>)
+- 01 Bản sao Bản sao bị mất hoặc bản gốc giấy phép hoạt động bị hư hỏng (nếu có)
+
+
+Trường hợp 2: Trường hợp sai sót thông tin
+- 01 Bản chính Đơn theo Mẫu 02 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb880880ababed'">Mẫu 02.docx</a>)
+- 01 Bản chính, 01 Bản sao Tài liệu chứng minh nội dung, thông tin sai sót cần sửa lại
+- 01 Bản chính c) Bản gốc giấy phép hoạt động đã cấp.

@@ -1,0 +1,28 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch thực vật nhập khẩu, kiểm tra nhà nước về an toàn thực phẩm hàng hóa có nguồn gốc thực vật nhập khẩu
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Đối với thực phẩm nhập khẩu (trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về an toàn thực phẩm nhập khẩu).
+- Sản phẩm thực vật dùng làm thực phẩm nhập khẩu phải có xuất xứ từ quốc gia, vùng lãnh thổ có hệ thống kiểm soát an toàn thực phẩm đáp ứng quy định của Việt Nam và được cơ quan có thẩm quyền của Việt Nam đưa vào danh sách các quốc gia, vùng lãnh thổ đăng ký xuất khẩu thực phẩm có nguồn gốc thực vật vào Việt Nam, trừ các thực phẩm đã qua chế biến, bao gói sẵn, thực phẩm do tổ chức, cá nhân Việt Nam xuất khẩu sang nước ngoài nhưng bị trả về và các trường hợp quy định tại Điều 13 Nghị định 15/2018/NĐ-CP.
+- Kiểm tra chặt áp dụng đối với lô hàng, mặt hàng nhập khẩu thuộc một trong các trường hợp sau đây:
++ Lô hàng, mặt hàng không đạt yêu cầu nhập khẩu tại lần kiểm tra trước đó;
++ Lô hàng, mặt hàng không đạt yêu cầu trong các lần thanh tra, kiểm tra (nếu có);
++ Có cảnh báo của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công thương, Ủy ban nhân dân cấp tỉnh hoặc cơ quan có thẩm quyền tại nước ngoài hoặc của nhà sản xuất.
+Đối với thức ăn chăn nuôi có nguồn gốc thực vật nhập khẩu (trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về chất lượng thức ăn chăn nuôi có nguồn gốc thực vật nhập khẩu): Không.
+Đối với thức ăn thủy sản có nguồn gốc thực vật nhập khẩu (trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về chất lượng thức ăn thủy sản có nguồn gốc thực vật nhập khẩu)
+Thức ăn thủy sản có nguyên liệu sản xuất phải thuộc Danh mục hóa chất, chế phẩm sinh học, vi sinh vật, nguyên liệu sản xuất thức ăn được phép sử dụng trong nuôi trồng thủy sản tại Việt Nam.
+Trường hợp nhập khẩu thức ăn thủy sản có nguyên liệu sản xuất thức ăn thủy sản không thuộc Danh mục hóa chất, chế phẩm sinh học, vi sinh vật, nguyên liệu sản xuất thức ăn được phép sử dụng trong nuôi trồng thủy sản tại Việt Nam thì phải có Giấy phép nhập khẩu của Tổng cục Thủy sản.
+Đối với thực phẩm nhập khẩu (trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về an toàn thực phẩm nhập khẩu).
+- Sản phẩm thực vật dùng làm thực phẩm nhập khẩu phải có xuất xứ từ quốc gia, vùng lãnh thổ có hệ thống kiểm soát an toàn thực phẩm đáp ứng quy định của Việt Nam và được cơ quan có thẩm quyền của Việt Nam đưa vào danh sách các quốc gia, vùng lãnh thổ đăng ký xuất khẩu thực phẩm có nguồn gốc thực vật vào Việt Nam, trừ các thực phẩm đã qua chế biến, bao gói sẵn, thực phẩm do tổ chức, cá nhân Việt Nam xuất khẩu sang nước ngoài nhưng bị trả về và các trường hợp quy định tại Điều 13 Nghị định 15/2018/NĐ-CP.
+- Kiểm tra chặt áp dụng đối với lô hàng, mặt hàng nhập khẩu thuộc một trong các trường hợp sau đây:
++ Lô hàng, mặt hàng không đạt yêu cầu nhập khẩu tại lần kiểm tra trước đó;
++ Lô hàng, mặt hàng không đạt yêu cầu trong các lần thanh tra, kiểm tra (nếu có);
++ Có cảnh báo của Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Công thương, Ủy ban nhân dân cấp tỉnh hoặc cơ quan có thẩm quyền tại nước ngoài hoặc của nhà sản xuất.
+Đối với thức ăn chăn nuôi có nguồn gốc thực vật nhập khẩu (trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về chất lượng thức ăn chăn nuôi có nguồn gốc thực vật nhập khẩu): Không.
+Đối với thức ăn thủy sản có nguồn gốc thực vật nhập khẩu (trường hợp thực hiện đồng thời thủ tục kiểm dịch thực vật và kiểm tra nhà nước về chất lượng thức ăn thủy sản có nguồn gốc thực vật nhập khẩu)
+Thức ăn thủy sản có nguyên liệu sản xuất phải thuộc Danh mục hóa chất, chế phẩm sinh học, vi sinh vật, nguyên liệu sản xuất thức ăn được phép sử dụng trong nuôi trồng thủy sản tại Việt Nam.
+Trường hợp nhập khẩu thức ăn thủy sản có nguyên liệu sản xuất thức ăn thủy sản không thuộc Danh mục hóa chất, chế phẩm sinh học, vi sinh vật, nguyên liệu sản xuất thức ăn được phép sử dụng trong nuôi trồng thủy sản tại Việt Nam thì phải có Giấy phép nhập khẩu của Tổng cục Thủy sản.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

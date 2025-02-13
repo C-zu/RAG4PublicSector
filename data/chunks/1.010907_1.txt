@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở của dự án đầu tư do UBND huyện hoặc Chủ tịch UBND huyện quyết định đầu tư (Phần nhiệm vụ thẩm định cơ quan chuyên môn về xây dựng)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010907
+Số quyết định:
+1336/QĐ-UBND
+Tên thủ tục:
+Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở của dự án đầu tư do UBND huyện hoặc Chủ tịch UBND huyện quyết định đầu tư (Phần nhiệm vụ thẩm định cơ quan chuyên môn về xây dựng)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

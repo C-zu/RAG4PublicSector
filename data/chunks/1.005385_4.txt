@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục tiếp nhận vào làm công chức
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ theo (Khoản 3 Điều 18 Nghị định số 138/2020/NĐ- CP ngày 27/11/2020)
+- 01 Bản chính, 01 Bản sao a) Sơ yếu lý lịch công chức theo quy định hiện hành được lập chậm nhất là 30 ngày trước ngày nộp hồ sơ tiếp nhận, có xác nhận của cơ quan, tổ chức, đơn vị nơi công tác; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef7088a7fdfb8a'">Mẫu phiếu đăng ký dự tuyển.docx</a>)
+- 01 Bản chính, 01 Bản sao b) Bản sao các văn bằng, chứng chỉ theo yêu cầu của vị trí việc làm cần tuyển; Trường hợp người được đề nghị tiếp nhận có bằng tốt nghiệp chuyên môn đã chuẩn đầu ra về ngoại ngữ hoặc tin học theo quy định mà tương ứng với yêu cầu của vị trí việc làm dự tuyển thì không phải nộp chứng chỉ ngoại ngữ, tin học. Trường hợp người được đề nghị tiếp nhận đáp ứng yêu cầu miễn phần thi ngoại ngữ hoặc tin học quy định tại khoản 1 Điều 8 Nghị định này thì không phải nộp chứng chỉ ngoại ngữ, tin học.
+- 01 Bản chính, 01 Bản sao c) Giấy chứng nhận sức khỏe do cơ quan y tế có thẩm quyền cấp chậm nhất là 30 ngày trước ngày nộp hồ sơ tiếp nhận;
+- 01 Bản chính, 01 Bản sao d) Bản tự nhận xét, đánh giá của người được đề nghị tiếp nhận về phẩm chất chính trị, phẩm chất đạo đức, trình độ và năng lực chuyên môn, nghiệp vụ, quá trình công tác có xác nhận của người đứng đầu cơ quan, tổ chức, đơn vị nơi công tác.

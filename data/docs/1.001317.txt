@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001317
+Số quyết định:
+1118/QĐ-NHNN
+Tên thủ tục:
+Thủ tục Mở tài khoản thanh toán tại Ngân hàng Nhà nước của Tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài, Kho bạc Nhà nước
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động thanh toán
+Trình tự thực hiện:
+- Bước 1. Tổ chức đề nghị mở tài khoản thanh toán gửi 01 bộ hồ sơ mở tài khoản thanh toán theo quy định tại khoản 2 Điều 14 Nghị định 52/2024/NĐ-CP ngày 15/5/2024 đến Ngân hàng Nhà nước (Sở Giao dịch, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố) nơi đề nghị mở tài khoản thanh toán;
+- Bước 2. Ngân hàng Nhà nước tiến hành kiểm tra các thành phần hồ sơ và đối chiếu với các yếu tố đã kê khai tại đơn đề nghị mở tài khoản thanh toán, đảm bảo sự khớp đúng, chính xác.
+- Bước 3. Trong trường hợp hồ sơ mở tài khoản thanh toán chưa đầy đủ, chưa hợp lệ hoặc còn có sự sai lệch giữa các yếu tố kê khai tại đơn đề nghị mở tài khoản thanh toán với các tài liệu liên quan trong hồ sơ, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ mở tài khoản thanh toán Ngân hàng Nhà nước thông báo cho tổ chức đề nghị mở tài khoản biết để hoàn thiện hồ sơ.
+Tổ chức đề nghị mở tài khoản có trách nhiệm gửi bổ sung, hoàn thiện hồ sơ trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị bổ sung, hoàn thiện hồ sơ của Ngân hàng Nhà nước. Sau thời hạn trên, Ngân hàng Nhà nước sẽ có văn bản từ chối mở tài khoản thanh toán và trả lại hồ sơ cho tổ chức đề nghị mở tài khoản.
+- Bước 4. Trong thời hạn 02 ngày làm việc kể từ khi nhận đầy đủ hồ sơ mở tài khoản thanh toán hợp lệ của tổ chức đề nghị mở tài khoản thanh toán, Ngân hàng Nhà nước xử lý việc mở tài khoản thanh toán cho tổ chức. Trường hợp Ngân hàng Nhà nước từ chối mở tài khoản thanh toán thì phải thông báo lý do cho tổ chức biết bằng văn bản.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||02 ngày làm việc kể từ khi nhận đầy đủ hồ sơ mở tài khoản thanh toán hợp lệ.|
+|Trực tuyến|02 Ngày làm việc||02 ngày làm việc kể từ khi nhận đầy đủ hồ sơ mở tài khoản thanh toán hợp lệ.|
+|Dịch vụ bưu chính|02 Ngày làm việc||02 ngày làm việc kể từ khi nhận đầy đủ hồ sơ mở tài khoản thanh toán hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị mở tài khoản thanh toán kèm bản đăng ký mẫu dấu, mẫu chữ ký theo Mẫu số 01 ban hành kèm theo Nghị định 52/2024/NĐ-CP do người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức mở tài khoản thanh toán ký tên, đóng dấu; ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecb49c66537cdf'))
+- 01 Bản chính Các tài liệu chứng minh tổ chức mở tài khoản thanh toán được thành lập và hoạt động hợp pháp, gồm: quyết định thành lập, giấy phép hoạt động, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã hoặc giấy tờ có giá trị tương đương;
+- 01 Bản chính Các tài liệu chứng minh tư cách đại diện của người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức mở tài khoản thanh toán và thẻ căn cước, thẻ căn cước công dân, căn cước điện tử hoặc chứng minh nhân dân hoặc hộ chiếu còn thời hạn của người đó;
+- 01 Bản chính Văn bản hoặc quyết định bổ nhiệm và thẻ căn cước, thẻ căn cước công dân, căn cước điện tử hoặc chứng minh nhân dân hoặc hộ chiếu còn thời hạn của kế toán trưởng hoặc người phụ trách kế toán, người kiểm soát chứng từ giao dịch với Ngân hàng Nhà nước của tổ chức mở tài khoản thanh toán.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Ngân hàng Nhà nước Việt Nam, Ngân hàng Nhà nước Chi nhánh tỉnh, thành phố trực thuộc Trung ương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa NHNN Việt Nam số 49, Lý Thái Tổ, Hoàn Kiếm, Hà Nội/NHNN chi nhánh tỉnh, thành phố
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Ngân hàng Nhà nước xác nhận về việc mở tài khoản thanh toán của tổ chức
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Nghị định 52/2024/NĐ-CP|Nghị định quy định về thanh toán không dùng tiền mặt|15-05-2024|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

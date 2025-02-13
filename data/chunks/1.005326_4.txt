@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định báo cáo ĐMC thuộc thẩm quyền của Bộ Nông nghiệp và Phát triển nông thôn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thẩm định báo cáo đánh giá môi trường chiến lược thực hiện theo mẫu quy định tại Phụ lục 1.1 Thông tư số 27/2015/TT-BTNMT ngày 29/5/2015 của Bộ Tài nguyên và Môi trường (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcdc1a6f6d3ec8c'">PHỤ LỤC 1.1.doc</a>)
+- 01 Bản chính Văn bản đề nghị thẩm định báo cáo đánh giá môi trường chiến lược thực hiện
+- 09 Bản chính Bản báo cáo đánh giá môi trường chiến lược
+- 09 Bản chính Bản dự thảo chiến lược, quy hoạch, kế hoạch

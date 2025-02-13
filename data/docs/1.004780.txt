@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004780
+Số quyết định:
+2217-QĐ/BTGTV
+Tên thủ tục:
+Cấp Giấy chứng nhận thẩm định an toàn hệ thống đối với đường sắt đô thị
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+Chủ đầu tư nộp hồ sơ đề nghị cấp Giấy chứng nhận thẩm định an toàn hệ thống đối với đường sắt đô thị trực tiếp hoặc qua đường bưu điện đến Cục Đường sắt Việt Nam
+Nộp hồ sơ TTHC: Thời điểm nộp hồ sơ:
+Giấy đề nghị thẩm định nộp cùng với Đề cương đánh giá, chứng nhận;
+Đề cương đánh giá, chứng nhận và các phiên bản cập nhật sửa đổi đã được Chủ đầu tư phê duyệt nộp sau khi được Chủ đầu tư phê duyệt;
+Báo cáo đánh giá và các tài liệu đánh giá kèm theo đối với các hạng mục mà Tổ chức chứng nhận đã thực hiện theo Đề cương đánh giá, chứng nhận nộp ngay sau khi hoàn thành công việc;
+Báo cáo xử lý, khắc phục của Chủ đầu tư đối với các vấn đề được nêu trong báo cáo đánh giá của Tổ chức chứng nhận nộp ngay sau khi hoàn thành công việc;
+Báo cáo đánh giá cuối cùng và bản sao hợp lệ Giấy chứng nhận an toàn hệ thống của Tổ chức chứng nhận nộp sau khi Tổ chức chứng nhận hoàn thành và kết thúc toàn bộ công việc.
+Giải quyết TTHC:
+Cục Đường sắt Việt Nam tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Cục Đường sắt Việt Nam thông báo bằng văn bản cho Chủ đầu tư để bổ sung, hoàn thiện. Trường hợp hồ sơ đầy đủ theo quy định, Cục Đường sắt Việt Nam tiến hành thẩm định hồ sơ.
+Giải quyết TTHC:  Đối với việc thẩm định các hồ sơ: Đề cương đánh giá, chứng nhận và các phiên bản cập nhật sửa đổi đã được Chủ đầu tư phê duyệt quy định; Báo cáo đánh giá và các tài liệu đánh giá kèm theo đối với các hạng mục mà Tổ chức chứng nhận đã thực hiện theo Đề cương đánh giá, chứng nhận; Báo cáo xử lý, khắc phục của Chủ đầu tư đối với các vấn đề được nêu trong báo cáo đánh giá của Tổ chức chứng nhận, trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Đường sắt Việt Nam có trách nhiệm:
+Thông báo kết quả thẩm định trong trường hợp kết quả thẩm định đạt yêu cầu;
+Có văn bản nêu rõ lý do không đạt và yêu cầu Chủ đầu tư khắc phục, hoàn thiện trong trường hợp kết quả thẩm định không đạt yêu cầu.
+Giải quyết TTHC: Đối với việc thẩm định báo cáo đánh giá cuối cùng, Giấy chứng nhận an toàn hệ thống, trong thời hạn 20 ngày làm việc, kể từ ngày nhận đầy đủ toàn bộ hồ sơ theo quy định, Cục Đường sắt Việt Nam có trách nhiệm:
+Cấp Giấy chứng nhận thẩm định hồ sơ an toàn hệ thống trong trường hợp kết quả thẩm định đạt yêu cầu;
+Có văn bản nêu rõ lý do không đạt và yêu cầu Chủ đầu tư khắc phục, hoàn thiện trong trường hợp kết quả thẩm định không đạt yêu cầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : 50.000 đồng/01 Giấy chứng nhận Đồng Lệ phí cấp Giấy chứng nhận|20 ngày làm việc, kể từ ngày nhận đầy đủ toàn bộ hồ sơ theo quy định|
+|Dịch vụ bưu chính|20 Ngày làm việc|Lệ phí : 50.000 đồng/01 Giấy chứng nhận Đồng Lệ phí cấp Giấy chứng nhận|20 ngày làm việc, kể từ ngày nhận đầy đủ toàn bộ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị thẩm định theo mẫu quy định ([03-Mẫu giấy đề nghị .doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc27f9907d3b60c'))
+- 01 Bản chính Đề cương đánh giá, chứng nhận và các phiên bản cập nhật sửa đổi đã được Chủ đầu tư phê duyệt
+- 01 Bản chính Báo cáo đánh giá và các tài liệu đánh giá kèm theo đối với các hạng mục mà Tổ chức chứng nhận đã thực hiện theo Đề cương đánh giá, chứng nhận
+- 01 Bản chính Báo cáo xử lý, khắc phục của Chủ đầu tư đối với các vấn đề được nêu trong báo cáo đánh giá của Tổ chức chứng nhận
+- 01 Bản chính Báo cáo đánh giá cuối cùng và bản sao hợp lệ Giấy chứng nhận an toàn hệ thống của Tổ chức chứng nhận
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Đường sắt Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm định an toàn hệ thống đối với đường sắt đô thị
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|236/2016/TT-BTC|Quy định về giá dịch vụ thẩm định thiết kế, kiểm định chất lượng, an toàn kỹ thuật và bảo vệ môi trường đối với phương tiện, thiết bị giao thông đường sắt|11-11-2016|Bộ Tài chính|
+|31/2018/TT-BGTVT|QUY ĐỊNH VỀ THỰC HIỆN ĐÁNH GIÁ, CHỨNG NHẬN AN TOÀN HỆ THỐNG ĐỐI VỚI ĐƯỜNG SẮT ĐÔ THỊ|15-05-2018|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

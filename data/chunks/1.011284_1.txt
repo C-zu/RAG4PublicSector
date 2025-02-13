@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại phù hiệu xe ô tô kinh doanh vận tải (kinh doanh vận tải hành khách: bằng xe ô tô theo tuyến cố định, bằng xe buýt theo tuyến cố định, bằng xe taxi, xe hợp đồng; kinh doanh vận tải hàng hóa: bằng công - ten - nơ, xe ô tô đầu kéo kéo rơ moóc hoặc sơ mi rơ moóc, xe ô tô tải kinh doanh vận tải hàng hóa thông thường và xe taxi tải).
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011284
+Số quyết định:
+1113 /QĐ-UBND
+Tên thủ tục:
+Cấp lại phù hiệu xe ô tô kinh doanh vận tải (kinh doanh vận tải hành khách: bằng xe ô tô theo tuyến cố định, bằng xe buýt theo tuyến cố định, bằng xe taxi, xe hợp đồng; kinh doanh vận tải hàng hóa: bằng công - ten - nơ, xe ô tô đầu kéo kéo rơ moóc hoặc sơ mi rơ moóc, xe ô tô tải kinh doanh vận tải hàng hóa thông thường và xe taxi tải).
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ

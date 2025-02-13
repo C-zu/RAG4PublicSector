@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố hợp quy sản phẩm, hàng hóa vật liệu xây dựng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản công bố hợp quy theo Mẫu 02. CBHC/HQ, Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe926543ca8d346'">Ban cong bo hop quy.docx</a>)
+- 01 Bản sao - Bản sao y bản chính Giấy chứng nhận hợp quy kèm theo mẫu dấu hợp quy do tổ chức chứng nhận hợp quy cấp cho tổ chức, cá nhân.

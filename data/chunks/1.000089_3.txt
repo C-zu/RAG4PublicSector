@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận y tế (HC) đối với thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến; dụng cụ, vật liệu bao gói, chứa đựng thực phẩm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 1.000.000 Đồng||
+|Trực tuyến|05 Ngày làm việc|Phí : 1.000.000 Đồng||
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 1.000.000 Đồng||

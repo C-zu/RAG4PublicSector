@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng trên 10m3/ngày đêm đến dưới 20m3/ngày đêm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|31 Ngày làm việc||- 31 ngày làm việc, kể từ ngày nhận hồ sơ|
+|Trực tuyến|31 Ngày làm việc||- 31 ngày làm việc, kể từ ngày nhận hồ sơ|
+|Dịch vụ bưu chính|31 Ngày làm việc||- 31 ngày làm việc, kể từ ngày nhận hồ sơ|

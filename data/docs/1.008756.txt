@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008756
+Số quyết định:
+1631/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm tra, phê duyệt quyết toán vốn đầu tư dự án hoàn thành
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lĩnh vực khác (Thông tin và Truyền thông)
+Trình tự thực hiện:
+1.Tổ chức, cá nhân hoàn thiện hồ sơ theo quy định về thành phần, số lượng hồ sơ của thủ tục này và nộp hồ sơ đến Sở Thông tin và Truyền thông.
+2. Bộ phận Một cửa của Sở Thông tin và Truyền thông tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
++ Trường hợp hồ sơ hợp lệ: Sở Thông tin và Truyền thông tiến hành thẩm định:
+++ Nếu hồ sơ hợp lệ nhưng không đủ điều kiện thẩm định (không đầy đủ thành phần hồ sơ quy định tại Điểm c của thủ tục này): Sở Thông tin và Truyền thông không tổ chức thẩm định mà có văn bản trả lại và nêu rõ lý do.
+++ Nếu hồ sơ đạt yêu cầu:
+Đối với dự án có tổng mức đầu tư dưới 500 triệu đồng: Sở Thông tin và Truyền thông sẽ ban hành Quyết định phê duyệt. Quyết định phê duyệt được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ. 
+Đối với dự án có tổng mức đầu tư trên 500 triệu đồng: Sở Thông tin và Truyền thông sẽ ban hành Tờ trình về việc đề nghị phê duyệt quyết toán dự án hoàn thành gửi Sở Tài chính thẩm tra, trình cấp có thẩm quyền phê duyệt.
+++ Nếu hồ sơ không đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ra thông báo đề nghị sửa đổi, bổ sung hoặc trả hồ sơ. 
+Trường hợp tổ chức nộp lại hồ sơ sửa đổi, bổ sung mà không đầy đủ các thành phần theo quy định, không bảo đảm yêu cầu để thẩm định thì hồ sơ coi như không hợp lệ, Sở Thông tin và Truyền thông sẽ từ chối tiếp nhận hồ sơ sửa đổi, bổ sung của tổ chức.
++ Trường hợp hồ sơ không hợp lệ (không đáp ứng đầy đủ thành phần, số lượng hồ sơ theo yêu cầu của thủ tục): Bộ phận Một cửa sẽ từ chối tiếp nhận hồ sơ và nêu rõ lý do từ chối.
+Lưu ý: Mọi vướng mắc, tổ chức liên hệ địa chỉ thư điện tử motcua-stttt@danang.gov.vn; fax: 02363.840.124; điện thoại: 02363.881.888 (số máy lẻ 423) hoặc số tắt 1022 để được hướng dẫn thêm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ)|Lệ phí : Theo quy định tại khoản 1, Điều 20 của Thông tư số 10/2020/TT-BTC ngày 20 tháng 02 năm 2020 của Bộ trưởng Bộ Tài chính về việc quy định về quyết toán dự án hoàn thành sử dụng nguồn vốn nhà nước|Tổ chức nộp hồ sơ bằng hình thức trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính công ích; nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích. Sở Thông tin và Truyền thông khuyến khích tổ chức nộp hồ sơ trực tuyến qua Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn và sử dụng dịch vụ bưu chính công ích để nhận kết quả giải quyết thủ tục hành chính.|
+|Trực tuyến|30 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ)|Lệ phí : Theo quy định tại khoản 1, Điều 20 của Thông tư số 10/2020/TT-BTC ngày 20 tháng 02 năm 2020 của Bộ trưởng Bộ Tài chính về việc quy định về quyết toán dự án hoàn thành sử dụng nguồn vốn nhà nước|Tổ chức nộp hồ sơ bằng hình thức trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính công ích; nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích. Sở Thông tin và Truyền thông khuyến khích tổ chức nộp hồ sơ trực tuyến qua Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn và sử dụng dịch vụ bưu chính công ích để nhận kết quả giải quyết thủ tục hành chính.|
+|Dịch vụ bưu chính|30 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ)|Lệ phí : Theo quy định tại khoản 1, Điều 20 của Thông tư số 10/2020/TT-BTC ngày 20 tháng 02 năm 2020 của Bộ trưởng Bộ Tài chính về việc quy định về quyết toán dự án hoàn thành sử dụng nguồn vốn nhà nước|Tổ chức nộp hồ sơ bằng hình thức trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính công ích; nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích. Sở Thông tin và Truyền thông khuyến khích tổ chức nộp hồ sơ trực tuyến qua Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn và sử dụng dịch vụ bưu chính công ích để nhận kết quả giải quyết thủ tục hành chính.|
+
+Thành phần hồ sơ:
+
+Đối với dự án hoàn thành, hạng mục công trình hoàn thành, dự án dừng thực hiện vĩnh viễn có khối lượng thi công xây dựng, lắp đặt thiết bị
+- 01 Bản chính 1. Tờ trình đề nghị phê duyệt quyết toán của chủ đầu tư (bản chính). Trường hợp kiểm toán độc lập thực hiện kiểm toán, tờ trình phải nêu rõ những nội dung thống nhất, nội dung không thống nhất và lý do không thống nhất giữa chủ đầu tư và kiểm toán độc lập. Trường hợp các cơ quan thực hiện chức năng thanh tra (sau đây gọi là thanh tra), kiểm tra, Kiểm toán nhà nước, cơ quan pháp luật thực hiện thanh tra, kiểm tra, kiểm toán, điều tra dự án, trong tờ trình chủ đầu tư phải nêu rõ việc chấp hành các kiến nghị, kết luận của các cơ quan trên. ([To trinh tham tra phe duyet quyet toan von dau tu (Mau KHTC 09).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef25c6258e78d8'))
+- 01 Bản chính 2. Biểu mẫu báo cáo quyết toán theo quy định Mẫu số: 01/QTDA, 02/QTDA, 03/QTDA, 04/QTDA, 05/QTDA, 06/QTDA, 07/QTDA, 08/QTDA (bản chính). ([Mau 01-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5f43036eb7eb1') [Mau 02-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fba03b876c16750') [Mau 03-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcfe18cbe75144') [Mau 04-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea4e83f0044bea') [Mau 05-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd43048c7a171c') [Mau 06-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0045cad2b2651') [Mau 07-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3e8b36da70e8a') [Mau 08-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2267b2073491c'))
+- 01 Bản chính 3. Toàn bộ các văn bản pháp lý có liên quan theo Mẫu số 02/QTDA (bản chính hoặc bản do chủ đầu tư sao y bản chính).
+- 01 Bản chính 4. Hồ sơ quyết toán của từng hợp đồng gồm các tài liệu (bản chính hoặc do chủ đầu tư sao y bản chính): Hợp đồng xây dựng và các phụ lục hợp đồng (nếu có); các biên bản nghiệm thu khối lượng hoàn thành theo giai đoạn thanh toán; biên bản nghiệm thu khối lượng hoàn thành toàn bộ hợp đồng; bảng tính giá trị quyết toán hợp đồng (quyết toán A-B); biên bản thanh lý hợp đồng đối với trường hợp đã đủ điều kiện thanh lý hợp đồng theo quy định của pháp luật về hợp đồng; các tài liệu khác theo thỏa thuận trong hợp đồng liên quan đến nội dung thẩm tra, phê duyệt quyết toán dự án hoàn thành.
+- 01 Bản chính 5. Biên bản nghiệm thu công trình hoặc hạng mục công trình độc lập hoàn thành đưa vào sử dụng (bản chính), văn bản chấp thuận kết quả nghiệm thu của cơ quan nhà nước có thẩm quyền (bản chính hoặc bản do chủ đầu tư sao y bản chính).
+- 01 Bản chính 6. Báo cáo kiểm toán quyết toán dự án hoàn thành của đơn vị kiểm toán độc lập trong trường hợp thuê kiểm toán độc lập thực hiện kiểm toán (bản chính).
+- 01 Bản chính 7. Báo cáo kiểm toán hoặc thông báo kết quả kiểm toán (sau đây gọi chung là báo cáo kiểm toán), kết luận thanh tra, biên bản kiểm tra, quyết định xử lý vi phạm của các cơ quan Kiểm toán nhà nước, thanh tra, kiểm tra trong trường hợp các cơ quan này thực hiện thanh tra, kiểm tra, kiểm toán dự án; kết quả điều tra của các cơ quan pháp luật trong trường hợp dự án có vi phạm pháp luật bị cơ quan pháp luật điều tra. Báo cáo của chủ đầu tư kèm các tài liệu liên quan về tình hình chấp hành các ý kiến của các cơ quan nêu trên.
+ * Chủ đầu tư có trách nhiệm xuất trình các tài liệu khác có liên quan để phục vụ công tác thẩm tra quyết toán khi cơ quan chủ trì thẩm tra quyết toán đề nghị bằng văn bản. (Tất cả đều có chữ ký số hoặc bản scan có chữ ký và đóng dấu đỏ của cơ quan trình hồ sơ).
+
+
+Đối với dự án quy hoạch, dự án chuẩn bị đầu tư sử dụng vốn chi đầu tư phát triển (nếu có), dự án dừng thực hiện vĩnh viễn chưa có khối lượng thi công xây dựng, lắp đặt thiết bị
+- 01 Bản chính 1. Tờ trình đề nghị phê duyệt quyết toán của chủ đầu tư (bản chính) ([To trinh tham tra phe duyet quyet toan von dau tu (Mau KHTC 09).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe886efd961a7ae'))
+- 01 Bản chính 2. Biểu mẫu báo cáo quyết toán theo quy định Mẫu số: 01/QTDA, 02/QTDA, 03/QTDA, 04/QTDA, 05/QTDA, 06/QTDA, 07/QTDA, 08/QTDA (bản chính). ([Mau 01-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed8d1c5a7d8016') [Mau 02-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd847dd8afbc17c') [Mau 03-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc000609837dc4') [Mau 04-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4c1af84e6dde4') [Mau 05-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe351e8e9ebc091') [Mau 06-QDTA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd30d460e170624') [Mau 07-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb4cc650550326') [Mau 08-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda2f183062b190'))
+- 01 Bản chính 3. Toàn bộ các văn bản pháp lý có liên quan theo Mẫu số 09/QTDA (bản chính hoặc bản do chủ đầu tư sao y bản chính). ([Mau 09-QTDA.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd53c0f5c1e9124'))
+- 01 Bản chính 4. Hồ sơ quyết toán của từng hợp đồng gồm bản chính các tài liệu: Hợp đồng, các biên bản nghiệm thu khối lượng hoàn thành theo giai đoạn thanh toán (trừ trường hợp chưa có khối lượng thi công xây dựng, lắp đặt thiết bị); các văn bản phê duyệt điều chỉnh, bổ sung, phát sinh, thay đổi (nếu có), biên bản nghiệm thu khối lượng hoàn thành toàn bộ hợp đồng (nếu có), bảng tính giá trị quyết toán hợp đồng (nếu có), biên bản thanh lý hợp đồng đối với trường hợp đã đủ điều kiện thanh lý hợp đồng theo quy định của pháp luật về hợp đồng.
+- 01 Bản chính 5. Báo cáo kiểm toán báo cáo quyết toán dự án hoàn thành của kiểm toán độc lập trong trường hợp kiểm toán độc lập thực hiện kiểm toán.
+- 01 Bản chính 6. Báo cáo kiểm toán, kết luận thanh tra, biên bản kiểm tra, quyết định xử lý vi phạm của các cơ quan Kiểm toán nhà nước, thanh tra, kiểm tra trong trường hợp các cơ quan này thực hiện thanh tra, kiểm tra, kiểm toán dự án; kết quả điều tra của các cơ quan pháp luật trong trường hợp chủ đầu tư vi phạm pháp luật bị cơ quan pháp luật điều tra. Báo cáo của chủ đầu tư kèm các tài liệu liên quan về tình hình chấp hành các ý kiến của các cơ quan nêu trên.
+ * Chủ đầu tư có trách nhiệm xuất trình các tài liệu khác có liên quan để phục vụ công tác thẩm tra quyết toán khi cơ quan chủ trì thẩm tra quyết toán đề nghị bằng văn bản. (Tất cả đều có chữ ký số hoặc bản scan có chữ ký và đóng dấu đỏ của cơ quan trình hồ sơ).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Thông tin và Truyền thông thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thẩm quyền Sở Thông tin và Truyền thông (tổng mức đầu tư dự án dưới 500 triệu đồng): Báo cáo kết quả thẩm tra quyết toán và Quyết định phê duyệt của Sở Thông tin và Truyền thông (Đối với hồ sơ đạt yêu cầu), Thẩm quyền của Sở Tài chính (đối với dự án có tổng mức đầu tư trên 500 triệu đồng): Tờ trình của Sở Thông tin và Truyền thông về việc đề nghị phê duyệt quyết toán dự án hoàn thành gửi Sở Tài chính thẩm tra, trình cấp có thẩm quyền phê duyệt (Đối với hồ sơ đạt yêu cầu), Công văn đề nghị bổ sung, làm rõ hồ sơ trình thẩm định (Đối với hồ sơ không đạt yêu cầu)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|12/2020/QĐ-UBND|Quy định nội dung về quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|11-05-2020|UBND Thành phố Đà Nẵng|
+|18/2019/QĐ-UBND|Quyết định 18/2019/QĐ-UBND quy định về nội dung trong mua sắm, thuê tài sản, hàng hoá, dịch vụ tại cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của thành phố Đà Nẵng|11-03-2019||
+|10/2020/TT-BTC|Thông tư 10/2020/TT-BTC|20-02-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Các dự án đầu tư sử dụng vốn nhà nước, sau khi hoàn thành hoặc dừng thực hiện vĩnh viễn.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

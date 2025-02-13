@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục gia hạn giấy đăng ký lưu hành dược liệu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị gia hạn giấy đăng ký theo Mẫu số 04C Phụ lục I ban hành kèm theo Thông tư số 21/2018/TT-BYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc634b778eff94'">MẪU SỐ 04C TT39.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Các giấy tờ quy định tại khoản 2, khoản 3 Điều 25 Thông tư số 21/2018/TT-BYT và các giấy tờ quy định tại khoản 6, khoản 7 Điều 25 Thông tư số 21/2018/TT-BYT đối với trường hợp hồ sơ đăng ký dược liệu có thay đổi về hồ sơ hành chính tại thời điểm đăng ký gia hạn. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd91abbea26cebe'">MẪU SỐ 07C TT39.docx</a>)
+- 01 Bản chính, 01 Bản sao 3. Báo cáo lưu hành dược liệu theo Mẫu số 10 Phụ lục I ban hành kèm theo Thông tư số 21/2018/TT-BYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb0d8ed6be5316'">MẪU SỐ 10 TT39.docx</a>)
+- 01 Bản chính, 01 Bản sao 4. Báo cáo an toàn, hiệu quả theo Mẫu số 08 Phụ lục I ban hành kèm theo Thông tư số 21/2018/TT-BYT đối với dược liệu thuộc danh mục dược liệu độc do Bộ trưởng Bộ Y tế ban hành. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe823d1d50df04c'">MẪU SỐ 08 TT39.docx</a>)
+- 01 Bản sao 5. Bản sao giấy đăng ký lưu hành dược liệu tại Việt Nam đã cấp.

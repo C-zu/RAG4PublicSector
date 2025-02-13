@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận xuất xứ (hoặc Phiếu kiểm soát thu hoạch) cho lô nguyên liệu nhuyễn thể hai mảnh vỏ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||a) Cơ quan kiểm soát cấp Giấy chứng nhận xuất xứ cho các lô nguyên liệu NT2MV được kiểm soát ngay sau khi thực hiện kiểm soát tại hiện trường. b) Trường hợp đại diện Cơ quan kiểm soát chưa ký tên và chưa đóng dấu của Cơ quan kiểm soát trên Giấy chứng nhận xuất xứ tại hiện trường, Cơ quan kiểm soát tổ chức cấp Phiếu kiểm soát thu hoạch ngay sau khi thực hiện kiểm soát tại hiện trường.|
+|Trực tuyến|1 Ngày làm việc||Hồ sơ gửi bằng một trong các hình thức sau: - Trực tiếp; - Theo đường bưu điện; - Fax; - Thư điện tử; - Đăng ký trực tuyến.|
+|Dịch vụ bưu chính|1 Ngày làm việc||a) Cơ quan kiểm soát cấp Giấy chứng nhận xuất xứ cho các lô nguyên liệu NT2MV được kiểm soát ngay sau khi thực hiện kiểm soát tại hiện trường. b) Trường hợp đại diện Cơ quan kiểm soát chưa ký tên và chưa đóng dấu của Cơ quan kiểm soát trên Giấy chứng nhận xuất xứ tại hiện trường, Cơ quan kiểm soát tổ chức cấp Phiếu kiểm soát thu hoạch ngay sau khi thực hiện kiểm soát tại hiện trường.|

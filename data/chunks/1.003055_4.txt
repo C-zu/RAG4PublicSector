@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất mỹ phẩm theo mẫu số 02 quy định tại Phụ lục ban hành kèm theo Nghị định số 93/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về điều kiện sản xuất mỹ phẩm; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe405ba041d97c6'">NĐ 93.2016 Mau 02 ND155.2018.docx</a>)
+- 01 Bản chính Sơ đồ mặt bằng và thiết kế của cơ sở sản xuất;
+- 01 Bản chính Danh mục thiết bị hiện có của cơ sở sản xuất

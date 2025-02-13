@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục điều chỉnh quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|04/2011/QH13|Luật 04/2011/QH13|11-11-2011|Quốc Hội|
+|86/2012/NĐ-CP|Nghị định 86/2012/NĐ-CP|19-10-2012|Chính phủ|
+|105/2016/NĐ-CP|Nghị định 105/2016/NĐ-CP-Quy định về điều kiện hoạt động của tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường|01-07-2016|Chính phủ|
+|24/2013/TT-BKHCN|Quy định về hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường|30-09-2013|Bộ Khoa học và Công nghệ|
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP|09-11-2018||

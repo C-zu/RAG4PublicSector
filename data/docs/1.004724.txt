@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004724
+Số quyết định:
+229/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không
+Trình tự thực hiện:
+a) Nộp hồ sơ thủ tục hành chính:
+Chủ sở hữu hoặc tổ chức được giao quản lý cảng hàng không, sân bay gửi 01 bộ hồ sơ đề nghị cấp giấy chứng nhận đăng ký cảng hàng không, sân bay trực tiếp hoặc qua hệ thống bưu chính hoặc hoặc trên môi trường điện tử hoặc bằng các hình thức phù hợp khác đến Cảng vụ hàng không.
+b) Giải quyết thủ tục hành chính:
+- Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ, bao gồm các nội dung sau:
++ Cảng hàng không, sân bay được xây dựng phù hợp với quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc đã được phê duyệt;
++ Kết cấu hạ tầng của cảng hàng không, sân bay được xây dựng, nghiệm thu kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật theo quy định và năng lực khai thác;
++ Phương án xây dựng kết cấu hạ tầng của cảng hàng không, sân bay phù hợp với tiêu chuẩn kỹ thuật theo quy định đối với việc đăng ký tạm thời cảng hàng không, sân bay đang xây dựng và năng lực khai thác.
+- Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay và gửi kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức phù hợp khác đến chủ sở hữu hoặc tổ chức được giao quản lý cảng hàng không, sân bay; gửi Cục Hàng không Việt Nam kết quả cấp giấy chứng nhận đăng ký cảng hàng không, sân bay để đăng ký cảng hàng không, sân bay vào Sổ đăng bạ cảng hàng không, sân bay. Trường hợp từ chối cấp giấy chứng nhận đăng ký cảng hàng không, sân bay, Cảng vụ hàng không thông báo bằng văn bản, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|13|Phí : 15000000 Đồng Đối với sân bay trực thăng, sân bay chuyên dùng  Phí : 40000000 Đồng Đối với cảng hàng không khác  Phí : 70000000 Đồng Đối với cảng hàng không quốc tế|Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ. Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay|
+|Trực tuyến|13|Phí : 15000000 Đồng Đối với sân bay trực thăng, sân bay chuyên dùng  Phí : 40000000 Đồng Đối với cảng hàng không khác  Phí : 70000000 Đồng Đối với cảng hàng không quốc tế|Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ. Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay|
+|Dịch vụ bưu chính|13|Phí : 15000000 Đồng Đối với sân bay trực thăng, sân bay chuyên dùng  Phí : 40000000 Đồng Đối với cảng hàng không khác  Phí : 70000000 Đồng Đối với cảng hàng không quốc tế|Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Cảng vụ hàng không có trách nhiệm thẩm định hồ sơ. Trong thời hạn 03 ngày làm việc, kể từ ngày thẩm định, Cảng vụ hàng không cấp giấy chứng nhận đăng ký cảng hàng không, sân bay|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay ([1.004724_cấp chứng nhận đăng ký cảng.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe91e339c5a92d3'))
+- 01 Bản sao Bản sao hoặc bản sao điện tử quyết định thành lập doanh nghiệp của chủ sở hữu hoặc tổ chức được giao quản lý cảng hàng không, sân bay (trường hợp không có giấy chứng nhận đăng ký doanh nghiệp);
+- 01 Bản sao Bản sao hoặc bản sao điện tử quyết định chủ trương đầu tư hoặc quyết định đầu tư cảng hàng không, sân bay trong trường hợp xây mới, cải tạo, nâng cấp, mở rộng cảng hàng không, sân bay
+- 01 Bản sao Bản sao hoặc bản sao điện tử tài liệu xác nhận kết cấu hạ tầng của cảng hàng không, sân bay đã hoàn thành các thủ tục nghiệm thu theo quy định về đầu tư xây dựng trong trường hợp xây mới, cải tạo, nâng cấp, mở rộng cảng hàng không, sân bay
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cảng vụ hàng không
+Cơ quan có thẩm quyền:
+Cảng vụ hàng không
+Địa chỉ tiếp nhận HS:
+Cảng vụ hàng không
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Giấy chứng nhận đăng ký cảng hàng không, sân bay.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|05/2021/NĐ-CP|Nghị định 05/2021/NĐ-CP|25-01-2021||
+|64/2022/NĐ-CP|Nghị định 64/2022/NĐ-CP|15-09-2022||
+|20/2024/NĐ-CP|sửa đổi, bổ sung một số điều của Nghị định số 05/2021/NĐ-CP ngày 25 tháng 01 năm 2021 của Chính phủ về quản lý, khai thác cảng hàng không, sân bay và Nghị định số 64/2022/NĐ-CP ngày 15 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng không dân dụng.|23-02-2024||
+
+Yêu cầu, điều kiện thực hiện:
+Không yêu cầu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

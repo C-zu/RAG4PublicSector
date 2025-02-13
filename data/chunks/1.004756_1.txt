@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp, gia hạn Chứng chỉ hành nghề thú y thuộc thẩm quyền của Cục Thú y (gồm: Sản xuất, kiểm nghiệm, khảo nghiệm, xuất khẩu, nhập khẩu thuốc thú y)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004756
+Số quyết định:
+3279/QĐ-BNN-VP
+Tên thủ tục:
+Cấp, gia hạn Chứng chỉ hành nghề thú y thuộc thẩm quyền của Cục Thú y (gồm: Sản xuất, kiểm nghiệm, khảo nghiệm, xuất khẩu, nhập khẩu thuốc thú y)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thú y

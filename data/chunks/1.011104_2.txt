@@ -1,0 +1,28 @@
+Tên thủ tục: Thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng/Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh (SCT)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.	
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.
+	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, dự thảo văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình; gửi văn bản đến các cơ quan có thẩm quyền về phòng cháy chữa cháy để thực hiện lấy ý kiến về giải pháp phòng cháy, chữa cháy của thiết kế cơ sở trong trường hợp chủ đầu tư có yêu cầu. (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được thì Dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ thì dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+B4	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Sở phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở Bước 4.
+B5	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện thẩm định hoặc Văn bản Báo cáo thẩm định;  
+- Nếu không đồng ý: Chuyển lại phòng chuyên môn xử lý.
+B6	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, dự thảo văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình; gửi văn bản đến các cơ quan có thẩm quyền về phòng cháy chữa cháy để thực hiện lấy ý kiến về giải pháp phòng cháy, chữa cháy của thiết kế cơ sở trong trường hợp chủ đầu tư có yêu cầu. (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được thì Dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ thì dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Văn bản thông báo kết quả thẩm định dự án đầu tư xây dựng, kết quả thẩm định Thiết kế cơ sở trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm hành chính công tỉnh
+B8	Trả kết quả cho tổ chức cá nhân.

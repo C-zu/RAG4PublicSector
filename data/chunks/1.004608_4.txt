@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép nhập khẩu dược chất, bán thành phẩm thuốc, dược liệu, bán thành phẩm dược liệu để sản xuất thuốc xuất khẩu, trừ nguyên liệu phải kiểm soát đặc biệt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Mẫu số 36 Phụ lục III tại của Nghị định số 155/2018/NĐ-CP đối với dược chất, bán thành phẩm thuốc (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5c2bc37923924'">Mẫu số 36 PL III.docx</a>)
+- 01 Bản chính, 01 Bản sao Mẫu số 41 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với dược liệu, bán thành phẩm dược liệu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc01e77dc6f5fb0'">Mẫu số 41 PL III.docx</a>)

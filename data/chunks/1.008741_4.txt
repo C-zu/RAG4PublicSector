@@ -1,0 +1,8 @@
+Tên thủ tục: Phê duyệt phương án triển khai tuyến cáp viễn thông trên địa bàn thành phố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị phê duyệt phương án triển khai tuyến cáp viễn thông (Mẫu BCVT 09); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7ccea1f490d8c'">De nghi phe duyet PA trien khai tuyen cap VT (Mau BCVT 09).doc</a>)
+- 01 Bản chính 2. Bản vẽ thiết kế tổng thể và chi tiết về tuyến cáp, tuyến cột trồng mới (nếu có).

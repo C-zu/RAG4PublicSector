@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt phương án triển khai tuyến cáp viễn thông trên địa bàn thành phố
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008741
+Số quyết định:
+185/QĐ-UBND_ĐT
+Tên thủ tục:
+Phê duyệt phương án triển khai tuyến cáp viễn thông trên địa bàn thành phố
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet

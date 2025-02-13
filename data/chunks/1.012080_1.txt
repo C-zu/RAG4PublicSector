@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lần đầu Giấy chứng nhận đăng ký thành lập của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012080
+Số quyết định:
+3657/QĐ-BVHTTDL
+Tên thủ tục:
+Cấp lần đầu Giấy chứng nhận đăng ký thành lập của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Gia đình

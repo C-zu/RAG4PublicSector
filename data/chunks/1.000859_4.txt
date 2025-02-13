@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục đăng ký khoản vay nước ngoài/khoản phát hành trái phiếu quốc tế được Chính phủ bảo lãnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký khoản vay nước ngoài (theo Phụ lục 1A ban hành kèm theo Thông tư 22/2013/TT-NHNN) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdad02f703f96f8'">PHỤ LỤC 1A.TT22.13.doc</a>)
+- 01 Bản chính hoặc Đơn đăng ký khoản phát hành trái phiếu quốc tế (theo Phụ lục 1B ban hành kèm theo Thông tư 22/2013/TT-NHNN); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2b77e6f4d327e'">PHỤ LỤC 1B.TT22.13.doc</a>)
+- 01 Bản sao Hồ sơ pháp lý của Bên đi vay bao gồm: Bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao kèm xuất trình bản chính để đối chiếu Giấy phép hoặc Quyết định thành lập Bên đi vay hoặc Giấy chứng nhận đăng ký hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật và các bản sửa đổi (nếu có). Trong trường hợp người nộp hồ sơ nộp bản sao kèm xuất trình bản chính để đối chiếu, người đối chiếu có trách nhiệm xác nhận tính chính xác của bản sao so với bản chính.
+- 01 Bản sao Bản sao Thư bảo lãnh của Bộ Tài chính (có xác nhận của đại diện có thẩm quyền theo pháp luật của Bên đi vay);
+- 01 Bản sao Bản sao văn bản phê duyệt của cấp có thẩm quyền theo quy định của pháp luật đối với dự án đầu tư hoặc phương án sản xuất kinh doanh sử dụng vốn huy động từ khoản vay nước ngoài hoặc khoản phát hành trái phiếu quốc tế;
+- 01 Bản sao Bản sao tiếng nước ngoài và bản dịch tiếng Việt (có xác nhận của đại diện có thẩm quyền theo pháp luật của Bên đi vay về tính chính xác của bản sao và bản dịch) của các tài liệu sau: Hợp đồng vay nước ngoài đã ký; hoặc các hợp đồng liên quan đến đợt phát hành trái phiếu quốc tế (theo cấu trúc đợt phát hành).

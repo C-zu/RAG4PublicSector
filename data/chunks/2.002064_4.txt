@@ -1,0 +1,9 @@
+Tên thủ tục: Lập, thẩm định, quyết định đầu tư dự án quan trọng quốc gia sử dụng vốn ODA, vốn vay ưu đãi
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Theo quy định của Chính phủ
+- 01 Bản chính - Tờ trình thẩm định chương trình, dự án
+- 01 Bản chính - Báo cáo nghiên cứu khả thi chương trình, dự án
+- 01 Bản chính - Các tài liệu khác có liên quan

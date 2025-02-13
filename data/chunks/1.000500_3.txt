@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác (đối với doanh nghiệp kinh doanh casino)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||30 ngày kể từ ngày Ngân hàng Nhà nước Việt Nam nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày||30 ngày kể từ ngày Ngân hàng Nhà nước Việt Nam nhận đủ hồ sơ hợp lệ.|

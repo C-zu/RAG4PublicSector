@@ -1,0 +1,11 @@
+Tên thủ tục: Thỏa thuận vị trí, thông số kỹ thuật chi tiết cảng biển, bến cảng, cầu cảng, luồng hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị thỏa thuận vị trí, thông số kỹ thuật chi tiết cảng biển, bến cảng, cầu cảng, luồng hàng hải theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefdfd78da0856c'">mẫu tờ khai.doc</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử văn bản chấp thuận chủ trương đầu tư của cấp có thẩm quyền quy định tại khoản 4 Điều 4 Nghị định số 58/NĐ-CP ngày 10/5/2017;
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính bản vẽ mặt bằng công trình thể hiện tọa độ vị trí công trình chính và các công trình phụ trợ khác, khoảng cách từ biên công trình đến các công trình liền kề;
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ pháp lý về khu đất nghiên cứu dự án (cụ thể tọa độ biên khu đất);
+- 01 Bản chính, 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính ý kiến của cơ quan có thẩm quyền về phòng cháy chữa cháy đối với các công trình có yêu cầu riêng về khoảng cách an toàn phòng cháy chữa cháy với công trình liền kề.”

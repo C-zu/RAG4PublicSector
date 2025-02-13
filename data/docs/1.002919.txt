@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002919
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục biên phòng điện tử cửa khẩu biên giới đất liền đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh
+Cấp thực hiện:
+Cấp Bộ, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý biên giới
+Trình tự thực hiện:
+Bước 1: Chậm nhất 06 giờ trước khi người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh dự kiến đến cửa khẩu quốc tế, cửa khẩu chính, người làm thủ tục phải khai báo Bản khai đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh theo mẫu biểu quy định trong hồ sơ thủ tục biên phòng điện tử và gửi cho Biên phòng cửa khẩu biên giới đất liền qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.
+Bước 2: Chậm nhất 03 giờ kể từ khi tiếp nhận Bản khai đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh, Biên phòng cửa khẩu biên giới đất liền gửi Xác nhận hoàn thành khai báo thủ tục biên phòng điện tử đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh theo mẫu biểu quy định trong hồ sơ thủ tục biên phòng điện tử cho người làm thủ tục qua Cổng thông tin thủ tục biên phòng điện tử.
+Bước 3: Khi người điều khiển, người đi trên phương tiện, phương tiện đến cửa khẩu quốc tế, cửa khẩu chính để nhập cảnh, xuất cảnh, người làm thủ tục phải xuất trình giấy tờ có giá trị đi lại quốc tế của người điều khiển, người đi trên phương tiện và các giấy tờ của phương tiện theo quy định tại Điều 9 Nghị định số 112/2014/NĐ-CP ngày 21 tháng 11 năm 2014 của Chính phủ quy định về quản lý cửa khẩu biên giới đất liền cho Biên phòng cửa khẩu biên giới đất liền để thực hiện kiểm tra, kiểm soát và kiểm chứng xuất cảnh, nhập cảnh Việt Nam vào hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của của người điều khiển, người đi trên phương tiện theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|3 Giờ|Lệ phí : 0 Đồng|Chậm nhất 03 giờ kể từ khi Biên phòng cửa khẩu biên giới đất liền tiếp nhận Bản khai điện tử Cách thức thực hiện: Người làm thủ tục gửi hồ sơ và nhận kết quả qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.|
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ nộp
+- 01 Bản chính Bản khai đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh. ([Bản khai đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea1950880e83b8'))
+
+
+Thành phần hồ sơ xuất trình
+- 01 Bản chính Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của người điều khiển, người đi trên phương tiện và giấy tờ của phương tiện
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Cơ quan có thẩm quyền:
+Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản điện tử xác nhận hoàn thành khai báo thủ tục biên phòng điện tử đối với người điều khiển, người đi trên phương tiện, phương tiện xuất cảnh, nhập cảnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2019/QĐ-TTg|Quyết định 15/2019/QĐ-TTg - Về việc thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý|28-03-2019|Thủ tướng Chính phủ|
+|112/2014/NĐ-CP|Nghị định 112/2014/NĐ-CP - Quy định về quản lý cửa khẩu biên giới đất liền|21-11-2014|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có yêu cầu điều kiện
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

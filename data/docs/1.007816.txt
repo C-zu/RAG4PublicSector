@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007816
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1. Doanh nghiệp gửi văn bản đề nghị công nhận, kèm hồ sơ thiết kế khu vực kiểm tra hàng hóa gửi Cục Hải quan tỉnh, thành phố nơi có công trình, cơ sở sản xuất, nhà máy.
+Bước 2. Trên co sở bộ hồ sơ của doanh nghiệp, Cục Hải quan tỉnh, thành phố thực hiện: kiểm tra hồ sơ, khảo sát thực tế kho, bãi và ra quyết định thành lập, trường hợp địa điểm đề nghị công nhận không đáp ứng yêu cầu kiểm tra hải quan thì có văn bản trả lời doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trong vòng 05 ngày làm việc, Cục Hải quan tỉnh, thành phố ra quyết định thành lập, trường hợp địa điểm đề nghị công nhận không đáp ứng yêu cầu kiểm tra hải quan thì có văn bản trả lời doanh nghiệp.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Văn bản đề nghị công nhận: 01 bản chính.
+ Sơ đồ thiết kế khu vực kiểm tra hàng hóa: 01 bản chụp
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận địa điểm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+a) Chân công trình hoặc kho của công trình là nơi tập kết thiết bị, nguyên liệu, linh kiện, vật tư nhập khẩu để xây dựng nhà máy, công trình, thực hiện dự án đầu tư, phục vụ sản xuất hàng hóa hoặc hàng hóa xuất khẩu.
+b) Doanh nghiệp chịu trách nhiệm bố trí mặt bằng, phương tiện phục vụ việc kiểm tra tại chân công trình, nơi sản xuất và chỉ được đưa hàng hóa vào sản xuất, thi công, lắp đặt sau khi đã được cơ quan hải quan xác nhận thông quan.
+a) Chân công trình hoặc kho của công trình là nơi tập kết thiết bị, nguyên liệu, linh kiện, vật tư nhập khẩu để xây dựng nhà máy, công trình, thực hiện dự án đầu tư, phục vụ sản xuất hàng hóa hoặc hàng hóa xuất khẩu.
+b) Doanh nghiệp chịu trách nhiệm bố trí mặt bằng, phương tiện phục vụ việc kiểm tra tại chân công trình, nơi sản xuất và chỉ được đưa hàng hóa vào sản xuất, thi công, lắp đặt sau khi đã được cơ quan hải quan xác nhận thông quan.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

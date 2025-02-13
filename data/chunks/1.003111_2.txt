@@ -1,0 +1,13 @@
+Tên thủ tục: Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Gửi hồ sơ.
+Bước 2: Soát xét hồ sơ: 
+Nếu hồ sơ không hợp lệ, thông báo cho cơ sở để hoàn chỉnh.
+Bước 3: Đánh giá cơ sở:
+a) Thành lập đoàn đánh giá cơ sở: Nếu hồ sơ của cơ sở đầy đủ, hợp lệ.  
+b) Kết luận kết quả đánh giá: Khi kết thúc đánh giá tại cơ sở.
+Bước 4: Xử lý kết quả đánh giá:
+a) Chỉ định cơ sở kiểm nghiệm: Nếu cơ sở đạt yêu cầu.
+b) Thông báo cho cơ sở lý do không chỉ định

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy phép thu, chi ngoại tệ và hoạt động ngoại hối khác (đối với doanh nghiệp kinh doanh trò chơi điện tử có thưởng) dành cho người nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|||
+|Dịch vụ bưu chính|45 Ngày|||

@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp mã địa điểm thu gom hàng lẻ ( đối với doanh nghiệp kinh doanh địa điểm thu gom hàng lẻ nằm trong khu vực cảng biển, cảng cạn là doanh nghiệp kinh doanh cảng)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1:  Doanh nghiệp gửi đề nghị cấp mã địa điểm thu gom hàng lẻ đến Cục Hải quan tỉnh, thành phố
+Bước 2: Cục Hải quan tỉnh thành phố kiểm tra thanh khoản toàn bộ lượng hàng tồn, báo cáo đề xuất Tổng cục Hải quan
+Bước 3: Tổng cục Hải quan thực hiện cấp mã, ra thông báo cấp mã địa điểm cho Doanh nghiệp và Hải quan tỉnh, thành phố.

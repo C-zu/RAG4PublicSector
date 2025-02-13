@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định Hồ sơ thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc Hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) đối với công trình cấp III, IV do quận, huyện quản lý.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009182
+Số quyết định:
+3710/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định Hồ sơ thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc Hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) đối với công trình cấp III, IV do quận, huyện quản lý.
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

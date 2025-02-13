@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép bưu chính khi hết hạn (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 5.375.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef1210f7fb87ac'">25-btc.signed.pdf</a>||
+|Trực tuyến|10 Ngày làm việc|Phí : 5.375.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef1210f7fb87ac'">25-btc.signed.pdf</a>|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Sở Thông tin và Truyền thông hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn).|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 5.375.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef1210f7fb87ac'">25-btc.signed.pdf</a>||

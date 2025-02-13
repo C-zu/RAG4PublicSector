@@ -1,0 +1,8 @@
+Tên thủ tục: Nộp mẫu vật địa chất, khoáng sản vào Bảo tàng Địa chất (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Mẫu vật địa chất, khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb5e50644eaa3d'">Phụ lục 2.docx</a>)
+- 02 Bản chính Bộ Phiếu ghi mẫu vật địa chất lập theo mẫu quy định tại Phụ lục 1 ban hành kèm theo Thông tư số 53/2014/TT-BTNMT ngày 09 tháng 9 năm 2014. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaa11663750486'">Phụ lục 1.docx</a>)

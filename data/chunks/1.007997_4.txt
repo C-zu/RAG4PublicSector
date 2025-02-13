@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp, cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị công nhận lưu hành đặc cách giống cây trồng của Sở Nông nghiệp và Phát triển nông thôn theo Mẫu số 01.ĐC Phụ lục III ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019 . (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3b54c2fa35e8a'">Mẫu số 01.docx</a>)
+- 01 Bản chính - Bản mô tả đặc tính của giống và hiện trạng sử dụng theo Mẫu số 02.ĐC Phụ lục III ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb12d6e39da0d6'">Mẫu số 02.docx</a>)
+- 01 Bản chính - Có mẫu giống cây trồng được lưu theo quy định tại Điều 20 của Luật Trồng trọt.
+- 01 Bản chính - Trường hợp cấp lại phải có văn bản đề nghị cấp lại theo Mẫu số 03.ĐC Phụ lục III ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf66365b9282b0'">Mẫu số 03.docx</a>)

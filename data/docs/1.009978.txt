@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009978
+Số quyết định:
+1105/QĐ-BXD
+Tên thủ tục:
+Gia hạn giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (công trình Không theo tuyến/Theo tuyến trong đô thị/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng/Sửa chữa, cải tạo/Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến trong đô thị/Dự án)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+- Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp giấy phép xây dựng cho Trung tâm phục vụ hành chính công hoặc Bộ phận tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Sở Xây dựng hoặc ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Đồng Theo quy định của Bộ Tài chính|05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|05 Ngày làm việc|Phí : Đồng Theo quy định của Bộ Tài chính|05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Đồng Theo quy định của Bộ Tài chính|05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị gia hạn giấy phép xây dựng theo Mẫu số 2 Phụ lục số II Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ; ([Don de nghi dieu chinh, gia han, cap lai GPXD.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb2791271cd4d28'))
+- 01 Bản chính, 01 Bản sao - Bản chính giấy phép xây dựng đã được cấp;
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Xây dựng, Ban Quản lý Khu chế xuất- Khu công nghiệp, Ban Quản lý Khu công nghệ cao, Ban quản lý khu kinh tế
+Cơ quan có thẩm quyền:
+Sở Xây dựng, Ban Quản lý Khu chế xuất- Khu công nghiệp, Ban quản lý khu kinh tế, Ban Quản lý Khu công nghệ cao
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép XD được gia hạn
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|62/2020/QH14|Luật 62/2020/QH14|17-06-2020||
+|15/2021/NĐ-CP|Quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|35/2023/NĐ-CP|Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng|20-06-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan nhà nước có thẩm quyền chấp thuận bằng văn bản).
+- Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+- Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+- Thiết kế xây dựng công trình đã được thẩm định, phê duyệt theo quy định. 
+- Đối với khu vực đã có quy hoạch xây dựng và theo quy định, dự án đầu tư xây dựng phải phù hợp với quy hoạch có tính chất kỹ thuật, chuyên ngành khác thì quy hoạch xây dựng và quy hoạch có tính chất kỹ thuật, chuyên ngành này là cơ sở để xem xét cấp giấy phép xây dựng;
+- Đối với khu vực chưa có quy hoạch xây dựng thì quy hoạch có tính chất kỹ thuật, chuyên ngành khác có liên quan hoặc thiết kế đô thị hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng; 
+- Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
+- Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng thì phải phù hợp với quy chế quản lý quy hoạch, kiến trúc đô thị hoặc thiết kế đô thị được cơ quan nhà nước có thẩm quyền ban hành. (Đối với công trình không theo tuyến ngoài đô thị thì phù hợp với vị trí và tổng mặt bằng của dự án đã được cơ quan nhà nước có thẩm quyền chấp thuận bằng văn bản).
+- Phù hợp với mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+- Bảo đảm an toàn cho công trình, công trình lân cận và yêu cầu về bảo vệ môi trường, phòng, chống cháy, nổ; bảo đảm an toàn hạ tầng kỹ thuật, hành lang bảo vệ công trình thuỷ lợi, đê điều, năng lượng, giao thông, khu di sản văn hoá, di tích lịch sử - văn hóa; bảo đảm khoảng cách an toàn đến công trình dễ cháy, nổ, độc hại và công trình quan trọng có liên quan đến quốc phòng, an ninh.
+- Thiết kế xây dựng công trình đã được thẩm định, phê duyệt theo quy định. 
+- Đối với khu vực đã có quy hoạch xây dựng và theo quy định, dự án đầu tư xây dựng phải phù hợp với quy hoạch có tính chất kỹ thuật, chuyên ngành khác thì quy hoạch xây dựng và quy hoạch có tính chất kỹ thuật, chuyên ngành này là cơ sở để xem xét cấp giấy phép xây dựng;
+- Đối với khu vực chưa có quy hoạch xây dựng thì quy hoạch có tính chất kỹ thuật, chuyên ngành khác có liên quan hoặc thiết kế đô thị hoặc quy chế quản lý kiến trúc hoặc văn bản của cơ quan nhà nước có thẩm quyền chấp thuận về vị trí và tổng mặt bằng (đối với công trình không theo tuyến ngoài đô thị) là cơ sở để xem xét cấp giấy phép xây dựng; 
+- Đối với các công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng đồng có yêu cầu thẩm tra theo quy định tại khoản 6 Điều 82 của Luật Xây dựng năm 2014 được sửa đổi, bổ sung tại khoản 24 Điều 1 của Luật số 62/2020/QH14, báo cáo kết quả thẩm tra ngoài các yêu cầu riêng của chủ đầu tư, phải có kết luận đáp ứng yêu cầu an toàn công trình, sự tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật của hồ sơ thiết kế xây dựng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Thông báo hủy bỏ nghị quyết, quyết định giải thể doanh nghiệp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010023
+Số quyết định:
+885/QĐ-BKHĐT
+Tên thủ tục:
+Thông báo hủy bỏ nghị quyết, quyết định giải thể doanh nghiệp
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp

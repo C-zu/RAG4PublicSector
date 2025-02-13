@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký công bố hợp quy đối với các sản phẩm, hàng hóa sản xuất trong nước, dịch vụ, quá trình, môi trường được quản lý bởi các quy chuẩn kỹ thuật quốc gia do Bộ Khoa học và Công nghệ ban hành
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản công bố hợp quy. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd1b87e6ddf7c4'">Bản công bố hợp quy.docx</a>)
+- 01 Bản chính * Đối với trường hợp công bố hợp quy dựa trên kết quả tự đánh giá của tổ chức, cá nhân: - Báo cáo tự đánh giá gồm các thông tin sau: + Tên tổ chức, cá nhân; địa chỉ; điện thoại, fax; + Tên sản phẩm, hàng hóa; + Số hiệu quy chuẩn kỹ thuật; + Kết luận sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật; + Cam kết chất lượng sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, hàng hóa và kết quả tự đánh giá.
+- 01 Bản sao * Đối với trường hợp công bố hợp quy dựa trên kết quả chứng nhận của tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được chỉ định: Bản sao y bản chính Giấy chứng nhận phù hợp quy chuẩn kỹ thuật tương ứng kèm theo mẫu dấu hợp quy do tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được chỉ định cấp cho tổ chức, cá nhân.

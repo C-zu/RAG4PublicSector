@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ:
+- 01 Bản chính - Đơn đề nghị cấp lại GCNVHĐHTHH, trong đó nêu rõ lý do và có xác nhận của người đứng đầu tổ chức hoa tiêu hàng hải hoặc đơn vị quản lý thuyền trưởng theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb91f42f917f138'">Mẫu Đơn đề nghị cấp lại Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính giấy tờ có giá trị pháp lý chứng minh sự điều chỉnh đối với trường hợp thay đổi thông tin
+- 02 Bản chính - 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến cỡ 3cmx 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất.

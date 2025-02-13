@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo phát hành Biên lai.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ 1. Thông báo phát hành Biên lai: 01 bản chính (Theo mẫu 01 ban hành kèm theo Thông tư số 178/2011/TT-BTC ngày 8/12/2011)
+ 2. Biên lai mẫu: 01 bản chính (Theo các tiêu chí quy định ở khoản 3, Điều 6 Thông tư số 178/2011/TT-BTC ngày 8/12/2011)

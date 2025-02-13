@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với tổ chức nhận chuyển nhượng đã được cấp phép kinh doanh dịch vụ viễn thông sử dụng băng tần
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ hợp lệ, đúng quy định. Nộp trực tiếp tại Cục Viễn thông; Nộp qua dịch vụ bưu chính; Địa chỉ Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội.|
+|Trực tuyến|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ hợp lệ, đúng quy định; Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ http://dichvucong.mic.gov.vn hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/.|
+|Dịch vụ bưu chính|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ hợp lệ, đúng quy định. Nộp qua dịch vụ bưu chính; Địa chỉ Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội.|

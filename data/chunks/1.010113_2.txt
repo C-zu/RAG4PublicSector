@@ -1,0 +1,41 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả đối với dự án thuộc thẩm quyền UBND tỉnh/TTCP hoặc khi có kết quả sẽ thông báo đối với dự án thuộc thẩm quyền Quốc Hội.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, lãnh đạo Ban ký duyệt
+- Trường hợp, hồ sơ đáp ứng yêu cầu:
++ Đối với dự án thuộc thẩm quyền UBND tỉnh: Dự thảo Văn bản lấy ý kiến các Sở, ban, ngành, địa phương trình lãnh đạo phòng ký nháy, Lãnh đạo Ban ký duyệt
++ Đối với Dự án thuộc thẩm quyền của tủ tướng Chính phủ: dự thảo Văn bản gửi Bộ Kế hoạch và Đầu tư và cơ quan nhà nước có thẩm quyền liên quan để lấy ý kiến về nội dung của dự án
++ Đối với Dự án thuộc thẩm quyền của Quốc hội: Làm văn bản gửi Bộ Kế hoạch và Đầu tư để báo cáo Thủ tướng Chính phủ thành lập Hội đồng thẩm định nhà nước 
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 19
++ Đối với hồ sơ đủ điều kiện: Gửi văn bản đến các cơ quan liên quan giải quyết. Chuyển sang thực hiện các bước tiếp theo (đối với dự án thuộc thẩm quyền Quốc Hội chuyển sang Bước 12)
+B6	Các Bộ, Sở ban ngành, địa phương và các đơn vị liên quan góp ý thẩm định hồ sơ
+B6	Lập Báo cáo thẩm định dự án
+B7	Tổng hợp ý kiến góp ý vào dự thảo Báo cáo thẩm định dự án; Dự thảo Tờ trình đề nghị UBND tỉnh cấp Quyết định chủ trương đầu tư (Đối với Dự án thuộc thẩm quyền UBND tỉnh)/ Tờ trình đề nghị UBND tỉnh có ý kiến với Bộ KH&ĐT (đối với Dự án thuộc thẩm quyền TTCP)
+
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B9	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định của phòng CM
+
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B11	- UBND tỉnh quyết định chủ trương đầu tư (đối với dự án thuộc thẩm quyền của UBND tỉnh). Chuyển sang thực hiện Bước 15
+- Ủy ban nhân dân tỉnh xem xét, có ý kiến gửi Bộ KH và ĐT (đối với dự án thuộc thẩm quyền của Thủ tướng Chính phủ). Chuyển sang thực hiện bước tiếp theo
+
+B12	- Bộ KH và ĐT lập báo cáo thẩm định  trình Thủ tướng Chính phủ quyết định (đối với dự án thuộc thẩm quyền Thủ tướng Chính phủ quyết định) 
+- Hội đồng thẩm định nhà nước tổ chức thẩm định hồ sơ dự án đầu tư và lập báo cáo thẩm định trình Chính phủ (đối với dự án thuộc thẩm quyền Quốc hội quyết định)
+B13	- Thủ tướng Chính phủ xem xét, quyết định chủ trương (đối với dự án thuộc thẩm quyền của Thủ tướng Chính phủ). Chuyển sang thực hiện Bước 15
+- Chính phủ trình Quốc hội, xem xét (đối với dự án thuộc thẩm quyền của Quốc hội). Chuyển sang thực hiện bước tiếp theo
+B14	Quốc hội xem xét, thông qua Nghị quyết về chủ trương đầu tư (đối với dự án thuộc thẩm quyền của Quốc hội)
+
+B15	Sau khi có kết quả của Quốc hội/Thủ tướng CP/UBND tỉnh. Dự thảo Giấy chứng nhận đăng ký đầu tư hoặc Văn bản thông báo không đủ điều kiện cấp GCN đăng ký đầu tư trình Lãnh đạo phòng xem xét ký nháy
+B16	Lãnh đạo phòng chuyên môn xem xét ký nháy kết quả tại B15
+B17	Lãnh đạo Ban xem xét, Ký duyệt
+B18	Làm thủ tục phát hành văn bản và chuyển TTPVHCC để trả cho tổ chức, cá nhân
+- Cập nhật theo dõi kết quả xử lý công việc
+B19	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn

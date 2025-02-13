@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đủ điều kiện hành nghề tu bổ di tích
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Danh sách người được cấp Chứng chỉ hành nghề kèm theo bản sao Chứng chỉ hành nghề: - Có ít nhất 01 người được cấp Chứng chỉ hành nghề lập quy hoạch tu bổ di tích. - Có ít nhất 01 người được cấp Chứng chỉ hành nghề lập dự án tu bổ di tích, báo cáo kinh tế - kỹ thuật tu bổ di tích, thiết kế tu bổ di tích. - Có ít nhất 01 người được cấp Chứng chỉ hành nghề thi công tu bổ di tích. - Có ít nhất 01 người được cấp Chứng chỉ hành nghề giám sát thi công tu bổ di tích.
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện hành nghề bảo quản, tu bổ, phục hồi di tích (Mẫu số 04 Phụ lục II ban hành kèm theo Nghị định số 31/2024/NĐ-CP ngày 15 tháng 3 năm 2024) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9e39d76dae6ff'">Phu luc 2.docx</a>)

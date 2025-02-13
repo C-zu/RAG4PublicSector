@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký mẫu séc trắng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị đăng ký mẫu séc trắng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd311ad01413d40'">Giấy đề nghị đăng ký mẫu séc trắng.doc</a>)
+- 01 Bản chính Mẫu thiết kế của tờ séc trắng, gồm: kích thước, màu sắc, các yếu tố chi tiết của tờ séc trắng;
+- 01 Bản sao Bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc nộp bản sao không có chứng thực xuất trình kèm bản chính để đối chiếu Giấy phép hoạt động của tổ chức cung ứng séc (trường hợp đăng ký lần đầu) hoặc bản sao không có chứng thực đối với trường hợp đăng ký từ lần thứ hai trở đi.

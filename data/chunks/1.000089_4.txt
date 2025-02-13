@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy chứng nhận y tế (HC) đối với thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến; dụng cụ, vật liệu bao gói, chứa đựng thực phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận y tế theo mẫu quy định tại Phụ lục 08 ban hành kèm Thông tư số 52/2015/TT-BYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3ec9f96d65973'">PHỤ LỤC SỐ 8.docx</a>)
+- 01 Bản chính Kết quả kiểm nghiệm của từng mặt hàng thuộc lô hàng xuất khẩu gồm các chỉ tiêu theo yêu cầu của Quy chuẩn kỹ thuật tương ứng (đối với sản phẩm đã có Quy chuẩn kỹ thuật) hoặc các chỉ tiêu chất lượng chủ yếu, chỉ tiêu an toàn theo quy định (đối với sản phẩm chưa có Quy chuẩn kỹ thuật), thông tin về tên mặt hàng, số lô, ngày sản xuất, hạn sử dụng do Phòng kiểm nghiệm được cơ quan nhà nước có thẩm quyền chỉ định hoặc phòng kiểm nghiệm độc lập được công nhận (Bản gốc hoặc bản sao có chứng thực)
+- 01 Bản chính Mẫu nhãn sản phẩm (Bản sao có xác nhận của tổ chức, cá nhân).
+- 01 Bản chính Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm (trừ trường hợp quy định tại Khoản 1 Điều 12 Nghị định số 38/2012/NĐ-CP) hoặc Giấy Tiếp nhận bản công bố hợp quy hoặc Giấy Xác nhận công bố phù hợp quy định an toàn thực phẩm (Bản sao có xác nhận của tổ chức, cá nhân).

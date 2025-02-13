@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận nguyên liệu thủy sản khai thác trong nước (theo yêu cầu)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Phí : Đồng - Nộp 700.000 đồng/lần theo Thông tư số 230/2016/TT-BTC ngày 11/11/2016 (thực hiện đến hết ngày 14/01/2019). - Nộp 150.000 đồng + (số tấn thủy sản x 15.000 đồng/tấn); Tối đa 700.000 đồng/lần theo Thông tư số 118/2018/TT-BTC ngày 28/11/2018 (thực hiện từ ngày 15/01/2019)|Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Trực tuyến|2 Ngày làm việc|Phí : Đồng - Nộp 700.000 đồng/lần theo Thông tư số 230/2016/TT-BTC ngày 11/11/2016 (thực hiện đến hết ngày 14/01/2019). - Nộp 150.000 đồng + (số tấn thủy sản x 15.000 đồng/tấn); Tối đa 700.000 đồng/lần theo Thông tư số 118/2018/TT-BTC ngày 28/11/2018 (thực hiện từ ngày 15/01/2019)|Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Dịch vụ bưu chính|2 Ngày làm việc|Phí : Đồng - Nộp 700.000 đồng/lần theo Thông tư số 230/2016/TT-BTC ngày 11/11/2016 (thực hiện đến hết ngày 14/01/2019). - Nộp 150.000 đồng + (số tấn thủy sản x 15.000 đồng/tấn); Tối đa 700.000 đồng/lần theo Thông tư số 118/2018/TT-BTC ngày 28/11/2018 (thực hiện từ ngày 15/01/2019)|Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|

@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục tiếp công dân tại cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Đơn khiếu nại, đơn tố cáo, đơn kiến nghị, đơn phản ánh hoặc văn bản ghi lại nội dung khiếu nại, tố cáo, kiến nghị, phản ánh (có chữ ký hoặc điểm chỉ của công dân); + Các thông tin, tài liệu, bằng chứng do người khiếu nại, tố cáo, kiến nghị, phản ánh cung cấp.

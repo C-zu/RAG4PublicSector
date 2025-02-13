@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt liên kết giáo dục
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001499
+Số quyết định:
+2108/QĐ-BGDĐT
+Tên thủ tục:
+Phê duyệt liên kết giáo dục
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đào tạo với nước ngoài

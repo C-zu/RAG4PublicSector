@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục sửa chữa, bổ sung, điều chỉnh thông tin về đăng ký quốc tịch tàu bay, đăng ký các quyền đối với tàu bay và đăng ký văn bản IDERA
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005193
+Số quyết định:
+1204/QĐ-BGTVT
+Tên thủ tục:
+Thủ tục sửa chữa, bổ sung, điều chỉnh thông tin về đăng ký quốc tịch tàu bay, đăng ký các quyền đối với tàu bay và đăng ký văn bản IDERA
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không

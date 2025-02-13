@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục Cấp văn bản chấp thuận đóng mới, cải hoán, thuê, mua tàu cá trên biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trực tiếp tại Quầy tiếp nhận hồ sơ của Sở Nông nghiệp và PTNT tại Trung tâm Phục vụ hành chính công tỉnh Nghệ An|
+|Trực tuyến|3 Ngày làm việc||Qua hệ thống bưu chính đến Quầy tiếp nhận hồ sơ của Sở Nông nghiệp và PTNT tại Trung tâm Phục vụ hành chính công tỉnh Nghệ An|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trực tuyến mức độ 4 tại địa chỉ: http://dichvucong.nghean.gov.vn|

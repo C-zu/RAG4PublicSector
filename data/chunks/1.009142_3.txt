@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu (UBND quận, huyện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|+ Thời gian thẩm định: • Đối với gói thầu quy mô nhỏ: 07 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. • Đối với gói thầu còn lại: 09 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. + Thời gian phê duyệt: • Đối với gói thầu quy mô nhỏ: 05 ngày. • Đối với các gói thầu còn lại: 07 ngày.|Phí : Theo Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014.|Cá nhân, tổ chức nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhậnvà trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|

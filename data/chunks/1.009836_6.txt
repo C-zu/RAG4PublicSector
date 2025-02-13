@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Chấm dứt hoạt động cơ sở bức xạ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+	Điều kiện về nhân lực:
+- Có nhân viên bức xạ được cấp Giấy chứng nhận đào tạo an toàn bức xạ;
+- Có người phụ trách an toàn. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+- Có người phụ trách tẩy xạ và người phụ trách ứng phó sự cố bức xạ. Người phụ trách tẩy xạ và người phụ trách ứng phó sự cố bức xạ phải có Chứng chỉ nhân viên bức xạ.
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Có kế hoạch tháo dỡ, tẩy xạ, xử lý, quản lý nguồn phóng xạ, chất thải phóng xạ; trong đó nêu chi tiết quy trình, tiến độ thực hiện, nhân lực, trang thiết bị và bảo đảm tài chính để hoàn thành kế hoạch.
+	Điều kiện về nhân lực:
+- Có nhân viên bức xạ được cấp Giấy chứng nhận đào tạo an toàn bức xạ;
+- Có người phụ trách an toàn. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+- Có người phụ trách tẩy xạ và người phụ trách ứng phó sự cố bức xạ. Người phụ trách tẩy xạ và người phụ trách ứng phó sự cố bức xạ phải có Chứng chỉ nhân viên bức xạ.
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Có kế hoạch tháo dỡ, tẩy xạ, xử lý, quản lý nguồn phóng xạ, chất thải phóng xạ; trong đó nêu chi tiết quy trình, tiến độ thực hiện, nhân lực, trang thiết bị và bảo đảm tài chính để hoàn thành kế hoạch.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Chấm dứt hoạt động cơ sở bức xạ
+Mô tả:
+Không có thông tin

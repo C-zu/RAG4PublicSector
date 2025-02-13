@@ -1,0 +1,44 @@
+Tên thủ tục: Tuyển chọn, giao trực tiếp tổ chức và cá nhân chủ trì đề tài khoa học và công nghệ, dự án sản xuất thử nghiệm cấp bộ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với các tổ chức chủ trì thực hiện đề tài, dự án phải đáp ứng các điều kiện sau:
++ Có đăng ký hoạt động khoa học và công nghệ;
++ Có chức năng hoạt động phù hợp với lĩnh vực chuyên môn của nhiệm vụ khoa học và công nghệ;
++ Không thuộc một trong các trường hợp sau đây:
+* Đến thời điểm nộp hồ sơ chưa hoàn trả đầy đủ kinh phí thu hồi theo hợp đồng thực hiện đề tài, dự án trước đây;
+* Không được tham gia tuyển chọn, giao trực tiếp trong thời hạn 01 năm nếu nộp hồ sơ đánh giá nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia chậm so với thời hạn kết thúc hợp đồng nghiên cứu trên 30 ngày mà không có ý kiến chấp thuận của Bộ Khoa học và Công nghệ (đối với nhiệm vụ cấp quốc gia), Bộ Nông nghiệp và Phát triển nông thôn (đối với nhiệm vụ cấp Bộ);
+* Không được tham gia tuyển chọn, giao trực tiếp trong thời hạn 03 năm (từ thời điểm có kết luận của cơ quan có thẩm quyền) nếu có sai phạm dẫn đến bị đình chỉ thực hiện nhiệm vụ; không triển khai ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ vào sản xuất theo hợp đồng nghiên cứu khoa học và phát triển công nghệ;
+* Không được tham gia tuyển chọn, giao trực tiếp trong thời hạn 02 năm nếu không thực hiện nghĩa vụ đăng ký, nộp lưu giữ các kết quả nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; không báo cáo ứng dụng kết quả của nhiệm vụ theo quy định.
+- Đối với cá nhân chủ nhiệm đề tài, dự án phải đáp ứng các điều kiện sau:
++ Có trình độ đại học trở lên, có chuyên môn phù hợp và đang hoạt động cùng lĩnh vực có liên quan đến đề tài, dự án trong 05 năm gần nhất, tính đến thời điểm nộp hồ sơ;
++ Là người chủ trì hoặc tham gia chính xây dựng thuyết minh đề tài, dự án;
++ Có đủ khả năng trực tiếp thực hiện hoặc tổ chức thực hiện và đảm bảo đủ thời gian để chủ trì thực hiện đề tài, dự án.
++ Đến thời điểm hết hạn nộp hồ sơ, đang làm chủ nhiệm không quá 01 nhiệm vụ khoa học và công nghệ cấp Bộ hoặc cấp quốc gia;
++ Không thuộc một trong các trường hợp sau:
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 01 năm nếu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia bị dừng giữa chừng do nguyên nhân chủ quan của chủ nhiệm đề tài, dự án;
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 02 năm nếu nộp hồ sơ đánh giá nghiệm thu cấp Bộ, cấp quốc gia chậm so với thời hạn kết thúc hợp đồng nghiên cứu trên 30 ngày mà không có ý kiến chấp thuận của Bộ Khoa học và Công nghệ (đối với nhiệm vụ cấp quốc gia), Bộ Nông nghiệp và Phát triển nông thôn (đối với nhiệm vụ cấp Bộ); không thực hiện nghĩa vụ đăng ký, lưu giữ kết quả của đề tài, dự án đã được nghiệm thu;
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 03 năm nếu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia được đánh giá nghiệm thu ở mức “không đạt” kể từ thời điểm có kết luận của hội đồng đánh giá nghiệm thu cấp Bộ;
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 05 năm (tính từ ngày có quyết định của cơ quan có thẩm quyền) nếu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia do mình làm chủ nhiệm có sai phạm dẫn đến bị đình chỉ thực hiện.
+- Đối với các tổ chức chủ trì thực hiện đề tài, dự án phải đáp ứng các điều kiện sau:
++ Có đăng ký hoạt động khoa học và công nghệ;
++ Có chức năng hoạt động phù hợp với lĩnh vực chuyên môn của nhiệm vụ khoa học và công nghệ;
++ Không thuộc một trong các trường hợp sau đây:
+* Đến thời điểm nộp hồ sơ chưa hoàn trả đầy đủ kinh phí thu hồi theo hợp đồng thực hiện đề tài, dự án trước đây;
+* Không được tham gia tuyển chọn, giao trực tiếp trong thời hạn 01 năm nếu nộp hồ sơ đánh giá nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia chậm so với thời hạn kết thúc hợp đồng nghiên cứu trên 30 ngày mà không có ý kiến chấp thuận của Bộ Khoa học và Công nghệ (đối với nhiệm vụ cấp quốc gia), Bộ Nông nghiệp và Phát triển nông thôn (đối với nhiệm vụ cấp Bộ);
+* Không được tham gia tuyển chọn, giao trực tiếp trong thời hạn 03 năm (từ thời điểm có kết luận của cơ quan có thẩm quyền) nếu có sai phạm dẫn đến bị đình chỉ thực hiện nhiệm vụ; không triển khai ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ vào sản xuất theo hợp đồng nghiên cứu khoa học và phát triển công nghệ;
+* Không được tham gia tuyển chọn, giao trực tiếp trong thời hạn 02 năm nếu không thực hiện nghĩa vụ đăng ký, nộp lưu giữ các kết quả nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; không báo cáo ứng dụng kết quả của nhiệm vụ theo quy định.
+- Đối với cá nhân chủ nhiệm đề tài, dự án phải đáp ứng các điều kiện sau:
++ Có trình độ đại học trở lên, có chuyên môn phù hợp và đang hoạt động cùng lĩnh vực có liên quan đến đề tài, dự án trong 05 năm gần nhất, tính đến thời điểm nộp hồ sơ;
++ Là người chủ trì hoặc tham gia chính xây dựng thuyết minh đề tài, dự án;
++ Có đủ khả năng trực tiếp thực hiện hoặc tổ chức thực hiện và đảm bảo đủ thời gian để chủ trì thực hiện đề tài, dự án.
++ Đến thời điểm hết hạn nộp hồ sơ, đang làm chủ nhiệm không quá 01 nhiệm vụ khoa học và công nghệ cấp Bộ hoặc cấp quốc gia;
++ Không thuộc một trong các trường hợp sau:
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 01 năm nếu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia bị dừng giữa chừng do nguyên nhân chủ quan của chủ nhiệm đề tài, dự án;
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 02 năm nếu nộp hồ sơ đánh giá nghiệm thu cấp Bộ, cấp quốc gia chậm so với thời hạn kết thúc hợp đồng nghiên cứu trên 30 ngày mà không có ý kiến chấp thuận của Bộ Khoa học và Công nghệ (đối với nhiệm vụ cấp quốc gia), Bộ Nông nghiệp và Phát triển nông thôn (đối với nhiệm vụ cấp Bộ); không thực hiện nghĩa vụ đăng ký, lưu giữ kết quả của đề tài, dự án đã được nghiệm thu;
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 03 năm nếu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia được đánh giá nghiệm thu ở mức “không đạt” kể từ thời điểm có kết luận của hội đồng đánh giá nghiệm thu cấp Bộ;
+* Không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 05 năm (tính từ ngày có quyết định của cơ quan có thẩm quyền) nếu nhiệm vụ khoa học và công nghệ cấp Bộ, cấp quốc gia do mình làm chủ nhiệm có sai phạm dẫn đến bị đình chỉ thực hiện.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

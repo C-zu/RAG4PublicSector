@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000857
+Số quyết định:
+1904/QĐ-LĐTBXH
+Tên thủ tục:
+Hưởng lương hưu đối với người lao động đang tham gia bảo hiểm xã hội bắt buộc
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo hiểm xã hội
+Trình tự thực hiện:
+Bước 1: Trong thời hạn 30 ngày tính đến thời điểm người lao động được hưởng lương hưu, người sử dụng lao động nộp hồ sơ theo quy định cho cơ quan bảo hiểm xã hội.
+Bước 2: Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết và tổ chức chi trả cho người lao động.
+Trường hợp cơ quan bảo hiểm xã hội không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||- Cách thức thực hiện: Nộp hồ sơ qua dịch vụ bưu chính công ích hoặc nộp trực tiếp tại cơ quan bảo hiểm xã hội. - Thời hạn giải quyết: Trong 20 ngày kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|20 Ngày làm việc||- Cách thức thực hiện: Nộp hồ sơ qua dịch vụ bưu chính công ích hoặc nộp trực tiếp tại cơ quan bảo hiểm xã hội. - Thời hạn giải quyết: Trong 20 ngày kể từ ngày nhận đủ hồ sơ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Sổ bảo hiểm xã hội
+- 01 Bản chính Quyết định nghỉ việc hưởng chế độ hưu trí hoặc văn bản chấm dứt hợp đồng lao động hưởng chế độ hưu trí
+- 01 Bản chính Biên bản giám định mức suy giảm khả năng lao động của Hội đồng giám định y khoa đối với người nghỉ hưu do suy giảm khả năng lao động hoặc giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp đối với người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Cơ quan bảo hiểm xã hội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc hưởng chế độ hưu trí hằng tháng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|59/2015/TT-BLĐTBXH|Thông tư 59/2015/TT-BLĐTBXH|29-12-2015|Bộ Lao động - Thương binh và Xã hội|
+|58/2014/QH13|Luật 58/2014/QH13|20-11-2014|Quốc Hội|
+|115/2015/NĐ-CP|Nghị định 115/2015/NĐ-CP|11-11-2015|Chính phủ|
+|143/2018/NĐ-CP|Nghị định 143/2018/NĐ-CP|15-10-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+* Người lao động là công dân Việt Nam và người lao động là công dân nước ngoài làm việc tại Việt Nam đang tham gia bảo hiểm xã hội khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Nam đủ 60 tuổi, nữ đủ 55 tuổi;
+          - Nam từ đủ 55 tuổi đến đủ 60 tuổi, nữ từ đủ 50 tuổi đến đủ 55 tuổi khi nghi việc có đủ 15 năm làm nghề hoặc công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành hoặc có đủ 15 năm làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên;
+          - Người lao động từ đủ 50 tuổi trở lên khi nghỉ việc có đủ 15 năm làm công việc khai thác than trong hầm lò;
+          - Người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.
+* Lao động nữ là công dân Việt Nam là người hoạt động chuyên trách hoặc không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội bắt buộc và đủ 55 tuổi.
+ * Người lao động là công dân Việt Nam đang tham gia bảo hiểm xã hội bắt buộc khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Từ ngày 01 tháng 01 năm 2016, nam đủ 51 tuổi, nữ đủ 46 tuổi và bị suy giảm khả năng lao động từ 61% trở lên thì đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động. Sau đó mỗi năm tăng thêm một tuổi cho đến năm 2020 trở đi, nam đủ 55 tuổi và nữ đủ 50 tuổi thì mới đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động từ 61% trở lên;
+          - Nam đủ 50 tuổi, nữ đủ 45 tuổi và bị suy giảm khả năng lao động từ 81% trở lên;
+          - Bị suy giảm khả năng lao động từ 61% trở lên và có đủ 15 năm trở lên làm nghề hoặc công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành.
+* Người lao động là công dân Việt Nam và người lao động là công dân nước ngoài làm việc tại Việt Nam đang tham gia bảo hiểm xã hội khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Nam đủ 60 tuổi, nữ đủ 55 tuổi;
+          - Nam từ đủ 55 tuổi đến đủ 60 tuổi, nữ từ đủ 50 tuổi đến đủ 55 tuổi khi nghi việc có đủ 15 năm làm nghề hoặc công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành hoặc có đủ 15 năm làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên;
+          - Người lao động từ đủ 50 tuổi trở lên khi nghỉ việc có đủ 15 năm làm công việc khai thác than trong hầm lò;
+          - Người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.
+* Lao động nữ là công dân Việt Nam là người hoạt động chuyên trách hoặc không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội bắt buộc và đủ 55 tuổi.
+ * Người lao động là công dân Việt Nam đang tham gia bảo hiểm xã hội bắt buộc khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thuộc một trong các trường hợp sau đây:
+          - Từ ngày 01 tháng 01 năm 2016, nam đủ 51 tuổi, nữ đủ 46 tuổi và bị suy giảm khả năng lao động từ 61% trở lên thì đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động. Sau đó mỗi năm tăng thêm một tuổi cho đến năm 2020 trở đi, nam đủ 55 tuổi và nữ đủ 50 tuổi thì mới đủ điều kiện hưởng lương hưu khi suy giảm khả năng lao động từ 61% trở lên;
+          - Nam đủ 50 tuổi, nữ đủ 45 tuổi và bị suy giảm khả năng lao động từ 81% trở lên;
+          - Bị suy giảm khả năng lao động từ 61% trở lên và có đủ 15 năm trở lên làm nghề hoặc công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội, Bộ Y tế ban hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

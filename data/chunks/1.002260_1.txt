@@ -1,0 +1,16 @@
+Tên thủ tục: Đề nghị miễn, giảm phí thi hành án (cấp huyện)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002260
+Số quyết định:
+2303/QĐ-BTP
+Tên thủ tục:
+Đề nghị miễn, giảm phí thi hành án (cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thi hành án dân sự

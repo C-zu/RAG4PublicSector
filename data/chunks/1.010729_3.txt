@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp điều chỉnh giấy phép môi trường (cấp Tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|15 Ngày làm việc|Phí : Đồng Chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy phép môi trường theo quy định của Hội đồng nhân dân cấp tỉnh.|- Tối đa 15 (mười lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ. - Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính của cơ quan cấp phép.|

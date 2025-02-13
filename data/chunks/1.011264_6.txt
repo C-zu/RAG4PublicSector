@@ -1,0 +1,64 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Việc cải tạo xe cơ giới và xe cơ giới sau cải tạo phải phù hợp tiêu chuẩn, quy chuẩn kỹ thuật và quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới tham gia giao thông và phải tuân thủ các quy định sau:
+1. Không cải tạo thay đổi mục đích sử dụng (công dụng) đối với xe cơ giới đã có thời gian sử dụng trên 15 năm, kể từ năm sản xuất của xe cơ giới đến thời điểm thẩm định thiết kế.
+2. Không cải tạo xe cơ giới chuyên dùng nhập khẩu thành xe cơ giới loại khác trong thời gian 05 năm, xe đông lạnh nhập khẩu thành xe loại khác trong thời gian 03 năm, kể từ ngày được cấp biển số đăng ký lần đầu.
+3. Không cải tạo thùng xe của xe tải nhập khẩu, sản xuất, lắp ráp mới, chưa qua sử dụng trong thời gian 06 tháng, kể từ ngày kiểm định an toàn kỹ thuật và bảo vệ môi trường lần đầu đến khi thẩm định thiết kế (trừ trường hợp cải tạo thành xe tập lái, sát hạch; cải tạo lắp đặt thêm mui phủ của xe tải thùng hở).
+4. Không cải tạo xe cơ giới loại khác thành xe chở người và ngược lại, trừ trường hợp xe chở người từ 16 chỗ (kể cả chỗ người lái) trở xuống thành xe chuyên dùng hoặc thành xe ô tô tải VAN.”
+5. Không cải tạo hệ thống treo của xe cơ giới.
+6. Không cải tạo hệ thống phanh của xe cơ giới, trừ các trường hợp:
+a) Lắp đặt bàn đạp phanh phụ trên xe tập lái, xe sát hạch và ngược lại;
+b) Cải tạo để cung cấp năng lượng và điều khiển hệ thống phanh của rơ moóc, sơ mi rơ moóc.
+7. Không cải tạo hệ thống lái của xe cơ giới, trừ trường hợp cải tạo đối với xe cơ giới tay lái nghịch được nhập khẩu.
+8. Không cải tạo lắp đặt giường nằm loại hai tầng lên xe chở người.
+9. Không cải tạo tăng kích thước khoang chở hành lý của xe chở người.
+10. Không cải tạo xe ô tô đầu kéo thành xe cơ giới loại khác (trừ xe chuyên dùng).
+11. Không cải tạo thay đổi kích cỡ lốp, số trục và vết bánh xe của xe cơ giới.
+12. Không cải tạo thay đổi khoảng cách giữa các trục của xe cơ giới, trừ các trường hợp: cải tạo thành xe chuyên dùng, đầu kéo; cải tạo thu ngắn chiều dài cơ sở khi cải tạo trở lại thành xe nguyên thủy và khi cải tạo để giảm chiều dài toàn bộ, kích thước thùng xe của xe tự đổ, xe xi téc, xe tải phù hợp quy định tại Thông tư số 42/2014/TT-BGTVT ngày 15 tháng 9 năm 2014 của Bộ trưởng Bộ Giao thông vận tải quy định về thùng xe của xe tự đổ, xe xi téc, xe tải tham gia giao thông đường bộ (sau đây gọi là Thông tư số 42/2014/TT-BGTVT) Đối với sơ mi rơ moóc tải (trừ sơ mi rơ moóc tải tự đổ) và sơ mi rơ moóc chở công-ten-nơ có khối lượng toàn bộ cho phép tham gia giao thông nhỏ hơn khối lượng toàn bộ theo thiết kế được cải tạo thay đổi vị trí các trục, cụm trục, chốt kéo đến hết ngày 31/12/2015.
+13. Không cải tạo tăng chiều dài toàn bộ của xe cơ giới, trừ các trường hợp cải tạo thành xe chuyên dùng và cải tạo thay đổi tấm ốp mặt trước, sau của xe chở người.
+14. Không cải tạo tăng kích thước lòng thùng xe của xe tải, thể tích xi téc của xe xi téc. Khi cải tạo lắp thêm mui phủ lên xe tải thùng hở không có mui phủ thì không được tăng chiều cao của thành thùng xe.
+15. Không được tăng kích thước lòng thùng xe, thể tích xi téc đối với xe tải, xe xi téc đã cải tạo thành xe loại khác khi cải tạo trở lại loại xe nguyên thủy.
+16. Khối lượng toàn bộ cho phép tham gia giao thông của xe cơ giới sau cải tạo phải đảm bảo:
+a) Đối với xe chở người: Không lớn hơn giá trị nhỏ của khối lượng toàn bộ theo thiết kế tương ứng với số người cho phép chở lớn nhất theo thiết kế của nhà sản xuất và khối lượng toàn bộ cho phép tham gia giao thông theo quy định về tải trọng cầu đường.
+b) Đối với xe tải và xe chuyên dùng: Không lớn hơn giá trị của khối lượng toàn bộ theo thiết kế của nhà sản xuất và khối lượng toàn bộ cho phép tham gia giao thông theo quy định về tải trọng cầu đường.
+17. Khối lượng hàng chuyên chở cho phép tham gia giao thông của xe cơ giới sau cải tạo không được lớn hơn khối lượng hàng chuyên chở theo thiết kế của xe nguyên thủy.
+18. Xe cơ giới sau cải tạo là xe tự đổ, xe xi téc, xe tải phải có thông số kỹ thuật phù hợp quy định tại Thông tư số 42/2014/TT-BGTVT.
+19. Không sử dụng các hệ thống, tổng thành đã qua sử dụng trong cải tạo xe cơ giới, trừ thiết bị chuyên dùng, động cơ (trường hợp sử dụng lại động cơ của xe cơ giới đã qua sử dụng phải đảm bảo xe được lấy động cơ để sử dụng có thời gian sử dụng tính từ năm sản xuất không quá 15 năm, kể cả trường hợp thay thế động cơ cùng kiểu loại). Động cơ thay thế có công suất lớn nhất nằm trong khoảng từ 90% đến 120% công suất lớn nhất của động cơ của xe nguyên thủy.
+20. Cần cẩu, xi téc chở hàng nguy hiểm, xi téc chở khí nén, khí hóa lỏng khi lắp mới lên xe cơ giới cải tạo phải được cơ quan có thẩm quyền kiểm tra, chứng nhận về tính năng, chất lượng, an toàn kỹ thuật.
+21. Trong suốt quá trình sử dụng, mỗi xe cơ giới chỉ được cải tạo, thay đổi 1 trong 2 tổng thành chính là động cơ hoặc khung và không được cải tạo quá 3 hệ thống, tổng thành sau: buồng lái, thân xe hoặc thùng xe, khoang chở khách; truyền lực; chuyển động; treo; phanh; lái; nhiên liệu.
+22. Việc cải tạo một hệ thống, tổng thành nếu dẫn đến việc ảnh hưởng tới thông số, đặc tính làm việc của các hệ thống, tổng thành có liên quan khác thì phải được xem xét, tính toán cụ thể và phải được coi là cải tạo cả hệ thống, tổng thành có liên quan.
+23. Trong trường hợp xe cơ giới cải tạo để đảm bảo cho người khuyết tật tiếp cận sử dụng mà có nội dung cải tạo không phù hợp với các quy định tại Điều này thì vẫn được thực hiện cải tạo. Xe cơ giới đã cải tạo thành xe cơ giới cho người khuyết tật tiếp cận sử dụng chỉ được cải tạo trở lại xe nguyên thủy.
+Việc cải tạo xe cơ giới và xe cơ giới sau cải tạo phải phù hợp tiêu chuẩn, quy chuẩn kỹ thuật và quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới tham gia giao thông và phải tuân thủ các quy định sau:
+1. Không cải tạo thay đổi mục đích sử dụng (công dụng) đối với xe cơ giới đã có thời gian sử dụng trên 15 năm, kể từ năm sản xuất của xe cơ giới đến thời điểm thẩm định thiết kế.
+2. Không cải tạo xe cơ giới chuyên dùng nhập khẩu thành xe cơ giới loại khác trong thời gian 05 năm, xe đông lạnh nhập khẩu thành xe loại khác trong thời gian 03 năm, kể từ ngày được cấp biển số đăng ký lần đầu.
+3. Không cải tạo thùng xe của xe tải nhập khẩu, sản xuất, lắp ráp mới, chưa qua sử dụng trong thời gian 06 tháng, kể từ ngày kiểm định an toàn kỹ thuật và bảo vệ môi trường lần đầu đến khi thẩm định thiết kế (trừ trường hợp cải tạo thành xe tập lái, sát hạch; cải tạo lắp đặt thêm mui phủ của xe tải thùng hở).
+4. Không cải tạo xe cơ giới loại khác thành xe chở người và ngược lại, trừ trường hợp xe chở người từ 16 chỗ (kể cả chỗ người lái) trở xuống thành xe chuyên dùng hoặc thành xe ô tô tải VAN.”
+5. Không cải tạo hệ thống treo của xe cơ giới.
+6. Không cải tạo hệ thống phanh của xe cơ giới, trừ các trường hợp:
+a) Lắp đặt bàn đạp phanh phụ trên xe tập lái, xe sát hạch và ngược lại;
+b) Cải tạo để cung cấp năng lượng và điều khiển hệ thống phanh của rơ moóc, sơ mi rơ moóc.
+7. Không cải tạo hệ thống lái của xe cơ giới, trừ trường hợp cải tạo đối với xe cơ giới tay lái nghịch được nhập khẩu.
+8. Không cải tạo lắp đặt giường nằm loại hai tầng lên xe chở người.
+9. Không cải tạo tăng kích thước khoang chở hành lý của xe chở người.
+10. Không cải tạo xe ô tô đầu kéo thành xe cơ giới loại khác (trừ xe chuyên dùng).
+11. Không cải tạo thay đổi kích cỡ lốp, số trục và vết bánh xe của xe cơ giới.
+12. Không cải tạo thay đổi khoảng cách giữa các trục của xe cơ giới, trừ các trường hợp: cải tạo thành xe chuyên dùng, đầu kéo; cải tạo thu ngắn chiều dài cơ sở khi cải tạo trở lại thành xe nguyên thủy và khi cải tạo để giảm chiều dài toàn bộ, kích thước thùng xe của xe tự đổ, xe xi téc, xe tải phù hợp quy định tại Thông tư số 42/2014/TT-BGTVT ngày 15 tháng 9 năm 2014 của Bộ trưởng Bộ Giao thông vận tải quy định về thùng xe của xe tự đổ, xe xi téc, xe tải tham gia giao thông đường bộ (sau đây gọi là Thông tư số 42/2014/TT-BGTVT) Đối với sơ mi rơ moóc tải (trừ sơ mi rơ moóc tải tự đổ) và sơ mi rơ moóc chở công-ten-nơ có khối lượng toàn bộ cho phép tham gia giao thông nhỏ hơn khối lượng toàn bộ theo thiết kế được cải tạo thay đổi vị trí các trục, cụm trục, chốt kéo đến hết ngày 31/12/2015.
+13. Không cải tạo tăng chiều dài toàn bộ của xe cơ giới, trừ các trường hợp cải tạo thành xe chuyên dùng và cải tạo thay đổi tấm ốp mặt trước, sau của xe chở người.
+14. Không cải tạo tăng kích thước lòng thùng xe của xe tải, thể tích xi téc của xe xi téc. Khi cải tạo lắp thêm mui phủ lên xe tải thùng hở không có mui phủ thì không được tăng chiều cao của thành thùng xe.
+15. Không được tăng kích thước lòng thùng xe, thể tích xi téc đối với xe tải, xe xi téc đã cải tạo thành xe loại khác khi cải tạo trở lại loại xe nguyên thủy.
+16. Khối lượng toàn bộ cho phép tham gia giao thông của xe cơ giới sau cải tạo phải đảm bảo:
+a) Đối với xe chở người: Không lớn hơn giá trị nhỏ của khối lượng toàn bộ theo thiết kế tương ứng với số người cho phép chở lớn nhất theo thiết kế của nhà sản xuất và khối lượng toàn bộ cho phép tham gia giao thông theo quy định về tải trọng cầu đường.
+b) Đối với xe tải và xe chuyên dùng: Không lớn hơn giá trị của khối lượng toàn bộ theo thiết kế của nhà sản xuất và khối lượng toàn bộ cho phép tham gia giao thông theo quy định về tải trọng cầu đường.
+17. Khối lượng hàng chuyên chở cho phép tham gia giao thông của xe cơ giới sau cải tạo không được lớn hơn khối lượng hàng chuyên chở theo thiết kế của xe nguyên thủy.
+18. Xe cơ giới sau cải tạo là xe tự đổ, xe xi téc, xe tải phải có thông số kỹ thuật phù hợp quy định tại Thông tư số 42/2014/TT-BGTVT.
+19. Không sử dụng các hệ thống, tổng thành đã qua sử dụng trong cải tạo xe cơ giới, trừ thiết bị chuyên dùng, động cơ (trường hợp sử dụng lại động cơ của xe cơ giới đã qua sử dụng phải đảm bảo xe được lấy động cơ để sử dụng có thời gian sử dụng tính từ năm sản xuất không quá 15 năm, kể cả trường hợp thay thế động cơ cùng kiểu loại). Động cơ thay thế có công suất lớn nhất nằm trong khoảng từ 90% đến 120% công suất lớn nhất của động cơ của xe nguyên thủy.
+20. Cần cẩu, xi téc chở hàng nguy hiểm, xi téc chở khí nén, khí hóa lỏng khi lắp mới lên xe cơ giới cải tạo phải được cơ quan có thẩm quyền kiểm tra, chứng nhận về tính năng, chất lượng, an toàn kỹ thuật.
+21. Trong suốt quá trình sử dụng, mỗi xe cơ giới chỉ được cải tạo, thay đổi 1 trong 2 tổng thành chính là động cơ hoặc khung và không được cải tạo quá 3 hệ thống, tổng thành sau: buồng lái, thân xe hoặc thùng xe, khoang chở khách; truyền lực; chuyển động; treo; phanh; lái; nhiên liệu.
+22. Việc cải tạo một hệ thống, tổng thành nếu dẫn đến việc ảnh hưởng tới thông số, đặc tính làm việc của các hệ thống, tổng thành có liên quan khác thì phải được xem xét, tính toán cụ thể và phải được coi là cải tạo cả hệ thống, tổng thành có liên quan.
+23. Trong trường hợp xe cơ giới cải tạo để đảm bảo cho người khuyết tật tiếp cận sử dụng mà có nội dung cải tạo không phù hợp với các quy định tại Điều này thì vẫn được thực hiện cải tạo. Xe cơ giới đã cải tạo thành xe cơ giới cho người khuyết tật tiếp cận sử dụng chỉ được cải tạo trở lại xe nguyên thủy.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

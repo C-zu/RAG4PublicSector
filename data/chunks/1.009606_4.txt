@@ -1,0 +1,7 @@
+Tên thủ tục: Cung cấp thông tin về quy hoạch xây dựng (UBND cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin đề nghị cung cấp thông tin quy hoạch (ghi rõ thông tin về vị trí, địa điểm lô đất cần cung cấp thông tin về quy hoạch), theo mẫu BM.QH.04.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c3a8ba216b0e'">BM.QH.04.01.docx</a>)

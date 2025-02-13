@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi nội dung giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thay đổi nội dung giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec19de6a393c9c'">Mẫu số 02.docx</a>)
+- 01 Bản chính Báo cáo mô tả chi tiết nội dung đề nghị thay đổi và các tài liệu liên quan

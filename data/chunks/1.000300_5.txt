@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp Giấy chứng nhận thợ hàn
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Đăng kiểm
+Cơ quan có thẩm quyền:
+Chi cục Đăng kiểm
+Địa chỉ tiếp nhận HS:
+Chi cục Đăng kiểm.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận công nhận thợ hàn
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|234/2016/TT-BTC|Quy định về giá dịch vụ kiểm định an toàn kỹ thuật và chất lượng tàu biến, công trình biến; Sản phẩm công nghiệp lắp đặt trên tàu biển, công trình biển; đánh giá, chứng nhận hệ thống quản lý an toàn và phê duyệt, kiểm tra, đánh giá, chứng nhận lao động hàng hải hải|11-11-2016|Bộ Tài chính|
+|40/2016/TT-BGTVT|Quy định về đăng kiểm tàu biển Việt Nam|07-12-2016|Bộ Giao thông vận tải|
+|16/2022/TT-BGTVT|Thông tư 16/2022/TT-BGTVT|30-06-2022||
+|17/2023/TT-BGTVT|Thông tư 17/2023/TT-BGTVT ngày 30/6/2023 của Bộ trưởng Bộ GTVT sửa đổi , bổ sung một số điều của Thông tư 40/2016/TT-BGTVT quy định về đăng kiểm tàu biển Việt Nam và Thông tư 51/2017/TT-BGTVT quy định về đăng kiểm viên và nhân viên nghiệp vụ đăng kiểm tàu biển|30-06-2023|Bộ Giao thông vận tải|

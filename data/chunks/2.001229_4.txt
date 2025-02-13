@@ -1,0 +1,9 @@
+Tên thủ tục: Đề nghị nhập khẩu mẫu bệnh phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị nhập khẩu mẫu bệnh phẩm theo mẫu quy định tại Mẫu 25 ban hành kèm theo ban hành kèm theo Nghị định số 155/2018/NĐ-CP ngày 12/11/2018 của Chính phủ về việc sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý Nhà nước của Bộ Y tế; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe624f044141877'">phụ lục.docx</a>)
+- 01 Bản sao 2. Bản sao quyết định phê duyệt của cơ quan có thẩm quyền cho phép thực hiện đề tài hoặc dự án nghiên cứu còn hiệu lực hoặc bản sao đề cương đề tài hoặc văn kiện dự án đã được phê duyệt hoặc bản sao văn bản thỏa thuận còn hiệu lực hoặc tài liệu có liên quan giữa các cơ sở trong nước và nước ngoài về việc nhập khẩu mẫu bệnh phẩm;
+- 01 Bản chính 3. Bản sao bản tự công bố đạt tiêu chuẩn an toàn sinh học đối với cơ sở xét nghiệm an toàn sinh học cấp I, II hoặc Giấy chứng nhận cơ sở xét nghiệm đạt an toàn sinh học đối với cơ sở xét nghiệm an toàn sinh học cấp III.

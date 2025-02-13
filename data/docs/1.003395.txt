@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003395
+Số quyết định:
+559/QĐ-BNN-BVTV
+Tên thủ tục:
+Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm có nguồn gốc thực vật xuất khẩu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo vệ thực vật
+Trình tự thực hiện:
++ Bước 1: Tổ chức, cá nhân nộp hồ sơ đến Chi cục kiểm dịch thực vật vùng, Trạm kiểm dịch thực vật tại cửa khẩu (Cơ quan kiểm tra)
++ Bước 2: Tiếp nhận hồ sơ.
+Trong thời hạn 01 (một) ngày làm việc, kể từ khi nhận được hồ sơ, nếu hồ sơ hợp lệ theo quy định thì tiếp nhận hồ sơ, nếu chưa hợp lệ phải thông báo cho tổ chức, cá nhân để bổ sung hồ sơ.
++ Bước 3: Kiểm tra hồ sơ
+Trong thời hạn 02 (hai) ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, Cơ quan kiểm tra phải kiểm tra hồ sơ lô hàng và ra Thông báo kết quả kiểm tra thực phẩm nguồn gốc thực vật xuất khẩu theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 44/2018/TT-BNNPTNT ngày 28 tháng 12 năm 2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hoặc theo yêu cầu của thị trường nhập khẩu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||+ Trực tiếp + Dịch vụ bưu chính + Cổng dịch vụ công|
+|Trực tuyến|02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||+ Trực tiếp + Dịch vụ bưu chính + Cổng dịch vụ công|
+|Dịch vụ bưu chính|02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.||+ Trực tiếp + Dịch vụ bưu chính + Cổng dịch vụ công|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký kiểm tra thực phẩm có nguồn gốc thực vật xuất khẩu theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 44/2018/TT-BNNPTNT ngày 28 tháng 12 năm 2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ([PL 144_2018_TT-BNNPTNT_404766.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8c436f238c6c9'))
+- 01 Bản sao Bản sao chứng thực hoặc bản sao (xuất trình bản chính để đối chiếu) và chi nộp khi đăng ký kiểm tra lần đầu một trong các giấy tờ sau: Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất kinh doanh thực phẩm thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Giấy chứng nhận Thực hành nông nghiệp tốt (GAP), Thực hành sản xuất tốt (GMP), Hệ thống phân tích mối nguy và điểm kiểm soát tới hạn (HACCP), Hệ thống quản lý an toàn thực phẩm (ISO 22000), Tiêu chuẩn thực phẩm quốc tế (IFS), Tiêu chuẩn toàn cầu về an toàn thực phẩm (BRC), Chứng nhận hệ thống an toàn thực phẩm (FSSC 22000) hoặc tương đương đối với cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm quy định tại điểm k khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP ngày 02 tháng 02 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm (sau đây gọi là Nghị định số 15/2018/NĐ-CP); Bản cam kết sản xuất thực phẩm an toàn theo quy định tại Phụ lục I ban hành kèm theo Thông tư số 17/2018/TT-BNNPTNT ngày 31 tháng 10 năm 2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định phương thức quản lý điều kiện bảo đảm an toàn thực phẩm đối với cơ sở sản xuất kinh doanh nông lâm thủy sản không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn đối với cơ sở quy định tại điểm a, b, c, d, đ khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP
+- 01 Bản sao Bản sao Giấy tiếp nhận đăng ký bản công bố sản phẩm đối với sản phẩm quy định tại Điều 6 Nghị định số 15/2018/NĐ-CP trong lô hàng gồm nhiều mặt hàng thuộc thẩm quyền quản lý của từ hai bộ trở lên quy định tại khoản 2 Điều 23 Nghị định số 15/2018/NĐ-CP
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Kiểm dịch thực vật vùng I - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo kết quả kiểm tra thực phẩm có nguồn gốc thực vật xuất khẩu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2010/QH12|Luật 55/2010/QH12|17-06-2010|Quốc Hội|
+|15/2018/NĐ-CP|Nghị định 15/2018/NĐ-CP|02-02-2018|Chính phủ|
+|44/2018/TT-BNNPTNT|Thông tư 44/2018/TT-BNNPTNT|28-12-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

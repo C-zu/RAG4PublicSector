@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục tặng Huy hiệu thành phố Hồ Chí Minh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ trình của các cơ quan, đơn vị, địa phương thuộc thành phố (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1d8ef08ee6965'">Mẫu số 10.docx</a>)
+- 01 Bản chính Tóm tắt thành tích của cá nhân được đề nghị khen thưởng (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feea463b6f31f9e'">Mẫu số 17.docx</a>)
+- 01 Bản chính - Biên bản họp của Hội đồng Thi đua - Khen thưởng cấp đề nghị;
+- 01 Bản chính Văn bản xác nhận đã hoàn thành nghĩa vụ nộp thuế của đơn vị thuế có thẩm quyền (đối với cá nhân là người đứng đầu doanh nghiệp)

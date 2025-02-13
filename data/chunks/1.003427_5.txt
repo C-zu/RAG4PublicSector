@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp giấy phép hoạt động đối với bệnh viện thuộc Bộ Y tế, bệnh viện tư nhân hoặc thuộc các Bộ khác (trừ các bệnh viện thuộc Bộ Quốc phòng) và áp dụng đối với trường hợp khi thay đổi hình thức tổ chức, chia tách, hợp nhất, sáp nhập
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Quản lý Khám bệnh, chữa bệnh; Cục Quản lý Y, Dược cổ truyền
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2009/QH12|Luật 40/2009/QH12-Khám bệnh, chữa bệnh|23-11-2009|Quốc Hội|
+|87/2011/NĐ-CP|Nghị định 87/2011/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khám bệnh, chữa bệnh|27-09-2011|Chính phủ|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|109/2016/NĐ-CP|Nghị định 109/2016/NĐ-CP-Quy định cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh|01-07-2016|Chính phủ|

@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005443
+Số quyết định:
+40/QĐ-BTTTT
+Tên thủ tục:
+Cấp, phân bổ số hiệu mạng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+1. Cơ quan, tổ chức, doanh nghiệp đã được cấp, phân bổ địa chỉ IP từ Trung tâm Internet Việt Nam có nhu cầu cấp, phân bổ số hiệu mạng hoặc thay đổi tên chủ thể đăng ký sử dụng số hiệu mạng thì chuẩn bị hồ sơ cấp, phân bổ số hiệu mạng theo quy định và nộp đến Trung tâm Internet Việt Nam
+2. Trung tâm Internet Việt Nam tiếp nhận và giải quyết hồ sơ theo quy định.
+3. Trả kết quả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Trung tâm Internet Việt Nam có trách nhiệm cấp, phân bổ số hiệu mạng cho cơ quan, tổ chức, doanh nghiệp theo mẫu quy định tại Phụ lục 11a ban hành kèm theo Thông tư số 21/2021/TT-BTTTT. 
+Trường hợp từ chối cấp, Trung tâm Internet Việt Nam phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Cách thức thực hiện: Trường hợp không có khả năng nộp trực tuyến, cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Internet Việt Nam, địa chỉ: Tòa nhà VNTA đường Dương Đình Nghệ, Cầu Giấy, Hà Nội. Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|5 Ngày làm việc||Cách thức thực hiện: Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ https://dichvucong.mic.gov.vn/ hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/. Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|5 Ngày làm việc||Cách thức thực hiện: Trường hợp không có khả năng nộp trực tuyến, cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Internet Việt Nam, địa chỉ: Tòa nhà VNTA đường Dương Đình Nghệ, Cầu Giấy, Hà Nội. Thời hạn giải quyết: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản khai đăng ký số hiệu mạng theo mẫu quy định tại Phụ lục 11 ban hành kèm theo Thông tư số 21/2021/TT-BTTTT ngày 08/12/2021 của Bộ trưởng Bộ Thông tin và Truyền thông ([Mau-03-Ban Khai Dang Ky ASN.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fba309c85016da8'))
+- 01 Bản chính, 01 Bản sao Bản sao có chứng thực hoặc bản sao (kèm bản chính để đối chiếu) quyết định của cơ quan nhà nước có thẩm quyền hoặc văn bản tổ chức lại doanh nghiệp theo quy định của Luật Doanh nghiệp và các giấy tờ khác chứng minh sự thay đổi hợp lệ về quyền sử dụng số hiệu mạng (đối với trường hợp thay đổi tên chủ thể).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Trung tâm Internet Việt Nam (VNNIC)
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+- Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ https://dichvucong.mic.gov.vn/ hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/; - Trường hợp không có khả năng nộp trực tuyến, cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Internet Việt Nam, địa chỉ: Tòa nhà VNTA đường Dương Đình Nghệ, Cầu Giấy, Hà Nội.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định cấp, phân bổ số hiệu mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật Viễn thông|Luật Viễn thông|23-11-2009||
+|Nghị định số 72/2013/NĐ-CP|Nghị định số 72/2013/NĐ-CP|15-07-2013||
+|Nghị định số 27/2018/NĐ-CP|Nghị định số 27/2018/NĐ-CP|01-03-2018||
+|Thông tư số 24/2015/TT-BTTTT|Thông tư số 24/2015/TT-BTTTT|18-08-2015||
+|21/2021/TT-BTTTT|Thông tư 21/2021/TT-BTTTT|08-12-2021|Bộ Thông tin và Truyền thông|
+|150/2018/NĐ-CP|Nghị định 150/2018/NĐ-CP|07-11-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục hỗ trợ doanh nghiệp có dự án thuộc ngành, nghề ưu đãi đầu tư, địa bàn ưu đãi đầu tư nhận chuyển giao công nghệ từ tổ chức khoa học và công nghệ.
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt nhiệm vụ khoa học và công nghệ hỗ trợ doanh nghiệp có dự án thuộc ngành, nghề ưu đãi đầu tư, địa bàn ưu đãi đầu tư nhận chuyển giao công nghệ từ tổ chức khoa học và công nghệ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|29/2013/QH13|Luật 29/2013/QH13|18-06-2013|Quốc Hội|
+|07/2017/QH14|Luật 07/2017/QH14|19-06-2017|Quốc Hội|
+|76/2018/NĐ-CP|Nghị định 76/2018/NĐ-CP|15-05-2018|Chính phủ|
+|Thông tư 07/2014/TT-BKHCN|Thông tư 07/2014/TT-BKHCN|26-05-2014|Bộ Khoa học và Công nghệ|
+|03/2017/TT-BKHCN|Thông tư 03/2017/TT-BKHCN|03-04-2017|Bộ Khoa học và Công nghệ|

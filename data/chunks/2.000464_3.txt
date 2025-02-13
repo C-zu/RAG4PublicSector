@@ -1,0 +1,7 @@
+Tên thủ tục: Giải quyết chế độ hưu trí hằng tháng đối với sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhập ngũ từ ngày 30/4/1975 trở về trước, có đủ 20 năm trở lên phục vụ trong quân đội đã phục viên, xuất ngũ trước ngày 01/4/2000
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Bảo hiểm xã hội BQP giải quyết trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

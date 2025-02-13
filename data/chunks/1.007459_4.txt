@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho Chi nhánh doanh nghiệp kế toán nước ngoài tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cc4883a04e2c'">Mau don DN CGCNDDKKĐVKT Chi nhanh nuoc ngoai PHỤ LỤC 2 TT297.docx</a>)
+- 01 Bản sao 2. Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương.
+- 01 Bản sao 3. Bản sao Giấy chứng nhận đăng ký hành nghề dịch vụ kế toán của các kế toán viên hành nghề.
+- 01 Bản chính 4. Hợp đồng lao động với doanh nghiệp kinh doanh dịch vụ kế toán của các kế toán viên hành nghề.
+- 01 Bản chính 5. Tài liệu chứng minh về vốn góp đối với công ty trách nhiệm hữu hạn.
+- 01 Bản chính 6. Điều lệ công ty đối với công ty hợp danh, công ty trách nhiệm hữu hạn.
+- 01 Bản chính 7. Văn bản cam kết chịu trách nhiệm của doanh nghiệp nước ngoài, giấy tờ chứng nhận được phép kinh doanh dịch vụ kế toán của doanh nghiệp nước ngoài đối với chi nhánh doanh nghiệp kinh doanh dịch vụ kế toán nước ngoài tại Việt Nam.
+ * Số lượng hồ sơ: 01 (bộ)

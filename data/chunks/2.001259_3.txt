@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục kiểm tra nhà nước về chất lượng sản phẩm, hàng hóa hàng hóa nhóm 2 nhập khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||(Đối với hàng hóa nhóm 2 nhập khẩu, tại quy chuẩn kỹ thuật quốc gia quy định biện pháp công bố hợp quy theo kết quả tự đánh giá sự phù hợp của tổ chức, cá nhân; theo kết quả chứng nhận, giám định của tổ chức chứng nhận, tổ chức giám định đã đăng ký hoặc được thừa nhận theo quy định của pháp luật - Xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu. Trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ đăng ký kiểm tra chất lượng hàng hóa nhập khẩu.|
+|Trực tuyến|1 Ngày làm việc||Thực hiện trên Cổng thông tin một cửa quốc gia|
+|Dịch vụ bưu chính|1 Ngày làm việc||(Đối với hàng hóa nhóm 2 nhập khẩu, tại quy chuẩn kỹ thuật quốc gia quy định biện pháp công bố hợp quy theo kết quả tự đánh giá sự phù hợp của tổ chức, cá nhân; theo kết quả chứng nhận, giám định của tổ chức chứng nhận, tổ chức giám định đã đăng ký hoặc được thừa nhận theo quy định của pháp luật - Xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu. Trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ đăng ký kiểm tra chất lượng hàng hóa nhập khẩu.|

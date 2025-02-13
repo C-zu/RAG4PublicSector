@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thực hiện chế độ trợ cấp một lần đối với quân nhân tham gia kháng chiến chống Mỹ cứu nước có dưới 15 năm công tác trong quân đội đã phục viên, xuất ngũ về địa phương (đối tượng cư trú ở địa phương khác không còn lưu giữ được giấy tờ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định|Lệ phí : 0 Đồng|Cách thức thực hiện: Trực tiếp hoặc gửi hồ sơ đến UBND xã (phường) nơi sinh quán|

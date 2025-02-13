@@ -1,0 +1,25 @@
+Tên thủ tục: Chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ năng lực
+- 01 Bản chính Danh sách, hồ sơ trang thiết bị chính, cơ sở hạ tầng
+- 01 Bản chính Danh sách, hồ sơ kiểm nghiệm viên tương ứng với lĩnh vực đăng ký chỉ định
+- 01 Bản chính Các tài liệu chứng minh về bảo đảm chất lượng kiểm nghiệm
+- 01 Bản chính Báo cáo năng lực cơ sở kiểm nghiệm
+- 01 Bản chính Mẫu phiếu kết quả kiểm nghiệm
+- 01 Bản chính Kết quả hoạt động kiểm nghiệm đối với lĩnh vực đăng ký chỉ định trong mười hai (12) tháng gần nhất.
+
+
+Thành phần hồ sơ
+- 01 Bản chính Đơn đăng ký chỉ định cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;
+- 01 Bản chính Quyết định thành lập hoặc Giấy chứng nhận đăng ký kinh doanh (bản sao có chứng thực);
+- 01 Bản chính Tài liệu, hồ sơ kỹ thuật và các quy trình liên quan đến chỉ tiêu/phép thử đăng ký chỉ định.
+
+
+Tên mẫu đơn, mẫu tờ khai
+- 01 Bản chính Đơn đăng ký chỉ định cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;
+- 01 Bản chính Mẫu báo cáo năng lực hoạt động cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;
+- 01 Bản chính Mẫu báo cáo kết quả hoạt động cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;
+- 01 Bản chính Mẫu phiếu kiểm nghiệm theo mẫu quy định tại Phụ lục 1 - TTLT số 20/2013/TTLT-BYT-BCT-BNNPTNT;

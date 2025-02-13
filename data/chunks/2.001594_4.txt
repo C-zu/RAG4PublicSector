@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy phép hoạt động in xuất bản phẩm (cấp địa phương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động in xuất bản phẩm theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe48f95cb209096'">Mẫu số 17- Đơn đề nghị cấp GPHĐ In.doc</a>)
+- 01 Bản chính Sơ yếu lý lịch của người đứng đầu cơ sở in theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe30886a3aa485c'">Mẫu số 06- Sơ yếu lý lịch.doc</a>)
+ - Đối với người đứng đầu cơ sở in xuất bản phẩm: Là người đại diện theo pháp luật được ghi tại một trong các loại giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đầu tư, quyết định thành lập của cơ quan có thẩm quyền;
+- 01 Bản sao Bản sao một trong các loại giấy: chứng nhận đăng ký hộ kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đầu tư hoặc quyết định thành lập cơ sở in còn hiệu lực tính đến thời điểm nộp đơn;.
+- 01 Bản sao Tài liệu chứng minh về việc có mặt bằng sản xuất và thiết bị để thực hiện một trong các công đoạn chế bản in, in và gia công sau in xuất bản phẩm; - Đối với tài liệu chứng minh về mặt bằng sản xuất: Bản sao giấy chứng nhận quyền sử dụng đất hoặc hợp đồng hay các loại giấy tờ khác chứng minh về việc giao đất, thuê đất, thuê mặt bằng, nhà xưởng để sản xuất; - Đối với tài liệu chứng minh về thiết bị: Phải là bản sao giấy tờ sở hữu hoặc thuê mua thiết bị; trường hợp chưa có thiết bị, trong hồ sơ đề nghị cấp giấy phép phải kèm theo danh mục thiết bị dự kiến đầu tư. Trong thời hạn 06 tháng, kể từ ngày được cấp giấy phép hoạt động in xuất bản phẩm, cơ sở in phải hoàn thành việc mua hoặc thuê mua đủ thiết bị theo danh mục dự kiến đầu tư, gửi bản sao chứng từ mua, thuê mua thiết bị cho cơ quan cấp giấy phép hoạt động in xuất bản phẩm..
+- 01 Bản sao Bản sao văn bằng do cơ sở đào tạo chuyên ngành in cấp hoặc bản sao giấy chứng nhận bồi dưỡng nghiệp vụ quản lý hoạt động in xuất bản phẩm do Bộ Thông tin và Truyền thông cấp;.
+- 01 Bản sao Bản sao giấy chứng nhận đủ điều kiện an ninh - trật tự do cơ quan nhà nước có thẩm quyền cấp. .

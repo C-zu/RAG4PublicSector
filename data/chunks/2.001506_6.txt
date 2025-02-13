@@ -1,0 +1,46 @@
+Tên thủ tục: Thủ tục tặng thưởng Bằng khen của Thủ tướng Chính phủ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Theo quy định tại Điều 73 Luật Thi đua, khen thưởng: 
+- “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho cá nhân chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
++ Có thành tích xuất sắc tiêu biểu, được bình xét trong phong trào thi đua;
++ Đã được tặng bằng khen của Bộ, ban, ngành, tỉnh và có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có 03 lần được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
++ Lập được nhiều thành tích hoặc thành tích đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc được giải thưởng ở khu vực;
++ Có đóng góp vào sự phát triển kinh tế - xã hội của đất nước, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho công nhân, người lao động chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
++ Đạt một trong các tiêu chuẩn quy định tại các điểm a, b và d khoản 1 Điều 73 Luật Thi đua, khen thưởng;
++ Lập được nhiều thành tích hoặc thành tích đột xuất trong lao động, sản xuất, có phạm vi ảnh hưởng trong lĩnh vực, ngành, nghề;
+- “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho doanh nhân, trí thức, nhà khoa học chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều 73 Luật Thi đua, khen thưởng, có thành tích đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước được Bộ, ban, ngành, tỉnh công nhận.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng cho tập thể gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, nội bộ đoàn kết và đạt một trong các tiêu chuẩn sau đây:
++ Lập được thành tích đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh;
++ Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
++ Có thành tích xuất sắc tiêu biểu được bình xét trong cụm, khối thi đua do Hội đồng Thi đua - Khen thưởng Trung ương tổ chức;
++ Có thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 03 năm trở lên;
++ Có thành tích xuất sắc trong phục vụ nhiệm vụ chính trị của Đảng, Nhà nước;
++ Đã được tặng bằng khen của Bộ, ban, ngành, tỉnh và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc” hoặc “Đơn vị quyết thắng”, trong thời gian đó có 01 lần được tặng cờ thi đua của Bộ, ban, ngành, tỉnh hoặc có 02 lần được tặng bằng khen của Bộ, ban, ngành, tỉnh.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng cho doanh nghiệp và tổ chức kinh tế khác chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn quy định tại khoản 4 Điều 73 Luật Thi đua, khen thưởng hoặc có thành tích đóng góp vào sự phát triển kinh tế - xã hội của đất nước được Bộ, ban, ngành, tỉnh công nhận.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng cho cá nhân, tập thể người Việt Nam định cư ở nước ngoài, cá nhân, tập thể người nước ngoài tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, luật pháp và phong tục, tập quán tốt đẹp của Việt Nam và có thành tích đóng góp vào sự phát triển kinh tế - xã hội của Việt Nam được Bộ, ban, ngành, tỉnh công nhận.
+Theo quy định tại Điều 73 Luật Thi đua, khen thưởng: 
+- “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho cá nhân chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
++ Có thành tích xuất sắc tiêu biểu, được bình xét trong phong trào thi đua;
++ Đã được tặng bằng khen của Bộ, ban, ngành, tỉnh và có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành tốt nhiệm vụ trở lên, trong thời gian đó có 03 lần được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
++ Lập được nhiều thành tích hoặc thành tích đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc được giải thưởng ở khu vực;
++ Có đóng góp vào sự phát triển kinh tế - xã hội của đất nước, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho công nhân, người lao động chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn sau đây:
++ Đạt một trong các tiêu chuẩn quy định tại các điểm a, b và d khoản 1 Điều 73 Luật Thi đua, khen thưởng;
++ Lập được nhiều thành tích hoặc thành tích đột xuất trong lao động, sản xuất, có phạm vi ảnh hưởng trong lĩnh vực, ngành, nghề;
+- “Bằng khen của Thủ tướng Chính phủ” để tặng hoặc truy tặng cho doanh nhân, trí thức, nhà khoa học chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều 73 Luật Thi đua, khen thưởng, có thành tích đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước được Bộ, ban, ngành, tỉnh công nhận.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng cho tập thể gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước, nội bộ đoàn kết và đạt một trong các tiêu chuẩn sau đây:
++ Lập được thành tích đột xuất, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh;
++ Có đóng góp vào sự phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước, ứng dụng tiến bộ khoa học, kỹ thuật, công tác xã hội, từ thiện nhân đạo;
++ Có thành tích xuất sắc tiêu biểu được bình xét trong cụm, khối thi đua do Hội đồng Thi đua - Khen thưởng Trung ương tổ chức;
++ Có thành tích xuất sắc tiêu biểu, được bình xét khi sơ kết, tổng kết phong trào thi đua do Chủ tịch nước, Thủ tướng Chính phủ phát động hoặc phong trào thi đua do Bộ, ban, ngành, tỉnh phát động có thời gian thực hiện từ 03 năm trở lên;
++ Có thành tích xuất sắc trong phục vụ nhiệm vụ chính trị của Đảng, Nhà nước;
++ Đã được tặng bằng khen của Bộ, ban, ngành, tỉnh và sau đó có liên tục từ 05 năm trở lên đến thời điểm đề nghị được công nhận hoàn thành xuất sắc nhiệm vụ hoặc đạt danh hiệu “Tập thể lao động xuất sắc” hoặc “Đơn vị quyết thắng”, trong thời gian đó có 01 lần được tặng cờ thi đua của Bộ, ban, ngành, tỉnh hoặc có 02 lần được tặng bằng khen của Bộ, ban, ngành, tỉnh.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng cho doanh nghiệp và tổ chức kinh tế khác chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước và đạt một trong các tiêu chuẩn quy định tại khoản 4 Điều 73 Luật Thi đua, khen thưởng hoặc có thành tích đóng góp vào sự phát triển kinh tế - xã hội của đất nước được Bộ, ban, ngành, tỉnh công nhận.
+- “Bằng khen của Thủ tướng Chính phủ” để tặng cho cá nhân, tập thể người Việt Nam định cư ở nước ngoài, cá nhân, tập thể người nước ngoài tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, luật pháp và phong tục, tập quán tốt đẹp của Việt Nam và có thành tích đóng góp vào sự phát triển kinh tế - xã hội của Việt Nam được Bộ, ban, ngành, tỉnh công nhận.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

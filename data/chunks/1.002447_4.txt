@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thay đổi, bổ sung giấy đăng ký lưu hành dược liệu (thay đổi lớn)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị thay đổi, bổ sung giấy đăng ký lưu hành dược liệu theo Mẫu số 05C Phụ lục I ban hành kèm theo Thông tư số 21/2018/TT-BYT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe34241ca7b77df'">MẪU SỐ 05C TT39.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Các tài liệu có liên quan theo từng trường hợp thay đổi, bổ sung cụ thể quy định tại Phụ lục II ban hành kèm theo Thông tư số 21/2018/TT-BYT.
+- 01 Bản sao 3. Bản sao giấy đăng ký lưu hành dược liệu tại Việt Nam còn hiệu lực.

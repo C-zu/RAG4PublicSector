@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tiếp nhận vào làm công chức
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không có||Qua đường Công văn|
+|Dịch vụ bưu chính|Không có||Qua đường công văn|

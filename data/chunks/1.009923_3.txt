@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thu hồi Giấy chứng nhận quyền sử dụng Chỉ dẫn địa lý “Điện Biên”
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 ngày kể từ ngày tiếp nhận đơn.|

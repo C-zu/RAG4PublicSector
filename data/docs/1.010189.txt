@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010189
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Thẩm định, phê duyệt nhiệm vụ quy hoạch chi tiết (tỷ lệ 1/500) - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.   
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý.  
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ. 
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa để trả lại. (Cơ quan tiếp nhận hồ sơ chỉ được yêu cầu sửa đổi, bổ sung 01 lần).  
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC.
+B6	Phê duyệt kết quả giải quyết TTHC
+B7	Phát hành văn bản và Trả kết quả cho Bộ phận TN&TKQ 
+B8	Trả kết quả cho tổ chức cá nhân.  Thực hiện thao tác trả hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|12 Ngày làm việc|Phí : Đồng Thông tư số 05/2017/TT-BXD ngày 05/4/2017 của Bộ Xây dựng||
+|Trực tuyến|12 Ngày làm việc|Phí : Đồng Thông tư số 05/2017/TT-BXD ngày 05/4/2017 của Bộ Xây dựng||
+|Dịch vụ bưu chính|12 Ngày làm việc|Phí : Đồng Thông tư số 05/2017/TT-BXD ngày 05/4/2017 của Bộ Xây dựng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định, theo mẫu BM.QH.03.01
+- 01 Bản chính Thuyết minh nội dung nhiệm vụ kèm theo các bản vẽ in màu thu nhỏ
+- 01 Bản chính Dự thảo Quyết định phê duyệt nhiệm vụ
+- 01 Bản chính Các văn bản pháp lý có liên quan; Văn bản giải trình ý kiến của các cơ quan, tổ chức và cộng đồng dân cư về nội dung nhiệm vụ quy hoạch (nếu có)
+- 01 Bản sao Hồ sơ pháp nhân và hồ sơ năng lực của tổ chức tư vấn lập nhiệm vụ quy hoạch xây dựng.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt nhiệm vụ quy hoạch chi tiết/điều chỉnh quy hoạch chi tiết.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|12/2016/TT-BXD|12/2016/TT-BXD|29-06-2016|Vụ Quy hoạch - Kiến trúc|
+|05/2017/TT-BXD|hướng dẫn xác định, quản lý chi phí quy hoạch xây dựng và quy hoạch đô thị|05-04-2017|Bộ Xây dựng|
+|30/2009/QH12|Luật Quy hoạch Đô thị|17-06-2009|Quốc Hội|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|44/2015/NĐ-CP|Nghị định 44/2015/NĐ-CP|06-05-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện thực hiện TTHC:
+Dự án đầu tư trên địa bàn Khu kinh tế Vũng Áng; Khu kinh tế cửa khẩu quốc tế Cầu Treo; Khu công nghiệp Gia Lách; Khu công nghiệp Hà Vàng thuộc thẩm quyền của Ban quản lý Khu kinh tế tỉnh Hà Tĩnh theo quy định phải lập quy hoạch chi tiết.
+Điều kiện thực hiện TTHC:
+Dự án đầu tư trên địa bàn Khu kinh tế Vũng Áng; Khu kinh tế cửa khẩu quốc tế Cầu Treo; Khu công nghiệp Gia Lách; Khu công nghiệp Hà Vàng thuộc thẩm quyền của Ban quản lý Khu kinh tế tỉnh Hà Tĩnh theo quy định phải lập quy hoạch chi tiết.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

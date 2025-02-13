@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp mới giấy chứng nhận đủ điều kiện xét nghiệm khẳng định các trường hợp HIV dương tính thuộc thẩm quyền của Bộ Y tế.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày|Phí : 0 Đồng||
+|Dịch vụ bưu chính|40 Ngày|Phí : 0 Đồng||

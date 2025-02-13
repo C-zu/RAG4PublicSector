@@ -1,0 +1,7 @@
+Tên thủ tục: Thay đổi mục đích sử dụng điện
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Khảo sát
+Ký hồ sơ Hợp đồng mua bán điện

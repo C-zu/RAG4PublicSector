@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị đăng ký thay đổi nội dung đăng ký chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã;
+- 01 Bản chính - Nghị quyết của đại hội thành viên hoặc quyết định bằng văn bản của Hội đồng quản trị về việc thay đổi nội dung đăng ký chi nhánh, văn phòng đại diện, địa điểm kinh doanh của hợp tác xã;
+- 01 Bản sao - Bản sao hợp lệ giấy chứng minh nhân dân, hộ chiếu hoặc chứng thực cá nhân hợp pháp khác của người đại diện chi nhánh, văn phòng đại diện, địa điểm kinh doanh đối với trường hợp thay đổi người đại diện. Trường hợp được ủy quyền, phải có thêm: (1) bản sao hợp lệ giấy tờ chứng thực cá nhân của người được ủy quyền; (2) bản sao hợp lệ hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ nộp hồ sơ, nhận kết quả và giấy giới thiệu của tổ chức đó cho cá nhân thực hiện nộp hồ sơ, nhận kết quả hoặc văn bản ủy quyền cho cá nhân thực hiện nộp hồ sơ, nhận kết quả theo quy định của pháp luật. Văn bản này không bắt buộc phải công chứng, chứng thực.
+- 01 Bản chính Thông báo về việc đăng ký thay đổi nội dung đăng ký chi nhánh, văn phòng đại diện, địa điểm kinh doanh theo mẫu quy định tại Phụ lục I-9 Thông tư số 07/2019/TT-BKHĐT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc64a11ed8b1a50'">Phu luc I-9_TT07.2019.docx</a>)

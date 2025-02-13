@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp mới Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa vật liệu xây dựng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Tài liệu chứng minh năng lực hoạt động thử nghiệm, cụ thể như sau:
+- 01 Bản chính Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận hoặc tổ chức công nhận nước ngoài công nhận hoạt động thử nghiệm thì nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận
+- 01 Bản chính + Trường hợp tổ chức thử nghiệm chưa được công nhận thì nộp các tài liệu, quy trình thử nghiệm và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm vật liệu xây dựng. - Mẫu Phiếu kết quả thử nghiệm
+
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký hoạt động thử nghiệm theo Mẫu số 01, Nghị định số 107/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb8b7d5a0ec019'">Dơn dang ky thu nghiem.docx</a>)
+- 01 Bản chính Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư
+- 01 Bản chính Danh sách thử nghiệm viên theo Mẫu số 02, Nghị định số 107/2016/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe05e4fe1ed830f'">2.Danh sach thu nghiem vien cua to chuc thu nghiem.docx</a>)
+- 01 Bản chính Danh sách máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phục vụ hoạt động thử nghiệm đối với lĩnh vực thử nghiệm đăng ký theo Mẫu số 04, Nghị định số 107/2016/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd506d2c5a50b92'">Danh muc may moc thiet bi (3).docx</a>)

@@ -1,0 +1,74 @@
+Tên thủ tục: Kiểm dịch y tế đối với phương tiện vận tải
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 2. Thu thập thông tin trước khi phương tiện vận tải qua biên giới :
+
+a) Số hiệu hoặc biển số của phương tiện vận tải;
+
+b) Lộ trình của phương tiện vận tải trước khi nhập cảnh, quá cảnh, xuất cảnh;
+
+c) Thông tin sức khỏe của người đi trên phương tiện vận tải;
+
+d) Các thông tin cần thiết khác.
+Bước 1. Khai báo y tế với phương tiện vận tải:
+
+1. Đối với tàu bay:
+
+a) Người khai báo y tế thực hiện khai, nộp tờ khai chung hàng không và giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có) cho tổ chức kiểm dịch y tế biên giới hoặc qua Cổng thông tin một cửa quốc gia trước khi phương tiện vận tải được phép nhập cảnh, xuất cảnh, quá cảnh;
+
+b) Trong trường hợp hành khách hoặc phi hành đoàn trên chuyến bay có triệu chứng hoặc có dấu hiệu mắc bệnh truyền nhiễm, cơ trưởng hoặc tiếp viên trưởng phải liên lạc ngay với tổ chức kiểm dịch y tế biên giới tại cửa khẩu trước khi tàu bay cất, hạ cánh.
+
+2. Đối với tàu thuyền:
+
+a) Người khai báo y tế thực hiện khai, nộp giấy khai báo y tế hàng hải, giấy chứng nhận miễn xử lý vệ sinh tàu thuyền/chứng nhận xử lý vệ sinh tàu thuyền (nếu có), giấy chứng nhận kiểm tra y tế hàng hóa (trên tàu thuyền), tàu thuyền (nếu có) và bản khai chung cho tổ chức kiểm dịch y tế biên giới hoặc thông qua Cổng thông tin một cửa quốc gia trước 12 giờ kể từ khi tàu thuyền dự kiến nhập cảnh, xuất cảnh, quá cảnh.
+
+3. Đối với phương tiện vận tải đường bộ, đường sắt:
+
+Thực hiện khai, nộp giấy khai báo y tế hàng hóa, phương tiện vận tải và giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có) trước khi phương tiện qua cửa khẩu.
+Bước 3. Xử lý thông tin đối với phương tiện vận tải:
+
+1. Kiểm dịch viên y tế thực hiện kiểm tra y tế theo quy định đối với phương tiện vận tải có yếu tố nguy cơ bao gồm:
+
+a) Phương tiện vận tải đi qua quốc gia, vùng lãnh thổ có ghi nhận trường hợp bệnh truyền nhiễm mà Bộ Y tế có yêu cầu phải giám sát;
+
+b) Phương tiện vận tải chở người bệnh hoặc người nghi ngờ mắc bệnh hoặc mang tác nhân gây bệnh truyền nhiễm;
+
+c) Phương tiện vận tải chở hàng hóa mang tác nhân gây bệnh truyền nhiễm hoặc nghi ngờ mang tác nhân gây bệnh truyền nhiễm.
+
+2. Trường hợp phương tiện không có yếu tố nguy cơ theo quy định, kiểm dịch viên y tế thực hiện giám sát phương tiện vận tải trong thời gian chờ nhập cảnh, xuất cảnh, quá cảnh gồm các nội dung sau:
+
+a) Giám sát trung gian truyền bệnh truyền nhiễm xâm nhập lên, xuống phương tiện vận tải;
+
+b) Giám sát trung gian truyền bệnh, tác nhân gây bệnh truyền nhiễm trong quá trình bốc dỡ, tiếp nhận hàng hóa.
+
+3. Trong quá trình giám sát, nếu phát hiện phương tiện vận tải có trung gian truyền bệnh truyền nhiễm, tác nhân gây bệnh truyền nhiễm hoặc không bảo đảm điều kiện vệ sinh chung (bao gồm phát hiện chất thải, chất tiết, dấu vết của trung gian truyền bệnh; thực phẩm, rác thải sinh hoạt không được thu gom, bảo quản, xử lý đúng quy định hoặc các khu vực ăn, ở, kho chứa, nhà vệ sinh không được vệ sinh thường xuyên gây tình trạng nấm, mốc, mùi hôi thối), kiểm dịch viên y tế đề xuất biện pháp kiểm tra y tế vào giấy khai báo y tế đối với phương tiện vận tải.
+
+4. Trường hợp phương tiện vận tải không thuộc một trong các trường hợp có yếu tố nguy cơ hoặc không cần phải kiểm tra y tế, kiểm dịch viên y tế xác nhận kết quả kiểm dịch y tế, kết thúc quy trình kiểm dịch.
+Bước 4. Kiểm tra giấy tờ đối với phương tiện vận tải:
+
+Loại giấy tờ kiểm tra:
+
+a) Đối với tàu bay: tờ khai chung hàng không đối với tàu bay, giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có);
+
+b) Đối với tàu thuyền: giấy khai báo y tế hàng hải, giấy chứng nhận miễn xử lý vệ sinh tàu thuyền/chứng nhận xử lý vệ sinh tàu thuyền, bản khai chung (nếu có) và giấy chứng nhận kiểm tra y tế hàng hóa (trên tàu thuyền), tàu thuyền (nếu có);
+
+c) Đối với phương tiện vận tải đường bộ, đường sắt: giấy khai báo y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt và giấy chứng nhận kiểm tra/xử lý y tế hàng hóa, phương tiện vận tải đường bộ, đường sắt, đường hàng không (nếu có).
+Bước 5. Kiểm tra thực tế đối với phương tiện vận tải:
+
+Kiểm dịch viên y tế yêu cầu đưa phương tiện vận tải vào khu vực cách ly để thực hiện các nội dung sau:
+
+a) Kiểm tra tình trạng vệ sinh chung trên phương tiện vận tải;
+
+b) Kiểm tra trung gian truyền bệnh truyền nhiễm trên phương tiện vận tải;
+
+c) Đánh giá hiệu quả các biện pháp xử lý y tế đã áp dụng;
+
+d) Lấy mẫu xét nghiệm trong trường hợp nghi ngờ có tác nhân gây bệnh truyền nhiễm thuộc nhóm A.
+Bước 6. Xử lý y tế đối với phương tiện vận tải:
+
+Căn cứ kết quả kiểm tra thực tế, kiểm dịch viên y tế có thể áp dụng một hoặc các biện pháp sau:
+
+a) Diệt tác nhân gây bệnh, trung gian truyền bệnh;
+
+b) Thực hiện hoặc phối hợp với các cơ quan liên quan triển khai việc thu gom, xử lý chất thải có khả năng mang tác nhân gây bệnh hoặc có nguy cơ gây bệnh truyền nhiễm;

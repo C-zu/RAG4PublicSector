@@ -1,0 +1,17 @@
+Tên thủ tục: Thẩm định hồ sơ mời thầu, hồ sơ yêu cầu trong lựa chọn Nhà đầu tư
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo không đủ điều kiện ban hành Báo cáo thẩm địnhtrình lãnh đạo phòng xem xét, ký nháy.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Báo cáo thẩm định .
+B5	Lãnh đạo phòng chuyên môn xem xét, ký nháy kết quả thực hiện tại Bước 4.
+B6	Lãnh đạo Sở xem xét, ký duyệt
+
+B7	Làm thủ tục phát hành văn bản; cập nhật, theo dõi kết quả xử lý công việc, chuyển kết quả sang TTPVHCC
+B8	Trả kết quả cho tổ chức

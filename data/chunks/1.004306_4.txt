@@ -1,0 +1,13 @@
+Tên thủ tục: Gia hạn, sửa đổi, bổ sung Giấy chứng nhận người khai thác tàu bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ gia hạn
+- 01 Bản chính Đơn đề nghị gia hạn Giấy chứng nhận Người khai thác tàu bay bao gồm các thông tin sau: tên doanh nghiệp, tên giao dịch, địa điểm trụ sở chính; người đại diện theo pháp luật (giám đốc điều hành); loại hình doanh nghiệp; khu vực khai thác và cơ sở khai thác; loại hình khai thác; loại, kiểu tàu bay khai thác;
+- 01 Bản chính Báo cáo về những thay đối tính đến thời điểm đề nghị gia hạn Giấy chứng nhận Người khai thác tàu bay.
+
+
+Hồ sơ sửa đổi, bổ sung
+- 01 Bản chính Đơn đề nghị sửa đổi, bổ sung năng định khai thác, loại tàu bay hoặc tàu bay của Giấy chứng nhận Người khai thác tàu bay. Trong đơn nêu rõ nội dung đề nghị sửa đổi, bổ sung;
+- 01 Bản chính Các tài liệu sửa đổi, bổ sung có liên quan

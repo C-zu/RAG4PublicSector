@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận thay đổi thông tin đăng ký hoạt động cơ sở in (cấp Trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng Không có|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng Không có|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng Không có|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định Nộp qua dịch vụ bưu chính, chuyển phát; (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, Hoàn Kiếm, Hà Nội).|

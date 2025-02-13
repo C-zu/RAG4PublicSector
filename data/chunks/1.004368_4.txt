@@ -1,0 +1,20 @@
+Tên thủ tục: Cấp mới giấy phép kinh doanh dịch vụ viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp mới giấy phép cung cấp dịch vụ viễn thông bao gồm:
+- 01 Bản chính, 04 Bản sao a) Đơn đề nghị cấp mới giấy phép kinh doanh dịch vụ viễn thông;
+- 01 Bản chính, 04 Bản sao b) Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư đối với nhà đầu tư nước ngoài (hoặc bản sao hợp lệ giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13)
+- 01 Bản chính, 04 Bản sao c) Điều lệ của doanh nghiệp;
+- 01 Bản chính, 04 Bản sao đ) Kế hoạch kỹ thuật trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép
+
+
+Hồ sơ đề nghị cấp mới giấy phép thiết lập mạng viễn thông công cộng bao gồm:
+- 01 Bản chính, 04 Bản sao c) Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư đối với nhà đầu tư nước ngoài (hoặc bản sao hợp lệ giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13) d) Điều lệ của doanh nghiệp;
+- 01 Bản chính, 04 Bản sao đ) Văn bản xác nhận vốn pháp định theo (Quy định tại khoản 2 hoặc khoản 4 Điều 13 Thông tư 12/2013/TT-BTTTT ngày 13/5/2013);
+- 01 Bản chính, 04 Bản sao e) Kế hoạch kinh doanh trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a3b0eb15246c'">Mẫu số 04.doc</a>)
+- 01 Bản chính, 04 Bản sao g) Kế hoạch kỹ thuật trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4b6564aa75d9a'">Mẫu số 05.doc</a>)
+- 01 Bản chính, 04 Bản sao h) Văn bản cam kết thực hiện giấy phép. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecae250a89fe64'">Mẫu số 07.doc</a>)
+- 01 Bản chính, 04 Bản sao a) Đơn đề nghị cấp mới giấy phép kinh doanh dịch vụ viễn thông; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee9c2173153987'">Mẫu số 01.doc</a>)
+- 01 Bản chính, 04 Bản sao b) Báo cáo tình hình thực hiện giấy phép kể từ ngày được cấp giấy phép đến ngày nộp hồ sơ đề nghị sửa đổi, bổ sung giấy phép. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1c459d842df0c'">Mẫu số 06.doc</a>)

@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ cho người lao động thuộc đối tượng là người dân tộc thiểu số, người thuộc hộ nghèo, hộ cận nghèo, thân nhân người có công với cách mạng đi làm việc ở nước ngoài theo hợp đồng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị hỗ trợ theo Mẫu số 01a tại Phụ lục; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f89362f26045380'">Mau so 01a.docx</a>)
+- 01 Bản chính - Giấy tờ chứng minh người lao động thuộc một trong các đối tượng: người dân tộc thiểu số, người thuộc hộ nghèo, hộ cận nghèo, thân nhân người có công với cách mạng: + Người lao động thuộc hộ nghèo, hộ cận nghèo: xác nhận của Ủy ban nhân dân xã, phường, thị trấn tại Giấy đề nghị hỗ trợ của người lao động; + Người lao động là thân nhân người có công với cách mạng: giấy xác nhận là thân nhân người có công với cách mạng theo Mẫu số 01b tại Phụ lục; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd69131bd2b33e'">Mau so 01b.docx</a>)
+- 01 Bản sao - Bản sao hợp đồng đi làm việc ở nước ngoài ký giữa người lao động và doanh nghiệp đưa người lao động đi làm việc ở nước ngoài (có xác nhận của doanh nghiệp) hoặc hợp đồng lao động trực tiếp giao kết giữa người lao động với người sử dụng lao động ở nước ngoài (nếu hợp đồng bằng tiếng nước ngoài thì phải dịch sang tiếng Việt và có chứng thực) và xác nhận đăng ký hợp đồng lao động của Sở Lao động - Thương binh và Xã hội;
+- 01 Bản sao - Bản sao chứng chỉ hoặc giấy chứng nhận hoàn thành khóa đào tạo nghề, ngoại ngữ, giáo dục định hướng của người lao động làm cơ sở thanh toán chi phí ăn, ở trong thời gian đào tạo;
+- 01 Bản chính - Hóa đơn hoặc biên lai thu tiền đào tạo nghề, ngoại ngữ, giáo dục định hướng, khám sức khỏe, hộ chiếu, thị thực và lý lịch tư pháp.

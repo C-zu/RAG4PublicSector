@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục phân loại máy liên hợp hoặc tổ hợp máy thuộc các Chương 84, Chương 85 và Chương 90 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Thực hiện ngay khi người khai hải quan có đề nghị||Đăng ký Danh mục và Phiếu theo dõi trừ lùi bằng phương thức điện tử.|

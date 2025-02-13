@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Chứng nhận chuẩn đo lường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị chứng nhận chuẩn đo lường. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc952e9a402b14c'">Mẫu11.ĐNCNCĐL.doc</a>)
+- 01 Bản sao Bản sao (có xác nhận sao y bản chính của tổ chức kiểm định được chỉ định) giấy chứng nhận hiệu chuẩn của chuẩn công tác theo quy định tại điểm a khoản 1 Điều 20 hoặc giấy chứng nhận thử nghiệm hoặc so sánh của chất chuẩn theo quy định tại điểm a khoản 2 Điều 20 của Thông tư số 24/2013/TT-BKHCN.
+- 01 Bản chính Ảnh chụp của chuẩn đo lường bao gồm một (01) ảnh tổng thể và một (01) ảnh nhãn mác. Ảnh màu cỡ (15 × 20) cm, phải bảo đảm sắc nét, rõ ràng (đối với trường hợp lần đầu tiên đề nghị chứng nhận).
+- 01 Bản chính Văn bản quy định về việc duy trì, bảo quản, sử dụng chuẩn đo lường do người đứng đầu tổ chức kiểm định được chỉ định ban hành.

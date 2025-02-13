@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp chứng chỉ nhân viên bức xạ (đối với người phụ trách an toàn cơ sở X-quang chẩn đoán trong y tế).
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Chứng chỉ nhân viên bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6420ab1e94970'">Mẫu 5 PL IV.docx</a>)
+- 01 Bản sao Bản sao văn bằng, chứng chỉ chuyên môn phù hợp với công việc đảm nhiệm
+- 01 Bản chính Giấy Giấy chứng nhận đào tạo an toàn bức xạ
+- 01 Bản chính Phiếu khám sức khỏe tại cơ sở y tế từ cấp huyện trở lên được cấp không quá 06 tháng tính đến thời điểm nộp hồ sơ đề nghị cấp chứng chỉ nhân viên bức xạ
+- 01 Bản chính 03 ảnh cỡ 3 cm x 4 cm trong trường hợp nộp hồ sơ trực tiếp hoặc qua bưu điện; tệp tin ảnh cỡ 3 cm x 4 cm trong trường hợp nộp hồ sơ trực tuyến

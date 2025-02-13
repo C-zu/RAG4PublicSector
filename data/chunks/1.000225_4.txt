@@ -1,0 +1,8 @@
+Tên thủ tục: Duyệt tài liệu hướng dẫn tàu biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 01 (một) giấy đề nghị theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff71576d57789'">01 TK.doc</a>)
+- 01 Bản chính 03 (ba) bản tài liệu hướng dẫn.

@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn Giấy phép hoạt động cho thuê lại lao động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|22 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ - Nộp hồ sơ qua cổng thông tin dịch vụ công trực tuyến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ qua đường bưu điện đến Sở Lao động - Thương binh và Xã hội.|
+|Trực tuyến|22 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ - Nộp hồ sơ qua cổng thông tin dịch vụ công trực tuyến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ qua đường bưu điện đến Sở Lao động - Thương binh và Xã hội.|
+|Dịch vụ bưu chính|22 Ngày làm việc||Kể từ khi nhận được hồ sơ đầy đủ, hợp lệ - Nộp hồ sơ qua cổng thông tin dịch vụ công trực tuyến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ trực tiếp đến Sở Lao động - Thương binh và Xã hội. - Nộp hồ sơ qua đường bưu điện đến Sở Lao động - Thương binh và Xã hội.|

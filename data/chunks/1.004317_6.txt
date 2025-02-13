@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận người khai thác tàu bay (AOC)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Người khai tác tàu bay phải nộp hồ sơ tối thiểu 90 ngày trước ngày dự định khai thác, tài liệu hướng dẫn khai thác và tài liệu kiểm soát bảo dưỡng có thể nộp sau nhưng không muộn hơn 60 ngày trước ngày dự định khai thác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

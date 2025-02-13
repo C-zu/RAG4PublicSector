@@ -1,0 +1,8 @@
+Tên thủ tục: Báo cáo nhu cầu sử dụng người lao động nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị xác nhận người lao động nước ngoài không thuộc diện cấp Giấy phép lao động, theo mẫu BM.VL.09.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b2eb3d08b610'">BM.VL.09.01.doc</a>)
+- 01 Bản chính, 01 Bản sao Các giấy tờ để chứng minh người lao động nước ngoài không thuộc diện cấp giấy phép lao động là 01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực nếu bằng tiếng nước ngoài thì miễn hợp pháp hóa lãnh sự, nhưng phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam.

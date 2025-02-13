@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục công nhận kho hàng không kéo dài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc||1. Trong thời hạn 10 ngày làm việc, Tổng cục Hải quan hoàn thành việc kiẻm tra tra hồ sơ, thực tế kho hàng không kéo dài; 2. Trong thời hạn15 ngày làm việc kể từ ngày hoàn thành việc kiểm tra hồ sơ, thực tế kho hàng không kéo dài, Tổng cục trưởng ra quyết định công nhận kho hàng không kéo dài hoặc văn bản trả lời doanh nghiệp nếu chưa đáp ứng đủ điều kiện theo quy định|
+|Trực tuyến|25 Ngày làm việc||1. Trong thời hạn 10 ngày làm việc, Tổng cục Hải quan hoàn thành việc kiẻm tra tra hồ sơ, thực tế kho hàng không kéo dài; 2. Trong thời hạn15 ngày làm việc kể từ ngày hoàn thành việc kiểm tra hồ sơ, thực tế kho hàng không kéo dài, Tổng cục trưởng ra quyết định công nhận kho hàng không kéo dài hoặc văn bản trả lời doanh nghiệp nếu chưa đáp ứng đủ điều kiện theo quy định|
+|Dịch vụ bưu chính|25 Ngày làm việc||1. Trong thời hạn 10 ngày làm việc, Tổng cục Hải quan hoàn thành việc kiẻm tra tra hồ sơ, thực tế kho hàng không kéo dài; 2. Trong thời hạn15 ngày làm việc kể từ ngày hoàn thành việc kiểm tra hồ sơ, thực tế kho hàng không kéo dài, Tổng cục trưởng ra quyết định công nhận kho hàng không kéo dài hoặc văn bản trả lời doanh nghiệp nếu chưa đáp ứng đủ điều kiện theo quy định|

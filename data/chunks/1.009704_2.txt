@@ -1,0 +1,26 @@
+Tên thủ tục: Lập, thẩm định, quyết định phê duyệt khoản viện trợ là chương trình, dự án hỗ trợ kỹ thuật sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo sở ký duyệt. 
+- Trường hợp, hồ sơ đáp ứng yêu cầu, làm văn bản lấy ý kiến thẩm định các Sở ban ngành liên quan 
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức, cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 13
++ Gửi văn bản đến các sở, ban, ngành (nếu hồ sơ đủ điều kiện). Chuyển sang thực hiện B6
+B6	Các Sở ban ngành liên quan và địa phương góp ý thẩm định hồ sơ
+B7	Tổng hợp ý kiến góp ý, soạn thảo Tờ trình (đồng thời là ý kiến thẩm định của SKHĐT) và dự thảo Quyết định phê duyệt tiếp nhận của UBND tỉnh.
+
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B9	Lãnh đạo Sở xem xét ký duyệt
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B11	Chủ tịch Ủy ban nhân dân tỉnh xem xét, phê duyệt Quyết định 
+
+B12	Nhận kết quả từ UBND tỉnh chuyển sang TTPVHCC;
+Cập nhật theo dõi xử lý hồ sơ.
+B13	Trả kết quả cho tổ chức

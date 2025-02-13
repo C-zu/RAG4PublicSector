@@ -1,0 +1,23 @@
+Tên thủ tục: Đăng ký tàu biển tạm thời
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam, Cảng vụ hàng hải, Chi cục Hàng hải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cơ quan đăng ký tàu biển
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký tạm thời tàu biển Việt Nam.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|189/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải|08-11-2016|Bộ Tài chính|
+|171/2016/NĐ-CP|Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển|27-12-2016|Chính phủ|
+|86/2020/NĐ-CP|Nghị định 86/2020/NĐ-CP|23-07-2020||

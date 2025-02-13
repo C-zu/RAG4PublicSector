@@ -1,0 +1,7 @@
+Tên thủ tục: Chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán tự nguyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Giấy đề nghị chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán; + Quyết định của Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty về việc chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán; + Quyết định thu hồi Giấy chứng nhận thành viên bù trừ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; + Báo cáo kết quả thực hiện chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán.

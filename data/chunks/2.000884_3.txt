@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký trong các giấy tờ, văn bản (áp dụng cho cả trường hợp chứng thực điểm chỉ và trường hợp người yêu cầu chứng thực không thể ký, không thể điểm chỉ được)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ. Trường hợp trả kết quả trong ngày làm việc tiếp theo thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực.|Phí : Đồng Tại UBND cấp xã, Phòng Tư pháp, Tổ chức hành nghề công chứng: 10.000 đồng/trường hợp (trường hợp được tính là một hoặc nhiều chữ ký trong một giấy tờ, văn bản).  Phí : USD Tại cơ quan đại diện: 10 USD/bản||

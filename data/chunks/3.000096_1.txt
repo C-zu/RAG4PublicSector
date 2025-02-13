@@ -1,0 +1,16 @@
+Tên thủ tục: Thay đổi vị trí thiết bị đo đếm
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000096
+Số quyết định:
+505
+Tên thủ tục:
+Thay đổi vị trí thiết bị đo đếm
+Cấp thực hiện:
+Cấp Bộ, Cơ quan khác
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Dịch vụ trong quá trình thực hiện HĐMBĐ

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch y tế mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0.25 Giờ|Phí : 6.5 USD|hời gian hoàn thành việc kiểm tra giấy tờ đối với một lô mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người không quá 15 phút kể từ khi nộp đủ các loại giấy tờ.|

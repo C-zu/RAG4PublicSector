@@ -1,0 +1,14 @@
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ mời thầu, hồ sơ yêu cầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị phê duyệt hồ sơ mời thầu/hồ sơ yêu cầu của chủ đầu tư hoặc đơn vị được ủy quyền quản lý điều hành dự án; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe052a668f4e745'">TT Phê duyet ho so moi thau, ho so yeu cau du an, cong trinh.doc</a>)
+- 01 Bản chính 2. Bản chụp Quyết định phê duyệt dự án và các tài liệu có liên quan;
+- 01 Bản chính 3. Bản chụp Quyết định phê duyệt kế hoạch lựa chọn nhà thầu;
+- 01 Bản chính 4. Dự thảo hồ sơ mời thầu/hồ sơ yêu cầu;
+- 01 Bản chính 5. Quyết định phê duyệt thiết kế, dự toán hoặc Báo cáo kinh tế kỹ thuật;
+- 01 Bản chính 6. Bản vẽ thiết kế thi công, dự toán hoặc chứng từ thẩm định giá được duyệt và các văn bản pháp lý khác có liên quan;
+- 01 Bản chính 7. Đĩa CD gồm các file: toàn bộ bản vẽ thiết kế thi công, hồ sơ mời thầu, tiên lượng mời thầu;
+- 01 Bản chính 8. Hồ sơ mời thầu (đối với lựa chọn nhà thầu rộng rãi và hạn chế) có chữ ký và đóng dấu của Đơn vị điều hành dự án.

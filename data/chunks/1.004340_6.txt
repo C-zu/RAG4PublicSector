@@ -1,0 +1,44 @@
+Tên thủ tục: Đăng ký hoạt động xuất bản, phát hành xuất bản phẩm điện tử
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1. Điều kiện về thiết bị, công nghệ để xuất bản, phát hành xuất bản phẩm điện tử:
+a) Có máy chủ đặt tại Việt Nam;
+b) Có đường truyền kết nối Internet được đăng ký hợp pháp để xuất bản, phát hành xuất bản phẩm điện tử trên mạng Internet;
+c) Có giải pháp kỹ thuật để kiểm soát việc xuất bản, phát hành xuất bản phẩm điện tử, bao gồm việc phát hành, loại bỏ hoặc khôi phục để phát hành;
+d) Có hệ thống lưu trữ đảm bảo các yêu cầu kỹ thuật để lưu trữ các xuất bản phẩm điện tử đã xuất bản, phát hành; xuất bản phẩm điện tử được lưu trữ phải bảo đảm yêu cầu về tính xác thực, toàn vẹn, an toàn thông tin, có khả năng truy cập ngay từ khi được tạo lập;
+đ) Có chứng thư số hợp pháp theo quy định của pháp luật về giao dịch điện tử và phải tuân thủ quy chuẩn, tiêu chuẩn đối với xuất bản phẩm điện tử.
+2. Tiêu chuẩn về nhân lực kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử:
+a) Được đào tạo về công nghệ thông tin;
+b) Đủ trình độ vận hành, quản lý các thiết bị, giải pháp kỹ thuật để xuất bản, phát hành xuất bản phẩm điện tử.
+3. Biện pháp kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử :
+a) Có giải pháp kỹ thuật chống xâm nhập trái phép qua hệ thống mạng Internet;
+b) Có quy trình nghiệp vụ xử lý sự cố về an toàn, an ninh thông tin;
+c) Có quy trình nghiệp vụ để xác định việc can thiệp làm thay đổi nội dung xuất bản phẩm điện tử;
+d) Có giải pháp kỹ thuật về kiểm soát bản quyền số đối với nhà cung cấp nội dung, các kênh phân phối nội dung, cụ thể như sau:
+- Có thiết bị, phần mềm kỹ thuật chống can thiệp, thay đổi và sao chép trái phép một phần hoặc toàn bộ nội dung xuất bản phẩm điện tử;
+- Có biện pháp kỹ thuật xác thực tính hợp pháp của người sử dụng khi truy cập và sử dụng xuất bản phẩm điện tử và phải bảo đảm tính riêng tư, an toàn và bảo vệ thông tin cá nhân;
+- Có điều khoản thông báo về trách nhiệm chấp hành quy định của pháp luật về xuất bản và sở hữu trí tuệ đối với người sử dụng trước khi truy cập và sử dụng xuất bản phẩm điện tử.
+4. Tên miền Internet Việt Nam để thực hiện xuất bản điện tử, phát hành xuất bản phẩm điện tử trên Internet phải là tên miền ".vn".
+1. Điều kiện về thiết bị, công nghệ để xuất bản, phát hành xuất bản phẩm điện tử:
+a) Có máy chủ đặt tại Việt Nam;
+b) Có đường truyền kết nối Internet được đăng ký hợp pháp để xuất bản, phát hành xuất bản phẩm điện tử trên mạng Internet;
+c) Có giải pháp kỹ thuật để kiểm soát việc xuất bản, phát hành xuất bản phẩm điện tử, bao gồm việc phát hành, loại bỏ hoặc khôi phục để phát hành;
+d) Có hệ thống lưu trữ đảm bảo các yêu cầu kỹ thuật để lưu trữ các xuất bản phẩm điện tử đã xuất bản, phát hành; xuất bản phẩm điện tử được lưu trữ phải bảo đảm yêu cầu về tính xác thực, toàn vẹn, an toàn thông tin, có khả năng truy cập ngay từ khi được tạo lập;
+đ) Có chứng thư số hợp pháp theo quy định của pháp luật về giao dịch điện tử và phải tuân thủ quy chuẩn, tiêu chuẩn đối với xuất bản phẩm điện tử.
+2. Tiêu chuẩn về nhân lực kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử:
+a) Được đào tạo về công nghệ thông tin;
+b) Đủ trình độ vận hành, quản lý các thiết bị, giải pháp kỹ thuật để xuất bản, phát hành xuất bản phẩm điện tử.
+3. Biện pháp kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử :
+a) Có giải pháp kỹ thuật chống xâm nhập trái phép qua hệ thống mạng Internet;
+b) Có quy trình nghiệp vụ xử lý sự cố về an toàn, an ninh thông tin;
+c) Có quy trình nghiệp vụ để xác định việc can thiệp làm thay đổi nội dung xuất bản phẩm điện tử;
+d) Có giải pháp kỹ thuật về kiểm soát bản quyền số đối với nhà cung cấp nội dung, các kênh phân phối nội dung, cụ thể như sau:
+- Có thiết bị, phần mềm kỹ thuật chống can thiệp, thay đổi và sao chép trái phép một phần hoặc toàn bộ nội dung xuất bản phẩm điện tử;
+- Có biện pháp kỹ thuật xác thực tính hợp pháp của người sử dụng khi truy cập và sử dụng xuất bản phẩm điện tử và phải bảo đảm tính riêng tư, an toàn và bảo vệ thông tin cá nhân;
+- Có điều khoản thông báo về trách nhiệm chấp hành quy định của pháp luật về xuất bản và sở hữu trí tuệ đối với người sử dụng trước khi truy cập và sử dụng xuất bản phẩm điện tử.
+4. Tên miền Internet Việt Nam để thực hiện xuất bản điện tử, phát hành xuất bản phẩm điện tử trên Internet phải là tên miền ".vn".
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

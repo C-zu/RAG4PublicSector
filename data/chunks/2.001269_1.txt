@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục đăng ký tham dự sơ tuyển xét tặng giải thưởng chất lượng quốc gia
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001269
+Số quyết định:
+1662/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục đăng ký tham dự sơ tuyển xét tặng giải thưởng chất lượng quốc gia
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng

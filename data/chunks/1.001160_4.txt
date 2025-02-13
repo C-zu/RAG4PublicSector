@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn giấy chứng nhận đăng ký lưu hành (theo mẫu quy định tại Phụ lục 05 ban hành kèm theo Thông tư 11/2014/TT-BYT); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc456ebece25d18'">phụ lục 5.docx</a>)
+- 01 Bản sao Bản sao giấy chứng nhận đăng ký lưu hành (bao gồm giấy chứng nhận được cấp lần đầu và các lần gia hạn);
+- 01 Bản chính 01 bộ mẫu xét nghiệm nhanh thực phẩm;
+- 01 Bản chính Có văn bản xác nhận độ ổn định và tính đặc hiệu của ít nhất một cơ sở kiểm nghiệm đã sử dụng bộ xét nghiệm nhanh thực phẩm”.

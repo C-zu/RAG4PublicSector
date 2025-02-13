@@ -1,0 +1,8 @@
+Tên thủ tục: Xác nhận thông tin về cư trú
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ban hành kèm theo Thông tư số 66/2023/TT-BCA). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb7f60f5beac9e'">Mẫu CT01 _66.doc</a>)
+ *Lưu ý: Trường hợp thực hiện đăng ký cư trú trực tuyến, người yêu cầu đăng ký cư trú khai báo thông tin theo biểu mẫu điện tử được cung cấp sẵn.

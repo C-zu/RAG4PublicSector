@@ -1,0 +1,32 @@
+Tên thủ tục: Thủ tục giao đất, cho thuê đất không thông qua hình thức đấu giá quyền sử dụng đất trong Khu kinh tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban quản lý khu kinh tế - tỉnh Quảng Bình
+Cơ quan có thẩm quyền:
+Ban quản lý khu kinh tế - tỉnh Quảng Bình
+Địa chỉ tiếp nhận HS:
+Trung tâm Hành chính công tỉnh Quảng Bình, Số 09 Đường Quang Trung, thành phố Đồng Hới, Quảng Bình
+Cơ quan được ủy quyền:
+Ban quản lý khu kinh tế - tỉnh Quảng Bình
+Cơ quan phối hợp:
+Các Sở, ngành và địa phương liên quan
+Kết quả thực hiện:
+Quyết định giao đất theo Mẫu số 02 ban hành kèm theo Thông tư số 30/2014/TT-BTNMT; - Quyết định cho thuê đất theo Mẫu số 03 ban hành kèm theo Thông tư số 30/2014/TT-BTNMT; - Hợp đồng thuê đất (đối với trường hợp thuê đất) theo Mẫu số 04 ban hành kèm theo Thông tư số 30/2014/TT-BTNMT; - Biên bản giao đất trên thực địa theo Mẫu số 06 ban hành kèm theo Thông tư số 30/2014/TT-BTNMT; - Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo mẫu Thông tư số 23/2014/TT-BTNMT;
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Đầu tư|26-11-2014|Quốc Hội|
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP ngày 06 tháng 01 năm 2014 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai|06-01-2017|Chính phủ|
+|35/2017/NĐ-CP|Quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao|03-04-2017||
+|45/2013/QH13|Luật 45/2013/QH13|02-01-2014|Quốc Hội|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|23/2014/TT-BTNMT|Thông tư số 23/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất|19-05-2014|Bộ Tài nguyên và Môi trường|
+|30/2014/TT-BTNMT|Thông tư 30/2014/TT-BTNMT|02-06-2014|Bộ Tài nguyên và Môi trường|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|40/2018/NQ-HĐND|Nghị quyết số 40/2018/NQ-HĐND|08-12-2018||
+|89/2017/TT-BTC|Hướng dẫn một số điều của Nghị định số 35/2017/NĐ-CP ngày 03/4/2017 của Chính phủ quy định về thu tiền sử dụng đất, thu tiền thuê đất, thuê mặt nước trong Khu kinh tế, Khu công nghệ cao|23-08-2017|Bộ Tài chính|
+|148/2020/NĐ-CP|Nghị định 148/2020/NĐ-CP|18-12-2020||
+|38/2019/QĐ-UBND|Ban hành Quy định trình tự, thủ tục hành chính về lĩnh vực đất đai áp dụng cho đối tượng là tổ chức, hộ gia đình, cá nhân, doanh nghiệp có vốn đầu tư nước ngoài thực hiện dự án đầu tư tại các khu kinh tế trên địa bàn tỉnh Quảng Bình|26-11-2019|UBND tỉnh Quảng Bình|

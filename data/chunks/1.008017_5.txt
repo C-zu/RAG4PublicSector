@@ -1,0 +1,27 @@
+Tên thủ tục: Thẩm định, phê duyệt báo cáo kinh tế kỹ thuật công trình giao thông
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Người Việt Nam định cư ở nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+UBND tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm phục vụ hành chính công tỉnh, số 2A đường Nguyễn Chí Thanh, TP Hà Tĩnh hoặc Qua hệ thống dịch vụ công trực tuyến
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo kết quả thẩm định (đối với dự án không do UBND tỉnh quyết định đầu tư) hoặc Văn bản thông báo hồ sơ không đủ điều kiện phê duyệt BCKT-KT; Phiếu từ chối giải quyết hồ sơ. Quyết định phê duyệt BCKT-KT (đối với dự án do UBND tỉnh quyết định đầu tư); hoặc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|210/2016/tt-btc|10/11/2016|01-01-2017|Bộ Tài chính|
+|50/2014/QH13|Luật Xây dựng|18-06-2014|Quốc Hội|
+|40/2020/NĐ-CP|Nghị định số 40/2020/NĐ-CP Quy đinh chi tiết thi hành một số điều của Luật Đầu tư công|06-04-2020||
+|62/2020/QH14|Luật 62/2020/QH14|17-06-2020||
+|15/2021/NĐ-CP|Quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|06/2021/NĐ-CP|Nghị định 06/2021/NĐ-CP|26-01-2021||
+|10/2021/NĐ-CP|Nghị định 10/2021/NĐ-CP|09-02-2021||

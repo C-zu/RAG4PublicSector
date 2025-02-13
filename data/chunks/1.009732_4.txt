@@ -1,0 +1,9 @@
+Tên thủ tục: Hỗ trợ người lao động tạm hoãn thực hiện hợp đồng lao động hoặc nghỉ việc không hưởng lương do đại dịch COVID-19
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Công văn kèm theo danh sách người lao động tạm hoãn thực hiện hợp đồng lao động, nghỉ việc không hưởng lương đảm bảo điều kiện theo quy định tại Quyết định số 15/2020/QĐ-TTg ngày 24/4/2020 của Thủ tướng Chính phủ, có xác nhận của tổ chức công đoàn (nếu có) và cơ quan bảo hiểm xã hội (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23e342f446ab9'">BM.VL.01.01.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản thỏa thuận tạm hoãn thực hiện hợp đồng lao động hoặc nghỉ việc không hưởnglương
+- 01 Bản chính, 01 Bản sao Báo cáo tài chính năm 2019, quý I năm 2020 và các giấy tờ chứng minh tài chính khác của doanhnghiệp

@@ -1,0 +1,63 @@
+Tên thủ tục: Thẩm định, tham gia ý kiến về thiết kế cơ sở các dự án đầu tư xây dựng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Nội dung chi tiết: Hồ sơ Khảo sát, báo cáo nghiên cứu khả thi - Thiết kế cơ sở Dự án
+- 01 Bản chính 1. Hồ sơ khảo sát xây dựng phục vụ lập dự án (Theo Chương II Nghị định số 46/2015/NĐ-CP ngày 12 tháng 5 năm 2015 của Chính phủ về quản lý chất lượng và bảo trì công trình xây dựng) gồm:
+- 01 Bản chính - Nhiệm vụ khảo sát; Nhiệm vụ thiết kế;
+- 01 Bản chính - Phương án kỹ thuật khảo sát xây dựng;
+- 01 Bản chính - Văn bản thông báo chấp thuận nghiệm thu Báo cáo kết quả khảo sát xây dựng đến nhà thầu khảo sát nếu đạt yêu cầu;
+- 01 Bản chính - Báo cáo kết quả khảo sát xây dựng (Chủ đầu tư phê duyệt trực tiếp vào Báo cáo kết quả khảo sát);
+- 01 Bản chính - Các Bản vẽ khảo sát; Nhật ký khảo sát có chữ ký giám sát khảo sát của Chủ đầu tư; Biên bản nghiệm thu Báo cáo kết quả khảo sát;
+- 01 Bản chính 2. Thuyết minh báo cáo nghiên cứu khả thi (Bao gồm tổng mức đầu tư hoặc dự toán) (Theo Điều 54+58 Luật Xây dựng số 50/2014/QH13 ngày 18/6/2014) bao gồm:
+- 01 Bản chính * Thiết kế cơ sở được lập để đạt được mục tiêu của dự án, phù hợp với công trình xây dựng thuộc dự án, bảo đảm sự đồng bộ giữa các công trình khi đưa vào khai thác, sử dụng. Thiết kế cơ sở gồm thuyết minh và các bản vẽ thể hiện các nội dung sau:
+- 01 Bản chính - Bản vẽ Vị trí xây dựng, hướng tuyến công trình, danh mục và quy mô, loại, cấp công trình thuộc tổng mặt bằng xây dựng (Quy hoạch chi tiết xây dựng; tổng mặt bằng được chấp thuận hoặc với phương án tuyến công trình được chọn đối với công trình xây dựng theo tuyến);
+- 01 Bản chính - Phương án công nghệ, kỹ thuật và thiết bị được lựa chọn (nếu có);
+- 01 Bản chính - Giải pháp về kiến trúc, mặt bằng, mặt cắt, mặt đứng công trình, các kích thước, kết cấu chính của công trình xây dựng (Các giải pháp thiết kế về bảo đảm an toàn xây dựng, bảo vệ môi trường, phòng, chống cháy, nổ);
+- 01 Bản chính - Giải pháp về xây dựng, vật liệu chủ yếu được sử dụng, ước tính chi phí xây dựng cho từng công trình;
+- 01 Bản chính - Phương án kết nối hạ tầng kỹ thuật trong và ngoài công trình, giải pháp phòng, chống cháy, nổ (Vị trí địa điểm xây dựng, khả năng kết nối với hạ tầng kỹ thuật của khu vực);
+- 01 Bản chính - Giải pháp tổ chức thực hiện dự án theo giai đoạn, hạng mục công trình với yêu cầu của thiết kế cơ sở;
+- 01 Bản chính - Tiêu chuẩn, quy chuẩn kỹ thuật được áp dụng và kết quả khảo sát xây dựng để lập thiết kế cơ sở.
+- 01 Bản chính 3. Các nội dung khác của Báo cáo nghiên cứu khả thi đầu tư xây dựng gồm:
+- 01 Bản chính - Sự cần thiết và chủ trương đầu tư, mục tiêu đầu tư xây dựng, địa điểm xây dựng và diện tích sử dụng đất, quy mô công suất và hình thức đầu tư xây dựng (Chủ trương đầu tư, khả năng đáp ứng nhu cầu tăng thêm về quy mô, công suất, năng lực khai thác sử dụng đáp ứng yêu cầu phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh trong từng thời);
+- 01 Bản chính - Khả năng bảo đảm các yếu tố để thực hiện dự án như sử dụng tài nguyên, lựa chọn công nghệ thiết bị, sử dụng lao động, hạ tầng kỹ thuật, tiêu thụ sản phẩm, yêu cầu trong khai thác sử dụng, thời gian thực hiện, phương án giải phóng mặt bằng xây dựng, tái định cư (nếu có), giải pháp tổ chức quản lý thực hiện dự án, vận hành, sử dụng công trình và bảo vệ môi trường (Quy hoạch phát triển ngành, quy hoạch xây dựng);
+- 01 Bản chính - Đánh giá tác động của dự án liên quan đến việc thu hồi đất, giải phóng mặt bằng, tái định cư; bảo vệ cảnh quan, môi trường sinh thái, an toàn trong xây dựng, phòng, chống cháy, nổ và các nội dung cần thiết khác (Khả năng đáp ứng nhu cầu sử dụng đất, giải phóng mặt bằng xây dựng; nhu cầu sử dụng tài nguyên (nếu có), việc bảo đảm các yếu tố đầu vào và đáp ứng các đầu ra của sản phẩm dự án; giải pháp tổ chức thực hiện; kinh nghiệm quản lý của chủ đầu tư; các giải pháp bảo vệ môi trường; phòng, chống cháy, nổ; bảo đảm quốc phòng, an ninh và các yếu tố khác);
+- 01 Bản chính - Tổng mức đầu tư, dự toán công trình và huy động vốn, phân tích tài chính, rủi ro, chi phí khai thác sử dụng công trình, đánh giá hiệu quả kinh tế - xã hội của dự án; kiến nghị cơ chế phối hợp, chính sách ưu đãi, hỗ trợ thực hiện dự án (Tổng mức đầu tư, tiến độ thực hiện dự án; chi phí khai thác vận hành; khả năng huy động vốn theo tiến độ, phân tích rủi ro, hiệu quả tài chính và hiệu quả kinh tế - xã hội của dự án);
+- 01 Bản chính - Điều kiện năng lực hoạt động xây dựng của tổ chức, năng lực hành nghề của cá nhân tư vấn lập thiết kế (Hồ sơ năng lực của Đơn vị Tư vấn thiết kế gồm Chứng chỉ hành nghề và thông tin năng lực của các chức danh chủ nhiệm khảo sát, chủ nhiệm đồ án thiết kế, chủ trì thiết kế của nhà thầu thiết kế: Bản sao có chứng thực);
+- 01 Bản chính - Quy trình bảo trì công trình xây dựng (nếu có);
+- 01 Bản chính - Các nội dung khác có liên quan.
+- 01 Bản chính 4. Bản vẽ và thuyết minh tính toán Thiết kế cơ sở.
+- 01 Bản chính Quy cách hồ sơ thiết kế xây dựng công trình (Theo Điều 21, Nghị định số 46/2015/NĐ-CP ngày 12 tháng 5 năm 2015):
+- 01 Bản chính - Hồ sơ thiết kế được lập cho từng công trình bao gồm thuyết minh thiết kế, bản tính, các bản vẽ thiết kế;
+- 01 Bản chính - Bản vẽ thiết kế phải có kích cỡ, tỷ lệ, khung tên được thể hiện theo các tiêu chuẩn áp dụng trong hoạt động xây dựng. Trong khung tên từng bản vẽ phải có tên, chữ ký của người trực tiếp thiết kế, người kiểm tra thiết kế, chủ trì thiết kế, chủ nhiệm thiết kế, người đại diện theo pháp luật của nhà thầu thiết kế và dấu của nhà thầu thiết kế xây dựng công trình trong trường hợp nhà thầu thiết kế là tổ chức;
+- 01 Bản chính - Các bản thuyết minh, bản vẽ thiết kế, dự toán phải được đóng thành tập hồ sơ theo khuôn khổ thống nhất, được lập danh mục, đánh số, ký hiệu để tra cứu và bảo quản lâu dài;
+- 01 Bản chính - Tài liệu sông ngòi, khí tượng, thủy văn dòng chảy sông tại vị trí đầu tư xây dựng dự án;
+- 01 Bản chính - Hồ sơ Trình thẩm định phải được ký, đóng dấu xác nhận của Cơ quan trình thẩm định và phải được đóng tập dán gáy theo quy định của văn thư trữ.
+
+
+Nội dung chi tiết: Hồ sơ pháp lý
+- 01 Bản chính 1. Quyết định phê duyệt chủ trương, nguồn vốn đầu tư xây dựng công trình (đối với dự án sử dụng vốn đầu tư công) hoặc văn bản chấp thuận chủ trương đầu tư xây dựng hoặc giấy chứng nhận đăng ký đầu tư (đối với dự án sử dụng vốn khác); Báo cáo kết quả thẩm định chủ trương đầu tư xây dựng công trình và Báo cáo đề xuất chủ trương đầu tư được duyệt;
+- 01 Bản chính 2. Quyết định phê duyệt kế hoạch lựa chọn nhà thầu của Chủ đầu tư đối với gói thầu khảo sát, Tư vấn lập dự án (nếu có);
+- 01 Bản chính 3. Quyết định lựa chọn phương án thiết kế kiến trúc thông qua thi tuyển hoặc tuyển chọn theo quy định và phương án thiết kế được lựa chọn kèm theo (nếu có);
+- 01 Bản chính 4. Báo cáo thẩm định Nhiệm vụ, dự toán khảo sát của Chủ đầu tư;
+- 01 Bản chính 5. Quyết định phê duyệt Nhiệm vụ khảo sát; Nhiệm vụ thiết kế của Chủ đầu tư;
+- 01 Bản chính 6. Quyết định lựa chọn nhà thầu khảo sát và Hợp đồng;
+- 01 Bản chính 7. Quyết định phê duyệt Phương án kỹ thuật khảo sát xây dựng;
+- 01 Bản chính 8. Quyết định lựa chọn nhà thầu lập dự án, thiết kế cơ sở và Hợp đồng;
+- 01 Bản chính 9. Chứng chỉ năng lực hoạt động và Hồ sơ năng lực của Đơn vị Tư vấn thiết kế; Chứng chỉ hành nghề và thông tin năng lực của các chức danh chủ nhiệm khảo sát, chủ nhiệm đồ án thiết kế, chủ trì thiết kế của nhà thầu thiết kế, chủ trì lập dự toán: Bản sao có chứng thực.
+- 01 Bản chính 10. Quyết định phê duyệt Quy hoạch chi tiết tỷ lệ 1/500 (Quy hoạch 1/2000 đối với khu công nghiệp quy mô trên 20 ha) được cấp có thẩm quyền phê duyệt hoặc giấy phép quy hoạch của dự án; Quyết định phê duyệt Quy hoạch phương án tuyến công trình được chọn đối với công trình xây dựng theo tuyến và quyết định phê duyệt quy hoạch hạ tầng kỹ thuật;
+- 01 Bản chính 11. Quyết định phê duyệt báo cáo đánh giá tác động môi trường và báo cáo đánh giá tác động môi trường được duyệt đối với các dự án phải lập báo cáo đánh giá tác động môi trường (nếu có);
+- 01 Bản chính 12. Văn bản thẩm duyệt hoặc ý kiến về giải pháp phòng cháy chữa cháy của cơ quan có thẩm quyền (nếu có);
+- 01 Bản chính 13. Văn bản thỏa thuận độ cao tĩnh không (nếu có);
+- 01 Bản chính 14. Các văn bản thông tin, số liệu về hạ tầng kỹ thuật đô thị (nếu có);
+- 01 Bản chính 15. Văn bản lấy ý kiến thẩm định của Cơ quan chủ trì thẩm định;
+- 01 Bản chính 16. Các văn bản pháp lý khác có liên quan (nếu có).
+
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình và Danh mục hồ sơ trình duyệt đính kèm theo tờ trình (Theo Mẫu số 01 Phụ lục II ban hành kèm theo Nghị định số 59/2015/NĐ-CP ngày 18 tháng 6 năm 2015 của Chính phủ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fead16b57cb787a'">To trinh tham dinh (Mau so 01).doc</a>)
+- 01 Bản chính 2. Hồ sơ pháp lý;
+- 01 Bản chính 3. Hồ sơ báo cáo nghiên cứu khả thi - Thiết kế cơ sở Dự án.
+- 01 Bản chính 4. 01 Đĩa CD có ghi tên Dự án bên ngoài đĩa để tiện lưu trữ.
+- 01 Bản chính 5. Trường hợp lấy ý kiến phối hợp hoặc thẩm tra của các cơ quan, tổ chức có liên quan thì bổ sung thêm hồ sơ đối với nội dung ý kiến phối hợp hoặc thẩm tra.

@@ -1,0 +1,24 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Ban Quản lý KKT tỉnh Hà Tĩnh - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ, văn bản xin ý kiến thẩm định các sở, ban, ngành.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa.
+B5	Gửi hồ sơ lấy ý kiến thẩm định của cơ quan nhà nước có liên quan đến những nội dung quy định tại khoản 3 Điều 30 Nghị định 118/2015/NĐ-CP.
+Đối với dự án đầu tư quy định tại Khoản 2 Điều 31 Luật Đầu tư phù hợp với quy hoạch đã được cấp có thẩm quyền phê duyệt thực hiện trong KCN, KCX, KCNC, KKT thì Ban Quản lý KKT tỉnh Hà Tĩnh lấy ý kiến của Bộ Kế hoạch và Đầu tư ngoài cơ quan nhà nước có liên quan đến những nội dung quy định tại khoản 3 Điều 30 Nghị định 118/2015/NĐ-CP.
+B6	Tổng hợp ý kiến của Bộ Kế hoạch và Đầu tư và cơ quan có liên quan  xem xét, tham mưu Dự thảo Báo cáo thẩm định về dự án đầu tư
+B7	Xem xét Báo cáo thẩm định về dự án đầu tư sau khi có ý kiến góp ý, trình lãnh đạo Ban xem xét.
+B8	Trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC
+B9	Phát hành văn bản và gửi báo cáo thẩm định cho đơn vị để bổ sung hoàn thiện hồ sơ
+B10	Hoàn thiện, bổ sung hồ sơ theo báo cáo thẩm định
+B11	Rà soát hồ sơ sau khi bổ sung, chỉnh sửa. Dự thảo Quyết định chủ trương đầu tư trình lãnh đạo phòng xem xét
+B12	Lãnh đạo phòng xem xét ký nháy vào Dự thảo Quyết định chủ trương đầu tư trình lãnh đạo ban xem xét
+B13	Phê duyệt kết quả giải quyết TTHC
+B10	Phát hành văn bản và Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn
+B11	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn

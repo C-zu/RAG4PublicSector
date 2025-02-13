@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép xây dựng, cải tạo, nâng cấp đường ngang
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|10 Ngày làm việc||10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|

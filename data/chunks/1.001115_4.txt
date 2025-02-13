@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định kế hoạch tác động vào thời tiết
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị phê duyệt kế hoạch tác động vào thời tiết được lập theo Phụ lục số 02 Thông tư số 09/2016/TT-BTNMT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddcad03809b64a'">Phụ lục số 02.docx</a>)
+- 01 Bản chính Kế hoạch tác động vào thời tiết quy định tại Điều 3 của Thông tư số 09/2016/TT-BTNMT kèm theo hồ sơ lấy ý kiến của cộng đồng dân cư khu vực trực tiếp chịu ảnh hưởng. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd21fcdc7abb7d6'">Phụ lục số 01.docx</a>)

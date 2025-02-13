@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện kiểm nghiệm chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản công bố đủ điều kiện thực hiện kiểm nghiệm theo Mẫu số 02 tại Phụ lục Iban hành kèm theo Nghị định số 91/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea95b1c16034e6'">Mau 02 MTYT 5083.docx</a>)
+- 01 Bản chính Danh mục tên các hoạt chất mà cơ sở có khả năng kiểm nghiệm có xác nhận của cơ sở kiểm nghiệm;
+- 01 Bản sao Bản sao hợp lệ Giấy chứng nhận đạt tiêu chuẩn ISO 17025:2005 hoặc phiên bản cập nhật.

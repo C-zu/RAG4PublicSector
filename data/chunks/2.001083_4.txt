@@ -1,0 +1,12 @@
+Tên thủ tục: Chấm dứt hoạt động của dự án đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Trường hợp tự quyết định chấm dứt hoạt động của dự án đầu tư theo quy định tại Điểm a Khoản 1 Điều 48 Luật Đầu tư:
+- 01 Bản chính + Quyết định chấm dứt chấm dứt hoạt động của dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbc15522f8a9de8'">Mau I-11_TT16_TB cham dut hoa dong DA ĐT - Copy.docx</a>)
+- 01 Bản chính + Kèm theo Giấy chứng nhận đăng ký đầu tư (nếu có);
+- 01 Bản chính - Trường hợp chấm dứt hoạt động của dự án đầu tư theo các điều kiện quy định trong hợp đồng, điều lệ doanh nghiệp hoặc hết thời hạn hoạt động của dự án đầu tư (theo quy định tại Điểm b và Điểm c Khoản 1 Điều 48 Luật Đầu tư):
+- 01 Bản chính + Thông báo của nhà đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5ce0aeedbca84'">Mau I-11_TT16_TB cham dut hoa dong DA ĐT - Copy.docx</a>)
+- 01 Bản chính + Giấy chứng nhận đăng ký đầu tư (nếu có)
+- 01 Bản chính + Điều lệ hoặc hợp đồng trong trường hợp điều lệ hoặc hợp đồng ghi nhận việc chấm dứt hoạt động của dự án đầu tư.

@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố đáp ứng tiêu chuẩn chế biến, bào chế thuốc cổ truyền đối với cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền trực thuộc quản lý của Sở Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 0 Đồng|Nộp trực tiếp tại Sở Y tế|
+|Trực tuyến|30 Ngày|Phí : 0 Đồng|Nộp qua Cổng Dịch vụ công Bộ Y tế|
+|Dịch vụ bưu chính|30 Ngày|Phí : 0 Đồng|Nộp qua dịch vụ bưu chính công ích|

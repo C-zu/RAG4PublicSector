@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận cơ sở đủ Điều kiện kinh doanh dịch vụ đào tạo thuyền viên, người lái phương tiện thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với trường hợp cấp lại Giấy chứng nhận khi thay đổi địa chỉ hoặc loại cơ sở đào tạo:
+- 01 Bản chính 01 tờ khai của cơ sở đào tạo đề nghị cấp Giấy chứng nhận theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed24c54ccda002'">tờ khai.docx</a>)
+- 01 Bản sao 01 bản sao có chứng thực (hoặc bản sao kèm bản chính để đối chiếu) văn bằng, chứng chỉ của giáo viên và hợp đồng của giáo viên (hợp đồng làm việc hoặc hợp đồng lao động hoặc hợp đồng thỉnh giảng hoặc hình thức hợp đồng phù hợp khác theo quy định của pháp luật) (chỉ bổ sung những nội dung thay đổi so với lần cấp Giấy chứng nhận gần nhất)
+- 01 Bản sao 01 bản sao có chứng thực (hoặc bản sao kèm bản chính để đối chiếu) các giấy tờ chứng minh quyền sở hữu, sử dụng hoặc hợp đồng thuê phòng học, xưởng thực tập, phương tiện, cầu cảng thủy nội địa, bến thủy nội địa, vùng nước để dạy thực hành; giấy tờ về đăng ký, đăng kiểm phương tiện còn hiệu lực phù hợp với loại, hạng và thời gian đào tạo (chỉ bổ sung những nội dung thay đổi so với lần cấp Giấy chứng nhận gần nhất).
+
+
+Đối với trường hợp cấp lại khi Giấy chứng nhận bị mất, bị hỏng:
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy chứng nhận theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd36ce399490f64'">tờ khai cấp lại.docx</a>)

@@ -1,0 +1,16 @@
+Tên thủ tục: Kiểm tra chất lượng muối nhập khẩu (UBND tỉnh Hà Tĩnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký kiểm tra chất lượng muối nhập khẩu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1d20965f041b1'">giấy dky kiểm tra chất lượng muối.docx</a>)
+- 01 Bản sao Hợp đồng mua bán hàng hóa
+- 01 Bản sao Danh mục hàng hóa ( Nếu có)
+- 01 Bản sao Hóa đơn có xác nhận của người nhập khẩu
+- 01 Bản sao Vận đơn có xác nhận của người nhập khẩu
+- 01 Bản sao Tờ khai hàng hóa nhập khẩu có xác nhận của người nhập khẩu
+- 01 Bản sao Giấy chứng nhận xuất xứ hàng hóa
+- 01 Bản sao Giấy phéo nhập khẩu theo hạn ngạch thuế quan
+- 01 Bản chính Giấy chứng nhận chất lượng lô hàng muối nhập khẩu hoặc chứng thư giám định chất lượng lô hàng muối nhập khẩu
+- 01 Bản chính Ảnh hoặc bản mô tả hàng hóa có các nội dung bắt buộc phải thể hiện trên nhãn hàng hóa và nhãn phụ nếu nhãn chính chưa đủ nội dung theo quy định (trừ trường hợp nhập khẩu muối rời.

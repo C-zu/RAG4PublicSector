@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi chủ thể hợp đồng mua bán điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8d08451306676'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)
+- 01 Bản sao Giấy tờ xác định chủ thể HĐMBĐ mới: là một trong các loại giấy tờ có tên của Tổ chức/cá nhân tại địa điểm mua điện sau: Hộ khẩu thường trú; Sổ tạm trú; Giấy chứng nhận quyền sở hữu nhà; Quyết định phân nhà; Hợp đồng mua bán nhà; Hợp đồng thuê nhà có thời hạn từ 01 năm trở lên và đồng ý của chủ sở hữu; Giấy chứng nhận quyền sử dụng đất; Hợp đồng ủy quyền quản lý và sử dụng nhà/đất; Hợp đồng thuê địa điểm và đồng ý của chủ sở hữu; Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; Giấy phép đầu tư; Quyết định thành lập đơn vị.

@@ -1,0 +1,24 @@
+Tên thủ tục: Thẩm định kế hoạch lựa chọn Nhà đầu tư
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, lãnh đạo Sở ký duyệt. Chuyển sang thực hiện Bước 8
+- Trường hợp, hồ sơ đáp ứng yêu cầu thực hiện bước tiếp theo
+B5	Dự thảo Tờ trình đề nghị UBND tỉnh cấp Quyết định phê duyệt kế hoạch lựa chọn Nhà đầu tư kèm dự thảo Quyết định phê duyệt kế hoạch lựa chọn Nhà đầu tư
+
+B6	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B7	Lãnh đạo Sở xem xét ký duyệt
+B8	Làm thủ tục phát hành văn bản và:
++ Trường hợp hồ sơ không đủ điều kiện chuyển kết quả sang TTPVHCC trả cho tổ chức, cá nhân. Chuyển sang bước11
++ Trường hợp hồ sơ đủ điều kiện chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B9	Ủy ban nhân dân tỉnh xem xét, giải quyết theo thẩm định
+
+B10	- Nhận kết quả từ UBND tỉnh và chuyển sang TTPVHCC để trả cho tổ chức, cá nhân
+- Cập nhật, theo dõi kết quả xử lý công việc
+B11	Trả kết quả cho tổ chức

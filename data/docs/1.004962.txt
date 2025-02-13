@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004962
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Hiệp thương, giải quyết tranh chấp trong kinh doanh dịch vụ viễn thông
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+- Các doanh nghiệp viễn thông gửi hồ sơ đề nghị giải quyết tranh chấp tới Cục Viễn thông - Bộ Thông tin Truyền thông.
+- Cục Viễn thông có trách nhiệm xem xét, thu thập thông tin, chứng cứ có liên quan. Các bên tranh chấp có nghĩa vụ cung cấp đầy đủ thông tin, chứng cứ theo yêu cầu của Cục Viễn thông.
+- Trong thời hạn 30 ngày làm việc, kể từ ngày nhận được đầy đủ hồ sơ đề nghị giải quyết tranh chấp, Cục Viễn thông có trách nhiệm tổ chức hiệp thương giữa các bên có liên quan. Kết quả hiệp thương được lập thành biên bản có chữ ký của người đại diện theo pháp luật của các bên tham gia hiệp thương và Cục Viễn thông.
+- Nếu thông qua hiệp thương các bên có liên quan thống nhất được các nội dung tranh chấp thì các bên thực hiện theo thỏa thuận đã thống nhất. Trong trường hợp các bên có liên quan không thống nhất được các nội dung tranh chấp thì trong thời hạn 15 ngày làm việc kể từ ngày ký biên bản hiệp thương, Cục Viễn thông ra quyết định giải quyết tranh chấp.
+- Trong quá trình giải quyết tranh chấp, Cục Viễn thông có thể xem xét, quyết định yêu cầu các bên bảo đảm việc kết nối đúng theo hiện trạng trước khi phát sinh tranh chấp hoặc đưa ra một giải pháp khác để bảo đảm kết nối, trong trường hợp:
+a)   Bảo đảm lợi ích công cộng hoặc sự toàn vẹn của mạng lưới viễn thông;
+b) Việc tranh chấp gây ảnh hưởng đến hoạt động của doanh nghiệp viễn thông khác;
+c)   Để bảo đảm quyền lợi của người sử dụng dịch vụ viễn thông, bảo đảm khả năng truy nhập của người sử dụng dịch vụ viễn thông đến các số liên lạc khẩn cấp;
+d) Để bảo đảm hoạt động viễn thông công ích;
+đ) Các trường hợp khác theo quy định của Bộ Thông tin và Truyền thông.
+- Các bên tranh chấp có nghĩa vụ thi hành ngay quyết định giải quyết tranh chấp của Cục Viễn thông, kể cả trường hợp không đồng ý với quyết định giải quyết tranh chấp và có quyền khiếu nại, khởi kiện theo quy định của pháp luật.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|chưa xác định||- Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị giải quyết tranh chấp, Cục Viễn thông tổ chức hiệp thương giữa hai bên; - Trong thời hạn 15 ngày làm việc kể từ ngày kết thúc Hiệp thương, Cục Viễn thông ra quyết định giải quyết tranh chấp..|
+|Dịch vụ bưu chính|chưa xác định||- Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị giải quyết tranh chấp, Cục Viễn thông tổ chức hiệp thương giữa hai bên; - Trong thời hạn 15 ngày làm việc kể từ ngày kết thúc Hiệp thương, Cục Viễn thông ra quyết định giải quyết tranh chấp..|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị giải quyết tranh chấp có dấu và chữ ký của người đại diện theo pháp luật của doanh nghiệp (ký, đóng dầu); Đối với đề nghị giải quyết tranh chấp trong kết nối, mẫu đơn đề nghị theo mẫu tại phụ lục số 06 ban hành kèm theo Thông tư số 07/2015/TT-BTTT ngày 24/3/2015. ([Phụ lục 06.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3036f102d6f4e'))
+- 01 Bản chính Các thông tin, chứng cứ, tài liệu liên quan (nếu có).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Trự sở Cục Viễn thông
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định giải quyết tranh chấp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|25/2011/NĐ-CP|Nghị định 25/2011/NĐ-CP|06-04-2011|Chính phủ|
+|41/2009/QH12|Luật số 41/2009/QH12 ngày 04/12/2009 của Quốc hội về viễn thông|01-07-2010||
+|07/2015/TT-BTTTT|Thông tư 07/2015/TT-BTTTT|24-03-2015|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Cung cấp thông tin, chứng cứ có liên quan và có nghĩa vụ tham gia hiệp thương
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

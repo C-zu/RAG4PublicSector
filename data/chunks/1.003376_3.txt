@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung chương trình an ninh, quy chế an ninh hàng không
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ|
+|Trực tuyến|05 Ngày làm việc||trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|05 Ngày làm việc||trong thời hạn 05 ngày làm việc tính từ ngày nhận đủ hồ sơ|

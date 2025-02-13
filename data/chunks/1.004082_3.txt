@@ -1,0 +1,8 @@
+Tên thủ tục: Xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích (Cấp Xã)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ.|

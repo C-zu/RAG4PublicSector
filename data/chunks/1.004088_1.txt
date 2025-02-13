@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký phương tiện lần đầu đối với phương tiện chưa khai thác trên đường thủy nội địa
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004088
+Số quyết định:
+3110/QĐ-BGTVT
+Tên thủ tục:
+Đăng ký phương tiện lần đầu đối với phương tiện chưa khai thác trên đường thủy nội địa
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa

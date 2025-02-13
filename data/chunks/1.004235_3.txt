@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép hoạt động in xuất bản phẩm (cấp Trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 0 Đồng Không có|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Dịch vụ bưu chính|15 Ngày|Phí : 0 Đồng Không có|Nộp qua hệ thống bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, phường Cửa Đông, quận Hoàn Kiếm, Hà Nội).|

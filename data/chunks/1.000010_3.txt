@@ -1,0 +1,9 @@
+Tên thủ tục: Đánh giá, chứng nhận năng lực cơ sở thử nghiệm, cung cấp dịch vụ kiểm tra, thử trang thiết bị an toàn và cơ sở chế tạo liên quan đến chất lượng an toàn kỹ thuật và phòng ngừa ô nhiễm môi trường tàu biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc||- Trong thời hạn 01 (một) ngày làm việc, kể từ ngày kết thúc đánh giá thực tế tại cơ sở.|
+|Trực tuyến|1 Ngày làm việc||Trong thời hạn 01 (một) ngày làm việc, kể từ ngày kết thúc đánh giá thực tế tại cơ sở|
+|Dịch vụ bưu chính|1 Ngày làm việc||Trong thời hạn 01 (một) ngày làm việc, kể từ ngày kết thúc đánh giá thực tế tại cơ sở|

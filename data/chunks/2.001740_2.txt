@@ -1,0 +1,6 @@
+Tên thủ tục: Xác nhận đăng ký hoạt động cơ sở in (cấp địa phương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Trước khi hoạt động, cơ sở in thực hiện chế bản, in, gia công sau in sản phẩm không thuộc đối tượng phải có giấy phép hoạt động in thì phải nộp hồ sơ đăng ký hoạt động in đến cơ quan quản lý về hoạt động in ở địa phương (Sở Thông tin và Truyền thông).
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký của cơ sở in, cơ quan quản lý về hoạt động in ở địa phương có trách nhiệm xác nhận đăng ký; trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do.

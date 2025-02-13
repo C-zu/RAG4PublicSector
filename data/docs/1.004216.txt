@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004216
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy xác nhận đăng ký xuất bản
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Trước khi xuất bản tác phẩm, tài liệu hoặc tái bản xuất bản phẩm, nhà xuất bản phải đăng ký xuất bản với Cục Xuất bản, In và Phát hành theo mẫu quy định. Nội dung đăng ký xuất bản phải phù hợp với tôn chỉ, mục đích, chức năng, nhiệm vụ của nhà xuất bản.
+-  Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được đăng ký xuất bản của nhà xuất bản, Cục Xuất bản, In và Phát hành phải xác nhận đăng ký xuất bản bằng văn bản, cấp số xác nhận đăng ký xuất bản từng tác phẩm, tài liệu hoặc xuất bản phẩm tái bản và cấp mã số sách tiêu chuẩn quốc tế (ISBN); trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do;
+- Trong quá trình xác nhận đăng ký, Cục Xuất bản, In và Phát hành có quyền yêu cầu nhà xuất bản thẩm định hoặc giải trình về tác phẩm, tài liệu đăng ký xuất bản, xuất bản phẩm đăng ký tái bản để xác nhận đăng ký.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|7 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn).|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, quận Hoàn Kiếm, Hà Nội)|
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký xuất bản bao gồm:
+- 01 Bản chính Giấy đăng ký xuất bản, trong đó tóm tắt nội dung về đề tài, chủ đề và nội dung của từng tác phẩm, tài liệu đăng ký xuất bản, xuất bản phẩm đăng ký tái bản, các thông tin theo mẫu Giấy đăng ký xuất bản; ([Mẫu số 07-GIẤY ĐKXB (sửa).doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe49843b69afeb4'))
+- 01 Bản chính Văn bản thẩm định nội dung đối với tác phẩm, tài liệu thuộc loại phải thẩm định.
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền:
+Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS:
+Cục Xuất bản, In và Phát hành Số 10 Đường Thành, Cửa Đông, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký xuất bản.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật 19/2012/QH13|20-11-2012|Quốc Hội|
+|195/2013/NĐ-CP|Nghị định 195/2013/NĐ-CP|21-11-2013|Chính phủ|
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Yêu cầu về quản lý xác nhận đăng ký xuất bản:
+1. Cục Xuất bản, In và Phát hành xác nhận đăng ký xuất bản được cấp cho từng xuất bản phẩm và ghi trong giấy xác nhận đăng ký xuất bản.
+2. Nhà xuất bản phải ghi chính xác số xác nhận đăng ký xuất bản trên xuất bản phẩm được xuất bản theo hướng dẫn trong giấy xác nhận đăng ký xuất bản. Chậm nhất vào ngày 31 tháng 3 hàng năm liền sau năm xác nhận đăng ký xuất bản, nhà xuất bản phải báo cáo với Cục Xuất bản, In và Phát hành danh mục tên xuất bản phẩm đã được cấp số xác nhận đăng ký xuất bản nhưng không thực hiện xuất bản.
+Yêu cầu về quản lý xác nhận đăng ký xuất bản:
+1. Cục Xuất bản, In và Phát hành xác nhận đăng ký xuất bản được cấp cho từng xuất bản phẩm và ghi trong giấy xác nhận đăng ký xuất bản.
+2. Nhà xuất bản phải ghi chính xác số xác nhận đăng ký xuất bản trên xuất bản phẩm được xuất bản theo hướng dẫn trong giấy xác nhận đăng ký xuất bản. Chậm nhất vào ngày 31 tháng 3 hàng năm liền sau năm xác nhận đăng ký xuất bản, nhà xuất bản phải báo cáo với Cục Xuất bản, In và Phát hành danh mục tên xuất bản phẩm đã được cấp số xác nhận đăng ký xuất bản nhưng không thực hiện xuất bản.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

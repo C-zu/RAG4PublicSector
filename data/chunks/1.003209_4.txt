@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp giấy phép triển lãm tác phẩm nhiếp ảnh tại Việt Nam (thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp giấy phép triển lãm tác phẩm nhiếp ảnh tại Việt Nam (Mẫu số 01 ban hành kèm theo Nghị định số 72/2016/NĐ-CP ngày 01 tháng 7 năm 2016) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec3823aa51aaf0'">Mẫu số 01.NDD72.2016.nhiếp ảnh.docx</a>)
+- 01 Bản chính b) Danh sách tác phẩm bằng tiếng Việt (ghi rõ số thứ tự tác phẩm, tên tác phẩm, tên tác giả, chất liệu, kích thước, số lượng)
+- 01 Bản chính d) Đối với trường hợp tổ chức triển lãm tác phẩm nhiếp ảnh tại các địa điểm không phải là nhà triển lãm phải có văn bản đồng ý của chủ địa điểm tổ chức triển lãm
+- 01 Bản chính đ) Đối với các tác phẩm nhiếp ảnh khỏa thân lộ rõ danh tính phải có văn bản thỏa thuận giữa người chụp ảnh và người được chụp về nội dung chụp, thời gian và phạm vi công bố tác phẩm.
+- 01 Bản chính c) Ảnh sẽ triển lãm có chú thích; ảnh in trên giấy kích thước nhỏ nhất 13x18cm hoặc ghi vào đĩa CD (đối với trường hợp nộp trực tiếp/nộp qua bưu chính), ảnh định dạng JPG hoặc PDF (đối với trường hợp nộp qua môi trường điện tử);

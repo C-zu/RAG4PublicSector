@@ -1,0 +1,16 @@
+Tên thủ tục: Hỗ trợ chi phí khám, chữa bệnh nghề nghiệp cho người lao động phát hiện bị bệnh nghề nghiệp khi đã nghỉ hưu hoặc không còn làm việc trong các nghề, công việc có nguy cơ bị bệnh nghề nghiệp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002343
+Số quyết định:
+1107/QĐ-LĐTBXH
+Tên thủ tục:
+Hỗ trợ chi phí khám, chữa bệnh nghề nghiệp cho người lao động phát hiện bị bệnh nghề nghiệp khi đã nghỉ hưu hoặc không còn làm việc trong các nghề, công việc có nguy cơ bị bệnh nghề nghiệp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+An toàn, vệ sinh lao động

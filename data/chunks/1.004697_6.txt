@@ -1,0 +1,32 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện đóng mới, cải hoán tàu cá
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+5.10.1. Điều kiện cơ sở đóng mới, cải hoán tàu cá vỏ thép
+- Có nhà xưởng, trang thiết bị tối thiểu theo Mục 1 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Có bộ phận giám sát, quản lý chất lượng và đội ngũ cán bộ, công nhân kỹ thuật tối thiểu theo quy định tại Mục 4 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Xây dựng và áp dụng hệ thống quản lý chất lượng; có quy trình công nghệ theo quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+5.10.2. Điều kiện cơ sở đóng mới, cải hoán tàu cá vỏ gỗ
+- Có nhà xưởng, trang thiết bị tối thiểu theo Mục 2 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Có bộ phận giám sát, quản lý chất lượng và đội ngũ cán bộ, công nhân kỹ thuật tối thiểu theo quy định tại Mục 5 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Xây dựng và áp dụng hệ thống quản lý chất lượng; có quy trình công nghệ theo quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+5.10.3. Điều kiện cơ sở đóng mới, cải hoán tàu cá vỏ vật liệu mới
+- Có nhà xưởng, trang thiết bị tối thiểu theo Mục 3 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Có bộ phận giám sát, quản lý chất lượng và đội ngũ cán bộ, công nhân kỹ thuật tối thiểu theo quy định tại Mục 6 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Xây dựng và áp dụng hệ thống quản lý chất lượng; có quy trình công nghệ theo quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+5.10.1. Điều kiện cơ sở đóng mới, cải hoán tàu cá vỏ thép
+- Có nhà xưởng, trang thiết bị tối thiểu theo Mục 1 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Có bộ phận giám sát, quản lý chất lượng và đội ngũ cán bộ, công nhân kỹ thuật tối thiểu theo quy định tại Mục 4 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Xây dựng và áp dụng hệ thống quản lý chất lượng; có quy trình công nghệ theo quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+5.10.2. Điều kiện cơ sở đóng mới, cải hoán tàu cá vỏ gỗ
+- Có nhà xưởng, trang thiết bị tối thiểu theo Mục 2 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Có bộ phận giám sát, quản lý chất lượng và đội ngũ cán bộ, công nhân kỹ thuật tối thiểu theo quy định tại Mục 5 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Xây dựng và áp dụng hệ thống quản lý chất lượng; có quy trình công nghệ theo quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+5.10.3. Điều kiện cơ sở đóng mới, cải hoán tàu cá vỏ vật liệu mới
+- Có nhà xưởng, trang thiết bị tối thiểu theo Mục 3 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Có bộ phận giám sát, quản lý chất lượng và đội ngũ cán bộ, công nhân kỹ thuật tối thiểu theo quy định tại Mục 6 Phụ lục VI ban hành kèm theo Nghị định số 26/2019/NĐ-CP.
+- Xây dựng và áp dụng hệ thống quản lý chất lượng; có quy trình công nghệ theo quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu cá.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

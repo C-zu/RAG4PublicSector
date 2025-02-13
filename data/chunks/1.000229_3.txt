@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận huấn luyện nghiệp vụ cán bộ quản lý an toàn công ty tàu biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||03 ngày làm việc, kể từ ngày kết thúc khóa huấn luyện|
+|Trực tuyến|3 Ngày làm việc||03 ngày làm việc, kể từ ngày kết thúc khóa huấn luyện|
+|Dịch vụ bưu chính|3 Ngày làm việc||03 ngày làm việc, kể từ ngày kết thúc khóa huấn luyện|

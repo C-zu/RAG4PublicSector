@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Sở khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác định công nghệ dự án đầu tư
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|131/2021/NĐ-CP|Nghị định 131/2021/NĐ-CP|30-12-2021||
+|61/2020/QH14|Luật Đầu tư ngày 17 tháng 6 năm 2020|17-06-2020|Ủy ban thường vụ quốc hội|
+|29/2023/QĐ-TTg|Quyết định của Thủ tướng Chính phủ quy định hồ sơ, trình tự, thủ tục xác định dự án đầu tư sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên|19-12-2023|Thủ tướng Chính phủ|

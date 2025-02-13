@@ -1,0 +1,18 @@
+Tên thủ tục: Công bố về sự phù hợp của trung tâm dữ liệu với tiêu chuẩn, quy chuẩn kỹ thuật
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Trung tâm dữ liệu phải áp dụng các tiêu chuẩn và quy chuẩn kỹ thuật sau:
+- Tiêu chuẩn quốc gia TCVN 9250:2021 (hoặc tiêu chuẩn ANSI/TIA-942-B:2017), hoặc tiêu chuẩn Tier của Uptime Institute;
+- Quy chuẩn kỹ thuật quốc gia về chống sét cho các trạm viễn thông và mạng cáp ngoại vi viễn thông, ký hiệu QCVN 32:2020/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về tiếp đất cho các trạm viễn thông, ký hiệu QCVN 9:2016/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình, ký hiệu QCVN 06:2021/BXD.
+Trung tâm dữ liệu phải áp dụng các tiêu chuẩn và quy chuẩn kỹ thuật sau:
+- Tiêu chuẩn quốc gia TCVN 9250:2021 (hoặc tiêu chuẩn ANSI/TIA-942-B:2017), hoặc tiêu chuẩn Tier của Uptime Institute;
+- Quy chuẩn kỹ thuật quốc gia về chống sét cho các trạm viễn thông và mạng cáp ngoại vi viễn thông, ký hiệu QCVN 32:2020/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về tiếp đất cho các trạm viễn thông, ký hiệu QCVN 9:2016/BTTTT;
+- Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình, ký hiệu QCVN 06:2021/BXD.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

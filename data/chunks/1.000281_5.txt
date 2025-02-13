@@ -1,0 +1,25 @@
+Tên thủ tục: Khám giám định mức độ khuyết tật đối với trường hợp Hội đồng xác định mức độ khuyết tật không đưa ra được kết luận về mức độ khuyết tật
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Hội đồng Giám định Y khoa tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Hội đồng Giám định Y khoa tỉnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Biên bản khám giám định y khoa
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|186/2007/NĐ-CP|Nghị định 186/2007/NĐ-CP|25-10-2007|Chính phủ|
+|51/2010/QH12|Luật 51/2010/QH12|17-06-2010|Quốc Hội|
+|28/2012/NĐ-CP|Nghị định 28/2012/NĐ-CP|10-04-2012|Chính phủ|
+|63/2012/NĐ-CP|Nghị định 63/2012/NĐ-CP - Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế|31-08-2012|Chính phủ|
+|34/2012/TTLT-BYT-BLĐTBXH|Thông tư liên tịch 34/2012/TTLT-BYT-BLĐTBXH|28-12-2012|Bộ Y tế|

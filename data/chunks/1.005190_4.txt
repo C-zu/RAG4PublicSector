@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký dấu nghiệp vụ giám định thương mại
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Bản chính Đơn đăng ký dấu nghiệp vụ thực hiện theo mẫu tại Phụ lục ban hành kèm theo Thông tư này (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec44d9979ab79a'">Mau don dang ky dau nghiep vu.docx</a>)
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư trong các trường hợp sau - Bản sao có chứng thực đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện - Bản chụp kèm theo bản chính để đối chiếu đối với trường hợp nộp hồ sơ trực tiếp
+- 01 Bản chính + Các mẫu dấu nghiệp vụ hoặc bản thiết kế các mẫu dấu nghiệp vụ mà thương nhân đăng ký Trường hợp thủ tục hành chính có áp dụng nộp hồ sơ qua mạng điện tử thì thương nhân gửi bản scan từ bản gốc các giấy tờ quy định tại khoản 1 Điều 4 Thông tư số 01/2015/TT-BCT

@@ -1,0 +1,12 @@
+Tên thủ tục: Xác nhận chuyên gia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản cam kết không mang quốc tịch Việt Nam của chuyên gia.
+- 01 Bản sao - Bản sao hộ chiếu (có chứng thực) của chuyên gia và các thành viên trong gia đình chuyên gia, trong đó có trang thị thực nhập cảnh Việt Nam (nếu có) và trang đóng dấu xuất nhập cảnh của cơ quan quản lý xuất nhập cảnh.
+- 01 Bản chính - Bản gốc hoặc bản sao (có chứng thực) các tài liệu sau: (i) Quyết định phê duyệt kết quả đấu thầu dịch vụ tư vấn (cá nhân hoặc nhóm chuyên gia); (ii) Tài liệu đấu thầu đã được cấp có thẩm quyền phê duyệt (bao gồm phần danh sách tư vấn).
+- 01 Bản chính - Văn bản chấp thuận của Bên Việt Nam và Bên nước ngoài trong trường hợp có sự thay đổi và bổ sung so với danh sách chuyên gia, tư vấn trong tài liệu đấu thầu đã được cấp có thẩm quyền phê duyệt.
+- 01 Bản sao - Bản sao hợp đồng tư vấn của chuyên gia (cá nhân hoặc Nhóm chuyên gia) ký với nhà thầu, cơ quan có thẩm quyền Bên Việt Nam hoặc Bên nước ngoài.
+ Cơ quan chủ quản xác nhận chuyên gia theo đúng mẫu quy định trong vòng 15 làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6df08b495487c'">Mẫu số 1_ TT 12.docx</a>)

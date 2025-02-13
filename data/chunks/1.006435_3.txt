@@ -1,0 +1,7 @@
+Tên thủ tục: Tiếp nhận, rà soát biểu mẫu kê khai giá sữa và thực phẩm chức năng dành cho trẻ em dưới 06 tuổi
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||Trường hợp Biểu mẫu có đủ thành phần, nội dung theo quy định, cơ quan tiếp nhận dóng dấu công văn đến có ghi ngày, tháng, năm vào Biểu mẫu và gửi ngay theo đường công văn 01 bản cho thương nhân.|

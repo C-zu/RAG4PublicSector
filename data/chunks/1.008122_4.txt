@@ -1,0 +1,13 @@
+Tên thủ tục: Nhập khẩu thức ăn chăn nuôi chưa được công bố thông tin trên Cổng thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Hồ sơ nhập khẩu thức ăn chăn nuôi để giới thiệu tại hội chợ, triển lãm bao gồm:
+- 01 Bản chính - Đơn đề nghị nhập khẩu thức ăn chăn nuôi để giới thiệu tại hội chợ, triển lãm (theo Mẫu số 07.TĂCN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f99d289cee596a0'">Mẫu số 07 TTHC 11.docx</a>)
+- 01 Bản chính - Văn bản chứng minh về việc tổ chức, tham gia hội chợ, triển lãm tại Việt Nam.
+
+
+* Hồ sơ nhập khẩu thức ăn chăn nuôi để sản xuất, gia công nhằm mục đích xuất khẩu bao gồm:
+- 01 Bản chính - Đơn đề nghị nhập khẩu thức ăn chăn nuôi để sản xuất, gia công nhằm mục đích xuất khẩu (theo Mẫu số 07.TĂCN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8812466e819d4'">Mẫu số 07 TTHC 11.docx</a>)
+- 01 Bản chính - Hợp đồng sản xuất, gia công thức ăn chăn nuôi nhằm mục đích xuất khẩu phù hợp với quy định của pháp luật Việt Nam về nhập khẩu hàng hóa để sản xuất, gia công nhằm mục đích xuất khẩu.

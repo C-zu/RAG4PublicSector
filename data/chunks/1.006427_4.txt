@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đánh giá kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Đối với trường hợp không phải là đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ
+- 01 Bản chính Giấy đề nghị đánh giá, thẩm định kết quả thực hiện nhiệm vụ
+- 01 Bản chính Báo cáo kết quả thực hiện nhiệm vụ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9b8ada859dee0'">Phụ lục 3b - BCKHKTCN-BCKHXHNV.doc</a>)
+- 01 Bản chính Các tài liệu khác (nếu có) liên quan đến kết quả thực hiện nhiệm vụ (giải thưởng về khoa học và công nghệ, hợp đồng thực hiện nhiệm vụ, quyết định giao nhiệm vụ,…)
+
+
+- Đối với trường hợp đặc cách cấp Giấy xác nhận kết quả thực hiện nhiệm vụ:
+- 01 Bản chính + Giấy đề nghị đánh giá, thẩm định kết quả thực hiện nhiệm vụ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfb0ff692c829c'">Phụ lục 1 - GĐN.doc</a>)
+- 01 Bản sao + Bản sao của Bằng khen, Giấy khen, Văn bản cho phép áp dụng của cơ quan có thẩm quyền

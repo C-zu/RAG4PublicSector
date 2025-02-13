@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấm dứt hoạt động địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định của Pháp luật||Tổng cục Hải quan trình Bộ Tài chính ra Quyết định chấm dứt hoạt động của địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa.|
+|Dịch vụ bưu chính|Theo quy định của Pháp luật||Tổng cục Hải quan trình Bộ Tài chính ra Quyết định chấm dứt hoạt động của địa điểm làm thủ tục hải quan tại cảng xuất khẩu, nhập khẩu hàng hóa được thành lập trong nội địa.|

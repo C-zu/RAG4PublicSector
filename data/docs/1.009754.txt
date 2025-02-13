@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009754
+Số quyết định:
+2128/QĐ-UBND
+Tên thủ tục:
+Hỗ trợ người sử dụng lao động vay vốn để trả lương ngừng việc đối với người lao động phải ngừng việc do đại dịch COVID-19
+Cấp thực hiện:
+Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lao động
+Trình tự thực hiện:
+Trường hợp 1:
+Bước 1: Tiếp nhận hồ sơ:	
+Chủ sử dụng lao động nộp hồ sơ tại Trung tâm Hành chính công cấp huyện.  Công chức TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ từ Trung tâm Hành chính công cấp huyện về bộ phận chuyên môn đồng thời chuyển qua phần mềm cho phòng để xử lý.
+Bước 3: UBND cấp huyện thẩm định trình UBND tỉnh xem xét, quyết định (nếu đủ điều kiện)/ hoặc có văn bản trả lời doanh nghiệp nếu chưa đủ điều kiện
+Bước 4: Nộp hồ sơ tại Bộ phận Tiếp nhận và Trả kết quả của Sở Lao động - Thương binh và xã hội tại Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 5: Sở Lao động – Thương binh và Xã hội phối hợp tổ thẩm định hồ sơ cấp tỉnh thẩm định hồ sơ. Nếu hồ sơ đầy đủ, hợp lệ, tổng hợp trình UBND tỉnh. Nếu hồ sơ chưa đầy đủ, hợp lệ thì hướng dẫn hoàn thiện
+Bước 6: Nộp hồ sơ tại Bộ phận Tiếp nhận và Trả kết quả của UBND tỉnh tại Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 7: UBND tỉnh thẩm định, ban hành quyết định phê duyệt Danh sách và kinh phí hỗ trợ chuyển UBND cấp huyện; đồng thời chỉ đạo thực hiện chi trả hỗ trợ/Văn bản trả lời nếu không đủ điều kiện
+Bước 8: Trả hồ sơ cho UBND cấp huyện  đồng thời gửi ngân hàng chính sách xã hội
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Nộp hồ sơ trực tiếp tại Trung tâm Hành chính công cấp huyện nơi có trụ sở hoặc chi nhánh, văn phòng đại diện, địa điểm kinh doanh hoặc cư trú (đối với HKD, cá nhân)|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ qua Cổng dịch vụ công: http://dichvucong.hatinh.gov.vn|
+|Dịch vụ bưu chính|5 Ngày làm việc||Nộp hồ sơ qua bưu điện đến Trung tâm hành chính công cấp nơi có trụ sở hoặc chi nhánh, văn phòng đại diện, địa điểm kinh doanh hoặc cư trú (đối với HKD, cá nhân)|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị xác nhận đối tượng được hưởng chính sách vay vốn để trả lương ngừng việc ([Mẫu Xác nhận đối tượng được hưởng CS vay vốn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee1dadee7ee5fc'))
+- 01 Bản sao Một trong các giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đăng ký Hợp tác xã/hộ kinh doanh; Quyết định thành lập của cơ quan nhà nước có thẩm quyền (nếu có); Giấy phép kinh doanh/Giấy phép hoạt động/Chứng chỉ hành nghề (đối với ngành nghề kinh doanh có điều kiện hoặc pháp luật có quy định); Giấy phép đầu tư/Giấy chứng nhận đầu tư (đối với doanh nghiệp được thành lập bởi nhà đầu tư nướcngoài).
+- 01 Bản chính Báo cáo tài chính năm 2019, quý I năm 2020 (đối với doanh nghiệp và tổ chức).
+- 01 Bản chính Danh sách người lao động phải ngừng việc do người sử dụng lao động lập ([Mẫu DS lao động bị ngừng việc do đại dịch Covid19.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd003bd639fa62e'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Lao động, Thương binh và Xã hội - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+UBND tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm hành chính công cấp huyện
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định của Chủ tịch UBND tỉnh phê đuyệt danh sách và kinh phí hỗ trợ/Văn bản trả lời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2020/QĐ-TTg|Quyết định 15/2020/QĐ-TTg|24-04-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Người chủ sử dụng lao động được hỗ trợ khi có các điều kiện sau
+- Có từ 20% hoặc từ 30 người lao động trở lên đang tham gia bảo hiểm xã hội bắt buộc phải ngừng việc từ 01 tháng liên tục trở lên; đã trả trước tối thiểu 50% tiền lương ngừng việc cho người lao động trong khoảng thời gian từ ngày 01 tháng 4 năm 2020 đến hết ngày 30 tháng 6 năm 2020.
+- Đang gặp khó khăn về tài chính, không cân đối đủ nguồn để trả lương ngừng việc cho người lao động, đã sử dụng hết quỹ dự phòng tiền lương để trả lương cho người lao động ngừngviệc.
+- Không có nợ xấu tại các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại thời điểm ngày 31 tháng 12 năm 2019.
+Người chủ sử dụng lao động được hỗ trợ khi có các điều kiện sau
+- Có từ 20% hoặc từ 30 người lao động trở lên đang tham gia bảo hiểm xã hội bắt buộc phải ngừng việc từ 01 tháng liên tục trở lên; đã trả trước tối thiểu 50% tiền lương ngừng việc cho người lao động trong khoảng thời gian từ ngày 01 tháng 4 năm 2020 đến hết ngày 30 tháng 6 năm 2020.
+- Đang gặp khó khăn về tài chính, không cân đối đủ nguồn để trả lương ngừng việc cho người lao động, đã sử dụng hết quỹ dự phòng tiền lương để trả lương cho người lao động ngừngviệc.
+- Không có nợ xấu tại các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại thời điểm ngày 31 tháng 12 năm 2019.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

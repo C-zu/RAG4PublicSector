@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo về việc thay đổi địa điểm đặt trụ sở, Trưởng Văn phòng đại diện của Trung tâm trọng tài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thông báo

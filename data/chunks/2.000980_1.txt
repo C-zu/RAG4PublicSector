@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy chứng nhận người sở hữu bài thuốc gia truyền và phương pháp chữa bệnh gia truyền thuộc thẩm quyền của Sở Y tế
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000980
+Số quyết định:
+642/QĐ-BYT
+Tên thủ tục:
+Cấp giấy chứng nhận người sở hữu bài thuốc gia truyền và phương pháp chữa bệnh gia truyền thuộc thẩm quyền của Sở Y tế
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh

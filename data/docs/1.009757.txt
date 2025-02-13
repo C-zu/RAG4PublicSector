@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009757
+Số quyết định:
+701/QĐ-BKHĐT
+Tên thủ tục:
+Thủ tục điều chỉnh dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh (BQL)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư hoặc cơ quan nhà nước có thẩm quyền nộp hồ sơ theo quy định tại Khoản 1 Điều 44 Nghị định số 31/2021/NĐ-CP cho Ban quản lý.
+- Bước 2: Ban Quản lý gửi hồ sơ cho cơ quan nhà nước có thẩm quyền theo quy định tại điểm b khoản 4 Điều 33 của Nghị định này để lấy ý kiến về những nội dung điều chỉnh dự án đầu tư;
+- Bước 3: Cơ quan được lấy ý kiến có ý kiến thẩm định về nội dung thuộc phạm vi quản lý nhà nước của mình, gửi Ban quản lý.
+- Bước 4: Ban quản lý lập báo cáo thẩm định các nội dung điều chỉnh, trình Ủy ban nhân dân cấp tỉnh.
+- Bước 5: Khi nhận được báo cáo thẩm định của Ban Quản lý, Ủy ban nhân dân cấp tỉnh quyết định điều chỉnh chủ trương đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Ban quản lý gửi hồ sơ lấy ý kiến thẩm định của các cơ quan có liên quan về những nội dung thuộc phạm vi quản lý nhà nước của cơ quan đó. - Trong thời hạn 15 ngày kể từ ngày nhận được đề nghị của Ban quản lý, cơ quan được lấy ý kiến có ý kiến thẩm định về nội dung thuộc phạm vi quản lý nhà nước của mình, gửi Ban quản lý. - Trong thời hạn 25 ngày kể từ ngày nhận được hồ sơ hợp lệ dự án đầu tư, Ban quản lý lập báo cáo thẩm định trình Ủy ban nhân cấp tỉnh. - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ và báo cáo thẩm định của Ban Quản lý, Ủy ban nhân dân cấp tỉnh quyết định chấp thuận điều chỉnh chủ trương đầu tư.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính.|
+|Dịch vụ bưu chính|- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ theo quy định, Ban quản lý gửi hồ sơ lấy ý kiến thẩm định của các cơ quan có liên quan về những nội dung thuộc phạm vi quản lý nhà nước của cơ quan đó. - Trong thời hạn 15 ngày kể từ ngày nhận được đề nghị của Ban quản lý, cơ quan được lấy ý kiến có ý kiến thẩm định về nội dung thuộc phạm vi quản lý nhà nước của mình, gửi Ban quản lý. - Trong thời hạn 25 ngày kể từ ngày nhận được hồ sơ hợp lệ dự án đầu tư, Ban quản lý lập báo cáo thẩm định trình Ủy ban nhân cấp tỉnh. - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ và báo cáo thẩm định của Ban Quản lý, Ủy ban nhân dân cấp tỉnh quyết định chấp thuận điều chỉnh chủ trương đầu tư.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị điều chỉnh dự án đầu tư; ([Mẫu A.I.11.h.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe00afa828d6cb2'))
+- 01 Bản chính, 03 Bản sao - Báo cáo tình hình triển khai dự án đầu tư đến thời điểm điều chỉnh; ([Mẫu A.I.12.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe88ce76ed0a132'))
+- 01 Bản chính, 03 Bản sao - Quyết định của nhà đầu tư về việc điều chỉnh dự án đầu tư đối với nhà đầu tư là tổ chức;
+- 01 Bản chính, 03 Bản sao - Giải trình hoặc cung cấp tài liệu liên quan đến việc điều chỉnh những nội dung quy định tại các điểm b, c, d, đ, e, g và h khoản 1 Điều 33 của Luật Đầu tư (nếu có).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Ban quản lý
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Tại cơ quan hành chính nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chấp thuận điều chỉnh chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh theo Mẫu A.II.2 ban hành kèm theo Thông tư số 03/2021/TT-BKHĐT
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|31/2021/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư|26-03-2021|Chính phủ|
+|03/2021/TT-BKHĐT|quy định về mẫu văn bản, báo cáo liên quan đến hoạt động đầu tư tại Việt Nam, đầu tư từ Việt Nam ra nước ngoài và xúc tiến đầu|09-04-2021|Bộ Kế hoạch và Đầu tư|
+|61/2020/QH14|Luật Đầu tư|17-06-2020|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Ủy ban nhân dân tỉnh và được nhà đầu tư thực hiện điều chỉnh thuộc một trong các trường hợp:
+- Thay đổi mục tiêu đã được quy định tại văn bản chấp thuận chủ trương đầu tư; bổ sung mục tiêu thuộc diện chấp thuận chủ trương đầu tư;
+-  Thay đổi quy mô diện tích đất sử dụng trên 10% hoặc trên 30 ha, thay đổi địa điểm đầu tư;
+- Thay đổi tổng vốn đầu tư từ 20% trở lên làm thay đổi quy mô dự án đầu tư;
+- Kéo dài tiến độ thực hiện dự án đầu tư mà tổng thời gian đầu tư dự án vượt quá 12 tháng so với tiến độ thực hiện dự án đầu tư quy định tại văn bản chấp thuận chủ trương đầu tư lần đầu;
+- Điều chỉnh thời hạn hoạt động của dự án đầu tư;
+- Thay đổi công nghệ đã được thẩm định, lấy ý kiến trong quá trình chấp thuận chủ trương đầu tư;
+- Thay đổi nhà đầu tư của dự án đầu tư được chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư trước khi dự án khai thác, vận hành hoặc thay đổi điều kiện đối với nhà đầu tư (nếu có).
+Thủ tục này cũng áp dụng đối với dự án đầu tư thuộc diện quyết định chủ trương đầu tư, chấp thuận chủ trương đầu tư hoặc chấp thuận đầu tư theo quy định pháp luật về đầu tư, nhà ở, đô thị và xây dựng trước thời điểm Luật Đầu tư có hiệu lực thi hành (trước 01/01/2021) và đã được cơ quan nhà nước có thẩm quyền chấp thuận hoặc quyết định chủ trương đầu tư trước thời điểm Luật đầu tư có hiệu lực thi hành. Nay, nhà đầu tư điều chỉnh dự án đầu tư thuộc trường hợp quy định tại khoản 3 Điều 41 Luật Đầu tư.
+Dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Ủy ban nhân dân tỉnh và được nhà đầu tư thực hiện điều chỉnh thuộc một trong các trường hợp:
+- Thay đổi mục tiêu đã được quy định tại văn bản chấp thuận chủ trương đầu tư; bổ sung mục tiêu thuộc diện chấp thuận chủ trương đầu tư;
+-  Thay đổi quy mô diện tích đất sử dụng trên 10% hoặc trên 30 ha, thay đổi địa điểm đầu tư;
+- Thay đổi tổng vốn đầu tư từ 20% trở lên làm thay đổi quy mô dự án đầu tư;
+- Kéo dài tiến độ thực hiện dự án đầu tư mà tổng thời gian đầu tư dự án vượt quá 12 tháng so với tiến độ thực hiện dự án đầu tư quy định tại văn bản chấp thuận chủ trương đầu tư lần đầu;
+- Điều chỉnh thời hạn hoạt động của dự án đầu tư;
+- Thay đổi công nghệ đã được thẩm định, lấy ý kiến trong quá trình chấp thuận chủ trương đầu tư;
+- Thay đổi nhà đầu tư của dự án đầu tư được chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư trước khi dự án khai thác, vận hành hoặc thay đổi điều kiện đối với nhà đầu tư (nếu có).
+Thủ tục này cũng áp dụng đối với dự án đầu tư thuộc diện quyết định chủ trương đầu tư, chấp thuận chủ trương đầu tư hoặc chấp thuận đầu tư theo quy định pháp luật về đầu tư, nhà ở, đô thị và xây dựng trước thời điểm Luật Đầu tư có hiệu lực thi hành (trước 01/01/2021) và đã được cơ quan nhà nước có thẩm quyền chấp thuận hoặc quyết định chủ trương đầu tư trước thời điểm Luật đầu tư có hiệu lực thi hành. Nay, nhà đầu tư điều chỉnh dự án đầu tư thuộc trường hợp quy định tại khoản 3 Điều 41 Luật Đầu tư.
+Từ khóa:
+Thủ tục, điều chỉnh dự án đầu tư, thuộc thẩm quyền chấp thuận, chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh
+Mô tả:
+Không có thông tin

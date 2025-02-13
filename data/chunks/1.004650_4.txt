@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục tiếp nhận hồ sơ thông báo sản phẩm quảng cáo trên bảng quảng cáo, băng-rôn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao giấy chứng nhận đăng ký kinh doanh của người kinh doanh dịch vụ quảng cáo hoặc giấy chứng nhận đăng ký kinh doanh của người quảng cáo trong trường hợp tự thực hiện quảng cáo;
+- 01 Bản sao Bản sao giấy tờ chứng minh sự hợp chuẩn, hợp quy của sản phẩm, hàng hoá, dịch vụ theo quy định của pháp luật hoặc giấy tờ chứng minh đủ điều kiện để quảng cáo theo quy định tại Điều 20 của Luật quảng cáo;
+- 01 Bản sao Bản sao văn bản về việc tổ chức sự kiện của đơn vị tổ chức trong trường hợp quảng cáo cho sự kiện, chính sách xã hội;
+- 01 Bản chính Ma-két sản phẩm quảng cáo in mầu có chữ ký của người kinh doanh dịch vụ quảng cáo hoặc chữ ký của người quảng cáo trong trường hợp tự thực hiện quảng cáo. Trong trường hợp người kinh doanh dịch vụ quảng cáo, người quảng cáo là tổ chức thì phải có dấu của tổ chức;
+- 01 Bản chính Văn bản chứng minh quyền sở hữu hoặc quyền sử dụng bảng quảng cáo; quyền sở hữu hoặc quyền sử dụng địa điểm quảng cáo đối với băng-rôn;
+- 01 Bản chính Bản phối cảnh vị trí đặt bảng quảng cáo;
+- 01 Bản sao Bản sao giấy phép xây dựng công trình quảng cáo đối với loại bảng quảng cáo phải có giấy phép xây dựng theo quy định tại khoản 2 Điều 31 của Luật quảng cáo.
+- 01 Bản chính Thông báo sản phẩm quảng cáo trên bảng quảng cáo, băng-rôn (Mẫu số 01 phụ lục III ban hành kèm theo Thông tư số13/2023/TT-BVHTTDL ngày 30/10/2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch sửa đổi, bổ sung quy định liên quan đến giấy tờ công dân tại một số Thông tư do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành).

@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận hoạt động cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị thay đổi, bổ sung, cấp lại Giấy chứng nhận hoạt động (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd350276b78e5b0'">Mẫu 13.docx</a>)
+ + Đối với trường hợp đăng ký cấp lại Giấy chứng nhận hoạt động của văn phòng đại diện, chi nhánh bị mất:
+- 01 Bản chính * Xác nhận của cơ quan công an.
+- 01 Bản chính * Giấy biên nhận của cơ quan báo, đài đã đăng thông báo mất Giấy chứng nhận hoạt động văn phòng đại diện, chi nhánh hoặc tờ báo đã đăng thông báo này.
+- 01 Bản chính + Đối với trường hợp đăng ký cấp lại Giấy chứng nhận hoạt động của văn phòng đại diện, chi nhánh bị rách, nát: Bản chính Giấy chứng nhận đăng ký hoạt động bị rách, nát.

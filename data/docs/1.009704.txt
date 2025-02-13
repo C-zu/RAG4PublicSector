@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009704
+Số quyết định:
+3249/QĐ-UBND
+Tên thủ tục:
+Lập, thẩm định, quyết định phê duyệt khoản viện trợ là chương trình, dự án hỗ trợ kỹ thuật sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài thuộc thẩm quyền quyết định của Ủy ban nhân dân cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo sở ký duyệt. 
+- Trường hợp, hồ sơ đáp ứng yêu cầu, làm văn bản lấy ý kiến thẩm định các Sở ban ngành liên quan 
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức, cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 13
++ Gửi văn bản đến các sở, ban, ngành (nếu hồ sơ đủ điều kiện). Chuyển sang thực hiện B6
+B6	Các Sở ban ngành liên quan và địa phương góp ý thẩm định hồ sơ
+B7	Tổng hợp ý kiến góp ý, soạn thảo Tờ trình (đồng thời là ý kiến thẩm định của SKHĐT) và dự thảo Quyết định phê duyệt tiếp nhận của UBND tỉnh.
+
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy
+B9	Lãnh đạo Sở xem xét ký duyệt
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết
+B11	Chủ tịch Ủy ban nhân dân tỉnh xem xét, phê duyệt Quyết định 
+
+B12	Nhận kết quả từ UBND tỉnh chuyển sang TTPVHCC;
+Cập nhật theo dõi xử lý hồ sơ.
+B13	Trả kết quả cho tổ chức
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc|Phí : 0 Đồng|- Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh; - Qua Bưu điện; - Qua mạng điện tử theo quy trình trên dịch vụ công của tỉnh, tại địa chỉ: dichvucong.hatinh.gov.vn.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Văn bản đề nghị phê duyệt chương trình, dự án
+- 02 Bản chính Văn bản nhất trí cung cấp viện trợ của Bên cung cấp viện trợ
+- 02 Bản chính Văn kiện chương trình, dự án
+- 02 Bản sao Giấy tờ chứng minh tư cách pháp nhân (không áp dụng với trường hợp Bên cung cấp viện trợ là các cơ quan đại diện ngoại giao, các cơ quan thuộc chính phủ, chính quyền địa phương nước ngoài). + Đối với các tổ chức phi chính phủ nước ngoài đã đăng ký tại Việt Nam: Bản sao Giấy đăng ký do cơ quan nhà nước Việt Nam có thẩm quyền cấp; + Đối với cá nhân cung cấp viện trợ: Bản sao công chứng hộ chiếu còn hiệu lực; + Đối với các bên cung cấp viện trợ khác: Bản sao công chứng giấy tờ hợp lệ chứng minh địa vị pháp lý của tổ chức.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS:
+Trung tâm hành chính công tỉnh Hà Tĩnh, số 02 A đường nguyễn Chí Thanh, TP hà Tĩnh, tỉnh Hà TĨnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao hợp lệ quyết định phê duyệt tiếp nhận viện trợ của cơ quan có thẩm quyền và tài liệu về lô hàng xin nhập khẩu;
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|80/2020/NĐ-CP|Nghị định 80/2020/NĐ-CP|08-07-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

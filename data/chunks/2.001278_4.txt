@@ -1,0 +1,28 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, cơ sở vừa sản xuất vừa kinh doanh sản phẩm thực phẩm do Bộ Công Thương thực hiện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Trường hợp đề nghị cấp lại Giấy chứng nhận do bị mất hoặc bị hỏng
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp lại. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feda36f1ba2ff01'">Mẫu số 1b.docx</a>)
+
+
+b) Trường hợp đề nghị cấp lại Giấy chứng nhận do cơ sở thay đổi địa điểm sản xuất, kinh doanh; thay đổi, bổ sung quy trình sản xuất, mặt hàng kinh doanh hoặc khi Giấy chứng nhận hết hiệu lực
+- 01 Bản chính - Đơn đề nghị cấp lại; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedcf5dffaefd19'">Mẫu số 1b.docx</a>)
+- 01 Bản sao - Bảo sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật.
+- 01 Bản chính, 01 Bản sao - Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm; Mẫu số 02a (đối với cơ sở sản xuất) hoặc cả Mẫu số 02a và Mẫu số 02b (đối với cơ sở vừa sản xuất vừa kinh doanh) Mục I tại Phụ lục ban hành kèm theo Nghị định số 17/2020/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd38bff993d0224'">Mẫu số 2a.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febbe6131531314'">Mẫu số 2b.docx</a>)
+- 01 Bản chính, 01 Bản sao - Danh sách tổng hợp đủ sức khỏe do chủ cơ sở xác nhận hoặc giấy xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở y tế cấp huyện trở lên cấp;
+- 01 Bản chính, 01 Bản sao - Giấy xác nhận đã được tập huấn kiến thức về an toàn thực phẩm của người trực tiếp sản xuất, kinh doanh thực phẩm có xác nhận của cơ sở.
+- 01 Bản chính, 01 Bản sao Báo cáo kết quả khắc phục theo Mẫu số 04 Mục I tại Phụ lục ban hành kèm theo Nghị định số 17/2020/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4349da80dfa74'">Mẫu số 4.docx</a>)
+
+
+c) Trường hợp đề nghị cấp lại Giấy chứng nhận do thay đổi tên cơ sở nhưng không thay đổi chủ cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh:
+- 01 Bản chính - Đơn đề nghị cấp lại; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda23ce2e8b0552'">Mẫu số 1b.docx</a>)
+- 01 Bản sao - Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đã được cấp (bản sao có xác nhận của cơ sở);
+- 01 Bản chính, 01 Bản sao - Tài liệu chứng minh sự thay đổi tên cơ sở.
+
+
+d) Trường hợp đề nghị cấp lại Giấy chứng nhận do thay đổi chủ cơ sở nhưng không thay đổi tên cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh:
+- 01 Bản chính - Đơn đề nghị cấp lại; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1d278b3599bdf'">Mẫu số 1b.docx</a>)
+- 01 Bản sao - Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đã được cấp (bản sao có xác nhận của cơ sở);
+- 01 Bản sao - Danh sách tổng hợp đủ sức khỏe do chủ cơ sở xác nhận hoặc giấy xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất thực phẩm do cơ sở y tế cấp huyện trở lên cấp (bản sao có xác nhận của cơ sở).

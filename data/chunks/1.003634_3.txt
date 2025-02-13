@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đăng ký tàu cá
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|03 Ngày làm việc||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|03 Ngày làm việc||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|

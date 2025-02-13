@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp giấy chứng nhận số nhà (cấp lần đầu)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000195
+Số quyết định:
+1380
+Tên thủ tục:
+Cấp giấy chứng nhận số nhà (cấp lần đầu)
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Hạ tầng kỹ thuật

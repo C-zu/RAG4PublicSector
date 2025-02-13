@@ -1,0 +1,9 @@
+Tên thủ tục: Hủy tư cách công ty đại chúng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e25470eb2c2b'">272-2016-TT-BTC.pdf</a>|+ 01 (một) năm kể từ ngày công ty không còn đáp ứng được các điều kiện là công ty đại chúng. + 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ đối với công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp|
+|Trực tuyến|15 Ngày|Phí : Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e25470eb2c2b'">272-2016-TT-BTC.pdf</a>|+ 01 (một) năm kể từ ngày công ty không còn đáp ứng được các điều kiện là công ty đại chúng. + 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ đối với công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp|
+|Dịch vụ bưu chính|15 Ngày|Phí : Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e25470eb2c2b'">272-2016-TT-BTC.pdf</a>|+ 01 (một) năm kể từ ngày công ty không còn đáp ứng được các điều kiện là công ty đại chúng. + 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ hủy tư cách công ty đại chúng đầy đủ và hợp lệ đối với công ty đại chúng sau tách, nhận sáp nhập doanh nghiệp|

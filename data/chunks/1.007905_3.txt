@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo phát hành Biên lai.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|10 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Trong thời hạn 10 ngày kể từ ngày nhận được Thông báo phát hành Biên lai và Biên lai mẫu, Cục Hải quan tỉnh, thành phố nơi nhận Thông báo phát hành Biên lai của Doanh nghiệp phải thông báo thông tin phát hành Biên lai trên trang thông tin điện tử của ngành hải quan.|
+|Dịch vụ bưu chính|10 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Trong thời hạn 10 ngày kể từ ngày nhận được Thông báo phát hành Biên lai và Biên lai mẫu, Cục Hải quan tỉnh, thành phố nơi nhận Thông báo phát hành Biên lai của Doanh nghiệp phải thông báo thông tin phát hành Biên lai trên trang thông tin điện tử của ngành hải quan.|

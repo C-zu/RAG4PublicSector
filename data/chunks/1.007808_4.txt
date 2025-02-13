@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục kiểm tra và xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 33/2023/TT-BTC ngày 31/5/2023
+- 01 Bản sao Bảng kê khai chi phí sản xuất theo mẫu tại Phụ lục II và Bảng khai báo xuất xứ của nhà sản xuất/nhà cung cấp nguyên liệu trong nước theo mẫu tại Phụ lục III ban hành kèm Thông tư trong trường hợp nguyên liệu, vật tư đó được sử dụng cho một công đoạn tiếp theo để sản xuất ra một hàng hóa khác
+- 01 Bản sao Quy trình sản xuất hoặc Giấy chứng nhận phân tích thành phần (nếu có)
+- 01 Bản sao Catalogue hoặc hình ảnh hàng hóa

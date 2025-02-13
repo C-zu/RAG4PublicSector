@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký lưu hành bổ sung do thay đổi tác dụng, chỉ tiêu chất lượng, phương pháp sử dụng chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị đăng ký lưu hành bổ sung theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3ef6e9053977c'">Mau 05 MTYT 5083.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Phiếu trả lời kết quả khảo nghiệm (trừ trường hợp thay đổi hạn sử dụng của chế phẩm);
+- 01 Bản chính, 01 Bản sao 3. Tài liệu nghiên cứu độ ổn định (đối với trường hợp thay đổi hạn sử dụng của chế phẩm);
+- 01 Bản chính, 01 Bản sao 4. Kết quả kiểm nghiệm thành phần và hàm lượng hoạt chất (đối với trường hợp thay đổi thành phần và hàm lượng hoạt chất);
+- 01 Bản sao 5. Mẫu nhãn mới của chế phẩm.

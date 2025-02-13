@@ -1,0 +1,9 @@
+Tên thủ tục: Giao quyền đăng ký đối với giống cây trồng là kết quả của nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Ngày||24 ngày kể từ ngày nhận hồ sơ đầy đủ|
+|Trực tuyến|24 Ngày||24 ngày kể từ ngày nhận hồ sơ đầy đủ|
+|Dịch vụ bưu chính|24 Ngày||24 ngày kể từ ngày nhận hồ sơ đầy đủ|

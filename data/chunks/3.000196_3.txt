@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại giấy chứng nhận số nhà
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|10 Ngày làm việc|Phí : Miễn phí Đồng Theo quy định tại Quyết định số 2335/2012/QĐ-UBND ngày 31/12/2012 của UBND tỉnh Bắc Kạn  Lệ phí : 20000 Đồng Theo quy định tại Quyết định số 2335/2012/QĐ-UBND ngày 31/12/2012 của UBND tỉnh Bắc Kạn|10 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ|

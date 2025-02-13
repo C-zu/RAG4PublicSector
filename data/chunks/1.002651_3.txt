@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu trang thiết bị y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Lệ phí : 500.000 Đồng Thiết bị y tế nhập khẩu trị giá dưới 1 tỷ đồng: 500.000 đồng/mặt hàng/lần  Lệ phí : 3.000.000 Đồng Thiết bị y tế nhập khẩu trị giá từ 1 tỷ đến 3 tỷ đồng: 1.000.000 đồng/mặt hàng/lần  Lệ phí : 200.000 Đồng Dụng cụ y tế, vật tư cấy ghép nhập khẩu: 200.000 đồng/mặt hàng/lần (Theo Thông tư số 03/2013/TT-BTC ngày 08/01/2013 quy định phí thẩm định kinh doanh thương mại có điều kiện; thẩm định tiêu chuẩn, điều kiện hành nghề y, dược; lệ phí cấp giấy phép xuất, nhập khẩu trang thiết bị y tế, dược phẩm; cấp chứng chỉ hành nghề y; cấp giấy phép hoạt động đối với cơ sở khám, chữa bệnh)|10 ngày kể từ ngày có biên bản họp của Hội đồng tư vấn.|
+|Dịch vụ bưu chính|10 Ngày|Lệ phí : 500.000 Đồng Thiết bị y tế nhập khẩu trị giá dưới 1 tỷ đồng: 500.000 đồng/mặt hàng/lần  Lệ phí : 3.000.000 Đồng Thiết bị y tế nhập khẩu trị giá từ 1 tỷ đến 3 tỷ đồng: 1.000.000 đồng/mặt hàng/lần  Lệ phí : 200.000 Đồng Dụng cụ y tế, vật tư cấy ghép nhập khẩu: 200.000 đồng/mặt hàng/lần (Theo Thông tư số 03/2013/TT-BTC ngày 08/01/2013 quy định phí thẩm định kinh doanh thương mại có điều kiện; thẩm định tiêu chuẩn, điều kiện hành nghề y, dược; lệ phí cấp giấy phép xuất, nhập khẩu trang thiết bị y tế, dược phẩm; cấp chứng chỉ hành nghề y; cấp giấy phép hoạt động đối với cơ sở khám, chữa bệnh)|10 ngày kể từ ngày có biên bản họp của Hội đồng tư vấn.|

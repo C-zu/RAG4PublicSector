@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục trao quyền sử dụng chỉ dẫn địa lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 01 bộ
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị trao quyền sử dụng chỉ dẫn địa lý
+- 01 Bản chính, 01 Bản sao - Quyết định cho phép thành lập tổ chức hoặc Giấy chứng nhận, đầu tư, giấy chứng nhận đăng ký kinh doanh do cơ quan Nhà nước có thẩm quyền cấp (bản sao kèm theo bản gốc để đối chiếu khi nộp hoặc bản sao công chứng);
+- 01 Bản chính, 01 Bản sao - Cam kết sản xuất sản phẩm theo quy trình bắt buộc và chất lượng sản phẩm đảm bảo chất lượng đã được bảo hộ;
+- 01 Bản chính, 01 Bản sao - Quy chế quản lý nội bộ chỉ dẫn địa lý của tổ chức tập thể;
+- 01 Bản chính, 01 Bản sao - Mẫu bao bì nhãn hiệu sản phẩm (nếu có).

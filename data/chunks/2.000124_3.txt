@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp chứng chỉ hành nghề hoạt động đấu thầu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 15 ngày, kể từ ngày công bố kết quả thi hoặc kết quả phúc khảo, cá nhân đáp ứng điều kiện sẽ được cấp chứng chỉ hành nghề hoạt động đấu thầu.|Lệ phí : 0 Đồng Không có|- Việc cấp chứng chỉ hành nghề được thực hiện trực tiếp tại cơ quan Bộ Kế hoạch và Đầu tư, chứng chỉ hành nghề hoạt động đấu thầu sẽ được gửi qua đường bưu điện, trường hợp thí sinh đến nhận thì phải xuất trình giấy tờ tùy thân và ký nhận vào danh sách.|
+|Trực tuyến|Trong thời hạn 15 ngày, kể từ ngày công bố kết quả thi hoặc kết quả phúc khảo, cá nhân đáp ứng điều kiện sẽ được cấp chứng chỉ hành nghề hoạt động đấu thầu.|Lệ phí : 0 Đồng Không có|- Việc cấp chứng chỉ hành nghề được thực hiện trực tiếp tại cơ quan Bộ Kế hoạch và Đầu tư, chứng chỉ hành nghề hoạt động đấu thầu sẽ được gửi qua đường bưu điện, trường hợp thí sinh đến nhận thì phải xuất trình giấy tờ tùy thân và ký nhận vào danh sách.|
+|Dịch vụ bưu chính|Trong thời hạn 15 ngày, kể từ ngày công bố kết quả thi hoặc kết quả phúc khảo, cá nhân đáp ứng điều kiện sẽ được cấp chứng chỉ hành nghề hoạt động đấu thầu.|Lệ phí : 0 Đồng Không có|- Việc cấp chứng chỉ hành nghề được thực hiện trực tiếp tại cơ quan Bộ Kế hoạch và Đầu tư, chứng chỉ hành nghề hoạt động đấu thầu sẽ được gửi qua đường bưu điện, trường hợp thí sinh đến nhận thì phải xuất trình giấy tờ tùy thân và ký nhận vào danh sách.|

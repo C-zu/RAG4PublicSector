@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp, cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Bước 1: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt.
+b) Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+- Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+- Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung.
+c) Bước 3: Thẩm định và cấp, cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng:
+	- Trường hợp cấp Quyết định công nhận lưu hành đặc cách giống cây trồng:
+	+ Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định hồ sơ và cấp Quyết định công nhận lưu hành đặc cách giống cây trồng theo Mẫu số 04.ĐC Phụ lục III ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. 
+	+ Nếu không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+- Trường hợp cấp lại Quyết định công nhận lưu hành đặc cách giống cây trồng:
+	+ Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định hồ sơ và cấp Quyết định công nhận lưu hành đặc cách giống cây trồng theo Mẫu số 03.ĐC Phụ lục III ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. 
+	+ Nếu không cấp phải trả lời bằng văn bản và nêu rõ lý do

@@ -1,0 +1,8 @@
+Tên thủ tục: Quyết định sử dụng tài sản công để tham gia dự án đầu tư theo hình thức đối tác công - tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|67 Ngày làm việc||- Bước 2: Không quá 30 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ. - Bước 3: Không quá 30 ngày, kể từ ngày nhận được văn bản lấy ý kiến. - Bước 4: Không quá 7 ngày làm việc, kể từ ngày nhận được ý kiến của Bộ Tài chính, Thường trực Hội đồng nhân dân cấp tỉnh.|
+|Dịch vụ bưu chính|67 Ngày làm việc||- Bước 2: Không quá 30 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ. - Bước 3: Không quá 30 ngày, kể từ ngày nhận được văn bản lấy ý kiến. - Bước 4: Không quá 7 ngày làm việc, kể từ ngày nhận được ý kiến của Bộ Tài chính, Thường trực Hội đồng nhân dân cấp tỉnh.|

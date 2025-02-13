@@ -1,0 +1,34 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện sản xuất phân bón
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+(i) Trường hợp Giấy chứng nhận đủ điều kiện sản xuất phân bón hết hạn: * Trước thời hạn 03 tháng kể từ ngày Giấy chứng nhận đủ điều kiện sản xuất phân bón hết hạn, tổ chức, cá nhân sản xuất phân bón có nhu cầu tiếp tục sản xuất phân bón phải nộp hồ sơ gồm:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4d2ba641bd308'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản thuyết minh về điều kiện sản xuất phân bón theo Mẫu số 09 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd8637d163a754'">Mẫu số 09.doc</a>)
+- 01 Bản chính, 01 Bản sao - Bản chụp bằng tốt nghiệp đại học trở lên của người trực tiếp điều hành sản xuất quy định tại điểm e khoản 2 Điều 41 Luật Trồng trọt.
+- 01 Bản chính * Trường hợp hồ sơ không thay đổi: Tổ chức, cá nhân nộp Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP.
+
+
+(ii) Trường hợp Giấy chứng nhận bị mất, hư hỏng:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbb55278b5560d0'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản chính Giấy chứng nhận đã được cấp (trường hợp Giấy chứng nhận bị hư hỏng).
+
+
+(iii) Trường hợp thay đổi nội dung thông tin tổ chức, cá nhân ghi trên Giấy chứng nhận:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7585be2038af5'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản chính Giấy chứng nhận đã được cấp.
+
+
+(iv) Trường hợp thay đổi về địa điểm sản xuất phân bón:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea3e9debe8a058'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản thuyết minh về điều kiện sản xuất phân bón theo Mẫu số 09 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c3701d57748e'">Mẫu số 09.doc</a>)
+- 01 Bản sao - Bản chụp bằng tốt nghiệp đại học trở lên của người trực tiếp điều hành sản xuất quy định tại điểm e khoản 2 Điều 41 Luật Trồng trọt.
+- 01 Bản chính - Bản chính Giấy chứng nhận đã được cấp.
+
+
+v) Trường hợp thay đổi về loại phân bón, dạng phân bón, công suất sản xuất trong Giấy chứng nhận đủ điều kiện sản xuất phân bón:
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Phụ lục I ban hành kèm theo Nghị định số 130/2022/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0ec79db3c28d8'">Phụ lục I.docx</a>)
+- 01 Bản chính - Bản thuyết minh về điều kiện sản xuất phân bón theo Mẫu số 09 tại Phụ lục I ban hành kèm theo Nghị định số 84/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9276b9b4135ed'">Mẫu số 09.doc</a>)
+- 01 Bản chính - Bản chính Giấy chứng nhận đủ điều kiện sản xuất phân bón đã được cấp.
+ Quy định về các loại thành phần hồ sơ: - Trường hợp nộp hồ sơ trực tiếp, qua dịch vụ bưu chính: Các thành phần hồ sơ phải là bản chính hoặc bản sao từ sổ gốc hoặc bản sao chứng thực hoặc nộp bản sao xuất trình bản chính để đối chiếu. - Trường hợp nộp hồ sơ qua môi trường mạng: Các thành phần hồ sơ phải được scan, chụp từ bản chính.

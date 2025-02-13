@@ -1,0 +1,9 @@
+Tên thủ tục: Tạm ngừng, đình chỉ hoạt động, chấm dứt kinh doanh tại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ (do Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc giao quản lý)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định khi thực hiện thủ tục “Thông báo tạm ngừng kinh doanh”.|Phí : Đồng Theo quy định khi thực hiện thủ tục “Thông báo tạm ngừng kinh doanh”|Trực tiếp tại trụ sở cơ quan hành chính nhà nước|
+|Trực tuyến|Theo quy định khi thực hiện thủ tục “Thông báo tạm ngừng kinh doanh"|Phí : Đồng Theo quy định khi thực hiện thủ tục “Thông báo tạm ngừng kinh doanh"|Thông qua hệ thống tiếp nhận văn bản điện tử e-office|
+|Dịch vụ bưu chính|Theo quy định khi thực hiện thủ tục “Thông báo tạm ngừng kinh doanh"|Phí : Đồng Theo quy định khi thực hiện thủ tục “Thông báo tạm ngừng kinh doanh"|Qua đường bưu điện|

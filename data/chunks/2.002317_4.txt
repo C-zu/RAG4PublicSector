@@ -1,0 +1,9 @@
+Tên thủ tục: Cung cấp dữ liệu đất đai
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị của tổ chức, cá nhân đề nghị cung cấp dữ liệu đất đai
+- 01 Bản chính, 01 Bản sao Phiếu đề nghị cung cấp dữ liệu đất đai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed7a6d76445234'">Mau so 01-PYC.pdf</a>)
+- 01 Bản chính, 01 Bản sao Hợp đồng cung cấp dữ liệu đất đai (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0fb4ad1d8bc97'">Mau so 02 Hop dong cung cap du lieu dat dai.pdf</a>)

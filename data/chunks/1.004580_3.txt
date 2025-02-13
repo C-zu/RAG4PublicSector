@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục công nhận cơ sở kinh doanh dịch vụ mua sắm đạt tiêu chuẩn phục vụ khách du lịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Lệ phí : 1.000.000 Đồng 1.000.000 đồng/hồ sơ (Thông tư số 34/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính)*.  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8e31c298054ce'">TT-so-342018TT-BTC.pdf</a>|20 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày|Lệ phí : 1.000.000 Đồng 1.000.000 đồng/hồ sơ (Thông tư số 34/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính)*.  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd39f44c50263fc'">TT-so-342018TT-BTC.pdf</a>|20 ngày kể từ ngày nhận được hồ sơ hợp lệ.|

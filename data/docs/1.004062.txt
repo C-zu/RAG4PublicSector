@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004062
+Số quyết định:
+5083/QĐ-BYT
+Tên thủ tục:
+Công bố cơ sở đủ điều kiện khảo nghiệm chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y tế Dự phòng
+Trình tự thực hiện:
+Bước 1: Trước khi thực hiện khảo nghiệm lần đầu tiên, cơ sở khảo nghiệm thông báo gồm các giấy tờ theo quy định tại Điều 15 Nghị định số 91/2016/NĐ-CP của Chính phủ và Nghị định số 155/2018/NĐ-CP của Chính phủ đến Cục Quản lý môi trường y tế. Trường hợp Cục Quản lý môi trường y tế triển khai hệ thống trực tuyến thì cơ sở thông báo bằng hình thức trực tuyến.
+Bước 2: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được thông báo của cơ sở khảo nghiệm, Cục Quản lý môi trường y tế có trách nhiệm công khai trên trang thông tin điện tử của Bộ Y tế các thông tin: Tên, địa chỉ, số điện thoại liên hệ của cơ sở khảo nghiệm; danh mục các quy trình khảo nghiệm mà cơ sở khảo nghiệm công bố đủ điều kiện thực hiện khảo nghiệm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong ngày tiếp nhận hồ sơ||Nộp trực tiếp tại Bộ phận một cửa, Bộ Y tế.|
+|Trực tuyến|Trong ngày tiếp nhận hồ sơ||Nộp hồ sợ trực tuyến tại Cổng dịch vụ công quốc gia hoặc bộ phận một cửa Bộ Y tế|
+|Dịch vụ bưu chính|Trong ngày tiếp nhận hồ sơ||Gửi qua đường bưu điện.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1.Văn bản công bố đủ điều kiện thực hiện khảo nghiệm theo Mẫu số 03 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP ([Mau 03 MTYT 5083.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde2cf2c591c8d6'))
+- 01 Bản chính 2. Danh mục tên các quy trình khảo nghiệm mà cơ sở có khả năng thực hiện có xác nhận của cơ sở khảo nghiệm.
+- 01 Bản chính 3. Bản kê khai nhân sự theo mẫu quy định tại Phụ lục II ban hành kèm theo Nghị định số 91/2016/NĐ-CP. ([Phu luc II MTYT 5083.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9e6659e40857e0'))
+- 01 Bản sao 4. Bản sao hợp lệ Giấy chứng nhận đạt tiêu chuẩn ISO 17025: 2005 hoặc tiêu chuẩn ISO 15189: 2012 hoặc phiên bản cập nhật.
+- 01 Bản chính 5. Danh mục phương tiện, trang thiết bị phục vụ hoạt động khảo nghiệm có xác nhận của cơ sở khảo nghiệm.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Môi trường Y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công bố thông tin trên trang thông tin điện tử
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|68/2014/QH13|Luật 68/2014/QH13|26-11-2014|Quốc Hội|
+|36/2005/QH11|Luật 36/2005/QH11 - Thương mại|14-06-2005|Quốc Hội|
+|06/2007/QH12|Luật 06/2007/QH12 - Hóa chất|21-11-2007|Quốc Hội|
+|91/2016/NĐ-CP|Nghị định 91/2016/NĐ-CP-Về quản lý hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13 -Đầu tư|26-11-2014|Quốc Hội|
+|28/2018/QH14|Luật 28/2018/QH14|15-06-2018||
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018||
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC|14-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Khoản 1 và điểm c Khoản 3 Điều 14 Nghị định số 91/2016/NĐ-CP và Khoản 7 và Khoản 8 Điều 9 Nghị định số 155/2018/NĐ-CP
+1. Là cơ sở y tế.
+2. Yêu cầu về nhân sự:
+Người phụ trách bộ phận khảo nghiệm có ít nhất 03 năm kinh nghiệm trong lĩnh vực khảo nghiệm chế phẩm;
+3. Yêu cầu về cơ sở vật chất:
+a) Có phòng khảo nghiệm được quản lý, vận hành theo tiêu chuẩn ISO 17025:2005 hoặc tiêu chuẩn ISO 15189:2012 hoặc phiên bản cập nhật. Trường hợp có hoạt động dịch vụ thử nghiệm thì hoạt động thử nghiệm phải được đăng ký theo quy định của pháp luật về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp;
+b) Có các chủng côn trùng, vi khuẩn, vi rút đủ cho quy trình khảo nghiệm.
+Khoản 1 và điểm c Khoản 3 Điều 14 Nghị định số 91/2016/NĐ-CP và Khoản 7 và Khoản 8 Điều 9 Nghị định số 155/2018/NĐ-CP
+1. Là cơ sở y tế.
+2. Yêu cầu về nhân sự:
+Người phụ trách bộ phận khảo nghiệm có ít nhất 03 năm kinh nghiệm trong lĩnh vực khảo nghiệm chế phẩm;
+3. Yêu cầu về cơ sở vật chất:
+a) Có phòng khảo nghiệm được quản lý, vận hành theo tiêu chuẩn ISO 17025:2005 hoặc tiêu chuẩn ISO 15189:2012 hoặc phiên bản cập nhật. Trường hợp có hoạt động dịch vụ thử nghiệm thì hoạt động thử nghiệm phải được đăng ký theo quy định của pháp luật về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp;
+b) Có các chủng côn trùng, vi khuẩn, vi rút đủ cho quy trình khảo nghiệm.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

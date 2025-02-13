@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định Thiết kế Bản vẽ thi công – Dự toán công trình.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|18 Ngày làm việc|||

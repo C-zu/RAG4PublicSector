@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo chấm dứt hoạt động bán hàng đa cấp tại địa phương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||1. TRƯỜNG HỢP DOANH NGHIỆP TỰ NGUYỆN CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ 2. TRƯỜNG HỢP DOANH NGHIỆP CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CẤP DO XÁC NHẬN ĐĂNG KÝ HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG BỊ THU HỒI: 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|10 Ngày làm việc||1. TRƯỜNG HỢP DOANH NGHIỆP TỰ NGUYỆN CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ 2. TRƯỜNG HỢP DOANH NGHIỆP CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CẤP DO XÁC NHẬN ĐĂNG KÝ HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG BỊ THU HỒI: 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc||1. TRƯỜNG HỢP DOANH NGHIỆP TỰ NGUYỆN CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG: 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ 2. TRƯỜNG HỢP DOANH NGHIỆP CHẤM DỨT HOẠT ĐỘNG BÁN HÀNG ĐA CẤP DO XÁC NHẬN ĐĂNG KÝ HOẠT ĐỘNG BÁN HÀNG ĐA CẤP TẠI ĐỊA PHƯƠNG BỊ THU HỒI: 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

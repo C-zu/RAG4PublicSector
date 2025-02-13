@@ -1,0 +1,8 @@
+Tên thủ tục: Thi đua khen thưởng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|||- Thời hạn giải quyết thủ tục khen thưởng định kỳ của mỗi đợt xét khen thưởng là 30 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định; - Thời hạn giải quyết thủ tục khen thưởng đột xuất là 15 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|||- Thời hạn giải quyết thủ tục khen thưởng định kỳ của mỗi đợt xét khen thưởng là 30 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định; - Thời hạn giải quyết thủ tục khen thưởng đột xuất là 15 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.|

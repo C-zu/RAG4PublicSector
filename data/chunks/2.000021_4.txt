@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép khai thác nước mặt, nước biển (đối với các trường hợp quy định tại khoản 1 Điều 15 Nghị định số 54/2024/NĐ-CP ngày 16 tháng 5 năm 2024)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép theo Mẫu 05, Mẫu 07 Phụ lục I, Nghị định số 54/2024/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42ed68b03654b'">Mau 05.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec77b28b636090'">Mau 07.doc</a>)
+- 01 Bản chính Đề án khai thác nước theo Mẫu 42, Mẫu 46 (đối với trường hợp công trình chưa khai thác nước), Mẫu 43, Mẫu 47 (đối với trường hợp công trình đã khai thác nước), Mẫu 44 (đối với trường hợp công trình thủy lợi gồm: hồ chứa, đập dâng, trạm bơm, cống thủy lợi,… vận hành trước năm 2013), Phụ lục I, Nghị định số 54/2024/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc70f0ca544d95c'">Mau 42.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7a7323db2023d'">Mau 43.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feec2539cd9a767'">Mau 44.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febe7b26de67458'">Mau 46.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fce92bb96d53104'">Mau 47.doc</a>)
+- 01 Bản chính Sơ đồ vị trí công trình khai thác nước .
+- 01 Bản chính Kết quả phân tích chất lượng nguồn nước không quá 6 tháng tính đến thời điểm nộp hồ sơ (trừ khai thác nước biển; trừ khai thác nước mặt cho thủy điện, làm mát máy, thiết bị, tạo hơi, gia nhiệt, ngăn mặn, tạo nguồn, chống ngập, tạo cảnh quan, thi công công trình)
+- 01 Bản chính Hồ sơ lấy ý kiến và văn bản tổng hợp tiếp thu, giải trình ý kiến cộng đồng (đối với trường hợp phải lấy ý kiến đại diện cộng đồng dân cư, tổ chức, cá nhân theo quy định tại điểm a, b và điểm c khoản 1 Điều 3 Nghị định số 54/2024/NĐ-CP)

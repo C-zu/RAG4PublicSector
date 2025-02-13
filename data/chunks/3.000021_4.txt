@@ -1,0 +1,9 @@
+Tên thủ tục: Khấu trừ tiền bồi thường, giải phóng mặt bằng vào tiền sử dụng đất, tiền thuê đất trong Khu Công nghệ cao
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản của người sử dụng đất đề nghị được trừ tiền bồi thường, giải phóng mặt bằng vào tiền thuê đất phải nộp (bản chính).
+- 01 Bản sao - Phương án bồi thường, giải phóng mặt bằng được cơ quan nhà nước có thẩm quyền phê duyệt (bản sao).
+- 01 Bản sao - Quyết định phê duyệt quyết toán chi phí bồi thường, giải phóng mặt bằng của cơ quan nhà nước có thẩm quyền (bản sao).

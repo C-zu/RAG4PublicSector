@@ -1,0 +1,18 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký đầu tư ra nước ngoài đối với dự án không thuộc diện chấp thuận chủ trương đầu tư ra nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp nộp trực tiếp và qua hệ thống bưu chính công ích
+- 01 Bản chính, 02 Bản sao 1. Bản đề nghị điều chỉnh Giấy chứng nhận đăng ký đầu tư ra nước ngoài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb7fe9bcfb4a860'">Mẫu B.I.3.docx</a>)
+- 01 Bản chính, 02 Bản sao 2. Tài liệu về tư cach pháp lý của nhà đầu tư;
+- 01 Bản chính, 02 Bản sao 3. Báo cáo tình hình hoạt động của dự án đầu tư đến thời điểm nộp hồ sơ điều chỉnh Giấy chứng nhận đăng ký đầu tư ra nước ngoài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe37bb147457546'">Mẫu B.I.5.docx</a>)
+- 01 Bản chính, 02 Bản sao 4. Quyết định điều chỉnh hoạt động đầu tư ra nước ngoài theo quy định tại Điều 59 của Luật Đầu tư hoặc các văn bản quy định tại điểm e khoản 1 Điều 57 của Luật Đầu tư Đối với các dự án đầu tư ra nước ngoài của doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ, Quyết định đầu tư ra nước ngoài theo quy định tại điểm e khoản 1 Điều 57 của Luật Đầu tư là các văn bản sau: + Văn bản chấp thuận của cơ quan đại diện chủ sở hữu cho phép nhà đầu tư thực hiện dự án đầu tư ra nước ngoài, bao gồm các nội dung chủ yếu: Nhà đầu tư, mục tiêu, quy mô, hình thức, địa điểm đầu tư, tổng vốn đầu tư, phương án huy động vốn, cơ cấu nguồn vốn, tiến độ thực hiện dự án, các chỉ tiêu về hiệu quả đầu tư cần đạt được; + Báo cáo thẩm định nội bộ về đề xuất dự án đầu tư ra nước ngoài, làm cơ sở cho việc chấp thuận của cơ quan đại diện chủ sở hữu.
+- 01 Bản chính, 02 Bản sao 5. Bản sao Giấy chứng nhận đăng ký đầu tư ra nước ngoài;
+- 01 Bản chính, 02 Bản sao 6. Văn bản của cơ quan thuế xác nhận việc thực hiện nghĩa vụ nộp thuế của nhà đầu tư trong trường hợp điều chỉnh tăng vốn đầu tư ra nước ngoài. Thời điểm xác nhận của cơ quan thuế là không quá 03 tháng tính đến ngày nộp hồ sơ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf2af770261ca0'">Mẫu B.I.8.docx</a>)
+- 01 Bản chính, 02 Bản sao 7. Văn bản cam kết tự cân đối nguồn ngoại tệ hoặc văn bản cam kết thu xếp ngoại tệ cho nhà đầu tư của tổ chức tín dụng được phép. Trường hợp nhà đầu tư lựa chọn nộp văn bản cam kết tự cân đối nguồn ngoại tệ thì nộp kèm theo văn bản của tổ chức tín dụng xác nhận số dư tài khoản ngoại tệ của nhà đầu tư. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea36a753404c18'">Mẫu B.I.6.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceb3896906aeb0'">Mẫu B.I.7.docx</a>)
+- 01 Bản chính, 02 Bản sao 8. Đối với dự án đầu tư ra nước ngoài trong các ngành, nghề quy định tại khoản 1 Điều 54 của Luật này, nhà đầu tư nộp văn bản của cơ quan nhà nước có thẩm quyền về việc đáp ứng điều kiện đầu tư ra nước ngoài theo quy định của pháp luật có liên quan (nếu có).
+
+
+Trường hợp nộp trực tuyến dưới dạng sử dụng chữ ký số hoặc không sử dụng chữ ký số, nhà đầu tư thực hiện theo quy định tại Điều 80 của Nghị định số 31/2021/NĐ-CP.
+- 01 Bản chính Thực hiện theo các hồ sơ ghi ở phần thực hiện trực tiếp hoặc qua bưu chính

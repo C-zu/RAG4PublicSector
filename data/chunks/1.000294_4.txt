@@ -1,0 +1,8 @@
+Tên thủ tục: Bãi bỏ đường ngang
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị bãi bỏ đường ngang theo quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4ebd60265ad12'">1.000294 mẫu đơn.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử) một trong các tài liệu sau: + Biên bản nghiệm thu hoàn thành công trình, hạng mục công trình vào sử dụng đối với cầu vượt, hầm chui hoặc đường ngang khác để tổ chức giao thông thay thế cho đường ngang đề nghị bãi bỏ; + Phương án tổ chức giao thông thay thế khi bãi bỏ đường ngang.

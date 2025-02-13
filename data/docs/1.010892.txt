@@ -1,0 +1,88 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010892
+Số quyết định:
+1603/QĐ-BTTTT
+Tên thủ tục:
+Cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với tổ chức nhận chuyển nhượng chưa được cấp phép kinh doanh dịch vụ viễn thông sử dụng băng tần
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+- Doanh nghiệp đề nghị nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện phải gửi 01 bộ hồ sơ chuyển nhượng đến Cục Viễn thông.
+- Trong thời hạn 05 ngày kể từ ngày nhận được hồ sơ, Cục Viễn thông thông báo cho doanh nghiệp về hồ sơ không hợp lệ (nếu có);
+- Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông xem xét quyết định việc cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện.
+- Trường hợp từ chối cho phép chuyển nhượng, Bộ Thông tin và Truyền thông có văn bản thông báo, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ hợp lệ, đúng quy định. Nộp trực tiếp tại Cục Viễn thông; Nộp qua dịch vụ bưu chính; Địa chỉ Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội.|
+|Trực tuyến|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ hợp lệ, đúng quy định; Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ http://dichvucong.mic.gov.vn hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/.|
+|Dịch vụ bưu chính|45 Ngày||45 ngày kể từ ngày nhận được hồ sơ hợp lệ, đúng quy định. Nộp qua dịch vụ bưu chính; Địa chỉ Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chuyển nhượng có dấu và chữ ký của người đại diện theo pháp luật của doanh nghiệp đề nghị chuyển nhượng
+- 01 Bản chính Văn bản thỏa thuận giữa doanh nghiệp đề nghị chuyển nhượng và doanh nghiệp đề nghị nhận chuyển nhượng về bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng
+- 01 Bản chính Hồ sơ đề nghị cấp phép kinh doanh dịch vụ viễn thông có sử dụng băng tần của doanh nghiệp đề nghị nhận chuyển nhượng
+- 01 Bản chính Báo cáo tình hình thực hiện giấy phép kinh doanh dịch vụ viễn thông đã được cấp, tình hình thực hiện cam kết triển khai mạng viễn thông sau khi trúng đấu giá của doanh nghiệp đề nghị chuyển nhượng
+- 01 Bản chính Hồ sơ đề nghị sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông hoặc văn bản đề nghị thu hồi giấy phép kinh doanh dịch vụ viễn thông của doanh nghiệp đề nghị chuyển nhượng
+- 01 Bản chính Cam kết thực hiện của doanh nghiệp đề nghị nhận chuyển nhượng
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định của Bộ trưởng Bộ Thông tin và Truyền thông về việc cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật viễn thông|23-11-2009|Quốc Hội|
+|88/2021/NĐ-CP|Nghị định 88/2021/NĐ-CP|01-10-2021||
+|25/2011/NĐ-CP|Nghị định 25/2011/NĐ-CP|07-04-2011||
+|81/2016/NĐ-CP|Nghị định 81/2016/NĐ-CP|02-07-2016||
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||
+
+Yêu cầu, điều kiện thực hiện:
+I/ Tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện phải có đủ điều kiện được cấp giấy phép thiết lập mạng viễn thông phù hợp với băng tần, kênh tần số nhận chuyển nhượng theo quy định của pháp luật về viễn thông, điều kiện cấp giấy phép quy định tại các điểm a, d, đ và e khoản 2 Điều 19 của Luật Tần số vô tuyến điện và phải kế thừa đầy đủ các nghĩa vụ của tổ chức chuyển nhượng;
+II/ Tổng độ rộng băng tần được phép sử dụng của tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện sau khi nhận chuyển nhượng không vượt quá giới hạn tổng độ rộng băng tần mà một tổ chức được phép sử dụng quy định tại quy hoạch băng tần;  
+III/ Tổ chức đề nghị chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm sau:
+1. Bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.
+2. Thực hiện các nghĩa vụ tài chính liên quan đến chuyển nhượng quyền sử dụng tần số vô tuyến điện theo quy định của pháp luật.
+3. Hoàn thành các nghĩa vụ tài chính về tiền cấp quyền sử dụng tần số vô tuyến điện, lệ phí, phí sử dụng tần số vô tuyến điện.
+IV/ Tổ chức đề nghị nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm sau:
+1. Thực hiện các quyền, trách nhiệm được chuyển nhượng và không được phép tiếp tục chuyển nhượng quyền sử dụng tần số vô tuyến điện được chuyển nhượng cho tổ chức khác.
+2. Thực hiện cam kết triển khai mạng viễn thông do bên chuyển nhượng đã cam kết để được cấp giấy phép sử dụng băng tần; thực hiện các điều kiện cấp giấy phép kinh doanh dịch vụ viễn thông, quyền và nghĩa vụ tại giấy phép kinh doanh dịch vụ viễn thông của bên chuyển nhượng.
+3. Thực hiện các nghĩa vụ về tài chính liên quan đến chuyển nhượng quyền sử dụng tần số vô tuyến điện theo quy định của pháp luật.
+4. Tuân thủ các quy định của pháp luật về viễn thông, tần số vô tuyến điện.
+5. Nộp đầy đủ, đúng hạn lệ phí, phí sử dụng tần số vô tuyến điện, lệ phí, phí về viễn thông theo quy định của pháp luật về tần số vô tuyến điện, viễn thông.
+I/ Tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện phải có đủ điều kiện được cấp giấy phép thiết lập mạng viễn thông phù hợp với băng tần, kênh tần số nhận chuyển nhượng theo quy định của pháp luật về viễn thông, điều kiện cấp giấy phép quy định tại các điểm a, d, đ và e khoản 2 Điều 19 của Luật Tần số vô tuyến điện và phải kế thừa đầy đủ các nghĩa vụ của tổ chức chuyển nhượng;
+II/ Tổng độ rộng băng tần được phép sử dụng của tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện sau khi nhận chuyển nhượng không vượt quá giới hạn tổng độ rộng băng tần mà một tổ chức được phép sử dụng quy định tại quy hoạch băng tần;  
+III/ Tổ chức đề nghị chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm sau:
+1. Bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.
+2. Thực hiện các nghĩa vụ tài chính liên quan đến chuyển nhượng quyền sử dụng tần số vô tuyến điện theo quy định của pháp luật.
+3. Hoàn thành các nghĩa vụ tài chính về tiền cấp quyền sử dụng tần số vô tuyến điện, lệ phí, phí sử dụng tần số vô tuyến điện.
+IV/ Tổ chức đề nghị nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm sau:
+1. Thực hiện các quyền, trách nhiệm được chuyển nhượng và không được phép tiếp tục chuyển nhượng quyền sử dụng tần số vô tuyến điện được chuyển nhượng cho tổ chức khác.
+2. Thực hiện cam kết triển khai mạng viễn thông do bên chuyển nhượng đã cam kết để được cấp giấy phép sử dụng băng tần; thực hiện các điều kiện cấp giấy phép kinh doanh dịch vụ viễn thông, quyền và nghĩa vụ tại giấy phép kinh doanh dịch vụ viễn thông của bên chuyển nhượng.
+3. Thực hiện các nghĩa vụ về tài chính liên quan đến chuyển nhượng quyền sử dụng tần số vô tuyến điện theo quy định của pháp luật.
+4. Tuân thủ các quy định của pháp luật về viễn thông, tần số vô tuyến điện.
+5. Nộp đầy đủ, đúng hạn lệ phí, phí sử dụng tần số vô tuyến điện, lệ phí, phí về viễn thông theo quy định của pháp luật về tần số vô tuyến điện, viễn thông.
+Từ khóa:
+Cho phép chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với doanh nghiệp chưa được cấp phép kinh doanh dịch vụ viễn thông sử dụng băng tần
+Mô tả:
+Không có thông tin

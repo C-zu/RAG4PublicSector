@@ -1,0 +1,7 @@
+Tên thủ tục: Thay đổi vị trí thiết bị đo đếm
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Khảo sát
+Lắp đặt nghiệm thu thiết bị đo đếm, ký Phụ lục hợp đồng và Biên bản treo tháo

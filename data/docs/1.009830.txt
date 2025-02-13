@@ -1,0 +1,104 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009830
+Số quyết định:
+546/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng đến Cục ATBXHN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cục ATBXHN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí đối với hồ sơ hợp lệ và phí, lệ phí (nếu có) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nểu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ và phí, lệ phí (nếu có), Cục ATBXHN tổ chức thẩm định hồ sơ và cấp Giấy phép tiến hành công việc bức xạ (Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng).
+Trường hợp không cấp giấy phép, Cục ATBXHN trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : 1.000.000 Đồng + Xử lý, lưu giữ đã qua sử dụng có mức độ nguy hiểm phóng xạ dưới trung bình với số lượng nhỏ hơn 10 nguồn: 1.000.000 đồng/1 nguồn.  Phí : 2.000.000 Đồng + Xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng có mức độ nguy hiểm phóng xạ trung bình với số lượng nhỏ hơn 10 nguồn: 2.000.000 đồng/1 nguồn.  Phí : 20.000.000 Đồng + Xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng có mức độ nguy hiểm phóng xạ trên trung bình hoặc với số lượng lớn hơn hoặc bằng 10 nguồn: 20.000.000 đồng/1 địa điểm.  Phí : 60.000.000 Đồng + Xử lý, lưu giữ chất thải phóng xạ: 60.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Trực tuyến|45 Ngày|Phí : 1.000.000 Đồng + Xử lý, lưu giữ đã qua sử dụng có mức độ nguy hiểm phóng xạ dưới trung bình với số lượng nhỏ hơn 10 nguồn: 1.000.000 đồng/1 nguồn.  Phí : 2.000.000 Đồng + Xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng có mức độ nguy hiểm phóng xạ trung bình với số lượng nhỏ hơn 10 nguồn: 2.000.000 đồng/1 nguồn.  Phí : 20.000.000 Đồng + Xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng có mức độ nguy hiểm phóng xạ trên trung bình hoặc với số lượng lớn hơn hoặc bằng 10 nguồn: 20.000.000 đồng/1 địa điểm.  Phí : 60.000.000 Đồng + Xử lý, lưu giữ chất thải phóng xạ: 60.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Dịch vụ bưu chính|45 Ngày|Phí : 1.000.000 Đồng + Xử lý, lưu giữ đã qua sử dụng có mức độ nguy hiểm phóng xạ dưới trung bình với số lượng nhỏ hơn 10 nguồn: 1.000.000 đồng/1 nguồn.  Phí : 2.000.000 Đồng + Xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng có mức độ nguy hiểm phóng xạ trung bình với số lượng nhỏ hơn 10 nguồn: 2.000.000 đồng/1 nguồn.  Phí : 20.000.000 Đồng + Xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng có mức độ nguy hiểm phóng xạ trên trung bình hoặc với số lượng lớn hơn hoặc bằng 10 nguồn: 20.000.000 đồng/1 địa điểm.  Phí : 60.000.000 Đồng + Xử lý, lưu giữ chất thải phóng xạ: 60.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ ([Mau 1_Don CP tien hanh CVBX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef7dfcbe5418e'))
+- 01 Bản sao + Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó.
+- 01 Bản chính + Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn ([Mau 01_KB nhan vien BX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4be09c21e1a34'))
+- 01 Bản sao + Bản sao Chứng chỉ nhân viên bức xạ của các nhân viên: người phụ trách an oàn, trừ trường hợp nguồn phóng xạ thuộc nhóm 5 theo QCVN 6:2010/BKHCN, người phụ trách tẩy xạ. Trường hợp các nhân viên này chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ.
+- 01 Bản sao + Bản sao Giấy chứng nhận đào tạo an toàn bức xạ của nhân viên bức xạ. Bản sao văn bằng hoặc chứng nhận đào tạo về xử lý chất thải phóng xạ đối với nhân viên xử lý chất thải phóng xạ.
+- 01 Bản chính + Phiếu khai báo nguồn phóng xạ kín đã qua sử dụng ([Mau 05_KB nguon PX qua dung.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23e333620381b'))
+- 01 Bản chính + Phiếu khai báo chất thải phóng xạ ([Mau 14_KB chat thai PX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec6052307ddf2c'))
+- 01 Bản chính + Báo cáo đánh giá an toàn ([Mau 07_PL5_BC xu ly chat thai PX.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe173f9e6ef4d36'))
+- 01 Bản sao + Bản sao Biên bản kiểm xạ.
+- 01 Bản chính + Kế hoạch ứng phó sự cố ([PL02_NoidungKHUPSC.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefd3ca4866bea9'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+|02/2022/TT-BKHCN|Thông tư 02/2022/TT-BKHCN|25-02-2022|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ;
+- Nhân viên xử lý chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng phải được đào tạo chuyên môn, nghiệp vụ về xử lý chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng;
+- Có người phụ trách an toàn, trừ trường hợp nguồn phóng xạ thuộc nhóm 5 theo QCVN 6:2010/BKHCN. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+- Có người phụ trách tẩy xạ. Người phụ trách tẩy xạ phải có Chứng chỉ nhân viên bức xạ.
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: Tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 03 tháng một lần;
+- Có kho lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng.
+- Trường hợp xử lý chất thải phóng xạ phải có kho lưu giữ tạm thời chất thải phóng xạ trước khi xử lý;
+- Trường hợp lưu giữ nguồn phóng xạ đã qua sử dụng phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định số 142/2020/NĐ-CP. 
+	- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định số 142/2020/NĐ-CP. Trường hợp xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng thuộc Nhóm 1, Nhóm 2 theo Quy chuẩn kỹ thuật quốc gia QCVN 6:2010/BKHCN, kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định số 142/2020/NĐ-CP.
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ;
+- Nhân viên xử lý chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng phải được đào tạo chuyên môn, nghiệp vụ về xử lý chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng;
+- Có người phụ trách an toàn, trừ trường hợp nguồn phóng xạ thuộc nhóm 5 theo QCVN 6:2010/BKHCN. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+- Có người phụ trách tẩy xạ. Người phụ trách tẩy xạ phải có Chứng chỉ nhân viên bức xạ.
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: Tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 03 tháng một lần;
+- Có kho lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng.
+- Trường hợp xử lý chất thải phóng xạ phải có kho lưu giữ tạm thời chất thải phóng xạ trước khi xử lý;
+- Trường hợp lưu giữ nguồn phóng xạ đã qua sử dụng phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định số 142/2020/NĐ-CP. 
+	- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định số 142/2020/NĐ-CP. Trường hợp xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng thuộc Nhóm 1, Nhóm 2 theo Quy chuẩn kỹ thuật quốc gia QCVN 6:2010/BKHCN, kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định số 142/2020/NĐ-CP.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng
+Mô tả:
+Không có thông tin

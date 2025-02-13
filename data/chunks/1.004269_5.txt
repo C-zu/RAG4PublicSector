@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục cung cấp dữ liệu đất đai (cấp tỉnh)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Văn phòng đăng ký đất đai
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Dữ liệu đất đai trên giấy hoặc thiết bị lưu trữ điện tử.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2014/NĐ -CP|Nghị định số 43/2014/NĐ -CP ngày 15 tháng 5 năm 2014 của Chính Phủ quy định chi tiết một số điều của luật Đất đai|01-07-2014|Bộ Tài nguyên và Môi trường|
+|luật đất đai năm 2013|luật đất đai năm 2013|01-07-2014|Quốc Hội|
+|34/2014/TT-BTNMT|Thông tư 34/2014/TT-BTNMT|30-06-2014||
+|14/2023/TT- BTNMT|Thông tư số|16-10-2023|Bộ Tài nguyên và Môi trường|

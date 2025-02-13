@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi vị trí thiết bị đo đếm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Mức giá : Toàn bộ chi phí (trừ công tơ) Đồng||
+|Trực tuyến|7 Ngày làm việc|||

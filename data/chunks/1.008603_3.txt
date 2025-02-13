@@ -1,0 +1,8 @@
+Tên thủ tục: Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||4.1. Tại Ủy ban nhân dân phường, thị trấn: Không quy định thời gian giải quyết. 4.2. Tại Sở Tài nguyên và Môi trường, Phòng Tài nguyên và Môi trường: 10 ngày làm việc kể từ ngày nhận Tờ khai phí. 4.3. Tại Bộ Công an, Bộ Quốc phòng: 30 ngày làm việc kể từ ngày nhận được Tờ khai phí của người nộp phí.|
+|Trực tiếp|30 Ngày làm việc||4.1. Tại Ủy ban nhân dân phường, thị trấn: Không quy định thời gian giải quyết. 4.2. Tại Sở Tài nguyên và Môi trường, Phòng Tài nguyên và Môi trường: 10 ngày làm việc kể từ ngày nhận Tờ khai phí. 4.3. Tại Bộ Công an, Bộ Quốc phòng: 30 ngày làm việc kể từ ngày nhận được Tờ khai phí của người nộp phí.|

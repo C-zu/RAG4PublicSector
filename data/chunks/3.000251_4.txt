@@ -1,0 +1,18 @@
+Tên thủ tục: Thủ tục xác định xe thuộc diện không chịu phí, được bù trừ hoặc trả lại tiền phí đã nộp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp xe bị hủy hoại do tai nạn hoặc thiên tai; bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe; bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên
+- 01 Bản chính Giấy đề nghị trả lại/bù trừ phí sử dụng đường bộ theo Mẫu số 01 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb292f43c855048'">Mẫu số 01.docx</a>)
+- 01 Bản chính Bản chụp các giấy tờ chứng minh thời gian không được sử dụng phương tiện (như: Quyết định tịch thu hoặc thu hồi xe của cơ quan có thẩm quyền, văn bản thu hồi giấy đăng ký và biển số xe).
+- 01 Bản chính Bản chụp biên lai thu phí sử dụng đường bộ. Trường hợp bị mất biên lai thu phí, chủ phương tiện đề nghị đơn vị đăng kiểm nơi nộp phí cấp lại bản chụp biên lai thu phí.
+- 01 Bản chính Riêng đối với xe ô tô bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên thì ngoài các giấy tờ nêu trên, chủ phương tiện còn phải cung cấp Biên bản thu Tem và Giấy chứng nhận kiểm định theo Mẫu số 02 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef836f43b525e0'">Mẫu số 02.docx</a>)
+
+
+Trường hợp xe ô tô bị mất trộm trong thời gian từ 30 ngày trở lên
+- 01 Bản chính Chủ phương tiện phải xuất trình Đơn trình báo về việc mất tài sản có xác nhận của cơ quan công an. Trường hợp tìm thấy phương tiện thì chủ phương tiện phải cung cấp cho đơn vị đăng kiểm Biên bản bàn giao tài sản do cơ quan công an thu hồi giao cho chủ phương tiện.
+
+
+Trường hợp xe ô tô đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên
+- 01 Bản chính Chủ phương tiện cung cấp giấy tờ chứng minh xe được xuất cảnh, nhập cảnh theo quy định của pháp luật cho đơn vị đăng điểm khi đăng kiểm.

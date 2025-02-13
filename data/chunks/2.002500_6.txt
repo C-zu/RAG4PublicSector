@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục xử lý đơn tại cấp huyện
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Theo điểm a, khoản 2, Điều 6, Thông tư 05/2021/TT-TTCP ngày 01/10/2021 của Thanh tra Chính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh. Đơn đủ điều kiện xử lý là đơn đáp ứng các yêu cầu sau đây:
+- Đơn dùng chữ viết là tiếng Việt và được người khiếu nại, người tố cáo, người kiến nghị, phản ánh ghi rõ ngày, tháng, năm viết đơn; họ, tên, địa chỉ, chữ ký hoặc điểm chỉ của người viết đơn;
+- Đơn khiếu nại phải ghi rõ tên, địa chỉ của cơ quan, tổ chức, đơn vị, cá nhân bị khiếu nại, nội dung, lý do khiếu nại và yêu cầu của người khiếu nại;
+- Đơn tố cáo phải ghi rõ nội dung tố cáo; cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo, hành vi vi phạm pháp luật bị tố cáo;
+- Đơn kiến nghị, phản ánh phải ghi rõ nội dung kiến nghị, phản ánh;
+- Đơn chưa được cơ quan, tổ chức, đơn vị tiếp nhận đơn xử lý theo quy định của pháp luật hoặc đã được xử lý nhưng người khiếu nại, người tố cáo được quyền khiếu nại, tố cáo tiếp theo quy định của pháp luật.
+Theo điểm a, khoản 2, Điều 6, Thông tư 05/2021/TT-TTCP ngày 01/10/2021 của Thanh tra Chính phủ quy định quy trình xử lý đơn khiếu nại, đơn tố cáo, đơn kiến nghị, phản ánh. Đơn đủ điều kiện xử lý là đơn đáp ứng các yêu cầu sau đây:
+- Đơn dùng chữ viết là tiếng Việt và được người khiếu nại, người tố cáo, người kiến nghị, phản ánh ghi rõ ngày, tháng, năm viết đơn; họ, tên, địa chỉ, chữ ký hoặc điểm chỉ của người viết đơn;
+- Đơn khiếu nại phải ghi rõ tên, địa chỉ của cơ quan, tổ chức, đơn vị, cá nhân bị khiếu nại, nội dung, lý do khiếu nại và yêu cầu của người khiếu nại;
+- Đơn tố cáo phải ghi rõ nội dung tố cáo; cơ quan, tổ chức, đơn vị, cá nhân bị tố cáo, hành vi vi phạm pháp luật bị tố cáo;
+- Đơn kiến nghị, phản ánh phải ghi rõ nội dung kiến nghị, phản ánh;
+- Đơn chưa được cơ quan, tổ chức, đơn vị tiếp nhận đơn xử lý theo quy định của pháp luật hoặc đã được xử lý nhưng người khiếu nại, người tố cáo được quyền khiếu nại, tố cáo tiếp theo quy định của pháp luật.
+Từ khóa:
+xử lý đơn
+Mô tả:
+Không có thông tin

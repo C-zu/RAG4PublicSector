@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy chứng nhận kiểm dịch thực vật đối với các lô vật thể vận chuyển từ vùng nhiễm đối tượng kiểm dịch thực vật
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Giờ||Hồ sơ được nộp trực tiếp cho Chi cục Bảo vệ thực vật hoặc Chi cục Trồng trọt và Bảo vệ thực vật.|

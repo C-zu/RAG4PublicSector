@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định thiết kế cơ sở
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình thẩm định thiết kế cơ sở (theo mẫu số 01, Phụ lục II ban hành kèm theo Nghị định số 59/2015/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1e8f596c9950f'">To trinh.Tham dinh thiet ke.docx</a>)
+- 01 Bản chính Thuyết minh và thiết kế cơ sở
+- 01 Bản chính Các văn bản pháp lý có liên quan

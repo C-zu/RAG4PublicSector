@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thuộc loại 1, loại 2, loại 3, loại 4 và loại 9 bằng phương tiện giao thông cơ giới đường bộ, trên đường thủy nội địa (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp tỉnh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009898
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thuộc loại 1, loại 2, loại 3, loại 4 và loại 9 bằng phương tiện giao thông cơ giới đường bộ, trên đường thủy nội địa (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy

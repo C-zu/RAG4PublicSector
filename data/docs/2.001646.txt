@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001646
+Số quyết định:
+688A/QĐ-BCT
+Tên thủ tục:
+Cấp Giấy phép sản xuất rượu công nghiệp (quy mô dưới 3 triệu lít/năm)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Lưu thông hàng hóa trong nước
+Trình tự thực hiện:
+- Doanh nghiệp sản xuất rượu công nghiệp nộp 01 bộ hồ sơ đề nghị cấp Giấy phép sản xuất rượu công nghiệp cho Sở Công Thương;
+- Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Công Thương xem xét và cấp Giấy phép cho doanh nghiệp;
+- Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 03 ngày, làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan cấp giấy phép phải có văn bản yêu cầu bổ sung;
+- Trường hợp từ chối cấp phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : Theo quy định của Bộ Tài chính (nếu có)  Lệ phí : Theo quy định của Bộ Tài chính (nếu có)|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|15 Ngày làm việc|Phí : Theo quy định của Bộ Tài chính  Lệ phí : Theo quy định của Bộ Tài chính|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : Theo quy định của Bộ Tài chính  Lệ phí : Theo quy định của Bộ Tài chính|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép sản xuất rượu công nghiệp theo Mẫu số 01 ban hành kèm theo Nghị định số 17/2020/NĐ-CP. ([MẪU SỐ 01 RƯỢU.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb34ffc5704e0b0'))
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương.
+- 01 Bản sao + Bản sao Bản công bố sản phẩm rượu hoặc bản sao Giấy tiếp nhận bản công bố hợp quy hoặc Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm (đối với rượu chưa có quy chuẩn kỹ thuật); bản sao Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm hoặc bản sao một trong các giấy chứng nhận sau: Thực hành sản xuất tốt (GMP), Hệ thống phân tích mối nguy và điểm kiểm soát tới hạn (HACCP), Hệ thống quản lý an toàn thực phẩm (ISO 22000), Tiêu chuẩn thực phẩm quốc tế (EFS), Tiêu chuẩn toàn cầu về an toàn thực phẩm (BRC), Hệ thống an toàn thực phẩm (FSSC 22000).
+- 01 Bản sao + Bản sao Quyết định phê duyệt báo cáo đánh giá tác động môi trường hoặc giấy xác nhận đăng ký kế hoạch bảo vệ môi trường hoặc giấy xác nhận đăng ký bản cam kết bảo vệ môi trường do cơ quan có thẩm quyền cấp.
+- 01 Bản chính, 01 Bản sao + Bản liệt kê tên hàng hóa rượu kèm theo bản sao nhãn hàng hóa rượu mà doanh nghiệp sản xuất hoặc dự kiến sản xuất.
+- 01 Bản sao + Bản sao bằng cấp, giấy chứng nhận chuyên môn và quyết định tuyển dụng hoặc hợp đồng lao động của cán bộ kỹ thuật.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cấp Giấy phép sản xuất rượu công nghiệp (quy mô dưới 3 triệu lít/năm)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Nghị định 105/2017/NĐ-CP|Về kinh doanh rượu|14-09-2017|Chính phủ|
+|17/2020/NĐ-CP|Nghị định 17/2020/NĐ-CP|05-02-2020||
+
+Yêu cầu, điều kiện thực hiện:
+- Là doanh nghiệp được thành lập theo quy định của pháp luật
+- Có dây chuyền máy móc, thiết bị, quy trình công nghệ sản xuất rượu đáp ứng quy mô dự kiến sản xuất.
+- Bảo đảm các điều kiện về an toàn thực phẩm theo quy định.
+- Bảo đảm các điều kiện về bảo vệ môi trường theo quy định.
+- Đáp ứng các quy định về ghi nhãn hàng hóa rượu.
+- Có cán bộ kỹ thuật có trình độ, chuyên môn phù hợp với ngành, nghề sản xuất rượu.
+- Là doanh nghiệp được thành lập theo quy định của pháp luật
+- Có dây chuyền máy móc, thiết bị, quy trình công nghệ sản xuất rượu đáp ứng quy mô dự kiến sản xuất.
+- Bảo đảm các điều kiện về an toàn thực phẩm theo quy định.
+- Bảo đảm các điều kiện về bảo vệ môi trường theo quy định.
+- Đáp ứng các quy định về ghi nhãn hàng hóa rượu.
+- Có cán bộ kỹ thuật có trình độ, chuyên môn phù hợp với ngành, nghề sản xuất rượu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

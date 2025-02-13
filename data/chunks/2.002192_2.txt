@@ -1,0 +1,11 @@
+Tên thủ tục: Giải quyết yêu cầu bồi thường tại cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tiếp nhận và xử lý hồ sơ;
+- Thụ lý hồ sơ;
+- Cử người giải quyết bồi thường;
+- Tạm ứng kinh phí bồi thường thiệt hại;
+- Xác minh thiệt hại;
+- Thương lượng việc bồi thường;
+- Ra quyết định giải quyết bồi thường (sau khi ra quyết định giải quyết bồi thường, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại phải lập hồ sơ đề nghị cấp kinh phí bồi thường đến cơ quan tài chính có thẩm quyền để đề nghị cấp kinh phí bồi thường và chi trả tiền bồi thường cho người yêu cầu bồi thường).

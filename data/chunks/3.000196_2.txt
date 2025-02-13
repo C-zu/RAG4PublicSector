@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp lại giấy chứng nhận số nhà
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Nộp hồ sơ
+- Các cơ quan, tổ chức, cá nhân, hộ gia đình truy cập vào Cổng dịch vụ công của tỉnh để đăng ký/đăng nhập tài khoản dịch vụ công quốc gia. Sau khi đăng nhập vào hệ thống, các cơ quan, tổ chức, cá nhân, hộ gia đình xác định đúng cơ quan có thẩm quyền tiếp nhận và giải quyết Cấp lại giấy chứng nhận số nhà, vào mục nộp hồ sơ trực tuyến để điền thông tin người nộp hồ sơ, tải đầy đủ thành phần hồ sơ theo quy định, đảm bảo yêu cầu kỹ thuật và độ chính xác cao của giấy tờ, hồ sơ được tải lên
+Bước 2. Tiếp nhận, kiểm tra hồ sơ 
+Cán bộ trực bộ phận tiếp nhận và trả kết quả thực hiện tiếp nhận, kiểm tra tính đầy đủ, hợp lệ của hồ sơ:
++ Trường hợp hồ sơ đầy đủ, hợp lệ, thực hiện tiếp nhận và in giấy tiếp nhận hồ sơ và hẹn trả kết quả cho cơ quan, tổ chức, cá nhân, hộ gia đình. Đồng thời chuyển hồ sơ trên phần mềm cho lãnh đạo xã, để phân công cho công chức phụ trách lĩnh vực xử lý.
++ Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, Bộ phận tiếp nhận hướng dẫn cơ quan, tổ chức, cá nhân, hộ gia đình bổ sung, hoàn thiện theo quy định.
+Bước 3. Giải quyết hồ sơ
+- Ngay sau khi nhận được hồ sơ, lãnh đạo xã phân công công chức xử lý, thẩm định hồ sơ. Công chức thẩm định hồ sơ, thẩm định thực tế, dự thảo kết quả giải quyết hồ sơ TTHC chuyển lãnh đạo xã xem xét, ký duyệt kết quả giải quyết TTHC. Lãnh đạo xã ký kết quả giải quyết thủ tục hành chính và chuyển cho Văn thư xã phát hành văn bản theo quy định, chuyển kết quả giải quyết thủ tục hành chính đến Bộ phận tiếp nhận và trả kết quả.
+Bước 4: Trả Kết quả
+- Trường hợp nhận chứng nhận số nhà theo hình thức trực tuyến: Các cơ quan, tổ chức, cá nhân, hộ gia đình đăng nhập vào Cổng dịch vụ công thực hiện thanh toán phí Cấp lại giấy chứng nhận số nhà theo quy định. Sau khi thanh toán trực tuyến thành công hệ thống sẽ cho phép tải bản điện tử (PDF)  là bản giấy đã được ký, đóng dấu và quét (scan) tải lên Kho quản lý dữ liệu điện tử trên Cổng dịch vụ công. 
+- Trường hợp nhận kết quả qua dịch vụ bưu chính: cơ quan, tổ chức, cá nhân, hộ gia đình xuất trình giấy tờ tùy thân để bưu tá kiểm tra, đối chiếu thông tin trước khi trả Văn bản chứng nhận số nhà, thực hiện việc nộp phí theo quy định. Việc trả Văn bản chứng nhận số nhà có ký nhận đầy đủ theo quy định của pháp luật.

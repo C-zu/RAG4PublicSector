@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cảng vụ hàng không
+Cơ quan có thẩm quyền:
+Cảng vụ hàng không
+Địa chỉ tiếp nhận HS:
+Cảng vụ hàng không
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Giấy chứng nhận đăng ký cảng hàng không, sân bay.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|05/2021/NĐ-CP|Nghị định 05/2021/NĐ-CP|25-01-2021||
+|64/2022/NĐ-CP|Nghị định 64/2022/NĐ-CP|15-09-2022||
+|20/2024/NĐ-CP|sửa đổi, bổ sung một số điều của Nghị định số 05/2021/NĐ-CP ngày 25 tháng 01 năm 2021 của Chính phủ về quản lý, khai thác cảng hàng không, sân bay và Nghị định số 64/2022/NĐ-CP ngày 15 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng không dân dụng.|23-02-2024||

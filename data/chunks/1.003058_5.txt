@@ -1,0 +1,23 @@
+Tên thủ tục: Gia hạn chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Chất lượng, Chế biến và Phát triển thị trường
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Số 10 Nguyễn Công Hoan Ba Đình Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước về an toàn thực phẩm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2013/TTLT-BYT-BCT-BNNPTNT|Quy định điều kiện, trình tự thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước|01-08-2013|Bộ Y tế|
+|54/2011/TT-BNNPTNT|Thông tư Yêu cầu năng lực phòng thử nghiệm về chất lượng, an toàn thực phẩm Nông lâm thủy sản và muối|03-08-2011|Bộ Nông nghiệp và Phát triển nông thôn|
+|286/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định quản lý chất lượng, an toàn thực phẩm trong lĩnh vực nông nghiệp|14-11-2016|Bộ Tài chính|

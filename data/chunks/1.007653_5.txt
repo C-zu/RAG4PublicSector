@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục cấp lại mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Mã số nhân viên đại lý làm thủ tục hải quan hoặc văn bản trả lời đối với trường hợp không đủ điều kiện.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|12/2015/TT-BTC|Thông tư 12/2015/TT-BTC|30-01-2015|Bộ Tài chính|
+|22/2019/TT-BTC|Sửa đổi, bổ sung một số điều của Thông tư số 12/2015/TT-BTC ngày 30 tháng 01 năm 2015 của Bộ trưởng Bộ Tài chính quy định chi tiết thủ tục cấp Chứng chỉ nghiệp vụ khai hải quan; cấp và thu hồi mã số nhân viên đại lý làm thủ tục hải quan; trình tư, thủ tục công nhận và hoạt động đại lý làm thủ tục hải quan|16-04-2019|Bộ Tài chính|

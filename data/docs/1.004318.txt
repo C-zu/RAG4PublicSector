@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004318
+Số quyết định:
+989/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận thẩm định thiết kế phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Cơ sở thiết kế hoàn thiện hồ sơ thiết kế nộp hồ sơ thiết kế cho Cục Đăng kiểm Việt Nam hoặc các Chi cục Đăng kiểm trực thuộc Cục Đăng kiểm Việt Nam (gọi tắt chung là Cơ quan Đăng kiểm).
+b) Giải quyết TTHC:
+- Cơ quan Đăng kiểm tiếp nhận hồ sơ thiết kế, kiểm tra thành phần hồ sơ thiết kế: Nếu hồ sơ thiết kế chưa đầy đủ thành phần theo quy định thì trả lời bằng văn bản hướng dẫn Cơ sở thiết kế hoàn thiện lại; Nếu hồ sơ thiết kế đầy đủ thành phần theo quy định thì viết Giấy hẹn thời gian trả kết quả.
+- Cơ quan Đăng kiểm thực hiện thẩm định thiết kế: Nếu hồ sơ thiết kế chưa đạt yêu cầu thì trả lời bằng văn bản cho Cơ sở thiết kế để bổ sung, sửa đổi; Nếu hồ sơ thiết kế đạt yêu cầu thì cấp Giấy chứng nhận thẩm định thiết kế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|- Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp thiết kế công trình biển kiểu mới hoặc phức tạp, thời gian thẩm định thiết kế phải kéo dài, Cơ quan Đăng kiểm thẩm định thiết kế sẽ thỏa thuận với Cơ sở thiết kế.|
+|Trực tuyến|20 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|- Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp thiết kế công trình biển kiểu mới hoặc phức tạp, thời gian thẩm định thiết kế phải kéo dài, Cơ quan Đăng kiểm thẩm định thiết kế sẽ thỏa thuận với Cơ sở thiết kế.|
+|Dịch vụ bưu chính|20 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|- Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp thiết kế công trình biển kiểu mới hoặc phức tạp, thời gian thẩm định thiết kế phải kéo dài, Cơ quan Đăng kiểm thẩm định thiết kế sẽ thỏa thuận với Cơ sở thiết kế.|
+
+Thành phần hồ sơ:
+
+* Trường hợp nộp qua hệ thống dịch vụ công trực tuyến:
+- 01 Bản sao - 01 giấy đề nghị thẩm định thiết kế theo mẫu (biểu mẫu điện tử); ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6e934a3a40410'))
+- 01 Bản sao - 01 tài liệu thiết kế công trình biển (dạng điện tử).
+
+
+* Trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc qua hình thức phù hợp khác:
+- 01 Bản sao - 01 giấy đề nghị thẩm định thiết kế theo mẫu (bản sao); ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe75ded95447df9'))
+- 01 Bản sao - 03 tài liệu thiết kế công trình biển (bản sao).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm định thiết kế công trình biển
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2005/QH11|Hàng hải Việt Nam|14-06-2005|Quốc Hội|
+|33/2011/TT-BGTVT|Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển do Bộ Giao thông vận tải ban hành|19-04-2011|Bộ Giao thông vận tải|
+|32/2011/TT-BGTVT|Sửa đổi, bổ sung một số điều của Quy định về đăng kiểm tàu biển Việt Nam ban hành kèm theo Quyết định số 51/2005/QĐ-BGTVT ngày 12 tháng 10 năm 2005 của Bộ trưởng Bộ Giao thông vận tải|19-04-2011|Bộ Giao thông vận tải|
+|165/2013/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý, sử dụng phí trong lĩnh vực đăng kiểm tàu biển, công trình biển; phí đánh giá, chứng nhận hệ thống quản lý an toàn, an ninh tàu biển, công trình biển và phí phê duyệt, kiểm tra, đánh giá và chứng nhận lao động hàng hải thuộc phạm vi giám sát của Cục Đăng kiểm Việt Nam|15-11-2013|Bộ Tài chính|
+|16/2022/TT-BGTVT|Thông tư 16/2022/TT-BGTVT|30-06-2022||
+
+Yêu cầu, điều kiện thực hiện:
+- Hồ sơ thiết kế công trình biển phải thoả mãn các yêu cầu của tiêu chuẩn, quy chuẩn kỹ thuật của Việt Nam và các công ước quốc tế mà Việt Nam là thành viên có liên quan đến an toàn kỹ thuật và bảo vệ môi trường tương ứng với từng loại công trình biển quy định tại Phụ lục I ban hành kèm theo Thông tư số 33/2011/TT-BGTVT của Bộ trưởng Bộ Giao thông vận tải ngày 19/4/2011 Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

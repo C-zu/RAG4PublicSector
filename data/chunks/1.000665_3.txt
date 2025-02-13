@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) ưu đãi mẫu D
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|6 Giờ|Phí : 60000 Đồng Thông tư số 36/2023/TT-BTC ngày 06/6/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí chứng nhận xuất xứ hàng hóa (C/O)|Trong thời hạn 6 giờ làm việc kể từ khi Tổ chức cấp C/O nhận được hồ sơ đầy đủ và hợp lệ dưới dạng điện tử, kết quả xét duyệt hồ sơ đề nghị cấp C/O được thông báo trên hệ thống eCoSys: - Nếu hồ sơ C/O hợp lệ, Tổ chức cấp C/O duyệt, cấp phép C/O mẫu D điện tử trên hệ thống eCoSys và dữ liệu C/O điện tử được chuyển qua Cổng thông tin một cửa quốc gia (VNSW) để truyền sang các nước thành viên ASEAN. - Nếu hồ sơ không hợp lệ, Tổ chức cấp C/O nêu rõ lý do không chấp nhận và thông báo qua hệ thống eCoSys để thương nhân sửa đổi, bổ sung.|

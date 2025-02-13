@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Văn bản đề nghị công nhận: 01 bản chính.
+ Sơ đồ thiết kế khu vực kiểm tra hàng hóa: 01 bản chụp

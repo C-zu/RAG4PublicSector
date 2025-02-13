@@ -1,0 +1,16 @@
+Tên thủ tục: Chuyển giao công trình điện là hạ tầng kỹ thuật sử dụng chung trong các dự án khu đô thị, khu dân cư và dự án khác do chủ đầu tư phải bàn giao lại cho Nhà nước theo quy định của pháp luật
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+i1) Phù hợp với quy hoạch phát triển điện lực, phương án phát triển mạng lưới cấp điện trong quy hoạch tỉnh tại thời điểm xây dựng hoặc tại thời điểm kiểm tra thực trạng công trình điện để chuyển giao (đối với đường dây và trạm biến áp có cấp điện áp từ 110kV trở lên và Nhà máy điện, thiết bị, lưới điện đấu nối nhà máy điện với hệ thống điện quốc gia và các công trình phụ trợ của Nhà máy điện);
+i2) Đáp ứng quy chuẩn, tiêu chuẩn có liên quan tại thời điểm kiểm tra thực trạng công trình điện để chuyển giao;
+i3) Công trình điện đang vận hành (đang được sử dụng để phát điện, truyền tải điện, phân phối điện) bình thường tại thời điểm kiểm tra thực trạng công trình điện để chuyển giao;
+i4) Công trình điện không trong tình trạng cầm cố, thế chấp, bảo lãnh hoặc bảo đảm bất kỳ nghĩa vụ nợ nào khác.
+i1) Phù hợp với quy hoạch phát triển điện lực, phương án phát triển mạng lưới cấp điện trong quy hoạch tỉnh tại thời điểm xây dựng hoặc tại thời điểm kiểm tra thực trạng công trình điện để chuyển giao (đối với đường dây và trạm biến áp có cấp điện áp từ 110kV trở lên và Nhà máy điện, thiết bị, lưới điện đấu nối nhà máy điện với hệ thống điện quốc gia và các công trình phụ trợ của Nhà máy điện);
+i2) Đáp ứng quy chuẩn, tiêu chuẩn có liên quan tại thời điểm kiểm tra thực trạng công trình điện để chuyển giao;
+i3) Công trình điện đang vận hành (đang được sử dụng để phát điện, truyền tải điện, phân phối điện) bình thường tại thời điểm kiểm tra thực trạng công trình điện để chuyển giao;
+i4) Công trình điện không trong tình trạng cầm cố, thế chấp, bảo lãnh hoặc bảo đảm bất kỳ nghĩa vụ nợ nào khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

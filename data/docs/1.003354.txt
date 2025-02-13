@@ -1,0 +1,116 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003354
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Cấp chứng chỉ hành nghề khám bệnh, chữa bệnh lần đầu đối với người nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: Người đề nghị cấp chứng chỉ hành nghề gửi hồ sơ về Bộ Y tế;
+Bước 2:  Bộ Y tế tiếp nhận và gửi Phiếu tiếp nhận hồ sơ cho người đề nghị
+Bước 3: Trong thời hạn 20 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ Bộ Y tế sẽ xem xét thẩm định hồ sơ và có biên bản thẩm định cụ thể :
+- Cấp chứng chỉ hành nghề khám bệnh, chữa bệnh đối với người nước ngoài, người Việt Nam định cư ở nước ngoà
+- Trường hợp hồ sơ chưa hợp lệ thì trong thời hạn 05 ngày làm việc, kể từ ngày có biên bản thẩm định, cơ quan tiếp nhận hồ sơ phải có văn bản thông báo cho người đề nghị cấp chứng chỉ hành nghề để hoàn chỉnh hồ sơ. Văn bản thông báo phải ghi cụ thể những tài liệu cần bổ sung, nội dung cần sửa đổi.
+- Trường hợp không đủ điều kiện để cấp chứng chỉ hành nghề, Bộ Y tế sẽ có văn bản trả lời và nêu lý do.
+Bước 4 : Trả chứng chỉ hành nghề cho người đề nghị.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 430.000 Đồng phí cấp chứng chỉ hành nghề (Theo quy định tại Thông tư 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế)|Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tiếp|180 Ngày||Trong thời hạn 180 ngày đối với trường hợp cần xác minh người được đào tạo ở nước ngoài hoặc có chứng chỉ hành nghề do nước ngoài cấp.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 430000 Đồng phí cấp chứng chỉ hành nghề (Theo quy định tại Thông tư 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế)|- Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ - 180 ngày đối với trường hợp cần xác minh người được đào tạo ở nước ngoài hoặc có chứng chỉ hành nghề do nước ngoài cấp.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp chứng chỉ hành nghề theo Mẫu 04 Phụ lục I ban hành kèm theo Nghị định 109/2016/NĐ-CP. ([ND 109_2016_mau 04_Phu luc 1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefb3946f000f5c'))
+- 01 Bản sao Bản sao hợp lệ văn bằng chuyên môn y phù hợp với các đối tượng hành nghề quy định tại Điều 17 Luật khám bệnh, chữa bệnh.
+- 01 Bản chính Giấy xác nhận quá trình thực hành:
+- 01 Bản chính Trường hợp thực hành tại Việt Nam thực hiện theo Mẫu 02 Phụ lục I ban hành kèm theo Nghị định 109/2016/NĐ-CP;b) Trường hợp thực hành tại cơ sở khám bệnh, chữa bệnh ở nước ngoài thì trong giấy xác nhận quá trình thực hành của người có thẩm quyền của cơ sở đó phải bảo đảm các nội dung sau đây: Họ và tên người thực hành; ngày, tháng, năm sinh; địa chỉ cư trú; số hộ chiếu (ngày cấp, nơi cấp); văn bằng chuyên môn; năm tốt nghiệp; nơi thực hành; thời gian thực hành; nhận xét về năng lực chuyên môn và đạo đức nghề nghiệp của người thực hành đó. ([ND 109_2016_mau 02_Phu luc 1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa691f7a565f440'))
+- 01 Bản sao Bản sao hợp lệ giấy phép lao động do cơ quan nhà nước có thẩm quyền về lao động của Việt Nam cấp.
+- 01 Bản sao Bản sao hợp lệ của một trong các giấy tờ sau đây: a) Giấy chứng nhận biết tiếng Việt thành thạo đối với người nước ngoài đăng ký sử dụng tiếng Việt để khám bệnh, chữa bệnh; b) Giấy chứng nhận đủ trình độ phiên dịch của người phiên dịch phù hợp với ngôn ngữ mà người hành nghề đăng ký sử dụng để khám bệnh, chữa bệnh và hợp đồng lao động của người phiên dịch với cơ sở khám bệnh, chữa bệnh nơi người hành nghề đó làm việc; c) Đối với người nước ngoài đăng ký sử dụng ngôn ngữ không phải là ngôn ngữ mẹ đẻ để khám bệnh, chữa bệnh: - Giấy chứng nhận sử dụng thành thạo ngôn ngữ mà người hành nghề đăng ký sử dụng theo quy định tại Điều 17 Nghị định 109/2016/NĐ-CP để khám bệnh, chữa bệnh; - Giấy chứng nhận đủ trình độ phiên dịch của người phiên dịch ngôn ngữ mà người hành nghề đăng ký sử dụng để khám bệnh, chữa bệnh theo quy định tại Điều 18 Nghị định 109/2016/NĐ-CP và hợp đồng lao động của người phiên dịch với cơ sở khám bệnh, chữa bệnh nơi người hành nghề đó làm việc.
+- 01 Bản chính Giấy chứng nhận đủ sức khỏe để hành nghề khám bệnh, chữa bệnh do cơ sở khám bệnh, chữa bệnh đáp ứng yêu cầu theo quy định của Bộ trưởng Bộ Y tế cấp hoặc giấy chứng nhận đủ sức khỏe do cơ sở khám bệnh, chữa bệnh nước ngoài cấp mà thời điểm cấp giấy chứng nhận sức khỏe tính đến ngày nộp hồ sơ đề nghị cấp chứng chỉ hành nghề không quá 12 tháng.
+- 01 Bản chính Lý lịch tư pháp (áp dụng đối với trường hợp không thuộc diện cấp giấy phép lao động).
+- 02 Bản chính Hai ảnh màu 04 cm x 06 cm được chụp trên nền trắng trong thời gian không quá 06 tháng, tính đến ngày nộp đơn. (Bản sao có chứng thực văn bằng chuyên môn; Giấy xác nhận quá trình thực hành; Bản sao có chứng thực giấy chứng nhận biết tiếng Việt thành thạo do tổ chức nước ngoài cấp phải được hợp pháp hóa lãnh sự và dịch ra tiếng Việt, bản dịch phải được chứng thực theo quy định của pháp luật Việt Nam).
+
+Đối tượng thực hiện:
+Người nước ngoài
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Quản lý Khám, chữa bệnh, Cục Quản lý Y, Dược cổ truyền
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng chỉ hành nghề khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2009/QH12|Luật 40/2009/QH12-Khám bệnh, chữa bệnh|23-11-2009|Quốc Hội|
+|87/2011/NĐ-CP|Nghị định 87/2011/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khám bệnh, chữa bệnh|27-09-2011|Chính phủ|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|109/2016/NĐ-CP|Nghị định 109/2016/NĐ-CP-Quy định cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh|01-07-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+1- Điều kiện để cấp chứng chỉ hành nghề tại Việt Nam đối với người nước ngoài
+1.1. Có một trong các văn bằng, giấy chứng nhận sau đây phù hợp với hình thức hành nghề khám bệnh, chữa bệnh:
+a) Văn bằng chuyên môn y;
+b) Văn bằng cử nhân y khoa do nước ngoài cấp được Bộ Giáo dục và Đào tạo công nhận tương đương trình độ đại học nhưng phải kèm theo giấy chứng nhận đã qua đào tạo bổ sung theo ngành, chuyên ngành phù hợp với thời gian đào tạo ít nhất là 12 tháng tại cơ sở đào tạo hợp pháp của Việt Nam theo quy định của Bộ trưởng Bộ Y tế thì được coi là tương đương với văn bằng bác sỹ và được cấp chứng chỉ hành nghề với chức danh là bác sỹ;
+c) Văn bằng cử nhân hóa học, sinh học, dược sĩ trình độ đại học và phải kèm theo chứng chỉ hoặc giấy chứng nhận đào tạo chuyên ngành kỹ thuật y học về xét nghiệm với thời gian đào tạo ít nhất là 3 tháng hoặc văn bằng đào tạo sau đại học về chuyên khoa xét nghiệm;
+d) Giấy chứng nhận là lương y hoặc giấy chứng nhận người có bài thuốc gia truyền hoặc người có phương pháp chữa bệnh gia truyền do Bộ trưởng Bộ Y tế hoặc Giám đốc Sở Y tế cấp.
+1.2. Có văn bản xác nhận quá trình thực hành, trừ trường hợp là lương y, người có bài thuốc gia truyền hoặc có phương pháp chữa bệnh gia truyền.
+1.3. Có giấy chứng nhận đủ sức khỏe để hành nghề khám bệnh, chữa bệnh.
+1.4. Không thuộc trường hợp đang trong thời gian bị cấm hành nghề, cấm làm công việc liên quan đến chuyên môn y, dược theo bản án, quyết định của Tòa án; đang bị truy cứu trách nhiệm hình sự; đang trong thời gian chấp hành bản án hình sự, quyết định hình sự của tòa án hoặc quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục, cơ sở chữa bệnh; đang trong thời gian bị kỷ luật từ hình thức cảnh cáo trở lên có liên quan đến chuyên môn khám bệnh, chữa bệnh; mất hoặc hạn chế năng lực hành vi dân sự.
+1.5. Đáp ứng yêu cầu về sử dụng ngôn ngữ trong khám bệnh, chữa bệnh quy định tại Điều 23 của Luật khám bệnh, chữa bệnh
+1.6. Có lý lịch tư pháp được cơ quan có thẩm quyền của nước sở tại xác nhận (áp dụng đối với trường hợp không thuộc diện cấp giấy phép lao động).
+1.7. Có giấy phép lao động do cơ quan nhà nước có thẩm quyền về lao động của Việt Nam cấp theo quy định của pháp luật về lao động.
+2- Yêu cầu về sử dụng ngôn ngữ trong khám bệnh, chữa bệnh tại Việt Nam của người nước ngoài 
+2.1. Giấy chứng nhận biết tiếng Việt thành thạo đối với người nước ngoài đăng ký sử dụng tiếng Việt để khám bệnh, chữa bệnh.
+2.2. Trường hợp người đề nghị cấp chứng chỉ hành nghề không có giấy chứng nhận biết tiếng Việt thành thạo thì phải có người phiên dịch để phiên dịch từ ngôn ngữ của người đó đăng ký sử dụng sang tiếng Việt. 
+2.2. Trường hợp người đề nghị cấp chứng chỉ hành nghề đăng ký sử dụng ngôn ngữ khác mà không phải là tiếng mẹ đẻ của người đó để khám bệnh, chữa bệnh thì phải có giấy chứng nhận sử dụng thành thạo ngôn ngữ đó và phải có người phiên dịch để phiên dịch từ ngôn ngữ đó sang tiếng Việt. 
+2.3. Đối với người nước ngoài đăng ký sử dụng ngôn ngữ không phải là ngôn ngữ mẹ đẻ để khám bệnh, chữa bệnh: 
+- Giấy chứng nhận sử dụng thành thạo ngôn ngữ mà người hành nghề đăng ký sử dụng theo quy định tại Điều 17 Nghị định 109/2016/NĐ-CP để khám bệnh, chữa bệnh;
+         - Giấy chứng nhận đủ trình độ phiên dịch của người phiên dịch ngôn ngữ mà người hành nghề đăng ký sử dụng để khám bệnh, chữa bệnh theo quy định tại Điều 18 Nghị định 109/2016/NĐ-CP và hợp đồng lao động của người phiên dịch với cơ sở khám bệnh, chữa bệnh nơi người hành nghề đó làm việc; 
+3-Yêu cầu về xác nhận quá trình thực hành : Người có văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam, trước khi được cấp chứng chỉ hành nghề, phải qua thời gian thực hành tại cơ sở khám bệnh, chữa bệnh sau đây:
+a) 18 tháng thực hành tại bệnh viện, việc nghiên cứu có giường bệnh (sau đây gọi chung là bệnh viện) đối với bác sỹ ;
+b) 12 tháng thực hành tại bệnh viện đối với y sỹ;
+c) 09 tháng thực hành tại bệnh viện có khoa phụ sản hoặc tại nhà hộ sinh đối với hộ sinh viên.
+ d) 09 tháng thực hành tại cơ sở khám bệnh, chữa bệnh đối với điều dưỡng viên, kỹ thuật viên.
+1- Điều kiện để cấp chứng chỉ hành nghề tại Việt Nam đối với người nước ngoài
+1.1. Có một trong các văn bằng, giấy chứng nhận sau đây phù hợp với hình thức hành nghề khám bệnh, chữa bệnh:
+a) Văn bằng chuyên môn y;
+b) Văn bằng cử nhân y khoa do nước ngoài cấp được Bộ Giáo dục và Đào tạo công nhận tương đương trình độ đại học nhưng phải kèm theo giấy chứng nhận đã qua đào tạo bổ sung theo ngành, chuyên ngành phù hợp với thời gian đào tạo ít nhất là 12 tháng tại cơ sở đào tạo hợp pháp của Việt Nam theo quy định của Bộ trưởng Bộ Y tế thì được coi là tương đương với văn bằng bác sỹ và được cấp chứng chỉ hành nghề với chức danh là bác sỹ;
+c) Văn bằng cử nhân hóa học, sinh học, dược sĩ trình độ đại học và phải kèm theo chứng chỉ hoặc giấy chứng nhận đào tạo chuyên ngành kỹ thuật y học về xét nghiệm với thời gian đào tạo ít nhất là 3 tháng hoặc văn bằng đào tạo sau đại học về chuyên khoa xét nghiệm;
+d) Giấy chứng nhận là lương y hoặc giấy chứng nhận người có bài thuốc gia truyền hoặc người có phương pháp chữa bệnh gia truyền do Bộ trưởng Bộ Y tế hoặc Giám đốc Sở Y tế cấp.
+1.2. Có văn bản xác nhận quá trình thực hành, trừ trường hợp là lương y, người có bài thuốc gia truyền hoặc có phương pháp chữa bệnh gia truyền.
+1.3. Có giấy chứng nhận đủ sức khỏe để hành nghề khám bệnh, chữa bệnh.
+1.4. Không thuộc trường hợp đang trong thời gian bị cấm hành nghề, cấm làm công việc liên quan đến chuyên môn y, dược theo bản án, quyết định của Tòa án; đang bị truy cứu trách nhiệm hình sự; đang trong thời gian chấp hành bản án hình sự, quyết định hình sự của tòa án hoặc quyết định áp dụng biện pháp xử lý hành chính đưa vào cơ sở giáo dục, cơ sở chữa bệnh; đang trong thời gian bị kỷ luật từ hình thức cảnh cáo trở lên có liên quan đến chuyên môn khám bệnh, chữa bệnh; mất hoặc hạn chế năng lực hành vi dân sự.
+1.5. Đáp ứng yêu cầu về sử dụng ngôn ngữ trong khám bệnh, chữa bệnh quy định tại Điều 23 của Luật khám bệnh, chữa bệnh
+1.6. Có lý lịch tư pháp được cơ quan có thẩm quyền của nước sở tại xác nhận (áp dụng đối với trường hợp không thuộc diện cấp giấy phép lao động).
+1.7. Có giấy phép lao động do cơ quan nhà nước có thẩm quyền về lao động của Việt Nam cấp theo quy định của pháp luật về lao động.
+2- Yêu cầu về sử dụng ngôn ngữ trong khám bệnh, chữa bệnh tại Việt Nam của người nước ngoài 
+2.1. Giấy chứng nhận biết tiếng Việt thành thạo đối với người nước ngoài đăng ký sử dụng tiếng Việt để khám bệnh, chữa bệnh.
+2.2. Trường hợp người đề nghị cấp chứng chỉ hành nghề không có giấy chứng nhận biết tiếng Việt thành thạo thì phải có người phiên dịch để phiên dịch từ ngôn ngữ của người đó đăng ký sử dụng sang tiếng Việt. 
+2.2. Trường hợp người đề nghị cấp chứng chỉ hành nghề đăng ký sử dụng ngôn ngữ khác mà không phải là tiếng mẹ đẻ của người đó để khám bệnh, chữa bệnh thì phải có giấy chứng nhận sử dụng thành thạo ngôn ngữ đó và phải có người phiên dịch để phiên dịch từ ngôn ngữ đó sang tiếng Việt. 
+2.3. Đối với người nước ngoài đăng ký sử dụng ngôn ngữ không phải là ngôn ngữ mẹ đẻ để khám bệnh, chữa bệnh: 
+- Giấy chứng nhận sử dụng thành thạo ngôn ngữ mà người hành nghề đăng ký sử dụng theo quy định tại Điều 17 Nghị định 109/2016/NĐ-CP để khám bệnh, chữa bệnh;
+         - Giấy chứng nhận đủ trình độ phiên dịch của người phiên dịch ngôn ngữ mà người hành nghề đăng ký sử dụng để khám bệnh, chữa bệnh theo quy định tại Điều 18 Nghị định 109/2016/NĐ-CP và hợp đồng lao động của người phiên dịch với cơ sở khám bệnh, chữa bệnh nơi người hành nghề đó làm việc; 
+3-Yêu cầu về xác nhận quá trình thực hành : Người có văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam, trước khi được cấp chứng chỉ hành nghề, phải qua thời gian thực hành tại cơ sở khám bệnh, chữa bệnh sau đây:
+a) 18 tháng thực hành tại bệnh viện, việc nghiên cứu có giường bệnh (sau đây gọi chung là bệnh viện) đối với bác sỹ ;
+b) 12 tháng thực hành tại bệnh viện đối với y sỹ;
+c) 09 tháng thực hành tại bệnh viện có khoa phụ sản hoặc tại nhà hộ sinh đối với hộ sinh viên.
+ d) 09 tháng thực hành tại cơ sở khám bệnh, chữa bệnh đối với điều dưỡng viên, kỹ thuật viên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

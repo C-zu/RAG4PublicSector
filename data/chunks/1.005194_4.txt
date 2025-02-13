@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận hoặc cấp lại Trang bổ sung của Giấy chứng nhận do bị mất (cấp tỉnh - trường hợp đã thành lập VP đăng ký đất đai
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp lại Giấy chứng nhận theo Mẫu số 10/ĐK hoặc Đơn đề nghị cấp lại Trang bổ sung của Giấy chứng nhận. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0f2fdf08b965c'">mau so 10.doc</a>)
+- 01 Bản chính (2) Giấy xác nhận của Ủy ban nhân dân cấp xã về việc đã niêm yết thông báo mất giấy chứng nhận hoặc Trang bổ sung của Giấy chứng nhận trong thời gian 15 ngày đối với hộ gia đình và cá nhân; Giấy tờ chứng minh đã đăng tin 03 lần trên phương tiện thông tin đại chúng ở địa phương về việc mất Giấy chứng nhận hoặc Trang bổ sung của Giấy chứng nhận đối với tổ chức, cơ sở tôn giáo, cá nhân nước ngoài, tổ chức nước ngoài có chức năng ngoại giao, doanh nghiệp có vốn đầu tư nước ngoài và người Việt Nam định cư ở nước ngoài thực hiện dự án đầu tư;
+- 01 Bản chính (3) Giấy xác nhận của Ủy ban nhân dân cấp xã về việc thiên tai, hỏa hoạn đối với trường hợp mất Giấy chứng nhận hoặc Trang bổ sung của Giấy chứng nhận do thiên tai, hỏa hoạn.

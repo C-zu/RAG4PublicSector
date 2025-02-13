@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (Cấp mới)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí đối với cá nhân đủ điều kiện.
+- Bước 4: Cấp giấy chứng nhận đối người đủ điều kiện.
+- Bước 5: Công khai danh sách trên trang điện tử của Bộ Tài chính.

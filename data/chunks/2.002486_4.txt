@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ thu hút lao động tại các huyện miền núi
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ của doanh nghiệp (theo Mẫu 1, ban hành kèm theo Nghị quyết 121/2021/NQ-HĐND ngày 11/10/2121 của Hội đồng nhân dân tỉnh) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaf4eb700e138c'">Mẫu số 1.docx</a>)
+- 01 Bản sao - Giấy chứng nhận đăng ký kinh doanh (bản sao)
+- 01 Bản chính - Danh sách lao động đã ký hợp đồng không xác định thời hạn với doanh nghiệp (thể hiện rõ số, ngày, tháng, năm ký hợp đồng và địa chỉ thường trú của lao động) (bản gốc)
+- 01 Bản chính - Danh sách lao động đã đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp tại doanh nghiệp từ 12 tháng trở lên, có xác nhận của bảo hiểm xã hội huyện (bản gốc);
+- 01 Bản chính - Bảng trả lương cho lao động 12 tháng trở lên đến thời điểm hỗ trợ (bản gốc).

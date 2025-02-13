@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép để vật liệu, đào ao, giếng ở bãi sông trên địa bàn tỉnh Thanh Hóa.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : 0 Đồng|20 ngày làm việc. Trong đó: - Tại Chi cục Đê điều và Phòng chống lụt bão và Sở Nông nghiệp và Phát triển nông thôn: 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. - Tại UBND tỉnh không quá 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ do Sở Nông nghiệp và Phát triển nông thôn trình.|
+|Trực tuyến|20 Ngày làm việc|Phí : 0 Đồng|20 ngày làm việc. Trong đó: - Tại Chi cục Đê điều và Phòng chống lụt bão và Sở Nông nghiệp và Phát triển nông thôn: 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. - Tại UBND tỉnh không quá 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ do Sở Nông nghiệp và Phát triển nông thôn trình. - Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (một phần).|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : 0 Đồng|20 ngày làm việc. Trong đó: - Tại Chi cục Đê điều và Phòng chống lụt bão và Sở Nông nghiệp và Phát triển nông thôn: 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. - Tại UBND tỉnh không quá 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ do Sở Nông nghiệp và Phát triển nông thôn trình.|

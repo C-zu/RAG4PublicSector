@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|0|Phí : Đồng|Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký sử dụng dịch vụ T-VAN. Đối với trường hợp đăng ký để thực hiện nộp thuế điện tử: Ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán nơi người nộp thuế mở tài khoản gửi thông báo về việc chấp nhận hoặc không chấp nhận đăng ký nộp thuế điện tử cho người nộp thuế qua Cổng thông tin điện tử của Tổng cục Thuế trong thời hạn chậm nhất là 03 (ba) ngày làm việc kể từ ngày nhận được bản đăng ký của người nộp thuế.|
+|Trực tuyến|0||Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký thay đổi, bổ sung thông tin sử dụng dịch vụ T-VAN.|
+|Trực tuyến|0||Chậm nhất 15 phút kể từ khi nhận được hồ sơ đăng ký ngừng sử dụng dịch vụ T-VAN.|

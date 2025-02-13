@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thông báo sáp nhập, hợp nhất, chia, tách thư viện đối với thư viện cộng đồng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 ngày, kể từ ngày nhận đủ hồ sơ thông báo hợp lệ.|
+|Trực tuyến|15 Ngày||15 ngày, kể từ ngày nhận đủ hồ sơ thông báo hợp lệ.|

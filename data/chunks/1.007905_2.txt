@@ -1,0 +1,6 @@
+Tên thủ tục: Thông báo phát hành Biên lai.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp gửi Thông báo phát hành biên lai, Biên lai mẫu cho Cục hải quan tỉnh, thành phố nơi Doanh nghiệp đăng ký tờ khai hải quan.
++ Bước 2: Cơ quan hải quan tiếp nhận Thông báo phát hành Biên lai để quản lý và cập nhật trên trang thông tin điện tử của Tổng cục Hải quan.

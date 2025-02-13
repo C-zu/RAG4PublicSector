@@ -1,0 +1,9 @@
+Tên thủ tục: Giải thể nhóm trẻ, lớp mẫu giáo độc lập (theo yêu cầu của tổ chức, cá nhân đề nghị thành lập)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||Không quy định|
+|Trực tuyến|Không quy định|||
+|Dịch vụ bưu chính|Không quy định||Không quy định|

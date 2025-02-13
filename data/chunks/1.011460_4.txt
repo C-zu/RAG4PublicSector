@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục Gia hạn giấy phép thành lập Hiệp hội doanh nghiệp nước ngoài tại thành phố Hồ Chí Minh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn giấy phép thành lập Hiệp hội (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1f330bf6746e6'">Mẫu số 1.docx</a>)
+- 01 Bản chính Báo cáo tóm tắt hoạt động của Hiệp hội trong thời gian giấy phép có hiệu lực

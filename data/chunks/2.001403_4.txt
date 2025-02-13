@@ -1,0 +1,21 @@
+Tên thủ tục: Đăng ký mẫu con dấu mới (thực hiện tại cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đối với cơ quan, tổ chức, chức danh nhà nước:
+- 01 Bản chính a) Đối với cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu có hình Quốc huy: Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền.
+- 01 Bản chính b) Đối với cơ quan có chức năng quản lý nhà nước, cơ quan chuyên môn: Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền.
+- 01 Bản chính c) Đối với tổ chức sự nghiệp: - Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính d) Đối với Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ: - Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền; - Điều lệ hoạt động của tổ chức đã được cơ quan có thẩm quyền phê duyệt.
+- 01 Bản chính đ) Đối với tổ chức trực thuộc Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ: - Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền; - Văn bản quy định về tổ chức, hoạt động do cơ quan có thẩm quyền cấp cho tổ chức theo quy định của pháp luật; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính e) Đối với tổ chức tôn giáo: Quyết định công nhận tổ chức của cơ quan có thẩm quyền.
+- 01 Bản chính g) Đối với tổ chức trực thuộc tổ chức tôn giáo: - Quyết định của tổ chức tôn giáo về việc thành lập tổ chức tôn giáo trực thuộc; - Văn bản của cơ quan có thẩm quyền chấp thuận việc thành lập tổ chức tôn giáo trực thuộc; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính h) Đối với doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã; chi nhánh, văn phòng đại diện của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã: Giấy phép thành lập và hoạt động hoặc giấy đăng ký hoạt động hoặc giấy phép hoạt động của cơ quan có thẩm quyền cấp cho tổ chức theo quy định của pháp luật.
+- 01 Bản chính i) Đối với tổ chức trực thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã được thành lập, hoạt động theo quy định của pháp luật: - Quyết định thành lập của cơ quan có thẩm quyền; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính k) Đối với tổ chức nước ngoài không có chức năng ngoại giao hoạt động hợp pháp tại Việt Nam: Giấy phép hoạt động của cơ quan có thẩm quyền Việt Nam.
+- 01 Bản chính l) Đối với tổ chức khác được thành lập, hoạt động theo quy định của pháp luật: Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền.
+
+
+Hồ sơ đối với người được cử liên hệ nộp hồ sơ: Giấy giới thiệu hoặc Giấy ủy quyền.
+- 01 Bản chính Giấy giới thiệu hoặc Giấy ủy quyền.

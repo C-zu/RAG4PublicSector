@@ -1,0 +1,16 @@
+Tên thủ tục: Lập, thẩm định, quyết định đầu tư chương trình, dự án đầu tư thuộc thẩm quyền của người đứng đầu cơ quan chủ quản
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009697
+Số quyết định:
+2165/QĐ-UBND
+Tên thủ tục:
+Lập, thẩm định, quyết định đầu tư chương trình, dự án đầu tư thuộc thẩm quyền của người đứng đầu cơ quan chủ quản
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức

@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động kiểm định
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Kỹ thuật an toàn và Môi trường công nghiệp - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động kiểm định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|107/2016/NĐ-CP|Quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp|01-07-2016|Chính phủ|
+|67/2014/QH13|Luật 67/2014/QH13|26-11-2014|Quốc Hội|

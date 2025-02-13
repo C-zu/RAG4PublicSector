@@ -1,0 +1,26 @@
+Tên thủ tục: Thủ tục miễn giảm kiểm tra chất lượng hàng hóa nhóm 2 nhập khẩu (cấp tỉnh)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận miễn kiểm tra nhà nước về chất lượng, Văn bản thông báo lý do cho người nhập khẩu trong trường hợp từ chối việc xác nhận miễn kiểm tra nhà nước về chất lượng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2006/QH11|Luật 68/2006/QH11 - Tiêu chuẩn và quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|132/2008/NĐ-CP|Nghị định 132/2008/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa|31-12-2008|Chính phủ|
+|74/2018/NĐ-CP|Nghị định 74/2018/NĐ-CP|15-05-2018||
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP|09-11-2018||
+|43/2017/NĐ-CP|Nghị định 43/2017/NĐ-CP|14-04-2017||
+|06/2020/TT-BKHCN|Thông tư 06/2020/TT-BKHCN|10-12-2020||

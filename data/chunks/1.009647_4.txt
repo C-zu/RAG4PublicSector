@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp đã được cấp Giấy chứng nhận đăng ký đầu tư và không thuộc diện chấp thuận điều chỉnh chủ trương đầu tư của UBND cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Đối với Trường hợp 1:
+- 01 Bản chính - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc11fa47c4cd35c'">Mẫu A.I.11.h.docx</a>)
+- 01 Bản chính - Tài liệu liên quan đến việc thay đổi tên dự án đầu tư, tên nhà đầu tư.
+
+
+Bao gồm
+- 01 Bản chính + Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde1ca589ac15fa'">Mẫu A.I.11.h.docx</a>)
+- 01 Bản chính + Báo cáo tình hình triển khai dự án đầu tư đến thời điểm điều chỉnh;
+- 01 Bản chính + Quyết định của nhà đầu tư về việc điều chỉnh dự án đầu tư đối với nhà đầu tư là tổ chức;
+- 01 Bản chính + Giải trình hoặc cung cấp tài liệu liên quan đến việc điều chỉnh những nội dung quy định tại các điểm b, c, d, đ, e, g và h khoản 1 Điều 33 của Luật Đầu tư (nếu có).

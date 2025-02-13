@@ -1,0 +1,18 @@
+Tên thủ tục: Thủ tục điều chỉnh quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với trường hợp điều chỉnh chỉ định: 
++ Tổ chức đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường đối với lĩnh vực phù hợp với lĩnh vực đề nghị chỉ định.
++ Chuẩn công tác và chất chuẩn dùng trực tiếp để kiểm định phương tiện đo nhóm 2 thuộc lĩnh vực hoạt động được chỉ định phải đáp ứng các yêu cầu tại văn bản kỹ thuật đo lường Việt Nam tương ứng, phải được hiệu chuẩn, thử nghiệm hoặc so sánh tại tổ chức hiệu chuẩn, thử nghiệm tại Việt Nam có lĩnh vực hoạt động phù hợp được chỉ định hoặc tại tổ chức kiểm định, hiệu chuẩn, thử nghiệm ở nước ngoài có lĩnh vực hoạt động phù hợp được công nhận hoặc chỉ định.
++ Có ít nhất 01 nhân viên kiểm định đã có chứng chỉ hoàn thành khóa đào tạo về kiểm định do Tổng cục tổ chức thực hiện tương ứng với lĩnh vực được chỉ định. 
+- Đối với trường hợp chỉ định lại: Tổ chức đã được chỉ định thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
+- Đối với trường hợp điều chỉnh chỉ định: 
++ Tổ chức đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường đối với lĩnh vực phù hợp với lĩnh vực đề nghị chỉ định.
++ Chuẩn công tác và chất chuẩn dùng trực tiếp để kiểm định phương tiện đo nhóm 2 thuộc lĩnh vực hoạt động được chỉ định phải đáp ứng các yêu cầu tại văn bản kỹ thuật đo lường Việt Nam tương ứng, phải được hiệu chuẩn, thử nghiệm hoặc so sánh tại tổ chức hiệu chuẩn, thử nghiệm tại Việt Nam có lĩnh vực hoạt động phù hợp được chỉ định hoặc tại tổ chức kiểm định, hiệu chuẩn, thử nghiệm ở nước ngoài có lĩnh vực hoạt động phù hợp được công nhận hoặc chỉ định.
++ Có ít nhất 01 nhân viên kiểm định đã có chứng chỉ hoàn thành khóa đào tạo về kiểm định do Tổng cục tổ chức thực hiện tương ứng với lĩnh vực được chỉ định. 
+- Đối với trường hợp chỉ định lại: Tổ chức đã được chỉ định thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
+Từ khóa:
+Thủ tục điều chỉnh quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Mô tả:
+Không có thông tin

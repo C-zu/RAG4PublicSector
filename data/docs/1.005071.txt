@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005071
+Số quyết định:
+1241/QĐ-BGTVT
+Tên thủ tục:
+Cấp giấy phép lái tàu cho lái tàu trên các tuyến đường sắt đang khai thác
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+Doanh nghiệp nộp 01 bộ hồ sơ về cơ quan cấp giấy phép lái tàu, cụ thể:
+- Cục Đường sắt Việt Nam đối với đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng (trừ trường hợp đường sắt đô thị, đường sắt chuyên dùng trên địa bàn các tỉnh, thành phố Hồ Chí Minh, Quảng Ninh, Thái Nguyên).
+- Ủy ban nhân dân các tỉnh, thành phố: TP.  Hồ Chí Minh, Quảng Ninh, Thái Nguyên đối với đường sắt chuyên dùng, đường sắt đô thị trên địa bàn. Trước ngày 01/01/2025, nếu Ủy ban nhân dân các tỉnh, thành phố nêu trên chưa thực hiện được nội dung này thì hướng dẫn Chủ sở hữu phương tiện gửi 01 bộ hồ sơ làm thủ tục đến Cục Đường sắt Việt Nam.
+Giải quyết TTHC
+- Trường hợp hồ sơ không đúng theo quy định, trong thời hạn 01 ngày làm
+việc kể từ ngày tiếp nhận hồ sơ qua bộ phận một cửa hoặc qua cổng dịch vụ công trực tuyến; 02 ngày làm việc kể từ ngày tiếp nhận hồ sơ theo các hình thức khác, cơ quan cấp giấy phép lái tàu có trách nhiệm thông báo, hướng dẫn doanh nghiệp hoàn thiện hồ sơ theo quy định; 
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, cơ quan cấp giấy phép lái tàu ra quyết định tổ chức kỳ sát hạch cấp  giấy phép lái tàu, quyết định thành lập hội đồng sát hạch và thông báo bằng văn bản cho doanh nghiệp. Trong đó, quyết định tổ chức kỳ sát hạch phải nêu rõ hình thức sát hạch lý thuyết (thi viết hoặc thi trắc nghiệm), danh sách thí sinh đủ điều kiện dự sát hạch, loại giấy phép lái tàu đăng ký sát hạch, loại phương tiện sát hạch đối với từng thí sinh dự sát hạch;
+- Trong thời gian tối đa 03 tháng kể từ ngày có quyết định thành lập, Hội
+đồng sát hạch phối hợp với các doanh nghiệp tổ chức kỳ sát hạch, báo cáo kết quả cho cơ quan cấp giấy phép lái tàu. Trường hợp không hoàn thành kỳ sát hạch trong thời hạn trên, hội đồng sát hạch phải báo cáo cơ quan cấp giấy phép lái tàu nêu rõ lý do, đề xuất gia hạn thời gian hoặc kết thúc kỳ sát hạch. Thời gian gia hạn là 01 lần và tối đa không quá 01 tháng; 
+- Trong thời hạn 03 ngày làm việc kể từ ngày có báo cáo kết quả kỳ sát hạch, cơ quan cấp giấy phép lái tàu cấp giấy phép lái tàu cho những trường hợp đạt yêu cầu. Đối với những trường hợp không được cấp giấy phép lái tàu, cơ quan cấp giấy phép lái tàu có văn bản thông báo và nêu rõ lý do cho doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|125 Ngày|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy phép lái tàu: 100.000 đồng/01 lần cấp.|125 ngày kể từ ngày nhận hồ sơ đầy đủ, đúng theo quy định.|
+|Trực tuyến|125 Ngày|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy phép lái tàu: 100.000 đồng/01 lần cấp.|125 ngày kể từ ngày nhận hồ sơ đầy đủ, đúng theo quy định.|
+|Dịch vụ bưu chính|125 Ngày|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy phép lái tàu: 100.000 đồng/01 lần cấp.|125 ngày kể từ ngày nhận hồ sơ đầy đủ, đúng theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử văn bản đề nghị tổ chức sát hạch, cấp giấy phép lái tàu của doanh nghiệp kinh doanh đường sắt theo mẫu ([1.005071_Tổ chức.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf2c3075703dd2'))
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: Bản gốc hoặc bản điện tử đơn đề nghị sát hạch cấp giấy phép lái tàu theo mẫu ([1.005071_cá nhân.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff02d54949b72'))
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: Bản gốc hoặc bản điện tử hoặc bản sao có chứng thực hoặc bản sao điện tử có chứng thực giấy chứng nhận đủ tiêu chuẩn sức khỏe lái tàu theo quy định của Bộ trưởng Bộ Y tế
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo: Bản sao có chứng thực hoặc bản sao điện tử có chứng thực bằng hoặc chứng chỉ chuyên ngành lái phương tiện giao thông đường sắt phù hợp với loại phương tiện dự sát hạch
+- 01 Bản chính, 01 Bản sao Hồ sơ của các cá nhân kèm theo:03 ảnh màu cỡ 3x4cm ảnh chụp hoặc ảnh điện tử chụp trong thời hạn không quá 06 tháng tính đến ngày nộp hồ sơ.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam, UBND tỉnh Thái Nguyên, UBND Thành phố Hồ Chí Minh, UBND tỉnh Quảng Ninh
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam, UBND tỉnh Thái Nguyên, UBND Thành phố Hồ Chí Minh, UBND tỉnh Quảng Ninh
+Địa chỉ tiếp nhận HS:
+Cục Đường sắt Việt Nam, Ủy ban nhân dân các tỉnh, thành phố: Hồ Chí Minh, Quảng Ninh, Thái Nguyên.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái tàu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|198/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực đường thủy nội địa và đường sắt|08-11-2016|Bộ Tài chính|
+|15/2023/TT-BGTVT|Thông tư quy định về tiêu chuẩn, nhiệm vụ, quyền hạn đối với chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; nội dung, chương trình đào tạo đối với cơ sở đào tạo các chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; điều kiện, nội dung, quy trình sát hạch và cấp, cấp lại, thu hồi giấy phép lái tàu trên đường sắt|30-06-2023|Bộ Giao thông vận tải|
+|26/2023/TT-BGTVT|sửa đổi, bổ sung Thông tư số 15/2023/TT-BGTVT ngày 30/6/2023 của Bộ trưởng Bộ Giao thông vận tải quy định về tiêu chuẩn, nhiệm vụ, quyền hạn đối với các chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; nội dung, chương trình đào tạo chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; điều kiện, nội dung, quy trình sát hạch và cấp, cấp lại, thu hồi giấy phép lái tàu trên đường sắt|29-09-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có yêu cầu điều kiện
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

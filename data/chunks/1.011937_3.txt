@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Tháng|Phí : 250.000 Đồng Phí thẩm định hồ sơ yêu cầu cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp|01 tháng kể từ ngày tiếp nhận hồ sơ|
+|Trực tuyến|01 Tháng|Phí : 250.000 Đồng Phí thẩm định hồ sơ yêu cầu cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp|01 tháng kể từ ngày tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|01 Tháng|Phí : 250.000 Đồng Phí thẩm định hồ sơ yêu cầu cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp|01 tháng kể từ ngày tiếp nhận hồ sơ|

@@ -1,0 +1,9 @@
+Tên thủ tục: Thiết lập khu neo đậu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thỏa thuận thiết lập khu neo đậu theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd821b05258a0bc'">9.docx</a>)
+- 01 Bản chính - Bản sao văn bản chấp thuận chủ trương đầu tư của cơ quan có thẩm quyền;
+- 01 Bản chính - Bình đồ khu vực dự kiến thiết lập khu neo đậu: phải thể hiện phạm vi khu neo đậu, cao trình đáy, vị trí luồng, công trình liền kề (nếu có) trên hệ tọa độ quốc gia VN2000 và hệ cao độ nhà nước, tỷ lệ bản vẽ từ 1/500 đến 1/2.000.

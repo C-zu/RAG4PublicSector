@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Đơn đề nghị gia hạn Giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5fcbe1dc28948'">Mẫu Đơn đề nghị Sửa đổi, bổ sung, cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự.docx</a>)
+- 02 Bản chính - Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự đang có hiệu lực;
+- 02 Bản chính - Báo cáo hoạt động của doanh nghiệp trong 02 năm gần nhất.

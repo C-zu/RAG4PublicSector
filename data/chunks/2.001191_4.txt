@@ -1,0 +1,11 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu theo phương thức kiểm tra chặt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký kiểm tra thực phẩm nhập khẩu theo quy định tại Mẫu số 04 Phụ lục I ban hành kèm theo Nghị định số 15/2018/NĐ-CP của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe91a6e50b32481'">Phu luc I mau 04 ND15.2018.docx</a>)
+- 01 Bản chính Bản tự công bố sản phẩm theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb7041b57815900'">Phu luc I mau 02 ND15.2018.docx</a>)
+- 01 Bản chính 03 (ba) Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu liên tiếp theo phương thức kiểm tra chặt đối với các lô hàng, mặt hàng được chuyển đổi phương thức từ kiểm tra chặt sang kiểm tra thông thường (bản chính); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe840fc4af5fda2'">Phu luc 1 mau 05 ND15.2018.docx</a>)
+- 01 Bản sao Bản sao Danh mục hàng hóa (Packing list);
+ Trong trường hợp sản phẩm quy định tại Điều 14 Nghị định số 15/2018/NĐ-CP của Chính phủ thì phải có giấy chứng nhận đáp ứng các quy định về an toàn thực phẩm do cơ quan có thẩm quyền của nước xuất khẩu cấp (bản chính), trừ trường hợp thủy sản do tàu cá nước ngoài thực hiện đánh bắt, chế biến trên biến bán trực tiếp cho Việt Nam.

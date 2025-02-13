@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đăng ký tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Tờ khai đề nghị cấp lại Giấy chứng nhận đăng ký tàu cá theo Mẫu số 07.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe79964241280b1'">Mẫu số 07.docx</a>)
+- 01 Bản chính b) Bản chính Giấy chứng nhận đăng ký tàu cá hoặc Giấy xác nhận đã đăng ký, Giấy chứng nhận đăng ký tàu công vụ thủy sản cũ; trường hợp Giấy chứng nhận đăng ký tàu cá bị mất, chủ tàu phải khai báo và nêu rõ lý do;
+- 01 Bản sao c) Bản sao chụp Giấy chứng nhận an toàn kỹ thuật của tàu cá có chiều dài lớn nhất từ 12 mét trở lên;
+- 01 Bản chính d) Ảnh màu (9 x 12 cm, chụp toàn tàu theo hướng 2 bên mạn tàu).

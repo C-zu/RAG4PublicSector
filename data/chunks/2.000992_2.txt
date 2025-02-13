@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký người dịch mà người dịch là cộng tác viên dịch thuật của Phòng Tư pháp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Người yêu cầu chứng thực chữ ký người dịch phải xuất trình các giấy tờ phục vụ việc chứng thực chữ ký người dịch.
++ Người thực hiện chứng thực (hoặc người tiếp nhận hồ sơ trong trường hợp tiếp nhận hồ sơ tại bộ phận một cửa, một cửa liên thông) kiểm tra giấy tờ do người yêu cầu chứng thực xuất trình, nếu thấy đủ giấy tờ theo quy định và giấy tờ, văn bản được dịch không thuộc các trường hợp giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch thì thực hiện chứng thực như sau:
+* Khi thực hiện chứng thực, người thực hiện chứng thực phải đối chiếu chữ ký của người dịch trên bản dịch với chữ ký mẫu trước khi thực hiện chứng thực; trường hợp nghi ngờ chữ ký trên bản dịch so với chữ ký mẫu thì yêu cầu người dịch ký trước mặt.
+* Ghi đầy đủ lời chứng chứng thực chữ ký người dịch theo mẫu quy định;
+* Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.
+Đối với bản dịch giấy tờ, văn bản có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu giấy tờ, văn bản có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.

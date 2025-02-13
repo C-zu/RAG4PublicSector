@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy phép nạo vét luồng lạch trong phạm vi bảo vệ đê điều.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính, 01 Bản sao + Đơn đề nghị cấp giấy phép theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee44532fa5b87d'">Phụ lục I.docx</a>)
+- 02 Bản chính, 01 Bản sao + Quyết định phê duyệt đầu tư công trình, dự án; Hồ sơ thiết kế cơ sở, thiết kế kỹ thuật (hoặc bản vẽ thi công) được phê duyệt, thuyết minh tính toán đảm bảo quy chuẩn kỹ thuật công trình đê điều và tiêu thoát lũ khi xây dựng công trình; các văn bản pháp lý liên quan khác;
+- 02 Bản chính, 01 Bản sao + Hồ sơ thiết kế cơ sở, thiết kế kỹ thuật (hoặc bản vẽ thi công) được phê duyệt, thuyết minh tính toán đảm bảo quy chuẩn kỹ thuật công trình đê điều và tiêu thoát lũ khi xây dựng công trình; các văn bản pháp lý liên quan khác;
+- 02 Bản chính, 01 Bản sao + Báo cáo đánh giá ảnh hưởng của hoạt động đến việc vận hành và an toàn của công trình đê điều; các biện pháp khắc phục ảnh hưởng. Nếu hoạt động có thể làm giảm khả năng thoát lũ, tăng mực nước lũ thiết kế trên sông, ảnh hưởng đến chế độ dòng chảy, xói lở các khu vực lân cận, ổn định công trình đê điều (gọi chung là mức độ ảnh hưởng) thì phải có các tài liệu sau: Khảo sát, tính toán mức độ ảnh hưởng; kết quả thẩm tra của đơn vị tư vấn độc lập về mức độ ảnh hưởng; ý kiến bằng văn bản của các cơ quan chức năng liên quan;
+- 02 Bản chính, 01 Bản sao + Sơ họa vị trí khu vực tiến hành các hoạt động đề nghị cấp giấy phép;
+- 02 Bản chính, 01 Bản sao + Văn bản thỏa thuận với tổ chức trực tiếp quản lý khai thác và bảo vệ công trình đê, kè nơi có hoạt động đề nghị cấp giấy phép;
+- 02 Bản chính, 01 Bản sao + Báo cáo đánh giá tác động môi trường đối với các hoạt động phải đánh giá tác động môi trường theo quy định của pháp luật.

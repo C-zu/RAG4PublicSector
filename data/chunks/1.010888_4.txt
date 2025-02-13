@@ -1,0 +1,8 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu hoàn thành công trình (đối với các công trình trên địa bàn thuộc trách nhiệm quản lý của Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành, trừ các công trình thuộc thẩm quyền kiểm tra của Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng và cơ quan chuyên môn về xây dựng thuộc Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng theo Phụ lục VIa Nghị định số 06/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe29f4b2a14a8e4'">MẪU BÁO CÁO HOÀN THÀNH THI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH.docx</a>)
+- 01 Bản sao - Danh mục hồ sơ hoàn thành công trình theo Phụ lục Vlb Nghị định số 06/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd12e06bcdc02a2'">MẪU DANH MỤC HỒ SƠ HOÀN THÀNH CÔNG TRÌNH.docx</a>)

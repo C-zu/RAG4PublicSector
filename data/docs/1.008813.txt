@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008813
+Số quyết định:
+1545/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy chứng nhận tên định danh
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+- Tổ chức, cá nhân hoàn thiện hồ sơ đăng ký cấp tên định danh (theo quy định tại Điều 24 Nghị định số 91/2020/NĐ-CP);
+- Tổ chức, cá nhân nộp Hồ sơ đến Bộ Thông tin và Truyền thông (Cục An toàn thông tin).
+- Sau khi hồ sơ được tiếp nhận, trong thời hạn một (01) ngày làm việc Bộ Thông tin và Truyền thông (Cục An toàn thông tin) xem xét tính hợp lệ của hồ sơ và quyết định một trong các trường hợp sau:
++ Cấp tên định danh cho tổ chức, cá nhân và thông báo cho tổ chức, cá nhân biết thông qua thư điện tử hoặc tin nhắn;
++ Không cấp tên định danh cho tổ chức, cá nhân đối với trường hợp hồ sơ chưa đầy đủ hoặc cần làm rõ, tổ chức, cá nhân bổ sung, giải trình, hoàn thiện hồ sơ và nộp lại hồ sơ theo quy định tại Điều 25 Nghị định số 91/2020/NĐ-CP và thông báo lý do cho tổ chức, cá nhân thông qua thư điện tử hoặc tin nhắn.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Lệ phí : 200000 Đồng (Theo quy định của Bộ Tài chính)|01 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|01 Ngày làm việc|Lệ phí : 200000 Đồng (Theo quy định của Bộ Tài chính)|01 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|01 Ngày làm việc|Lệ phí : 200000 Đồng (Theo quy định của Bộ Tài chính)|01 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp Giấy chứng nhận tên định danh
+- 01 Bản chính Bản khai Cấp tên định danh ([Bản khai đăng ký tên định danh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f933d2c89c33b00'))
+- 01 Bản sao Bản sao có chứng thực Quyết định thành lập của tổ chức hoặc giấy chứng nhận đăng ký doanh nghiệp
+- 01 Bản sao Bản sao có chứng thực chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu
+- 01 Bản sao Các giấy tờ khác có liên quan tới quyền sở hữu trí tuệ, đăng ký thương hiệu ([Giấy ủy quyền.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb81c27c28e87a'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục An toàn thông tin, Tầng 8, Tòa nhà Cục Tần số Vô tuyến điện, 115 Trần Duy Hưng, Trung Hòa, Cầu giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận tên định danh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|91/2020/NĐ-CP|Nghị định 91/2020/NĐ-CP|14-08-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

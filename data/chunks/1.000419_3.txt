@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đăng ký khai tử lưu động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : Theo mức thu lệ phí do Hội đồng nhân dân cấp tỉnh quy định. Miễn lệ phí đối với trường hợp đăng ký khai tử đúng hạn; đăng ký cho người thuộc gia đình có công với cách mạng; người thuộc hộ nghèo; người khuyết tật.||

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký cảng hàng không, sân bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy chứng nhận đăng ký cảng hàng không, sân bay. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf722751696454'">1.004724_1.004719_1.002880_cấp chứng nhận đăng ký cảng.docx</a>)

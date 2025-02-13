@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục tặng Cờ thi đua của Ủy ban nhân dân thành phố về thành tích dẫn đầu cụm, khối thi đua
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình của Cụm trưởng (hoặc Khối trưởng) trực thuộc thành phố (theo mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe84a57b828d95d'">Mẫu số 10.docx</a>)
+- 01 Bản chính Tóm tắt thành tích của tập thể được đề nghị xét khen thưởng (theo mẫu) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc68b9d28da13d0'">Mẫu số 18.docx</a>)
+- 01 Bản chính Biên bản họp của cụm thi đua (hoặc khối thi đua) đề nghị khen thưởng
+- 01 Bản chính Văn bản xác nhận đã hoàn thành nghĩa vụ nộp thuế của đơn vị thuế có thẩm quyền (đối với các doanh nghiệp)

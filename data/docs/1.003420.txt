@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003420
+Số quyết định:
+3842/QĐ-BQP
+Tên thủ tục:
+Thủ tục giải quyết hưởng chế độ tử tuất một lần
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+QUÂN SỰ, QUỐC PHÒNG
+Trình tự thực hiện:
+1. Thân nhân của người lao động nộp hồ sơ theo quy định cho cơ quan nhân sự cấp trung đoàn và tương đương.
+2.	Cơ quan nhân sự cấp trung đoàn và tương đương
+-	Hướng dẫn thân nhân người lao động nộp hồ sơ giải quyết hưởng chế độ tử tuất một lần theo quy định; kiểm tra, đối chiếu các yếu tố về nhân thân của người lao động để đảm bảo tính thống nhất của hồ sơ trước khi nộp cho cơ quan nhân sự cấp trên.
+-	Bổ sung đầy đủ quá trình đóng BHXH của người lao động vào sổ BHXH theo quy định; chủ trì phối hợp với cơ quan chức năng hoàn thiện hồ sơ gửi cơ quan nhân sự cấp trên.
+-	Nhận lại hồ sơ đã được giải quyết từ cơ quan nhân sự cấp trên, giao cho thân nhân người lao động.
+3.	Cơ quan nhân sự cấp trên trung đoàn và tương đương
+Tiếp nhận hồ sơ giải quyết hưởng chế độ tử tuất một lần của người lao động do cơ quan nhân sự cấp dưới chuyển đến, kiểm tra, đối chiếu, hoàn thiện hồ sơ thuộc trách nhiệm theo hướng dẫn gửi cơ quan nhân sự trực thuộc Bộ, tổng hợp gửi BHXH Bộ Quốc phòng hồ sơ của từng người lao động; nhận lại hồ sơ đã được BHXH Bộ Quốc phòng giải quyết, bàn giao cho đơn vị thuộc quyền để giao cho thân nhân người lao động.
+4.	Cơ quan tài chính cấp trung đoàn và tương đương
+Tiếp nhận hồ sơ hưởng các chế độ tử tuất một lần của người lao động đã được BHXH Bộ Quốc phòng giải quyết do cơ quan nhân sự hoặc thân nhân người lao động chuyển đến; kiểm tra, lập danh sách chi trả đầy đủ, kịp thời.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Lệ phí : 0 Đồng|1. Cấp trung đoàn và tương đương: 30 ngày; 2. Cấp sư đoàn và tương đương: 10 ngày; 3. Cấp đơn vị trực thuộc Bộ: 05 ngày; 4. Bảo hiểm xã hội Bộ Quốc phòng: 15 ngày * Cách thức thực hiện: Thân nhân của người lao động trực tiếp nộp hồ sơ theo quy định cho cơ quan nhân sự cấp trung đoàn và tương đương.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai của thân nhân (Mẫu số 09A-HBQP) có chứng thực chữ ký hoặc điểm chỉ của người khai. ([Mẫu số 09A-HBQP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe450c705c1679c'))
+- 01 Bản chính Giấy xác nhận của chính quyền địa phương nơi người nuôi dưỡng hợp pháp cư trú (trường hợp thân nhân không phải là vợ hoặc chồng, con, bố mẹ đẻ, bố mẹ vợ hoặc bố mẹ chồng mà người chết khi còn sống phải chịu trách nhiệm nuôi dưỡng).
+- 01 Bản chính 2. Trường hợp chết do TNLĐ, BNN: Biên bản điều tra TNLĐ (trường hợp tai nạn giao thông được xác định là TNLĐ thì có thêm biên bản khám nghiệm hiện trường; sơ đồ hiện trường vụ tai nạn giao thông; biên bản tai nạn giao thông của cơ quan công an hoặc cơ quan điều tra hình sự Bộ Quốc phòng) hoặc bản sao bệnh án điều trị BNN.
+- 01 Bản chính, 01 Bản sao 3. Biên bản họp của các thân nhân đối với trường hợp đủ điều kiện hưởng trợ cấp tuất hằng tháng nhưng chọn hưởng trợ cấp tuất một lần (Mẫu số 9C-HBQP, bản chính); trường hợp chỉ có một thân nhân đủ điều kiện hưởng trợ cấp tuất hằng tháng hoặc nhiều thân nhân đủ điều kiện hưởng trợ cấp tuất hằng tháng nhưng chỉ có một người đại diện hợp pháp mà lựa chọn hưởng trợ cấp tuất một lần thì thân nhân lựa chọn hưởng trợ cấp tuất một lần hoặc người đại diện hợp pháp của thân nhân chịu trách nhiệm về việc lựa chọn và không cần biên bản này. ([Mẫu số 9C-HBQP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3654936e3a503'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Cơ quan nhân sự cấp trung đoàn và tương đương
+Cơ quan có thẩm quyền:
+Bảo hiểm xã hội Bộ quốc phòng
+Địa chỉ tiếp nhận HS:
+Cơ quan nhân sự cấp trung đoàn và tương đương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cấp sư đoàn và tương đương, cấp đơn vị trực thuộc Bộ
+Kết quả thực hiện:
+Quyết định hưởng chế độ tử tuất một lần.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|115/2015/NĐ-CP|Nghị định 115/2015/NĐ-CP|11-11-2015|Chính phủ|
+|134/2015/NĐ-CP|Nghị định 134/2015/NĐ-CP|29-12-2015|Chính phủ|
+|93/2015/QH13|Nghị quyết 93/2015/QH13|22-06-2015|Quốc Hội|
+|33/2016/NĐ-CP|Nghị định 33/2016/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân|10-05-2016|Chính phủ|
+|58/2014/QH13|Luật Bảo hiểm xã hội|20-11-2014||
+|181/2016/TT-BQP|Thông tư 181/2016/TT-BQP|04-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Thân nhân của người lao động bị chết được hưởng trợ cấp tuất một lần thuộc một trong các trường hợp sau:
+a) Người lao động chết không thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP;
+b) Người lao động chết thuộc một trong các trường hợp quy định tại thuộc  thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP nhưng không có hoặc không còn thân nhân đủ Điều kiện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội;
+c) Thân nhân thuộc diện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội mà có nguyện vọng hưởng trợ cấp tuất một lần, trừ trường hợp con dưới 06 tuổi, con hoặc vợ hoặc chồng mà bị suy giảm khả năng lao động từ 81% trở lên.
+Thân nhân của người lao động bị chết được hưởng trợ cấp tuất một lần thuộc một trong các trường hợp sau:
+a) Người lao động chết không thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP;
+b) Người lao động chết thuộc một trong các trường hợp quy định tại thuộc  thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP nhưng không có hoặc không còn thân nhân đủ Điều kiện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội;
+c) Thân nhân thuộc diện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội mà có nguyện vọng hưởng trợ cấp tuất một lần, trừ trường hợp con dưới 06 tuổi, con hoặc vợ hoặc chồng mà bị suy giảm khả năng lao động từ 81% trở lên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

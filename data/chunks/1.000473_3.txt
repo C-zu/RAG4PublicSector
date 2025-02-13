@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định, phê duyệt phương án ứng phó với tình huống khẩn cấp hồ chứa thủy điện thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan tiếp nhận hồ sơ có trách nhiệm thẩm định hồ sơ, trường hợp đủ điều kiện, trình cấp có thẩm quyền xem xét phê duyệt.|
+|Dịch vụ bưu chính|20 Ngày làm việc||Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan tiếp nhận hồ sơ có trách nhiệm thẩm định hồ sơ, trường hợp đủ điều kiện, trình cấp có thẩm quyền xem xét phê duyệt.|

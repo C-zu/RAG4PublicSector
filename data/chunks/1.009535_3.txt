@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký cung cấp dịch vụ của công ty chứng khoán
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||kể từ ngày nhận được hồ sơ đăng ký cung cấp dịch vụ đầy đủ và hợp lệ và có kết quả kiểm tra cơ sở vật chất.|
+|Trực tuyến|7 Ngày làm việc||Kể từ ngày nhận được hồ sơ đăng ký cung cấp dịch vụ đầy đủ và hợp lệ và có kết quả kiểm tra cơ sở vật chất.|
+|Dịch vụ bưu chính|07 Ngày làm việc||kể từ ngày nhận được hồ sơ đăng ký cung cấp dịch vụ đầy đủ và hợp lệ và có kết quả kiểm tra cơ sở vật chất.|

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép xuất bản bản tin (địa phương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Cấp giấy phép xuất bản bản tin (địa phương)
+- 01 Bản chính Tờ khai đề nghị cấp giấy phép xuất bản bản tin (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecba6409f5b461'">Mẫu số 10.docx</a>)
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý hoặc bản sao kèm bản chính để đối chiếu quyết định thành lập, giấy phép thành lập, giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ khác có giá trị pháp lý tương đương
+- 01 Bản chính Sơ yếu lý lịch của người chịu trách nhiệm xuất bản bản tin
+- 01 Bản chính Mẫu trình bày tên gọi bản tin có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép và bản dịch tiếng Việt được công chứng (đối với tên gọi bản tin thể hiện bằng tiếng nước ngoài)

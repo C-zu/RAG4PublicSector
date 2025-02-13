@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị gia hạn mã số nhân viên đại lý làm thủ tục hải quan của doanh nghiệp.|
+|Trực tuyến|03 Ngày làm việc||Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị gia hạn mã số nhân viên đại lý làm thủ tục hải quan của doanh nghiệp.|
+|Dịch vụ bưu chính|03 Ngày làm việc||Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị gia hạn mã số nhân viên đại lý làm thủ tục hải quan của doanh nghiệp.|

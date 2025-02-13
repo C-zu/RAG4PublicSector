@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Chứng nhận huấn luyện nghiệp vụ cứu nạn, cứu hộ (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh hoặc Bộ phận Một cửa của Công an tỉnh hoặc Trung tâm phục vụ hành chính công của tỉnh (trường hợp đã đưa thủ tục ra tiếp nhận tại Trung tâm phục vụ hành chính công). Thời hạn giải quyết: Trong thời hạn 05 ngày làm việc, kể từ ngày có kết quả kiểm tra đạt yêu cầu, Phòng cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh cấp Chứng nhận huấn luyện nghiệp vụ cứu nạn, cứu hộ cho các cá nhân hoàn thành chương trình huấn luyện nghiệp vụ. Trường hợp không cấp Chứng nhận có văn bản trả lời, nêu rõ lý do.|
+|Trực tuyến|5 Ngày làm việc|Phí : 1000 Đồng  Lệ phí : 1000 Đồng||

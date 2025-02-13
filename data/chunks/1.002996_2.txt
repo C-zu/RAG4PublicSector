@@ -1,0 +1,7 @@
+Tên thủ tục: Miễn kiểm tra giám sát cơ sở kiểm nghiệm thực phẩm
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Gửi hồ sơ.
+Bước 2: Thẩm định hồ sơ
+Bước 3. Trả kết quả.

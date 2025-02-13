@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy (thực hiện tại cấp Trung ương)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002985
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Cấp lại giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy (thực hiện tại cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy

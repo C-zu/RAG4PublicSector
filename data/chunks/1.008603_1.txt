@@ -1,0 +1,16 @@
+Tên thủ tục: Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008603
+Số quyết định:
+967/QĐ-BTC
+Tên thủ tục:
+Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã, Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chính sách Thuế

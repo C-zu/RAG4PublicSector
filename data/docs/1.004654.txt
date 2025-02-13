@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004654
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Công bố mở cảng cá loại 1
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+9.1. Trình tự thực hiện: 
+a) Tổ chức quản lý cảng cá gửi hồ sơ đến Cục Thủy sản;
+Trường hợp nộp hồ sơ trực tiếp: Cục Thủy sản kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức quản lý cảng cá đến nộp hồ sơ;
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cục Thủy sản xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cục Thủy sản thông báo tổ chức quản lý cảng cá biết để bổ sung;
+b) Trong thời hạn 06 ngày làm việc kể từ ngày nhận đủ hồ sơ Cục Thủy sản xem xét hồ sơ; tổ chức khảo sát thực tế tại cảng cá (trong trường hợp cần thiết); quyết định công bố mở cảng cá theo Mẫu số 34 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP khi đáp ứng đủ điều kiện theo quy định. Trường hợp không công bố mở cảng cá, phải trả lời bằng văn bản và nêu rõ lý do;
+c) Trong thời hạn 02 ngày kể từ ngày Quyết định công bố mở cảng cá được ban hành, Cục Thủy sản thông báo trên các phương tiện thông tin đại chúng.
+* Trường hợp thiên tai, dịch bệnh không thể tổ chức kiểm tra, đánh giá thực tế tại cơ sở để cấp giấy phép, giấy chứng nhận, văn bản chấp thuận, kiểm tra duy trì điều kiện của cơ sở:
+- Cục Thuỷ sản áp dụng hình thức đánh giá trực tuyến khi cơ sở đáp ứng yêu cầu về nguồn lực, phương tiện kỹ thuật thực hiện; cơ sở cung cấp hồ sơ, tài liệu có liên quan bằng bản giấy hoặc bản điện tử cho cơ quan kiểm tra hoặc tạm hoãn hoặc gia hạn có thời hạn giấy phép, giấy chứng nhận, văn bản chấp thuận, thời hạn kiểm tra duy trì.
+- Tổ chức, cá nhân sản xuất, kinh doanh, tổ chức đánh giá sự phù hợp chịu trách nhiệm trước pháp luật về tính chính xác của thông tin, tài liệu, hình ảnh, hồ sơ cung cấp cho cơ quan cấp phép. Việc kiểm tra đánh giá thực tế sẽ được thực hiện sau khi các địa phương kiểm soát được thiên tai, dịch bệnh theo quy định của pháp luật; thực hiện thu hồi ngay giấy phép đối với trường hợp tổ chức, cá nhân vi phạm quy định pháp luật và xử lý vi phạm theo quy định của pháp luật.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|06 ngày làm việc kể từ ngày nhận đủ hồ sơ||06 ngày làm việc kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|06 ngày làm việc kể từ ngày nhận đủ hồ sơ||06 ngày làm việc kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|06 ngày làm việc kể từ ngày nhận đủ hồ sơ||06 ngày làm việc kể từ ngày nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị công bố mở cảng cá theo Mẫu số 33 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP ([Mẫu số 33.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb7f76fae238f2'))
+- 01 Bản sao Văn bản thành lập Tổ chức quản lý cảng cá
+- 01 Bản sao Văn bản thể hiện quyền sử dụng vùng đất, vùng nước của cảng
+- 01 Bản sao Biên bản nghiệm thu đưa vào sử dụng công trình cảng cá (áp dụng đối với cảng cá hoàn thành từ sau khi Nghị định số 37/2024/NĐ-CP có hiệu lực thi hành - ngày 19/5/2024
+- 01 Bản sao Thông báo về luồng của cảng và vùng nước trước cầu cảng
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổ chức quản lý cảng cá các tỉnh, thành phố ven biển
+Cơ quan có thẩm quyền:
+Cục Thủy sản - Bộ NN-PTNT
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công bố mở cảng cá theo Mẫu số 34 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|26/2019/NĐ-CP|Nghị định 26/2019/NĐ-CP|08-03-2019|Chính phủ|
+|105/2022/NĐ-CP|Nghị định số 105/2022/NĐ-CP ngày 22 tháng 12 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn;|22-12-2022|Chính phủ|
+|Nghị định số 37/2024/NĐ-CP|Nghị định số 37/2024/NĐ-CP ngày 04/4/2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2019/NĐ-CP ngày 08/3/2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thủy sản.|04-04-2024|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Vị trí là nơi thu hút tàu cá của nhiều tỉnh, thành phố trực thuộc trung ương, tàu nước ngoài vào bốc dỡ thủy sản và thực hiện các dịch vụ nghề cá khác; là đầu mối phân phối hàng thủy sản của khu vực;
+- Các trang thiết bị chủ yếu phục vụ cho bốc dỡ hàng hóa của cảng được cơ giới hóa tối thiểu 90%;
+- Có diện tích vùng nước cảng tối thiểu từ 20 ha trở lên;
+- Có độ sâu luồng vào cảng và vùng nước trước cầu cảng theo quy định của Chính phủ (Có độ sâu luồng vào cảng và vùng nước cảng đủ điều kiện cho tàu cá có chiều dài lớn nhất từ 24 mét trở lên ra vào cảng);
+- Có diện tích vùng đất cảng từ 04 ha trở lên; đối với cảng cá tại đảo, diện tích vùng đất cảng phải từ 01 ha trở lên; có nhà làm việc, công trình hạ tầng kỹ thuật đáp ứng quy định của pháp luật về an toàn thực phẩm, bảo vệ môi trường và phòng, chống cháy, nổ;
+- Lượng hàng thủy sản qua cảng từ 25.000 tấn/năm trở lên; đối với cảng cá tại đảo, lượng hàng thủy sản qua cảng từ 3.000 tấn/năm trở lên.
+- Đã thành lập tổ chức quản lý cảng cá;
+- Có phương án khai thác, sử dụng cảng cá.
+- Vị trí là nơi thu hút tàu cá của nhiều tỉnh, thành phố trực thuộc trung ương, tàu nước ngoài vào bốc dỡ thủy sản và thực hiện các dịch vụ nghề cá khác; là đầu mối phân phối hàng thủy sản của khu vực;
+- Các trang thiết bị chủ yếu phục vụ cho bốc dỡ hàng hóa của cảng được cơ giới hóa tối thiểu 90%;
+- Có diện tích vùng nước cảng tối thiểu từ 20 ha trở lên;
+- Có độ sâu luồng vào cảng và vùng nước trước cầu cảng theo quy định của Chính phủ (Có độ sâu luồng vào cảng và vùng nước cảng đủ điều kiện cho tàu cá có chiều dài lớn nhất từ 24 mét trở lên ra vào cảng);
+- Có diện tích vùng đất cảng từ 04 ha trở lên; đối với cảng cá tại đảo, diện tích vùng đất cảng phải từ 01 ha trở lên; có nhà làm việc, công trình hạ tầng kỹ thuật đáp ứng quy định của pháp luật về an toàn thực phẩm, bảo vệ môi trường và phòng, chống cháy, nổ;
+- Lượng hàng thủy sản qua cảng từ 25.000 tấn/năm trở lên; đối với cảng cá tại đảo, lượng hàng thủy sản qua cảng từ 3.000 tấn/năm trở lên.
+- Đã thành lập tổ chức quản lý cảng cá;
+- Có phương án khai thác, sử dụng cảng cá.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

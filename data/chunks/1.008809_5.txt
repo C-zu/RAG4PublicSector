@@ -1,0 +1,26 @@
+Tên thủ tục: Gia hạn giấy phép thi công
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Giao thông vận tải - tỉnh Khánh Hòa
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải - tỉnh Khánh Hòa
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và Trả kết quả của Sở Giao thông vận tải.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+GIAPPHEPTHICONG.40.2012
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2015/TT-BGTVT|Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|23-09-2015|Bộ Giao thông vận tải|
+|35/2017/TT-BGTVT|sửa đổi, bổ sung một số điều của Thông tư số 50/2015/TT-BGTVT ngày 23/9/2015 của Bộ GTVT|23-09-2017|Bộ Giao thông vận tải|
+|Nghị định số 100/2013/NĐ-CP|100/2013/NĐ-CP|03-09-2013||
+|40/2012/QĐ-UBND|QUYẾT ĐỊNH Ban hành Quy định việc cấp phép thi công công trình trong phạm vi đất dành cho đường bộ và đấu nối đường nhánh vào hệ thống đường tỉnh, đường đô thị, đường huyện, đường xã trên địa bàn tỉnh Khánh Hòa|05-12-2012|UBND tỉnh Khánh Hòa|
+|13/2020/QĐ-UBND|Về việc sửa đổi, bổ sung, bãi bỏ một số điều của Quy định việc cấp phép thi công công trình trong phạm vi đất dành cho đường bộ và đấu nối đường nhánh vào hệ thống đường tỉnh, đô thị, đường huyện, đường xã trên địa bàn tỉnh Khánh Hòa ban hành kèm theo Quyết định số 40/2012/QĐ-UBND ngày 05 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh Khánh Hòa|27-05-2020|UBND tỉnh Khánh Hòa|
+|23/2016/NQ-HĐND|Nghị quyết số 23/2016/NQ-HĐND ngày 13/12/2016 của HĐND tỉnh Khánh Hòa về việc quy định mức thu, nộp, quản lý và sử dụng tạm thời một phần lòng đường, hè phố trong đô thị không vì mục đích giao thông trên địa bàn tỉnh Khánh Hòa.|13-12-2016||

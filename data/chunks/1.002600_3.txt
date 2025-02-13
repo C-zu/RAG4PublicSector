@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm sản xuất trong nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc|Phí : 500.000 Đồng phí công bố|- 03 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ và phí công bố theo quy định (đối với trường hợp cấp số tiếp nhận);|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ công bố và phí công bố theo quy định (đối với trường hợp chưa cấp số tiếp nhận).|
+|Dịch vụ bưu chính|03 Ngày làm việc|Phí : 500.000 Đồng Phí công bố|- 03 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ và phí công bố theo quy định (đối với trường hợp cấp số tiếp nhận);|
+|Dịch vụ bưu chính|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ công bố và phí công bố theo quy định (đối với trường hợp chưa cấp số tiếp nhận).|

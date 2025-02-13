@@ -1,0 +1,26 @@
+Tên thủ tục: Xác nhận thông tin về cư trú
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Công an Xã
+Cơ quan có thẩm quyền:
+Công an Xã
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận thông tin về cư trú (CT07), Phiếu từ chối tiếp nhận, giải quyết hồ sơ (lĩnh vực cư trú)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|68/2020/QH14|Luật 68/2020/QH14|13-11-2020||
+|62/2021/NĐ-CP|Nghị định 62/2021/NĐ-CP|29-06-2021||
+|55/2021/TT-BCA|Thông tư 55/2021/TT-BCA|15-05-2021||
+|57/2021/TT-BCA|Thông tư 57/2021/TT-BCA|15-05-2021||
+|56/2021/TT-BCA|Thông tư 56/2021/TT-BCA|15-05-2021||
+|66/2023/TT-BCA|Thông tư số 66/2023/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 55/2021/TT-BCA ngày 15/5/2021 quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú; Thông tư số 56/2021/TT-BCA ngày 15/5/2021 của Bộ trưởng Bộ Công an quy định về biểu mẫu trong đăng ký, quản lý cư trú; Thông tư số 57/2021/TT-BCA ngày 15/5/2021 của Bộ trưởng Bộ Công an quy định về quy trình đăng ký cư trú.|17-11-2023|Bộ Công an|

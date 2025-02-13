@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục khai báo thiết bị bức xạ (trừ thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp phiếu khai báo thiết bị bức xạ cho Cục ATBXHN.
+Bước 2: Cục ATBXHN xem xét phiếu khai báo và đề nghị chỉnh sửa, bổ sung thông tin (nếu có);
+Bước 3: Cục ATBXHNcấp Giấy xác nhận khai báo.

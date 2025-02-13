@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Trên Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng Dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông (đối với các trường hợp có chứng thực điện tử) (https://dichvucong.mic.gov.vn).|
+|Dịch vụ bưu chính|24 Ngày làm việc||24 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

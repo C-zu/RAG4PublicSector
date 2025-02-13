@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Thời gian giải quyết của cơ quan BHXH: - Trường hợp cấp sổ BHXH, thẻ BHYT mới không quá 05 ngày. - Trường hợp tạm dừng đóng vào quỹ hưu trí, tử tuất không quá 05 ngày. - Trường hợp vi phạm quy định của pháp luật về đóng BHXH, BHYT, BHTN, BHTNLĐ - BNN không quá 10 ngày. - Trường hợp điều chỉnh tăng tiền lương đã đóng BHXH, BHYT, BHTN, BHTNLĐ - BNN không quá 03 ngày. - Trường hợp xác nhận sổ BHXH không quá 05 ngày kể từ ngày nhận đủ hồ sơ theo quy định.|||
+|Trực tuyến|Định kỳ 6 tháng (trước 15/7), 1 năm (trước 15/01), hệ thống tự động gửi báo cáo tình hình sử dụng lao động đến cơ quan Lao động|||

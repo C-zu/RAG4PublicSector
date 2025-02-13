@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép kinh doanh dịch vụ viễn thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : 1.000.000 Đồng Lệ phí cấp giấy phép thiết lập mạng và cung cấp dịch vụ viễn thông theo quy định tại theo Thông tư số 03/2018/TT-BTC ngày 12/01/2018 của Bộ trưởng Bộ Tài chính:  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faee5023b246400'">03-2018-TT-BTC.docx</a> Phí : Phí quyền hoạt động viễn thông bao gồm: (Phí cung cấp dịch vụ viễn thông, phí thiết lập mạng viễn thông) thu theo quy định tại Thông tư số 03/2018/TT-BTC ngày 12/01/2018 của Bộ trưởng Bộ Tài chính  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72e7a1120dbe5'">03-2018-TT-BTC.docx</a>|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|15 Ngày làm việc|Phí : Phí quyền hoạt động viễn thông bao gồm: (Phí cung cấp dịch vụ viễn thông, phí thiết lập mạng viễn thông) thu theo quy định tại Thông tư số 03/2018/TT-BTC ngày 12/01/2018 của Bộ trưởng Bộ Tài chính  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5ee790fb8b3aa'">03-2018-TT-BTC.docx</a> Lệ phí : 1.000.000 Đồng Lệ phí cấp giấy phép thiết lập mạng và cung cấp dịch vụ viễn thông theo quy định tại theo Thông tư số 03/2018/TT-BTC ngày 12/01/2018 của Bộ trưởng Bộ Tài chính:  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe07bcbaed1e748'">03-2018-TT-BTC.docx</a>|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

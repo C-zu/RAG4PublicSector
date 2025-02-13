@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001543
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Đăng ký, phê duyệt dự án JCM (TTHC cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khí tượng, thủy văn
+Trình tự thực hiện:
+Bên tham gia dự án gửi hồ sơ đăng ký dự án cho Tổ thư ký qua thư điện tử để xem xét, đệ trình lên Ủy ban Hỗn hợp.
+Tổ thư ký cấp số tham chiếu cho dự án và thông báo việc tiếp nhận hồ sơ cùng số tham chiếu của dự án đến bên tham gia dự án.
+Hồ sơ đăng ký dự án và TPE dự kiến được đăng trên trang thông tin điện tử của JCM và lấy ý kiến công chúng.
+Sau thời hạn lấy ý kiến công chúng, Tổ thư ký tổng hợp ý kiến góp ý của công chúng về dự án và trình hồ sơ cùng ý kiến góp ý lên Ủy ban Hỗn hợp.
+Bên tham gia dự án gửi đơn đăng ký dự án bằng tiếng Việt và tiếng Anh đã được TPE thẩm định đạt yêu cầu dự án kèm theo báo cáo thẩm định của TPE đến Tổ thư ký qua thư điện tử.
+Sau khi nhận được hồ sơ đăng ký dự án kèm theo báo cáo thẩm định của TPE, Tổ thư ký thông báo qua thư điện tử cho bên tham gia dự án việc tiếp nhận hồ sơ và đăng thông tin liên quan về dự án trên trang thông tin điện tử của JCM.
+
+Tổ thư ký kiểm tra và thông báo cho bên tham gia dự án và TPE của dự án về tính hợp lệ và đầy đủ của hồ sơ qua thư điện tử. Trường hợp cần bổ sung thông tin, Tổ thư ký thông báo cho bên tham gia và TPE của dự án để gửi lại.
+
+Đối với hồ sơ hợp lệ và đầy đủ, Tổ thư ký trình Ủy ban Hỗn hợp xem xét và quyết định việc đăng ký dự án
+Sau khi nhận được hồ sơ đăng ký dự án từ Tổ thư ký, Ủy ban Hỗn hợp xem xét và ra quyết định phê duyệt hoặc không phê duyệt dự án kèm theo lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|- Thời hạn lấy ý kiến công chúng : Ba mươi (30) ngày. - Thời hạn kiểm tra tính đầy đủ hồ sơ: Bảy (07) ngày|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đăng ký dự án JCM bằng tiếng Việt ([Mẫu 15 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2015b4d4b1f8e'))
+- 01 Bản chính Đơn đề nghị đăng ký dự án JCM bằng tiếng Anh ([Mẫu 16 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa26be76b4de2e0'))
+- 01 Bản chính Dự thảo Tài liệu thiết kế dự án (PDD) bằng tiếng Việt ([Mẫu 7 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ea6b2d1441a0'))
+- 01 Bản chính Dự thảo Tài liệu thiết kế dự án (PDD) bằng tiếng Anh ([Mẫu 8 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe860f9ae338c6b'))
+- 01 Bản chính Bảng kế hoạch giám sát (theo mẫu quy định tại Phụ lục 5 ([Mẫu 9 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0b11c091fb1b0'))
+- 01 Bản chính Bảng kế hoạch giám sát (theo mẫu quy định tại Phụ lục 5a ([Mẫu 10 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb918633fe6c34'))
+- 01 Bản chính Phương thức liên lạc (MoC) bằng tiếng Việt ([Mẫu 11.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe99bf6a03a156d'))
+- 01 Bản chính Phương thức liên lạc (MoC) bằng tiếng Anh ([Mẫu 12 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceeafb334584e4'))
+- 01 Bản chính Báo cáo thẩm định PDD của TPE bằng tiếng Việt ([Mẫu 13 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3011c50f2624f'))
+- 01 Bản chính Báo cáo thẩm định PDD của TPE bằng tiếng Anh ([Mẫu 14 (2).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd147fda6e1708c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban hỗ trợ của cơ chế JCM
+Cơ quan có thẩm quyền:
+Ủy ban hỗ trợ của cơ chế JCM
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt hoặc không phê duyệt dự án JCM kèm theo lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|17/2015/TT-BTNMT|Quy định việc xây dựng và thực hiện dự án theo Cơ chế tín chỉ chung trong khuôn khổ hợp tác Việt Nam và Nhật Bản|06-04-2015|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

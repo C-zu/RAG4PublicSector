@@ -1,0 +1,9 @@
+Tên thủ tục: Đánh giá, cấp giấy chứng nhận phù hợp cho công ty tàu biển theo Bộ luật quản lý an toàn Quốc tế (Bộ luật ISM)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc|Lệ phí : 50000 Đồng 50.000 đồng/01 giấy chứng nhận|Trong thời hạn 01 ngày làm việc, kể từ khi hoàn thành đánh giá.|
+|Trực tuyến|1 Ngày làm việc|Lệ phí : 50000 Đồng 50.000 đồng/01 giấy chứng nhận|Trong thời hạn 01 ngày làm việc, kể từ khi hoàn thành đánh giá.|
+|Dịch vụ bưu chính|1 Ngày làm việc|Lệ phí : 50000 Đồng 50.000 đồng/01 giấy chứng nhận|Trong thời hạn 01 ngày làm việc, kể từ khi hoàn thành đánh giá.|

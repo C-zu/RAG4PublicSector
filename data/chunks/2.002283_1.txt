@@ -1,0 +1,16 @@
+Tên thủ tục: Danh mục dự án đầu tư có sử dụng đất do nhà đầu tư đề xuất (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002283
+Số quyết định:
+1643/QĐ-BKHĐT
+Tên thủ tục:
+Danh mục dự án đầu tư có sử dụng đất do nhà đầu tư đề xuất (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đấu thầu

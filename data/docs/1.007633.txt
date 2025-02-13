@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007633
+Số quyết định:
+2083/QĐ-BTC
+Tên thủ tục:
+Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (Cấp lần đầu)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kế toán, kiểm toán
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ.
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí.
+- Bước 4: Cấp giấy chứng nhận.
+- Bước 5: Công khai danh sách trên trang điện tử Bộ Tài chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 4.000.000 Đồng|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 30 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 4.000.000 Đồng|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 30 ngày kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1/ Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục I). ([Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f96b50e3a79e140'))
+- 01 Bản sao 2/ Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư.
+- 01 Bản chính 3/ Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp (theo mẫu quy định tại Phụ lục III).
+- 01 Bản sao 4/ Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề.
+- 01 Bản sao 5/ Bản sao Quyết định của Hội đồng thành viên về việc bổ nhiệm chức danh Giám đốc (Tổng Giám đốc) đối với công ty TNHH, công ty hợp danh.
+- 01 Bản sao 6/ Bản sao Điều lệ công ty.
+- 01 Bản chính 7/ Danh sách các tổ chức, cá nhân góp vốn, danh sách thành viên hợp danh (theo mẫu quy định tại phụ lục IV), trong đó phải thể hiện rõ các nội dung sau: a) Họ và tên, địa chỉ thường trú, quốc tịch; Số và ngày cấp, nơi cấp giấy chứng minh nhân dân hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác đối với cá nhân; Số và ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (đối với các cá nhân là kiểm toán viên hành nghề). b) Tên, địa chỉ đặt trụ sở, số và ngày quyết định thành lập (hoặc đăng ký kinh doanh) đối với tổ chức; Họ và tên, địa chỉ thường trú, quốc tịch, số và ngày cấp, nơi cấp giấy chứng minh nhân dân, hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác; Số và ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán đối với cá nhân được cử là người đại diện phần vốn góp của tổ chức. c) Số vốn góp theo đăng ký, giá trị vốn đã thực góp, tỷ lệ sở hữu, thời hạn góp vốn.
+- 01 Bản chính 8/ Văn bản xác nhận về vốn đối với công ty TNHH, cụ thể như sau: a) Đối với doanh nghiệp thành lập mới phải có: - Biên bản góp vốn của các thành viên sáng lập. - Trường hợp số vốn được góp bằng tiền thì phải có văn bản xác nhận của ngân hàng thương mại được phép hoạt động tại Việt Nam về số tiền ký quỹ của các thành viên sáng lập. Số tiền ký quỹ tối thiểu phải bằng số vốn góp bằng tiền của các thành viên sáng lập và chỉ được giải ngân sau khi doanh nghiệp được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán. - Trường hợp số vốn góp bằng tài sản thì phải có chứng thư của tổ chức có chức năng thẩm định giá đang hoạt động tại Việt Nam về kết quả thẩm định giá tài sản được đưa vào góp vốn. Chứng thư phải còn hiệu lực tính đến ngày nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán. b) Đối với doanh nghiệp đang hoạt động phải có văn bản xác nhận của doanh nghiệp kiểm toán độc lập khác về mức vốn hiện có thuộc sở hữu của doanh nghiệp đó được ghi trong báo cáo tài chính của doanh nghiệp tại thời điểm gần nhất (năm đăng ký hoặc năm trước liền kề năm đăng ký).
+ * Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2011/QH12|Luật kiểm toán độc lập số 67/2011/QH12|29-03-2011|Quốc Hội|
+|17/2012/NĐ-CP|Nghị định số 17/2012/NĐ-CP|13-03-2012|Chính phủ|
+|203/2012/TT-BTC|Thông tư 203/2012/TT-BTC ngày 19/11/2012 của Bộ Tài chính Về trình tự, thủ tục cấp, quản lý, sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán.|19-11-2012|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Giấy chứng nhận đủ điều kinh doanh dịch vụ kiểm toán được cấp cho công ty trách nhiệm hữu hạn (TNHH), công ty hợp danh, doanh nghiệp tư nhân, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có đủ các điều kiện theo quy định tại Điều 21 Luật kiểm toán độc lập và các quy định tại Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập (dưới đây gọi tắt là Nghị định 17/2012/NĐ-CP). Đối với công ty kiểm toán TNHH một thành viên có vốn đầu tư nước ngoài quy định tại Khoản 3 Điều 62 Luật kiểm toán độc lập không áp dụng điều kiện về mức vốn góp của kiểm toán viên hành nghề quy định tại Khoản 1 Điều 7 và vốn góp của tổ chức quy định tại Điều 6 Nghị định 17/2012/NĐ-CP trừ khi công ty cơ cấu lại tổ chức thành công ty TNHH 2 thành viên trở lên.
+- Hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với trường hợp chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu thực hiện theo quy định như cấp lần đầu (trong thời hạn 20 ngày kể từ ngày hoàn thành thủ tục thay đổi).
+- Giấy chứng nhận đủ điều kinh doanh dịch vụ kiểm toán được cấp cho công ty trách nhiệm hữu hạn (TNHH), công ty hợp danh, doanh nghiệp tư nhân, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam có đủ các điều kiện theo quy định tại Điều 21 Luật kiểm toán độc lập và các quy định tại Nghị định số 17/2012/NĐ-CP ngày 13/3/2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật kiểm toán độc lập (dưới đây gọi tắt là Nghị định 17/2012/NĐ-CP). Đối với công ty kiểm toán TNHH một thành viên có vốn đầu tư nước ngoài quy định tại Khoản 3 Điều 62 Luật kiểm toán độc lập không áp dụng điều kiện về mức vốn góp của kiểm toán viên hành nghề quy định tại Khoản 1 Điều 7 và vốn góp của tổ chức quy định tại Điều 6 Nghị định 17/2012/NĐ-CP trừ khi công ty cơ cấu lại tổ chức thành công ty TNHH 2 thành viên trở lên.
+- Hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với trường hợp chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức sở hữu thực hiện theo quy định như cấp lần đầu (trong thời hạn 20 ngày kể từ ngày hoàn thành thủ tục thay đổi).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002546
+Số quyết định:
+1202/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- Bên giao hoặc bên nhận công nghệ thay mặt các bên nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận trực tiếp hoặc gửi qua đường bưu chính hoặc qua Cổng dịch vụ công trực tuyến đến Cơ quan cấp Giấy chứng nhận;
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy chứng nhận xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc có nội dung cần phải sửa đổi, bổ sung, Cơ quan cấp Giấy chứng nhận có văn bản đề nghị sửa đổi, bổ sung, trong đó nêu rõ nội dung, thời hạn sửa đổi, bổ sung;
+- Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Cơ quan cấp Giấy chứng nhận xem xét, cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao sửa đổi, bổ sung. Trường hợp từ chối, phải trả lời và nêu rõ lý do từ chối bằng văn bản.
+Trong trường hợp có thay đổi công nghệ, sản phẩm công nghệ hoặc quy mô sản lượng, tiêu chuẩn chất lượng sản phẩm, trình tự thực hiện theo trình tự cấp Giấy chứng nhận.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận trực tiếp đến Cơ quan cấp Giấy chứng nhận.|
+|Trực tiếp|15 Ngày làm việc||Nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận trực tiếp đến Cơ quan cấp Giấy chứng nhận đối với trường hợp có thay đổi công nghệ, sản phẩm công nghệ hoặc quy mô sản lượng, tiêu chuẩn chất lượng sản phẩm|
+|Trực tuyến|10 Ngày làm việc||Nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận qua Cổng dịch vụ công trực tuyến đến Cơ quan cấp Giấy chứng nhận.|
+|Trực tuyến|15 Ngày làm việc||Nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận qua Cổng dịch vụ công trực tuyến đến Cơ quan cấp Giấy chứng nhận đối với trường hợp có thay đổi công nghệ, sản phẩm công nghệ hoặc quy mô sản lượng, tiêu chuẩn chất lượng sản phẩm.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận qua đường bưu chính đến Cơ quan cấp Giấy chứng nhận.|
+|Dịch vụ bưu chính|15 Ngày làm việc||Nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy chứng nhận qua đường bưu chính đến Cơ quan cấp Giấy chứng nhận đối với trường hợp có thay đổi công nghệ, sản phẩm công nghệ hoặc quy mô sản lượng, tiêu chuẩn chất lượng sản phẩm.|
+
+Thành phần hồ sơ:
+
+sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính Văn bản đề nghị sửa đổi, bổ sung Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao theo Mẫu số 08 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg ([Mẫu 08_VB sửa đổi, bổ sung đề nghị cấp Giấy CN CGCN KKCG.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0a9e3d07f0260'))
+- 01 Bản chính Bản chính Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có chứng thực văn bản thỏa thuận chuyển giao công nghệ sửa đổi, bổ sung bằng tiếng Việt hoặc bản dịch sang tiếng Việt có công chứng hoặc chứng thực đối với văn bản thỏa thuận bằng tiếng nước ngoài
+- 01 Bản chính Thuyết minh nội dung chuyển giao công nghệ khuyến khích chuyển giao trong văn bản thỏa thuận chuyển giao công nghệ sửa đổi, bổ sung theo Mẫu số 02 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg ([Mẫu 02_Thuyết minh nội dung CGCN KKCG.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0ab6bea330fd1'))
+- 01 Bản sao Bản sao văn bằng bảo hộ hoặc đơn đăng ký đối tượng sở hữu công nghiệp (trong trường hợp chưa được cấp văn bằng bảo hộ), giấy chứng nhận chuyển giao quyền sở hữu hoặc quyền sử dụng đối tượng sở hữu công nghiệp (nếu có bổ sung)
+- 01 Bản chính Báo cáo triển khai hoạt động chuyển giao công nghệ khuyến khích chuyển giao theo nội dung trong văn bản thỏa thuận chuyển giao công nghệ sửa đổi, bổ sung theo Mẫu số 03 tại Phụ lục ban hành kèm theo Quyết định số 12/2023/QĐ-TTg ([Mẫu 03_Báo cáo triển khai CGCN KKCG.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc48e78243fa9ac'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Sở khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Sở Khoa học và Công nghệ nơi có chuyển giao công nghệ khuyến khích chuyển giao trong dự án đầu tư tại địa phương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao sửa đổi, bổ sung (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|61/2020/QH14|Luật 61/2020/QH14|17-06-2020||
+|31/2021/NĐ-CP|Nghị định 31/2021/NĐ-CP|26-03-2021||
+|12/2023/QĐ-TTg|Quyết định về cấp Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao|15-05-2023|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Dự án đầu tư đăng ký hoạt động theo quy định của pháp luật về đầu tư;
+- Việc sửa đổi, bổ sung Giấy chứng nhận áp dụng đối với trường hợp các bên tham gia chuyển giao công nghệ có thỏa thuận sửa đổi, bổ sung nội dung chuyển giao công nghệ khuyến khích chuyển giao, đã được cấp Giấy chứng nhận và đã triển khai các nội dung sửa đổi, bổ sung đó.
+- Dự án đầu tư đăng ký hoạt động theo quy định của pháp luật về đầu tư;
+- Việc sửa đổi, bổ sung Giấy chứng nhận áp dụng đối với trường hợp các bên tham gia chuyển giao công nghệ có thỏa thuận sửa đổi, bổ sung nội dung chuyển giao công nghệ khuyến khích chuyển giao, đã được cấp Giấy chứng nhận và đã triển khai các nội dung sửa đổi, bổ sung đó.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

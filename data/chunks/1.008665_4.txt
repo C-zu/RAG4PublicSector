@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép thi công Xử lý sự cố đột xuất về kỹ thuật của các công trình ngầm như: thông tin liên lạc, cấp nước, thoát nước, cấp điện, cấp ga và các công trình liên quan khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản thể hiện tình hình sự cố kỹ thuật của đơn vị quản lý công trình ngầm
+- 01 Bản chính 2. Văn bản thể hiện tình hình sự cố kỹ thuật của đơn vị quản lý công trình ngầm
+- 01 Bản chính 3. Sơ đồ vị trí, mặt bằng thi công

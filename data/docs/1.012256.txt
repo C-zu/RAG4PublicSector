@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012256
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Công bố cơ sở khám bệnh, chữa bệnh đáp ứng yêu cầu là cơ sở hướng dẫn thực hành
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: 
+Trước khi tổ chức hướng dẫn thực hành, cơ sở khám bệnh, chữa bệnh gửi bản công bố cơ sở khám bệnh, chữa bệnh đáp ứng yêu cầu là cơ sở hướng dẫn thực hành thực hiện theo Mẫu 01 Phụ lục I ban hành kèm theo Nghị định số 96/2023/NĐ-CP và nội dung thực hành cụ thể về:
+a) Bộ Y tế đối với cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý;
+b) Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh (Sở Y tế) đối với cơ sở khám bệnh, chữa bệnh trên địa bàn (bao gồm cả cơ sở khám bệnh, chữa bệnh tư nhân), trừ cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Bộ Y tế, Bộ Quốc phòng, Bộ Công an.
+Bước 2: 
+Sau khi nhận được bản công bố cơ sở khám bệnh, chữa bệnh đáp ứng yêu cầu là cơ sở hướng dẫn thực hành, cơ quan tiếp nhận cấp cho cơ sở phiếu tiếp nhận hồ sơ công bố theo Mẫu 02 Phụ lục I ban hành kèm theo Nghị định số 96/2023/NĐ-CP
+Bước 3: 
+Trong thời hạn 15 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ công bố quy định tại khoản 3 Điều này, cơ quan tiếp nhận có trách nhiệm đăng tải thông tin của cơ sở hướng dẫn thực hành trên cổng thông tin điện tử hoặc trang thông tin điện tử của cơ quan và trên hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh.
+Trường hợp chưa đáp ứng yêu cầu thì cơ quan tiếp nhận phải có văn bản gửi cơ sở khám bệnh, chữa bệnh và nêu rõ lý do.
+Thông tin đăng tải tối thiểu gồm: tên, địa chỉ cơ sở hướng dẫn thực hành, phạm vi hướng dẫn thực hành (nếu có liên kết trong hướng dẫn thực hành phải đăng tải cả nội dung và tên của cơ sở liên kết hướng dẫn thực hành), chi phí hướng dẫn thực hành.
+Trường hợp sau thời hạn 15 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ công bố mà cơ quan tiếp nhận không có văn bản gửi cơ sở khám bệnh, chữa bệnh về việc chưa đủ điều kiện là cơ sở hướng dẫn thực hành hoặc không thực hiện việc đăng tải thông tin theo quy định tại khoản 4 Điều này, cơ sở hướng dẫn thực hành được bắt đầu tổ chức hoạt động hướng dẫn thực hành.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : Đồng Không quy định|15 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+|Trực tuyến|15 Ngày|Phí : Đồng Không quy định|15 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|15 Ngày|Phí : Đồng Không quy định|15 ngày kể từ ngày ghi trên phiếu tiếp nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Bản công bố cơ sở khám bệnh, chữa bệnh đáp ứng yêu cầu là cơ sở hướng dẫn thực hành thực hiện theo Mẫu 01 Phụ lục I ban hành kèm theo Nghị định số 96/2023/NĐ-CP ([Mẫu 01 Bản công bố.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4ccc34ccbcac1'))
+- 01 Bản chính 2. Nội dung thực hành cụ thể
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phiếu tiếp nhận hồ sơ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2023/QH15|Luật Khám, chữa bệnh|30-01-2023|Ủy ban thường vụ quốc hội|
+|96/2023/NĐ-CP|Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.|30-12-2023||
+
+Yêu cầu, điều kiện thực hiện:
+Cơ sở hướng dẫn thực hành phải đáp ứng các điều kiện sau đây:
+a) Là cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động phù hợp với các hình thức tổ chức của cơ sở hướng dẫn thực hành quy định tại Điều 5 Nghị định số 96/2023/NĐ-CP;
+b) Có phạm vi hoạt động chuyên môn phù hợp với nội dung thực hành theo quy định tại Điều 3 Nghị định số 96/2023/NĐ-CP. Trường hợp không đủ các chuyên khoa theo nội dung thực hành quy định tại Điều 3 Nghị định số 96/2023/NĐ-CP được ký hợp đồng hợp tác với cơ sở khám bệnh, chữa bệnh khác đáp ứng nội dung thực hành.
+Cơ sở hướng dẫn thực hành phải đáp ứng các điều kiện sau đây:
+a) Là cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động phù hợp với các hình thức tổ chức của cơ sở hướng dẫn thực hành quy định tại Điều 5 Nghị định số 96/2023/NĐ-CP;
+b) Có phạm vi hoạt động chuyên môn phù hợp với nội dung thực hành theo quy định tại Điều 3 Nghị định số 96/2023/NĐ-CP. Trường hợp không đủ các chuyên khoa theo nội dung thực hành quy định tại Điều 3 Nghị định số 96/2023/NĐ-CP được ký hợp đồng hợp tác với cơ sở khám bệnh, chữa bệnh khác đáp ứng nội dung thực hành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

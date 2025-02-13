@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận thực hành tốt sản xuất thuốc thú y (trong trường hợp bị mất, sai sót, hư hỏng; thay đổi thông tin có liên quan đến tổ chức đăng ký)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Ngày làm việc||- Hướng dẫn hoàn thiện hồ sơ: 03 ngày làm việc kể từ ngày nhận hồ sơ; - Cấp Giấy chứng nhận GMP: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|8 Ngày làm việc||- Hướng dẫn hoàn thiện hồ sơ: 03 ngày làm việc kể từ ngày nhận hồ sơ; - Cấp Giấy chứng nhận GMP: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|8 Ngày làm việc||- Hướng dẫn hoàn thiện hồ sơ: 03 ngày làm việc kể từ ngày nhận hồ sơ; - Cấp Giấy chứng nhận GMP: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

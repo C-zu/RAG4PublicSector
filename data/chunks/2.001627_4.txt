@@ -1,0 +1,11 @@
+Tên thủ tục: Phê duyệt, điều chỉnh quy trình vận hành đối với công trình thủy lợi lớn và công trình thủy lợi vừa do UBND cấp tỉnh phân cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Tờ trình đề nghị phê duyệt quy trình vận hành được lập theo mẫu 04 Phụ lục I Thông tư 05/2018/TT-BNNPTNT ngày 15/5/2018; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe25e7d321f70f1'">Mẫu 04.docx</a>)
+ - Dự thảo quy trình vận hành công trình theo mẫu 02 Phụ lục I Thông tư 05/2018/TT-BNNPTNT ngày 15/5/2018; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9ab7e3bb19920'">Mẫu số 02.docx</a>)
+ - Báo cáo thuyết minh kết quả tính toán kỹ thuật;
+ - Văn bản góp ý kiến của các tổ chức thủy lợi cơ sở, tổ chức khai thác công trình thủy lợi, cơ quan, đơn vị liên quan;
+ - Bản đồ hiện trạng công trình thủy lợi.

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp lại chứng chỉ kiểm định viên kỹ thuật an toàn lao động do chứng chỉ kiểm định viên mất hoặc rách, nát
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị cấp lại Chứng chỉ kiểm định viên kỹ thuật an toàn lao động. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc10c8f45d4f8e0'">Mẫu 11.doc</a>)
+- 01 Bản chính Bản sao chứng chỉ kiểm định viên hết hạn; bản sao giấy chứng nhận đã hoàn thành lớp bồi dưỡng định kỳ nghiệp vụ kiểm định được thực hiện trong thời hạn của chứng chỉ kiểm định viên.
+- 02 Bản chính Ảnh mầu 3cm x 4cm của người được đề nghị cấp lại chụp trong thời gian 06 tháng kể từ ngày đề nghị.
+- 01 Bản chính Bản giải trình lý do đề nghị cấp lại của kiểm định viên.

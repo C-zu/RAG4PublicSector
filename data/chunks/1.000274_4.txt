@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký nội dung thay đổi thông tin ghi trong Giấy chứng nhận đăng ký tàu biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đề nghị đăng ký nội dung thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fece4f10558efd7'">3.1TK.doc</a>)
+- 01 Bản chính giấy chứng nhận đăng ký tàu biển đã cấp hoặc bản chính giấy chứng nhận xoá đăng ký trong trường hợp chuyển cơ quan đăng ký; trường hợp tàu đang hoạt động trên biển hoặc đang ở nước ngoài thì có thể sử dụng bản sao nhưng chủ tàu phải cam kết và nộp bản gốc trong vòng 30 ngày kể từ ngày giấy chứng nhận đăng ký mới được cấp; Nếu tàu biển đang được thế chấp thì phải có sự đồng ý bằng văn bản của người nhận thế chấp tàu biển đó (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec4eb2504bd7a5'">3.2TK.doc</a>)
+- 01 Bản chính Thành phần hồ sơ tương ứng với nội dung đề nghị thay đổi;
+- 01 Bản chính Nếu tàu biển đang được thế chấp thì phải có sự đồng ý bằng văn bản của người nhận thế chấp tàu biển đó.

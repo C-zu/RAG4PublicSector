@@ -1,0 +1,13 @@
+Tên thủ tục: Tuyển chọn, giao trực tiếp tổ chức và cá nhân chủ trì đề tài khoa học và công nghệ, dự án sản xuất thử nghiệm cấp bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 07 Bản sao Đơn đăng ký chủ trì thực hiện đề tài, dự án theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9a1833b0a14a4'">Mẫu B2.docx</a>)
+- 01 Bản chính, 07 Bản sao Thuyết minh đề tài theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7922bc7eb1847'">Mẫu B3a.docx</a>)
+- 01 Bản chính, 07 Bản sao Thuyết minh dự án theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4fe8f1d4b8fa1'">Mẫu B3b.docx</a>)
+- 01 Bản chính, 07 Bản sao Tóm tắt hoạt động khoa học công nghệ của tổ chức đăng ký thực hiện đề tài, dự án theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6891ad6a451c0'">Mẫu B4.docx</a>)
+- 01 Bản chính, 07 Bản sao Lý lịch khoa học của cá nhân đăng ký chủ trì đề tài, dự án theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8da31f628df20'">Mẫu B5.docx</a>)
+- 01 Bản chính, 07 Bản sao Văn bản xác nhận của đơn vị đăng ký phối hợp thực hiện đề tài, dự án theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe704ac33f28e68'">Mẫu B6.docx</a>)
+- 01 Bản chính, 07 Bản sao Cam kết đóng góp vốn đối ứng (đối với các công ty, doanh nghiệp) (nếu có)

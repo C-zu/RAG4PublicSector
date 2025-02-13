@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục xin cấp phép cung cấp dịch vụ Internet trong Quân đội
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao 1. Bản sao có chứng thực Giấy phép cung cấp dịch vụ viễn thông loại hình dịch vụ Internet do Bộ Thông tin và Truyền thông cấp;
+- 01 Bản chính 2. Đơn xin cung cấp dịch vụ Internet trong Quân đội. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdee0270d9a1088'">Mẫu số 01 - đơn xin cấp phép.doc</a>)

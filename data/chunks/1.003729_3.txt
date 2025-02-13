@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp đổi giấy phép hoạt động in xuất bản phẩm (cấp địa phương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại Sở|
+|Trực tuyến|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống dịch vụ công trực tuyến theo hướng dẫn trên Cổng Thông tin điện tử của Sở.|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua dịch vụ bưu chính|

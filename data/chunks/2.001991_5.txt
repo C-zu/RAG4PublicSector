@@ -1,0 +1,23 @@
+Tên thủ tục: Quyết định, phê duyệt văn kiện dự án hỗ trợ kỹ thuật, phi dự án (bao gồm dự án hỗ trợ kỹ thuật sử dụng vốn ODA, vốn vay ưu đãi để chuẩn bị dự án đầu tư)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cơ quan chủ quản
+Cơ quan có thẩm quyền:
+Cơ quan chủ quản
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt văn kiện dự án hỗ trợ kỹ thuật, phi dự án.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|39/2019/QH14|Luật 39/2019/QH14|13-06-2019||
+|114/2021/NĐ_CP|Về quản lý và sử dụng vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi của nhà tài trợ nước ngoài|16-12-2021|Chính phủ|
+|20/2023/NĐ-CP|Nghị định số 20/2023/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 114/2021/NĐ-CP ngày 16 tháng 12 năm 2021 về quản lý và sử dụng vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi của nhà tài trợ nước ngoài|04-05-2023||

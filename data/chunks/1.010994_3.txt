@@ -1,0 +1,9 @@
+Tên thủ tục: Khai phụ thu tạm tính đối với phần dầu lãi được chia của nhà thầu dầu khí khi giá dầu thô biến động tăng (trừ Lô 09.1)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||Không phải trả kết quả cho người nộp thuế|
+|Trực tuyến|0||Không phải trả kết quả cho người nộp thuế (gửi hồ sơ điện tử đến cơ quan thuế qua giao dịch điện tử (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN)|
+|Dịch vụ bưu chính|0||Không phải trả kết quả cho người nộp thuế|

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép hoạt động đối với bệnh viện thuộc Bộ Y tế, bệnh viện tư nhân hoặc thuộc các Bộ khác (trừ các bệnh viện thuộc Bộ Quốc phòng) và áp dụng đối với trường hợp khi thay đổi hình thức tổ chức, chia tách, hợp nhất, sáp nhập
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Lệ phí : 10.500.000 Đồng Phí thẩm định cấp giấy phép hoạt động|Trong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|60 Ngày|Lệ phí : 10.500.000 Đồng Phí thẩm định cấp giấy phép hoạt động|Trong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ|

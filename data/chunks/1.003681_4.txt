@@ -1,0 +1,8 @@
+Tên thủ tục: Xóa đăng ký tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Tờ khai xóa đăng ký tàu cá theo Mẫu số 10.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfd9aed435d5c8'">Mẫu số 10.docx</a>)
+- 01 Bản chính b) Bản chính Giấy chứng nhận đăng ký tàu cá; trường hợp Giấy chứng nhận đăng ký tàu cá bị mất, chủ tàu phải khai báo và nêu rõ lý do.

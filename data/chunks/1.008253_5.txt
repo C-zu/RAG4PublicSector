@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ban Cơ yếu Chính phủ
+Cơ quan có thẩm quyền:
+Ban Cơ yếu Chính phủ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2016/NĐ-CP|Nghị định 58/2016/NĐ-CP|01-07-2016|Chính phủ|
+|86/2015/QH13|Luật An toàn thông tin mạng số 86/2015/QH13 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII thông qua ngày 19 tháng 11 năm 2015|19-11-2015|Quốc Hội|

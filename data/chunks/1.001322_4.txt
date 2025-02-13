@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị kiểm tra cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fccacbcb36097cc'">Mẫu.docx</a>)
+- 01 Bản chính, 01 Bản sao Danh sách trích ngang nhân lực của đơn vị kèm theo các hồ sơ sau: Quyết định bổ nhiệm lãnh đạo đơn vị đăng kiểm; quyết định bổ nhiệm đối với phụ trách bộ phận kiểm định; bản sao được chứng thực hợp đồng lao động theo quy định, quyết định tuyển dụng hoặc tiếp nhận đối với đăng kiểm viên, nhân viên nghiệp vụ và các văn bằng, chứng chỉ được chứng thực của từng cá nhân
+- 01 Bản chính Bản đối chiếu các quy định về cơ sở vật chất, dây chuyền kiểm định theo quy chuẩn kỹ thuật quốc gia
+- 01 Bản chính Bản vẽ bố trí mặt bằng tổng thể và mặt bằng nhà xưởng có bố trí dây chuyền và thiết bị kiểm tra
+- 01 Bản chính, 01 Bản sao Văn bản chấp thuận chủ trương đầu tư của cơ quan có thẩm quyền của địa phương (bản sao có chứng thực hoặc bản chính để đối chiếu)

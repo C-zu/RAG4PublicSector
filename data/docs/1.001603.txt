@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001603
+Số quyết định:
+1310/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục phê duyệt mẫu phương tiện đo
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Cơ sở sản xuất, nhập khẩu phương tiện đo (sau đây gọi tắt là cơ sở) thuộc Danh mục phương tiện đo phải kiểm định do Bộ Khoa học và Công nghệ ban hành nộp 01 bộ hồ sơ đăng ký phê duyệt mẫu phương tiện đo đến Tổng cục Tiêu chuẩn Đo lường Chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định: 
+- Nếu hồ sơ chưa đầy đủ, hợp lệ: Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho cơ sở những nội dung cần sửa đổi, bổ sung. 
+Trường hợp trong hồ sơ có đề nghị miễn, giảm thử nghiệm mẫu nhưng không đủ căn cứ được miễn, giảm, Tổng cục thông báo bằng văn bản về việc phải thử nghiệm mẫu và/hoặc bổ sung, hoàn thiện hồ sơ đăng ký phê duyệt mẫu. 
+- Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn mười ngày (10) làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Tổng cục ra quyết định phê duyệt mẫu theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|10 Ngày làm việc||10 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản đăng ký phê duyệt mẫu phương tiện đo ([Mẫu 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefe8bf12edaacd'))
+- 01 Bản chính Bộ tài liệu kỹ thuật của mẫu. Tài liệu phải nêu rõ: Nguyên lý hoạt động, sơ đồ nguyên lý cấu trúc, hướng dẫn sử dụng; các kết cấu quan trọng ảnh hưởng tới đặc tính kỹ thuật đo lường chính của mẫu; vị trí các cơ cấu đặt và điều chỉnh thông số kỹ thuật đo lường chính của mẫu; vị trí để dán tem, đóng dấu kiểm định, niêm phong và các đặc điểm khác nếu có trên mẫu; vị trí cơ cấu hoặc tính năng kỹ thuật thực hiện ngăn ngừa tác động làm thay đổi đặc tính kỹ thuật đo lường chính của mẫu trong sử dụng (tiếng Việt hoặc tiếng Anh hoặc cả 2 thứ tiếng).
+- 01 Bản chính Bộ ảnh mầu của mẫu và đĩa CD chứa bộ ảnh này. Bộ ảnh gồm: Một (01) ảnh tổng thể của mẫu; các ảnh mặt trước (mặt thể hiện kết quả đo), mặt sau, mặt trên, mặt dưới (nếu có), bên phải, bên trái của mẫu; các ảnh chụp riêng thể hiện thông tin về ký mã hiệu, kiểu và đặc trưng đặctính kỹ thuật đo lường chính của mẫu; bảng mạch điện tử (nếu có), các phím vận hành; vị trí nhãn hàng hóa của mẫu, vị trí dán tem, dấu kiểm định; các vị trí niêm phong trên mẫu; các bộ phận khác có ảnh hưởng trực tiếp tới các đặc tính kỹ thuật đo lường chính của mẫu. Các ảnh phải cùng kích cỡ tối thiểu 100 mm × 150 mm nhưng không lớn hơn 210 mm × 297 mm, được gắn hoặc in mầu trên giấy khổ A4 đóng thành tập. Ảnh chụp phải rõ ràng, chính xác thông tin về đặc tính kỹ thuật đo lường chính của mẫu và bảo đảm yêu cầu so sánh, đối chiếu, kiểm tra sự phù hợp của phương tiện đo được sản xuất hoặc nhập khẩu so với mẫu đã phê duyệt.
+- 01 Bản chính Bản cam kết về chương trình phần mềm của phương tiện đo (áp dụng cho trường hợp phương tiện đo được vận hành, điều khiển theo chương trình phần mềm)
+- 01 Bản chính Bộ hồ sơ kết quả thử nghiệm, đánh giá mẫu. Trường hợp cơ sở có đề nghị miễn, giảm thử nghiệm mẫu trong đăng ký phê duyệt mẫu phương tiện đo, bộ hồ sơ gồm các tài liệu liên quan đến việc miễn, giảm thử nghiệm theo quy định.
+- 01 Bản chính, 01 Bản sao - Danh mục tài liệu về việc xây dựng và áp dụng biện pháp quản lý, kỹ thuật để bảo đảm phương tiện đo được sản xuất hoặc nhập khẩu phù hợp với mẫu đã phê duyệt.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt mẫu phương tiện đo
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2013/TT-BKHCN|Thông tư 23/2013/TT-BKHCN|26-09-2013|Bộ Khoa học và Công nghệ|
+|07/2019/TT-BKHCN|Thông tư 07/2019/TT-BKHCN|26-07-2019||
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Thủ tục phê duyệt mẫu phương tiện đo
+Mô tả:
+Không có thông tin

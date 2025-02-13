@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp Giấy phép xây dựng, cải tạo, nâng cấp đường ngang
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Cục Đường sắt Việt Nam, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Địa chỉ tiếp nhận HS:
+- Cục Đường sắt Việt Nam đối với đường ngang trên đường sắt quốc gia; - Cục Đường bộ Việt Nam đối với đường ngang trên đường sắt chuyên dùng liên quan đến quốc lộ; - Cơ quan theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh đối với đường ngang trên đường sắt chuyên dùng liên quan đến đường tỉnh, đường huyện, đường xã, đường bộ đô thị và đường bộ chuyên dùng trong phạm vi quản lý.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải, Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt, cơ quan quản lý đường bộ
+Kết quả thực hiện:
+Giấy phép xây dựng, cải tạo, nâng cấp đường ngang
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2017/QH14|Luật Đường sắt|16-06-2017||
+|TT 29/2023/TT-BGTVT|quy định về đường ngang và cấp giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt|29-09-2023||

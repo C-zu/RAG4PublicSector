@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001141
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục biên phòng điện tử đối với tàu thuyền, thuyền viên nước ngoài chuyển cảng đến tại cửa khẩu cảng
+Cấp thực hiện:
+Cấp Bộ, Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý biên giới
+Trình tự thực hiện:
+- Chậm nhất 04 (bốn) giờ trước khi tàu thuyền dự kiến đến cảng, người làm thủ tục phải khai báo thông tin liên quan đến tàu thuyền, thuyền viên, hành khách (nếu có) chuyển cảng đến theo mẫu biểu quy định trên cổng Thông tin một cửa quốc gia hoặc trên cổng Thông tin thủ tục biên phòng điện tử cảng biển (trường hợp thực hiện thủ tục biên phòng điện tử cảng biển trên cổng Thông tin thủ tục biên phòng điện tử cảng biển theo quy định của pháp luật);
+Trường hợp Cơ chế một cửa quốc gia có quy định khác về thời hạn khai báo trên cổng Thông tin một cửa quốc gia thì thực hiện theo quy định của Cơ chế một cửa quốc gia;
+- Biên phòng cửa khẩu cảng tiếp nhận khai báo của người làm thủ tục từ Cổng Thông tin một cửa quốc gia chuyển đến cổng Thông tin thủ tục biên phòng điện tử cảng biển hoặc trực tiếp trên cổng Thông tin thủ tục biên phòng điện tử cảng biển (trường hợp thực hiện thủ tục biên phòng điện tử cảng biển trên cổng Thông tin thủ tục biên phòng điện tử cảng biển theo quy định của pháp luật);
+- Biên phòng cửa khẩu cảng thực hiện kiểm tra, xử lý thông tin khai báo, thực hiện thủ tục biên phòng điện tử và gửi xác nhận hoàn thành thủ tục biên phòng điện tử hoặc thông báo từ chối thực hiện thủ tục biên phòng điện tử cho người làm thủ tục thông qua cổng Thông tin một cửa quốc gia hoặc cổng Thông tin thủ tục biên phòng điện tử cảng biên (trường hợp thực hiện thủ tục biên phòng điện tử cảng biển trên cổng Thông tin thủ tục biên phòng điện tử cảng biển theo quy định của pháp luật);
+- Đối với tàu thuyền chuyển cảng đến có hồ sơ giấy kèm theo, chậm nhất 02 (hai) giờ, sau khi tàu thuyền neo đậu an toàn tại cầu cảng; chậm nhất 04 (bốn) giờ, sau khi tàu thuyền neo đậu an toàn tại vị trí khác trong vùng nước cảng, người làm thủ tục phải nộp hồ sơ giấy của tàu thuyền chuyển cảng cho Biên phòng cửa khẩu cảng nơi tàu thuyền đến.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Chậm nhất 01 (một) giờ kể từ khi Biên phòng cửa khẩu cảng tiếp nhận đầy đủ các bản khai điện tử.|Phí : Không|Người làm thủ tục gửi hồ sơ và nhận kết quả qua mạng internet; nộp hồ sơ chuyển cảng tại trụ sở chính hoặc văn phòng đại diện của Cảng vụ hàng hải, Cảng vụ đường thủy nội địa trong trường hợp có văn bản hồ sơ vụ việc liên quan đến tàu thuyền, thuyền viên, hành khách (nếu có) trên tàu.|
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ khai báo qua mạng internet:
+- 01 Bản chính + Bản khai chung;
+- 01 Bản chính + Danh sách thuyền viên;
+- 01 Bản chính + Danh sách hành khách (nếu có);
+- 01 Bản chính + Bản khai vũ khí và vật liệu nổ (nếu có);
+- 01 Bản chính + Bản khai người trốn trên tàu (nếu có)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền:
+Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS:
+Nộp hồ sơ chuyển cảng tại trụ sở chính hoặc văn phòng đại diện của Cảng vụ hàng hải, Cảng vụ đường thủy nội địa trong trường hợp có văn bản hồ sơ vụ việc liên quan đến tàu thuyền, thuyền viên, hành khách (nếu có) trên tàu.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cảng vụ hàng hải, Cơ quan kiểm dịch thực vật, Cơ quan kiểm dịch động vật cửa khẩu, Trung tâm Kiểm dịch y tế quốc tế, Cảng vụ đường thủy nội địa, Hải quan cửa khẩu cảng
+Kết quả thực hiện:
+Bản điện tử xác nhận hoàn thành thủ tục biên phòng điện tử cảng biển hoặc từ chối thực hiện thủ tục biên phòng điện tử cảng biển của Biên phòng cửa khẩu cảng gửi người làm thủ tục.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|10/2016/QĐ-TTg|Về thực hiện thủ tục biên phòng điện tử cảng biển|03-03-2016|Thủ tướng Chính phủ|
+|77/2017/NĐ-CP|Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng|03-07-2017|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

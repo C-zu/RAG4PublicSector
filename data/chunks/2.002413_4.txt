@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ ứng dụng kỹ thuật cao trong khám bệnh, chữa bệnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 1 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcdf26b18c90218'">Mẫu số 01.docx</a>)
+- 03 Bản chính - Báo cáo kết quả thực hiện: Mẫu số 2 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd747582179ef7e'">Mẫu số 02.docx</a>)
+- 03 Bản sao - Giấy phép hoạt động khám bệnh, chữa bệnh (bản sao công chứng hoặc chứng thực) do Bộ trưởng Bộ Y tế hoặc Bộ trưởng Bộ Quốc phòng hoặc Giám đốc Sở Y tế cấp theo Điều 42, Luật Khám bệnh, chữa bệnh ngày 23 tháng 11 năm 2009 hoặc văn bản thay thế của cơ quan có thẩm quyền tại thời điểm hỗ trợ.
+- 03 Bản sao - Văn bản của Bộ trưởng Bộ Y tế hoặc Giám đốc Sở Y tế quyết định cho phép cơ sở khám bệnh, chữa bệnh triển khai chính thức áp dụng kỹ thuật mới, phương pháp mới và phê duyệt quy trình kỹ thuật theo Điều 12 Thông tư số 07/2015/TT-BYT ngày 03/4/2015 của Bộ Y tế hoặc Văn bản của Bộ trưởng Bộ Y tế hoặc Giám đốc Sở Y tế phê duyệt Danh mục kỹ thuật lần đầu và Danh mục kỹ thuật bổ sung theo quy định tại Điều 9 Thông tư số 43/2013/TT- BYT ngày 11/12/2013 của Bộ Y tế hoặc các văn bản thay thế của cơ quan có thẩm quyền tại thời điểm hỗ trợ (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Hợp đồng, biên bản nghiệm thu, thanh lý hợp đồng mua sắm máy móc, thiết bị; chuyển giao kỹ thuật (nếu có); Chứng từ hợp pháp chứng minh chi phí đầu tư, gồm: Chi phí mua sắm máy móc, thiết bị; chi phí chuyển giao kỹ thuật (nếu có); chi phí thuê chuyên gia (nếu có); chi phí đào tạo, tập huấn kỹ thuật (bản sao công chứng hoặc chứng thực)

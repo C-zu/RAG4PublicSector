@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận đăng ký nhập khẩu xuất bản phẩm để kinh doanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký nhập khẩu xuất bản phẩm (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd766a923b1e176'">Mẫu số 26- Đơn đăng ký NKXBP để KD.doc</a>)
+- 03 Bản chính Ba (03) bản danh mục xuất bản phẩm đăng ký nhập khẩu trong trường hợp nộp trực tiếp hoặc nộp qua dịch vụ bưu chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedebadde8473fd'">Mẫu số 27- Danh mục XBPNK để KD.doc</a>)
+- 01 Bản chính một (01) bản (tệp) danh mục xuất bản phẩm đăng ký nhập khẩu trong trường hợp nộp trực tuyến trên Cổng thông tin một cửa quốc gia. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7b1eb347b141c'">Mẫu số 27- Danh mục XBPNK để KD.doc</a>)

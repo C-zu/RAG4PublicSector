@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định Báo cáo kinh tế - kỹ thuật/Báo cáo kinh tế - kỹ thuật điều chỉnh; thiết kế bản vẽ thi công, dự toán xây dựng/thiết kế bản vẽ thi công, dự toán xây dựng điều chỉnh (trường hợp thiết kế 1 bước) - BQL
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010183
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Thẩm định Báo cáo kinh tế - kỹ thuật/Báo cáo kinh tế - kỹ thuật điều chỉnh; thiết kế bản vẽ thi công, dự toán xây dựng/thiết kế bản vẽ thi công, dự toán xây dựng điều chỉnh (trường hợp thiết kế 1 bước) - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

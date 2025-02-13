@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu (UBND quận, huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu của chủ đầu tư hoặc đơn vị được ủy quyền quản lý điều hành dự án; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc92881703b46ec'">TT De nghi phe duyet ket qua lua chon nha thau goi thau.docx</a>)
+- 01 Bản chính 2. Quyết định phê duyệt kế hoạch lựa chọn nhà thầu;
+- 01 Bản chính 3. Quyết định phê duyệt hồ sơ mời thầu/hồ sơ yêu cầu;
+- 01 Bản chính 4. Quyết định thành lập tổ chuyên gia đấu thầu và các tài liệu liên quan.
+- 01 Bản chính 5. Biên bản mở thầu và các tài liệu liên quan trong quá trình mời thầu;
+- 01 Bản chính 6. Báo cáo đánh giá hồ sơ mời thầu/hồ sơ dự thầu của tổ chuyên gia và các tài liệu liên quan đến quá trình chấm thầu;
+- 01 Bản chính 7. Quyết định phê duyệt danh sách xếp hạng;
+- 01 Bản chính 8. Quyết định thành lập tổ chuyên gia lựa chọn nhà thầu kèm theo Chứng chỉ tham gia khóa học về lựa chọn nhà thầu của các thành viên;
+- 01 Bản chính 9. Thông báo mời thầu và các văn bản khác có liên quan;
+- 01 Bản chính 10. Hồ sơ dự thầu của các đơn vị tham gia dự thầu (kể cả hồ sơ năng lực của các nhà thầu).

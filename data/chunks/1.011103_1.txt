@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh (SCT)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011103
+Số quyết định:
+229/QĐ-UBND
+Tên thủ tục:
+Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh (SCT)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng

@@ -1,0 +1,19 @@
+Tên thủ tục: Thẩm định báo cáo đánh giá tác động môi trường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Nộp hồ sơ: 
+Tổ chức/cá nhân nộp hồ sơ đề nghị thẩm định báo cáo đánh giá tác động môi trường đến Ban Quản lý.
+Bước 2. Kiểm tra hồ sơ: 
+Ban Quản lý xem xét, kiểm tra hồ sơ; trường hợp hồ sơ không đầy đủ, hợp lệ hoặc chưa được tham vấn thông qua đăng tải trên trang thông tin điện tử của cơ quan thẩm định theo quy định (trừ các dự án đầu tư thuộc danh mục bí mật nhà nước), Ban Quản lý từ chối tiếp nhận hồ sơ và có văn bản thông báo cho tổ chức/cá nhân.
+Bước 3. Thẩm định hồ sơ:
+3.1. Thẩm định hồ sơ sau khi nhận hồ sơ đầy đủ, hợp lệ và hồ sơ đã được tham vấn trên trang thông tin điện tử theo quy định (trừ các dự án đầu tư thuộc danh mục bí mật nhà nước)
+- Thẩm định hồ sơ báo cáo đánh giá tác động môi trường thông qua Hội đồng thẩm định.
+- Trong quá trình thẩm định (trong trường hợp cần thiết), cơ quan thẩm định tiến hành các hoạt động: kiểm tra, khảo sát thực tế khu vực thực hiện dự án; lấy ý kiến tổ chức, chuyên gia.
+- Sau khi báo cáo đánh giá tác động môi trường đã được thẩm định, cơ quan thẩm định có trách nhiệm thông báo bằng văn bản về kết quả thẩm định tới tổ chức/cá nhân với kết quả là 01 trong các trường hợp sau đây: (1) thông qua không cần chỉnh sửa, bổ sung; (2) thông qua với điều kiện phải chỉnh sửa, bổ sung; (3) không thông qua.
+3.2. Thẩm định hồ sơ sau khi họp hội đồng
+- Sau khi báo cáo đánh giá tác động môi trường đã được thẩm định với kết quả thông qua không cần chỉnh sửa, bổ sung hoặc thông qua với điều kiện phải chỉnh sửa, bổ sung, tổ chức/cá nhân (trong thời hạn không quá 12 tháng kể từ ngày nhận được thông báo kết quả thẩm định) phải hoàn thiện và gửi cơ quan thẩm định hồ sơ đề nghị phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường.
+- Sau khi nhận được hồ sơ đề nghị phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường do tổ chức/cá nhân gửi đến, cơ quan thường trực thẩm định có trách nhiệm tiếp tục thẩm định hồ sơ đề nghị phê duyệt báo cáo đánh giá tác động môi trường.
+Bước 4. Phê duyệt và gửi kết quả
+- Cơ quan thường trực thẩm định trình Trưởng ban Ban Quản lý hồ sơ đề nghị phê duyệt báo cáo đánh giá tác động môi trường do chủ dự án gửi đến. Trưởng ban Ban Quản lý ban hành quyết định phê duyệt báo cáo đánh giá tác động môi trường. Trường hợp chưa đủ điều kiện phê duyệt hoặc không phê duyệt phải có văn bản nêu rõ lý do.
+- Ban Quản lý có trách nhiệm công khai trên cổng thông tin điện tử quyết định phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường, trừ các thông tin thuộc bí mật nhà nước, bí mật của doanh nghiệp theo quy định của pháp luật.

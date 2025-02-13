@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008327
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai bổ sung hồ sơ khai thuế
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1. Người nộp thuế phát hiện hồ sơ khai thuế đã nộp cho cơ quan thuế có sai, sót thì được khai bổ sung hồ sơ khai thuế. 
+Trường hợp người nộp thuế gửi hồ sơ qua giao dịch điện tử: Người nộp thuế (NNT) truy cập vào Cổng thông tin điện tử mà người nộp thuế lựa chọn (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền bao gồm: Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp Bộ, cấp tỉnh theo quy định về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính và đã được kết nối với Cổng thông tin điện tử của Tổng cục Thuế (sau đây gọi là Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền)/Cổng thông tin của tổ chức cung cấp dịch vụ T-VAN) để khai hồ sơ khai thuế và các phụ lục đính kèm theo quy định dưới dạng điện tử (nếu có), ký điện tử và gửi đến cơ quan thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn.
++ Bước 2. Cơ quan thuế tiếp nhận:
+++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận hồ sơ theo quy định.
+++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
++++ Tiếp nhận hồ sơ: Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận hoặc thông báo lý do không tiếp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ điện tử của người nộp thuế.
++++ Kiểm tra, giải quyết hồ sơ: Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của NNT theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành: Cơ quan thuế gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không phải trả kết quả cho Người nộp thuế|||
+|Trực tuyến|Không phải trả kết quả cho Người nộp thuế|||
+|Dịch vụ bưu chính|Không phải trả kết quả cho Người nộp thuế|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính ++ Tờ khai bổ sung mẫu số 01/KHBS (trừ trường hợp khai bổ sung không làm thay đổi nghĩa vụ thuế); ([Mẫu 01.KHBS.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbaefeed4845e2'))
+- 01 Bản chính, 01 Bản sao ++ Bản giải trình khai bổ sung mẫu số 01-1/KHBS; ([Mẫu 01.1.KHBS.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7703ffb58bff8'))
+- 01 Bản chính ++ Hồ sơ khai thuế của kỳ tính thuế có sai sót đã được bổ sung
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+0
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

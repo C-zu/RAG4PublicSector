@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện liên lạc với phương tiện nghề cá
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004125
+Số quyết định:
+1401/QĐ-BTTTT
+Tên thủ tục:
+Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện liên lạc với phương tiện nghề cá
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tần số vô tuyến điện

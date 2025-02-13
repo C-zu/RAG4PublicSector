@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục biên phòng điện tử đối với tàu thuyền có trọng tải từ 200 tấn trở xuống, mang quốc tịch của quốc gia có chung biên giới với Việt Nam nhập cảnh, xuất cảnh tại cửa khẩu cảng thuộc khu vực biên giới của Việt Nam với quốc gia đó
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Chậm nhất 01 (một) giờ kể từ khi Biên phòng cửa khẩu cảng tiếp nhận đầy đủ các bản khai điện tử.|Lệ phí : Không|Người làm thủ tục gửi hồ sơ và nhận kết quả qua mạng internet.|

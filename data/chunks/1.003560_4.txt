@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xác nhận danh mục sản phẩm nghe nhìn có nội dung vui chơi giải trí nhập khẩu cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị nhập khẩu sản phẩm (Mẫu số 05 tại Phụ lục II ban hành kèm theo Thông tư số 28/2014/TT-BVHTTDL ngày 31 tháng 12 năm 2014 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về quản lý hoạt động mua bán hàng hóa quốc tế thuộc diện quản lý chuyên ngành văn hóa của Bộ Văn hóa, Thể thao và Du lịch; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef0dc4e7ec15b1'">mẫu số 05.docx</a>)
+- 01 Bản sao (2) Bản sao Giấy chứng nhận đầu tư hoặc Giấy phép đầu tư, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh hoặc các loại giấy tờ xác nhận tư cách pháp lý có giá trị tương đương khác và Giấy chứng nhận đủ điều kiện kinh doanh (nếu có);
+- 01 Bản chính (3) Bản mô tả nội dung, hình ảnh, cách thức vận hành/sử dụng, chủng loại, số lượng, tính năng của từng loại hàng hóa và các thông tin liên quan khác đến sản phẩm nhập khẩu (nếu có).

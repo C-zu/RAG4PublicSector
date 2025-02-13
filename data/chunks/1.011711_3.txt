@@ -1,0 +1,9 @@
+Tên thủ tục: Bổ sung, sửa đổi Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng (trong trường hợp tổ chức hoạt động thí nghiệm chuyên ngành xây dựng thay đổi địa điểm đặt phòng thí nghiệm hoặc thay đổi, bổ sung, sửa đổi chỉ tiêu thí nghiệm, tiêu chuẩn thí nghiệm trong Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Nộp hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng|
+|Trực tuyến|20 Ngày||Nộp hồ sơ trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.|
+|Dịch vụ bưu chính|20 Ngày||Nộp hồ sơ thông qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng.|

@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009540
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Giải thể công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam gửi hồ sơ đề nghị chấp thuận giải thể đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+Bước 4: Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ đề nghị chấp thuận giải thể đầy đủ và hợp lệ, UBCKNN có văn bản chấp thuận việc giải thể công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam theo phương án đã được phê duyệt; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+Lưu ý: trình tự thanh lý và phân chia tài sản cho cổ đông, thành viên góp vốn theo quy định của pháp luật về giải thể doanh nghiệp.
+Bước 5: Trong thời hạn 10 (mười) ngày kể từ ngày hoàn tất việc thanh lý tài sản, hoàn trả đầy đủ các khoản nợ, phân chia tài sản cho các cổ đông, thành viên góp vốn, người đại diện theo pháp luật của công ty phải báo cáo kết quả thanh lý tài sản cho Ủy ban Chứng khoán Nhà nước.
+Bước 6: Trong thời hạn 10 (mười) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả thanh lý tài sản đầy đủ, hợp lệ, UBCKNN ra quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán. Trường hợp từ chối, UBCKNN trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||+ Bước 4: 20 (hai mươi) ngày kể từ ngày nhận được hồ sơ đề nghị chấp thuận giải thể đầy đủ và hợp lệ. + Bước 6: 10 (mười) ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả thanh lý tài sản đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|20 Ngày làm việc||+ Bước 4: 20 (hai mươi) ngày kể từ ngày nhận được hồ sơ đề nghị chấp thuận giải thể đầy đủ và hợp lệ. + Bước 6: 10 (mười) ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả thanh lý tài sản đầy đủ, hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1) Hồ sơ đề nghị giải thể công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam a) Giấy đề nghị chấp thuận giải thể; b) Biên bản họp và nghị quyết của đại hội đồng cổ đông, hội đồng thành viên, hoặc quyết định của chủ sở hữu công ty hoặc quyết định của tổ chức kinh doanh chứng khoán nước ngoài thông qua việc giải thể, phương án giải thể công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam. Phương án giải thể phải bao gồm các nội dung xử lý các nghĩa vụ phát sinh từ các hợp đồng còn hiệu lực, hợp đồng lao động, kèm theo danh sách các công ty quản lý quỹ đầu tư chứng khoán dự kiến thay thế. 2) Hồ sơ báo cáo kết quả thanh lý tài sản a) Báo cáo về việc thanh lý tài sản của công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam; việc trả nợ và thực hiện các nghĩa vụ tài sản khác đối với các chủ nợ, những người có quyền lợi và nghĩa vụ khác, kể cả các nghĩa vụ tài chính đối với nhà nước, các khoản nợ thuế và nợ tiền đóng bảo hiểm xã hội. Báo cáo phải đính kèm danh sách chủ nợ và số nợ đã thanh toán; danh sách cổ đông, thành viên góp vốn, tỷ lệ vốn góp và số tiền, khối lượng tài sản đã thanh toán; b) Báo cáo có xác nhận của các ngân hàng lưu ký, ngân hàng giám sát và ban đại diện quỹ, hội đồng quản trị công ty đầu tư chứng khoán, khách hàng ủy thác về việc thanh lý hợp đồng, kèm theo biên bản thanh lý hợp đồng, có xác nhận của ngân hàng giám sát, ngân hàng lưu ký; tài liệu về việc giải thể quỹ theo quy định của pháp luật về việc thành lập và quản lý quỹ đầu tư chứng khoán. Trường hợp bàn giao quyền, trách nhiệm và danh mục đầu tư của quỹ, công ty đầu tư chứng khoán, khách hàng ủy thác cho công ty quản lý quỹ đầu tư chứng khoán thay thế, báo cáo phải kèm theo các tài liệu về việc bàn giao quyền và nghĩa vụ đối với khách hàng ủy thác cho công ty quản lý quỹ đầu tư chứng khoán thay thế có xác nhận bởi các ngân hàng giám sát, ngân hàng lưu ký cũ và mới; c) Danh sách người lao động và quyền lợi người lao động đã được giải quyết; d) Giấy xác nhận của cơ quan thuế về việc đã hoàn thành các nghĩa vụ về thuế; Giấy xác nhận đã nộp con dấu của cơ quan có thẩm quyền; bản gốc Giấy phép thành lập và hoạt động kinh doanh chứng khoán và các giấy phép sửa đổi, bổ sung.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công văn chấp thuận việc giải thể công ty, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam theo phương án giải thể đã được phê duyệt; hoặc công văn từ chối và nêu rõ lý do, Quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán; hoặc công văn từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Công ty chỉ được giải thể khi bảo đảm thanh toán hết các khoản nợ, nghĩa vụ tài sản khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

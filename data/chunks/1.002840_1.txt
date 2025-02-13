@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp bổ sung năng định Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002840
+Số quyết định:
+229/QĐ-BGTVT
+Tên thủ tục:
+Cấp bổ sung năng định Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không

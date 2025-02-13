@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng (theo Mẫu số 01 Quyết định 18/2019/QĐ-TTg), theo đó giải trình về sự cần thiết phải nhập khẩu máy móc, thiết bị để bảo đảm duy trì hoạt động sản xuất kinh doanh, phương án sử dụng và sự cần thiết của máy móc, thiết bị dự kiến nhập khẩu trong dây chuyền công nghệ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7a0a74812ec16'">Mẫu văn bản đề nghị cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng.docx</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp có đóng dấu của doanh nghiệp
+- 01 Bản chính Chứng thư giám định được cấp bởi tổ chức giám định được Bộ Khoa học và Công nghệ chỉ định. Nội dung chứng thư giám định được thực hiện theo quy định tại điểm a, b, c, d, g khoản 1 Điều 10 Quyết định 18/2019/QĐ-TTg

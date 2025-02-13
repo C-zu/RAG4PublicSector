@@ -1,0 +1,11 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm muối nhập khẩu (UBND tỉnh Hà Tĩnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Lưu ý khi nộp hồ sơ: + Nếu nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh, trường hợp yêu cầu bản sao thì kèm theo bản gốc để đối chiếu; + Nếu nộp hồ sơ qua Cổng dịch vụ công thì quét (Scan) từ bản chính; + Nếu nộp hồ sơ qua đường bưu điện thì nộp bản sao có chứng thực của cơ quan có thẩm quyền.
+- 01 Bản chính Giấy đăng ký kiểm tra thực phẩm nhập khẩu theo quy định, theo mẫu BM.KTHT.02.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fba21c01d3873e8'">GIẤY ĐĂNG KÝ KIỂM TRA THỰC PHẨM NHẬP KHẨU.docx</a>)
+- 01 Bản chính Bản tự công bố sản phẩm
+- 01 Bản sao Danh mục hàng hóa (Packing List);
+- 01 Bản sao Giấy phép nhập khẩu theo hạn ngạch thuế quan (nếu có)
+- 01 Bản chính Bản chính 03 (ba) Thông báo kết quả kiểm tra an toàn thực phẩm muối nhập khẩu được cơ quan kiểm tra đánh giá đạt yêu cầu an toàn thực phẩm sau 03 lần kiểm tra liên tiếp tại các ngày khác nhau đối với lô hàng muối nhập khẩu cùng loại, cùng xuất xứ, cùng nhà sản xuất, cùng người nhập khẩu theo phương thức kiểm tra chặt (áp dụng đối với phương thức kiểm tra thông thường)

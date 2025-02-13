@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng từ 3.000m3/ngày đêm trở lên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn hoặc điều chỉnh nội dung giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda4cdf1059e760'">Mẫu 02.doc</a>)
+- 01 Bản chính Báo cáo tình hình thực hiện các quy định trong giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f881c6130ed1ac0'">Mẫu 23.doc</a>)
+- 01 Bản chính Giấy phép thăm dò nước dưới đất (gia hạn, điều chỉnh, cấp lại) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5e3ba75491820'">Mẫu 12.doc</a>)

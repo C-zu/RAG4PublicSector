@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký lại phương tiện trong trường hợp chủ phương tiện thay đổi trụ sở hoặc nơi đăng ký hộ khẩu thường trú của chủ phương tiện sang đơn vị hành chính cấp tỉnh khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp để lưu giữ tại cơ quan đăng ký phương tiện
+- 01 Bản chính Đơn đề nghị đăng ký lại phương tiện thủy nội địa theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe08d0b7444d695'">Mẫu32.doc</a>)
+- 01 Bản chính 02 ảnh có kích thước 10 x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi
+- 01 Bản chính Hồ sơ gốc còn dấu niêm phong, thành phần hồ sơ gốc ứng với từng trường hợp đăng ký đã được cơ quan đăng ký phương tiện cấp trước đó
+
+
+Giấy tờ xuất trình để cơ quan đăng ký phương tiện kiểm tra
+- 01 Bản chính Bản chính Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm

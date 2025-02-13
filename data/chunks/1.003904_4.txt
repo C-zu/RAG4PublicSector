@@ -1,0 +1,22 @@
+Tên thủ tục: Công nhận tiến bộ kỹ thuật công nghệ sinh học
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với hồ sơ đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học tạo ra ở nước ngoài
+- 01 Bản chính, 010 Bản sao Đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe63cc1a78b4822'">TT23 Phụ lục 1. Mẫu đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học.docx</a>)
+- 01 Bản chính, 010 Bản sao Báo cáo kết quả nghiên cứu, sản xuất thử nghiệm của Tổ chức đăng ký theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa4db3fcd926e80'">TT23 Phụ lục 2. Mẫu báo cáo kết quả nghiên cứu, sản xuất thử nghiệm (1).docx</a>)
+- 01 Bản chính, 010 Bản sao Tài liệu công nhận tiến bộ kỹ thuật công nghệ sinh học hoặc tương đương tại nơi có nguồn gốc xuất xứ
+- 01 Bản chính, 010 Bản sao Các kết quả khảo, kiểm nghiệm giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường theo yêu cầu của các qui định hiện hành do Tổ chức/Đơn vị/Cơ sở khảo, kiểm nghiệm được công nhận hoặc chỉ định thực hiện
+- 01 Bản chính, 010 Bản sao Ngoài các tài liệu nêu trên, trường hợp tiến bộ kỹ thuật đăng ký là giống cây trồng, vật nuôi, vi sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen, hồ sơ đăng ký phải có thêm bản sao các văn bản chứng nhận an toàn sinh học của cơ quan quản lý nhà nước Việt Nam có thẩm quyền
+- 01 Bản chính, 010 Bản sao Các tài liệu khác liên quan (nếu có)
+
+
+Đối với hồ sơ đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học tạo ra ở Việt Nam
+- 01 Bản chính, 010 Bản sao Đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe700d685a16d84'">TT23 Phụ lục 1. Mẫu đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học.docx</a>)
+- 01 Bản chính, 010 Bản sao Báo cáo kết quả nghiên cứu, sản xuất thử nghiệm của Tổ chức đăng ký theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea659dc078a0f8'">TT23 Phụ lục 2. Mẫu báo cáo kết quả nghiên cứu, sản xuất thử nghiệm (1).docx</a>)
+- 01 Bản chính, 010 Bản sao Ý kiến nhận xét bằng văn bản của các tổ chức, cá nhân áp dụng tiến bộ kỹ thuật công nghệ sinh học theo mẫu
+- 01 Bản chính, 010 Bản sao Quyết định thành lập Hội đồng khoa học công nghệ nghiệm thu hoặc Hội đồng khoa học công nghệ cơ sở, Biên bản họp Hội đồng khoa học công nghệ nghiệm thu hoặc biên bản họp của Hội đồng khoa học công nghệ cơ sở.
+- 01 Bản chính, 010 Bản sao Các kết quả khảo, kiểm nghiệm giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm, thủy sản và xử lý môi trường theo yêu cầu của các qui định hiện hành do Tổ chức đăng ký thực hiện đối với tiến bộ kỹ thuật công nghệ sinh học được tạo ra từ các nhiệm vụ khoa học công nghệ do ngân sách Nhà nước tài trợ hoặc do Tổ chức/Đơn vị/Cơ sở khảo, kiểm nghiệm được công nhận hoặc chỉ định thực hiện
+- 01 Bản chính, 010 Bản sao Ngoài các tài liệu qui định tại các mục trên, trường hợp tiến bộ kỹ thuật đăng ký là giống cây trồng, vật nuôi, vi sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen, hồ sơ đăng ký phải có thêm bản sao các văn bản chứng nhận an toàn sinh học của cơ quan quản lý nhà nước có thẩm quyền
+- 01 Bản chính, 010 Bản sao Các tài liệu khác liên quan (nếu có)

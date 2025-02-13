@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thuộc loại 1, loại 2, loại 3, loại 4 và loại 9 bằng phương tiện giao thông cơ giới đường bộ, trên đường thủy nội địa (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp huyện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Công an cấp huyện hoặc Bộ phận Một cửa cấp huyện (trường hợp đã đưa thủ tục ra tiếp nhận tại Bộ phận Một cửa); Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|

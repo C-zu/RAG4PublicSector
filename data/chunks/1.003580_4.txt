@@ -1,0 +1,7 @@
+Tên thủ tục: Công bố cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học cấp I, cấp II
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính BẢN TỰ CÔNG BỐ Cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9ce31749bd7980'">phụ lục.docx</a>)

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài để phục vụ việc thực hiện khoản vay nước ngoài của bên đi vay nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép theo Phụ lục số 01. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe46f78eac20c4a'">Đơn đề nghị cấp,cấp lại giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài (1).doc</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy phép thành lập và hoạt động hoặc các giấy tờ khác tương đương theo quy định của pháp luật.
+- 01 Bản sao Bản sao kèm bản dịch tiếng Việt thoả thuận vay nước ngoài bên đi vay nước ngoài đã ký với bên cho vay nước ngoài.
+- 01 Bản sao Bản sao kèm bản dịch tiếng Việt hợp đồng hoặc thỏa thuận về tài khoản đã ký hoặc văn bản chứng minh bên cho vay nước ngoài yêu cầu bên đi vay nước ngoài phải mở tài khoản ngoại tệ ở nước ngoài trong trường hợp nội dung này không có trong hợp đồng hoặc thỏa thuận về tài khoản, trong đó quy định mục đích mở tài khoản, nội dung thu, chi trên tài khoản và thời hạn duy trì tài khoản.
+- 01 Bản sao Bản sao văn bản xác nhận đăng ký, đăng ký thay đổi khoản vay nước ngoài của Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc trung ương áp dụng đối với trường hợp khoản vay nước ngoài thực hiện thủ tục đăng ký, đăng ký thay đổi tại Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc trung ương.

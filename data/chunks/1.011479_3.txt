@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận vùng an toàn dịch bệnh động vật (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 3.500.000 Đồng Phí thẩm định đối với vùng an toàn dịch bệnh động vật  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb5395d5608429'">Biểu phí.doc</a>|Kể từ khi nhận đủ hồ sơ|
+|Trực tuyến|05 Ngày làm việc|Phí : 3.500.000 Đồng Phí thẩm định đối với vùng an toàn dịch bệnh động vật  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb5395d5608429'">Biểu phí.doc</a>|Kể từ khi nhận đủ hồ sơ|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 3.500.000 Đồng Phí thẩm định đối với vùng an toàn dịch bệnh động vật  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb5395d5608429'">Biểu phí.doc</a>|Kể từ khi nhận đủ hồ sơ|

@@ -1,0 +1,6 @@
+Tên thủ tục: Công bố nồng độ, hàm lượng trong nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1:  Trước khi thực hiện nhập khẩu nguyên liệu sản xuất trang thiết bị y tế và chất ngoại kiểm có chứa chất ma túy và tiền chất, cơ sở nhập khẩu có trách nhiệm đăng tải hồ sơ công bố đầy đủ, hợp lệ theo quy định trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Y tế (https://dichvucong.moh.gov.vn) hoặc Cổng thông tin điện tử về quản lý trang thiết bị y tế (https://dmec.moh.gov.vn/).
+Bước 2: Sau khi nhận được hồ sơ đầy đủ, hợp lệ, Bộ Y tế đăng tải công khai trên Cổng thông tin điện tử về quản lý trang thiết bị y tế các thông tin và hồ sơ công bố đối với nguyên liệu sản xuất trang thiết bị y tế và chất ngoại kiểm có chứa chất ma túy và tiền chất.

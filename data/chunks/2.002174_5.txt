@@ -1,0 +1,21 @@
+Tên thủ tục: Thủ tục tiếp công dân tại cấp huyện
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Ban tiếp công dân cấp huyện, Các phòng chuyên môn trực thuộc UBND cấp huyện, Thanh tra huyện
+Cơ quan có thẩm quyền:
+Chủ tịch Ủy ban nhân dân cấp huyện, Trưởng phòng trực thuộc UBND cấp huyện
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cán bộ tiếp dân trả lời trực tiếp hoặc có thông báo bằng văn bản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|số 42/2013|Luật tiếp công dân|25-11-2013|Quốc Hội|

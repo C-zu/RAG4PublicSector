@@ -1,0 +1,12 @@
+Tên thủ tục: Xếp hạng công ty trách nhiệm hữu hạn một thành viên do Ủy ban nhân dân tỉnh, thành phố làm chủ sở hữu (hạng Tổng công ty và tương đương, hạng I, hạng II và hạng III
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9afa3af473bc9'">Mẫu số 01 - TT 23.docx</a>)
+- 01 Bản chính bảng tính điểm theo các chỉ tiêu xếp hạng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa5267d30623260'">Biểu mẫu số 3 - TT 27.docx</a>)
+- 01 Bản chính biểu tổng hợp số lao động thực tế sử dụng bình quân (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0e41ed3d1261f'">Biểu mẫu số 4 - TT 27.docx</a>)
+- 01 Bản chính danh sách đơn vị thành viên
+- 01 Bản chính bản sao giấy đăng ký kinh doanh
+- 01 Bản chính bản sao báo cáo tài chính hai năm trước liền kề và kế hoạch năm xếp hạng.

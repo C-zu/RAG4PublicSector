@@ -1,0 +1,8 @@
+Tên thủ tục: Chi trả phí bảo hiểm nông nghiệp được hỗ trợ từ ngân sách nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bảng kê (kèm theo bản sao) hợp đồng bảo hiểm nông nghiệp mà doanh nghiệp bảo hiểm đã ký kết với tổ chức, cá nhân sản xuất nông nghiệp theo mẫu quy định tại Phụ lục 6 ban hành kèm theo Nghị định số 58/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcc7b96128eff4'">Bang ke BHNN 06.docx</a>)
+- 01 Bản chính - Đơn đề nghị chi trả phí bảo hiểm nông nghiệp được hỗ trợ từ ngân sách nhà nước theo mẫu quy định tại Phụ lục 5 ban hành kèm theo Nghị định số 58/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecbbba30c36862'">De nghị chi tra phi bao hiem.docx</a>)

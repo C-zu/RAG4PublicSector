@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp thẻ bảo hiểm y tế (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||tại đơn vị Công an nơi quản lý trực tiếp sĩ quan, hạ sĩ quan, chiến sĩ nghĩa vụ, học viên Công an nhân dân đại diện cho thân nhân; người lao động làm việc theo hợp đồng lao động, công nhân Công an, công dân tạm tuyển trước khi chính thức được tuyển chọn vào Công an nhân dân; học sinh trường văn hóa Công an nhân dân và sinh viên là người nước ngoài, sinh viên hệ dân sự đang học tập tại các trường Công an nhân dân. Thời gian: trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị cấp thẻ bảo hiểm y tế, Bảo hiểm xã hội tỉnh có trách nhiệm cấp thẻ bảo hiểm y tế và chuyển thẻ bảo hiểm y tế về trường Công an; Công an, Cảnh sát phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương; doanh nghiệp, đơn vị sự nghiệp công lập thuộc Bộ Công an.|

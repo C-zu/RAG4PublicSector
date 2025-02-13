@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu giống cây trồng biến đổi gen
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Văn bản đề nghị cấp giấy phép nhập khẩu giống cây trồng biến đổi gen theo Mẫu số 06/TT Phụ lục I ban hành kèm theo Thông tư số 43/2018/TT-BNNPTNT ngày 28/12/2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcc4549db0cb318'">mau 6.doc</a>)
+- 01 Bản chính b) Tờ khai kỹ thuật nhập khẩu giống cây trồng biến đổi gen theo Mẫu số 07/TT Phụ lục I ban hành kèm theo Thông tư số 43/2018/TT-BNNPTNT ngày 28/12/2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (chỉ nộp khi nhập khẩu lần đầu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd006160e845158'">mau 7.doc</a>)
+- 01 Bản chính c) Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh (đối với trường hợp phải đăng ký) hoặc Giấy chứng nhận đăng ký đầu tư (đối với trường hợp doanh nghiệp có vốn đầu tư nước ngoài); chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (đối với cá nhân);
+- 01 Bản chính d) Bản sao Giấy chứng nhận an toàn sinh học và Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi của cơ quan có thẩm quyền của Việt Nam;
+- 01 Bản chính đ) Kế hoạch khảo nghiệm so sánh, bao gồm khảo nghiệm so sánh diện hẹp và diện rộng theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Thông tư 29/2014/TT-BNNPTNT ngày 05 tháng 9 năm 2014 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung Điều 7 Thông tư số 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 về công nhận tiến bộ kỹ thuật công nghệ sinh học của ngành nông nghiệp và phát triển nông thôn.

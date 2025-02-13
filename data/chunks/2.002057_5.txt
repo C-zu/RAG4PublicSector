@@ -1,0 +1,24 @@
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký doanh nghiệp đối với công ty bị tách (đối với công ty trách nhiệm hữu hạn, công ty cổ phần)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư, Phòng Đăng ký kinh doanh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Nộp trực tiếp tại Trụ sở cơ quan Hoặc nộp hồ sơ trực tuyến trên https://dangkykinhdoanh.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký doanh nghiệp công ty TNHH một thành viên, Giấy chứng nhận đăng ký doanh nghiệp công ty TNHH hai thành viên trở lên, Giấy chứng nhận đăng ký doanh nghiệp công ty cổ phần, Thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư 47/2019/TT-BTC|47/2019/TT-BTC|05-08-2019|Bộ Tài chính|
+|59/2020/QH14|Luật Doanh nghiệp số 59/2020/QH14|17-06-2020||
+|01/2021/NĐ-CP|Nghị định số 01/2021/NĐ-CP của Chính phủ: Về đăng ký doanh nghiệp|04-01-2021||
+|01/2021/TT-BKHĐT|Hướng dẫn về đăng ký doanh nghiệp|16-03-2021|Bộ Kế hoạch và Đầu tư|

@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký liên hiệp hợp tác xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao hợp lệ giấy tờ chứng thực cá nhân của người đại diện theo pháp luật của liên hiệp hợp tác xã. Trường hợp được ủy quyền, phải có thêm: (1) bản sao hợp lệ giấy tờ chứng thực cá nhân của người được ủy quyền; (2) bản sao hợp lệ hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ nộp hồ sơ, nhận kết quả và giấy giới thiệu của tổ chức đó cho cá nhân thực hiện nộp hồ sơ, nhận kết quả hoặc văn bản ủy quyền cho cá nhân thực hiện nộp hồ sơ, nhận kết quả theo quy định của pháp luật. Văn bản này không bắt buộc phải công chứng, chứng thực.
+- 01 Bản chính - Giấy đề nghị đăng ký thay đổi nội dung đăng ký của liên hiệp hợp tác xã; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5055f55f1a920'">Phu luc I-5_TT07.2019.docx</a>)
+- 01 Bản chính - Nghị quyết của đại hội thành viên hoặc quyết định của hội đồng quản trị về việc thay đổi nội dung đăng ký liên hiệp hợp tác xã theo quy định của Luật Hợp tác xã.

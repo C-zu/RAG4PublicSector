@@ -1,0 +1,8 @@
+Tên thủ tục: Chấp thuận chủ trương xây dựng đường ngang (đối với đường sắt có tốc độ thiết kế nhỏ hơn 100 km/giờ giao nhau với đường bộ; đường sắt giao nhau với đường bộ từ cấp IV trở xuống)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9cf7301c49358'">13-Mẫu VB đề nghị .doc</a>)
+- 01 Bản chính Bình đồ khu vực xây dựng đường ngang

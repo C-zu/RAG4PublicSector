@@ -1,0 +1,8 @@
+Tên thủ tục: Chấm dứt hoạt động của Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài (Hội Liên hiệp phụ nữ quyết định giải thể Trung tâm)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định (đề xuất trong ngày làm việc).||Hồ sơ được nộp trực tiếp tại Bộ phận tiếp nhận và trả kết quả của Sở Tư pháp|
+|Dịch vụ bưu chính|Không quy định (đề xuất trong ngày làm việc).||Hồ sơ gửi bằng dịch vụ bưu chính đến Bộ phận tiếp nhận và trả kết quả của Sở Tư pháp|

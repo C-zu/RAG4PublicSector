@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục xác định có quốc tịch Việt Nam và cấp hộ chiếu Việt Nam
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000772
+Số quyết định:
+1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục xác định có quốc tịch Việt Nam và cấp hộ chiếu Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quốc tịch

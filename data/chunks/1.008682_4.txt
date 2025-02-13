@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận Cơ sở bảo tồn đa dạng sinh học
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Mẫu Đơn đăng ký thành lập, chứng nhận cơ sở bảo tồn đa dạng sinh học; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1dbc98ffb282c'">Mẫu đơn đăng ký thành lập.docx</a>)
+- 01 Bản chính + Mẫu dự án thành lập cơ sở bảo tồn đa dạng sinh học; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3568693523d62'">Mẫu dự án thành lập cơ sở bảo tồn đa dạng sinh học.docx</a>)
+- 01 Bản chính + Mẫu giấy chứng nhận cơ sở bảo tồn đa dạng sinh học. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbe6b590401b860'">Mẫu giấy chứng nhận cơ sở bảo tồn đa dạng sinh học.docx</a>)

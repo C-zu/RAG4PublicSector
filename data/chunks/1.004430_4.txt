@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy phép bưu chính khi bị mất hoặc hư hỏng không sử dụng được (Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại giấy phép bưu chính. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfb7c5739278fa'">Mẫu giấy đề nghị cấp lại giấy phép khi mất hư hỏng.docx</a>)
+ Số lượng hồ sơ: 01 bộ là bản gốc

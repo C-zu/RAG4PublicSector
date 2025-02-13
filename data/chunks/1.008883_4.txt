@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa xuất khẩu trong lĩnh vực thông tin và truyền thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy chứng nhận lưu hành tự do (CFS) đối với hàng hóa xuất khẩu trong lĩnh vực thông tin và truyền thông (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feede2c1ab3c40e'">MẪU ĐƠN ĐỀ NGHỊ CẤP GIẤY CHỨNG NHẬN LƯU HÀNH TỰ DO.docx</a>)
+- 01 Bản sao Giấy chứng nhận đầu tư hoặc giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp
+- 01 Bản chính Danh mục các cơ sở sản xuất (nếu có), bao gồm tên, địa chỉ của cơ sở, các mặt hàng sản xuất để xuất khẩu
+- 01 Bản sao Bản tiêu chuẩn công bố áp dụng đối với sản phẩm, hàng hóa kèm theo cách thể hiện (trên nhãn hàng hóa hoặc trên bao bì hàng hóa hoặc tài liệu kèm theo sản phẩm, hàng hóa)

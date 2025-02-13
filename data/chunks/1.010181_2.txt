@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp lại Giấy phép xây dựng cho công trình thuộc dự án - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa để trả lại.. (Cơ quan tiếp nhận hồ sơ chỉ được yêu cầu sửa đổi, bổ sung 01 lần).  
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC..
+B6	Phê duyệt kết quả giải quyết TTHC
+B7	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn

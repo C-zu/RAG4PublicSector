@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục gia hạn thuê đất trong khu kinh tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 09/ĐK Ban hành kèm theo Thông tư số 24/2014/TT-BTNMT được sửa đổi, bổ sung bởi Thông tư số 33/2017/TT-BTNMT;
+- 01 Bản chính, 01 Bản sao - Bản gốc Giấy chứng nhận đã cấp;
+- 01 Bản chính, 01 Bản sao - Bản sao Quyết định đầu tư bổ sung hoặc Giấy phép đầu tư hoặc Giấy chứng nhận đầu tư hoặc Quyết định chủ trương đầu tư có thể hiện thời hạn hoặc điều chỉnh thời hạn thực hiện dự án đầu tư phù hợp thời gian xin gia hạn sử dụng đất đối với trường hợp sử dụng đất của tổ chức, tổ chức nước ngoài có chức năng ngoại giao, doanh nghiệp có vốn đầu tư nước ngoài và người Việt Nam định cư ở nước ngoài thực hiện dự án đầu tư. Trường hợp tổ chức trong nước đang sử dụng đất để thực hiện hoạt động đầu tư trên đất nhưng không thuộc trường hợp có Quyết định đầu tư bổ sung hoặc Giấy phép đầu tư hoặc Giấy chứng nhận đầu tư hoặc Quyết định chủ trương đầu tư theo quy định của pháp luật về đầu tư thì thể hiện cụ thể lý do đề nghị gia hạn sử dụng đất tại Điểm 4 của Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 09/ĐK Ban hành kèm theo Thông tư số 24/2014/TT-BTNMT được sửa đổi, bổ sung bởi Thông tư số 33/2017/TT-BTNMT.
+- 01 Bản chính, 01 Bản sao - Chứng từ đã thực hiện xong nghĩa vụ tài chính (nếu có).
+- 01 Bản chính, 01 Bản sao - Đối với trường hợp thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất mà có thay đổi thông tin về pháp nhân, số Giấy chứng minh nhân dân, số thẻ Căn cước công dân, địa chỉ trên Giấy chứng nhận đã cấp thì người sử dụng đất nộp thêm các giấy tờ sau đây:
+- 01 Bản chính, 01 Bản sao + Bản sao Giấy chứng minh nhân dân mới hoặc Giấy chứng minh quân đội mới hoặc thẻ Căn cước công dân mới hoặc sổ hộ khẩu, giấy tờ khác chứng minh thay đổi nhân thân đối với trường hợp thay đổi thông tin về nhân thân của người có tên trên Giấy chứng nhận;
+- 01 Bản chính, 01 Bản sao + Văn bản của cơ quan có thẩm quyền cho phép hoặc công nhận việc thay đổi thông tin pháp nhân đối với trường hợp thay đổi thông tin về pháp nhân của tổ chức đã ghi trên Giấy chứng nhận.

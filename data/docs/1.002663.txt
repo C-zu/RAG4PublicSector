@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002663
+Số quyết định:
+1689/QĐ-BTTTT
+Tên thủ tục:
+Cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+- Thương nhân nộp 01 bộ hồ sơ (đề nghị cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học) trực tiếp hoặc qua bưu chính về Bộ Thông tin và Truyền thông (địa chỉ: số 18 Nguyễn Du, quận Hai Bà Trưng, thành phố Hà Nội) hoặc qua cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông; 
+- Trong trường hợp thương nhân cung cấp hồ sơ chưa đầy đủ, chưa đúng quy định, trong thời hạn 01 ngày làm việc, Bộ Thông tin và Truyền thông có thông báo yêu cầu sửa đổi, bổ sung hồ sơ;
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, Bộ Thông tin và Truyền thông xem xét, quyết định cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học. Trong trường hợp không cho phép, Bộ Thông tin và Truyền thông có văn bản trả lời và nêu rõ lý do.
+Trường hợp cần thiết, trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, Bộ Thông tin và Truyền thông có văn bản lấy ý kiến các bộ, cơ quan ngang bộ có liên quan; trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Bộ Thông tin và Truyền thông, bộ, cơ quan ngang bộ có văn bản trả lời. Thời gian lấy ý kiến không tính vào thời hạn xử lý hồ sơ đề nghị cấp phép.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Nộp hồ sơ tại Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Quận Hai Bà Trưng, Hà Nội|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ qua cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông|
+|Dịch vụ bưu chính|5 Ngày làm việc||Hồ sơ gửi qua đường bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản cam kết và đề nghị cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học của thương nhân (Mẫu số 01 tại Phụ lục ban hành kèm theo Quyết định số 31/2019/QĐ-TTg) ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedc5b74270f458'))
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký đầu tư
+- 01 Bản sao Tài liệu kỹ thuật mô tả hàng hóa; tài liệu thể hiện nguồn gốc hàng hóa (hóa đơn, vận đơn, hợp đồng,...)
+- 01 Bản chính Quyết định phê duyệt dự án nghiên cứu khoa học, Đề cương đề án nghiên cứu khoa học hoặc tài liệu khác trong đó nêu rõ mục tiêu, nội dung, kết quả dự kiến và thời gian thực hiện hoạt động nghiên cứu khoa học; giải trình về chủng loại và số lượng hàng hóa cần nhập khẩu, thời hạn và biện pháp xử lý hàng hóa sau khi kết thúc quá trình nghiên cứu khoa học
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Công nghiệp công nghệ thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông Số 18 Nguyễn Du, Hai Bà Trưng, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời cho phép hoặc không cho phép nhập khẩu sản phẩm công nghệ thông tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|69/2018/NĐ-CP|Nghị định 69/2018/NĐ-CP|15-05-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Hàng hóa nhập khẩu chỉ để phục vụ trực tiếp cho hoạt động nghiên cứu khoa học của thương nhân; không được phục vụ mục đích bán, biếu, tặng;
+
+- Hàng hóa nhập khẩu không được gây ô nhiễm môi trường theo quy định của pháp luật về bảo vệ môi trường;
+
+- Hàng hóa nhập khẩu thuộc danh mục sản phẩm, thiết bị phục vụ cho công tác nghiên cứu khoa học của đề án, dự án nghiên cứu khoa học đã được phê duyệt;
+
+- Hàng hóa nhập khẩu được thuê hoặc mua hoặc mượn từ đối tác nước ngoài có các tính chất, đặc điểm mang tính riêng biệt, chuyên dùng mà sản phẩm hàng hóa bán ở thị trường trong nước không thay thế được.
+- Hàng hóa nhập khẩu chỉ để phục vụ trực tiếp cho hoạt động nghiên cứu khoa học của thương nhân; không được phục vụ mục đích bán, biếu, tặng;
+
+- Hàng hóa nhập khẩu không được gây ô nhiễm môi trường theo quy định của pháp luật về bảo vệ môi trường;
+
+- Hàng hóa nhập khẩu thuộc danh mục sản phẩm, thiết bị phục vụ cho công tác nghiên cứu khoa học của đề án, dự án nghiên cứu khoa học đã được phê duyệt;
+
+- Hàng hóa nhập khẩu được thuê hoặc mua hoặc mượn từ đối tác nước ngoài có các tính chất, đặc điểm mang tính riêng biệt, chuyên dùng mà sản phẩm hàng hóa bán ở thị trường trong nước không thay thế được.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

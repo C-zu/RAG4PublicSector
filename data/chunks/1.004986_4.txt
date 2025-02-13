@@ -1,0 +1,8 @@
+Tên thủ tục: Sửa đổi Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn thông báo cho Cục Hàng không Việt Nam về các thay đổi;
+- 01 Bản chính Các sửa đổi đối với tài liệu giải trình tổ chức bảo dưỡng.

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác (đối với doanh nghiệp kinh doanh casino)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000500
+Số quyết định:
+2153/QĐ-NHNN
+Tên thủ tục:
+Cấp Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác (đối với doanh nghiệp kinh doanh casino)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động ngoại hối

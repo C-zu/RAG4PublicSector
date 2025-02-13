@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép phân phối sản phẩm thuốc lá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp sửa đổi, bổ sung giấy phép phân phối sản phẩm thuốc lá; Phụ lục 42 theo mẫu (Kèm theo Thông tư số 57/2018/TT-BCT ngày 26 tháng 12 năm 2018 của Bộ Công Thương) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea1848c7847902'">Phụ lục 42.docx</a>)
+- 01 Bản sao b) Bản sao Giấy phép phân phối sản phẩm thuốc lá đã được cấp;
+- 01 Bản chính, 01 Bản sao c) Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung.
+- 01 Bản chính d) Báo cáo kết quả kinh doanh của doanh nghiệp

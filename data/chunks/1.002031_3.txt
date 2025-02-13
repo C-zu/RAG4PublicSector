@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 5.000.000 Đồng|- Trường hợp đề nghị cấp lại do hết thời hạn Giấy phép: 30 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ. - Trường hợp đề nghị cấp lại do Giấy phép bị mất, bị rách, bị cháy hoặc bị hủy dưới hình thức khác: 10 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ.|
+|Trực tuyến|30 Ngày làm việc|Phí : 5.000.000 Đồng|- Trường hợp đề nghị cấp lại do hết thời hạn Giấy phép: 30 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ. - Trường hợp đề nghị cấp lại do Giấy phép bị mất, bị rách, bị cháy hoặc bị hủy dưới hình thức khác: 10 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 5.000.000 Đồng|- Trường hợp đề nghị cấp lại do hết thời hạn Giấy phép: 30 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ. - Trường hợp đề nghị cấp lại do Giấy phép bị mất, bị rách, bị cháy hoặc bị hủy dưới hình thức khác: 10 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ.|

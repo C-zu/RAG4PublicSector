@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp giấy phép lái tàu cho các lái tàu đầu tiên trên các tuyến đường sắt đô thị mới đưa vào khai thác, vận hành có công nghệ lần đầu sử dụng tại Việt Nam
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam, UBND Thành phố Hồ Chí Minh
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam, UBND Thành phố Hồ Chí Minh
+Địa chỉ tiếp nhận HS:
+Cục Đường sắt Việt Nam, UBND Thành phố Hồ Chí Minh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái tàu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|198/2016/TT-BTC|Thông tư 198/2016/TT-BTC|08-11-2016||
+|15/2023/TT-BGTVT|Thông tư quy định về tiêu chuẩn, nhiệm vụ, quyền hạn đối với chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; nội dung, chương trình đào tạo đối với cơ sở đào tạo các chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; điều kiện, nội dung, quy trình sát hạch và cấp, cấp lại, thu hồi giấy phép lái tàu trên đường sắt|30-06-2023|Bộ Giao thông vận tải|
+|26/2023/TT-BGTVT|sửa đổi, bổ sung Thông tư số 15/2023/TT-BGTVT ngày 30/6/2023 của Bộ trưởng Bộ Giao thông vận tải quy định về tiêu chuẩn, nhiệm vụ, quyền hạn đối với các chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; nội dung, chương trình đào tạo chức danh nhân viên đường sắt trực tiếp phục vụ chạy tàu; điều kiện, nội dung, quy trình sát hạch và cấp, cấp lại, thu hồi giấy phép lái tàu trên đường sắt|29-09-2023|Bộ Giao thông vận tải|

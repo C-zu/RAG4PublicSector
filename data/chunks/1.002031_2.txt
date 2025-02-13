@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1. 
++ Đối với trường hợp hết hạn Giấy phép: Tối thiểu 60 ngày trước ngày hết thời hạn hoạt động ghi trên Giấy phép, tổ chức cung ứng dịch vụ trung gian thanh toán phải gửi Hồ sơ đề nghị cấp lại Giấy phép cho Ngân hàng Nhà nước.
++ Đối với trường hợp Giấy phép bị mất, bị rách, bị cháy hoặc bị hủy dưới hình thức khác: Tổ chức cung ứng dịch vụ trung gian thanh toán gửi đơn đề nghị cấp lại Giấy phép theo Mẫu số 11 ban hành kèm theo Nghị định 52/2024/NĐ-CP ngày 15/5/2024 trong đó nêu rõ lý do.  
+- Bước 2. Căn cứ vào hồ sơ, Ngân hàng Nhà nước sẽ xem xét cấp lại Giấy phép hoặc có văn bản thông báo từ chối trong đó nêu rõ lý do.

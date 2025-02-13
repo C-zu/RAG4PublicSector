@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp, tạm dừng và hủy tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển đối với người làm thủ tục
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Người làm thủ tục làm đơn đề nghị cấp tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển gửi Biên phòng cửa khẩu cảng.
+- Biên phòng cửa khẩu cảng tiếp nhận, kiểm tra, gửi văn bản trả lời, trường hợp không đồng ý cấp tài khoản, phải thông báo bằng văn bản nêu rõ lý do.
+- Biên phòng cửa khẩu cảng chỉ được tạm dừng hoạt động, hủy tài khoản truy cập Cổng Thông tin thủ tục biên phòng điện tử cảng biển đối với người làm thủ tục trong các trường hợp:
++ Cá nhân người làm thủ tục hoặc cơ quan, doanh nghiệp chủ quản của người làm thủ tục có văn bản đề nghị tạm dừng hoạt động, hủy tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển của người làm thủ tục;
++ Người làm thủ tục vi phạm các quy định của pháp luật về thực hiện thủ tục biên phòng điện tử.

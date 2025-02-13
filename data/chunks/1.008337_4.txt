@@ -1,0 +1,10 @@
+Tên thủ tục: Khai quyết toán thuế TNDN đối với Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp khấu trừ, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính ++ Tờ khai thuế Nhà thầu nước ngoài (áp dụng đối với NTNN nộp thuế TNDN theo tỷ lệ trên doanh thu) mẫu biểu số 04/NTNN ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2fb7d8fda8032'">Mẫu 04.NTNN.doc</a>)
+- 01 Bản chính, 01 Bản sao ++ Bản sao hợp đồng nhà thầu, hợp đồng nhà thầu phụ có xác nhận của người nộp thuế (đối với lần khai thuế đầu tiên của hợp đồng nhà thầu)
+- 01 Bản chính, 01 Bản sao ++ Bản sao giấy phép kinh doanh hoặc giấy phép hành nghề có xác nhận của người nộp thuế
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 1 bộ

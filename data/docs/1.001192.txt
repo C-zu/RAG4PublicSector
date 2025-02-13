@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001192
+Số quyết định:
+1310/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục chỉ định tổ chức thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị chỉ định thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường lập 01 bộ hồ sơ theo quy định đến Tổng cục Tiêu chuẩn Đo lường Chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định:
+- Nếu hồ sơ chưa đầy đủ, hợp lệ: Trong thời hạn mười (10) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị những nội dung cần bổ sung, hoàn chỉnh.
+- Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn ba mươi (30) ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Tổng cục ra quyết định thành lập đoàn đánh giá tại cơ sở và tiến hành đánh giá theo quy định.
+Bước 3: Trong thời hạn ba mươi (30) ngày làm việc kể từ ngày ký quyết định thành lập đoàn đánh giá, trưởng đoàn đánh giá phải nộp hồ sơ kết quả đánh giá về Tổng cục.
+Trường hợp tổ chức đề nghị có những điểm không phù hợp nhưng có thể khắc phục được thì đoàn đánh giá liệt kê các điểm không phù hợp, đề xuất thời hạn khắc phục và thông báo kết quả đánh giá cho tổ chức đề nghị. Tổ chức đề nghị tiến hành khắc phục các điểm không phù hợp và gửi báo cáo cho đoàn đánh giá. Đoàn đánh giá tiến hành thẩm định báo cáo khắc phục, trường hợp cần thiết đoàn đánh giá tiến hành đánh giá lại tại cơ sở. Trong trường hợp này, thời hạn khắc phục và thời gian đánh giá lại được cộng thêm vào thời hạn đánh giá.
+Bước 4: Tổng cục xem xét kết quả đánh giá: Trong thời hạn mười (10) ngày kể từ ngày nhận được hồ sơ kết quả đánh giá tại cơ sở
+- Nếu kết quả đánh giá tại cơ sở đạt yêu cầu, Tổng cục ra quyết định chỉ định hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
+- Nếu kết quả đánh giá tại cơ sở không đạt yêu cầu, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày làm việc||40 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ và không tính thời gian đánh giá tại cơ sở.|
+|Trực tuyến|40 Ngày làm việc||40 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ và không tính thời gian đánh giá tại cơ sở.|
+|Dịch vụ bưu chính|40 Ngày làm việc||40 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ và không tính thời gian đánh giá tại cơ sở.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm ([Mau 6 - TT 24 ĐỀ NGHỊ CHỈ ĐỊNH THỰC HIỆN HOẠT ĐỘNG.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe93449a9008c44'))
+- 01 Bản chính Báo cáo về cơ sở vật chất, kỹ thuật, nhân lực. ([Mau 2 - PL 1 ND 154 BC co so vat chat.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedbad23b492b8c'))
+- 01 Bản chính Báo cáo hoạt động kiểm định, hiệu chuẩn, thử nghiệm đã thực hiện năm gần nhất. ([Mau 4 - ND 105 BÁO CÁO HOẠT ĐỘNG KIỂM ĐỊNH, HIỆU CHUẨN, THỬ NGHIỆM.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd3f391e775898'))
+- 01 Bản chính Văn bản của người đứng đầu tổ chức đề nghị quy định về nội dung, hình thức, việc chế tạo, quản lý và sử dụng chứng chỉ chứng chỉ kiểm định, hiệu chuẩn, thử nghiệm.
+- 01 Bản chính Hồ sơ đề nghị chứng nhận chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2 (trường hợp đề nghị chỉ định kiểm định phương tiện đo nhóm 2). ([Mẫu11.ĐNCNCĐL.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febe1a9703532ed'))
+- 01 Bản chính Hồ sơ đề nghị chứng nhận, cấp thẻ kiểm định viên đo lường (trường hợp đề nghị chỉ định kiểm định phương tiện đo nhóm 2). ([Mẫu 12. ĐNCNKĐVĐL.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe70cdeadf42b50'))
+- 01 Bản chính Danh mục hồ sơ của hệ thống quản lý đã thiết lập và duy trì đối với hoạt động kiểm định, hiệu chuẩn, thử nghiệm đề nghị chỉ định.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|04/2011/QH13|Luật 04/2011/QH13|11-11-2011|Quốc Hội|
+|86/2012/NĐ-CP|Nghị định 86/2012/NĐ-CP|19-10-2012|Chính phủ|
+|105/2016/NĐ-CP|Nghị định 105/2016/NĐ-CP-Quy định về điều kiện hoạt động của tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường|01-07-2016|Chính phủ|
+|24/2013/TT-BKHCN|Quy định về hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường|30-09-2013|Bộ Khoa học và Công nghệ|
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP|09-11-2018||
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường đối với lĩnh vực phù hợp với lĩnh vực đề nghị chỉ định.
+- Chuẩn công tác và chất chuẩn dùng trực tiếp để kiểm định phương tiện đo nhóm 2 thuộc lĩnh vực hoạt động được chỉ định phải đáp ứng các yêu cầu tại văn bản kỹ thuật đo lường Việt Nam tương ứng, phải được hiệu chuẩn, thử nghiệm hoặc so sánh tại tổ chức hiệu chuẩn, thử nghiệm tại Việt Nam có lĩnh vực hoạt động phù hợp được chỉ định hoặc tại tổ chức kiểm định, hiệu chuẩn, thử nghiệm ở nước ngoài có lĩnh vực hoạt động phù hợp được công nhận hoặc chỉ định.
+- Có ít nhất 01 nhân viên kiểm định đã có chứng chỉ hoàn thành khóa đào tạo về kiểm định do Tổng cục tổ chức thực hiện tương ứng với lĩnh vực được chỉ định.
+- Tổ chức đã được cấp giấy chứng nhận đăng ký cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường đối với lĩnh vực phù hợp với lĩnh vực đề nghị chỉ định.
+- Chuẩn công tác và chất chuẩn dùng trực tiếp để kiểm định phương tiện đo nhóm 2 thuộc lĩnh vực hoạt động được chỉ định phải đáp ứng các yêu cầu tại văn bản kỹ thuật đo lường Việt Nam tương ứng, phải được hiệu chuẩn, thử nghiệm hoặc so sánh tại tổ chức hiệu chuẩn, thử nghiệm tại Việt Nam có lĩnh vực hoạt động phù hợp được chỉ định hoặc tại tổ chức kiểm định, hiệu chuẩn, thử nghiệm ở nước ngoài có lĩnh vực hoạt động phù hợp được công nhận hoặc chỉ định.
+- Có ít nhất 01 nhân viên kiểm định đã có chứng chỉ hoàn thành khóa đào tạo về kiểm định do Tổng cục tổ chức thực hiện tương ứng với lĩnh vực được chỉ định.
+Từ khóa:
+Thủ tục chỉ định tổ chức thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Mô tả:
+Không có thông tin

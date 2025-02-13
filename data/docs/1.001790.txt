@@ -1,0 +1,78 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001790
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục thực hiện chế độ một lần đối với đối tượng hạ sĩ quan, chiến sĩ quân đội theo Quyết định số 188/2007/QĐ-TTg (đối tượng cư trú ở địa phương khác không còn lưu giữ được giấy tờ)
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chính sách
+Trình tự thực hiện:
+Đối tượng làm tờ khai theo mẫu quy định gửi Uỷ ban nhân dân xã, phường nơi sinh quán.
+Uỷ ban nhân dân xã, phường nơi sinh quán của đối tượng:
+- Tiếp nhận hồ sơ, chuyển Trưởng thôn để tổ chức hội nghị liên tịch xem xét , xác nhận cho đối tượng.
+- Ban Chỉ huy quân sự xã, đề nghị Ban chấp hành Hội Cựu chiến binh họp xem xét, xác nhận đối tượng.
+- Hội đồng chính sách xã, phường họp công khai xét duyệt đối với đối tượng do Ban chấp hành Hội Cựu chiến binh đã cho ý kiến bằng văn bản.
+- Trong thời gian 45 ngày phải trả lời đối tượng (kèm theo văn bản) để địa phương nơi đối tượng đăng ký hộ khẩu thường trú xét duyệt và đề nghị hưởng chế độ.
+Uỷ ban nhân dân xã, phường nơi đăng ký hộ khẩu thường trú: tiếp nhận hồ sơ, xét
+duyệt và đề nghị hưởng chế độ.
+UBND huyện (quận):
+- Chỉ đạo Ban chỉ huy quân sự huyện (quận) phối hợp với các cơ quan chức năng tổ chức xét duyệt thẩm định, tổng hợp và báo cáo UBND tỉnh, thành phố (qua Bộ Chỉ huy quân sự tỉnh, thành phố).
+- Chỉ đạo tiến hành chi trả chế độ cho đối tượng.
+UBND tỉnh (thành phố):
+Chỉ đạo Bộ chỉ huy quân sự tỉnh (thành phố) phối hợp với các cơ quan chức năng tổ chức xét duyệt thẩm định, tổng hợp danh sách báo cáo Quân khu (qua Cục Chính trị).
+Bộ Tư lệnh Quân khu:
+- Tổ chức xét duyệt, tổng hợp danh sách của các tỉnh (thành phố), báo cáo Bộ Quốc phòng (qua Cục Chính sách) để thẩm định, tổng hợp.
+- Sau khi có kết quả thẩm định của Cục Chính sách, Bộ Tư lệnh Quân khu ra quyết định hưởng chế độ cho đối tượng thuộc thẩm quyền quy định.
+Cục Chính sách-Tổng cục Chính trị:
+- Thẩm định, kiểm tra kết quả xét duyệt, quyết định (kèm theo danh sách) của các quân khu.
+- Tổng hợp, báo cáo Thủ trưởng Tổng cục Chính trị đề nghị Bộ Tài chính bảo đảm kinh phí.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định|Lệ phí : 0 Đồng|Cách thức thực hiện: Trực tiếp đến UBND xã (phường) nộp hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Bản khai cá nhân hoặc Bản khai thân nhân (phải kèm theo giấy uỷ quyền của các thân nhân chủ yếu khác), có xác nhận của chính quyền xã nơi cư trú ([Mẫu 2A.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6332849ec1936') [Mẫu 2B.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf656395b2bd00') [Mẫu 04.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb487a680010ab'))
+- 02 Bản chính Biên bản xem xét và xác nhận đối tượng của hội nghị liên tịch thôn, xóm, tổ dân phố, ấp ([Mẫu 05. BIÊN BẢN HỌI NGHỊ LIÊN TICH.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc8bd74a78c58e'))
+- 02 Bản chính Biên bản xét và xác nhận của Hội nghị Ban chấp hành Hội Cựu chiến binh xã, phường ([Mẫu 06. BIÊN BẢN HỘI NGHỊ BCH HỘI CỰU CHIẾN BINH.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeea9df33bd396'))
+- 02 Bản chính Công văn đề nghị hưởng chế độ một lần cho đối tượng ([Mẫu 8A.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f64bb8114df6'))
+- 02 Bản chính Công văn đề nghị của UBND xã, phường (kèm danh sách) ([Mẫu 7A.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd02da609e9fc8') [Mẫu 9B.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8762ec0ad640c'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Ủy ban Nhân dân xã, phường, thị trấn.
+Cơ quan có thẩm quyền:
+Bộ Tư lệnh Thủ đô Hà nội, Bộ Tư lệnh Quân khu
+Địa chỉ tiếp nhận HS:
+UBND xã (phường)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về chế độ trợ cấp một lần với đối tượng trực tiếp tham gia kháng chiến chống Mỹ theo Quyết định số 290/2005/QĐ-TTg ngày 08/11/2005 của Thủ tướng Chính phủ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|290/2005/QĐ-TTg|Về chế độ, chính sách đối với một số đối tượng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chính sách của Đảng và Nhà nước|08-11-2005|Thủ tướng Chính phủ|
+|191/2005/TTLT/BQP-BLĐTBXH-BTC|Hướng dẫn thực hiện Quyết định số 290/2005/QĐ-TTg ngày 08/11/2005 về chế độ, chính sách đối với một số đối tượng trực tiếp tham gia kháng chiến chống mỹ cứu nước nhưng chưa được hưởng chính sách của Đảng và Nhà nước|07-12-2005|Bộ Quốc phòng|
+|188/2007/QĐ-TTg|Về việc sửa đổi, bổ sung Quyết định số 290/2005/QĐ-TTg ngày 08/11/2005 của Thủ tướng Chính phủ về chế độ, chính sách đối với một số đối tượng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chính sách của Đảng và Nhà nước|06-12-2007|Thủ tướng Chính phủ|
+|21/2008/TTLT- BQP-BLĐTBXH-BTC|Sửa đổi, bổ sung Thông tư liên tịch số 191/2005/TTLT-BQP-BLĐTBXH-BTC ngày 07 tháng 12 năm 2005 của Bộ Quốc phòng, Bộ Lao động-Thương binh và Xã hội, Bộ Tài chính hướng dẫn thực hiện Quyết định số 290/2005/QĐ-TTg ngày 08 tháng 11 năm 2005 về chế độ, chính sách đối với một số đối tượng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chính sách của Đảng và Nhà nước|26-02-2008|Bộ Quốc phòng|
+
+Yêu cầu, điều kiện thực hiện:
+- Hạ sĩ quan, chiến sĩ quân đội tham gia chiến đấu và hoạt động tại chiến trường B, C, K trong khoảng thời gian từ tháng 7/1954 đến 30/4/1975, nhưng không có thân nhân phải trực tiếp nuôi dưỡng ở miền Bắc.
+- Điểm a, khoản 1 Mục I Thông tư liên tịch số 21/2008/TTLT-BQP-BLĐTBXH-BTC ngày 26/02/2008 của Bộ Quốc phòng, Bộ Lao động Thương binh và Xã hội, Bộ Tài chính sửa  đổi, bổ  sung Thông tư liên tịch số 191/2005/TTLT-BQP-BLĐTBXH-BTC ngày  07/12/2005 của Bộ Quốc  phòng, Bộ Lao động Thương binh và  Xã  hội, Bộ  Tài chính hướng dẫn thực hiện Quyết định số 290/2005/QĐ-TTg ngày 08/11/2005 của Thủ tướng Chính phủ về chế độ, chính sách đối với một số đối tượng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chính sách của Đảng và Nhà nước.
+- Hạ sĩ quan, chiến sĩ quân đội tham gia chiến đấu và hoạt động tại chiến trường B, C, K trong khoảng thời gian từ tháng 7/1954 đến 30/4/1975, nhưng không có thân nhân phải trực tiếp nuôi dưỡng ở miền Bắc.
+- Điểm a, khoản 1 Mục I Thông tư liên tịch số 21/2008/TTLT-BQP-BLĐTBXH-BTC ngày 26/02/2008 của Bộ Quốc phòng, Bộ Lao động Thương binh và Xã hội, Bộ Tài chính sửa  đổi, bổ  sung Thông tư liên tịch số 191/2005/TTLT-BQP-BLĐTBXH-BTC ngày  07/12/2005 của Bộ Quốc  phòng, Bộ Lao động Thương binh và  Xã  hội, Bộ  Tài chính hướng dẫn thực hiện Quyết định số 290/2005/QĐ-TTg ngày 08/11/2005 của Thủ tướng Chính phủ về chế độ, chính sách đối với một số đối tượng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chính sách của Đảng và Nhà nước.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

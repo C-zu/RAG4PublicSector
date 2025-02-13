@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại giấy phép nhập khẩu thủy sản sống đối với trường hợp phải đánh giá rủi ro
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp phép theo Mẫu số 01 Phụ lục XIX ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18/01/2022; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc10f1abb5913e8'">Mẫu số 01.docx</a>)
+- 01 Bản chính b) Bản chính bản thuyết minh đặc tính sinh học của thuỷ sản sống nhập khẩu theo Mẫu số 02 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT-BNNPTNT ngày 15/11/2018 (không áp dụng đối với trường hợp cấp lại); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcea7d9b2a40260'">Mẫu số 02.docx</a>)
+- 01 Bản chính c) Bản chính Kế hoạch kiểm soát thủy sản sống nhập khẩu theo Mẫu số 03 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT/BNNPTNT ngày 15/11/2018 (không áp dụng đối với trường hợp cấp lại). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda96482d23bac8'">Mẫu số 03.docx</a>)

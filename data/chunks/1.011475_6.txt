@@ -1,0 +1,42 @@
+Tên thủ tục: Cấp Giấy chứng nhận cơ sở an toàn dịch bệnh động vật (cấp tỉnh)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Vị trí địa lý đáp ứng các quy định của pháp luật về thú y, chăn nuôi hoặc thủy sản; tách biệt với cơ sở khác có chăn nuôi, nuôi trồng thủy sản cùng loài động vật cảm nhiễm; tách biệt với các nguồn có khả năng làm lây nhiễm bệnh đăng ký công nhận an toàn;
+- Khu vực xử lý xác động vật, chất thải đáp ứng điều kiện theo quy định của pháp luật về bảo vệ môi trường và thú y; khu vực chăn nuôi, nuôi trồng thủy sản phải ngăn cách với các khu vực khác của cơ sở; các khu vực có nguy cơ nhiễm chéo phải có biển cảnh báo và bố trí tách biệt với nhau, bao gồm: Kho để vật tư nông nghiệp; khu nuôi cách ly động vật; khu vực mổ khám; khu xử lý xác động vật; khu vệ sinh, khử trùng tiêu độc dụng cụ dùng trong chăn nuôi, nuôi trồng thủy sản;
+- Hệ thống xử lý nước cấp, nước thải bảo đảm yêu cầu kỹ thuật để giảm thiểu nguy cơ mang tác nhân gây bệnh theo quy định hiện hành;
+- Có biện pháp ngăn chặn động vật hoang dã, các loài động vật khác và vật chủ trung gian truyền bệnh xâm nhập vào khu vực chăn nuôi, nuôi trồng thủy sản;
+- Có hệ thống khử trùng, tiêu độc cho người, phương tiện, dụng cụ, trang thiết bị và vật tư cần thiết khác tại lối ra, vào cơ sở, khu vực chăn nuôi, nuôi trồng thủy sản;
+- Có trang thiết bị, dụng cụ, phương tiện vận chuyển chuyên dụng, phù hợp với đối tượng chăn nuôi và nuôi trồng thủy sản, dễ vệ sinh, khử trùng để giảm thiểu nguy cơ mang tác nhân gây bệnh;
+- Có kế hoạch và tổ chức thực hiện các biện pháp an toàn sinh học theo quy định tại Điều 5 Thông tư số 24/2022/TT-BNNPTNT.
+- Có kế hoạch và tổ chức thực hiện giám sát dịch bệnh động vật theo quy định tại Điều 6 và Điều 7 Thông tư số 24/2022/TT-BNNPTNT.
+- Không xảy ra dịch bệnh động vật: Thực hiện theo quy định tại Điều 11 Thông tư số 24/2022/TT-BNNPTNT, cụ thể:
++ Đối với các cơ sở lần đầu có hoạt động chăn nuôi, nuôi trồng thủy sản trong thời gian dưới 12 tháng tính đến thời điểm đăng ký công nhận an toàn dịch bệnh được xem xét công nhận an toàn dịch bệnh khi đáp ứng: 
+++ Không có bệnh đăng ký công nhận an toàn trong khoảng thời gian từ khi bắt đầu hoạt động đến thời điểm nộp hồ sơ đăng ký công nhận; 
+++ Địa bàn cấp xã nơi có cơ sở đăng ký không có bệnh đăng ký công nhận an toàn trong ít nhất 12 tháng trước thời điểm nộp hồ sơ đăng ký; 
+++ Tần suất, phương pháp lấy mẫu thực hiện theo quy định tại khoản 1 hoặc khoản 2 Điều 7 Thông tư số 24/2022/TT-BNNPTNT. Mẫu giám sát có kết quả xét nghiệm đạt yêu cầu theo quy định tại điểm a hoặc điểm b khoản 6 Điều 7 Thông tư số 24/2022/TT-BNNPTNT.
++ Đối với các cơ sở không thuộc phạm vi quy định tại khoản trên: Không có bệnh đăng ký công nhận an toàn trong ít nhất 12 tháng tính đến thời điểm nộp hồ sơ đăng ký và mẫu giám sát có kết quả xét nghiệm đạt yêu cầu theo quy định tại điểm a hoặc điểm b khoản 6 Điều 7 Thông tư số 24/2022/TT-BNNPTNT. 
+- Hoạt động thú y tại cơ sở bảo đảm kiểm soát được dịch bệnh động vật
+- Thực hiện theo quy định tương ứng tại các Điều 14, 15, 19, 20, 25, 27, 28, 29, 32, 33 và Điều 35 Luật Thú y, quy định về phòng, chống dịch bệnh động vật của Bộ Nông nghiệp và Phát triển nông thôn và các quy định tại Thông tư số 24/2022/TT-BNNPTNT; 
+- Có kế hoạch và tổ chức thực hiện các biện pháp ứng phó dịch bệnh theo quy định tại Điều 8 Thông tư số 24/2022/TT-BNNPTNT.
+- Vị trí địa lý đáp ứng các quy định của pháp luật về thú y, chăn nuôi hoặc thủy sản; tách biệt với cơ sở khác có chăn nuôi, nuôi trồng thủy sản cùng loài động vật cảm nhiễm; tách biệt với các nguồn có khả năng làm lây nhiễm bệnh đăng ký công nhận an toàn;
+- Khu vực xử lý xác động vật, chất thải đáp ứng điều kiện theo quy định của pháp luật về bảo vệ môi trường và thú y; khu vực chăn nuôi, nuôi trồng thủy sản phải ngăn cách với các khu vực khác của cơ sở; các khu vực có nguy cơ nhiễm chéo phải có biển cảnh báo và bố trí tách biệt với nhau, bao gồm: Kho để vật tư nông nghiệp; khu nuôi cách ly động vật; khu vực mổ khám; khu xử lý xác động vật; khu vệ sinh, khử trùng tiêu độc dụng cụ dùng trong chăn nuôi, nuôi trồng thủy sản;
+- Hệ thống xử lý nước cấp, nước thải bảo đảm yêu cầu kỹ thuật để giảm thiểu nguy cơ mang tác nhân gây bệnh theo quy định hiện hành;
+- Có biện pháp ngăn chặn động vật hoang dã, các loài động vật khác và vật chủ trung gian truyền bệnh xâm nhập vào khu vực chăn nuôi, nuôi trồng thủy sản;
+- Có hệ thống khử trùng, tiêu độc cho người, phương tiện, dụng cụ, trang thiết bị và vật tư cần thiết khác tại lối ra, vào cơ sở, khu vực chăn nuôi, nuôi trồng thủy sản;
+- Có trang thiết bị, dụng cụ, phương tiện vận chuyển chuyên dụng, phù hợp với đối tượng chăn nuôi và nuôi trồng thủy sản, dễ vệ sinh, khử trùng để giảm thiểu nguy cơ mang tác nhân gây bệnh;
+- Có kế hoạch và tổ chức thực hiện các biện pháp an toàn sinh học theo quy định tại Điều 5 Thông tư số 24/2022/TT-BNNPTNT.
+- Có kế hoạch và tổ chức thực hiện giám sát dịch bệnh động vật theo quy định tại Điều 6 và Điều 7 Thông tư số 24/2022/TT-BNNPTNT.
+- Không xảy ra dịch bệnh động vật: Thực hiện theo quy định tại Điều 11 Thông tư số 24/2022/TT-BNNPTNT, cụ thể:
++ Đối với các cơ sở lần đầu có hoạt động chăn nuôi, nuôi trồng thủy sản trong thời gian dưới 12 tháng tính đến thời điểm đăng ký công nhận an toàn dịch bệnh được xem xét công nhận an toàn dịch bệnh khi đáp ứng: 
+++ Không có bệnh đăng ký công nhận an toàn trong khoảng thời gian từ khi bắt đầu hoạt động đến thời điểm nộp hồ sơ đăng ký công nhận; 
+++ Địa bàn cấp xã nơi có cơ sở đăng ký không có bệnh đăng ký công nhận an toàn trong ít nhất 12 tháng trước thời điểm nộp hồ sơ đăng ký; 
+++ Tần suất, phương pháp lấy mẫu thực hiện theo quy định tại khoản 1 hoặc khoản 2 Điều 7 Thông tư số 24/2022/TT-BNNPTNT. Mẫu giám sát có kết quả xét nghiệm đạt yêu cầu theo quy định tại điểm a hoặc điểm b khoản 6 Điều 7 Thông tư số 24/2022/TT-BNNPTNT.
++ Đối với các cơ sở không thuộc phạm vi quy định tại khoản trên: Không có bệnh đăng ký công nhận an toàn trong ít nhất 12 tháng tính đến thời điểm nộp hồ sơ đăng ký và mẫu giám sát có kết quả xét nghiệm đạt yêu cầu theo quy định tại điểm a hoặc điểm b khoản 6 Điều 7 Thông tư số 24/2022/TT-BNNPTNT. 
+- Hoạt động thú y tại cơ sở bảo đảm kiểm soát được dịch bệnh động vật
+- Thực hiện theo quy định tương ứng tại các Điều 14, 15, 19, 20, 25, 27, 28, 29, 32, 33 và Điều 35 Luật Thú y, quy định về phòng, chống dịch bệnh động vật của Bộ Nông nghiệp và Phát triển nông thôn và các quy định tại Thông tư số 24/2022/TT-BNNPTNT; 
+- Có kế hoạch và tổ chức thực hiện các biện pháp ứng phó dịch bệnh theo quy định tại Điều 8 Thông tư số 24/2022/TT-BNNPTNT.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

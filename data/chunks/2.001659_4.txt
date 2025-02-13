@@ -1,0 +1,8 @@
+Tên thủ tục: Xóa Giấy chứng nhận đăng ký phương tiện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xóa đăng ký phương tiện thủy nội địa theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefc6088921e169'">Mẫu34.doc</a>)
+- 01 Bản chính Bản chính Giấy chứng nhận đăng ký phương tiện thủy nội địa đã được cấp.

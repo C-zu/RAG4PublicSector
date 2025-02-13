@@ -1,0 +1,10 @@
+Tên thủ tục: Xác định cơ quan giải quyết bồi thường (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Yêu cầu xác định cơ quan giải quyết bồi thường của người yêu cầu bồi thường hoặc hồ sơ do các cơ quan không thống nhất được cơ quan giải quyết bồi thường chuyển sang khi có một trong các căn cứ sau:
+- 01 Bản chính a) Trường hợp xác định cơ quan theo quy định tại khoản 2 Điều 32 Nghị định số 68/2018/NĐ-CP, Sở Tư pháp giúp UBND cấp tỉnh xác định cơ quan giải quyết bồi thường thì khi có một trong các căn cứ sau:
+ - Không có sự thống nhất về cơ quan giải quyết bồi thường trong trường hợp có nhiều người thi hành công vụ thuộc nhiều cơ quan trong phạm vi quản lý của địa phương mình cùng gây thiệt hại;
+ - Cơ quan nhà nước ở địa phương bị giải thể theo quyết định của Quốc hội, Ủy ban Thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ.
+- 01 Bản chính b) Trường hợp xác định cơ quan theo quy định tại Điều 33 Nghị định số 68/2018/NĐ-CP, Sở Tư pháp thực hiện việc xác định cơ quan giải quyết bồi thường khi người yêu cầu bồi thường chưa xác định ngay được cơ quan giải quyết bồi thương thì người yêu cầu bồi thường gửi hồ sơ yêu cầu bồi thường quy định tại Điều 41 Luật TNBTCNN năm 2017.

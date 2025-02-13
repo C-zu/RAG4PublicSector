@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ mời thầu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|11 Ngày làm việc|Phí : 0 Đồng Chi phí Phê duyệt hồ sơ mời thầu  Phí : 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng Chi phí Thẩm định hồ sơ mời thầu, hồ sơ yêu cầu (Theo quy định tại khoản 3, Điều 9 Nghị định số 63/2014/NĐ-CP ngày 26/6/2014)|theo quy định tại Điều 14 Quyết định số 12/2020/QĐ-UBND ngày 11/5/2020 của UBND thành phố, cụ thể: - Thẩm định Hồ sơ mời thầu, hồ sơ yêu cầu: Thời gian thẩm định đối với các dự án do các sở ngành, Ban QLDA, UBND quận, huyện làm chủ đầu tư kể từ ngày nhận đủ hồ sơ hợp lệ: 07 ngày. - Phê duyệt Hồ sơ mời thầu, hồ sơ yêu cầu: Thời gian phê duyệt đối với các dự án do các sở ngành, Ban QLDA, UBND quận, huyện làm chủ đầu tư: 04 ngày.|

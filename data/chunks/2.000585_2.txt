@@ -1,0 +1,17 @@
+Tên thủ tục: Thủ tục điều chỉnh quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Trường hợp đề nghị điều chỉnh nội dung của quyết định chỉ định, tổ chức đề nghị lập một (01) bộ hồ sơ theo quy định đến Tổng cục Tiêu chuẩn Đo lường chất lượng (gọi tắt Tổng cục).
+Trường hợp đề nghị chỉ định lại, không ít hơn ba (3) tháng trước khi hết thời hạn hiệu lực của quyết định chỉ định đã cấp, tổ chức đề nghị lập một (01) bộ hồ sơ theo quy định đến Tổng cục. 
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ: Trong thời hạn mười (10) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị những nội dung cần bổ sung, hoàn chỉnh.
+- Nếu hồ sơ đầy đủ, hợp lệ: Tùy từng trường hợp cụ thể, Tổng cục xem xét, quyết định kiểm tra trên hồ sơ hoặc đánh giá tại cơ sở.
++ Trường hợp kiểm tra trên hồ sơ: Trong thời hạn mười (10) ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Tổng cục ra quyết định chỉ định lại hoặc quyết định chỉ định điều chỉnh theo quy định cho tổ chức được chỉ định.
++ Trường hợp đánh giá tại cơ sở: Tổng cục ra quyết định thành lập đoàn đánh giá tại cơ sở.
+Bước 3: 
+Trong thời hạn ba mươi (30) ngày làm việc kể từ ngày ký quyết định thành lập đoàn đánh giá, trưởng đoàn đánh giá phải nộp hồ sơ kết quả đánh giá về Tổng cục.
+Trường hợp tổ chức đề nghị có những điểm không phù hợp nhưng có thể khắc phục được thì đoàn đánh giá liệt kê các điểm không phù hợp, đề xuất thời hạn khắc phục và thông báo kết quả đánh giá cho tổ chức đề nghị. Tổ chức đề nghị tiến hành khắc phục các điểm không phù hợp và gửi báo cáo cho đoàn đánh giá. Đoàn đánh giá tiến hành thẩm định báo cáo khắc phục, trường hợp cần thiết đoàn đánh giá tiến hành đánh giá lại tại cơ sở. Trong trường hợp này, thời hạn khắc phục và thời gian đánh giá lại được cộng thêm vào thời hạn đánh giá.
+Bước 4: Tổng cục xem xét kết quả đánh giá: Trong thời hạn mười (10) ngày kể từ ngày nhận được hồ sơ kết quả đánh giá tại cơ sở
+- Nếu kết quả đánh giá đạt yêu cầu, Tổng cục ra quyết định chỉ định lại hoặc quyết định điều chỉnh nội dung của quyết định chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
+- Nếu kết quả đánh giá không đạt yêu cầu, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị và nêu rõ lý do.

@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký lưu hành bổ sung do thay đổi địa điểm cơ sở sản xuất, thay đổi cơ sở sản xuất chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+01 bộ bản giấy kèm theo bản điện tử định dạng PDF (không áp dụng đối với trường hợp nộp hồ sơ trực tuyến)
+- 01 Bản chính 1. Văn bản đề nghị đăng ký lưu hành bổ sung theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 91/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2d138ea1667db'">Mau 05 MTYT 5083.docx</a>)
+- 01 Bản chính 2. Giấy tờ về tư cách pháp nhân của cơ sở sản xuất ghi địa điểm mới (đối với cơ sở tại Việt Nam) hoặc văn bản thông báo thay đổi địa điểm, cơ sở sản xuất (đối với cơ sở tại nước ngoài);
+- 01 Bản chính 3. Phiếu trả lời kết quả khảo nghiệm chế phẩm sản xuất tại cơ sở mới;
+- 01 Bản chính 4. Giấy ủy quyền thực hiện việc đăng ký lưu hành trừ trường hợp quy định tại điểm a khoản 1 Điều 20 Nghị định số 91/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feabd84aad11f27'">Phu luc VII MTYT 5083.docx</a>)
+- 01 Bản chính 5. Giấy chứng nhận lưu hành tự do, trừ trường hợp chế phẩm đã được cấp số đăng ký lưu hành để sản xuất tại Việt Nam và đăng ký lưu hành bổ sung cơ sở sản xuất tại nước ngoài; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe45dea72ef808c'">Phu luc VIII MTYT 5083.docx</a>)
+- 01 Bản chính 6. Mẫu nhãn mới của chế phẩm.

@@ -1,0 +1,8 @@
+Tên thủ tục: Khai thuế giá trị gia tăng đối với phương pháp khấu trừ thuế đối với dự án đầu tư thuộc diện được hoàn thuế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai thuế GTGT (áp dụng đối với người nộp thuế tính thuế theo phương pháp khấu trừ có dự án đầu tư thuộc diện được hoàn thuế) mẫu số 02/GTGT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb0286f6ed4adb0'">Mẫu 02.GTGT.doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ)

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục đăng ký thay đổi khoản vay nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000111
+Số quyết định:
+1826/QĐ-NHNN
+Tên thủ tục:
+Thủ tục đăng ký thay đổi khoản vay nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động ngoại hối

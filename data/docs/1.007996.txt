@@ -1,0 +1,109 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007996
+Số quyết định:
+151/QĐ-BNN-TT
+Tên thủ tục:
+Cấp, cấp lại, gia hạn, phục hồi Quyết định công nhận lưu hành giống cây trồng (bao gồm cả cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trồng trọt
+Trình tự thực hiện:
+a) Bước 1: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt. Trường hợp gia hạn Quyết định công nhận lưu hành tổ chức, cá nhân nộp hồ sơ trong thời hạn 06 tháng trước khi Quyết định công nhận lưu hành hết hiệu lực.
+b) Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+- Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+- Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung.
+c) Bước 3: Thẩm định và cấp Quyết định lưu hành giống cây trồng
+- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt thẩm định hồ sơ, cấp Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 05.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019.
+- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt cấp lại Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 06.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019;
+- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt cấp Quyết định gia hạn công nhận lưu hành giống cây trồng theo Mẫu số 07.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019.
+- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị, Cục Trồng trọt tổ chức thẩm định và thông báo việc phục hồi Quyết định công nhận lưu hành giống cây trồng; đăng tải thông tin trên cổng thông tin điện tử của Cục Trồng trọt.
+- Trong cả 04 trường hợp, nếu không cấp Quyết định phải trả lời bằng văn bản và nêu rõ lý do. 
+	Giống cây trồng được phép lưu hành, kể từ ngày ký Quyết định công nhận lưu hành.
+d) Bước 4: Đăng tải Quyết định, các tài liệu kèm theo trên cổng thông tin điện tử của Cục Trồng trọt.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|05 Ngày làm việc||- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|5 Ngày làm việc||- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|10 Ngày làm việc||- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị.|
+|Trực tuyến|15 Ngày làm việc||- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|05 Ngày làm việc||- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|5 Ngày làm việc||- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị.|
+|Dịch vụ bưu chính|15 Ngày làm việc||- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị.|
+
+Thành phần hồ sơ:
+
+- Cấp Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị cấp Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 01.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fadfd67836cbde0'))
+- 01 Bản chính + Kết quả khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống cây trồng đề nghị công nhận lưu hành.
+- 01 Bản chính + Kết quả khảo nghiệm giá trị canh tác, giá trị sử dụng của giống cây trồng.
+- 01 Bản chính + Quy trình canh tác của giống do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn.
+ + Bản công bố các thông tin về giống cây trồng do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda1b55fb1b76d4'))
+
+
+- Cấp lại Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị cấp lại Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 03.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. ([Mẫu số 03.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd05fe5e7b72194'))
+- 01 Bản chính + Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin có liên quan đến tổ chức, cá nhân trong Quyết định công nhận lưu hành giống cây trồng.
+
+
+- Gia hạn Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị gia hạn Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 04.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. ([Mẫu số 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fce5bda90c343d4'))
+- 01 Bản chính + Kết quả khảo nghiệm có kiểm soát quy định tại điểm a khoản 2 Điều 18 của Luật Trồng trọt thực hiện trong vòng một năm tính đến thời điểm nộp hồ sơ gia hạn Quyết định công nhận lưu hành giống cây trồng.
+
+
+- Phục hồi Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị Cục Trồng trọt phục hồi Quyết định công nhận lưu hành giống cây trồng.
+- 01 Bản chính + Giấy xác nhận của tổ chức khảo nghiệm về giống cây trồng sau khi khắc phục được các vi phạm quy định tại khoản 5 Điều 15 của Luật Trồng trọt.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Trồng trọt - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công nhận lưu hành giống cây trồng, Quyết định về việc cấp lại Quyết định lưu hành giống cây trồng, Quyết định về việc gia hạn Quyết định lưu hành giống cây trồng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 31/2018/QH14|Luật trồng trọt|19-11-2018|Quốc Hội|
+|Nghị định số : 94/2019/NĐ-CP|Nghị định số 94/2019/NĐ-CP ngày 13/12/2019 của Chính phủ quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác|13-12-2019|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+a) Cấp Quyết định lưu hành giống cây trồng:
+- Có tên giống cây trồng;
+- Có kết quả khảo nghiệm bảo đảm tính khác biệt, tính đồng nhất, tính ổn định;
+- Có kết quả khảo nghiệm đạt tiêu chuẩn quốc gia về giá trị canh tác, giá trị sử dụng;
+- Có mẫu giống cây trồng được lưu theo quy định tại Điều 20 của Luật Trồng trọt;
+- Có bản công bố thông tin về giống cây trồng, quy trình sản xuất do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn.
+b) Quyết định công nhận lưu hành giống cây trồng được gia hạn khi đáp ứng điều kiện sau đây:
+- Khi tổ chức, cá nhân yêu cầu;
+- Có kết quả khảo nghiệm có kiểm soát quy định tại điểm a khoản 2 Điều 18 của Luật Trồng trọt số 31/2018/QH14 ngày 19/11/2018 đạt tiêu chuẩn quốc gia về giá trị canh tác, giá trị sử dụng.
+a) Cấp Quyết định lưu hành giống cây trồng:
+- Có tên giống cây trồng;
+- Có kết quả khảo nghiệm bảo đảm tính khác biệt, tính đồng nhất, tính ổn định;
+- Có kết quả khảo nghiệm đạt tiêu chuẩn quốc gia về giá trị canh tác, giá trị sử dụng;
+- Có mẫu giống cây trồng được lưu theo quy định tại Điều 20 của Luật Trồng trọt;
+- Có bản công bố thông tin về giống cây trồng, quy trình sản xuất do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn.
+b) Quyết định công nhận lưu hành giống cây trồng được gia hạn khi đáp ứng điều kiện sau đây:
+- Khi tổ chức, cá nhân yêu cầu;
+- Có kết quả khảo nghiệm có kiểm soát quy định tại điểm a khoản 2 Điều 18 của Luật Trồng trọt số 31/2018/QH14 ngày 19/11/2018 đạt tiêu chuẩn quốc gia về giá trị canh tác, giá trị sử dụng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

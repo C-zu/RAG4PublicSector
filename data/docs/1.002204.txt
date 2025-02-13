@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002204
+Số quyết định:
+4921/QĐ-BYT
+Tên thủ tục:
+Cấp giấy chứng nhận kiểm dịch y tế mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người
+Cấp thực hiện:
+Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y tế Dự phòng
+Trình tự thực hiện:
+Bước 1. Khai báo y tế
+
+1. Người khai báo y tế thực hiện khai, nộp giấy khai báo y tế đối với mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người cho tổ chức kiểm dịch y tế biên giới hoặc qua Cổng thông tin một cửa quốc gia trước khi hoàn thành thủ tục vận chuyển qua biên giới.
+
+2. Đối với mẫu vi sinh y học liên quan đến mẫu bệnh phẩm ở người, người khai báo y tế nộp giấy phép nhập khẩu mẫu bệnh phẩm cho tổ chức kiểm dịch y tế biên giới hoặc qua Cổng thông tin một cửa quốc gia trước khi hoàn thành thủ tục vận chuyển qua biên giới.
+Bước 2. Thu thập thông tin
+
+Kiểm dịch viên y tế thu thập giấy khai báo y tế đối với mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người; giấy phép nhập khẩu mẫu bệnh phẩm theo quy định của Bộ Y tế (đối với mẫu vi sinh y học liên quan đến mẫu bệnh phẩm ở người).
+Bước 3. Xử lý thông tin
+
+1. Không cho phép nhập khẩu đối với mẫu vi sinh y học liên quan đến mẫu bệnh phẩm ở người chưa có giấy phép nhập khẩu mẫu bệnh phẩm.
+
+2. Kiểm dịch viên y tế thực hiện giám sát điều kiện bảo quản vận chuyển đối với mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người
+Bước 4. Kiểm tra giấy tờ
+
+Kiểm dịch viên y tế kiểm tra các loại giấy tờ sau:
+
+a) Giấy khai báo y tế đối với mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người;
+
+b) Giấy phép nhập khẩu mẫu bệnh phẩm (đối với mẫu vi sinh y học liên quan đến mẫu bệnh phẩm ở người).
+Bước 5. Kiểm tra thực tế 
+
+Kiểm dịch viên y tế thực hiện các nội dung sau:
+
+a) Đối chiếu nội dung khai báo y tế đối với sản phẩm sinh học, mô, bộ phận cơ thể người với thực tế tình trạng vệ sinh;
+
+b) Đối chiếu nội dung khai báo y tế mẫu vi sinh y học liên quan đến mẫu bệnh phẩm ở người với tình trạng vệ sinh, điều kiện bảo quản, vận chuyển theo quy định của Bộ Y tế.
+Bước 6. Xử lý y tế
+
+Căn cứ kết quả kiểm tra thực tế, kiểm dịch viên y tế:
+
+a) Yêu cầu áp dụng các biện pháp bảo quản, vận chuyển theo quy định;
+
+b) Cấp Giấy chứng nhận kiểm dịch y tế đối với mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người sau khi hoàn thành việc xử lý y tế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0.25 Giờ|Phí : 6.5 USD|hời gian hoàn thành việc kiểm tra giấy tờ đối với một lô mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người không quá 15 phút kể từ khi nộp đủ các loại giấy tờ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy khai báo y tế đối với mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người; ([mẫu đơn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfc66aea6ee16a'))
+- 01 Bản chính Giấy phép nhập khẩu mẫu bệnh phẩm (đối với mẫu vi sinh y học liên quan đến mẫu bệnh phẩm ở người).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm kiểm dịch Y tế Quốc tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận kiểm dịch y tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|03/2007/QH12|Phòng, chống bệnh truyền nhiễm|21-11-2007|Quốc Hội|
+|89/2018/NĐ-CP|Nghị định|25-06-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

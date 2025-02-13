@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy xác nhận nguyên liệu thủy sản khai thác trong nước (theo yêu cầu)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ: Tổ chức, cá nhân đề nghị xác nhận nguyên liệu thủy sản khai thác nộp 01 bộ hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có) đến tổ chức quản lý cảng cá, nơi tàu cá đã bốc dỡ thủy sản qua cảng.
+b) Thực hiện: Trong thời hạn 02 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ, tổ chức quản lý cảng cá thẩm định thông tin đề nghị xác nhận về khối lượng, thành phần loài thủy sản bốc dỡ tại cảng với Sổ theo dõi tàu cá cập cảng bốc dỡ thủy sản, vùng và thời gian khai thác với hành trình của tàu trong hệ thống giám sát tàu cá và cấp Giấy xác nhận nguyên liệu thủy sản khai thác theo Mẫu số 01 Phụ lục III ban hành theo Thông tư số 21/2018/TT-BNNPTNT. Trường hợp không cấp giấy xác nhận, tổ chức quản lý cảng cá trả lời bằng văn bản và nêu rõ lý do. 
+Trường hợp chưa xác nhận hết khối lượng nguyên liệu thủy sản trong Giấy biên nhận thủy sản bốc dỡ qua cảng, tổ chức quản lý cảng cá trả lại bản chính Giấy biên nhận thủy sản bốc dỡ qua cảng đã ghi khối lượng nguyên liệu còn lại cho tổ chức, cá nhân đề nghị.
+c) Trả kết quả: Tổ chức quản lý cảng cá thực hiện xác nhận trả kết quả trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có) cho tổ chức, cá nhân đề nghị.

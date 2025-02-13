@@ -1,0 +1,146 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003427
+Số quyết định:
+159/QĐ-BYT
+Tên thủ tục:
+Cấp giấy phép hoạt động đối với bệnh viện thuộc Bộ Y tế, bệnh viện tư nhân hoặc thuộc các Bộ khác (trừ các bệnh viện thuộc Bộ Quốc phòng) và áp dụng đối với trường hợp khi thay đổi hình thức tổ chức, chia tách, hợp nhất, sáp nhập
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1: Cơ sở khám bệnh, chữa bệnh gửi hồ sơ  xin cấp giấy phép hoạt động (GPHĐ) về Bộ Y tế;
+Bước 2: Bộ Y tế tiếp nhận và gửi Phiếu tiếp nhận hồ sơ theo quy định tại mẫu số 09 Phụ lục XI ban hành kèm theo Nghị định số 109/2016/NĐ-CP cho người đề nghị
+Bước 3: Trong thời hạn 60 ngày kể từ ngày nhận đủ hồ sơ, Bộ Y tế sẽ xem xét thẩm định hồ sơ và thẩm định tại cơ sở để cấp giấy phép hoạt động:
+- Trường hợp hồ sơ chưa hợp lệ thì trong thời hạn 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Bộ Y tế phải có văn bản thông báo cho cơ sở xin cấp giấy phép hoàn chỉnh hồ sơ. Thời gian giải quyết thủ tục sẽ tính từ ngày nhận đủ hồ sơ bổ sung.
+- Trường hợp hồ sơ đã đầy đủ và hợp lệ, Bộ Y tế thành lập đoàn thẩm định và tiến hành thẩm định tại cơ sở khám bệnh, chữa bệnh để cấp giấy phép hoạt động.
+- Trường hợp không cấp GPHĐ, Bộ Y tế phải có văn bản trả lời và nêu lý do.
+Bước 4 : Trả GPHĐ cho cơ sở
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Lệ phí : 10.500.000 Đồng Phí thẩm định cấp giấy phép hoạt động|Trong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|60 Ngày|Lệ phí : 10.500.000 Đồng Phí thẩm định cấp giấy phép hoạt động|Trong thời hạn 60 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động theo Mẫu 01 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP; ([phụ lục 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23553fa7d6f15'))
+- 01 Bản sao Bản sao hợp lệ quyết định thành lập hoặc văn bản có tên của cơ sở khám bệnh, chữa bệnh của cơ quan nhà nước có thẩm quyền đối với cơ sở khám bệnh, chữa bệnh của Nhà nước hoặc giấy chứng nhận đăng ký doanh nghiệp đối với cơ sở khám bệnh, chữa bệnh tư nhân hoặc giấy chứng nhận đầu tư đối với cơ sở khám bệnh, chữa bệnh có vốn đầu tư nước ngoài;
+- 01 Bản sao Bản sao hợp lệ chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh; người phụ trách bộ phận chuyên môn của cơ sở khám bệnh, chữa bệnh;
+- 01 Bản chính Danh sách đăng ký người hành nghề tại cơ sở khám bệnh, chữa bệnh (bao gồm đăng ký người hành nghề và người làm việc chuyên môn y tế tại cơ sở nhưng không thuộc diện phải cấp chứng chỉ hành nghề) theo mẫu quy định tại Phụ lục IV ban hành kèm theo Nghị định 109/2016/NĐ-CP; ([phulucIV_ND109.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3fc64863287dd'))
+- 01 Bản chính Bản kê khai cơ sở vật chất, thiết bị y tế, tổ chức và nhân sự của cơ sở khám bệnh, chữa bệnh theo Mẫu 02 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP; ([ND109_2016_mau 02_Phu luc XI.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0f4ce38ad45a8'))
+- 01 Bản chính Tài liệu chứng minh cơ sở khám bệnh, chữa bệnh đáp ứng điều kiện về cơ sở vật chất, thiết bị y tế, tổ chức nhân sự phù hợp với phạm vi hoạt động chuyên môn của một trong các hình thức tổ chức quy định tại Mục 1 Chương III Nghị định 109/2016/NĐ-CP;
+- 01 Bản chính Điều lệ tổ chức và hoạt động đối với bệnh viện nhà nước thực hiện theo mẫu quy định của Bộ trưởng Bộ Y tế; đối với bệnh viện tư nhân thực hiện theo Mẫu 03 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP và phương án hoạt động ban đầu đối với bệnh viện; ([Mau 03 phụ lục 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe666ffd89013c9'))
+- 01 Bản sao Bản sao hợp lệ hợp đồng vận chuyển người bệnh đối với bệnh viện không có phương tiện vận chuyển cấp cứu ngoài cơ sở;
+- 01 Bản chính Danh mục chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh đề xuất trên cơ sở danh mục chuyên môn kỹ thuật do Bộ trưởng Bộ Y tế ban hành;
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Quản lý Khám bệnh, chữa bệnh; Cục Quản lý Y, Dược cổ truyền
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2009/QH12|Luật 40/2009/QH12-Khám bệnh, chữa bệnh|23-11-2009|Quốc Hội|
+|87/2011/NĐ-CP|Nghị định 87/2011/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khám bệnh, chữa bệnh|27-09-2011|Chính phủ|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế|12-11-2018|Chính phủ|
+|109/2016/NĐ-CP|Nghị định 109/2016/NĐ-CP-Quy định cấp chứng chỉ hành nghề đối với người hành nghề và cấp giấy phép hoạt động đối với cơ sở khám bệnh, chữa bệnh|01-07-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện cấp giấy phép hoạt động đối với bệnh viện [1]
+1. Quy mô bệnh viện:
+a) Bệnh viện đa khoa phải có ít nhất là 30 giường bệnh;
+b) Bệnh viện chuyên khoa, bệnh viện y học cổ truyền phải có ít nhất 20 giường bệnh; riêng đối với bệnh viện chuyên khoa mắt, tâm thần phải có ít nhất là 10 giường bệnh
+2. Cơ sở vật chất:
+a) Có địa điểm cố định (trừ trường hợp tổ chức khám bệnh, chữa bệnh lưu động);
+b) Bảo đảm các điều kiện về an toàn bức xạ, phòng cháy chữa cháy theo quy định của pháp luật;
+c) Phải bố trí khu vực tiệt trùng để xử lý dụng cụ y tế sử dụng lại, trừ trường hợp không có dụng cụ phải tiệt trùng lại hoặc có hợp đồng với cơ sở y tế khác để tiệt trùng dụng cụ.
+d) Bố trí các khoa, phòng, hành lang bảo đảm hoạt động chuyên môn theo mô hình tập trung, liên hoàn, khép kín trong phạm vi khuôn viên của bệnh viện;
+đ) Đối với bệnh viện đa khoa, bệnh viện chuyên khoa bảo đảm diện tích sàn xây dựng ít nhất là 50 m2/giường bệnh trở lên; chiều rộng mặt trước (mặt tiền) bệnh viện phải đạt ít nhất là 10 m;
+e) Có máy phát điện dự phòng;
+g) Bảo đảm các điều kiện về xử lý chất thải y tế theo quy định của pháp luật về môi trường.
+3. Trang thiết bị y tế:
+a) Có đủ trang thiết bị y tế phù hợp với phạm vi hoạt động chuyên môn của cơ sở;
+b) Riêng cơ sở khám, điều trị bệnh nghề nghiệp ít nhất phải có bộ phận xét nghiệm sinh hóa;
+c) Phòng khám tư vấn sức khỏe hoặc phòng tư vấn sức khỏe qua các phương tiện công nghệ thông tin, viễn thông không bắt buộc phải có trang thiết bị y tế quy định tại điểm a, b khoản này nhưng phải có đủ các phương tiện công nghệ thông tin, viễn thông, thiết bị phù hợp với phạm vi hoạt động đăng ký.
+d) Có đủ phương tiện vận chuyển cấp cứu trong và ngoài bệnh viện. Trường hợp không có phương tiện cấp cứu ngoài bệnh viện, phải có hợp đồng với cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động và có phạm vi hoạt động chuyên môn về cung cấp dịch vụ cấp cứu hỗ trợ vận chuyển người bệnh
+4. Tổ chức:
+a) Các khoa:
+- Có ít nhất 02 trong 04 khoa nội, ngoại, sản, nhi đối với bệnh viện đa khoa hoặc một khoa lâm sàng phù hợp đối với bệnh viện chuyên khoa;
+- Khoa khám bệnh: Có nơi tiếp đón người bệnh, phòng cấp cứu, lưu bệnh, phòng khám, phòng tiểu phẫu (nếu thực hiện tiểu phẫu);
+- Khoa cận lâm sàng: Có ít nhất một phòng xét nghiệm và một phòng chẩn đoán hình ảnh. Riêng đối với bệnh viện chuyên khoa mắt nếu không có bộ phận chẩn đoán hình ảnh thì phải có hợp đồng hỗ trợ chuyên môn với cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động có bộ phận chẩn đoán hình ảnh;
+- Khoa dược;
+- Các khoa, phòng chuyên môn khác trong bệnh viện phải phù hợp với quy mô, chức năng nhiệm vụ.
+b) Có các phòng, bộ phận để thực hiện các chức năng về kế hoạch tổng hợp, tổ chức nhân sự, quản lý chất lượng, điều dưỡng, tài chính kế toán và các chức năng cần thiết khác.
+5. Nhân sự:
+a) Mỗi cơ sở khám bệnh, chữa bệnh phải có một người chịu trách nhiệm chuyên môn kỹ thuật. Người chịu trách nhiệm chuyên môn kỹ thuật và trưởng các khoa chuyên môn của cơ sở khám bệnh, chữa bệnh phải đáp ứng các điều kiện sau đây:
+- Là bác sỹ có chứng chỉ hành nghề có phạm vi hoạt động chuyên môn phù hợp phạm vi hoạt động chuyên môn của cơ sở.
+- Trường hợp cơ sở khám bệnh, chữa bệnh gồm nhiều chuyên khoa thì chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật phải có phạm vi hoạt động chuyên môn phù hợp với ít nhất một trong các chuyên khoa lâm sàng mà cơ sở đăng ký hoạt động.
+b) Ngoài người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh, các đối tượng khác làm việc trong cơ sở nếu có thực hiện việc khám bệnh, chữa bệnh thì phải có chứng chỉ hành nghề và chỉ được thực hiện việc khám bệnh, chữa bệnh trong phạm vi công việc được phân công. Căn cứ vào phạm vi hoạt động chuyên môn, văn bằng, chứng chỉ, chứng nhận đào tạo và năng lực của người hành nghề, người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh phân công người hành nghề được thực hiện các kỹ thuật chuyên môn bằng văn bản;
+c) Kỹ thuật viên xét nghiệm có trình độ đại học được đọc và ký kết quả xét nghiệm. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa xét nghiệm hoặc kỹ thuật viên xét nghiệm có trình độ đại học thì bác sỹ chỉ định xét nghiệm đọc và ký kết quả xét nghiệm;
+d) Cử nhân X-Quang có trình độ đại học được đọc và mô tả hình ảnh chẩn đoán. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa chẩn đoán hình ảnh hoặc bác sỹ X-Quang thì bác sỹ chỉ định kỹ thuật chẩn đoán hình ảnh đọc và ký kết quả chẩn đoán hình ảnh;
+đ) Các đối tượng khác tham gia vào quá trình khám bệnh, chữa bệnh nhưng không cần phải cấp chứng chỉ hành nghề theo quy định của Luật khám bệnh, chữa bệnh thì được phép thực hiện các hoạt động theo phân công của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh (kỹ sư vật lý y học, kỹ sư xạ trị, âm ngữ trị liệu, tâm lý trị liệu và các đối tượng khác), việc phân công phải phù hợp với văn bằng chuyên môn của người đó.
+e) Số lượng người hành nghề làm việc toàn thời gian (cơ hữu) trong từng khoa phải đạt tỷ lệ ít nhất là 50% trên tổng số người hành nghề trong khoa;
+g) Trưởng các khoa chuyên môn của bệnh viện phải có chứng chỉ hành nghề phù hợp với chuyên khoa đó và phải là người hành nghề cơ hữu tại  bệnh viện;
+h) Trưởng khoa khác không thuộc đối tượng cấp chứng chỉ hành nghề phải có bằng tốt nghiệp đại học với chuyên ngành phù hợp với công việc được giao và phải là người hành nghề cơ hữu tại bệnh viện.
+6. Phạm vi hoạt động chuyên môn:
+Thực hiện các kỹ thuật chuyên môn theo danh mục được Bộ trưởng Bộ Y tế phê duyệt.
+[1] Thay đổi điều kiện cấp giấy phép hoạt động
+Điều kiện cấp giấy phép hoạt động đối với bệnh viện [1]
+1. Quy mô bệnh viện:
+a) Bệnh viện đa khoa phải có ít nhất là 30 giường bệnh;
+b) Bệnh viện chuyên khoa, bệnh viện y học cổ truyền phải có ít nhất 20 giường bệnh; riêng đối với bệnh viện chuyên khoa mắt, tâm thần phải có ít nhất là 10 giường bệnh
+2. Cơ sở vật chất:
+a) Có địa điểm cố định (trừ trường hợp tổ chức khám bệnh, chữa bệnh lưu động);
+b) Bảo đảm các điều kiện về an toàn bức xạ, phòng cháy chữa cháy theo quy định của pháp luật;
+c) Phải bố trí khu vực tiệt trùng để xử lý dụng cụ y tế sử dụng lại, trừ trường hợp không có dụng cụ phải tiệt trùng lại hoặc có hợp đồng với cơ sở y tế khác để tiệt trùng dụng cụ.
+d) Bố trí các khoa, phòng, hành lang bảo đảm hoạt động chuyên môn theo mô hình tập trung, liên hoàn, khép kín trong phạm vi khuôn viên của bệnh viện;
+đ) Đối với bệnh viện đa khoa, bệnh viện chuyên khoa bảo đảm diện tích sàn xây dựng ít nhất là 50 m2/giường bệnh trở lên; chiều rộng mặt trước (mặt tiền) bệnh viện phải đạt ít nhất là 10 m;
+e) Có máy phát điện dự phòng;
+g) Bảo đảm các điều kiện về xử lý chất thải y tế theo quy định của pháp luật về môi trường.
+3. Trang thiết bị y tế:
+a) Có đủ trang thiết bị y tế phù hợp với phạm vi hoạt động chuyên môn của cơ sở;
+b) Riêng cơ sở khám, điều trị bệnh nghề nghiệp ít nhất phải có bộ phận xét nghiệm sinh hóa;
+c) Phòng khám tư vấn sức khỏe hoặc phòng tư vấn sức khỏe qua các phương tiện công nghệ thông tin, viễn thông không bắt buộc phải có trang thiết bị y tế quy định tại điểm a, b khoản này nhưng phải có đủ các phương tiện công nghệ thông tin, viễn thông, thiết bị phù hợp với phạm vi hoạt động đăng ký.
+d) Có đủ phương tiện vận chuyển cấp cứu trong và ngoài bệnh viện. Trường hợp không có phương tiện cấp cứu ngoài bệnh viện, phải có hợp đồng với cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động và có phạm vi hoạt động chuyên môn về cung cấp dịch vụ cấp cứu hỗ trợ vận chuyển người bệnh
+4. Tổ chức:
+a) Các khoa:
+- Có ít nhất 02 trong 04 khoa nội, ngoại, sản, nhi đối với bệnh viện đa khoa hoặc một khoa lâm sàng phù hợp đối với bệnh viện chuyên khoa;
+- Khoa khám bệnh: Có nơi tiếp đón người bệnh, phòng cấp cứu, lưu bệnh, phòng khám, phòng tiểu phẫu (nếu thực hiện tiểu phẫu);
+- Khoa cận lâm sàng: Có ít nhất một phòng xét nghiệm và một phòng chẩn đoán hình ảnh. Riêng đối với bệnh viện chuyên khoa mắt nếu không có bộ phận chẩn đoán hình ảnh thì phải có hợp đồng hỗ trợ chuyên môn với cơ sở khám bệnh, chữa bệnh đã được cấp giấy phép hoạt động có bộ phận chẩn đoán hình ảnh;
+- Khoa dược;
+- Các khoa, phòng chuyên môn khác trong bệnh viện phải phù hợp với quy mô, chức năng nhiệm vụ.
+b) Có các phòng, bộ phận để thực hiện các chức năng về kế hoạch tổng hợp, tổ chức nhân sự, quản lý chất lượng, điều dưỡng, tài chính kế toán và các chức năng cần thiết khác.
+5. Nhân sự:
+a) Mỗi cơ sở khám bệnh, chữa bệnh phải có một người chịu trách nhiệm chuyên môn kỹ thuật. Người chịu trách nhiệm chuyên môn kỹ thuật và trưởng các khoa chuyên môn của cơ sở khám bệnh, chữa bệnh phải đáp ứng các điều kiện sau đây:
+- Là bác sỹ có chứng chỉ hành nghề có phạm vi hoạt động chuyên môn phù hợp phạm vi hoạt động chuyên môn của cơ sở.
+- Trường hợp cơ sở khám bệnh, chữa bệnh gồm nhiều chuyên khoa thì chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật phải có phạm vi hoạt động chuyên môn phù hợp với ít nhất một trong các chuyên khoa lâm sàng mà cơ sở đăng ký hoạt động.
+b) Ngoài người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh, các đối tượng khác làm việc trong cơ sở nếu có thực hiện việc khám bệnh, chữa bệnh thì phải có chứng chỉ hành nghề và chỉ được thực hiện việc khám bệnh, chữa bệnh trong phạm vi công việc được phân công. Căn cứ vào phạm vi hoạt động chuyên môn, văn bằng, chứng chỉ, chứng nhận đào tạo và năng lực của người hành nghề, người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh phân công người hành nghề được thực hiện các kỹ thuật chuyên môn bằng văn bản;
+c) Kỹ thuật viên xét nghiệm có trình độ đại học được đọc và ký kết quả xét nghiệm. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa xét nghiệm hoặc kỹ thuật viên xét nghiệm có trình độ đại học thì bác sỹ chỉ định xét nghiệm đọc và ký kết quả xét nghiệm;
+d) Cử nhân X-Quang có trình độ đại học được đọc và mô tả hình ảnh chẩn đoán. Trường hợp cơ sở khám bệnh, chữa bệnh không có bác sỹ chuyên khoa chẩn đoán hình ảnh hoặc bác sỹ X-Quang thì bác sỹ chỉ định kỹ thuật chẩn đoán hình ảnh đọc và ký kết quả chẩn đoán hình ảnh;
+đ) Các đối tượng khác tham gia vào quá trình khám bệnh, chữa bệnh nhưng không cần phải cấp chứng chỉ hành nghề theo quy định của Luật khám bệnh, chữa bệnh thì được phép thực hiện các hoạt động theo phân công của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh (kỹ sư vật lý y học, kỹ sư xạ trị, âm ngữ trị liệu, tâm lý trị liệu và các đối tượng khác), việc phân công phải phù hợp với văn bằng chuyên môn của người đó.
+e) Số lượng người hành nghề làm việc toàn thời gian (cơ hữu) trong từng khoa phải đạt tỷ lệ ít nhất là 50% trên tổng số người hành nghề trong khoa;
+g) Trưởng các khoa chuyên môn của bệnh viện phải có chứng chỉ hành nghề phù hợp với chuyên khoa đó và phải là người hành nghề cơ hữu tại  bệnh viện;
+h) Trưởng khoa khác không thuộc đối tượng cấp chứng chỉ hành nghề phải có bằng tốt nghiệp đại học với chuyên ngành phù hợp với công việc được giao và phải là người hành nghề cơ hữu tại bệnh viện.
+6. Phạm vi hoạt động chuyên môn:
+Thực hiện các kỹ thuật chuyên môn theo danh mục được Bộ trưởng Bộ Y tế phê duyệt.
+[1] Thay đổi điều kiện cấp giấy phép hoạt động
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

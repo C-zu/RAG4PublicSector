@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Đơn đề nghị cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaff04eacd8f1b'">Mẫu Đơn đề nghị Cấp Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự.docx</a>)
+- 02 Bản sao - Bản sao Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự;
+- 02 Bản sao - Bản sao Giấy chứng nhận hợp quy đối với sản phẩm mật mã dân sự nhập khẩu (trường hợp đề nghị cấp Giấy phép nhập khẩu sản phẩm mật mã dân sự).

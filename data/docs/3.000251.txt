@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000251
+Số quyết định:
+44/QĐ-BTC
+Tên thủ tục:
+Thủ tục xác định xe thuộc diện không chịu phí, được bù trừ hoặc trả lại tiền phí đã nộp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
+Đối với xe ô tô quy định tại các điểm a, b, c, e và g khoản 2 Điều 2 Nghị định số 90/2023/NĐ-CP, chủ phương tiện lập hồ sơ đề nghị trả lại/bù trừ phí sử dụng đường bộ gửi đơn vị đăng kiểm. 
+Đơn vị đăng kiểm kiểm tra và tiếp nhận hồ sơ, đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận các tài liệu trong hồ sơ, tính và trả lại/bù trừ phí cho chủ phương tiện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng|- Trường hợp xe bị hủy hoại do tai nạn hoặc thiên tai; bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe; bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên + Trường hợp hồ sơ trả lại phí sử dụng đường bộ chưa đầy đủ, trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, đơn vị đăng kiểm phải thông báo cho người nộp hồ sơ để hoàn chỉnh. + Chậm nhất là 03 ngày làm việc, kể từ ngày nhận được đủ hồ sơ đề nghị trả lại phí sử dụng đường bộ, căn cứ hồ sơ đề nghị trả lại phí của chủ phương tiện, thủ trưởng đơn vị đăng kiểm ra Quyết định về việc trả lại/bù trừ phí sử dụng đường bộ theo Mẫu số 03 tại Phụ lục II hoặc Thông báo về việc không được trả lại/bù trừ tiền phí theo Mẫu số 04 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP gửi người đề nghị trả lại phí. - Trường hợp xe ô tô đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên: Đơn vị đăng kiểm tính bù trừ số phí phải nộp của kỳ tiếp theo, thời gian thực hiện 01 ngày làm việc. - Trường hợp xe ô tô bị mất trộm trong thời gian từ 30 ngày trở lên: Đơn vị đăng kiểm tính trả lại (hoặc bù trừ số phí phải nộp của kỳ tiếp theo nếu tìm lại được phương tiện), thời gian thực hiện 01 ngày làm việc.|
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng|- Trường hợp xe bị hủy hoại do tai nạn hoặc thiên tai; bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe; bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên + Trường hợp hồ sơ trả lại phí sử dụng đường bộ chưa đầy đủ, trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, đơn vị đăng kiểm phải thông báo cho người nộp hồ sơ để hoàn chỉnh. + Chậm nhất là 03 ngày làm việc, kể từ ngày nhận được đủ hồ sơ đề nghị trả lại phí sử dụng đường bộ, căn cứ hồ sơ đề nghị trả lại phí của chủ phương tiện, thủ trưởng đơn vị đăng kiểm ra Quyết định về việc trả lại/bù trừ phí sử dụng đường bộ theo Mẫu số 03 tại Phụ lục II hoặc Thông báo về việc không được trả lại/bù trừ tiền phí theo Mẫu số 04 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP gửi người đề nghị trả lại phí. - Trường hợp xe ô tô đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên: Đơn vị đăng kiểm tính bù trừ số phí phải nộp của kỳ tiếp theo, thời gian thực hiện 01 ngày làm việc. - Trường hợp xe ô tô bị mất trộm trong thời gian từ 30 ngày trở lên: Đơn vị đăng kiểm tính trả lại (hoặc bù trừ số phí phải nộp của kỳ tiếp theo nếu tìm lại được phương tiện), thời gian thực hiện 01 ngày làm việc.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng|- Trường hợp xe bị hủy hoại do tai nạn hoặc thiên tai; bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe; bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên + Trường hợp hồ sơ trả lại phí sử dụng đường bộ chưa đầy đủ, trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, đơn vị đăng kiểm phải thông báo cho người nộp hồ sơ để hoàn chỉnh. + Chậm nhất là 03 ngày làm việc, kể từ ngày nhận được đủ hồ sơ đề nghị trả lại phí sử dụng đường bộ, căn cứ hồ sơ đề nghị trả lại phí của chủ phương tiện, thủ trưởng đơn vị đăng kiểm ra Quyết định về việc trả lại/bù trừ phí sử dụng đường bộ theo Mẫu số 03 tại Phụ lục II hoặc Thông báo về việc không được trả lại/bù trừ tiền phí theo Mẫu số 04 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP gửi người đề nghị trả lại phí. - Trường hợp xe ô tô đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên: Đơn vị đăng kiểm tính bù trừ số phí phải nộp của kỳ tiếp theo, thời gian thực hiện 01 ngày làm việc. - Trường hợp xe ô tô bị mất trộm trong thời gian từ 30 ngày trở lên: Đơn vị đăng kiểm tính trả lại (hoặc bù trừ số phí phải nộp của kỳ tiếp theo nếu tìm lại được phương tiện), thời gian thực hiện 01 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Trường hợp xe bị hủy hoại do tai nạn hoặc thiên tai; bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe; bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên
+- 01 Bản chính Giấy đề nghị trả lại/bù trừ phí sử dụng đường bộ theo Mẫu số 01 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb292f43c855048'))
+- 01 Bản chính Bản chụp các giấy tờ chứng minh thời gian không được sử dụng phương tiện (như: Quyết định tịch thu hoặc thu hồi xe của cơ quan có thẩm quyền, văn bản thu hồi giấy đăng ký và biển số xe).
+- 01 Bản chính Bản chụp biên lai thu phí sử dụng đường bộ. Trường hợp bị mất biên lai thu phí, chủ phương tiện đề nghị đơn vị đăng kiểm nơi nộp phí cấp lại bản chụp biên lai thu phí.
+- 01 Bản chính Riêng đối với xe ô tô bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên thì ngoài các giấy tờ nêu trên, chủ phương tiện còn phải cung cấp Biên bản thu Tem và Giấy chứng nhận kiểm định theo Mẫu số 02 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP. ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef836f43b525e0'))
+
+
+Trường hợp xe ô tô bị mất trộm trong thời gian từ 30 ngày trở lên
+- 01 Bản chính Chủ phương tiện phải xuất trình Đơn trình báo về việc mất tài sản có xác nhận của cơ quan công an. Trường hợp tìm thấy phương tiện thì chủ phương tiện phải cung cấp cho đơn vị đăng kiểm Biên bản bàn giao tài sản do cơ quan công an thu hồi giao cho chủ phương tiện.
+
+
+Trường hợp xe ô tô đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên
+- 01 Bản chính Chủ phương tiện cung cấp giấy tờ chứng minh xe được xuất cảnh, nhập cảnh theo quy định của pháp luật cho đơn vị đăng điểm khi đăng kiểm.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Các đơn vị đăng kiểm
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc trả lại/bù trừ phí sử dụng đường bộ theo Mẫu số 03 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP, Thông báo về việc không được trả lại/bù trừ tiền phí theo Mẫu số 04 tại Phụ lục II ban hành kèm theo Nghị định số 90/2023/NĐ-CP
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Luật giao thông đường bộ|13-11-2008|Quốc Hội|
+|97/2015/QH13|Luật phí và lệ phí|25-11-2015|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+Xe ô tô (trừ xe ô tô của lực lượng quốc phòng và công an) trong các trường hợp quy định tại các điểm a, b, c, e và g khoản 2 Điều 2 Nghị định số 90/2023/NĐ-CP đã nộp phí sử dụng đường bộ thì chủ phương tiện được trả lại phí đã nộp hoặc trừ vào số phí phải nộp kỳ sau, cụ thể:  
+- Bị hủy hoại do tai nạn hoặc thiên tai.
+- Bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe.
+- Bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên (trước khi mang xe đi sửa chữa, chủ phương tiện phải xuất trình Biên bản hiện trường tai nạn có xác nhận của cơ quan công an và nộp lại Tem kiểm định, Giấy chứng nhận kiểm định cho đơn vị đăng kiểm gần nhất để có căn cứ trả lại phí sau khi phương tiện hoàn thành việc sửa chữa và kiểm định lại để tiếp tục lưu hành).
+- Xe đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên. 
+- Xe bị mất trộm trong thời gian từ 30 ngày trở lên.
+Xe ô tô (trừ xe ô tô của lực lượng quốc phòng và công an) trong các trường hợp quy định tại các điểm a, b, c, e và g khoản 2 Điều 2 Nghị định số 90/2023/NĐ-CP đã nộp phí sử dụng đường bộ thì chủ phương tiện được trả lại phí đã nộp hoặc trừ vào số phí phải nộp kỳ sau, cụ thể:  
+- Bị hủy hoại do tai nạn hoặc thiên tai.
+- Bị tịch thu hoặc bị thu hồi giấy chứng nhận đăng ký xe, biển số xe.
+- Bị tai nạn đến mức không thể tiếp tục lưu hành phải sửa chữa từ 30 ngày trở lên (trước khi mang xe đi sửa chữa, chủ phương tiện phải xuất trình Biên bản hiện trường tai nạn có xác nhận của cơ quan công an và nộp lại Tem kiểm định, Giấy chứng nhận kiểm định cho đơn vị đăng kiểm gần nhất để có căn cứ trả lại phí sau khi phương tiện hoàn thành việc sửa chữa và kiểm định lại để tiếp tục lưu hành).
+- Xe đăng ký, đăng kiểm tại Việt Nam nhưng hoạt động tại nước ngoài liên tục từ 30 ngày trở lên. 
+- Xe bị mất trộm trong thời gian từ 30 ngày trở lên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

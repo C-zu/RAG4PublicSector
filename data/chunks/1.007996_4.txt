@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp, cấp lại, gia hạn, phục hồi Quyết định công nhận lưu hành giống cây trồng (bao gồm cả cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Cấp Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị cấp Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 01.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fadfd67836cbde0'">Mẫu số 01.docx</a>)
+- 01 Bản chính + Kết quả khảo nghiệm tính khác biệt, tính đồng nhất, tính ổn định của giống cây trồng đề nghị công nhận lưu hành.
+- 01 Bản chính + Kết quả khảo nghiệm giá trị canh tác, giá trị sử dụng của giống cây trồng.
+- 01 Bản chính + Quy trình canh tác của giống do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn.
+ + Bản công bố các thông tin về giống cây trồng do tổ chức, cá nhân đứng tên đăng ký cấp Quyết định công nhận lưu hành giống cây trồng biên soạn theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda1b55fb1b76d4'">Mẫu số 02.docx</a>)
+
+
+- Cấp lại Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị cấp lại Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 03.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd05fe5e7b72194'">Mẫu số 03.docx</a>)
+- 01 Bản chính + Tài liệu chứng minh nội dung thay đổi đối với trường hợp thay đổi thông tin có liên quan đến tổ chức, cá nhân trong Quyết định công nhận lưu hành giống cây trồng.
+
+
+- Gia hạn Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị gia hạn Quyết định công nhận lưu hành giống cây trồng theo Mẫu số 04.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fce5bda90c343d4'">Mẫu số 04.docx</a>)
+- 01 Bản chính + Kết quả khảo nghiệm có kiểm soát quy định tại điểm a khoản 2 Điều 18 của Luật Trồng trọt thực hiện trong vòng một năm tính đến thời điểm nộp hồ sơ gia hạn Quyết định công nhận lưu hành giống cây trồng.
+
+
+- Phục hồi Quyết định lưu hành giống cây trồng:
+- 01 Bản chính + Văn bản đề nghị Cục Trồng trọt phục hồi Quyết định công nhận lưu hành giống cây trồng.
+- 01 Bản chính + Giấy xác nhận của tổ chức khảo nghiệm về giống cây trồng sau khi khắc phục được các vi phạm quy định tại khoản 5 Điều 15 của Luật Trồng trọt.

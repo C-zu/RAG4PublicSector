@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký tham dự sơ tuyển xét tặng giải thưởng chất lượng quốc gia
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký tham dự Giải thưởng chất lượng quốc gia theo quy định tại Mẫu số 19 Phụ lục ban hành kèm theo Nghị định số 74/2018/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9e0bcc02603ea'">Mẫu 19.docx</a>)
+- 01 Bản chính Báo cáo giới thiệu chung về tổ chức, doanh nghiệp
+- 01 Bản chính Báo cáo tự đánh giá theo 07 tiêu chí của Giải thưởng chất lượng quốc gia
+- 01 Bản sao Tài liệu chứng minh về việc áp dụng hệ thống quản lý chất lượng tiên tiến bản sao y bản chính (có ký tên và đóng dấu của tổ chức, doanh nghiệp), chứng chỉ hoặc tài liệu liên quan
+- 01 Bản sao Tài liệu chứng minh về sự phù hợp của sản phẩm, hàng hóa chính với các tiêu chuẩn, quy chuẩn kỹ thuật tương ứng (bản sao y bản chính có ký tên và đóng dấu của tổ chức, doanh nghiệp)
+- 01 Bản sao Báo cáo đánh giá tác động môi trường hoặc kế hoạch bảo vệ môi trường được phê duyệt và các kết quả quan trắc hằng năm hoặc báo cáo giám sát môi trường định kỳ theo quy định của pháp luật trong 03 năm gần nhất (bản sao y bản chính có ký tên và đóng dấu của tổ chức, doanh nghiệp)
+- 01 Bản sao Xác nhận kết quả thực hiện nghĩa vụ thuế với Nhà nước và thực hiện chế độ bảo hiểm xã hội đối với người lao động hằng năm trong 03 năm gần nhất (bản sao y bản chính có ký tên và đóng dấu của tổ chức, doanh nghiệp)
+- 01 Bản sao Bản sao y bản chính (có ký tên và đóng dấu của tổ chức, doanh nghiệp), các tài liệu chứng minh khác về kết quả hoạt động sản xuất, kinh doanh của tổ chức, doanh nghiệp trong 03 năm gần nhất (nếu có)

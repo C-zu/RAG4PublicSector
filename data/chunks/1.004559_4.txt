@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép nhập khẩu thuốc, nguyên liệu làm thuốc có hạn dùng còn lại tại thời điểm thông quan ngắn hơn quy định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị của cơ sở nhập khẩu, bao gồm các thông tin sau: Tên thuốc/nguyên liệu làm thuốc, hạn dùng còn lại tại thời điểm thông quan, lý do thuốc/nguyên liệu làm thuốc có hạn dùng còn lại tại thời điểm thông quan ngắn hơn quy định.
+- 01 Bản chính Các giấy tờ chứng minh việc lô thuốc/nguyên liệu làm thuốc có hạn dùng còn lại tại thời điểm thông quan ngắn hơn quy định.

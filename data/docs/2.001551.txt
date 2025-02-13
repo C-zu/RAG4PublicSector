@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001551
+Số quyết định:
+5625/QĐ-BCA-C06
+Tên thủ tục:
+Cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý ngành nghề đầu tư, kinh doanh có điều kiện về an ninh, trật tự
+Trình tự thực hiện:
+- Bước 1: Tổ chức, cá nhân có nhu cầu được cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự để kinh doanh một số ngành, nghề đầu tư kinh doanh có điều kiện sau khi bị mất Giấy chứng nhận đủ điều kiện về an ninh, trật tự đã được cấp trước đó hoặc bị cơ quan Công an có thẩm quyền thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự đối với trường hợp quy định tại các điểm b, c và h khoản 1 Điều 18 Nghị định số 96/2016/NĐ-CP nộp hồ sơ về Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an cấp tỉnh.
+- Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ. Nếu hồ sơ hợp lệ và đầy đủ thành phần thì tiếp nhận giải quyết và gửi Giấy biên nhận hồ sơ; nếu hồ sơ chưa hợp lệ hoặc thiếu thành phần thì hướng dẫn hoàn thiện hồ sơ, đồng thời cấp Phiếu hướng dẫn hoàn thiện hồ sơ; nếu hồ sơ không đủ điều kiện hoặc không thuộc thẩm quyền giải quyết thì từ chối tiếp nhận hồ sơ và gửi thông báo về việc hồ sơ không đủ điều kiện cấp Giấy chứng nhận đủ điều kiện về an ninh, trật tự.
+- Bước 3: Căn cứ theo thời gian hẹn trên Giấy biên nhận hồ sơ, tổ chức, cá nhân sẽ được cơ quan có thẩm quyền giải quyết hồ sơ gửi kết quả Giấy chứng nhận đủ điều kiện về an ninh, trật tự qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an, dịch vụ bưu chính hoặc nhận trực tiếp tại bộ phận tiếp nhận hồ sơ của Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|4 Ngày làm việc|Lệ phí : 300.000 Đồng|+ Nộp hồ sơ, nhận kết quả trực tiếp tại trụ sở cơ quan Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương;|
+|Trực tuyến|4 Ngày làm việc|Lệ phí : 300.000 Đồng|+ Nộp hồ sơ, nhận kết quả trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+|Dịch vụ bưu chính|4 Ngày làm việc|Lệ phí : 300.000 Đồng|+ Nộp hồ sơ , nhận kết quả qua dịch vụ bưu chính;|
+
+Thành phần hồ sơ:
+
+Trường hợp bị cơ quan Công an có thẩm quyền thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự đối với trường hợp quy định tại các điểm b, c và h khoản 1 Điều 18 Nghị định số 96/2016/NĐ-CP
+- 01 Bản chính - Văn bản đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh gửi cơ quan Công an có thẩm quyền (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP); ([Mẫu số 03-KDDK-ND56.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdaaca47a247ce4'))
+- 01 Bản sao - Bản sao hợp lệ các tài liệu bổ sung chứng minh đáp ứng đủ điều kiện để hoạt động kinh doanh (nếu có).
+
+
+Trường hợp để mất Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+- 01 Bản chính - Văn bản đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh gửi cơ quan Công an có thẩm quyền (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP); ([Mẫu số 03-KDDK-ND56.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe413db52a0d903'))
+- 01 Bản chính - Biên lai nộp tiền phạt theo quy định của pháp luật.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh
+Cơ quan có thẩm quyền:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh
+Địa chỉ tiếp nhận HS:
+Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|96/2016/NĐ-CP|Nghị định 96/2016/NĐ-CP|01-07-2016|Chính phủ|
+|218/2016/TT-BTC|Thông tư 218/2016/TT-BTC|10-11-2016|Bộ Tài chính|
+|23/2019/TT-BTC|Thông tư 23/2019/TT-BTC|19-04-2019|Bộ Tài chính|
+|42/2017/TT-BCA|Thông tư 42/2017/TT-BCA|20-10-2017||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+|56/2023/NĐ-CP|Nghị định 56/2023/NĐ-CP|24-07-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Đã chấp hành Quyết định xử phạt vi phạm hành chính theo quy định trong trường hợp mất Giấy chứng nhận đủ điều kiện về an ninh, trật tự hoặc đã đáp ứng điều kiện trong trường hợp bị cơ quan Công an có thẩm quyền thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự đối với trường hợp quy định tại các điểm b, c và h khoản 1 Điều 18 Nghị định số 96/2016/NĐ-CP.
+Từ khóa:
+Quản lý ngành nghề kinh doanh có điều kiện
+Mô tả:
+Không có thông tin

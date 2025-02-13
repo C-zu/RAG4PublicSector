@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn Giấy phép nhận chìm ở biển (cấp TW)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Đơn đề nghị gia hạn Giấy phép nhận chìm ở biển được lập theo Mẫu số 06 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbec142efc03e6'">Mẫu số 06 nhận chìn.docx</a>)
+- 02 Bản chính Báo cáo tình hình, kết quả hoạt động nhận chìm ở biển; công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ theo quy định của pháp luật tính đến thời điểm đề nghị gia hạn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5caf98837585d'">Mẫu số 14 nhận chìm (3).docx</a>)
+- 02 Bản sao Giấy phép nhận chìm ở biển

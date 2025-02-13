@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp, cấp lại, gia hạn, phục hồi Quyết định công nhận lưu hành giống cây trồng (bao gồm cả cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007996
+Số quyết định:
+151/QĐ-BNN-TT
+Tên thủ tục:
+Cấp, cấp lại, gia hạn, phục hồi Quyết định công nhận lưu hành giống cây trồng (bao gồm cả cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trồng trọt

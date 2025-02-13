@@ -1,0 +1,9 @@
+Tên thủ tục: Miễn, giảm tiền thuê đất trong Khu công nghệ cao
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị được miễn, giảm tiền thuê đất, trong đó ghi rõ: Diện tích đất thuê, thời hạn thuê đất; lý do miễn, giảm và thời gian miễn, giảm tiền thuê đất (bản chính);
+- 01 Bản sao - Quyết định cho thuê đất của cơ quan nhà nước có thẩm quyền (bản sao);
+- 01 Bản sao - Biên bản xác nhận thời gian tạm ngừng hoạt động của Ban quản lý Khu công nghệ cao đối với trường hợp đề nghị được miễn tiền thuê đất trong thời gian tạm ngừng hoạt động (bản sao);

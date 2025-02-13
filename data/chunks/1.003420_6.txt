@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục giải quyết hưởng chế độ tử tuất một lần
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Thân nhân của người lao động bị chết được hưởng trợ cấp tuất một lần thuộc một trong các trường hợp sau:
+a) Người lao động chết không thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP;
+b) Người lao động chết thuộc một trong các trường hợp quy định tại thuộc  thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP nhưng không có hoặc không còn thân nhân đủ Điều kiện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội;
+c) Thân nhân thuộc diện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội mà có nguyện vọng hưởng trợ cấp tuất một lần, trừ trường hợp con dưới 06 tuổi, con hoặc vợ hoặc chồng mà bị suy giảm khả năng lao động từ 81% trở lên.
+Thân nhân của người lao động bị chết được hưởng trợ cấp tuất một lần thuộc một trong các trường hợp sau:
+a) Người lao động chết không thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP;
+b) Người lao động chết thuộc một trong các trường hợp quy định tại thuộc  thuộc quy định tại Khoản 4 Điều 13 Mục 3 Chương II Nghị định số 33/2016/NĐ-CP, hoặc Khoản 4 Điều 12 Mục 3 Chương II Nghị định số 115/2015/NĐ-CP nhưng không có hoặc không còn thân nhân đủ Điều kiện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội;
+c) Thân nhân thuộc diện hưởng trợ cấp tuất hằng tháng theo quy định tại Khoản 2 và Khoản 3 Điều 67 Luật Bảo hiểm xã hội mà có nguyện vọng hưởng trợ cấp tuất một lần, trừ trường hợp con dưới 06 tuổi, con hoặc vợ hoặc chồng mà bị suy giảm khả năng lao động từ 81% trở lên.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

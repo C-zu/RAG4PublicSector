@@ -1,0 +1,9 @@
+Tên thủ tục: Cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ
+Cá nhân yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ phải xuất trình Chứng minh nhân dân/thẻ Căn cước công dân/số định danh cá nhân/hộ chiếu; người đại diện cơ quan, tổ chức đến giao dịch yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ phải xuất trình Chứng minh nhân dân/thẻ Căn cước công dân/số định danh cá nhân/hộ chiếu và giấy giới thiệu hoặc công văn của cơ quan, tổ chức; phiếu yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ cho Sở Tài nguyên và Môi trường theo Mẫu số 03 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 5 Điều 9 Nghị định số 22/2023/NĐ-CP).
+Khi cung cấp qua mạng Internet đối với thông tin, dữ liệu, sản phẩm đo đạc và bản đồ không thuộc Danh mục bí mật nhà nước thì bên yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ gửi tệp tin chứa giấy giới thiệu hoặc công văn của cơ quan, tổ chức; tệp tin chứa phiếu yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ và ký bằng chữ ký số; trường hợp không có chữ ký số thì bên yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ phải xuất trình Chứng minh nhân dân/thẻ Căn cước công dân/số định danh cá nhân/hộ chiếu khi làm thủ tục mở tài khoản giao dịch trực tuyến, đồng thời cung cấp số điện thoại di động để bên cung cấp gửi mã xác nhận giao dịch.
+b) Trả kết quả
+Khi nhận đủ hồ sơ yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ theo quy định, Sở Tài nguyên và Môi trường có trách nhiệm cung cấp ngay trong ngày làm việc hoặc theo thời gian thống nhất với bên yêu cầu cung cấp. Trường hợp từ chối cung cấp thông tin, dữ liệu, sản phẩm thì Sở Tài nguyên và Môi trường phải trả lời bằng văn bản cho cơ quan, tổ chức, cá nhân lý do không cung cấp.

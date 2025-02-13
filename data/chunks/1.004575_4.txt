@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục giải quyết khiếu nại lần hai cấp Bộ Quốc phòng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn khiếu nại hoặc bản ghi lời khiếu nại; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec3aa816e8445a'">Đơn khiếu nại.doc</a>)
+- 01 Bản chính 2. Giấy uỷ quyền (nếu có). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe57cb0ed70f389'">Giấy ủy quyền khiếu nại.doc</a>)
+- 01 Bản chính 3. Quyết định giải quyết khiếu nại lần đầu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd67dc23d45889a'">Quyết định giải quyết khiếu nại lần đầu.doc</a>)
+- 01 Bản chính 4. Các tài liệu khác có liên quan. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8577a067d9a79'">Mẫu số 07-KN- Giấy biên nhận.doc</a>)

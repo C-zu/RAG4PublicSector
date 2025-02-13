@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf6a9a95ef3b94'">Đơn đề nghị hủy tài khoản.doc</a>)

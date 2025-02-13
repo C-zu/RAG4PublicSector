@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn chứng chỉ vô tuyến điện viên hàng hải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|Phí : 0 Đồng Không có  Lệ phí : 0 Đồng Không có|Địa chỉ tiếp nhận: Cục Tần số vô tuyến điện, số 115 đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội.|
+|Trực tuyến|10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|Phí : 0 Đồng Không có  Lệ phí : 0 Đồng Không có|Địa chỉ tiếp nhận: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công của Cục Tần số vô tuyến điện (http://www.rfd.gov.vn hoặc http://www.cuctanso.vn);|
+|Dịch vụ bưu chính|10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|Phí : 0 Đồng Không có  Lệ phí : 0 Đồng Không có|Địa chỉ tiếp nhận: Cục Tần số vô tuyến điện, số 115 đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội.|

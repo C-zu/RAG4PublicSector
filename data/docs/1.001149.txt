@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001149
+Số quyết định:
+1239/QĐ-BTNMT
+Tên thủ tục:
+Khai thác, sử dụng thông tin, dữ liệu khí tượng thủy văn (cấp TW)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Khí tượng, thủy văn
+Trình tự thực hiện:
+a)	Trình tự thực hiện
+- Bước 1. Nộp hồ sơ:
+Tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện đến Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội) hoặc nộp qua Cổng dịch vụ công trực tuyến tại địa chỉ https://dichvucong.monre.gov.vn.
+- Bước 2. Kiểm tra hồ sơ và thông báo mức phí:
+Trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia tiếp nhận, kiểm tra phiếu hoặc văn bản, thông báo mức phí và thời gian thực hiện việc cung cấp thông tin, dữ liệu đối với trường hợp phải trả phí.
+Trường hợp từ chối cung cấp thì phải có văn bản trả lời nêu rõ lý do.
+- Bước 3: Cung cấp thông tin, dữ liệu:
+Sau khi cơ quan, tổ chức, cá nhân thực hiện xong việc nộp phí, trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu theo yêu cầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày||- Kiểm tra hồ sơ và thông báo mức phí: Trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia tiếp nhận, kiểm tra phiếu hoặc văn bản, thông báo mức phí và thời gian thực hiện việc cung cấp thông tin, dữ liệu đối với trường hợp phải trả phí. Trường hợp từ chối cung cấp thì phải có văn bản trả lời nêu rõ lý do. - Cung cấp thông tin, dữ liệu: Sau khi cơ quan, tổ chức, cá nhân thực hiện xong việc nộp phí, trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu theo yêu cầu.|
+|Trực tuyến|1 Ngày làm việc||- Kiểm tra hồ sơ và thông báo mức phí: Trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia tiếp nhận, kiểm tra phiếu hoặc văn bản, thông báo mức phí và thời gian thực hiện việc cung cấp thông tin, dữ liệu đối với trường hợp phải trả phí. Trường hợp từ chối cung cấp thì phải có văn bản trả lời nêu rõ lý do. - Cung cấp thông tin, dữ liệu: Sau khi cơ quan, tổ chức, cá nhân thực hiện xong việc nộp phí, trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu theo yêu cầu.|
+|Dịch vụ bưu chính|1 Ngày làm việc||- Kiểm tra hồ sơ và thông báo mức phí: Trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia tiếp nhận, kiểm tra phiếu hoặc văn bản, thông báo mức phí và thời gian thực hiện việc cung cấp thông tin, dữ liệu đối với trường hợp phải trả phí. Trường hợp từ chối cung cấp thì phải có văn bản trả lời nêu rõ lý do. - Cung cấp thông tin, dữ liệu: Sau khi cơ quan, tổ chức, cá nhân thực hiện xong việc nộp phí, trong thời hạn 01 ngày làm việc, cơ quan quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia có trách nhiệm cung cấp đầy đủ, chính xác các thông tin, dữ liệu theo yêu cầu.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu hoặc văn bản yêu cầu (Phụ lục 4 kèm theo Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ). ([Mẫu số 04.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd46204b07960e4'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Tổng cục Khí tượng Thủy văn - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Cơ quan, tổ chức, cá nhân nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện đến Văn phòng tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội) hoặc nộp qua Cổng dịch vụ công trực tuyến tại địa chỉ https://dichvucong.monre.gov.vn.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cơ quan, tổ chức, cá nhân được cung cấp thông tin, dữ liệu khí tượng thủy văn hoặc văn bản từ chối cung cấp thông tin, dữ liệu khí tượng thủy văn.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|90/2015/QH13|Luật 90/2015/QH13|23-11-2015|Quốc Hội|
+|38/2016/NĐ-CP|Nghị định 38/2016/NĐ-CP|15-05-2016|Chính phủ|
+|197/2016/TT-BTC|Thông tư 197/2016/TT-BTC|08-11-2016||
+|48/2020/NĐ-CP|Nghị định 48/2020/NĐ-CP|15-04-2020||
+|22/2023/NĐ-CP|Nghị định 22/2023/NĐ-CP|12-05-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

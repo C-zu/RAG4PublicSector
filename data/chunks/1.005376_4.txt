@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép phân phối rượu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp sửa đổi Giấy phép phân phối rượu theo Mẫu số 02 ban hành kèm theo Nghị định số 17/2020/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd05666bc9f2e72'">MẪU SỐ 02 RƯỢU.docx</a>)
+- 01 Bản sao (2) Bản sao Giấy phép đã được cấp;
+- 01 Bản sao (3) Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung.

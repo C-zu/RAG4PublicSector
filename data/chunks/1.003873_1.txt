@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp phép xuất khẩu thuốc, nguyên liệu làm thuốc được phép xuất khẩu không cần giấy phép của Bộ Y tế theo quy định tại khoản 5 Điều 60 của Luật dược mà cơ sở có nhu cầu cấp giấy phép xuất khẩu
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003873
+Số quyết định:
+7867/QĐ_BYT
+Tên thủ tục:
+Cấp phép xuất khẩu thuốc, nguyên liệu làm thuốc được phép xuất khẩu không cần giấy phép của Bộ Y tế theo quy định tại khoản 5 Điều 60 của Luật dược mà cơ sở có nhu cầu cấp giấy phép xuất khẩu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dược phẩm

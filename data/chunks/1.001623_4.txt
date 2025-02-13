@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp điều chỉnh hạng xe đào tạo, lưu lượng đào tạo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ (chỉ bổ sung những nội dung thay đổi so với lần cấp phép gần nhất):
+- 01 Bản chính Văn bản kèm báo cáo đề nghị cấp giấy phép đào tạo lái xe theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1e9c436ca99a3'">Mẫu 2.doc</a>)
+- 01 Bản sao Giấy chứng nhận giáo viên dạy thực hành lái xe (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực)
+- 01 Bản sao Giấy đăng ký xe (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực)

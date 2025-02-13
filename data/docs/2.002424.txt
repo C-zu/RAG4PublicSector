@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002424
+Số quyết định:
+2290/QĐ-UBND_ĐT
+Tên thủ tục:
+Kiểm tra công tác nghiệm thu khi hoàn thành thi công xây dựng công trình
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc
+Trình tự thực hiện:
+Bước 1: Nhà đầu tư nộp hồ sơ kiểm tra công tác nghiệm thu công trình xây dựng tại BPTN&TKQ Ban Quản lý hoặc nộp hồ sơ qua đường bưu chính.
+Bước 2: BPTN&TKQ Ban Quản lý kiểm tra hồ sơ; tiếp nhận nếu hồ sơ hợp lệ và đầy đủ; yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ.
+Bước 3: Ban Quản lý thẩm tra hồ sơ, kiểm tra hiện trường 
+Bước 4: Ban Quản lý có văn bản chấp thuận kết quả nghiệm thu của chủ đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; trong đó: - Trong thời gian 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ban Quản lý tổ chức kiểm tra hiện trường. - Trong thời gian 10 ngày làm việc kể từ ngày kết thúc kiểm tra, trường hợp phải khắc phục tồn tại thì kể từ ngày hoàn thành các yêu cầu, Ban Quản lý ban hành văn bản chấp thuận kết quả nghiệm thu của chủ đầu tư.||Trực tiếp tại Bộ phận tiếp nhận và trả kết quả Ban Quản lý|
+|Trực tuyến|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; trong đó: - Trong thời gian 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ban Quản lý tổ chức kiểm tra hiện trường. - Trong thời gian 10 ngày làm việc kể từ ngày kết thúc kiểm tra, trường hợp phải khắc phục tồn tại thì kể từ ngày hoàn thành các yêu cầu, Ban Quản lý ban hành văn bản chấp thuận kết quả nghiệm thu của chủ đầu tư.||Nộp hồ sơ trực tuyến tại địa chỉ www.dhpiza.danang.gov.vn: Chọn Dịch vụ công trực tuyến, chọn thủ tục hành chính cần thực hiện giao dịch, đăng nhập tài khoản và thực hiện nộp hồ sơ theo hướng dẫn. (trường hợp chưa có tài khoản thì thực hiện đăng ký tài khoản để đăng nhập).|
+|Dịch vụ bưu chính|20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ; trong đó: - Trong thời gian 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ban Quản lý tổ chức kiểm tra hiện trường. - Trong thời gian 10 ngày làm việc kể từ ngày kết thúc kiểm tra, trường hợp phải khắc phục tồn tại thì kể từ ngày hoàn thành các yêu cầu, Ban Quản lý ban hành văn bản chấp thuận kết quả nghiệm thu của chủ đầu tư.||Nộp hồ sơ qua dịch vụ bưu chính công ích: Nhà đầu tư truy cập website Ban Quản lý: www.dhpiza.danang.gov.vn, Chọn Bưu chính công ích, điền các thông tin theo yêu cầu. Bộ phận Bưu điện sẽ liên hệ trực tiếp với nhà đầu tư để thực hiện giao dịch.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Báo cáo hoàn thành thi công hạng mục công trình, công trình xây dựng của chủ đầu tư theo mẫu Phục lục VIa Nghị định số 06/2021/NĐ-CP. ([PL VIa BC hoan thanh thi cong XD hang muc cong trinh, cong trinh XD.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe924f66b70b765'))
+- 01 Bản chính 2. Danh mục hồ sơ hoàn thành hạng mục công trình, công trình quy định tại Phụ lục VIb Nghị định số 06/2021/NĐ-CP. ([PL VIb Danh muc ho so hoan thanh cong trinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc82499137c20a4'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ban Quản lý Khu công nghệ cao và các khu công nghiệp TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả Ban Quản lý
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận kết quả nghiệm thu.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|48/VBHN-VPQH|hợp nhất Luật Xây dựng|10-12-2018|Văn phòng Quốc hội|
+|10/2017/QĐ-UBND|Ban hành Quy chế quản lý quy hoạch, kiến trúc Khu công nghệ cao Đà Nẵng|23-03-2017|Ủy ban nhân dân cấp Tỉnh|
+|06/2021/NĐ-CP|Nghị định 06/2021/NĐ-CP|26-01-2021||
+|10/2021/QĐ-UBND|Ban hành Quy định về phân công, phân cấp, ủy quyền trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn thành phố Đà Nẵng|01-06-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Trước 10 ngày chủ đầu tư dự kiến tổ chức nghiệm thu.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

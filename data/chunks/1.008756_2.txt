@@ -1,0 +1,15 @@
+Tên thủ tục: Thẩm tra, phê duyệt quyết toán vốn đầu tư dự án hoàn thành
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1.Tổ chức, cá nhân hoàn thiện hồ sơ theo quy định về thành phần, số lượng hồ sơ của thủ tục này và nộp hồ sơ đến Sở Thông tin và Truyền thông.
+2. Bộ phận Một cửa của Sở Thông tin và Truyền thông tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
++ Trường hợp hồ sơ hợp lệ: Sở Thông tin và Truyền thông tiến hành thẩm định:
+++ Nếu hồ sơ hợp lệ nhưng không đủ điều kiện thẩm định (không đầy đủ thành phần hồ sơ quy định tại Điểm c của thủ tục này): Sở Thông tin và Truyền thông không tổ chức thẩm định mà có văn bản trả lại và nêu rõ lý do.
+++ Nếu hồ sơ đạt yêu cầu:
+Đối với dự án có tổng mức đầu tư dưới 500 triệu đồng: Sở Thông tin và Truyền thông sẽ ban hành Quyết định phê duyệt. Quyết định phê duyệt được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ. 
+Đối với dự án có tổng mức đầu tư trên 500 triệu đồng: Sở Thông tin và Truyền thông sẽ ban hành Tờ trình về việc đề nghị phê duyệt quyết toán dự án hoàn thành gửi Sở Tài chính thẩm tra, trình cấp có thẩm quyền phê duyệt.
+++ Nếu hồ sơ không đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ra thông báo đề nghị sửa đổi, bổ sung hoặc trả hồ sơ. 
+Trường hợp tổ chức nộp lại hồ sơ sửa đổi, bổ sung mà không đầy đủ các thành phần theo quy định, không bảo đảm yêu cầu để thẩm định thì hồ sơ coi như không hợp lệ, Sở Thông tin và Truyền thông sẽ từ chối tiếp nhận hồ sơ sửa đổi, bổ sung của tổ chức.
++ Trường hợp hồ sơ không hợp lệ (không đáp ứng đầy đủ thành phần, số lượng hồ sơ theo yêu cầu của thủ tục): Bộ phận Một cửa sẽ từ chối tiếp nhận hồ sơ và nêu rõ lý do từ chối.
+Lưu ý: Mọi vướng mắc, tổ chức liên hệ địa chỉ thư điện tử motcua-stttt@danang.gov.vn; fax: 02363.840.124; điện thoại: 02363.881.888 (số máy lẻ 423) hoặc số tắt 1022 để được hướng dẫn thêm.

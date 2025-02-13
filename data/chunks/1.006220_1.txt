@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục thanh toán phần giá trị của tài sản cho tổ chức, cá nhân ngẫu nhiên tìm thấy tài sản chôn, giấu, bị vùi lấp, chìm đắm, tài sản bị đánh rơi, bỏ quên nhưng không xác định được chủ sở hữu
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006220
+Số quyết định:
+828/QĐ-BTC
+Tên thủ tục:
+Thủ tục thanh toán phần giá trị của tài sản cho tổ chức, cá nhân ngẫu nhiên tìm thấy tài sản chôn, giấu, bị vùi lấp, chìm đắm, tài sản bị đánh rơi, bỏ quên nhưng không xác định được chủ sở hữu
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý công sản

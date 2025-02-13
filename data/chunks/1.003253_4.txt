@@ -1,0 +1,7 @@
+Tên thủ tục: Đổi tên cảng biển, bến cảng, cầu cảng, bến phao và khu nước, vùng nước, cảng dầu khí ngoài khơi đã được công bố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị đổi tên cảng biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe46b10e7374b98'">Don de nghi.doc</a>)

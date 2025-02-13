@@ -1,0 +1,9 @@
+Tên thủ tục: Xét, duyệt chính sách hỗ trợ đối với học sinh bán trú đang học tại các trường tiểu học, trung học cở sở ở xã, thôn đặc biệt khó khăn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||- Kinh phí hỗ trợ tiền ăn và tiền nhà ở cho học sinh được chi trả, cấp phát hằng tháng. - Gạo được cấp cho học sinh theo định kỳ nhưng không quá 2 lần/học kỳ.|
+|Trực tuyến|Không quy định||- Kinh phí hỗ trợ tiền ăn và tiền nhà ở cho học sinh được chi trả, cấp phát hằng tháng. - Gạo được cấp cho học sinh theo định kỳ nhưng không quá 2 lần/học kỳ.|
+|Dịch vụ bưu chính|Không quy định||- Kinh phí hỗ trợ tiền ăn và tiền nhà ở cho học sinh được chi trả, cấp phát hằng tháng. - Gạo được cấp cho học sinh theo định kỳ nhưng không quá 2 lần/học kỳ.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại biển hiệu phương tiện vận tải khách du lịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||02 ngày làm việc kể từ ngày nhận được đơn đề nghị cấp lại biển hiệu, Sở Giao thông vận tải xem xét, cấp lại biển hiệu cho phương tiện vận tải|
+|Dịch vụ bưu chính|02 Ngày làm việc||02 ngày làm việc kể từ ngày nhận được đơn đề nghị cấp lại biển hiệu, Sở Giao thông vận tải xem xét, cấp lại biển hiệu cho phương tiện vận tải|

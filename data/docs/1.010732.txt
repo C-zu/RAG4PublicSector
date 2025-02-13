@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010732
+Số quyết định:
+87/QĐ-BTNMT
+Tên thủ tục:
+Thẩm định báo cáo đánh giá tác động môi trường (cấp Bộ)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Môi trường
+Trình tự thực hiện:
+Bước 1. Nộp hồ sơ: 
+Tổ chức/cá nhân (Chủ dự án đầu tư, cơ sở) nộp hồ sơ qua hệ thống dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường theo địa chỉ https://dichvucong.monre.gov.vn, Cổng dịch vụ công quốc gia theo địa chỉ https://dichvucong.gov.vn hoặc gửi trực tiếp, qua dịch vụ bưu chính đến Văn phòng tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường, địa chỉ số 10 Tôn Thất Thuyết, quận Nam Từ Liêm, Hà Nội. 
+Đối với các dự án đầu tư thuộc bí mật nhà nước về quốc phòng, an ninh: nộp hồ sơ theo quy định của Bộ Quốc phòng, Bộ Công an.
+Bước 2. Kiểm tra hồ sơ: 
+Cơ quan thẩm định xem xét, kiểm tra hồ sơ; trường hợp hồ sơ không đầy đủ, hợp lệ hoặc chưa được tham vấn thông qua đăng tải trên trang thông tin điện tử của cơ quan thẩm định theo quy định (trừ các dự án đầu tư thuộc danh mục bí mật nhà nước), cơ quan thẩm định từ chối tiếp nhận hồ sơ và có văn bản thông báo cho tổ chức/cá nhân.
+Bước 3. Thẩm định hồ sơ:
+3.1. Thẩm định hồ sơ sau khi nhận hồ sơ đầy đủ, hợp lệ và hồ sơ đã được tham vấn trên trang thông tin điện tử theo quy định (trừ các dự án đầu tư thuộc danh mục bí mật nhà nước)
+- Thẩm định hồ sơ báo cáo đánh giá tác động môi trường thông qua Hội đồng thẩm định.
+- Trong quá trình thẩm định (trong trường hợp cần thiết), cơ quan thẩm định tiến hành các hoạt động: kiểm tra, khảo sát thực tế khu vực thực hiện dự án; lấy ý kiến tổ chức, chuyên gia.
+- Sau khi báo cáo đánh giá tác động môi trường đã được thẩm định, cơ quan thẩm định có trách nhiệm thông báo bằng văn bản về kết quả thẩm định tới tổ chức/cá nhân với kết quả là 01 trong các trường hợp sau đây: (1) thông qua không cần chỉnh sửa, bổ sung; (2) thông qua với điều kiện phải chỉnh sửa, bổ sung; (3) không thông qua.
+3.2. Thẩm định hồ sơ sau khi họp hội đồng
+- Sau khi báo cáo đánh giá tác động môi trường đã được thẩm định với kết quả thông qua không cần chỉnh sửa, bổ sung hoặc thông qua với điều kiện phải chỉnh sửa, bổ sung, tổ chức/cá nhân (trong thời hạn không quá 12 tháng kể từ ngày nhận được thông báo kết quả thẩm định) phải hoàn thiện và gửi cơ quan thẩm định hồ sơ đề nghị phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường.
+- Sau khi nhận được hồ sơ đề nghị phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường do tổ chức/cá nhân gửi đến, cơ quan thường trực thẩm định có trách nhiệm tiếp tục thẩm định hồ sơ đề nghị phê duyệt báo cáo đánh giá tác động môi trường.
+Bước 4. Phê duyệt và gửi kết quả
+- Cơ quan cấp phép ban hành quyết định phê duyệt báo cáo đánh giá tác động môi trường. Trường hợp chưa đủ điều kiện phê duyệt hoặc không phê duyệt phải có văn bản nêu rõ lý do.
+- Cơ quan cấp phép có trách nhiệm công khai trên cổng thông tin điện tử quyết định phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường, trừ các thông tin thuộc bí mật nhà nước, bí mật của doanh nghiệp theo quy định của pháp luật.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|65 Ngày làm việc|Phí : Đồng Thực hiện theo quy định tại Thông tư 56/2018/TT-BTC ngày 25 tháng 6 năm 2018 của Bộ Tài chính|- Thời hạn kiểm tra, trả lời về tính đầy đủ, hợp lệ của hồ sơ: không quy định. - Thời hạn thẩm định báo cáo đánh giá tác động môi trường: + Tối đa là 45 (bốn mươi lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ đối với trường hợp thẩm định báo cáo đánh giá tác động môi trường của các dự án đầu tư nhóm I quy định tại khoản 3 Điều 28 của Luật Bảo vệ môi trường; + Tối đa là 30 (ba mươi) ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ đối với trường hợp thẩm định báo cáo đánh giá tác động môi trường của các dự án đầu tư nhóm II quy định tại các điểm c, d, đ và e khoản 4 Điều 28 của Luật Bảo vệ môi trường; + Thời hạn thẩm định quy định có thể được kéo dài theo quyết định của Thủ tướng Chính phủ. - Thời điểm thông báo kết quả: trong thời hạn thẩm định. - Thời hạn phê duyệt báo cáo đánh giá tác động môi trường: tối đa là 20 (hai mươi) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Thời gian chủ dự án đầu tư chỉnh sửa, bổ sung báo cáo đánh giá tác động môi trường theo yêu cầu của cơ quan thẩm định không tính vào thời hạn thẩm định.|
+|Trực tuyến|65 Ngày làm việc|Phí : Đồng Thực hiện theo quy định tại Thông tư 56/2018/TT-BTC ngày 25 tháng 6 năm 2018 của Bộ Tài chính|Thời hạn kiểm tra, trả lời về tính đầy đủ, hợp lệ của hồ sơ: không quy định. - Thời hạn thẩm định báo cáo đánh giá tác động môi trường: + Tối đa là 45 (bốn mươi lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ đối với trường hợp thẩm định báo cáo đánh giá tác động môi trường của các dự án đầu tư nhóm I quy định tại khoản 3 Điều 28 của Luật Bảo vệ môi trường; + Tối đa là 30 (ba mươi) ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ đối với trường hợp thẩm định báo cáo đánh giá tác động môi trường của các dự án đầu tư nhóm II quy định tại các điểm c, d, đ và e khoản 4 Điều 28 của Luật Bảo vệ môi trường; + Thời hạn thẩm định quy định có thể được kéo dài theo quyết định của Thủ tướng Chính phủ. - Thời điểm thông báo kết quả: trong thời hạn thẩm định. - Thời hạn phê duyệt báo cáo đánh giá tác động môi trường: tối đa là 20 (hai mươi) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Thời gian chủ dự án đầu tư chỉnh sửa, bổ sung báo cáo đánh giá tác động môi trường theo yêu cầu của cơ quan thẩm định không tính vào thời hạn thẩm định.|
+|Dịch vụ bưu chính|65 Ngày làm việc|Phí : Đồng Thực hiện theo quy định tại Thông tư 56/2018/TT-BTC ngày 25 tháng 6 năm 2018 của Bộ Tài chính|Thời hạn kiểm tra, trả lời về tính đầy đủ, hợp lệ của hồ sơ: không quy định. - Thời hạn thẩm định báo cáo đánh giá tác động môi trường: + Tối đa là 45 (bốn mươi lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ đối với trường hợp thẩm định báo cáo đánh giá tác động môi trường của các dự án đầu tư nhóm I quy định tại khoản 3 Điều 28 của Luật Bảo vệ môi trường; + Tối đa là 30 (ba mươi) ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ đối với trường hợp thẩm định báo cáo đánh giá tác động môi trường của các dự án đầu tư nhóm II quy định tại các điểm c, d, đ và e khoản 4 Điều 28 của Luật Bảo vệ môi trường; + Thời hạn thẩm định quy định có thể được kéo dài theo quyết định của Thủ tướng Chính phủ. - Thời điểm thông báo kết quả: trong thời hạn thẩm định. - Thời hạn phê duyệt báo cáo đánh giá tác động môi trường: tối đa là 20 (hai mươi) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Thời gian chủ dự án đầu tư chỉnh sửa, bổ sung báo cáo đánh giá tác động môi trường theo yêu cầu của cơ quan thẩm định không tính vào thời hạn thẩm định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Hồ sơ đề nghị thẩm định: - 01 bản chính văn bản đề nghị thẩm định báo cáo đánh giá tác động môi trường (mẫu số 02 Phụ lục II ban hành kèm theo Thông tư số 02/2022/TT-BTNMT). - 01 bản chính Báo cáo nghiên cứu khả thi hoặc báo cáo kinh tế - kỹ thuật của dự án đầu tư hoặc các tài liệu tương đương; - 01 bản chính Báo cáo đánh giá tác động môi trường (mẫu số 04 Phụ lục II ban hành kèm theo Thông tư số 02/2022/TT-BTNMT). ([Các phụ lục ĐTM.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec204faabc6a26'))
+ Hồ sơ nộp lại sau khi họp hội đồng: - 01 bản chính văn bản đề nghị phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường, trong đó giải trình rõ những nội dung đã được chỉnh sửa, bổ sung theo kết quả thẩm định, trừ trường hợp không phải chỉnh sửa, bổ sung; - 01 bản chính Báo cáo đánh giá tác động môi trường được đóng quyển gáy cứng, tổ chức/cá nhân ký vào phía dưới của từng trang hoặc đóng dấu giáp lai báo cáo kể cả phụ lục kèm theo đĩa CD trong đó chứa tệp văn bản điện tử định dạng đuôi “.doc” chứa nội dung của báo cáo và tệp văn bản điện tử định dạng đuôi “.pdf” chứa nội dung đã quét (scan) của toàn bộ báo cáo (bao gồm cả phụ lục).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường (mẫu số 10, Phụ lục II ban hành kèm theo Thông tư số 02/2022/TT-BTNMT)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2020/QH14|Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020|17-11-2020|Ủy ban thường vụ quốc hội|
+|02/2022/TT-BTNMT|Thông tư số 02/2022/TT-BTNMT|10-01-2022|Bộ Tài nguyên và Môi trường|
+|08/2022/NĐ-CP|Nghị định số 08/2022/NĐ-CP ngày 10 tháng 01 năm 2022 của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ môi trường;|10-01-2022|Thủ tướng Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

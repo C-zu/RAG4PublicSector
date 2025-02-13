@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Trường hợp có thay đổi các nội dung của Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu, thương nhân phải lập hồ sơ gửi về Bộ Công Thương đề nghị bổ sung, sửa đổi Giấy xác nhận. Hồ sơ gồm:
+- 01 Bản chính - Đơn đề nghị cấp bổ sung, sửa đổi Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu theo Mẫu số 1 tại Phụ lục kèm theo Nghị định số 95/2021/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde1cab0157db80'">Mẫu số 1.doc</a>)
+- 01 Bản chính - Bản gốc Giấy xác nhận đủ điều kiện làm thương nhân đầu mối kinh doanh xăng dầu đã được cấp;
+- 01 Bản chính - Các tài liệu chứng minh yêu cầu bổ sung, sửa đổi.

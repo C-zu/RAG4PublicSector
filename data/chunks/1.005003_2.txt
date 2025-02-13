@@ -1,0 +1,34 @@
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký liên hiệp hợp tác xã
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Trường hợp đăng ký trực tiếp:
+Bước 1: Nộp hồ sơ
+- Trong thời hạn 15 ngày, kể từ ngày liên hiệp hợp tác xã có thay đổi về tên, địa chỉ trụ sở chính, ngành, nghề kinh doanh, vốn điều lệ, người đại diện theo pháp luật thì liên hiệp hợp tác xã phải đăng ký với Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư, nơi liên hiệp hợp tác xã đặt trụ sở chính.
+- Trước khi đăng ký thay đổi địa chỉ trụ sở chính, liên hiệp hợp tác xã phải thực hiện các thủ tục với cơ quan thuế liên quan đến việc chuyển địa điểm theo quy định của pháp luật về thuế. Việc thay đổi địa chỉ trụ sở chính của liên hiệp hợp tác xã không làm thay đổi quyền và nghĩa vụ của liên hiệp hợp tác xã.
+- Trường hợp thay đổi địa chỉ trụ sở chính của liên hiệp hợp tác xã sang tỉnh, thành phố khác với nơi liên hiệp hợp tác xã đã đăng ký thì liên hiệp hợp tác xã đăng ký thay đổi tại Phòng Đăng ký kinh doanh thuộc Sở Kế hoạch và Đầu tư nơi dự định đặt trụ sở mới.
+Bước 2: Tiếp nhận hồ sơ
+- Hồ sơ đăng ký thay đổi của liên hiệp hợp tác xã được tiếp nhận để nhập thông tin vào Hệ thống thông tin quốc gia về đăng ký hợp tác xã khi:
++ Có đủ giấy tờ theo quy định;
++ Thông tin thay đổi của liên hiệp hợp tác xã đã được kê khai đầy đủ vào các giấy tờ trong hồ sơ đăng ký thay đổi của liên hiệp hợp tác xã theo quy định;
++ Có địa chỉ liên lạc của người nộp hồ sơ;
++ Đã nộp lệ phí đăng ký kinh doanh theo quy định.
+- Sau khi tiếp nhận hồ sơ đăng ký thay đổi của liên hiệp hợp tác xã, Phòng Đăng ký kinh doanh trao Giấy biên nhận về việc nhận hồ sơ cho người nộp hồ sơ.
+Bước 3: Xử lý hồ sơ
+- Trường hợp liên hiệp hợp tác xã thay đổi địa chỉ trụ sở chính sang tỉnh, thành phố khác với nơi đã đăng ký thì Phòng Đăng ký kinh doanh nơi liên hiệp hợp tác xã đặt trụ sở mới phải gửi bản sao giấy chứng nhận đăng ký liên hiệp hợp tác xã đã cấp mới đến Phòng Đăng ký kinh doanh nơi liên hiệp hợp tác xã đăng ký trụ sở cũ.
+- Trường hợp hồ sơ không hợp lệ, Phòng Đăng ký kinh doanh phải thông báo rõ nội dung cần sửa đổi, bổ sung bằng văn bản cho liên hiệp hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ. Phòng Đăng ký kinh doanh ghi toàn bộ yêu cầu sửa đổi, bổ sung hồ sơ trong 01 Thông báo yêu cầu sửa đổi, bổ sung hồ sơ đăng ký thay đổi liên hiệp hợp tác xã
+- Trường hợp hồ sơ hợp lệ thì liên hiệp hợp tác xã được cấp Giấy chứng nhận đăng ký liên hiệp hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+- Trường hợp không cấp giấy chứng nhận đăng ký liên hiệp hợp tác xã thì Phòng Đăng ký kinh doanh thông báo bằng văn bản và nêu rõ lý do cho liên hiệp hợp tác xã biết.
++ Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng (trong trường hợp được ứng dụng):
+Bước 1: Nộp hồ sơ
+- Người có thẩm quyền ký văn bản (người đại diện theo pháp luật của liên hiệp hợp tác xã) hoặc người đại diện theo ủy quyền kê khai thông tin, tải văn bản điện tử, ký số vào hồ sơ đăng ký điện tử theo quy trình trên Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+- Trường hợp người được cá nhân có thẩm quyền ký văn bản đề nghị đăng ký thay đổi theo quy định ủy quyền thực hiện thủ tục liên quan đến đăng ký thay đổi tên, địa chỉ trụ sở chính, ngành, nghề sản xuất, kinh doanh, vốn điều lệ, người đại diện theo pháp luật thì người được ủy quyền kê khai thông tin, tải văn bản điện tử, ký số vào hồ sơ đăng ký điện tử theo quy trình trên Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+Bước 2: Tiếp nhận hồ sơ
+- Hồ sơ đăng ký thay đổi của liên hiệp hợp tác xã qua mạng điện tử hợp lệ khi đảm bảo đầy đủ các yêu cầu sau: (1) Có đầy đủ các giấy tờ và nội dung các giấy tờ đó được kê khai đầy đủ theo quy định như hồ sơ bằng bản giấy và được chuyển sang dạng văn bản điện tử. Tên văn bản điện tử phải được đặt tương ứng với tên loại giấy tờ trong hồ sơ bằng bản giấy; (2) Các thông tin đăng ký thay đổi được nhập đầy đủ và chính xác theo thông tin trong các văn bản điện tử; (3) Hồ sơ đăng ký thay đổi qua mạng điện tử phải được xác thực bằng chữ ký số công cộng của một trong các chủ thể sau đây: (3a) Cá nhân có thẩm quyền ký văn bản đề nghị đăng ký thay đổi theo quy định; (3b) Người được cá nhân có thẩm quyền ký văn bản đề nghị đăng ký thay đổi theo quy định ủy quyền thực hiện thủ tục liên quan đến đăng ký thay đổi tên, địa chỉ trụ sở chính, ngành, nghề sản xuất, kinh doanh, vốn điều lệ, người đại diện theo pháp luật.
+- Trường hợp được ủy quyền thì phải có thêm giấy tờ sau: (1) bản sao hợp lệ một trong các giấy tờ chứng thực cá nhân (Thẻ căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu Việt Nam còn hiệu lực đối với công dân Việt Nam; Hộ chiếu nước ngoài hoặc giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực đối với người nước ngoài); (2) Bản sao hợp lệ hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ nộp hồ sơ, nhận kết quả và giấy giới thiệu của tổ chức đó cho cá nhân thực hiện nộp hồ sơ, nhận kết quả; hoặc Văn bản ủy quyền cho cá nhân thực hiện nộp hồ sơ, nhận kết quả theo quy định của pháp luật. Văn bản này không bắt buộc phải công chứng, chứng thực.
+- Thời hạn để liên hiệp hợp tác xã sửa đổi, bổ sung hồ sơ đăng ký thay đổi qua mạng điện tử là 60 ngày kể từ ngày Phòng Đăng ký kinh doanh ra Thông báo yêu cầu sửa đổi, bổ sung hồ sơ. Sau thời hạn nêu trên, nếu không nhận được hồ sơ sửa đổi, bổ sung của liên hiệp hợp tác xã, Phòng Đăng ký kinh doanh sẽ hủy hồ sơ đăng ký thay đổi theo quy trình trên Hệ thống thông tin quốc gia về đăng ký hợp tác xã.
+- Sau khi hoàn thành việc gửi hồ sơ đăng ký, cá nhân có thẩm quyền đăng ký hoặc người được cá nhân có thẩm quyền ký ủy quyền sẽ nhận được Giấy biên nhận hồ sơ đăng ký thay đổi qua mạng điện tử.
+Bước 3: Xử lý hồ sơ
+- Trường hợp hồ sơ chưa hợp lệ, Phòng Đăng ký kinh doanh gửi thông báo qua mạng điện tử cho cá nhân có thẩm quyền ký hoặc người được cá nhân có thẩm quyền ký ủy quyền để yêu cầu sửa đổi, bổ sung hồ sơ.
+- Phòng Đăng ký kinh doanh cấp Giấy chứng nhận đăng ký liên hiệp hợp tác xã trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Liên hiệp hợp tác xã phải nộp hồ sơ bằng văn bản khi nhận giấy chứng nhận đăng ký để đối chiếu và lưu hồ sơ.
+- Nếu không thực hiện đăng ký thay đổi nội dung đăng ký của hợp tác xã thì Phòng Đăng ký kinh doanh thông báo bằng văn bản và nêu rõ lý do cho liên hiệp hợp tác xã biết.

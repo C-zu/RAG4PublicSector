@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký hoạt động giám định
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức, doanh nghiệp có nhu cầu đăng ký hoạt động giám định chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương chuẩn bị 01 bộ hồ sơ đăng ký hoạt động giám định theo quy định và gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại trụ sở hoặc qua Cổng thông tin điện tử của Bộ Công Thương theo hình thức dịch vụ công trực tuyến, cụ thể:
+- Đối với trường hợp nộp hồ sơ qua đường bưu điện: Bản sao có chứng thực.
+- Đối với trường hợp nộp hồ sơ trực tiếp: Bản sao có chứng thực hoặc bản chụp kèm theo bản chính để đối chiếu.
+- Đối với trường hợp nộp hồ sơ qua mạng điện tử: Bản scan từ bản gốc.
+Bước 2: Xử lý hồ sơ
+- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký, Bộ Công Thương thông báo bằng văn bản yêu cầu tổ chức giám định sửa đổi, bổ sung hồ sơ.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ, Bộ Công Thương cấp Giấy chứng nhận cho tổ chức giám định theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 107/2016/NĐ-CP.

@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002991
+Số quyết định:
+5652/QĐ-BYT
+Tên thủ tục:
+Cấp giấy chứng nhận lưu hành tự do (CFS) đối với trang thiết bị y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trang thiết bị và công trình y tế
+Trình tự thực hiện:
+Bước 1: Thương nhân nộp hồ sơ cho Bộ Y tế thông qua Hệ thống thông tin giải quyết thủ tục hành chính Bộ Y tế (https://dichvucong.moh.gov.vn) hoặc Cổng thông tin điện tử về quản lý trang thiết bị y tế (https://dmec.moh.gov.vn/);
+Bước 2: Trường hợp hồ sơ chưa đầy đủ, đúng quy định, trong thời hạn 3 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Vụ Trang thiết bị và Công trình y tế - Bộ Y tế thông báo để thương nhân hoàn thiện hồ sơ.
+Bước 3: Thời hạn cấp CFS không quá 3 ngày làm việc, kể từ ngày thương nhân nộp hồ sơ đầy đủ, đúng quy định. Trường hợp không cấp CFS, Bộ Y tế có văn bản trả lời nêu rõ lý do.
+Cơ quan cấp CFS có thể tiến hành kiểm tra tại nơi sản xuất trường hợp nhận thấy việc kiểm tra trên hồ sơ là chưa đủ căn cứ để cấp CFS hoặc phát hiện có dấu hiệu vi phạm quy định đối với CFS đã cấp trước đó.
+Số lượng CFS được cấp cho hàng hóa theo yêu cầu của thương nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|03 Ngày làm việc|Phí : 1.000.000 Đồng Phí thẩm định hồ sơ xuất khẩu trang thiết bị y tế|Sau 03 ngày làm việc kể từ thời điểm nhận được hồ sơ đầy đủ và hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp giấy chứng nhận lưu hành tự do theo mẫu số 07 Phụ lục I ban hành kèm Thông tư 19/2021/TT-BYT ([Mẫu số 07.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3241de3d6822a'))
+- 01 Bản sao Nộp bản sao có chứng thực giấy chứng nhận đạt tiêu chuẩn chất lượng được cấp bởi tổ chức đánh giá sự phù hợp theo quy định của pháp luật còn hiệu lực tại thời điểm nộp hồ sơ.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Bộ Y tế, Cục Cơ sở hạ tầng và Trang thiết bị y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận lưu hành tự do (CFS) đối với trang thiết bị y tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|278/2016/TT-BTC|Thông tư 278/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế|14-11-2016|Bộ Tài chính|
+|98/2021/NĐ-CP|Nghị định về trang thiết bị y tế số 98/2021/NĐ-CP (link trên thư viện pl vì trên cơ sở dữ liệu về văn bản QPPL ko có)|08-11-2021|Chính phủ|
+|19/2021/TT-BYT|Thông tư 19/2021/TT-BYT quy định về mẫu văn bản, báo cáo thực hiện Nghị định 98/2021/NĐ-CP về quản lý trang thiết bị y tế do Bộ trưởng Bộ Y tế ban hành (link lấy từ thuvienphapluat.vn vì cơ sở dữ liệu về văn bản qppl ko có)|16-11-2021|Bộ Y tế|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

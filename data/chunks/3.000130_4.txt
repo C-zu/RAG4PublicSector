@@ -1,0 +1,11 @@
+Tên thủ tục: Thay đổi thông tin sản phẩm thức ăn bổ sung
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thay đổi thông tin.
+- 01 Bản chính - Bản tiêu chuẩn công bố áp dụng.
+- 01 Bản chính - Bản tiếp nhận công bố hợp quy (nếu có).
+- 01 Bản chính - Mẫu của nhãn sản phẩm.
+- 01 Bản chính Đối với thức ăn bổ sung nhập khẩu phải bổ sung thêm bản chính hoặc bản sao chứng thực giấy xác nhận nội dung thay đổi của nhà sản xuất; bản sao chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy xác nhận của cơ quan quản lý nhà nước có thẩm quyền trong trường hợp đổi tên cơ sở sản xuất, tên thương mại thức ăn chăn nuôi nhập khẩu.

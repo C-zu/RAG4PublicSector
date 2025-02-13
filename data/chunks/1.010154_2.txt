@@ -1,0 +1,17 @@
+Tên thủ tục: Thành lập văn phòng điều hành của nhà đầu tư nước ngoài trong hợp đồng BCC - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện cấp Giấy chứng nhận đăng ký hoạt động văn phòng điều hành trình lãnh đạo phòng xem xét, ký nháy
+- Trường hợp, hồ sơ đủ điều kiện Dự thảo Giấy chứng nhận đăng ký hoạt động văn phòng điều hành trình lãnh đạo phòng xem xét, ký nháy
+B5	Lãnh đạo phòng chuyên môn xem xét, ký nháy  kết quả thực hiện tại Bước 4 
+B6	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định hồ sơ của phòng CM.
+
+B7	Làm thủ tục phát hành văn bản và chuyển TTPVHCC
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn

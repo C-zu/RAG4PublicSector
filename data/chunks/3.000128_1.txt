@@ -1,0 +1,16 @@
+Tên thủ tục: Công bố thông tin sản phẩm thức ăn bổ sung nhập khẩu
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000128
+Số quyết định:
+823/QĐ-BNN-CN
+Tên thủ tục:
+Công bố thông tin sản phẩm thức ăn bổ sung nhập khẩu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Chăn nuôi

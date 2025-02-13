@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp Giấy phép thăm dò khoáng sản (cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép thăm dò khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4072908974a44'">Mẫu số 03 đơn đề nghị cấp GP tham do.docx</a>)
+- 01 Bản chính Bản đồ khu vực thăm dò khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee34d070e7536e'">Mẫu số 22 PL 2 bản đồ khu vực thăm dò.docx</a>)
+- 01 Bản chính Đề án thăm dò khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb831d2a165efb0'">Mẫu số 01 đề án thăm dò ks.docx</a>)
+ Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu của giấy tờ sau:
+- 01 Bản sao - Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp
+- 01 Bản sao - Quyết định thành lập văn phòng đại diện, chi nhánh tại Việt Nam trong trường hợp là doanh nghiệp nước ngoài
+- 01 Bản sao - Kế hoạch bảo vệ môi trường được cơ quan có thẩm quyền phê duyệt đối với trường hợp thăm dò khoáng sản độc hại
+- 01 Bản sao - Văn bản xác nhận trúng đấu giá trong trường hợp đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò khoáng sản
+ * Đối với doanh nghiệp mới thành lập gồm một trong các văn bản sau (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu):
+- 01 Bản sao - Biên bản góp vốn của các cổ đông sáng lập đối với công ty cổ phần hoặc của các thành viên sáng lập đối với công ty trách nhiệm hữu hạn từ hai thành viên trở lên; điều lệ công ty đối với công ty cổ phần, sổ đăng ký thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên;
+- 01 Bản sao - Quyết định giao vốn của chủ sở hữu đối với công ty trách nhiệm hữu hạn một thành viên mà chủ sở hữu là một tổ chức.
+ * Đối với doanh nghiệp đang hoạt động quy định như sau (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu):
+- 01 Bản sao - Đối với doanh nghiệp thành lập trong thời hạn 01 năm tính đến ngày nộp hồ sơ đề nghị cấp Giấy phép thăm dò khoáng sản, Giấy phép khai thác khoáng sản: Nộp bản sao Giấy chứng nhận đăng ký doanh nghiệp;
+- 01 Bản sao - Đối với doanh nghiệp thành lập trên 01 năm tính đến ngày nộp hồ sơ đề nghị cấp Giấy phép thăm dò khoáng sản, Giấy phép khai thác khoáng sản: nộp bản sao Báo cáo tài chính của năm gần nhất.
+ * Đối với Hợp tác xã, liên hiệp hợp tác xã gồm một trong các văn bản sau (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu):
+- 01 Bản sao - Vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã là tổng số vốn do thành viên hợp tác xã, hợp tác xã thành viên của liên hiệp hợp tác xã góp hoặc cam kết góp trong một thời hạn nhất định và được ghi vào điều lệ hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật hợp tác xã;
+- 01 Bản sao - Vốn hoạt động của hợp tác xã, liên hiệp hợp tác xã gồm vốn góp của thành viên, hợp tác xã thành viên, vốn huy động, vốn tích lũy, các quỹ của hợp tác xã, liên hiệp hợp tác xã; các khoản trợ cấp, hỗ trợ của Nhà nước, của các tổ chức, cá nhân trong nước và nước ngoài; các khoản được tặng, cho và các nguồn thu hợp pháp khác theo quy định.
+- 01 Bản sao Trường hợp đề nghị thăm dò quặng phóng xạ, kèm theo hồ sơ còn có văn bản thẩm định an toàn của Cục an toàn bức xạ và hạt nhân thuộc Bộ Khoa học và Công nghệ.

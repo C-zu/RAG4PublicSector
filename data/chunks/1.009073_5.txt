@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp bản sao trích lục hộ tịch
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp xã
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của UBND cấp xã
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao trích lục hộ tịch
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2014/QH13|Luật 60/2014/QH13|20-11-2014||
+|123/2015/NĐ-CP|Nghị định 123/2015/NĐ-CP|15-11-2015||
+|04/2020/TT-BTP|Thông tư 04/2020/TT-BTP|28-05-2020||
+|281/2016/TT-BTC|Thông tư 281/2016/TT-BTC|14-11-2016||

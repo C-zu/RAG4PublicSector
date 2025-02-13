@@ -1,0 +1,14 @@
+Tên thủ tục: Công bố chuyển bến thủy nội địa thành cảng thủy nội địa trong trường hợp bến thủy nội địa có quy mô, thông số kỹ thuật phù hợp với cấp kỹ thuật cảng thủy nội địa
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Người quản lý khai thác bến thủy nội địa nộp hồ đến cơ quan có thẩm quyền sau:
+	- Bộ Giao thông vận tải: công bố chuyển bến thủy nội địa thành cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài;
+	 - Cục Đường thủy nội địa Việt Nam: công bố chuyển bến thủy nội địa thành cảng thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, cảng thủy nội địa có vùng nước, vùng đất vừa trên đường thủy nội địa quốc gia vừa trên đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa quốc gia, trừ trường hợp thuộc thẩm quyền của Bộ Giao thông vận tải và các trường hợp khác do Bộ Giao thông vận tải quyết định;
+	 - Sở Giao thông vận tải: công bố chuyển bến thủy nội địa thành cảng thủy nội địa  trên đường thủy nội địa địa phương, đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa địa phương, trừ trường hợp thuộc thẩm quyền của Bộ Giao thông vận tải và các trường hợp khác do Bộ Giao thông vận tải quyết định.
+b) Giải quyết TTHC:
+- Cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài: 
+	+ Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Giao thông vận tải; 
+	+ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa;
+- Cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam hoặc Sở Giao thông vận tải ban hành quyết định công bố hoạt động cảng thủy nội địa.

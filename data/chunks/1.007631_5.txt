@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (điều chỉnh)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hành nghề kiểm toán
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2011/QH12|Luật kiểm toán độc lập số 67/2011/QH12|29-03-2011|Quốc Hội|
+|17/2012/NĐ-CP|Nghị định số 17/2012/NĐ-CP|13-03-2012|Chính phủ|
+|202/2012/TT-BTC|- Thông tư 202/2012/TT-BTC của Bộ Tài chính Hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán.|19-11-2012|Bộ Tài chính|

@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục cấp mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp mã số nhân viên đại lý làm thủ tục hải quan theo mẫu số 07 ban hành kèm Thông tư: 01 bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac14e4c7f11170'">22_2019_TT_BTC_PL.doc</a>)
+- 01 Bản sao - Bằng tốt nghiệp đại học, cao đẳng thuộc các chuyên ngành luật, kinh tế, kỹ thuật: 01 bản chụp
+- 01 Bản sao - Chứng chỉ nghiệp vụ khai hải quan: 01 bản chụp;
+- 01 Bản sao - Giấy chứng nhận hoàn thành khóa đào tạo bổ sung kiến thức pháp luật hải quan (Trường hợp Chứng chỉ nghiệp vụ khai hải quan quá thời hạn 05 năm kể từ ngày cấp): 01 bản chụp;
+- 01 Bản sao - Chứng minh nhân dân/Căn cước công dân (Trường hợp cơ sở dữ liệu quốc gia về dân cư chưa đưa vào vận hành): 01 bản chụp;
+- 01 Bản chính - Một (01) ảnh màu 2x3 được chụp trong thời gian 06 tháng.
+ Các chứng từ bản chụp phải được người đại diện theo pháp luật của đại lý làm thủ tục hải quan ký tên, đóng dấu xác nhận hoặc do cơ quan có thẩm quyền công chứng hoặc chứng thực
+ Số lượng hồ sơ: 01 bộ

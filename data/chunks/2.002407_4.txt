@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục giải quyết khiếu nại lần đầu tại cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn khiếu nại hoặc bản ghi lời khiếu nại (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe908029efa3006'">Mẫu ban hành kèm theo Nghị định 124-2020.doc</a>)

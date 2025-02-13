@@ -1,0 +1,7 @@
+Tên thủ tục: Thông báo hủy bỏ nghị quyết, quyết định giải thể doanh nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||- Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ Hành chính công tỉnh - Số 02A - Nguyễn Chí Thanh - TP Hà Tĩnh - tỉnh Hà Tĩnh. - Nộp hồ sơ qua Bưu điện.|

@@ -1,0 +1,13 @@
+Tên thủ tục: Đăng ký sang tên, di chuyển xe tại Công an cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Giấy khai đăng ký xe (theo mẫu), (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2796bbff14a16'">Mẫu số 1 Giấy khai đăng ký xe.doc</a>)
+- 01 Bản chính b) Giấy tờ lệ phí trước bạ.
+- 01 Bản chính c) Giấy tờ chuyển quyền sở hữu xe.
+- 01 Bản chính d) Giấy chứng nhận đăng ký xe.
+- 01 Bản chính đ) Giấy chứng nhận thu hồi đăng ký, biển số xe (nếu có);
+- 01 Bản chính, 01 Bản sao e) Giấy tờ của chủ xe.
+ Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ, ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.

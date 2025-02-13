@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007906
+Số quyết định:
+272/QĐ-BTC
+Tên thủ tục:
+Thông báo kết quả hủy Biên lai
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp gửi Thông báo kết quả hủy Biên lai, Biên lai hủy cho Cục hải quan tỉnh, thành phố nơi Doanh nghiệp đăng ký tờ khai hải quan.
++ Bước 2: Cơ quan hải quan tiếp nhận Thông báo kết quả hủy Biên lai để quản lý và cập nhật trang thông tin điện tử của Tổng cục Hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|05 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Thời hạn gửi Thông báo kết quả hủy Biên lai đến Cục Hải quan tỉnh, thành phố chậm nhất là 5 ngày kể từ ngày thực hiện hủy Biên lai.|
+|Dịch vụ bưu chính|05 Ngày||- Nộp hồ sơ qua đường bưu điện và thư điện tử. - Thời hạn gửi Thông báo kết quả hủy Biên lai đến Cục Hải quan tỉnh, thành phố chậm nhất là 5 ngày kể từ ngày thực hiện hủy Biên lai.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Thông báo kết quả hủy Biên lai: 01 bản chính (Theo mẫu 04 ban hành kèm theo Thông tư số 178/2011/TT-BTC ngày 8/12/2011)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Cục Hải quan tỉnh, thành phố
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo số Biên lai bị hủy
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật 78/2006/QH11|29-11-2006|Quốc Hội|
+|29/2001/QH10|Luật|29-06-2001|Quốc Hội|
+|42/2005/QH11|Luật|14-06-2005|Quốc Hội|
+|51/2005/QH11|Luật 51/2005/QH11|29-11-2005|Quốc Hội|
+|38/2001/PL-UBTVQH10|Pháp lệnh 38/2001/PL-UBTVQH10|28-08-2001|Ủy ban thường vụ quốc hội|
+|03/2003/QH11|Luật 03/2003/QH11|17-06-2003|Quốc Hội|
+|118/2008/NĐ-CP|Nghị định 118/2008/NĐ-CP|27-11-2008|Chính phủ|
+|178/2011/TT-BTC|Thông tư 178/2011/TT-BTC|08-12-2011|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp chuyển phát nhanh đường hàng không quốc tế đang hoạt động kinh doanh.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

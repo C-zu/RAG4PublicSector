@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lần đầu chứng chỉ hành nghề khám bệnh, chữa bệnh đối với người Việt Nam thuộc thẩm quyền của Sở Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 430.000 Đồng Phí thẩm định|Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ,|
+|Trực tiếp|180 Ngày||180 ngày đối với trường hợp cần xác minh người được đào tạo ở nước ngoài hoặc có chứng chỉ hành nghề do nước ngoài cấp.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 430.000 Đồng Phí thẩm định|- Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ,|
+|Dịch vụ bưu chính|180 Ngày||- 180 ngày đối với trường hợp cần xác minh người được đào tạo ở nước ngoài hoặc có chứng chỉ hành nghề do nước ngoài cấp.|

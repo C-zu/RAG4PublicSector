@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận huấn luyện kỹ thuật an toàn vật liệu nổ công nghiệp thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Nộp trực tiếp tại Sở Công Thương đã cấp Giấy chứng nhận huấn luyện kỹ thuật an toàn|
+|Dịch vụ bưu chính|3 Ngày làm việc||Qua bưu điện|

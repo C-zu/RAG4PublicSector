@@ -1,0 +1,39 @@
+Tên thủ tục: Thẩm định hồ sơ thiết kế kỹ thuật (công trình thiết kế ba bước) hoặc hồ sơ thiết kế bản vẽ thi công (công trình thiết kế hai bước) chuyên ngành nông nghiệp và phát triển nông thôn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính 1. Tờ trình thẩm định thiết kế xây dựng và dự toán xây dựng công trình (theo Mẫu số 06 ban hành kèm theo Nghị định số 59/2015/NĐ-CP ngày 18 tháng 6 năm 2015 của Chính phủ về quản lý dự án đầu tư xây dựng); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6dac8209c03e4'">To trinh tham dinh thiet ke và du toan xay dung (Mau so 06).doc</a>)
+- 02 Bản chính 2. 01 bản chính Báo cáo tổng hợp của chủ đầu tư hoặc ủy quyền của chủ đầu tư có ký xác nhận và đóng dấu về các nội dung được quy định gồm:
+ - Xem xét sự phù hợp về thành phần, quy cách của hồ sơ thiết kế so với quy định của hợp đồng xây dựng và quy định của pháp luật, bao gồm: Thuyết minh thiết kế, các bản vẽ thiết kế, các tài liệu khảo sát xây dựng, quy trình bảo trì công trình và các hồ sơ khác theo quy định của pháp luật có liên quan;
+ - Đánh giá sự phù hợp của hồ sơ thiết kế so với nhiệm vụ thiết kế, thiết kế cơ sở, các yêu cầu của hợp đồng xây dựng, quy định của pháp luật có liên quan;
+ - Điều kiện năng lực của nhà thầu khảo sát, nhà thầu thiết kế xây dựng; kinh nghiệm của chủ nhiệm thiết kế, khảo sát và các chủ trì thiết kế kèm theo có xác nhận ký và đóng dấu của chủ đầu tư hoặc UQCĐT;
+- 02 Bản chính 3. Hồ sơ dự án đầu tư được phê duyệt (đối với thiết kế hai bước, thiết kế ba bước hoặc thiết kế khác triển khai sau thiết kế cơ sở)
+- 02 Bản chính - Quyết định phê duyệt dự án đầu tư xây dựng công trình (01 bản chính hoặc bản sao có dấu của chủ đầu tư hoặc UQCĐT).
+- 02 Bản chính - Ý kiến thẩm định thiết kế cơ sở của Cơ quan QLNN chuyên ngành.
+- 02 Bản chính - Thuyết minh dự án và hồ sơ thiết kế cơ sở được duyệt.
+- 02 Bản chính 4. Văn bản thẩm duyệt phòng cháy, chữa cháy, báo cáo đánh giá tác động môi trường (nếu có) (01 bản chính hoặc bản sao có dấu của chủ đầu tư hoặc ủy quyền của chủ đầu tư hoặc UQCĐT);
+- 02 Bản chính 5. Năng lực của tổ chức, tư vấn, cá nhân thực hiện khảo sát, thiết kế (01 bản chính hoặc bản sao có dấu của chủ đầu tư hoặc ủy quyền của chủ đầu tư).
+- 02 Bản chính 6. Kinh nghiệm của chủ nhiệm thiết kế, khảo sát và chủ trì thiết kế (01 bản chính hoặc bản sao có dấu của chủ đầu tư hoặc UQCĐT).
+- 02 Bản chính 7. Hợp đồng khảo sát, thiết kế xây dựng công trình (01 bản chính hoặc bản sao có dấu của chủ đầu tư hoặc UQCĐT).
+- 02 Bản chính 8. Hồ sơ khảo sát xây dựng tương ứng bước thiết kế bao gồm:
+- 02 Bản chính - Quyết định phê duyệt Nhiệm vụ khảo sát, Phương án kỹ thuật khảo sát xây dựng (01 bản chính hoặc bản sao có dấu của chủ đầu tư), đính kèm Tập Nhiệm vụ khảo sát, Phương án kỹ thuật khảo sát xây dựng do Tư vấn lập, đóng dấu.
+- 02 Bản chính - Báo cáo kết quả khảo sát tương ứng bước thiết kế (01 bản chính)
+- 02 Bản chính - Biên bản nghiệm thu kết quả khảo sát (01 bản chính).
+- 02 Bản chính - Văn bản chấp thuận nghiệm thu báo cáo kết quả khảo sát của chủ đầu tư (01 bản chính).
+- 02 Bản chính 9. Hồ sơ thiết kế - dự toán (02 bản chính) tuân thủ theo QCVN 04-02 : 2010/BNNPTNT gồm 04 tập:
+- 02 Bản chính - Tập 1: Thuyết minh - Phụ lục (Văn bản liên quan &Bảng tính), Thuyết minh phải nêu rõ:
+ Căn cứ để lập thiết kế:
+ + Dự án đầu tư xây dựng công trình đã được phê duyệt hoặc văn bản phê duyệt chủ trương đầu tư xây dựng công trình, bao gồm cả danh mục các quy chuẩn kỹ thuật, tiêu chuẩn áp dụng; hoặc nhiệm vụ thiết kế đã được phê duyệt đối với trường hợp thiết kế một bước.
+ + Tài liệu về điều kiện tự nhiên, khảo sát xây dựng phục vụ thiết kế;
+ + Hồ sơ đánh giá hiện trạng chất lượng công trình (đối với công trình sửa chữa, cải tạo). Thuyết minh thiết kế xây dựng: Giải pháp thiết kế kèm theo các số liệu kết quả tính toán dùng để thiết kế: Biện pháp gia cố hoặc xử lý nền - móng, thiết kế kết cấu chịu lực chính của công trình, an toàn phòng chống cháy nổ và thoát hiểm, hệ thống kỹ thuật công trình, công trình hạ tầng kỹ thuật, …;
+ - Tập 2: Các bản vẽ trong đó phải thể hiện:
+ + Mặt bằng hiện trạng và vị trí hướng tuyến công trình trên quy hoạch chi tiết đã được phê duyệt;
+ + Tổng mặt bằng (xác định vị trí xây dựng, diện tích xây dựng, chỉ giới xây dựng, cao độ xây dựng…);
+ + Thiết kế công trình: Các mặt bằng, mặt đứng, mặt cắt của các hạng mục và toàn bộ công trình; các bản vẽ thiết kế công nghệ, thiết kế biện pháp thi công có liên quan đến thiết kế xây dựng;
+ + Gia cố hoặc xử lý nền - móng, kết cấu chịu lực chính, hệ thống kỹ thuật công trình, công trình hạ tầng kỹ thuật…;
+ + Thiết kế chi tiết các liên kết chính, liên kết quan trọng của kết cấu chịu lực chính và các cấu tạo bắt buộc (cấu tạo để an toàn khi sử dụng - vận hành - khai thác, cấu tạo để kháng chấn, cấu tạo để chống ăn mòn, xâm thực);
+ + Thiết kế phòng chống cháy nổ, thoát hiểm đã được cơ quan cảnh sát phòng cháy chữa cháy thẩm duyệt (nếu có).
+- 02 Bản chính - Tập 3: Dự toán + File (CD).
+- 02 Bản chính - Tập 4: Chỉ dẫn kỹ thuật (đối với công trình từ cấp II trở lên); đối với công trình từ cấp III trở xuống thì nội dung này được nêu trong Thuyết minh.

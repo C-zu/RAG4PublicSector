@@ -1,0 +1,16 @@
+Tên thủ tục: Gia hạn Giấy phép thăm dò khoáng sản
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004481
+Số quyết định:
+2901/QĐ-BTNMT
+Tên thủ tục:
+Gia hạn Giấy phép thăm dò khoáng sản
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Địa chất và khoáng sản

@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục công nhận kho bãi, địa điểm trong khu vực cảng biển, cảng thủy nội địa, cảng hàng không quốc tế, ga đường sắt liên vận quốc tế đủ điều kiện tập kết, kiểm tra, giám sát hải quan
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Đối với các kho, bãi, địa điểm trong khu vực cảng biển, cảng thủy nội địa, cảng hàng không quốc tế, ga đường sắt liên vận quốc tế được Bộ Giao thông vận tải công bố trước khi Nghị định 67/2020/NĐ-CP ngày 15/6/2020  có hiệu lực không thực hiện thủ tục công nhận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu đủ điều kiện tập kết, kiểm tra, giám sát hải quan và chịu sự kiểm tra, giám sát, kiểm soát của cơ quan hải quan như sau:
++  Kho, bãi, địa điểm tập kết, lưu giữ hàng hóa trong khu vực cảng biển, cảng thủy nội địa thuộc quyết định công bố mở, thành lập cảng biển, cảng thủy nội địa, diện tích công nhận được xác định theo đề nghị công nhận của doanh nghiệp;
++ Kho, bãi, địa điểm tập kết, lưu giữ hàng hóa nằm trong quy hoạch cảng hàng không quốc tế Nội Bài và Tân Sơn Nhất phải có diện tích khu đất tối thiểu 1.000 m2. Đối với các cảng hàng không quốc tế còn lại và cảng hàng không nội địa được phép khai thác chuyến bay quốc tế, kho, bãi, địa điểm tập kết, lưu giữ hàng hóa xuất khẩu, nhập khẩu đáp ứng điều kiện kiểm tra, giám sát hải quan phải có diện tích khu đất tối thiểu 500 m2;
++  Kho, bãi, địa điểm tập kết, lưu giữ hàng hóa nằm trong khu vực ga đường sắt liên vận quốc tế phải có diện tích khu đất tối thiểu 1.000 m2.
++)  Địa điểm được ngăn cách với khu vực xung quanh bằng tường rào, đáp ứng yêu cầu kiểm tra, giám sát của cơ quan hải quan, trừ địa điểm nằm trong khu vực cửa khẩu, cảng đã có tường rào ngăn cách biệt lập với khu vực xung quanh;
++  Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, số lượng, tình trạng của hàng hóa, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ trong địa điểm chi tiết theo vận đơn và/hoặc tờ khai hải quan để quản lý theo Hệ thống quản lý, giám sát hàng hóa tự động;
++  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan quản lý. Hình ảnh quan sát được mọi vị trí của địa điểm vào tất cả các thời điểm trong ngày (24/24 giờ), dữ liệu về hình ảnh được lưu giữ tối thiểu trong 06 tháng;
+Đối với các kho, bãi, địa điểm trong khu vực cảng biển, cảng thủy nội địa, cảng hàng không quốc tế, ga đường sắt liên vận quốc tế được Bộ Giao thông vận tải công bố trước khi Nghị định 67/2020/NĐ-CP ngày 15/6/2020  có hiệu lực không thực hiện thủ tục công nhận địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu đủ điều kiện tập kết, kiểm tra, giám sát hải quan và chịu sự kiểm tra, giám sát, kiểm soát của cơ quan hải quan như sau:
++  Kho, bãi, địa điểm tập kết, lưu giữ hàng hóa trong khu vực cảng biển, cảng thủy nội địa thuộc quyết định công bố mở, thành lập cảng biển, cảng thủy nội địa, diện tích công nhận được xác định theo đề nghị công nhận của doanh nghiệp;
++ Kho, bãi, địa điểm tập kết, lưu giữ hàng hóa nằm trong quy hoạch cảng hàng không quốc tế Nội Bài và Tân Sơn Nhất phải có diện tích khu đất tối thiểu 1.000 m2. Đối với các cảng hàng không quốc tế còn lại và cảng hàng không nội địa được phép khai thác chuyến bay quốc tế, kho, bãi, địa điểm tập kết, lưu giữ hàng hóa xuất khẩu, nhập khẩu đáp ứng điều kiện kiểm tra, giám sát hải quan phải có diện tích khu đất tối thiểu 500 m2;
++  Kho, bãi, địa điểm tập kết, lưu giữ hàng hóa nằm trong khu vực ga đường sắt liên vận quốc tế phải có diện tích khu đất tối thiểu 1.000 m2.
++)  Địa điểm được ngăn cách với khu vực xung quanh bằng tường rào, đáp ứng yêu cầu kiểm tra, giám sát của cơ quan hải quan, trừ địa điểm nằm trong khu vực cửa khẩu, cảng đã có tường rào ngăn cách biệt lập với khu vực xung quanh;
++  Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, số lượng, tình trạng của hàng hóa, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ trong địa điểm chi tiết theo vận đơn và/hoặc tờ khai hải quan để quản lý theo Hệ thống quản lý, giám sát hàng hóa tự động;
++  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan quản lý. Hình ảnh quan sát được mọi vị trí của địa điểm vào tất cả các thời điểm trong ngày (24/24 giờ), dữ liệu về hình ảnh được lưu giữ tối thiểu trong 06 tháng;
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

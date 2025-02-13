@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá kinh doanh theo phương thức chuyển khẩu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Hàng hoá kinh doanh chuyển khẩu được vận chuyển từ nước xuất khẩu đến nước nhập khẩu, có đưa vào khu vực kho bãi thuộc các cảng biển Việt Nam (không đưa vào kho ngoại quan, không đưa vào khu vực trung chuyển hàng hoá), thủ tục kiểm tra, giám sát hải quan thực hiện như sau:
+- Bước 1: Nộp cho Chi cục Hải quan nơi có hàng hóa nhập khẩu chuyển khẩu 01 bộ hồ sơ.
+- Bước 2: Chi cục Hải quan cửa khẩu thực hiện:
++ Tiếp nhận, kiểm tra bộ hồ sơ lô hàng nhập khẩu chuyển khẩu; 
++ Xác nhận nhập khẩu và ký tên, đóng dấu công chức trên công văn đề nghị của doanh nghiệp;
++ Giám sát và theo dõi lô hàng chuyển khẩu cho đến khi xuất ra khỏi Việt Nam;
++ Sau khi hàng hóa xếp lên phương tiện, công chức hải quan giám sát tại cửa khẩu xác nhận hàng đã qua khu vực giám sát trên văn bản đề nghị chuyển khẩu hàng hóa;
++ Trường hợp hàng hóa chuyển khẩu xuất qua cửa khẩu khác với cửa khẩu nhập nhưng cùng trong hệ thống khu vực cảng biển thuộc địa bàn giám sát của Cục Hải quan thì sau khi hàng hóa đưa vào khu vực giám sát hải quan tại cửa khẩu xuất, công chức hải quan giám sát xác nhận hàng đã qua khu vực giám sát trên văn bản đề nghị chuyển khẩu hàng hóa; việc giám sát hàng hóa đưa ra, đưa vào khu vực giám sát hải quan tại cửa khẩu thực hiện theo quy định tại Điều 52 Thông tư này; 
++ Trong quá trình kiểm tra, giám sát nếu phát hiện lô hàng chuyển khẩu có dấu hiệu vi phạm thì Chi cục trưởng Chi cục Hải quan cửa khẩu quyết định kiểm tra thực tế và xử lý theo quy định.

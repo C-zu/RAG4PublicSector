@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (cấp lại)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đối với trường hợp bị mất hoặc bị hư hỏng, bao gồm:
+- 01 Bản chính a) Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục VII). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd5681d535694e'">Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc</a>)
+- 01 Bản chính b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã được cấp, trừ trường hợp bị mất.
+- 01 Bản chính c) Tài liệu có liên quan khác.
+ 2/ Số lượng hồ sơ: 01 (bộ)

@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục chỉ định tổ chức thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị chỉ định thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường lập 01 bộ hồ sơ theo quy định đến Tổng cục Tiêu chuẩn Đo lường Chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định:
+- Nếu hồ sơ chưa đầy đủ, hợp lệ: Trong thời hạn mười (10) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị những nội dung cần bổ sung, hoàn chỉnh.
+- Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn ba mươi (30) ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Tổng cục ra quyết định thành lập đoàn đánh giá tại cơ sở và tiến hành đánh giá theo quy định.
+Bước 3: Trong thời hạn ba mươi (30) ngày làm việc kể từ ngày ký quyết định thành lập đoàn đánh giá, trưởng đoàn đánh giá phải nộp hồ sơ kết quả đánh giá về Tổng cục.
+Trường hợp tổ chức đề nghị có những điểm không phù hợp nhưng có thể khắc phục được thì đoàn đánh giá liệt kê các điểm không phù hợp, đề xuất thời hạn khắc phục và thông báo kết quả đánh giá cho tổ chức đề nghị. Tổ chức đề nghị tiến hành khắc phục các điểm không phù hợp và gửi báo cáo cho đoàn đánh giá. Đoàn đánh giá tiến hành thẩm định báo cáo khắc phục, trường hợp cần thiết đoàn đánh giá tiến hành đánh giá lại tại cơ sở. Trong trường hợp này, thời hạn khắc phục và thời gian đánh giá lại được cộng thêm vào thời hạn đánh giá.
+Bước 4: Tổng cục xem xét kết quả đánh giá: Trong thời hạn mười (10) ngày kể từ ngày nhận được hồ sơ kết quả đánh giá tại cơ sở
+- Nếu kết quả đánh giá tại cơ sở đạt yêu cầu, Tổng cục ra quyết định chỉ định hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường.
+- Nếu kết quả đánh giá tại cơ sở không đạt yêu cầu, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị và nêu rõ lý do.

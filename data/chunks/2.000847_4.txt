@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng bị mất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai cấp lại Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa8ecefade8d380'">Mau 5.1.doc</a>)
+- 01 Bản chính Bản thông báo công khai trên phương tiện thông tin đại chúng tại địa phương đăng ký theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed3205af2733fd'">Mau 5.2.doc</a>)

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục chấm dứt hoạt động của dự án đầu tư đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản thông báo chấm dứt hoạt động của dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc84279e97a20c0'">Mẫu A.I.15.docx</a>)
+- 01 Bản chính - Giấy chứng nhận đăng ký đầu tư (nếu có).
+- 01 Bản chính - Tài liệu ghi nhận việc chấm dứt hoạt động của dự án đầu tư.

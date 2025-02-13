@@ -1,0 +1,111 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002645
+Số quyết định:
+1671/QĐ-BGTVT
+Tên thủ tục:
+Đăng ký tàu biển tạm thời
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+- Tổ chức, cá nhân gửi hồ sơ đăng ký tàu biển(hoặc tàu công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động) tạm thời đến Cơ quan đăng ký tàu biển.
+- Cơ quan đăng ký tàu biển gồm:
+	+ Cục Hàng hải Việt Nam thực hiện chức năng của cơ quan đăng ký tàu biển Việt Nam.
+	+ Các Chi cục hàng hải, Cảng vụ hàng hải thực hiện nhiệm vụ đăng ký tàu biển theo phân cấp của Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC
+Cơ quan đăng ký tàu biển tiếp nhận hồ sơ,thực hiện theo quy trình sau:
+- Trường hợp nộp hồ sơ trực tiếp, nếu hồ sơ chưa hợp lệ thì hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện hồ sơ; nếu hồ sơ hợp lệ thì vào sổ theo dõi, cấp giấy biên nhận hồ sơ và hẹn trả kết quả đúng thời gian quy định;
+- Trường hợp nhận hồ sơ qua đường bưu chính, nếu hồ sơ không hợp lệ, chậm nhất 02 ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan đăng ký tàu biển hướng dẫn hoàn thiện hồ sơ theo quy định;
+-Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đăng ký tàu biển cấp giấy chứng nhận đăng ký tàu biển và trả trực tiếp hoặc gửi qua hệ thống bưu chính; trường hợp không cấp giấy chứng nhận phải trả lời bằng văn bản nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : 30% của mức thu đăng ký không thời hạn Mức thu đăng ký không thời hạn: + Đối với tàu có tổng dung tích đăng ký dưới 500 GT là 3.000 đồng/GT-lần (mức thu tối thiểu không dưới 300.000 đồng); + Đối với tàu có dung tích đăng ký từ 500 đến dưới 1.600 GT là 2.500 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 1.600 đến dưới 3.000 GT là 2.000 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 3.000 GT trở lên là 1.500 đồng/GT lần. - Chủ tàu nộp lệ phí đăng ký tàu biển trực tiếp hoặc chuyển vào tài khoản của cơ quan đăng ký tàu biển trước khi nhận kết quả; chịu toàn bộ chi phí gửi hồ sơ, văn bản và các chi phí liên quan đến chuyển khoản.|Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|2 Ngày làm việc|Lệ phí : 30% của mức thu đăng ký không thời hạn Đồng Mức thu đăng ký không thời hạn: + Đối với tàu có tổng dung tích đăng ký dưới 500 GT là 3.000 đồng/GT-lần (mức thu tối thiểu không dưới 300.000 đồng); + Đối với tàu có dung tích đăng ký từ 500 đến dưới 1.600 GT là 2.500 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 1.600 đến dưới 3.000 GT là 2.000 đồng/GT-lần; + Đối với tàu có dung tích đăng ký từ 3.000 GT trở lên là 1.500 đồng/GT lần. - Chủ tàu nộp lệ phí đăng ký tàu biển trực tiếp hoặc chuyển vào tài khoản của cơ quan đăng ký tàu biển trước khi nhận kết quả; chịu toàn bộ chi phí gửi hồ sơ, văn bản và các chi phí liên quan đến chuyển khoản.|Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Trường hợp chưa có giấy chứng nhận xóa đăng ký tàu biển, hồ sơ đăng ký bao gồm:
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu ([08.1TK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'))
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển, Giấy chứng nhận phân cấp tàu biển hiện có của tàu (bản sao)
+
+
+Trường hợp chưa nộp phí, lệ phí, hồ sơ đăng ký bao gồm
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu ([08.1TK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'))
+- 01 Bản chính Giấy chứng nhận xóa đăng ký tàu biển hoặc Giấy chứng nhận xóa đăng ký phương tiện thủy nội địa đối với phương tiện thủy nội địa cấp VR-SB (bản chính) đã qua sử dụng hoặc biên bản nghiệm thu bàn giao tàu đối với tàu biển được đóng mới (bản chính) ([GCN xóa ĐK.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee830e34fd4dc9'))
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài)
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển, Giấy chứng nhận phân cấp tàu biển hiện có của tàu (bản sao).
+
+
+Trường hợp nhận tàu đóng mới để đưa về nơi đăng ký trên cơ sở hợp đồng đóng tàu, hồ sơ đăng ký bao gồm
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu ([08.1TK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'))
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận phân cấp tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu ([08.1TK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'))
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận phân cấp tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+
+
+Trường hợp thử tàu đóng mới, hồ sơ đăng ký bao gồm:
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu ([08.1TK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'))
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+- 01 Bản chính Bản số liệu dung tích của tàu.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam, Cảng vụ hàng hải, Chi cục Hàng hải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cơ quan đăng ký tàu biển
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký tạm thời tàu biển Việt Nam.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|189/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải|08-11-2016|Bộ Tài chính|
+|171/2016/NĐ-CP|Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển|27-12-2016|Chính phủ|
+|86/2020/NĐ-CP|Nghị định 86/2020/NĐ-CP|23-07-2020||
+
+Yêu cầu, điều kiện thực hiện:
+a) Tuổi của tàu biển, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động mang cờ quốc tịch nước ngoài đã qua sử dụng đăng ký lần đầu tại Việt Nam được thực hiện theo quy định sau:
+- Tàu khách, tàu ngầm, tàu lặn: Không quá 10 năm;
+- Các loại tàu biển khác, kho chứa nổi, giàn di động: Không quá 15 năm;
+-Trường hợp đặc biệt do Bộ trưởng Bộ Giao thông vận tải quyết định nhưng không quá 20 năm và chỉ áp dụng đối với các loại tàu: Chở hóa chất, chở khí hóa lỏng, chở dầu hoặc kho chứa nổi.
+b) Giới hạn về tuổi tàu biển quy định mục a không áp dụng đối với tàu biển mang cờ quốc tịch nước ngoài, thuộc sở hữu của tổ chức, cá nhân nước ngoài được bán đấu giá tại Việt Nam theo quyết định cưỡng chế của cơ quan có thẩm quyền;
+c) Giới hạn về tuổi tàu biển quy định tại mục a không áp dụng trong trường hợp tàu biển mang cờ quốc tịch Việt Nam và thuộc sở hữu của tổ chức, cá nhân Việt Nam đã xóa đăng ký quốc tịch Việt Nam để đăng ký mang cờ quốc tịch nước ngoài theo hình thức cho thuê tàu trần;
+d) Tàu biển mang cờ quốc tịch nước ngoài do tổ chức, cá nhân Việt Nam mua theo phương thức vay mua hoặc thuê mua thì sau thời hạn đăng ký mang cờ quốc tịch nước ngoài được đăng ký mang cờ quốc tịch Việt Nam nếu tại thời điểm ký kết hợp đồng vay mua, thuê mua có tuổi tàu phù hợp với quy định tại mục a.
+a) Tuổi của tàu biển, tàu ngầm, tàu lặn, kho chứa nổi, giàn di động mang cờ quốc tịch nước ngoài đã qua sử dụng đăng ký lần đầu tại Việt Nam được thực hiện theo quy định sau:
+- Tàu khách, tàu ngầm, tàu lặn: Không quá 10 năm;
+- Các loại tàu biển khác, kho chứa nổi, giàn di động: Không quá 15 năm;
+-Trường hợp đặc biệt do Bộ trưởng Bộ Giao thông vận tải quyết định nhưng không quá 20 năm và chỉ áp dụng đối với các loại tàu: Chở hóa chất, chở khí hóa lỏng, chở dầu hoặc kho chứa nổi.
+b) Giới hạn về tuổi tàu biển quy định mục a không áp dụng đối với tàu biển mang cờ quốc tịch nước ngoài, thuộc sở hữu của tổ chức, cá nhân nước ngoài được bán đấu giá tại Việt Nam theo quyết định cưỡng chế của cơ quan có thẩm quyền;
+c) Giới hạn về tuổi tàu biển quy định tại mục a không áp dụng trong trường hợp tàu biển mang cờ quốc tịch Việt Nam và thuộc sở hữu của tổ chức, cá nhân Việt Nam đã xóa đăng ký quốc tịch Việt Nam để đăng ký mang cờ quốc tịch nước ngoài theo hình thức cho thuê tàu trần;
+d) Tàu biển mang cờ quốc tịch nước ngoài do tổ chức, cá nhân Việt Nam mua theo phương thức vay mua hoặc thuê mua thì sau thời hạn đăng ký mang cờ quốc tịch nước ngoài được đăng ký mang cờ quốc tịch Việt Nam nếu tại thời điểm ký kết hợp đồng vay mua, thuê mua có tuổi tàu phù hợp với quy định tại mục a.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

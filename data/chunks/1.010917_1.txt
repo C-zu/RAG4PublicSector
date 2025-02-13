@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đăng ký, biển số xe mô tô, xe gắn máy (kể cả xe máy điện) tại Công an cấp xã được phân cấp đăng ký xe
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010917
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Cấp lại giấy chứng nhận đăng ký, biển số xe mô tô, xe gắn máy (kể cả xe máy điện) tại Công an cấp xã được phân cấp đăng ký xe
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ

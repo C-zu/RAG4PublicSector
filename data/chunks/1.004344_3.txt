@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp văn bản chấp thuận đóng mới, cải hoán, thuê, mua tàu cá trên biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ||03 ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ||03 ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ||03 ngày làm việc, kể từ ngày nhận đủ hồ sơ|

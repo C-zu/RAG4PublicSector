@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp chia, tách, sáp nhập dự án đầu tư đối với dự án thuộc thẩm quyền chấp thuận của UBND cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe30f431b6c3b3d'">Mẫu A.I.11.d.docx</a>)
+- 01 Bản chính, 03 Bản sao - Báo cáo tình hình thực hiện dự án đầu tư đến thời điểm chia, tách, sáp nhập dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa3909875814080'">Mẫu A.I.12.docx</a>)
+- 01 Bản chính, 03 Bản sao - Quyết định của nhà đầu tư về việc chia, tách, sáp nhập dự án đầu tư hoặc tài liệu khác có giá trị pháp lý tương đương;
+- 01 Bản chính, 03 Bản sao - Tài liệu về tư cách pháp lý của nhà đầu tư;
+- 04 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư hoặc Quyết định chấp thuận chủ trương đầu tư (nếu có);
+- 04 Bản sao - Bản sao Quyết định chấp thuận nhà đầu tư (nếu có);
+- 04 Bản sao - Giải trình hoặc cung cấp tài liệu liên quan đến việc điều chỉnh những nội dung quy định tại các điểm b, c, d, đ, e, g và h khoản 1 Điều 33 của Luật Đầu tư (nếu có);

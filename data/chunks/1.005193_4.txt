@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục sửa chữa, bổ sung, điều chỉnh thông tin về đăng ký quốc tịch tàu bay, đăng ký các quyền đối với tàu bay và đăng ký văn bản IDERA
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai theo Mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe25f8048bf345d'">Mau 14.14.docx</a>)
+- 01 Bản sao - Bản sao từ sổ gốc hoặc bản sao có chứng thực từ bản chính hoặc bản sao chụp từ bản chính hoặc bản sao xuất trình bản chính để đối chiếu hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ chứng minh tư cách pháp lý của người đề nghị trong trường hợp người đề nghị là tổ chức, cá nhân Việt Nam. Trường hợp giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị do cơ quan nước ngoài có thẩm quyền cấp thì các giấy tờ, tài liệu này phải được hợp pháp hóa lãnh sự theo quy định của pháp luật, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại;
+- 01 Bản sao - Bản sao kèm bản chính để đối chiếu hoặc bản sao do chính cơ quan, tổ chức, hoặc cá nhân đã lập bản chính xác thực hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính tài liệu chứng minh về các thông tin cần sửa chữa, bổ sung hoặc điều chỉnh.

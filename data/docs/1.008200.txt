@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008200
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại giấy xác nhận đăng ký hoạt động phát hành xuất bản phẩm (cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Chậm nhất 10 ngày, kể từ ngày có một trong các thay đổi: Di chuyển trụ sở chính hoặc chi nhánh sang tỉnh, thành phố khác trực thuộc Trung ương; Thành lập hoặc giải thể chi nhánh trong cùng một tỉnh, thành phố trực thuộc Trung ương nơi đặt trụ sở chính; Thành lập hoặc giải thể chi nhánh tại tỉnh, thành phố trực thuộc Trung ương nơi không đặt trụ sở chính; Giấy xác nhận đăng ký hoạt động phát hành xuất bản phẩm bị mất, bị hư hỏng, cơ sở phát hành xuất bản phẩm là doanh nghiệp, đơn vị sự nghiệp công lập (sau đây gọi tắt là cơ sở phát hành) có trụ sở chính và chi nhánh tại hai tỉnh, thành phố trực thuộc trung ương trở lên phải đăng ký lại hoạt động phát hành xuất bản phẩm với Cục Xuất bản, In và Phát hành.
+- Khi có một hoặc nhiều thay đổi quy định như trên, cơ sở phát hành xuất bản phẩm phải gửi văn bản thông báo đến Cục Xuất bản, In và Phát hành; trường hợp cơ sở phát hành xuất bản phẩm có văn bản đề nghị cấp lại giấy xác nhận đăng ký hoạt động phát hành xuất bản phẩm, Cục Xuất bản, In và Phát hành tiếp nhận hồ sơ và giải quyết theo quy định tại Khoản 2, Khoản 3 và Khoản 4 Điều 17 Thông tư số 01/2020/TT-BTTTT được sửa đổi, bổ sung bởi Thông tư số 23/2023/TT-BTTTT.
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Xuất bản, In và Phát hành phải cấp giấy xác nhận đăng ký hoạt động phát hành xuất bản phẩm; trường hợp không cấp giấy xác nhận đăng ký hoạt động xuất bản phẩm phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua dịch vụ bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, phường Cửa Đông, quận Hoàn Kiếm, Hà Nội);|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn).|
+
+Thành phần hồ sơ:
+
+Trường hợp nộp hồ sơ qua dịch vụ công trực tuyến, thành phần hồ sơ quy định tại mục a,b,c là bản sao chứng thực điện tử.
+- 01 Bản chính Đơn đề nghị đăng ký/đăng ký lại hoạt động phát hành xuất bản phẩm theo Mẫu số 35;.. ([Mẫu số 35- Đơn ĐNĐK Đk lại HĐPH.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbf72e88ede7138'))
+- 01 Bản sao Bản sao giấy tờ sở hữu trụ sở hoặc hợp đồng thuê, mượn trụ sở để làm địa điểm kinh doanh (a);...
+- 01 Bản sao Bản sao giấy tờ chứng minh được phép thường trú tại Việt Nam do cơ quan có thẩm quyền của Việt Nam cấp cho người đứng đầu cơ sở phát hành có quốc tịch nước ngoài (b);..
+- 01 Bản sao Bản sao văn bằng hoặc chứng chỉ bồi dưỡng kiến thức, nghiệp vụ về phát hành xuất bản phẩm của người đứng đầu cơ sở phát hành do cơ sở đào tạo, bồi dưỡng chuyên ngành phát hành xuất bản phẩm cấp (c)..;
+ Trừ trường hợp khi đã hoàn thành việc liên thông cơ sở dữ liệu chuyên ngành giữa các bộ, ngành, địa phương, cơ sở phát hành xuất bản phẩm không phải nộp thành phần hồ sơ quy định tại mục a,b,c);..
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền:
+Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS:
+Cục Xuât bản, In và Phát hành. Số 10 Đường Thành, Cửa Đông, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đăng ký lại hoạt động phát hành xuất bản phẩm.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật 19/2012/QH13|20-11-2012||
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|195/2013/NĐ-CP|Nghị định 195/2013/NĐ-CP|21-11-2013||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

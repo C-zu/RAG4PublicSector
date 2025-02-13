@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp giấy chứng nhận đủ điều kiện kỹ thuật đối với thiết bị, phương tiện chuyên ngành hàng không được sản xuất, lắp ráp, cải tiến tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp giấy chứng nhận đủ điều kiện kỹ thuật đối với thiết bị, phương tiện chuyên ngành hàng không, trong đó mô tả sản phẩm và các chỉ tiêu, thông số, giới hạn, tính năng kỹ thuật chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc66834b9580c4'">1.002845 _chứng nhận kỹ thuật.docx</a>)
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Tiêu chuẩn, quy chuẩn kỹ thuật được áp dụng;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Các tài liệu liên quan: thiết kế kỹ thuật và chi tiết; vật liệu; phương pháp và quy trình sản xuất; hướng dẫn lắp đặt, khai thác, bảo dưỡng; lắp ráp của sản phẩm; chỉ tiêu, thông số, giới hạn, tính năng kỹ thuật chính;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Biên bản nghiệm thu bàn giao hoặc nghiệm thu hoàn thành đưa vào khai thác sử dụng;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Biên bản kiểm tra, thử nghiệm, đánh giá sản phẩm theo tiêu chuẩn kỹ thuật áp dụng do cơ sở kiểm tra, thử nghiệm đủ điều kiện theo quy định của pháp luật thực hiện;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Báo cáo kết quả khai thác thử theo các chỉ tiêu, thông số, giới hạn, tính năng kỹ thuật của sản phẩm.

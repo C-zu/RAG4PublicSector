@@ -1,0 +1,16 @@
+Tên thủ tục: Khai quyết toán thuế TNDN đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên (trừ Lô 09.1)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008328
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai quyết toán thuế TNDN đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên (trừ Lô 09.1)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế

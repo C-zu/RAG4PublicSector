@@ -1,0 +1,23 @@
+Tên thủ tục: Công bố lại đưa bến xe khách vào khai thác
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Giao thông vận tải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2008/QH12|Giao thông đường bộ|13-11-2008|Quốc Hội|
+|73/2015/TT-BGTVT|Ban hành Quy chuẩn kỹ thuật quốc gia về Bến xe khách sửa đổi lần 1 năm 2015|01-11-2015|Bộ Giao thông vận tải|
+|49/2012/TT-BGTVT|Ban hành quy chuẩn kỹ thuật quốc gia về bến xe khách|12-12-2012|Bộ Giao thông vận tải|

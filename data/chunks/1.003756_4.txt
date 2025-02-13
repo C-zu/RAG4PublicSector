@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc có chứa dược chất chưa có giấy đăng ký lưu hành thuốc tại Việt Nam, thuốc có chứa dược liệu lần đầu sử dụng tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính a) 03 (ba) bản chính Đơn hàng nhập khẩu theo: - Mẫu số 15 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với vắc xin, sinh phẩm, thuốc hóa dược; - Mẫu số 16 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất; - Mẫu số 17 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc dược liệu, thuốc cổ truyền; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6de359af5f3d2'">ND 54_Mau 17_Phuluc III.docx</a>)
+- 01 Bản chính, 01 Bản sao b) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận sản phẩm dược;
+- 01 Bản sao c) Bản sao tiêu chuẩn chất lượng và phương pháp kiểm nghiệm thuốc của cơ sở sản xuất có đóng dấu của cơ sở nhập khẩu;
+- 01 Bản chính d) Bản chính 01 bộ mẫu nhãn và tờ hướng dẫn sử dụng của thuốc ở nước sản xuất hoặc nước xuất khẩu, trừ trường hợp mẫu nhãn và tờ hướng dẫn sử dụng hoặc tờ tóm tắt đặc tính sản phẩm được đính kèm Giấy chứng nhận sản phẩm dược;
+- 02 Bản chính đ) 02 (hai) bộ mẫu nhãn dự kiến lưu hành tại Việt Nam kèm tờ hướng dẫn sử dụng tiếng Việt có đóng dấu của cơ sở nhập khẩu;
+- 01 Bản chính e) Dữ liệu lâm sàng về an toàn, hiệu quả theo quy định về đăng ký thuốc của Bộ trưởng Bộ Y tế. Miễn nộp tài liệu tại điểm này trong trường hợp thuốc đã từng được cấp phép nhập khẩu theo quy định tại Điều này và không có thay đổi thông tin liên quan đến chỉ định, liều dùng, đối tượng sử dụng. Miễn nộp tài liệu tại điểm này trong trường hợp thuốc đã từng được cấp phép nhập khẩu theo quy định tại Điều này và không có thay đổi thông tin liên quan đến chỉ định, liều dùng, đối tượng sử dụng;
+- 01 Bản chính g) Báo cáo kết quả kinh doanh thuốc trong trường hợp thuốc nhập khẩu là thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất, theo Mẫu số 18 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febdb798128a1e3'">ND 54_Mau 18_Phuluc III.docx</a>)
+- 01 Bản chính, 01 Bản sao h) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận Thực hành tốt sản xuất của tất cả các cơ sở tham gia sản xuất thuốc nhập khẩu trong trường hợp thuốc được sản xuất bởi nhiều cơ sở. Miễn nộp tài liệu tại điểm này đối với trường hợp cơ sở sản xuất đã được xác nhận đạt nguyên tắc, tiêu chuẩn thực hành tốt sản xuất trên Giấy chứng nhận sản phẩm dược;
+- 01 Bản chính Giấy tờ trong hồ sơ đề nghị cấp phép nhập khẩu thuốc: theo quy định tại Điều 76 Nghị định số 54/2017/NĐ-CP và các khoản 40, 41, 42 Điều 4; khoản 42 Điều 5 Nghị định số 155/2018/NĐ-CP.

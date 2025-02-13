@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục ngừng hoạt động của dự án đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản thông báo ngừng hoạt động của dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfeade44ceea0a'">Mẫu A.I.13.docx</a>)

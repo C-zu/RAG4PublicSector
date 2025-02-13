@@ -1,0 +1,26 @@
+Tên thủ tục: Thông báo thay đổi cổ đông là nhà đầu tư nước ngoài trong công ty cổ phần chưa niêm yết
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp
+
+
+Bao gồm
+- 01 Bản chính Thông báo thay đổi nội dung đăng ký doanh nghiệp do người đại diện theo pháp luật của doanh nghiệp ký (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3d4b8fc3345db'">Phụ lục II-1.docx</a>)
+- 01 Bản chính Danh sách cổ đông là nhà đầu tư nước ngoài sau khi đã thay đổi. Danh sách cổ đông là nhà đầu tư nước ngoài phải bao gồm chữ ký của cổ đông có giá trị cổ phần thay đổi, không bắt buộc phải có chữ ký của cổ đông có giá trị cổ phần không thay đổi (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc1739eeb248c70'">Phụ lục I-8.docx</a>)
+- 01 Bản chính Hợp đồng chuyển nhượng cổ phần hoặc các giấy tờ chứng minh việc hoàn tất chuyển nhượng
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân trong trường hợp người nhận chuyển nhượng là cá nhân; bản sao giấy tờ pháp lý của tổ chức, bản sao giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp người nhận chuyển nhượng là tổ chức. Đối với cổ đông là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f90b12053fcebc0'">Phụ lục I-10.docx</a>)
+- 01 Bản chính Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư

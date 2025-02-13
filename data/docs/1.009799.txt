@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009799
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Chấp thuận đăng ký niêm yết, giao dịch chứng khoán tại Sở giao dịch chứng khoán nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
++ Bước 1: Tổ chức phát hành Việt Nam nộp hồ sơ xin chấp thuận niêm yết, giao dịch chứng khoán tại Sở giao dịch chứng khoán nước ngoài;
++ Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh mục hồ sơ theo quy định.
++ Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, trong thời hạn 07 (bẩy) ngày làm việc, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu tổ chức phát hành Việt Nam bổ sung hoặc giải trình;
++ Bước 4: Trong thời hạn 30 (ba mươi) ngày làm việc kể khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước gửi công văn chấp thuận cho tổ chức phát hành Việt Nam làm thủ tục đăng ký niêm yết, giao dịch trên Sở giao dịch chứng khoán nước ngoài. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|30 Ngày||Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1) Giấy đề nghị đăng ký niêm yết, giao dịch tại Sở giao dịch chứng khoán nước ngoài. 2) Bản sao hồ sơ đăng ký niêm yết, giao dịch tại Sở giao dịch chứng khoán nước ngoài; 3) Quyết định của Đại hội đồng cổ đông về việc niêm yết, giao dịch chứng khoán tại SGDCK nước ngoài (đối với công ty cổ phần), của Hội đồng thành viên (đối với công ty trách nhiệm hữu hạn từ hai thành viên trở lên) hoặc chủ sở hữu công ty (đối với công ty trách nhiệm hữu hạn một thành viên). 4) Văn bản chấp thuận của cơ quan quản lý nhà nước chuyên ngành đối với tổ chức kinh doanh có điều kiện. 5) Tài liệu xác định tỷ lệ sở hữu nước ngoài của doanh nghiệp. 6) Văn bản cam kết của tổ chức phát hành về việc tuân thủ các quy định về quản lý ngoại hối của Việt Nam.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận 1 cửa Ủy ban Chứng khoán Nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Công văn chấp thuận; hoặc Công văn từ chối và nêu rõ lý do
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+1. Không thuộc danh mục ngành nghề mà pháp luật cấm bên nước ngoài tham gia và phải đảm bảo tỷ lệ sở hữu nước ngoài theo quy định của pháp luật.
+	2. Tổ chức phát hành niêm yết, giao dịch chứng khoán tại Sở giao dịch chứng khoán nước ngoài phải gắn với chào bán chứng khoán ra nước ngoài.
+	3. Có quyết định thông qua việc niêm yết, giao dịch chứng khoán tại Sở giao dịch chứng khoán nước ngoài của Đại hội đồng cổ đông (đối với công ty cổ phần), của Hội đồng thành viên (đối với công ty trách nhiệm hữu hạn từ hai thành viên trở lên) hoặc Chủ sở hữu công ty (đối với công ty trách nhiệm hữu hạn một thành viên).
+	4. Đáp ứng các điều kiện niêm yết, giao dịch tại Sở giao dịch chứng khoán của nước mà cơ quan quản lý thị trường chứng khoán hoặc Sở giao dịch chứng khoán đã có thỏa thuận hợp tác với Ủy ban Chứng khoán Nhà nước hoặc Sở giao dịch chứng khoán của Việt Nam.
+	5. Tuân thủ các quy định về quản lý ngoại hối của Việt Nam.
+	6. Tổ chức phát hành là tổ chức kinh doanh có điều kiện phải được sự chấp thuận của cơ quan quản lý nhà nước chuyên ngành.
+1. Không thuộc danh mục ngành nghề mà pháp luật cấm bên nước ngoài tham gia và phải đảm bảo tỷ lệ sở hữu nước ngoài theo quy định của pháp luật.
+	2. Tổ chức phát hành niêm yết, giao dịch chứng khoán tại Sở giao dịch chứng khoán nước ngoài phải gắn với chào bán chứng khoán ra nước ngoài.
+	3. Có quyết định thông qua việc niêm yết, giao dịch chứng khoán tại Sở giao dịch chứng khoán nước ngoài của Đại hội đồng cổ đông (đối với công ty cổ phần), của Hội đồng thành viên (đối với công ty trách nhiệm hữu hạn từ hai thành viên trở lên) hoặc Chủ sở hữu công ty (đối với công ty trách nhiệm hữu hạn một thành viên).
+	4. Đáp ứng các điều kiện niêm yết, giao dịch tại Sở giao dịch chứng khoán của nước mà cơ quan quản lý thị trường chứng khoán hoặc Sở giao dịch chứng khoán đã có thỏa thuận hợp tác với Ủy ban Chứng khoán Nhà nước hoặc Sở giao dịch chứng khoán của Việt Nam.
+	5. Tuân thủ các quy định về quản lý ngoại hối của Việt Nam.
+	6. Tổ chức phát hành là tổ chức kinh doanh có điều kiện phải được sự chấp thuận của cơ quan quản lý nhà nước chuyên ngành.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

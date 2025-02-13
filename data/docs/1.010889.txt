@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010889
+Số quyết định:
+1603/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy xác nhận đủ điều kiện tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với doanh nghiệp đã được cấp phép kinh doanh dịch vụ viễn thông
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+- Trong thời hạn 30 ngày kể từ ngày Bộ Thông tin và Truyền thông thông báo công khai phương án tổ chức đấu giá, tổ chức tham gia đấu giá phải gửi 01 bộ hồ sơ đề nghị cấp Giấy xác nhận đủ điều kiện tham gia đấu giá quyền sử dụng tần số vô tuyến điện tới Cục Viễn thông.
+- Trong thời hạn 01 ngày kể từ ngày nhận được hồ sơ, Cục Viễn thông có văn bản thông báo cho tổ chức đã nộp hồ sơ biết nếu hồ sơ không hợp lệ. Trong thời hạn 04 ngày kể từ ngày nhận được văn bản thông báo hồ sơ không hợp lệ, tổ chức phải hoàn thiện và nộp lại hồ sơ theo quy định.
+- Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông xem xét cấp Giấy xác nhận tổ chức đáp ứng điều kiện tham gia đấu giá theo Mẫu 03 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP.
+- Trường hợp hồ sơ không đáp ứng điều kiện theo quy định tại Điều 18a Luật Tần số vô tuyến điện được bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một điều của Luật Tần số vô tuyến điện, Bộ Thông tin và Truyền thông có văn bản thông báo từ chối cấp giấy xác nhận, nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Thời hạn: 15 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. Nộp trực tiếp tại Cục Viễn thông, địa chỉ: số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội.|
+|Trực tuyến|15 Ngày||15 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ http://dichvucong.mic.gov.vn hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/.|
+|Dịch vụ bưu chính|15 Ngày||15 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. Nộp qua dịch vụ bưu chính; (Địa chỉ Cục Viễn thông: Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp giấy xác nhận đáp ứng điều kiện tham gia đấu giá theo Mẫu 01 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP; ([đơn đề nghị cấp giấy xác nhận đáp ứng điều kiện tham gia đấu giá.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab2fe3a175cc20'))
+- 01 Bản chính Đơn đề nghị sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông theo quy định của pháp luật về viễn thông;
+- 01 Bản chính Báo cáo tình hình thực hiện giấy phép kể từ ngày được cấp giấy phép đến ngày nộp hồ sơ đề nghị sửa đổi, bổ sung giấy phép theo quy định của pháp luật về viễn thông
+- 01 Bản chính Kế hoạch kinh doanh và kế hoạch kỹ thuật phù hợp với tài nguyên viễn thông thay đổi theo quy định của pháp luật về viễn thông
+- 01 Bản chính c) Bản cam kết triển khai mạng viễn thông sau khi trúng đấu giá theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 63/2023/NĐ-CP ([bản cam kết triển khai mạng viễn thông.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2f37fcefb6b46'))
+- 01 Bản chính d) Bản cam kết mức trả giá trong trường hợp tổ chức trúng đấu giá đảm bảo phương án kỹ thuật và phương án kinh doanh đáp ứng điều kiện cấp hoặc cấp mới hoặc sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần được cấp phép thông qua đấu giá theo quy định của pháp luật về viễn thông theo Mẫu 02 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP ([bản cam kết mức giá.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6908013551598'))
+- 01 Bản chính e) Cam kết đáp ứng điều kiện quy định tại điểm a khoản 1 Điều 18a Luật Tần số vô tuyến điện được bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Cục Viễn thông, Số 68 Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận đủ điều kiện tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật viễn thông|23-11-2009|Quốc Hội|
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009|Quốc Hội|
+|Nghị định số 25/2011/NĐ-CP|Nghị định số 25/2011/NĐ-CP ngày 06 tháng 04 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;|06-04-2011||
+|88/2021/NĐ-CP|Nghị định 88/2021/NĐ-CP|01-10-2021||
+|81/2016/NĐ-CP|Nghị định 81/2016/NĐ-CP|02-07-2016||
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||
+
+Yêu cầu, điều kiện thực hiện:
+- Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;
+- Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;
+- Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;
+- Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện;
+- Đã hoàn thành các nghĩa vụ tài chính về viễn thông, tần số vô tuyến điện theo quy định của pháp luật;
+- Đáp ứng điều kiện cấp hoặc cấp mới hoặc sửa đổi, bổ sung giấy phép thiết lập mạng viễn thông theo quy định pháp luật về viễn thông;
+- Kế hoạch kinh doanh, kế hoạch kỹ thuật sử dụng băng tần được cấp phép thông qua đấu giá xây dựng chung cho các hoạt động kinh doanh dịch vụ viễn thông tại giấy phép kinh doanh dịch vụ viễn thông và phù hợp với yêu cầu cam kết triển khai mạng viễn thông của băng tần được cấp phép thông qua đấu giá;
+-	Cam kết triển khai mạng viễn thông đối với băng tần được cấp giấy phép sử dụng thông qua đấu giá.
+- Sử dụng tần số và thiết bị vô tuyến điện vào mục đích và nghiệp vụ vô tuyến điện mà pháp luật không cấm;
+- Có phương án sử dụng tần số vô tuyến điện khả thi, phù hợp quy hoạch tần số vô tuyến điện;
+- Có thiết bị vô tuyến điện phù hợp quy chuẩn kỹ thuật về phát xạ vô tuyến điện, an toàn bức xạ vô tuyến điện và tương thích điện từ;
+- Cam kết thực hiện quy định của pháp luật về bảo đảm an toàn, an ninh thông tin; kiểm tra, giải quyết nhiễu có hại và an toàn bức xạ vô tuyến điện;
+- Đã hoàn thành các nghĩa vụ tài chính về viễn thông, tần số vô tuyến điện theo quy định của pháp luật;
+- Đáp ứng điều kiện cấp hoặc cấp mới hoặc sửa đổi, bổ sung giấy phép thiết lập mạng viễn thông theo quy định pháp luật về viễn thông;
+- Kế hoạch kinh doanh, kế hoạch kỹ thuật sử dụng băng tần được cấp phép thông qua đấu giá xây dựng chung cho các hoạt động kinh doanh dịch vụ viễn thông tại giấy phép kinh doanh dịch vụ viễn thông và phù hợp với yêu cầu cam kết triển khai mạng viễn thông của băng tần được cấp phép thông qua đấu giá;
+-	Cam kết triển khai mạng viễn thông đối với băng tần được cấp giấy phép sử dụng thông qua đấu giá.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

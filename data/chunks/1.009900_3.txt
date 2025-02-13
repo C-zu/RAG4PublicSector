@@ -1,0 +1,9 @@
+Tên thủ tục: Phục hồi hoạt động của cơ sở, phương tiện giao thông cơ giới, hộ gia đình và cá nhân (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh hoặc Bộ phận Một cửa của Công an tỉnh hoặc Trung tâm phục vụ hành chính công của tỉnh (trường hợp đã đưa thủ tục ra tiếp nhận tại Trung tâm phục vụ hành chính công); Không quá 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|07 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có);|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.|

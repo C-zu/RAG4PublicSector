@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh hoá chất sản xuất, kinh doanh có điều kiện trong ngành công nghiệp
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009590
+Số quyết định:
+712/QĐ-UBND
+Tên thủ tục:
+Cấp điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh hoá chất sản xuất, kinh doanh có điều kiện trong ngành công nghiệp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hóa chất

@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận nguồn giống cây trồng lâm nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|18 Ngày làm việc|Phí : 600000 Đồng Công nhận lâm phần tuyển chọn là 600.000 đồng/01 giống  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe106eb73a02677'">TT14BTC.2018 thu,nop phi cay lam nghiep.doc</a> Phí : 600000 Đồng Công nhận nguồn gốc lô giống, lô con giống là 600.000 đồng/01 lô giống  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8497e48c26bb8'">TT14BTC.2018 thu,nop phi cay lam nghiep.doc</a> Phí : 2400000 Đồng Công nhận vườn giống là 2.400.000 đồng/01 vườn giống  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd87903ca516d6c'">TT14BTC.2018 thu,nop phi cay lam nghiep.doc</a>||
+|Trực tuyến|18 Ngày làm việc|Phí : 600000 Đồng Công nhận nguồn gốc lô giống, lô con giống là 600.000 đồng/01 lô giống  Phí : 2400000 Đồng Công nhận vườn giống là 2.400.000 đồng/01 vườn giống  Phí : 600000 Đồng Công nhận lâm phần tuyển chọn là 600.000 đồng/01 giống||
+|Dịch vụ bưu chính|18 Ngày làm việc|Phí : 600000 Đồng Công nhận lâm phần tuyển chọn là 600.000 đồng/01 giống  Phí : 600000 Đồng Công nhận nguồn gốc lô giống, lô con giống là 600.000 đồng/01 lô giống  Phí : 2400000 Đồng Công nhận vườn giống là 2.400.000 đồng/01 vườn giống||

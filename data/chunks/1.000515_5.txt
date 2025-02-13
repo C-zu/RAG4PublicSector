@@ -1,0 +1,28 @@
+Tên thủ tục: Cấp Giấy phép vận chuyển tiền chất thuốc nổ tại Công an tỉnh, thành phố trực thuộc trung ương
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+Nộp hồ sơ trực tiếp tại cơ quan Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an tỉnh, thành phố trực thuộc trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận chuyển tiền chất thuốc nổ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|14/2017/QH14|Luật 14/2017/QH14|20-06-2017|Quốc Hội|
+|16/2018/TT-BCA|Thông tư 16/2018/TT-BCA|15-05-2018|Bộ Công an|
+|17/2018/TT-BCA|Thông tư 17/2018/TT-BCA|15-05-2018|Bộ Công an|
+|79/2018/NĐ-CP|Nghị định 79/2018/NĐ-CP|16-05-2018|Chính phủ|
+|18/2018/TT-BCA|Thông tư 18/2018/TT-BCA|15-05-2018||
+|21/2019/TT-BCA|Thông tư 21/2019/TT-BCA|18-07-2019||
+|23/2019/TT-BTC|Thông tư 23/2019/TT-BTC|19-04-2019||
+|45/2020/NĐ-CP|Nghị định 45/2020/NĐ-CP|08-04-2020||

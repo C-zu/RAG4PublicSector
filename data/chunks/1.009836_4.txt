@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Chấm dứt hoạt động cơ sở bức xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3510bcfe0a138'">Mau 1_Don CP tien hanh CVBX.doc</a>)
+- 01 Bản chính Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc00e5a536dd090'">Mau 01_KB nhan vien BX.doc</a>)
+- 01 Bản sao Bản sao Chứng chỉ nhân viên bức xạ của các nhân viên: người phụ trách an toàn và người phụ trách tẩy xạ và người phụ trách ứng phó sự cố bức xạ. Trường hợp các nhân viên này chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định này cùng hồ sơ đề nghị cấp Giấy phép tiến hành công việc bức xạ.
+- 01 Bản chính Báo cáo phân tích an toàn đối với việc chấm dứt hoạt động cơ sở bức xạ chứng minh đáp ứng đủ các điều kiện: có kế hoạch tháo dỡ, tẩy xạ, xử lý, quản lý nguồn phóng xạ; trong đó nêu chi tiết quy trình, tiến độ thực hiện, nhân lực, trang thiết bị và bảo đảm tài chính để hoàn thành kế hoạch (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbddf98491f5268'">Mau 09_PL5_BC cham dut hoat dong.doc</a>)

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001323
+Số quyết định:
+3279/QĐ-BNN-VP
+Tên thủ tục:
+Cấp lại Giấy phép khảo nghiệm thuốc bảo vệ thực vật
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Bảo vệ thực vật
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đến Cục Bảo vệ thực vật.
+Bước 2: Tiếp nhận, kiểm tra tính hợp lệ của hồ sơ trong thời hạn 02 ngày làm việc.
+Hồ sơ không hợp lệ thì trả lại và yêu cầu bổ sung, hoàn thiện hồ sơ.
+Bước 3: Thẩm định hồ sơ và cấp lại Giấy phép khảo nghiệm thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT):
++ Trong thời hạn 05 ngày làm việc.
++ Hồ sơ chưa hợp lệ, thông báo cho tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.
++ Trường hợp không cấp, Cục Bảo vệ thực vật thông báo cho tổ chức, cá nhân bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+|Trực tuyến|07 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+|Dịch vụ bưu chính|07 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép khảo nghiệm thuốc bảo vệ thực vật theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT ([TTHC 1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb0c2a2726391a0'))
+- 01 Bản chính Bản chính Giấy phép khảo nghiệm đã được cấp (trừ trường hợp bị mất)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Bảo vệ thực vật - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Bộ Nông nghiệp và Phát triển nông thôn
+Địa chỉ tiếp nhận HS:
+Cục Bảo vệ thực vật
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép khảo nghiệm thuốc bảo vệ thực vật
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|21/2015/TT-BNNPTNT|Về quản lý thuốc bảo vệ thực vật|08-06-2015|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

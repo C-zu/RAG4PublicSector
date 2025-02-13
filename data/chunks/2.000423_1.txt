@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp Giấy thông hành tại Cơ quan đại diện Việt Nam ở nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000423
+Số quyết định:
+Số 1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục cấp Giấy thông hành tại Cơ quan đại diện Việt Nam ở nước ngoài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Cấp hộ chiếu, giấy thông hành, công hàm đề nghị cấp thị thực

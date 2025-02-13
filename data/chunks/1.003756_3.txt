@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc có chứa dược chất chưa có giấy đăng ký lưu hành thuốc tại Việt Nam, thuốc có chứa dược liệu lần đầu sử dụng tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|90 Ngày|Phí : 1.200.000 Đồng trừ các trường hợp nhập khẩu theo quy định tại các Điều 67, 72, 73, 74, 75 Nghị định số 54/2017/NĐ-CP ngày 08/5/2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Dược|Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|90 Ngày|Phí : 1.200.000 Đồng trừ các trường hợp nhập khẩu theo quy định tại các Điều 67, 72, 73, 74, 75 Nghị định số 54/2017/NĐ-CP ngày 08/5/2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Dược|Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ|

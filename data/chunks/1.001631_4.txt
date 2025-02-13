@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy phép nhận chìm (cấp TW)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Đơn đề nghị cấp lại Giấy phép nhận chìm ở biển, trong đó nêu rõ lý do đề nghị cấp lại được lập theo Mẫu số 05 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5dd245354856e'">Mẫu số 05 cấp lại nhận chìm.docx</a>)
+- 02 Bản chính Báo cáo tình hình, kết quả hoạt động nhận chìm ở biển; công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ theo quy định của pháp luật tính đến thời điểm đề nghị cấp lại Giấy phép nhận chìm ở biển. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feac57b4eef71ce'">Mẫu số 14 nhận chìm (1).docx</a>)

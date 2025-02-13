@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố nồng độ, hàm lượng trong nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản công bố nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm có chứa chất ma túy và tiền chất theo mẫu số 11 quy định tại Phụ lục 1 được ban hành kèm theo Thông tư /2021/TT-BYT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0551bd14a0806'">Văn bản công bố.docx</a>)
+- 01 Bản chính Giấy chứng nhận quản lý chất lượng.
+- 01 Bản chính Tài liệu kỹ thuật. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea73e36ba97273'">Tài liệu kỹ thuật.docx</a>)

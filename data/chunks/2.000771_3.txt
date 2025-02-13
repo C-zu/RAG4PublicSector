@@ -1,0 +1,7 @@
+Tên thủ tục: Thu hồi Quyết định cho phép thành lập Văn phòng công chứng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Sở Tư pháp rà soát, lập hồ sơ gửi UBND cấp tỉnh - Trong thời hạn 07 ngày làm việc kể từ ngày UBND cấp tỉnh có quyết định thu hồi quyết định cho phép thành lập, Sở Tư pháp có trách nhiệm thu hồi giấy đăng ký hoạt động của Văn phòng công chứng; - Trong thời hạn 60 ngày kể từ ngày bị thu hồi quyết định cho phép thành lập, Văn phòng công chứng có nghĩa vụ nộp đủ số thuế còn nợ, thanh toán xong các khoản nợ khác, làm thủ tục chấm dứt hợp đồng lao động đã ký với công chứng viên, nhân viên của tổ chức mình; đối với yêu cầu công chứng đã tiếp nhận mà chưa công chứng thì phải trả lại hồ sơ yêu cầu công chứng cho người yêu cầu công chứng|

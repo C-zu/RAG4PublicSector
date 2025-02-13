@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy (thực hiện tại cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy, chữa cháy (Mẫu số PC33 ban hành kèm theo Nghị định số 136/2020/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4fae0d5248668'">Văn bản đề nghị cấp lại Giấy xác nhận đủ Đk KD dịch vụ PCCC (Mẫu PC33).docx</a>)
+- 01 Bản sao Giấy báo mất có xác nhận của cơ quan Công an nơi bị mất Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy và chữa cháy

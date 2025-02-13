@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp các Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|Giấy chứng nhận được cấp trong vòng 03 ngày làm việc kể từ khi hoàn thành kiểm tra lần đầu, định kỳ và trong vòng 01 ngày làm việc kể từ khi hoàn thành kiểm tra hàng năm, trung gian, dưới nước/trên đà và bất thường.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|Giấy chứng nhận được cấp trong vòng 03 ngày làm việc kể từ khi hoàn thành kiểm tra lần đầu, định kỳ và trong vòng 01 ngày làm việc kể từ khi hoàn thành kiểm tra hàng năm, trung gian, dưới nước/trên đà và bất thường.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|Giấy chứng nhận được cấp trong vòng 03 ngày làm việc kể từ khi hoàn thành kiểm tra lần đầu, định kỳ và trong vòng 01 ngày làm việc kể từ khi hoàn thành kiểm tra hàng năm, trung gian, dưới nước/trên đà và bất thường.|

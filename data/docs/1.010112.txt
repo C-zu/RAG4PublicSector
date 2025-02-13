@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010112
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký đầu tư đối với dự án không thuộc diện quyết định chủ trương đầu tư - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh  - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện cấp giấy chứng nhận đăng ký đầu tư trình lãnh đạo phòng xem xét, ký nháy
+- Trường hợp, hồ sơ đủ điều kiện Dự thảo Giấy chứng nhận đăng ký đầu tư trình lãnh đạo phòng xem xét, ký nháy
+B5	Lãnh đạo phòng chuyên môn xem xét, ký nháy  kết quả thực hiện tại Bước 4 
+B7	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định hồ sơ của phòng QLĐT
+
+B8	Làm thủ tục phát hành văn bản và chuyển TTPVHCC
+B9	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 0 Đồng||
+|Trực tuyến|15 Ngày|Phí : 0 Đồng||
+|Dịch vụ bưu chính|15 Ngày|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thực hiện dự án đầu tư; BM.ĐT.05.01
+- 01 Bản sao Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân; bản sao Giấy chứng nhận thành lập hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức;
+- 01 Bản chính Đề xuất dự án đầu tư bao gồm các nội dung: nhà đầu tư thực hiện dự án, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ đầu tư, nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, đánh giá tác động, hiệu quả kinh tế - xã hội của dự án; BM.ĐT.05.02 Đối với dự án đầu tư đã triển khai hoạt động, nhà đầu tư nộp báo cáo tình hình thực hiện dự án đầu tư từ thời điểm triển khai đến thời điểm đề nghị cấp Giấy chứng nhận đăng ký đầu tư thay cho đề xuất dự án đầu tư.
+- 01 Bản sao Bản sao một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu thuyết minh năng lực tài chính của nhà đầu tư;
+- 01 Bản chính Đề xuất nhu cầu sử dụng đất đối với dự án đề nghị nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; Trường hợp dự án không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nhà đầu tư nộp bản sao thỏa thuận thuê địa điểm hoặc tài liệu khác xác nhận nhà đầu tư có quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+- 01 Bản chính Giải trình về sử dụng công nghệ đối với dự án quy định tại điểm b khoản 1 Điều 32 của Luật Đầu tư gồm các nội dung: tên công nghệ, xuất xứ công nghệ, sơ đồ quy trình công nghệ; thông số kỹ thuật chính, tình trạng sử dụng của máy móc, thiết bị và dây chuyền công nghệ chính;
+- 01 Bản sao Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC. Ghi chú: Bản sao quy định tại Mục a (thành phần hồ sơ, bao gồm) có nghĩa là: Bản sao có chứng thực đối với trường hợp nộp hồ sơ qua đường bưu điện; Bản phô tô kèm theo bản chính để đối chiếu đối với trường hợp nộp hồ sơ trực tiếp; Bản scan từ bản gốc đối với trường hợp nộp hồ sơ qua mạng điện tử.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+2. Quyết định phê duyệt dự án hoặc Giấy chứng nhận đăng ký đầu tư và các tài liệu có liên quan.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Luật đầu tư|26-11-2014|Bộ Tài chính|
+|118/2015/NĐ-CP|Nghị định 118/2015/NĐ-CP|12-11-2015||
+|16/2015/TT-BKHĐT|Thông tư 16/2015/TT-BKHĐT|18-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+- Mục tiêu của dự án đầu tư không thuộc ngành, nghề cấm đầu tư kinh doanh.
+- Đáp ứng điều kiện đầu tư đối với nhà đầu tư nước ngoài trong trường hợp mục tiêu dự án đầu tư thuộc ngành, nghề đầu tư có điều kiện đối với nhà đầu tư nước ngoài.
+- Mục tiêu của dự án đầu tư không thuộc ngành, nghề cấm đầu tư kinh doanh.
+- Đáp ứng điều kiện đầu tư đối với nhà đầu tư nước ngoài trong trường hợp mục tiêu dự án đầu tư thuộc ngành, nghề đầu tư có điều kiện đối với nhà đầu tư nước ngoài.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

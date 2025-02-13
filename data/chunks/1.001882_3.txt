@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đề nghị cấp Giấy phép nhập khẩu vàng nguyên liệu đối với doanh nghiệp có vốn đầu tư nước ngoài để sản xuất vàng trang sức, mỹ nghệ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (đối với trường hợp doanh nghiệp nộp hồ sơ giấy).|
+|Trực tuyến|15 Ngày làm việc||15 (mười lăm) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (đối với trường hợp doanh nghiệp nộp hồ sơ đề nghị cấp phép theo cơ chế một cửa quốc gia)|
+|Dịch vụ bưu chính|30 Ngày làm việc||30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (đối với trường hợp doanh nghiệp nộp hồ sơ giấy).|

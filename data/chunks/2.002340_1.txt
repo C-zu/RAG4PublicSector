@@ -1,0 +1,16 @@
+Tên thủ tục: Giải quyết chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp của người lao động giao kết hợp đồng lao động với nhiều người sử dụng lao động, gồm: Chi phí giám định thương tật, bệnh tật; trợ cấp hằng tháng hoặc một lần; trợ cấp phục vụ; hỗ trợ phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình; dưỡng sức, phục hồi sức khỏe; trợ cấp khi người lao động chết do tai nạn lao động; đóng bảo hiểm y tế cho người nghỉ việc hưởng trợ cấp bảo hiểm tai nạn lao động, bệnh nghề nghiệp hằng tháng.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002340
+Số quyết định:
+1107/QĐ-LĐTBXH
+Tên thủ tục:
+Giải quyết chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp của người lao động giao kết hợp đồng lao động với nhiều người sử dụng lao động, gồm: Chi phí giám định thương tật, bệnh tật; trợ cấp hằng tháng hoặc một lần; trợ cấp phục vụ; hỗ trợ phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình; dưỡng sức, phục hồi sức khỏe; trợ cấp khi người lao động chết do tai nạn lao động; đóng bảo hiểm y tế cho người nghỉ việc hưởng trợ cấp bảo hiểm tai nạn lao động, bệnh nghề nghiệp hằng tháng.
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+An toàn, vệ sinh lao động

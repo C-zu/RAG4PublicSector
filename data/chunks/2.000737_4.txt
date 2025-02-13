@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục điều chỉnh nội dung của quyết định phê duyệt mẫu phương tiện đo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh nội dung của quyết định phê duyệt mẫu phương tiện đo
+- 01 Bản chính Tài liệu có liên quan đến nội dung đề nghị điều chỉnh.

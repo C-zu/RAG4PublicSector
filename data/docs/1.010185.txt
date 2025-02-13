@@ -1,0 +1,91 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010185
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Thẩm định thiết kế, dự toán xây dựng/ thiết kế, dự toán xây dựng điều chỉnh - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu dự thảo Văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện bước 5
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình: 
++ Nếu không bổ sung giải trình được thì Dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ thì dự thảo Văn bản thông báo về kết quả thẩm định thiết kế, dự toán xây dựng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu dự thảo  Văn bản thông báo về kết quả thẩm định thiết kế, dự toán xây dựng trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện bước 5.
+B5	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Ban phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở bước 4.
+B6	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện thẩm định hoặc Văn bản Báo cáo thẩm định; 
+- Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm HCC tỉnh
+B8	Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn giải quyết: - Đối với công trình cấp II, III: 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các công trình còn lại: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : Đồng Thực hiện theo Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính||
+|Trực tuyến|Thời hạn giải quyết: - Đối với công trình cấp II, III: 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các công trình còn lại: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : Đồng Thực hiện theo Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính||
+|Dịch vụ bưu chính|Thời hạn giải quyết: - Đối với công trình cấp II, III: 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các công trình còn lại: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : Đồng Thực hiện theo Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình thẩm định Thiết kế xây dựng và dự toán xây dựng công trình, theo mẫu BM.XD.08.01
+- 01 Bản sao Quyết định phê duyệt dự án đầu tư xây dựng công trình.
+- 01 Bản sao Hồ sơ thiết kế cơ sở đã được phê duyệt
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư, theo mẫu BM.XD.08.02
+- 01 Bản chính Hồ sơ khảo sát xây dựng (bản chính hoặc bản sao có dấu của chủ đầu tư).
+- 01 Bản chính Hồ sơ thiết kế kỹ thuật, thiết kế bản vẽ thi công: Thuyết minh thiết kế; bản vẽ thiết kế
+- 01 Bản chính Dự toán xây dựng công trình.
+- 01 Bản sao Thông tin năng lực của đơn vị khảo sát, đơn vị thiết kế xây dựng công trình.
+- 01 Bản sao Chứng chỉ hành nghề của các chức danh chủ nhiệm khảo sát, chủ trì thiết kế, chủ nhiệm thiết kế của đơn vị tư vấn (bản sao có chứng thực).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản về kết quả thẩm định thiết kế, dự toán xây dựng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|59/2015/NĐ-CP|Nghị định 59/2015/NĐ-CP|18-06-2015||
+|79/2014/NĐ-CP|Nghị định 79/2014/NĐ-CP|31-07-2014||
+|18/2016/TT-BXD|Thông tư 18/2016/TT-BXD|30-06-2016||
+|210/2016/TT-BTC|Thông tư 210/2016/TT-BTC|10-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện thực hiện TTHC:
+- Văn bản thẩm duyệt phòng cháy chữa cháy đối với công trình phải thẩm duyệt PCCC theo quy định tại Nghị định số 79/2014/NĐ-CP (bản sao);
+- Văn bản quy định về bảo vệ môi trường theo quy định tại các Nghị định số:  18/2015/NĐ-CP ngày 14/02/2015, 40/2019/NĐ-CP ngày 23/5/2019 (bản sao);
+- Hồ sơ thiết kế hiện trạng hoặc bản vẽ hoàn công xây dựng công trình đối với công trình sữa chữa, cải tạo (bản sao);
+- Trường hợp cần lấy ý kiến phối hợp của các cơ quan, tổ chức liên quan, cơ quan thẩm định yêu cầu người trình thẩm định bổ sung hồ sơ đối với nội dung lấy ý kiến.
+Điều kiện thực hiện TTHC:
+- Văn bản thẩm duyệt phòng cháy chữa cháy đối với công trình phải thẩm duyệt PCCC theo quy định tại Nghị định số 79/2014/NĐ-CP (bản sao);
+- Văn bản quy định về bảo vệ môi trường theo quy định tại các Nghị định số:  18/2015/NĐ-CP ngày 14/02/2015, 40/2019/NĐ-CP ngày 23/5/2019 (bản sao);
+- Hồ sơ thiết kế hiện trạng hoặc bản vẽ hoàn công xây dựng công trình đối với công trình sữa chữa, cải tạo (bản sao);
+- Trường hợp cần lấy ý kiến phối hợp của các cơ quan, tổ chức liên quan, cơ quan thẩm định yêu cầu người trình thẩm định bổ sung hồ sơ đối với nội dung lấy ý kiến.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp giấy xác nhận có quốc tịch Việt Nam
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000750
+Số quyết định:
+1061/QĐ-BNG
+Tên thủ tục:
+Thủ tục cấp giấy xác nhận có quốc tịch Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quốc tịch

@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Quyết định, phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Hồ sơ Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng:
+- 01 Bản chính - Văn bản đề nghị cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng theo Mẫu số 01.CĐD Phụ lục VI Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faf4a5c8e703550'">Mẫu số 01.docx</a>)
+- 01 Bản chính - Báo cáo kết quả bình tuyển cây đầu dòng theo Mẫu số 02.CĐD Phụ lục VI Nghị định số 94/2019/NĐ-CP ngày 13/12/2019; báo cáo kết quả thiết lập vườn cây đầu dòng theo Mẫu số 03.CĐD Phụ lục VI Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea3fdd768e401f'">Mẫu số 02 va 03.docx</a>)
+
+
+b) Hồ sơ phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng:
+- 01 Bản chính - Văn bản đề nghị Sở Nông nghiệp và Phát triển nông thôn phục hồi Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng.

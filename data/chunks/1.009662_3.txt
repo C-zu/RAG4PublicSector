@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấm dứt hoạt động của dự án đầu tư đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 15 ngày kể từ ngày quyết định, nhà đầu tư gửi quyết định chấm dứt hoạt động của dự án đầu tư hoặc thông báo và nộp lại Giấy chứng nhận đăng ký đầu tư cho Sở Kế hoạch và Đầu tư. - Sở Kế hoạch và Đầu tư thông báo việc chấm dứt hoạt động của dự án đầu tư cho các cơ quan liên quan kể từ ngày nhận được quyết định hoặc thông chấm dứt hoạt động của dự án đầu tư.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Dịch vụ bưu chính|- Trong thời hạn 15 ngày kể từ ngày quyết định, nhà đầu tư gửi quyết định chấm dứt hoạt động của dự án đầu tư hoặc thông báo và nộp lại Giấy chứng nhận đăng ký đầu tư cho Sở Kế hoạch và Đầu tư. - Sở Kế hoạch và Đầu tư thông báo việc chấm dứt hoạt động của dự án đầu tư cho các cơ quan liên quan kể từ ngày nhận được quyết định hoặc thông chấm dứt hoạt động của dự án đầu tư.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục giải quyết tố cáo tại cấp xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Đơn tố cáo hoặc bản ghi lời tố cáo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0fa233d25969d'">Mẫu Thông tư 06-2013.docx</a>)

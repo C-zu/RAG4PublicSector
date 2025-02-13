@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001735
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy phép xe tập lái
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức có nhu cầu nộp hồ sơ đề nghị cấp Giấy phép xe tập lái đến Sở Giao thông vận tải hoặc Cục Đường bộ Việt Nam.
+b) Giải quyết TTHC:
+- Sở Giao thông vận tải hoặc Cục Đường bộ Việt Nam tổ chức kiểm tra cấp giấy phép xe tập lái cho tổ chức đề nghị cấp phép tại thời điểm kiểm tra cấp giấy phép đào tạo lái xe;
+- Trong thời hạn không quá 01 (một) ngày làm việc, kể từ ngày cấp giấy phép đào tạo lái xe cho cơ sở đào tạo, Sở Giao thông vận tải hoặc Cục Đường bộ Việt Nam cấp giấy phép xe tập lái. Trường hợp không cấp, phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1 Ngày làm việc||Trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|1 Ngày làm việc||Trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Danh sách xe đề nghị cấp Giấy phép xe tập lái theo mẫu quy định ([Mau.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe67e72afe628a7'))
+- 01 Bản sao Giấy đăng ký xe (bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xe tập lái
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|138/2018/NĐ-CP|Sửa đổi, bổ sung một số điều Nghị định số 65/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe|08-10-2018|Chính phủ|
+|65/2016/NĐ-CP|Quy định về điều kiện kinh doanh dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe|01-07-2016|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+- Thuộc sở hữu của cơ sở đào tạo lái xe. Có thể sử dụng xe hợp đồng thời hạn từ 01 năm trở lên với số lượng không vượt quá 50% số xe sở hữu cùng hạng tương ứng của cơ sở đào tạo đối với xe tập lái các hạng B1, B2, C, D, E; xe tập lái hạng FC có thể sử dụng xe hợp đồng với thời hạn và số lượng phù hợp với nhu cầu đào tạo. Riêng xe hạng B1, B2 có số tự động được sử dụng xe hợp đồng; - Ô tô tải sử dụng để dạy lái xe các hạng B1, B2 phải có trọng tải từ 1.000 kg trở lên với số lượng không quá 30% tổng số xe tập lái cùng hạng của cơ sở đào tạo.

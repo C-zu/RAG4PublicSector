@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp giấy phép thăm dò, khai quật khảo cổ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản thỏa thuận đề nghị cấp phép thăm dò, khai quật khảo cổ của Sở Văn hóa, Thể thao và Du lịch nơi có địa điểm thăm dò, khai quật khảo cổ đối với trường hợp tổ chức chủ trì thăm dò, khai quật khảo cổ không phải là Sở Văn hóa, Thể thao và Du lịch, hoặc không phải là đơn vị trực thuộc Sở Văn hóa, Thể thao và Du lịch;
+- 01 Bản chính Sơ đồ vị trí địa điểm thăm dò, khai quật khảo cổ tỉ lệ 1:500, trong đó thể hiện rõ vị trí, diện tích các khu vực thăm dò, khai quật khảo cổ;
+- 01 Bản chính Văn bản đề nghị cấp phép thăm dò, khai quật khảo cổ của tổ chức phối hợp thăm dò, khai quật khảo cổ (nếu có). Trường hợp tổ chức phối hợp thăm dò, khai quật khảo cổ mời tổ chức, cá nhân nước ngoài tham gia thăm dò, khai quật khảo cổ thì tổ chức phối hợp phải có văn bản báo cáo tổ chức chủ trì thăm dò, khai quật khảo cổ. Căn cứ ý kiến thỏa thuận của tổ chức chủ trì thăm dò, khai quật khảo cổ, cơ quan có thẩm quyền cấp phép thăm dò, khai quật khảo cổ sẽ xem xét, quyết định;
+- 01 Bản chính Trong trường hợp cần thiết, nếu việc thăm dò, khai quật tại các địa điểm có tầm quan trọng đặc biệt đối với việc nghiên cứu lịch sử của đất nước, Bộ Văn hoá, Thể thao và Du lịch sẽ yêu cầu tổ chức xin cấp giấy phép thăm dò, khai quật khảo cổ đệ trình kế hoạch thăm dò, khai quật khảo cổ và các tài liệu liên quan để xem xét trước khi cấp giấy phép thăm dò, khai quật khảo cổ.
+- 01 Bản chính Văn bản đề nghị cấp phép thăm dò, khai quật khảo cổ (mẫu Phụ lục số 2 ban hành kèm theo Quyết định số 86/2008/QĐ-BVHTTDL ngày 30 tháng 12 năm 2008 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch về việc ban hành Quy chế thăm dò khai quật khảo cổ) của tổ chức chủ trì thăm dò, khai quật khảo cổ. Trường hợp tổ chức chủ trì thăm dò, khai quật khảo cổ mời tổ chức, cá nhân nước ngoài tham gia thăm dò, khai quật khảo cổ thì tổ chức chủ trì phải có văn bản báo cáo nêu rõ tên của tổ chức, cá nhân đó và những tài liệu giới thiệu về chương trình hợp tác của các bên tham gia thăm dò, khai quật khảo cổ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee1e3700912931'">PHỤ LỤC 2.QD86.DSVH.docx</a>)

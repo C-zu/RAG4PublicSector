@@ -1,0 +1,9 @@
+Tên thủ tục: Thay đổi, bổ sung các thông tin của nhà thầu, nhà đầu tư đăng ký tham gia vào Hệ thống mạng đấu thầu quốc gia
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ|Phí : 0 Đồng Không có|Gửi văn bản đề nghị sửa đổi, bổ sung thông tin đến Trung tâm trực tiếp|
+|Trực tuyến|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ.|Phí : 0 Đồng Không|Nhà thầu, nhà đầu tư tự thực hiện thay đổi, bổ sung thông tin theo Hướng dẫn sử dụng trên Hệ thống|
+|Dịch vụ bưu chính|02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ|Phí : 0 Đồng Không có|Gửi văn bản đề nghị sửa đổi, bổ sung thông tin đến Trung tâm qua đường bưu điện|

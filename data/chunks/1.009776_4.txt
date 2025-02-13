@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục thành lập văn phòng điều hành của nhà đầu tư nước ngoài trong hợp đồng BCC (BQL)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đăng ký thành lập văn phòng điều hành gồm: tên và địa chỉ văn phòng đại diện tại Việt Nam (nếu có) của nhà đầu tư nước ngoài trong hợp đồng BCC; tên, địa chỉ văn phòng điều hành; nội dung, thời hạn, phạm vi hoạt động của văn phòng điều hành; họ, tên, nơi cư trú, số Giấy chứng minh nhân dân, thẻ Căn cước công dân hoặc Hộ chiếu của người đứng đầu văn phòng điều hành; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac62ef2d3b09f0'">Mẫu A.I.8.docx</a>)
+- 01 Bản chính - Quyết định của nhà đầu tư nước ngoài trong hợp đồng BCC về việc thành lập văn phòng điều hành;
+- 01 Bản sao - Bản sao quyết định bổ nhiệm người đứng đầu văn phòng điều hành;
+- 01 Bản sao - Bản sao hợp đồng BCC.

@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009820
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Thay đổi tên, địa chỉ trụ sở chính, vốn cấp cho chi nhánh, giám đốc chi nhánh, trưởng văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nước ngoài tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Bước 1: Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nước ngoài tại Việt Nam gửi hồ sơ thay đổi tên, địa chỉ trụ sở chính, vốn cấp cho chi nhánh, giám đốc chi nhánh, trưởng văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, UBCKNN có công văn yêu cầu Công ty hoàn thiện hồ sơ. Trong thời hạn 60 (sáu mươi) ngày kể từ ngày UBCKNN tiếp nhận hồ sơ, tài liệu báo cáo có yêu cầu sửa đổi, bổ sung hồ sơ, tài liệu báo cáo theo quy định tại khoản 5 Điều 6 Nghị định số 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ, tổ chức, cá nhân phải hoàn thiện hồ sơ, tài liệu báo cáo theo yêu cầu.
+Bước 4: Trong thời hạn 07 (bẩy) ngày  kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ và sau khi kiểm tra cơ sở vật chất tại trụ sở công ty chứng khoán, công ty quản lý quỹ đầu tư nước ngoài tại Việt Nam đối với trường hợp thay đổi địa chỉ trụ sở chính, UBCKNN điều chỉnh Giấy phép thành lập và hoạt động kinh doanh chứng khoán; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Lệ phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3b96999fd3534')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|07 Ngày làm việc|Lệ phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3b96999fd3534')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|07 Ngày làm việc|Lệ phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3b96999fd3534')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Giấy đề nghị lập theo mẫu số 69 Nghị định 155/2020/NĐ-CP. + Quyết định của cấp có thẩm quyền theo Điều lệ tổ chức kinh doanh chứng khoán nước ngoài thông qua thay đổi tên, địa chỉ trụ sở chính, giám đốc chi nhánh, trưởng văn phòng đại diện. + Xác nhận tài khoản vốn tăng thêm đối với trường hợp tăng vốn cấp cho chi nhánh. + Báo cáo kết quả giảm vốn hoặc báo cáo tài chính đã kiểm toán bởi tổ chức kiểm toán chấp thuận đối với trường hợp giảm vốn cấp cho chi nhánh. + Hợp đồng thuê trụ sở, giấy tờ chứng minh quyền sử dụng trụ sở; Thuyết minh cơ sở vật chất dự kiến phù hợp với nghiệp vụ kinh doanh đề nghị cấp phép (mẫu số 65 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP). + Bản thông tin cá nhân của người được bổ nhiệm, phiếu lý lịch tư pháp được cấp không quá 06 tháng đối với trường hợp thay đổi giám đốc chi nhánh, trưởng văn phòng đại diện.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận 1 cửa Ủy ban Chứng khoán Nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép điều chỉnh Giấy phép thành lập và hoạt động kinh doanh chứng khoán, Giấy chứng nhận đăng ký hoạt động văn phòng đại diện; hoặc văn bản từ chối có nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

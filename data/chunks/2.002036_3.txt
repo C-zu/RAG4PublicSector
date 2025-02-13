@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục thôi quốc tịch Việt Nam ở trong nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|75 Ngày|Lệ phí : 2.500.000 Đồng|- Người xin thôi quốc tịch Việt Nam nộp hồ sơ trực tiếp tại Sở Tư pháp , không ủy quyền cho người khác nộp hồ sơ. - 75 ngày là thời gian thực tế giải quyết hồ sơ tại các cơ quan có thẩm quyền.|
+|Dịch vụ bưu chính|75 Ngày|Lệ phí : 2.500.000 Đồng|- Người xin thôi quốc tịch Việt Nam gửi hồ sơ qua hệ thống bưu chính, không ủy quyền cho người khác nộp hồ sơ. Trường hợp hồ sơ được gửi qua hệ thống bưu chính thì người thụ lý hồ sơ gửi Phiếu thụ lý cho người nộp hồ sơ qua hệ thống bưu chính. - 75 ngày là thời gian thực tế giải quyết hồ sơ tại các cơ quan có thẩm quyền.|

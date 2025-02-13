@@ -1,0 +1,11 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm muối nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đăng ký kiểm tra thực phẩm nhập khẩu theo quy định tại Mẫu số 04 Phụ lục I ban hành kèm theo Nghị định số 15/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6604ec5fe5516'">Mẫu số 04.docx</a>)
+- 01 Bản chính - Bản tự công bố sản phẩm;
+- 01 Bản sao - Bản sao Danh mục hàng hóa (Packing List);
+- 01 Bản sao - Bản sao Giấy phép nhập khẩu theo hạn ngạch thuế quan (nếu có);
+- 01 Bản chính - Bản chính 03 (ba) Thông báo kết quả kiểm tra an toàn thực phẩm muối nhập khẩu được cơ quan kiểm tra đánh giá đạt yêu cầu an toàn thực phẩm sau 03 lần kiểm tra liên tiếp tại các ngày khác nhau đối với lô hàng muối nhập khẩu cùng loại, cùng xuất xứ, cùng nhà sản xuất, cùng người nhập khẩu theo phương thức kiểm tra chặt (áp dụng đối với phương thức kiểm tra thông thường );

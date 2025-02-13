@@ -1,0 +1,9 @@
+Tên thủ tục: Thừa nhận quy trình khảo nghiệm và công nhận thức ăn chăn nuôi của nước xuất khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Cụ thể:||- Kiểm tra tính đầy đủ của hồ sơ: + Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ. + Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 03 ngày làm việc. - Thẩm định nội dung hồ sơ: + Tổ chức Đoàn đánh giá để thẩm định hồ sơ: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ. + Ban hành quyết định thừa nhận phương pháp thử nghiệm thức ăn chăn nuôi của phòng thử nghiệm nước xuất khẩu: Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thẩm định, đánh giá.|
+|Trực tuyến|Cụ thể:||- Kiểm tra tính đầy đủ của hồ sơ: + Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ. + Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 03 ngày làm việc. - Thẩm định nội dung hồ sơ: + Tổ chức Đoàn đánh giá để thẩm định hồ sơ: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ. + Ban hành quyết định thừa nhận phương pháp thử nghiệm thức ăn chăn nuôi của phòng thử nghiệm nước xuất khẩu: Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thẩm định, đánh giá.|
+|Dịch vụ bưu chính|Cụ thể:||- Kiểm tra tính đầy đủ của hồ sơ: + Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ. + Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 03 ngày làm việc. - Thẩm định nội dung hồ sơ: + Tổ chức Đoàn đánh giá để thẩm định hồ sơ: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ. + Ban hành quyết định thừa nhận phương pháp thử nghiệm thức ăn chăn nuôi của phòng thử nghiệm nước xuất khẩu: Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thẩm định, đánh giá.|

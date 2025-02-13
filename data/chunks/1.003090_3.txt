@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép kinh doanh nhập khẩu ô tô
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Bộ Công Thương xem xét cấp Giấy phép kinh doanh nhập khẩu ô tô cho doanh nghiệp. Trường hợp cần thiết, Bộ Công Thương thông báo thời gian tiến hành kiểm tra tính xác thực của các điều kiện quy định tại Điều 15 Nghị định 116/2017/NĐ-CP. Thời hạn kiểm tra không quá 15 ngày làm việc kể từ ngày thông báo. Trong vòng 05 ngày làm việc kể từ ngày có kết quả kiểm tra, Bộ Công Thương xem xét cấp Giấy phép kinh doanh nhập khẩu ô tô cho doanh nghiệp.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Bộ Công Thương xem xét cấp Giấy phép kinh doanh nhập khẩu ô tô cho doanh nghiệp. Trường hợp cần thiết, Bộ Công Thương thông báo thời gian tiến hành kiểm tra tính xác thực của các điều kiện quy định tại Điều 15 Nghị định 116/2017/NĐ-CP. Thời hạn kiểm tra không quá 15 ngày làm việc kể từ ngày thông báo. Trong vòng 05 ngày làm việc kể từ ngày có kết quả kiểm tra, Bộ Công Thương xem xét cấp Giấy phép kinh doanh nhập khẩu ô tô cho doanh nghiệp.|

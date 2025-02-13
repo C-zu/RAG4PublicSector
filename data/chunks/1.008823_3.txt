@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp phép đấu nối chiếu sáng công cộng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|12 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; trong đó: - Trung tâm Quản lý hạ tầng đô thị: 5 ngày. - Sở Xây dựng: 7 ngày||Trung tâm Quản lý hạ tầng đô thị nộp hồ sơ và nhận kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả- Sở Xây dựng|

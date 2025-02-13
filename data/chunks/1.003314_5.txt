@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp Giấy phép thành lập Sở giao dịch hàng hóa
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Vụ Thị trường trong nước - Bộ Công Thương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+54 Hai Bà Trưng, Quận Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép thành lập Sở Giao dịch hàng hóa
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|158/2006/NĐ-CP|Nghị định 158/2006/NĐ-CP|28-12-2006|Chính phủ|
+|51/2018/NĐ-CP|Nghị định 51/2018/NĐ-CP|09-04-2018|Chính phủ|
+|36/2005/QH11|LUẬT Thương mại|14-06-2005|Quốc Hội|

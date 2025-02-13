@@ -1,0 +1,8 @@
+Tên thủ tục: Xác nhận đăng ký kiểm tra chất lượng hàng hóa nhập khẩu đối với hàng hóa nhập khẩu bắt buộc phải công bố hợp quy
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đăng ký kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc88c5d51c6a314'">Mẫu đăng ký kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu.doc</a>)
+- 01 Bản chính, 01 Bản sao Bản sao Hợp đồng, Danh mục hàng hóa (nếu có), bản sao (có xác nhận của tổ chức, cá nhân) vận đơn, hóa đơn, tờ khai hàng hóa nhập khẩu; chứng chỉ chất lượng của nước xuất khẩu (giấy chứng nhận chất lượng, kết quả thử nghiệm); giấy chứng nhận xuất xứ (nếu có), ảnh hoặc bản mô tả hàng hóa có các nội dung bắt buộc phải thể hiện trên nhãn hàng hóa và nhãn phụ (nếu nhãn chính chưa đủ nội dung theo quy định); chứng nhận lưu hành tự do CFS (nếu có). Tổ chức, cá nhân hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng hàng hóa do mình nhập khẩu.

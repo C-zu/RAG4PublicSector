@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp mới thẻ kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ thủ tục hành chính:
+Cơ quan đề nghị cấp thẻ nộp 01 bộ hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan cấp thẻ.
+b) Giải quyết thủ tục hành chính:
+- Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan cấp thẻ thông báo và đề nghị bổ sung hồ sơ theo quy định;
+- Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ và người nộp hồ sơ thực hiện nghĩa vụ nộp phí theo quy định, nếu điều kiện cấp thẻ phù hợp theo quy định thì cơ quan cấp thẻ thực hiện việc cấp thẻ trực tiếp hoặc qua dịch vụ bưu chính; nếu điều kiện cấp thẻ không phù hợp quy định, cơ quan cấp thẻ thông báo bằng văn bản hoặc thông báo trên môi trường điện tử cho cơ quan đề nghị về việc không cấp và nêu rõ lý do;
+- Trường hợp hồ sơ đầy đủ nhưng có nội dung cần làm rõ, trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ và người nộp hồ sơ thực hiện nghĩa vụ nộp phí theo quy định thì cơ quan cấp thẻ thông báo bằng văn bản hoặc thông báo trên môi trường điện tử lý do và nội dung cần làm rõ.
+Trong thời hạn 04 ngày làm việc, kể từ ngày hồ sơ được làm rõ, nếu điều kiện cấp thẻ phù hợp quy định thì cơ quan cấp thẻ thực hiện việc cấp thẻ trực tiếp hoặc qua dịch vụ bưu chính; nếu điều kiện cấp thẻ không phù hợp quy định, cơ quan cấp thẻ thông báo bằng văn bản hoặc thông báo trên môi trường điện tử cho cơ quan đề nghị về việc không cấp và nêu rõ lý do.

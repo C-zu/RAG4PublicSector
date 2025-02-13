@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc927dc6578e890'">Mẫu số 29- Đơn ĐN cấp GPNKXNP không KD.doc</a>)
+- 01 Bản chính Danh mục xuất bản phẩm nhập khẩu không kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaad7cdb4d45d9'">Mẫu số 30- Danh mục XBPNK không KD.doc</a>)

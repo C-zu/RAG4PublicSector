@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004419
+Số quyết định:
+1243/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp cho doanh nghiệp Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không
+Trình tự thực hiện:
+Giải quyết TTHC:
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cảng vụ hàng không có trách nhiệm xem xét, quyết định cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp theo mẫu. Trường hợp không cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp, phải nêu rõ lý do bằng văn bản.
+Trường hợp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp chưa đầy đủ theo quy định, trong thời hạn 01 ngày làm việc, kể từ ngày nhận hồ sơ, Cảng vụ hàng không có văn bản hướng dẫn người đề nghị cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp hoàn chỉnh hồ sơ và thời hạn giải quyết được tính từ khi nhận được hồ sơ đầy đủ theo quy định.
+Nộp hồ sơ TTHC:
+Doanh nghiệp Việt Nam đăng ký xuất vận đơn hàng không thứ cấp của mình gửi 01 bộ hồ sơ đề nghị đăng ký xuất vận đơn hàng không thứ cấp đến Cảng vụ hàng không theo các hình thức trực tiếp, qua đường bưu chính, trên môi trường điện tử hoặc bằng các hình thức khác và phải chịu trách nhiệm về tính chính xác của các thông tin trong hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 2.400.000/lần cấp Đồng Phí, lệ phí|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|3 Ngày làm việc|Phí : 2.400.000 Đồng Lệ phí cấp giấy chứng nhận|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 2.400.000/lần cấp Đồng Phí, lệ phí|03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị theo mẫu ([1.004419.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc42bd8a755423c'))
+- 01 Bản chính, 01 Bản sao Vận đơn hàng không thứ cấp của doanh nghiệp giao nhận
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cảng vụ hàng không
+Cơ quan có thẩm quyền:
+Cảng vụ hàng không
+Địa chỉ tiếp nhận HS:
+Cảng vụ hàng không miền Bắc hoặc miền Trung hoặc miền Nam tùy theo lựa chọn của người nộp hồ sơ.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp cho doanh nghiệp giao nhận nước ngoài
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|19/2023/TT-BGTVT|Sửa đổi, bổ sung, bãi bỏ một số điều của các Thông tư quy định liên quan đến vận tải hàng không|30-06-2023|Bộ Giao thông vận tải|
+|28/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực hàng không dân dụng|29-09-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu khi hoàn thành thi công xây dựng công trình
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002424
+Số quyết định:
+2290/QĐ-UBND_ĐT
+Tên thủ tục:
+Kiểm tra công tác nghiệm thu khi hoàn thành thi công xây dựng công trình
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc

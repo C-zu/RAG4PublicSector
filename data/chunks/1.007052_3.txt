@@ -1,0 +1,8 @@
+Tên thủ tục: Chấp thuận xây dựng biển quảng cáo trong phạm vi hành lang an toàn đường bộ của hệ thống đường địa phương đang khai thác.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong 10 ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong 10 ngày làm việc, kể từ khi nhận đủ hồ sơ theo quy định.|

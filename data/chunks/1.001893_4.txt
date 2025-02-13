@@ -1,0 +1,12 @@
+Tên thủ tục: Công bố cơ sở kinh doanh có tổ chức kệ thuốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản công bố cơ sở kinh doanh có tổ chức kệ thuốc theo Mẫu số 07 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfd95855319db2'">phụ lục 1.docx</a>)
+- 01 Bản sao Bản sao Quyết định thành lập hoặc Giấy chứng nhận đầu tư hoặc Giấy chứng nhận đăng ký doanh nghiệp có ký, đóng dấu xác nhận của cơ sở đó;
+- 01 Bản sao Bản sao có chứng thực văn bằng, chứng chỉ sơ cấp dược trở lên của người chịu trách chuyên môn;
+- 01 Bản chính Danh mục thuốc dự kiến bán tại kệ thuốc. Danh mục này phải nằm trong Danh mục thuốc được bán tại kệ thuốc theo quy định tại Phụ lục II kèm theo Thông tư này; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f41e143761fd000'">PhulucII_TT07_2018.doc</a>)
+- 01 Bản chính Bản chụp tủ, quầy, kệ bảo quản thuốc;
+- 01 Bản chính Quy trình kiểm tra, giám sát: chất lượng thuốc; xuất, nhập thuốc của cơ sở.

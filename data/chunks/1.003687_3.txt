@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy phép bưu chính (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 750.000 Đồng Trường hợp thay đổi các nội dung khác trong giấy phép)  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed080b11130764'">25-btc.signed.pdf</a> Phí : 2.750.000 Đồng Trường hợp mở rộng phạm vi cung ứng dịch vụ nội tỉnh  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feddc5f679b4c6d'">25-btc.signed.pdf</a>||
+|Trực tuyến|10 Ngày làm việc|Phí : 750.000 Đồng Trường hợp thay đổi các nội dung khác trong giấy phép)  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed080b11130764'">25-btc.signed.pdf</a> Phí : 2.750.000 Đồng Trường hợp mở rộng phạm vi cung ứng dịch vụ nội tỉnh  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feddc5f679b4c6d'">25-btc.signed.pdf</a>|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Sở Thông tin và Truyền thông hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 750.000 Đồng Trường hợp thay đổi các nội dung khác trong giấy phép)  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed080b11130764'">25-btc.signed.pdf</a> Phí : 2.750.000 Đồng Trường hợp mở rộng phạm vi cung ứng dịch vụ nội tỉnh  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feddc5f679b4c6d'">25-btc.signed.pdf</a>||

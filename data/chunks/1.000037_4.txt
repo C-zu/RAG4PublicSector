@@ -1,0 +1,11 @@
+Tên thủ tục: Xác nhận bảng kê lâm sản (cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính bảng kê lâm sản theo Mẫu số 01 kèm theo Thông tư số 27/2018/TT-BNNPTNT ngày 16/11/2018 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb84272f15ba0f'">Mẫu số 01.02.03.04.TT 27.2018.docx</a>)
+- 01 Bản chính Bản chính bảng kê lâm sản theo Mẫu số 03 kèm theo Thông tư số 27/2018/TT-BNNPTNT ngày 16/11/2018 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd78aa24c88c8a8'">Mẫu số 01.02.03.04.TT 27.2018.docx</a>)
+- 01 Bản chính Bản chính bảng kê lâm sản theo Mẫu số 04 kèm theo Thông tư số 27/2018/TT-BNNPTNT ngày 16/11/2018 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a4a136ccf202'">Mẫu số 01.02.03.04.TT 27.2018.docx</a>)
+- 01 Bản chính Hồ sơ nguồn gốc lâm sản
+- 01 Bản chính Hóa đơn theo quy định của Bộ Tài chính (nếu có)

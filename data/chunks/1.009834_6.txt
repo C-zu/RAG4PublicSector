@@ -1,0 +1,48 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Vận hành thiết bị chiếu xạ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải được đào tạo chuyên môn, nghiệp vụ về vận hành thiết bị chiếu xạ; có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ và có Chứng chỉ nhân viên bức xạ theo quy định tại Điều 28 của Luật Năng lượng nguyên tử;
+- Có người phụ trách an toàn. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+- Trường hợp vận hành thiết bị xạ trị từ xa: Có ít nhất 01 nhân viên dược đào tạo về vật lý y khoa cho mỗi thiết bị;
+- Trường hợp vận hành thiết bị xạ trị áp sát: Có ít nhất 01 nhân viên được đào tạo về vật lý y khoa cho mỗi cơ sở bức xạ.
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: Tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 03 tháng một lần;
+ - Trường hợp vận hành thiết bị chiếu xạ phải có: Thiết bị đo suất liều chiếu xạ xách tay; khóa liên động tại cửa ra vào phòng đặt thiết bị chiếu xạ; hệ thống cho phép dừng khẩn cấp quá trình chiếu xạ trong phòng đặt thiết bị chiếu xạ và phòng điều khiển. 
+- Trường hợp vận hành thiết bị chiếu xạ công nghiệp còn phải có thêm thiết bị theo dõi suất liều chiếu xạ được lắp đặt cố định bên trong và bên ngoài phòng chiếu xạ;
+- Trường hợp vận hành thiết bị chiếu xạ trong y tế phải có: Nội quy an toàn bức xạ trong đó chỉ rõ các yêu cầu bảo vệ an toàn bức xạ cho nhân viên bức xạ, các nhân viên y tế khác, người bệnh, người chăm sóc, hỗ trợ người bệnh và công chúng; Giấy kiểm định thiết bị bức xạ còn hiệu lực
+- Trường hợp vận hành thiết bị chiếu xạ gắn nguồn phóng xạ phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định 142/2020/NĐ-CP. 
+-Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định 142/2020/NĐ-CP.
+	Điều kiện về nhân lực:
+- Nhân viên bức xạ phải được đào tạo chuyên môn, nghiệp vụ về vận hành thiết bị chiếu xạ; có Giấy chứng nhận đào tạo an toàn bức xạ phù hợp với công việc bức xạ và có Chứng chỉ nhân viên bức xạ theo quy định tại Điều 28 của Luật Năng lượng nguyên tử;
+- Có người phụ trách an toàn. Người phụ trách an toàn phải có Chứng chỉ nhân viên bức xạ và được bổ nhiệm bằng văn bản trong đó quy định rõ trách nhiệm và quyền hạn theo khoản 2 Điều 27 của Luật Năng lượng nguyên tử;
+- Trường hợp vận hành thiết bị xạ trị từ xa: Có ít nhất 01 nhân viên dược đào tạo về vật lý y khoa cho mỗi thiết bị;
+- Trường hợp vận hành thiết bị xạ trị áp sát: Có ít nhất 01 nhân viên được đào tạo về vật lý y khoa cho mỗi cơ sở bức xạ.
+	Điều kiện về bảo đảm an toàn, an ninh:
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mất không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; nơi có khả năng gây nhiễm bẩn phóng xạ; phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: Tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 03 tháng một lần;
+ - Trường hợp vận hành thiết bị chiếu xạ phải có: Thiết bị đo suất liều chiếu xạ xách tay; khóa liên động tại cửa ra vào phòng đặt thiết bị chiếu xạ; hệ thống cho phép dừng khẩn cấp quá trình chiếu xạ trong phòng đặt thiết bị chiếu xạ và phòng điều khiển. 
+- Trường hợp vận hành thiết bị chiếu xạ công nghiệp còn phải có thêm thiết bị theo dõi suất liều chiếu xạ được lắp đặt cố định bên trong và bên ngoài phòng chiếu xạ;
+- Trường hợp vận hành thiết bị chiếu xạ trong y tế phải có: Nội quy an toàn bức xạ trong đó chỉ rõ các yêu cầu bảo vệ an toàn bức xạ cho nhân viên bức xạ, các nhân viên y tế khác, người bệnh, người chăm sóc, hỗ trợ người bệnh và công chúng; Giấy kiểm định thiết bị bức xạ còn hiệu lực
+- Trường hợp vận hành thiết bị chiếu xạ gắn nguồn phóng xạ phải đáp ứng đầy đủ các yêu cầu về bảo đảm an ninh nguồn phóng xạ theo quy định tại Phụ lục I của Nghị định 142/2020/NĐ-CP. 
+-Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định 142/2020/NĐ-CP.
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ - Vận hành thiết bị chiếu xạ
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo về việc cho thuê, cho mượn thiết bị vô tuyến điện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|||Không yêu cầu giải quyết hồ sơ.|
+|Dịch vụ bưu chính|||Không yêu cầu giải quyết hồ sơ.|

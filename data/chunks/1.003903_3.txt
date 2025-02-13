@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép CITES xuất khẩu, tái xuất khẩu mẫu vật các loài động vật rừng, thực vật rừng nguy cấp, quý, hiếm và động vật, thực vật hoang dã nguy cấp thuộc các Phụ lục CITES
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|trong thời hạn 09 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước nhập khẩu, thời hạn cấp không quá 31 ngày làm việc|||
+|Trực tuyến|trong thời hạn 09 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước nhập khẩu, thời hạn cấp không quá 31 ngày làm việc|||
+|Dịch vụ bưu chính|trong thời hạn 09 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp cần tham vấn Cơ quan khoa học CITES Việt Nam hoặc cơ quan có liên quan của nước nhập khẩu, thời hạn cấp không quá 31 ngày làm việc|||

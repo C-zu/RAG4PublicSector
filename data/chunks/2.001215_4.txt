@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký phương tiện hoạt động vui chơi, giải trí dưới nước lần đầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Giấy tờ phải xuất trình khi nộp hồ sơ gồm bản chính các loại sau:
+- 01 Bản chính + Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm;
+- 01 Bản chính + Giấy phép hoặc tờ khai phương tiện nhập khẩu theo quy định của pháp luật đối với phương tiện được nhập khẩu;
+- 01 Bản chính + Giấy tờ chứng minh quyền sở hữu phương tiện: Hợp đồng mua bán hoặc hợp đồng đóng mới phương tiện hoặc các giấy tờ khác có giá trị tương đương;
+- 01 Bản chính + Giấy tờ chứng minh được phép hoạt động và có trụ sở tại Việt Nam đối với tổ chức nước ngoài hoặc giấy tờ chứng minh được phép cư trú tại Việt Nam đối với cá nhân nước ngoài.
+ (Trường hợp chủ phương tiện đồng thời là chủ cơ sở đóng mới, hoán cải, sửa chữa và phục hồi phương tiện được phép hoạt động theo quy định của pháp luật, khi thực hiện đăng ký phương tiện không phải xuất trình Giấy tờ chứng minh quyền sở hữu phương tiện: Hợp đồng mua bán hoặc hợp đồng đóng mới phương tiện hoặc các giấy tờ khác có giá trị tương đương).
+
+
+Giấy tờ phải nộp, gồm:
+- 01 Bản chính + Đơn đề nghị đăng ký phương tiện theo Mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f2e606737c4e'">Mẫu đơn đề nghị ĐĂNG KÝ PHƯƠNG TIỆN VUI CHƠI GIẢI TRÍ DƯỚI NƯỚC.docx</a>)
+- 01 Bản chính, 01 Bản sao + Biên lai nộp lệ phí trước bạ (bản chính hoặc bản điện tử hoặc bản sao điện tử) đối với phương tiện thuộc diện phải nộp lệ phí trước bạ.

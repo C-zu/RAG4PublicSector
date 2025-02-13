@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Doanh nghiệp gửi văn bản đề nghị công nhận, kèm hồ sơ thiết kế khu vực kiểm tra hàng hóa gửi Cục Hải quan tỉnh, thành phố nơi có công trình, cơ sở sản xuất, nhà máy.
+Bước 2. Trên co sở bộ hồ sơ của doanh nghiệp, Cục Hải quan tỉnh, thành phố thực hiện: kiểm tra hồ sơ, khảo sát thực tế kho, bãi và ra quyết định thành lập, trường hợp địa điểm đề nghị công nhận không đáp ứng yêu cầu kiểm tra hải quan thì có văn bản trả lời doanh nghiệp.

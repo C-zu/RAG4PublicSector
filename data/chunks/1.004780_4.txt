@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định an toàn hệ thống đối với đường sắt đô thị
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị thẩm định theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc27f9907d3b60c'">03-Mẫu giấy đề nghị .doc</a>)
+- 01 Bản chính Đề cương đánh giá, chứng nhận và các phiên bản cập nhật sửa đổi đã được Chủ đầu tư phê duyệt
+- 01 Bản chính Báo cáo đánh giá và các tài liệu đánh giá kèm theo đối với các hạng mục mà Tổ chức chứng nhận đã thực hiện theo Đề cương đánh giá, chứng nhận
+- 01 Bản chính Báo cáo xử lý, khắc phục của Chủ đầu tư đối với các vấn đề được nêu trong báo cáo đánh giá của Tổ chức chứng nhận
+- 01 Bản chính Báo cáo đánh giá cuối cùng và bản sao hợp lệ Giấy chứng nhận an toàn hệ thống của Tổ chức chứng nhận

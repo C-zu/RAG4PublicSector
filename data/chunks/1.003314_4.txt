@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy phép thành lập Sở giao dịch hàng hóa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương
+- 01 Bản chính Văn bản đề nghị thành lập Sở Giao dịch hàng hóa theo Mẫu số 01; ban hành kèm theo Nghị định số 51/2018/NĐ-CP ngày 09/4/2018 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbe6dc80ffa1ce'">Mẫu số 01.docx</a>)
+- 01 Bản chính Bản giải trình kinh tế kỹ thuật với các nội dung về mục tiêu, trụ sở hoạt động, cơ sở vật chất, hệ thống công nghệ thông tin kèm các tài liệu chứng minh
+- 01 Bản chính bản Dự thảo Điều lệ hoạt động của Sở Giao dịch hàng hóa với các nội dung theo quy định tại Điều 14 Nghị định 51/2018/NĐ-CP ngày 09 tháng 4 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 158/2006/NĐ-CP
+- 01 Bản chính Biên bản thông qua Dự thảo Điều lệ do người đại diện theo pháp luật của Sở Giao dịch hàng hóa ký

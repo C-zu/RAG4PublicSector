@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm định thiết bị viễn thông, đài vô tuyến điện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị kiểm định (theo quy định tại Phụ lục số 01 của Thông tư số 07/2020/TT-BTTTT); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf7232b07bbf66'">Đơn.pdf</a>)
+- 01 Bản chính Kết quả đo kiểm được lập bởi đơn vị đo kiểm Quy định tại Phụ lục số 02 Thông tư số 07/2023/TT-BTTTT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0128f8d602749'">Mẫu 2.1doc.doc</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf6b2804072ba4'">Mẫu 2.2 Phụ lục số 02 TT số 07.docx</a>)
+- 01 Bản chính - Các tài liệu mô tả, hướng dẫn sử dụng thiết bị viễn thông, đài vô tuyến điện (trong trường hợp kiểm định lần đầu).

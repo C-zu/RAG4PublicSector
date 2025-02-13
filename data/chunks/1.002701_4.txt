@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 04 Bản chính Tờ trình đề nghị thẩm định;
+- 04 Bản chính Thuyết minh nội dung nhiệm vụ
+- 04 Bản chính Các bản vẽ in màu thu nhỏ
+- 04 Bản chính Dự thảo quyết định phê duyệt nhiệm vụ; các văn bản pháp lý có liên quan

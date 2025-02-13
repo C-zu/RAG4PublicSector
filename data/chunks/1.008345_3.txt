@@ -1,0 +1,12 @@
+Tên thủ tục: Tra soát, điều chỉnh thông tin thu, nộp ngân sách nhà nước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||+ 03 (ba) ngày làm việc kể từ ngày nhận được đủ hồ sơ đề nghị tra soát của người nộp thuế đối với trường hợp người nộp thuế phát hiện thông tin đã ghi nhận trong hệ thống ứng dụng quản lý thuế của ngành thuế do cơ quan thuế cung cấp định kỳ theo quy định có sai khác với thông tin theo dõi của người nộp thuế|
+|Trực tiếp|05 Ngày làm việc||+ 05 (năm) ngày làm việc kể từ ngày nhận được đủ hồ sơ đề nghị tra soát của người nộp thuế đối với trường hợp người nộp thuế phát hiện thông tin đã khai trên chứng từ nộp ngân sách nhà nước không chính xác.|
+|Trực tuyến|03 Ngày làm việc||+ 03 (ba) ngày làm việc kể từ ngày nhận được đủ hồ sơ đề nghị tra soát của người nộp thuế đối với trường hợp người nộp thuế phát hiện thông tin đã ghi nhận trong hệ thống ứng dụng quản lý thuế của ngành thuế do cơ quan thuế cung cấp định kỳ theo quy định có sai khác với thông tin theo dõi của người nộp thuế|
+|Trực tuyến|05 Ngày làm việc||+ 05 (năm) ngày làm việc kể từ ngày nhận được đủ hồ sơ đề nghị tra soát của người nộp thuế đối với trường hợp người nộp thuế phát hiện thông tin đã khai trên chứng từ nộp ngân sách nhà nước không chính xác.|
+|Dịch vụ bưu chính|03 Ngày làm việc||+ 03 (ba) ngày làm việc kể từ ngày nhận được đủ hồ sơ đề nghị tra soát của người nộp thuế đối với trường hợp người nộp thuế phát hiện thông tin đã ghi nhận trong hệ thống ứng dụng quản lý thuế của ngành thuế do cơ quan thuế cung cấp định kỳ theo quy định có sai khác với thông tin theo dõi của người nộp thuế|
+|Dịch vụ bưu chính|05 Ngày làm việc||+ 05 (năm) ngày làm việc kể từ ngày nhận được đủ hồ sơ đề nghị tra soát của người nộp thuế đối với trường hợp người nộp thuế phát hiện thông tin đã khai trên chứng từ nộp ngân sách nhà nước không chính xác.|

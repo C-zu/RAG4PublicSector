@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi Giấy phép hoạt động cho thuê lại lao động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị thu hồi giấy phép, theo mẫu BM.LĐ-TL-QHLĐ.07.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9a6600a56c7a8'">BM.LĐ-TL-QHLĐ.07.01.doc</a>)
+- 01 Bản chính, 01 Bản sao Giấy phép đã được cấp
+- 01 Bản chính, 01 Bản sao Báo cáo tình hình hoạt động cho thuê lại lao động của doanh nghiệp, theo mẫu BM.LĐ-TL-QHLĐ.07.02 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0e7a9f3f6cc74'">BM.LĐ-TL-QHLĐ.07.02.doc</a>)

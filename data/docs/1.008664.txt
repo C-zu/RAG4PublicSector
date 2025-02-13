@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008664
+Số quyết định:
+2248/QĐ-UBND_ĐT
+Tên thủ tục:
+Cấp Giấy phép thi công đường ngang đấu nối vào đường chính đang khai thác
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Bước 1: Tổ chức hoàn thiện hồ sơ theo hướng dẫn của thủ tục này và nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải).
+Bước 2: Sở GTVT tiếp nhận hồ sơ, kiểm tra tính hợp lệ và đầy đủ của các loại giấy tờ trong hồ sơ; yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ. 
+Bước 3: Sở GTVT thẩm định hồ sơ:
+a) Trường hợp hồ sơ đạt yêu cầu thì tiến hành giải quyết.
+b) Trường hợp xét thấy hồ sơ không đạt yêu cầu thì có phiếu hướng dẫn yêu cầu bổ sung. 
+Bước 4: Trả kết quả cho tổ chức, công dân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|5 Ngày làm việc||- Hồ sơ được nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích. - Thời hạn giải quyết: Đối với trường hợp cấp mới: 05 ngày làm việc.|
+|Trực tuyến|3 Ngày làm việc||- Hồ sơ được nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích. - Thời hạn giải quyết: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị theo mẫu Phụ lục KCHT-07 hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục ([PL_KCHT-07.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0d4452d27edf8'))
+- 01 Bản chính 2. Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công phải được cấp có thẩm quyền phê duyệt.
+- 01 Bản chính 3. Hợp đồng xây lắp (Nếu chủ đầu tư là pháp nhân có chức năng thi công và tự thi công thì không cần thủ tục này).
+- 01 Bản chính 4. Các văn bản thống nhất về phương án thi công, biện pháp bảo đảm an toàn giao thông và thời gian thi công giữa chủ đầu tư hoặc đơn vị thi công và cơ quan quản lý đường bộ có thẩm quyền (Chủ đầu tư hoặc đơn vị thi công phải lập phương án thi công, biện pháp đảm bảo an toàn giao thông và dự kiến thời gian thi công. Cơ quan cấp phép sau khi xem xét, nếu nhất trí thì có văn bản chấp thuận để làm căn cứ giám sát, kiểm tra).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Giao thông vận tải thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2013/QĐ-UBND|Quyết định số 05/2013/QĐ-UBND ngày 25/01/2013 của UBND thành phố Đà Nẵng về việc Ban hành Quy định thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng|25-01-2013|Ủy ban nhân dân cấp Tỉnh|
+|23/2008/QH12|Luật 23/2008/QH12|13-11-2008||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

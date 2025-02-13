@@ -1,0 +1,21 @@
+Tên thủ tục: Cấp lại Giấy phép kinh doanh vận tải bằng xe ô tô khi có sự thay đổi liên quan đến nội dung của Giấy phép kinh doanh hoặc Giấy phép kinh doanh bị thu hồi, bị tước quyền sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị cấp lại Giấy phép kinh doanh khi có sự thay đổi liên quan đến nội dung của Giấy phép kinh doanh, bao gồm:
+- 01 Bản chính Giấy đề nghị cấp lại Giấy phép kinh doanh trong đó nêu rõ lý do xin cấp lại theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed2b2fb6e056ef'">MẪU.doc</a>)
+- 01 Bản sao Tài liệu chứng minh sự thay đổi của những nội dung ghi trong Giấy phép kinh doanh: (1) Tên và địa chỉ đơn vị kinh doanh; (2) Giấy chứng nhận đăng ký kinh doanh (Giấy chứng nhận đăng ký doanh nghiệp) bao gồm: Số, ngày, tháng, năm, cơ quan cấp; (3) Người đại diện theo pháp luật; (4) Các hình thức kinh doanh; (5) Cơ quan cấp Giấy phép kinh doanh. (việc thay đổi liên quan đến nội dung nào thì bổ sung tài liệu về nội dung đó).
+
+
+- Trường hợp cấp lại Giấy phép kinh doanh do bị thu hồi hoặc bị tước quyền sử dụng, hồ sơ đề nghị cấp lại Giấy phép kinh doanh (Đối với doanh nghiệp, hợp tác xã kinh doanh vận tải:)
+- 01 Bản chính Giấy đề nghị cấp Giấy phép kinh doanh theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0e8eaa9025a9d'">MẪU.doc</a>)
+- 01 Bản sao Bản sao văn bằng, chứng chỉ của người trực tiếp điều hành hoạt động vận tải;
+- 01 Bản chính, 01 Bản sao Bản sao hoặc bản chính Quyết định thành lập và quy định chức năng, nhiệm vụ của bộ phận quản lý, theo dõi các điều kiện về an toàn giao thông (áp dụng đối với doanh nghiệp, hợp tác xã kinh doanh vận tải hành khách theo tuyến cố định, vận tải hành khách bằng xe buýt, vận tải hành khách bằng xe taxi, vận tải hàng hóa bằng công-ten-nơ, vận tải hành khách sử dụng hợp đồng điện tử).
+- 01 Bản chính, 01 Bản sao Tài liệu chứng minh việc khắc phục vi phạm là nguyên nhân bị thu hồi hoặc bị tước quyền sử dụng Giấy phép kinh doanh.
+
+
+Trường hợp cấp lại Giấy phép kinh doanh do bị thu hồi hoặc bị tước quyền sử dụng, hồ sơ đề nghị cấp lại Giấy phép kinh doanh (Đối với hộ kinh doanh vận tải)
+- 01 Bản chính Giấy đề nghị cấp Giấy phép kinh doanh theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe048ecdb8dfa86'">MẪU.doc</a>)
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký kinh doanh.
+- 01 Bản chính, 01 Bản sao Tài liệu chứng minh việc khắc phục vi phạm là nguyên nhân bị thu hồi hoặc bị tước quyền sử dụng Giấy phép kinh doanh.

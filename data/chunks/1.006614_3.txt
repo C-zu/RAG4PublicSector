@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cho phép phóng viên nước ngoài hoạt động thông tin, báo chí tại địa phương
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||05 ngày làm việc, kể từ ngày Sở Ngoại vụ nhận được hồ sơ đề nghị.|
+|Dịch vụ bưu chính|5 Ngày làm việc||05 ngày làm việc, kể từ ngày Sở Ngoại vụ nhận được hồ sơ đề nghị.|

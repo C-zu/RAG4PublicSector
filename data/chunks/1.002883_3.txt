@@ -1,0 +1,7 @@
+Tên thủ tục: Công bố lại đưa trạm dừng nghỉ vào khai thác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định.|

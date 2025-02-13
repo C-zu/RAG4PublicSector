@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000087
+Số quyết định:
+989/QĐ-BGTVT
+Tên thủ tục:
+Thẩm định thiết kế tàu biển
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+- Tổ chức, cá nhân nộp hồ sơ đề nghị thẩm định thiết kế tàu biển đến Cục Đăng kiểm Việt Nam.
+b) Giải quyết TTHC
+- Cục Đăng kiểm Việt Nam tiếp nhận hồ sơ, kiểm tra thành phần hồ sơ: nếu hồ sơ không đầy đủ thì hướng dẫn tổ chức, cá nhân hoàn thiện ngay trong ngày làm việc (nếu nộp hồ sơ trực tiếp); hoặc hướng dẫn hoàn thiện trong 02 (hai) ngày làm việc, kể từ ngày nhận được hồ sơ đối với trường hợp nộp hồ sơ qua hệ thống bưu chính và hình thức phù hợp khác; nếu hồ sơ đầy đủ thì hẹn thời gian trả kết quả.
+- Trong thời hạn 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày, Cục Đăng kiểm Việt Nam tiến hành thẩm định thiết kế, nếu không đạt yêu cầu thì trả lời tổ chức, cá nhân; nếu đạt yêu cầu thì cấp giấy chứng nhận thẩm định thiết kế và đóng dấu thẩm định vào tài liệu thiết kế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|18 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/01 giấy chứng nhận  Mức giá : Đồng Giá thẩm định: Theo Thông tư số 234/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính.|- 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày.|
+|Trực tuyến|18 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/01 giấy chứng nhận  Mức giá : Đồng Giá thẩm định: Theo Thông tư số 234/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính.|- 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày.|
+|Dịch vụ bưu chính|18 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/01 giấy chứng nhận  Mức giá : Đồng Giá thẩm định: Theo Thông tư số 234/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính.|- 18 (mười tám) ngày, kể từ khi nhận đầy đủ hồ sơ hoặc theo thỏa thuận nếu thiết kế tàu biển mới hoặc phức tạp nhưng không quá 60 (sáu mươi) ngày.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị theo mẫu (01 bản chính hoặc biểu mẫu điện tử); ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedd7300075645c'))
+- 03 Bản chính, 01 Bản sao - Tài liệu thiết kế (01 tài liệu thiết kế dạng điện tử đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Đăng kiểm Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm định thiết kế tàu biển, Tài liệu thiết kế được thẩm định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|199/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy, thiết bị, phương tiện giao thông vận tải có yêu cầu nghiêm ngặt về an toàn|08-11-2016|Bộ Tài chính|
+|234/2016/TT-BTC|Quy định về giá dịch vụ kiểm định an toàn kỹ thuật và chất lượng tàu biến, công trình biến; Sản phẩm công nghiệp lắp đặt trên tàu biển, công trình biển; đánh giá, chứng nhận hệ thống quản lý an toàn và phê duyệt, kiểm tra, đánh giá, chứng nhận lao động hàng hải hải|11-11-2016|Bộ Tài chính|
+|40/2016/TT-BGTVT|Quy định về đăng kiểm tàu biển Việt Nam|07-12-2016|Bộ Giao thông vận tải|
+|16/2022/TT-BGTVT|Thông tư 16/2022/TT-BGTVT|30-06-2022||
+
+Yêu cầu, điều kiện thực hiện:
+- Thiết kế tàu biển phải thoả mãn quy định của các quy chuẩn kỹ thuật quốc gia về phân cấp và đóng tàu biển, đo dung tích tàu biển, trang bị an toàn tàu biển, thiết bị nâng dùng trên tàu biển, các hệ thống ngăn ngừa ô nhiễm của tàu biển. Ngoài ra, tàu biển hoạt động tuyến quốc tế còn phải thỏa mãn các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên áp dụng cho tàu biển về an toàn hàng hải, an ninh hàng hải, điều kiện lao động hàng hải và phòng ngừa ô nhiễm môi trường.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

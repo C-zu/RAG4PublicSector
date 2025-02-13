@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục hải quan đối với trường hợp tạm nhập, tạm xuất các phương tiện chứa hàng hóa theo phương thức quay vòng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Tạm xuất – tái nhập: Xuất khẩu
+- 01 Bản chính Danh sách mã hiệu phương tiện chứa hàng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe030ba4484f1ef'">tphhs_tam_nhap_xuat_0504.xlsx</a>)

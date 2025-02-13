@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002535
+Số quyết định:
+62/QĐ-BYT
+Tên thủ tục:
+Cấp thẻ bảo hiểm y tế
+Cấp thực hiện:
+Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài chính y tế
+Trình tự thực hiện:
+Bước 1: Đối với người tham gia BHYT lần đầu ghi Tờ khai tham gia, điều chỉnh thông tin BHYT (do Bảo hiểm xã hội Việt Nam ban hành) và Mẫu số 2 hoặc Mẫu số 3 ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 cho các nhóm đối tượng sau:
+1. Người sử dụng lao động lập danh sách tham gia BHYT cho người lao động quy định tại Điều 1 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018;
+2. Cơ sở giáo dục, cơ sở giáo dục nghề nghiệp có trách nhiệm lập danh sách tham gia BHYT của các đối tượng thuộc phạm vi quản lý theo quy định tại khoản 15 Điều 3, khoản 3 Điều 4 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018;
+3. Các đơn vị thuộc Bộ Quốc phòng, Bộ Công an có trách nhiệm lập danh sách tham gia BHYT của các đối tượng thuộc phạm vi quản lý quy định tại khoản 1 Điều 1; khoản 13 Điều 3 và Điều 6 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 và theo hướng dẫn của Bộ Quốc phòng, Bộ Công an;
+4. Đối với người đã hiến bộ phận cơ thể theo quy định của pháp luật, cơ quan BHXH căn cứ giấy ra viện do cơ sở KCB nơi người hiến bộ phận cơ thể cấp cho đối tượng này để cấp thẻ BHYT.
+5. Ủy ban nhân dân xã có trách nhiệm lập danh sách đối tượng quy định tại Điều 2; các khoản 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 16, 17 Điều 3; các khoản 1, 2, 4 Điều 4 và Điều 5 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018.
+Bước 2:
+Cán bộ bộ phận một cửa cơ quan BHXH tỉnh, huyện kiểm tra, nhận Tờ khai tham gia, điều chỉnh thông tin BHYT.., Giấy tiếp nhận hồ sơ và hẹn trả kết quả cấp thẻ BHYT theo Mẫu số 4 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018 và ký nhận (vào ô người tiếp nhận hồ sơ).
+Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ, tổ chức BHYT phải chuyển thẻ BHYT cho cơ quan, tổ chức quản lý đối tượng hoặc cho người tham gia BHYT.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc kể từ khi nhận đủ hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc kể từ khi nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHYT của tổ chức, cá nhân đối với người tham gia BHYT và Danh sách đối tượng tham gia BHYT của tổ chức, cá nhân lập theo Mẫu số 2 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018. ([Mẫu số 2.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda6097adb148f2') [Mẫu số 4.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb4a949a8784d7'))
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHYT của người tham gia BHYT theo hộ gia đình và Danh sách thành viên hộ gia đình tham gia BHYT lập theo Mẫu số 3 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018. ([Mẫu số 3.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe696467c884518'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thẻ bảo hiểm y tế
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2008/QH12|Luật 25/2008/QH12 - Bảo hiểm y tế|14-11-2008|Quốc Hội|
+|146/2018/NĐ-CP|Quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật bảo hiểm y tế|17-10-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Thẻ BHYT được cấp cho người tham gia BHYT
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

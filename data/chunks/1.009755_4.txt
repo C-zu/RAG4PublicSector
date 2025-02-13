@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục chấp thuận nhà đầu tư đối với dự án đầu tư thực hiện tại khu kinh tế quy định tại khoản 4 Điều 30 của Nghị định số 31/2021/NĐ-CP
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị chấp thuận chủ trương đầu tư dự án đầu tư do nhà đầu tư đề xuất bao gồm:
+- 01 Bản chính, 03 Bản sao + Văn bản đề nghị chấp thuận nhà đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb236f4634042a'">Mẫu A.I.5.docx</a>)
+- 01 Bản chính, 03 Bản sao + Tài liệu về tư cách pháp lý của nhà đầu tư;
+- 01 Bản chính, 03 Bản sao + Tài liệu chứng minh năng lực tài chính của nhà đầu tư gồm ít nhất một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu khác chứng minh năng lực tài chính của nhà đầu tư;
+- 01 Bản chính, 03 Bản sao + Nội dung giải trình về công nghệ sử dụng trong dự án đầu tư đối với dự án thuộc diện thẩm định, lấy ý kiến về công nghệ theo quy định của pháp luật về chuyển giao công nghệ;
+- 01 Bản chính, 03 Bản sao + Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC;
+- 01 Bản chính, 03 Bản sao + Tài liệu khác liên quan đến dự án đầu tư, yêu cầu về điều kiện, năng lực của nhà đầu tư theo quy định của pháp luật (nếu có).

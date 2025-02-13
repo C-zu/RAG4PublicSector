@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở thay đổi loại hình cơ sở kinh doanh dược hoặc thay đổi phạm vi kinh doanh dược có làm thay đổi Điều kiện kinh doanh; thay đổi địa điểm kinh doanh dược thuộc thẩm quyền của Bộ Y tế (Cơ sở sản xuất thuốc, nguyên liệu làm thuốc; Cơ sở xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ bảo quản thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng; Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 30.000.000 Đồng|20 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp không phải đi đánh giá cơ sở|
+|Trực tiếp|30 Ngày|Phí : 30.000.000 Đồng|30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp không phải đi đánh giá cơ sở.|
+|Dịch vụ bưu chính|20 Ngày|Phí : 30.000.000 Đồng|20 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp không phải đi đánh giá cơ sở|
+|Dịch vụ bưu chính|30 Ngày|Phí : 30.000.000 Đồng|30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp không phải đi đánh giá cơ sở.|

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời một phần hè phố của hệ thống đường địa phương để trông giữ xe có thu phí
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Số lượng hồ sơ: 01 bộ; riêng hồ sơ thiết kế là 02 bộ.
+- 01 Bản chính + Đơn đề nghị cấp phép sử dụng tạm thời một phần hè phố để trông, giữ xe có thu phí (bản chính) trình bày rõ lý do, địa điểm, phương thức sử dụng và thời gian cần được cấp phép;
+- 01 Bản sao + Bản sao có chứng thực văn bản cho phép đầu tư xây dựng của công trình, hạng mục công trình có nhu cầu sử dụng một phần hè phố để trông, giữ xe có thu phí;
+- 01 Bản chính + Hồ sơ thiết kế biện pháp sử dụng tạm thời một phần hè phố; biện pháp bảo đảm bảo an toàn giao thông (bản chính);
+- 01 Bản chính + Cam kết đảm bảo an toàn giao thông, vệ sinh môi trường, thực hiện các yêu cầu của cơ quan quản lý đường bộ có thẩm quyền; cam kết chịu hoàn toàn trách nhiệm và kinh phí liên quan khi để xảy ra tai nạn giao thông.

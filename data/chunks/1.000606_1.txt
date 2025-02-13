@@ -1,0 +1,16 @@
+Tên thủ tục: Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng từ 3.000m3/ngày đêm trở lên
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000606
+Số quyết định:
+1235/QĐ-BTNMT
+Tên thủ tục:
+Gia hạn, điều chỉnh nội dung giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng từ 3.000m3/ngày đêm trở lên
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước

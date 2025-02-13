@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục Chứng nhận chuẩn đo lường
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000589
+Số quyết định:
+1310/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục Chứng nhận chuẩn đo lường
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng

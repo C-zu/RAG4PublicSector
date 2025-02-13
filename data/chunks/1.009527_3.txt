@@ -1,0 +1,8 @@
+Tên thủ tục: Chấm dứt tự nguyện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||+ Trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt tự nguyện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. + Trong thời hạn 05 (năm) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.|
+|Dịch vụ bưu chính|07 Ngày làm việc||+ Trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt tự nguyện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. + Trong thời hạn 05 (năm) ngày kể từ ngày nhận được hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.|

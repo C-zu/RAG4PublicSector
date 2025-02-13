@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký sang tên, di chuyển xe tại Phòng Cảnh sát giao thông (thực hiện tại cấp tỉnh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000076
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Đăng ký sang tên, di chuyển xe tại Phòng Cảnh sát giao thông (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ

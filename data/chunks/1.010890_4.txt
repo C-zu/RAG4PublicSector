@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy xác nhận đủ điều kiện tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với doanh nghiệp chưa được cấp phép kinh doanh dịch vụ viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị xác nhận đáp ứng điều kiện tham gia đấu giá theo Mẫu 01 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcdbc943e77fb50'">đơn đề nghị cấp giấy xác nhận đáp ứng điều kiện tham gia đấu giá.docx</a>)
+- 01 Bản chính Bản cam kết triển khai mạng viễn thông sau khi trúng đấu giá theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 63/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe792f577dc0ce7'">bản cam kết triển khai mạng viễn thông.docx</a>)
+- 01 Bản chính Bản cam kết mức trả giá trong trường hợp tổ chức trúng đấu giá đảm bảo phương án kỹ thuật và phương án kinh doanh đáp ứng điều kiện cấp hoặc cấp mới hoặc sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần được cấp phép thông qua đấu giá theo quy định của pháp luật về viễn thông theo Mẫu 02 tại Phụ lục V ban hành kèm theo Nghị định số 63/2023/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5eac33b2f679c'">bản cam kết mức giá.docx</a>)

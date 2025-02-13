@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục Gia hạn giấy phép sử dụng tạm thời hè phố
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị Gia hạn Giấy phép sử dụng tạm thời của tổ chức, cá nhân có nhu cầu sử dụng tạm thời một phần hè phố (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd41958b07b677a'">dơn xin cap phep.docx</a>)
+- 01 Bản chính Giấy phép đã cấp

@@ -1,0 +1,25 @@
+Tên thủ tục: Gia hạn giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm tần số KV1, Trung tâm tần số KV2, Trung tâm tần số KV3, Trung tâm tần số KV4, Trung tâm tần số KV5, Trung tâm tần số KV6, Trung tâm tần số KV7, Trung tâm tần số KV8
+Cơ quan có thẩm quyền:
+Trung tâm tần số KV1, Trung tâm tần số KV2, Trung tâm tần số KV3, Trung tâm tần số KV4, Trung tâm tần số KV5, Trung tâm tần số KV6, Trung tâm tần số KV7, Trung tâm tần số KV8
+Địa chỉ tiếp nhận HS:
+Trung tâm Tần số vô tuyến điện khu vực: tra cứu trên website của Cục Tần số vô tuyến điện tại www.rfd.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng tần số và thiết bị vô tuyến điện (Mẫu 1h Phụ lục III ban hành kèm theo nghị định 63/2023/NĐ-C))
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|265/2016/TT-BTC|Thông tư 265/2016/TT-BTC|14-11-2016||
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009||
+|11/2022/TT-BTC|Thông tư số 11/2022/TT-BTC ngày 21/02/2022 của Bộ trưởng Bộ Tài chính|21-02-2022|Bộ Tài chính|
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||

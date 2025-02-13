@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi nội dung ghi trong giấy phép mở chuyên trang của báo điện tử
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thay đổi của cơ quan chủ quản báo chí
+- 01 Bản chính Mẫu trình bày tên ấn phẩm báo chí dự kiến thay đổi có xác nhận của cơ quan chủ quản báo chí (đối với trường hợp cơ quan báo chí muốn thay đổi hình thức trình bày, vị trí của tên ấn phẩm báo chí).

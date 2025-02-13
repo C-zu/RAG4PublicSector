@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp thẻ tạm trú cho người nước ngoài tại Cục Quản lý xuất nhập cảnh, Bộ Công an
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003358
+Số quyết định:
+5568/QĐ-BCA
+Tên thủ tục:
+Cấp thẻ tạm trú cho người nước ngoài tại Cục Quản lý xuất nhập cảnh, Bộ Công an
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý xuất nhập cảnh

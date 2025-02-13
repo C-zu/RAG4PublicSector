@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : 500.000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) đối với cơ sở bán lẻ tại các địa bàn thuộc vùng khó khăn, miền núi, hải đảo  Phí : 1.000.000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) hoặc tiêu chuẩn và điều kiện hành nghề dược đối với các cơ sở bán lẻ thuốc chưa bắt buộc thực hiện nguyên tắc, tiêu chuẩn thực hành tốt nhà thuốc theo lộ trình|30 ngày làm việc kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 500.000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) đối với cơ sở bán lẻ tại các địa bàn thuộc vùng khó khăn, miền núi, hải đảo  Phí : 1.000.000 Đồng Thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc (GPP) hoặc tiêu chuẩn và điều kiện hành nghề dược đối với các cơ sở bán lẻ thuốc chưa bắt buộc thực hiện nguyên tắc, tiêu chuẩn thực hành tốt nhà thuốc theo lộ trình|30 ngày làm việc kể từ ngày nhận đủ hồ sơ|

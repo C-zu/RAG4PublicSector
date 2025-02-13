@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Chứng chỉ Thẩm tra viên an toàn giao thông đường bộ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Cơ sở đào tạo có nhu cầu nộp hồ sơ đến Cục Đường bộ Việt Nam.
+b) Giải quyết TTHC:
+- Cục Đường bộ Việt Nam tiếp nhận, kiểm tra hồ sơ:
++ Đối với trường hợp nộp trực tiếp: Sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận ngay hồ sơ; nếu không đúng quy định, hướng dẫn trực tiếp cho cơ sở đào tạo đã nộp hồ sơ để hoàn thiện hồ sơ;
++ Đối với trường hợp nộp qua hệ thống bưu chính: Nếu hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày nhận hồ sơ, phải có văn bản hướng dẫn cho cơ sở đào tạo đã nộp hồ sơ để hoàn thiện hồ sơ;
++ Đối với trường hợp nộp qua hệ thống dịch vụ công trực tuyến: Nếu hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày cơ sở đào tạo kê khai và nộp hồ sơ, phải có văn bản hướng dẫn cho cơ sở đào tạo đã nộp hồ sơ để hoàn thiện hồ sơ;
+- Cục Đường bộ Việt Nam tiến hành thẩm định hồ sơ, nếu đủ điều kiện, cấp chứng chỉ cho từng học viên (có kết quả thi đạt yêu cầu) có tên trong Tờ trình của cơ sở đào tạo; trường hợp không cấp chứng chỉ, phải có văn bản trả lời và nêu rõ lý do;
+- Việc trả chứng chỉ được thực hiện tại Cục Đường bộ Việt Nam hoặc thông qua dịch vụ bưu chính theo yêu cầu của cơ sở đào tạo.

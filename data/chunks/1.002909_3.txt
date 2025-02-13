@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấm dứt hợp đồng trong quá trình thực hiện nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Thông báo tạm dừng thực hiện nhiệm vụ: 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Ra Quyết định chấm dứt chấm dứt Hợp đồng sau khi kiểm tra, đánh giá hồ sơ và hiện trường. Trường hợp cần thiết lấy ý kiến tư vấn của các nhà khoa học, chuyên gia quản lý.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông báo tạm dừng thực hiện nhiệm vụ: 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. - Ra Quyết định chấm dứt chấm dứt Hợp đồng sau khi kiểm tra, đánh giá hồ sơ và hiện trường. Trường hợp cần thiết lấy ý kiến tư vấn của các nhà khoa học, chuyên gia quản lý.|

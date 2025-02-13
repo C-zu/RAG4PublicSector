@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008953
+Số quyết định:
+2102/QĐ-UBND_ĐT
+Tên thủ tục:
+Kiểm tra hồ sơ kỹ thuật, hồ sơ hợp quy đối với lắp đặt và sử dụng thang máy điện, thang cuốn, băng tải chở người tại các công trình xây dựng trên địa bàn
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn, vệ sinh lao động
+Trình tự thực hiện:
+Bước 1: Chủ đầu tư công trình xây dựng hoàn thiện hồ sơ theo quy định và nộp tại Bộ phận tiếp nhận và trả kết quả (TN&TKQ) của Sở hoặc nộp hồ sơ qua đường bưu điện;
+Bước 2: Bộ phận TN&TKQ kiểm tra và tiếp nhận hồ sơ:
++ Trường hợp hồ sơ chưa đầy đủ thủ tục thì trả hồ sơ và hướng dẫn đơn vị, doanh nghiệp bổ sung;
++ Trường hợp hồ sơ đầy đủ theo quy định thì viết giấy biên nhận hồ sơ và chuyển hồ sơ đến Phòng Việc làm - An toàn lao động.
+Bước 3: Phòng Việc làm - An toàn lao động kiểm tra hồ sơ, tham mưu trình lãnh đạo Sở có văn bản xác nhận hồ sơ đảm bảo theo quy định; trường hợp hồ sơ chưa đầy đủ thì ban hành văn bản hướng dẫn đơn vị bổ sung và chuyển hồ sơ đến Bộ phận TN&TKQ kết thúc quy trình hồ sơ;
+Bước 4: Bộ phận TN&TKQ thông báo cho: Chủ đầu tư công trình xây dựng đến nhận kết quả sớm hoặc trả kết quả theo phiếu hẹn.
+Bước 5: Chủ đầu tư công trình xây dựng nhận kết quả giải quyết hồ sơ tại Bộ phận TN&TKQ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Tại Bộ phận TN&TKQ - Sở LĐ-TB&XH|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ trực tuyến tại Trang thông tin điện tử Sở|
+|Dịch vụ bưu chính|5 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đảm bảo theo quy định tại Điều 5, Điều 6, Điều 10, Điều 11 Quyết định 1893/QĐ-UBND ngày 30/3/2016 của UBND thành phố Đà Nẵng về việc Ban hành Quy định quản lý an toàn trong lắp đặt và sử dụng thang máy điện, thang cuốn, băng tải chở người tại các công trình xây dựng trên địa bàn thành phố Đà Nẵng.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Lao động - Thương binh và Xã hội Tp.Đà Nẵng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Lao động - Thương binh và Xã hội thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận kết quả kiểm tra hồ sơ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|26/2018/TT-BLĐTBXH|Thông tư 26/2018/TT-BLĐTBXH|25-12-2018||
+|35/2012/TT-BLĐTBXH|Thông tư 35/2012/TT-BLĐTBXH|27-12-2012||
+|32/2012/TT-BLĐTBXH|Thông tư 32/2012/TT-BLĐTBXH|19-12-2012||
+|28/2012/TT-BKHCN|Thông tư 28/2012/TT-BKHCN|12-12-2012||
+|08/2011/TT-BLĐTBXH|Thông tư 08/2011/TT-BLĐTBXH|22-04-2011||
+|1893/QĐ-UBND|Ban hành Quy định quản lý an toàn trong lắp đặt và sử dụng thang máy điện, thang cuốn, băng tải chở người tại các công trình xây dựng trên địa bàn thành phố Đà Nẵng|30-03-2016|Ủy ban nhân dân cấp Tỉnh|
+
+Yêu cầu, điều kiện thực hiện:
+Trước 10 ngày làm việc so với thời điểm dự kiến lắp đặt thang máy điện, thang cuốn và băng tải chở người, chủ đầu tư tập hợp hồ sơ kỹ thuật, hồ sơ hợp quy gửi về Sở Lao động Thương binh và Xã hội để kiểm tra, có ý kiến liên quan chất lượng hồ sơ
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

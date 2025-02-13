@@ -1,0 +1,23 @@
+Tên thủ tục: Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Chi cục Hải quan
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phân loại máy móc, thiết bị nguyên chiếc ở dạng tháo rời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|14/2015/TT-BTC|Thông tư số 14/2015/TT-BTC ngày 30/1/2015 của Bộ Tài chính hướng dẫn về phân loại hàng hóa, phân tích để phân loại hàng hóa; phân tích để kiểm tra chất lượng, kiểm tra an toàn thực phẩm đối với hàng hóa xuất khẩu, nhập khẩu|30-01-2015|Bộ Tài chính|

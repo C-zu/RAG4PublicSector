@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Giấy phép thành lập Văn phòng đại diện của Thương nhân nước ngoài tại Việt Nam - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép thành lập Văn phòng đại diện BM.TM.02.01
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động Văn phòng đại diện gửi Cơ quan cấp Giấy phép nơi chuyển đi theo quy định tại Điểm a Khoản 1 Điều 36 Nghị định 07/2016/NĐ-CP
+- 01 Bản sao Bản sao Giấy phép thành lập Văn phòng đại diện đã được cấp
+- 01 Bản sao Tài liệu về địa điểm dự kiến đặt trụ sở Văn phòng đại diện nơi chuyển đến theo quy định tại Điểm e khoản 1 Điều 10 Nghị định 07/2016/NĐ-CP

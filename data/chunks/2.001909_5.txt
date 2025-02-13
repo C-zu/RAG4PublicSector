@@ -1,0 +1,27 @@
+Tên thủ tục: Thủ tục tiếp công dân tại cấp xã
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban Nhân dân xã, phường, thị trấn.
+Cơ quan có thẩm quyền:
+Chủ tịch Ủy ban nhân dân xã
+Địa chỉ tiếp nhận HS:
+Tại trụ UBND xã
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cán bộ tiếp dân trả lời trực tiếp hoặc có thông báo bằng văn bản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|03/2011/QH13|Luật 03/2011/QH13|11-11-2011|Quốc Hội|
+|75/2012/NĐ-CP|Nghị định 75/2012/NĐ-CP - Quy định chi tiết một số điều của Luật Khiếu nại|03-10-2012|Chính phủ|
+|02/2011/QH13|Luật 02/2011/QH13 - Luật Khiếu nại|11-11-2011|Quốc Hội|
+|76/2012/NĐ-CP|Nghị định 76/2012/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật Tố cáo|03-10-2012|Chính phủ|
+|06/2014/TT-TTCP|Thông tư 06/2014/TT-TTCP|31-10-2014|Thanh tra Chính phủ|
+|42/2013/QH13|Luật 42/2013/QH13|25-11-2013|Quốc Hội|
+|64/2014/NĐ-CP|Nghị định 64/2014/NĐ-CP|26-06-2014|Quốc Hội|

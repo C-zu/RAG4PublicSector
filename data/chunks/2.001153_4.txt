@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục biên phòng điện tử đối với tàu thuyền Việt Nam; tàu thuyền, thuyền viên nước ngoài nhập cảnh tại cửa khẩu cảng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ khai báo trên Cổng Thông tin một cửa quốc gia hoặc Cổng Thông tin thủ tục biên phòng điện tử cảng biển:
+- 01 Bản chính + Bản khai chung;
+- 01 Bản chính + Danh sách thuyền viên;
+- 01 Bản chính + Danh sách hành khách (nếu có);
+- 01 Bản chính + Bản khai vũ khí và vật liệu nổ (nếu có);
+- 01 Bản chính + Bản khai người trốn trên tàu (nếu có);
+
+
+Thành phần hồ sơ phải xuất trình:
+- 01 Bản chính + Đối với thuyền viên: Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế hoặc sổ thuyền viên trong trường hợp hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế hết giá trị sử dụng, không có hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế;
+- 01 Bản chính + Đối với hành khách (nếu có): Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế.

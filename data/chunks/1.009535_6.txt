@@ -1,0 +1,50 @@
+Tên thủ tục: Đăng ký cung cấp dịch vụ của công ty chứng khoán
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+(1) Điều kiện cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán để thực hiện giao dịch ký quỹ, ứng trước tiền bán chứng khoán
++ Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty thông qua việc thực hiện cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán;
++ Không đang trong tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản;
++ Tỷ lệ tổng nợ trên vốn chủ sở hữu đảm bảo quy định của Bộ Tài chính, vốn chủ sở hữu không thấp hơn mức vốn điều lệ tối thiểu;
++ Tỷ lệ vốn khả dụng đạt tối thiểu 180% liên tục trong 06 tháng gần nhất tính đến thời điểm công ty chứng khoán nộp hồ sơ đăng ký cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán;
++ Có hệ thống giao dịch phục vụ hoạt động cho khách hàng vay tiền mua chứng khoán, giám sát tài khoản vay tiền mua chứng khoán; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng; quy trình nghiệp vụ và quy trình quản lý rủi ro, kiểm soát hoạt động cho khách hàng vay tiền mua chứng khoán.
+(2) Điều kiện cung cấp dịch vụ cho vay chứng khoán
++ Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc thực hiện cung cấp dịch vụ cho vay chứng khoán;
++ Không đang trong tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản;
++ Tỷ lệ tổng nợ trên vốn chủ sở hữu đảm bảo quy định của Bộ Tài chính, vốn chủ sở hữu không thấp hơn mức vốn điều lệ tối thiểu;
++ Có hệ thống giao dịch phục vụ hoạt động cho vay chứng khoán, giám sát tài khoản vay chứng khoán; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng; quy trình nghiệp vụ và quy trình quản lý rủi ro, kiểm soát hoạt động cho vay chứng khoán;
++ Tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 06 tháng gần nhất tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán.
+(3) Điều kiện công ty chứng khoán được phối hợp với các tổ chức tín dụng cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán
++ Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc phối hợp với các tổ chức tín dụng cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán.
++ Không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản.
++ Có hợp đồng nguyên tắc với tổ chức tín dụng được thành lập và hoạt động tại Việt Nam trong việc cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán, trong đó nêu rõ trách nhiệm các bên, tỷ lệ cho vay, loại chứng khoán làm tài sản bảo đảm theo quy định của pháp luật.
+(4) Điều kiện cung cấp dịch vụ giao dịch chứng khoán trực tuyến của công ty chứng khoán
++ Là thành viên của Sở giao dịch chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc thực hiện cung cấp dịch vụ giao dịch trực tuyến.
++ Có nhân sự vận hành hệ thống, có hệ thống giao dịch, giải pháp kỹ thuật đảm bảo an toàn hệ thống, hệ thống lưu trữ dữ liệu dự phòng và khắc phục sự cố theo hướng dẫn của Bộ Tài chính.
++ Không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản.
++ Trực tiếp cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư.
+(1) Điều kiện cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán để thực hiện giao dịch ký quỹ, ứng trước tiền bán chứng khoán
++ Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty thông qua việc thực hiện cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán;
++ Không đang trong tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản;
++ Tỷ lệ tổng nợ trên vốn chủ sở hữu đảm bảo quy định của Bộ Tài chính, vốn chủ sở hữu không thấp hơn mức vốn điều lệ tối thiểu;
++ Tỷ lệ vốn khả dụng đạt tối thiểu 180% liên tục trong 06 tháng gần nhất tính đến thời điểm công ty chứng khoán nộp hồ sơ đăng ký cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán;
++ Có hệ thống giao dịch phục vụ hoạt động cho khách hàng vay tiền mua chứng khoán, giám sát tài khoản vay tiền mua chứng khoán; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng; quy trình nghiệp vụ và quy trình quản lý rủi ro, kiểm soát hoạt động cho khách hàng vay tiền mua chứng khoán.
+(2) Điều kiện cung cấp dịch vụ cho vay chứng khoán
++ Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc thực hiện cung cấp dịch vụ cho vay chứng khoán;
++ Không đang trong tình trạng cảnh báo, kiểm soát, kiểm soát đặc biệt, đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản;
++ Tỷ lệ tổng nợ trên vốn chủ sở hữu đảm bảo quy định của Bộ Tài chính, vốn chủ sở hữu không thấp hơn mức vốn điều lệ tối thiểu;
++ Có hệ thống giao dịch phục vụ hoạt động cho vay chứng khoán, giám sát tài khoản vay chứng khoán; hệ thống để quản lý tiền gửi giao dịch chứng khoán tách biệt tới từng nhà đầu tư tại ngân hàng; quy trình nghiệp vụ và quy trình quản lý rủi ro, kiểm soát hoạt động cho vay chứng khoán;
++ Tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 06 tháng gần nhất tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán.
+(3) Điều kiện công ty chứng khoán được phối hợp với các tổ chức tín dụng cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán
++ Được cấp phép thực hiện nghiệp vụ môi giới chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc phối hợp với các tổ chức tín dụng cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán.
++ Không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản.
++ Có hợp đồng nguyên tắc với tổ chức tín dụng được thành lập và hoạt động tại Việt Nam trong việc cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán, ứng trước tiền bán chứng khoán, trong đó nêu rõ trách nhiệm các bên, tỷ lệ cho vay, loại chứng khoán làm tài sản bảo đảm theo quy định của pháp luật.
+(4) Điều kiện cung cấp dịch vụ giao dịch chứng khoán trực tuyến của công ty chứng khoán
++ Là thành viên của Sở giao dịch chứng khoán và được Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu công ty chứng khoán thông qua việc thực hiện cung cấp dịch vụ giao dịch trực tuyến.
++ Có nhân sự vận hành hệ thống, có hệ thống giao dịch, giải pháp kỹ thuật đảm bảo an toàn hệ thống, hệ thống lưu trữ dữ liệu dự phòng và khắc phục sự cố theo hướng dẫn của Bộ Tài chính.
++ Không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động, hợp nhất, sáp nhập, giải thể, phá sản.
++ Trực tiếp cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

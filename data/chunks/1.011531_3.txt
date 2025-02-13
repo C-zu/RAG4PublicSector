@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố về sự phù hợp của trung tâm dữ liệu với tiêu chuẩn, quy chuẩn kỹ thuật
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||Nộp trực tiếp tại Bộ phận một cửa trụ sở Cục Viễn thông, Tòa nhà Cục Viễn thông, số 68 đường Dương Đình Nghệ, Phường Yên Hòa, quận Cầu Giấy, TP. Hà Nội.|
+|Trực tuyến|07 Ngày làm việc||Qua Cổng Dịch vụ công quốc gia https://dichvucong.gov.vn Cổng Dịch vụ công Bộ Thông tin và Truyền thông https://dichvucong.mic.gov.vn Hoặc Cổng Dịch vụ công của Cục Viễn thông tại địa chỉ: dichvucong.vnta.gov.vn.|
+|Dịch vụ bưu chính|07 Ngày làm việc||Qua hệ thống bưu chính, chuyển phát.|

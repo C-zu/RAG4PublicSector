@@ -1,0 +1,20 @@
+Tên thủ tục: Bố trí ổn định dân cư ngoài tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ UBND cấp huyện nơi đi gửi UBND cấp tỉnh nơi đi
+- 01 Bản chính Danh sách trích ngang các hộ bố trí, ổn định dân cư ban hành kèm theo Phụ lục III của Thông tư số 19/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb555fc42bafbe8'">Phụ lục II1.docx</a>)
+- 01 Bản chính Tờ trình của UBND cấp huyện
+
+
+Hồ sơ UBND cấp tỉnh nơi đi gửi UBND cấp tỉnh nơi đến
+- 01 Bản chính Quyết định di dân đến vùng dự án, phương án bố trí, ổn định dân cư
+- 01 Bản chính Công văn đề nghị UBND tỉnh nơi đến phối hợp và ra Quyết định tiếp nhận bố trí, ổn định dân cư đến vùng dự án, phương án.
+
+
+Hồ sơ UBND cấp xã gửi UBND huyện nơi đi
+- 01 Bản chính Tờ trình của UBND cấp xã
+- 01 Bản chính Đơn tự nguyện bố trí, ổn định dân cư (ban hành kèm theo Phụ lục I của Thông tư số 19/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec6673f8d7c848'">Phụ lục I.docx</a>)
+- 01 Bản chính Biên bản họp bình xét hộ dân được bố trí, ổn định (ban hành kèm theo Phụ lục II của Thông tư số 19/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb469a768cecb9'">Phụ lục I2.docx</a>)
+- 01 Bản chính Danh sách trích ngang các hộ bố trí, ổn định dân cư ban hành kèm theo Phụ lục III của Thông tư số 19/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb555fc42bafbe8'">Phụ lục II1.docx</a>)

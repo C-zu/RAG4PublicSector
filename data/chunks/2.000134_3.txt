@@ -1,0 +1,9 @@
+Tên thủ tục: Khai báo với Sở Lao động – Thương binh và Xã hội địa phương khi đưa vào sử dụng các loại máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày||Nộp trực tiếp tại Bộ phận Một cửa hoặc thông qua dịch vụ bưu chính hoặc nộp trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công của tỉnh, thành phố trực thuộc trung ương Không quá 05 ngày (kể từ khi nhận được hồ sơ đầy đủ, hợp lệ)|
+|Trực tuyến|5 Ngày||Nộp trực tiếp tại Bộ phận Một cửa hoặc thông qua dịch vụ bưu chính hoặc nộp trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công của tỉnh, thành phố trực thuộc trung ương Không quá 05 ngày (kể từ khi nhận được hồ sơ đầy đủ, hợp lệ)|
+|Dịch vụ bưu chính|5 Ngày||Nộp trực tiếp tại Bộ phận Một cửa hoặc thông qua dịch vụ bưu chính hoặc nộp trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công của tỉnh, thành phố trực thuộc trung ương Không quá 05 ngày (kể từ khi nhận được hồ sơ đầy đủ, hợp lệ)|

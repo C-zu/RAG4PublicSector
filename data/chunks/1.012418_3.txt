@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận người có bài thuốc gia truyền, giấy chứng nhận người có phương pháp chữa bệnh gia truyền thuộc thẩm quyền của Cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : 2.500.000 Đồng|kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|20 Ngày làm việc|Phí : 2.500.000 Đồng|kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : 2.500.000 Đồng|kể từ ngày nhận đủ hồ sơ|

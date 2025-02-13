@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 150000 Đồng 150.000 đồng/giấy|Chậm nhất 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 150000 Đồng 150.000 đồng/giấy|Chậm nhất 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 150000 Đồng 150.000 đồng/giấy|Chậm nhất 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|

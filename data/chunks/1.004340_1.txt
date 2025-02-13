@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký hoạt động xuất bản, phát hành xuất bản phẩm điện tử
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004340
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Đăng ký hoạt động xuất bản, phát hành xuất bản phẩm điện tử
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành

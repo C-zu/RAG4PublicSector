@@ -1,0 +1,21 @@
+Tên thủ tục: Cấp lại phù hiệu xe ô tô kinh doanh vận tải (kinh doanh vận tải hành khách: bằng xe ô tô theo tuyến cố định, bằng xe buýt theo tuyến cố định, bằng xe taxi, xe hợp đồng; kinh doanh vận tải hàng hóa: bằng công-ten-nơ, xe ô tô đầu kéo kéo rơ moóc hoặc sơ mi rơ moóc, xe ô tô tải kinh doanh vận tải hàng hóa thông thường và xe taxi tải)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phù hiệu hoặc văn bản từ chối nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|10/2020/NĐ-CP|Nghị định 10/2020/NĐ-CP|17-01-2020||

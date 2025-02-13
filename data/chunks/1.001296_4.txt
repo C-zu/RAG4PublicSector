@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng:
+- 01 Bản chính Văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd94252d8ff507a'">Mẫu.docx</a>)
+
+
+Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động
+- 01 Bản chính Thông báo (kèm theo bản đối chiếu các quy định về cơ sở vật chất, dây chuyền kiểm định theo Quy chuẩn kỹ thuật quốc gia).

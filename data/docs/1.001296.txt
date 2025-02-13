@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001296
+Số quyết định:
+701/QĐ-BGTVT
+Tên thủ tục:
+Cấp lại Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Đơn vị đăng kiểm có nhu cầu lập 01 (một) bộ hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới gửi về Sở Giao thông vận tải. Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới được cấp lại trong các trường hợp sau:
+- Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng;
+- Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động.
+b) Giải quyết TTHC:
+- Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng thì đơn vị đăng kiểm gửi văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đến Sở Giao thông vận tải. Sở Giao thông vận tải căn cứ hồ sơ lưu để cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị (trong đó có ghi chú giấy chứng nhận này thay thế cho giấy chứng nhận đã cấp bị mất, hỏng).
+- Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động thì phải thông báo cho Sở Giao thông vận tải (kèm theo bản đối chiếu các quy định về cơ sở vật chất, dây chuyền kiểm định theo quy chuẩn kỹ thuật quốc gia). Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, Sở Giao thông vận tải thực hiện kiểm tra, đánh giá nội dung thay đổi. Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||- Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng: 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị|
+|Trực tiếp|10 Ngày làm việc||- Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động: + Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, Sở Giao thông vận tải thực hiện kiểm tra, đánh giá nội dung thay đổi. + Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại.|
+|Trực tuyến|5 Ngày làm việc||- Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng: 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị|
+|Trực tuyến|10 Ngày làm việc||- Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động: + Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, Sở Giao thông vận tải thực hiện kiểm tra, đánh giá nội dung thay đổi. + Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng: 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động: + Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, Sở Giao thông vận tải thực hiện kiểm tra, đánh giá nội dung thay đổi. + Nếu đạt yêu cầu thì cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới trong thời hạn 05 ngày làm việc; nếu kết quả kiểm tra, đánh giá không đạt yêu cầu thì Sở Giao thông vận tải phải thông báo bằng văn bản trong thời hạn 05 ngày làm việc để đơn vị đăng kiểm khắc phục và tiến hành kiểm tra, đánh giá lại.|
+
+Thành phần hồ sơ:
+
+Trường hợp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới bị mất, bị hỏng:
+- 01 Bản chính Văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd94252d8ff507a'))
+
+
+Trường hợp đơn vị đăng kiểm xe cơ giới có sự thay đổi về vị trí, mặt bằng, xưởng kiểm định, bố trí dây chuyền kiểm định khác với hồ sơ cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới đã được cấp hoặc thay đổi về thiết bị kiểm tra làm ảnh hưởng đến số lượng dây chuyền kiểm định được hoạt động
+- 01 Bản chính Thông báo (kèm theo bản đối chiếu các quy định về cơ sở vật chất, dây chuyền kiểm định theo Quy chuẩn kỹ thuật quốc gia).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đăng kiểm Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|139/2018/NĐ-CP|Quy định về kinh doanh dịch vụ kiểm định xe cơ giới|08-10-2018|Chính phủ|
+|30/2023/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 139/2018/NĐ-CP ngày 08 tháng 10 năm 2018 của Chính phủ Quy định về kinh doanh dịch vụ kiểm định xe cơ giới|08-06-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức đáp ứng điều kiện về cơ sở vật chất, cơ cấu tổ chức, nhân lực theo quy định tại Nghị định số 139/2018/NĐ-CP và Quy chuẩn kỹ thuật quốc gia về đơn vị đăng kiểm do Bộ Giao thông vận tải ban hành được cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Xây dựng cơ sở bức xạ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : 15.000.000 Đồng Xây dựng cơ sở bức xạ khác: 15.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Xây dựng cơ sở sản xuất, chế biến chất phóng xạ: 25.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Cơ sở xử lý, lưu giữ chất thải phóng xạ có hoạt độ lớn hơn 10.000 lần mức miễn trừ: 25.000.000 đồng/1 cơ sở.  Phí : 40.000.000 Đồng Kho lưu giữ chất thải phóng xạ quốc gia: 40.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Trực tuyến|45 Ngày|Phí : 15.000.000 Đồng Xây dựng cơ sở bức xạ khác: 15.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Cơ sở xử lý, lưu giữ chất thải phóng xạ có hoạt độ lớn hơn 10.000 lần mức miễn trừ: 25.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Xây dựng cơ sở sản xuất, chế biến chất phóng xạ: 25.000.000 đồng/1 cơ sở.  Phí : 40.000.000 Đồng Kho lưu giữ chất thải phóng xạ quốc gia: 40.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Dịch vụ bưu chính|45 Ngày|Phí : 15.000.000 Đồng Xây dựng cơ sở bức xạ khác: 15.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Xây dựng cơ sở sản xuất, chế biến chất phóng xạ: 25.000.000 đồng/1 cơ sở.  Phí : 25.000.000 Đồng Cơ sở xử lý, lưu giữ chất thải phóng xạ có hoạt độ lớn hơn 10.000 lần mức miễn trừ: 25.000.000 đồng/1 cơ sở.  Phí : 40.000.000 Đồng Kho lưu giữ chất thải phóng xạ quốc gia: 40.000.000 đồng/1 cơ sở.|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|

@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thuộc loại 1, loại 2, loại 3, loại 4 và loại 9 bằng phương tiện giao thông cơ giới đường bộ, trên đường thủy nội địa (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ (Mẫu quy định tại Phụ lục IV ban hành kèm theo Nghị định số 42/2020/NĐ-CP ngày 08/4/2020 của Chính phủ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea9d244a41059b'">PhulucIV-vanchuyennguyhiemchayno.docx</a>)
+- 01 Bản sao Giấy phép kinh doanh vận tải bằng xe ô tô, trong đó phải có loại hình kinh doanh vận tải hàng hoá (áp dụng đối với đơn vị kinh doanh vận tải hàng hoá bằng xe ô tô) hoặc bản sao Giấy chứng nhận đăng ký doanh nghiệp, hợp tác xã (áp dụng đối với đơn vị kinh doanh vận tải đường thuỷ nội địa)
+- 01 Bản chính Bảng kê danh sách phương tiện tham gia vận chuyển kèm theo bản sao giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của phương tiện vận chuyển còn thời hạn hiệu lực do cơ quan có thẩm quyền cấp (áp dụng trong trường hợp vận chuyển theo chuyến)
+- 01 Bản chính Bảng kê danh sách người điều khiển phương tiện vận chuyển hàng hoá nguy hiểm. Đối với vận chuyển hàng hoá nguy hiểm trên đường thuỷ nội địa gửi kèm theo bản sao chứng chỉ chuyên môn đặc biệt (áp dụng trong trường hợp vận chuyển theo chuyến)
+- 01 Bản sao Phương án tổ chức vận chuyển, hàng hoá nguy hiểm của đơn vị vận chuyển, trong đó nêu rõ tuyến đường, lịch trình vận chuyển, biện pháp ứng cứu sự cố hóa chất trong vận chuyển hàng hoá nguy hiểm; biện pháp ứng cứu khẩn cấp khi có sự cố cháy, nổ; Phương án ứng phó sự cố tràn dầu (áp dụng đối với trường hợp vận tải xăng dầu trên đường thủy nội địa)

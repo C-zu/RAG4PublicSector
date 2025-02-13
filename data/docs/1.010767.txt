@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010767
+Số quyết định:
+563/QĐ-UBND
+Tên thủ tục:
+Danh mục dự án đầu tư có sử dụng đất do cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện lập (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đấu thầu
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT tại Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thẩm định thì ban hành Văn bản thông báo không đủ điều kiện ban hành Báo cáo thẩm định chuyển Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B11.
+- Trường hợp hồ sơ đủ điều kiện thẩm định thì ban hành Văn bản lấy ý kiến các Sở, ban, ngành, địa phương liên quan gửi cho các sở, ban, ngành, địa phương.
+B5	Các Sở, ban, ngành, địa phương liên quan cho ý kiến.
+B6	Tổng hợp ý kiến của các Sở, ban, ngành, địa phương; dự thảo Báo cáo thẩm định; dự thảo Tờ trình đề nghị UBND tỉnh phê duyệt danh mục dự án, dự thảo Quyết định phê duyệt danh mục dự án trình Lãnh đạo phòng xem xét, ký nháy.
+B7	Lãnh đạo phòng chuyên môn xem xét, ký nháy kết quả thực hiện tại Bước B6.
+B8	Lãnh đạo Sở xem xét, ký duyệt.
+B9	Phát hành văn bản và chuyển hồ sơ lên UBND tỉnh giải quyết.
+B10	UBND tỉnh xem xét quyết định.
+Chuyển kết quả cho Sở KH&ĐT qua Trung tâm Phục vụ Hành chính công tỉnh và kết thúc xử lý trên phần mềm dịch vụ công.
+B11	Trả kết quả 
+Chuyển kết quả cho phòng chuyên môn lưu, theo dõi.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày||- Nộp hồ sơ trực tiếp hoặc qua đường bưu điện đến Trung tâm Phục vụ hành chính công tỉnh (Số 02A, đường Nguyễn Chí Thanh, TP Hà Tĩnh, tỉnh Hà Tĩnh). - Nộp qua mạng theo địa chỉ: dichvucong.hatinh.gov.vn.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Tờ trình đề nghị thẩm định, phê duyệt danh mục dự án của đơn vị đề xuất (bản chính). Dự thảo Yêu cầu sơ bộ năng lực, kinh nghiệp theo mẫu quy định tại mẫu BM.LCNĐT.01.01 (bản chính). Bản chụp các tài liệu là căn cứ pháp lý dự án. Tài liệu khác có liên quan.(bản sao)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư
+Cơ quan có thẩm quyền:
+UBND tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm hành chính công tỉnh Hà Tĩnh, số 02 A đường nguyễn Chí Thanh, TP hà Tĩnh, tỉnh Hà TĨnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt danh mục dự án đầu tư có sử dụng đất do nhà đầu tư đề xuất (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2020/NĐ-CP|Nghị định 25/2020/NĐ-CP|28-02-2020||
+|09/2021/TT-BKHĐT|THÔNG TƯ HƯỚNG DẪN LỰA CHỌN NHÀ ĐẦU TƯ THỰC HIỆN DỰ ÁN ĐẦU TƯ THEO PHƯƠNG THỨC ĐỐI TÁC CÔNG TƯ VÀ DỰ ÁN ĐẦU TƯ CÓ SỬ DỤNG ĐẤT|16-11-2021|Bộ Kế hoạch và Đầu tư|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

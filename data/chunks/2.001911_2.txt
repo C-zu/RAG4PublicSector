@@ -1,0 +1,26 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Thủ tướng Chính phủ (đối với dự án không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư).BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+* Việc quyết định chủ trương đầu tư của Thủ tướng Chính phủ đối với dự án không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư thực hiện theo trình tự sau:
+
+- Bước 1: Nhà đầu tư nộp hồ sơ quy định tại khoản 1 Điều 33 Luật Đầu tư cho Ban Quản lý nơi dự định thực hiện dự án đầu tư.
+- Bước 2: Ban Quản lý gửi 02 bộ hồ sơ cho Bộ Kế hoạch và Đầu tư đồng thời gửi hồ sơ cho cơ quan nhà nước có thẩm quyền liên quan đến dự án đầu tư để lấy ý kiến về các nội dung quy định tại Khoản 3 Điều 30 Nghị định số 118/2015/NĐ-CP.
+- Bước 3: Các cơ quan được lấy ý kiến có ý kiến thẩm định về những nội dung thuộc phạm vi quản lý nhà nước của mình gửi Ban Quản lý và Bộ Kế hoạch và Đầu tư.
+- Bước 4: Ban Quản lý trình Ủy ban nhân dân cấp tỉnh xem xét, có ý kiến gửi Bộ Kế hoạch và Đầu tư về các nội dung: (i) Nhu cầu sử dụng đất, điều kiện giao đất, cho thuê đất và cho phép chuyển mục đích sử dụng đất theo quy định của pháp luật về đất đai (đối với dự án được giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất); (ii) Phương án giải phóng mặt bằng, di dân, tái định cư (nếu có) đối với dự án đầu tư đề nghị giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất; (iii) Các nội dung khác thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh (nếu có).
+- Bước 5: Khi nhận được ý kiến của Ủy ban nhân dân cấp tỉnh, Bộ Kế hoạch và Đầu tư lập báo cáo thẩm định gồm:
+
++ Thông tin về dự án: thông tin về nhà đầu tư, mục tiêu, quy mô, địa điểm, tiến độ thực hiện dự án;
+
++ Đánh giá việc đáp ứng điều kiện đầu tư đối với nhà đầu tư nước ngoài (đối với dự án có mục tiêu thuộc ngành, nghề đầu tư có điều kiện đối với nhà đầu tư nước ngoài);
+
++ Đánh giá sự phù hợp của dự án đầu tư với quy hoạch tổng thể phát triển kinh tế - xã hội, quy hoạch phát triển ngành và quy hoạch sử dụng đất; đánh giá tác động, hiệu quả kinh tế - xã hội của dự án;
+
++ Đánh giá về ưu đãi đầu tư và điều kiện hưởng ưu đãi đầu tư (đối với dự án đầu tư thuộc đối tượng hưởng ưu đãi đầu tư);
+
++ Đối với dự án đề nghị nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất: thẩm định nhu cầu sử dụng đất, điều kiện giao đất, cho thuê đất và cho phép chuyển mục đích sử dụng đất theo quy định của pháp luật về đất đai.
+
++ Đối với dự án không đề nghị nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất: đánh giá căn cứ pháp lý về quyền sử dụng địa điểm đầu tư của nhà đầu tư (đánh giá nhà đầu tư có được sử dụng địa điểm đầu tư theo quy định của pháp luật dân sự và pháp luật đất đai hay không).
+
++ Đánh giá về công nghệ sử dụng trong dự án đầu tư đối với dự án quy định tại điểm b khoản 1 Điều 32 của Luật đầu tư.
+- Bước 6: Khi nhận được báo cáo thẩm định của Bộ Kế hoạch và Đầu tư, Thủ tướng Chính phủ quyết định chủ trương đầu tư (gồm các nội dung quy định tại Khoản 8 Điều 33 Luật Đầu tư). Văn bản quyết định chủ trương đầu tư được gửi cho Bộ Kế hoạch và Đầu tư, Ủy ban nhân dân cấp tỉnh, Ban Quản lý và nhà đầu tư.

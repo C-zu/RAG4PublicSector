@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép nhập khẩu tự động thuốc lá điếu, xì gà
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký nhập khẩu tự động thuốc lá điếu, xì gà: 2 (hai) bản theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 37/2013/TT-BCT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa9091ce1dc3920'">1.2_PHỤ LỤC II_rev4.doc</a>)
+- 01 Bản chính Hợp đồng nhập khẩu: 1 (một) bản sao (có đóng dấu sao y bản chính của thương nhân)
+- 01 Bản chính Hóa đơn thương mại: 1 (một) bản sao (có đóng dấu sao y bản chính của thương nhân)
+- 01 Bản chính Vận đơn hoặc chứng từ vận tải của lô hàng: 1 (một) bản sao (có đóng dấu sao y bản chính của thương nhân)

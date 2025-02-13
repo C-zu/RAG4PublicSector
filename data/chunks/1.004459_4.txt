@@ -1,0 +1,7 @@
+Tên thủ tục: Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở đã được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ theo Mẫu số 23 Phụ lục II của Nghị định 54/2017/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef4d98cdd7eeae'">mẫu đơn 01.docx</a>)

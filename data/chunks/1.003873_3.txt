@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép xuất khẩu thuốc, nguyên liệu làm thuốc được phép xuất khẩu không cần giấy phép của Bộ Y tế theo quy định tại khoản 5 Điều 60 của Luật dược mà cơ sở có nhu cầu cấp giấy phép xuất khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

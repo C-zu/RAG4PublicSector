@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Nộp hồ sơ trực tiếp tại cơ quan hải quan - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Gửi hồ sơ qua đường bưu chính. - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.|

@@ -1,0 +1,19 @@
+Tên thủ tục: Cấp mới số lưu hành đối với trang thiết bị y tế loại C, D là phương tiện đo phải phê duyệt mẫu theo quy định của pháp luật về đo lường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị cấp số lưu hành nộp hồ sơ cho Bộ Y tế thông qua Hệ thống thông tin giải quyết thủ tục hành chính Bộ Y tế (https://dichvucong.moh.gov.vn) hoặc Cổng thông tin điện tử về quản lý thiết bị y tế (https://dmec.moh.gov.vn/).
+Bước 2: 
+a) Trường hợp hồ sơ thuộc trường hợp ưu tiên theo quy định tại khoản 21, Điều 147 Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh và cơ sở đăng ký có văn bản đề nghị ưu tiên xử lý trước (trong đó có đủ thông tin về mã hồ sơ đã nộp trên cổng thông tin điện tử của Bộ Y tế; tài liệu chứng minh tương ứng với các trường hợp ưu tiên) thì Bộ Y tế xem xét, cho phép xử lý ưu tiên hồ sơ đăng ký lưu hành thiết bị y tế trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của cơ sở đăng ký đề nghị ưu tiên xử lý trước hồ sơ đăng ký lưu hành thiết bị y tế và tài liệu kèm theo. Trường hợp không cho phép xử lý ưu tiên phải có văn bản trả lời và nêu rõ lý do. Trường hợp hồ sơ đủ tiêu chuẩn ưu tiên theo quy định, thực hiện ưu tiên thẩm định ngay hồ sơ theo quy định tại Bước 3 và các bước tiếp theo. 
+b) Trường hợp hồ sơ không thuộc trường hợp ưu tiên thực hiện theo quy định tại Bước 3.
+Bước 3: Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ đăng ký lưu hành, Bộ trưởng Bộ Y tế có trách nhiệm: Tổ chức thẩm định để cấp số lưu hành trong thời hạn 30 ngày, kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ (bao gồm cả giấy tờ xác nhận đã nộp phí thẩm định cấp giấy phép lưu hành theo quy định của Bộ Tài chính). Trường hợp không cấp số lưu hành phải có văn bản trả lời và nêu rõ lý do.
+Bước 4: Khi nhận được yêu cầu bổ sung, sửa đổi hồ sơ đề nghị cấp số lưu hành, cơ sở đề nghị cấp số lưu hành phải bổ sung, sửa đổi theo đúng những nội dung đã thông báo và gửi về Bộ Y tế.
+Trường hợp cơ sở đề nghị cấp số lưu hành đã bổ sung, sửa đổi hồ sơ nhưng không đúng với yêu cầu thì Bộ Y tế sẽ thông báo cho cơ sở để tiếp tục hoàn chỉnh hồ sơ theo quy định.
+Sau 90 ngày, kể từ ngày Bộ Y tế có thông báo yêu cầu mà cơ sở không bổ sung, sửa đổi hồ sơ hoặc nếu sau 05 lần sửa đổi, bổ sung hồ sơ kể từ ngày Bộ Y tế có yêu cầu sửa đổi, bổ sung lần đầu mà hồ sơ vẫn không đáp ứng yêu cầu thì phải thực hiện lại từ đầu thủ tục đề nghị cấp số lưu hành.
+Bước 5: Trong thời hạn 01 ngày làm việc, kể từ ngày cấp số lưu hành, Bộ Y tế có trách nhiệm công khai trên Cổng thông tin điện tử về quản lý thiết bị y tế các thông tin sau:
+a) Tên, phân loại, cơ sở sản xuất, nước sản xuất thiết bị y tế;
+b) Số lưu hành của thiết bị y tế;
+c) Tên, địa chỉ của chủ sở hữu thiết bị y tế;
+d) Tên, địa chỉ của chủ sở hữu số lưu hành;
+đ) Tên, địa chỉ của cơ sở bảo hành thiết bị y tế;
+e) Các tài liệu trong hồ sơ đăng ký lưu hành của thiết bị y tế, trừ  Hồ sơ kỹ thuật chung về thiết bị y tế theo quy định của ASEAN.

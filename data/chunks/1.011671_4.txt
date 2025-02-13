@@ -1,0 +1,14 @@
+Tên thủ tục: Cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a.1) Trường hợp thực hiện bằng hình thức trực tiếp hoặc bưu chính
+- 01 Bản chính Xuất trình Chứng minh nhân dân/thẻ Căn cước công dân/số định danh cá nhân/hộ chiếu đối với cá nhân
+- 01 Bản chính - Giấy giới thiệu hoặc công văn của cơ quan, tổ chức đối với cơ quan, tổ chức.
+- 01 Bản chính - Phiếu yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ theo Mẫu số 03 Phụ lục IA ban hành kèm theo Nghị định số 136/2021/NĐ-CP (được sửa đổi, bổ sung bởi khoản 5 Điều 9 Nghị định số 22/2023/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe58fa1b3640e56'">Mẫu số 03.docx</a>)
+
+
+a.2) Trường hợp thực hiện bằng hình thức trực tuyến
+- 01 Bản chính, 01 Bản sao - Tệp tin chứa Giấy giới thiệu hoặc Công văn của cơ quan, tổ chức
+- 01 Bản chính, 01 Bản sao - tệp tin chứa phiếu yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ và ký bằng chữ ký số. Trường hợp không có chữ ký số thì xuất trình Chứng minh nhân dân/thẻ Căn cước công dân/số định danh cá nhân/hộ chiếu khi làm thủ tục mở tài khoản giao dịch trực tuyến, đồng thời cung cấp số điện thoại di động. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5c96a2e51a8c4'">Mẫu số 03.docx</a>)

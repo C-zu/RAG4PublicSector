@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Trong thời gian không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|5 Ngày làm việc||Trong thời gian không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|

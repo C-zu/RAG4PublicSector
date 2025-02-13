@@ -1,0 +1,8 @@
+Tên thủ tục: Kiểm định và chứng nhận chất lượng an toàn kỹ thuật và phòng ngừa ô nhiễm môi trường cho công-te-nơ, máy, vật liệu, trang thiết bị sử dụng cho tàu biển trong chế tạo, lắp ráp, nhập khẩu, sửa chữa phục hồi, hoán cải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc biểu mẫu điện tử giấy đề nghị theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4c32290067cf7'">Mẫu VB đề nghị.docx</a>)
+- 01 Bản chính, 01 Bản sao - 01 (một) bản sao bộ hồ sơ kỹ thuật bao gồm thông số kỹ thuật và các báo cáo kiểm tra, thử công-te-nơ, máy, vật liệu, trang thiết bị (trường hợp nộp hồ trực tiếp hoặc qua hệ thống bưu chính) hoặc bản sao điện tử (trường hợp nộp hồ sơ qua cổng dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác).

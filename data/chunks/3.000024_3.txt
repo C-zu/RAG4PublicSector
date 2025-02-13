@@ -1,0 +1,8 @@
+Tên thủ tục: Đề nghị thanh toán chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong vòng 10 ngày làm việc kể từ ngày nhận được đủ hồ sơ theo quy định, bộ, cơ quan ngang bộ thanh toán chi phí hỗ trợ tư vấn vụ việc, vướng mắc cho doanh nghiệp nhỏ và vừa theo đề nghị thanh toán. Trong thời hạn 15 ngày làm việc kể từ ngày thanh toán chi phí hỗ trợ tư vấn vụ việc, bộ, cơ quan ngang bộ gửi văn bản tư vấn pháp luật đã loại bỏ các thông tin về bí mật kinh doanh của doanh nghiệp theo quy định tại điểm a khoản 4 Điều 9 Nghị địnhsố 55/2019/NĐ-CP cho Bộ Tư pháp và Bộ Kế hoạch và Đầu tư để đăng tải lên Trang thông tin điện tử hỗ trợ pháp lý cho doanh nghiệp và cổng thông tin quốc gia hỗ trợ doanh nghiệp nhỏ và vừa|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong vòng 10 ngày làm việc kể từ ngày nhận được đủ hồ sơ theo quy định, bộ, cơ quan ngang bộ thanh toán chi phí hỗ trợ tư vấn vụ việc, vướng mắc cho doanh nghiệp nhỏ và vừa theo đề nghị thanh toán. Trong thời hạn 15 ngày làm việc kể từ ngày thanh toán chi phí hỗ trợ tư vấn vụ việc, bộ, cơ quan ngang bộ gửi văn bản tư vấn pháp luật đã loại bỏ các thông tin về bí mật kinh doanh của doanh nghiệp theo quy định tại điểm a khoản 4 Điều 9 Nghị địnhsố 55/2019/NĐ-CP cho Bộ Tư pháp và Bộ Kế hoạch và Đầu tư để đăng tải lên Trang thông tin điện tử hỗ trợ pháp lý cho doanh nghiệp và cổng thông tin quốc gia hỗ trợ doanh nghiệp nhỏ và vừa|

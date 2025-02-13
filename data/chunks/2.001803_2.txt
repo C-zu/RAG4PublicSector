@@ -1,0 +1,7 @@
+Tên thủ tục: Công bố hợp quy dịch vụ bưu chính công ích
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Doanh nghiệp được chỉ định gửi hồ sơ công bố hợp quy đến Bộ Thông tin và Truyền thông
+Sau khi hồ sơ được chấp thuận, doanh nghiệp được chỉ định sẽ được cấp “Thông báo tiếp nhận bản công bố hợp quy”.
+Trường hợp hồ sơ không được chấp thuận, Bộ Thông tin và Truyền thông có văn bản trả lời doanh nghiệp.

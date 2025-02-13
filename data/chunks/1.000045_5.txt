@@ -1,0 +1,25 @@
+Tên thủ tục: Xác nhận bảng kê lâm sản.
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Kiểm lâm
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận Bảng kê lâm sản; xác nhận lâm sản tồn trong Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh xuất bản lâm sản; xác nhận Sổ theo dõi nuôi đối với chủ cơ sở nuôi động vật rừng xuất bán động vật rừng theo quy định của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|06/2019/NĐ-CP|Nghị định 06/2019/NĐ-CP|22-01-2019|Chính phủ|
+|102/2020/NĐ-CP|Nghị định 102/2020/NĐ-CP|01-09-2020||
+|84/2021/NĐ-CP|84/2021/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 06/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về quản lý thực vật rừng, động vật rừng nguy cấp, quý, hiếm và thực thi Công ước về buôn bán quốc tế các loài động vật, thực vật hoang dã nguy cấp|22-09-2021|Chính phủ|
+|26/2022/TT-BNNPTNT|Thông tư 26/2022/TT-BNNPTNT|30-12-2022||
+|22/2023/TT-BNNPTNT|Thông tư số 22/2023/TT-BNNPTNT ngày 15/11/2023 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực lâm nghiệp|15-11-2023|Bộ Nông nghiệp và Phát triển nông thôn|

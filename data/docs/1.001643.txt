@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001643
+Số quyết định:
+222/QĐ-BHXH
+Tên thủ tục:
+Giải quyết hưởng chế độ tai nạn lao động, bệnh nghề nghiệp đối với người lao động đã bị tai nạn lao động, bệnh nghề nghiệp, nay tiếp tục bị tai nạn lao động hoặc bệnh nghề nghiệp
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thực hiện chính sách BHXH
+Trình tự thực hiện:
+Bước 1. Lập, nộp hồ sơ
+1. NLĐ lập hồ sơ theo quy định tại mục Thành phần hồ sơ; nộp hồ sơ trực tiếp cho đơn vị SDLĐ.
+2. Đơn vị SDLĐ tiếp nhận hồ sơ từ NLĐ, lập Văn bản đề nghị giải quyết chế độ TNLĐ hoặc BNN (mẫu số 05A-HSB) và hoàn thiện hồ sơ theo quy định; nộp hồ sơ cho cơ quan BHXH nơi đơn vị SDLĐ đóng BHXH trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ từ NLĐ.
+Bước 2.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định
+Bước 3. Nhận kết quả giải quyết
+1. NLĐ: nhận tiền trợ cấp
+2. Đơn vị SDLĐ: nhận Quyết định về việc hưởng trợ cấp TNLĐ, BNN hàng tháng hoặc một lần và Quyết định cấp tiền mua PTTGSH (nếu có); Thẻ BHYT đối với trường hợp nghỉ việc hưởng trợ cấp TNLĐ, BNN hàng tháng
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|6 Ngày làm việc||1. Đơn vị SDLĐ: nộp hồ sơ và nhận kết quả trực tiếp tại cơ quan BHXH. 2. NLĐ nhận trợ cấp bằng một trong các hình thức sau: - Thông qua tài khoản cá nhân; + Trực tiếp nhận tại cơ quan BHXH (đối với trợ cấp một lần) hoặc qua dịch vụ bưu chính công ích. + Trường hợp ủy quyền cho người khác lĩnh thay, thực hiện theo quy định tại thủ tục “Ủy quyền lĩnh thay các chế độ BHXH, trợ cấp thất nghiệp” hoặc bản chính Hợp đồng ủy quyền theo quy định của pháp luật.|
+|Trực tuyến|6 Ngày làm việc||1. Đơn vị SDLĐ: Đơn vị SDLĐ lập hồ sơ điện tử, ký số và gửi lên Cổng Thông tin điện tử BHXH Việt Nam hoặc qua tổ chức I-VAN; trường hợp không chuyển hồ sơ giấy sang định dạng điện tử thì gửi hồ sơ giấy cho cơ quan BHXH qua dịch vụ bưu chính công ích. 2. NLĐ nhận trợ cấp bằng một trong các hình thức sau: - Thông qua tài khoản cá nhân; + Trực tiếp nhận tại cơ quan BHXH (đối với trợ cấp một lần) hoặc qua dịch vụ bưu chính công ích. + Trường hợp ủy quyền cho người khác lĩnh thay, thực hiện theo quy định tại thủ tục “Ủy quyền lĩnh thay các chế độ BHXH, trợ cấp thất nghiệp” hoặc bản chính Hợp đồng ủy quyền theo quy định của pháp luật.|
+|Dịch vụ bưu chính|6 Ngày làm việc||1. Đơn vị SDLĐ: nộp hồ sơ và nhận kết quả qua dịch vụ bưu chính công ích; 2. NLĐ nhận trợ cấp bằng một trong các hình thức sau: - Thông qua tài khoản cá nhân; + Trực tiếp nhận tại cơ quan BHXH (đối với trợ cấp một lần) hoặc qua dịch vụ bưu chính công ích. + Trường hợp ủy quyền cho người khác lĩnh thay, thực hiện theo quy định tại thủ tục “Ủy quyền lĩnh thay các chế độ BHXH, trợ cấp thất nghiệp” hoặc bản chính Hợp đồng ủy quyền theo quy định của pháp luật.|
+
+Thành phần hồ sơ:
+
+Trường hợp không quy định là bản chính thì có thể nộp bản chính hoặc bản sao hợp lệ
+- 01 Bản chính 1. Bản chính Văn bản đề nghị giải quyết chế độ TNLĐ, BNN (mẫu số 05A-HSB) đối với lần bị TNLĐ, BNN sau cùng; trường hợp lần bị TNLĐ, BNN trước đó tại đơn vị SDLĐ khác nhưng chưa được giải quyết chế độ thì có thêm bản chính văn bản đề nghị giải quyết của đơn vị SDLĐ nơi xảy ra TNLĐ, BNN (mẫu số 05A-HSB). ([05A_HSB.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe234d6b6cf66cd'))
+- 01 Bản sao 2. Bản sao Giấy ra viện hoặc trích sao hồ sơ bệnh án sau khi đã điều trị TNLĐ, BNN của lần điều trị nội trú sau cùng.
+- 01 Bản chính, 01 Bản sao 3. Trường hợp bị TNLĐ, BNN điều trị xong, ra viện trước ngày 01 tháng 7 năm 2016 mà chưa được giám định mức suy giảm KNLĐ: - Đối với TNLĐ: Biên bản điều tra TNLĐ; nếu bị TNGT được xác định là TNLĐ thì có thêm một trong các giấy tờ sau: Bản sao Biên bản khám nghiệm hiện trường, sơ đồ hiện trường vụ TNGT hoặc bản sao biên bản TNGT của cơ quan công an hoặc cơ quan điều tra hình sự quân đội. - Đối với BNN: Kết quả đo đạc, quan trắc môi trường lao động.
+- 01 Bản chính 4. Trường hợp đang hưởng trợ cấp TNLĐ, BNN trước ngày 1/1/2007 đã được trang cấp PTTGSH nay đề nghị trang cấp tiếp: Hóa đơn, chứng từ mua các phương tiện được trang cấp; vé tàu xe đi lại để làm hoặc nhận phương tiện trang cấp (nếu có).
+- 01 Bản chính 5. Biên bản giám định tổng hợp mức suy giảm KNLĐ của Hội đồng GĐYK; trường hợp lần bị TNLĐ, BNN trước đã được giám định mức suy giảm KNLĐ nhưng không đủ điều kiện hưởng trợ cấp thì có thêm Biên bản giám định mức suy giảm KNLĐ của lần giám định đó.
+- 01 Bản chính 6. Chỉ định của cơ sở KCB, cơ sở chỉnh hình, phục hồi chức năng theo quy định về việc trang cấp PTTGSH (nếu có).
+- 01 Bản chính 7. Hóa đơn, chứng từ thu phí giám định kèm theo bảng kê các nội dung giám định của cơ sở thực hiện GĐYK (Trường hợp thanh toán phí GĐYK).
+
+
+Bao gồm
+- 01 Bản sao Trường hợp không quy định là bản chính thì có thể nộp bản chính hoặc bản sao hợp lệ
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định về việc hưởng trợ cấp TNLĐ/BNN hàng tháng hoặc một lần do giám định tổng hợp mức suy giảm KNLĐ (Các Mẫu 03M-HSB, 03N-HSB), Quyết định về việc cấp tiền mua PTTGSH (Mẫu 03P-HSB) (nếu có), Thẻ BHYT đối với trường hợp nghỉ việc hưởng trợ cấp TNLĐ, BNN hàng tháng, Tiền trợ cấp., Quyết định về việc cấp tiền mua phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình., Quyết định về việc hưởng trợ cấp TNLĐ /bệnh nghề nghiệp hàng tháng do giám định tổng hợp mức suy giảm khả năng lao động., Quyết định về việc hưởng trợ cấp TNLĐ/BNN một lần do giám định tổng hợp mức suy giảm khả năng lao động.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|84/2015/QH13|Luật 84/2015/QH13|25-06-2015|Quốc Hội|
+|58/2014/QH13|Luật 58/2014/QH13 - Bảo hiểm xã hội|20-11-2014|Quốc Hội|
+|143/2018/NĐ-CP|Nghị định 143/2018/NĐ-CP - Quy định chi tiết Luật bảo hiểm xã hội và Luật an toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam|15-10-2018|Chính phủ|
+|33/2016/NĐ-CP|Nghị định 33/2016/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân|10-05-2016|Chính phủ|
+|166/2016/NĐ-CP|Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp|24-12-2016|Chính phủ|
+|56/2017/TT-BYT|Thông tư 56/2017/TT-BYT - quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế|01-03-2018|Bộ Y tế|
+|58/2020/NĐ-CP|Nghị định 58/2020/NĐ-CP|27-05-2020||
+|88/2020/NĐ-CP|Nghị định 88/2020/NĐ-CP|28-07-2020||
+|15/2016/TT-BYT|Thông tư 15/2016/TT-BYT|15-05-2016||
+
+Yêu cầu, điều kiện thực hiện:
+- Bị suy giảm KNLĐ từ 5% trở lên.
+- NLĐ tham gia bảo hiểm TNLĐ, BNN đã bị TNLĐ, BNN, nay lại tiếp tục bị TNLĐ, BNN thuộc các trường hợp đã nêu tại thủ tục giải quyết hưởng chế độ TNLĐ, BNN đối với lần đầu.
+- NLĐ bị TNLĐ mà bị tổn thương các chức năng hoạt động của cơ thể thì được cấp PTTGSH theo niên hạn căn cứ vào tình trạng thương tật.
+- Bị suy giảm KNLĐ từ 5% trở lên.
+- NLĐ tham gia bảo hiểm TNLĐ, BNN đã bị TNLĐ, BNN, nay lại tiếp tục bị TNLĐ, BNN thuộc các trường hợp đã nêu tại thủ tục giải quyết hưởng chế độ TNLĐ, BNN đối với lần đầu.
+- NLĐ bị TNLĐ mà bị tổn thương các chức năng hoạt động của cơ thể thì được cấp PTTGSH theo niên hạn căn cứ vào tình trạng thương tật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

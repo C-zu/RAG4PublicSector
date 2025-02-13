@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp đổi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm thuỷ sản có xuất khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.||Gửi hồ sơ đăng ký bằng một trong các hình thức sau: - Trực tiếp; - Theo đường bưu điện; - Thư điện tử (sau đó gửi bản chính); - Đăng ký trực tuyến.|
+|Trực tuyến|03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.||Gửi hồ sơ đăng ký bằng một trong các hình thức sau: - Trực tiếp; - Theo đường bưu điện; - Thư điện tử (sau đó gửi bản chính); - Đăng ký trực tuyến.|
+|Dịch vụ bưu chính|03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.||Gửi hồ sơ đăng ký bằng một trong các hình thức sau: - Trực tiếp; - Theo đường bưu điện; - Thư điện tử (sau đó gửi bản chính); - Đăng ký trực tuyến.|

@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004153
+Số quyết định:
+2291/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép hoạt động in (cấp địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Trước khi hoạt động, cơ sở in thuộc cơ quan, tổ chức thuộc địa phương thực hiện chế bản, in, gia công sau in các sản phẩm quy định tại điểm a và điểm c khoản 4 Điều 2 Nghị định số 60/2014/NĐ-CP (gồm: Báo, tạp chí và các ấn phẩm báo chí khác theo quy định của pháp luật về báo chí; tem chống hàng giả) phải có hồ sơ đề nghị cấp giấy phép hoạt động in gửi đến Sở Thông tin và Truyền thông..
+- Đối với cơ sở in là chi nhánh có thực hiện chế bản, in, gia công sau in đặt ở tỉnh, thành phố trực thuộc trung ương khác ngoài tỉnh, thành phố nơi đặt trụ sở chính thì Sở Thông tin và Truyền thông nơi đặt chi nhánh thực hiện cấp giấy phép hoạt động in.
+- Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan quản lý nhà nước về hoạt động in phải cấp giấy phép trong đó ghi rõ nội dung hoạt động phù hợp với thiết bị của cơ sở in và cập nhật thông tin vào cơ sở dữ liệu quốc gia về hoạt động in; trường hợp không cấp giấy phép phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 0 Đồng Không có|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định Nộp trực tiếp tại trụ sở cơ quan hành chính|
+|Trực tuyến|15 Ngày|Phí : 0 Đồng Không có|15 ngày kể từ ngày nhận đủ hồ sơ theo quy định Nộp qua mạng Internet: Nộp qua cổng dịch vụ công trực tuyến. Hồ sơ gửi qua hệ thống dịch vụ công trực tuyến phải tuân thủ các quy định về thực hiện thủ tục hành chính trên môi trường điện tử.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 0 Đồng Không có|Nộp qua dịch vụ bưu chính, chuyển phát. 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động in ([Mẫu số 01 Đơn đề nghị cấp giấy phép hoạt động in.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd12d722e2716ee'))
+- 01 Bản chính Sơ yếu lý lịch của người đứng đầu cơ sở in theo mẫu quy định. ([Mẫu số 03 Sơ yếu lý lịch của người đứng đầu cơ sở in.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7685f9d230226'))
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu một trong các loại giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đầu tư, giấy chứng nhận đăng ký thuế, quyết định thành lập cơ sở in đối với cơ sở in sự nghiệp công lập.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản, in và phát hành.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động in.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2014/NĐ-CP|Nghị định 60/2014/NĐ-CP|19-06-2014|Chính phủ|
+|03/2015/TT-BTTTT|Thông tư 03/2015/TT-BTTTT|06-03-2015|Bộ Thông tin và Truyền thông|
+|25/2018/NĐ-CP|Nghị định 25/2018/NĐ-CP|28-02-2018|Chính phủ|
+|72/2022/NĐ-CP|Nghị định 72/2022/NĐ-CP|04-10-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Điều kiện hoạt động của cơ sở in:
+1. Có thiết bị phù hợp để thực hiện một hoặc nhiều công đoạn chế bản, in, gia công sau in theo nhu cầu, khả năng hoạt động của cơ sở in đúng với nội dung đơn đề nghị cấp giấy phép hoạt động in;
+2. Có mặt bằng hợp pháp để thực hiện chế bản, in, gia công sau in;
+3. Có chủ sở hữu là tổ chức (cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập, tổ chức kinh tế có chủ sở hữu là công dân Việt Nam) hoặc cá nhân là công dân Việt Nam; có người đứng đầu là công dân Việt Nam, thường trú hợp pháp tại Việt Nam, có năng lực hành vi dân sự đầy đủ.
+Điều kiện hoạt động của cơ sở in:
+1. Có thiết bị phù hợp để thực hiện một hoặc nhiều công đoạn chế bản, in, gia công sau in theo nhu cầu, khả năng hoạt động của cơ sở in đúng với nội dung đơn đề nghị cấp giấy phép hoạt động in;
+2. Có mặt bằng hợp pháp để thực hiện chế bản, in, gia công sau in;
+3. Có chủ sở hữu là tổ chức (cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập, tổ chức kinh tế có chủ sở hữu là công dân Việt Nam) hoặc cá nhân là công dân Việt Nam; có người đứng đầu là công dân Việt Nam, thường trú hợp pháp tại Việt Nam, có năng lực hành vi dân sự đầy đủ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

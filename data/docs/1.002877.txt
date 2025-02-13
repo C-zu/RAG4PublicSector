@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002877
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy phép liên vận giữa Việt Nam, Lào và Campuchia
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân, đơn vị kinh doanh vận tải hồ sơ đề nghị cấp Giấy phép liên vận giữa Việt Nam, Lào và Campuchia cho cơ quan có thẩm quyền cấp giấy phép:
+- Cục Đường bộ Việt Nam cấp giấy phép cho các loại phương tiện:
++ Phương tiện thương mại gồm xe vận chuyển hành khách hợp đồng, xe vận chuyển khách du lịch, xe vận tải hàng hóa;
++ Phương tiện phi thương mại của các tổ chức, cá nhân có nhu cầu đề nghị cấp tại Cục Đường bộ Việt Nam.
+- Sở Giao thông vận tải, Sở Giao thông vận tải - Xây dựng các tỉnh, thành phố trực thuộc trung ương cấp Giấy phép liên vận giữa Việt Nam, Lào và Campuchia cho phương tiện vận tải hành khách tuyến cố định, phương tiện phi thương mại của các tổ chức, cá nhân đóng trên địa bàn địa phương.
+- Sở Giao thông vận tải địa phương nơi có cửa khẩu biên giới giáp với Lào và Campuchia theo Phụ lục của Bản ghi nhớ giữa Chính phủ các nước Vương quốc Campuchia, Cộng hòa Dân chủ Nhân dân Lào và Cộng hòa xã hội chủ nghĩa Việt Nam về vận tải đường bộ, cấp giấy phép cho phương tiện phi thương mại của các tổ chức, cá nhân đóng trên địa bàn các tỉnh khác của Việt Nam đi qua cửa khẩu của địa phương mình.
+b) Giải quyết TTHC:
+- Cơ quan có thẩm quyền cấp giấy phép tiếp nhận hồ sơ, kiểm tra. Đối với hồ sơ nộp trực tiếp tại cơ quan có thẩm quyền cấp giấy phép hoặc qua đường bưu chính, cán bộ tiếp nhận hồ sơ cập nhật thông tin của các hồ sơ đúng theo quy định vào hệ thống dịch vụ công trực tuyến của cơ quan có thẩm quyền cấp giấy phép. Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan có thẩm quyền cấp giấy phép thông báo trực tiếp hoặc bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến những nội dung chưa đầy đủ hoặc cần sửa đổi đến tổ chức, cá nhân, đơn vị kinh doanh vận tải trong thời hạn 01 ngày làm việc, kể từ ngày nhận hồ sơ;
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, cơ quan có thẩm quyền thực hiện cấp Giấy phép liên vận giữa Việt Nam, Lào và Campuchia. Trường hợp không cấp, cơ quan có thẩm quyền cấp giấy phép thông báo bằng văn bản hoặc qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do;
+- Việc trả kết quả được thực hiện tại trụ sở cơ quan có thẩm quyền cấp giấy phép hoặc qua đường bưu chính hoặc hình thức trực tuyến theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định|
+|Trực tuyến|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định|
+|Dịch vụ bưu chính|02 Ngày làm việc||Trong thời hạn 02 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định|
+
+Thành phần hồ sơ:
+
+* Thành phần hồ sơ đối với phương tiện phi thương mại:
+- 01 Bản chính - Giấy đề nghị cấp giấy phép theo mẫu. ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc055cbd2623288'))
+- 01 Bản sao - Giấy chứng nhận đăng ký xe ô tô (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu). Trường hợp phương tiện không thuộc sở hữu của tổ chức, cá nhân thì phải kèm theo tài liệu chứng minh quyền sử dụng hợp pháp của tổ chức, cá nhân với phương tiện đó (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu);
+- 01 Bản sao - Đối với doanh nghiệp thực hiện công trình, dự án hoặc hoạt động kinh doanh trên lãnh thổ Lào hoặc Campuchia thì kèm theo hợp đồng hoặc tài liệu chứng minh doanh nghiệp đang thực hiện công trình, dự án hoặc hoạt động kinh doanh, trên lãnh thổ Lào, Campuchia (bản sao có chứng thực).
+
+
+* Thành phần hồ sơ đối với phương tiện thương mại:
+- 01 Bản chính - Giấy đề nghị cấp giấy phép theo mẫu. ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea789bc2645fa0'))
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký xe ô tô hoặc bản sao giấy hẹn nhận Giấy chứng nhận đăng ký xe ô tô của cơ quan cấp đăng ký hoặc bản sao từ sổ gốc của Giấy chứng nhận đăng ký xe ô tô. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải phải xuất trình thêm bản sao một trong các giấy tờ sau: Hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh;
+- 01 Bản sao - Bản sao văn bản thông báo khai thác tuyến, văn bản thay thế phương tiện hoặc văn bản bổ sung phương tiện của cơ quan quản lý tuyến và hợp đồng đón trả khách tại bến xe khách ở Việt Nam và bến xe khách hoặc nơi đón trả khách ở Lào, Campuchia (đối với phương tiện kinh doanh tuyến vận tải hành khách cố định giữa Việt Nam, Lào và Campuchia).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép liên vận giữa Việt Nam, Lào và Campuchia
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|119/2021/NĐ-CP|Nghị định 119/2021/NĐ-CP|24-12-2021||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,25 @@
+Tên thủ tục: Thủ tục công chứng tính xác thực, tính hợp pháp của hợp đồng, giao dịch
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Cơ quan có thẩm quyền:
+Cơ quan đại diện Việt Nam ở nước ngoài
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Lời chứng của công chứng viên áp dụng chung đối với hợp đồng giao dịch, Lời chứng của công chứng viên đối với hợp đồng ủy quyền trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, Lời chứng của công chứng viên đối với di chúc và Văn bản sửa đổi/bổ sung di chúc, Lời chứng của công chứng viên đối với văn bản từ chối nhận di sản, Lời chứng của công chứng viên
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|33/2009/QH12|Luật 33/2009/QH12|18-06-2009|Quốc Hội|
+|264/2016/TT-BTC|Thông tư 264/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|53/2014/QH13|Luật 53/2014/QH13 - Công chứng|20-06-2014|Quốc Hội|
+|29/2015/NĐ-CP|Nghị định 29/2015/NĐ-CP|15-03-2015|Chính phủ|
+|06/2015/TT-BTP|Thông Thông tư 06/2015/TT-BTP|15-06-2015|Bộ Tư pháp|

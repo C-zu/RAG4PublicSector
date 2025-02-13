@@ -1,0 +1,8 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm muối nhập khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày||- Đối với phương thức kiểm tra chặt: Trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ. - Đối với phương thức kiểm tra thông thường: Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận hồ sơ.|
+|Dịch vụ bưu chính|03 Ngày||- Đối với phương thức kiểm tra chặt: Trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ. - Đối với phương thức kiểm tra thông thường: Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận hồ sơ.|

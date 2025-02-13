@@ -1,0 +1,10 @@
+Tên thủ tục: Đăng ký dán nhãn năng lượng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy công bố dán nhãn năng lượng cho phương tiện, thiết bị sử dụng năng lượng, trong đó nêu rõ doanh nghiệp đăng ký dán nhãn so sánh hay nhãn xác nhận theo mẫu tại Phụ lục 1;
+- 01 Bản chính - Kết quả thử nghiệm do tổ chức thử nghiệm cấp cho model sản phẩm;
+- 01 Bản chính - Tài liệu chứng minh phòng thử nghiệm nước ngoài đã đáp ứng đủ điều kiện (Đối với trường hợp việc thử nghiệm dán nhãn năng lượng được thực hiện bởi tổ chức thử nghiệm nước ngoài);
+- 01 Bản chính - Mẫu nhãn năng lượng dự kiến.

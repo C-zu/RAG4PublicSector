@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp Giấy phép nhập cảnh thi hài, hài cốt, tro cốt về Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Phí : Không thu phí Đồng|- Người đề nghị nộp hồ sơ trực tiếp tại Cơ quan đại diện Việt Nam ở nước ngoài hoặc gửi qua đường hệ thống bưu chính. - Hồ sơ có thể được nộp qua môi trường điện tử trong trường hợp cơ sở hạ tầng kỹ thuật tại Cơ quan đại diện Việt Nam ở nước ngoài cho phép (bao gồm việc kết nối với cơ sở dữ liệu quốc gia về dân cư) - 01 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các trường hợp người chết thuộc diện chưa được phép nhập cảnh Việt Nam vì lý do an ninh quốc gia và trật tự an toàn xã hội hoặc chết do mắc bệnh truyền nhiễm nguy hiểm, dễ lây lan: Trong vòng 01 ngày làm việc kể từ ngày nhận được đủ hồ sơ hợp lệ, Cơ quan đại diện Việt Nam ở nước ngoài gửi văn bản thông báo rõ các chi tiết nhân thân của người chết cho Cục Lãnh sự, Bộ Ngoại giao. Sau khi tham khảo các cơ quan chức năng trong nước, Cục Lãnh sự thông báo kết quả cho Cơ quan đại diện Việt Nam ở nước ngoài, trong vòng 01 ngày làm việc kể từ ngày nhận được thông báo đồng ý của Cục Lãnh sự, Cơ quan đại diện Việt Nam ở nước ngoài cấp Giấy phép và trả lời kết quả cho người đề nghị.|

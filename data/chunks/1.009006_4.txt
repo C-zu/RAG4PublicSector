@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng sản xuất, lắp ráp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký chứng nhận chất lượng kiểu loại đối với xe máy chuyên dùng bao gồm:
+- 01 Bản chính - Đơn đề nghị theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd458432bd4ada6'">Mau 2.1.docx</a>)
+- 01 Bản sao - Bản sao báo cáo kết quả kiểm tra, thử nghiệm mẫu điển hình
+- 01 Bản sao - Bản sao Giấy chứng nhận thẩm định thiết kế, bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật của hồ sơ thiết kế đã được Cục Đăng kiểm Việt Nam thẩm định hoặc các tài liệu thay thế quy định tại khoản 2 Điều 8 của chương III (quy định tại khoản 5 Điều 1 của Thông tư số 23/2020/TT-BGTVT)
+- 01 Bản chính - Ảnh chụp kiểu dáng; bản thông tin xe theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddbf04b20f4510'">Mau 2.2.docx</a>)
+- 01 Bản chính - Bản thống kê các tổng thành, hệ thống sản xuất trong nước và nhập khẩu dùng để sản xuất, lắp ráp sản phẩm theo quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0f93d83962bf2'">Mau 2.3.docx</a>)
+- 01 Bản chính - Bản thuyết minh phương pháp và vị trí đóng số khung, số động cơ

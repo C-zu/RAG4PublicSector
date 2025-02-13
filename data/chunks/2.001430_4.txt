@@ -1,0 +1,13 @@
+Tên thủ tục: Khen thưởng cán bộ có quá trình cống hiến
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ a) Đối với cán bộ đã nghỉ hưu hoặc đã mất.
+- 01 Bản chính + Tờ trình của Thủ trưởng đơn vị (đối với cán bộ là Lãnh đạo Ngân hàng Nhà nước do Vụ Tổ chức cán bộ trình) kèm danh sách cá nhân được đề nghị khen thưởng theo (mẫu số 02 tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faa9486f8c2f410'">Mẫu số 02.docx</a>)
+- 04 Bản chính + 04 báo cáo thành tích của cá nhân, có xác nhận của đơn vị trình khen thưởng. Trường hợp cán bộ đã mất mà đủ tiêu chuẩn khen thưởng, đơn vị trình chủ động phối hợp với Vụ Tổ chức cán bộ lập báo cáo thành tích theo (mẫu số 16 tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0aa6cc54a301c'">Mẫu số 16.docx</a>)
+ b) Đối với cán bộ chuẩn bị nghỉ hưu.
+- 01 Bản chính + Tờ trình của Thủ trưởng đơn vị (đối với cán bộ là Lãnh đạo Ngân hàng Nhà nước do Văn phòng Ngân hàng Nhà nước trình) đề nghị khen thưởng kèm danh sách cá nhân được đề nghị khen thưởng theo (mẫu số 02 tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe49763131cd179'">Mẫu số 02.docx</a>)
+- 04 Bản chính + 04 báo cáo thành tích của cá nhân, có xác nhận của Thủ trưởng đơn vị trình (mẫu số 16 tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc67b6b93113f3c'">Mẫu số 16.docx</a>)
+- 01 Bản chính + Biên bản họp Hội đồng Thi đua - Khen thưởng đơn vị (trừ trường hợp khen thưởng đối với Ban lãnh đạo Ngân hàng Nhà nước).

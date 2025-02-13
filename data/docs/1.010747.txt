@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010747
+Số quyết định:
+94/QĐ-BXD
+Tên thủ tục:
+Chuyển nhượng toàn bộ hoặc một phần dự án bất động sản do Ủy ban nhân dân cấp tỉnh quyết định việc đầu tư
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kinh doanh bất động sản
+Trình tự thực hiện:
+Chủ đầu tư dự án nộp trực tiếp hoặc gửi qua bưu điện 01 bộ hồ sơ chuyển nhượng toàn bộ hoặc một phần dự án bất động sản đến Uỷ ban nhân dân cấp tỉnh nơi có dự án hoặc cơ quan quản lý nhà ở cấp tỉnh (nếu được Ủy bân nhân dân cấp tỉnh ủy quyền) cụ thể như sau: 
+- Cơ quan được giao chủ trì thẩm định có trách nhiệm gửi trực tiếp hoặc gửi qua bưu điện 01 bộ hồ sơ chuyển nhượng toàn bộ hoặc một phần dự án bất động sản để lấy ý kiến thẩm định của các cơ quan có liên quan đến dự án, phần dự án chuyển nhượng của địa phương; trường hợp bên nhận chuyển nhượng là doanh nghiệp có vốn đầu tư nước ngoài mà dự án hoặc phần dự án bất động sản chuyển nhượng tại khu vực xã, phường, thị trấn biên giới, ven biển, hải đảo thì phải lấy thêm ý kiến thẩm định của Bộ Quốc phòng và Bộ Công an. Thời gian gửi hồ sơ và có ý kiến thẩm định của các cơ quan liên quan là 15 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Sau khi hoàn thành việc thẩm định, cơ quan được giao chủ trì thẩm định có trách nhiệm trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển nhượng. Thời gian lấy ý kiến thẩm định, thực hiện thẩm định và quyết định cho phép chuyển nhượng tối đa là 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp hồ sơ chưa đủ giấy tờ theo quy định thì chủ đầu tư phải bổ sung theo quy định, thời gian bổ sung giấy tờ không tính vào thời gian giải quyết. Trường hợp dự án, phần dự án bất động sản không đủ điều kiện chuyển nhượng thì cơ quan tiếp nhận hồ sơ phải thông báo bằng văn bản cho chủ đầu tư dự án biết rõ lý do.
+- Ủy ban nhân dân cấp tỉnh có trách nhiệm công bố công khai quyết định cho phép chuyển nhượng dự án hoặc một phần dự án bất động sản trên Cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh, cơ quan quản lý nhà ở cấp tỉnh nơi có dự án và gửi quyết định này về Bộ Xây dựng để tổng hợp, theo dõi. Bên chuyển nhượng và bên nhận chuyển nhượng phải công bố công khai quyết định này trên trang thông tin điện tử của doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|30 Ngày||Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày||Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị chuyển nhượng toàn bộ hoặc một phần dự án bất động sản của chủ đầu tư; ([Don de nghi duoc nhan chuyen nhuong toan bo hoạc mot phan du an BDS.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef0bbd1e4587f4'))
+- 01 Bản chính, 01 Bản sao - Dự thảo hợp đồng chuyển nhượng toàn bộ hoặc một phần dự án bất động sản;
+- 01 Bản chính, 01 Bản sao - Hồ sơ dự án, phần dự án đề nghị cho chuyển nhượng bao gồm: + Quyết định hoặc chấp thuận chủ trương đầu tư hoặc văn bản cho phép đầu tư hoặc văn bản chấp thuận đầu tư của cơ quan nhà nước có thẩm quyền (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực); + Quyết định phê duyệt dự án (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực); + Quy hoạch chi tiết 1/500 hoặc bản vẽ tổng mặt bằng (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực); + Giấy tờ chứng minh đã hoàn thành việc giải phóng mặt bằng của dự án (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực); + Giấy tờ chứng minh đã hoàn thành việc đầu tư xây dựng công trình hạ tầng kỹ thuật tương ứng theo tiến độ ghi trong dự án đối với trường hợp chuyển nhượng toàn bộ dự án đầu tư xây dựng kết cấu hạ tầng (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực); + Giấy chứng nhận quyền sử dụng đất của toàn bộ hoặc phần dự án bất động sản đề nghị chuyển nhượng (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực);
+- 01 Bản chính, 01 Bản sao - Báo cáo quá trình thực hiện dự án bất động sản của chủ đầu tư tính đến thời điểm chuyển nhượng. ([Bao cao qua trinh thuc hien toan bo hoac mot phan du an BDS chuyen nhuong.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7eef02ebe9cf0'))
+- 01 Bản chính, 01 Bản sao - Hồ sơ của bên nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản bao gồm: + Đơn đề nghị được nhận chuyển nhượng toàn bộ hoặc một phần dự án; + Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ chứng minh việc thành lập tổ chức (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có công chứng, chứng thực), trừ trường hợp nhà đầu tư nước ngoài chưa thành lập tổ chức kinh tế theo quy định của pháp luật về đầu tư; + Giấy tờ chứng minh năng lực tài chính; chứng minh các nguồn vốn huy động (nếu có) theo quy định của pháp luật để đảm bảo việc tiếp tục triển khai thực hiện dự án theo đúng tiến độ đã được cơ quan có thẩm quyền chấp thuận; đối với doanh nghiệp kinh doanh bất động sản nhận chuyển nhượng thì phải có giấy tờ chứng minh năng lực tài chính quy định tại Khoản 2 Điều 4 của Nghị định số 02/2022/NĐ-CP ngày 06/01/2022 của Chính phủ ([Don de nghi cho phep chuyen nhuong toan bo hoạc mot phan du an BDS.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde6bb23a27f52e'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cơ quan quản lý nhà nước về nhà ở, xây dựng
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả hồ sơ của UBND cấp tỉnh nơi có dự án hoặc cơ quan quản lý nhà ở cấp tỉnh (nếu được Uỷ ban nhân dân cấp tỉnh ủy quyền).
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định cho phép chuyển nhượng toàn bộ hoặc một phần dự án bất động sản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2014/QH13|Luật 66/2014/QH13|25-11-2014|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+- Chủ đầu tư chuyển nhượng đã có giấy chứng nhận về quyền sử dụng đất đối với toàn bộ hoặc phần dự án chuyển nhượng.
+- Chủ đầu tư nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản phải là doanh nghiệp kinh doanh bất động sản, có đủ năng lực tài chính và cam kết tiếp tục việc triển khai đầu tư xây dựng, kinh doanh theo đúng quy định của pháp luật, bảo đảm tiến độ, nội dung dự án.
+- Tổ chức, cá nhân kinh doanh bất động sản phải có các điều kiện sau đây:
++ Phải thành lập doanh nghiệp theo quy định của pháp luật về doanh nghiệp hoặc hợp tác xã theo quy định của pháp luật về hợp tác xã, có ngành nghề kinh doanh bất động sản (sau đây gọi chung là doanh nghiệp);
++ Phải công khai trên trang thông tin điện tử của doanh nghiệp, tại trụ sở Ban Quản lý dự án (đối với các dự án đầu tư kinh doanh bất động sản), tại sàn giao dịch bất động sản (đối với trường hợp kinh doanh qua sàn giao dịch bất động sản) các thông tin về doanh nghiệp (bao gồm tên, địa chỉ trụ sở chính, số điện thoại liên lạc, tên người đại diện theo pháp luật), thông tin về bất động sản đưa vào kinh doanh theo quy định tại Khoản 2 Điều 6 của Luật Kinh doanh bất động sản, thông tin về việc thế chấp nhà, công trình xây dựng, dự án bất động sản đưa vào kinh doanh (nếu có), thông tin về số lượng, loại sản phẩm bất động sản được kinh doanh, số lượng, loại sản phẩm bất động sản đã bán, chuyển nhượng, cho thuê mua và số lượng, loại sản phẩm còn lại đang tiếp tục kinh doanh.
+Đối với các thông tin đã công khai quy định tại điểm này mà sau đó có thay đổi thì phải được cập nhật kịp thời ngay sau khi có thay đổi;
++ Chỉ kinh doanh các bất động sản có đủ điều kiện theo quy định tại Điều 9, Điều 55 của Luật Kinh doanh bất động sản.
+- Đối với trường hợp nhà đầu tư được lựa chọn làm chủ đầu tư dự án bất động sản theo quy định của pháp luật thì nhà đầu tư đó phải có vốn chủ sở hữu không thấp hơn 20% tổng vốn đầu tư đối với dự án có quy mô sử dụng đất dưới 20ha, không thấp hơn 15% tổng vốn đầu tư đối với dự án có quy mô sử dụng đất từ 20ha trở lên. Khi thực hiện kinh doanh bất động sản thì chủ đầu tư dự án phải đáp ứng điều kiện quy định trên.
+Việc xác định vốn chủ sở hữu quy định tại Khoản này được căn cứ vào kết quả báo cáo tài chính đã được kiểm toán gần nhất hoặc kết quả báo cáo kiểm toán độc lập của doanh nghiệp đang hoạt động (được thực hiện trong năm hoặc năm trước liền kề); trường hợp là doanh nghiệp mới thành lập thì xác định vốn chủ sở hữu theo vốn điều lệ thực tế đã góp theo quy định của pháp luật.
+- Chủ đầu tư chuyển nhượng đã có giấy chứng nhận về quyền sử dụng đất đối với toàn bộ hoặc phần dự án chuyển nhượng.
+- Chủ đầu tư nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản phải là doanh nghiệp kinh doanh bất động sản, có đủ năng lực tài chính và cam kết tiếp tục việc triển khai đầu tư xây dựng, kinh doanh theo đúng quy định của pháp luật, bảo đảm tiến độ, nội dung dự án.
+- Tổ chức, cá nhân kinh doanh bất động sản phải có các điều kiện sau đây:
++ Phải thành lập doanh nghiệp theo quy định của pháp luật về doanh nghiệp hoặc hợp tác xã theo quy định của pháp luật về hợp tác xã, có ngành nghề kinh doanh bất động sản (sau đây gọi chung là doanh nghiệp);
++ Phải công khai trên trang thông tin điện tử của doanh nghiệp, tại trụ sở Ban Quản lý dự án (đối với các dự án đầu tư kinh doanh bất động sản), tại sàn giao dịch bất động sản (đối với trường hợp kinh doanh qua sàn giao dịch bất động sản) các thông tin về doanh nghiệp (bao gồm tên, địa chỉ trụ sở chính, số điện thoại liên lạc, tên người đại diện theo pháp luật), thông tin về bất động sản đưa vào kinh doanh theo quy định tại Khoản 2 Điều 6 của Luật Kinh doanh bất động sản, thông tin về việc thế chấp nhà, công trình xây dựng, dự án bất động sản đưa vào kinh doanh (nếu có), thông tin về số lượng, loại sản phẩm bất động sản được kinh doanh, số lượng, loại sản phẩm bất động sản đã bán, chuyển nhượng, cho thuê mua và số lượng, loại sản phẩm còn lại đang tiếp tục kinh doanh.
+Đối với các thông tin đã công khai quy định tại điểm này mà sau đó có thay đổi thì phải được cập nhật kịp thời ngay sau khi có thay đổi;
++ Chỉ kinh doanh các bất động sản có đủ điều kiện theo quy định tại Điều 9, Điều 55 của Luật Kinh doanh bất động sản.
+- Đối với trường hợp nhà đầu tư được lựa chọn làm chủ đầu tư dự án bất động sản theo quy định của pháp luật thì nhà đầu tư đó phải có vốn chủ sở hữu không thấp hơn 20% tổng vốn đầu tư đối với dự án có quy mô sử dụng đất dưới 20ha, không thấp hơn 15% tổng vốn đầu tư đối với dự án có quy mô sử dụng đất từ 20ha trở lên. Khi thực hiện kinh doanh bất động sản thì chủ đầu tư dự án phải đáp ứng điều kiện quy định trên.
+Việc xác định vốn chủ sở hữu quy định tại Khoản này được căn cứ vào kết quả báo cáo tài chính đã được kiểm toán gần nhất hoặc kết quả báo cáo kiểm toán độc lập của doanh nghiệp đang hoạt động (được thực hiện trong năm hoặc năm trước liền kề); trường hợp là doanh nghiệp mới thành lập thì xác định vốn chủ sở hữu theo vốn điều lệ thực tế đã góp theo quy định của pháp luật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

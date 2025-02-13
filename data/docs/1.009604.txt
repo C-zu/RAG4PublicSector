@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009604
+Số quyết định:
+2349/QĐ-UBND
+Tên thủ tục:
+Cung cấp thông tin về quy hoạch xây dựng
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì hướng dẫn đầy đủ một lần để tổ chức, cá nhân hoàn thiện hồ sơ.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu, thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm, thông báo bằng văn bản cho tổ chức, cá nhân:
++ Nếu không bổ sung được thì dự thảo văn bản thông báo hồ sơ không đủ điều kiện được cung cấp thông tin quy hoạch trình lãnh đạo phòng ký nháy. 
++ Nếu bổ sung đầy đủ, thì dự thảo văn bản cung cấp thông tin quy hoạch  trình lãnh đạo phòng ký nháy.
+      - Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo tờ trình và Văn bản cung cấp thông tin về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng và thông tin khác liên quan đến quy hoạch trình lãnh đạo phòng ký nháy.
+B5	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Sở phê duyệt.
+       - Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở bước 4.
+B6	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào văn bản. 
+      - Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B7	Phát hành văn bản và trình UBND tỉnh xem xét ban hành.
+Nộp hồ sơ tại Bộ phận tiếp nhận của Văn phòng  Đoàn ĐBQH, HĐND và UBND tỉnh, bao gồm: Hồ sơ theo mục 2.3; Tờ trình của Sở XD và dự thảo Văn bản cung cấp thông tin
+B8	Tiếp nhận và Chuyển hồ sơ cho phòng chuyên môn xử lý
+B9	Xem xét và xử lý hồ sơ
+B10	Phát hành văn bản và trả kết quả cho Trung tâm PVHCC tỉnh (Công chức TN&TKQ Sở Xây dựng)
+B11	Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|15 Ngày làm việc|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin đề nghị cung cấp thông tin quy hoạch (ghi rõ thông tin về vị trí, địa điểm lô đất cần cung cấp thông tin về quy hoạch) theo mẫu BM.QH.05.01 ([BM.QH.05.01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd233f851535de6'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Xây dựng - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+UBND tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (Số 02A, đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh).
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản cung cấp thông tin về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng và thông tin khác liên quan đến quy hoạch.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|30/2009/QH12|Luật 30/2009/QH12|17-06-2009||
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|35/2018/QH14|Luật 35/2018/QH14|20-11-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

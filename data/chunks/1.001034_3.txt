@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục đánh giá nghiệm thu và công nhận kết quả thực hiện đề tài nghiên cứu ứng dụng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày làm việc||- Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được báo cáo, Quỹ thông báo (qua thư điện tử) cho chủ nhiệm đề tài về tình trạng hợp lệ của hồ sơ. Trường hợp báo cáo chưa hợp lệ theo quy định thì chủ nhiệm đề tài cần bổ sung trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được thông báo của Quỹ. - Trong thời gian 30 (ba mươi) ngày kể từ ngày nhận được bản sao Giấy chứng nhận đăng ký kết quả thực hiện đề tài đối với đề tài “đạt” hoặc kể từ ngày có kết quả đánh giá của Hội đồng khoa học đối với đề tài “không đạt”, Cơ quan điều hành Quỹ tổng hợp, trình Hội đồng Quản lý Quỹ xem xét, ban hành Quyết định công nhận kết quả thực hiện đề tài. - Trong thời gian 60 (sáu mươi) ngày kể từ ngày nhận được bản sao Giấy chứng nhận đăng ký kết quả thực hiện đề tài, Quỹ gửi Quyết định công nhận kết quả thực hiện đề tài tới chủ nhiệm đề tài và tổ chức chủ trì.|

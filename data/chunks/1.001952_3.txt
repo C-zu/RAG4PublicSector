@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Quyết định sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài của doanh nghiệp đầu tư đặc biệt quan trọng theo chương trình của Chính phủ; doanh nghiệp đầu tư dưới hình thức đối tác công tư (PPP) mở tài khoản để thực hiện cam kết với bên nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc kể từ ngày Ngân hàng Nhà nước nhận hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc kể từ ngày Ngân hàng Nhà nước nhận hồ sơ hợp lệ|

@@ -1,0 +1,15 @@
+Tên thủ tục: Thẩm định thiết kế, dự toán xây dựng/ thiết kế, dự toán xây dựng điều chỉnh - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình thẩm định Thiết kế xây dựng và dự toán xây dựng công trình, theo mẫu BM.XD.08.01
+- 01 Bản sao Quyết định phê duyệt dự án đầu tư xây dựng công trình.
+- 01 Bản sao Hồ sơ thiết kế cơ sở đã được phê duyệt
+- 01 Bản chính Báo cáo tổng hợp của chủ đầu tư, theo mẫu BM.XD.08.02
+- 01 Bản chính Hồ sơ khảo sát xây dựng (bản chính hoặc bản sao có dấu của chủ đầu tư).
+- 01 Bản chính Hồ sơ thiết kế kỹ thuật, thiết kế bản vẽ thi công: Thuyết minh thiết kế; bản vẽ thiết kế
+- 01 Bản chính Dự toán xây dựng công trình.
+- 01 Bản sao Thông tin năng lực của đơn vị khảo sát, đơn vị thiết kế xây dựng công trình.
+- 01 Bản sao Chứng chỉ hành nghề của các chức danh chủ nhiệm khảo sát, chủ trì thiết kế, chủ nhiệm thiết kế của đơn vị tư vấn (bản sao có chứng thực).

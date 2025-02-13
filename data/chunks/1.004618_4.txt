@@ -1,0 +1,7 @@
+Tên thủ tục: Bổ sung, thay đổi thông tin của thuốc đã kê khai, kê khai lại trong trường hợp có thay đổi so với thông tin đã được công bố nhưng giá thuốc không đổi
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị thay đổi, bổ sung thông tin thuốc đã kê khai, kê khai lại giá theo Mẫu số 05 Phụ lục VII của Nghị định số 54/2017/NĐ-CP. Mẫu này được sửa đổi theo quy định tại khoản 10 Điều 1 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbb7a3e6ab6f88'">Mẫu số 05.docx</a>)

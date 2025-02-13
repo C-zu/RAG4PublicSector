@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục đăng ký khai tử lưu động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Giấy tờ phải nộp:
+- 01 Bản chính - Tờ khai đăng ký khai tử theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3e76c977e8b5e'">3. TK đăng ký khai tử.doc</a>)
+- 01 Bản chính - Giấy báo tử hoặc giấy tờ thay thế Giấy báo tử do cơ quan có thẩm quyền cấp.
+
+
+* Giấy tờ phải xuất trình:
+- 01 Bản chính - Hộ chiếu hoặc Chứng minh nhân dân hoặc Thẻ căn cước công dân hoặc các giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người có yêu cầu đăng ký khai tử.
+- 01 Bản chính - Giấy tờ chứng minh nơi cư trú cuối cùng của người chết để xác định thẩm quyền trong trường hợp cơ quan đăng ký hộ tịch không thể khai thác được thông tin về nơi cư trú của công dân theo các phương thức quy định tại khoản 2 Điều 14 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ. Trường hợp các thông tin về giấy tờ chứng minh nơi cư trú đã được khai thác từ Cơ sở dữ liệu quốc gia về dân cư bằng các phương thức này thì người có yêu cầu không phải xuất trình (theo hình thức trực tiếp) hoặc tải lên (theo hình thức trực tuyến).
+ - Trường hợp không xác định được nơi cư trú cuối cùng của người chết thì xuất trình giấy tờ chứng minh nơi người đó chết hoặc nơi phát hiện thi thể của người chết.

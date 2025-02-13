@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục gia hạn Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : Đồng Phí thẩm định gia hạn giấy Đăng ký hoạt động dịch vụ: 75% mức phí cấp giấy đăng ký mới.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Trực tuyến|30 Ngày|Phí : Đồng Phí thẩm định gia hạn giấy Đăng ký hoạt động dịch vụ: 75% mức phí cấp giấy đăng ký mới.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Dịch vụ bưu chính|30 Ngày|Phí : Đồng Phí thẩm định gia hạn giấy Đăng ký hoạt động dịch vụ: 75% mức phí cấp giấy đăng ký mới.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|

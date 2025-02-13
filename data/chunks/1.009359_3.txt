@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thực hiện chính sách hỗ trợ vận tải hành khách công cộng bằng xe buýt trên địa bàn tỉnh Thanh Hóa, giai đoạn 2020 -2024
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc|Phí : Đồng không|Trong thời hạn 25 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|25 Ngày làm việc|Phí : Đồng không|Trong thời hạn 25 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình)|
+|Dịch vụ bưu chính|25 Ngày làm việc|Phí : Đồng không|Trong thời hạn 25 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|

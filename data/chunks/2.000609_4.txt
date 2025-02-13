@@ -1,0 +1,11 @@
+Tên thủ tục: Thông báo tổ chức hội nghị, hội thảo, đào tạo về bán hàng đa cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thông báo tổ chức hội nghị, hội thảo, đào tạo về bán hàng đa cấp theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd7828c76dcd86e'">Mẫu số 12.docx</a>)
+- 01 Bản chính Các nội dung, tài liệu trình bày tại hội thảo, số lượng người tham gia dự kiến;
+- 01 Bản chính Danh sách báo cáo viên tại hội nghị, hội thảo, đào tạo kèm theo hợp đồng thuê khoán của doanh nghiệp, trong đó quy định rõ quyền hạn, trách nhiệm, nội dung báo cáo của báo cáo viên;
+- 01 Bản chính 01 bản chính văn bản ủy quyền trong trường hợp doanh nghiệp ủy quyền cho cá nhân thực hiện đào tạo hoặc tổ chức hội nghị, hội thảo;
+- 01 Bản chính Thông tin tài khoản hoặc đường dẫn truy cập vào hội nghị, hội thảo, đào tạo trong trường hợp tổ chức theo hình thức trực tuyến.

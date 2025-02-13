@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009911
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ trên đường sắt (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Công an cấp huyện. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+- Bước 4: Công an cấp huyện tổ chức kiểm tra an toàn về phòng cháy, chữa cháy đối với phương tiện vận chuyển hàng hóa nguy hiểm về cháy, nổ.
+- Bước 5: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Công an cấp huyện hoặc Bộ phận Một cửa cấp huyện (trường hợp đã đưa thủ tục ra tiếp nhận tại Bộ phận Một cửa);|
+|Trực tuyến|05 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có);|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ (Mẫu số PC02 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); ([PC02-vanchuyenhanghoanguyhiemchayno.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1c1375d6177a0'))
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp của tổ chức, cá nhân đề nghị cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thể hiện rõ việc tổ chức, cá nhân được cấp phép hoạt động kinh doanh hoặc vận tải hàng hóa nguy hiểm
+- 01 Bản chính Bảng kê danh mục, khối lượng và tuyến vận chuyển hàng hóa nguy hiểm về cháy, nổ (ga đi, ga đến); danh sách người áp tải hàng hóa nguy hiểm về cháy, nổ
+- 01 Bản sao Hợp đồng vận chuyển hoặc thỏa thuận bằng văn bản về việc vận chuyển hàng hóa nguy hiểm về cháy, nổ bằng đường sắt giữa người thuê vận chuyển hàng hóa nguy hiểm về cháy, nổ với doanh nghiệp kinh doanh vận tải đường sắt
+- 01 Bản chính Phương án phòng ngừa và ứng phó sự cố trong vận chuyển hàng hóa nguy hiểm về cháy, nổ có chữ ký, đóng dấu xác nhận của tổ chức, cá nhân đề nghị cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ
+- 01 Bản chính Phương án làm sạch phương tiện và bảo đảm các yêu cầu về bảo vệ môi trường sau khi kết thúc vận chuyển theo các quy định hiện hành về bảo vệ môi trường
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an huyện
+Cơ quan có thẩm quyền:
+Công an huyện
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ, Biểu trưng hàng hoá nguy hiểm về cháy, nổ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2013/QH13|Luật 40/2013/QH13 - Sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy|22-11-2013|Quốc Hội|
+|Luật 27/2001/QH10|Luật Phòng cháy và chữa cháy|29-06-2001|Quốc Hội|
+|65/2018/NĐ-CP|Nghị định 65/2018/NĐ-CP|12-05-2018||
+|136/2020/NĐ-CP|Nghị định 136/2020/NĐ-CP|24-11-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Phương tiện giao thông cơ giới phải bảo đảm các điều kiện an toàn về phòng cháy, chữa cháy khi vận chuyển hàng hóa nguy hiểm về cháy, nổ theo quy định tại khoản 3 Điều 8 Nghị định số 136/2020/NĐ-CP; người điều khiển phương tiện, người làm việc trên phương tiện phải bảo đảm điều kiện quy định tại khoản 4 Điều 8 Nghị định số 136/2020/NĐ-CP.
+Từ khóa:
+Cấp Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ trên đường sắt (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp huyện)
+Mô tả:
+Không có thông tin

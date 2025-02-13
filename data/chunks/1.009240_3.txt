@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm của ngành Công Thương quản lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : Phí thẩm định cơ sở sản xuất thực phẩm nhỏ lẻ có giấy đăng ký hộ kinh doanh: 500.000 đồng/lần/cơ sở.|Nộp trực tiếp tại Bộ phận tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|
+|Trực tuyến|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : Phí thẩm định cơ sở sản xuất thực phẩm nhỏ lẻ có giấy đăng ký hộ kinh doanh: 500.000 đồng/lần/cơ sở.|Nộp hồ sơ trực tuyến trên trang dichvucong.danang.gov.vn|
+|Dịch vụ bưu chính|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : Phí thẩm định cơ sở sản xuất thực phẩm nhỏ lẻ có giấy đăng ký hộ kinh doanh: 500.000 đồng/lần/cơ sở.|Nộp hồ sơ qua đường bưu chính công ích đến Bộ phận tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện.|

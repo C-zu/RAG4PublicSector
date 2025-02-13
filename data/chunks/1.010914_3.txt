@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký xe mô tô, xe gắn máy (kể cả xe máy điện) từ điểm đăng ký xe khác chuyển đến tại Công an cấp xã được phân cấp đăng ký xe
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Trực tiếp tại trụ sở Công an cấp xã được phân cấp công tác đăng ký xe. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ).|
+|Trực tuyến|02 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp Giấy khai đăng ký xe trên Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+|Dịch vụ bưu chính|02 Ngày làm việc||+ Trả kết quả qua dịch vụ bưu chính.|

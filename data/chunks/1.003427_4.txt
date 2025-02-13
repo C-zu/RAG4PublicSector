@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp giấy phép hoạt động đối với bệnh viện thuộc Bộ Y tế, bệnh viện tư nhân hoặc thuộc các Bộ khác (trừ các bệnh viện thuộc Bộ Quốc phòng) và áp dụng đối với trường hợp khi thay đổi hình thức tổ chức, chia tách, hợp nhất, sáp nhập
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động theo Mẫu 01 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe23553fa7d6f15'">phụ lục 1.docx</a>)
+- 01 Bản sao Bản sao hợp lệ quyết định thành lập hoặc văn bản có tên của cơ sở khám bệnh, chữa bệnh của cơ quan nhà nước có thẩm quyền đối với cơ sở khám bệnh, chữa bệnh của Nhà nước hoặc giấy chứng nhận đăng ký doanh nghiệp đối với cơ sở khám bệnh, chữa bệnh tư nhân hoặc giấy chứng nhận đầu tư đối với cơ sở khám bệnh, chữa bệnh có vốn đầu tư nước ngoài;
+- 01 Bản sao Bản sao hợp lệ chứng chỉ hành nghề của người chịu trách nhiệm chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh; người phụ trách bộ phận chuyên môn của cơ sở khám bệnh, chữa bệnh;
+- 01 Bản chính Danh sách đăng ký người hành nghề tại cơ sở khám bệnh, chữa bệnh (bao gồm đăng ký người hành nghề và người làm việc chuyên môn y tế tại cơ sở nhưng không thuộc diện phải cấp chứng chỉ hành nghề) theo mẫu quy định tại Phụ lục IV ban hành kèm theo Nghị định 109/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3fc64863287dd'">phulucIV_ND109.docx</a>)
+- 01 Bản chính Bản kê khai cơ sở vật chất, thiết bị y tế, tổ chức và nhân sự của cơ sở khám bệnh, chữa bệnh theo Mẫu 02 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc0f4ce38ad45a8'">ND109_2016_mau 02_Phu luc XI.docx</a>)
+- 01 Bản chính Tài liệu chứng minh cơ sở khám bệnh, chữa bệnh đáp ứng điều kiện về cơ sở vật chất, thiết bị y tế, tổ chức nhân sự phù hợp với phạm vi hoạt động chuyên môn của một trong các hình thức tổ chức quy định tại Mục 1 Chương III Nghị định 109/2016/NĐ-CP;
+- 01 Bản chính Điều lệ tổ chức và hoạt động đối với bệnh viện nhà nước thực hiện theo mẫu quy định của Bộ trưởng Bộ Y tế; đối với bệnh viện tư nhân thực hiện theo Mẫu 03 Phụ lục XI ban hành kèm theo Nghị định 109/2016/NĐ-CP và phương án hoạt động ban đầu đối với bệnh viện; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe666ffd89013c9'">Mau 03 phụ lục 1.docx</a>)
+- 01 Bản sao Bản sao hợp lệ hợp đồng vận chuyển người bệnh đối với bệnh viện không có phương tiện vận chuyển cấp cứu ngoài cơ sở;
+- 01 Bản chính Danh mục chuyên môn kỹ thuật của cơ sở khám bệnh, chữa bệnh đề xuất trên cơ sở danh mục chuyên môn kỹ thuật do Bộ trưởng Bộ Y tế ban hành;

@@ -1,0 +1,29 @@
+Tên thủ tục: Đính chính Giấy chứng nhận đã cấp (cấp tỉnh - trường hợp đã thành lập VP đăng ký đất đai)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp Huyện, Ủy ban nhân dân cấp Tỉnh, Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện, Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Sở Tài nguyên và Môi trường
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng đất quyền sở hữu nhà ở và tài sản khác gắn liền với đất tài sản khác gắn liền với đất, Ghi vào sổ địa chính và lập hồ sơ để Nhà nước quản lý.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP ngày 06 tháng 01 năm 2014 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai|06-01-2017|Chính phủ|
+|45/2013/QH13|Luật 45/2013/QH13|02-01-2014|Quốc Hội|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ|15-05-2014|Chính phủ|
+|23/2014/TT-BTNMT|Thông tư số 23/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất|19-05-2014|Bộ Tài nguyên và Môi trường|
+|24/2014/TT-BTNMT|Thông tư số 24/2014/TT-BTNMT ngày 19 tháng 5 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về hồ sơ địa chính|19-05-2014|Bộ Tài nguyên và Môi trường|
+|148/2020/NĐ-CP|Nghị định 148/2020/NĐ-CP|18-12-2020||
+|85/2019/TT-BTC|Thông tư 85/2019/TT-BTC|29-11-2019||
+|10/2023/NĐ-CP|Nghị định 10/2023/NĐ-CP|03-04-2023||
+|02/2023/TT-BTNMT|Thông tư|15-05-2023|Bộ Tài nguyên và Môi trường|

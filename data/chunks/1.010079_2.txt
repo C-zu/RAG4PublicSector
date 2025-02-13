@@ -1,0 +1,18 @@
+Tên thủ tục: Tuyển chọn tổ chức, cá nhân thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Nộp hồ sơ
+Tổ chức/cá nhân nộp hồ sơ Tuyển chọn tổ chức, cá nhân thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh (một phần) tại Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng Dịch vụ công cấp tỉnh ((https://dichvucong.backan.gov.vn) (sau đây gọi chung là Cổng dịch vụ công) để đăng ký tài khoản (nếu chưa có tài khoản), đăng nhập vào hệ thống.
+Sau khi đăng nhập vào hệ thống, cá nhân xác định đúng cơ quan Sở Khoa học và Công nghệ, chọn thủ tục Tuyển chọn tổ chức, cá nhân thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh, chọn nộp hồ sơ trực tuyến và điền thông tin người nộp hồ sơ.  
+Sau khi điền đầy đủ thông tin người nộp hồ sơ, cá nhân tải gắn kèm bản quét (scan) hoặc bản có ký số và các bản scan từ bản chính các thành phần hồ sơ lên Cổng dịch vụ công bảo đảm yêu cầu về kỹ thuật và độ chính xác cao. 
+Bước 2: Tiếp nhận hồ sơ
+Công chức Sở Khoa học và Công nghệ trực tại Trung tâm phục vụ Hành chính công có trách nhiệm đăng nhập phần mềm một cửa điện tử, kiểm tra tính chính xác, đầy đủ, thống nhất, hợp lệ của hồ sơ, sau đó thực hiện tiếp nhận, số hóa hồ sơ:
++ Trường hợp hồ sơ đầy đủ, hợp lệ, trạng thái hồ sơ trên Cổng dịch vụ công là “Được tiếp nhận”. Hồ sơ được chuyển đến phòng chuyên môn để giải quyết.
++ Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, Công chức trực tại Trung tâm phục vụ Hành chính công gửi thông báo hướng dẫn bổ sung, hoàn thiện hồ sơ qua Cổng dịch vụ công, công dân có thể kiểm tra tình trạng xử lý hồ sơ khi đăng nhập vào Cổng dịch vụ công. Trạng thái hồ sơ trên Cổng dịch vụ công là “Yêu cầu bổ sung giấy tờ”.
++ Trường hợp hồ sơ bị từ chối, Công chức trực tại Trung tâm phục vụ Hành chính công gửi thông báo từ chối tiếp nhận hồ sơ qua Cổng dịch vụ công, công dân có thể kiểm tra tình trạng xử lý hồ sơ khi đăng nhập vào Cổng dịch vụ công. Trạng thái hồ sơ trên Cổng dịch vụ công là “Không được tiếp nhận”.
+Bước 3: Xử lý hồ sơ
+Ngay sau khi nhận được hồ sơ trên phần mềm một cửa điện tử, công chức được giao xử lý hồ sơ kiểm tra tính hợp lệ của hồ sơ, nếu hồ sơ không hợp lệ thì trả lại hồ sơ cho công chức trực tại Trung tâm phục vụ Hành chính công. Nếu hồ sơ hợp lệ thì công chức phòng Quản lý Khoa học được giao xử lý hồ sơ tham mưu họp Hội đồng tuyển chọn, dự thảo kết quả giải quyết hồ sơ thủ tục hành chính, chuyển lãnh đạo phòng xem xét để trình lãnh đạo Sở ký kết quả giải quyết thủ tục hành chính và chuyển cho Văn thư Sở phát hành văn bản theo quy định, chuyển kết quả giải quyết thủ tục hành chính đến Trung tâm Phục vụ hành chính công.
+Bước 4: Trả kết quả
+- Trường hợp nhận kết quả trực tuyến: cá nhân đăng nhập vào Cổng dịch vụ công để kiểm tra, tải bản điện tử (PDF) Quyết định phê duyệt tổ chức, cá nhân trúng tuyển là bản giấy đã được ký, đóng dấu và quét (scan) tải lên Kho Quản lý dữ liệu điện tử của tổ chức, cá nhân trên Cổng dịch vụ công. 
+- Trường hợp nhận kết quả trực tiếp hoặc qua dịch vụ bưu chính: cá nhân xuất trình Phiếu hẹn trả kết quả để Bộ phận một cửa hoặc bưu tá kiểm tra, đối chiếu thông tin trước khi trả kết quả.

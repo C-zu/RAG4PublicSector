@@ -1,0 +1,8 @@
+Tên thủ tục: Kiểm soát thay đổi khi có thay đổi thuộc một trong các trường hợp quy định tại các điểm d, đ và e Khoản 1 Điều 11 Thông tư 03/2018/TT-BYT
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||10 ngày kể từ ngày nhận được văn bản thông báo. Nộp trực tiếp tại Sở Y tế|
+|Dịch vụ bưu chính|10 Ngày||10 ngày kể từ ngày nhận được văn bản thông báo|

@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký thay đổi khoản vay nước ngoài/khoản phát hành trái phiếu quốc tế được Chính phủ bảo lãnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký thay đổi khoản vay nước ngoài (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3d4d269ca7c98'">PHỤ LỤC 2A.TT22.13.doc</a>)
+- 01 Bản chính hoặc Đơn đăng ký thay đổi khoản phát hành trái phiếu quốc tế (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc19fdc52960e8'">PHỤ LỤC 2B.TT22.13.doc</a>)
+- 01 Bản sao Bản sao tiếng nước ngoài và bản dịch tiếng Việt các thỏa thuận thay đổi đã ký (có xác nhận của đại diện có thẩm quyền theo pháp luật của Bên đi vay về tính chính xác của bản sao và bản dịch) trong trường hợp các nội dung thay đổi cần được thỏa thuận giữa các bên.
+- 01 Bản sao Bản sao thư hoặc phụ lục điều chỉnh thư bảo lãnh của Bộ Tài chính (nếu có).
+- 01 Bản chính Văn bản của Bên đi vay giải trình rõ về nội dung thay đổi khoản vay nước ngoài, khoản phát hành trái phiếu quốc tế (áp dụng với trường hợp không có các thành phần hồ sơ nêu tại Điểm b và Điểm c Khoản 4 Thông tư số 22/2013/TT-NHNN).

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp phép xuất khẩu giống cây trồng và hạt lai của giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành và không thuộc Danh mục nguồn gen giống cây trồng cấm xuất khẩu phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế không vì mục đích thương mại.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Cấp giấy phép xuất khẩu giống cây trồng: Thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||Cấp giấy phép xuất khẩu giống cây trồng: Thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Cấp giấy phép xuất khẩu giống cây trồng: Thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

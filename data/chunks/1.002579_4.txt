@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f7334cad8c6f080'">Mẫu số 02.docx</a>)
+- 01 Bản chính, 01 Bản sao Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đang có hiệu lực;
+- 01 Bản chính, 01 Bản sao Báo cáo hoạt động của doanh nghiệp trong 02 năm gần nhất. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2582cca9bb88a'">Mẫu số 05.docx</a>)

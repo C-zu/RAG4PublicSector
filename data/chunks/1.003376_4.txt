@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung chương trình an ninh, quy chế an ninh hàng không
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính hoặc bản điện tử văn bản đề nghị theo mẫu quy định. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe66541269b7fb3'">1.003376.docx</a>)
+- 01 Bản chính Bản giấy hoặc bản điện tử dự thảo chương trình, quy chế an ninh hàng không.
+- 01 Bản chính Bản giấy hoặc bản điện tử bảng đánh giá nội dung khác biệt của chương trình an ninh hàng không của hãng hàng không với quy định của pháp luật Việt Nam và các biện pháp nhằm khắc phục các khác biệt đối với hồ sơ trình chấp thuận chương trình an ninh hàng không của hãng hàng không nước ngoài

@@ -1,0 +1,7 @@
+Tên thủ tục: Hòa giải tranh chấp đất đai (cấp xã)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : Đồng Theo quy định của Bộ Tài chính|- Thời hạn kiểm tra hồ sơ: Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì không quá 03 ngày làm việc, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định - Thời hạn giải quyết: không quá 45 ngày; đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn thì thời gian thực hiện thì được tăng thêm 15 ngày.|

@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp giấy phép hoạt động đối với phòng khám bác sỹ gia đình độc lập thuộc thẩm quyền của Sở Y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1
+Bước 1: Cơ sở khám bệnh, chữa bệnh gửi hồ sơ xin cấp giấy phép hoạt động (GPHĐ)về Sở Y tế;
+Bước 2: Sở Y tế tiếp nhận và gửi Phiếu tiếp nhận hồ sơ cho người đề nghị
+Bước 3: Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ, Sở Y tế sẽ xem xét thẩm định hồ sơ và thẩm định tại cơ sở xin cấp GPHĐ:
+- Trường hợp hồ sơ chưa hợp lệ thì trong thời hạn 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Sở Y tế phải có văn bản thông báo cho cơ sở xin cấp giấy phép hoàn chỉnh hồ sơ. Thời gian giải quyết thủ tục sẽ tính từ ngày nhận đủ hồ sơ bổ sung.
+- Trường hợp hồ sơ đã đầy đủ và hợp lệ, Sở Y tế thành lập đoàn thẩm định và tiến hành thẩm định tại cơ sở khám bệnh, chữa bệnh để cấp giấy phép hoạt động.
+- Trường hợp không cấp GPHĐ, Sở Y tế phải có văn bản trả lời và nêu lý do.
+Bước 4: Trả GPHĐ cho cơ sở

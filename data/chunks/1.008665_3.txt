@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép thi công Xử lý sự cố đột xuất về kỹ thuật của các công trình ngầm như: thông tin liên lạc, cấp nước, thoát nước, cấp điện, cấp ga và các công trình liên quan khác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|4 Giờ||- Hồ sơ được nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích. - Thời hạn giải quyết: Trường hợp xử lý sự cố cấp nước: 04 giờ|
+|Trực tuyến|8 Giờ||- Hồ sơ được nộp trực tuyến mức độ 3 tại địa chỉ https://dichvucong.danang.gov.vn (Sở Ban ngành - Sở Giao thông vận tải). - Hồ sơ được trả kết quả trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Giao thông vận tải thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích. - Thời hạn giải quyết: Trường hợp xử lý khác: 08 giờ|

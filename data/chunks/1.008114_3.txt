@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định Báo cáo Kinh tế - Kỹ thuật.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : Theo tỷ lệ % Đồng Áp dụng theo Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính về quy định mức thu, chế độ thu, nộp và quản lý sử dụng phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở.||
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : Theo tỷ lệ % Đồng Áp dụng theo Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính về quy định mức thu, chế độ thu, nộp và quản lý sử dụng phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở.||

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy phép lái xe quốc tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị cấp IDP theo mẫu quy định. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda15621b9ac988'">Mẫu.docx</a>)

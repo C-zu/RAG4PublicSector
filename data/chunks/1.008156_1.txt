@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ), thay đổi hình dạng, kích thước, diện tích, số hiệu, địa chỉ thửa đất; giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận (VPĐK)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008156
+Số quyết định:
+1101/QĐ-UBND
+Tên thủ tục:
+Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất do thay đổi thông tin về người được cấp giấy chứng nhận (đổi tên hoặc giấy tờ pháp nhân, giấy tờ nhân thân, địa chỉ), thay đổi hình dạng, kích thước, diện tích, số hiệu, địa chỉ thửa đất; giảm diện tích thửa đất do sạt lở tự nhiên; thay đổi về hạn chế quyền sử dụng đất; thay đổi về nghĩa vụ tài chính; thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký, cấp Giấy chứng nhận (VPĐK)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai

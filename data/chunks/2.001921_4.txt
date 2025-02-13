@@ -1,0 +1,10 @@
+Tên thủ tục: Chấp thuận xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ của quốc lộ, đường bộ cao tốc đang khai thác thuộc phạm vi quản lý của Bộ Giao thông vận tải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe78c25f7234d3f'">Mẫu.docx</a>)
+- 01 Bản sao - Hồ sơ thiết kế công trình thiết yếu (thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công), báo cáo kinh tế - kỹ thuật đã được cấp có thẩm quyền phê duyệt bao gồm các thông tin về vị trí và lý trình công trình đường bộ tại nơi xây dựng công trình thiết yếu; bản vẽ thể hiện diện tích, kích thước công trình thiết yếu trên mặt bằng công trình đường bộ và trong phạm vi đất dành cho đường bộ; bản vẽ thể hiện mặt đứng và khoảng cách theo phương thẳng đứng từ công trình thiết yếu bên trên hoặc bên dưới đến bề mặt công trình đường bộ, khoảng cách theo phương ngang từ cột, tuyến đường dây, đường ống, bộ phận khác của công trình thiết yếu đến mép ngoài rãnh thoát nước dọc, mép mặt đường xe chạy hoặc mép ngoài cùng của mặt đường bộ; bộ phận công trình đường bộ phải đào, khoan khi xây dựng công trình thiết yếu; thiết kế kết cấu và biện pháp thi công hoàn trả công trình đường bộ trong phạm vi đất dành cho đường bộ bị đào hoặc ảnh hưởng do thi công công trình thiết yếu;
+- 01 Bản sao - Đối với công trình thiết yếu xây dựng trong phạm vi dải phân cách giữa của đường bộ, ngoài hồ sơ quy định (Đơn đề nghị, Hồ sơ thiết kế công trình thiết yếu) phải có thông tin về khoảng cách theo phương thẳng đứng từ công trình thiết yếu đến bề mặt dải phân cách giữa, từ công trình thiết yếu đến mép ngoài dải phân cách giữa;
+- 01 Bản sao - Công trình thiết yếu lắp đặt vào cầu, hầm hoặc các công trình đường bộ có kết cấu phức tạp khác ngoài hồ sơ quy định (Đơn đề nghị, Hồ sơ thiết kế công trình thiết yếu) phải có báo cáo kết quả thẩm tra thiết kế.

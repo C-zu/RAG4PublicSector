@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục đăng ký khai tử có yếu tố nước ngoài tại khu vực biên giới
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004827
+Số quyết định:
+1079/QĐ-BTP
+Tên thủ tục:
+Thủ tục đăng ký khai tử có yếu tố nước ngoài tại khu vực biên giới
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hộ tịch

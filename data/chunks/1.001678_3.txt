@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục công chứng tính xác thực, tính hợp pháp của hợp đồng, giao dịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày|Lệ phí : 5 USD Cấp bản sao văn bản công chứng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeff5804d91212'">VanBanGoc_264-2016-TT-BTC.pdf</a> Lệ phí : 50 USD Công chứng, chứng thực các hợp đồng, giao dịch  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde00e7c44025e0'">VanBanGoc_264-2016-TT-BTC.pdf</a>|Nộp hồ sơ trực tiếp tại cơ quan đại diện Thời hạn công chứng được xác định kể từ ngày Cơ quan đại diện nhận đủ hồ sơ yêu cầu công chứng đến ngày trả kết quả công chứng. Thời gian xác minh, giám định nội dung liên quan đến hợp đồng, giao dịch, niêm yết việc thụ lý công chứng văn bản thỏa thuận phân chia di sản, văn bản khai nhận di sản, dịch giấy tờ, văn bản không tính vào thời hạn công chứng. Thời hạn công chứng không quá 02 ngày làm việc; đối với hợp đồng, giao dịch yêu cầu công chứng có nội dung phức tạp thì thời hạn công chứng có thể kéo dài hơn nhưng không quá 10 ngày làm việc.|

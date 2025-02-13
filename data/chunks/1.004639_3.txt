@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp giấy phép thành lập Văn phòng đại diện của doanh nghiệp quảng cáo nước ngoài tại Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Lệ phí : 3.000.000 Đồng|Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh xem xét, cấp Giấy phép thành lập Văn phòng đại diện và gửi bản sao giấy phép đó đến Bộ Văn hóa, Thể thao và Du lịch. Trường hợp hồ sơ chưa hợp lệ, trong thời gian 03 ngày, kể từ ngày nhận hồ sơ, Ủy ban nhân dân cấp tỉnh gửi văn bản yêu cầu doanh nghiệp quảng cáo nước ngoài bổ sung, hoàn chỉnh hồ sơ.|

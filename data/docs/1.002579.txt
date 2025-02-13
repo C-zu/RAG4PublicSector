@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002579
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Gia hạn giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+Doanh nghiệp không vi phạm quy định của pháp luật về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng một lần với thời gian gia hạn không quá 01 năm. Hồ sơ đề nghị gia hạn Giấy phép phải được gửi tới Bộ Thông tin và Truyền thông chậm nhất là 60 ngày trước ngày Giấy phép hết hạn.
+Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông thẩm định, quyết định gia hạn và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||10 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|10 Ngày||10 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|10 Ngày||10 ngày kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; ([Mẫu số 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f7334cad8c6f080'))
+- 01 Bản chính, 01 Bản sao Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đang có hiệu lực;
+- 01 Bản chính, 01 Bản sao Báo cáo hoạt động của doanh nghiệp trong 02 năm gần nhất. ([Mẫu số 05.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2582cca9bb88a'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông Số 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|86/2015/QH13|Luật 86/2015/QH13|19-11-2015|Quốc Hội|
+|108/2016/NĐ-CP|Nghị định 108/2016/NĐ-CP|01-07-2016|Chính phủ|
+|269/2016/TT-BTC|Thông tư 269/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp không vi phạm quy định của pháp luật về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng một lần với thời gian gia hạn không quá 01 năm.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

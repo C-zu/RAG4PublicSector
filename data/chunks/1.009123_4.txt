@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp giấy phép xây dựng đối với trường hợp sửa chữa, cải tạo công trình, nhà ở riêng lẻ (đối với công trình cấp III, cấp IV)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị cấp giấy phép sửa chữa, cải tạo công trình, nhà ở theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff2651f9fc51a'">PL1-Don de nghi cap giay phep sua chua,cai tao cong trinh, nha o.doc</a>)
+- 01 Bản sao 2. Bản sao được công chứng hoặc chứng thực một trong những giấy tờ về quyền sử dụng đất theo quy định của pháp luật về đất đai hoặc giấy tờ về quyền quản lý, sử dụng công trình;
+- 01 Bản chính 3. Các bản vẽ hiện trạng của bộ phận, hạng mục công trình được cải tạo có tỷ lệ tư¬ơng ứng với tỷ lệ các bản vẽ của hồ sơ đề nghị cấp phép sửa chữa, cải tạo và ảnh chụp (10x15 cm) hiện trạng công trình và công trình lân cận trước khi sửa chữa, cải tạo;
+- 01 Bản chính 4. Đối với các công trình di tích lịch sử, văn hoá và danh lam, thắng cảnh đã được xếp hạng, công trình hạ tầng kỹ thuật thì phải có văn bản chấp thuận của cơ quan quản lý nhà nước có thẩm quyền theo phân cấp
+ 5. Tuỳ thuộc địa điểm xây dựng công trình, quy mô công trình, tính chất công trình, đối chiếu với các quy định của quy chuẩn, tiêu chuẩn xây dựng; quy chuẩn, tiêu chuẩn chuyên ngành và các quy định của pháp luật liên quan, hồ sơ đề nghị cấp phép xây dựng còn phải bổ sung các tài liệu sau:
+- 01 Bản chính - Bản vẽ hệ thống phòng cháy chống cháy (PCCC) tỷ lệ 1/50 - 1/200, được đóng dấu thẩm duyệt đối với công trình thuộc danh mục yêu cầu phải thẩm duyệt phương án phòng cháy chống cháy theo quy định của pháp luật về PCCC;
+- 01 Bản chính - Báo cáo kết quả thẩm định và văn bản phê duyệt thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công của chủ đầu tư theo quy định; Báo cáo thẩm tra thiết kế do cơ quan quản lý nhà nước về xây dựng hoặc tổ chức tư vấn có đủ điều kiện năng lực theo quy định thực hiện, kèm theo các bản vẽ kết cấu chịu lực chính có ký tên, đóng dấu của tổ chức, cá nhân thiết kế;
+- 01 Bản chính - Quyết định phê duyệt dự án kèm theo văn bản chấp thuận đầu tư của cơ quan nhà nước có thẩm quyền, văn bản tham gia ý kiến về thiết kế cơ sở (nếu có) của cơ quan quản lý nhà nước về công trình xây dựng chuyên ngành theo quy định;
+- 01 Bản chính - Văn bản phê duyệt biện pháp thi công của chủ đầu tư đảm bảo an toàn cho công trình và công trình lân cận, đối với công trình xây chen có tầng hầm;
+- 01 Bản sao - Bản sao có chứng thực chứng chỉ hành nghề của chủ nhiệm, chủ trì thiết kế.
+- 01 Bản chính - Đối với công trình xây dựng có công trình liền kề phải có bản cam kết của chủ đầu tư bảo đảm an toàn đối với công trình liền kề.

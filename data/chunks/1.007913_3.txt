@@ -1,0 +1,7 @@
+Tên thủ tục: Phê duyệt danh mục đề án khuyến công
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Các tổ chức, cá nhân lập hồ sơ đề nghị hỗ trợ kinh phí khuyến công gửi UBND cấp huyện chậm nhất vào ngày 30/6 của năm trước năm kế hoạch; - Sở Công Thương tổng hợp danh mục đề án khuyến công trình Chủ tịch UBND tỉnh phê duyệt trước 30/10 của năm trước năm kế hoạch.|||

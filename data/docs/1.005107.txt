@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005107
+Số quyết định:
+77/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận thẩm định thiết kế xe máy chuyên dùng cải tạo
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+Nộp hồ sơ TTHC
+- Cơ sở thiết kế lập hồ sơ thiết kế nộp đến Chi cục Đăng kiểm
+Giải quyết TTHC
+- Chi cục Đăng kiểm tiếp nhận và kiểm tra thành phần hồ sơ thiết kế xe cải tạo. Trường hợp hồ sơ không đầy đủ theo quy định thì Chi cục Đăng kiểm trả lại hồ sơ trong thời hạn 01 ngày làm việc kể từ khi hồ sơ được tiếp nhận đối với trường hợp nộp hồ sơ trực tiếp hoặc trả lại hồ sơ trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đối với hình thức nộp hồ sơ qua hệ thống dịch vụ công trực tuyến và hướng dẫn để cơ sở thiết kế hoàn thiện. Trường hợp hồ sơ đầy đủ thành phần, Chi cục Đăng kiểm tiếp nhận hồ sơ để thực hiện thẩm định nội dung hồ sơ.
+- Trong thời hạn 07 ngày làm việc, kể từ khi Cơ sở thiết kế nộp đủ hồ sơ thiết kế xe cải tạo: Chi cục Đăng kiểm thực hiện kiểm tra, đánh giá hồ sơ thiết kế xe cải tạo. Nếu Hồ sơ thiết kế xe cải tạo đạt yêu cầu, Chi cục Đăng kiểm cấp Giấy chứng nhận thẩm định thiết kế cải tạo trong thời hạn 03 ngày làm việc kể từ ngày có kết quả đánh giá Hồ sơ thiết kế xe cải tạo đạt yêu cầu.
+Trường hợp hồ sơ thiết kế ô tô đầy đủ nhưng có các nội dung chưa đạt yêu cầu, Chi cục Đăng kiểm thông báo bằng văn bản hoặc thông báo thông qua hệ thống dịch vụ công trực tuyến lý do và nội dung chưa đạt yêu cầu để Cơ sở thiết kế hoàn thiện hồ sơ thiết kế xe cải tạo. Cơ sở thiết kế có trách nhiệm hoàn thiện hồ sơ thiết kế xe cải tạo và nộp lại trong thời hạn 30 ngày làm việc kể từ ngày thông báo và gửi lại cho Chi cục Đăng kiểm. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ thiết kế xe cải tạo đã hoàn thiện đầy đủ, Chi cục Đăng kiểm kiểm tra, đánh giá lại Hồ sơ thiết kế xe cải tạo. Trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ thiết kế, nếu hồ sơ thiết kế xe cải tạo đạt yêu cầu, Chi cục Đăng kiểm cấp Giấy chứng nhận thẩm định thiết kế cải tạo; nếu hồ sơ thiết kế xe cải tạo không đạt yêu cầu, Chi cục Đăng kiểm thông báo bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế và nêu rõ lý do. Quá thời hạn 30 ngày làm việc kể từ ngày thông báo, cơ sở thiết kế không hoàn thiện các nội dung chưa phù phù hợp của hồ sơ thiết kế xe cải tạo, Chi cục Đăng kiểm sẽ dừng việc thẩm định hồ sơ thiết kế xe cải tạo và thông báo bằng văn bản hoặc thông báo trên hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế cải tạo. Để tiếp tục thực hiện việc thẩm định hồ sơ thiết kế xe cải tạo, cơ sở thiết kế phải thực hiện nộp lại hồ sơ từ đầu;
+- Cơ sở thiết kế nhận kết quả thẩm định thiết kế: 
++ Trường hợp nhận trực tiếp tại trụ sở Chi cục Đăng kiểm hoặc qua hệ thống bưu chính: 01 Giấy chứng nhận thẩm định thiết kế; 01 bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật; Ảnh chụp kiểu dáng xe máy chuyên dùng trước khi cải tạo; 01 Bản thông tin của xe máy chuyên dùng (nếu có thay đổi);
++ Trường hợp nhận qua hệ thống dịch vụ công trực tuyến: 01 bản điện tử Giấy chứng nhận thẩm định thiết kế; 01 bản thuyết minh thiết kế kỹ thuật và bản vẽ kỹ thuật; Ảnh chụp kiểu dáng xe máy chuyên dùng trước khi cải tạo; 01 Bản thông tin của xe máy chuyên dùng (nếu có thay đổi).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Mức giá : 150.000 Đồng Giá soát xét hồ sơ cho phép thi công cải tạo lần tiếp theo đối với xe cơ giới, xe máy chuyên dùng: 150.000 đồng/chiếc  Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe máy chuyên dùng: 300.000 đồng/chiếc|- Thời hạn thẩm định nội dung hồ sơ: trong thời hạn 07 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ|
+|Trực tiếp|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định đạt yêu cầu|
+|Trực tuyến|7 Ngày làm việc|Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe máy chuyên dùng: 300.000 đồng/chiếc  Mức giá : 150.000 Đồng Giá soát xét hồ sơ cho phép thi công cải tạo lần tiếp theo đối với xe cơ giới, xe máy chuyên dùng: 150.000 đồng/chiếc|- Thời hạn thẩm định nội dung hồ sơ: trong thời hạn 07 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ|
+|Trực tuyến|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định đạt yêu cầu|
+|Dịch vụ bưu chính|7 Ngày làm việc|Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe máy chuyên dùng: 300.000 đồng/chiếc  Mức giá : 150.000 Đồng Giá soát xét hồ sơ cho phép thi công cải tạo lần tiếp theo đối với xe cơ giới, xe máy chuyên dùng: 150.000 đồng/chiếc|- Thời hạn thẩm định nội dung hồ sơ: trong thời hạn 07 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ|
+|Dịch vụ bưu chính|3 Ngày làm việc||- Thời hạn cấp Giấy chứng nhận: trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định đạt yêu cầu|
+
+Thành phần hồ sơ:
+
+Trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến: nộp 01 bộ hồ sơ thiết kế dạng điện tử theo quy định; Trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế theo quy định, cơ sở thiết kế nộp thêm 01 bộ (gồm: Bản thuyết minh thiết kế kỹ thuật, Ảnh chụp kiểu dáng Xe, bản thông tin (nếu có thay đổi) của Xe và các bản vẽ kỹ thuật).
+- 01 Bản chính Bản vẽ tổng thể của Xe trước và sau cải tạo
+- 01 Bản chính Bản vẽ, tài liệu kỹ thuật của tổng thành, hệ thống được sử dụng để cải tạo
+- 01 Bản chính Bản thuyết minh tính toán các nội dung cải tạo có ảnh hưởng đến các hạng mục phải kiểm tra tính toán theo mẫu ([03.1. Bản thuyêt minh.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcef353e2ffeea0'))
+- 01 Bản chính Văn bản đề nghị chứng nhận chất lượng Xe cải tạo
+- 01 Bản chính Giấy chứng nhận đăng ký kinh doanh hoặc các loại giấy tờ thay thế khác của Cơ sở thiết kế (đối với trường hợp Cơ sở thiết kế lần đầu)
+- 01 Bản chính Ảnh chụp kiểu dáng Xe trước khi cải tạo
+- 01 Bản chính Bản thông tin của Xe (nếu có thay đổi) theo mẫu. ([03.2. Bản thống kê.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe261af6aea1c7f'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Chi cục Đăng kiểm
+Cơ quan có thẩm quyền:
+Chi cục Đăng kiểm
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận thẩm định thiết kết xe cơ giới cải tạo, Thông báo bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến về việc không cấp Giấy chứng nhận thẩm định thiết kế và nêu rõ lý do
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|238/2016/TT-BTC|Quy định vé giá dịch vụ kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, thiết bị và xe máy chuyên dùng đang lưu hành; đánh giá, hiệu chuẩn thiết bị kiểm tra xe cơ giới|11-11-2016|Bộ Tài chính|
+|89/2015/TT-BGTVT|Quy định về kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng|31-12-2015|Bộ Giao thông vận tải|
+|23/2020/TT-BGTVT|Thông tư 23/2020/TT-BGTVT|01-10-2020||
+|49/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới, xe máy chuyên dùng, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và xe đạp điện sản xuất, lắp ráp và nhập khẩu|31-12-2023|Bộ Giao thông vận tải|
+|55/2022/TT-BTC|Thông tư số 55/2022/TT-BTC ngày 24/8/2022 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 238/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định về giá dịch vụ kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới, thiết bị và xe máy chuyên dùng đang lưu hành; đánh giá, hiệu chuẩn thiết bị kiểm tra xe cơ giới|24-08-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

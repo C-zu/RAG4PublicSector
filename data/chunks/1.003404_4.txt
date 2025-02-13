@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại Chứng minh nhân dân (9 số) thực hiện tại cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Sổ hộ khẩu
+- 01 Bản chính d) Tờ khai Chứng minh nhân dân (ký hiệu là CM4); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe99863dd47f8a3'">91-Mẫu CM4-Tờ khai CMND.doc</a>)
+- 01 Bản chính đ) Chỉ bản (ký hiệu là A7).
+- 01 Bản chính b) Ảnh chân dung;
+- 01 Bản chính c) Đơn đề nghị Chứng minh nhân dân (ký hiệu là CM3); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbe7fc1fc8b0718'">90-Mẫu CM3-Đơn đề nghị cấp CMND.doc</a>)

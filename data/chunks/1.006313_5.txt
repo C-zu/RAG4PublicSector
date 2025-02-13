@@ -1,0 +1,28 @@
+Tên thủ tục: Nhóm thủ tục liên thông đăng ký hộ kinh doanh và đăng ký thuế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Các phòng chuyên môn trực thuộc UBND cấp huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+tại bộ phận một cửa cấp huyện hoặc http://expway.inetcloud.vn/expway/smartcloud/icloudgate/page/dichvuquamang.cpx?procedure=5cc04d1c16b0c273c9c3ecc8&orgcode=000.00.54.H29&formUI=5ccbb54a16b0c220fa34e7c5&sso=vnconnect
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hộ kinh doanh và Giấy chứng nhận đăng ký thuế, Hoặc Thông báo yêu cầu bổ sung hồ sơ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2015/TT-BKHĐT|Thông tư 20/2015/TT-BKHĐT|01-12-2015|Bộ Kế hoạch và Đầu tư|
+|215/2016/TT-BTC|Thông tư 215/2016/TT-BTC|10-11-2016|Bộ Tài chính|
+|78/2006/QH11|Luật Quản lý thuế|01-07-2007|Quốc Hội|
+|78/2015/NĐ-CP|Về đăng ký doanh nghiệp|14-09-2015|Chính phủ|
+|68/2014/QH13|Luật Doanh nghiệp|26-11-2014|Quốc Hội|
+|95/2016/TT-BTC|Thông tư|28-06-2016||
+|52/2016/QĐ-UBND|Quyết định|10-12-2016|UBND Thành phố Hồ Chí Minh|
+|02/2018/QĐ-UBND|Quyết định|19-01-2018|UBND Thành phố Hồ Chí Minh|

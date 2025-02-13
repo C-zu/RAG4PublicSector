@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000448
+Số quyết định:
+1235/QĐ-BTP
+Tên thủ tục:
+Cấp Phiếu lý lịch tư pháp cho công dân Việt Nam mà không xác định được nơi thường trú hoặc nơi tạm trú; người nước ngoài đã cư trú tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Lý lịch tư pháp
+Trình tự thực hiện:
+Người có yêu cầu cấp Phiếu lý lịch tư pháp nộp hồ sơ yêu cầu cấp Phiếu lý lịch tư pháp tại Trung tâm Lý lịch tư pháp quốc gia bằng hình thức trực tiếp, gửi qua dịch vụ bưu chính hoặc trực tuyến.
+Người có yêu cầu cấp Phiếu lý lịch tư pháp đăng ký nhận kết quả tại nơi nộp hồ sơ hoặc nhận kết quả qua dịch vụ bưu chính hoặc nhận kết quả bản điện tử qua Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tư pháp (đối với trường hợp người dân nộp hồ sơ yêu cầu cấp Phiếu qua Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tư pháp).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu hợp lệ.|
+|Trực tiếp|15 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trường hợp người được cấp Phiếu lý lịch tư pháp là công dân Việt Nam đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài, trường hợp người nước ngoài, trường hợp phải xác minh về điều kiện đương nhiên được xóa án tích thì thời hạn không quá 15 ngày.|
+|Trực tuyến|10 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu hợp lệ.|
+|Trực tuyến|15 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trường hợp người được cấp Phiếu lý lịch tư pháp là công dân Việt Nam đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài, trường hợp người nước ngoài, trường hợp phải xác minh về điều kiện đương nhiên được xóa án tích thì thời hạn không quá 15 ngày.|
+|Dịch vụ bưu chính|10 Ngày|Phí : 200.000 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trong thời hạn 10 ngày, kể từ ngày nhận được yêu cầu hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 200 Đồng Phí cung cấp thông tin lý lịch tư pháp 200.000 đồng/lần/người.|Trường hợp người được cấp Phiếu lý lịch tư pháp là công dân Việt Nam đã cư trú ở nhiều nơi hoặc có thời gian cư trú ở nước ngoài, trường hợp người nước ngoài, trường hợp phải xác minh về điều kiện đương nhiên được xóa án tích thì thời hạn không quá 15 ngày.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai yêu cầu cấp Phiếu lý lịch tư pháp theo mẫu quy định tại Thông tư 06/2024/TT-BTP (Mẫu số 03/2024/LLTP; Mẫu số 04/2024/LLTP; Mẫu số 12/2024/LLTP; Mẫu số 13/2024/LLTP) ([Mẫu số 03.2014.LLTP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feff039a596f400') [Mẫu số 04.2024.LLTP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7f0af01bd319c') [Mẫu số 12.2024.LLTP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec713952c7053f') [Mẫu số 13.2024.LLTP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd405f6ea31db9c'))
+- 01 Bản sao Bản sao Chứng minh nhân dân hoặc Thẻ Căn cước hoặc Thẻ Căn cước công dân hoặc hộ chiếu của công dân Việt Nam mà không xác định được nơi thường trú hoặc nơi tạm trú/ bản sao Hộ chiếu của người nước ngoài đã cư trú tại Việt Nam (Trường hợp nộp bản chụp thì phải xuất trình bản chính để đối chiếu. Trường hợp không có bản chính để đối chiếu thì nộp bản sao có chứng thực theo quy định của pháp luật). Đối với người nước ngoài đã cư trú tại Việt Nam, hộ chiếu phải được đơn vị kiểm soát xuất nhập cảnh của Việt Nam đóng dấu. Trường hợp người có yêu cầu cấp Phiếu lý lịch tư pháp nộp hồ sơ bằng hình thức trực tuyến trên Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tư pháp thì không cần đính kèm bản sao Chứng minh nhân dân hoặc Thẻ Căn cước hoặc Thẻ Căn cước công dân hoặc hộ chiếu.
+- 01 Bản chính Văn bản ủy quyền trong trường hợp ủy quyền cho người khác làm thủ tục yêu cầu cấp Phiếu lý lịch tư pháp số 1 (trường hợp người được ủy quyền là cha, mẹ, vợ, chồng, con của người ủy quyền thì không cần văn bản ủy quyền). Văn bản ủy quyền phải được công chứng, chứng thực theo quy định của pháp luật Việt Nam hoặc pháp luật của nước nơi người đó là công dân hoặc thường trú. Trường hợp ủy quyền theo quy định của pháp luật của nước mà người đó là công dân hoặc thường trú thì văn bản ủy quyền phải được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam và dịch ra tiếng Việt. Cá nhân yêu cầu cấp Phiếu lý lịch tư pháp số 2 không được ủy quyền cho người khác làm thủ tục yêu cầu cấp Phiếu lý lịch tư pháp. Người được ủy quyền phải xuất trình Chứng minh nhân dân hoặc Thẻ Căn cước hoặc Thẻ Căn cước công dân hoặc Hộ chiếu khi thực hiện thủ tục yêu cầu cấp Phiếu lý lịch tư pháp.
+- 01 Bản chính Lưu ý: Trường hợp người có yêu cầu cấp Phiếu lý lịch tư pháp nộp hồ sơ trực tuyến trên Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính Bộ Tư pháp thì sử dụng Tờ khai yêu cầu cấp Phiếu lý lịch tư pháp điện tử tương tác theo Mẫu số 12/2024/LLTP; Mẫu số 13/2024/LLTP.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện:
+Trung tâm Lý lịch tư pháp quốc gia
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Số 9 Trần Vĩ, Mai Dịch, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Ủy ban nhân dân cấp xã, Cơ quan công an, Cơ quan khác, Cơ quan có thẩm quyền thuộc Bộ Quốc phòng, Tòa án nhân dân
+Kết quả thực hiện:
+Phiếu lý lịch tư pháp số 1, Phiếu lý lịch tư pháp số 2
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2009/QH12|Luật 28/2009/QH12|17-06-2009|Quốc Hội|
+|111/2010/NĐ-CP|Nghị định 111/2010/NĐ-CP|23-11-2010|Chính phủ|
+|13/2011/TT-BTP|Thông tư 13/2011/TT-BTP|27-06-2011|Bộ Tư pháp|
+|04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP|Thông tư liên tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP|10-05-2012|Bộ Quốc phòng|
+|16/2013/TT-BTP|Thông tư 16/2013/TT-BTP|11-11-2013|Bộ Tư pháp|
+|47/2014/QH13|Luật 47/2014/QH13|16-06-2014|Quốc Hội|
+|59/2014/QH13|Luật 59/2014/QH13|20-11-2014|Quốc Hội|
+|244/2016/TT-BTC|Thông tư 244/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|51/2019/QH14|Luật 51/2019/QH14|25-11-2019||
+|68/2020/QH14|Luật 68/2020/QH14|13-11-2020||
+|06/2024/TT-BTP|Thông tư 06/2024/TT-BTP ngày 19/6/2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung một số điều của các Thông tư ban hành và hướng dẫn sử dụng biểu mẫu, mẫu sổ lý lịch tư pháp|19-06-2024|Bộ trưởng Bộ Tư pháp|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

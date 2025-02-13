@@ -1,0 +1,26 @@
+Tên thủ tục: Hỗ trợ ứng dụng kỹ thuật cao trong khám bệnh, chữa bệnh
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả của Sở Khoa học và Công nghệ tại Trung tâm Phục vụ hành chính công tỉnh Thanh Hóa, số 28, Đại lộ Lê Lợi, phường Điện Biên, thành phố Thanh Hóa, tỉnh Thanh Hóa.; Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (một phần)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Sở Tài chính
+Kết quả thực hiện:
+Quyết định hỗ trợ, hoặc Văn bản thông báo từ chối (nêu rõ lý do).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|07/2015/TT-BYT|Thông tư 07/2015/TT-BYT - Quy định chi tiết điều kiện, thủ tục cho phép áp dụng kỹ thuật mới, phương pháp mới trong khám bệnh, chữa bệnh|03-04-2015|Bộ Y tế|
+|40/2009/QH12|Luật Khám bệnh, chữa bệnh|23-11-2009||
+|22/2011/TTLT-BTC-BKHCN|Thông tư liên tịch 22/2011/TTLT-BTC-BKHCN|21-02-2011||
+|07/2015/TT-BYT|Thông tư 07/2015/TT-BYT|03-04-2015||
+|43/2013/TT-BYT|Thông tư 43/2013/TT-BYT|11-12-2013||
+|20/2021/NQ-HĐND|ban hành Chính sách khuyến khích phát triển khoa học và công nghệ trở thành khâu đột phá trong phát triển kinh tế - xã hội tỉnh Thanh Hóa giai đoạn 2021 - 2025.|17-07-2021|Hội đồng nhân dân tỉnh|

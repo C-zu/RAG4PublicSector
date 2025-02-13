@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cho phương tiện thủy nội địa vào cảng biển (trừ phương tiện thủy nội địa mang cấp VR-SB)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 phút|Lệ phí : theo quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ trưởng Bộ Tài chính. Mức thu phí, lệ phí áp dụng tại cảng, bến thủy nội|Chậm nhất 30 phút, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định.|
+|Trực tuyến|30 phút|Lệ phí : theo quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ trưởng Bộ Tài chính. Mức thu phí, lệ phí áp dụng tại cảng, bến thủy nội|Trường hợp làm thủ tục điện tử: người làm thủ tục thực hiện khai báo, gửi hồ sơ thông qua Cổng thông tin điện tử và không phải nộp, xuất trình giấy tờ tại địa điểm làm thủ tục. Trường hợp giấy tờ khai báo, gửi qua Cổng thông tin điện tử không bảo đảm điều kiện của chứng từ điện tử hoặc không đủ dữ liệu điện tử để kiểm tra, đối chiếu, người làm thủ tục nộp, xuất trình tại địa điểm làm thủ tục. Chậm nhất 30 phút, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định.|
+|Dịch vụ bưu chính|30 phút|Lệ phí : theo quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ trưởng Bộ Tài chính. Mức thu phí, lệ phí áp dụng tại cảng, bến thủy nội|Chậm nhất 30 phút, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định.|

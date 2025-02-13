@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002490
+Số quyết định:
+1322/QĐ-BGTVT
+Tên thủ tục:
+Giao tuyến dẫn tàu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Công ty hoa tiêu gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến Cục Hàng hải Việt Nam.
+b) Giải quyết TTHC:
+- Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; trường hợp hồ sơ không đầy đủ theo quy định thì trả lại ngay và hướng dẫn công ty hoa tiêu hoàn thiện lại hồ sơ;
+- Trường hợp nhận qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng các hình thức phù hợp khác, nếu hồ sơ không đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Hàng hải Việt Nam có văn bản gửi công ty hoa tiêu qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng các hình thức phù hợp khác, nêu rõ lý do và yêu cầu bổ sung, hoàn thiện hồ sơ;
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do để Cục Hàng hải Việt Nam có văn bản trả lời cho công ty hoa tiêu;
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|11 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.|
+|Trực tuyến|11 Ngày||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.|
+|Dịch vụ bưu chính|11 Ngày làm việc||- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải Việt Nam xem xét thẩm định hồ sơ và xin ý kiến chấp thuận của Bộ Giao thông vận tải. - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản xin ý kiến của Cục Hàng hải Việt Nam, Bộ Giao thông vận tải có văn bản trả lời; - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được ý kiến chấp thuận của Bộ Giao thông vận tải, Cục Hàng hải Việt Nam quyết định giao tuyến dẫn tàu cho công ty hoa tiêu.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị theo mẫu; ([mẫu.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceceea8b6f9380'))
+- 01 Bản chính, 01 Bản sao Danh sách hoa tiêu kèm theo bản sao Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải và bản sao Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải của từng hoa tiêu
+- 01 Bản chính, 01 Bản sao - Bản kê khai phương tiện đưa, đón hoa tiêu kèm theo bản sao Giấy chứng nhận đăng ký của phương tiện đó.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Bộ Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Cục Hàng Hải Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định giao tuyến dẫn tàu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|70/2016/NĐ-CP|Về điều kiện cung cấp dịch vụ bảo đảm an toàn hàng hải|01-07-2016||
+|69/2022/NĐ-CP|Nghị định 69/2022/NĐ-CP|23-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

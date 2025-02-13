@@ -1,0 +1,16 @@
+Tên thủ tục: Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước mặt đối với hồ chứa, đập dâng thủy lợi có dung tích toàn bộ từ 20 triệu m3 trở lên; hồ chứa, đập dâng thủy lợi khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng từ 2m3/giây trở lên và có dung tích toàn bộ từ 03 triệu m3 trở lên; công trình khai thác, sử dụng nước khác cấp cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng khai thác từ 5m3/giây trở lên; phát điện với công suất lắp máy từ 2.000 kw trở lên; cho các mục đích khác với lưu lượng từ 50.000m3/ngày đêm trở lên; cấp giấy phép khai thác, sử dụng nước biển cho mục đích sản xuất bao gồm cả nuôi trồng thủy sản, kinh doanh, dịch vụ trên đất liền với lưu lượng từ 1.000.000 m3/ngày đêm trở lên
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000018
+Số quyết định:
+1235/QĐ-BTNMT
+Tên thủ tục:
+Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước mặt đối với hồ chứa, đập dâng thủy lợi có dung tích toàn bộ từ 20 triệu m3 trở lên; hồ chứa, đập dâng thủy lợi khai thác, sử dụng nước mặt cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng từ 2m3/giây trở lên và có dung tích toàn bộ từ 03 triệu m3 trở lên; công trình khai thác, sử dụng nước khác cấp cho sản xuất nông nghiệp, nuôi trồng thủy sản với lưu lượng khai thác từ 5m3/giây trở lên; phát điện với công suất lắp máy từ 2.000 kw trở lên; cho các mục đích khác với lưu lượng từ 50.000m3/ngày đêm trở lên; cấp giấy phép khai thác, sử dụng nước biển cho mục đích sản xuất bao gồm cả nuôi trồng thủy sản, kinh doanh, dịch vụ trên đất liền với lưu lượng từ 1.000.000 m3/ngày đêm trở lên
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước

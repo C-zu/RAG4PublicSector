@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Chứng minh nhân dân (9 số) thực hiện tại cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : 0 Đồng Cấp mới: miễn phí (không bao gồm tiền ảnh của người được cấp Chứng minh nhân dân).|Trực tiếp tại trụ sở Công an hoặc cấp lưu động tại các địa điểm cần thiết. Thời gian: + Đối với công dân ở thành phố, thị xã không quá 07 ngày làm việc; + Đối với trường hợp công dân ở các huyện miền núi vùng cao, biên giới, hải đảo không quá 20 ngày làm việc; + Đối với công dân ở các khu vực còn lại không quá 15 ngày làm việc.|

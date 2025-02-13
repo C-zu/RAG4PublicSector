@@ -1,0 +1,24 @@
+Tên thủ tục: Công bố hợp quy sản phẩm, hàng hóa vật liệu xây dựng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Xây dựng
+Cơ quan có thẩm quyền:
+Sở Xây dựng
+Địa chỉ tiếp nhận HS:
+Sở Xây dựng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Thông báo tiếp nhận hồ sơ công bố hợp quy
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|183/2016/TT-BTC|Thông tư 183/2016/TT-BTC|08-11-2016|Bộ Tài chính|
+|28/2012/TT-BKHCN|Thông tư 28/2012/TT-BKHCN|12-12-2012|Bộ Khoa học và Công nghệ|
+|02/2017/TT-BKHCN|Thông tư 02/2017/TT-BKHCN|31-03-2017|Bộ Khoa học và Công nghệ|
+|10/2017/TT-BXD|Thông tư 10/2017/TT-BXD|29-09-2017|Bộ Xây dựng|

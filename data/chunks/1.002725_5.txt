@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời tổ chức, doanh nghiệp về việc chấp thuận đề nghị cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2017/QH14|Luật 05/2017/QH14|12-06-2017|Quốc Hội|
+|69/2018/NĐ-CP|Nghị định 69/2018/NĐ-CP|15-05-2018|Chính phủ|
+|18/2019/QĐ-TTg|Quyết định 18/2019/QĐ-TTg|19-04-2019|Thủ tướng Chính phủ|

@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001584
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại giấy phép hoạt động in xuất bản phẩm (cấp địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Giấy phép hoạt động in xuất bản phẩm bị mất hoặc bị hư hỏng, cơ sở in lập hồ sơ gửi đến Sở Thông tin và Truyền thông hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản (gọi tắt là Sở) đề nghị cấp lại giấy phép.
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Sở phải cấp lại giấy phép hoạt động in xuất bản phẩm; trường hợp không cấp lại giấy phép phải có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại Sở|
+|Trực tuyến|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống dịch vụ công trực tuyến theo hướng dẫn trên Cổng Thông tin điện tử của Sở.|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua dịch vụ bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép hoạt động in xuất bản phẩm theo Mẫu số 18. ([Mẫu số 18- Đơn đề nghị cấp đổi ,cấp lại GPHĐ In.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe27dffc8940c68'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động in xuất bản phẩm.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|195/2013/NĐ-CP|Nghị định 195/2013/NĐ-CP|21-11-2013|Chính phủ|
+|19/2012/QH13|Luật 19/2012/QH13|20-11-2012||
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

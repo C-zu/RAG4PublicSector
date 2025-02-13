@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002469
+Số quyết định:
+87/QĐ-BTNMT
+Tên thủ tục:
+Chứng nhận Nhãn sinh thái Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Môi trường
+Trình tự thực hiện:
+Bước 1. Nộp hồ sơ: 
+Tổ chức/cá nhân nộp hồ sơ qua hệ thống dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường theo địa chỉ https://dichvucong.monre.gov.vn, Cổng dịch vụ công quốc gia theo địa chỉ https://dichvucong.gov.vn hoặc gửi trực tiếp, qua dịch vụ bưu chính đến Văn phòng tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường, địa chỉ số 10 Tôn Thất Thuyết, quận Nam Từ Liêm, Hà Nội.
+Bước 2. Kiểm tra hồ sơ: 
+Bộ Tài nguyên và Môi trường kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản để yêu cầu tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ trong trường hợp hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3. Trình tự chứng nhận: 
+Sau khi nhận được hồ sơ đầy đủ, hợp lệ, cơ quan được giao đánh giá của Bộ Tài nguyên và Môi trường tổ chức đánh giá theo trình tự sau:
++ Thành lập hội đồng đánh giá;
++ Tiến hành khảo sát thực tế; 
++ Họp hội đồng đánh giá hồ sơ; trong trường hợp cần thiết, tiến hành trưng cầu giám định để đánh giá sự phù hợp với bộ tiêu chí Nhãn sinh thái Việt Nam. 
+Bước 4. Cấp Quyết định chứng nhận Nhãn sinh thái Việt Nam
+Sau khi có kết quả họp hội đồng đánh giá sản phẩm, dịch vụ đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam, cơ quan được giao đánh giá báo cáo và trình Bộ Tài nguyên và Môi trường ban hành Quyết định chứng nhận Nhãn sinh thái Việt Nam.
+Trường hợp kết quả đánh giá sản phẩm, dịch vụ không đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam, cơ quan được giao đánh giá của Bộ Tài nguyên và Môi trường thông báo bằng văn bản cho tổ chức, cá nhân biết và nêu rõ lý do không chứng nhận Nhãn sinh thái Việt Nam.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|35 Ngày làm việc||Tổng thời gian giải quyết thủ tục hành chính là 35 ngày làm việc, cụ thể như sau: - Thời hạn kiểm tra tính đầy đủ, hợp lệ của hồ sơ: Tối đa 05 (năm) ngày. - Thời hạn đánh giá và chứng nhận: Tối đa 30 (ba mươi) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ. Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính của cơ quan cấp chứng nhận.|
+|Trực tuyến|35 Ngày làm việc||Tổng thời gian giải quyết thủ tục hành chính là 35 ngày làm việc, cụ thể như sau: - Thời hạn kiểm tra tính đầy đủ, hợp lệ của hồ sơ: Tối đa 05 (năm) ngày. - Thời hạn đánh giá và chứng nhận: Tối đa 30 (ba mươi) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ. Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính của cơ quan cấp chứng nhận.|
+|Dịch vụ bưu chính|35 Ngày làm việc||Tổng thời gian giải quyết thủ tục hành chính là 35 ngày làm việc, cụ thể như sau: - Thời hạn kiểm tra tính đầy đủ, hợp lệ của hồ sơ: Tối đa 05 (năm) ngày. - Thời hạn đánh giá và chứng nhận: Tối đa 30 (ba mươi) ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ. Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính của cơ quan cấp chứng nhận.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chứng nhận Nhãn sinh thái Việt Nam ([Mẫu 01_Don de nghi Chung nhan NST Viet Nam.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef68144be4f58d'))
+- 01 Bản chính Báo cáo sản phẩm, dịch vụ đáp ứng tiêu chí Nhãn sinh thái Việt Nam ([Mẫu 02_Bao cao san pham, dich vu dap ung tieu chi Nhan sinh thai Viet Nam.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe764bf4469de5f'))
+- 01 Bản sao Bản sao có chứng thực Kết quả thử nghiệm sản phẩm có thời hạn không quá 06 (sáu) tháng, tính đến ngày Bộ Tài nguyên và Môi trường nhận được hồ sơ đăng ký hợp lệ kèm theo mẫu sản phẩm đăng ký chứng nhận; Bản có chứng thực Bản vẽ hoặc bản chụp kiểu dáng công nghiệp có kích cỡ 21 cm x 29 cm và thuyết minh các thông số kỹ thuật của sản phẩm; Mẫu sản phẩm đăng ký chứng nhận ([Mẫu_Thanh phan ho so theo quy dinh tai Nghi dinh 08.2022.NĐ.CP.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed526fbd8dc943'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Văn phòng tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Bộ tài nguyên và Môi trường, số 10, đường Tôn Thất Thuyết, quận Nam Từ Liêm, thành phố Hà Nội hoặc nộp qua hệ thống dịch vụ công trực tuyến
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định chứng nhận Nhãn sinh thái Việt Nam đối với sản phẩm, dịch vụ thân thiện với môi trường, Văn bản thông báo về việc sản phẩm, dịch vụ không đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2020/QH14|Luật 72/2020/QH14|17-11-2020||
+|08/2022/NĐ-CP|Nghị định số 08/2022/NĐ-CP|10-01-2022|Chính phủ|
+|02/2022/TT-BTNMT|Thông tư số 02/2022/TT-BTNMT|10-01-2022|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Đáp ứng các tiêu chí Nhãn sinh thái Việt Nam do Bộ Tài nguyên và Môi trường quy định./.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

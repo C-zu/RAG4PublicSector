@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi thương mại, thức ăn chăn nuôi theo đặt hàng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|+ Kiểm tra tính đầy đủ của hồ sơ: Tại thời điểm tiếp nhận hồ sơ.|||
+|Trực tiếp|+ Thẩm định hồ sơ và cấp lại Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 250.000 Đồng Thẩm định cấp lại (trường hợp không đánh giá điều kiện thực tế): 250.000 đồng/01 cơ sở/lần  Phí : 1.500.000 Đồng Thẩm định đánh giá giám sát duy trì điều kiện sản xuất thức ăn chăn nuôi: 1.500.000 đồng/01 cơ sở/lần||
+|Trực tuyến|+ Kiểm tra tính đầy đủ của hồ sơ: Tại thời điểm tiếp nhận hồ sơ.|||
+|Trực tuyến|+ Thẩm định hồ sơ và cấp lại Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 1.500.000 Đồng Thẩm định đánh giá giám sát duy trì điều kiện sản xuất thức ăn chăn nuôi: 1.500.000 đồng/01 cơ sở/lần  Phí : 250.000 Đồng Thẩm định cấp lại (trường hợp không đánh giá điều kiện thực tế): 250.000 đồng/01 cơ sở/lần||
+|Dịch vụ bưu chính|+ Kiểm tra tính đầy đủ của hồ sơ: Tại thời điểm tiếp nhận hồ sơ.|||
+|Dịch vụ bưu chính|+ Thẩm định hồ sơ và cấp lại Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 250.000 Đồng Thẩm định cấp lại (trường hợp không đánh giá điều kiện thực tế): 250.000 đồng/01 cơ sở/lần  Phí : 1.500.000 Đồng Thẩm định đánh giá giám sát duy trì điều kiện sản xuất thức ăn chăn nuôi: 1.500.000 đồng/01 cơ sở/lần||

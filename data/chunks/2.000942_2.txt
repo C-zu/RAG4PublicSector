@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp bản sao có chứng thực từ bản chính hợp đồng, giao dịch đã được chứng thực
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Người yêu cầu cấp bản sao có chứng thực từ bản chính hợp đồng, giao dịch phải xuất trình các giấy tờ theo quy định.
++ Người thực hiện chứng thực kiểm tra giấy tờ do người yêu cầu cấp bản sao có chứng thực từ bản chính hợp đồng, giao dịch xuất trình.
++ Việc cấp bản sao có chứng thực từ bản chính hợp đồng, giao dịch đã được chứng thực được thực hiện tại cơ quan lưu trữ hợp đồng, giao dịch.
++ Cơ quan thực hiện chứng thực tiến hành chụp từ bản chính hợp đồng, giao dịch đang được lưu trữ và thực hiện chứng thực như sau:
+* Ghi đầy đủ lời chứng chứng thực chữ ký theo mẫu quy định;
+* Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.
+Đối với bản sao có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu bản sao có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.
+Mỗi bản sao được chứng thực từ một bản chính giấy tờ, văn bản hoặc nhiều bản sao được chứng thực từ một bản chính giấy tờ, văn bản trong cùng một thời điểm được ghi một số chứng thực.

@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục chi thưởng đối với tổ chức, cá nhân phát hiện tài sản chôn, giấu, bị vùi lấp, chìm đắm, tài sản bị đánh rơi, bỏ quên
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cơ quan, đơn vị được giao nhiệm vụ tiếp nhận, bảo quản tài sản
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản quyết định mức thưởng của cơ quan, người có thẩm quyền.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 15/2017/QH14|Luật quản lý, sử dụng tài sản công|21-06-2017|Quốc Hội|
+|Số: 151/2017/NĐ-CP|NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ, SỬ DỤNG TÀI SẢN CÔNG|26-12-2017|Chính phủ|
+|29/2018/NĐ-CP|Nghị định 29/2018/NĐ-CP|05-03-2018|Chính phủ|

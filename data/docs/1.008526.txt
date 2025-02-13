@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008526
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai cổ tức, lợi nhuận được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1: Người nộp thuế chuẩn bị số liệu, lập hồ sơ và gửi đến cơ quan thuế, chậm nhất là ngày thứ 10 (mười) kể từ ngày phát sinh nghĩa vụ nộp cổ tức, lợi nhuận (ngày được  nhận cổ tức, lợi nhuận) được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở.
++ Bước 2 : Cơ quan thuế thực hiện tiếp nhận:
+   ++ Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+  ++ Trường hợp tiếp nhận hồ sơ qua Cổng thông tin điện tử của Tổng cục Thuế, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+   +++ Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận việc người nộp thuế đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế
+  +++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của người nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||Không phải trả kết quả cho người nộp thuế|
+|Trực tuyến|0||Không phải trả kết quả cho người nộp thuế|
+|Dịch vụ bưu chính|0||Không phải trả kết quả cho người nộp thuế|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai cổ tức được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn 2 thành viên trở lên có vốn nhà nước ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế mẫu số 01/CTLNDC. ([Mẫu số 01.CTLNĐC.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9b87c1ce21138'))
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||
+|91/2015/NĐ-CP|Nghị định 91/2015/NĐ-CP|14-10-2015||
+|69/2014/QH13|Luật 69/2014/QH13|27-11-2014||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

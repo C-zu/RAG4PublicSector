@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010158
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Bảo đảm đầu tư trong trường hợp không được tiếp tục áp dụng ưu đãi đầu tư - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo  Văn bản thông báo không đủ điều kiện cấp Văn bản quyết định áp dụng biện pháp bảo đảm ưu đãi đầu tư theo đề xuất của nhà đầu tư trình lãnh đạo phòng xem xét, ký nháy
+- Trường hợp, hồ sơ đủ điều kiện Dự thảo Văn bản quyết định áp dụng biện pháp bảo đảm ưu đãi đầu tư theo đề xuất của nhà đầu tư trình lãnh đạo phòng xem xét, ký nháy
+B5	Lãnh đạo phòng chuyên môn xem xét, ký nháy  kết quả thực hiện tại Bước 4 
+B6	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định hồ sơ của phòng CM.
+
+B7	Làm thủ tục phát hành văn bản và chuyển TTPVHCC
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|30 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|30 Ngày làm việc|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị áp dụng các biện pháp bảo đảm đầu tư gồm các nội dung sau: + Tên và địa chỉ của nhà đầu tư; + Ưu đãi đầu tư theo quy định tại văn bản pháp luật trước thời điểm văn bản pháp luật mới có hiệu lực gồm: Loại ưu đãi, điều kiện hưởng ưu đãi, mức ưu đãi (nếu có); + Nội dung văn bản pháp luật mới có quy định làm thay đổi ưu đãi đầu tư; + Đề xuất của nhà đầu tư về áp dụng biện pháp bảo đảm ưu đãi đầu tư quy định tại Khoản 4 Điều 13 Luật Đầu tư.
+- 01 Bản chính Giấy phép đầu tư, Giấy phép kinh doanh, Giấy chứng nhận ưu đãi đầu tư, Giấy chứng nhận đầu tư, Giấy chứng nhận đăng ký đầu tư, văn bản quyết định chủ trương đầu tư hoặc văn bản khác của cơ quan nhà nước có thẩm quyền có quy định về ưu đãi đầu tư (nếu có một trong các loại giấy tờ đó).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản quyết định áp dụng biện pháp bảo đảm ưu đãi đầu tư theo đề xuất của nhà đầu tư hoặc văn bản từ chối nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Luật đầu tư|26-11-2014|Bộ Tài chính|
+|118/2015/NĐ-CP|Nghị định 118/2015/NĐ-CP|12-11-2015||
+|16/2015/TT-BKHĐT|Thông tư 16/2015/TT-BKHĐT|18-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Đáp ứng đồng thời các điều kiện sau:
+- Nhà đầu tư có dự án đầu tư đang hưởng ưu đãi đầu tư nhưng bị bãi bỏ ưu đãi đầu tư (quy định tại Khoản 3 Điều 13 Luật đầu tư).
+- Văn bản đề nghị gửi Cơ quan đăng ký đầu tư trong thời hạn 3 năm kể từ ngày văn bản mới có hiệu lực thi hành bãi bỏ ưu đãi của nhà đầu tư.
+Đáp ứng đồng thời các điều kiện sau:
+- Nhà đầu tư có dự án đầu tư đang hưởng ưu đãi đầu tư nhưng bị bãi bỏ ưu đãi đầu tư (quy định tại Khoản 3 Điều 13 Luật đầu tư).
+- Văn bản đề nghị gửi Cơ quan đăng ký đầu tư trong thời hạn 3 năm kể từ ngày văn bản mới có hiệu lực thi hành bãi bỏ ưu đãi của nhà đầu tư.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003725
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh (cấp địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Cơ quan, tổ chức và cá nhân Việt Nam, cá nhân nước ngoài gửi hồ sơ đề nghị cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh đến Sở Thông tin và Truyền thông hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản (gọi tắt là Sở) nơi đặt trụ sở hoặc nơi có cửa khẩu mà xuất bản phẩm được nhập khẩu.
+- Riêng đối với Sở Thông tin và Truyền thông thành phố Hà Nội: Cơ quan, tổ chức ở trung ương, tổ chức nước ngoài có trụ sở tại thành phố Hà Nội gửi hồ sơ đến Sở Thông tin và Truyền thông thành phố Hà Nội.
+- Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ, Sở phải cấp giấy phép; trường hợp không cấp giấy phép phải có văn bản trả lời nêu rõ lý do
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (Theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)  [214-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc310ce72b66174')|Nộp trực tiếp tại Sở|
+|Trực tuyến|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (Theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)|Nộp qua hệ thống dịch vụ công trực tuyến theo hướng dẫn trên Cổng Thông tin điện tử của Sở.|
+|Dịch vụ bưu chính|15 Ngày|Lệ phí : 50.000 Đồng 50.000 đồng/hồ sơ (Theo quy định tại Thông tư số 214/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)|Nộp qua dịch vụ bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh ([Mẫu số 29- Đơn ĐN cấp GPNKXNP không KD.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7b8d954760280'))
+- 01 Bản chính Danh mục xuất bản phẩm nhập khẩu không kinh doanh ([Mẫu số 30- Danh mục XBPNK không KD.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef2896aa0ec110'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông tỉnh Sơn La
+Địa chỉ tiếp nhận HS:
+Sở Thông tin và Truyền thông
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu xuất bản phẩm không kinh doanh.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật xuất bản|20-11-2012|Quốc Hội|
+|195/2013/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|21-11-2013|Chính phủ|
+|214/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định nội dung tài liệu không kinh doanh để cấp giấy phép xuất bản, lệ phí cấp giấy phép nhập khẩu xuất bản phẩm không kinh doanh và lệ phí đăng ký nhập khẩu xuất bản phẩm để kinh doanh|10-11-2016|Bộ Tài chính|
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

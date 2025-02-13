@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tham gia và thay đổi, bổ sung thông tin đã đăng ký trên Hệ thống giao dịch điện tử về tài sản công của cơ quan, tổ chức, đơn vị có tài sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký bên bán, cho thuê, chuyển nhượng (do Hệ thống giao dịch điện tử về tài sản công tạo ra trong quá trình đăng ký trên Hệ thống): 01 bản chính;
+- 01 Bản sao - Quyết định thành lập: 01 bản sao.

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận hoặc cấp lại Trang bổ sung của Giấy chứng nhận do bị mất (VPĐK)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận hoặc Đơn đề nghị cấp lại Trang bổ sung của Giấy chứng nhận: Bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0d0fa6b84f997'">Mau so 10-ĐK.doc</a>)
+- 01 Bản chính - Giấy tờ chứng minh đã đăng tin 03 lần trên phương tiện thông tin đại chúng ở địa phương về việc mất Giấy chứng nhận hoặc Đơn đề nghị cấp lại Trang bổ sung của Giấy chứng nhận;
+- 01 Bản chính - Giấy xác nhận của Ủy ban nhân dân cấp xã về việc thiên tai, hỏa hoạn đối với trường hợp mất Giấy chứng nhận hoặc Đơn đề nghị cấp lại Trang bổ sung của Giấy chứng nhận do thiên tai, hỏa hoạn.

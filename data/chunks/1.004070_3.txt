@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện kiểm nghiệm chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày||Gửi qua đường bưu điện hoặc nộp trực tiếp tại Cục Quản lý môi trường y tế, Bộ Y tế. Trường hợpCục Quản lý môi trường y tế triển khai công bố trực tuyến, cơ sở công bố nộp hồ sơ trực tuyến|
+|Dịch vụ bưu chính|03 Ngày||Gửi qua đường bưu điện hoặc nộp trực tiếp tại Cục Quản lý môi trường y tế, Bộ Y tế. Trường hợpCục Quản lý môi trường y tế triển khai công bố trực tuyến, cơ sở công bố nộp hồ sơ trực tuyến|

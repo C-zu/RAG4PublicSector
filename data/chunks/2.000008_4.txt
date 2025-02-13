@@ -1,0 +1,9 @@
+Tên thủ tục: Miễn kiểm tra giám sát đối với cơ sở kiểm nghiệm thực phẩm đã được tổ chức công nhận hợp pháp của Việt Nam hoặc tổ chức công nhận nước ngoài là thành viên tham gia thỏa thuận lẫn nhau của Hiệp hội công nhận phòng thí nhiệm Quốc tế, Hiệp hội công nhận phòng thí nghiệm Châu Á- Thái Bình Dương đánh giá và cấp chứng chỉ công nhận theo Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị miễn kiểm tra
+- 01 Bản chính Biên bản giám sát của cơ quan công nhận hợp chuẩn Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005 (trong vòng mười hai (12) tháng kể từ ngày nộp hồ sơ)
+- 01 Bản chính Báo cáo kết quả hoạt động trong vòng mười hai (12) tháng kể từ ngày nộp hồ sơ, trong đó nêu rõ kết quả tự đánh giá năng lực phân tích của cơ sở kiểm nghiệm so với quy định có liên quan của Bộ quản lý ngành.

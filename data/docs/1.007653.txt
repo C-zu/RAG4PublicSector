@@ -1,0 +1,78 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007653
+Số quyết định:
+1325/QĐ-BTC
+Tên thủ tục:
+Thủ tục cấp lại mã số nhân viên đại lý làm thủ tục hải quan
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Lập hồ sơ:
+
+Nhân viên đại lý làm thủ tục hải quan được cấp mã số nhân viên đại lý làm thủ tục hải quan còn thời hạn sử dụng trong trường hợp:
+
++ Thẻ nhân viên đại lý làm thủ tục hải quan bị mất và được đại lý làm thủ tục hải quan xác nhận tại Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan.
+
++ Đại lý làm thủ tục hải quan có thay đổi tên đăng ký kinh doanh.
+
++ Nhân viên đại lý làm thủ tục hải quan có thay đổi số định danh cá nhân hoặc số chứng minh nhân dân hoặc số căn cước công dân
+Bước 2: Cấp lại mã số nhân viên đại lý làm thủ tục hải quan:
+
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ và điều kiện theo quy định; Tổng cục trưởng Tổng cục Hải quan thực hiện cấp lại mã số nhân viên đại lý làm thủ tục hải quan. Trường hợp không đủ điều kiện thì có văn bản trả lời doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan của doanh nghiệp.|
+|Trực tuyến|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan của doanh nghiệp.|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan của doanh nghiệp.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan theo mẫu số 07B ban hành kèm Thông tư: 01 bản chính; ([22_2019_TT_BTC_PL.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe16df5529692cb'))
+- 01 Bản sao - Giấy chứng nhận hoàn thành khóa đào tạo bổ sung kiến thức pháp luật hải quan trong trường hợp Chứng chỉ nghiệp vụ khai hải quan quá thời hạn 05 năm kể từ ngày cấp: 01 bản chụp;
+- 01 Bản chính - Một (01) ảnh màu 2x3 được chụp trong thời gian 06 tháng.
+ Các chứng từ bản chụp phải được người đại diện theo pháp luật của đại lý làm thủ tục hải quan ký tên, đóng dấu xác nhận hoặc do cơ quan có thẩm quyền công chứng hoặc chứng thực
+ Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Mã số nhân viên đại lý làm thủ tục hải quan hoặc văn bản trả lời đối với trường hợp không đủ điều kiện.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|12/2015/TT-BTC|Thông tư 12/2015/TT-BTC|30-01-2015|Bộ Tài chính|
+|22/2019/TT-BTC|Sửa đổi, bổ sung một số điều của Thông tư số 12/2015/TT-BTC ngày 30 tháng 01 năm 2015 của Bộ trưởng Bộ Tài chính quy định chi tiết thủ tục cấp Chứng chỉ nghiệp vụ khai hải quan; cấp và thu hồi mã số nhân viên đại lý làm thủ tục hải quan; trình tư, thủ tục công nhận và hoạt động đại lý làm thủ tục hải quan|16-04-2019|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Thẻ nhân viên đại lý làm thủ tục hải quan bị mất và được đại lý làm thủ tục hải quan xác nhận tại Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan;
+
+- Đại lý làm thủ tục hải quan có thay đổi tên đăng ký kinh doanh;
+
+- Nhân viên đại lý làm thủ tục hải quan có thay đổi số định danh cá nhân hoặc số chứng minh nhân dân hoặc số căn cước công dân.
+- Thẻ nhân viên đại lý làm thủ tục hải quan bị mất và được đại lý làm thủ tục hải quan xác nhận tại Đơn đề nghị cấp lại mã số nhân viên đại lý làm thủ tục hải quan;
+
+- Đại lý làm thủ tục hải quan có thay đổi tên đăng ký kinh doanh;
+
+- Nhân viên đại lý làm thủ tục hải quan có thay đổi số định danh cá nhân hoặc số chứng minh nhân dân hoặc số căn cước công dân.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

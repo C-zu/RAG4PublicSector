@@ -1,0 +1,9 @@
+Tên thủ tục: Huỷ tài khoản điện tử trong trường hợp cơ quan, tổ chức có tài khoản đề nghị bằng văn bản
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Ngay sau khi nhận được văn bản đề nghị hủy tài khoản điện tử của cơ quan, tổ chức.||nộp hồ sơ trực tiếp tại trụ sở Cục Quản lý xuất nhập cảnh.|
+|Trực tuyến|ngay sau khi nhận được văn bản đề nghị hủy tài khoản điện tử của cơ quan, tổ chức.||Trực tuyến: nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+|Dịch vụ bưu chính|Ngay sau khi nhận được văn bản đề nghị hủy tài khoản điện tử của cơ quan, tổ chức.||Gửi hồ sơ và nhận kết quả qua đường bưu điện.|

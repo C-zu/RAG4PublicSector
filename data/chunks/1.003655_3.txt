@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép xây dựng mới đối với công trình cấp I, II; công trình tôn giáo; công trình di tích lịch sử - văn hóa, tượng đài, tranh hoành tráng được xếp hạng; công trình trên các tuyến, trục đường phố chính trong đô thị; công trình thuộc dự án có vốn đầu tư trực tiếp nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||Không quá 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày||Không quá 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|

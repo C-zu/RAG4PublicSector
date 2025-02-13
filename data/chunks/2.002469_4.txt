@@ -1,0 +1,9 @@
+Tên thủ tục: Chứng nhận Nhãn sinh thái Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chứng nhận Nhãn sinh thái Việt Nam (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef68144be4f58d'">Mẫu 01_Don de nghi Chung nhan NST Viet Nam.docx</a>)
+- 01 Bản chính Báo cáo sản phẩm, dịch vụ đáp ứng tiêu chí Nhãn sinh thái Việt Nam (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe764bf4469de5f'">Mẫu 02_Bao cao san pham, dich vu dap ung tieu chi Nhan sinh thai Viet Nam.docx</a>)
+- 01 Bản sao Bản sao có chứng thực Kết quả thử nghiệm sản phẩm có thời hạn không quá 06 (sáu) tháng, tính đến ngày Bộ Tài nguyên và Môi trường nhận được hồ sơ đăng ký hợp lệ kèm theo mẫu sản phẩm đăng ký chứng nhận; Bản có chứng thực Bản vẽ hoặc bản chụp kiểu dáng công nghiệp có kích cỡ 21 cm x 29 cm và thuyết minh các thông số kỹ thuật của sản phẩm; Mẫu sản phẩm đăng ký chứng nhận (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed526fbd8dc943'">Mẫu_Thanh phan ho so theo quy dinh tai Nghi dinh 08.2022.NĐ.CP.docx</a>)

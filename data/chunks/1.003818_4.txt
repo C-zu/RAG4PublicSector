@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Gia hạn Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao Bản sao hoặc biểu mẫu điện tử đơn đề nghị gia hạn Giấy chứng nhận phê chuẩn AMO theo mẫu quy định tại Phụ lục 1 Điều 5.033 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb40ad34df9640'">Mau 1.docx</a>)
+- 01 Bản sao Bản sao hoặc bản sao điện tử của tài liệu giải trình tổ chức bảo dưỡng;
+- 01 Bản sao Bản sao hoặc bản sao điện tử báo cáo liệt kê các công việc bảo dưỡng đã thực hiện cho tàu bay quốc tịch Việt Nam;
+- 01 Bản sao Bản sao hoặc bản sao điện tử Giấy chứng nhận Tổ chức bảo dưỡng, tài liệu phạm vi hoạt động và tài liệu giải trình năng lực.”;

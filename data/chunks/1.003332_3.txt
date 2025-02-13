@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký bản công bố sản phẩm sản xuất trong nước đối với thực phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sản phẩm dinh dưỡng dùng cho trẻ đến 36 tháng tuổi
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : 1.500.000 Đồng|07 ngày làm việc|
+|Trực tuyến|7 Ngày làm việc|Phí : 1.500.000 Đồng|07 ngày làm việc|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : 1.500.000 Đồng|07 ngày làm việc|

@@ -1,0 +1,18 @@
+Tên thủ tục: thẩm định dự án thuộc đối tượng lập Báo cáo nghiên cứu khả thi do UBND huyện hoặc Chủ tịch UBND huyện quyết định đầu tư (Phần nhiệm vụ thẩm định cơ quan chuyên môn về xây dựng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện: 
+-Tổ chức, cá nhân đề nghị thẩm định gửi hồ sơ đến Bộ phận Tiếp nhận và Trả kết quả cấp huyện bằng một trong các cách thức sau:
++ Trực tiếp.
++ Qua dịch vụ bưu chính công ích.
++ Trực tuyến (cung cấp theo lộ trình) trên Cổng Dịch vụ công quốc gia, địa chỉ website https://dangky.dichvucong.gov.vn/register hoặc Cổng Dịch vụ công trực tuyến tỉnh Cà Mau, địa chỉ website http://dvctt.camau.gov.vn/thu-tuc-hanh-chinh (nếu đủ điều kiện theo quy định).
+- Thời gian tiếp nhận vào giờ hành chính các ngày làm việc trong tuần (trừ ngày nghỉ lễ theo quy định), cụ thể như sau:
++ Buổi sáng: Từ 07 giờ 00 phút đến 11 giờ 00 phút.
++ Buổi chiều: Từ 13 giờ 00 phút đến 17 giờ 00 phút.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|Trong thời hạn 20 ngày làm việc, đối với dự án nhóm B|
+|Trực tiếp|15 Giờ|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|15 ngày làm việc, đối với dự án nhóm C|
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|Trong thời hạn 20 ngày làm việc, đối với dự án nhóm B|
+|Dịch vụ bưu chính|15 Giờ|Phí : - Thông tư 209/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính - Thông tư 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính. Đồng|15 ngày làm việc, đối với dự án nhóm C|

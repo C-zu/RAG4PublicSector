@@ -1,0 +1,22 @@
+Tên thủ tục: Chuyển đổi điểm thông quan hàng hóa xuất, nhập khẩu thành cảng cạn
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Giao thông vận tải, Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Bộ Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận chủ trương chuyển đổi điểm thông quan thành cảng cạn
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|38/2017/NĐ-CP|Về đầu tư xây dựng, quản lý khai thác cảng cạn|04-04-2017||

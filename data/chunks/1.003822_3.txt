@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép thành lập và công nhận điều lệ quỹ (Cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày làm việc|Phí : 0 Đồng Không quy định|Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ), qua đường bưu chính công ích hoặc trên môi trường mạng (nếu có). Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu chính, thời gian được tính từ ngày xác nhận đến trên văn bản. 40 ngày làm việc kể từ ngày Ủy ban nhân dân cấp tỉnh (Sở Nội vụ) nhận hồ sơ đầy đủ và hợp pháp.|
+|Trực tuyến|40 Ngày làm việc|Phí : 0 Đồng Không quy định|Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ), qua đường bưu chính công ích hoặc trên môi trường mạng (nếu có). Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu chính, thời gian được tính từ ngày xác nhận đến trên văn bản. 40 ngày làm việc kể từ ngày Ủy ban nhân dân cấp tỉnh (Sở Nội vụ) nhận hồ sơ đầy đủ và hợp pháp.|
+|Dịch vụ bưu chính|40 Ngày làm việc|Phí : 0 Đồng Không quy định|Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ), qua đường bưu chính công ích hoặc trên môi trường mạng (nếu có). Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền, nếu gửi qua đường bưu chính, thời gian được tính từ ngày xác nhận đến trên văn bản. 40 ngày làm việc kể từ ngày Ủy ban nhân dân cấp tỉnh (Sở Nội vụ) nhận hồ sơ đầy đủ và hợp pháp.|

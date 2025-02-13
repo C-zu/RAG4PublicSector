@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000163
+Số quyết định:
+01/QĐCB
+Tên thủ tục:
+Nộp đơn khởi kiện, tài liệu, chứng cứ và nhận các văn bản, thông báo tố tụng
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Tòa án
+Trình tự thực hiện:
+Bước 1. Cá nhân, tổ chức nộp đơn khởi kiện, tài liệu chứng cứ và nhận các văn bản, thông báo tố tụng. 
+Trường hợp thực hiện trực tuyến, Cá nhân, tổ chức đăng nhập Cổng Dịch vụ công Quốc gia/Cổng Dịch vụ công của Tòa án nhân dân, lựa chọn và tiến hành thực hiện nộp trực tuyến hoặc đăng ký nhận thông báo, văn bản tố tụng.
+Bước 2. Cơ quan Tòa án thông báo kết quả giải quyết đơn khởi kiện. Nếu đơn đủ điều kiện thụ lý thì cơ quan Tòa án ra thông báo nộp tiền tạm ứng án phí đối với đơn khởi kiện. Căn cứ thông báo, cá nhân, tổ chức đến Cơ quan Thi hành án nộp tiền tạm ứng án phí, lệ phí tòa án.
+Trường hợp thực hiện trực tuyến, căn cứ trên thông báo tống đạt hoặc tin nhắn SMS (nếu có) về việc Tòa án gửi thông báo nộp tiền tạm ứng án phí, cá nhân, tổ chức chọn mục thanh toán trực tuyến án phí và thực hiện thanh toán trực tuyến.
+Bước 3. Cá nhân, tổ chức nộp biên lai thu tiền tạm ứng đến Cơ quan Tòa án. Cơ quan Tòa án tiến hành thụ lý vụ án.
+Trường hợp thực hiện trực tuyến, hệ thống thanh toán trực tuyến sẽ tự động chuyển biên lai thu tạm ứng án phí, lệ phí Tòa án đến Cơ quan Tòa án để thụ lý vụ án và có thông báo đến cá nhân, tổ chức.
+Bước 4. Nhận tài liệu, thông báo văn bản tố tụng trực tuyến trên hệ thống hoặc theo địa chỉ đã đăng ký.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo quy định của Bộ luật Tố tụng dân sự, Bộ Luật tố tụng hành chính|||
+|Trực tuyến|Theo quy định của Bộ luật Tố tụng dân sự, Bộ Luật tố tụng hành chính|||
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp
+- 01 Bản chính Đơn khởi kiện
+- 01 Bản sao Tài liệu, chứng cứ kèm theo (nếu có)
+
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Tài liệu, chứng cứ kèm theo (nếu có)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện:
+Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân cấp huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đơn khởi kiện được thụ lý
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|21/2014/L-CTN|Lệnh 21/2014/L-CTN|04-12-2014||
+|02/2014/TTLT-TANDTC-VKSNDTC-BTP-BTC|Thông tư liên tịch 02/2014/TTLT-TANDTC-VKSNDTC-BTP-BTC|28-03-2014||
+|110/2015/QH13|Nghị quyết 110/2015/QH13|27-11-2015||
+|56/2010/QH12|Nghị quyết 56/2010/QH12|24-11-2010||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

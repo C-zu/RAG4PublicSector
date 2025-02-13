@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký thay đổi khoản vay nước ngoài/khoản phát hành trái phiếu quốc tế được Chính phủ bảo lãnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 Ngày|
+|Dịch vụ bưu chính|15 Ngày||15 Ngày|

@@ -1,0 +1,10 @@
+Tên thủ tục: Điều chỉnh dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao + Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd68bdd4e607d7c'">Mẫu A.I.11.h.docx</a>)
+- 01 Bản chính, 03 Bản sao + Báo cáo tình hình triển khai dự án đầu tư đến thời điểm điều chỉnh; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febb20dd9442606'">Mẫu A.I.12.docx</a>)
+- 01 Bản chính, 03 Bản sao + Quyết định của nhà đầu tư về việc điều chỉnh dự án đầu tư đối với nhà đầu tư là tổ chức;
+- 01 Bản chính, 03 Bản sao + Giải trình hoặc cung cấp tài liệu liên quan đến việc điều chỉnh những nội dung quy định tại các điểm b, c, d, đ, e, g và h khoản 1 Điều 33 Luật Đầu tư (nếu có).

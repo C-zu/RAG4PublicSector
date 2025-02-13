@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động chứng nhận
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Là tổ chức được thành lập theo quy định của pháp luật.
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia, tiêu chuẩn quốc tế và hướng dẫn quốc tế cho mỗi loại hình tương ứng sau đây:
++ Tiêu chuẩn quốc gia TCVN ISO/IEC 17065:2013 hoặc tiêu chuẩn quốc tế ISO/IEC 17065:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với chứng nhận chuyên ngành và các hướng dẫn liên quan của Diễn đàn Công nhận Quốc tế (IAF) hoặc tiêu chuẩn tương ứng với yêu cầu của chương trình chứng nhận đặc thù đối với hoạt động chứng nhận sản phẩm, hàng hóa;
+- Có ít nhất 04 chuyên gia đánh giá chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), đáp ứng các điều kiện sau:
++ Có trình độ tốt nghiệp đại học trở lên và chuyên môn phù hợp đối với chương trình chứng nhận;
++ Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ năng đánh giá chứng nhận tương ứng tại cơ sở đào tạo do Bộ Khoa học và Công nghệ công bố hoặc thừa nhận theo quy định của pháp luật;
+Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ thuật chứng nhận sản phẩm chuyên ngành theo quy định của pháp luật chuyên ngành trong trường hợp có quy định;
++ Có kinh nghiệm làm việc 03 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và kinh nghiệm làm việc phù hợp với yêu cầu quy định của chương trình chứng nhận tương ứng;
++ Có kinh nghiệm đánh giá 04 cuộc trở lên, với ít nhất 20 ngày công đánh giá đối với chương trình chứng nhận tương ứng.
+- Là tổ chức được thành lập theo quy định của pháp luật.
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia, tiêu chuẩn quốc tế và hướng dẫn quốc tế cho mỗi loại hình tương ứng sau đây:
++ Tiêu chuẩn quốc gia TCVN ISO/IEC 17065:2013 hoặc tiêu chuẩn quốc tế ISO/IEC 17065:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với chứng nhận chuyên ngành và các hướng dẫn liên quan của Diễn đàn Công nhận Quốc tế (IAF) hoặc tiêu chuẩn tương ứng với yêu cầu của chương trình chứng nhận đặc thù đối với hoạt động chứng nhận sản phẩm, hàng hóa;
+- Có ít nhất 04 chuyên gia đánh giá chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), đáp ứng các điều kiện sau:
++ Có trình độ tốt nghiệp đại học trở lên và chuyên môn phù hợp đối với chương trình chứng nhận;
++ Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ năng đánh giá chứng nhận tương ứng tại cơ sở đào tạo do Bộ Khoa học và Công nghệ công bố hoặc thừa nhận theo quy định của pháp luật;
+Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ thuật chứng nhận sản phẩm chuyên ngành theo quy định của pháp luật chuyên ngành trong trường hợp có quy định;
++ Có kinh nghiệm làm việc 03 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và kinh nghiệm làm việc phù hợp với yêu cầu quy định của chương trình chứng nhận tương ứng;
++ Có kinh nghiệm đánh giá 04 cuộc trở lên, với ít nhất 20 ngày công đánh giá đối với chương trình chứng nhận tương ứng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

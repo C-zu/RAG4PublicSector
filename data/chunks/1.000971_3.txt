@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xét tặng danh hiệu Nghệ nhân ưu tú trong lĩnh vực di sản văn hóa phi vật thể
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Theo Kế hoạch tổ chức hoạt động xét tặng của các cấp Hội đồng||- Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng cấp tỉnh không quá 90 ngày. - Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng chuyên ngành cấp Bộ không quá 120 ngày. - Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng cấp Nhà nước không quá 120 ngày.|
+|Trực tuyến|Theo Kế hoạch tổ chức hoạt động xét tặng của các cấp Hội đồng||- Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng cấp tỉnh không quá 90 ngày. - Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng chuyên ngành cấp Bộ không quá 120 ngày. - Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng cấp Nhà nước không quá 120 ngày.|
+|Dịch vụ bưu chính|Theo Kế hoạch tổ chức hoạt động xét tặng của các cấp Hội đồng||- Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng cấp tỉnh không quá 90 ngày. - Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng chuyên ngành cấp Bộ không quá 120 ngày. - Thời gian tổ chức hoạt động xét tặng danh hiệu “Nghệ nhân ưu tú” trong lĩnh vực di sản văn hóa phi vật thể tại Hội đồng cấp Nhà nước không quá 120 ngày.|

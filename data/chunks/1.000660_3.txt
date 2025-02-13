@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố đưa bến xe khách vào khai thác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||chậm nhất trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc kiểm tra|
+|Dịch vụ bưu chính|5 Ngày làm việc||chậm nhất trong thời hạn 05 ngày làm việc, kể từ ngày kết thúc kiểm tra|

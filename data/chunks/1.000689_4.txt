@@ -1,0 +1,29 @@
+Tên thủ tục: Thủ tục đăng ký khai sinh kết hợp nhận cha, mẹ, con
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Giấy tờ phải nộp:
+- 01 Bản chính, 01 Bản sao - Tờ khai đăng ký khai sinh theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc81735d7d4c7fc'">1. TK đăng ký khai sinh.doc</a>)
+- 01 Bản chính, 01 Bản sao - Tờ khai đăng ký nhận cha, mẹ, con theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3ff639008a261'">6. TK đăng ký nhận CMC.doc</a>)
+- 01 Bản chính - Bản chính Giấy chứng sinh; trường hợp không có Giấy chứng sinh thì nộp văn bản của người làm chứng xác nhận về việc sinh; nếu không có người làm chứng thì phải có giấy cam đoan về việc sinh;
+ - Chứng cứ chứng minh quan hệ cha, con hoặc quan hệ mẹ, con gồm:
+- 01 Bản chính + Văn bản của cơ quan y tế, cơ quan giám định hoặc cơ quan khác có thẩm quyền xác nhận quan hệ cha con, quan hệ mẹ con.
+- 01 Bản chính + Trường hợp không có văn bản nêu trên thì các bên nhận cha, mẹ, con lập văn bản cam đoan về mối quan hệ cha, mẹ, con, có ít nhất hai người làm chứng về mối quan hệ cha, mẹ, con.
+
+
+* Giấy tờ phải xuất trình:
+- 01 Bản chính - Hộ chiếu hoặc Chứng minh nhân dân hoặc Thẻ căn cước công dân hoặc các giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người có yêu cầu đăng ký khai sinh và nhận cha, mẹ, con.
+- 01 Bản chính - Giấy tờ có giá trị chứng minh thông tin về cư trú trong trường hợp cơ quan đăng ký hộ tịch không thể khai thác được thông tin về nơi cư trú của công dân theo các phương thức quy định tại khoản 2 Điều 14 Nghị định số 104/2022/NĐ-CP ngày 21/12/2022 của Chính phủ. Trường hợp các thông tin về giấy tờ chứng minh nơi cư trú đã được khai thác từ Cơ sở dữ liệu quốc gia về dân cư bằng các phương thức này thì người có yêu cầu không phải xuất trình (theo hình thức trực tiếp) hoặc tải lên (theo hình thức trực tuyến).
+
+
+* Lưu ý:
+ - Đối với giấy tờ nộp, xuất trình:
+ + Đối với giấy tờ xuất trình khi đăng ký hộ tịch, người tiếp nhận có trách nhiệm kiểm tra, đối chiếu với thông tin trong tờ khai, chụp lại hoặc ghi lại thông tin để lưu trong hồ sơ và trả lại cho người xuất trình, không được yêu cầu nộp bản sao hoặc bản chụp giấy tờ đó.
+ + Người yêu cầu đăng ký hộ tịch có thể nộp bản sao chứng thực từ bản chính hoặc bản sao được cấp từ sổ gốc hoặc bản chụp kèm theo bản chính giấy tờ để đối chiếu. Trường hợp người yêu cầu nộp bản chụp kèm theo bản chính giấy tờ thì người tiếp nhận có trách nhiệm kiểm tra, đối chiếu bản chụp với bản chính và ký xác nhận, không được yêu cầu người đi đăng ký nộp bản sao giấy tờ đó.
+ + Người tiếp nhận có trách nhiệm tiếp nhận đúng, đủ hồ sơ đăng ký hộ tịch theo quy định của pháp luật hộ tịch, không được yêu cầu người đăng ký hộ tịch nộp thêm giấy tờ mà pháp luật hộ tịch không quy định phải nộp.
+ - Trường hợp cho phép người yêu cầu đăng ký hộ tịch lập văn bản cam đoan về nội dung yêu cầu đăng ký hộ tịch thì cơ quan đăng ký hộ tịch phải giải thích rõ cho người lập văn bản cam đoan về trách nhiệm, hệ quả pháp lý của việc cam đoan không đúng sự thật.
+ Cơ quan đăng ký hộ tịch từ chối giải quyết hoặc đề nghị cơ quan có thẩm quyền hủy bỏ kết quả đăng ký hộ tịch, nếu có cơ sở xác định nội dung cam đoan không đúng sự thật.
+ - Đối với việc xác định họ, dân tộc, đặt tên cho trẻ:
+ + Việc xác định họ, dân tộc, đặt tên cho trẻ em phải phù hợp với pháp luật và yêu cầu giữ gìn bản sắc dân tộc, tập quán, truyền thống văn hóa tốt đẹp của Việt Nam; không đặt tên quá dài, khó sử dụng.
+ + Trường hợp cha, mẹ không thỏa thuận được về họ, dân tộc, quê quán của con khi đăng ký khai sinh thì họ, dân tộc, quê quán của con được xác định theo tập quán nhưng phải bảo đảm theo họ, dân tộc, quê quán của cha hoặc mẹ.

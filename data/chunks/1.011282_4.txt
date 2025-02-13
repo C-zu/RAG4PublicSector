@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký khai thác tuyến và Lựa chọn đơn vị khai thác tuyến vận tải hành khách theo tuyến cố định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký khai thác tuyến theo mẫu BM.PTNL.12.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8c163692eb826'">Giay dang ky khai thac tuyen 12.01.doc</a>)
+- 01 Bản chính Bản sao Biên bản thống nhất giữa bến xe hai đầu tuyến với doanh nghiệp, hợp tác xã tham gia khai thác tuyến (áp dụng đối với trường hợp tuyến mới).

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp đổi Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính Giấy chứng nhận đăng ký xe máy chuyên dùng đã được cấp
+- 01 Bản chính Tờ khai đổi Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeb402aead5554'">Mau 4.doc</a>)
+- 01 Bản chính Bản chính Giấy chứng nhận chất lượng xe cải tạo theo quy định của Bộ Giao thông vận tải đối với trường hợp xe máy chuyên dùng cải tạo
+- 01 Bản sao Quyết định hoặc giấy tờ về việc thay đổi do cơ quan có thẩm quyền cấp đối với trường hợp chủ sở hữu thay đổi thông tin liên quan (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có chứng thực)

@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001218
+Số quyết định:
+290/QĐ-BGTVT
+Tên thủ tục:
+Công bố mở, cho phép hoạt động tại vùng nước khác không thuộc vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải, được đánh dấu, xác định vị trí bằng phao hoặc cờ hiệu có màu sắc dễ quan sát
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+Tổ chức, cá nhân gửi trực tiếp hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến 01 bộ hồ sơ đến Ủy ban nhân dân cấp huyện.
+Giải quyết TTHC:
+- Ủy ban nhân dân cấp huyện tiếp nhận hồ sơ; nếu hồ sơ chưa hợp lệ, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ theo quy định;
+- Chậm nhất 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Ủy ban nhân dân cấp huyện ra quyết định công bố, cho phép hoạt động; trường hợp không giải quyết phải có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||- Thời hạn Ủy ban nhân dân cấp huyện ra quyết định công bố, cho phép hoạt động: 05 (năm) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|5 Ngày làm việc||- Thời hạn Ủy ban nhân dân cấp huyện ra quyết định công bố, cho phép hoạt động: 05 (năm) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Thời hạn Ủy ban nhân dân cấp huyện ra quyết định công bố, cho phép hoạt động: 05 (năm) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+- Hồ sơ công bố vùng hoạt động có dự án đầu tư xây dựng (01 bộ hồ sơ, mỗi loại 01 bản), gồm:
+- 01 Bản chính + Bản chính hoặc biểu mẫu điện tử Đơn đề nghị theo Mẫu; ([Mẫu đơn đề nghị Công bố vùng hoạt động vui chơi giải trí dưới nước.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1680dba2df76a'))
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản điện tử hoặc bản sao điện tử sơ đồ vị trí thiết lập báo hiệu đối với trường hợp vùng hoạt động giáp ranh với vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải hoặc sơ đồ bố trí phao và cờ hiệu đối với trường hợp vùng hoạt động không giáp ranh với vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải;
+- 01 Bản chính, 01 Bản sao + Bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử quyết định phê duyệt dự án (nếu có);
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản điện tử hoặc bản sao điện tử Phương án bảo đảm an ninh, an toàn, cứu hộ, cứu nạn và ngăn ngừa ô nhiễm môi trường;
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản điện tử hoặc bản sao điện tử bản vẽ hoàn công công trình, bao gồm cả hải đồ hoặc bản đồ thể hiện vị trí.
+
+
+- Hồ sơ công bố vùng hoạt động không có dự án đầu tư xây dựng (01 bộ hồ sơ, mỗi loại 01 bản), gồm:
+- 01 Bản chính + Bản chính hoặc biểu mẫu điện tử Đơn đề nghị theo Mẫu; ([Mẫu đơn đề nghị Công bố vùng hoạt động vui chơi giải trí dưới nước.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4e5d1ce40cd2a'))
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản điện tử hoặc bản sao điện tử sơ đồ vị trí thiết lập báo hiệu đối với trường hợp vùng hoạt động giáp ranh với vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải hoặc sơ đồ bố trí phao và cờ hiệu đối với trường hợp vùng hoạt động không giáp ranh với vùng nước trên tuyến đường thủy nội địa, vùng nước cảng biển hoặc khu vực hàng hải;
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản điện tử hoặc bản sao điện tử phương án bảo đảm an ninh, an toàn, cứu hộ, cứu nạn và ngăn ngừa ô nhiễm môi trường.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Uỷ ban nhân dân huyện
+Cơ quan có thẩm quyền:
+Uỷ ban nhân dân huyện
+Địa chỉ tiếp nhận HS:
+Uỷ ban nhân dân cấp huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công bố mở vùng hoạt động vui chơi giải trí
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|48/2019/NĐ-CP|Quy định về quản lý hoạt động của phương tiện phục vụ vui chơi, giải trí dưới nước|05-06-2019|Chính phủ|
+|19/2024/NĐ-CP|Nghị định số 19/2024/NĐ-CP ngày 23/02/2024 sửa đổi, bổ sung một số điều của Nghị định số 48/2019/NĐ-CP ngày 05/6/2019 của Chính phủ quy định về quản lý hoạt động của phương tiện phục vụ vui chơi, giải trí dưới nước|23-02-2024|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có yêu cầu điều kiện
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

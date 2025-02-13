@@ -1,0 +1,28 @@
+Tên thủ tục: Thi đua khen thưởng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Phòng Tổ chức cán bộ
+Cơ quan có thẩm quyền:
+Ủy ban Dân tộc
+Địa chỉ tiếp nhận HS:
+Vụ Tổ chức Cán bộ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định của Bộ trưởng, Chủ nhiệm Uỷ ban Dân tộc về viêc tặng Bằng khen của Bộ trưởng, Chủ nhiệm Uỷ ban Dân tộc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2003/QH11|Luật 15/2003/QH11 - Thi đua, khen thưởng|26-11-2003|Quốc Hội|
+|47/2005/QH11|Luật 47/2005/QH11 - Sửa đổi, bổ sung một số điều của Luật Thi đua, Khen thưởng|14-06-2005|Quốc Hội|
+|39/2013/QH13|Luật 39/2013/QH13 Sửa đổi, bổ sung một số điều của Luật Thi đua, khen thưởng|16-11-2013|Quốc Hội|
+|02/2015/TT-UBDT|Thông tư 02/2015/TT-UBDT- Hướng dẫn công tác thi đua, khen thưởng trong hệ thống Cơ quan công tác dân tộc|30-11-2015|Ủy ban Dân tộc|
+|91/2017/NĐ-CP|Nghị định 91/2017/NĐ-CP|31-07-2017||
+|08/2017/TT-BNV|Thông tư 08/2017/TT-BNV|27-10-2017||
+|12/2019/TT-BNV|Thông tư 12/2019/TT-BNV|04-11-2019||
+|5/2020/TT-BNV|Thông tư 5/2020/TT-BNV|09-11-2020||

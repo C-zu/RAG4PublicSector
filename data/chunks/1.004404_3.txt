@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép mua thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất thuộc thẩm quyền của Bộ Y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|30 Ngày||30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|

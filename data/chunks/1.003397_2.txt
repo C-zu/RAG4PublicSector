@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ dự án liên kết (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chủ đầu tư dự án liên kết gửi 01 bộ hồ sơ tới Sở Nông nghiệp và Phát triển nông thôn
+Bước 2: Sau khi nhận đủ hồ sơ theo quy định, Sở Nông nghiệp và Phát triển nông thôn thành lập hội đồng thẩm định hồ sơ. Hội đồng thẩm định gồm Lãnh đạo Sở Nông nghiệp và Phát triển nông thôn là chủ tịch hội đồng, các thành viên là đại diện Sở Kế hoạch và Đầu tư, Sở Tài chính, các Sở ngành liên quan và lãnh đạo Ủy ban nhân dân các huyện có liên quan.
+
++ Trong thời hạn 15 ngày làm việc sau khi nhận được hồ sơ, Hội đồng tổ chức thẩm định, nếu hồ sơ đủ điều kiện thì Sở Nông nghiệp và Phát triển nông thôn có tờ trình trình Ủy  ban nhân dân cấp tỉnh xem xét phê duyệt.
+
++ Nếu hồ sơ không đủ điều kiện thì trong vòng 10 ngày làm việc kể từ khi thẩm định, Sở Nông nghiệp và Phát triển nông thôn phải thông báo và nêu rõ lý do cho chủ đầu tư dự án liên kết được biết.
+Bước 3: Trong thời hạn 10 ngày làm việc sau khi nhận được tờ trình của Sở Nông nghiệp và Phát triển nông thôn, Ủy ban nhân dân cấp tỉnh ra quyết định phê duyệt hỗ trợ dự án liên kết.

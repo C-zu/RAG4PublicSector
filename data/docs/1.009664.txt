@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009664
+Số quyết định:
+701/QĐ-BKHĐT
+Tên thủ tục:
+Thủ tục cấp Giấy chứng nhận đăng ký đầu tư đối với dự án không thuộc diện chấp thuận chủ trương đầu tư
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư nộp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký đầu tư quy định tại khoản 1 Điều 33 của Luật Đầu tư cho Sở Kế hoạch và Đầu tư. Trường hợp dự án đầu tư thực hiện tại 02 đơn vị hành chính cấp tỉnh trở lên, nhà đầu tư nộp Hồ sơ cho Sở Kế hoạch và Đầu tư của một tỉnh, thành phố trực thuộc trung ương nơi nhà đầu tư thực hiện dự án đầu tư, đặt hoặc dự kiến đặt văn phòng điều hành để đề nghị cấp Giấy chứng nhận đăng ký đầu tư cho dự án.
+* Trường hợp nộp trực tuyến trên Hệ thống thông tin quốc gia về đầu tư: Nhà đầu tư đăng ký tài khoản trên Hệ thống thông tin quốc gia về đầu tư; kê khai thông tin, tải văn bản điện tử đã được ký số trên Hệ thống thông tin quốc gia về đầu tư; hoàn thiện hồ sơ trên Hệ thống thông tin quốc gia về đầu tư (theo thông báo của Sở Kế hoạch và Đầu tư);
+- Bước 2: Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ khi dự án đáp ứng các điều kiện tại khoản 3 Điều 36 Nghị định số 31/2021/NĐ-CP, Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Trực tuyến|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ khi dự án đáp ứng các điều kiện tại khoản 3 Điều 36 Nghị định số 31/2021/NĐ-CP, Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư.|Phí : 0 Đồng Không có|- Trực tuyến trên Hệ thống thông tin quốc gia về đầu tư.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị thực hiện dự án đầu tư, gồm cả cam kết chịu mọi chi phí, rủi ro nếu dự án không được chấp thuận; ([Mẫu A.I.6.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6105f71ee9c2a'))
+- 01 Bản chính - Tài liệu về tư cách pháp lý của nhà đầu tư;
+- 01 Bản chính - Tài liệu chứng minh năng lực tài chính của nhà đầu tư gồm ít nhất một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu khác chứng minh năng lực tài chính của nhà đầu tư;
+- 01 Bản chính - Đề xuất dự án đầu tư gồm các nội dung chủ yếu sau: nhà đầu tư hoặc hình thức lựa chọn nhà đầu tư, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ thực hiện, thông tin về hiện trạng sử dụng đất tại địa điểm thực hiện dự án và đề xuất nhu cầu sử dụng đất (nếu có), nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, tác động, hiệu quả kinh tế - xã hội của dự án, đánh giá sơ bộ tác động môi trường (nếu có) theo quy định của pháp luật về bảo vệ môi trường. Trường hợp pháp luật về xây dựng quy định lập báo cáo nghiên cứu tiền khả thi thì nhà đầu tư được nộp báo cáo nghiên cứu tiền khả thi thay cho đề xuất dự án đầu tư; ([Mẫu A.I.4.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0179f9a0deb70'))
+- 01 Bản chính - Trường hợp dự án đầu tư không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nộp bản sao giấy tờ về quyền sử dụng đất hoặc tài liệu khác xác định quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+- 01 Bản chính - Nội dung giải trình về công nghệ sử dụng trong dự án đầu tư đối với dự án thuộc diện thẩm định, lấy ý kiến về công nghệ theo quy định của pháp luật về chuyển giao công nghệ;
+- 01 Bản chính - Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC;
+- 01 Bản chính - Tài liệu khác liên quan đến dự án đầu tư, yêu cầu về điều kiện, năng lực của nhà đầu tư theo quy định của pháp luật (nếu có).
+- 01 Bản chính (*) Đối với dự án đầu tư đã triển khai hoạt động, nhà đầu tư nộp hồ sơ theo theo quy định tại khoản 1 Điều này, trong đó đề xuất dự án đầu tư được thay bằng báo cáo tình hình thực hiện dự án đầu tư từ thời điểm triển khai đến thời điểm đề nghị cấp Giấy chứng nhận đăng ký đầu tư.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tại cơ quan hành chính nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký đầu tư theo mẫu A.II.8 quy định tại Thông tư số 03/2021/TT-BKHĐT.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|31/2021/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư|26-03-2021|Chính phủ|
+|03/2021/TT-BKHĐT|quy định về mẫu văn bản, báo cáo liên quan đến hoạt động đầu tư tại Việt Nam, đầu tư từ Việt Nam ra nước ngoài và xúc tiến đầu|09-04-2021|Bộ Kế hoạch và Đầu tư|
+|61/2020/QH14|Luật Đầu tư|17-06-2020|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+- Dự án không thuộc diện chấp thuận chủ trương đầu tư. 
+- Không thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định tại Điều 6 của Luật Đầu tư và điều ước quốc tế về đầu tư;
+- Có địa điểm thực hiện dự án đầu tư được xác định trên cơ sở bản sao hợp lệ giấy tờ về quyền sử dụng đất hoặc bản sao hợp lệ thỏa thuận thuê địa điểm hoặc văn bản, tài liệu khác xác định quyền sử dụng địa điểm để thực hiện dự án đầu tư; 
+- Dự án đầu tư phù hợp với các quy hoạch theo quy định tại khoản 7 Điều 31 Nghị định số 31/2021/NĐ-CP; 
+- Đáp ứng điều kiện về suất đầu tư trên một diện tích đất do Ủy ban nhân dân cấp tỉnh quy định căn cứ vào điều kiện thực tế của địa phương và được Thường trực Hội đồng nhân dân tỉnh thông qua (nếu có), số lượng lao động sử dụng (nếu có);
+- Đáp ứng điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài.
+- Dự án không thuộc diện chấp thuận chủ trương đầu tư. 
+- Không thuộc ngành, nghề cấm đầu tư kinh doanh theo quy định tại Điều 6 của Luật Đầu tư và điều ước quốc tế về đầu tư;
+- Có địa điểm thực hiện dự án đầu tư được xác định trên cơ sở bản sao hợp lệ giấy tờ về quyền sử dụng đất hoặc bản sao hợp lệ thỏa thuận thuê địa điểm hoặc văn bản, tài liệu khác xác định quyền sử dụng địa điểm để thực hiện dự án đầu tư; 
+- Dự án đầu tư phù hợp với các quy hoạch theo quy định tại khoản 7 Điều 31 Nghị định số 31/2021/NĐ-CP; 
+- Đáp ứng điều kiện về suất đầu tư trên một diện tích đất do Ủy ban nhân dân cấp tỉnh quy định căn cứ vào điều kiện thực tế của địa phương và được Thường trực Hội đồng nhân dân tỉnh thông qua (nếu có), số lượng lao động sử dụng (nếu có);
+- Đáp ứng điều kiện tiếp cận thị trường đối với nhà đầu tư nước ngoài.
+Từ khóa:
+Thủ tục, cấp Giấy chứng nhận đăng ký đầu tư, đối với dự án, không thuộc diện chấp thuận chủ trương đầu tư
+Mô tả:
+Không có thông tin

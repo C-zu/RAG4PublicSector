@@ -1,0 +1,14 @@
+Tên thủ tục: Đăng ký sửa đổi, bổ sung nội dung hoạt động bán hàng đa cấp tại địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với trường hợp chuyển tiếp theo quy định tại Khoản 2 Điều 3 Nghị định số 18/2023/NĐ-CP, tài liệu có liên quan đến nội dung sửa đổi, bổ sung bao gồm:
+- 01 Bản sao + 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản chính + 01 văn bản ủy quyền cho người đại diện tại địa phương, kèm theo 01 bản sao được chứng thực chứng minh nhân dân/căn cước công dân hoặc hộ chiếu của người đại diện đó trong trường hợp doanh nghiệp không có trụ sở chính, chi nhánh, văn phòng đại diện tại địa phương.
+
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký sửa đổi bổ sung nội dung hoạt động bán hàng đa cấp tại địa phương theo Mẫu số 09 tại Phụ lục ban hành kèm theo Nghị định số 40/2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ về quản lý hoạt động kinh doanh theo phương thức đa cấp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f79d6e7b945d780'">Mẫu số 09.docx</a>)
+- 01 Bản sao - 01 bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản sao 01 bản sao giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, giấy chứng nhận đăng ký địa điểm kinh doanh (nếu có). Trường hợp không có trụ sở, chi nhánh, văn phòng đại diện, địa điểm kinh doanh tại địa phương, doanh nghiệp cung cấp các giấy tờ liên quan đến đầu mối tại địa phương, bao gồm: 01 bản sao được chứng thực chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu; 01 bản chính hoặc bản sao có chứng thực Phiếu lý lịch tư pháp; 01 bản sao chứng thực xác nhận kiến thức cho đầu mối tại địa phương; 01 văn bản chỉ định quy định rõ phạm vi công việc, quyền và nghĩa vụ của các bên.

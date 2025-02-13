@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010176
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Chấm dứt hoạt động của Văn phòng đại diện của Thương nhân nước ngoài tại Việt Nam - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dịch vụ thương mại
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ, Dự thảo Thông báo  chấm dứt hoạt động của Văn phòng đại diện
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời khách hàng theo Mẫu số 03 rồi chuyển hồ sơ cho bộ phận một cửa trả lại cho khách hang
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC.
+B6	Phê duyệt kết quả giải quyết TTHC
+B7	Phát hành văn bản và chuyển về Bộ phận tiếp nhận và trả kết quả
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 0 Đồng||
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 0 Đồng||
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động Văn phòng đại diện, theo mẫu BM.TM.05.1
+- 01 Bản sao Bản sao văn bản của Cơ quan cấp Giấy phép không gia hạn Giấy phép thành lập Văn phòng đại diện (đối với trường hợp quy định tại Khoản 4 Điều 35 Nghị định 07/2016/NĐ-CP) hoặc bản sao Quyết định thu hồi Giấy phép thành lập Văn phòng đại diện của Cơ quan cấp Giấy phép (đối với trường hợp quy định tại Khoản 5 Điều 35 Nghị định 07/2016/NĐ-CP)
+- 01 Bản chính Danh sách chủ nợ và số nợ chưa thanh toán, gồm cả nợ thuế và nợ tiền đóng bảo hiểm xã hội
+- 01 Bản chính Danh sách người lao động và quyền lợi tương ứng hiện hành của người lao động
+- 01 Bản chính Bản chính Giấy phép thành lập Văn phòng đại diện
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo chấm dứt hoạt động của Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|36/2005/QH11|Luật Thương mại năm 2005|14-06-2005|Quốc Hội|
+|11/2016/TT-BCT|Thông tư 11/2016/TT-BCT|05-07-2016||
+|07/2016/NĐ-CP|Nghị định 07/2016/NĐ-CP|25-01-2016||
+|143/2016/TT-BTC|Thông tư 143/2016/TT-BTC|26-09-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Văn phòng đại diện chấm dứt hoạt động trong các trường hợp sau:
+1. Theo đề nghị của thương nhân nước ngoài.
+2. Khi thương nhân nước ngoài chấm dứt hoạt động theo pháp luật của quốc gia, vùng lãnh thổ nơi thương nhân đó thành lập hoặc đăng ký kinh doanh.
+3. Hết thời hạn hoạt động theo Giấy phép thành lập Văn phòng đại diện mà thương nhân nước ngoài không đề nghị gia hạn.
+4. Hết thời gian hoạt động theo Giấy phép thành lập Văn phòng đại diện mà không được Cơ quan cấp Giấy phép đồng ý gia hạn.
+5. Bị thu hồi Giấy phép thành lập Văn phòng đại diện theo quy định tại Điều 44 Nghị định 07/2016/NĐ-CP.
+6. Thương nhân nước ngoài, Văn phòng đại diện không còn đáp ứng một trong những điều kiện quy định tại Điều 7 và Điều 8 Nghị định 07/2016/NĐ-CP.
+Văn phòng đại diện chấm dứt hoạt động trong các trường hợp sau:
+1. Theo đề nghị của thương nhân nước ngoài.
+2. Khi thương nhân nước ngoài chấm dứt hoạt động theo pháp luật của quốc gia, vùng lãnh thổ nơi thương nhân đó thành lập hoặc đăng ký kinh doanh.
+3. Hết thời hạn hoạt động theo Giấy phép thành lập Văn phòng đại diện mà thương nhân nước ngoài không đề nghị gia hạn.
+4. Hết thời gian hoạt động theo Giấy phép thành lập Văn phòng đại diện mà không được Cơ quan cấp Giấy phép đồng ý gia hạn.
+5. Bị thu hồi Giấy phép thành lập Văn phòng đại diện theo quy định tại Điều 44 Nghị định 07/2016/NĐ-CP.
+6. Thương nhân nước ngoài, Văn phòng đại diện không còn đáp ứng một trong những điều kiện quy định tại Điều 7 và Điều 8 Nghị định 07/2016/NĐ-CP.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

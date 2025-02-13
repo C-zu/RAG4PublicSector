@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện phải đăng ký với tổ chức hàng không dân dụng quốc tế thuộc nghiệp vụ di động hàng không sử dụng tần số ngoài băng tần từ 2850 kHz đến 22000 kHz và nghiệp vụ vô tuyến dẫn đường hàng không, bao gồm đài vô tuyến điện đặt tại các sân bay chuyên dùng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản khai thông tin chung và bản khai thông số kỹ thuật, khai thác đối với các thiết bị vô tuyến điện không thuộc các mẫu 1b, 1c, 1d, 1đ, 1e, 1g1, 1g2, 1h, 1i, 1m theo Mẫu 1a Phụ lục II của Nghị định số 63/2023/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcacf8b158fddc0'">Mau 1a.ND63.tan so.docx</a>)
+- 01 Bản chính - Văn bản của cơ quan chuyên môn thuộc Bộ Quốc phòng về việc mở sân bay chuyên dùng (áp dụng đối với đài vô tuyến điện thuộc nghiệp vụ di động hàng không, nghiệp vụ vô tuyến dẫn đường hàng không tại sân bay chuyên dùng).
+- 01 Bản sao - Tài liệu liên quan đến hồ sơ đề nghị cấp phép (Trong trường hợp cơ quan cấp giấy phép cần phải xác minh lại thông tin trong bản khai đề nghị cấp phép để ấn định tần số vô tuyến điện và cấp giấy phép) theo quy định tại khoản 4 Điều 4 Nghị định số 63/2023/NĐ-CP.

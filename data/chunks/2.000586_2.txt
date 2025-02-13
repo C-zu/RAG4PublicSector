@@ -1,0 +1,6 @@
+Tên thủ tục: Thông báo thay đổi địa điểm đặt trụ sở của Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài sang tỉnh, thành phố trực thuộc Trung ương khác
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp thay đổi địa điểm trụ sở sang tỉnh, thành phố trực thuộc Trung ương khác,
+Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài gửi thông báo chuyển địa điểm trụ sở cho Sở Tư pháp nơi đã cấp Giấy đăng ký hoạt động.

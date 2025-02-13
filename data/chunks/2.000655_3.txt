@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện tiêm chủng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Cơ sở được thực hiện hoạt động tiêm chủng sau khi đã thực hiện việc công bố đủ điều kiện tiêm chủng|||
+|Dịch vụ bưu chính|Cơ sở được thực hiện hoạt động tiêm chủng sau khi đã thực hiện việc công bố đủ điều kiện tiêm chủng|||

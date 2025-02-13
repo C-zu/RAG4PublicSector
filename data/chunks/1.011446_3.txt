@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Hỗ trợ tổ chức áp dụng tiêu chuẩn, công cụ, mô hình, phương pháp quản lý tiên tiến
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày|Phí : Đồng  Phí : Đồng|Tổ chức có nhu cầu nộp hồ sơ tại Bộ phận tiếp nhận và trả kết quả Sở Khoa học và Công nghệ tại Trung tâm phục vụ hành chính công tỉnh Bắc Giang.|

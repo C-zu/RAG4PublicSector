@@ -1,0 +1,9 @@
+Tên thủ tục: Miễn kiểm tra giám sát cơ sở kiểm nghiệm thực phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Biên bản giám sát của cơ quan công nhận hợp chuẩn Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005 (trong vòng mười hai (12) tháng kể từ ngày nộp hồ sơ)
+- 01 Bản chính Công văn đề nghị miễn kiểm tra, giám sát
+- 01 Bản chính Báo cáo kết quả hoạt động trong thời gian mười hai (12) tháng kể từ ngày nộp hồ sơ

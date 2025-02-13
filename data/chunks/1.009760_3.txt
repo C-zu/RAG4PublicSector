@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp dự án đã được cấp Giấy chứng nhận đăng ký đầu tư và không thuộc diện chấp thuận điều chỉnh chủ trương đầu tư đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 03 ngày làm việc đối với trường hợp 1 hoặc 10 ngày đối với trường hợp 2 kể từ ngày nhận được hồ sơ hợp lệ, Ban Quản lý điều chỉnh Giấy chứng nhận đăng ký đầu tư cho nhà đầu tư.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính.|
+|Dịch vụ bưu chính|Trong thời hạn 03 ngày làm việc đối với trường hợp 1 hoặc 10 ngày đối với trường hợp 2 kể từ ngày nhận được hồ sơ hợp lệ, Ban Quản lý điều chỉnh Giấy chứng nhận đăng ký đầu tư cho nhà đầu tư.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

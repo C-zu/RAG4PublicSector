@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ tư vấn chuyên sâu cho các doanh nghiệp xuất khẩu tiếp cận thị trường xuất khẩu mới
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị hỗ trợ theo mẫu ban hành kèm theo Nghị quyết này (bản chính); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe506169e421a3d'">Mẫu văn bản đề nghị hỗ trợ.doc</a>)
+- 01 Bản chính - Hợp đồng cung cấp dịch vụ tư vấn của doanh nghiệp với đơn vị tư vấn (bản chính);
+- 01 Bản chính - Hợp đồng, biên bản nghiệm thu và thanh lý hợp đồng của doanh nghiệp với đơn vị tư vấn (bản chính);
+- 01 Bản sao - Tài liệu chứng minh xuất khẩu sang thị trường mới: Tờ khai hải quan, hóa đơn/invoice (bản sao chứng thực);
+- 01 Bản sao - Các hóa đơn, chứng từ tài chính có liên quan (bản sao chứng thực).

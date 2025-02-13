@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Tháng||03 tháng kể từ ngày tiếp nhận hồ sơ|
+|Trực tuyến|03 Tháng||03 tháng kể từ ngày tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|03 Tháng||03 tháng kể từ ngày tiếp nhận hồ sơ|

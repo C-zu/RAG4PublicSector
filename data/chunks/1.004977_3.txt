@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sử dụng trong giao thông vận tải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Lệ phí : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn thẩm định thiết kế: trong vòng 20 (hai mươi) ngày làm việc kể từ khi nhận đủ hồ sơ.|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn cấp Giấy chứng nhận thẩm định thiết kế: 03 ngày làm việc sau khi hoàn thành thẩm định đạt kết quả theo quy định.|
+|Trực tuyến|20 Ngày làm việc|Lệ phí : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn thẩm định thiết kế: trong vòng 20 (hai mươi) ngày làm việc kể từ khi nhận đủ hồ sơ.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn cấp Giấy chứng nhận thẩm định thiết kế: 03 ngày làm việc sau khi hoàn thành thẩm định đạt kết quả theo quy định.|
+|Dịch vụ bưu chính|20 Ngày làm việc|Lệ phí : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn thẩm định thiết kế: trong vòng 20 (hai mươi) ngày làm việc kể từ khi nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : Đồng - Mức thu giá dịch vụ, lệ phí theo quy định của Bộ Tài chính và thanh toán giá dịch vụ, nộp lệ phí theo quy định cho cơ quan cấp Giấy chứng nhận.|- Thời hạn cấp Giấy chứng nhận thẩm định thiết kế: 03 ngày làm việc sau khi hoàn thành thẩm định đạt kết quả theo quy định.|

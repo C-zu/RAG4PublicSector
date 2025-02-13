@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai yêu cầu cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp (Mẫu số 05 - Phụ lục VI Nghị định số 65/2023/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42ae24b35817d'">PL6.5 - Tờ khai yêu cầu cấp Giấy chứng nhận tổ chức giám định sở hữu công nghiệp.docx</a>)
+- 01 Bản sao Quyết định tuyển dụng hoặc hợp đồng lao động giữa tổ chức và giám định viên sở hữu công nghiệp hoạt động cho tổ chức (xuất trình bản chính để đối chiếu, trừ trường hợp bản sao đã được chứng thực);
+- 01 Bản sao Chứng từ nộp phí, lệ phí (trường hợp nộp phí, lệ phí qua dịch vụ bưu chính hoặc nộp trực tiếp vào tài khoản của Cục Sở hữu trí tuệ)

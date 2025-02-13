@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất thực phẩm, kinh doanh dịch vụ ăn uống (cấp tỉnh).
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm theo Mẫu số 01, Phụ lục I, Nghị định số 155/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde9edff7fa737a'">Mẫu số 01.doc</a>)
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp có ngành nghề phù hợp với loại thực phẩm của cơ sở sản xuất (có xác nhận của cơ sở).
+- 01 Bản chính - Danh sách người sản xuất thực phẩm, kinh doanh dịch vụ ăn uống đã được tập huấn kiến thức an toàn thực phẩm có xác nhận của chủ cơ sở.
+- 01 Bản chính - Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm theo quy định của cơ quan quản lý nhà nước có thẩm quyền.
+- 01 Bản chính - Giấy xác nhận đủ sức khoẻ của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở y tế cấp huyện trở lên cấp.

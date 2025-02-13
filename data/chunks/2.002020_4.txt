@@ -1,0 +1,31 @@
+Tên thủ tục: Chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây: - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp chấm dứt hoạt động chi nhánh, văn phòng đại diện của doanh nghiệp ở nước ngoài
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện ở nước ngoài. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd809ca14e03838'">Phụ lục II-21.docx</a>)
+
+
+Trường hợp chấm dứt hoạt động chi nhánh, văn phòng đại diện ở trong nước:
+- 01 Bản chính (i) Thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd89d414b8a80ac'">Phụ lục II-20.docx</a>)
+- 01 Bản chính (ii) Nghị quyết, quyết định và bản sao biên bản họp của Hội đồng thành viên đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty hợp danh, của Hội đồng quản trị đối với công ty cổ phần; nghị quyết, quyết định của chủ sở hữu công ty đối với công ty trách nhiệm hữu hạn một thành viên về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện.
+
+
+Trường hợp chấm dứt hoạt động địa điểm kinh doanh ở trong nước:
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6465c40970f9d'">Phụ lục II-20.docx</a>)
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp

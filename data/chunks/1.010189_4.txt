@@ -1,0 +1,11 @@
+Tên thủ tục: Thẩm định, phê duyệt nhiệm vụ quy hoạch chi tiết (tỷ lệ 1/500) - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định, theo mẫu BM.QH.03.01
+- 01 Bản chính Thuyết minh nội dung nhiệm vụ kèm theo các bản vẽ in màu thu nhỏ
+- 01 Bản chính Dự thảo Quyết định phê duyệt nhiệm vụ
+- 01 Bản chính Các văn bản pháp lý có liên quan; Văn bản giải trình ý kiến của các cơ quan, tổ chức và cộng đồng dân cư về nội dung nhiệm vụ quy hoạch (nếu có)
+- 01 Bản sao Hồ sơ pháp nhân và hồ sơ năng lực của tổ chức tư vấn lập nhiệm vụ quy hoạch xây dựng.

@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục công bố sử dụng dấu định lượng
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản công bố sử dụng dấu định lượng trên nhãn hàng đóng gói sẵn
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|04/2011/QH13|Luật 04/2011/QH13|11-11-2011|Quốc Hội|
+|86/2012/NĐ-CP|Nghị định 86/2012/NĐ-CP|19-10-2012|Chính phủ|
+|21/2014/TT-BKHCN|Thông tư 21/2014/TT-BKHCN|15-07-2014|Bộ Khoa học và Công nghệ|
+|43/2017/NĐ-CP|Nghị định 43/2017/NĐ-CP|14-04-2017|Chính phủ|

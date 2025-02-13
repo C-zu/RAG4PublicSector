@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký làm ngân hàng thanh toán đối với ngân hàng thương mại
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Bản cung cấp thông tin về ngân hàng, trong đó nêu rõ khả năng đáp ứng các điều kiện tại Điều 69 Luật Chứng khoán. + Quyết định thành lập và hoạt động của ngân hàng thương mại. + Văn bản cam kết về việc thiết lập hệ thống, cơ chế quản lý tài khoản và tiền gửi ký quỹ, tài khoản và tiền gửi thanh toán, cung cấp kịp thời, đầy đủ thông tin về tiền gửi ký quỹ, tiền gửi thanh toán theo yêu cầu của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và Ủy ban Chứng khoán Nhà nước.

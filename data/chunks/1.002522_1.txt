@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại thẻ bảo hiểm y tế
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002522
+Số quyết định:
+62/QĐ-BYT
+Tên thủ tục:
+Cấp lại thẻ bảo hiểm y tế
+Cấp thực hiện:
+Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài chính y tế

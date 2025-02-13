@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc sử dụng cho mục đích cấp cứu, chống độc mà không có cùng hoạt chất và đường dùng với thuốc đang lưu hành tại Việt Nam, vắc xin dùng cho một số trường hợp đặc biệt với số lượng sử dụng hạn chế do Bộ trưởng Bộ Y tế quyết định trên cơ sở có dữ liệu đạt yêu cầu về chất lượng, hiệu quả, độ an toàn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản sao có đóng dấu xác nhận của cơ sở nhập khẩu giấy ủy quyền hoặc giấy phép bán hàng hoặc giấy chứng nhận quan hệ đối tác theo quy định tại điểm đ khoản 15 Điều 91 của Nghị định số 54/2017/NĐ-CP. Trường hợp không cung cấp được, cơ sở nhập khẩu phải có văn bản nêu rõ lý do để Bộ trưởng Bộ Y tế xem xét.
+- 01 Bản chính Danh mục thuốc đề nghị nhập khẩu của cơ sở khám bệnh, chữa bệnh theo: - Mẫu số 19 Phụ lục III của Nghị định số 54/2017/NĐ-CP đối với vắc xin, sinh phẩm, thuốc hóa dược; - Mẫu số 20 Phụ lục III của Nghị định số 54/2017/NĐ-CP đối với thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất; - Mẫu số 21 Phụ lục III của Nghị định số 54/2017/NĐ-CP đối với thuốc dược liệu, thuốc cổ truyền;
+- 01 Bản chính Báo cáo của cơ sở khám bệnh, chữa bệnh về thuốc đề nghị nhập khẩu gồm các thông tin sau: Số lượng thuốc đã sử dụng, hiệu quả điều trị (trừ vắc xin), độ an toàn của theo Mẫu số 22 Phụ lục III của Nghị định số 54/2017/NĐ-CP;
+- 01 Bản chính Nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện về Cục Quản lý Dược/Cục Quản lý Y, Dược cổ truyền. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5e10c8609f7cd'">mẫu đơn 01.docx</a>)
+- 01 Bản chính Tài liệu chứng minh chất lượng, an toàn, hiệu quả của vắc xin đề nghị nhập khẩu;
+- 01 Bản chính Bản chính văn bản do người đứng đầu cơ sở khám bệnh, chữa bệnh ký, đóng dấu nêu rõ lý do đề nghị nhập khẩu thuốc, số lượng bệnh nhân dự kiến cần sử dụng thuốc, nhu cầu thuốc tương ứng và cam kết chịu hoàn toàn trách nhiệm liên quan đến việc sử dụng thuốc đề nghị nhập khẩu. Văn bản phải kèm theo bản chính hoặc bản sao có đóng dấu của cơ sở khám bệnh, chữa bệnh Biên bản họp Hội đồng thuốc và điều trị đối với nhu cầu nhập khẩu thuốc. Trường hợp cơ sở tiêm chủng không có Hội đồng thuốc và điều trị thì không phải nộp kèm theo Biên bản;
+- 01 Bản chính Bản chính Bản cam kết của cơ sở sản xuất và cơ sở cung cấp thuốc nước ngoài về việc đảm bảo chất lượng, an toàn, hiệu quả vắc xin, sinh phẩm cung cấp cho Việt Nam theo Mẫu số 23 Phụ lục III của Nghị định số 54/2017/NĐ-CP;

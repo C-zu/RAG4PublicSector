@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký lại phương tiện trong trường hợp chuyển từ cơ quan đăng ký khác sang cơ quan đăng ký phương tiện thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đăng ký phương tiện thuỷ nội địa theo mẫu BM.PTNL.61.01 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febcb7570918ba4'">Giay de nghi dang ký PT từ co quan khac sang co quan TNĐ.doc</a>)
+- 01 Bản chính Giấy chứng nhận xóa đăng ký của cơ quan đăng ký phương tiện trước đó (bản chính) đối với phương tiện là tàu biển;
+- 01 Bản chính 02 (hai) ảnh có kích thước 10x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi;
+- 01 Bản chính Biên lai nộp thuế trước bạ (bản chính) đối với phương tiện thuộc diện nộp phí trước bạ;
+- 01 Bản chính Bản kê khai điều kiện an toàn của phương tiện, đối với phương tiện không thuộc diện đăng kiểm theo mẫu BM.PTNL.61.02; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb6fa94506b926'">Bang ke khai dieu kiên an toan doi voi PT khong dăng kiem.doc</a>)

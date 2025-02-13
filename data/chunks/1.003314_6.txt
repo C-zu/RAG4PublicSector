@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy phép thành lập Sở giao dịch hàng hóa
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Là doanh nghiệp được thành lập theo quy định của Luật Doanh nghiệp đáp ứng các điều kiện sau:
+- Vốn điều lệ từ một trăm năm mươi (150) tỷ đồng trở lên;
+- Có hệ thống công nghệ thông tin đáp ứng các yêu cầu về giải pháp công nghệ và kỹ thuật trong hoạt động mua bán hàng hóa qua Sở Giao dịch hàng hóa, cụ thể:
++ Hệ thống máy chủ hoạt động ổn định và có tối thiểu một máy chủ dự phòng luôn ở trạng thái sẵn sàng trong trường hợp hệ thống chính xảy ra sự cố;
++ Hệ thống máy chủ đảm bảo sao lưu dữ liệu của các ứng dụng nghiệp vụ, dữ liệu giao dịch, đảm bảo khôi phục thông tin dữ liệu trong trường hợp phát sinh sự cố;
++ Phần mềm ứng dụng phải thực hiện các yêu cầu về quyền sở hữu trí tuệ theo quy định của pháp luật;
++ Hệ thống phần mềm phải có chức năng nhật ký thao tác để lưu vết mọi giao dịch hàng hóa, thanh toán, giao nhận trong quy trình nghiệp vụ tối thiểu trong thời gian 05 năm;
++ Hệ thống công nghệ thông tin đáp ứng quy chuẩn kỹ thuật về an toàn thông tin mạng, nếu có”.
+- Điều lệ hoạt động không trái với các quy định của 51/2018/NĐ-CP ngày 09 tháng 4 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 158/2006/NĐ-CP.
+Là doanh nghiệp được thành lập theo quy định của Luật Doanh nghiệp đáp ứng các điều kiện sau:
+- Vốn điều lệ từ một trăm năm mươi (150) tỷ đồng trở lên;
+- Có hệ thống công nghệ thông tin đáp ứng các yêu cầu về giải pháp công nghệ và kỹ thuật trong hoạt động mua bán hàng hóa qua Sở Giao dịch hàng hóa, cụ thể:
++ Hệ thống máy chủ hoạt động ổn định và có tối thiểu một máy chủ dự phòng luôn ở trạng thái sẵn sàng trong trường hợp hệ thống chính xảy ra sự cố;
++ Hệ thống máy chủ đảm bảo sao lưu dữ liệu của các ứng dụng nghiệp vụ, dữ liệu giao dịch, đảm bảo khôi phục thông tin dữ liệu trong trường hợp phát sinh sự cố;
++ Phần mềm ứng dụng phải thực hiện các yêu cầu về quyền sở hữu trí tuệ theo quy định của pháp luật;
++ Hệ thống phần mềm phải có chức năng nhật ký thao tác để lưu vết mọi giao dịch hàng hóa, thanh toán, giao nhận trong quy trình nghiệp vụ tối thiểu trong thời gian 05 năm;
++ Hệ thống công nghệ thông tin đáp ứng quy chuẩn kỹ thuật về an toàn thông tin mạng, nếu có”.
+- Điều lệ hoạt động không trái với các quy định của 51/2018/NĐ-CP ngày 09 tháng 4 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 158/2006/NĐ-CP.
+Từ khóa:
+Sở giao dịch hàng hóa
+Mô tả:
+Không có thông tin

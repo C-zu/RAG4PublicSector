@@ -1,0 +1,9 @@
+Tên thủ tục: Khai báo nhập khẩu đối với hàng hóa bị điều tra áp dụng biện pháp phòng vệ thương mại
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||- Trực tiếp nộp tại Cục Phòng vệ thương mại, Bộ Công Thương: Số 25 Ngô Quyền, quận Hoàn Kiếm, thành phố Hà Nội; 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|3 Ngày làm việc||- Thực hiện trực tuyến tại Cổng dịch vụ công trực tuyến.|
+|Dịch vụ bưu chính|3 Ngày làm việc||- Thông qua hệ thống bưu điện; 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

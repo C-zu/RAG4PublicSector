@@ -1,0 +1,27 @@
+Tên thủ tục: Huỷ tài khoản điện tử trong trường hợp cơ quan, tổ chức có tài khoản đề nghị bằng văn bản
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Nộp hồ sơ
+* Cơ quan, tổ chức tại Việt Nam trực tiếp nộp vào giờ hành chính các ngày làm việc trong tuần hoặc gửi hồ sơ qua dịch vụ bưu chính công ích đến một trong hai trụ sở làm việc của Cục Quản lý xuất nhập cảnh - Bộ Công an:
++ Số 44-46 Trần Phú, quận Ba Đình, thành phố Hà Nội;
++ Số 333-335-337 Nguyễn Trãi, Quận 1, Tp. Hồ Chí Minh.
+Hoặc nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an và gửi bổ sung hồ sơ qua dịch vụ bưu chính công ích theo thông báo của Cục Quản lý xuất nhập cảnh trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an (nếu có).
+* Trường hợp trực tiếp nộp hồ sơ:
+Cán bộ quản lý xuất nhập cảnh tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử ghi đầy đủ thì tiếp nhận, in giấy biên nhận trao cho người nộp.
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử chưa ghi đầy đủ thì đề nghị cơ quan, tổ chức bổ sung.
+* Trường hợp gửi hồ sơ hoàn toàn qua dịch vụ bưu chính công ích:
+Cán bộ quản lý xuất nhập cảnh kiểm tra tính pháp lý và nội dung hồ sơ:
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử chưa ghi đầy đủ thì có văn bản đề nghị cơ quan, tổ chức bổ sung.
++ Nếu nội dung văn bản đề nghị hủy tài khoản điện tử ghi đầy đủ thì xem xét, có văn bản trả lời cơ quan, tổ chức.
+* Trường hợp nộp hồ sơ trực tuyến:
++ Nếu hồ sơ đầy đủ, hợp lệ cán bộ tiếp nhận hồ sơ thông báo đã tiếp nhận trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
++ Nếu hồ sơ thiếu hoặc không hợp lệ thì cán bộ tiếp nhận hồ sơ thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an để người nộp hồ sơ hoàn chỉnh.
+ + Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận hồ sơ, thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an và nêu rõ lý do.
+* Người đề nghị hủy tài khoản điện tử có thể đề nghị nhận kết quả qua dịch vụ bưu chính và phải trả phí dịch vụ chuyển phát.
+* Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+Bước 3: Nhận kết quả
++ Cơ quan, tổ chức trực tiếp nhận công văn trả lời tại Cục Quản lý xuất nhập cảnh hoặc nhận kết quả qua dịch vụ bưu chính công ích (thực hiện theo hướng dẫn của cơ quan cung cấp dịch vụ bưu chính) hoặc nhận văn bản điện tử qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
++ Thời gian nhận kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).

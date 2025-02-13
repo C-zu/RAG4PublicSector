@@ -1,0 +1,16 @@
+Tên thủ tục: Cho ý kiến về kết quả đánh giá an toàn công trình đối với công trình xây dựng trên địa bàn hành chính của huyện
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện: 
+- Tổ chức, cá nhân xin ý kiến về kết quả đánh giá an toàn công trình gửi hồ sơ đến Bộ phận Tiếp nhận và Trả kết quả của UBND cấp huyện, thành phố bằng một trong các cách thức sau:
++ Trực tiếp.
++ Qua dịch vụ bưu chính công ích.
++ Trực tuyến (cung cấp theo lộ trình) trên Cổng Dịch vụ công quốc gia, địa chỉ website https://dangky.dichvucong.gov.vn/register hoặc Cổng Dịch vụ công trực tuyến tỉnh Cà Mau, địa chỉ website http://dvctt.camau.gov.vn/thu-tuc-hanh-chinh (nếu đủ điều kiện theo quy định).
+- Thời gian tiếp nhận vào giờ hành chính các ngày làm việc trong tuần (trừ ngày nghỉ lễ theo quy định), cụ thể như sau:
++ Buổi sáng: Từ 07 giờ 00 phút đến 11 giờ 00 phút.
++ Buổi chiều: Từ 13 giờ 00 phút đến 17 giờ 00 phút.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|14 Ngày làm việc||Trong thời hạn 14 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|14 Ngày làm việc||Trong thời hạn 14 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

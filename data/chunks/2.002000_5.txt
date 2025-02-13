@@ -1,0 +1,24 @@
+Tên thủ tục: Đăng ký thay đổi chủ doanh nghiệp tư nhân trong trường hợp bán, tặng cho doanh nghiệp, chủ doanh nghiệp chết
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư, Phòng Đăng ký kinh doanh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trụ sở cơ quan, https://dangkykinhdoanh.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký doanh nghiệp tư nhân, Thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư 47/2019/TT-BTC|47/2019/TT-BTC|05-08-2019|Bộ Tài chính|
+|59/2020/QH14|Luật Doanh nghiệp số 59/2020/QH14|17-06-2020||
+|01/2021/NĐ-CP|Nghị định số 01/2021/NĐ-CP của Chính phủ: Về đăng ký doanh nghiệp|04-01-2021||
+|01/2021/TT-BKHĐT|Hướng dẫn về đăng ký doanh nghiệp|16-03-2021|Bộ Kế hoạch và Đầu tư|

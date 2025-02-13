@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cho phép đoàn vào của các tổ chức phi chính phủ, đoàn vào hoạt động liên quan đến các chương trình, dự án phi chính phủ nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị của các cơ quan nội dung nêu rõ mục đích, thành phần, thông tin về tổ chức, cá nhân người nước ngoài, chương trình hoạt động tại tỉnh và các nội dung liên quan khác theo mẫu. Trường hợp sử dụng kinh phí từ ngân sách tỉnh thì phải có dự toán kinh phí kèm theo. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1ab8592fde0c9'">Mẫu phu luc IV.docx</a>)
+- 01 Bản chính - Các thỏa thuận, biên bản, văn bản, giấy tờ liên quan đến chuyến thăm và làm việc của đoàn.
+- 01 Bản chính - Đối với đoàn đề nghị hỗ trợ thủ tục xin cấp thị thực nhập cảnh, văn bản cần nêu rõ thông tin theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9622174905b6c'">Mẫu phu luc V.docx</a>)

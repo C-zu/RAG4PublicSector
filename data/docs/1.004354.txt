@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004354
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại giấy phép bưu chính khi hết hạn (Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính
+Trình tự thực hiện:
+Bước 1: Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày, doanh nghiệp cung ứng dịch vụ bưu chính có nhu cầu tiếp tục kinh doanh thì phải lập hồ sơ đề nghị cấp lại giấy phép bưu chính và gửi đến Bộ Thông tin và Truyền thông.
+Bước 2: - Sau khi hồ sơ được tiếp nhận Bộ Thông tin và Truyền thông cấp lại giấy phép bưu chính trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+- Kết quả giải quyết thủ tục cấp lại giấy phép bưu chính khi hết hạn được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 10.750.000 Đồng Phạm vi liên tỉnh  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9a1a6a9311d96') Phí : 14.750.000 Đồng Phạm vi quốc tế chiều đến  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec1d2e89fd99cc') Phí : 17.250.000 Đồng Phạm vi quốc tế chiều đi  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3f225299532ce') Phí : 19.750.000 Đồng Phạm vi quốc tế hai chiều  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdabce72644bd06')|Nộp hồ sơ trực tiếp tại trụ sở Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+|Trực tuyến|10 Ngày làm việc|Phí : 10.750.000 Đồng Phạm vi liên tỉnh  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9a1a6a9311d96') Phí : 14.750.000 Đồng Phạm vi quốc tế chiều đến  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec1d2e89fd99cc') Phí : 17.250.000 Đồng Phạm vi quốc tế chiều đi  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3f225299532ce') Phí : 19.750.000 Đồng Phạm vi quốc tế hai chiều  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdabce72644bd06')|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 19.750.000 Đồng Phạm vi quốc tế hai chiều  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdabce72644bd06') Phí : 10.750.000 Đồng Phạm vi liên tỉnh  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9a1a6a9311d96') Phí : 14.750.000 Đồng Phạm vi quốc tế chiều đến  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec1d2e89fd99cc') Phí : 17.250.000 Đồng Phạm vi quốc tế chiều đi  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3f225299532ce')|Nộp hồ sơ qua dịch vụ bưu chính tới Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại giấy phép bưu chính ([Mau cấp lại giấy phép khi hết hạn.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddffa72f45c320'))
+- 01 Bản chính Phương án kinh doanh trong giai đoạn tiếp theo, nếu doanh nghiệp bị lỗ 02 năm liên tiếp
+- 01 Bản chính Các tài liệu sau nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép bưu chính lần gần nhất: + Mẫu hợp đồng cung ứng và sử dụng dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Mẫu biểu trưng, nhãn hiệu, ký hiệu đặc thù hoặc các yếu tố thuộc hệ thống nhận diện của doanh nghiệp được thể hiện trên bưu gửi (nếu có); + Bảng giá cước dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Tiêu chuẩn chất lượng dịch vụ bưu chính công bố áp dụng phù hợp với quy định của pháp luật về bưu chính; + Quy định về mức giới hạn trách nhiệm bồi thường thiệt hại trong trường hợp phát sinh thiệt hại, quy trình giải quyết khiếu nại của khách hàng, thời hạn giải quyết khiếu nại phù hợp với quy định của pháp luật về bưu chính.
+- 01 Bản sao Hợp đồng nhượng quyền thương mại với doanh nghiệp đang cung ứng dịch vụ bưu chính (nếu có).
+ Số lượng hồ sơ: 01 bộ là bản gốc
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Vụ Bưu chính
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép bưu chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|49/2010/QH12|Luật 49/2010/QH12|17-06-2010|Quốc Hội|
+|47/2011/NĐ-CP|Nghị định 47/2011/NĐ-CP|17-06-2011|Chính phủ|
+|150/2018/NĐ-CP|Nghị định 150/2018/NĐ-CP|07-11-2018|Chính phủ|
+|291/2016/TT-BTC|Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính|15-11-2016|Bộ Tài chính|
+|25/2020/TT-BTC|Thông tư sửa đổi, bổ sung một số điều của Thông tư 219/2016-TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý phí thẩm định điều kiện hoạt động bưu chính|04-04-2020|Bộ Tài chính|
+|25/2022/NĐ-CP|Nghị định 25/2022/NĐ-CP|12-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

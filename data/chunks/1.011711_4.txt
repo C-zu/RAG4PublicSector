@@ -1,0 +1,9 @@
+Tên thủ tục: Bổ sung, sửa đổi Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng (trong trường hợp tổ chức hoạt động thí nghiệm chuyên ngành xây dựng thay đổi địa điểm đặt phòng thí nghiệm hoặc thay đổi, bổ sung, sửa đổi chỉ tiêu thí nghiệm, tiêu chuẩn thí nghiệm trong Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký cấp Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng theo mẫu số 02 Phụ lục I kèm theo Nghị định số 35/2023/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8f3ce6bfacc40'">Mẫu số 02.PLI.NĐ35.docx</a>)
+- 01 Bản chính, 01 Bản sao - Danh sách cán bộ quản lý trực tiếp (trưởng/phó phòng thí nghiệm), thí nghiệm viên kèm theo các văn bằng, chứng chỉ, chứng nhận được đào tạo liên quan.
+- 01 Bản chính, 01 Bản sao - Các tài liệu chứng minh năng lực hoạt động thí nghiệm đáp ứng các yêu cầu chung của tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 và đáp ứng các yêu cầu cụ thể phù hợp với các chỉ tiêu.

@@ -1,0 +1,80 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011034
+Số quyết định:
+1594/QĐ-UBND
+Tên thủ tục:
+Thủ tục thẩm định và phê duyệt đồ án/đồ án điều chỉnh quy hoạch chi tiết xây dựng các dự án trong khu công nghiệp
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc
+Trình tự thực hiện:
+- Chủ đầu tư nộp hồ sơ thẩm định đồ án/đồ án điều chỉnh quy hoạch chi tiết xây dựng tại Bộ phận Tiếp nhận hồ sơ và trả kết quả của Ban Quản lý các Khu công nghiệp Bình Dương (Trung tâm hành chính tỉnh Bình Dương, phường Hòa Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương). Đối với hồ sơ đầy đủ, cán bộ tiếp nhận viết Biên nhận hồ sơ. Trường hợp hồ sơ chưa đầy đủ, cán bộ tiếp nhận viết Phiếu hướng dẫn bổ sung hồ sơ để Chủ đầu tư hoàn chỉnh hồ sơ và tiếp nhận.
+- Trong thời hạn 05 ngày làm việc sau khi tiếp nhận hồ sơ, cơ quan chuyên môn về xây dựng có trách nhiệm:
++ Gửi văn bản yêu cầu bổ sung hồ sơ;
++ Trả lại hồ sơ thẩm định trong trường hợp: Trình thẩm định không đúng với thẩm quyền của cơ quan chuyên môn về xây dựng hoặc người đề nghị thẩm định không đúng thẩm quyền theo quy định; Không thuộc đối tượng phải thẩm định tại cơ quan chuyên môn về xây dựng theo quy định; Hồ sơ trình thẩm định không bảo đảm về tính pháp lý hoặc không hợp lệ theo quy định tại Thông tư 12/2016/TT ngày 29/6/2016 của Bộ Xây dựng;
+- Trong thời hạn 20 ngày kể từ ngày nhận được yêu cầu của cơ quan chuyên môn về xây dựng, nếu người đề nghị thẩm định không thực hiện việc bổ sung hồ sơ thì cơ quan chuyên môn về xây dựng dừng việc thẩm định, người đề nghị thẩm định trình thẩm định lại khi có yêu cầu.
+- Trường hợp hồ sơ hợp lệ, Ban Quản lý các Khu công nghiệp Bình Dương sẽ tiến hành lấy ý kiến thẩm định của Hội đồng thẩm định bằng hình thức họp trực tiếp hoặc gởi văn bản lấy ý kiến. Trong quá trình thẩm định, cơ quan chuyên môn về xây dựng có quyền tạm dừng thẩm định (không quá 01 lần) và thông báo kịp thời đến người đề nghị thẩm định các lỗi, sai sót về thông tin, số liệu trong nội dung hồ sơ dẫn đến không thể đưa ra kết luận thẩm định. Trường hợp các lỗi, sai sót nêu trên không thể khắc phục được trong thời hạn 10 ngày thì cơ quan chuyên môn về xây dựng dừng việc thẩm định, người đề nghị thẩm định trình thẩm định lại khi có yêu cầu.
+- Trong thời gian thẩm định không quá 25 ngày và thời gian phê duyệt không quá 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ Ban Quản lý các Khu công nghiệp Bình Dương ban hành Quyết định phê duyệt đồ án/đồ án điều chỉnh kèm theo hồ sơ bản vẽ được đóng dấu
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày|Lệ phí : Đồng Theo Thông tư 20/2019/TT-BXD của Bộ Xây dựng|(cụ thể: không quá 25 ngày đối với việc thẩm định đồ án/đồ án điều chỉnh và không quá 15 ngày đối với việc phê duyệt đồ án/đồ án điều chỉnh) kể từ ngày nhận hồ sơ hợp lệ|
+|Trực tuyến|40 Ngày|Lệ phí : Đồng Theo Thông tư 20/2019/TT-BXD của Bộ Xây dựng|(cụ thể: không quá 25 ngày đối với việc thẩm định đồ án/đồ án điều chỉnh và không quá 15 ngày đối với việc phê duyệt đồ án/đồ án điều chỉnh) kể từ ngày nhận hồ sơ hợp lệ|
+|Dịch vụ bưu chính|40 Ngày|Lệ phí : Đồng Theo Thông tư 20/2019/TT-BXD của Bộ Xây dựng|(cụ thể: không quá 25 ngày đối với việc thẩm định đồ án/đồ án điều chỉnh và không quá 15 ngày đối với việc phê duyệt đồ án/đồ án điều chỉnh) kể từ ngày nhận hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định đồ án/đồ án điều chỉnh
+- 03 Bản chính Thuyết minh nội dung đồ án/đồ án điều chỉnh đính kèm các bản vẽ in màu thu nhỏ theo yêu cầu tại khoản 1 Điều 18 Thông tư 12/2016/TT-BXD
+- 01 Bản chính Dự thảo quy định quản lý theo đồ án quy hoạch
+- 01 Bản chính Dự thảo quyết định phê duyệt đồ án/đồ án điều chỉnh
+- 01 Bản chính Các phụ lục tính toán kèm theo
+- 03 Bản chính Các bản vẽ in màu đúng tỷ lệ quy định theo yêu cầu tại khoản 1 Điều 18 Thông tư 12/2016/TT-BXD
+- 01 Bản sao Văn bản chấp thuận chủ trương đầu tư hoặc giấy chứng nhận đăng ký dự án đầu tư
+- 01 Bản sao Văn bản chấp thuận điều chỉnh quy hoạch trong trường hợp điều chỉnh quy hoạch tổng thể
+- 01 Bản sao Giấy chứng nhận quyền sử dụng đất hoặc Hợp đồng thuê đất kèm theo bản trích lục địa chính
+- 01 Bản sao Hồ sơ năng lực đơn vị tư vấn
+- 01 Bản sao Hồ sơ năng lực của đơn vị khảo sát
+- 01 Bản chính Báo cáo khảo sát và các bản đồ khảo sát
+- 01 Bản sao Văn bản/biên bản lấy ý kiến của các tổ chức liền kề với khu đất
+- 01 Bản sao Văn bản thỏa thuận đấu nối hạ tầng với chủ đầu tư khu công nghiệp
+- 01 Bản chính, 01 Bản sao Đĩa CD hoặc USB lưu trữ các hồ sơ pháp lý và các thuyết minh, bản vẽ kèm theo
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ban Quản lý các khu công nghiệp tỉnh - Tỉnh Bình Dương
+Cơ quan có thẩm quyền:
+Ban Quản lý các khu công nghiệp tỉnh - Tỉnh Bình Dương
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận hồ sơ và trả kết quả của Ban Quản lý các Khu công nghiệp Bình Dương (Trung tâm hành chính tỉnh Bình Dương, phường Hòa Phú, thành phố Thủ Dầu Một, tỉnh Bình Dương)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|44/2015/NĐ-CP|Nghị định 44/2015/NĐ-CP|06-05-2015|Chính phủ|
+|12/2016/TT-BXD|12/2016/TT-BXD|29-06-2016|Vụ Quy hoạch - Kiến trúc|
+|21/2017/QH14|Luật số 21/2017/QH14|24-11-2017|Quốc Hội|
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|72/2019/NĐ-CP|Nghị định 72/2019/NĐ-CP|30-08-2019||
+|20/2019/TT-BXD|Thông tư 20/2019/TT-BXD|31-12-2019||
+|62/2020/QH14|Luật 62/2020/QH14|17-06-2020||
+|07/2021/QĐ-UBND|Quyết định Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý các Khu công nghiệp Bình Dương|04-06-2021|UBND tỉnh Bình Dương|
+|13/2022/QĐ-UBND|Quyết định số 13/2022/QĐ-UBND ngày 26 tháng 4 năm 2022 của Ủy ban nhân dân tỉnh Bình Dương về việc phân cấp thực hiện thẩm định, phê duyệt nhiệm vụ và đồ án quy hoạch phân khu xây dựng, quy hoạch chi tiết xây dựng khu chức năng trong khu công nghiệp trên địa bàn tỉnh Bình Dương.|26-04-2022|UBND tỉnh Bình Dương|
+
+Yêu cầu, điều kiện thực hiện:
+Hồ sơ trình thẩm định phải bảo đảm tính pháp lý, phù hợp với nội dung đề nghị thẩm định. Hồ sơ trình thẩm định được xem là hợp lệ khi bảo đảm các nội dung quy định tại Điều 14 Thông tư 12/2016/TT ngày 29/6/2016 của Bộ Xây dựng của Chính phủ, đúng quy cách, được trình bày với ngôn ngữ chính là tiếng Việt và được người đề nghị thẩm định kiểm tra, xác nhận. Phần hồ sơ thiết kế phải tuân thủ quy định của Phụ lục Thông tư 12/2016/TT ngày 29/6/2016 của Bộ Xây dựng
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Phê duyệt liên kết đào tạo trình độ đại học, thạc sĩ, tiến sĩ
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000562
+Số quyết định:
+2108/QĐ-BGDĐT
+Tên thủ tục:
+Phê duyệt liên kết đào tạo trình độ đại học, thạc sĩ, tiến sĩ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đào tạo với nước ngoài

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Quyết định sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài để đáp ứng các điều kiện xin cấp phép thành lập và hoạt động cho văn phòng đại diện, chi nhánh, ngân hàng 100% vốn ở nước ngoài của tổ chức tín dụng được phép, tổ chức kinh tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc kể từ ngày Ngân hàng Nhà nước nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc kể từ ngày Ngân hàng Nhà nước nhận đủ hồ sơ hợp lệ.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt thay đổi đề cương nghiên cứu thử thuốc trên lâm sàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị phê duyệt thay đổi nghiên cứu thử thuốc trên lâm sàng (Mẫu số 10 - Phụ lục số III) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7f7bda739f338'">phụ lục (11).docx</a>)
+- 01 Bản chính Phiên bản cập nhật của các tài liệu tương ứng quy định tại khoản 2 Điều 19 Thông tư 29/2018/TT-BYT đã được thay đổi
+- 01 Bản chính Biên bản thẩm định của Hội đồng đạo đức trong nghiên cứu y sinh học cấp cơ sở đối với những thay đổi nghiên cứu thử thuốc trên lâm sàng có ảnh hưởng đáng kể đến sức khỏe và quyền lợi người tham gia thử thuốc hoặc ảnh hưởng đến thiết kế, quy trình và thủ tục nghiên cứu

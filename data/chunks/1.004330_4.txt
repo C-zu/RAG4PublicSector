@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền theo mẫu do Bộ Thông tin và Truyền thông quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedbc6498b6e6d0'">Mẫu số 01 - Đơn - DVTHTT.doc</a>)
+- 01 Bản chính b) Đề án cung cấp dịch vụ thuyết minh rõ: Loại hình, phạm vi cung cấp dịch vụ; phương án kỹ thuật cung cấp dịch vụ phát thanh, truyền hình trực tuyến và dịch vụ phát thanh, truyền hình theo yêu cầu (nếu có); phương tiện thanh toán; dự kiến các điều khoản về quyền lợi, trách nhiệm của các bên trong ký kết hợp đồng cung cấp, sử dụng dịch vụ và các nội dung quy định tại các Điểm b, d, đ, e, g và h Khoản 1 Điều 12 Nghị định số 06/2016/NĐ-CP
+ Đối với dịch vụ quy định tại điểm đ khoản 1 Điều 4 Nghị định này, trường hợp trên dịch vụ không cung cấp các kênh chương trình, chỉ cung cấp nội dung phát thanh, truyền hình theo yêu cầu: Thực hiện kê khai theo biểu mẫu do Bộ Thông tin và Truyền thông quy định, gồm các nội dung: Phạm vi, điều kiện kỹ thuật cung cấp dịch vụ; phương tiện thanh toán; quy trình giải quyết khiếu nại; dự kiến các điều khoản về quyền, trách nhiệm của các bên, dự kiến nhóm nội dung cung cấp trên dịch vụ; tên miền “.vn” hoặc địa chỉ Internet xác định và ứng dụng Internet cung cấp dịch vụ
+- 01 Bản sao c) Bản sao Giấy phép thiết lập mạng viễn thông hoặc bản sao có chứng thực văn bản thỏa thuận được thuê, sử dụng mạng viễn thông của đơn vị có mạng viễn thông trong thời gian Giấy phép thiết lập mạng viễn thông có hiệu lực đối với dịch vụ quy định tại các Điểm a, b, c, d Khoản 1 Điều 4 Nghị định số 06/2016/NĐ-CP; bản sao xác nhận đăng ký tên miền “.vn” hoặc địa chỉ Internet xác định đối với dịch vụ quy định tại Điểm đ, Khoản 1 Điều 4 Nghị định số 06/2016/NĐ-CP
+ Trường hợp doanh nghiệp cung cấp dịch vụ quy định tại các Điểm a, b, c, d Khoản 1 Điều 4 Nghị định số 06/2016/NĐ-CP không có mạng viễn thông phải có quy chế phối hợp với đơn vị có mạng viễn thông hoặc giải pháp kỹ thuật bổ sung để xử lý sự cố, bảo đảm chất lượng và tính liên tục của dịch vụ
+- 01 Bản chính d) Hồ sơ đăng ký danh mục nội dung trên dịch vụ phát thanh, truyền hình trả tiền theo quy định tại Khoản 5 Điều 21 Nghị định số 06/2016/NĐ-CP
+- 01 Bản sao đ) Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu văn bản thỏa thuận điểm nhận tín hiệu kênh chương trình phục vụ nhiệm vụ chính trị, thông tin tuyên truyền thiết yếu, trừ trường hợp dịch vụ phát thanh, truyền hình trên mạng Internet không cung cấp kênh chương trình

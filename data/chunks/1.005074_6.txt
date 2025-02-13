@@ -1,0 +1,36 @@
+Tên thủ tục: Cho phép trường trung học phổ thông hoạt động giáo dục
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Có quyết định thành lập hoặc quyết định cho phép thành lập của Chủ tịch ủy ban nhân dân cấp tỉnh.
+- Có đất đai, trường sở, cơ sở vật chất, trang thiết bị đáp ứng yêu cầu hoạt động giáo dục. Cơ sở vật chất gồm:
++ Phòng học được xây dựng theo tiêu chuẩn, đủ bàn ghế phù hợp với tầm vóc học sinh, có bàn ghế của giáo viên, có bảng viết và bảo đảm học nhiều nhất là hai ca trong một ngày;
++ Phòng học bộ môn: Thực hiện theo quy định về quy chuẩn phòng học bộ môn do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành;
++ Khối phục vụ học tập gồm nhà tập đa năng, thư viện, phòng hoạt động Đoàn - Đội, phòng truyền thống;
++ Khối hành chính - quản trị gồm: Phòng làm việc của hiệu trưởng, phó hiệu trưởng, văn phòng, phòng họp toàn thể cán bộ, giáo viên và nhân viên nhà trường, phòng các tổ chuyên môn, phòng y tế trường học, nhà kho, phòng thường trực, phòng của các tổ chức Đảng, đoàn thể;
++ Khu sân chơi, bãi tập: Có diện tích ít nhất bằng 25% tổng diện tích sử dụng của trường, có đủ thiết bị luyện tập thể dục, thể thao và bảo đảm an toàn;
++ Khu để xe: Bố trí hợp lý trong khuôn viên trường, bảo đảm an toàn, trật tự, vệ sinh;
++ Có hệ thống hạ tầng công nghệ thông tin kết nối Internet đáp ứng yêu cầu quản lý và dạy học.
+- Địa điểm của trường bảo đảm môi trường giáo dục, an toàn cho học sinh, giáo viên, cán bộ và nhân viên. Trường học là một khu riêng, có tường bao quanh, có cổng trường và biển tên trường.
+- Có chương trình giáo dục và tài liệu giảng dạy, học tập theo quy định phù hợp với mỗi cấp học.
+- Có đội ngũ nhà giáo và cán bộ quản lý đạt tiêu chuẩn về phẩm chất và đạt trình độ chuẩn được đào tạo phù hợp với từng cấp học; đủ về số lượng theo cơ cấu về loại hình giáo viên, bảo đảm thực hiện chương trình giáo dục và tổ chức các hoạt động giáo dục.
+- Có đủ nguồn lực tài chính theo quy định để bảo đảm duy trì và phát triển hoạt động giáo dục.
+- Có quy chế tổ chức và hoạt động của nhà trường.
+- Có quyết định thành lập hoặc quyết định cho phép thành lập của Chủ tịch ủy ban nhân dân cấp tỉnh.
+- Có đất đai, trường sở, cơ sở vật chất, trang thiết bị đáp ứng yêu cầu hoạt động giáo dục. Cơ sở vật chất gồm:
++ Phòng học được xây dựng theo tiêu chuẩn, đủ bàn ghế phù hợp với tầm vóc học sinh, có bàn ghế của giáo viên, có bảng viết và bảo đảm học nhiều nhất là hai ca trong một ngày;
++ Phòng học bộ môn: Thực hiện theo quy định về quy chuẩn phòng học bộ môn do Bộ trưởng Bộ Giáo dục và Đào tạo ban hành;
++ Khối phục vụ học tập gồm nhà tập đa năng, thư viện, phòng hoạt động Đoàn - Đội, phòng truyền thống;
++ Khối hành chính - quản trị gồm: Phòng làm việc của hiệu trưởng, phó hiệu trưởng, văn phòng, phòng họp toàn thể cán bộ, giáo viên và nhân viên nhà trường, phòng các tổ chuyên môn, phòng y tế trường học, nhà kho, phòng thường trực, phòng của các tổ chức Đảng, đoàn thể;
++ Khu sân chơi, bãi tập: Có diện tích ít nhất bằng 25% tổng diện tích sử dụng của trường, có đủ thiết bị luyện tập thể dục, thể thao và bảo đảm an toàn;
++ Khu để xe: Bố trí hợp lý trong khuôn viên trường, bảo đảm an toàn, trật tự, vệ sinh;
++ Có hệ thống hạ tầng công nghệ thông tin kết nối Internet đáp ứng yêu cầu quản lý và dạy học.
+- Địa điểm của trường bảo đảm môi trường giáo dục, an toàn cho học sinh, giáo viên, cán bộ và nhân viên. Trường học là một khu riêng, có tường bao quanh, có cổng trường và biển tên trường.
+- Có chương trình giáo dục và tài liệu giảng dạy, học tập theo quy định phù hợp với mỗi cấp học.
+- Có đội ngũ nhà giáo và cán bộ quản lý đạt tiêu chuẩn về phẩm chất và đạt trình độ chuẩn được đào tạo phù hợp với từng cấp học; đủ về số lượng theo cơ cấu về loại hình giáo viên, bảo đảm thực hiện chương trình giáo dục và tổ chức các hoạt động giáo dục.
+- Có đủ nguồn lực tài chính theo quy định để bảo đảm duy trì và phát triển hoạt động giáo dục.
+- Có quy chế tổ chức và hoạt động của nhà trường.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

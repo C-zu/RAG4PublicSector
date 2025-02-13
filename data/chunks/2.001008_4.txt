@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục chứng thực chữ ký người dịch mà người dịch không phải là cộng tác viên dịch thuật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản sao có chứng thực Giấy Chứng minh nhân dân/Căn cước công dân hoặc Hộ chiếu còn giá trị sử dụng;
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản sao từ sổ gốc, bản sao có chứng thực bằng cử nhân ngoại ngữ trở lên về thứ tiếng nước ngoài cần dịch hoặc bằng tốt nghiệp đại học trở lên đối với thứ tiếng nước ngoài cần dịch; trừ trường hợp dịch những ngôn ngữ không phổ biến mà người dịch không có bằng cử nhân ngoại ngữ, bằng tốt nghiệp đại học nhưng thông thạo ngôn ngữ cần dịch thì phải nộp bản cam kết về việc thông thạo ngôn ngữ đó và chịu trách nhiệm về nội dung bản dịch;
+- 01 Bản chính + Bản dịch đính kèm giấy tờ, văn bản cần dịch.

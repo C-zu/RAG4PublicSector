@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo lưu trú
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Việc thông báo lưu trú được thực hiện trước 23 giờ của ngày bắt đầu lưu trú; trường hợp người đến lưu trú sau 23 giờ thì việc thông báo lưu trú được thực hiện trước 08 giờ ngày hôm sau; trường hợp ông, bà, cha, mẹ, vợ, chồng, con, cháu, anh, chị, em ruột đến lưu trú nhiều lần thì chỉ cần thông báo lưu trú một lần.
+Từ khóa:
+Thông báo lưu trú
+Mô tả:
+Không có thông tin

@@ -1,0 +1,22 @@
+Tên thủ tục: Thủ tục cấp, tạm dừng và hủy tài khoản truy cập cổng Thông tin thủ tục biên phòng điện tử cảng biển đối với người làm thủ tục
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền:
+Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cảng vụ hàng hải
+Kết quả thực hiện:
+Văn bản trả lời của Biên phòng cửa khẩu cảng về việc cấp hoặc từ chối cấp tài khoản truy cập cổng Thông tin thủ tục biên phòng địện tử cảng biển.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|10/2016/QĐ-TTg|Về thực hiện thủ tục biên phòng điện tử cảng biển|03-03-2016|Thủ tướng Chính phủ|
+|49/2017/TT-BQP|Hướng dẫn thực hiện Quyết định số 10/2016/QĐ-TTg ngày 03 tháng 3 năm 2016 của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử cảng biển.|08-03-2017|Bộ Quốc phòng|

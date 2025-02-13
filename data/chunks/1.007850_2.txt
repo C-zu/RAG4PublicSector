@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa đưa vào, đưa ra cảng trung chuyển
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Doanh nghiệp kinh doanh dịch vụ trung chuyển thông báo cho cơ quan hải quan.
++ Bước 2: Cơ quan hải quan thực hiện việc giám sát hải quan trong thời gian lưu giữ tại cảng.
++ Bước 3: Xác nhận thanh khoản hàng trung chuyển của hải quan cửa khẩu nhập.

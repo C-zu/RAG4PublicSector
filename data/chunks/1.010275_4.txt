@@ -1,0 +1,8 @@
+Tên thủ tục: Sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng thông tin vô tuyến điện nội bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 01 bộ.
+- 01 Bản chính - Bản khai thông tin chung và bản khai thông số kỹ thuật, khai thác theo đối với mạng thông tin vô tuyến điện nội bộ Mẫu 1g2 quy định tại Phụ lục II ban hành kèm theo Nghị định số 63/2023/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe540eaad3b1331'">Mau 1g2.ND63.tan so.docx</a>)
+- 01 Bản sao - Tài liệu liên quan đến hồ sơ đề nghị cấp phép (Trong trường hợp cơ quan cấp giấy phép cần phải xác minh lại thông tin trong bản khai đề nghị cấp phép để ấn định tần số vô tuyến điện và sửa đổi, bổ sung nội dung giấy phép) theo quy định tại khoản 4 Điều 4 Nghị định số 63/2023/NĐ-CP.

@@ -1,0 +1,11 @@
+Tên thủ tục: Nộp đơn khởi kiện, tài liệu, chứng cứ và nhận các văn bản, thông báo tố tụng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Cá nhân, tổ chức nộp đơn khởi kiện, tài liệu chứng cứ và nhận các văn bản, thông báo tố tụng. 
+Trường hợp thực hiện trực tuyến, Cá nhân, tổ chức đăng nhập Cổng Dịch vụ công Quốc gia/Cổng Dịch vụ công của Tòa án nhân dân, lựa chọn và tiến hành thực hiện nộp trực tuyến hoặc đăng ký nhận thông báo, văn bản tố tụng.
+Bước 2. Cơ quan Tòa án thông báo kết quả giải quyết đơn khởi kiện. Nếu đơn đủ điều kiện thụ lý thì cơ quan Tòa án ra thông báo nộp tiền tạm ứng án phí đối với đơn khởi kiện. Căn cứ thông báo, cá nhân, tổ chức đến Cơ quan Thi hành án nộp tiền tạm ứng án phí, lệ phí tòa án.
+Trường hợp thực hiện trực tuyến, căn cứ trên thông báo tống đạt hoặc tin nhắn SMS (nếu có) về việc Tòa án gửi thông báo nộp tiền tạm ứng án phí, cá nhân, tổ chức chọn mục thanh toán trực tuyến án phí và thực hiện thanh toán trực tuyến.
+Bước 3. Cá nhân, tổ chức nộp biên lai thu tiền tạm ứng đến Cơ quan Tòa án. Cơ quan Tòa án tiến hành thụ lý vụ án.
+Trường hợp thực hiện trực tuyến, hệ thống thanh toán trực tuyến sẽ tự động chuyển biên lai thu tạm ứng án phí, lệ phí Tòa án đến Cơ quan Tòa án để thụ lý vụ án và có thông báo đến cá nhân, tổ chức.
+Bước 4. Nhận tài liệu, thông báo văn bản tố tụng trực tuyến trên hệ thống hoặc theo địa chỉ đã đăng ký.

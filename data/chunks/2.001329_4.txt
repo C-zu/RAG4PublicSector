@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký dấu nổi, dấu thu nhỏ, dấu xi (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Hồ sơ đối với người được cử liên hệ nộp hồ sơ: Giấy giới thiệu hoặc Giấy ủy quyền.
+- 01 Bản chính Hồ sơ đối với cơ quan, tổ chức, chức danh nhà nước: Văn bản quy định cơ quan, tổ chức, chức danh nhà nước có chức năng cấp văn bằng, chứng chỉ và giấy tờ có dán ảnh hoặc niêm phong tài liệu của cơ quan có thẩm quyền.

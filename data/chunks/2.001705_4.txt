@@ -1,0 +1,7 @@
+Tên thủ tục: Khai báo trước khi cập cảng đối với tàu vận chuyển thuỷ sản, sản phẩm thuỷ sản có nguồn gốc từ khai thác để nhập khẩu, tạm nhập, tái xuất, chuyển khẩu, quá cảnh qua lãnh thổ Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Cho phép tàu cập cảng và thông báo với cơ quan quản lý cảng theo Mẫu số 24 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea681853d3e4d3'">Mẫu số 24.docx</a>)

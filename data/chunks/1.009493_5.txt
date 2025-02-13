@@ -1,0 +1,22 @@
+Tên thủ tục: Thẩm định nội dung điều chỉnh chủ trương đầu tư, quyết định điều chỉnh chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Hội đồng nhân dân tỉnh, Ủy ban nhân dân cấp Tỉnh, Hội đồng thẩm định cấp cơ sở
+Cơ quan có thẩm quyền:
+Hội đồng nhân dân tỉnh
+Địa chỉ tiếp nhận HS:
+Tại cơ quan hành chính nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Báo cáo thẩm định, thẩm tra đối với các nội dung điều chỉnh quyết định chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất;, Quyết định điều chỉnh chủ trương đầu tư dự án PPP do nhà đầu tư đề xuất
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|35/2021/NĐ-CP|Nghị định số 35/2021/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư theo phương thức đối tác công tư và lựa chọn nhà đầu tư|29-03-2021|Chính phủ|
+|64/2020/QH14|Luật Đầu tư theo phương thức đối tác công tư|18-06-2020|Quốc Hội|

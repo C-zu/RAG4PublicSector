@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (tự xử lý, lưu giữ nguồn phóng xạ đã qua sử dụng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Phí : 500000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 1 với số lượng nhỏ hơn 10 nguồn  Phí : 1000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 2 với số lượng nhỏ hơn 10 nguồn  Phí : 15000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng với số lượng lớn hơn hoặc bằng 10 nguồn hoặc nguồn thuộc nhóm 3||
+|Dịch vụ bưu chính|60 Ngày|Phí : 500000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 1 với số lượng nhỏ hơn 10 nguồn  Phí : 1000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng thuộc nhóm 2 với số lượng nhỏ hơn 10 nguồn  Phí : 15000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ đã qua sử dụng với số lượng lớn hơn hoặc bằng 10 nguồn hoặc nguồn thuộc nhóm 3||

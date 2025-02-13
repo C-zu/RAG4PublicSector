@@ -1,0 +1,16 @@
+Tên thủ tục: Công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004683
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Công nhận kết quả khảo nghiệm thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản

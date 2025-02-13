@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký đầu tư đối với dự án không thuộc diện chấp thuận chủ trương đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ khi dự án đáp ứng các điều kiện tại khoản 3 Điều 36 Nghị định số 31/2021/NĐ-CP, Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Trực tuyến|Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ khi dự án đáp ứng các điều kiện tại khoản 3 Điều 36 Nghị định số 31/2021/NĐ-CP, Sở Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư.|Phí : 0 Đồng Không có|- Trực tuyến trên Hệ thống thông tin quốc gia về đầu tư.|

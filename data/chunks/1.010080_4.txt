@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục giao trực tiếp nhiệm vụ khoa học và công nghệ cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 09 Bản sao + Đơn đăng ký chủ trì thực hiện nhiệm vụ khoa học và công nghệ theo mẫu B1-1-DON;
+- 01 Bản chính, 09 Bản sao + Thuyết minh đề tài, dự án (theo mẫu phù hợp với từng loại hình nhiệm vụ KH&CN)
+- 01 Bản chính, 09 Bản sao + Tóm tắt hoạt động khoa học và công nghệ của tổ chức đăng ký chủ trì nhiệm vụ khoa học và công nghệ và gửi kèm theo kết quả đánh giá hoạt động hàng năm (3 năm trở lại đây) của tổ chức khoa học và công nghệ (nếu có)
+- 01 Bản chính, 09 Bản sao + Lý lịch khoa học của cá nhân đăng ký chủ nhiệm và các cá nhân đăng ký thực hiện chính nhiệm vụ khoa học và công nghệ có xác nhận của cơ quan quản lý nhân sự
+- 01 Bản chính, 09 Bản sao + Văn bản xác nhận về sự đồng ý của các tổ chức đăng ký phối hợp thực hiện nhiệm vụ khoa học và công nghệ (nếu có hoạt động phối hợp)

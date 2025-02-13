@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục đăng ký mẫu séc trắng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Tổ chức cung ứng séc trắng trước khi in séc trắng để cung ứng cho khách hàng, lập hồ sơ đăng ký mẫu séc trắng gửi Ngân hàng Nhà nước Việt Nam (Vụ Thanh toán)
+- Bước 2: Ngân hàng Nhà nước Việt Nam xem xét hồ sơ. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam có văn bản xác nhận về việc đăng ký mẫu séc trắng của tổ chức cung ứng séc

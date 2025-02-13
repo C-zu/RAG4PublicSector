@@ -1,0 +1,10 @@
+Tên thủ tục: Chứng nhận chủng loại gạo thơm xuất khẩu được hưởng miễn thuế nhập khẩu theo hạn ngạch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị chứng nhận chủng loại gạo thơm theo Mẫu quy định tại Phụ lục V ban hành kèm theo Nghị định số 11/2022/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e2cd1440a6eb'">PL V mẫu đơn đề nghị.doc</a>)
+- 01 Bản chính - Mẫu Giấy chứng nhận chủng loại gạo thơm được kê khai đầy đủ thông tin từ mục 1 đến mục 9 theo Mẫu quy định tại Phụ lục VI ban hành kèm theo Nghị định số 103/2020/NĐ-CP đối với gạo thơm xuất khẩu sang EU hoặc Phụ lục VIa ban hành kèm theo Nghị định số 11/2022/NĐ-CP đối với gạo thơm xuất khẩu sang UK; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee20b1813afeda'">PL VI,VIa mẫu giấy chứng nhận.doc</a>)
+- 01 Bản sao - Bản chính hoặc bản sao có chứng thực Biên bản kiểm tra lô ruộng lúa thơm theo Mẫu quy định tại Phụ lục II ban hành kèm theo Nghị định số 103/2020/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f7da69b5a01c100'">Mẫu Biên bản kiểm tra ruộng lúa thơm.doc</a>)
+- 01 Bản chính - Văn bản thỏa thuận chuyển giao Biên bản kiểm tra lô ruộng lúa thơm trong trường hợp tổ chức, cá nhân đề nghị chứng nhận chủng loại gạo thơm không đứng tên trong Biên bản kiểm tra lô ruộng lúa thơm.

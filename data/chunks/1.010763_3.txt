@@ -1,0 +1,7 @@
+Tên thủ tục: Hỗ trợ khắc phục thiệt hại do thiên tai gây ra trên biển
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||Trực tiếp tại UBND cấp huyện|

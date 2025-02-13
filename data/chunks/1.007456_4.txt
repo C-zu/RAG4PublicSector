@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục đăng ký cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb5b5418ac29d20'">Mau đơn ĐN cấp lại Giấy CNDĐKKDDVKT PHỤ LỤC 4,5.docx</a>)
+- 01 Bản chính b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán đã được cấp, trừ trường hợp quy định tại điểm b khoản 1 Điều này;
+- 01 Bản chính c) Các tài liệu khác liên quan đến việc đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán (nếu có).
+ 2/ Số lượng hồ sơ: 01 (bộ)

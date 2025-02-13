@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cử đoàn ra
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Loại giấy tờ Mẫu đơn, tờ khai Số lượng - Văn bản đề nghị của cơ quan thuộc hệ thống UBND tỉnh chủ trì tổ chức đoàn ra, nội dung nêu rõ mục đích, chương trình, thành phần, thời gian, nước đến, nguồn kinh phí và các nội dung liên quan khác theo mẫu. Trường hợp sử dụng kinh phí từ ngân sách tỉnh thì phải có dự toán kèm theo. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feac1a1b1b7d8b9'">Mẫu phu luc I.docx</a>)
+ - Danh sách trích ngang của người được cử đi nước ngoài theo mẫu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa155a50fac1790'">Mẫu phu luc II.docx</a>)
+ - Tài liệu chứng minh mục đích xuất cảnh như giấy mời, hợp đồng, biên bản thỏa thuận, các giấy tờ liên quan khác.
+ - Văn bản của Sở Nội vụ đối với người được cử đi đào tạo sau đại học hoặc tham gia các khóa đào tạo, bồi dưỡng dài hạn ở nước ngoài trên 03 (ba) tháng.

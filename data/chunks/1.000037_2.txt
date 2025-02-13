@@ -1,0 +1,10 @@
+Tên thủ tục: Xác nhận bảng kê lâm sản (cấp huyện)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân nộp trực tiếp hoặc gửi qua đường bưu điện hoặc qua dịch vụ bưu chính công ích 01 bộ hồ sơ đến Hạt Kiểm lâm cấp huyện. Trường hợp hồ sơ hợp lệ, trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan có thẩm quyền có trách nhiệm hướng dẫn trực tiếp hoặc bằng văn bản cho tổ chức, cá nhân để hoàn thiện hồ sơ;
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Hạt Kiểm lâm cấp huyện xác nhận bảng kê lâm sản hoặc thông báo bằng văn bản đối với trường hợp không xác nhận và nêu rõ lý do;
+- Trường hợp cần xác minh nguồn gốc lâm sản, trong thời hạn 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Hạt Kiểm lâm cấp huyện thông báo cho chủ lâm sản.
+Trong thời hạn 01 ngày làm việc kể từ ngày thông báo, Hạt Kiểm lâm cấp huyện tiến hành xác minh, kiểm tra nguồn gốc lâm sản; trường hợp phức tạp, việc xác minh, kiểm tra nguồn gốc lâm sản được thực hiện không quá 05 ngày làm việc.
+Kết thúc xác minh, kiểm tra nguồn gốc lâm sản, Hạt Kiểm lâm cấp huyện lập biên bản kiểm tra lâm sản theo Mẫu số 05 kèm theo Thông tư số 27/2018/TT-BNNPTNT ngày 16/11/2018.
+Trong thời hạn 01 ngày làm việc kể từ ngày kết thúc xác minh, Hạt Kiểm lâm cấp huyện xác nhận bảng kê lâm sản và trả kết quả cho tổ chức, cá nhân hoặc thông báo bằng văn bản đối với trường hợp không xác nhận và nêu rõ lý do.

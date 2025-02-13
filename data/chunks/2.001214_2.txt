@@ -1,0 +1,14 @@
+Tên thủ tục: Đăng ký lại phương tiện hoạt động vui chơi, giải trí dưới nước
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân gửi trực tiếp hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến cơ quan đăng ký phương tiện lần đầu 01 bản chính hoặc biểu mẫu điện tử đơn đề nghị theo Mẫu.
+- Trường hợp cần chuyển đăng ký phương tiện sang cơ quan đăng ký phương tiện của địa phương khác, chủ phương tiện nộp đơn đề nghị chuyển, nơi đăng ký, nêu rõ nơi đăng ký mới và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó. Cơ quan đăng ký nơi chủ phương tiện đề nghị đăng ký phương tiện, căn cứ cơ sở dữ liệu của phương tiện để cấp Giấy chứng nhận đăng ký phương tiện mới cho chủ phương tiện với các nội dung thông tin đăng ký giữ nguyên như Giấy chứng nhận đăng ký phương tiện cũ.
+Giải quyết TTHC: Trường hợp thay đổi tên phương tiện, thay đổi thông số kỹ thuật, thay đổi chủ sở hữu phương tiện:
++ Cơ quan đăng ký phương tiện tiếp nhận, kiểm tra hồ sơ, trường hợp hồ sơ không hợp lệ, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, hướng dẫn người nộp hoàn thiện hồ sơ theo quy định tại Nghị định này.
++ Cơ quan đăng ký phương tiện thu hồi Giấy chứng nhận đăng ký đã cấp trước đó, tiêu hủy theo quy định.
++ Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký phương tiện cấp lại Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện; trường hợp không cấp phải có văn bản trả lời và nêu rõ lý do.
+Giải quyết TTHC: Trường hợp cần chuyển đăng ký phương tiện sang cơ quan đăng ký phương tiện của địa phương khác:
++ Chủ phương tiện nộp đơn đề nghị chuyển, nơi đăng ký, nêu rõ nơi đăng ký mới và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó.
++ Cơ quan đăng ký nơi chủ phương tiện đề nghị đăng ký phương tiện, căn cứ cơ sở dữ liệu của phương tiện để cấp Giấy chứng nhận đăng ký phương tiện mới cho chủ phương tiện với các nội dung thông tin đăng ký giữ nguyên như Giấy chứng nhận đăng ký phương tiện cũ.

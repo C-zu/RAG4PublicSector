@@ -1,0 +1,7 @@
+Tên thủ tục: Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải công nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Mẫu số 02 ban hành kèm theo Nghị định số 53/2020/NĐ-CP ngày 05 tháng 5 năm 2020 của Chính phủ quy định phí bảo vệ môi trường đối với nước thải. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feefbc591979319'">MS2 - To khai nop phi BVMT doi voi nuoc thai CN.docx</a>)

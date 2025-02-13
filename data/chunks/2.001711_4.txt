@@ -1,0 +1,19 @@
+Tên thủ tục: Đăng ký lại phương tiện trong trường hợp phương tiện thay đổi tên, tính năng kỹ thuật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với phương tiện đăng ký lại do thay đổi tên:
+- 01 Bản chính Đơn đề nghị đăng ký lại phương tiện thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9d01235a45c5a0'">Mẫu29.doc</a>)
+- 01 Bản chính 02 ảnh có kích thước 10 x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi;
+- 01 Bản chính Giấy chứng nhận đăng ký phương tiện thủy nội địa đã được cấp;
+- 01 Bản chính Bản kê khai điều kiện an toàn của phương tiện thủy nội địa theo mẫu đối với phương tiện không thuộc diện đăng kiểm.
+
+
+Đối với phương tiện đăng ký lại do thay đổi tính năng kỹ thuật:
+- 01 Bản chính Đơn đề nghị đăng ký lại phương tiện thủy nội địa theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe50dce5cecddb9'">Mẫu29.doc</a>)
+- 01 Bản chính 02 (hai) ảnh có kích thước 10 x 15 cm chụp toàn bộ mạn phải của phương tiện ở trạng thái nổi;
+- 01 Bản chính Biên lai nộp lệ phí trước bạ (bản chính) đối với phương tiện thuộc diện phải nộp lệ phí trước bạ;
+- 01 Bản chính Giấy chứng nhận đăng ký phương tiện thủy nội địa đã được cấp;
+- 01 Bản chính Bản kê khai điều kiện an toàn của phương tiện thủy nội địa theo mẫu đối với phương tiện không thuộc diện đăng kiểm.
+- 01 Bản chính Xuất trình bản chính Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện được cấp còn hiệu lực sau khi phương tiện đã thay đổi tính năng kỹ thuật đối với phương tiện thuộc diện đăng kiểm để cơ quan đăng ký phương tiện kiểm tra.

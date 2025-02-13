@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dược thuộc thẩm quyền của Bộ Y tế (Cơ sở sản xuất thuốc, nguyên liệu làm thuốc; Cơ sở xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ bảo quản thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc; Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng; Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 30.000.000 Đồng|15 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp Giấy chứng nhận đủ điều kiện kinh doanh dược bị mất, hư hỏng.|
+|Trực tiếp|07 Ngày làm việc|Phí : 30.000.000 Đồng|07 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp cấp lại do lỗi của cơ quan cấp Giấy chứng nhận đủ điều kiện kinh doanh dược.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 30.000.000 Đồng|15 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp Giấy chứng nhận đủ điều kiện kinh doanh dược bị mất, hư hỏng.|
+|Dịch vụ bưu chính|07 Ngày làm việc|Phí : 30.000.000 Đồng|07 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp cấp lại do lỗi của cơ quan cấp Giấy chứng nhận đủ điều kiện kinh doanh dược.|

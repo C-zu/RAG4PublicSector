@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục cấm nhập khẩu để phục vụ trực tiếp hoạt động sản xuất phần mềm, gia công quy trình kinh doanh bằng công nghệ thông tin, xử lý dữ liệu cho đối tác nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Không  Lệ phí : Không  Mức giá : Không|Tại Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Hà Nội|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Không  Lệ phí : Không  Mức giá : Không|Đến Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Hà Nội|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại, gia hạn giấy phép hoạt động cho tổ chức, cá nhân nước ngoài có tàu hoạt động thuỷ sản trong vùng biển Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|16 ngày làm việc (đối với cấp mới và cấp lại); 06 ngày làm việc (đối với cấp gia hạn).|Phí : Lệ phí cấp mới 200 USD/lần; lệ phí cấp lại hoặc gia hạn 100 USD/lần.|.|
+|Trực tuyến|16 ngày làm việc (đối với cấp mới và cấp lại); 06 ngày làm việc (đối với cấp gia hạn).|Phí : Lệ phí cấp mới 200 USD/lần; lệ phí cấp lại hoặc gia hạn 100 USD/lần.|.|
+|Dịch vụ bưu chính|16 ngày làm việc (đối với cấp mới và cấp lại); 06 ngày làm việc (đối với cấp gia hạn).|Phí : Lệ phí cấp mới 200 USD/lần; lệ phí cấp lại hoặc gia hạn 100 USD/lần.|.|

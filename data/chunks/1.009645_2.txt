@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục chấp thuận chủ trương đầu tư của UBND cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Nhà đầu tư hoặc cơ quan nhà nước có thẩm quyền nộp hồ sơ đề nghị chấp thuận chủ trương đầu tư theo quy định tại khoản 1 hoặc khoản 2 Điều 33 của Luật Đầu tư, các khoản 2 và 3 Điều 31 của Nghị định số 31/2021/NĐ-CP cho Sở Kế hoạch và Đầu tư nơi dự kiến thực hiện dự án.
+- Bước 2: Sở Kế hoạch và Đầu tư gửi hồ sơ lấy ý kiến thẩm định của các sở, Ủy ban nhân dân cấp huyện nơi dự kiến thực hiện dự án và các cơ quan có liên quan về nội dung thuộc phạm vi quản lý nhà nước của cơ quan đó theo quy định tại khoản 6 hoặc khoản 8 Điều 31 của Nghị định số 31/2021/NĐ-CP.
+- Bước 3: Cơ quan được lấy ý kiến có ý kiến thẩm định về nội dung thuộc phạm vi quản lý nhà nước của mình, gửi Sở Kế hoạch và Đầu tư.
+- Bước 4: Sở Kế hoạch và Đầu tư lập báo cáo thẩm định gồm các nội dung thẩm định theo quy định tại khoản 6 hoặc khoản 8 Điều 31 Nghị định số 31/2021/NĐ-CP, trình Ủy ban nhân dân cấp tỉnh.
+- Bước 5: Ủy ban nhân dân cấp tỉnh xem xét chấp thuận chủ trương đầu tư đối với dự án gồm những nội dung quy định tại khoản 7 Điều 32 Nghị định số 31/2021/NĐ-CP.

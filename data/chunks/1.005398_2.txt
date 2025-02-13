@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký quyền sử dụng đất lần đầu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trực tiếp
+- Người sử dụng đất nộp hồ sơ tại Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai hoặc cơ quan tiếp nhận hồ sơ theo quy định của Ủy ban nhân dân cấp tỉnh hoặc địa điểm theo nhu cầu đối với những địa phương mà Ủy ban nhân dân cấp tỉnh đã ban hành quy chế tiếp nhận, luân chuyển hồ sơ, giải quyết và trả kết quả giải quyết thủ tục theo nhu cầu về địa điểm.
+Hộ gia đình, cá nhân, cộng đồng dân cư nộp hồ sơ tại Ủy ban nhân dân cấp xã nếu có nhu cầu.
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định.
+- Cơ quan tiếp nhận hồ sơ có trách nhiệm ghi đầy đủ thông tin vào Sổ tiếp nhận hồ sơ và trả kết quả và trao Phiếu tiếp nhận hồ sơ và trả kết quả cho người nộp hồ sơ.
+Trường hợp hộ gia đình, cá nhân, cộng đồng dân cư nộp hồ sơ tại Ủy ban nhân dân cấp xã thì Ủy ban nhân dân cấp xã chuyển hồ sơ đến Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai.
+- Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai cập nhật thông tin thửa đất đăng ký vào hồ sơ địa chính, cơ sở dữ liệu đất đai (nếu có).
+Thực hiện thủ tục trên môi trường điện tử
+Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do.
+Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công.
+Cơ quan tiếp nhận hoặc cơ quan giải quyết hồ sơ thông báo cho người yêu cầu thực hiện thủ tục hành chính nộp bản chính Giấy chứng nhận đã cấp, các giấy tờ theo quy định sau khi người sử dụng đất hoàn thành nghĩa vụ tài chính.
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất.

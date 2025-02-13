@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép cho phương tiện vận tải ra vào thành phố Đà Nẵng (giờ cao điểm)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Chứng minh nhân dân của chủ phương tiện (nếu chủ phương tiện không trực tiếp đến nộp hồ sơ cấp phép phải có giấy ủy quyền của chủ phương tiện theo quy định hiện hành) hoặc giấy giới thiệu (đối với tổ chức, cơ quan, đơn vị, công ty, doanh nghiệp);
+- 01 Bản chính 2. Đơn đề nghị cấp giấy phép theo mẫu Phụ lục KCHT-04 hoặc văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd697d63c2765fe'">PL_KCHT04.docx</a>)
+- 01 Bản chính, 01 Bản sao 3. Giấy tờ phương tiện (photo kèm bản chính để đối chiếu): Giấy chứng nhận đăng ký xe, sổ kiểm định kỹ thuật
+- 01 Bản sao 4. Bản sao giấy chứng nhận đăng ký kinh doanh, hợp đồng thuê xe (đối với xe thuê).

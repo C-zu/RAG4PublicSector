@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010901
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính
+Trình tự thực hiện:
+- Doanh nghiệp, tổ chức hoàn thiện hồ sơ đề nghị cấp sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính theo quy định và nộp hồ sơ về Bộ Thông tin và Truyền thông.
+- Sau khi hồ sơ được tiếp nhận Bộ Thông tin và Truyền thông cấp văn bản xác nhận thông báo hoạt động bưu chính trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+- Trường hợp không chấp thuận sửa đổi, bổ sung, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Thông tin và Truyền thông thông báo cho doanh nghiệp, tổ chức và nêu rõ lý do.
+- Trường hợp sửa đổi, bổ sung phạm vi cung ứng dịch vụ bưu chính dẫn đến thay đổi thẩm quyền cấp văn bản xác nhận thông báo hoạt động bưu chính thì doanh nghiệp, tổ chức nộp hồ sơ và thực hiện các thủ tục như cấp văn bản xác nhận thông báo hoạt động bưu chính mới.
+- Các thông báo của Bộ Thông tin và Truyền thông được thực hiện bằng văn bản qua hệ thống dịch vụ công trực tuyến.
+- Kết quả giải quyết thủ tục cấp sửa đổi, bổ sung giấy phép bưu chính được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Nộp hồ sơ trực tiếp tại trụ sở Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+|Trực tuyến|10 Ngày làm việc||Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (https://dichvucong.mic.gov.vn) hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|10 Ngày làm việc||Nộp hồ sơ qua dịch vụ bưu chính tới Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+
+Thành phần hồ sơ:
+
+- Giấy đề nghị cấp sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính - Tài liệu liên quan đến nội dung đề nghị sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+- 01 Bản chính, 01 Bản sao Giấy đề nghị cấp sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính ([Phụ lục IV.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd09e66e004c902'))
+- 01 Bản chính, 01 Bản sao - Tài liệu liên quan đến nội dung đề nghị sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+- 01 Bản chính, 01 Bản sao Số lượng hồ sơ: 01 bộ là bản gốc
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Vụ Bưu chính
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận thông báo hoạt động bưu chính, Giấy xác nhận thông báo sửa đổi, bổ sung
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2022/NĐ-CP|Nghị định 25/2022/NĐ-CP|12-04-2022||
+|47/2022/TT-BTC|Thông tư 47/2022/TT-BTC|29-07-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

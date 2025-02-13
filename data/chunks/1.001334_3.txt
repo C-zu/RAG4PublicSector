@@ -1,0 +1,9 @@
+Tên thủ tục: Đề nghị xác nhận tình trạng vũ khí, công cụ hỗ trợ đã mất tính năng, tác dụng được sử dụng để triển lãm, trưng bày hoặc làm đạo cụ trong hoạt động văn hóa, nghệ thuật tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|05 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 0 Đồng||

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục sửa lỗi sai sót trong hợp đồng, giao dịch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Người yêu cầu chứng thực nộp 01 (một) bộ hồ sơ yêu cầu chứng thực, gồm các giấy tờ sau đây:
+- 01 Bản sao + Bản sao giấy tờ tùy thân còn giá trị sử dụng của người yêu cầu chứng thực (xuất trình bản chính để đối chiếu);
+- 01 Bản chính + Văn bản thỏa thuận về việc sửa lỗi sai sót trong hợp đồng, giao dịch đã được chứng thực;
+- 01 Bản chính + Hợp đồng, giao dịch đã được chứng thực;
+- 01 Bản chính + Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc bản sao giấy tờ thay thế được pháp luật quy định đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường hợp hợp đồng, giao dịch liên quan đến tài sản đó (xuất trình bản chính để đối chiếu).

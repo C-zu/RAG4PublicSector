@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp Giấy miễn thị thực tại Cơ quan đại diện VIệt Nam ở nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 01 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện gửi danh sách người đề nghị cấp giấy miễn thị thực (GMTT) về Cục Quản lý xuất nhập cảnh, Bộ Công an. - Cơ quan đại diện chỉ cấp GMTT khi có thông báo trả lời đồng ý của cơ quan này (trong thời hạn 01 ngày làm việc kể từ khi nhận được thông báo này).|||
+|Dịch vụ bưu chính|- Trong thời hạn 01 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện gửi danh sách người đề nghị cấp giấy miễn thị thực (GMTT) về Cục Quản lý xuất nhập cảnh, Bộ Công an. - Cơ quan đại diện chỉ cấp GMTT khi có thông báo trả lời đồng ý của cơ quan này (trong thời hạn 01 ngày làm việc kể từ khi nhận được thông báo này).|||

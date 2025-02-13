@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007807
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục xác định trước mã số hàng hóa xuất khẩu, nhập khẩu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Bước 1: Tổ chức, cá nhân đề nghị xác định trước mã số nộp đủ hồ sơ cung cấp thông tin, chứng từ, hồ sơ đối với hàng hóa dự kiến xuất khẩu, nhập khẩu đến cơ quan hải quan.
++ Bước 2: Tổng cục trưởng Tổng cục Hải quan ban hành vãn bản thông báo kết quả xác định trước mã số hàng hóa trong thời hạn 30 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp thông thường), hoặc 60 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp phức tạp cần xác minh làm rõ).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Tùy từng trường hợp||30 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp thông thường), hoặc 60 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp phức tạp cần xác minh làm rõ).|
+|Dịch vụ bưu chính|Tùy từng trường hợp||30 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp thông thường), hoặc 60 ngày kể từ ngày nhận được đủ hồ sơ (đối với trường hợp phức tạp cần xác minh làm rõ).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị xác định trước mã số theo mẫu số 01/XĐTMS/TXNK Phụ lục VI ban hành kèm Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính ([2018_729 + 730_39-2018-TT-BTC..pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4ad0d264bb3e0'))
+- 01 Bản chính + Mẫu hàng hóa dự kiến xuất khẩu, nhập khẩu (nếu có) hoặc tài liệu kỹ thuật (như bản phân tích thành phần, catalogue, hình ảnh hàng hóa), mô tả chi tiết thành phần, tính chất, cấu tạo, công dụng, phương thức vận hành của hàng hóa
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo kết quả xác định trước mã số hàng hóa.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

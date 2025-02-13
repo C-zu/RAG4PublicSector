@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000053
+Số quyết định:
+3950/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ (nhập khẩu chất phóng xạ)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước1: Tổ chức, cá nhân nhập khẩu chất phóng xạ nộp hồ sơ cho Cục ATBXHN.
+Bước 2: Cục ATBXHN xem xét hồ sơ và tổ chức thẩm định: + Nếu đủ điều kiện theo quy định hiện hành, Cục ATBXHN cấp giấy phép tiến hành công việc bức xạ (nhập khẩu chất phóng xạ). + Trong trường hợp không cấp giấy phép, Cục ATBXHN trả lời bằng văn bản và nêu rõ lý do.
+Bước 3: Cục ATBXHN cấp Giấy phép tiến hành công việc bức xạ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 500.000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 1  Phí : 1000000 Đồng Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 2. 1.000.000 đồng  Phí : 5000000 Đồng 5.000.000 đồng/1 nguồn hoặc 1 lô nguồn để sử dụng trong 1 thiết bị  Lệ phí : 100000 Đồng Lệ phí cấp phép|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 500000 Đồng Phí : 500.000 Đồng (Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 1) Phí : 1000000 Đồng (Phí thẩm định an toàn: Nguồn phóng xạ thuộc nhóm 2. 1.000.000 đồng) Phí : 5000000 Đồng (5.000.000 đồng/1 nguồn hoặc 1 lô nguồn để sử dụng trong 1 thiết bị)  Lệ phí : 100000 Đồng Lệ phí cấp phép|15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị ([Đơn đề nghị.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a0225f8d5bb9'))
+- 01 Bản chính Báo cáo đánh giá an toàn ([Bao cao danh gia an toan.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa689878ece0f20'))
+- 01 Bản sao Bản sao quyết định thành lập tổ chức, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặc giấy đăng ký hành nghề
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất cung cấp thông tin như được khai trong phiếu khai báo nguồn phóng xạ kín, nguồn phóng xạ hở
+- 01 Bản sao Bản sao hợp đồng mua bán hoặc văn bản thỏa thuận chuyển giao, tiếp nhận nguồn phóng xạ giữa tổ chức, cá nhân nhập khẩu phía Việt Nam với tổ chức, cá nhân xuất khẩu nước ngoài
+- 01 Bản sao Bản sao hợp đồng ủy thác nhập khẩu giữa tổ chức, cá nhân ủy thác và tổ chức, cá nhân nhận ủy thác trong trường hợp nhập khẩu ủy thác
+- 01 Bản chính Bản dịch các tài liệu tiếng nước ngoài
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ hở ([phiếu khai báo nguồn phóng xạ hở.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f94b465972fc4e0'))
+- 01 Bản chính Phiếu khai báo nguồn phóng xạ kín ([Phiếu khai báo nguồn phóng xạ kín.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd03077a3ddd50e'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép tiến hành công việc bức xạ (nhập khẩu chất phóng xạ)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|08/2010/TT-BKHCN|Hướng dẫn về việc khai báo, cấp giấy phép tiến hành công việc bức xạ và cấp chứng chỉ nhân viên bức xạ|22-07-2010|Bộ Khoa học và Công nghệ|
+|287/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực năng lượng nguyên tử|15-11-2016|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Thủ tục cấp giấy phép tiến hành công việc bức xạ (nhập khẩu chất phóng xạ)
+Mô tả:
+Không có thông tin

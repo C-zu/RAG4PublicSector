@@ -1,0 +1,42 @@
+Tên thủ tục: Thủ tục cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức được thành lập, hoạt động theo quy định của pháp luật;
+- Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+- Có phòng thử nghiệm thiết bị bức xạ đáp ứng các yêu cầu sau:
++ Thiết kế che chắn bảo đảm an toàn bức xạ cho nhân viên bức xạ và công chúng;
++ Không tiến hành thử nghiệm đồng thời với hoạt động khác.
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; Nơi có khả năng gây nhiễm bẩn phóng xạ; Phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa – Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ; 
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định này. Trường hợp sử dụng nguồn phóng xạ Nhóm 1, Nhóm 2 theo Quy chuẩn kỹ thuật quốc gia QCVN 6:2010/BKHCN về An toàn bức xạ - phân nhóm và phân loại nguồn phóng xạ (sau đây gọi tắt là QCVN 6:2010/ BKHCN), kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định 142/2020/NĐ-CP.
+- Có thiết bị đo suất liều bức xạ; thiết bị này phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+	- Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+	- Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+- Tổ chức được thành lập, hoạt động theo quy định của pháp luật;
+- Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+- Có phòng thử nghiệm thiết bị bức xạ đáp ứng các yêu cầu sau:
++ Thiết kế che chắn bảo đảm an toàn bức xạ cho nhân viên bức xạ và công chúng;
++ Không tiến hành thử nghiệm đồng thời với hoạt động khác.
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; Nơi có khả năng gây nhiễm bẩn phóng xạ; Phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa – Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ; 
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định này. Trường hợp sử dụng nguồn phóng xạ Nhóm 1, Nhóm 2 theo Quy chuẩn kỹ thuật quốc gia QCVN 6:2010/BKHCN về An toàn bức xạ - phân nhóm và phân loại nguồn phóng xạ (sau đây gọi tắt là QCVN 6:2010/ BKHCN), kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định 142/2020/NĐ-CP.
+- Có thiết bị đo suất liều bức xạ; thiết bị này phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+	- Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+	- Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+Từ khóa:
+Thủ tục cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ
+Mô tả:
+Không có thông tin

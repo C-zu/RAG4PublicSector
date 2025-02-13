@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008825
+Số quyết định:
+1167/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định, phê duyệt nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết của dự án đầu tư xây dựng công trình không theo hình thức kinh doanh thuộc thẩm quyền phê duyệt của UBND thành phố
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quy hoạch xây dựng, kiến trúc
+Trình tự thực hiện:
+Bước 1: Chủ đầu tư gửi hồ sơ thẩm định nhiệm vụ, nhiệm vụ điều chỉnh quy hoạch chi tiết tới Sở Xây dựng thành phố Đà Nẵng.
+Bước 2: Sở Xây dựng thành phố Đà Nẵng sau khi xem xét hồ sơ hợp lệ, tiếp nhận hồ sơ và tổ chức thẩm định theo đúng thời hạn quy định
+Bước 3: Trả kết quả tại Tổ Tiếp nhận và trả hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (trong đó: Sở Xây dựng 20 ngày, UBND thành phố 10 ngày)|Phí : Được quy định cụ thể tại khoản 3, Điều 6 Thông tư số 20/2019/TT-BXD ngày 31/12/2019 của Bộ trưởng Bộ Xây dựng.|Nộp hồ sơ trực tiếp tại Tổ tiếp nhận và trả kết quả Sở Xây dựng, Trung tâm Hành Chính thành phố Đà Nẵng, số 24 Trần Phú, phường Thạch Thang, quận Hải châu, thành phố Đà Nẵng.|
+|Trực tuyến|30 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ (trong đó: Sở Xây dựng 20 ngày, UBND thành phố 10 ngày)|Phí : Được quy định cụ thể tại khoản 3, Điều 6 Thông tư số 20/2019/TT-BXD ngày 31/12/2019 của Bộ trưởng Bộ Xây dựng.|Nộp trực tuyến tại: https://dichvucong.danang.gov.vn/|
+
+Thành phần hồ sơ:
+
+I. Đối với Quy hoạch chi tiết đô thị
+- 01 Bản chính 1. Tờ trình đề nghị thẩm định nhiệm vụ
+- 02 Bản chính 2. Văn bản pháp lý, cơ sở lập quy hoạch: a) Chủ trương lập quy hoạch. b) Ý kiến cơ quan, tổ chức, cá nhân và cộng đồng dân cư có liên quan về đồ án quy hoạch. c) Văn bản Tổng hợp các ý kiến đóng góp, có giải trình, tiếp thu. d) Hồ sơ năng lực của tổ chức tư vấn lập quy hoạch.
+- 02 Bản chính 3. Thành phần bản vẽ (In màu): Sơ đồ vị trí khu vực quy hoạch trích từ quy hoạch phân khu hoặc quy hoạch chung đô thị đã được phê duyệt theo tỷ lệ thích hợp và bản đồ ranh giới, phạm vi nghiên cứu, quy mô khu vực lập quy hoạch chi tiết đô thị. Thể hiện trên nền bản đồ địa hình tỷ lệ 1/500.
+- 02 Bản chính 4. Thuyết minh: a) Lý do và sự cần thiết lập quy hoạch; phạm vi ranh giới, diện tích, chức năng, sơ bộ hiện trạng khu vực lập quy hoạch chi tiết. Quy hoạch chi tiết phải thống nhất, cụ thể hóa quy hoạch phân khu đã được phê duyệt. b) Đánh giá sơ bộ hiện trạng, xác định những vấn đề, nội dung cơ bản cần giải quyết trong đồ án quy hoạch chi tiết. c) Dự kiến các chỉ tiêu cơ bản áp dụng trong đồ án về quy mô dân số, nhu cầu sử dụng đất, hạ tầng xã hội và hạ tầng kỹ thuật trên cơ sở các quy định của quy hoạch phân khu, quy hoạch chung đô thị đã được phê duyệt. d) Yêu cầu cụ thể về việc điều tra khảo sát hiện trạng và thu thập tài liệu. đ) Dự kiến các hạng mục công trình cần đầu tư xây dựng trong khu vực lập quy hoạch chi tiết đô thị; xác định các yêu cầu đối với việc nghiên cứu tổ chức không gian, kiến trúc cảnh quan, sử dụng đất, kết nối hạ tầng kỹ thuật và những yêu cầu khác. e) Xác định danh mục bản vẽ, thuyết minh, phụ lục kèm theo; số lượng, quy cách của sản phẩm hồ sơ đồ án; kế hoạch và tiến độ tổ chức lập quy hoạch.
+- 01 Bản chính 5. Dự thảo Tờ trình, Quyết định: - Dự thảo Tờ trình phê duyệt nhiệm vụ đồ án, đồ án điều chỉnh quy hoạch chi tiết. - Dự thảo Quyết định phê duyệt nhiệm vụ đồ án, đồ án điều chỉnh quy hoạch chi tiết.
+- 02 Bản chính 6. Tệp dữ liệu bản đồ gốc ghi trên đĩa CD (02 đĩa)
+
+
+II. Đối với Quy hoạch chi tiết khu chức năng (Khu kinh tế; khu công nghiệp; khu chế xuất; khu công nghệ cao; khu du lịch; khu nghiên cứu; đào tạo; khu thể dục thể thao)
+- 01 Bản chính 1. Tờ trình đề nghị thẩm định nhiệm vụ
+- 02 Bản chính 2. Văn bản pháp lý, cơ sở lập quy hoạch: a) Chủ trương lập quy hoạch. b) Ý kiến cơ quan, tổ chức, cá nhân và cộng đồng dân cư có liên quan về đồ án quy hoạch. c) Văn bản Tổng hợp các ý kiến đóng góp, có giải trình, tiếp thu. d) Hồ sơ năng lực của tổ chức tư vấn lập quy hoạch.
+- 02 Bản chính 3. Thành phần bản vẽ bao gồm: Sơ đồ vị trí khu vực quy hoạch trích từ quy hoạch phân khu hoặc quy hoạch chung xây dựng theo tỷ lệ thích hợp và bản đồ ranh giới nghiên cứu, phạm vi khu vực lập quy hoạch chi tiết xây dựng. Thể hiện trên nền bản đồ địa hình tỷ lệ 1/500.
+- 02 Bản chính 4. Thuyết minh: a) Luận chứng về sự cần thiết, các căn cứ lập quy hoạch; xác định phạm vi ranh giới, diện tích, chức năng khu vực lập quy hoạch chi tiết xây dựng. b) Xác định những nội dung, vấn đề cần giải quyết trong đồ án quy hoạch chi tiết xây dựng. c) Nêu các chỉ tiêu cơ bản áp dụng về quy mô, sử dụng đất, hạ tầng xã hội và hạ tầng kỹ thuật trên cơ sở quy hoạch phân khu xây dựng hoặc quy hoạch chung xây dựng đã được phê duyệt, các quy chuẩn, tiêu chuẩn và các quy hoạch khác có liên quan. d) Yêu cầu về công tác điều tra khảo sát hiện trạng và thu thập tài liệu, tổ chức không gian, kiến trúc cảnh quan, kết nối hạ tầng kỹ thuật, đánh giá môi trường chiến lược và những yêu cầu nghiên cứu khác. đ) Đề xuất sơ bộ về cấu trúc, nguyên tắc tổ chức không gian khu vực lập quy hoạch chi tiết trên cơ sở danh mục các hạng mục công trình cần đầu tư xây dựng trong khu vực lập quy hoạch chi tiết xây dựng. e) Xác định danh mục bản vẽ, thuyết minh, phụ lục kèm theo; số lượng, quy cách của sản phẩm hồ sơ đồ án; kế hoạch và tiến độ tổ chức lập quy hoạch.
+- 01 Bản chính 5. Dự thảo Tờ trình, Quyết định: - Dự thảo Tờ trình phê duyệt nhiệm vụ đồ án, đồ án điều chỉnh quy hoạch chi tiết. - Dự thảo Quyết định phê duyệt nhiệm vụ đồ án, đồ án điều chỉnh quy hoạch chi tiết.
+- 02 Bản chính 6. Tệp dữ liệu bản đồ gốc ghi trên đĩa CD (02 đĩa)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Xây dựng TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+UBND Thành phố Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả Sở Xây dựng, Trung tâm Hành Chính thành phố Đà Nẵng, số 24 Trần Phú, phường Thạch Thang, quận Hải châu, thành phố Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Báo cáo thẩm định nhiệm vụ, nhiệm vụ điều chỉnh đồ án quy hoạch chi tiết của Sở Xây dựng và Quyết định phê duyệt nhiệm vụ đồ án, đồ án điều chỉnh quy hoạch chi tiết của UBND thành phố.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|30/2009/QH12|Luật 30/2009/QH12|17-06-2009||
+|44/2015/NĐ-CP|Nghị định 44/2015/NĐ-CP|06-05-2015|Chính phủ|
+|37/2010/NĐ-CP|Nghị định 37/2010/NĐ-CP|07-04-2010||
+|12/2016/TT-BXD|12/2016/TT-BXD|29-06-2016|Vụ Quy hoạch - Kiến trúc|
+|50/2014/QH13|Luật|18-06-2014|Quốc Hội|
+|20/2019/TT-BXD|Thông tư 20/2019/TT-BXD|31-12-2019||
+|35/2018/QH14|Luật 35/2018/QH14|20-11-2018||
+|1167/QĐ-UBND|Về việc công bố sửa đổi, bổ sung một số thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Xây dựng thành phố Đà Nẵng|05-06-2023|Chủ tịch ủy ban nhân dân cấp tỉnh|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

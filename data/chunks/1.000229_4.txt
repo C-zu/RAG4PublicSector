@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy chứng nhận huấn luyện nghiệp vụ cán bộ quản lý an toàn công ty tàu biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc biểu mẫu điện tử giấy đề nghị theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd749c9de1ced4'">Mẫu VB đề nghị.docx</a>)
+- 01 Bản chính, 01 Bản sao - 01 ảnh mầu cỡ 4 x 6 cm của người đề nghị được cấp giấy chứng nhận huấn luyện nghiệp vụ cán bộ quản lý an toàn công ty tàu biển chụp trong thời gian không quá 06 tháng (mặt sau của ảnh có ghi họ, tên và ngày, tháng, năm sinh).

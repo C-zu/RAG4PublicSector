@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao văn bản xác nhận đăng ký tiếp cận nguồn gen được Bộ Nông nghiệp và Phát triển nông thôn cấp;
+- 01 Bản chính - Hợp đồng đã ký giữa các bên liên quan;
+- 01 Bản chính, 01 Bản sao - Xuất trình bản chính một trong các giấy tờ là hộ chiếu, chứng minh nhân dân, thẻ căn cước công dân hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người đề nghị xác nhận Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích.

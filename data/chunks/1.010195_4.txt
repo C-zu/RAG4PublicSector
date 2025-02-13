@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục cấp bản sao và chứng thực tài liệu lưu trữ (Cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ đối với cấp bản sao
+- 01 Bản chính Phiếu yêu cầu sao tài liệu (Mẫu số 08); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6e48497afb6c0'">08 Mau phieu yeu cau sao tai lieu.docx</a>)
+- 01 Bản chính Bản lưu bản sao tài liệu
+
+
+Thành phần, số lượng hồ sơ đối với cấp chứng thực lưu trữ
+- 01 Bản chính Phiếu yêu cầu chứng thực tài liệu (Mẫu số 09); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed068ec2b6c84a'">09 Mau phieu yeu cau chung thuc tai lieu (cap tinh).docx</a>)
+- 01 Bản chính Bản lưu bản chứng thực tài liệu.

@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000241
+Số quyết định:
+52/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận mức tiêu thụ nhiên liệu đối với xe ô tô con loại từ 07 chỗ trở xuống được nhập khẩu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Cơ sở nhập khẩu gửi 01 bộ hồ sơ tới Cục Đăng kiểm Việt Nam.
+b) Giải quyết TTHC:
+Cục Đăng kiểm Việt Nam kiểm tra sự phù hợp của hồ sơ, trong thời gian 07 ngày làm việc, kể từ ngày nhận hồ sơ: nếu hồ sơ đạt yêu cầu thì cấp Giấy chứng nhận mức tiêu thụ nhiên liệu của xe nhập khẩu cho kiểu loại xe đăng ký để cơ sở nhập khẩu làm căn cứ thực hiện việc dán nhãn năng lượng; nếu hồ sơ không đạt yêu cầu thì gửi thông báo các nội dung không đạt cho cơ sở nhập khẩu để khắc phục.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||trong thời gian 07 ngày làm việc, kể từ ngày nhận hồ sơ|
+|Dịch vụ bưu chính|7 Ngày làm việc||trong thời gian 07 ngày làm việc, kể từ ngày nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính bản đăng ký mức tiêu thụ nhiên liệu của kiểu loại xe theo mẫu ([mau 1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1fe8f4e09a7bc'))
+- 01 Bản chính báo cáo thử nghiệm mức tiêu thụ nhiên liệu do cơ sở thử nghiệm cấp theo mẫu đối với trường hợp thử nghiệm trong nước; hoặc bản sao báo cáo thử nghiệm mức tiêu thụ nhiên liệu do cơ sở thử nghiệm nước ngoài cấp có xác nhận của cơ sở nhập khẩu; hoặc tài liệu chứng minh mức tiêu thụ nhiên liệu, được cấp trong thời hạn không quá 03 năm (đối với các xe nhập khẩu có cùng kiểu loại với kiểu loại xe đã được kiểm tra và cấp Giấy chứng nhận mức tiêu thụ nhiên liệu còn hiệu lực thì miễn thành phần hồ sơ này). ([mẫu 2.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9213a33edaa46'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Đăng kiểm Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận mức tiêu thụ nhiên liệu của xe nhập khẩu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|43/2014/TTLT-BGTVT-BCT|Quy định về dán nhãn năng lượng đối với xe ô tô con loại từ 07 chỗ trở xuống|24-09-2014|Bộ Giao thông vận tải|
+|43/2014/TTLT-BGTVT-BCT|Quy định về dán nhãn năng lượng đối với xe ô tô con loại từ 07 chỗ trở xuống|24-09-2014|Bộ Công thương|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

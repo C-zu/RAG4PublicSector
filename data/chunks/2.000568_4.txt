@@ -1,0 +1,10 @@
+Tên thủ tục: Thay đổi, bổ sung lĩnh vực giám định của Văn phòng giám định tư pháp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn xin phép thay đổi, bổ sung lĩnh vực giám định
+- 01 Bản chính Đề án về việc thay đổi, bổ sung lĩnh vực giám định, trong đó nêu rõ điều kiện về nhân lực, cơ sở vật chất, trang thiết bị, phương tiện giám định theo quy định của Bộ, cơ quan ngang Bộ quản lý chuyên môn về lĩnh vực giám định và kế hoạch triển khai thực hiện phù hợp với việc thay đổi, bổ sung lĩnh vực giám định
+- 01 Bản sao Bản sao quyết định bổ nhiệm giám định viên tư pháp phù hợp với việc thay đổi, bổ sung lĩnh vực giám định
+- 01 Bản chính Quyết định cho phép thành lập Văn phòng giám định tư pháp đã được cấp

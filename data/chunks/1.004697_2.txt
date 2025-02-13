@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp, cấp lại giấy chứng nhận cơ sở đủ điều kiện đóng mới, cải hoán tàu cá
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+5.1. Trình tự thực hiện: 
+Bước 1. Tổ chức, cá nhân gửi hồ sơ đến Cơ quan quản lý nhà nước về thủy sản cấp tỉnh nơi có địa điểm đóng mới, cải hoán tàu cá của cơ sở;
+Trường hợp nộp hồ sơ trực tiếp: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh thông báo cho tổ chức, cá nhân biết để bổ sung.
+Bước 2. Kiểm tra điều kiện cơ sở thực tế
+Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh tổ chức kiểm tra, đánh giá điều kiện cơ sở theo Mẫu số 29 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; trường hợp kiểm tra, đánh giá tại cơ sở không đáp ứng điều kiện, cơ sở thực hiện khắc phục; sau khi khắc phục cơ sở có văn bản thông báo đến Cơ quan quản lý nhà nước về thủy sản cấp tỉnh để tổ chức kiểm tra nội dung đã khắc phục (trong trường hợp cần thiết). 
+* Trường hợp thiên tai, dịch bệnh không thể tổ chức kiểm tra, đánh giá thực tế tại cơ sở để cấp giấy phép, giấy chứng nhận, văn bản chấp thuận, kiểm tra duy trì điều kiện của cơ sở:
+- Cơ quan quản lý nhà nước về thuỷ sản cấp tỉnh áp dụng hình thức đánh giá trực tuyến khi cơ sở đáp ứng yêu cầu về nguồn lực, phương tiện kỹ thuật thực hiện; cơ sở cung cấp hồ sơ, tài liệu có liên quan bằng bản giấy hoặc bản điện tử cho cơ quan kiểm tra hoặc tạm hoãn hoặc gia hạn có thời hạn giấy phép, giấy chứng nhận, văn bản chấp thuận, thời hạn kiểm tra duy trì.
+- Tổ chức, cá nhân sản xuất, kinh doanh, tổ chức đánh giá sự phù hợp chịu trách nhiệm trước pháp luật về tính chính xác của thông tin, tài liệu, hình ảnh, hồ sơ cung cấp cho cơ quan cấp phép. Việc kiểm tra đánh giá thực tế sẽ được thực hiện sau khi các địa phương kiểm soát được thiên tai, dịch bệnh theo quy định của pháp luật; thực hiện thu hồi ngay giấy phép đối với trường hợp tổ chức, cá nhân vi phạm quy định pháp luật và xử lý vi phạm theo quy định của pháp luật.
+Bước 3. Cấp Giấy chứng nhận
+Trường hợp hồ sơ và điều kiện cơ sở đạt yêu cầu, trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra, đánh giá, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh cấp Giấy chứng nhận cơ sở đủ điều kiện đóng mới, cải hoán tàu cá theo Mẫu số 04.TC Phụ lục V ban hành kèm theo Nghị định số 26/2019/NĐ-CP; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do;

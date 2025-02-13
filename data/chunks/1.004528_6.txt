@@ -1,0 +1,34 @@
+Tên thủ tục: Thủ tục công nhận điểm du lịch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+(1) Có tài nguyên du lịch, có ranh giới xác định trên bản đồ.
+(2) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch, bao gồm:
+- Có kết nối giao thông, thông tin liên lạc thuận lợi;
+- Có điện, nước sạch;  
+- Có biển chỉ dẫn, thuyết minh về điểm du lịch;
+- Có dịch vụ ăn uống, mua sắm.
+(3) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường, bao gồm:
+- Có bộ phận bảo vệ trực 24 giờ mỗi ngày;
+- Công khai số điện thoại, địa chỉ của tổ chức, cá nhân quản lý điểm du lịch;
+- Có hình thức tiếp nhận và giải quyết kịp thời phản ánh, kiến nghị của khách du lịch; 
+- Nhà vệ sinh công cộng sạch sẽ, được thông gió và đủ ánh sáng, được bố trí đủ, tương ứng với số lượng khách du lịch vào thời kỳ cao điểm; 
+- Có biện pháp thu gom và xử lý rác thải, nước thải sinh hoạt theo quy định của pháp luật về bảo vệ môi trường; bố trí nhân lực làm vệ sinh môi trường;
+- Áp dụng các biện pháp phòng, chống cháy nổ theo quy định của pháp luật.
+(1) Có tài nguyên du lịch, có ranh giới xác định trên bản đồ.
+(2) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch, bao gồm:
+- Có kết nối giao thông, thông tin liên lạc thuận lợi;
+- Có điện, nước sạch;  
+- Có biển chỉ dẫn, thuyết minh về điểm du lịch;
+- Có dịch vụ ăn uống, mua sắm.
+(3) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường, bao gồm:
+- Có bộ phận bảo vệ trực 24 giờ mỗi ngày;
+- Công khai số điện thoại, địa chỉ của tổ chức, cá nhân quản lý điểm du lịch;
+- Có hình thức tiếp nhận và giải quyết kịp thời phản ánh, kiến nghị của khách du lịch; 
+- Nhà vệ sinh công cộng sạch sẽ, được thông gió và đủ ánh sáng, được bố trí đủ, tương ứng với số lượng khách du lịch vào thời kỳ cao điểm; 
+- Có biện pháp thu gom và xử lý rác thải, nước thải sinh hoạt theo quy định của pháp luật về bảo vệ môi trường; bố trí nhân lực làm vệ sinh môi trường;
+- Áp dụng các biện pháp phòng, chống cháy nổ theo quy định của pháp luật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

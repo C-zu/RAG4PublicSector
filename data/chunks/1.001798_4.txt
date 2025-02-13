@@ -1,0 +1,13 @@
+Tên thủ tục: Ký hợp đồng khám, chữa bệnh bảo hiểm y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Đối với cơ sở KCB lần đầu ký hợp đồng hoặc cơ sở KCB sau khi đã chấm dứt hợp đồng
+- 01 Bản chính, 01 Bản sao - Công văn đề nghị ký hợp đồng KCB BHYT của cơ sở
+- 01 Bản sao - Bản sao Giấy phép hoạt động của cơ sở KCB
+- 01 Bản chính, 01 Bản sao - Bản chụp có đóng dấu của cơ sở KCB: + Quyết định phân hạng bệnh viện của cấp có thẩm quyền (nếu có); + Danh mục dịch vụ kỹ thuật y tế, danh mục thuốc, hóa chất, vật tư y tế được cấp có thẩm quyền phê duyệt (bằng văn bản hoặc bản điện tử) + Văn bản cấp mã cơ sở KCB của Bộ Y tế + Quyết định tuyến chuyên môn kỹ thuật của cấp có thẩm quyền đối với cơ sở KCB ngoài công lập
+
+
+2. Đối với cơ sở KCB ký hợp đồng KCB BHYT hàng năm
+- 01 Bản chính, 01 Bản sao Bản chụp có đóng dấu quyết định bổ sung chức năng nhiệm vụ, phạm vi chuyên môn, hạng bệnh viện được cấp có thẩm quyền phê duyệt (nếu có).

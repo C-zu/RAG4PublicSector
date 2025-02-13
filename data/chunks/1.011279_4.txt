@@ -1,0 +1,14 @@
+Tên thủ tục: Xác nhận xe thuộc đối tượng không chịu phí sử dụng đường bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với xe kinh doanh vận tải thuộc doanh nghiệp kinh doanh vận tải tạm dừng lưu hành liên tục từ 30 ngày trở lên.
+- 03 Bản chính Đơn xin tạm dừng lưu hành theo mẫu BM.PTNL.27.01 (03 bản). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8af346c165fc0'">Dơn xin tam dưng lưu hanh.doc</a>)
+- 01 Bản sao Giấy phép kinh doanh vận tải bằng ô tô.
+
+
+Đối với xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ.
+- 03 Bản chính Đơn xin xác nhận xe ô tô không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ theo mẫu BM.PTNL.27.02 (03 bản); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda6cb9635d5730'">Dơn xác nhạn phương tien khong sử dụng he thong giao thong duong bo.doc</a>)
+- 01 Bản sao Bản sao giấy đăng ký kinh doanh hoặc giấy chứng nhận Trung tâm sát hạch lái xe đủ điều kiện hoạt động;
+- 01 Bản sao Bản sao giấy đăng ký xe (của từng xe đề nghị).

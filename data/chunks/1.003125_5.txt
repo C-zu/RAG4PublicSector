@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp giấy phép hoạt động ngân hàng mô
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động của ngân hàng mô
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|75/2006/QH11|Luật 75/2006/QH11|29-11-2006|Quốc Hội|
+|118/2016/NĐ-CP|Nghị định 118/2016/NĐ-CP-Nghị định sửa đổi, bổ sung một số điều của Nghị định số 56/2008/NĐ-CP ngày 29 tháng 4 năm 2008 của Chính phủ quy định về tổ chức, hoạt động của ngân hàng mô và Trung tâm điều phối quốc gia về ghép bộ phận cơ thể người|22-07-2016|Chính phủ|
+|155/2018/NĐ-CP|Nghị định 155/2018/NĐ-CP|12-11-2018||

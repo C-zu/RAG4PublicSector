@@ -1,0 +1,7 @@
+Tên thủ tục: Khai báo tạm trú cho người nước ngoài tại Việt Nam qua Trang thông tin điện tử
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao thực hiện khai báo theo các trường thông tin trên Trang thông tin điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.

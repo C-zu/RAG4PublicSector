@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy phép khảo nghiệm thuốc bảo vệ thực vật
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+|Trực tuyến|07 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+|Dịch vụ bưu chính|07 ngày làm việc không kể thời gian bổ sung, hoàn thiện hồ sơ||Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|

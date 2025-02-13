@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001529
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự
+Cấp thực hiện:
+Cấp Bộ, Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Mật mã dân sự
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp lập hồ sơ đề nghị cấp Giấy phép gửi Ban Cơ yếu Chính phủ thông qua Cục Quản lý mật mã dân sự và Kiểm định sản phẩm mật mã. Địa chỉ như sau:
+Số điện thoại/số fax: 04-3775.6896;
+Thư điện tử: info@nacis.gov.vn;
+Website: http://www.nacis.gov.vn.
+Bước 2: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Lệ phí : Theo quy định của Luật phí và lệ phí tại Thông tư số 249/2016/TT-BTC||
+|Trực tuyến|30 Ngày làm việc|Lệ phí : Theo quy định của Luật phí và lệ phí tại Thông tư số 249/2016/TT-BTC||
+|Dịch vụ bưu chính|30 Ngày làm việc|Lệ phí : Theo quy định của Luật phí và lệ phí tại Thông tư số 249/2016/TT-BTC||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính - Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự; ([Mẫu Đơn đề nghị Cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a9ff38a23880'))
+- 02 Bản sao - Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương;
+- 02 Bản sao - Bản sao văn bằng hoặc chứng chỉ chuyên môn về bảo mật, an toàn thông tin của đội ngũ quản lý, điều hành, kỹ thuật;
+- 02 Bản chính - Phương án kỹ thuật gồm tài liệu về đặc tính kỹ thuật, tham số kỹ thuật của sản phẩm; tiêu chuẩn, quy chuẩn kỹ thuật của sản phẩm; tiêu chuẩn, chất lượng dịch vụ; các biện pháp, giải pháp kỹ thuật; phương án bảo hành, bảo trì sản phẩm;
+- 02 Bản chính - Phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+- 02 Bản chính - Phương án kinh doanh gồm phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm, dịch vụ hệ thống phục vụ khách hàng và bảo đảm kỹ thuật.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Quản lý mật mã dân sự và Kiểm định sản phẩm mật mã/Ban Cơ yếu Chính phủ
+Cơ quan có thẩm quyền:
+Ban Cơ yếu Chính phủ
+Địa chỉ tiếp nhận HS:
+Số 43 Ngụy Như Kon Tum, phường Nhân Chính, quận Thanh Xuân, TP. Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự (Mẫu số 03).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2016/NĐ-CP|Nghị định 58/2016/NĐ-CP|01-07-2016|Chính phủ|
+|86/2015/QH13|LUẬT AN TOÀN THÔNG TIN MẠNG 2015|19-11-2015|Văn phòng Quốc hội|
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
+-	Có ít nhất 02 cán bộ kỹ thuật có trình độ đại học trở lên thuộc một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin; cán bộ quản lý, điều hành tốt nghiệp một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin hoặc tốt nghiệp một ngành khác và có chứng chỉ đào tạo về an toàn thông tin;
+-	Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có phương án kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật;
+-	Có phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có hệ thống phục vụ khách hàng và bảo đảm kỹ thuật phù hợp với phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm.
+Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự khi đáp ứng đủ các điều kiện sau đây:
+-	Có ít nhất 02 cán bộ kỹ thuật có trình độ đại học trở lên thuộc một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin; cán bộ quản lý, điều hành tốt nghiệp một trong các ngành điện tử - viễn thông, công nghệ thông tin, toán học, an toàn thông tin hoặc tốt nghiệp một ngành khác và có chứng chỉ đào tạo về an toàn thông tin;
+-	Có hệ thống trang thiết bị, cơ sở vật chất phù hợp với quy mô cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có phương án kỹ thuật phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật;
+-	Có phương án bảo mật và an toàn thông tin mạng trong quá trình quản lý và cung cấp sản phẩm, dịch vụ mật mã dân sự;
+-	Có hệ thống phục vụ khách hàng và bảo đảm kỹ thuật phù hợp với phạm vi, đối tượng cung cấp, quy mô số lượng sản phẩm.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

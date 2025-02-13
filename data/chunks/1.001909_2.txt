@@ -1,0 +1,10 @@
+Tên thủ tục: Thanh toán chi phí khám, chữa bệnh bảo hiểm y tế với cơ sở khám chữa bệnh bảo hiểm y tế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Lập, nộp hồ sơ
+- Trong thời hạn 7 ngày làm việc (kể từ ngày kết thúc việc KCB đối với người bệnh) cơ sở KCB BHYT phải gửi dữ liệu điện tử lên Cổng Thông tin giám định BHYT, dữ liệu phát sinh vào những ngày cuối của tháng hoặc của quý hoặc của năm đến Cổng Thông tin giám định BHYT trước ngày mùng 5 của tháng kế tiếp.
+- Trong thời gian 15 ngày đầu mỗi tháng, cơ sở KCB BHYT lập bảng Tổng hợp chi phí khám bệnh, chữa bệnh của người tham gia BHYT (mẫu C79-HD) tháng trước và gửi cho cơ quan BHXH.
+- Trong thời hạn 15 ngày đầu mỗi quý, cơ sở KCB BHYT gửi Báo cáo quyết toán chi phí khám bệnh, chữa bệnh BHYT của quý trước cho cơ quan BHXH.
+Bước 2.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.

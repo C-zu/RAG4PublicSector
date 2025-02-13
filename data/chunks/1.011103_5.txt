@@ -1,0 +1,27 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh (SCT)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Công Thương - Tỉnh Hà Tĩnh, Sở Xây dựng Hà Tĩnh
+Cơ quan có thẩm quyền:
+Sở Công Thương - Tỉnh Hà Tĩnh, Sở Xây dựng Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh ; Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Hà Tĩnh: http://dichvucong.hatinh.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ đủ điều kiện: Văn bản thông báo kết quả thẩm định Thiết kế xây dựng triển khai sau thiết kế cơ sở/ Thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh kèm theo hồ sơ thiết kế đã thẩm định có đóng dấu thẩm định của cơ quan chuyên môn về xây dựng., Hồ sơ không đủ điều kiện: Văn bản thông báo không đủ điều kiện thẩm định.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2021/QĐ-UBND|Quyết định số 28/2021/QĐ-UBND|18-06-2021|UBND tỉnh Thái Nguyên|
+|50/2014/QH13|Luật 50/2014/QH13|18-06-2014||
+|15/2021/NĐ-CP|Nghị định 15/2021/NĐ-CP|03-03-2021||
+|62/2020/QH14|Luật sửa đổi, bổ sung một số điều của Luật Xây dựng năm 2020|17-06-2020||
+|35/2023/NĐ-CP|Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng|20-06-2023|Chính phủ|
+|15/2021/NĐ-CP|Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|27/2023/TT-BTC|Thông tư số 27/2023/TT-BTC ngày 12/5/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định thiết kế kỹ thuật, phí thẩm định dự toán xây dựng|12-05-2023||

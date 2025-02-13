@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận giáo viên dạy thực hành lái xe (trường hợp bị mất, bị hỏng, có sự thay đổi liên quan đến nội dung của Giấy chứng nhận giáo viên dạy thực hành lái xe)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày đạt kết quả kiểm tra.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày đạt kết quả kiểm tra.|

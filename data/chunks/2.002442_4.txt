@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn giấy phép sử dụng tạm thời một phần hè phố, lòng đường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy phép sử dụng tạm thời một phần vỉa hè, lòng đường của tổ chức, cá nhân trong đó giải trình rõ lý do đề nghị gia hạn theo mẫu BM.HTKT.02.01. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb83f5b8ecc58d8'">BM.HTKT.02.01.docx</a>)
+- 01 Bản chính Giấy phép đã được cấp.

@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009821
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Gia hạn hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nước ngoài tại Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Bước 1: Tối thiểu 30 ngày trước ngày Giấy chứng nhận đăng ký hoạt động văn phòng đại diện hết hiệu lực,công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nước ngoài tại Việt Nam gửi hồ sơ gia hạn hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp, hồ sơ chưa đầy đủ, hợp lệ, UBCKNN yêu cầu Công ty bổ sung hồ sơ. Trong thời hạn 60 (sáu mươi) ngày kể từ ngày UBCKNN tiếp nhận hồ sơ, tài liệu báo cáo có yêu cầu sửa đổi, bổ sung hồ sơ, tài liệu báo cáo theo quy định tại khoản 5 Điều 6 Nghị định số 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ, tổ chức, cá nhân phải hoàn thiện hồ sơ, tài liệu báo cáo theo yêu cầu.
+Bước 4:  Trong thời hạn 07 (bẩy) ngày  kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện; trường hợp từ chối, có văn bản trả lời trong đó nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Lệ phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb40af2f96d10f8')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Trực tuyến|07 Ngày làm việc|Lệ phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb40af2f96d10f8')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|07 Ngày làm việc|Lệ phí : Thông tư 272/2016/TT-BTC Đồng  [272-2016-TT-BTC.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb40af2f96d10f8')|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ và hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Giấy đề nghị (Mẫu số 69). + Quyết định của cấp có thẩm quyền theo Điều lệ thông qua việc gia hạn hoạt động văn phòng đại diện. Trường hợp có sự thay đổi liên quan đến các nội dung tại Giấy chứng nhận đăng ký hoạt động văn phòng đại diện, tài liệu bao gồm: + Giấy đề nghị theo Mẫu số 64 ban hành kèm theo Nghị định 155/2020/NĐ-CP + Quyết định của cấp có thẩm quyền theo điều lệ về nội dung thay đổi + Danh sách nhân sự kèm theo bản thông tin cá nhân theo (Mẫu số 66) + Hợp đồng thuê trụ sở, giấy tờ chứng minh quyền sử dụng trụ sở. + Điều lệ của tổ chức kinh doanh chứng khoán nước ngoài + Văn bản chấp thuận của cơ quan, tổ chức có thẩm quyền của nước ngoài nơi tổ chức kinh doanh chứng khoán có trụ sở chính (nếu có). + Giấy phép thành lập và hoạt động của tổ chức kinh doanh chứng khoán nước ngoài hoặc các văn bản tương đương do cơ quan có thẩm quyền của nước nguyên xứ cấp. + Báo cáo tài chính năm gần nhất của tổ chức kinh doanh chứng khoán nước ngoài được kiểm toán. Tổ chức kinh doanh chứng khoán nước ngoài là công ty mẹ phải bổ sung báo cáo tài chính hợp nhất được kiểm toán. + Danh sách các quỹ đầu tư, danh mục đầu tư tại Việt Nam có xác nhận của Ngân hàng lưu ký; Giấy chứng nhận đăng ký mã số giao dịch của các quỹ đầu tư tại Việt Nam đối với trường hợp tổ chức kinh doanh chứng khoán nước ngoài đang đầu tư tại Việt Nam.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận 1 cửa Ủy ban Chứng khoán Nhà nước
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động văn phòng đại diện; hoặc văn bản từ chối có nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
++ Công ty chứng khoán, Công ty quản lý quỹ nước ngoài được lập văn phòng đại diện tại Việt Nam khi đáp ứng các điều kiện sau đây:
+o	Được cấp phép và đang hoạt động hợp pháp tại nước nguyên xứ
+o	Cơ quan cấp phép của nước nguyên xứ và UBCKNN đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán hoặc công ty chứng khoán, công ty quản lý quỹ nước ngoài đang quản lý các quỹ đang đầu tư tại Việt Nam; thời hạn hoạt động còn lại (nếu có) tối thiểu là 01 năm.
++ Công ty chứng khoán, Công ty quản lý quỹ nước ngoài được lập văn phòng đại diện tại Việt Nam khi đáp ứng các điều kiện sau đây:
+o	Được cấp phép và đang hoạt động hợp pháp tại nước nguyên xứ
+o	Cơ quan cấp phép của nước nguyên xứ và UBCKNN đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán hoặc công ty chứng khoán, công ty quản lý quỹ nước ngoài đang quản lý các quỹ đang đầu tư tại Việt Nam; thời hạn hoạt động còn lại (nếu có) tối thiểu là 01 năm.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

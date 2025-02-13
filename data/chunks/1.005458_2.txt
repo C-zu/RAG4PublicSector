@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục huỷ tờ khai hải quan
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Người khai hải quan đề nghị được phép hủy tờ khai hải quan đã đăng ký;
++ Bước 2: Cơ quan hải quan xem xét việc hủy tờ khai hải quan đã đăng ký;

@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động khi thay đổi nội dung trong giấy chứng nhận đủ điều kiện kiểm định kỹ thuật an toàn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị cấp lại giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee5c2b6c896140'">Mẫu 11.doc</a>)
+- 01 Bản chính Bản gốc giấy chứng nhận đã được cấp trong trường hợp bị rách, nát.
+- 01 Bản chính Tài liệu chứng minh yêu cầu thay đổi nội dung trong giấy chứng nhận.

@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp mới giấy chứng nhận cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học cấp III
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phương án phòng ngừa, xử lý sự cố an toàn sinh học (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcab05c2b623ac'">phụ lục (4).docx</a>)
+- 01 Bản chính Đơn đề nghị cấp mới giấy chứng nhận an toàn sinh học theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 103/2016/NĐ- CP ngày 01/7/2016. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda5d083df6d8b8'">phụ lục.docx</a>)
+- 01 Bản chính Bản kê khai nhân sự theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcec3df2b944eec'">phụ lục (1).docx</a>)
+- 01 Bản chính Bản kê khai trang thiết bị theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 103/2016/NĐ-CP ngày 01/7/2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2ea2cec1e92d0'">phụ lục (2).docx</a>)
+- 01 Bản chính Sơ đồ mặt bằng của cơ sở xét nghiệm, gồm: khu vực xét nghiệm; hệ thống cửa sổ, cửa ra vào; hệ thống điện; hệ thống cấp, thoát nước; bố trí các thiết bị phòng, chốngcháy nổ.
+- 01 Bản chính Báo cáo bảo trì, bảo dưỡng đối với các thiết bị xét nghiệm đối với cơ sở xét nghiệm đang hoạt động trước ngày Nghị định số 103/2016/NĐ-CP ngày 01/7/2016 có hiệu lực thi hành. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb8e16eef220f00'">phụ lục (3).docx</a>)

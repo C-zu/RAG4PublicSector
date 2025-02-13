@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||- Thời hạn giải quyết: 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ;|
+|Trực tiếp|15 Ngày làm việc||Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau có nội dung phức tạp cần mời chuyên gia hoặc thành lập hội đồng tư vấn thẩm định, đánh giá, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||- Nộp hồ sơ trực tuyến; - Thời hạn giải quyết: 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ;|
+|Trực tuyến|15 Ngày làm việc||Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau có nội dung phức tạp cần mời chuyên gia hoặc thành lập hội đồng tư vấn thẩm định, đánh giá, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Thời hạn giải quyết: 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ;|
+|Dịch vụ bưu chính|15 Ngày làm việc||Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau có nội dung phức tạp cần mời chuyên gia hoặc thành lập hội đồng tư vấn thẩm định, đánh giá, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

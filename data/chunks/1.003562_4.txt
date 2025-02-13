@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục cấp giấy phép thành lập và công nhận điều lệ Quỹ.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thành lập quỹ (theo mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe964f9d5720f74'">Mẫu 1.1 - Đơn đề nghị cấp giấy phép thành lập và công nhận Điều lệ quỹ_PL1.docx</a>)
+- 01 Bản chính Dự thảo điều lệ quỹ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9406f69944a68'">Mẫu 1.3 - Điều lệ mẫu của quỹ từ thiện_PL1.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd85b08f30ea3ce'">Mẫu 1.2 - Điều lệ mẫu của quỹ xã hội_PL1.docx</a>)
+- 01 Bản chính Bản cam kết đóng góp tài sản thành lập quỹ của các sáng lập viên;
+- 01 Bản chính Tài liệu chứng minh tài sản đóng góp để thành lập quỹ;
+- 01 Bản chính Sơ yếu lý lịch, phiếu lý lịch tư pháp của các thành viên ban sáng lập quỹ, sáng lập viên thành lập quỹ, nếu thành viên ban sáng lập quỹ và sáng lập viên thành lập quỹ thuộc diện quản lý của cơ quan có thẩm quyền thì phải được sự đồng ý bằng văn bản của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ;
+- 01 Bản chính Văn bản bầu các chức danh sáng lập quỹ; văn bản xác nhận trụ sở;
+- 01 Bản chính Bản sao di chúc có chứng thực; Hợp đồng ủy quyền có công chứng (nếu có);

@@ -1,0 +1,45 @@
+Tên thủ tục: Cấp lại, đổi, điều chỉnh thông tin trên sổ BHXH, thẻ BHYT
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Sổ BHXH, thẻ BHYT, Sổ BHXH, Thẻ BHYT
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2016/TT-BLĐTBXH|Thông tư 01/2016/TT-BLĐTBXH|18-02-2016|Bộ Lao động - Thương binh và Xã hội|
+|58/2014/QH13|Luật 58/2014/QH13 - Bảo hiểm xã hội|20-11-2014|Quốc Hội|
+|115/2015/NĐ-CP|Nghị định 115/2015/NĐ-CP - Quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc|11-11-2015|Chính phủ|
+|123/2015/NĐ-CP|Nghị định 123/2015/NĐ-CP - Quy định chi tiết một số điều và biện pháp thi hành Luật Hộ tịch|15-11-2015|Chính phủ|
+|134/2015/NĐ-CP|Nghị định 134/2015/NĐ-CP - Quy định chi tiết một số điều của luật bảo hiểm xã hội về bảo hiểm xã hội tự nguyện|29-12-2015|Bộ Lao động - Thương binh và Xã hội|
+|38/2013/QH13|Luật 38/2013/QH13 - Việc làm|16-11-2013|Quốc Hội|
+|28/2015/NĐ-CP|Nghị định 28/2015/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp|12-03-2015|Chính phủ|
+|28/2015/TT-BLĐTBXH|Thông tư 28/2015/TT-BLĐTBXH - Hướng dẫn thực hiện Điều 52 của Luật Việc làm và một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp|31-07-2015|Bộ Lao động - Thương binh và Xã hội|
+|25/2008/QH12|Luật 25/2008/QH12 - Bảo hiểm y tế|14-11-2008|Quốc Hội|
+|01/2013/TT-BVHTTDL|01/2013/TT-BVHTTDL|02-01-2013||
+|888/QĐ-BHXH|Sửa đổi, bổ sung một số điều Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiệm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/04/2017 của Tổng Giám đốc Bảo hiểm Xã hội Việt Nam|16-07-2018|Bảo hiểm xã hội Việt Nam|
+|838/QĐ-BHXH|ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp|29-05-2017|Bảo hiểm xã hội Việt Nam|
+|46/2014/QH13|Luật 46/2014/QH13|13-06-2014||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+|01/2019/TT-BLĐTBXH|Thông tư 01/2019/TT-BLĐTBXH|02-01-2019||
+|18/2009/TTLT/BGDĐT-BTC-BLĐTBXH|Thông tư liên tịch 18/2009/TTLT/BGDĐT-BTC-BLĐTBXH|03-08-2009||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+|13/TT-NV|BỘ NỘI VỤ SỐ 13/NV NGÀY 4 THÁNG 9 NĂM 1972|04-09-1972|Bộ Nội vụ|
+|250/QĐ - TTg|Quyết định số 250/QĐ-TTg Giải quyết chế độ, chính sách|29-01-2013|Thủ tướng Chính phủ|
+|4533/BHXH-CSXH|4533/BHXH-CSXH Hướng dẫn thực hiện Quyết định số 250/QĐ-TTg của Thủ tướng Chính phủ|14-11-2013|Bảo hiểm xã hội Việt Nam|
+|104/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của các nghị định liên quan đến việc nộp, xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công|21-12-2022|Chính phủ|
+|490/QĐ-BHXH|Quyết định số 490/QĐ-BHXH ngày 28 tháng 3 năm 2023 Tổng Giám đốc Bảo hiểm xã hội Việt Nam về sửa đổi, bổ sung một số điều của Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14 tháng 4 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam và sửa đổi, bổ sung Điều 1 của Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam|28-03-2023|Bảo hiểm xã hội Việt Nam|
+|2754/BHXH-CSXH|Cấp thẻ BHYT đối với người đang hưởng BHXH hằng tháng đề nghị cập nhật thông tin nhân thân theo căn cước công dân|05-09-2023||
+|13-TB/TW|Kết luật của Ban Bí thư về xác định tuổi của đảng viên|17-08-2016||
+|948/QĐ-BHXH|Quyết định sửa đổi, bổ sung một số điều quy trình thu BHXH, BHYT, BHTN, BHTNLĐ - BNN; Quản lý sổ BHXH, thẻ BHYT ban hành kèm Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 490/QĐ-BHXH ngày 28/3/2023 của Tổng Giám đốc BHXH Việt Nam|05-06-2023|Bảo hiểm xã hội Việt Nam|

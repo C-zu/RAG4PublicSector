@@ -1,0 +1,17 @@
+Tên thủ tục: Giải quyết hưởng chế độ tai nạn lao động, bệnh nghề nghiệp đối với người lao động đã bị tai nạn lao động, bệnh nghề nghiệp, nay tiếp tục bị tai nạn lao động hoặc bệnh nghề nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp không quy định là bản chính thì có thể nộp bản chính hoặc bản sao hợp lệ
+- 01 Bản chính 1. Bản chính Văn bản đề nghị giải quyết chế độ TNLĐ, BNN (mẫu số 05A-HSB) đối với lần bị TNLĐ, BNN sau cùng; trường hợp lần bị TNLĐ, BNN trước đó tại đơn vị SDLĐ khác nhưng chưa được giải quyết chế độ thì có thêm bản chính văn bản đề nghị giải quyết của đơn vị SDLĐ nơi xảy ra TNLĐ, BNN (mẫu số 05A-HSB). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe234d6b6cf66cd'">05A_HSB.docx</a>)
+- 01 Bản sao 2. Bản sao Giấy ra viện hoặc trích sao hồ sơ bệnh án sau khi đã điều trị TNLĐ, BNN của lần điều trị nội trú sau cùng.
+- 01 Bản chính, 01 Bản sao 3. Trường hợp bị TNLĐ, BNN điều trị xong, ra viện trước ngày 01 tháng 7 năm 2016 mà chưa được giám định mức suy giảm KNLĐ: - Đối với TNLĐ: Biên bản điều tra TNLĐ; nếu bị TNGT được xác định là TNLĐ thì có thêm một trong các giấy tờ sau: Bản sao Biên bản khám nghiệm hiện trường, sơ đồ hiện trường vụ TNGT hoặc bản sao biên bản TNGT của cơ quan công an hoặc cơ quan điều tra hình sự quân đội. - Đối với BNN: Kết quả đo đạc, quan trắc môi trường lao động.
+- 01 Bản chính 4. Trường hợp đang hưởng trợ cấp TNLĐ, BNN trước ngày 1/1/2007 đã được trang cấp PTTGSH nay đề nghị trang cấp tiếp: Hóa đơn, chứng từ mua các phương tiện được trang cấp; vé tàu xe đi lại để làm hoặc nhận phương tiện trang cấp (nếu có).
+- 01 Bản chính 5. Biên bản giám định tổng hợp mức suy giảm KNLĐ của Hội đồng GĐYK; trường hợp lần bị TNLĐ, BNN trước đã được giám định mức suy giảm KNLĐ nhưng không đủ điều kiện hưởng trợ cấp thì có thêm Biên bản giám định mức suy giảm KNLĐ của lần giám định đó.
+- 01 Bản chính 6. Chỉ định của cơ sở KCB, cơ sở chỉnh hình, phục hồi chức năng theo quy định về việc trang cấp PTTGSH (nếu có).
+- 01 Bản chính 7. Hóa đơn, chứng từ thu phí giám định kèm theo bảng kê các nội dung giám định của cơ sở thực hiện GĐYK (Trường hợp thanh toán phí GĐYK).
+
+
+Bao gồm
+- 01 Bản sao Trường hợp không quy định là bản chính thì có thể nộp bản chính hoặc bản sao hợp lệ

@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục xóa đăng ký cho thuê, cho thuê lại, góp vốn bằng quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trực tiếp
+a) Một trong các bên hoặc các bên ký hợp đồng thuê, thuê lại, hợp đồng góp vốn quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất nộp hồ sơ tại Văn phòng đăng ký quyền sử dụng đất thuộc Phòng Tài nguyên và Môi trường hoặc cơ quan tiếp nhận hồ sơ theo quy định của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
+Hộ gia đình, cá nhân, cộng đồng dân cư nộp hồ sơ tại Ủy ban nhân dân cấp xã nếu có nhu cầu.
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định.
+b) Cơ quan tiếp nhận hồ sơ ghi đầy đủ thông tin vào Sổ tiếp nhận hồ sơ và trả kết quả, trao Phiếu tiếp nhận hồ sơ và trả kết quả cho người nộp hồ sơ.
+Trường hợp nộp hồ sở tại Ủy ban nhân dân cấp xã thì trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ủy ban nhân dân cấp xã phải chuyển hồ sơ đến Văn phòng đăng ký quyền sử dụng đất.
+c) Văn phòng đăng ký quyền sử dụng đất có trách nhiệm kiểm tra hồ sơ, nếu phù hợp quy định của pháp luật thì thực hiện các công việc sau:
+- Xác nhận việc xóa cho thuê, cho thuê lại, xóa góp vốn vào Giấy chứng nhận theo quy định và trao cho bên cho thuê, cho thuê lại, bên góp vốn. Trường hợp cho thuê, cho thuê lại đất trong khu công nghiệp và trường hợp góp vốn bằng quyền sử dụng đất mà đã cấp Giấy chứng nhận cho bên thuê, thuê lại đất, bên nhận góp vốn thì thu hồi Giấy chứng nhận đã cấp; bên góp vốn được cấp lại Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.
+Trường hợp thời điểm hết thời hạn sử dụng đất trùng với thời điểm xóa cho thuê, cho thuê lại đất, xóa góp vốn bằng quyền sử dụng đất nếu người sử dụng đất không có nhu cầu tiếp tục sử dụng đất hoặc không được cơ quan nhà nước có tham quyền gia hạn sử dụng đất thì thu hồi Giấy chứng nhận đã cấp
+- Thực hiện việc xóa đăng ký cho thuê, cho thuê lại, xóa góp vốn vào hồ sơ địa chính, cơ sở dữ liệu đất đai.
+- Trao Giấy chứng nhận cho người đăng ký hoặc gửi Ủy ban nhân dân cấp xã để trao đối với trường hợp nộp hồ sơ tại cấp xã.
+Thực hiện thủ tục trên môi trường điện tử
+Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do.
+Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công.
+Cơ quan tiếp nhận hoặc cơ quan giải quyết hồ sơ thông báo cho người yêu cầu thực hiện thủ tục hành chính nộp bản chính Giấy chứng nhận đã cấp, các giấy tờ theo quy định sau khi người sử dụng đất hoàn thành nghĩa vụ tài chính.
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất.

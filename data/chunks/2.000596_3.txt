@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đăng ký tham gia trợ giúp pháp lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|7 Ngày||07 ngày kể từ ngày nhận được hồ sơ đăng ký hợp lệ.|
+|Dịch vụ bưu chính|7 Ngày||07 ngày kể từ ngày nhận được hồ sơ đăng ký hợp lệ.|

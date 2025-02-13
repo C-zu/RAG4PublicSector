@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy phép xây dựng mới công trình cấp đặc biệt (bao gồm giấy phép xây dựng mới, giấy phép sửa chữa, cải tạo, giấy phép di dời công trình)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày||- Không quá 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|

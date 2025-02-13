@@ -1,0 +1,24 @@
+Tên thủ tục: Thay đổi, bổ sung phạm vi chỉ định cơ sở kiểm nghiệm phục vụ quản lý nhà nước
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Yêu cầu về pháp nhân:
+Được thành lập theo quy định của pháp luật; có chức năng kiểm nghiệm thực phẩm hoặc Quyết định giao nhiệm vụ của cơ quan có thẩm quyền.
+- Yêu cầu về năng lực:  Các chỉ tiêu đăng ký chỉ định phải đáp ứng
+(1). Hệ thống quản lý chất lượng đáp ứng Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005;
+(2). Có đủ trang thiết bị, cơ sở vật chất phù hợp với yêu cầu kiểm nghiệm và lĩnh vực đăng ký chỉ định;
+(3). Có ít nhất hai (02) kiểm nghiệm viên là cán bộ kỹ thuật có trình độ đại học phù hợp với lĩnh vực đăng ký chỉ định và có kinh nghiệm thực tế về kiểm nghiệm trong cùng lĩnh vực từ ba (03) năm trở lên;
+(4). Các phương pháp thử được cập nhật và xác nhận giá trị sử dụng, năng lực phân tích/kiểm nghiệm các chỉ tiêu/phép thử đăng ký chỉ định đáp ứng quy định hoặc quy chuẩn kỹ thuật tương ứng và các yêu cầu khác có liên quan theo quy định của Bộ quản lý ngành;
+(5). Kết quả thử nghiệm thành thạo hoặc so sánh liên phòng đạt yêu cầu đối với ít nhất một chỉ tiêu/phép thử đăng ký chỉ định.
+- Yêu cầu về pháp nhân:
+Được thành lập theo quy định của pháp luật; có chức năng kiểm nghiệm thực phẩm hoặc Quyết định giao nhiệm vụ của cơ quan có thẩm quyền.
+- Yêu cầu về năng lực:  Các chỉ tiêu đăng ký chỉ định phải đáp ứng
+(1). Hệ thống quản lý chất lượng đáp ứng Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005;
+(2). Có đủ trang thiết bị, cơ sở vật chất phù hợp với yêu cầu kiểm nghiệm và lĩnh vực đăng ký chỉ định;
+(3). Có ít nhất hai (02) kiểm nghiệm viên là cán bộ kỹ thuật có trình độ đại học phù hợp với lĩnh vực đăng ký chỉ định và có kinh nghiệm thực tế về kiểm nghiệm trong cùng lĩnh vực từ ba (03) năm trở lên;
+(4). Các phương pháp thử được cập nhật và xác nhận giá trị sử dụng, năng lực phân tích/kiểm nghiệm các chỉ tiêu/phép thử đăng ký chỉ định đáp ứng quy định hoặc quy chuẩn kỹ thuật tương ứng và các yêu cầu khác có liên quan theo quy định của Bộ quản lý ngành;
+(5). Kết quả thử nghiệm thành thạo hoặc so sánh liên phòng đạt yêu cầu đối với ít nhất một chỉ tiêu/phép thử đăng ký chỉ định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

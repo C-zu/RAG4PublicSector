@@ -1,0 +1,11 @@
+Tên thủ tục: Chấp thuận chủ trương kết nối các tuyến đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chấp thuận chủ trương kết nối theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfc471cf0c6ca4'">10-Mẫu VB đề nghị .doc</a>)
+- 01 Bản chính Quy hoạch xây dựng tuyến đường sắt đô thị, đường sắt chuyên dùng đề nghị kết nối được cấp có thẩm quyền phê duyệt
+- 01 Bản chính Bình đồ khu vực kết nối
+- 01 Bản chính Bình diện, trắc dọc đường sắt khu vực kết nối
+- 01 Bản chính Phương án kỹ thuật kết nối: đường sắt; hệ thống thông tin, tín hiệu đường sắt tại khu vực kết nối; trung tâm Điều hành giao thông vận tải; đấu nối không gian và đấu nối kỹ thuật với các công trình liên quan tại vị trí kết nối

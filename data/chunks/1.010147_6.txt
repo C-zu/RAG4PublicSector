@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh dự án đầu tư theo bản án, quyết định của tòa án, trọng tài - BQL
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Có bản án, quyết định có hiệu lực của tòa án, trọng tài.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

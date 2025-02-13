@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Đổi hoặc cấp lại bằng Tổ quốc ghi công
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Tổ chức nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc UBND cấp huyện.|

@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010917
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Cấp lại giấy chứng nhận đăng ký, biển số xe mô tô, xe gắn máy (kể cả xe máy điện) tại Công an cấp xã được phân cấp đăng ký xe
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe điện tử (theo mẫu số 01A/58) và nhận mã số thứ tự, lịch hẹn giải quyết hồ sơ qua địa chỉ thư điện tử hoặc qua tin nhắn điện thoại để làm thủ tục đăng ký xe tại cơ quan đăng ký xe Công an cấp xã. Trường hợp trực tiếp đến cơ quan đăng ký xe kê khai giấy khai đăng ký xe (mẫu số 01).
+Bước 2: Cấp lại giấy chứng nhận đăng ký xe, biển số xe. 
+Nộp hồ sơ đề nghị tại bộ phận tiếp nhận và trả kết quả tại Công an cấp xã được phân cấp đăng ký xe.
+Cán bộ tiếp nhận kiểm tra giấy tờ của chủ xe, giấy chứng nhận đăng ký xe hoặc biển số xe (nếu có).
+Trường hợp chủ xe khai đăng ký xe trực tuyến trên Cổng Dịch vụ công quốc gia. Dữ liệu điện tử giấy khai đăng ký xe trực tuyến sẽ được Cổng Dịch vụ công quốc gia truyền về hệ thống đăng ký xe của Cục Cảnh sát giao thông, hệ thống tự động ra thông báo cho chủ xe. Chủ xe mang xe, hồ sơ xe đến cơ quan đăng ký xe để thực hiện đăng ký xe theo quy định. Các thông tin trong Giấy khai đăng ký xe trực tuyến do chủ xe kê khai, bao gồm dữ liệu điện tử về lệ phí trước bạ (nếu có), chứng từ chuyển quyền sở hữu (nếu có). 
+Bước 3: Cán bộ tiếp nhận kiểm tra giấy tờ của chủ xe, giấy khai đăng ký xe.
+Trường hợp mất giấy chứng nhận đăng ký xe, biển số xe: Lập 02 bản thông báo ghi rõ họ tên, địa chỉ chủ xe, biển số xe, số máy, số khung, nhãn hiệu, số loại, loại xe (01 bản niêm yết công khai tại trụ sở, 01 bản lưu trong hồ sơ xe).
+Nếu hồ sơ đăng ký xe không đảm bảo thủ tục theo quy định thì hướng dẫn cụ thể, đầy đủ một lần cho chủ xe hoàn thiện hồ sơ theo quy định.
+Bước 4: Tìm kiếm xe trên hệ thống đăng ký, quản lý, kiểm tra đối chiếu kê khai của chủ xe. Hồ sơ đăng ký xe đầy đủ theo quy định: Cấp giấy hẹn cho chủ xe theo quy định.
+Bước 5: Thu lệ phí cấp đăng ký, biển số xe theo quy định.
+Bước 6: Thu giấy hẹn, trả giấy chứng nhận đăng ký xe, biển số xe cho chủ xe.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Trực tiếp tại trụ sở Công an cấp xã được phân cấp đăng ký xe. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). + Cấp ngay biển số sau khi tiếp nhận đủ hồ sơ hợp lệ; trường hợp phải chờ sản xuất biển số thì thời gian cấp, đổi lại không quá 7 ngày làm việc kể, từ ngày nhận đủ hồ sơ hợp lệ. + Trường hợp cấp lại giấy chứng nhận đăng ký xe bị mất thì niêm yết công khai, thông báo việc mất giấy chứng nhận đăng ký xe, sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết cấp lại giấy chứng nhận đăng ký xe và cấp lại biển số xe không quá 07 ngày kể từ ngày hết thời hạn niêm yết.|
+|Trực tuyến|30 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp Giấy khai đăng ký xe trên Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy khai đăng ký xe (Mẫu số 01 ban hành kèm theo Thông tư số 58/2020/TT-BCA) ([Mẫu số 1 Giay khai đăng ký xe.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5e0f72270996c'))
+- 01 Bản chính Giấy tờ của chủ xe theo quy định
+- 01 Bản chính Giấy chứng nhận đăng ký xe (trừ trường hợp cấp lại giấy chứng nhận đăng ký xe bị mất).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an Xã
+Cơ quan có thẩm quyền:
+Công an Xã
+Địa chỉ tiếp nhận HS:
+Công an cấp xã; Cổng Dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe, Biển số xe
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư số 229/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ|11-11-2016||
+|23/2008/QH12|Luật Giao thông|13-11-2008|Quốc Hội|
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Thực hiện tại Công an cấp xã có số lượng trung bình 03 năm liền kề gần nhất, đã đăng ký mới từ 250 xe mô tô, xe gắn máy (kể cả xe máy điện) trở lên trong 01 năm của cơ quan, tổ chức, cá nhân có trụ sở hoặc nơi thường trú tại địa bàn cấp xã (trừ các quận, thành phố thuộc thành phố trực thuộc trung ương; các thành phố thuộc tỉnh nơi Phòng Cảnh sát giao thông đặt trụ sở và cấp xã nơi Công an cấp huyện đặt trụ sở) và đảm bảo các điều kiện cơ sở vật chất, nhân lực theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,20 @@
+Tên thủ tục: Đánh giá nghiệm thu kết quả đề tài khoa học và công nghệ, dự án sản xuất thử nghiệm cấp bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính Công văn đề nghị nghiệm thu đề tài, dự án của tổ chức chủ trì
+- 01 Bản chính Báo cáo tự đánh giá kết quả thực hiện đề tài, dự án theo mẫu
+- 01 Bản chính Báo cáo tổng kết theo mẫu
+- 01 Bản chính Báo cáo tóm tắt theo mẫu
+- 01 Bản chính Các sản phẩm khoa học của đề tài, dự án
+- 01 Bản chính Các văn bản liên quan gồm: báo cáo thống kê theo mẫu; báo cáo kinh phí đề tài, dự án theo mẫu; biên bản kiểm tra; báo cáo chuyên đề, kỹ thuật (nếu có); báo cáo định kỳ; hợp đồng nghiên cứu khoa học và phát triển công nghệ; thuyết minh tổng thể đề tài, dự án; số liệu gốc, nhật ký thí nghiệm, báo cáo khảo sát nước ngoài (nếu có), nhận xét doanh nghiệp/địa phương (nếu có)
+
+
+Trường hợp 2
+- 01 Bản chính Báo cáo tự đánh giá kết quả thực hiện đề tài, dự ántheo mẫu B15.BCTĐG-BNN tại Phụ lục của Thông tư số 18/2015/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc792803529d8c4'">Mẫu B15.docx</a>)
+- 01 Bản chính Báo cáo tổng kết theo mẫu B16.BCTK-BNN tại Phụ lục của Thông tư số 18/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca6bd708a0f778'">Mẫu B16.docx</a>)
+- 01 Bản chính Báo cáo tóm tắt theo mẫu B17.BCTT-BNN tại Phụ lục của Thông tư số 18/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3a882e12f4770'">Mẫu B17.docx</a>)
+- 01 Bản chính Báo cáo thống kê theo mẫu B18.BCTKE-BNN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed2a0e66711644'">Mẫu B18.docx</a>)
+- 01 Bản chính Báo cáo kinh phí đề tài, dự án theo mẫu B19. BCKP-BNN tại Phụ lục của Thông tư số 18/2015/TT-BNNPTNT) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2a237c3040d11'">Mẫu B19.docx</a>)

@@ -1,0 +1,29 @@
+Tên thủ tục: Thủ tục Gia hạn Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng không Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|193/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không|08-11-2016|Bộ Tài chính|
+|01/2011/TT-BGTVT|Ban hành Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay|27-01-2011|Bộ Giao thông vận tải|
+|03/2016/TT-BGTVT|Sửa đổi, bổ sung một số điều của Thông tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 của Bộ trưởng Bộ Giao thông vận tải ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay|31-03-2016|Bộ Giao thông vận tải|
+|56/2018/TT-BGTVT|Thông tư sửa đổi, bổ sung một số điều của Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay|11-12-2018|Bộ Giao thông vận tải|
+|11/2022/TT-BGTVT|Thông tư 11/2022/TT-BGTVT|29-06-2022||
+|Thông tư 09/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay ban hành kèm theo Thông tư số 01/2011/TT-BGTVT ngày 27/01/2011 của Bộ trưởng Bộ GTVT và các Thông tư sửa đổi, bổ sung Thông tư số 01/2011/TT-BGTVT ngày 27/01/2011 của Bộ trưởng Bộ GTVT|09-06-2023|Bộ Giao thông vận tải|
+|Thông tư 21/2017/TT-BGTVT|Thông tư 21/2017/TT-BGTVT sửa đổi Thông tư 01/2011/TT-BGTVT về Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay và Thông tư 03/2016/TT-BGTVT sửa đổi Thông tư 01/2011/TT-BGTVT do Bộ trưởng Bộ Giao thông vận tải ban hành|30-06-2017|Bộ Giao thông vận tải|

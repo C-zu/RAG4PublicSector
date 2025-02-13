@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001645
+Số quyết định:
+438/QĐ-BTNMT
+Tên thủ tục:
+Lấy ý kiến Ủy ban nhân dân cấp huyện đối với các dự án đầu tư có chuyển nước từ nguồn nước nội tỉnh; dự án đầu tư xây dựng hồ chứa, đập dâng trên sông suối nội tỉnh thuộc trường hợp phải xin phép; công trình khai thác, sử dụng nước mặt (không phải là hồ chứa, đập dâng) sử dụng nguồn nước nội tỉnh với lưu lượng khai thác từ 10 m3 /giây trở lên; công trình khai thác, sử dụng nước dưới đất (gồm một hoặc nhiều giếng khoan, giếng đào, hố đào, hành lang, mạch lộ, hang động khai thác nước dưới đất thuộc sở hữu của một tổ chức, cá nhân và có khoảng cách liền kề giữa chúng không lớn hơn 1.000 m) có lưu lượng từ 12.000 m3 /ngày đêm trở lên
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước
+Trình tự thực hiện:
+Bước 1: Chủ đầu tư dự án gửi văn bản lấy ý kiến kèm theo hồ sơ (theo khoản 3 Điều 2 Nghị định số 02/2023/NĐ-CP của Chính phủ ngày 01/02/2023) đến Ủy ban nhân dân cấp huyện và Phòng Tài nguyên môi trường cấp huyện.
+Bước 2: Phòng Tài nguyên môi trường cấp huyện có trách nhiệm kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ, tiếp nhận hồ sơ; hướng dẫn bổ sung hồ sơ nếu chưa hợp lệ, chưa đầy đủ.
+Bước 3: Phòng Tài nguyên và Môi trường có trách nhiệm giúp Ủy ban nhân dân cấp huyện tổ chức các buổi làm việc, cuộc họp, gửi văn bản xin ý kiến hoặc đối thoại trực tiếp với các cơ quan, tổ chức, cá nhân có liên quan để cho ý kiến về công trình dự kiến xây dựng; tổng hợp ý kiến trình Ủy ban nhân dân huyện phê duyệt ra văn bản trả lời.
+Bước 4: Phòng Tài nguyên môi trường cấp huyện gửi văn bản trả lời cho Chủ dự án.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Đối với các dự án không có chuyển nước từ nguồn nước nội tỉnh: Trong thời hạn ba mươi (30) ngày làm việc, kể từ ngày nhận được đề nghị xin ý kiến của chủ đầu tư, Phòng Tài nguyên và Môi trường có trách nhiệm giúp Ủy ban nhân dân cấp huyện tổ chức các buổi làm việc, cuộc họp hoặc đối thoại trực tiếp với các cơ quan, tổ chức, cá nhân có liên quan để cho ý kiến về công trình dự kiến xây dựng; tổng hợp ý kiến trình Ủy ban nhân dân cấp huyện gửi cho chủ đầu tư.|
+|Trực tiếp|40 Ngày làm việc||Đối với các dự án có chuyển nước từ nguồn nước nội tỉnh: Trong thời hạn bốn mươi (40) ngày làm việc, kể từ ngày nhận được đề nghị xin ý kiến của chủ đầu tư, Sở Tài nguyên và Môi trường có trách nhiệm hướng dẫn, hỗ trợ Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã tổ chức các buổi làm việc, cuộc họp với các cơ quan, tỏ chức có liên quan cho ý kiến về quy mô, phương án chuyển nước đề xuất hoặc đối thạo trực tiếp với chủ đầu tưl tổng hợp ý kiến và gửi cho chủ đầu tư.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thuyết minh và thiết kế cơ sở dự án đầu tư xây dựng công trình (báo cáo nghiên cứu khả thi) kèm theo tờ trình cơ quan có thẩm quyền thẩm định dự án
+- 01 Bản chính Kế hoạch triển khai xây dựng công trình
+- 01 Bản chính Tiến độ xây dựng công trình
+- 01 Bản chính Dự kiến tác động của việc khai thác, sử dụng nước và vận hành công trình đến nguồn nước, môi trường và các đối tượng khai thác, sử dụng nước khác có khả năng bị ảnh hưởng trong quá trình xây dựng, vận hành công trình, thời gian công trình không vận hành
+- 01 Bản chính Các biện pháp bảo vệ tài nguyên nước, đảm bảo nước cho các đối tượng khai thác, sử dụng nước khác có khả năng bị ảnh hưởng trong quá trình xây dựng, vận hành công trình, thời gian công trình không vận hành
+- 01 Bản chính Các thông tin quy định tại khoản 1 điều 3 của Nghị định số 02/2023/NĐ-CP của Chính phủ ngày 01/02/2023
+- 01 Bản chính Các số liệu, tài liệu khác liên quan đến việc khai thác, sử dụng tài nguyên nước
+- 01 Bản chính Quy mô, phương án chuyển nước ( đối với dự án có chuyển nước).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Phòng Tài nguyên Môi trường
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện
+Địa chỉ tiếp nhận HS:
+Ủy ban nhân dân cấp huyện và Phòng Tài nguyên môi trường cấp huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản góp ý, tổng hợp ý kiến
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|17/2012/QH13|Tài nguyên nước|21-06-2012|Quốc Hội|
+|02/2023/NĐ-CP|Nghị định quy định chi tiết thi hành một số điều của Luật Tài nguyên nước|01-02-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

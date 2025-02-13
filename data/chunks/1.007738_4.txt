@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục phân loại máy liên hợp hoặc tổ hợp máy thuộc các Chương 84, Chương 85 và Chương 90 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Danh mục máy móc, thiết bị dự kiến nhập khẩu.
+- 01 Bản chính + Phiếu theo dõi trừ lùi

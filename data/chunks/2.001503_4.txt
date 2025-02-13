@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục công nhận quỹ đủ điều kiện hoạt động và công nhận thành viên hội đồng quản lý quỹ.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tài liệu chứng minh việc hoàn tất các thủ tục công bố về việc thành lập quỹ và chuyển tiền vào tài khoản quỹ, chuyển quyền sở hữu tài sản đóng góp thành lập quỹ;
+- 01 Bản chính Danh sách, địa chỉ, số điện thoại liên hệ, sơ yếu lý lịch và phiếu lý lịch tư pháp của các thành viên Hội đồng quản lý quỹ, nếu thuộc diện quản lý của cơ quan có thẩm quyền thì phải được sự đồng ý bằng văn bản của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ trước khi bầu Hội đồng quản lý quỹ. Trường hợp thành viên Hội đồng quản lý quỹ là người nước ngoài phải cung cấp lý lịch có xác nhận của cơ quan có thẩm quyền của nước người đó mang quốc tịch;
+- 01 Bản chính Văn bản liên quan đến việc bầu thành viên và các chức danh Hội đồng quản lý quỹ.

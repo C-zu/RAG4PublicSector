@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008744
+Số quyết định:
+1631/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định, phê duyệt đề cương và dự toán chi tiết đối với hoạt động ứng dụng CNTT sử dụng kinh phí chi thường xuyên thuộc nguồn vốn NSNN
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+1. Tổ chức, cá nhân hoàn thiện hồ sơ theo quy định của thủ tục này và nộp hồ sơ đến Sở Thông tin và Truyền thông.
+2. Bộ phận Một cửa của Sở Thông tin và Truyền thông tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
+- Trường hợp hồ sơ hợp lệ: Sở Thông tin và Truyền thông tiến hành thẩm định:
++ Nếu hồ sơ hợp lệ nhưng không đủ điều kiện thẩm định (không có quyết định phân bổ kinh phí; thuyết minh chưa được ký; dự toán vượt quá kinh phí được phân bổ): Sở Thông tin và Truyền thông không tổ chức thẩm định mà có văn bản trả lại và nêu rõ lý do.
++ Nếu hồ sơ đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ban hành kết quả thẩm định Đề cương và dự toán chi tiết (bản PDF, ký số) và kết quả thẩm định Dự toán được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Sau khi nhận được kết quả trên tài khoản của người nộp hồ sơ, tổ chức có trách nhiệm điều chỉnh Đề cương và dự toán chi tiết theo kết quả thẩm định của Sở TT&TT. 
+Đại diện tổ chức đến nộp bản giấy (bản chính) của hồ sơ, văn bản, tài liệu qua các lần nộp sửa đổi, bổ sung hồ sơ và Đề cương và dự toán chi tiết (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ) tại Bộ phận Một cửa. Sở Thông tin và Truyền thông sẽ kiểm tra, đối chiếu, ký, đóng dấu thẩm định và trả kết quả cho tổ chức nếu Đề cương và dự toán chi tiết đem nộp đúng với Đề cương và dự toán chi tiết đã được Sở Thông tin và Truyền thông thẩm định. 
++ Nếu hồ sơ không đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ra thông báo đề nghị sửa đổi, bổ sung hoặc trả hồ sơ. Văn bản được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Trường hợp tổ chức nộp lại hồ sơ sửa đổi, bổ sung mà không đầy đủ các thành phần theo quy định, không bảo đảm yêu cầu để thẩm định thì hồ sơ coi như không hợp lệ, Sở Thông tin và Truyền thông sẽ từ chối tiếp nhận hồ sơ sửa đổi, bổ sung của tổ chức.
+- Trường hợp hồ sơ không hợp lệ (không đáp ứng đầy đủ thành phần, số lượng hồ sơ theo yêu cầu của thủ tục): Bộ phận Một cửa sẽ gửi thông báo nêu lý do từ chối hồ sơ trên địa chỉ thư điện tử của người nộp hồ sơ, tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Lưu ý: Mọi vướng mắc, tổ chức liên hệ địa chỉ thư điện tử motcua-stttt@danang.gov.vn;  fax: 02363.840.124; điện thoại: 02363.881.888 (số máy lẻ 423) hoặc số tắt 1022 để được hướng dẫn thêm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|14 Ngày làm việc||- 14 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ) - Nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích|
+|Trực tuyến|14 Ngày làm việc||- 14 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ) - Nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích|
+|Dịch vụ bưu chính|14 Ngày làm việc||- 14 ngày làm việc kể từ khi nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ) - Nhận kết quả trực tiếp tại Bộ phận Một cửa của Sở Thông tin và Truyền thông tại Trung tâm Hành chính thành phố (quầy số 23) hoặc qua dịch vụ bưu chính công ích|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình của cơ quan, đơn vị đề nghị phê duyệt đề cương và dự toán chi tiết (Mẫu KHTC 01); ([To trinh ve viec phe duyet de cuong va du toan chi tiet (Mau KHTC 01).doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cc449f0ea6ad'))
+- 01 Bản chính 2. Đề cương và dự toán chi tiết (có xác nhận của Chủ đầu tư và Đơn vị tư vấn): Thực hiện theo khung hướng dẫn do Sở Thông tin và Truyền thông ban hành (đính kèm tại thành phần hồ sơ của thủ tục trên mạng);
+- 01 Bản chính 3. Quyết định công nhận đơn vị tư vấn lập đề cương và dự toán chi tiết (nếu có);
+- 01 Bản chính 4. Bản mềm dự toán của hồ sơ (file excel);
+- 01 Bản chính 5. Các tài liệu liên quan đến chủ trương đầu tư: Quyết định giao dự toán hoặc văn bản đồng ý chủ trương của cấp có thẩm quyền (UBND TP, UBND quận huyện,...).
+- 01 Bản chính * Bản điện tử: Tất cả đều có chữ ký số hoặc bản scan có chữ ký và đóng dấu đỏ của cơ quan trình hồ sơ.
+ * Lưu ý về số lượng hồ sơ (bản giấy) cần nộp:
+- 04 Bản chính - Đề cương và dự toán chi tiết (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ): 04 bản.
+- 01 Bản chính - Tờ trình, Đề cương và dự toán chi tiết qua các lần sửa đổi, bổ sung: Mỗi lần sửa đổi, bổ sung nộp 01 bộ.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Thông tin và Truyền thông thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đối với hồ sơ đạt yêu cầu: Quyết định phê duyệt/Báo cáo kết quả thẩm định và Đề cương và dự toán chi tiết (có ký, đóng dấu thẩm định của Sở Thông tin và Truyền thông). Kết quả thẩm định được trả cho Chủ đầu tư 03 bản, cơ quan thẩm định lưu 01 bản., Đối với hồ sơ không đạt yêu cầu: Văn bản trả hồ sơ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|03/2020/TT-BTTTT|Quy định về lập đề cương và dự toán chi tiết đối với hoạt động ứng dụng công nghệ thông tin sử dụng kinh phí chi thường xuyên thuộc nguồn vốn ngân sách nhà nước|24-02-2020|Bộ Thông tin và Truyền thông|
+|73/2019/NĐ-CP|Quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước|05-09-2019|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Đã có Quyết định giao dự toán hoặc văn bản đồng ý chủ trương của cấp có thẩm quyền (UBND thành phố, UBND cấp quận, huyện,…)
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

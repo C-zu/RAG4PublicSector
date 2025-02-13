@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng tại kho lưu giữ chất thải phóng xạ quốc gia hoặc cơ sở làm dịch vụ xử lý, lưu giữ chất thải phóng xạ, nguồn phóng xạ đã qua sử dụng)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị
+- 01 Bản chính Phiếu khai báo nhân viên bức xạ và người phụ trách an toàn bức xạ
+- 01 Bản chính Báo cáo đánh giá an toàn
+- 01 Bản sao Bản sao quyết định thành lập tổ chức, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặc giấy đăng ký hành nghề
+- 01 Bản sao Bản sao hợp đồng dịch vụ xác định liều bức xạ cá nhân với tổ chức, cá nhân được cấp giấy đăng ký hoạt động dịch vụ đo liều chiếu xạ cá nhân
+- 01 Bản sao Bản sao chứng chỉ nhân viên bức xạ của người phụ trách an toàn và nhân viên đảm nhiệm công việc được quy định tại khoản 1 Điều 28 Luật Năng lượng nguyên tử

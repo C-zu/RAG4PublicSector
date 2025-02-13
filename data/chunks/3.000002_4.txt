@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp điện mới từ lưới điện trung áp (cấp điện áp 6kV, 10kV, 15kV, 22kV, 35kV)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp khách hàng mua buôn điện nông thôn
+- 01 Bản chính Giấy đề nghị mua điện (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb864dfdb7c754'">Giay de nghi mua dien.docx</a>)
+- 01 Bản sao Giấy tờ tùy thân của cá nhân hoặc người đại diện hợp pháp của tổ chức; là một trong những loại giấy tờ sau: Giấy chứng minh nhân dân; Giấy chứng minh công an nhân dân; Giấy chứng minh sỹ quan quân đội nhân dân; Thẻ căn cước công dân; Hộ chiếu hoặc Giấy xác nhận nhân thân của công an phường, xã (có ảnh đóng dấu giáp lai).
+- 01 Bản sao Giấy tờ xác định chủ thể HĐMBĐ là một trong các loại giấy tờ có tên của Tổ chức/cá nhân tại địa điểm mua điện sau: Hộ khẩu thường trú; Sổ tạm trú; Giấy chứng nhận quyền sở hữu nhà; Quyết định phân nhà; Hợp đồng mua bán nhà; Hợp đồng thuê nhà có thời hạn từ 01 năm trở lên và đồng ý của chủ sở hữu; Giấy chứng nhận quyền sử dụng đất; Hợp đồng ủy quyền quản lý và sử dụng nhà/đất; Hợp đồng thuê địa điểm và đồng ý của chủ sở hữu; Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; Giấy phép đầu tư; Quyết định thành lập đơn vị.
+- 01 Bản chính Thông tin đăng ký đấu nối (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee7af2328068b2'">THÔNG TIN ĐĂNG KÝ ĐẤU NỐI.docx</a>)
+- 01 Bản sao Giấy phép hoạt động Điện lực (trường hợp mua buôn điện có công suất lớn hơn 50kVA)
+
+
+Trường hợp khách hàng mua điện ngoài sinh hoạt
+- 01 Bản chính Giấy đề nghị mua điện (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb864dfdb7c754'">Giay de nghi mua dien.docx</a>)
+- 01 Bản sao Giấy tờ tùy thân của cá nhân hoặc người đại diện hợp pháp của tổ chức; là một trong những loại giấy tờ sau: Giấy chứng minh nhân dân; Giấy chứng minh công an nhân dân; Giấy chứng minh sỹ quan quân đội nhân dân; Thẻ căn cước công dân; Hộ chiếu hoặc Giấy xác nhận nhân thân của công an phường, xã (có ảnh đóng dấu giáp lai).
+- 01 Bản sao Giấy tờ xác định chủ thể HĐMBĐ là một trong các loại giấy tờ có tên của Tổ chức/cá nhân tại địa điểm mua điện sau: Hộ khẩu thường trú; Sổ tạm trú; Giấy chứng nhận quyền sở hữu nhà; Quyết định phân nhà; Hợp đồng mua bán nhà; Hợp đồng thuê nhà có thời hạn từ 01 năm trở lên và đồng ý của chủ sở hữu; Giấy chứng nhận quyền sử dụng đất; Hợp đồng ủy quyền quản lý và sử dụng nhà/đất; Hợp đồng thuê địa điểm và đồng ý của chủ sở hữu; Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; Giấy phép đầu tư; Quyết định thành lập đơn vị.
+- 01 Bản sao Giấy tờ xác định mục đích sử dụng điện là một trong những loại giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; Giấy phép đầu tư; Quyết định thành lập đơn vị; Biên bản khảo sát cấp điện của Điện lực/Công ty Điện lực; Thông tin của doanh nghiệp trên Cổng thông tin đăng ký doanh nghiệp quốc gia tại địa chỉ http://www.dangkykinhdoanh.gov.vn.
+- 01 Bản chính Thông tin đăng ký đấu nối (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed66e7939fc74c'">THÔNG TIN ĐĂNG KÝ ĐẤU NỐI.docx</a>)
+
+
+Trường hợp khách hàng mua điện sinh hoạt
+- 01 Bản chính Giấy đề nghị mua điện (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb864dfdb7c754'">Giay de nghi mua dien.docx</a>)
+- 01 Bản sao Giấy tờ tùy thân của cá nhân hoặc người đại diện hợp pháp của tổ chức; là một trong những loại giấy tờ sau: Giấy chứng minh nhân dân; Giấy chứng minh công an nhân dân; Giấy chứng minh sỹ quan quân đội nhân dân; Thẻ căn cước công dân; Hộ chiếu hoặc Giấy xác nhận nhân thân của công an phường, xã (có ảnh đóng dấu giáp lai).
+- 01 Bản sao Giấy tờ xác định chủ thể HĐMBĐ là một trong các loại giấy tờ có tên của Tổ chức/cá nhân tại địa điểm mua điện sau: Hộ khẩu thường trú; Sổ tạm trú; Giấy chứng nhận quyền sở hữu nhà; Quyết định phân nhà; Hợp đồng mua bán nhà; Hợp đồng thuê nhà có thời hạn từ 01 năm trở lên và đồng ý của chủ sở hữu; Giấy chứng nhận quyền sử dụng đất; Hợp đồng ủy quyền quản lý và sử dụng nhà/đất; Hợp đồng thuê địa điểm và đồng ý của chủ sở hữu; Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký kinh doanh; Giấy chứng nhận đăng ký hộ kinh doanh; Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện; Giấy phép đầu tư; Quyết định thành lập đơn vị.
+- 01 Bản chính Thông tin đăng ký đấu nối (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd64edcea3ed172'">THÔNG TIN ĐĂNG KÝ ĐẤU NỐI.docx</a>)

@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện (VPĐK)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|||
+|Trực tuyến|10 Ngày làm việc||Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (một phần)|
+|Dịch vụ bưu chính|10 Ngày làm việc|||

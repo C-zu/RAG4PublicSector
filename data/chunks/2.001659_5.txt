@@ -1,0 +1,23 @@
+Tên thủ tục: Xóa Giấy chứng nhận đăng ký phương tiện
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải, Chi cục đường thủy nội địa
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục ĐTNĐ Việt Nam; Chi cục ĐTNĐ khu vực; Sở GTVT; Cơ quan quản lý giao thông cấp huyện; Cấp xã, phường, thị trấn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận xóa đăng ký phương tiện thủy nội địa
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|48/2014/QH13|Luật Sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa|17-06-2014|Quốc Hội|
+|75/2014/TT-BGTVT|19/12/2014|15-02-2015|Bộ Giao thông vận tải|
+|198/2016/TT-BTC|11/11/2016|01-01-2017|Bộ Tài chính|

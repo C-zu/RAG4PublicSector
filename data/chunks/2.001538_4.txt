@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục tặng thưởng danh hiệu Chiến sỹ thi đua ngành Ngân hàng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách cá nhân được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb9c45c08313bc0'">Mẫu số 01.docx</a>)
+- 01 Bản chính + Báo cáo tóm tắt thành tích của cá nhân được đề nghị khen thưởng (mẫu số 08 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023). Báo cáo thành tích lưu tại đơn vị (mẫu số 03 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe815891d36b07e'">Mẫu số 08.docx</a>)
+- 01 Bản chính + Đề nghị công nhận hiệu quả áp dụng và phạm vi ảnh hưởng, khả năng nhân rộng của sáng kiến kèm tóm tắt sáng kiến cấp Ngành của cá nhân (mẫu số 11, 12 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023) hoặc quyết định công nhận đề tài khoa học cấp Ngành. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe75cc1690db33f'">Mẫu số 11.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe071fbbd58e6c6'">Mẫu số 12.docx</a>)
+- 01 Bản chính + Biên bản họp kèm kết quả bỏ phiếu kín của Hội đồng Thi đua - Khen thưởng đơn vị có tỷ lệ phiếu bầu từ 90% trở lên tính trên tổng số thành viên của Hội đồng đơn vị (nếu thành viên Hội đồng vắng mặt thì lấy ý kiến bằng văn bản)

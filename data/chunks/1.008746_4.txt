@@ -1,0 +1,19 @@
+Tên thủ tục: Thẩm định Thiết kế kỹ thuật, dự toán xây dựng công trình viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình của cơ quan, đơn vị đề nghị thẩm định Thiết kế kỹ thuật, dự toán (đối với trường hợp 3 bước) (Mẫu KHTC 03); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee37812192316b'">To trinh tham dinh thiet ke ky thuat, du toan XD (Mau KHTC 03).doc</a>)
+- 01 Bản chính 2. Quyết định phê duyệt Báo cáo nghiên cứu khả thi kèm theo thuyết minh Báo cáo nghiên cứu khả thi;
+- 01 Bản chính 3. Hồ sơ thiết kế kỹ thuật (có xác nhận của Chủ đầu tư, đơn vị tư vấn, chủ trì thiết kế);
+- 01 Bản chính 4. Dự toán xây dựng công trình đối với công trình sử dụng vốn ngân sách nhà nước, vốn nhà nước ngoài ngân sách;
+- 01 Bản chính 5. Hồ sơ khảo sát xây dựng;
+- 01 Bản chính 6. Nhiệm vụ thiết kế đã được phê duyệt;
+ 7. Hồ sơ năng lực của Nhà thầu tư vấn lập hồ sơ:
+- 01 Bản chính - Thông tin năng lực của nhà thầu khảo sát, nhà thầu thiết kế xây dựng công trình;
+- 01 Bản chính - Chứng chỉ hành nghề của các chức danh chủ nhiệm khảo sát, chủ nhiệm đồ án thiết kế, chủ trì thiết kế của nhà thầu thiết kế.
+- 01 Bản chính 8. Bản mềm dự toán của hồ sơ (file excel);
+ * Lưu ý về số lượng hồ sơ (bản giấy) cần nộp:
+- 02 Bản chính - Thiết kế kỹ thuật, dự toán (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ): 02 bản.
+- 01 Bản chính - Tờ trình, Thiết kế kỹ thuật, dự toán qua các lần sửa đổi, bổ sung: mỗi lần sửa đổi, bổ sung nộp 01 bộ.

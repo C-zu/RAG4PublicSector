@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục điều chỉnh trong quá trình thực hiện nhiệm vụ hằng năm, định kỳ thuộc Đề án 844
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính . - Tài liệu khác có liên quan.
+- 01 Bản chính Báo cáo kết quả thực hiện nhiệm vụ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fafa169007ec3f0'">Mẫu C3.1-BCKQ - 1.docx</a>)
+- 01 Bản chính - Công văn đề nghị điều chỉnh của Tổ chức chủ trì nhiệm vụ;
+- 01 Bản chính Biên bản kiểm tra, đánh giá tình hình thực hiện nhiệm vụ định kỳ hoặc đột xuất (nếu có) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feae0e0d02e5944'">Mẫu C3.2-BBKT.docx</a>)
+- 01 Bản chính Văn bản đồng ý điều chỉnh của cơ quan đề xuất đặt hàng trong trường hợp thay đổi tên, mục tiêu, sản phẩm của nhiệm vụ
+- 01 Bản chính Ý kiến chuyên gia, biên bản họp hội đồng tư vấn (nếu có)

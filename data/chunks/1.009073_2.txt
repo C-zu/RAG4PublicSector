@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp bản sao trích lục hộ tịch
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cá nhân, tổ chức có yêu cầu cấp bản sao trích lục hộ tịch nộp hồ sơ tại UBND cấp xã có thẩm quyền.
+Bước 2: Bộ phận Tiếp nhận và trả kết quả có trách nhiệm tiếp nhận, kiểm tra ngay toàn bộ hồ sơ, đối chiếu thông tin trong Tờ khai và tính hợp lệ của giấy tờ trong hồ sơ do người yêu cầu nộp, xuất trình. 
+Nếu hồ sơ đầy đủ, hợp lệ thì tiếp nhận hồ sơ và viết giấy tiếp nhận; nếu hồ sơ chưa đầy đủ, hoàn thiện thì hướng dẫn người nộp hồ sơ bổ sung, hoàn thiện theo quy định.
+Bước 3: Công chức Tư pháp - hộ tịch căn cứ vào Cơ sở dữ liệu hộ tịch, ghi nội dung bản sao trích lục hộ tịch, báo cáo Chủ tịch/Phó Chủ tịch UBND cấp xã ký cấp bản sao trích lục hộ tịch cho người yêu cầu; chuyển kết quả cho Bộ phận tiếp nhận trả kết quả. 
+Bước 4: Bộ phận tiếp nhận trả kết quả trả kết quả cho cá nhân, tổ chức.

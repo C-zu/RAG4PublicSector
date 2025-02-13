@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009521
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Giải thể công ty đầu tư chứng khoán
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Trong thời hạn 15 (mười lăm) ngày kể từ ngày đại hội đồng cổ đông công ty thông qua phương án giải thể, Hội đồng quản trị công ty đầu tư chứng khoán phải gửi hồ sơ đề nghị giải thể đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+Bước 4: Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN có thông báo đã nhận được phương án giải thể công ty; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+Bước 5: Công ty thực hiện thủ tục giải thể theo quy định của Luật Doanh nghiệp. Trong thời hạn 05 (năm) ngày kể từ ngày hoàn tất việc giải thể công ty, Hội đồng quản trị Công ty đầu tư chứng khoán nộp hồ sơ báo cáo kết quả giải thể công tyđến UBCKNN.
+Bước 6: Trong thời hạn 15 (mười lăm) ngày kể từ UBCKNN nhận được hồ sơ báo cáo kết quả giải thể công ty đầy đủ, hợp lệ, UBCKNN ra quyết định thu hồi Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||+ Bước 4: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ. + Bước 6: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể công ty đầy đủ, hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày làm việc||+ Bước 4: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ. + Bước 6: 15 (mười lăm) ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể công ty đầy đủ, hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao 1. Hồ sơ đề nghị giải thể công ty đầu tư chứng khoán 1.1. Giấy đề nghị giải thể theo Mẫu số 97 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; 1.2. Biên bản họp, nghị quyết của Đại hội đồng cổ đông thông qua giải thể công ty đầu tư chứng khoán, phương án giải thể công ty đầu tư chứng khoán; 1.3. Phương án giải thể công ty đầu tư chứng khoán theo Mẫu số 95 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; 1.4. Văn bản cam kết bằng của công ty quản lý quỹ đầu tư chứng khoán (nếu có), ngân hàng lưu ký, ngân hàng giám sát (nếu có) về trách nhiệm hoàn tất các thủ tục thanh lý tài sản để giải thể công ty đầu tư chứng khoán. 2. Hồ sơ báo cáo kết quả giải thể công ty đầu tư chứng khoán 2.1. Báo cáo kết quả giải thể theo Mẫu số 98 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; 2.2.Danh sách chủ nợ và số nợ đã thanh toán, kể cả các khoản nợ về thuế; 2.3.Bản gốc giấy phép thành lập và hoạt động công ty đầu tư chứng khoán; 2.4.Báo cáo thẩm định kết quả thanh lý tài sản của tổ chức kiểm toán được đại hội đồng cổ đông chỉ định và hội đồng quản trị công ty đầu tư chứng khoán (nếu có); 2.5. Văn bản của ngân hàng lưu ký, ngân hàng giám sát (nếu có) và công ty quản lý quỹ đầu tư chứng khoán (nếu có) nêu rõ chi tiết khoản thanh toán, danh mục tài sản phân phối cho từng cổ đông kèm theo xác nhận của các cổ đông về việc đã nhận đủ tiền, tài sản theo phương án giải thể đã được đại hội đồng cổ đông thông qua hoặc xác nhận của Tổng công ty lưu ký và bù trừ chứng khoán Việt Namvề việc đã hoàn tất phân bổ, đăng ký chứng khoán cho cổ đông theo yêu cầu của công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, ngân hàng giám sát (nếu có) và cổ đông; xác nhận của tổ chức quản lý sổ cổ đông, tổ chức phát hành, doanh nghiệp tiếp nhận vốn đầu tư của công ty quản lý quỹ đầu tư chứng khoán về việc đã hoàn tất chuyển quyền sở hữu cổ phiếu, phần vốn góp cho từng cổ đông công ty đầu tư chứng khoán theo yêu cầu của công ty quản lý quỹ đầu tư chứng khoán.
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền:
+Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa – Văn phòng UBCKNN
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định thu hồi Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán; hoặc công văn từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|155/2020/NĐ-CP|Nghị định 155/2020/NĐ-CP|31-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Công ty chỉ được giải thể khi bảo đảm thanh toán hết các khoản nợ, nghĩa vụ tài sản khác và không trong quá trình giải quyết tranh chấp tại Tòa án hoặc Trọng tài. Người quản lý có liên quan và công ty trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp cùng liên đới chịu trách nhiệm về các khoản nợ của công ty (khoản 2 Điều 207 Luật Doanh nghiệp 2020).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

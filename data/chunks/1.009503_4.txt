@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ đóng, quỹ bất động sản do tăng vốn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Giấy đề nghị điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe135bb8f14f014'">94.docx</a>)
+- 01 Bản chính, 01 Bản sao Báo cáo kết quả chào bán ra công chúng - Mẫu số 102 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+- 01 Bản chính, 01 Bản sao Văn bản xác nhận của ngân hàng giám sát về số vốn huy động trong đợt chào bán, danh sách nhà đầu tư mua chứng chỉ quỹ.

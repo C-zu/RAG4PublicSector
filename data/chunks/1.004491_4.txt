@@ -1,0 +1,10 @@
+Tên thủ tục: Kê khai giá thuốc sản xuất trong nước hoặc thuốc nước ngoài nhập khẩu vào Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Bảng kê khai giá thuốc nước ngoài nhập khẩu vào Việt Nam theo Mẫu số 01 Phụ lục VII của Nghị định số 155/2018/NĐ-CP trong trường hợp thuốc nhập khẩu kèm theo Mẫu số 09 Phụ lục VII của Nghị định 54/2017/NĐ-CP. Mẫu này được sửa đổi theo quy định tại khoản 3 Điều 2 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfa53dbeaa7e60'">Mẫu số 01.docx</a>)
+- 01 Bản chính, 01 Bản sao Bảng kê khai giá thuốc sản xuất trong nước theo Mẫu số 02 Phụ lục VII của Nghị định số 155/2018/NĐ-CP trong trường hợp thuốc sản xuất trong nước kèm theo Mẫu số 10 Phụ lục VII của Nghị định 54/2017/NĐ-CP. Mẫu này được sửa đổi theo quy định tại khoản 3 Điều 2 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8c0cb01962cb0'">Mẫu số 02.docx</a>)
+- 01 Bản chính, 01 Bản sao Bảng thuyết minh về cơ cấu giá đối với thuốc nhập khẩu (Mẫu số 09 Phụ lục VII Nghị định số 54/2017/NĐ-CP). Mẫu này được sửa đổi theo quy định tại khoản 10 Điều 1 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdce3cf395a6a4a'">Mẫu số 09.docx</a>)
+- 01 Bản chính, 01 Bản sao Bảng thuyết minh về cơ cấu giá đối với thuốc sản xuất trong nước (Mẫu số 10 Phụ lục VII của Nghị định số 54/2017/NĐ-CP). Mẫu này được sửa đổi theo quy định tại khoản 10 Điều 1 của Nghị định số 88/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4fbe44d88b9f7'">Mẫu số 10.docx</a>)

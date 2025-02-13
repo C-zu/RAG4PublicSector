@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký xét tuyển trình độ đại học, trình độ cao đẳng ngành giáo dục mầm non
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đăng ký trực tuyến

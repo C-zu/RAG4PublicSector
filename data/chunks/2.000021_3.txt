@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép khai thác nước mặt, nước biển (đối với các trường hợp quy định tại khoản 1 Điều 15 Nghị định số 54/2024/NĐ-CP ngày 16 tháng 5 năm 2024)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : theo quy định của pháp luật về phí, lệ phí|- Thời hạn kiểm tra hồ sơ: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, Bộ phận Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định đề án: Trong thời hạn 42 ngày, kể từ ngày nhận đủ hồ sơ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định đề án.|
+|Trực tuyến|45 Ngày|Phí : theo quy định của pháp luật về phí, lệ phí|- Thời hạn kiểm tra hồ sơ: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, Bộ phận Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định đề án: Trong thời hạn 42 ngày, kể từ ngày nhận đủ hồ sơ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định đề án.|
+|Dịch vụ bưu chính|45 Ngày|Phí : theo quy định của pháp luật về phí, lệ phí|- Thời hạn kiểm tra hồ sơ: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, Bộ phận Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định đề án: Trong thời hạn 42 ngày, kể từ ngày nhận đủ hồ sơ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định đề án.|

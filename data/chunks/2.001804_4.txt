@@ -1,0 +1,11 @@
+Tên thủ tục: Phê duyệt phương án, điều chỉnh phương án cắm mốc chỉ giới phạm vi bảo vệ công trình thủy lợi trên địa bàn UBND tỉnh quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ trình đề nghị phê duyệt của tổ chức, cá nhân lập hồ sơ phương án cắm mốc chỉ giới
+- 01 Bản chính - Bản sao chụp Quyết định giao cho tổ chức, cá nhân khai thác công trình thủy lợi hoặc hợp đồng khai thác công trình thủy lợi;
+- 01 Bản chính - Quyết định phê duyệt thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công của công trình thủy lợi;
+- 01 Bản chính - Thuyết minh hồ sơ phương án cắm mốc chỉ giới (Căn cứ lập hồ sơ phương án cắm mốc chỉ giới; Đánh giá hiện trạng khu vực cắm mốc chỉ giới; Số lượng mốc chỉ giới cần cắm, phương án định vị mốc chỉ giới, khoảng cách các mốc chỉ giới, các mốc tham chiếu (nếu có); Phương án huy động nhân lực, vật tư, liệu, thi công, giải phóng mặt bằng; Tiến độ cắm mốc, bàn giao mốc chỉ giới, kinh phí thực hiện; Tổ chức thực hiện);
+- 01 Bản chính - Bản vẽ phương án cắm mốc chỉ giới thể hiện phạm vi bảo vệ công trình, vị trí, tọa độ của các mốc chỉ giới trên nền bản đồ hiện trạng công trình thủy lợi.

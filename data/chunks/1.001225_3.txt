@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục điều chỉnh trong quá trình thực hiện đề tài nghiên cứu ứng dụng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Quyết định hoặc công văn gửi đến tổ chức chủ trì và chủ nhiệm đề tài trong 30 ngày kể từ thời điểm nhận được hồ sơ đầy đủ|
+|Dịch vụ bưu chính|30 Ngày làm việc||Quyết định hoặc công văn gửi đến tổ chức chủ trì và chủ nhiệm đề tài trong 30 ngày kể từ thời điểm nhận được hồ sơ đầy đủ|

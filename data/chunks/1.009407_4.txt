@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố đáp ứng tiêu chuẩn chế biến, bào chế thuốc cổ truyền đối với cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền trực thuộc quản lý của Sở Y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao 1. Bản sao Giấy phép hoạt động của cơ sở khám bệnh, chữa bệnh bằng y học cổ truyền.
+- 01 Bản chính 2. Bản công bố đáp ứng đủ tiêu chuẩn chế biến, bào chế thuốc cổ truyền quy định tại Mẫu số 01 Phụ lục IV ban hành kèm theo Thông tư số 32/2020/TT-BYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefc73883cab00f'">mẫu 01 IV TT 32.docx</a>)
+- 01 Bản chính 3. Báo cáo hoạt động bào chế, chế biến thuốc cổ truyền theo Mẫu số 02 Phụ lục IV ban hành kèm theo Thông tư số 32/2020/TT-BYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe01601f1fb0943'">mẫu 02 TT 32.docx</a>)

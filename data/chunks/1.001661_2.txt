@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp đổi giấy chứng nhận đăng ký quyền tác giả
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Thủ tục cấp đổi Giấy chứng nhận đăng ký quyền tác giả
+Trình tự thực hiện: 
+- Tác giả, chủ sở hữu quyền tác giả có nhu cầu cấp đổi Giấy chứng nhận đăng ký quyền tác giả;
+- Cấp đổi Giấy chứng nhận đăng ký quyền tác giả trong trường hợp thay đổi chủ sở hữu quyền tác giả, thông tin về tác phẩm, tác giả, chủ sở hữu quyền tác giả;
+- Tác giả, chủ sở hữu quyền tác giả, có thể trực tiếp hoặc uỷ quyền cho tổ chức, cá nhân khác nộp hồ sơ cấp đổi Giấy chứng nhận đăng ký quyền tác giả;
+- Tác giả, chủ sở hữu quyền tác giả là cá nhân, tổ chức Việt Nam, cá nhân nước ngoài thường trú tại Việt Nam, tổ chức nước ngoài có trụ sở, văn phòng đại diện hoặc chi nhánh tại Việt Nam nộp hồ sơ cấp đổi Giấy chứng nhận đăng ký quyền tác giả trực tiếp hoặc thông qua đại diện hợp pháp tại Việt Nam;
+- Tác giả, chủ sở hữu quyền tác giả là cá nhân nước ngoài không thường trú tại Việt Nam, tổ chức nước ngoài không có trụ sở, văn phòng đại diện hoặc chi nhánh tại Việt Nam nộp hồ sơ cấp đổi Giấy chứng nhận đăng ký quyền tác giả trực tiếp qua Cổng dịch vụ công trực tuyến hoặc thông qua ủy quyền cho tổ chức tư vấn, dịch vụ quyền tác giả, quyền liên quan tại Việt Nam.

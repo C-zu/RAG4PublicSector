@@ -1,0 +1,30 @@
+Tên thủ tục: Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương.
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1.1. Khoản giảm giá đáp ứng đầy đủ các điều kiện theo quy định với trị giá của khoản giảm giá dưới 5% tổng trị giá lô hàng và trị giá khai báo không thấp hơn mức giá tham chiếu của hàng hóa giống hệt tại Danh mục hàng hóa nhập khẩu rủi ro về trị giá giảm giá.
+
+1.2. Khoản giảm giá thuộc một trong các loại giảm giá sau: Giảm giá theo cấp độ thương mại của giao dịch mua bán hàng hóa; Giảm giá theo số lượng hàng hóa mua bán; Giảm giá theo hình thức và thời gian thanh toán.
+
+1.3. Khoản giảm giá được lập thành văn bản trước khi xếp hàng lên phương tiện vận tải ở nước xuất khẩu hàng hóa.
+
+1.4. Có số liệu khách quan, định lượng được phù hợp với các chứng từ để tách khoản giảm giá này ra khỏi trị giá giao dịch. Các chứng từ này được nộp cùng với tờ khai hải quan.
+
+1.5. Thực hiện thanh toán qua ngân hàng bằng phương thức L/C hoặc TTR cho toàn bộ hàng hóa nhập khẩu thuộc hợp đồng mua bán.
+
+1.6. Trị giá khai báo và thực tế về số lượng hàng hóa nhập khẩu, cấp độ thương mại, hình thức và thời gian thanh toán phải phù hợp với Bảng công bố giảm giá của người bán.
+1.1. Khoản giảm giá đáp ứng đầy đủ các điều kiện theo quy định với trị giá của khoản giảm giá dưới 5% tổng trị giá lô hàng và trị giá khai báo không thấp hơn mức giá tham chiếu của hàng hóa giống hệt tại Danh mục hàng hóa nhập khẩu rủi ro về trị giá giảm giá.
+
+1.2. Khoản giảm giá thuộc một trong các loại giảm giá sau: Giảm giá theo cấp độ thương mại của giao dịch mua bán hàng hóa; Giảm giá theo số lượng hàng hóa mua bán; Giảm giá theo hình thức và thời gian thanh toán.
+
+1.3. Khoản giảm giá được lập thành văn bản trước khi xếp hàng lên phương tiện vận tải ở nước xuất khẩu hàng hóa.
+
+1.4. Có số liệu khách quan, định lượng được phù hợp với các chứng từ để tách khoản giảm giá này ra khỏi trị giá giao dịch. Các chứng từ này được nộp cùng với tờ khai hải quan.
+
+1.5. Thực hiện thanh toán qua ngân hàng bằng phương thức L/C hoặc TTR cho toàn bộ hàng hóa nhập khẩu thuộc hợp đồng mua bán.
+
+1.6. Trị giá khai báo và thực tế về số lượng hàng hóa nhập khẩu, cấp độ thương mại, hình thức và thời gian thanh toán phải phù hợp với Bảng công bố giảm giá của người bán.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

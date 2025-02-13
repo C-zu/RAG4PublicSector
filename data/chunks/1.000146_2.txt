@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân nộp hồ sơ cho Cục ATBXHN
+Bước 2: Cục ATBXHN xem xét hồ sơ và tổ chức thẩm định:
++ Nếu đủ điều kiện theo quy định hiện hành, Cục ATBXHN trình Bộ Khoa học và Công nghệ cấp giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân).
++ Trong trường hợp không cấp giấy phép, Bộ Khoa học và Công nghệ trả lời bằng văn bản và nêu rõ lý do
+Bước 3: Cục ATBXHN cấp Giấy phép tiến hành công việc bức xạ

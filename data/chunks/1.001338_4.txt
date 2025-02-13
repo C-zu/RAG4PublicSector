@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép phân phối sản phẩm thuốc lá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép phân phối sản phẩm thuốc lá; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe01cbf8664b8e1'">Phụ lục 19.docx</a>)
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế;
+- 01 Bản sao + Bản sao văn bản giới thiệu của các Nhà cung cấp sản phẩm thuốc lá hoặc của các thương nhân phân phối sản phẩm thuốc lá, trong đó ghi rõ địa bàn dự kiến kinh doanh;
+- 01 Bản chính + Bảng kê danh sách thương nhân, bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế, Giấy phép kinh doanh sản phẩm thuốc lá (nếu đã kinh doanh) của các thương nhân đã hoặc sẽ thuộc hệ thống phân phối sản phẩm thuốc lá

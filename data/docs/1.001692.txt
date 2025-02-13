@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001692
+Số quyết định:
+61/QĐ-BGTVT
+Tên thủ tục:
+Cấp Chứng chỉ Thẩm tra viên an toàn giao thông đường bộ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Cơ sở đào tạo có nhu cầu nộp hồ sơ đến Cục Đường bộ Việt Nam.
+b) Giải quyết TTHC:
+- Cục Đường bộ Việt Nam tiếp nhận, kiểm tra hồ sơ:
++ Đối với trường hợp nộp trực tiếp: Sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận ngay hồ sơ; nếu không đúng quy định, hướng dẫn trực tiếp cho cơ sở đào tạo đã nộp hồ sơ để hoàn thiện hồ sơ;
++ Đối với trường hợp nộp qua hệ thống bưu chính: Nếu hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày nhận hồ sơ, phải có văn bản hướng dẫn cho cơ sở đào tạo đã nộp hồ sơ để hoàn thiện hồ sơ;
++ Đối với trường hợp nộp qua hệ thống dịch vụ công trực tuyến: Nếu hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày cơ sở đào tạo kê khai và nộp hồ sơ, phải có văn bản hướng dẫn cho cơ sở đào tạo đã nộp hồ sơ để hoàn thiện hồ sơ;
+- Cục Đường bộ Việt Nam tiến hành thẩm định hồ sơ, nếu đủ điều kiện, cấp chứng chỉ cho từng học viên (có kết quả thi đạt yêu cầu) có tên trong Tờ trình của cơ sở đào tạo; trường hợp không cấp chứng chỉ, phải có văn bản trả lời và nêu rõ lý do;
+- Việc trả chứng chỉ được thực hiện tại Cục Đường bộ Việt Nam hoặc thông qua dịch vụ bưu chính theo yêu cầu của cơ sở đào tạo.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|15 Ngày làm việc||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|15 Ngày làm việc||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình cấp chứng chỉ theo mẫu quy định; ([MẪU TỜ TRÌNH CẤP CHỨNG CHỈ THẨM TRA VIÊN ATGT ĐƯỜNG BỘ.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feac48df5814b97'))
+- 01 Bản chính Quyết định công nhận kết quả thi của học viên tham gia khóa đào tạo;
+- 02 Bản chính 02 ảnh màu của mỗi học viên đề nghị cấp chứng chỉ, ảnh cỡ 4 cm x 6 cm, nền màu xanh, kiểu thẻ căn cước, chụp trong thời gian không quá 06 tháng
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Chứng chỉ thẩm tra viên an toàn giao thông đường bộ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|64/2016/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|01-07-2016|Chính phủ|
+|70/2022/NĐ-CP|Nghị định 70/2022/NĐ-CP|27-09-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

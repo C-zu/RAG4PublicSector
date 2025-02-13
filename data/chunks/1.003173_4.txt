@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký lại mẫu con dấu (thực hiện tại cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đối với cơ quan, tổ chức, chức danh nhà nước có con dấu bị biến dạng, mòn, hỏng hoặc thay đổi chất liệu: Văn bản đề nghị đăng ký lại mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu, trong đó nêu rõ lý do và người được cử liên hệ nộp hồ sơ.
+- 01 Bản chính b) Đối với cơ quan, tổ chức, chức danh nhà nước có sự thay đổi về tổ chức, đổi tên: - Văn bản đề nghị đăng ký lại mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu, trong đó nêu rõ lý do và người được cử liên hệ nộp hồ sơ; - Quyết định thay đổi về tổ chức, đổi tên cơ quan, tổ chức, chức danh nhà nước của cơ quan có thẩm quyền.
+- 01 Bản chính c) Đối với cơ quan, tổ chức, chức danh nhà nước bị mất con dấu: - Văn bản đề nghị đăng ký lại mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu, trong đó nêu rõ lý do và người được cử liên hệ nộp hồ sơ và có xác nhận của cơ quan quản lý trực tiếp hoặc cơ quan có thẩm quyền; - Giấy chứng nhận đăng ký mẫu con dấu được cấp trước đó.

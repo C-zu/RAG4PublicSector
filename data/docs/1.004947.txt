@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004947
+Số quyết định:
+1335/QĐ-BTTTT
+Tên thủ tục:
+Kiểm định thiết bị viễn thông, đài vô tuyến điện
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+- Nộp hồ sơ thẩm định và cấp Giấy chứng nhận kiểm định (theo quy định tại khoản 1 Điều 7 Thông tư số 07/2020/TT-BTTTT);
+- Sau khi hồ sơ được tiếp nhận, trong thời hạn năm (05) ngày làm việc kể từ ngày nộp hồ sơ, tổ chức kiểm định thông báo cho tổ chức, doanh nghiệp bằng văn bản về việc đã tiếp nhận hồ sơ và thông báo phí thẩm định điều kiện hoạt động viễn thông đối với thiết bị viễn thông, đài vô tuyến điện (theo quy định tại khoản 3 Điều 7 Thông tư số 07/2020/TT-BTTTT);
+- Trong thời hạn ba mươi (30) ngày, kể từ ngày tổ chức, doanh nghiệp nộp phí thẩm định, tổ chức kiểm định tiến hành thẩm định và cấp Giấy chứng nhận kiểm định (theo quy định tại khoản 4 Điều 7 Thông tư số 07/2020/TT-BTTTT);
+- Trường hợp hồ sơ có sự không phù hợp trong quá trình thẩm định, tổ chức kiểm định thông báo bằng văn bản cho tổ chức, doanh nghiệp nêu rõ điểm không phù hợp. Trong thời hạn hai mươi (20) ngày, kể từ ngày có thông báo của tổ chức kiểm định, tổ chức, doanh nghiệp phải khắc phục những điểm không phù hợp và nộp lại hồ sơ cho tổ chức kiểm định để tiếp tục thẩm định và cấp Giấy chứng nhận kiểm định trong mười (10) ngày. Trường hợp không nộp hồ sơ khắc phục đúng thời hạn, tổ chức kiểm định có quyền từ chối tiếp tục thẩm định, không phải hoàn lại phí thẩm định và thông báo bằng văn bản cho tổ chức, doanh nghiệp (theo quy định tại khoản 5 Điều 7 Thông tư số 07/2020/TT-BTTTT).
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Lệ phí : Đồng 1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).|30 ngày kể từ ngày nộp phí thẩm định theo quy định|
+|Trực tuyến|30 Ngày|Lệ phí : Đồng 1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).|30 ngày kể từ ngày nộp phí thẩm định theo quy định|
+|Dịch vụ bưu chính|30 Ngày|Lệ phí : Đồng 1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).|30 ngày kể từ ngày nộp phí thẩm định theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị kiểm định (theo quy định tại Phụ lục số 01 của Thông tư số 07/2020/TT-BTTTT); ([Đơn.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf7232b07bbf66'))
+- 01 Bản chính Kết quả đo kiểm được lập bởi đơn vị đo kiểm Quy định tại Phụ lục số 02 Thông tư số 07/2023/TT-BTTTT ([Mẫu 2.1doc.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0128f8d602749') [Mẫu 2.2 Phụ lục số 02 TT số 07.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf6b2804072ba4'))
+- 01 Bản chính - Các tài liệu mô tả, hướng dẫn sử dụng thiết bị viễn thông, đài vô tuyến điện (trong trường hợp kiểm định lần đầu).
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Trung tâm Đo lường chất lượng viễn thông Tầng 7 tòa nhà VNTA 68 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu giấy, Thành phố Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận kiểm định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|07/2023/TT-BTTTT|Thông tư số 07/2023/TT-BTTTT Sửa đổi, bổ sung Thông tư số 08/2020/TT-BTTTT ngày 13/4/2020 của Bộ trưởng Bộ Thông tin và Truyền thông Ban hành Danh mục và Quy trình kiểm định thiết bị viễn thông, đài vô tuyến điện bắt buộc kiểm định|30-06-2023|Bộ Thông tin và Truyền thông|
+|Luật Viễn thông ngày 23 tháng 11 năm 2009;|Luật Viễn thông ngày 23 tháng 11 năm 2009;|23-11-2009||
+|68/2006/QH11|Luật Tiêu chuẩn và Quy chuẩn kỹ thuật|29-06-2006|Quốc Hội|
+|05/2007/QH12|Luật Chất lượng sản phẩm, hàng hoá|21-11-2007||
+|25/2011/NĐ-CP|Nghị định 25/2011/NĐ-CP|06-04-2011||
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

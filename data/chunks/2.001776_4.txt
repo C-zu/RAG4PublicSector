@@ -1,0 +1,15 @@
+Tên thủ tục: Cấp Chứng nhận huấn luyện nghiệp vụ cứu nạn, cứu hộ (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Cá nhân có nhu cầu được huấn luyện và xin cấp chứng nhận huấn luyện nghiệp vụ cứu nạn, cứu hộ:
+- 01 Bản chính + Đề nghị huấn luyện nghiệp vụ cứu nạn, cứu hộ (Mẫu số 01 ban hành kèm theo Nghị định số 83/2017/NĐ-CP ngày 18/7/2017 của Chính phủ); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda1c0aad86a3dc'">Mau01-huanluyenCN,CH.docx</a>)
+- 01 Bản chính + Sơ yếu lý lịch;
+- 01 Bản chính + Giấy khám sức khỏe có xác nhận của cơ sở y tế cấp huyện trở lên.
+
+
+- Đối với cơ quan, tổ chức, cơ sở:
+- 01 Bản chính + Văn bản đề nghị;
+- 01 Bản chính + Danh sách trích ngang lý lịch;
+- 01 Bản chính + Giấy khám sức khỏe có xác nhận của cơ sở y tế cấp huyện trở lên của người đăng ký dự lớp huấn luyện.

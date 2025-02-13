@@ -1,0 +1,17 @@
+Tên thủ tục: Giải quyết yêu cầu bồi thường tại cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại (cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a. Trường hợp người bị thiệt hại trực tiếp yêu cầu bồi thường thì hồ sơ yêu cầu bồi thường (sau đây gọi là hồ sơ) bao gồm:
+- 01 Bản chính Văn bản yêu cầu bồi thường; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe91a823fff4fb6'">Văn bản yêu cầu bồi thường.doc</a>)
+- 01 Bản sao Văn bản làm căn cứ yêu cầu bồi thường, trừ trường hợp người bị thiệt hại không được gửi hoặc không thể có văn bản làm căn cứ yêu cầu bồi thường;
+- 01 Bản sao Giấy tờ chứng minh nhân thân của người bị thiệt hại;
+- 01 Bản sao Tài liệu, chứng cứ có liên quan đến việc yêu cầu bồi thường (nếu có).
+
+
+b. Trường hợp người yêu cầu bồi thường là người thừa kế (nếu có nhiều người thừa kế thì những người thừa kế đó phải cử ra một người đại diện) hoặc là người đại diện của người bị thiệt hại thì ngoài các tài liệu quy định tại các điểm a, b và d khoản 1 Điều 41 Luật TNBTCNN năm 2017, hồ sơ còn phải có các tài liệu sau đây:
+- 01 Bản sao Giấy tờ chứng minh nhân thân của người thừa kế, người đại diện của người bị thiệt hại;
+- 01 Bản sao Văn bản ủy quyền hợp pháp trong trường hợp đại diện theo ủy quyền;
+ Trường hợp người bị thiệt hại chết mà có di chúc thì người yêu cầu bồi thường phải cung cấp di chúc, trường hợp không có di chúc thì phải có văn bản hợp pháp về quyền thừa kế.
+ Trường hợp người yêu cầu bồi thường trực tiếp nộp hồ sơ thì các giấy tờ, tài liệu và chứng cứ quy định tại các điểm b, c, d khoản 1 và khoản 2 Điều 41 Luật TNBTCNN năm 2017 là bản sao nhưng phải có bản chính để đối chiếu; trường hợp người yêu cầu bồi thường gửi hồ sơ qua dịch vụ bưu chính thì các giấy tờ, tài liệu và chứng cứ quy định tại các điểm b, c, d khoản 1 và khoản 2 Điều 41 Luật TNBTCNN năm 2017 là bản sao có chứng thực theo quy định của pháp luật về chứng thực.

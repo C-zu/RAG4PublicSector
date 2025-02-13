@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục hỗ trợ doanh nghiệp có dự án thuộc ngành, nghề ưu đãi đầu tư, địa bàn ưu đãi đầu tư nhận chuyển giao công nghệ từ tổ chức khoa học và công nghệ.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu đề xuất nhiệm vụ khoa học và công nghệ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ea34f390d566'">Mẫu A1-ĐXNV.docx</a>)
+- 01 Bản chính + Hợp đồng chuyển giao công nghệ hoặc Giấy chứng nhận đăng ký chuyển giao công nghệ (nếu thuộc đối tượng phải đăng ký chuyển giao công nghệ)
+- 01 Bản chính + Văn bản xác nhận đồng ý tham gia của các tổ chức khác phối hợp nghiên cứu thực hiện nhiệm vụ (nếu có);
+- 01 Bản chính + Tài liệu khác liên quan đến nhiệm vụ (nếu có).

@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố mở bến cảng, cầu cảng, bến phao và các khu nước, vùng nước (bao gồm cả việc đưa kết cấu hạ tầng cảng biển tạm thời vào sử dụng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 6.000.000 đồng/lần. Đồng Phí thẩm định công bố bến cảng, cầu cảng, khu nước, vùng nước:|Chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|3 Ngày làm việc|Phí : 6.000.000 Đồng Phí thẩm định công bố bến cảng, cầu cảng, khu nước, vùng nước|Chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 6.000.000 Đồng Phí thẩm định công bố bến cảng, cầu cảng, khu nước, vùng nước|Chậm nhất 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.|

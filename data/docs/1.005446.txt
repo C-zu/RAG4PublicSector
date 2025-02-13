@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005446
+Số quyết định:
+1557/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghệ thông tin, điện tử
+Trình tự thực hiện:
+Trường hợp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng còn hiệu lực nhưng bị mất hoặc bị hư hỏng, doanh nghiệp chuẩn bị hồ sơ đề nghị cấp lại Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng theo quy định và nộp đến Cục An toàn thông tin - Bộ Thông tin và Truyền thông.
+Trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cục An toàn thông tin - Bộ Thông tin và Truyền thông cấp lại Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng cho doanh nghiệp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc|Lệ phí : 100000 Đồng 100.000/lần cấp|Nộp trực tiếp tại Cục An toàn thông tin, Bộ Thông tin và Truyền thông;|
+|Trực tuyến|02 Ngày làm việc|Lệ phí : 100000 Đồng 100.000/lần cấp|Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).|
+|Dịch vụ bưu chính|02 Ngày làm việc|Lệ phí : 100000 Đồng 100.000/lần cấp|Địa chỉ: Cục An toàn thông tin: Tòa nhà 115 Trần Duy Hưng, Cầu Giấy, Hà Nội|
+
+Thành phần hồ sơ:
+
+Số lượng 01 bộ hồ sơ
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng (Mẫu số 02 – Phụ lục II, Ban hành kèm theo Thông tư số 10/2022/TT-BTTTT ngày 20/07/2022 của Bộ trưởng Bộ Thông tin và Truyền thông). ([Mau so 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3924c4351d7bb'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục An toàn thông tin
+Cơ quan có thẩm quyền:
+Cục An toàn thông tin
+Địa chỉ tiếp nhận HS:
+Cục An toàn thông tin, Bộ Thông tin và Truyền thông (Tầng 8, 115 Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|86/2015/QH13|Luật 86/2015/QH13|20-11-2015||
+|108/2016/NĐ-CP|Nghị định 108/2016/NĐ-CP|01-07-2016||
+|269/2016/TT-BTC|Thông tư 269/2016/TT-BTC|14-11-2016||
+|13/2018/TT-BTTTT|Thông tư 13/2018/TT-BTTTT|15-10-2018||
+|10/2022/TT-BTTTT|Thông tư 10/2022/TT-BTTTT|20-07-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,23 @@
+Tên thủ tục: Đấu giá quyền khai thác khoáng sản ở khu vực chưa thăm dò khoáng sản (cấp Trung ương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1. Nộp hồ sơ đề nghị tham gia đấu giá
+Tổ chức, cá nhân có nhu cầu tham gia đấu giá quyền khai thác khoáng sản phải lập hồ sơ đề nghị tham gia đấu giá quyền khai thác khoáng sản và nộp cho Tổ chức đấu giá tài sản (TH1: trường hợp cuộc đấu giá do Tổ chức đấu giá tài sản thực hiện) hoặc Cục Khoáng sản Việt Nam (TH2: trường hợp cuộc đấu giá do Hội đồng đấu giá quyền khai thác khoáng sản thực hiện).
+- Bước 2. Tiếp nhận, xét chọn hồ sơ đề nghị tham gia phiên đấu giá quyền khai thác khoáng sản
+- Bước 2. Tiếp nhận, xét chọn hồ sơ đề nghị tham gia cuộc đấu giá quyền khai thác khoáng sản
++ Tổ chức đấu giá tài sản hoặc Cục Khoáng sản Việt Nam tiếp nhận hồ sơ đề nghị tham gia đấu giá quyền khai thác khoáng sản cho đến trước ngày mở cuộc đấu giá 02 ngày làm việc.
++ Sau khi hết thời hạn tiếp nhận hồ sơ đăng ký tham gia đấu giá quyền khai thác khoáng sản, Cục Khoáng sản Việt Nam tiến hành xét chọn hồ sơ để lựa chọn tổ chức, cá nhân đủ điều kiện tham gia cuộc đấu giá.
++ Đối với hồ sơ đề nghị tham gia đấu giá quyền khai thác khoáng sản không được xét chọn, Tổ chức đấu giá tài sản (TH1) hoặc Cục Khoáng sản Việt Nam (TH2) phải thông báo cho tổ chức, cá nhân liên quan bằng văn bản, trong đó nêu rõ lý do không được xét chọn.
++ Đối với hồ sơ được xét chọn, Tổ chức đấu giá tài sản (TH1) hoặc Cục Khoáng sản Việt Nam (TH2) thông báo bằng văn bản về thời gian, địa điểm tổ chức cuộc đấu giá cho tổ chức, cá nhân được tham gia cuộc đấu giá.
+-         Bước 3. Nộp tiền đặt trước
+Tổ chức, cá nhân tham gia đấu giá quyền khai thác khoáng sản phải nộp tiền đặt trước trước khi tham gia cuộc đấu giá. Tiền đặt trước có thể nộp bằng tiền mặt hoặc bằng bảo lãnh dự đấu giá theo phương thức như sau:
++ Trường hợp nộp bằng tiền mặt, tổ chức, cá nhân tham gia đấu giá nộp vào tài khoản thanh toán riêng của Tổ chức đấu giá tài sản mở tại ngân hàng thương mại, chi nhánh ngân hàng nước ngoài tại Việt Nam (TH1) hoặc nộp vào tài khoản của Cục Khoáng sản Việt Nam (TH2);
++ Trường hợp nộp bằng bảo lãnh dự đấu giá, tổ chức, cá nhân đề nghị tham gia đấu giá phải nộp bảo lãnh dự đấu giá cho Tổ chức đấu giá tài sản (TH1) hoặc Cục Khoáng sản Việt Nam (TH2).
+- Bước 4. Tổ chức phiên đấu giá quyền khai thác khoáng sản.
++ Cuộc đấu giá quyền khai thác khoáng sản chỉ được tiến hành khi có ít nhất 02 tổ chức, cá nhân tham gia đấu giá;
++ Chủ tịch Hội đồng đấu giá hoặc đấu giá viên tiến hành điều hành cuộc đấu giá theo quy định.
+- Bước 5. Trình, phê duyệt kết quả trúng đấu giá quyền khai thác khoáng sản.
+Sau khi kết thúc cuộc đấu giá quyền khai thác khoáng sản, Cục Khoáng sản Việt Nam phải trình Bộ Tài nguyên và Môi trường xem xét và phê duyệt kết quả trúng đấu giá.
+-         Bước 6. Thông báo kết quả trúng đấu giá quyền khai thác khoáng sản.
+Cục Khoáng sản Việt Nam thông báo công khai tại trụ sở cơ quan tiếp nhận hồ sơ đấu giá, trang thông tin điện tử của Bộ Tài nguyên và Môi trường và trang thông tin điện tử của Ủy ban nhân dân cấp tỉnh nơi có khu vực khoáng sản được đấu giá.

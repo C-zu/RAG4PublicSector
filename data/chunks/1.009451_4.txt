@@ -1,0 +1,8 @@
+Tên thủ tục: Thỏa thuận thiết lập báo hiệu đường thủy nội địa đối với công trình xây dựng, hoạt động trên đường thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thỏa thuận thiết lập báo hiệu theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc552a892478f30'">12.docx</a>)
+- 01 Bản chính - Sơ đồ dự kiến vị trí báo hiệu.

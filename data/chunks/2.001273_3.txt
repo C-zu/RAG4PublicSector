@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục xác nhận liệt sĩ đối với những trường hợp hy sinh từ 31/12/1994 trở về trước
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày làm việc|Lệ phí : 0 Đồng|40 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. a) Ban Chỉ huy quân sự cấp huyện, Bộ Chỉ huy quân sự cấp tỉnh, Cục Chính trị quân khu, mỗi cấp: 10 ngày làm việc. b) Cục Chính sách/Tổng cục Chính trị: 10 ngày làm việc. c) Bộ Lao động - Thương binh và Xã hội: Không quy định * Các thức thực hiện: Thân nhân đối tượng gửi trực tiếp hồ sơ đến Ủy ban nhân dân cấp xã.|

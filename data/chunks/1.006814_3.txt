@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp bổ sung, sửa đổi giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa vật liệu xây dựng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, hợp lệ;|
+|Trực tuyến|10 Ngày làm việc||10 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, hợp lệ;|

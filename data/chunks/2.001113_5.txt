@@ -1,0 +1,22 @@
+Tên thủ tục: Thu hồi chứng chỉ hành nghề Quản tài viên
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Bộ Tư pháp
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định thu hồi chứng chỉ hành nghề quản tài viên
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|51/2014/QH13|Luật 51/2014/QH13-Phá sản|19-06-2014|Chính phủ|
+|Nghị định 22/2015/NĐ-CP|Nghị định 22/2015/NĐ-CP-Quy định chi tiết thi hành một số điều của Luật Phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản|16-02-2015|Chính phủ|

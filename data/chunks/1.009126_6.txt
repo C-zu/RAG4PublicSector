@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục công nhận địa điểm thu gom hàng lẻ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
++) Địa điểm thu gom hàng lẻ phải nằm trong khu vực quy định tại khoản 1 Điều 62 Luật hải quan.
++) Địa điểm thu gom hàng lẻ có diện tích kho tối thiểu 1.000 m2 không bao gồm bãi và các công trình phụ trợ, phải có hàng rào ngăn cách với khu vực xung quanh.
++) Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, số lượng, tình trạng của hàng hóa, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ trong địa điểm thu gom hàng lẻ chi tiết theo vận đơn và/hoặc tờ khai hải quan để quản lý theo Hệ thống quản lý, giám sát hàng hóa tự động.
++)  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan quản lý. Hình ảnh quan sát được mọi vị trí của địa điểm thu gom hàng lẻ vào tất cả thời điểm trong ngày (24/24 giờ), dữ liệu về hình ảnh lưu giữ tối thiểu 06 tháng.
++) Địa điểm thu gom hàng lẻ phải nằm trong khu vực quy định tại khoản 1 Điều 62 Luật hải quan.
++) Địa điểm thu gom hàng lẻ có diện tích kho tối thiểu 1.000 m2 không bao gồm bãi và các công trình phụ trợ, phải có hàng rào ngăn cách với khu vực xung quanh.
++) Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, số lượng, tình trạng của hàng hóa, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ trong địa điểm thu gom hàng lẻ chi tiết theo vận đơn và/hoặc tờ khai hải quan để quản lý theo Hệ thống quản lý, giám sát hàng hóa tự động.
++)  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan quản lý. Hình ảnh quan sát được mọi vị trí của địa điểm thu gom hàng lẻ vào tất cả thời điểm trong ngày (24/24 giờ), dữ liệu về hình ảnh lưu giữ tối thiểu 06 tháng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

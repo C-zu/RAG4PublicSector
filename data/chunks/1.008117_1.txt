@@ -1,0 +1,16 @@
+Tên thủ tục: Nhập khẩu lần đầu đực giống, tinh, phôi, giống gia súc
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008117
+Số quyết định:
+3279/QĐ-BNN-VP
+Tên thủ tục:
+Nhập khẩu lần đầu đực giống, tinh, phôi, giống gia súc
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chăn nuôi

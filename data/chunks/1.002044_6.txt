@@ -1,0 +1,38 @@
+Tên thủ tục: Cấp giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được cấp Giấy phép cung cấp dịch vụ trò chơi điện tử G1 khi có đủ các điều kiện sau đây:
+1. Là doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam, có ngành nghề cung cấp dịch vụ trò chơi điện tử trên mạng đã được đăng tải trên Cổng thông tin đăng ký doanh nghiệp quốc gia của doanh nghiệp;
+2. Đã đăng ký tên miền sử dụng để cung cấp dịch vụ;
+3. Có đủ khả năng tài chính, kỹ thuật, nhân sự phù hợp với quy mô hoạt động và theo quy định sau:
+a) Có trụ sở chính với địa chỉ và số điện thoại liên hệ rõ ràng và liên hệ được;
+b) Có ít nhất 01 nhân sự quản trị trò chơi điện tử;
+c) Hệ thống thiết bị cung cấp dịch vụ trò chơi điện tử cho tất cả các trò chơi của doanh nghiệp bảo đảm đáp ứng các điều kiện sau:
+- Có khả năng lưu trữ, cập nhật đầy đủ thông tin cá nhân của người chơi bao gồm: Họ và tên; ngày, tháng, năm sinh; địa chỉ đăng ký thường trú; số chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, ngày cấp, nơi cấp; số điện thoại, địa chỉ thư điện tử (nếu có). Trường hợp người chơi dưới 14 tuổi và chưa có chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, người giám hộ hợp pháp của người chơi quyết định việc đăng ký thông tin cá nhân của người giám hộ để thể hiện sự đồng ý và chịu trách nhiệm trước pháp luật về việc đăng ký đó;
+- Hệ thống quản lý thanh toán cho các trò chơi điện tử của doanh nghiệp phải đặt tại Việt Nam và kết nối với các doanh nghiệp cung cấp dịch vụ hỗ trợ thanh toán của Việt Nam, bảo đảm cập nhật, lưu trữ chính xác, đầy đủ và cho phép người chơi có thể tra cứu được thông tin chi tiết về tài Khoản thanh toán của mình;
+- Quản lý thời gian chơi của người chơi từ 00h00 đến 24h00 hàng ngày và bảo đảm tổng thời gian chơi tất cả các trò chơi điện tử G1 của một doanh nghiệp đối với mỗi người chơi dưới 18 tuổi không quá 180 phút trong 24 giờ mỗi ngày;
+- Hiển thị liên tục được kết quả phân loại trò chơi điện tử theo độ tuổi đối với tất cả các trò chơi do doanh nghiệp cung cấp khi giới thiệu, quảng cáo trò chơi, cung cấp dịch vụ trò chơi điện tử; có thông tin khuyến cáo với nội dung “Chơi quá 180 phút một ngày sẽ ảnh hưởng xấu đến sức khỏe” tại vị trí dễ nhận biết ở diễn đàn của trò chơi và trên màn hình thiết bị của người chơi trong suốt quá trình chơi.
+d) Có biện pháp kỹ thuật, nghiệp vụ quản lý nội dung diễn đàn trò chơi (nếu có), tuân thủ theo quy định tại Khoản 2 Điều 23d Nghị định số 27/2018/NĐ-CP.
+đ) Có phương án dự phòng về thiết bị và kết nối, phương án sao lưu dữ liệu để bảo đảm an toàn hệ thống khi có sự cố xảy ra.
+e) Có phương án bảo đảm an toàn, an ninh thông tin và bí mật thông tin cá nhân của người chơi.
+4. Có biện pháp bảo đảm an toàn thông tin và an ninh thông tin.
+Doanh nghiệp được cấp Giấy phép cung cấp dịch vụ trò chơi điện tử G1 khi có đủ các điều kiện sau đây:
+1. Là doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam, có ngành nghề cung cấp dịch vụ trò chơi điện tử trên mạng đã được đăng tải trên Cổng thông tin đăng ký doanh nghiệp quốc gia của doanh nghiệp;
+2. Đã đăng ký tên miền sử dụng để cung cấp dịch vụ;
+3. Có đủ khả năng tài chính, kỹ thuật, nhân sự phù hợp với quy mô hoạt động và theo quy định sau:
+a) Có trụ sở chính với địa chỉ và số điện thoại liên hệ rõ ràng và liên hệ được;
+b) Có ít nhất 01 nhân sự quản trị trò chơi điện tử;
+c) Hệ thống thiết bị cung cấp dịch vụ trò chơi điện tử cho tất cả các trò chơi của doanh nghiệp bảo đảm đáp ứng các điều kiện sau:
+- Có khả năng lưu trữ, cập nhật đầy đủ thông tin cá nhân của người chơi bao gồm: Họ và tên; ngày, tháng, năm sinh; địa chỉ đăng ký thường trú; số chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, ngày cấp, nơi cấp; số điện thoại, địa chỉ thư điện tử (nếu có). Trường hợp người chơi dưới 14 tuổi và chưa có chứng minh nhân dân/thẻ căn cước công dân/hộ chiếu, người giám hộ hợp pháp của người chơi quyết định việc đăng ký thông tin cá nhân của người giám hộ để thể hiện sự đồng ý và chịu trách nhiệm trước pháp luật về việc đăng ký đó;
+- Hệ thống quản lý thanh toán cho các trò chơi điện tử của doanh nghiệp phải đặt tại Việt Nam và kết nối với các doanh nghiệp cung cấp dịch vụ hỗ trợ thanh toán của Việt Nam, bảo đảm cập nhật, lưu trữ chính xác, đầy đủ và cho phép người chơi có thể tra cứu được thông tin chi tiết về tài Khoản thanh toán của mình;
+- Quản lý thời gian chơi của người chơi từ 00h00 đến 24h00 hàng ngày và bảo đảm tổng thời gian chơi tất cả các trò chơi điện tử G1 của một doanh nghiệp đối với mỗi người chơi dưới 18 tuổi không quá 180 phút trong 24 giờ mỗi ngày;
+- Hiển thị liên tục được kết quả phân loại trò chơi điện tử theo độ tuổi đối với tất cả các trò chơi do doanh nghiệp cung cấp khi giới thiệu, quảng cáo trò chơi, cung cấp dịch vụ trò chơi điện tử; có thông tin khuyến cáo với nội dung “Chơi quá 180 phút một ngày sẽ ảnh hưởng xấu đến sức khỏe” tại vị trí dễ nhận biết ở diễn đàn của trò chơi và trên màn hình thiết bị của người chơi trong suốt quá trình chơi.
+d) Có biện pháp kỹ thuật, nghiệp vụ quản lý nội dung diễn đàn trò chơi (nếu có), tuân thủ theo quy định tại Khoản 2 Điều 23d Nghị định số 27/2018/NĐ-CP.
+đ) Có phương án dự phòng về thiết bị và kết nối, phương án sao lưu dữ liệu để bảo đảm an toàn hệ thống khi có sự cố xảy ra.
+e) Có phương án bảo đảm an toàn, an ninh thông tin và bí mật thông tin cá nhân của người chơi.
+4. Có biện pháp bảo đảm an toàn thông tin và an ninh thông tin.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

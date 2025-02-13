@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, phê duyệt đề cương, kết quả kiểm định an toàn đập, hồ chứa thủy lợi thuộc thẩm quyền của UBND tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị phê duyệt
+- 01 Bản chính Dự thảo đề cương kiểm định an toàn đập, hồ chứa thủy lợi
+- 01 Bản chính Các tài liệu liên quan khác kèm theo (nếu có).

@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011300
+Số quyết định:
+781/QĐ-UBND
+Tên thủ tục:
+Xác nhận điều kiện chuyển nhượng quyền sử dụng đất và tài sản khác gắn liền với đất cho Chủ đầu tư dự án phát triển nhà ở đầu tư xây dựng để bán
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đất đai
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ giải quyết thủ tục hành chính tại Bộ phận TN&TKQ của Sở Tài nguyên và môi trường (TN&MT) tại Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì hướng dẫn bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
++ Nếu hồ sơ đầy đủ, hợp lệ thì tiếp nhận hồ sơ, hẹn trả kết quả cho tổ chức, cá nhân.
+Bước 2: Chuyển hồ sơ về Sở TN&MT; Văn thư tiếp nhận hồ sơ chuyển cho Phòng Đất đai 1 giải quyết
+Bước 3: Xem xét xử lý hồ sơ:
+- Nếu hồ sơ không đủ điều kiện xử lý tham mưu Văn bản trả hồ sơ chuyển kèm hồ sơ cho Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B9.
+- Nếu hồ sơ đủ điều kiện xử lý và xét thấy cần tổ chức kiểm tra thực địa thì tham mưu tổ chức kiểm tra thực địa (phối hợp các cơ quan, đơn vị liên quan).
+Bước 4: Sau kiểm tra thực địa: 
++ Nếu đủ điều kiện thì dự thảo Văn bản thông báo trình Lãnh đạo phòng duyệt, ký nháy.
++ Nếu không đủ điều kiện dự thảo Văn bản trả hồ sơ trình Lãnh đạo phòng duyệt ký nháy.
+Bước 5:  Duyệt ký nháy kết quả thực hiện bước B4, trình Lãnh đạo Sở ký.
+Bước 6: Ký duyệt kết quả thực hiện tại bước B5.
+Bước 7: Đóng dấu và phát hành văn bản và  chuyển kết quả về công chức TN&TKQ Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh.
+- Cập nhật kết quả, lưu hồ sơ.
+Bước 8: Trả kết quả giải quyết và thu phí theo quy định (nếu có).
+
+* Trường hợp hồ sơ quá hạn xử lý, trong thời gian chậm nhất 01 ngày trước ngày hết hạn xử lý, cơ quan giải quyết TTHC ban hành phiếu xin lỗi và hẹn lại ngày trả kết quả chuyển sang Trung tâm Phục vụ hành chính công tỉnh để gửi cho tổ chức, cá nhân.
+* Trong quá trình giải quyết hồ sơ người có trách nhiệm thực hiện cần thực hiện đồng thời các thao tác tiếp nhận/chuyển/trả hồ sơ, kết quả giải quyết trên phần mềm: http://dichvucong.hatinh.gov.vn với các bước trong quy trình.
+
+* Lưu ý khi nộp hồ sơ: 
++ Nếu nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công, trường hợp yêu cầu bản sao thì kèm theo bản gốc để đối chiếu;
++ Nếu nộp hồ sơ qua đường bưu điện thì nộp bản sao có chứng thực của cơ quan có thẩm quyền;
++ Nếu nộp hồ sơ qua mạng điện tử thì quét (Scan) từ bản chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh Hà Tĩnh (Số 02A - đường Nguyễn Chí Thanh - thành phố Hà Tĩnh - tỉnh Hà Tĩnh).|
+|Trực tuyến|10 Ngày làm việc||Qua mạng điện tử: http://dichvucong.hatinh.gov.vn.|
+|Dịch vụ bưu chính|10 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Báo cáo kết quả thực hiện dự án kèm theo văn bản đề nghị của chủ đầu tư.
+- 01 Bản chính Quyết định phê duyệt dự án hoặc quyết định đầu tư hoặc giấy phép đầu tư hoặc giấy chứng nhận đầu tư.
+- 01 Bản chính Quyết định phê duyệt quy hoạch xây dựng chi tiết tỷ lệ 1/500; giấy phép xây dựng (nếu có).
+- 01 Bản sao Giấy chứng nhận hoặc quyết định giao đất, cho thuê đất của cơ quan có thẩm quyền; chứng từ thực hiện nghĩa vụ tài chính của chủ dự án phát triển nhà ở (trừ trường hợp được miễn hoặc chậm nộp theo quy định của pháp luật).
+- 01 Bản sao Sơ đồ nhà, đất đã xây dựng là bản vẽ mặt bằng hoàn công hoặc bản vẽ thiết kế mặt bằng có kích thước các cạnh của từng căn hộ đã bán phù hợp với hiện trạng xây dựng và hợp đồng đã ký; danh sách các căn hộ, công trình xây dựng để bán (có các thông tin số hiệu căn hộ, diện tích đất, diện tích xây dựng và diện tích sử dụng chung, riêng của từng căn hộ); trường hợp nhà chung cư thì sơ đồ phải thể hiện phạm vi (kích thước, diện tích) phần đất sử dụng chung của các chủ căn hộ, mặt bằng xây dựng nhà chung cư, mặt bằng của từng tầng, từng căn hộ.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh Hà Tĩnh (Số 02A - đường Nguyễn Chí Thanh - thành phố Hà Tĩnh - tỉnh Hà Tĩnh).
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Sở Xây dựng, Ủy ban nhân dân cấp xã, Phòng Tài nguyên Môi trường
+Kết quả thực hiện:
+Văn bản thông báo kết quả hoặc Văn bản trả hồ sơ
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

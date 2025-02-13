@@ -1,0 +1,10 @@
+Tên thủ tục: Cho thuê nhà ở cũ thuộc sở hữu nhà nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thuê nhà ở cũ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdab2d51bed98de'">Don thue nha o cu thuoc SHNN.docx</a>)
+- 01 Bản chính - Giấy tờ chứng minh việc sử dụng nhà ở;
+- 01 Bản sao - Bản sao Giấy chứng minh thư nhân dân hoặc Thẻ căn cước công dân hoặc hộ chiếu đang còn giá trị hoặc Thẻ quân nhân của người có đơn đề nghị thuê nhà ở; trường hợp là vợ chồng phải có thêm bản sao có chứng thực sổ hộ khẩu gia đình hoặc giấy đăng ký kết hôn;
+- 01 Bản sao - Bản sao giấy tờ chứng minh thuộc đối tượng được miễn, giảm tiền thuê nhà ở (nếu có).

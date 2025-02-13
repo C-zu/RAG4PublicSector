@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy phép kết nối các tuyến đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép kết nối của chủ đầu tư theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab694c8f63cd60'">11-Mẫu đơn đề nghị .doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường mạng) các tài liệu sau: - Quyết định đầu tư dự án có các tuyến đường sắt đề xuất kết nối; - Hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công các công trình kèm theo Quyết định phê duyệt theo quy định của pháp luật; - Phương án tổ chức thi công kết nối các công trình và biện pháp bảo đảm an toàn thi công; - Phương án tổ chức chạy tàu trên tuyến đường sắt đã được kết nối và giải pháp bảo đảm an toàn giao thông sau khi kết nối.

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép bưu chính khi bị mất hoặc hư hỏng không sử dụng được (Trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : 1.000.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb562318ad135c'">25-btc.signed.pdf</a>|Nộp hồ sơ trực tiếp tại trụ sở Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|
+|Trực tuyến|7 Ngày làm việc|Phí : 1.000.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb562318ad135c'">25-btc.signed.pdf</a>|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn) hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : 1.000.000 Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb562318ad135c'">25-btc.signed.pdf</a>|Nộp hồ sơ qua dịch vụ bưu chính tới Bộ Thông tin và Truyền thông, số 18 Nguyễn Du, Hà Nội.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Xuất khẩu giống vật nuôi, sản phẩm giống vật nuôi trong Danh mục giống vật nuôi cấm xuất khẩu phục vụ nghiên cứu khoa học, triển lãm, quảng cáo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Kiểm tra tính đầy đủ của hồ sơ: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ.|||
+|Trực tiếp|- Thẩm định hồ sơ: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 850.000 Đồng 01 giống/lần||
+|Dịch vụ bưu chính|Chưa quy định|||

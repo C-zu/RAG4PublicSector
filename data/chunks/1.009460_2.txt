@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố đóng luồng đường thủy nội địa khi không có nhu cầu khai thác, sử dụng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân có luồng không có nhu cầu khai thác, sử dụng nộp hồ sơ đến Cục Đường thủy nội địa Việt Nam (đối với luồng quốc gia, luồng chuyên dùng nối với luồng quốc gia) hoặc Sở Giao thông vận tải (đối với luồng địa phương, luồng chuyên dùng nối với luồng địa phương).
+b) Giải quyết TTHC:
+- Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Đường thủy nội địa Việt Nam thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Giao thông vận tải; Sở Giao thông vận tải thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Ủy ban nhân dân cấp tỉnh;
+- Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ và báo cáo của Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải thì Bộ Giao thông vận tải, Ủy ban nhân dân cấp tỉnh ban hành quyết định công bố đóng luồng theo phạm vi quản lý.

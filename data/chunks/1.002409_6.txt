@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện nhập khẩu thuốc thú y
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Có Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp;
+- Có địa điểm, cơ sở vật chất, kỹ thuật phù hợp;
+- Người quản lý, người trực tiếp bán thuốc thú y phải có Chứng chỉ hành nghề thú y;
+- Có kho đủ điều kiện bảo quản thuốc; có kho riêng để bảo quản nguyên liệu, phụ liệu, thuốc thành phẩm; có kho riêng bên ngoài để bảo quản dung môi và nguyên liệu dễ cháy nổ; Tránh sự xâm nhập của các loại côn trùng và động vật khác; nền, tường, trần không ngấm nước, dễ vệ sinh, khử trùng, tiêu độc; tường trần được làm bằng vật liệu bền, chắc, dễ vệ sinh;
+- Có quạt thông gió, hệ thống điều hòa không khí để bảo đảm điều kiện bảo quản ghi trên nhãn của sản phẩm; có nhiệt kế, ẩm kế theo dõi điều kiện bảo quản của sản phẩm. Đối với cơ sở nhập khẩu vắc xin, chế phẩm sinh học phải có kho riêng bảo quản, có máy phát điện dự phòng, có trang thiết bị, phương tiện vận chuyển bảo đảm điều kiện bảo quản ghi trên nhãn sản phẩm trong quá trình vận chuyển, phân phối;
+- Có đủ quầy, tủ, giá kệ để chứa, đựng và trưng bày sản phẩm phải đảm bảo chắc chắn, dễ vệ sinh và tránh được những tác động bất lợi của ánh sáng, nhiệt độ, độ ẩm, nấm mốc, động vật gặm nhấm và côn trùng gây hại;
+Có trang thiết bị để bảo đảm điều kiện bảo quản ghi trên nhãn của sản phẩm; có nhiệt kế, ẩm kế theo dõi điều kiện bảo quản sản phẩm. Đối với cơ sở buôn bán vắc xin, chế phẩm sinh học phải có tủ lạnh, tủ mát hoặc kho lạnh; có nhiệt kế để kiểm tra điều kiện bảo quản; có máy phát điện dự phòng, vật dụng, phương tiện vận chuyển phân phối vắc xin bảo đảm điều kiện bảo quản ghi trên nhãn sản phẩm;
+- Có giấy chứng nhận lưu hành thuốc thú y tai Việt Nam hoặc giấy phép nhập khẩu thuốc thú y theo quy định;
+- Có hồ sơ kiểm soát chất lượng và theo dõi xuất, nhập đối với từng loại thuốc.
+- Có Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp;
+- Có địa điểm, cơ sở vật chất, kỹ thuật phù hợp;
+- Người quản lý, người trực tiếp bán thuốc thú y phải có Chứng chỉ hành nghề thú y;
+- Có kho đủ điều kiện bảo quản thuốc; có kho riêng để bảo quản nguyên liệu, phụ liệu, thuốc thành phẩm; có kho riêng bên ngoài để bảo quản dung môi và nguyên liệu dễ cháy nổ; Tránh sự xâm nhập của các loại côn trùng và động vật khác; nền, tường, trần không ngấm nước, dễ vệ sinh, khử trùng, tiêu độc; tường trần được làm bằng vật liệu bền, chắc, dễ vệ sinh;
+- Có quạt thông gió, hệ thống điều hòa không khí để bảo đảm điều kiện bảo quản ghi trên nhãn của sản phẩm; có nhiệt kế, ẩm kế theo dõi điều kiện bảo quản của sản phẩm. Đối với cơ sở nhập khẩu vắc xin, chế phẩm sinh học phải có kho riêng bảo quản, có máy phát điện dự phòng, có trang thiết bị, phương tiện vận chuyển bảo đảm điều kiện bảo quản ghi trên nhãn sản phẩm trong quá trình vận chuyển, phân phối;
+- Có đủ quầy, tủ, giá kệ để chứa, đựng và trưng bày sản phẩm phải đảm bảo chắc chắn, dễ vệ sinh và tránh được những tác động bất lợi của ánh sáng, nhiệt độ, độ ẩm, nấm mốc, động vật gặm nhấm và côn trùng gây hại;
+Có trang thiết bị để bảo đảm điều kiện bảo quản ghi trên nhãn của sản phẩm; có nhiệt kế, ẩm kế theo dõi điều kiện bảo quản sản phẩm. Đối với cơ sở buôn bán vắc xin, chế phẩm sinh học phải có tủ lạnh, tủ mát hoặc kho lạnh; có nhiệt kế để kiểm tra điều kiện bảo quản; có máy phát điện dự phòng, vật dụng, phương tiện vận chuyển phân phối vắc xin bảo đảm điều kiện bảo quản ghi trên nhãn sản phẩm;
+- Có giấy chứng nhận lưu hành thuốc thú y tai Việt Nam hoặc giấy phép nhập khẩu thuốc thú y theo quy định;
+- Có hồ sơ kiểm soát chất lượng và theo dõi xuất, nhập đối với từng loại thuốc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

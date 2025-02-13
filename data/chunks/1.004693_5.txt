@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận điều kiện vệ sinh thú y (cấp trung ương)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Thú y - Bộ NN-PTNT, Chi cục Thú Y vùng I - Bộ NN-PTNT, Chi cục Thú Y vùng II - Bộ NN-PTNT, Chi cục Thú Y vùng III - Bộ NN-PTNT, Chi cục Thú Y vùng IV - Bộ NN-PTNT, Chi cục Thú Y vùng V - Bộ NN-PTNT, Chi cục Thú Y vùng VI - Bộ NN-PTNT, Chi cục Thú Y vùng VII - Bộ NN-PTNT, Chi cục Kiểm dịch động vật vùng Lạng Sơn - Bộ NN-PTNT, Chi cục Kiểm dịch động vật vùng Lào Cai - Bộ NN-PTNT, Chi cục Kiểm dịch động vật vùng Quảng Ninh - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thú y, số 15 ngõ 78 đường Giải Phóng, Phương Mai, Đống Đa, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận điều kiện vệ sinh thú y (TT10)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|09/2016/TT-BNNPTNT|Quy định về kiểm soát giết mổ và kiểm tra vệ sinh thú y|01-06-2016|Bộ Nông nghiệp và Phát triển nông thôn|
+|101/2020/TT-BTC|Thông tư 101/2020/TT-BTC|23-11-2020||
+|10/2022/TT-BNNPTNT|Thông tư sửa đổi bổ sung một số điều của Thông tư số 09/2016/TT-BNNPTNT ngày 01/6/2016 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về kiểm soát giết mổ và kiểm tra vệ sinh thú y|14-09-2022|Bộ Nông nghiệp và Phát triển nông thôn|

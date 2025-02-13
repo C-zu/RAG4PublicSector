@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép tổ chức triển lãm, hội chợ xuất bản phẩm (cấp Trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|10 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, phường Cửa Đông, quận Hoàn Kiếm, Hà Nội);|
+|Dịch vụ bưu chính|10 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn).|

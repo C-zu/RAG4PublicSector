@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài và có quốc tịch Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Giấy tờ phải nộp
+- 01 Bản chính, 01 Bản sao - Tờ khai đăng ký khai sinh theo mẫu tại Phụ lục Thông tư số 04/2020/TT-BTP (nếu người có yêu cầu lựa chọn nộp hồ sơ theo hình thức trực tiếp). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9d7320eb0ff0e'">1. TK dang ky khai sinh.doc</a>)
+- 01 Bản chính, 01 Bản sao - Giấy chứng sinh hoặc giấy tờ khác do cơ quan có thẩm quyền nước ngoài cấp, xác nhận về việc trẻ em được sinh ra và quan hệ mẹ - con. Trong trường hợp không có các giấy tờ nêu trên thì nộp văn bản của người làm chứng xác nhận về việc sinh; nếu không có người làm chứng thì phải có giấy cam đoan về việc sinh. - Văn bản của cha mẹ thỏa thuận lựa chọn quốc tịch Việt Nam cho con đối với trường hợp trẻ em có cha hoặc mẹ là công dân Việt Nam còn người kia là người nước ngoài. Nếu cha, mẹ không nộp hồ sơ trực tiếp thì chữ ký trên văn bản thỏa thuận lựa chọn quốc tịch cho con phải được chứng thực hợp lệ.
+
+
+Giấy tờ phải xuất trình
+- 01 Bản chính, 01 Bản sao - Hộ chiếu hoặc giấy tờ có giá trị thay thế hộ chiếu, chứng minh nhân dân, thẻ căn cước công dân, thẻ căn cước hoặc các giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân, quốc tịch của cha, mẹ trẻ em. - Giấy tờ chứng minh nơi cư trú để xác định thẩm quyền đăng ký khai sinh. Trường hợp gửi hồ sơ qua đường hệ thống bưu chính thì nộp bản sao các giấy tờ nêu trên đã được chứng thực hợp lệ. Trường hợp người yêu cầu là công dân Việt Nam và đã được cấp thẻ Căn cước công dân hoặc thẻ Căn cước có số định danh cá nhân thì có thể xuất trình bản chính giấy tờ đó (nếu nộp trực tiếp) hoặc nộp bản chụp giấy tờ này (nếu nộp qua hệ thống bưu chính hoặc gửi qua hệ thống đăng ký hộ tịch trực tuyến) để chứng minh nhân thân khi cơ sở hạ tầng kỹ thuật cho phép Cơ quan đại diện Việt Nam ở nước ngoài kết nối với CSDLQGVDC. - Giấy tờ chứng minh quan hệ hôn nhân nếu cha, mẹ của trẻ đã đăng ký kết hôn, trừ trường hợp cả cha, mẹ trẻ em đều là công dân Việt Nam, có số định danh cá nhân, đã đăng ký kết hôn hoặc ghi vào sổ việc đăng ký kết hôn tại cơ quan có thẩm quyền của Việt Nam và Cơ quan đại diện Việt Nam ở nước ngoài đã kết nối với Cơ sở dữ liệu hộ tịch điện tử.

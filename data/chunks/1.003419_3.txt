@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục giải quyết hưởng chế độ tử tuất hằng tháng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|90 Ngày|Lệ phí : 0 Đồng|45 ngày hoặc 90 ngày, cụ thể: 1. Trường hợp thân nhân người lao động cư trú trong một tỉnh: 45 ngày + Cấp trung đoàn và tương đương: 30 ngày; + Cấp sư đoàn và tương đương: 10 ngày; + Cấp đơn vị trực thuộc Bộ: 05 ngày; 2. Trường hợp thân nhân người lao động cư trú ở nhiều tỉnh thì thời gian giải quyết ở cấp trung đoàn và tương đương là 75 ngày. 3. Bảo hiểm xã hội Bộ Quốc phòng: 15 ngày * Cách thức thực hiện: Thân nhân của người lao động trực tiếp nộp hồ sơ theo quy định cho cơ quan nhân sự cấp trung đoàn và tương đương.|

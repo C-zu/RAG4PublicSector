@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép thăm dò nước dưới đất đối với công trình có lưu lượng từ 3.000m3/ngày đêm trở lên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf1b006b7a5c92'">Mẫu 01_Tham do NDĐ.doc</a>)
+- 01 Bản chính Đề án thăm dò nước dưới đất đối với công trình có quy mô từ 200 m3/ngày đêm trở lên (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3cdc0eb4036f0'">Mẫu 21.doc</a>)

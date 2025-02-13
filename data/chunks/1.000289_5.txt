@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng Hải Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|189/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải|08-11-2016|Bộ Tài chính|
+|27/2016/TT-BGTVT|Quy định về đào tạo, cấp, thu hồi Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải và Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải|12-10-2016|Bộ Giao thông vận tải|
+|54/2023/TT-BGTVT|Sửa đổi Thông tư 27/2016/TT-BGTVT quy định về đào tạo, cấp, thu hồi Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải và Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải|31-12-2023|Bộ Giao thông vận tải|

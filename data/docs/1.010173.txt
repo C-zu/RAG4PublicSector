@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010173
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Cấp lại Giấy phép thành lập Văn phòng đại diện của Thương nhân nước ngoài tại Việt Nam - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Dịch vụ thương mại
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý. Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ, dự thảo Giấy phép thành lập Văn phòng đại diện.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa để trả lại.
+B5	Xem xét, trình lãnh đạo cơ quan phê duyệt 
+B6	Phê duyệt kết quả giải quyết TTHC
+B7	Phát hành văn bản và trả kết quả cho TTHC công
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 1500000 Đồng||
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 1500000 Đồng||
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 1500000 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép thành lập Văn phòng đại diện BM.TM.02.01
+- 01 Bản chính Thông báo về việc chấm dứt hoạt động Văn phòng đại diện gửi Cơ quan cấp Giấy phép nơi chuyển đi theo quy định tại Điểm a Khoản 1 Điều 36 Nghị định 07/2016/NĐ-CP
+- 01 Bản sao Bản sao Giấy phép thành lập Văn phòng đại diện đã được cấp
+- 01 Bản sao Tài liệu về địa điểm dự kiến đặt trụ sở Văn phòng đại diện nơi chuyển đến theo quy định tại Điểm e khoản 1 Điều 10 Nghị định 07/2016/NĐ-CP
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Giấy phép thành lập văn phòng đại diện;
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|36/2005/QH11|Luật Thương mại năm 2005|14-06-2005|Quốc Hội|
+|07/2016/NĐ-CP|Nghị định 07/2016/NĐ-CP|25-01-2016||
+|11/2016/TT-BCT|Thông tư 11/2016/TT-BCT|05-07-2016||
+|143/2016/TT-BTC|Thông tư 143/2016/TT-BTC|26-09-2016||
+
+Yêu cầu, điều kiện thực hiện:
+Thương nhân nước ngoài làm thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện trong những trường hợp sau:
+1. Chuyển địa điểm đặt trụ sở của Văn phòng đại diện từ một tỉnh, thành phố trực thuộc Trung ương, hoặc khu vực địa lý thuộc phạm vi quản lý của một Ban quản lý đến một tỉnh, thành phố trực thuộc Trung ương khác hoặc khu vực địa lý thuộc phạm vi quản lý của một Ban quản lý khác.
+2. Giấy phép thành lập Văn phòng đại diện bị mất, bị huỷ hoại, bị hư hỏng hoặc bị tiêu huỷ dưới mọi hình thức.
+Thương nhân nước ngoài làm thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện trong những trường hợp sau:
+1. Chuyển địa điểm đặt trụ sở của Văn phòng đại diện từ một tỉnh, thành phố trực thuộc Trung ương, hoặc khu vực địa lý thuộc phạm vi quản lý của một Ban quản lý đến một tỉnh, thành phố trực thuộc Trung ương khác hoặc khu vực địa lý thuộc phạm vi quản lý của một Ban quản lý khác.
+2. Giấy phép thành lập Văn phòng đại diện bị mất, bị huỷ hoại, bị hư hỏng hoặc bị tiêu huỷ dưới mọi hình thức.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

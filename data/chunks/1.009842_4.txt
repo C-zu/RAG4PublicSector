@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục sửa đổi giấy phép tiến hành công việc bức xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị sửa đổi giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb6ceefb17108e'">Mau 7_Don sua doi, bo sung GP.doc</a>)
+- 01 Bản chính Bản gốc giấy phép
+- 01 Bản chính Các văn bản xác nhận thông tin sửa đổi cho các trường hợp thay đổi tên, địa chỉ, số điện thoại, số fax
+- 01 Bản sao Bản sao hợp đồng chuyển nhượng đối với trường hợp giảm số lượng nguồn phóng xạ, thiết bị bức xạ do chuyển nhượng; bản sao giấy phép xuất khẩu kèm tờ khai hải quan đối với trường hợp giảm số lượng nguồn phóng xạ do xuất khẩu; văn bản thông báo của cơ sở về việc chấm dứt sử dụng hoặc chấm dứt vận hành; văn bản xác nhận nguồn phóng xạ bị mất đối với trường hợp mất nguồn
+- 01 Bản chính Các văn bản chứng minh các thông tin về nguồn phóng xạ, thiết bị bức xạ trong giấy phép đã cấp khác với thông tin về nguồn phóng xạ, thiết bị bức xạ trên thực tế và cần hiệu đính.

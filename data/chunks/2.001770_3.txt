@@ -1,0 +1,9 @@
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành (cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : Không quy định.|- 45 ngày (trường hợp nộp cùng với hồ sơ đề nghị cấp giấy phép khai thác tài nguyên nước); - 38 ngày (trường hợp nộp cùng hồ sơ đề nghị gia hạn, điều chỉnh giấy phép khai thác tài nguyên nước)|
+|Trực tuyến|45 Ngày|Phí : Không quy định.|- 45 ngày (trường hợp nộp cùng với hồ sơ đề nghị cấp giấy phép khai thác tài nguyên nước); - 38 ngày (trường hợp nộp cùng hồ sơ đề nghị gia hạn, điều chỉnh giấy phép khai thác tài nguyên nước)|
+|Dịch vụ bưu chính|45 Ngày|Phí : Không quy định.|- 45 ngày (trường hợp nộp cùng với hồ sơ đề nghị cấp giấy phép khai thác tài nguyên nước); - 38 ngày (trường hợp nộp cùng hồ sơ đề nghị gia hạn, điều chỉnh giấy phép khai thác tài nguyên nước)|

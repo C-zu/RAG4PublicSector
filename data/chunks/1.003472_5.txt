@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký sử dụng thương hiệu của hãng hàng không khác đối với hãng hàng không kinh doanh vận chuyển hàng không, kinh doanh hàng không chung vì mục đích thương mại
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng không Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký sử dụng thương hiệu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|66/2006/QH11|Hàng không dân dụng Việt Nam|29-06-2006|Quốc Hội|
+|30/2013/NĐ-CP|Về kinh doanh vận chuyển hàng không và hoạt động hàng không chung|08-04-2013|Chính phủ|
+|61/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam|21-11-2014|Quốc Hội|
+|89/2019/NĐ-CP|sửa đổi, bổ sung một số điều của Nghị định số 92/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng và Nghị định số 30/2013/NĐ-CP ngày 08 tháng 4 năm 2013 của Chính phủ về kinh doanh vận chuyển hàng không và hoạt động hàng không chung|15-11-2019||
+|15/2024/NĐ-CP|ửa đổi Nghị định 30/2013/NĐ-CP về kinh doanh vận chuyển hàng không và hoạt động hàng không chung và Nghị định 92/2016/NĐ-CP quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng|16-02-2024|Chính phủ|

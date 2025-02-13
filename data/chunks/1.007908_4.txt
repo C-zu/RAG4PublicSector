@@ -1,0 +1,8 @@
+Tên thủ tục: Kiểm tra việc in, phát hành, quản lý và sử dụng Biên lai
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Báo cáo tình hình sử dụng Biên lai của Doanh nghiệp theo Mẫu số 03 ban hành kèm theo Thông tư này: 01 bản chính
+ - Báo cáo giải trình (nếu có yêu cầu): 01 bản chính

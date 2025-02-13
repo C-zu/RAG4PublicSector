@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp hộ chiếu phổ thông ở trong nước (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|08 Ngày làm việc|Phí : 160000 Đồng + 160.000/hộ chiếu, trường hợp cấp lại do bị hư hỏng hoặc bị mất: 320.000đ/hộ chiếu (áp dụng đến hết ngày 31/12/2023 theo Thông tư số 44/2023/TT-BTC ngày 29/6/2023 của Bộ tài chính).  Phí : 200000 Đồng 200.000đ/ hộ chiếu. Trường hợp cấp lại do bị hỏng hoặc bị mất: 400.000đ/hộ chiếu (Thông tư số 25/2021/TT-BTC ngày 07/4/2021 của Bộ Tài chính).|nộp hồ sơ trực tiếp tại trụ sở Cơ quan Quản lý xuất nhập cảnh Công an cấp tỉnh (có thể khai tờ khai đề nghị cấp hộ chiếu phổ thông ở trong nước qua các cổng cung cấp dịch vụ công trực tuyến trước khi đến nộp hồ sơ trực tuyến).|
+|Trực tuyến|08 Ngày làm việc|Phí : 200000 Đồng 200.000đ/ hộ chiếu. Trường hợp cấp lại do bị hỏng hoặc bị mất: 400.000đ/hộ chiếu (Thông tư số 25/2021/TT-BTC ngày 07/4/2021 của Bộ Tài chính).  Phí : 160000 Đồng + 160.000/hộ chiếu, trường hợp cấp lại do bị hư hỏng hoặc bị mất: 320.000đ/hộ chiếu (áp dụng đến hết ngày 31/12/2023 theo Thông tư số 44/2023/TT-BTC ngày 29/6/2023 của Bộ tài chính).|nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.|
+|Dịch vụ bưu chính|08 Ngày làm việc|Phí : 200000 Đồng 200.000đ/ hộ chiếu. Trường hợp cấp lại do bị hỏng hoặc bị mất: 400.000đ/hộ chiếu  Phí : 160000 Đồng + 160.000/hộ chiếu, trường hợp cấp lại do bị hư hỏng hoặc bị mất: 320.000đ/hộ chiếu (áp dụng đến hết ngày 31/12/2023 theo Thông tư số 44/2023/TT-BTC ngày 29/6/2023 của Bộ tài chính).|nộp bổ sung hồ sơ qua dịch vụ bưu chính công ích theo thông báo của Cơ quan Quản lý xuất nhập cảnh Công an cấp tỉnh trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an (nếu có).|

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp phép thi công công trình đường bộ trên quốc lộ đang khai thác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp phép thi công công trình theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd35e8057ad260'">Mẫu3.doc</a>)
+- 01 Bản chính Hồ sơ thiết kế bản vẽ thi công (trong đó có biện pháp tổ chức thi công bảo đảm an toàn giao thông) đã được cấp có thẩm quyền phê duyệt (bản chính)
+- 01 Bản sao Văn bản phê duyệt hoặc chấp thuận thiết kế của cơ quan quản lý đường bộ có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)

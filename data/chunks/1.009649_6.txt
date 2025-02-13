@@ -1,0 +1,32 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp nhà đầu tư chuyển nhượng một phần hoặc toàn bộ dự án đầu tư đối với dự án thuộc thẩm quyền chấp thuận của UBND cấp tỉnh
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Đáp ứng điều kiện chuyển nhượng dự án đầu tư theo quy định tại Điều 46 của Luật Đầu tư, cụ thể:
+1. Nhà đầu tư có quyền chuyển nhượng toàn bộ hoặc một phần dự án đầu tư cho nhà đầu tư khác khi đáp ứng các điều kiện sau đây:
+a) Dự án đầu tư hoặc phần dự án đầu tư chuyển nhượng không bị chấm dứt hoạt động theo quy định tại khoản 1 và khoản 2 Điều 48 của Luật Đầu tư;
+b) Nhà đầu tư nước ngoài nhận chuyển nhượng dự án đầu tư, một phần dự án đầu tư phải đáp ứng điều kiện quy định tại khoản 2 Điều 24 của Luật Đầu tư;
+c) Điều kiện theo quy định của pháp luật về đất đai trong trường hợp chuyển nhượng dự án đầu tư gắn với chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất;
+d) Điều kiện theo quy định của pháp luật về nhà ở, pháp luật về kinh doanh bất động sản trong trường hợp chuyển nhượng dự án đầu tư xây dựng nhà ở, dự án bất động sản;
+đ) Điều kiện quy định tại văn bản chấp thuận chủ trương đầu tư, Giấy chứng nhận đăng ký đầu tư hoặc theo quy định khác của pháp luật có liên quan (nếu có);
+e) Khi chuyển nhượng dự án đầu tư, ngoài việc thực hiện theo quy định tại Điều 46 Luật Đầu tư, doanh nghiệp nhà nước có trách nhiệm thực hiện theo quy định của pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp trước khi thực hiện việc điều chỉnh dự án đầu tư.
+2. Trường hợp đáp ứng điều kiện chuyển nhượng theo quy định tại mục 1, thủ tục chuyển nhượng toàn bộ hoặc một phần dự án đầu tư thực hiện như sau:
+a) Đối với dự án đầu tư mà nhà đầu tư được chấp thuận theo quy định tại Điều 29 của Luật Đầu tư và dự án đầu tư được cấp Giấy chứng nhận đăng ký đầu tư, nhà đầu tư thực hiện thủ tục điều chỉnh dự án đầu tư theo quy định tại Điều 41 của Luật Đầu tư;
+b) Đối với dự án đầu tư không thuộc trường hợp quy định tại điểm a mục này, việc chuyển nhượng dự án đầu tư hoặc chuyển quyền sở hữu tài sản cho nhà đầu tư tiếp nhận dự án đầu tư sau khi chuyển nhượng thực hiện theo quy định của pháp luật về dân sự, doanh nghiệp, kinh doanh bất động sản và quy định khác của pháp luật có liên quan.
+Thủ tục này cũng áp dụng đối với dự án đầu tư thuộc diện quyết định chủ trương đầu tư, chấp thuận chủ trương đầu tư hoặc chấp thuận đầu tư theo quy định pháp luật về đầu tư, nhà ở, đô thị và xây dựng trước thời điểm Luật Đầu tư có hiệu lực thi hành (trước 01/01/2021) và đã được cơ quan nhà nước có thẩm quyền chấp thuận hoặc quyết định chủ trương đầu tư trước thời điểm Luật đầu tư có hiệu lực thi hành. Nay, nhà đầu tư điều chỉnh dự án đầu tư thuộc trường hợp quy định tại khoản 3 Điều 41 Luật Đầu tư.
+- Đáp ứng điều kiện chuyển nhượng dự án đầu tư theo quy định tại Điều 46 của Luật Đầu tư, cụ thể:
+1. Nhà đầu tư có quyền chuyển nhượng toàn bộ hoặc một phần dự án đầu tư cho nhà đầu tư khác khi đáp ứng các điều kiện sau đây:
+a) Dự án đầu tư hoặc phần dự án đầu tư chuyển nhượng không bị chấm dứt hoạt động theo quy định tại khoản 1 và khoản 2 Điều 48 của Luật Đầu tư;
+b) Nhà đầu tư nước ngoài nhận chuyển nhượng dự án đầu tư, một phần dự án đầu tư phải đáp ứng điều kiện quy định tại khoản 2 Điều 24 của Luật Đầu tư;
+c) Điều kiện theo quy định của pháp luật về đất đai trong trường hợp chuyển nhượng dự án đầu tư gắn với chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất;
+d) Điều kiện theo quy định của pháp luật về nhà ở, pháp luật về kinh doanh bất động sản trong trường hợp chuyển nhượng dự án đầu tư xây dựng nhà ở, dự án bất động sản;
+đ) Điều kiện quy định tại văn bản chấp thuận chủ trương đầu tư, Giấy chứng nhận đăng ký đầu tư hoặc theo quy định khác của pháp luật có liên quan (nếu có);
+e) Khi chuyển nhượng dự án đầu tư, ngoài việc thực hiện theo quy định tại Điều 46 Luật Đầu tư, doanh nghiệp nhà nước có trách nhiệm thực hiện theo quy định của pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp trước khi thực hiện việc điều chỉnh dự án đầu tư.
+2. Trường hợp đáp ứng điều kiện chuyển nhượng theo quy định tại mục 1, thủ tục chuyển nhượng toàn bộ hoặc một phần dự án đầu tư thực hiện như sau:
+a) Đối với dự án đầu tư mà nhà đầu tư được chấp thuận theo quy định tại Điều 29 của Luật Đầu tư và dự án đầu tư được cấp Giấy chứng nhận đăng ký đầu tư, nhà đầu tư thực hiện thủ tục điều chỉnh dự án đầu tư theo quy định tại Điều 41 của Luật Đầu tư;
+b) Đối với dự án đầu tư không thuộc trường hợp quy định tại điểm a mục này, việc chuyển nhượng dự án đầu tư hoặc chuyển quyền sở hữu tài sản cho nhà đầu tư tiếp nhận dự án đầu tư sau khi chuyển nhượng thực hiện theo quy định của pháp luật về dân sự, doanh nghiệp, kinh doanh bất động sản và quy định khác của pháp luật có liên quan.
+Thủ tục này cũng áp dụng đối với dự án đầu tư thuộc diện quyết định chủ trương đầu tư, chấp thuận chủ trương đầu tư hoặc chấp thuận đầu tư theo quy định pháp luật về đầu tư, nhà ở, đô thị và xây dựng trước thời điểm Luật Đầu tư có hiệu lực thi hành (trước 01/01/2021) và đã được cơ quan nhà nước có thẩm quyền chấp thuận hoặc quyết định chủ trương đầu tư trước thời điểm Luật đầu tư có hiệu lực thi hành. Nay, nhà đầu tư điều chỉnh dự án đầu tư thuộc trường hợp quy định tại khoản 3 Điều 41 Luật Đầu tư.
+Từ khóa:
+Thủ tục Điều chỉnh dự án đầu tư, trong trường hợp, nhà đầu tư chuyển nhượng, một phần, hoặc toàn bộ dự án đầu tư, đối với dự án, thuộc thẩm quyền chấp thuận của UBND tỉnh
+Mô tả:
+Không có thông tin

@@ -1,0 +1,11 @@
+Tên thủ tục: Hỗ trợ đầu tư mới hoặc đổi mới công nghệ cao trong bảo quản, chế biến nông, lâm, thủy sản
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 1 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7205ec2559f2c'">Mẫu số 01.docx</a>)
+- 03 Bản chính - Báo cáo kết quả thực hiện: Mẫu số 2 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1912839101568'">Mẫu số 02.docx</a>)
+- 03 Bản sao - Giấy chứng nhận đăng ký kinh doanh (đối với doanh nghiệp, hợp tác xã) hoặc Hợp đồng hợp tác (đối với tổ hợp tác) hoặc Giấy chứng nhận đăng ký thành lập hộ kinh doanh hoặc Chứng minh thư/ thẻ Căn cước công dân (đối với hộ gia đình, cá nhân) (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Bản công bố tiêu chuẩn áp dụng (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Hợp đồng, biên bản nghiệm thu, thanh lý hợp đồng mua sắm máy móc, thiết bị; chuyển giao kỹ thuật, công nghệ (nếu có). Chứng từ hợp pháp chứng minh chi phí đầu tư, gồm: chi mua sắm máy móc, thiết bị; chi phí chuyển giao kỹ thuật, công nghệ (nếu có); chi phí đào tạo, tập huấn kỹ thuật; chi phí xây dựng và công bố tiêu chuẩn áp dụng; chi phí dán nhãn hàng hóa, tem truy xuất nguồn gốc (bản sao công chứng hoặc chứng thực)

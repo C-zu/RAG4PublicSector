@@ -1,0 +1,22 @@
+Tên thủ tục: Xác nhận chuyên gia
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cơ quan chủ quản
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận của cơ quan chủ quản các chương trình, dự án ODA
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|12/2010/TTLT-BKHĐT-BTC|Thông tư liên tịch 12/2010/TTLT-BKHĐT-BTC|28-05-2010|Bộ Kế hoạch và Đầu tư|
+|119/2009/QĐ-TTg|Quyết định số 119/2009/QĐ-TTg ngày 01 tháng 10 năm 2009 của Thủ tướng Chính phủ về việc ban hành Quy chế chuyên gia nước ngoài thực hiện các chương trình, dự án ODA|10-10-2009||

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Phiếu lý lịch tư pháp theo yêu cầu của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội (đối tượng là công dân Việt Nam không xác định được nơi thường trú hoặc nơi tạm trú)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000467
+Số quyết định:
+1235/QĐ-BTP
+Tên thủ tục:
+Cấp Phiếu lý lịch tư pháp theo yêu cầu của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội (đối tượng là công dân Việt Nam không xác định được nơi thường trú hoặc nơi tạm trú)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Lý lịch tư pháp

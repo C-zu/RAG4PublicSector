@@ -1,0 +1,8 @@
+Tên thủ tục: Chấm dứt hoạt động Trung tâm hòa giải thương mại trong trường hợp Trung tâm hòa giải thương mại tự chấm dứt hoạt động (cấp bộ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Báo cáo về việc thanh toán xong các khoản nợ, nghĩa vụ tài sản khác, thanh lý các hợp đồng, hoàn tất các vụ việc đã nhận của Trung tâm hòa giải thương mại.
+- 01 Bản chính - Thông báo về việc chấm dứt hoạt động Trung tâm hòa giải thương mại; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa42b9eb73f2e80'">Mau so 19.TP-HGTM.docx</a>)

@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011939
+Số quyết định:
+2060/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Sở hữu trí tuệ
+Trình tự thực hiện:
+- Bước 1: Tiếp nhận hồ sơ 
+Tổ chức nộp 01 bộ hồ sơ đến Ủy ban nhân dân cấp tỉnh.
+- Bước 2: Thẩm định hồ sơ
++ Trong thời hạn 01 tháng kể từ ngày nhận được yêu cầu thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp, Ủy ban nhân dân cấp tỉnh ra thông báo bằng văn bản về yêu cầu này cho tổ chức được cấp Giấy chứng nhận và ấn định thời hạn là 01 tháng kể từ ngày ra thông báo để tổ chức đó có ý kiến;
++ Trên cơ sở xem xét ý kiến của các bên, Ủy ban nhân dân cấp tỉnh ra quyết định thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp hoặc quyết định từ chối thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp cho các bên.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Tháng||03 tháng kể từ ngày tiếp nhận hồ sơ|
+|Trực tuyến|03 Tháng||03 tháng kể từ ngày tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|03 Tháng||03 tháng kể từ ngày tiếp nhận hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn yêu cầu thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp
+- 01 Bản chính Chứng cứ chứng minh căn cứ đề nghị thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp - 65/2023/NĐ-CP, Quyết định từ chối thu hồi Giấy chứng nhận tổ chức giám định sở hữu công nghiệp - 65/2023/NĐ-CP
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2005/QH11|50/2005/QH11 - Luật Sở hữu trí tuệ|29-11-2005|Quốc Hội|
+|36/2009/QH12|36/2009/QH12 - Luật Sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ|19-06-2009|Quốc Hội|
+|65/2023/NĐ-CP|Nghị định số 65/2023/NĐ-CP ngày 23/8/2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý nhà nước về sở hữu trí tuệ|23-08-2023|Chính phủ|
+|42/2019/QH14|42/2019/QH14 - Luật Sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm, Luật Sở hữu trí tuệ|14-06-2019||
+|07/2022/QH15|07/2022/QH15 - Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ|16-06-2022||
+
+Yêu cầu, điều kiện thực hiện:
+không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

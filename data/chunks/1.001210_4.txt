@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy xác nhận là người gốc Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai xác nhận là người gốc Việt Nam có dán ảnh (theo mẫu TP/QT-2020-TKXNLNGVN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecf40f78fe5829'">Tờ-khai-đề-nghị-xác-nhận-người-gốc-Việt-Nam.pdf</a>)
+ 02 ảnh 4x6 chụp 06 tháng trở lại đây
+- 01 Bản sao Giấy tờ về nhân thân của người đó như Chứng minh nhân dân, Căn cước công dân, giấy tờ cư trú, thẻ tạm trú, giấy thông hành, giấy tờ có giá trị đi lại quốc tế hoặc giấy tờ xác nhận về nhân thân có dán ảnh do cơ quan có thẩm quyền cấp
+- 01 Bản sao Giấy tờ được cấp trước đây để chứng minh người đó đã từng có quốc tịch Việt Nam hoặc giấy tờ để chứng minh khi sinh ra người đó có cha mẹ hoặc ông bà nội, ông bà ngoại đã từng có quốc tịch Việt Nam.
+- 01 Bản sao Trường hợp không có bất kỳ giấy tờ nào nêu trên thì tùy từng hoàn cảnh cụ thể, có thể nộp bản sao giấy tờ về nhân thân, quốc tịch, hộ tịch do chế độ cũ ở miền Nam cấp trước ngày 30 tháng 4 năm 1975; giấy tờ do chính quyền cũ ở Hà Nội cấp từ năm 1911 đến năm 1956; giấy bảo lãnh của Hội đoàn người Việt Nam ở nước ngoài nơi người đó đang cư trú, trong đó xác nhận người đó có gốc Việt Nam; giấy bảo lãnh của người có quốc tịch Việt Nam, trong đó xác nhận người đó có gốc Việt Nam; giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp trong đó ghi quốc tịch Việt Nam hoặc quốc tịch gốc Việt Nam.

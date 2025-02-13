@@ -1,0 +1,24 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe máy chuyên dùng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+a) Thẩm định hồ sơ thiết kế mới (Trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến: nộp 01 bộ hồ sơ thiết kế dạng điện tử theo quy định; Trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế theo quy định, cơ sở thiết kế nộp thêm 01 Bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật (02 bản nếu cơ sở thiết kế khác cơ sở sản xuất) theo quy định)
+ * Hồ sơ thiết kế xe bao gồm:
+- 01 Bản chính - Đơn đề nghị theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb2e01a890fa440'">Mau 1.1.docx</a>)
+- 01 Bản chính - Thuyết minh thiết kế kỹ thuật xe (bản chính) theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2df8e693bb030'">Mau 1.2.docx</a>)
+- 01 Bản chính - Bản vẽ kỹ thuật (bản chính) theo quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe157371103f373'">Mau 1.2.docx</a>)
+- 01 Bản sao - Bản thông số kỹ thuật (bản sao) của các tổng thành, hệ thống liên quan tới nội dung tính toán thiết kế.
+- 01 Bản sao - 01 bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực Giấy chứng nhận đăng ký kinh doanh hoặc các giấy tờ thay thế khác của cơ sở thiết kế (đối với trường hợp thẩm định thiết kế lần đầu của cơ sở thiết kế).
+ * Miễn lập hồ sơ thiết kế: đối với xe sản xuất, lắp ráp theo thiết kế và mang nhãn hiệu hàng hóa của nước ngoài, nếu Cơ sở sản xuất cung cấp được các tài liệu thay thế sau đây:
+- 01 Bản chính - Bản vẽ kỹ thuật của xe thể hiện được bố trí chung của sản phẩm; các kích thước cơ bản của Xe; bố trí và kích thước lắp đặt hệ thống công tác, ca bin;
+- 01 Bản sao - Bản sao có xác nhận của bên chuyển giao công nghệ Giấy chứng nhận kiểu loại sản phẩm do cơ quan có thẩm quyền nước ngoài cấp;
+- 01 Bản sao - Bản sao có xác nhận của bên chuyển giao công nghệ bản thông số kỹ thuật và tính năng cơ bản của xe sản xuất, lắp ráp do bên chuyển giao công nghệ cấp.
+ * Khi thực hiện nộp hồ sơ qua hệ thống dịch vụ công trực tuyến, các thành phần hồ sơ thiết kế xe được thay thế bằng tài liệu dạng điện tử.
+
+
+b) Thẩm định hồ sơ thiết kế khi có sự bổ sung, sửa đổi (Khi có sự thay đổi, bổ sung, sửa đổi hồ sơ thiết kế so với hồ sơ thiết kế đã được thẩm định nhưng vẫn đáp ứng về sản phẩm cùng kiểu loại) (Trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến: nộp 01 bộ hồ sơ thiết kế dạng điện tử theo quy định; Trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính: ngoài nộp 01 bộ hồ sơ thiết kế theo quy định, cơ sở thiết kế nộp thêm 01 Bản thuyết minh thiết kế kỹ thuật và các bản vẽ kỹ thuật (02 bản nếu cơ sở thiết kế khác cơ sở sản xuất) theo quy định)
+- 01 Bản chính - Đơn đề nghị theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee7d8da39a0784'">Mau 1.1.docx</a>)
+- 01 Bản chính - Bản thuyết minh thiết kế kỹ thuật (liên quan đến các nội dung thay đổi); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5be9c32a08364'">Mau 1.2.docx</a>)
+- 01 Bản chính - Bản vẽ kỹ thuật theo quy định (liên quan đến các nội dung thay đổi); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1abaa636741ba'">Mau 1.2.docx</a>)
+- 01 Bản sao - Bản sao bản thông số, tính năng kỹ thuật của các tổng thành, hệ thống liên quan tới nội dung tính toán thiết kế (liên quan đến các nội dung thay đổi).

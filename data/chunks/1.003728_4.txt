@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu không dùng làm thực phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn khai báo kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu, nhập khẩu theo mẫu 03 TS Phụ lục ban hành kèm theo Thông tư số 06/2022/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd22697aa7d42b0'">Mẫu 03.docx</a>)
+- 01 Bản chính - Yêu cầu vệ sinh thú y của nước nhập khẩu hoặc chủ hàng (nếu có);
+- 01 Bản sao - Bản chụp Giấy phép xuất khẩu thủy sản do Tổng cục Thủy sản cấp, có xác nhận của doanh nghiệp (đối với các loài thủy sản xuất khẩu có điều kiện theo quy định tại Phụ lục IX, Phụ lục X ban hành kèm theo Nghị định số 26/2019/NĐ-CP ngày 08/3/2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thủy sản).

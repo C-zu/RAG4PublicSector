@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại giấy phép hoạt động in (cấp địa phương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại trụ sở cơ quan hành chính. 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định|
+|Trực tuyến|07 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua mạng Internet: Nộp qua cổng dịch vụ công trực tuyến. Hồ sơ gửi qua hệ thống dịch vụ công trực tuyến phải tuân thủ các quy định về thực hiện thủ tục hành chính trên môi trường điện tử. 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định|
+|Dịch vụ bưu chính|07 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống bưu chính, chuyển phát. 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép theo quy định|

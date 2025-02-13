@@ -1,0 +1,9 @@
+Tên thủ tục: Đổi chứng nhận đăng ký, biển số xe tại Công an cấp huyện
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Giấy khai đăng ký xe (theo mẫu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd75857390a3936'">Mẫu số 1 Giấy khai đăng ký xe.doc</a>)
+- 01 Bản chính b) Giấy tờ của chủ xe.
+- 01 Bản chính c) Nộp lại Giấy chứng nhận đăng ký xe (trường hợp đổi lại đăng ký xe) hoặc nộp lại biển số (trường hợp đổi lại biển số xe).

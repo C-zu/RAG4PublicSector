@@ -1,0 +1,8 @@
+Tên thủ tục: Cung cấp thuốc phóng xạ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cung cấp thuốc phóng xạ của cơ sở khám bệnh, chữa bệnh theo Mẫu Đơn quy định tại Phụ lục XIII ban hành kèm theo Thông tư (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2324eafb27768'">phu luc XIII TT20.2017.docx</a>)
+- 01 Bản chính Báo cáo việc sản xuất, pha chế, sử dụng thuốc phóng xạ đề nghị cung cấp tại cơ sở khám bệnh, chữa bệnh sản xuất, pha chế, trong đó nêu cụ thể các thông tin về công suất máy, khả năng sản xuất, số lượng thuốc sản xuất, số lượng bệnh nhân sử dụng, số lượng thuốc đã sản xuất nhưng không sử dụng có đóng dấu xác nhận của cơ sở đề nghị theo Mẫu Báo cáo quy định tại Phụ lục XIV ban hành kèm theo Thông tư (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feddea8f90d0a8a'">phu luc XIV TT20.2017.docx</a>)

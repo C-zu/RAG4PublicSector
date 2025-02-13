@@ -1,0 +1,27 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp lại Giấy chứng nhận đăng ký trong trường hợp Giấy chứng nhận đăng ký bị hư hỏng:
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe80a045cf32752'">1.004844_Bị mất.doc</a>)
+- 01 Bản chính Bản gốc hoặc bản điện tử Giấy chứng nhận đăng ký phương tiện đã được cấp
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường còn hiệu l
+
+
+Hồ sơ cấp lại Giấy chứng nhận đăng ký trong trường hợp Giấy chứng nhận đăng ký bị mất:
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd0e26441b05ba'">1.004844_Bị mất.doc</a>)
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường còn hiệu lực
+
+
+Hồ sơ cấp lại Giấy chứng nhận đăng ký trong trường hợp chuyển quyền sở hữu:
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp lại Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe12b9c151922dc'">1.004844_Chuyển quyền sở hữu_Thay đổi tính năng.doc</a>)
+- 01 Bản chính, 01 Bản sao bản gốc hoặc bản điện tử Giấy chứng nhận đăng ký phương tiện đã được cấp
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực giấy tờ chứng minh quyền sở hữu phương tiện: Hợp đồng cho, tặng, mua bán, hóa đơn mua bán phương tiện, chứng từ đã nộp lệ phí trước bạ (nếu có), quyết định điều chuyển phương tiện, giấy chứng nhận đăng ký doanh nghiệp (nếu chủ sở hữu đổi tên), biên bản bàn giao tài sản kèm theo danh mục phương tiện
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường còn hiệu lực
+
+
+Hồ sơ cấp lại Giấy chứng nhận đăng ký trong trường hợp phương tiện thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu:
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp lại giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9dffc352fde3e0'">1.004844_Chuyển quyền sở hữu_Thay đổi tính năng.doc</a>)
+- 01 Bản chính bản gốc hoặc bản điện tử Giấy chứng nhận đăng ký phương tiện đã được cấp
+- 01 Bản chính, 01 Bản sao Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực Giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường còn hiệu lực

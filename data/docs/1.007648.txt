@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007648
+Số quyết định:
+1325/QĐ-BTC
+Tên thủ tục:
+Thủ tục tạm dừng hoạt động đại lý làm thủ tục hải quan
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Lập hồ sơ:
+
+Doanh nghiệp có đề nghị tạm dừng hoạt động đại lý làm thủ tục hải quan lập hồ sơ đề nghị tạm dừng hoạt động đại lý làm thủ tục hải quan (hoặc báo cáo của Cục Hải quan tỉnh, thành phố) gửi Tổng cục Hải quan.
+Bước 2. Tạm dừng hoạt động đại lý làm thủ tục hải quan:
+
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ; Tổng cục trưởng Tổng Cục Hải quan ra quyết định tạm dừng đại lý làm thủ tục hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của đại lý làm thủ tục hải quan hoặc báo cáo của Cục hải quan tỉnh, thành phố.|
+|Trực tuyến|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của đại lý làm thủ tục hải quan hoặc báo cáo của Cục hải quan tỉnh, thành phố.|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của đại lý làm thủ tục hải quan hoặc báo cáo của Cục hải quan tỉnh, thành phố.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị tạm dừng đại lý làm thủ tục hải quan. ([22_2019_TT_BTC_PL.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc78744bc7a272'))
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định tạm dừng hoạt động đại lý làm thủ tục hải quan
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|12/2015/TT-BTC|Thông tư 12/2015/TT-BTC|30-01-2015|Bộ Tài chính|
+|22/2019/TT-BTC|Sửa đổi, bổ sung một số điều của Thông tư số 12/2015/TT-BTC ngày 30 tháng 01 năm 2015 của Bộ trưởng Bộ Tài chính quy định chi tiết thủ tục cấp Chứng chỉ nghiệp vụ khai hải quan; cấp và thu hồi mã số nhân viên đại lý làm thủ tục hải quan; trình tư, thủ tục công nhận và hoạt động đại lý làm thủ tục hải quan|16-04-2019|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Hoạt động không đảm bảo các điều kiện quy định tại khoản 1 Điều 20 Luật Hải quan hoặc không hoạt động đúng tên và địa chỉ đã đăng ký với cơ quan hải quan
+
+- Không thực hiện chế độ báo cáo hoặc thực hiện chế độ báo cáo không đúng, không đủ về nội dung hoặc không đúng thời hạn với cơ quan hải quan.
+
+- Không Thông báo cho Tổng cục Hải quan thực hiện thu hồi mã số nhân viên đại lý làm thủ tục hải quan đối với các trường hợp bị thu hồi hoặc trường hợp đại lý làm thủ tục hải quan bị giải thể, phá sản hoặc chấm dứt hoạt động.
+
+- Không thực hiện chế độ báo cáo hoặc thực hiện chế độ báo cáo không đúng, không đủ về nội dung hoặc không đúng thời hạn với cơ quan hải quan trong 03 lần liên tiếp.
+
+- Đại lý làm thủ tục hải quan có văn bản đề nghị tạm dừng hoạt động.
+- Hoạt động không đảm bảo các điều kiện quy định tại khoản 1 Điều 20 Luật Hải quan hoặc không hoạt động đúng tên và địa chỉ đã đăng ký với cơ quan hải quan
+
+- Không thực hiện chế độ báo cáo hoặc thực hiện chế độ báo cáo không đúng, không đủ về nội dung hoặc không đúng thời hạn với cơ quan hải quan.
+
+- Không Thông báo cho Tổng cục Hải quan thực hiện thu hồi mã số nhân viên đại lý làm thủ tục hải quan đối với các trường hợp bị thu hồi hoặc trường hợp đại lý làm thủ tục hải quan bị giải thể, phá sản hoặc chấm dứt hoạt động.
+
+- Không thực hiện chế độ báo cáo hoặc thực hiện chế độ báo cáo không đúng, không đủ về nội dung hoặc không đúng thời hạn với cơ quan hải quan trong 03 lần liên tiếp.
+
+- Đại lý làm thủ tục hải quan có văn bản đề nghị tạm dừng hoạt động.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

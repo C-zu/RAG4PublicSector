@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp giấy xác nhận có quốc tịch Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 20 USD Cấp giấy xác nhận có quốc tịch Việt Nam  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc023d793a905d4'">VanBanGoc_264-2016-TT-BTC.pdf</a>|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ.|

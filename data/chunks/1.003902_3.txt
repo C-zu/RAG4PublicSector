@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép xuất khẩu thuốc phóng xạ, thuốc độc, nguyên liệu độc làm thuốc, thuốc và dược chất trong danh mục thuốc, dược chất thuộc danh mục chất bị cấm sử dụng trong một số ngành, lĩnh vực cho mục đích thử lâm sàng, thử tương đương sinh học, đánh giá sinh khả dụng, làm mẫu kiểm nghiệm, nghiên cứu khoa học, làm mẫu đăng ký
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|

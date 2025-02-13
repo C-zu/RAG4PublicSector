@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục chứng thực hợp đồng, giao dịch liên quan đến tài sản là động sản
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Phòng Tư Pháp
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hợp đồng, giao dịch được chứng thực
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2015/NĐ-CP|Nghị định 23/2015/NĐ-CP|16-02-2015|Chính phủ|
+|226/2016/TT-BTC|Thông tư 226/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|01/2020/TT-BTP|Thông tư 01/2020/TT-BTP|03-03-2020||

@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy xác nhận phù hợp về tuyển dụng, cung ứng thuyền viên hàng hải
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày Cục Hàng hải Việt Nam nhận được văn bản đề nghị.|
+|Trực tuyến|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày Cục Hàng hải Việt Nam nhận được văn bản đề nghị.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Trong thời hạn 03 ngày làm việc, kể từ ngày Cục Hàng hải Việt Nam nhận được văn bản đề nghị.|

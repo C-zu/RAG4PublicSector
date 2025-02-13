@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Chứng nhận chuẩn đo lường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức kiểm định được chỉ định đề nghị chứng nhận chuẩn đo lường lập 01 bộ hồ sơ theo quy định đến Tổng cục Tiêu chuẩn Đo lường chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định.
+- Trường hợp gửi cùng hồ sơ đề nghị chỉ định: hồ sơ được xử lý theo trình tự thực hiện hồ sơ chỉ định thực hiện hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường. 
+- Trường hợp hồ sơ được gửi không cùng thời gian với hồ sơ đề nghị chỉ định: 
++ Nếu hồ sơ chưa đầy đủ, hợp lệ: Trong thời hạn mười (10) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị những nội dung cần bổ sung, hoàn chỉnh. 
++ Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn mười lăm (15) ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Tổng cục ra quyết định chứng nhận chuẩn đo lường

@@ -1,0 +1,16 @@
+Tên thủ tục: thủ tục công khai bản kê khai tài sản, thu nhập
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001907
+Số quyết định:
+70/QĐ-TTCP
+Tên thủ tục:
+thủ tục công khai bản kê khai tài sản, thu nhập
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Phòng, chống tham nhũng

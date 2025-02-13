@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế cho thiết bị xếp dỡ, nồi hơi và thiết bị áp lực sử dụng trong giao thông vận tải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc bản khai biểu mẫu điện tử Giấy đề nghị thẩm định thiết kế theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8a28e07986f2c'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - 01 (một) bản sao điện tử tài liệu thiết kế thiết bị (đối với trường hợp nộp cổng dịch vụ công) hoặc 03 (ba) bản chính tài liệu thiết kế thiết bị (đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính) theo quy định trong quy chuẩn kỹ thuật quốc gia tương ứng. Trường hợp không có quy định trong các quy chuẩn kỹ thuật quốc gia, hồ sơ thiết kế tối thiểu gồm: + Đối với sản xuất thiết bị: bản thuyết minh thiết kế; bản tính toán thiết kế; các bản vẽ tổng thành, kết cấu chính của thiết bị; bản vẽ sơ đồ nguyên lí hoạt động và các đặc trưng kỹ thuật chính; danh mục các tổng thành, bộ phận chính kèm theo các thông số, tính năng kỹ thuật; quy trình kiểm tra và thử thiết bị; + Đối với hoán cải thiết bị: bản thuyết minh tính toán thiết kế liên quan đến nội dung hoán cải; bản vẽ tổng thể của thiết bị trước và sau hoán cải; bản vẽ và tài liệu kỹ thuật tổng thành, hệ thống để hoán cải; quy trình kiểm tra và thử thiết bị.

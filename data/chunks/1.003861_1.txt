@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục hội tự giải thể.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003861
+Số quyết định:
+579/QĐ-BNV
+Tên thủ tục:
+Thủ tục hội tự giải thể.
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tổ chức phi chính phủ

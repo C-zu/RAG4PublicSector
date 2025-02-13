@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục giải quyết khiếu nại lần đầu tại cấp tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Khác||Theo Điều 28 Luật Khiếu nại 2011: Thời hạn giải quyết khiếu nại lần đầu không quá 30 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý. Ở vùng sâu, vùng xa đi lại khó khăn, thì thời hạn giải quyết khiếu nại không quá 45 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 60 ngày, kể từ ngày thụ lý.|
+|Trực tuyến|Khác||Không gửi đơn khiếu nại qua mạng|
+|Dịch vụ bưu chính|Khác||- Khiếu nại được thực hiện bằng đơn (gửi qua đường bưu điện hoặc gửi trực tiếp đến cơ quan, người có thẩm quyền giải quyết). - Khiếu nại được trình bày trực tiếp tại cơ quan, tổ chức, người có thẩm quyền.|

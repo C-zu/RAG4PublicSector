@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007738
+Số quyết định:
+2770/QĐ-BTC
+Tên thủ tục:
+Thủ tục phân loại máy liên hợp hoặc tổ hợp máy thuộc các Chương 84, Chương 85 và Chương 90 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+- Bước 1: Người khai hải quan đăng ký Danh mục máy móc, thiết bị, bằng phương thức điện tử kèm theo 01 phiếu theo dõi trừ lùi trước khi nhập khẩu lô hàng đầu tiên tại Chi cục Hải quan nơi thuận tiện nhất.
+- Bước 2: Chi cục Hải quan nơi người khai hải quan đãng ký Danh mục có trách nhiệm tiếp nhận, lập sổ theo dõi, đóng dấu xác nhận vào 02 bản Danh mục nhập khẩu và 01 bản phiếu theo dõi trừ lùi (lưu 01 bản chính Danh mục, giao cho người khai hải quan 01 bản chính Danh mục kèm 01 bản chính phiếu theo dõi trừ lùi); và thực hiện phân loại và trừ lùi, người khai làm thủ tục nhập khẩu đến khi hết lượng hàng hoá nhập khẩu ghi trong phiếu theo dõi trừ lùi.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|Thực hiện ngay khi người khai hải quan có đề nghị||Đăng ký Danh mục và Phiếu theo dõi trừ lùi bằng phương thức điện tử.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Danh mục máy móc, thiết bị dự kiến nhập khẩu.
+- 01 Bản chính + Phiếu theo dõi trừ lùi
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Chi cục Hải quan
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+phân loại máy liên hợp hoặc tổ hợp máy
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2015/NĐ-CP|Nghị định 08/2015/NĐ-CP|21-01-2015|Chính phủ|
+|54/2014/QH13|LUẬT HẢI QUAN 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|14/2015/TT-BTC|Thông tư số 14/2015/TT-BTC ngày 30/1/2015 của Bộ Tài chính hướng dẫn về phân loại hàng hóa, phân tích để phân loại hàng hóa; phân tích để kiểm tra chất lượng, kiểm tra an toàn thực phẩm đối với hàng hóa xuất khẩu, nhập khẩu|30-01-2015|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

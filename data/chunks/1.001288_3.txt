@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp chứng chỉ hành nghề tư vấn về phòng cháy và chữa cháy
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Thời hạn giải quyết: 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|07 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có); Thời hạn giải quyết: 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. Thời hạn giải quyết: 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|

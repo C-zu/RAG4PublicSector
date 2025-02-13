@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003768
+Số quyết định:
+4751/QĐ-BNN-TCLN
+Tên thủ tục:
+Thẩm định, phê duyệt hồ sơ thiết kế, dự toán công trình lâm sinh (đối với công trình lâm sinh thuộc dự án do Chủ tịch UBND cấp tỉnh quyết định đầu tư)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lâm nghiệp
+Trình tự thực hiện:
+Bước 1:
+
++ Chủ đầu tư là các tổ chức, đơn vị thuộc tỉnh quản lý chịu trách nhiệm tổ chức lập hồ sơ thiết kế, dự toán công trình lâm sinh, gửi hồ sơ (thành phần, số lượng hồ sơ theo quy định) Sở Nông nghiệp và Phát triển nông thôn tổ chức thẩm định, trình Chủ tịch UBND tỉnh phê duyệt
+Bước 2:
+
++ Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Nông nghiệp và Phát triển nông thôn phải tổ chức thẩm định và có báo cáo thẩm định, dự thảo quyết định phê duyệt và trình Chủ tịch UBND tỉnh phê duyệt;
+Bước 3:
+
++ Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đã thẩm định, UBND tỉnh quyết định phê duyệt hồ sơ thiết kế và dự toán công trình lâm sinh và trả kết quả cho các tổ chức trong 03 ngày làm việc.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 05 Bản chính o Tờ trình đề nghị phê duyệt thiết kế, dự toán theo mẫu số 01 Phụ lục IV ban hành kèm theo Thông tư số 23/2016/TT-BNNPTNT. ([Phụ lục IV-mẫu văn bản liên quan đến lập, thẩm đinh, phê duyệt, nghiệm thu công trình lâm sinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa1b316b405bf00'))
+- 05 Bản chính o Hồ sơ thiết kế, dự toán công trình lâm sinh: ([Phụ lục I- đề cương thiết kế công trình lâm sinh.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf918fd64820d4'))
+- 05 Bản chính - Thuyết minh thiết kế công trình lâm sinh được lập theo mẫu tại Phụ lục I ban hành kèm theo Thông tư số 23/2016/TT-BNNPTNT.
+- 05 Bản chính - Thiết kế công trình lâm sinh, gồm: Bản đồ hiện trạng sử dụng đất, bản đồ thiết kế công trình lâm sinh tỷ lệ 1/5.000 hoặc 1/10.000, được lập trên nền bản đồ địa hình theo hệ quy chiếu VN 2.000, có lưới tọa độ, số hiệu tiểu khu, khoảnh, lô; thể hiện đường đồng mức, hiện trạng, các vật thể chuẩn (sông suối, đường giao thông, băng cản lửa, trạm bảo vệ rừng,…) và các nội dung hướng dẫn tại Phụ lục II Thông tư số 23/2016/TT-BNNPTNT.
+- 05 Bản chính - Dự toán công trình lâm sinh được lập theo quy định tại Điều 5 Thông tư số 23/2016/TT-BNNPTNT. o Các văn bản có liên quan (quyết định phê duyệt chủ trương đầu tư, quyết định phê duyệt dự án đầu tư và các tài liệu khác có liên quan)
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Bộ Nông nghiệp và Phát triển nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt hồ sơ thiết kế, dự toán công trình lâm sinh.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 36/2005/QH11|LUẬT Thương mại|14-06-2005||
+|23/2016/TT-BNNPTNT|Thông tư số 23/2016/TT-BNNPTNT ngày 30 tháng 06 năm 2016 của Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn số nội dung quản lý công trình lâm sinh.|30-06-2016|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

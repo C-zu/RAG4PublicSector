@@ -1,0 +1,19 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện sản xuất thƣớc ăn chăn nuôi thƣơng mại, thức ăn chăn nuôi theo đặt hàng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+b1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở NN&PTNT - Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, điều chỉnh hồ sơ. Nếu không bổ sung, điều chỉnh được thì từ chối tiếp nhận hồ sơ.
+b2: Chuyển hồ sơ từ Trung tâm Phục vụ HCC tỉnh về Chi cục Chăn nuôi và Thú y
+b3: Duyệt hồ sơ, chuyển cho phòng chuyên môn xử lý
+b4: Xem xét, kiểm tra tính hợp lệ của hồ sơ:
+- Nếu đạt, Dự thảo Giấy chưng đủ điều kiện chăn nuôi.
+- Nếu hồ sơ không hợp lệ thì hướng dẫn, hoàn thiện hồ sơ. Nếukhông điều chỉnh, bổ sung thì dự thảo văn bản nêu lý do không cấp trình lãnh đạo phòng.
+b5: Lãnh đạo Phòng xem xét trình Lãnh đạo Chi cục bản Dự thảo Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi hoặc văn bản dự thảo lý do không cấp.
+b6: Lãnh đạo Chi cục xem xét, ký nháy trình lãnh đạo Sở Nông nghiệp và PTNT Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi hoặc văn bản không tiếp nhận hồ sơ
+b7: Lãnh đạo Sở Nông nghiệp và PTNT:
+- Ký Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi.
+ - Hoặc ký văn bản lý do không cấp.
+b8: Phát hành văn bản và chuyển kết quả cho bộ phận TN&TKQ Trung tâm Phục vụ hành chính công tỉnh
+b9: Trả kết quả cho tổ chức cá nhân

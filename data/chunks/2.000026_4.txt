@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký tổ chức Hội chợ, Triển lãm thương mại ở nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đăng ký tổ chức hội chợ, triển lãm thương mại theo mẫu quy định tại Nghị định này; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecd780a80a0e46'">Mẫu số 10.docx</a>)
+- 01 Bản sao Bản sao không cần chứng thực Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Quyết định thành lập hoặc các quyết định khác có giá trị pháp lý tương đương theo quy định của pháp luật

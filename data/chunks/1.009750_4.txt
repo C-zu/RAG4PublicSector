@@ -1,0 +1,10 @@
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp 1
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị rút tiền ký quỹ do người đại diện hợp pháp của doanh nghiệp ký
+- 01 Bản chính, 01 Bản sao Phương án sử dụng số tiền rút từ tài khoản ký quỹ, gồm: lý do, mục đích rút tiền ký quỹ; danh sách, số lượng người lao động, số tiền, thời gian, phương thức thanh toán đối với trường hợp rút tiền ký quỹ khi doanh nghiệp cho thuê gặp khó khăn tạm thời, không đủ khả năng thanh toán, bồi thường cho người lao động theo quy định.
+- 01 Bản chính, 01 Bản sao Báo cáo việc hoàn thành nghĩa vụ và văn bản chứng minh việc hoàn thành nghĩa vụ đối với người lao động thuê lại trong trường hợp rút tiền ký quỹ khi doanh nghiệp cho thuê bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép.
+- 01 Bản chính, 01 Bản sao Giấy chứng nhận tiền ký quỹ hoạt động cho thuê lại lao động tại ngân hàng thương mại khác đối với trường hợp rút tiền ký quỹ khi doanh nghiệp cho thuê đã thực hiện ký quỹ tại một ngân hàng thương mại khác.

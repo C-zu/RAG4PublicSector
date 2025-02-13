@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004489
+Số quyết định:
+1545/QĐ-BTNMT
+Tên thủ tục:
+Điều chỉnh tiền cấp quyền khai thác tài nguyên nước (cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ: 
+Chủ giấy phép nộp 01 bộ hồ sơ trực tiếp hoặc thông qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại cổng dịch vụ công đến Văn phòng Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường (sau đây gọi tắt là Văn phòng Một cửa), địa chỉ số 10 Tôn Thất Thuyết, Nam Từ Liêm, Hà Nội hoặc trực tuyến tại cổng dịch vụ công tại địa chỉ https://dichvucong.monre.gov.vn.
+Tổ chức, cá nhân nộp hồ sơ tính tiền cấp quyền khai thác tài nguyên nước đồng thời với việc nộp hồ sơ đề nghị điều chỉnh giấy phép khai thác tài nguyên nước (đối với trường hợp quy định tại điểm a khoản 1 Điều 52 Nghị định số 54/2024/NĐ-CP).
+- Bước 2: Tiếp nhận, kiểm tra hồ sơ:
+Văn phòng Một cửa có trách nhiệm tiếp nhận hồ sơ, kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ:
++ Trường hợp hồ sơ không hợp lệ, Văn phòng Một cửa trả lại hồ sơ và thông báo rõ lý do cho tổ chức, cá nhân. 
++ Trường hợp hồ sơ hợp lệ, Văn phòng Một cửa chuyển hồ sơ cho Cục Quản lý tài nguyên nước để tổ chức thẩm định.
+- Bước 3: Thẩm định hồ sơ và phê duyệt điều chỉnh tiền cấp quyền:
+Kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Quản lý tài nguyên nước có trách nhiệm thẩm định hồ sơ tính tiền cấp quyền, nếu cần thiết thì thành lập Hội đồng thẩm định hồ sơ tính tiền cấp quyền khai thác tài nguyên nước. 
++ Trường hợp hồ sơ đủ điều kiện, Cục Quản lý tài nguyên nước trình Bộ Tài nguyên và Môi trường phê duyệt tiền cấp quyền khai thác tài nguyên nước; trường hợp hồ sơ không đủ điều kiện thì Cục Quản lý tài nguyên nước trả lại hồ sơ cho chủ giấy phép và thông báo rõ lý do bằng văn bản. 
++ Trường hợp phải bổ sung, chỉnh sửa để hoàn thiện thì Cục Quản lý tài nguyên nước gửi văn bản thông báo cho chủ giấy phép nêu rõ những nội dung cần bổ sung, hoàn thiện hồ sơ. Thời gian bổ sung, hoàn thiện không tính vào thời gian thẩm định hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|21 Ngày|Phí : Không quy định.|Chủ giấy phép nộp hồ sơ trực tiếp, nộp hồ sơ qua cổng dịch vụ công trực tuyến, gửi hồ sơ qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật tới Văn phòng một cửa.|
+|Trực tuyến|21 Ngày|Phí : Không quy định.|Chủ giấy phép nộp hồ sơ trực tiếp, nộp hồ sơ qua cổng dịch vụ công trực tuyến, gửi hồ sơ qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật tới Văn phòng một cửa.|
+|Dịch vụ bưu chính|21 Ngày|Phí : Không quy định.|Chủ giấy phép nộp hồ sơ trực tiếp, nộp hồ sơ qua cổng dịch vụ công trực tuyến, gửi hồ sơ qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật tới Văn phòng một cửa.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản kê khai tính tiền cấp quyền khai thác tài nguyên nước theo Mẫu 57, phụ lục III Nghị định số 54/2024/NĐ-CP. ([Mẫu 57.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd5750a6ccf76a'))
+- 01 Bản chính Các tài liệu để chứng minh
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý tài nguyên nước - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Văn phòng Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ (gọi tắt là Văn phòng một cửa), số 10 Tôn Thất Thuyết, quận Nam Từ Liêm, thành phố Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Kết quả thủ tục Điều chỉnh tiền cấp quyền khai thác tài nguyên nước theo Mẫu 58 tại Phụ lục III Nghị định số 54/2024/NĐ-CP
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+Không quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

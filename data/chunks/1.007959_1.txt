@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục xét cho phép sử dụng thẻ đi lại của Doanh nhân APEC (ABTC)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007959
+Số quyết định:
+1557/QĐ-UBND ( công bố TTHC)
+Tên thủ tục:
+Thủ tục xét cho phép sử dụng thẻ đi lại của Doanh nhân APEC (ABTC)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công tác lãnh sự

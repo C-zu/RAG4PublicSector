@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi (trường hợp chưa đủ năm nước phát triển cho phép sử dụng làm thực phẩm, thức ăn chăn nuôi)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 02 Bản sao Đơn đăng ký cấp Giấy xác nhận theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed709c7793fea0'">Mẫu đơn TTHC cấp GXN GMO.docx</a>)
+- 01 Bản chính, 02 Bản sao Báo cáo đánh giá rủi ro (kèm theo bản điện tử) của thực vật biến đổi gen đối với sức khỏe con người và vật nuôi theo mẫu
+- 01 Bản chính, 02 Bản sao Tóm tắt báo cáo đánh giá rủi ro (kèm theo bản điện tử) theo mẫu
+- 01 Bản chính, 02 Bản sao Tờ khai thông tin đăng tải lấy ý kiến công chúng theo mẫu
+- 01 Bản chính, 02 Bản sao Bản chính hoặc bản sao chứng thực và bản dịch tiếng Việt (có dịch thuật công chứng) giấy xác nhận hoặc văn bản tương đương của cơ quan có thẩm quyền cho phép sử dụng làm thực phẩm, thức ăn chăn nuôi tại các quốc gia khác (nếu có)
+- 01 Bản chính, 02 Bản sao Các tài liệu khoa học tham khảo, các nghiên cứu chưa công bố, số liệu từ các đánh giá, thử nghiệm, hoặc các minh chứng khoa học khác (nếu có) mà tổ chức, cá nhân đăng ký sử dụng làm căn cứ để kết luận thực vật biến đổi gen nếu được cấp Giấy xác nhận không gây tác động xấu đến sức khỏe của con người và vật nuôi.

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp gửi hồ sơ đề nghị chứng nhận về Sở Khoa học và Công nghệ nơi doanh nghiệp đặt trụ sở chính.
+Bước 2: Sở Khoa học và Công nghệ tổ chức thẩm định hồ sơ:
++ Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Khoa học và Công nghệ trả lời doanh nghiệp về tính hợp lệ của hồ sơ, trong đó nêu rõ tài liệu, nội dung cần sửa đổi, bổ sung và thời hạn sửa đổi, bổ sung nếu hồ sơ chưa hợp lệ.
++ Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Khoa học và Công nghệ thẩm định hồ sơ và quyết định việc cấp hoặc từ chối cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ.
++ Trường hợp kết quả khoa học và công nghệ có liên quan đến nhiều ngành, lĩnh vực khác nhau, cần mời chuyên gia hoặc thành lập hội đồng tư vấn, thời hạn cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
++ Trường hợp Sở Khoa học và Công nghệ chưa đủ điều kiện kỹ thuật đánh giá kết quả khoa học và công nghệ, trong thời hạn 05 ngày làm việc từ khi nhận đủ hồ sơ hợp lệ, Sở Khoa học và Công nghệ gửi công văn kèm theo toàn bộ hồ sơ đề nghị cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ về Cục Phát triển thị trường và doanh nghiệp khoa học và công nghệ.
+Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày cấp Giấy chứng nhận doanh nghiệp khoa học và công nghệ, Sở Khoa học và Công nghệ công bố trên cổng thông tin điện tử của cơ quan về tên, địa chỉ và danh mục sản phẩm hình thành từ kết quả khoa học và công nghệ của doanh nghiệp đó.

@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (Cấp lần đầu)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1/ Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục I). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f96b50e3a79e140'">Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc</a>)
+- 01 Bản sao 2/ Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư.
+- 01 Bản chính 3/ Danh sách kiểm toán viên hành nghề có hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp (theo mẫu quy định tại Phụ lục III).
+- 01 Bản sao 4/ Bản sao Giấy chứng nhận đăng ký hành nghề kiểm toán của các kiểm toán viên hành nghề.
+- 01 Bản sao 5/ Bản sao Quyết định của Hội đồng thành viên về việc bổ nhiệm chức danh Giám đốc (Tổng Giám đốc) đối với công ty TNHH, công ty hợp danh.
+- 01 Bản sao 6/ Bản sao Điều lệ công ty.
+- 01 Bản chính 7/ Danh sách các tổ chức, cá nhân góp vốn, danh sách thành viên hợp danh (theo mẫu quy định tại phụ lục IV), trong đó phải thể hiện rõ các nội dung sau: a) Họ và tên, địa chỉ thường trú, quốc tịch; Số và ngày cấp, nơi cấp giấy chứng minh nhân dân hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác đối với cá nhân; Số và ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (đối với các cá nhân là kiểm toán viên hành nghề). b) Tên, địa chỉ đặt trụ sở, số và ngày quyết định thành lập (hoặc đăng ký kinh doanh) đối với tổ chức; Họ và tên, địa chỉ thường trú, quốc tịch, số và ngày cấp, nơi cấp giấy chứng minh nhân dân, hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác; Số và ngày cấp Giấy chứng nhận đăng ký hành nghề kiểm toán đối với cá nhân được cử là người đại diện phần vốn góp của tổ chức. c) Số vốn góp theo đăng ký, giá trị vốn đã thực góp, tỷ lệ sở hữu, thời hạn góp vốn.
+- 01 Bản chính 8/ Văn bản xác nhận về vốn đối với công ty TNHH, cụ thể như sau: a) Đối với doanh nghiệp thành lập mới phải có: - Biên bản góp vốn của các thành viên sáng lập. - Trường hợp số vốn được góp bằng tiền thì phải có văn bản xác nhận của ngân hàng thương mại được phép hoạt động tại Việt Nam về số tiền ký quỹ của các thành viên sáng lập. Số tiền ký quỹ tối thiểu phải bằng số vốn góp bằng tiền của các thành viên sáng lập và chỉ được giải ngân sau khi doanh nghiệp được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán. - Trường hợp số vốn góp bằng tài sản thì phải có chứng thư của tổ chức có chức năng thẩm định giá đang hoạt động tại Việt Nam về kết quả thẩm định giá tài sản được đưa vào góp vốn. Chứng thư phải còn hiệu lực tính đến ngày nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán. b) Đối với doanh nghiệp đang hoạt động phải có văn bản xác nhận của doanh nghiệp kiểm toán độc lập khác về mức vốn hiện có thuộc sở hữu của doanh nghiệp đó được ghi trong báo cáo tài chính của doanh nghiệp tại thời điểm gần nhất (năm đăng ký hoặc năm trước liền kề năm đăng ký).
+ * Số lượng hồ sơ: 01 (bộ)

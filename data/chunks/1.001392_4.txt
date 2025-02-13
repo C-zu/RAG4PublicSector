@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục miễn giảm kiểm tra chất lượng hàng hóa nhóm 2 nhập khẩu (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Văn bản đề nghị miễn kiểm tra với các thông tin sau: tên hàng hóa, nhãn hiệu, kiểu loại; đặc tính kỹ thuật; xuất xứ, nhà sản xuất; số lượng, khối lượng nhập khẩu theo đăng ký; đơn vị tính. - Bản sao kết quả đánh giá phù hợp quy chuẩn kỹ thuật quốc gia của 03 lần liên tiếp

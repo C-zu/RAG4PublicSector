@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp, cấp lại, gia hạn, phục hồi Quyết định công nhận lưu hành giống cây trồng (bao gồm cả cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|05 Ngày làm việc||- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|5 Ngày làm việc||- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|10 Ngày làm việc||- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị.|
+|Trực tuyến|15 Ngày làm việc||- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|05 Ngày làm việc||- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|5 Ngày làm việc||- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị.|
+|Dịch vụ bưu chính|15 Ngày làm việc||- Trường hợp cấp Quyết định lưu hành giống cây trồng: Trong thời gian 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Trường hợp cấp lại Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Trường hợp gia hạn Quyết định lưu hành giống cây trồng: Trong thời gian 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||- Trường hợp phục hồi Quyết định lưu hành giống cây trồng: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị.|

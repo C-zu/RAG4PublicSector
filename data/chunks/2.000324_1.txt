@@ -1,0 +1,16 @@
+Tên thủ tục: Xác nhận kiến thức pháp luật về bán hàng đa cấp, kiến thức cho đầu mối tại địa phương
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000324
+Số quyết định:
+1299/QĐ-BCT
+Tên thủ tục:
+Xác nhận kiến thức pháp luật về bán hàng đa cấp, kiến thức cho đầu mối tại địa phương
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý bán hàng đa cấp

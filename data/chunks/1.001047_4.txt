@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định điều chỉnh một phần kế hoạch tác động vào thời tiết
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh một phần kế hoạch; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd565d4165086b6'">Phụ lục số 02.docx</a>)
+- 01 Bản chính Báo cáo thuyết minh điều chỉnh một phần kế hoạch. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3a1ce63fd7ad1'">Phụ lục số 01.docx</a>)

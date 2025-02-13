@@ -1,0 +1,8 @@
+Tên thủ tục: Xử lý mất, cháy, hỏng hoá đơn đặt in đã mua của cơ quan thuế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Báo cáo mất, cháy, hỏng hóa đơn giấy theo Mẫu số BC21/HĐG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceedc47147bc08'">Mãu BC21.HĐG.doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 bộ

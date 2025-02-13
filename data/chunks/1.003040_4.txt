@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp đổi Giấy chứng nhận theo Mẫu số 10/ĐK (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7673a62edb08a'">Mau so 10-DK.pdf</a>)
+- 01 Bản chính - Bản gốc Giấy chứng nhận đã cấp;
+- 01 Bản sao - Bản sao hợp đồng thế chấp quyền sử dụng đất, tài sản gắn liền với đất thay cho bản gốc Giấy chứng nhận đã cấp đối với trường hợp cấp đổi Giấy chứng nhận sau khi đo đạc lập bản đồ địa chính mà Giấy chứng nhận đã cấp đang thế chấp tại tổ chức tín dụng.

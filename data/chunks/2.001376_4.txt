@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục tuyển sinh đào tạo trình độ đại học, cao đẳng quân sự hệ chính quy
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính 03 phiếu đăng ký dự thi theo quy định của Bộ Giáo dục và Đào tạo và Bộ Quốc phòng
+- 01 Bản chính 01 phiếu khám sức khoẻ
+- 01 Bản chính 01 bản thẩm tra, xác minh chính trị
+- 01 Bản chính 01 giấy chứng nhận được hưởng ưu tiên đối với những thí sinh thuộc diện ưu tiên
+- 06 Bản chính 06 ảnh chân dung cỡ 4x6 cm theo quy định tại Khoản 3, Điều 17 Thông tư này số 03/2014/TT-BQP

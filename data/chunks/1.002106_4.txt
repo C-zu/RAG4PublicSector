@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy xác nhận đăng ký công cụ hỗ trợ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy giới thiệu
+- 01 Bản chính Văn bản đề nghị nêu rõ số lượng, chủng loại, nước sản xuất, nhãn hiệu, số hiệu, ký hiệu của từng công cụ hỗ trợ
+- 01 Bản sao Bản sao Giấy phép trang bị công cụ hỗ trợ
+- 01 Bản sao Bản sao hóa đơn hoặc bản sao phiếu xuất kho
+- 01 Bản sao Bản sao thẻ Căn cước công dân, Chứng minh nhân dân, Hộ chiếu hoặc Chứng minh Công an nhân dân của người đến liên hệ

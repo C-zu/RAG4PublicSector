@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục cấp Giấy phép phân loại phim (thẩm quyền của ủy ban nhân dân cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị cấp giấy phép qua Cổng dịch vụ công quốc gia hoặc qua đường bưu điện hoặc nộp trực tiếp đến Ủy ban nhân dân cấp tỉnh.
+-  Ủy ban nhân dân cấp tỉnh tiếp nhận hồ sơ có trách nhiệm kiểm tra tính hợp lệ của hồ sơ, viết giấy biên nhận và hẹn thời gian trả giấy phép.
+- Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền thực hiện cấp Giấy phép phân loại phim theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định.
+	- Trường hợp không cấp Giấy phép phải trả lời bằng văn bản và nêu rõ lý do.
+- Trường hợp phim phải điều chỉnh nội dung hoặc hồ sơ phải sửa đổi, bổ sung thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều 27 Luật Điện ảnh 2022, trong thời hạn 15 ngày kể từ ngày nhận được bản phim đã điều chỉnh nội dung, 10 ngày kể từ ngày nhận được hồ sơ đã sửa đổi, bổ sung đầy đủ thông tin, cơ quan nhà nước có thẩm quyền thực hiện cấp Giấy phép.
+	- Trường hợp thay đổi nội dung phim đã được cấp Giấy phép phân loại phim, tổ chức, cá nhân phải thực hiện đề nghị cấp lại Giấy phép phân loại phim theo quy định tại Điều 27 của Luật Điện ảnh 2022.
+- Trường hợp thay đổi tên phim mà không thay đổi nội dung phim đã được cấp Giấy phép phân loại phim, tổ chức, cá nhân phải thông báo bằng văn bản cho cơ quan nhà nước có thẩm quyền đã cấp Giấy phép phân loại phim.

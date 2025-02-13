@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Thành phần hồ sơ, bao gồm: - Đơn đề nghị Cấp giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo: 1 (một) bản chính. (Mẫu số 01 quy định tại Phụ lục kèm theo Nghị định số 107/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdba824719c8a96'">Mẫu số 01.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư: 1 (một) bản sao, có xác nhận và đóng dấu sao y bản chính của thương nhân
+- 01 Bản sao Hợp đồng thuê kho chứa, cơ sở xay, xát, chế biến thóc, gạo (đối với trường hợp thương nhân thuê kho chứa, cơ sở xay, xát, chế biến) hoặc giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu kho chứa, cơ sở xay, xát, chế biến (đối với trường hợp kho chứa, cơ sở xay, xát, chế biến thuộc sở hữu của thương nhân): 1 (một) bản sao, có xác nhận và đóng dấu sao y bản chính của thương nhân
+- 01 Bản sao Trường hợp nộp hồ sơ trực tiếp tại trụ sở Bộ Công Thương, thương nhân có thể nộp bản chụp các giấy tờ, tài liệu quy định tại điểm b, điểm c khoản 2 Điều 6 Nghị định số 107/2018/NĐ-CP và xuất trình kèm theo bản chính để đối chiếu

@@ -1,0 +1,16 @@
+Tên thủ tục: Thẩm định nội dung điều chỉnh báo cáo nghiên cứu khả thi, quyết định phê duyệt điều chỉnh dự án PPP do nhà đầu tư đề xuất
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009494
+Số quyết định:
+1643/QĐ-BKHĐT
+Tên thủ tục:
+Thẩm định nội dung điều chỉnh báo cáo nghiên cứu khả thi, quyết định phê duyệt điều chỉnh dự án PPP do nhà đầu tư đề xuất
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư theo phương thức đối tác công tư

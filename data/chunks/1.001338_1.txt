@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy phép phân phối sản phẩm thuốc lá
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001338
+Số quyết định:
+688A/QĐ-BCT
+Tên thủ tục:
+Cấp Giấy phép phân phối sản phẩm thuốc lá
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lưu thông hàng hóa trong nước

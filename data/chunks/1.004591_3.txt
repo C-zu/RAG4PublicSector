@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp đổi giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Lệ phí : 2.000.000 Đồng theo Thông tư số 33/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính|Kể từ ngày nhận được hồ sơ hợp lệ|
+|Trực tuyến|05 Ngày làm việc|Lệ phí : 2.000.000 Đồng theo Thông tư số 33/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính|Kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|05 Ngày làm việc|Lệ phí : 2.000.000 Đồng theo Thông tư số 33/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính|Kể từ ngày nhận được hồ sơ hợp lệ|

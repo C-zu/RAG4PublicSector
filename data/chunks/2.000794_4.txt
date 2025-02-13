@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục công nhận câu lạc bộ thể thao cơ sở
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Quyết định thành lập;
+- 01 Bản chính Danh sách Ban chủ nhiệm
+- 01 Bản chính Danh sách hội viên
+- 01 Bản chính Địa điểm luyện tập;
+- 01 Bản chính Quy chế hoạt động.

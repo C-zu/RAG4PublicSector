@@ -1,0 +1,19 @@
+Tên thủ tục: Thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+- 01 Bản chính + Văn bản đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh của công ty xổ số kiến thiết, trong đó nêu rõ loại hình sản phẩm đề nghị được phép kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc10524a9ec126'">Mẫu đơn thu tuc 2.doc</a>)
+- 01 Bản chính + Ý kiến của chủ sở hữu về việc cấp giấy chứng nhận đủ điều kiện kinh doanh
+- 01 Bản chính + Phương án tổ chức hoạt động kinh doanh của công ty xổ số kiến thiết;
+- 01 Bản sao + Quyết định thành lập doanh nghiệp (bản sao có chứng thực)
+- 01 Bản sao + Giấy đăng ký doanh nghiệp (bản sao có chứng thực)
+- 01 Bản sao + Điều lệ hoạt động của công ty xổ số kiến thiết được chủ sở hữu phê duyệt
+- 01 Bản sao + Báo cáo tài chính của công ty xổ số kiến thiết năm gần nhất đã được kiểm toán.
+
+
+Đối với cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+- 01 Bản chính + Văn bản đề nghị điều chỉnh, cấp lại giấy chứng nhận đủ điều kiện kinh doanh xổ số của công ty xổ số kiến thiết, trong đó nêu rõ nguyên nhân đề nghị điều chỉnh, cấp lại giấy chứng nhận đủ điều kiện đăng ký kinh doanh xổ số; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbbb05e9340dae'">Mẫu đơn thu tuc 2.doc</a>)
+- 01 Bản chính + Ý kiến của chủ sở hữu về việc điều chỉnh, cấp lại giấy chứng nhận đủ điều kiện kinh doanh xổ số;
+- 01 Bản sao + Giấy chứng nhận đăng ký doanh nghiệp mới nhất (bản sao có chứng thực).

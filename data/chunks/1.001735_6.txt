@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép xe tập lái
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+- Thuộc sở hữu của cơ sở đào tạo lái xe. Có thể sử dụng xe hợp đồng thời hạn từ 01 năm trở lên với số lượng không vượt quá 50% số xe sở hữu cùng hạng tương ứng của cơ sở đào tạo đối với xe tập lái các hạng B1, B2, C, D, E; xe tập lái hạng FC có thể sử dụng xe hợp đồng với thời hạn và số lượng phù hợp với nhu cầu đào tạo. Riêng xe hạng B1, B2 có số tự động được sử dụng xe hợp đồng; - Ô tô tải sử dụng để dạy lái xe các hạng B1, B2 phải có trọng tải từ 1.000 kg trở lên với số lượng không quá 30% tổng số xe tập lái cùng hạng của cơ sở đào tạo.

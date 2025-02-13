@@ -1,0 +1,24 @@
+Tên thủ tục: Thanh toán chi phí khám, chữa bệnh bảo hiểm y tế với cơ sở khám chữa bệnh bảo hiểm y tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Biên bản thanh quyết toán chi phí khám chữa bệnh BHYT được ký giữa cơ quan BHXH và cơ sở khám bệnh, chữa bệnh theo Mẫu số C82-HD, cơ quan BHXH chuyển tiền trả cơ sở khám bệnh, chữa bệnh., Biên bản thanh, quyết toán chi phí khám chữa bệnh BHYT
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|25/2008/QH12|Luật 25/2008/QH12|14-11-2008||
+|46/2014/QH13|Luật 46/2014/QH13|13-06-2014||
+|146/2018/NĐ-CP|Nghị định 146/2018/NĐ-CP|17-10-2018||
+|102/2018/TT-BTC|Thông tư 102/2018/TT-BTC|14-11-2018||

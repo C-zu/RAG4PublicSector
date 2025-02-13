@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký tham gia tuyển chọn, giao trực tiếp nhiệm vụ khoa học và công nghệ cấp Bộ của Bộ Thông tin và Truyền thông
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004916
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Đăng ký tham gia tuyển chọn, giao trực tiếp nhiệm vụ khoa học và công nghệ cấp Bộ của Bộ Thông tin và Truyền thông
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet

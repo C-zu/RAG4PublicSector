@@ -1,0 +1,16 @@
+Tên thủ tục: Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008333
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai thuế đối với nhà thầu nước ngoài, nhà thầu phụ nước ngoài nộp thuế GTGT theo phương pháp tính trực tiếp trên GTGT, nộp thuế TNDN theo tỷ lệ % tính trên doanh thu đối với hoạt động kinh doanh và các loại thu nhập khác
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế

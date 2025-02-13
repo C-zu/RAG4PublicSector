@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Quyết định công nhận phân bón lưu hành tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao a) Đơn đề nghị cấp Quyết định công nhận phân bón lưu hành tại Việt Nam theo Mẫu số 01 tại Phụ lục I ban hành kèm theo Nghị định 84/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe40e736fb92298'">Mẫu số 01.doc</a>)
+- 01 Bản chính, 01 Bản sao b) Bản thông tin chung về phân bón có xác nhận của nhà sản xuất bao gồm: loại phân bón; tên phân bón; dạng phân bón; hướng dẫn sử dụng; phương thức sử dụng; thời hạn sử dụng; cảnh báo an toàn; chỉ tiêu chất lượng, hàm lượng yếu tố hạn chế trong phân bón kèm theo phiếu kết quả thử nghiệm;
+- 01 Bản chính, 01 Bản sao c) Bản chính báo cáo kết quả khảo nghiệm phân bón theo tiêu chuẩn quốc gia về khảo nghiệm phân bón (trừ các loại phân bón quy định tại khoản 2 Điều 39 Luật Trồng trọt);
+- 01 Bản chính, 01 Bản sao d) Giấy chứng nhận lưu hành tự do của nước xuất khẩu cấp bao gồm giấy chứng nhận mang tính đặc thù hoặc mang đầy đủ nội dung của giấy chứng nhận lưu hành tự do và các loại văn bản chứng nhận có nội dung tương tự (đối với phân bón nhập khẩu quy định tại điểm a, b, c khoản 2 Điều 39 Luật Trồng trọt).

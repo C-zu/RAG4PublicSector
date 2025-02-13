@@ -1,0 +1,18 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm, linh kiện đã được tân trang, làm mới để thay thế, sửa chữa cho người sử dụng trong nước mà sản phẩm, linh kiện đó nay không còn được sản xuất
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Người nhập khẩu là tổ chức, doanh nghiệp được thành lập và hoạt động theo quy định của pháp luật Việt Nam.
+- Sản phẩm nhập khẩu phải có chức năng, hình thức tương đương và có chế độ bảo hành như sản phẩm mới; có nhãn hàng hóa theo quy định của pháp luật;
+- Sản phẩm, linh kiện nhập khẩu chỉ được sử dụng với mục đích thay thế cho các sản phẩm, linh kiện bị lỗi, hỏng của khách hàng trong nước, không được chuyển nhượng, bán lại;
+- Sản phẩm, linh kiện hỏng được thu hồi sau khi thay thế cho khách hàng phải được tái xuất hoặc xử lý tiêu hủy theo quy định của pháp luật.
+ - Định kỳ hàng năm, tổ chức, doanh nghiệp báo cáo số lượng nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng theo mẫu tại Phụ lục II ban hành kèm theo Quyết định số 18/2016/QĐ-TTg và bản sao Tờ khai xuất khẩu, nhập khẩu về Bộ Thông tin và Truyền thông.
+- Người nhập khẩu là tổ chức, doanh nghiệp được thành lập và hoạt động theo quy định của pháp luật Việt Nam.
+- Sản phẩm nhập khẩu phải có chức năng, hình thức tương đương và có chế độ bảo hành như sản phẩm mới; có nhãn hàng hóa theo quy định của pháp luật;
+- Sản phẩm, linh kiện nhập khẩu chỉ được sử dụng với mục đích thay thế cho các sản phẩm, linh kiện bị lỗi, hỏng của khách hàng trong nước, không được chuyển nhượng, bán lại;
+- Sản phẩm, linh kiện hỏng được thu hồi sau khi thay thế cho khách hàng phải được tái xuất hoặc xử lý tiêu hủy theo quy định của pháp luật.
+ - Định kỳ hàng năm, tổ chức, doanh nghiệp báo cáo số lượng nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng theo mẫu tại Phụ lục II ban hành kèm theo Quyết định số 18/2016/QĐ-TTg và bản sao Tờ khai xuất khẩu, nhập khẩu về Bộ Thông tin và Truyền thông.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

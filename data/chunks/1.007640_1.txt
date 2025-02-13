@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007640
+Số quyết định:
+2061/QĐ-BTC
+Tên thủ tục:
+Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương.
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan

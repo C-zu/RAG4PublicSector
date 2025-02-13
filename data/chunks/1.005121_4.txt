@@ -1,0 +1,14 @@
+Tên thủ tục: Đăng ký khi hợp tác xã hợp nhất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản sao - Bản sao hợp lệ giấy tờ chứng thực cá nhân của người có thẩm quyền đăng ký. Trường hợp được ủy quyền, phải có thêm: (1) bản sao hợp lệ giấy tờ chứng thực cá nhân của người được ủy quyền; (2) bản sao hợp lệ hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ nộp hồ sơ, nhận kết quả và giấy giới thiệu của tổ chức đó cho cá nhân thực hiện nộp hồ sơ, nhận kết quả hoặc văn bản ủy quyền cho cá nhân thực hiện nộp hồ sơ, nhận kết quả theo quy định của pháp luật. Văn bản này không bắt buộc phải công chứng, chứng thực.
+- 01 Bản chính - Giấy đề nghị đăng ký thành lập hợp tác xã; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feadcec7647b311'">Phu luc I-1_TT07.2019.docx</a>)
+- 01 Bản chính - Điều lệ;
+- 01 Bản chính - Phương án sản xuất kinh doanh; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7355c245413b2'">Phu luc I-2_TT072019.docx</a>)
+- 01 Bản chính - Danh sách hợp tác xã thành viên; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe84ec30faa18e5'">Phu luc I-3_TT07.2019.docx</a>)
+- 01 Bản chính - Danh sách hội đồng quản trị, giám đốc (tổng giám đốc), ban kiểm soát hoặc kiểm soát viên; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe12da702328829'">Phu luc I-4_TT07.2019.docx</a>)
+- 01 Bản chính - Nghị quyết của đại hội thành viên về việc hợp nhất hợp tác xã.
+- 01 Bản sao - Trường hợp đăng ký hợp tác xã hợp nhất là tổ chức tín dụng kèm theo hồ sơ phải có bản sao hợp lệ giấy phép hoặc văn bản chấp thuận của Ngân hàng Nhà nước Việt Nam.

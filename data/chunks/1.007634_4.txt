@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (điều chỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1/ Thành phần hồ sơ, bao gồm: Hồ sơ đề nghị điều chỉnh Giấy chứng nhận kinh doanh dịch vụ kiểm toán bao gồm:
+- 01 Bản chính a) Đơn đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục VI). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed27f74db53a1f'">Phụ lục Thông tư số 203-2012-TT-BTC_41779_1.doc</a>)
+- 01 Bản chính b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã được cấp lần gần nhất.
+- 01 Bản chính c) Báo cáo mô tả chi tiết nội dung đề nghị điều chỉnh và các tài liệu có liên quan đến thông tin điều chỉnh.
+ 2/ Số lượng hồ sơ: 01 (bộ)

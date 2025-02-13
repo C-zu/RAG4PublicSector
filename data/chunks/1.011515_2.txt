@@ -1,0 +1,52 @@
+Tên thủ tục: Cấp Giấy phép môi trường
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Dự án đầu tư, cơ sở không thuộc đối tượng phải vận hành thử nghiệm công trình xử lý chất thải; + Dự án đầu tư, cơ sở đấu nối nước thải vào hệ thống thu gom, xử lý nước thải tập trung của khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp và đáp ứng các yêu cầu sau đây: không thuộc loại hình sản xuất, kinh doanh, dịch vụ có nguy cơ gây ô nhiễm môi trường; không thuộc trường hợp phải quan trắc khí thải tự động, liên tục, quan trắc định kỳ theo quy định tại Nghị định số 08/2022/NĐ-CP
+Giai đoạn 1: Sơ thẩm hồ sơ đề nghị cấp giấy phép môi trường       10 ngày
+Bước 1	Trung tâm Phục vụ hành chính công tỉnh	- Kiểm tra, hướng dẫn, tiếp nhận hồ sơ, gửi phiếu hẹn trả kết quả và trả kết quả cho cá nhân/ tổ chức.
+- Quét (scan) hồ sơ và chuyển hồ sơ trên cổng dịch vụ công trực tuyến và hồ sơ giấy cho Chi cục Bảo vệ Môi trường xử lý hồ sơ. Gửi bưu điện chuyển, phát hành (nếu có).	0,5 ngày
+Bước 2	Công chức Chi cục Bảo vệ môi trường	Nghiên cứu hồ sơ pháp lý có liên quan; rà soát đối tượng cấp Giấy phép môi trường và cấu trúc, nội dung hồ sơ:
+- Trường hợp hồ sơ thẩm định không đạt yêu cầu, tham mưu Văn bản thông báo cho tổ chức, cá nhân; trình lãnh đạo Chi cục;
+- Trường hợp hồ sơ thẩm định đạt yêu cầu:
++ Công khai nội dung báo cáo đề xuất cấp GPMT trên trang thông tin điện tử của Sở (nếu có); tham mưu Văn bản tham vấn ý kiến cơ quan có liên quan (nếu có);
++ Thành lập Tổ thẩm định, tổ chức thẩm định; dự thảo Biên bản, Văn bản thông báo hoàn thiện hồ sơ (trường hợp thông qua nhưng phải chỉnh sửa, bổ sung) hoặc trả hồ sơ đề nghị cấp giấy phép môi trường (trường hợp không thông qua), trình lãnh đạo Chi cục Bảo vệ môi trường xem xét.	7,5 ngày
+Bước 3	Lãnh đạo Chi cục Bảo vệ môi trường	Trình lãnh đạo Sở ký duyệt Văn bản thông báo	01 ngày
+Bước 4	Lãnh đạo Sở Tài nguyên và Môi trường	Xem xét, ký duyệt Văn bản thông báo
+Bước 5	Trung tâm Phục vụ hành chính công tỉnh	Trả kết quả giải quyết TTHC cho tổ chức, cá nhân
+Giai đoạn 2: Thẩm định, trình phê duyệt Cấp giấy phép môi trường (Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính)	05 ngày
+Bước 6	
+Trung tâm Phục vụ hành chính công tỉnh	Tiếp nhận lại hồ sơ sau khi tổ chức cá nhân đã chỉnh sửa, bổ sung theo Văn bản thông báo và chuyển hồ sơ cho Chi cục Bảo vệ môi trường thuộc Sở Tài nguyên và Môi trường	0,5 ngày
+Bước 7	
+Công chức Chi cục Bảo vệ môi trường	Xem xét hồ sơ sau khi chỉnh sửa, bổ sung; trường hợp đủ điều kiện cấp Giấy phép môi trường thì tham mưu Tờ trình và dự thảo Giấy phép môi trường (hoặc Văn bản thông báo trả hồ sơ trong trường hợp không đủ điều kiện cấp Giấy phép môi trường); trình lãnh đạo Chi cục BVMT       01 ngày
+Bước 8	Lãnh đạo Chi cục Bảo vệ môi trường	Xem xét thông qua Tờ trình và dự thảo Giấy phép môi trường (hoặc Văn bản thông báo trả hồ sơ) trình lãnh đạo Sở ký duyệt	0,5 ngày
+Bước 9	Lãnh đạo Sở Tài nguyên và Môi trường	Xem xét, ký duyệt Tờ trình và thông qua dự thảo Giấy phép môi trường trình UBND tỉnh (hoặc Văn bản thông báo trả hồ sơ cho tổ chức)	0,5 ngày
+Bước 10	Văn phòng và Phòng chuyên môn UBND tỉnh	Xem xét, thẩm tra, xử lý hồ sơ trình Lãnh đạo UBND tỉnh ký duyệt	1,5 ngày
+Bước 11	Lãnh đạo UBND tỉnh	Xem xét, ký duyệt Giấy phép môi trường	01 ngày
+Bước 12	Trung tâm Phục vụ hành chính công tỉnh	Trả kết quả giải quyết TTHC cho tổ chức, cá nhân
+Các trường hợp còn lại
+Giai đoạn 1: Sơ thẩm hồ sơ đề nghị cấp giấy phép môi trường	20 ngày
+Bước 1	Trung tâm Phục vụ hành chính công tỉnh	- Kiể
+m tra, hướng dẫn, tiếp nhận hồ sơ, gửi phiếu hẹn trả kết quả và trả kết quả cho cá nhân/ tổ chức;
+- Quét (scan) hồ sơ và chuyển hồ sơ trên cổng dịch vụ công trực tuyến, trực tiếp và hồ sơ giấy cho Chi cục Bảo vệ Môi trường xử lý hồ sơ. Gửi bưu điện chuyển, phát hành	0,5 ngày 
+
+Bước 2	
+
+Công chức Chi cục Bảo vệ môi trường	Nghiên cứu hồ sơ pháp lý có liên quan; rà soát đối tượng cấp GPMT và cấu trúc, nội dung hồ sơ:
+- Trường hợp hồ sơ thẩm định không đạt yêu cầu, tham mưu Văn bản thông báo cho tổ chức, cá nhân, trình lãnh đạo Chi cục;
+- Trường hợp hồ sơ thẩm định đạt yêu cầu:
++ Công khai báo cáo đề xuất cấp GPMT trên trang thông tin điện tử của Sở (nếu có); tham mưu Văn bản tham vấn ý kiến cơ quan có liên quan (nếu có);
++ Thành lập Hội đồng thẩm định/Tổ thẩm định, tổ chức khảo sát thực tế (nếu có), Văn bản thông báo kế hoạch khảo sát (nếu có), biên bản khảo sát thực tế (nếu có); tổ chức thẩm định. Hoặc thành lập Đoàn kiểm tra; kiểm tra thực tế, Biên bản kiểm tra.
++ Dự thảo Biên bản, Văn bản thông báo hoàn thiện hồ sơ (trường hợp thông qua nhưng phải chỉnh sửa, bổ sung) hoặc trả hồ sơ đề nghị cấp giấy phép môi trường (trường hợp không thông qua), trình lãnh đạo Chi cục Bảo vệ môi trường xem xét.	17,5 ngày
+Bước 3	Lãnh đạo Chi cục Bảo vệ môi trường	Xem xét Văn bản thông báo trình lãnh đạo Sở	01 ngày
+Bước 4	Lãnh đạo Sở Tài nguyên và Môi trường	Xem xét, ký duyệt Văn bản thông báo	01 ngày
+Bước 5	Trung tâm Phục vụ hành chính công tỉnh	Trả kết quả giải quyết TTHC cho tổ chức, cá nhân	Giờ hành chính
+Giai đoạn 2: Thẩm định, trình Cấp giấy phép môi trường (Thời gian tổ chức, cá nhân chỉnh sửa, bổ sung hồ sơ không tính vào thời gian giải quyết thủ tục hành chính)	10 ngày
+Bước 6	Trung tâm Phục vụ hành chính công tỉnh	Tiếp nhận lại hồ sơ sau khi tổ chức cá nhân đã chỉnh sửa, bổ sung theo Văn bản thông báo và chuyển hồ sơ cho Chi cục Bảo vệ môi trường thuộc Sở Tài nguyên và Môi trường	
+0,5 ngày
+Bước 7	Công chức Chi cục Bảo vệ môi trường	Xem xét hồ sơ sau khi chỉnh sửa, bổ sung; trường hợp đủ điều kiện cấp Giấy phép môi trường thì tham mưu Tờ trình và dự thảo Giấy phép môi trường (hoặc Văn bản thông báo trả hồ sơ trong trường hợp không đủ điều kiện cấp Giấy phép môi trường); trình lãnh đạo Chi cục Bảo vệ môi trường thông qua	3,5 ngày
+Bước 8	Lãnh đạo Chi cục Bảo vệ môi trường	Xem xét thông qua Tờ trình và dự thảo Giấy phép môi trường (hoặc Văn bản thông báo trả hồ sơ) trình lãnh đạo Sở ký duyệt Tờ trình	01 ngày
+Bước 9	Lãnh đạo Sở Tài nguyên và Môi trường	Xem xét, ký duyệt Tờ trình và thông qua dự thảo Giấy phép môi trường trình UBND tỉnh (hoặc Văn bản thông báo trả hồ sơ cho tổ chức)	01 ngày
+Bước 10	Văn phòng và phòng chuyên môn UBND tỉnh	Xem xét, thẩm tra, xử lý hồ sơ trình Lãnh đạo UBND tỉnh ký duyệt	03 ngày
+Bước 11	Lãnh đạo UBND tỉnh	Xem xét, ký duyệt Giấy phép môi trường	01 ngày
+Bước 12	Trung tâm Phục vụ hành chính công tỉnh	Trả kết quả giải quyết TTHC cho tổ chức, cá nhân	Giờ hành chính

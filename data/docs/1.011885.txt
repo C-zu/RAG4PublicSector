@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011885
+Số quyết định:
+1603/QĐ-BTTTT
+Tên thủ tục:
+Cấp mới Giấy phép kinh doanh dịch vụ viễn thông sử dụng băng tần cấp lại Giấy phép sử dụng băng tần
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+- Trong thời hạn 30 ngày trước ngày giấy phép sử dụng băng tần còn hiệu lực 06 tháng, tổ chức có nhu cầu được cấp lại giấy phép sử dụng băng tần phải nộp 01 bộ hồ sơ đến Bộ Thông tin và Truyền thông (Cục Viễn thông).
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Viễn thông có văn bản thông báo cho tổ chức biết về hồ sơ không hợp lệ. 
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản thông báo, tổ chức phải hoàn thiện và nộp đủ hồ sơ hợp lệ theo quy định; 
+- Chậm nhất 90 ngày trước ngày giấy phép sử dụng băng tần hết hạn, Bộ Thông tin và Truyền thông (Cục Viễn thông) thông báo cho tổ chức về việc đủ điều kiện xét cấp mới giấy phép kinh doanh dịch vụ viễn thông đối với băng tần đề nghị cấp lại giấy phép sử dụng băng tần. Trường hợp không đủ điều kiện cấp mới thì phải nêu rõ lý do.
+- Bộ Thông tin và Truyền thông (Cục Viễn thông) thông báo cho tổ chức đủ điều kiện xét cấp mới giấy phép kinh doanh dịch vụ viễn thông đối với băng tần đề nghị cấp lại giấy phép sử dụng băng tần lệ phí, phí cấp phép hoạt động viễn thông, phí quyền hoạt động viễn thông phải nộp để được cấp giấy phép kinh doanh dịch vụ viễn thông.
+- Chậm nhất 30 ngày trước ngày giấy phép sử dụng băng tần đã cấp hết hiệu lực, tổ chức đã nộp đủ các khoản tiền quy định tại điểm b khoản này được cấp mới giấy phép kinh doanh dịch vụ viễn thông.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Lệ phí : Đồng Theo quy định của Bộ Tài chính|30 ngày trước ngày giấy phép sử dụng băng tần đã cấp hết hiệu lực, tổ chức nộp hồ sơ hợp lệ và đã nộp đủ các khoản tiền quy định được cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông. Nộp trực tiếp tại Cục Viễn thông; (Địa chỉ: Tòa nhà Cục Viễn thông, đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội).|
+|Dịch vụ bưu chính|30 Ngày|Lệ phí : Đồng Theo quy định của Bộ Tài chính|30 ngày trước ngày giấy phép sử dụng băng tần đã cấp hết hiệu lực, tổ chức nộp hồ sơ hợp lệ và đã nộp đủ các khoản tiền quy định được cấp sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông. Nộp qua hệ thống bưu chính. (Địa chỉ: Tòa nhà Cục Viễn thông, đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Hồ sơ đề nghị cấp mới giấy phép thiết lập mạng viễn thông công cộng, giấy phép cung cấp dịch vụ viễn thông sử dụng băng tần theo quy định của pháp luật về viễn thông; ([Mẫu 1 Nghị định 81.2016.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc269988d726584'))
+- 01 Bản chính Bản cam kết triển khai mạng viễn thông theo mẫu tại Phụ lục IV ban hành kèm theo Nghị định số 63/2023/NĐ-CP. ([Mẫu Bản cam kết.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe36767e55ec424'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Tòa nhà Cục Viễn thông, đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kinh doanh dịch vụ viễn thông
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật|23-11-2009|Quốc Hội|
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009|Quốc Hội|
+|81/2016/NĐ-CP|Nghị định 81/2016/NĐ-CP|01-07-2016|Chính phủ|
+|63/2023/NĐ-CP|Nghị định số 63/2023/NĐ-CP của Chính phủ|18-08-2023||
+|09/2022/QH15|Luật số 09/2022/QH15 của Quốc hội|09-11-2022||
+
+Yêu cầu, điều kiện thực hiện:
+) Đáp ứng điều kiện cấp, sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông theo quy định của pháp luật về viễn thông;	
+b) Kế hoạch kinh doanh, kế hoạch kỹ thuật sử dụng băng tần được cấp lại xây dựng chung cho các hoạt động kinh doanh dịch vụ viễn thông tại giấy phép kinh doanh dịch vụ viễn thông và phù hợp với yêu cầu cam kết triển khai mạng viễn thông của băng tần được cấp lại;
+c) Cam kết đáp ứng điều kiện triển khai mạng viễn thông đối với băng tần được cấp lại giấy phép sử dụng băng tần.
+) Đáp ứng điều kiện cấp, sửa đổi, bổ sung giấy phép kinh doanh dịch vụ viễn thông theo quy định của pháp luật về viễn thông;	
+b) Kế hoạch kinh doanh, kế hoạch kỹ thuật sử dụng băng tần được cấp lại xây dựng chung cho các hoạt động kinh doanh dịch vụ viễn thông tại giấy phép kinh doanh dịch vụ viễn thông và phù hợp với yêu cầu cam kết triển khai mạng viễn thông của băng tần được cấp lại;
+c) Cam kết đáp ứng điều kiện triển khai mạng viễn thông đối với băng tần được cấp lại giấy phép sử dụng băng tần.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

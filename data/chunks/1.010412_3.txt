@@ -1,0 +1,9 @@
+Tên thủ tục: Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải công nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc kể từ ngày nhận Tờ khai phí||- Nộp hồ sơ: Trực tiếp hoặc qua đường bưu điện hoặc qua hệ thống dịch vụ công trực tuyến. - Trả kết quả giải quyết thủ tục hành chính: Trực tiếp hoặc qua đường bưu điện hoặc qua cổng dịch vụ công trực tuyến.|
+|Trực tuyến|10 ngày làm việc kể từ ngày nhận Tờ khai phí||- Nộp hồ sơ: Trực tiếp hoặc qua đường bưu điện hoặc qua hệ thống dịch vụ công trực tuyến. - Trả kết quả giải quyết thủ tục hành chính: Trực tiếp hoặc qua đường bưu điện hoặc qua cổng dịch vụ công trực tuyến.|
+|Dịch vụ bưu chính|10 ngày làm việc kể từ ngày nhận Tờ khai phí||- Nộp hồ sơ: Trực tiếp hoặc qua đường bưu điện hoặc qua hệ thống dịch vụ công trực tuyến. - Trả kết quả giải quyết thủ tục hành chính: Trực tiếp hoặc qua đường bưu điện hoặc qua cổng dịch vụ công trực tuyến.|

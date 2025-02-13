@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định dự án đầu tư xây dựng/Thiết kế cơ sở công trình viễn thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|12 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở theo quy định tại Thông tư số 209/2016/TT-BTC||
+|Trực tuyến|12 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở theo quy định tại Thông tư số 209/2016/TT-BTC||
+|Dịch vụ bưu chính|12 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở theo quy định tại Thông tư số 209/2016/TT-BTC||

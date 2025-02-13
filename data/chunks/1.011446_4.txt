@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Hỗ trợ tổ chức áp dụng tiêu chuẩn, công cụ, mô hình, phương pháp quản lý tiên tiến
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao a) Thành phần hồ sơ: Đơn đề nghị hỗ trợ (Mẫu số 01); Bản sao giấy chứng nhận đăng ký tổ chức; Bản sao giấy chứng nhận, công nhận đã được đánh giá phù hợp với yêu cầu của tiêu chuẩn, mô hình, phương pháp, công cụ quản lý tiên tiến do tổ chức chứng nhận, tổ chức công nhận hợp pháp cấp; Bằng chứng chứng minh chi phí xây dựng, áp dụng tiêu chuẩn, mô hình, phương pháp, công cụ quản lý tiên tiến: Bản sao hợp đồng và hóa đơn với tổ chức đánh giá sự phù hợp; Bản sao hợp đồng, thanh lý hợp đồng với tổ chức thực hiện dịch vụ, tổ chức tư vấn (nếu có); các hóa đơn, chứng từ tài chính có liên quan (nếu có).

@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký lưu hành bổ sung do thay đổi tên, địa chỉ liên lạc của đơn vị đăng ký, đơn vị sản xuất chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003707
+Số quyết định:
+4508/QĐ-BYT
+Tên thủ tục:
+Đăng ký lưu hành bổ sung do thay đổi tên, địa chỉ liên lạc của đơn vị đăng ký, đơn vị sản xuất chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y tế Dự phòng

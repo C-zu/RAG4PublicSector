@@ -1,0 +1,17 @@
+Tên thủ tục: Miễn trừ áp dụng biện pháp phòng vệ thương mại
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ 1. Hồ sơ đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại (sau đây gọi là hồ sơ miễn trừ) bao gồm các giấy tờ và tài liệu sau đây
+- 01 Bản chính - Đơn đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại theo mẫu tại Phụ lục III ban hành kèm theo Thông tư số 37/2019/TT-BCT ngày 29 tháng 11 năm 2019 của Bộ trưởng Bộ Công Thương quy định chi tiết một số nội dung về các biện pháp phòng vệ thương mại ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb41b50ba3b860'">PHỤ LỤC III.docx</a>)
+- 01 Bản sao - Bản sao giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đầu tư của doanh nghiệp;
+ - Thông tin mô tả về hàng hóa nhập khẩu đề nghị miễn trừ, bao gồm: tên khoa học, tên thương mại, tên thường gọi; các đặc tính vật lý, hóa học cơ bản; mục đích sử dụng chính; quy trình sản xuất; tiêu chuẩn, quy chuẩn của quốc tế và Việt Nam; mã số hàng hóa theo danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam
+ - Thông tin về khối lượng, số lượng và trị giá nhập khẩu hàng hóa đề nghị miễn trừ (thông thường trong 03 năm gần nhất và năm hiện tại);
+ - Quy trình sản xuất sản phẩm sử dụng nguyên liệu đầu vào là hàng hóa đề nghị miễn trừ (nếu có);
+ - Nhu cầu tiêu thụ hoặc sử dụng hàng hóa nhập khẩu đề nghị miễn trừ (thông thường trong 03 năm gần nhất và năm hiện tại);
+ - Định mức tiêu hao hoặc định mức sử dụng nguyên vật liệu là hàng hóa nhập khẩu đề nghị miễn trừ;
+ - Văn bản, tài liệu hoặc mẫu mã chứng minh sự khác biệt giữa hàng hóa đề nghị miễn trừ và hàng hóa nhập khẩu bị áp dụng biện pháp phòng vệ thương mại.
+ - Thông tin về cơ sở, dây chuyền sản xuất và sản lượng sản xuất hàng hóa đề nghị miễn trừ trong 03 năm gần nhất và năm hiện tại;
+ - Tài liệu chứng minh về nhu cầu sử dụng lượng hàng hóa đề nghị miễn trừ, bao gồm: hợp đồng ký kết với khách hàng, phê duyệt các dự án đang triển khai hoặc các tài liệu có liên quan.

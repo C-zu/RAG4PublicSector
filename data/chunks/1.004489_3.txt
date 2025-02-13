@@ -1,0 +1,9 @@
+Tên thủ tục: Điều chỉnh tiền cấp quyền khai thác tài nguyên nước (cấp Trung ương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|21 Ngày|Phí : Không quy định.|Chủ giấy phép nộp hồ sơ trực tiếp, nộp hồ sơ qua cổng dịch vụ công trực tuyến, gửi hồ sơ qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật tới Văn phòng một cửa.|
+|Trực tuyến|21 Ngày|Phí : Không quy định.|Chủ giấy phép nộp hồ sơ trực tiếp, nộp hồ sơ qua cổng dịch vụ công trực tuyến, gửi hồ sơ qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật tới Văn phòng một cửa.|
+|Dịch vụ bưu chính|21 Ngày|Phí : Không quy định.|Chủ giấy phép nộp hồ sơ trực tiếp, nộp hồ sơ qua cổng dịch vụ công trực tuyến, gửi hồ sơ qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật tới Văn phòng một cửa.|

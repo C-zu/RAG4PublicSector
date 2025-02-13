@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009127
+Số quyết định:
+1080/QĐ-BTC
+Tên thủ tục:
+Thủ tục công nhận kho hàng không kéo dài
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp chuẩn bị một bộ hồ sơ công nhận qua đường bưu điện hoặc gửi trực tiếp hoặc qua hệ thống xử lý dữ liệu điện tử của cơ quan hải quan đến Tổng cục Hải quan:
++ Chuẩn bị một bộ hồ sơ theo quy định tại khoản 14 Điều 1 Nghị định số 67/2020/NĐ-CP ngày 15/06/2020
++ Gửi đến Tổng cục Hải quan qua đường bưu điện hoặc gửi trực tiếp hoặc qua hệ thống xử lý dữ liệu điện tử của cơ quan hải quan.
++ Sửa đổi, bổ sung, hoàn thiện hồ sơ: Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 05 ngày làm việc kể từ ngày nhận hồ sơ của doanh nghiệp, Tổng cục Hải quan có văn bản thông báo và yêu cầu doanh nghiệp bổ sung hồ sơ. Quá 30 ngày làm việc kể từ ngày gửi thông báo nhưng doanh nghiệp không có phản hồi bằng văn bản, Tổng cục Hải quan có quyền hủy hồ sơ.
+Bước 2: Cơ quan hải quan thực hiện kiểm tra hồ sơ hải quan, kiểm tra kho hàng không kéo dài:
++ Tiếp nhận và kiểm tra hồ sơ đề nghị công nhận kho hàng không kéo dài, hồ sơ sửa đổi, bổ sung (nếu có).
++ Kiểm tra thực tế kho hàng không kéo
++ Có văn bản thông báo cho doanh nghiệp khi hồ sơ hoặc thực tế kho hàng không kéo dài không đáp ứng yêu cầu.
++ Cấp giấy công nhận kho hàng không kéo dài trong trường hợp đáp ứng các yêu cầu theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc||1. Trong thời hạn 10 ngày làm việc, Tổng cục Hải quan hoàn thành việc kiẻm tra tra hồ sơ, thực tế kho hàng không kéo dài; 2. Trong thời hạn15 ngày làm việc kể từ ngày hoàn thành việc kiểm tra hồ sơ, thực tế kho hàng không kéo dài, Tổng cục trưởng ra quyết định công nhận kho hàng không kéo dài hoặc văn bản trả lời doanh nghiệp nếu chưa đáp ứng đủ điều kiện theo quy định|
+|Trực tuyến|25 Ngày làm việc||1. Trong thời hạn 10 ngày làm việc, Tổng cục Hải quan hoàn thành việc kiẻm tra tra hồ sơ, thực tế kho hàng không kéo dài; 2. Trong thời hạn15 ngày làm việc kể từ ngày hoàn thành việc kiểm tra hồ sơ, thực tế kho hàng không kéo dài, Tổng cục trưởng ra quyết định công nhận kho hàng không kéo dài hoặc văn bản trả lời doanh nghiệp nếu chưa đáp ứng đủ điều kiện theo quy định|
+|Dịch vụ bưu chính|25 Ngày làm việc||1. Trong thời hạn 10 ngày làm việc, Tổng cục Hải quan hoàn thành việc kiẻm tra tra hồ sơ, thực tế kho hàng không kéo dài; 2. Trong thời hạn15 ngày làm việc kể từ ngày hoàn thành việc kiểm tra hồ sơ, thực tế kho hàng không kéo dài, Tổng cục trưởng ra quyết định công nhận kho hàng không kéo dài hoặc văn bản trả lời doanh nghiệp nếu chưa đáp ứng đủ điều kiện theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Không có thông tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014||
+|67/2014/QH13|Luật 67/2014/QH13|26-11-2014||
+|03/2016/QH14|Luật 03/2016/QH14|01-01-2016||
+|67/2020/NĐ-CP|Nghị định 67/2020/NĐ-CP|15-06-2020||
+|68/2016/NĐ-CP|Nghị định 68/2016/NĐ-CP|01-07-2016||
+
+Yêu cầu, điều kiện thực hiện:
++)  Kho hàng không kéo dài được công nhận tại địa bàn nơi có các khu vực sau đây: Khu vực lân cận cảng hàng không dân dụng quốc tế; Khu công nghiệp, khu công nghệ cao, khu chế xuất; Khu vực đã được cơ quan có thẩm quyền phê duyệt tại quy hoạch phát triển hệ thống trung tâm logistics trên địa bàn cả nước. Các khu vực này cách cảng hàng không dân dụng quốc tế không quá 50 km.
++)  Kho hàng không kéo dài để lưu giữ hàng hóa xuất khẩu, nhập khẩu được vận chuyển bằng đường hàng không qua sân bay quốc tế Nội Bài và sân bay quốc tế Tân Sơn Nhất phải có diện tích khu đất tối thiểu 5.000 m2 (bao gồm kho, bãi và các công trình phụ trợ), trong đó kho chứa hàng phải có diện tích tối thiểu 2.000 m2. Đối với các cảng hàng không quốc tế còn lại và cảng hàng không nội địa được phép khai thác chuyến bay quốc tế, kho hàng không kéo dài phải có diện tích khu đất tối thiểu 2.000 m2 (bao gồm kho, bãi và các công trình phụ trợ), trong đó kho chứa hàng phải có diện tích tối thiểu 1.000 m2. Kho, bãi được ngăn cách với khu vực xung quanh bằng tường rào, có khu vực chứa hàng hóa xuất khẩu, nhập khẩu riêng biệt.
++)  Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, số lượng, tình trạng của hàng hóa, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ trong kho hàng không kéo dài chi tiết theo vận đơn và/hoặc tờ khai hải quan để quản lý theo Hệ thống quản lý, giám sát hàng hóa tự động.
++)  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan quản lý. Hình ảnh quan sát được mọi vị trí của kho vào tất cả thời điểm trong ngày (24/24 giờ), dữ liệu về hình ảnh lưu giữ tối thiểu 06 tháng
++)  Kho hàng không kéo dài được công nhận tại địa bàn nơi có các khu vực sau đây: Khu vực lân cận cảng hàng không dân dụng quốc tế; Khu công nghiệp, khu công nghệ cao, khu chế xuất; Khu vực đã được cơ quan có thẩm quyền phê duyệt tại quy hoạch phát triển hệ thống trung tâm logistics trên địa bàn cả nước. Các khu vực này cách cảng hàng không dân dụng quốc tế không quá 50 km.
++)  Kho hàng không kéo dài để lưu giữ hàng hóa xuất khẩu, nhập khẩu được vận chuyển bằng đường hàng không qua sân bay quốc tế Nội Bài và sân bay quốc tế Tân Sơn Nhất phải có diện tích khu đất tối thiểu 5.000 m2 (bao gồm kho, bãi và các công trình phụ trợ), trong đó kho chứa hàng phải có diện tích tối thiểu 2.000 m2. Đối với các cảng hàng không quốc tế còn lại và cảng hàng không nội địa được phép khai thác chuyến bay quốc tế, kho hàng không kéo dài phải có diện tích khu đất tối thiểu 2.000 m2 (bao gồm kho, bãi và các công trình phụ trợ), trong đó kho chứa hàng phải có diện tích tối thiểu 1.000 m2. Kho, bãi được ngăn cách với khu vực xung quanh bằng tường rào, có khu vực chứa hàng hóa xuất khẩu, nhập khẩu riêng biệt.
++)  Có phần mềm đáp ứng yêu cầu quản lý lưu giữ, kết xuất dữ liệu trực tuyến cho cơ quan hải quan về tên hàng, số lượng, tình trạng của hàng hóa, thời điểm hàng hóa đưa vào, đưa ra, lưu giữ trong kho hàng không kéo dài chi tiết theo vận đơn và/hoặc tờ khai hải quan để quản lý theo Hệ thống quản lý, giám sát hàng hóa tự động.
++)  Có hệ thống camera đáp ứng kết nối trực tuyến với cơ quan hải quan quản lý. Hình ảnh quan sát được mọi vị trí của kho vào tất cả thời điểm trong ngày (24/24 giờ), dữ liệu về hình ảnh lưu giữ tối thiểu 06 tháng
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

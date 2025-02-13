@@ -1,0 +1,88 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008752
+Số quyết định:
+1631/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định dự án đầu tư xây dựng/Thiết kế cơ sở công trình viễn thông
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+1. Tổ chức, cá nhân hoàn thiện hồ sơ theo quy định về thành phần, số lượng hồ sơ của thủ tục này và nộp hồ sơ đến Sở Thông tin và Truyền thông.
+2. Bộ phận Một cửa của Sở Thông tin và Truyền thông tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
++ Trường hợp hồ sơ hợp lệ: Sở Thông tin và Truyền thông tiến hành thẩm định:
+++ Nếu hồ sơ  hợp lệ nhưng không đủ điều kiện thẩm định (chưa có chủ trương đầu tư; không có thuyết minh đi kèm; chủ đầu tư và tư vấn thiết kế không ký vào hồ sơ trình thẩm định; tổng dự toán trình vượt quá quy mô đầu tư): Sở Thông tin và Truyền thông không tổ chức thẩm định mà có văn bản trả lại và nêu rõ lý do.
+++ Nếu hồ sơ đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ban hành Báo cáo kết quả thẩm định (bản PDF, ký số) và kết quả thẩm định khái toán được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ. 
+Sau khi nhận được kết quả trên tài khoản của người nộp hồ sơ, tổ chức có trách nhiệm điều chỉnh Dự án/Thiết kế cơ sở theo kết quả thẩm định của Sở Thông tin và Truyền thông. 
+Đại diện tổ chức đến nộp bản giấy (bản chính) của hồ sơ, văn bản, tài liệu qua các lần nộp sửa đổi, bổ sung hồ sơ và Dự án/Thiết kế cơ sở (bản đã hiệu chỉnh theo kết quả Sở Thông tin và Truyền thông trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ) tại Bộ phận Một cửa. Sở Thông tin và Truyền thông sẽ kiểm tra, đối chiếu, ký, đóng dấu thẩm định và trả kết quả cho tổ chức nếu Dự án/Thiết kế cơ sở đem nộp đúng với Dự án/Thiết kế cơ sở đã được Sở Thông tin và Truyền thông thẩm định. 
+++ Nếu hồ sơ không đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ra thông báo đề nghị sửa đổi, bổ sung hoặc trả hồ sơ. Văn bản được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Trường hợp tổ chức nộp lại hồ sơ sửa đổi, bổ sung mà không đầy đủ các thành phần theo quy định, không bảo đảm yêu cầu để thẩm định thì hồ sơ coi như không hợp lệ, Sở Thông tin và Truyền thông sẽ từ chối tiếp nhận hồ sơ sửa đổi, bổ sung của tổ chức.
++ Trường hợp hồ sơ không hợp lệ (không đáp ứng đầy đủ thành phần, số lượng hồ sơ theo yêu cầu của thủ tục): Bộ phận Một cửa sẽ gửi thông báo nêu lý do từ chối hồ sơ trên địa chỉ thư điện tử của người nộp hồ sơ, tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Lưu ý: Mọi vướng mắc, tổ chức liên hệ địa chỉ thư điện tử motcua-stttt@danang.gov.vn;  fax: 02363.840.124; điện thoại: 02363.881.888 (số máy lẻ 423) hoặc số tắt 1022  để được hướng dẫn thêm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|12 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở theo quy định tại Thông tư số 209/2016/TT-BTC||
+|Trực tuyến|12 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở theo quy định tại Thông tư số 209/2016/TT-BTC||
+|Dịch vụ bưu chính|12 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đạt yêu cầu (thời gian này được tính như nhau cho tất cả các lần nộp hồ sơ).|Phí : Phí thẩm định dự án đầu tư xây dựng, phí thẩm định thiết kế cơ sở theo quy định tại Thông tư số 209/2016/TT-BTC||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình của cơ quan, đơn vị đề nghị thẩm định Dự án đầu tư xây dựng/Thiết kế cơ sở (Mẫu KHTC 05) ([To trinh tham dinh du an dau tu xay dung hoac thiet ke co so.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe872eb36647d69'))
+- 01 Bản chính 2. Quyết định phê duyệt chủ trương đầu tư kèm theo Báo cáo đề xuất chủ trương đã được cấp có thẩm quyền phê duyệt
+- 02 Bản chính 3. Báo cáo nghiên cứu khả thi đầu tư xây dựng trong trường hợp thẩm định dự án/dự án điều chỉnh; hồ sơ thiết kế cơ sở (thuyết minh và bản vẽ) trong trường hợp thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh
+- 01 Bản chính 4. Khái toán xây dựng công trình đối với công trình sử dụng vốn ngân sách nhà nước, vốn nhà nước ngoài ngân sách (có xác nhận của Chủ đầu tư, đơn vị tư vấn, chủ trì thiết kế)
+- 01 Bản chính 5. Nhiệm vụ khảo sát được cấp có thẩm quyền phê duyệt
+- 01 Bản chính 6. Hồ sơ khảo sát xây dựng
+- 01 Bản chính 7. Hồ sơ năng lực của Nhà thầu tư vấn lập hồ sơ:
+- 01 Bản chính - Thông tin năng lực của nhà thầu khảo sát, nhà thầu thiết kế xây dựng công trình
+- 01 Bản chính - Chứng chỉ hành nghề của các chức danh chủ nhiệm khảo sát, chủ nhiệm đồ án thiết kế, chủ trì thiết kế của nhà thầu thiết kế.
+- 01 Bản chính 8. Bản mềm dự toán của hồ sơ (file excel)
+- 01 Bản chính 9. Quyết định phê duyệt chủ trương đầu tư
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông TP.Đà Nẵng
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Thông tin và Truyền thông thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Báo cáo kết quả thẩm định, Báo cáo nghiên cứu khả thi/Thiết kế cơ sở (có ký, đóng dấu thẩm định của Sở Thông tin và Truyền thông) (đối với hồ sơ đạt yêu cầu); Ghi chú: Kết quả thẩm định được trả cho Chủ đầu tư 01 bản, cơ quan thẩm định lưu 01 bản., Văn bản trả hồ sơ (đối với hồ sơ không đạt yêu cầu).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|03/2016/TT-BXD|Quy định về phân cấp công trình xây dựng và hướng dẫn áp dụng trong quản lý hoạt động đầu tư xây dựng|10-03-2016||
+|12/2020/QĐ-UBND|Quy định nội dung về quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|11-05-2020|UBND Thành phố Đà Nẵng|
+|59/2015/NĐ-CP|Nghị định 59/2015/NĐ-CP|18-06-2015||
+|42/2017/NĐ-CP|Nghị định 42/2017/NĐ-CP|05-04-2017||
+|18/2016/TT-BXD|Thông tư 18/2016/TT-BXD|30-06-2016||
+|209/2016/TT-BTC|Thông tư 209/2016/TT-BTC|10-11-2016||
+
+Yêu cầu, điều kiện thực hiện:
+I. Yêu cầu điều kiện thực hiện: Đã có Quyết định phê duyệt chủ trương đầu tư của UBND thành phố.
+II, Thành phần, số lượng hồ sơ
+- Số lượng: 01 bộ (bản điện tử)
+- Lưu ý về số lượng hồ sơ (bản giấy) cần nộp:
++ Báo cáo nghiên cứu khả thi/Thiết kế cơ sở (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ): 02 bản. 
++ Tờ trình, Báo cáo nghiên cứu khả thi/Thiết kế cơ sở, dự toán qua các lần sửa đổi, bổ sung: mỗi lần sửa đổi, bổ sung nộp 01 bộ.
+I. Yêu cầu điều kiện thực hiện: Đã có Quyết định phê duyệt chủ trương đầu tư của UBND thành phố.
+II, Thành phần, số lượng hồ sơ
+- Số lượng: 01 bộ (bản điện tử)
+- Lưu ý về số lượng hồ sơ (bản giấy) cần nộp:
++ Báo cáo nghiên cứu khả thi/Thiết kế cơ sở (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ): 02 bản. 
++ Tờ trình, Báo cáo nghiên cứu khả thi/Thiết kế cơ sở, dự toán qua các lần sửa đổi, bổ sung: mỗi lần sửa đổi, bổ sung nộp 01 bộ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

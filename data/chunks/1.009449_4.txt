@@ -1,0 +1,11 @@
+Tên thủ tục: Công bố hoạt động khu neo đậu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố hoạt động khu neo đậu theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefb6b692e19060'">10.docx</a>)
+- 01 Bản chính - Biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+- 01 Bản chính - Bình đồ khu vực khu neo đậu;
+- 01 Bản chính - Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường đối với phao neo (nếu dùng phao neo;
+- 01 Bản chính - Biên bản nghiệm thu rà quét vật chướng ngại.

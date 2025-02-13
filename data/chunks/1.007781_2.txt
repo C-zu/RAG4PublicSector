@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục xác nhận hoàn thành nghĩa vụ nộp thuế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Người nộp thuế có văn bản đề nghị xác nhận hoàn thành nghĩa vụ nộp thuế gửi Tổng cục Hải quan và các tài liệu theo quy định.
+- Bước 2: Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ, căn cứ hệ thống kế toán tập trung để xác nhận và thông báo kết quả cho người nộp thuế biết.

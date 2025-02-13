@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy xác nhận phù hợp về tuyển dụng, cung ứng thuyền viên hàng hải
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ khai đề nghị cấp lại Giấy xác nhận theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9570aa1f24ffd'">Mẫu Tờ khai cấp lại Giấy xác nhận phù hợp về tuyển dụng và cung ứng thuyền viên hàng hải.docx</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính Giấy chứng nhận đăng ký doanh nghiệp (đối với trường hợp thay đổi thông tin về doanh nghiệp);

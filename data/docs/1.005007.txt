@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005007
+Số quyết định:
+QĐ/0001-BTC
+Tên thủ tục:
+Thủ tục mua bán hóa đơn bán tài sản nhà nước và hóa đơn bán tài sản tịch thu sung quỹ nhà nước
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý công sản
+Trình tự thực hiện:
+Khi có nhu cầu sử dụng hoá đơn, đơn vị được giao xử lý tài sản đăng ký mua hoá đơn tại Sở Tài chính hoặc Phòng Tài chính Kế hoạch huyện, nơi đơn vị đóng trụ sở. Căn cứ thực tế xử lý tài sản tại địa phương, Giám đốc Sở Tài chính hoặc Trưởng phòng Tài chính Kế hoạch huyện quyết định việc bán cả quyển hoá đơn hoặc bán hoá đơn lẻ cho đơn vị được giao xử lý tài sản trên địa bàn, đảm bảo nguyên tắc
+Trường hợp đơn vị được giao xử lý tài sản phát sinh thường xuyên việc bán tài sản thì được mua cả quyển hóa đơn.
+Trường hợp đơn vị được giao xử lý tài sản không phát sinh thường xuyên việc bán tài sản thì được mua hoá đơn lẻ (mua từng seri). Trong trường hợp này, Sở Tài chính hoặc Phòng Tài chính Kế hoạch huyện cử cán bộ mang quyển hoá đơn bán tài sản đến đơn vị được giao xử lý tài sản để đơn vị lập hoá đơn.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Kể từ ngày nhận được đủ hồ sơ mua hóa đơn, đơn vị bán hóa đơn chậm nhất không quá 05 ngày làm việc|
+|Dịch vụ bưu chính|5 Ngày làm việc||Kể từ ngày nhận được đủ hồ sơ mua hóa đơn, đơn vị bán hóa đơn chậm nhất không quá 05 ngày làm việc (Ghi chú: Sở Tài chính mua hóa đơn tại Bộ Tài chính; Phòng Tài chính kế hoạch cấp huyện mua hóa đơn tại Sở Tài chính; Đơn vị được giao xử lý tài sản mua hóa đơn tại Sở Tài chính hoặc Phòng Tài chính kế hoạch cấp huyện)|
+
+Thành phần hồ sơ:
+
+Ghi chú
+ - Bộ hồ sơ để làm thủ tục mua hóa đơn lần đầu gồm: (1) và (2)
+ - Bộ hồ sơ để làm thủ tục mua hóa đơn lần tiếp theo gồm (1), (2) và (3)
+ - Bộ hồ sơ để làm thủ tục mua hóa đơn lẻ gồm (1), (2) và (4)
+
+
+Bao gồm
+- 01 Bản chính Giấy giới thiệu kèm theo công văn đề nghị được mua hoá đơn do thủ trưởng đơn vị ký, đóng dấu (01 bản chính);
+ Chứng minh nhân dân hoặc hộ chiếu (còn trong thời hạn sử dụng theo quy định của pháp luật) của người trực tiếp mua hoá đơn;
+ Báo cáo tình hình quản lý, sử dụng hoá đơn đối với toàn bộ số hoá đơn đã mua lần trước theo mẫu số 06/HĐ-BC ban hành kèm theo Thông tư 225/2009/TT-BTC ngày 26/11/2009
+ Quyết định xử lý tài sản của cơ quan nhà nước có thẩm quyền và các giấy tờ có liên quan đến việc bán tài sản.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Tài chính, Sở Tài chính, Phòng Tài chính - Kế hoạch thuộc UBND cấp huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Không Xác Định
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|52/2009/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản lý, sử dụng tài sản Nhà nước|03-06-2009|Thủ tướng Chính phủ|
+|225/2009/TT-BTC|Thông tư 225/2009/TT-BTC - Hướng dẫn việc quản lý, sử dụng hoá đơn bán tài sản nhà nước và hoá đơn bán tài sản tịch thu, sung quỹ nhà nước|26-11-2009|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

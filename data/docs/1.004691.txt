@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004691
+Số quyết định:
+994/QĐ-BGTVT
+Tên thủ tục:
+Chấp thuận chủ trương kết nối các tuyến đường sắt
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+Tổ chức, cá nhân có nhu cầu kết nối các tuyến đường sắt nộp 01 bộ hồ sơ đề nghị chấp thuận chủ trương kết nối trực tiếp hoặc gửi qua hệ thống bưu chính đến cơ quan có thẩm quyền chấp thuận chủ trương kết nối, cụ thể:
+- Bộ Giao thông vận tải đối với các tuyến đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia;
+- Ủy ban nhân dân cấp tỉnh đối với:
++ Các tuyến đường sắt đô thị trên địa bàn quản lý;
++ Các tuyến đường sắt đô thị đi qua địa giới hành chính hai tỉnh trở lên trong trường hợp vị trí kết nối trên địa bàn quản lý.
+Giải quyết TTHC:
+- Cơ quan có thẩm quyền chấp thuận chủ trương kết nối tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày nhận hồ sơ phải có văn bản hướng dẫn cho tổ chức, cá nhân hoàn thiện;
+- Thời hạn giải quyết hồ sơ: 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền có văn bản chấp thuận chủ trương kết nối. Trường hợp không chấp thuận phải có văn bản nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chấp thuận chủ trương kết nối theo mẫu quy định ([10-Mẫu VB đề nghị .doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfc471cf0c6ca4'))
+- 01 Bản chính Quy hoạch xây dựng tuyến đường sắt đô thị, đường sắt chuyên dùng đề nghị kết nối được cấp có thẩm quyền phê duyệt
+- 01 Bản chính Bình đồ khu vực kết nối
+- 01 Bản chính Bình diện, trắc dọc đường sắt khu vực kết nối
+- 01 Bản chính Phương án kỹ thuật kết nối: đường sắt; hệ thống thông tin, tín hiệu đường sắt tại khu vực kết nối; trung tâm Điều hành giao thông vận tải; đấu nối không gian và đấu nối kỹ thuật với các công trình liên quan tại vị trí kết nối
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Giao thông vận tải, Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bộ Giao thông vận tải, Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+- Bộ Giao thông vận tải đối với các tuyến đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia; - Ủy ban nhân dân cấp tỉnh đối với: + Các tuyến đường sắt đô thị trên địa bàn quản lý; + Các tuyến đường sắt đô thị với tuyến đường sắt đô thị đi qua địa giới hành chính hai tỉnh trở lên trong trường hợp vị trí kết nối trên địa bàn quản lý.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận chủ trương kết nối
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|26/2018/TT-BGTVT|Quy định điều kiện, trình tự, thủ tục thực hiện kết nối ray đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia; việc kết nối ray các tuyến đường sắt đô thị|14-05-2018|Bộ Giao thông vận tải|
+|11/2023/TT-BGTVT|Thông tư sửa đổi Thông tư 26/2018/TT-BGTVT quy định điều kiện, trình tự, thủ tục thực hiện kết nối ray đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia; việc kết nối ray các tuyến đường sắt đô thị|28-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

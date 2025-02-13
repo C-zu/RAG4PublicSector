@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp lại giấy chứng nhận đủ điều kiện kinh doanh thuốc đối với cơ sở kinh doanh dịch vụ bảo quản dược liệu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy chứng nhận đủ điều kiện kinh doanh thuốc theo phụ lục số 01d ban hành kèm theo Thông tư số 03/2016/TT – BYT ngày 21/01/2016 của Bộ trưởng Bộ Y tế. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7b0b4bd6b16b9'">Mẫu số 01d.docx</a>)
+- 01 Bản chính Bản chính Chứng chỉ hành nghề dược của người quản lý chuyên môn về dược mới đối với trường hợp thay đổi người quản lý chuyên môn về dược.
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao có chữ ký của chủ cơ sở và đóng dấu của cơ sở (nếu là doanh nghiệp) đối với văn bản chấp thuận việc thay đổi tên cơ sở kinh doanh thuốc của cơ quan đăng ký kinh doanh đối với trường hợp thay đổi tên cơ sở kinh doanh thuốc;
+- 01 Bản chính, 01 Bản sao Bản sao có chứng thực hoặc bản sao có chữ ký của chủ cơ sở và đóng dấu của cơ sở (nếu là doanh nghiệp) văn bản chấp thuận việc thay đổi địa điểm trụ sở đăng ký kinh doanh thuốc của cơ quan cấp đăng ký kinh doanh đối với trường hợp thay đổi địa điểm trụ sở đăng ký kinh doanh

@@ -1,0 +1,16 @@
+Tên thủ tục: Cho phép tổ chức, quản lý hội nghị, hội thảo quốc tế đối với các cơ quan, tổ chức nước ngoài
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005681
+Số quyết định:
+3859/QĐ-UBND_2011
+Tên thủ tục:
+Cho phép tổ chức, quản lý hội nghị, hội thảo quốc tế đối với các cơ quan, tổ chức nước ngoài
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động của các tổ chức phi chính phủ nước ngoài

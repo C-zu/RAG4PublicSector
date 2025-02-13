@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép hành nghề khoan nước dưới đất quy mô lớn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp phép hành nghề khoan dưới đất; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fabeffce356b320'">Mẫu số 01.doc</a>)
+- 01 Bản chính Giấy phép hành nghề khoan dưới nước có quy mô lớn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f921184f7ec2d20'">Mẫu số 03.doc</a>)
+- 01 Bản chính Bản sao có chứng thực hoặc bản sao chụp có xác nhận của cơ quan cấp văn bằng, chứng chỉ của người chịu trách nhiệm chính về kỹ thuật theo quy định của pháp luật và hợp đồng lao động đối với trường hợp tổ chức, cá nhân đề nghị cấp phép hợp đồng lao động với người chịu trách nhiệm chính về kỹ thuật; trường hợp chỉ có bản sao chụp thì phải kèm bản chính để đối chiếu
+- 01 Bản chính Bản khai kinh nghiệm chuyên môn trong hoạt động khoan nước dưới đất của người chịu trách nhiệm chính về kỹ thuật của tổ chức, cá nhân đề nghị cấp phép (Mẫu số 02, Phụ lục IV ban hành kèm theo Thông tư số 11/2022/TT-BTNMT). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda7698e7283fee'">Mẫu số 02.doc</a>)

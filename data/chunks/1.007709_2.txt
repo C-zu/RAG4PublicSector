@@ -1,0 +1,16 @@
+Tên thủ tục: Báo cáo tình hình sử dụng hóa đơn đặt in đã mua của cơ quan thuế và bảng kê hóa đơn sử dụng trong kỳ/Gửi dữ liệu hóa đơn đến cơ quan thuế đối với trường hợp mua hóa đơn của cơ quan thuế
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Doanh nghiệp, tổ chức kinh tế do Cục Thuế quản lý; doanh nghiệp, tổ chức kinh tế, hộ cá nhân kinh doanh, do Chi cục Thuế quản lý (doanh nghiệp, tổ chức kinh tế, hộ cá nhân kinh doanh sau đây được gọi chung là người nộp thuế).
+Trường hợp (1) Báo cáo tình hình sử dụng hóa đơn đặt in mua của cơ quan thuế và bảng kê hóa đơn sử dụng trong kỳ:
+Bước 1: Người nộp thuế lập hồ sơ báo cáo tình hình sử dụng hoá đơn và bảng kê hoá đơn sử dụng trong kỳ, gửi cho cơ quan thuế quản lý trực tiếp nếu thuộc các trường hợp:
++ Hàng quý, chậm nhất là ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh việc sử dụng hóa đơn theo Mẫu số BC26/HĐG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ, người nộp thuế mua hóa đơn của cơ quan thuế có trách nhiệm nộp báo cáo tình hình sử dụng hóa đơn và bảng kê hóa đơn sử dụng trong kỳ cho cơ quan thuế quản lý trực tiếp.
+Trường hợp trong kỳ không sử dụng hóa đơn thì doanh nghiệp, tổ chức kinh tế, hộ, cá nhân kinh doanh nộp báo cáo tình hình sử dụng hóa đơn ghi số lượng hóa đơn sử dụng bằng không (=0), không cần gửi bảng kê hóa đơn sử dụng trong kỳ. 
+Trường hợp kỳ trước đã sử dụng hết hóa đơn, đã báo cáo tình hình sử dụng hóa đơn kỳ trước với số tồn bằng không (0), trong kỳ không mua hóa đơn, không sử dụng hóa đơn thì doanh nghiệp, tổ chức kinh tế, hộ, cá nhân kinh doanh không phải báo cáo tình hình sử dụng hóa đơn.
++ Người nộp thuế bán hàng hóa, dịch vụ có trách nhiệm nộp báo cáo tình hình sử dụng hóa đơn và bảng kê hóa đơn sử dụng trong kỳ khi chia, tách, sáp nhập, giải thể, phá sản, chuyển đổi sở hữu; giao, bán, khoán, cho thuê doanh nghiệp nhà nước cùng với thời hạn nộp hồ sơ quyết toán thuế;
++ Người nộp thuế chuyển địa điểm kinh doanh đến địa bàn khác địa bàn cơ quan thuế đang quản lý trực tiếp thì phải nộp báo cáo tình hình sử dụng hóa đơn và bảng kê hóa đơn sử dụng trong kỳ với cơ quan thuế nơi chuyển đi.
+Bước 2: Cơ quan Thuế tiếp nhận hồ sơ và giải quyết theo quy định.
+Trường hợp (2) Gửi dữ liệu hóa đơn đến cơ quan thuế đối với trường hợp mua hóa đơn của cơ quan thuế:
+Bước 1: Gửi dữ liệu hóa đơn đến cơ quan thuế đối với trường hợp mua hóa đơn của cơ quan thuế theo Mẫu số 01/TH-HĐĐT Phụ lục IA ban hành kèm theo Nghị định 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ cùng với việc nộp tờ khai thuế giá trị gia tăng.
+Bước 2: Cơ quan Thuế tiếp nhận hồ sơ và giải quyết theo quy định.

@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010478
+Số quyết định:
+3506/QĐ-UBND
+Tên thủ tục:
+Cấp Giấy phép chặt hạ, dịch chuyển cây xanh đô thị
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hạ tầng kỹ thuật
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.	Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý
+B3	Duyệt hồ sơ, chuyển cho công chức xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đáp ứng yêu cầu dự thảo Văn bản thông báo không đủ điều kiện cấp Giấy phép trình Lãnh đạo phòng ký nháy.
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình. Nếu bổ sung giải trình đầy đủ thì dự thảo Giấy phép; Nếu không bổ sung, giải trình được thì dự thảo Văn bản thông báo không đủ điều kiện cấp Giấy phép, trình lãnh đạo phòng ký nháy.
+- Trường hợp, hồ sơ đáp ứng yêu cầu, dự thảo Giấy phép, trình lãnh đạo phòng ký nháy.
+B5	Xem xét kết quả giải quyết thủ tục hành chính, ký nháy trên văn bản.
+B6	Phê duyệt kết quả giải quyết thủ tục hành chính.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm Hành chính công để trả kết quả.
+B8	Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : 0 Đồng|Tại Trung tâm Hành chính công cấp huyện.|
+|Trực tuyến|15 Ngày làm việc|Lệ phí : 0 Đồng|Qua Cổng dịch vụ công trực tuyến: http://dichvucong.hatinh.gov.vn|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : 0 Đồng|Qua dịch vụ bưu chính|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị nêu rõ vị trí chặt hạ, dịch chuyển, kích thước, loại cây và lý do cần chặt hạ, dịch chuyển cây xanh đô thị (Phụ lục I - Nghị định số 64/2010/NĐ-CP). - Sơ đồ vị trí cây xanh đô thị cần chặt hạ, dịch chuyển. - Ảnh chụp hiện trạng cây xanh cần chặt hạ, dịch chuyển. ([Phụ lục I.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbb71de217d19d0'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+UBND cấp huyện
+Cơ quan có thẩm quyền:
+UBND cấp huyện
+Địa chỉ tiếp nhận HS:
+Trung tâm Hành chính công cấp huyện.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép chặt hạ, di chuyển cây xanh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|64/2010/NĐ-CP|Về quản lý cây xanh đô thị|11-06-2010|Chính phủ|
+|30/2009/QH12|Luật Quy hoạch Đô thị|17-06-2009|Quốc Hội|
+
+Yêu cầu, điều kiện thực hiện:
+- Cây xanh đô thị thuộc trong các đối tượng sau: Cây đã chết, đã bị đổ gãy hoặc có nguy cơ gãy đổ gây nguy hiểm; Cây xanh bị bệnh hoặc đến tuổi già cỗi không đảm bảo an toàn; Cây xanh trong các khu vực thực hiện dự án đầu tư xây dựng công trình.
+- Cây xanh đô thị thuộc các trường hợp sau: Cây xanh thuộc danh mục cây bảo tồn; cây bóng mát trên đường phố; cây bóng mát; cây bảo tồn; cây đã được đánh số, treo biển trong công viên, vườn hoa, các khu vực công cộng và các khu vực thực hiện dự án đầu tư xây dựng công trình; cây bóng mát có chiều cao từ 10 m trở lên; cây bảo tồn trong khuôn viên của các tổ chức, cá nhân.
+- Chặt hạ, di dời cây xanh công cộng là cây cổ thụ, cây được bảo tồn trồng mới cây khác chủng loài đã được quy hoạch trên cùng tuyến đường, tại những khu vực công trình có yêu cầu cao về kiến trúc, cảnh quan đô thị, phải được sự chấp thuận của UBND tỉnh.
+- Cây xanh đô thị thuộc trong các đối tượng sau: Cây đã chết, đã bị đổ gãy hoặc có nguy cơ gãy đổ gây nguy hiểm; Cây xanh bị bệnh hoặc đến tuổi già cỗi không đảm bảo an toàn; Cây xanh trong các khu vực thực hiện dự án đầu tư xây dựng công trình.
+- Cây xanh đô thị thuộc các trường hợp sau: Cây xanh thuộc danh mục cây bảo tồn; cây bóng mát trên đường phố; cây bóng mát; cây bảo tồn; cây đã được đánh số, treo biển trong công viên, vườn hoa, các khu vực công cộng và các khu vực thực hiện dự án đầu tư xây dựng công trình; cây bóng mát có chiều cao từ 10 m trở lên; cây bảo tồn trong khuôn viên của các tổ chức, cá nhân.
+- Chặt hạ, di dời cây xanh công cộng là cây cổ thụ, cây được bảo tồn trồng mới cây khác chủng loài đã được quy hoạch trên cùng tuyến đường, tại những khu vực công trình có yêu cầu cao về kiến trúc, cảnh quan đô thị, phải được sự chấp thuận của UBND tỉnh.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

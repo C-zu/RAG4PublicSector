@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cho chủ trương đăng cai tổ chức hội nghị, hội thảo quốc tế không thuộc thẩm quyền cho phép của Thủ tướng Chính phủ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn xin chủ trương để đăng cai tổ chức hội nghị, hội thảo quốc tế, trong đó nêu rõ lý do, mục đích, chủ đề, dự kiến thành phần tham dự và dự kiến nguồn kinh phí.

@@ -1,0 +1,15 @@
+Tên thủ tục: Thẩm định, phê duyệt kết quả lựa chọn nhà thầu (Sở Thông tin và Truyền thông)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức hoàn thiện hồ sơ theo quy định về thành phần, số lượng của thủ tục này và thực hiện chuyển đổi thành hồ sơ điện tử (dạng pdf).
+Bước 2: Truy cập Cổng dịch vụ công trực tuyến thành phố Đà Nẵng tại địa chỉ https://dichvucong.danang.gov.vn hoặc Trang thông tin điện tử Sở Thông tin và Truyền thông tại địa chỉ https://www.tttt.danang.gov.vn để nộp hồ sơ điện tử theo hướng dẫn.
+Bước 3: Sở Thông tin và Truyền thông tiến hành thẩm định hồ sơ.
++ Trường hợp hồ sơ hợp lệ: Sở Thông tin và Truyền thông tiến hành thẩm định:
+++ Nếu hồ sơ hợp lệ nhưng không đủ điều kiện thẩm định (không có các văn bản liên quan đến dự án đã được phê duyệt trước đó theo Điểm c của thủ tục này): Sở Thông tin và Truyền thông không tổ chức thẩm định mà có văn bản trả hồ sơ và nêu rõ lý do.
+++ Nếu hồ sơ đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ban hành Quyết định phê duyệt kết quả lựa chọn nhà thầu.
+++ Nếu hồ sơ không đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ra thông báo đề nghị sửa đổi, bổ sung hoặc trả hồ sơ. 
+Trường hợp tổ chức nộp lại hồ sơ sửa đổi, bổ sung mà không đầy đủ các thành phần theo quy định, không bảo đảm yêu cầu để thẩm định thì hồ sơ xem như không hợp lệ, Sở Thông tin và Truyền thông sẽ từ chối tiếp nhận hồ sơ sửa đổi, bổ sung của tổ chức.
++ Trường hợp hồ sơ không hợp lệ (không đáp ứng đầy đủ thành phần, số lượng hồ sơ theo yêu cầu của thủ tục): Bộ phận Một cửa sẽ từ chối tiếp nhận hồ sơ và nêu rõ lý do từ chối.
+Thông tin xử lý hồ sơ sẽ được thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Lưu ý: Mọi vướng mắc, tổ chức liên hệ địa chỉ thư điện tử motcua-stttt@danang.gov.vn; fax: 02363.840.124; điện thoại: 02363.881.888 (số máy lẻ 423) hoặc số tắt 1022 để được hướng dẫn thêm.

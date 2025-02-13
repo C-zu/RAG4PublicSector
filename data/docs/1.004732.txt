@@ -1,0 +1,103 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004732
+Số quyết định:
+3944/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục đăng ký thực hiện nhiệm vụ khoa học và công nghệ đột xuất có ý nghĩa quan trọng về khoa học và thực tiễn do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Bước 1: Tổ chức khoa học và công nghệ, cá nhân nhà khoa học nộp hồ sơ đăng ký thực hiện nhiệm vụ khoa học và công nghệ đột xuất có ý nghĩa quan trọng về khoa học và thực tiễn cho Quỹ.
+Bước 2: Quỹ tiếp nhận và tổ chức đánh giá xét chọn hồ sơ.
+Bước 3: Quỹ thông báo Quyết định tài trợ đối với hồ sơ được chấp nhận tài trợ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Quá trình tổ chức đánh giá xét chọn đề tài và công bố kết quả tài trợ kể từ thời điểm tiếp nhận đủ hồ sơ hợp lệ không quá 30 ngày đối với đề tài đột xuất (không tính thời gian kiểm tra, khảo sát của tổ công tác).|
+|Dịch vụ bưu chính|30 Ngày làm việc||Quá trình tổ chức đánh giá xét chọn đề tài và công bố kết quả tài trợ kể từ thời điểm tiếp nhận đủ hồ sơ hợp lệ không quá 30 ngày đối với đề tài đột xuất (không tính thời gian kiểm tra, khảo sát của tổ công tác).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Phiếu khai hồ sơ; ([Mau DXTN-01_phieu-khai-ho-so.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed89eee28d1eaf'))
+- 01 Bản chính + Đơn đăng ký thực hiện; ([Mau DXTN-02_Don dang ky.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9abbee3ee2cc7'))
+- 01 Bản chính + Thuyết minh đề tài, Thuyết minh đề tài tóm tắt; ([Mau DXTN-03 thuyet minh.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc98bbbf9f1b02c') [Mau DXTN-04 thuyet minh tom tat.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdec9b3a4ba452e'))
+- 01 Bản chính + Năng lực nghiên cứu và cơ sở vật chất của tổ chức chủ trì đề tài; ([Mau DXTN-05_nang luc to chuc chu tri.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe92cf927b5eec8'))
+- 01 Bản chính + Lý lịch khoa học của cá nhân đăng ký chủ nhiệm đề tài (cùng các tài liệu chứng minh thành tích) và các cá nhân đăng ký thực hiện đề tài; ([Mau DXTN-06_LLKH.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc064da47f5d838'))
+- 01 Bản chính + Văn bản xác nhận đồng ý tham gia của các tổ chức phối hợp nghiên cứu thực hiện đề tài; ([Mau DXTN-07_Xac nhan phoi hop.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6b36535efdc69'))
+- 01 Bản chính + Văn bản của tổ chức thụ hưởng xác nhận khả năng ứng dụng kết quả nghiên cứu; ([Mau DXTN-08_Xac nhan kha nang ung dung.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8d127fecd2bc3'))
+- 01 Bản chính + Tài liệu khác liên quan đến đề tài (nếu có).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Quỹ Phát triển khoa học và công nghệ quốc gia - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa Quỹ Phát triển khoa học và công nghệ Quốc gia, phòng 405, số 39 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định tài trợ đề tài đột xuất
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|29/2013/QH13|Luật 29/2013/QH13|18-06-2013|Quốc Hội|
+|23/2014/NĐ-CP|Nghị định 23/2014/NĐ-CP-Về Điều lệ tổ chức và hoạt động của Quỹ Phát triển khoa học và công nghệ Quốc gia|03-04-2014|Chính phủ|
+|40/2014/TT-BKHCN|Thông tư 40/2014/TT-BKHCN-Quy định quản lý nhiệm vụ khoa học và công nghệ đột xuất có ý nghĩa quan trọng về khoa học và thực tiễn, nhiệm vụ khoa học và công nghệ tiềm năng do Quỹ Phát triển khoa học và công nghệ Quốc gia tài trợ|18-12-2014|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+- Đối với tổ chức đăng ký chủ trì đề tài:
++ Có đăng ký hoạt động khoa học và công nghệ, có chức năng hoạt động phù hợp với lĩnh vực chuyên môn của đề tài;
++ Có điều kiện cơ sở vật chất, kỹ thuật phù hợp để triển khai thực hiện đề tài;
++ Không thuộc trường hợp vi phạm theo quy định.
+- Đối với cá nhân đăng ký làm chủ nhiệm đề tài:
++ Là người đề xuất và chủ trì xây dựng thuyết minh đề tài;
++ Có trình độ từ đại học trở lên và đang hoạt động trong lĩnh vực chuyên môn phù hợp với nội dung nghiên cứu của đề tài;
++ Có khả năng tổ chức thực hiện và bảo đảm thời gian để chủ trì đề tài;
++ Không bị hạn chế quyền công dân theo quy định của pháp luật Việt Nam;
++ Không vi phạm các điều kiện đăng ký chủ trì đề tài;
++ Phải có công trình công bố trên tạp chí khoa học quốc tế uy tín có nội dung liên quan đến đề tài đăng ký trong thời gian năm (05) năm tính đến thời điểm nộp hồ sơ.
+- Là tác giả sáng chế, giống cây trồng được cấp văn bằng bảo hộ, có nội dung liên quan đến đề tài đăng ký và được ứng dụng vào thực tiễn trong thời gian bảy (07) năm tính đến thời điểm nộp hồ sơ.
+- Trường hợp cá nhân không thuộc một tổ chức có đủ điều kiện quy định về tổ chức chủ trì đăng ký đề tài, phải được một tổ chức có đủ điều kiện quy định chấp nhận làm tổ chức chủ trì.
+- Yêu cầu đối với đề tài đột xuất do tổ chức, cá nhân đề xuất với Quỹ:
++ Nội dung nghiên cứu là những vấn đề mới xuất hiện, đòi hỏi phải giải quyết kịp thời nhằm đáp ứng yêu cầu của xã hội;
++ Có ý nghĩa quan trọng về khoa học và thực tiễn;
++ Thời gian xuất hiện của vấn đề không quá sáu (06) tháng tính đến thời điểm nộp hồ sơ. Thời gian thực hiện đề tài không quá 18 tháng;
++ Có địa chỉ ứng dụng cho các kết quả chính tạo ra khi đề tài được hoàn thành. Tổ chức ứng dụng kết quả dự kiến phải có năng lực để tiếp nhận và triển khai một cách hiệu quả kết quả tạo ra.
++ Sản phẩm của đề tài:
+Báo cáo tổng hợp kết quả nghiên cứu của đề tài bao gồm giải pháp khoa học và công nghệ với đầy đủ luận cứ khoa học và thực tiễn để giải quyết vấn đề đặt ra.
+Công bố khoa học dưới một trong các hình thức sau: Bài báo công bố trên tạp chí quốc gia có uy tín hoặc tạp chí quốc tế có uy tín; Bằng độc quyền sáng chế hoặc bằng độc quyền giải pháp hữu ích hoặc bằng bảo hộ giống cây trồng. Trường hợp chưa được cấp bằng thì phải có xác nhận của cơ quan có thẩm quyền về khả năng bảo hộ.
+- Đối với tổ chức đăng ký chủ trì đề tài:
++ Có đăng ký hoạt động khoa học và công nghệ, có chức năng hoạt động phù hợp với lĩnh vực chuyên môn của đề tài;
++ Có điều kiện cơ sở vật chất, kỹ thuật phù hợp để triển khai thực hiện đề tài;
++ Không thuộc trường hợp vi phạm theo quy định.
+- Đối với cá nhân đăng ký làm chủ nhiệm đề tài:
++ Là người đề xuất và chủ trì xây dựng thuyết minh đề tài;
++ Có trình độ từ đại học trở lên và đang hoạt động trong lĩnh vực chuyên môn phù hợp với nội dung nghiên cứu của đề tài;
++ Có khả năng tổ chức thực hiện và bảo đảm thời gian để chủ trì đề tài;
++ Không bị hạn chế quyền công dân theo quy định của pháp luật Việt Nam;
++ Không vi phạm các điều kiện đăng ký chủ trì đề tài;
++ Phải có công trình công bố trên tạp chí khoa học quốc tế uy tín có nội dung liên quan đến đề tài đăng ký trong thời gian năm (05) năm tính đến thời điểm nộp hồ sơ.
+- Là tác giả sáng chế, giống cây trồng được cấp văn bằng bảo hộ, có nội dung liên quan đến đề tài đăng ký và được ứng dụng vào thực tiễn trong thời gian bảy (07) năm tính đến thời điểm nộp hồ sơ.
+- Trường hợp cá nhân không thuộc một tổ chức có đủ điều kiện quy định về tổ chức chủ trì đăng ký đề tài, phải được một tổ chức có đủ điều kiện quy định chấp nhận làm tổ chức chủ trì.
+- Yêu cầu đối với đề tài đột xuất do tổ chức, cá nhân đề xuất với Quỹ:
++ Nội dung nghiên cứu là những vấn đề mới xuất hiện, đòi hỏi phải giải quyết kịp thời nhằm đáp ứng yêu cầu của xã hội;
++ Có ý nghĩa quan trọng về khoa học và thực tiễn;
++ Thời gian xuất hiện của vấn đề không quá sáu (06) tháng tính đến thời điểm nộp hồ sơ. Thời gian thực hiện đề tài không quá 18 tháng;
++ Có địa chỉ ứng dụng cho các kết quả chính tạo ra khi đề tài được hoàn thành. Tổ chức ứng dụng kết quả dự kiến phải có năng lực để tiếp nhận và triển khai một cách hiệu quả kết quả tạo ra.
++ Sản phẩm của đề tài:
+Báo cáo tổng hợp kết quả nghiên cứu của đề tài bao gồm giải pháp khoa học và công nghệ với đầy đủ luận cứ khoa học và thực tiễn để giải quyết vấn đề đặt ra.
+Công bố khoa học dưới một trong các hình thức sau: Bài báo công bố trên tạp chí quốc gia có uy tín hoặc tạp chí quốc tế có uy tín; Bằng độc quyền sáng chế hoặc bằng độc quyền giải pháp hữu ích hoặc bằng bảo hộ giống cây trồng. Trường hợp chưa được cấp bằng thì phải có xác nhận của cơ quan có thẩm quyền về khả năng bảo hộ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

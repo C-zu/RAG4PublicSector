@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy phép lập cơ sở bán lẻ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Hồ sơ gồm: Đơn đề nghị cấp lại Giấy phép lập cơ sở bán lẻ (Mẫu số 06 Phụ lục ban hành kèm theo Nghị định 09/2018/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa429a5220e60c0'">06MĐ-Đơn cấp lại GPBL.doc</a>)

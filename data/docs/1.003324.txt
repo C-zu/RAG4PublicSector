@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003324
+Số quyết định:
+3727/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp Giấy chứng nhận đăng ký hoạt động thử nghiệm
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ
+Tổ chức, doanh nghiệp có nhu cầu đăng ký hoạt động thử nghiệm:
+- Đối với chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Khoa học và Công nghệ hoặc thử nghiệm chất lượng sản phẩm, hàng hóa tổng hợp đa ngành thuộc trách nhiệm quản lý từ hai bộ quản lý ngành, lĩnh vực trở lên, hồ sơ đăng ký gửi về Bộ Khoa học và Công nghệ (Tổng cục Tiêu chuẩn Đo lường Chất lượng – Cơ quan tiếp nhận hồ sơ)
+- Đối với chất lượng sản phẩm, hàng hóa chuyên ngành thuộc trách nhiệm quản lý nhà nước của một bộ quản lý ngành, lĩnh vực theo chức năng, nhiệm vụ quyền hạn được phân công, hồ sơ đăng ký gửi về Bộ, quản lý ngành, lĩnh vực (Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công)
+Bước 2: Xử lý hồ sơ
+Cơ quan tiếp nhận hồ sơ xem xét, thẩm định theo quy định:
+- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 5 ngày làm việc, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức thử nghiệm sửa đổi, bổ sung.
+- Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc kể từ khi nhận được hồ sơ, Bộ quản lý ngành, lĩnh vực chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức thử nghiệm.
+Bước 3: Trả kết quả
+Trả kết quả trực tiếp tại trụ sở Cơ quan tiếp nhận hồ sơ hoặc theo đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Tổng cục Tiêu chuẩn Đo lường Chất lượng thông báo bằng văn bản yêu cầu tổ chức thử nghiệm sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ Khoa học và Công nghệ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức thử nghiệm.|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Theo quy định hiện hành của pháp luật về phí, lệ phí|- Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Tổng cục Tiêu chuẩn Đo lường Chất lượng thông báo bằng văn bản yêu cầu tổ chức thử nghiệm sửa đổi, bổ sung. - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ Khoa học và Công nghệ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức thử nghiệm.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký hoạt động thử nghiệm (theo Mẫu); ([Đơn đăng ký hoạt động thử nghiệm.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd09b48f6ff3188'))
+- 01 Bản sao - Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+ - Danh sách thử nghiệm viên và các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên gồm: ([Danh sách thử nghiệm viên.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd29ad04029064'))
+- 01 Bản sao Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 5 Nghị định 107/2016/NĐ-CP (theo Mẫu);
+- 01 Bản chính - Tài liệu chứng minh năng lực hoạt động thử nghiệm đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành:
+- 01 Bản sao + Bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận đối với trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 21 Nghị định 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP;
+- 01 Bản sao + Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 21 Nghị định này hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP công nhận hoạt động thử nghiệm, nhưng đăng ký hoạt động thử nghiệm rộng hơn phạm vi được công nhận, tổ chức thử nghiệm nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận và các tài liệu, quy trình thử nghiệm, các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 5 Nghị định 107/2016/NĐ-CP đối với phạm vi chưa được công nhận . - Mẫu phiếu kết quả thử nghiệm;
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cơ quan tiếp nhận hồ sơ do Bộ quản lý ngành, lĩnh vực phân công
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động thử nghiệm
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|05/2007/QH12|Luật 05/2007/QH12 - Chất lượng sản phẩm, hàng hoá|21-11-2007|Quốc Hội|
+|132/2008/NĐ-CP|Nghị định 132/2008/NĐ-CP - Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa|31-12-2008|Chính phủ|
+|Nghị định 107/2016/NĐ-CP|Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định|01-07-2016|Chính phủ|
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP-Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành|09-11-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Là tổ chức được thành lập theo quy định của pháp luật.;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+- Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành
+- Là tổ chức được thành lập theo quy định của pháp luật.;
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+- Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

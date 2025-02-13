@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp phép xuất khẩu loài thủy sản có tên trong Danh mục loài thủy sản cấm xuất khẩu hoặc trong Danh mục loài thủy sản xuất khẩu có điều kiện nhưng không đáp ứng đủ điều kiện (đối với mục đích nghiên cứu khoa học, hợp tác quốc tế)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004925
+Số quyết định:
+1213/QĐ-BNN-TS
+Tên thủ tục:
+Cấp phép xuất khẩu loài thủy sản có tên trong Danh mục loài thủy sản cấm xuất khẩu hoặc trong Danh mục loài thủy sản xuất khẩu có điều kiện nhưng không đáp ứng đủ điều kiện (đối với mục đích nghiên cứu khoa học, hợp tác quốc tế)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản

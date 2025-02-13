@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp đối với trường trung cấp, trung tâm giáo dục nghề nghiệp, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên và doanh nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Gửi hồ sơ qua cổng dịch vụ công trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp.|
+|Trực tuyến|10 Ngày làm việc||Gửi hồ sơ qua cổng dịch vụ công trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Gửi hồ sơ qua cổng dịch vụ công trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp.|

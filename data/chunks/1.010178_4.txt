@@ -1,0 +1,11 @@
+Tên thủ tục: Điều chỉnh Giấy phép xây dựng - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị điều chỉnh giấy phép xây dựng, theo mẫu BM.XD.02.01
+- 01 Bản chính Bản chính giấy phép xây dựng đã được cấp
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính bản vẽ thiết kế mặt bằng, mặt đứng, mặt cắt bộ phận, hạng mục công trình đề nghị điều chỉnh tỷ lệ 1/50 - 1/200.
+- 01 Bản sao Trường hợp thiết kế xây dựng của công trình đã được cơ quan chuyên môn về xây dựng thẩm định, các bản vẽ thiết kế là bản sao hoặc tệp tin chứa bản chụp các bản vẽ thiết kế xây dựng đã được cơ quan chuyên môn về xây dựng thẩm định.
+- 01 Bản sao Bản sao hoặc tệp tin chứa bản chụp chính văn bản phê duyệt điều chỉnh thiết kế của người có thẩm quyền theo quy định kèm theo Bản kê khai điều kiện năng lực của tổ chức, cá nhân thiết kế đối với trường hợp thiết kế không do cơ quan chuyên môn về xây dựng thẩm định hoặc Báo cáo kết quả thẩm định thiết kế điều chỉnh của cơ quan chuyên môn về xây dựng theo quy định của pháp luật về xây dựng.

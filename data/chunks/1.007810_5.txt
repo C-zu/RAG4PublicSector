@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục gia hạn nộp tiền thuế, tiền chậm nộp, tiền phạt theo Điều 31 Nghị định 83/2013/NĐ-CP ngày 22/07/2013, được sửa đổi, bổ sung tại khoản 8 Điều 5 Nghị định 12/2015/NĐ-CP ngày 12/2/2015 của Chính phủ đối với trường hợp bị thiệt hại vật chất, gây ảnh hưởng trực tiếp đến sản xuất, kinh doanh do gặp thiên tai, hỏa hoạn, tai nạn bất ngờ; phải ngừng hoạt động do di dời cơ sở sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền làm ảnh hưởng đến kết quả sản xuất, kinh doanh; không có khả năng nộp thuế đúng hạn trong trường hợp nguyên liệu, vật tư nhập khẩu để sản xuất hàng hóa xuất khẩu có chu kỳ sản xuất, dự trữ dài hơn 275 ngày hoặc do phía khách hàng hủy hợp đồng hoặc kéo dài thời gian giao hàng mà số tiền thuế, tiền chậm nộp, tiền phạt phát sinh tại 02 Chi cục Hải quan trở lên trong cùng một Cục Hải quan
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền:
+Cục Hải quan tỉnh, thành phố
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+văn bản chấp thuận
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật 78/2006/QH11|29-11-2006|Quốc Hội|
+|38/2015/TT-BTC|Thông tư 38/2015/TT-BTC|25-03-2015|Bộ Tài chính|
+|83/2013/NĐ-CP|Nghị định 83/2013/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế|22-07-2013|Chính phủ|
+|12/2015/NĐ-CP|Quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế|12-02-2015|Chính phủ|

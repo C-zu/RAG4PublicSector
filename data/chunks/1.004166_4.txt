@@ -1,0 +1,11 @@
+Tên thủ tục: Công bố mở cảng biển, cảng dầu khí ngoài khơi
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị công bố mở cảng biển, cảng dầu khí ngoài khơi theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcece8dfe1484f4'">van ban de nghi.doc</a>)
+- 01 Bản chính Biên bản nghiệm thu công trình cảng biển, cảng dầu khí ngoài khơi, luồng hàng hải (trong trường hợp luồng hàng hải được công bố cùng thời điểm công bố mở cảng biển) đã hoàn thành xây dựng đưa vào sử dụng có kèm theo văn bản chấp thuận kết quả nghiệm thu công trình đưa vào sử dụng theo quy định, bản vẽ hoàn công mặt bằng, mặt chiếu đứng và mặt cắt ngang công trình cảng; đối với cảng dầu khí ngoài khơi, không yêu cầu bản vẽ mặt chiếu đứng và mặt cắt ngang công trình cảng
+- 01 Bản chính Biên bản nghiệm thu giữa chủ đầu tư và các cơ quan hoặc tổ chức có thẩm quyền về kết quả khảo sát chướng ngại vật tại mặt đáy vùng nước trước cầu cảng và luồng hàng hải, trừ cảng dầu khí ngoài khơi
+- 01 Bản chính Thông báo hàng hải về luồng hàng hải và vùng nước trước cầu cảng kèm theo bình đồ; đối với cảng dầu khí ngoài khơi, thông báo hàng hải về vùng an toàn khu vực cảng dầu khí ngoài khơi
+- 01 Bản chính Quyết định phê duyệt kế hoạch ứng phó sự cố tràn dầu đối với cảng dầu khí ngoài khơi.

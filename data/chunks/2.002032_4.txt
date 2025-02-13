@@ -1,0 +1,68 @@
+Tên thủ tục: Chuyển đổi doanh nghiệp tư nhân thành công ty hợp danh, công ty trách nhiệm hữu hạn, công ty cổ phần
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký chuyển đổi bao gồm các giấy tờ quy định tại các Điều 22, 23 và 24 Nghị định số 01/2021/NĐ-CP, trong đó không bao gồm Giấy chứng nhận đăng ký đầu tư quy định tại điểm b khoản 4 Điều 22, điểm c khoản 4 Điều 23 và điểm c khoản 3 Điều 24 Nghị định số 01/2021/NĐ-CP. Trường hợp chuyển đổi doanh nghiệp tư nhân thành công ty hợp danh: (i) Hồ sơ đăng ký thành lập công ty hợp danh
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9d2c143ae4bba'">Phụ lục I-5.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản chính Danh sách thành viên (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febeb3fb7ac1852'">Phụ lục I-9.docx</a>)
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với thành viên công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với thành viên công ty là tổ chức; Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự;
+- 01 Bản chính (ii) Cam kết bằng văn bản của chủ doanh nghiệp tư nhân về việc chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với tất cả khoản nợ chưa thanh toán và cam kết thanh toán đủ số nợ khi đến hạn
+- 01 Bản chính (iii) Thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các bên của hợp đồng chưa thanh lý về việc công ty được chuyển đổi tiếp nhận và tiếp tục thực hiện các hợp đồng đó
+- 01 Bản chính (iv) Cam kết bằng văn bản hoặc thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các thành viên góp vốn khác về việc tiếp nhận và sử dụng lao động hiện có của doanh nghiệp tư nhân
+- 01 Bản chính (v) Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng trong trường hợp chuyển nhượng vốn của doanh nghiệp tư nhân; Hợp đồng tặng cho trong trường hợp tặng cho vốn của doanh nghiệp tư nhân; Bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế trong trường hợp thừa kế theo quy định của pháp luật
+- 01 Bản chính (vi)Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp chuyển đổi doanh nghiệp tư nhân thành công ty TNHH hai thành viên trở lên: (i) Hồ sơ đăng ký thành lập công ty TNHH hai thành viên trở lên
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec5a7575c9a9f7'">Phụ lục I-3.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản chính Danh sách thành viên (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f4912fa7dff7'">Phụ lục I-6.docx</a>)
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với thành viên công ty; Giấy tờ pháp lý của tổ chức đối với thành viên; Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền của thành viên và văn bản cử người đại diện theo ủy quyền; Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd616798e50a38a'">Phụ lục I-10.docx</a>)
+- 01 Bản chính (ii) Cam kết bằng văn bản của chủ doanh nghiệp tư nhân về việc chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với tất cả khoản nợ chưa thanh toán và cam kết thanh toán đủ số nợ khi đến hạn
+- 01 Bản chính (iii) Thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các bên của hợp đồng chưa thanh lý về việc công ty được chuyển đổi tiếp nhận và tiếp tục thực hiện các hợp đồng đó
+- 01 Bản chính (iv) Cam kết bằng văn bản hoặc thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các thành viên góp vốn khác về việc tiếp nhận và sử dụng lao động hiện có của doanh nghiệp tư nhân
+- 01 Bản chính (v) Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng trong trường hợp chuyển nhượng vốn của doanh nghiệp tư nhân; Hợp đồng tặng cho trong trường hợp tặng cho vốn của doanh nghiệp tư nhân; Bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế trong trường hợp thừa kế theo quy định của pháp luật
+- 01 Bản chính (vi)Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp chuyển đổi doanh nghiệp tư nhân thành công ty TNHH một thành viên: (i) Hồ sơ đăng ký thành lập công ty TNHH một thành viên
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd811a46728558'">Phụ lục I-2.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với chủ sở hữu công ty là cá nhân; Giấy tờ pháp lý của tổ chức đối với chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước); Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền và văn bản cử người đại diện theo ủy quyền. Đối với chủ sở hữu công ty là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbabe986bf75018'">Phụ lục I-10.docx</a>)
+- 01 Bản chính (ii) Cam kết bằng văn bản của chủ doanh nghiệp tư nhân về việc chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với tất cả khoản nợ chưa thanh toán và cam kết thanh toán đủ số nợ khi đến hạn
+- 01 Bản chính (iii) Thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các bên của hợp đồng chưa thanh lý về việc công ty được chuyển đổi tiếp nhận và tiếp tục thực hiện các hợp đồng đó
+- 01 Bản chính (iv) Cam kết bằng văn bản hoặc thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các thành viên góp vốn khác về việc tiếp nhận và sử dụng lao động hiện có của doanh nghiệp tư nhân
+- 01 Bản chính (v) Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng trong trường hợp chuyển nhượng vốn của doanh nghiệp tư nhân; Hợp đồng tặng cho trong trường hợp tặng cho vốn của doanh nghiệp tư nhân; Bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế trong trường hợp thừa kế theo quy định của pháp luật
+- 01 Bản chính (vi)Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp chuyển đổi doanh nghiệp tư nhân thành công ty cổ phần: (i) Hồ sơ đăng ký thành lập công ty cổ phần
+- 01 Bản chính Giấy đề nghị đăng ký doanh nghiệp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd27553e544aa44'">Phụ lục I-4.docx</a>)
+- 01 Bản chính Điều lệ công ty
+- 01 Bản chính Danh sách cổ đông sáng lập và danh sách cổ đông là nhà đầu tư nước ngoài (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbccc2c2770ce68'">Phụ lục I-7.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6e06063f90c72'">Phụ lục I-8.docx</a>)
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cá nhân đối với người đại diện theo pháp luật của doanh nghiệp
+- 01 Bản sao Bản sao Giấy tờ pháp lý của cổ đông sáng lập, cổ đông là nhà đầu tư nước ngoài là cá nhân; Giấy tờ pháp lý của cổ đông sáng lập, cổ đông là nhà đầu tư nước ngoài là tổ chức; Giấy tờ pháp lý của cá nhân đối với người đại diện theo ủy quyền của cổ đông sáng lập, cổ đông là nhà đầu tư nước ngoài là tổ chức và văn bản cử người đại diện theo ủy quyền. Đối với cổ đông là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe855a68efb2409'">Phụ lục I-10.docx</a>)
+- 01 Bản chính (ii) Cam kết bằng văn bản của chủ doanh nghiệp tư nhân về việc chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với tất cả khoản nợ chưa thanh toán và cam kết thanh toán đủ số nợ khi đến hạn
+- 01 Bản chính (iii) Thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các bên của hợp đồng chưa thanh lý về việc công ty được chuyển đổi tiếp nhận và tiếp tục thực hiện các hợp đồng đó
+- 01 Bản chính (iv) Cam kết bằng văn bản hoặc thỏa thuận bằng văn bản của chủ doanh nghiệp tư nhân với các thành viên góp vốn khác về việc tiếp nhận và sử dụng lao động hiện có của doanh nghiệp tư nhân
+- 01 Bản chính (v) Hợp đồng chuyển nhượng hoặc các giấy tờ chứng minh hoàn tất việc chuyển nhượng trong trường hợp chuyển nhượng vốn của doanh nghiệp tư nhân; Hợp đồng tặng cho trong trường hợp tặng cho vốn của doanh nghiệp tư nhân; Bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế trong trường hợp thừa kế theo quy định của pháp luật
+- 01 Bản chính (vi)Văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+
+
+Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản chính Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân được ủy quyền
+
+
+Trường hợp ủy quyền cho tổ chức hoặc đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có
+- 01 Bản sao Bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản chính Giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp
+- 01 Bản sao Bản sao giấy tờ pháp lý của cá nhân người được giới thiệu
+
+
+Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp
+- 01 Bản sao Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp

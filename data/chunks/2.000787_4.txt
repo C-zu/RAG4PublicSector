@@ -1,0 +1,20 @@
+Tên thủ tục: Tiếp nhận nguồn viện trợ phi Chính phủ nước ngoài (PCPNN) dưới hình thức phi dự án
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp có phương tiện tạm nhập tái xuất
+- 01 Bản chính, 07 Bản sao Giấy Chứng nhận đăng kiểm của cơ quan có thẩm quyền của Việt Nam
+- 01 Bản chính, 07 Bản sao Văn bản giám định phương tiện vận tải còn hơn 80% so với giá trị sử dụng mới do tổ chức giám định có thẩm quyền của nước Bên tài trợ xác nhận
+
+
+Trường hợp khoản viện trợ phi dự án là phương tiện đã qua sử dụng
+- 01 Bản chính, 07 Bản sao Bản đăng ký hoặc Giấy chứng nhận sở hữu phương tiện của Bên tài trợ
+- 01 Bản chính, 07 Bản sao Giấy Chứng nhận đăng kiểm của cơ quan có thẩm quyền của nước Bên tài trợ
+
+
+Bao gồm
+- 01 Bản chính, 07 Bản sao - Văn bản đề nghị trình phê duyệt của cơ quan phê duyệt khoản viện trợ PCPNN đối với các khoản viện trợ thuộc thẩm quyền phê duyệt của Thủ tướng Chính phủ
+- 01 Bản chính, 07 Bản sao - Văn bản đề nghị trình phê duyệt của cơ quan chủ quản (hoặc Chủ khoản viện trợ PCPNN trong trường hợp Cơ quan chủ quản trực tiếp quản lý) đối với các khoản viện trợ PCPNN thuộc thẩm quyền phê duyệt của Cơ quan phê duyệt khoản viện trợ PCPNN.
+- 01 Bản chính, 07 Bản sao - Văn bản của Bên tài trợ thống nhất với nội dung khoản viện trợ PCPNN và thông báo hoặc cam kết xem xét tài trợ cho khoản viện trợ PCPNN đó.
+- 08 Bản sao - Bản sao Giấy đăng ký hoạt động và/hoặc bản sao giấy tờ hợp pháp về tư cách pháp nhân của Bên tài trợ.

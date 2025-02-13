@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007654
+Số quyết định:
+1325/QĐ-BTC
+Tên thủ tục:
+Thủ tục thu hồi mã số nhân viên đại lý làm thủ tục hải quan
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
+Bước 1: Lập hồ sơ:
+
+Nhân viên đại lý làm thủ tục hải quan, doanh nghiệp có đề nghị thu hồi mã số nhân viên đại lý làm thủ tục hải quan lập hồ sơ đề nghị thu hồi mã số nhân viên đại lý làm thủ tục hải quan (hoặc báo cáo của Cục Hải quan tỉnh, thành phố hoặc thông báo của các cơ quan quản lý nhà nước khác) gửi Tổng cục Hải quan.
+Bước 2: Thu hồi mã số nhân viên đại lý làm thủ tục hải quan:
+
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ; Tổng cục trưởng Tổng cục Hải quan ra quyết định thu hồi mã số nhân viên đại lý làm thủ tục hải quan.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của nhân viên đại lý làm thủ tục hải quan hoặc báo cáo của Cục hải quan tỉnh, thành phố hoặc thông báo của các cơ quan quản lý nhà nước khác.|
+|Trực tuyến|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của nhân viên đại lý làm thủ tục hải quan hoặc báo cáo của Cục hải quan tỉnh, thành phố hoặc thông báo của các cơ quan quản lý nhà nước khác.|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của nhân viên đại lý làm thủ tục hải quan hoặc báo cáo của Cục hải quan tỉnh, thành phố hoặc thông báo của các cơ quan quản lý nhà nước khác.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thu hồi mã số nhân viên đại lý làm thủ tục hải quan theo mẫu số 07C ban hành kèm Thông tư: 01 bản chính. ([22_2019_TT_BTC_PL.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc183334eab5814'))
+ Số lượng hồ sơ: 01 bộ
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Tổng cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Quyết định thu hồi mã số nhân viên đại lý làm thủ tục hải quan.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|54/2014/QH13|Luật 54/2014/QH13|23-06-2014|Bộ Tài chính|
+|12/2015/TT-BTC|Thông tư 12/2015/TT-BTC|30-01-2015|Bộ Tài chính|
+|22/2019/TT-BTC|Thông tư 22/2019/TT-BTC|16-04-2019|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Nhân viên đại lý làm thủ tục hải quan bị xử lý hành vi vi phạm các quy định của pháp luật đến truy cứu trách nhiệm hình sự;
+
+- Nhân viên đại lý làm thủ tục hải quan bị xử lý đối với hành vi buôn lậu; vận chuyển trái phép hàng hóa, tiền tệ qua biên giới; sản xuất, buôn bán hàng cấm; trốn thuế hoặc hối lộ cán bộ, công chức hải quan trong quá trình làm thủ tục hải quan;
+
+- Nhân viên đại lý làm thủ tục hải quan cho người khác sử dụng mã số của mình hoặc sử dụng mã số của người khác hoặc sử dụng mã số không phải do Tổng cục trưởng Tổng cục Hải quan cấp để làm thủ tục hải quan; hoặc cho người khác sử dụng hồ sơ của mình để thực hiện thủ tục công nhận đại lý làm thủ tục hải quan hoặc cấp mã số nhân viên đại lý làm thủ tục hải quan;
+
+- Nhân viên đại lý làm thủ tục hải quan chuyển làm việc khác hoặc chuyển sang làm việc cho đại lý làm thủ tục hải quan khác hoặc chấm dứt hợp đồng lao động; Nhân viên đại lý làm thủ tục hải quan khi chuyển sang làm việc cho đại lý làm thủ tục hải quan khác thì phải thực hiện cấp mã số mới theo quy định tại Thông tư này;
+
+- Đại lý làm thủ tục hải quan bị chấm dứt hoạt động;
+
+- Nhân viên đại lý làm thủ tục hải quan sử dụng mã số đã hết thời hạn hiệu lực để làm thủ tục hải quan.
+- Nhân viên đại lý làm thủ tục hải quan bị xử lý hành vi vi phạm các quy định của pháp luật đến truy cứu trách nhiệm hình sự;
+
+- Nhân viên đại lý làm thủ tục hải quan bị xử lý đối với hành vi buôn lậu; vận chuyển trái phép hàng hóa, tiền tệ qua biên giới; sản xuất, buôn bán hàng cấm; trốn thuế hoặc hối lộ cán bộ, công chức hải quan trong quá trình làm thủ tục hải quan;
+
+- Nhân viên đại lý làm thủ tục hải quan cho người khác sử dụng mã số của mình hoặc sử dụng mã số của người khác hoặc sử dụng mã số không phải do Tổng cục trưởng Tổng cục Hải quan cấp để làm thủ tục hải quan; hoặc cho người khác sử dụng hồ sơ của mình để thực hiện thủ tục công nhận đại lý làm thủ tục hải quan hoặc cấp mã số nhân viên đại lý làm thủ tục hải quan;
+
+- Nhân viên đại lý làm thủ tục hải quan chuyển làm việc khác hoặc chuyển sang làm việc cho đại lý làm thủ tục hải quan khác hoặc chấm dứt hợp đồng lao động; Nhân viên đại lý làm thủ tục hải quan khi chuyển sang làm việc cho đại lý làm thủ tục hải quan khác thì phải thực hiện cấp mã số mới theo quy định tại Thông tư này;
+
+- Đại lý làm thủ tục hải quan bị chấm dứt hoạt động;
+
+- Nhân viên đại lý làm thủ tục hải quan sử dụng mã số đã hết thời hạn hiệu lực để làm thủ tục hải quan.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

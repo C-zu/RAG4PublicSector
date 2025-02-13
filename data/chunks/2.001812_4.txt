@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn Giấy phép thăm dò khoáng sản (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép thăm dò khoáng sản (gia hạn); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4edf8c7085d8c'">Mẫu số 04 đơn đề nghị tham do.docx</a>)
+- 01 Bản chính Báo cáo kết quả thăm dò khoáng sản đã thực hiện đến thời điểm đề nghị gia hạn và kế hoạch thăm dò khoáng sản tiếp theo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd794d40d72a344'">Mẫu số 42 báo cáo hoạt động thăm dò.docx</a>)
+- 01 Bản chính Bản đồ khu vực thăm dò khoáng sản (sau khi đã trả lại 30% diện tích khu vực thăm dò trước đó). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe61ebdc923a4a1'">Mẫu số 23 pl 2 bản đồ khu vực tiếp tục thăm dò.docx</a>)
+- 01 Bản sao Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu đối với các văn bản thực hiện nghĩa vụ liên quan đến hoạt động thăm dò tính đến thời điểm đề nghị gia hạn Giấy phép thăm dò khoáng sản.

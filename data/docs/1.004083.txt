@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004083
+Số quyết định:
+2901/QĐ-BTNMT
+Tên thủ tục:
+Chấp thuận tiến hành khảo sát thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Địa chất và khoáng sản
+Trình tự thực hiện:
+- Bước 1. Nộp hồ sơ
+Tổ chức, cá nhân có nhu cầu khảo sát thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản nộp trực tiếp hoặc qua đường bưu điện đến Văn phòng Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Ủy ban nhân dân cấp tỉnh (hoặc Bộ phận Tiếp nhận và Trả kết quả của Sở Tài nguyên và Môi trường) hoặc nộp trực tuyến tại cổng thông tin điện tử do Ủy ban nhân dân tỉnh cung cấp.
+- Bước 2. Kiểm tra hồ sơ: 
+Cơ quan tiếp nhận hồ sơ có trách nhiệm xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp:
++ Hồ sơ đầy đủ, hợp lệ thì ban hành văn bản tiếp nhận hồ sơ.
++ Hồ sơ chưa đầy đủ hoặc không hợp lệ thì hướng dẫn bổ sung, hoàn chỉnh hồ sơ. Việc ban hành văn bản hướng dẫn, yêu cầu bổ sung, hoàn chỉnh hồ sơ của cơ quan tiếp nhận hồ sơ chỉ thực hiện một lần.
+- Bước 3. Thẩm định hồ sơ
+Sở Tài nguyên và Môi trường có trách nhiệm hoàn thành việc kiểm tra tọa độ, diện tích khu vực đăng ký và kiểm tra thực địa (nếu cần); gửi văn bản xin ý kiến đến các cơ quan có liên quan (nếu cần); hoàn thành việc thẩm định các tài liệu, hồ sơ và các nội dung khác có liên quan đến việc đăng ký khảo sát thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản.
+- Bước 4. Trình hồ sơ
+Căn cứ kết quả thẩm định hồ sơ, Sở Tài nguyên và Môi trường lập Tờ trình, trình hồ sơ đề nghị Ủy ban nhân dân tỉnh xem xét, chấp thuận hoặc không chấp thuận đề nghị khảo sát thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản.
+- Bước 5. Trả kết quả giải quyết thủ tục hành chính
+Sở Tài nguyên và Môi trường thông báo cho tổ chức, cá nhân để nhận kết quả (Thông báo) và thực hiện các nghĩa vụ có liên quan theo quy định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Không quá 10 ngày làm việc.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Không quá 10 ngày làm việc.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Kế hoạch khảo sát, lấy mẫu để lựa chọn diện tích lập đề án thăm dò khoáng sản; ([Mẫu số 46 Thông tư số 45.2016.TT-BTNMT.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe06865cf690ca5'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo chấp thuận kế hoạch khảo sát, lấy mấu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2010/QH12|Luật 60/2010/QH12|17-11-2010|Quốc Hội|
+|158/2016/NĐ-CP|Nghị định 158/2016/NĐ-CP|29-11-2016|Chính phủ|
+|45/2016/TT-BTNMT|Thông tư 45/2016/TT-BTNMT|26-12-2016|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

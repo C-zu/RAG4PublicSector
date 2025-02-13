@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Trường hợp nộp qua hệ thống dịch vụ công trực tuyến:
+- 01 Bản sao - 01 giấy đề nghị thẩm định thiết kế theo mẫu (biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6e934a3a40410'">Mẫu.docx</a>)
+- 01 Bản sao - 01 tài liệu thiết kế công trình biển (dạng điện tử).
+
+
+* Trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc qua hình thức phù hợp khác:
+- 01 Bản sao - 01 giấy đề nghị thẩm định thiết kế theo mẫu (bản sao); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe75ded95447df9'">Mẫu.docx</a>)
+- 01 Bản sao - 03 tài liệu thiết kế công trình biển (bản sao).

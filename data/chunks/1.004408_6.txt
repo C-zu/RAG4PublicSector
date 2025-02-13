@@ -1,0 +1,148 @@
+Tên thủ tục: Thủ tục cấp, công nhận Giấy chứng nhận loại
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Cục HKVN cấp Giấy chứng nhận loại cho sản phẩm tàu bay nếu người làm đơn đáp ứng các điều kiện sau đây:
+ Chứng minh được năng lực đáp ứng các quy định tại Điều 21.023;
+Có văn bản cam kết theo quy định tại khoản b của Điều 21.040;
+Chứng minh rằng:
+Sản phẩm được phê chuẩn đáp ứng các cơ sở áp dụng cho việc cấp Giấy chứng nhận loại và quy định bảo vệ môi trường theo Điều 21.033 và Điều 21.035;
+Các tiêu chuẩn đủ điều kiện bay chưa được tuân thủ phải được bổ sung bằng các yếu tố đảm bảo mức an toàn tương đương;
+Không có đặc tính nào có thể gây mất an toàn cho sản phẩm khi sử dụng sản phẩm theo đúng mục đích đã phê chuẩn;
+Người làm đơn đã khẳng định bằng văn bản rằng sẵn sàng tuân thủ các quy định tại Điều 21.060
+Trong trường hợp Giấy chứng nhận loại cho tàu bay, động cơ hoặc cánh quạt, hoặc cả hai nếu lắp trên loại tàu bay đó cũng phải có Giấy chứng nhận loại tương ứng được ban hành theo quy định của Phần này.
+* NĂNG LỰC
+Các tổ chức đề nghị cấp Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải có Giấy chứng nhận tổ chức thiết kế được cấp theo các quy định của Chương J của Phần này để chứng minh năng lực của mình.
+Trong trường hợp không thể đáp ứng được các yêu cầu nêu tại khoản (a) của Điều này có thể đề nghị Cục HKVN cho phép sử dụng các kinh nghiệm thiết kế, nguồn nhân lực và các trình tự công việc cụ thể cần thiết để đảm bảo việc tuân thủ các quy định của Điều này đối với các sản phẩm là một trong những loại như sau:
+Máy bay hoặc tàu bay cánh quay siêu nhẹ, tàu lượn hoặc tàu lượn có động cơ, khinh khí cầu;
+Máy bay nhỏ đáp ứng các nội dung sau:
+Một động cơ pit-tông, làm mát tuần hoàn hở và có công suất cất cánh tối đa nhỏ hơn 250 mã lực;
+Cấu hình thông thường;
+Kết cấu và vật liệu thông thường;
+Bay theo quy tắc bay bằng mắt trong điều kiện không có băng;
+Tối đa 4 chỗ ngồi kể cả người lái và tải trọng cất cánh tối đa nhỏ hơn 3000 lb (1361kg);
+Bay trong điều kiện không có tăng áp ca bin;
+Hệ thống điều khiển không có trợ lực;
+Thực hiện các động tác nhào lộn cơ bản với giới hạn hệ số quá tải là +6/-3;
+Động cơ pit-tông;
+Động cơ hoặc cánh quạt được cấp Giấy chứng nhận loại theo tiêu chuẩn đủ điều kiện bay của tầu lượn có động cơ;
+Cánh quạt có biến cự cố định hoặc thay đổi.
+*  ĐIỀU KIỆN CẤP, CÔNG NHẬN GIẤY CHỨNG NHẬN LOẠI
+Giấy chứng nhận loại được cấp, công nhận khi:
+Tàu bay, động cơ và cánh quạt phù hợp với các hình vẽ, tính năng hoạt động và đặc tính thiết kế đáp ứng được các yêu cầu của tiêu chuẩn đủ điều kiện bay áp dụng;
+Thực hiện tốt các công việc thử nghiệm, bay kiểm chứng theo yêu cầu của việc phê chuẩn tàu bay, động cơ và cánh quạt được quy định tại các tiêu chuẩn đủ điều kiện bay áp dụng;
+Người đề nghị cấp, công nhận Giấy chứng nhận loại đã nộp đủ phí và lệ phí theo quy định.
+Người đề nghị cấp, công nhận Giấy chứng nhận loại chịu mọi chi phí trong quá trình kiểm tra cấp, thừa nhận Giấy chứng nhận loại.
+Hồ sơ đề nghị cấp Giấy chứng nhận loại và Giấy chứng nhận loại hạn chế phải được thực hiện theo mẫu biểu và cách thức theo quy định.
+*  CÁC ĐIỀU KIỆN ĐẶC BIỆT
+Cục HKVN sẽ quy định chi tiết các đặc tính kỹ thuật đặc biệt, điều kiện đặc biệt đối với sản phẩm khi các quy định đủ điều kiện bay hiện hành không quy định các tiêu chuẩn an toàn phù hợp cho sản phẩm đó trong các trường hợp sau:
+Sản phẩm hoàn toàn mới lạ hoặc có đặc tính thiết kế khác thường so với các thực tế thiết kế đang làm cơ sở cho các tiêu chuẩn đủ điều kiện bay hiện hành;
+Mục đích sử dụng của sản phẩm hoàn toàn khác với thông thường;
+Kinh nghiệm từ các sản phẩm tương tự đang trong khai thác hoặc từ các sản phẩm có đặc tính thiết kế tương tự cho thấy các điều kiện mất an toàn có thể phát sinh.
+Các điều kiện đặc biệt sẽ bao gồm các các tiêu chuẩn an toàn tương đương với mức an toàn quy định trong các tiêu chuẩn đủ điều kiện bay của Phần này nhằm đảm bảo mức an toàn cần thiết.
+*  CƠ SỞ CĂN CỨ CHO VIỆC CẤP GIẤY CHỨNG NHẬN LOẠI
+Các cơ sở căn cứ cho việc cấp Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải được công bố và bao gồm:
+Tiêu chuẩn đủ điều kiện bay áp dụng, công nhận hoặc thừa nhận có hiệu lực tại thời điểm đề nghị cấp Giấy chứng nhận loại quy định tại Phần 3, trừ khi:
+Cục HKVN có yêu cầu khác; hoặc
+Tổ chức đề nghị cấp Giấy chứng nhận lựa chọn việc tuân thủ với các sửa đổi có hiệu lực sau so với tiêu chuẩn đủ điều kiện bay hiện hành, hoặc theo yêu cầu tại Điểm (c) và (d) của Điều này.
+Các điều kiện đặc biệt theo quy định tại khoản (a) của Điều 21.030, nếu có.
+Cơ sở căn cứ được công bố cho đề nghị cấp Giấy chứng nhận loại của các tàu bay hoặc tàu bay cánh quay có tải trọng cất cánh tối đa trên 5700 kg có giá trị trong thời hạn 5 năm; Cơ sở căn cứ được công bố cho đề nghị cấp Giấy chứng nhận loại cho tất cả các tàu bay khác có giá trị trong thời hạn 3 năm trừ khi người đề nghị cấp Giấy chứng nhận loại có đề nghị khoảng thời gian dài hơn, tại thời điểm nộp đơn, để có thể thực hiện công việc thiết kế, chế tạo và thử nghiệm.
+Trong trường hợp Giấy chứng nhận loại không được cấp hoặc sẽ không được cấp trong khoảng thời gian quy định tại Khoản (b); người làm đơn có thể:
+Nộp lại đơn đề nghị cấp Giấy chứng nhận loại và tuân thủ các quy định như đã nêu tại Khoản (a); hoặc
+Đề nghị kéo dài thời hạn của đơn đề nghị cấp Giấy chứng nhận loại lần thứ nhất và tuân thủ với tiêu chuẩn đủ điều kiện bay được áp dụng tại thời điểm, do người làm đơn lựa chọn, sau thời điểm mà Giấy chứng nhận loại đã có thể được cấp như quy định tại Khoản (b) đối với lần đề nghị trước.
+Nếu người làm đơn lựa chọn việc tuân thủ với sửa đổi của tiêu chuẩn đủ điều kiện bay sẽ có hiệu lực sau ngày nộp đơn, người làm đơn sẽ phải tuân thủ với các sửa đổi khác nữa nếu Cục HKVN nhận thấy các sửa đổi này có liên quan trực tiếp tới Giấy chứng nhận loại sẽ được cấp.
+*  CÁC YÊU CẦU VỀ BẢO VỆ MÔI TRƯỜNG VÀ ĐẶC TÍNH PHÊ CHUẨN
+Các yêu cầu về tiếng ồn đối với việc ban hành Giấy chứng nhận loại cho tàu bay được quy định theo các điều khoản trong Chương 1 của Phụ ước 16, quyển I phần II của Công ước Chi-ca-go, và:
+Đối với tàu bay phản lực cận âm: quyển I, phần II, chương 2, 3 và 4;
+Đối với tàu bay cánh quạt: quyển I, phần II, chương 3, 4, 5, 6 và 10;
+Đối với trực thăng: quyển I, phần II, chương 8 và 11;
+Đối với tàu bay vượt âm: quyển I, phần II, chương 12.
+Yêu cầu về khí thải đối với việc cấp Giấy chứng nhận loại cho tàu bay và động cơ được quy định trong Phụ ước 16 của Công ước Chi-ca-go:
+Ngăn ngừa thải nhiên liệu có chủ định: quyển II, phần II, chương 2;
+Khí thải của động cơ phản lực và động cơ lá cánh dùng cho tốc độ cận âm: quyển II, phần II, chương 2;
+Khí thải của động cơ phản lực và động cơ lá cánh dùng cho tốc độ vượt âm: quyển II, phần III, chương 3.
+Căn cứ vào Luật Hàng không dân dụng Việt Nam hoặc luật quốc tế đã được Việt Nam công nhận, người đề nghị được cấp Giấy chứng nhận loại phải chứng minh sự tuân thủ các quy định về tiếng ồn và theo quy định tại khoản (a) và (b) của Điều này.
+*  CÁC THAY ĐỔI YÊU CẦU PHẢI CẤP LẠI GIẤY CHỨNG NHẬN LOẠI
+Trong trường hợp có sự thay đổi lớn về thiết kế, công suất động cơ, nguồn tạo lực đẩy, tải trọng của sản phẩm tàu bay so với các đặc tính được nêu trong Giấy chứng nhận loại đã cấp và Cục HKVN thấy cần thiết phải tiến hành việc kiểm tra lại toàn bộ sự tuân thủ với các tiêu chuẩn đủ điều kiện bay áp dụng, người đề xuất thay đổi phải làm đơn đề nghị cấp mới Giấy chứng nhận loại. Trình tự cấp lại Giấy chứng nhận loại được áp dụng tương tự như trình tự cấp Giấy chứng nhận loại.
+*  TUÂN THỦ CÁC CƠ SỞ CẤP GIẤY CHỨNG NHẬN LOẠI VÀ YÊU CẦU VỀ BẢO VỆ MÔI TRƯỜNG
+Người làm đơn đề nghị được cấp Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải chứng minh sự tuân thủ các quy định cấp Giấy chứng nhận loại và các yêu cầu về bảo vệ môi trường và phải cung cấp Cục HKVN các bằng chứng về việc tuân thủ đó.
+Người làm đơn phải tuyên bố đã chứng minh việc tuân thủ các cơ sở căn cứ cho việc cấp Giấy chứng nhận loại và các yêu cầu về bảo vệ môi trường.
+Nếu người làm đơn có Giấy chứng nhận tổ chức thiết kế, việc tuyên bố nói tại khoản (b) trên đây phải được thực hiện theo quy định tại Chương J.
+* NGHĨA VỤ CỦA NGƯỜI CÓ GIẤY CHỨNG NHẬN LOẠI
+Người có Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải:
+Thực hiện các nghĩa vụ quy định tại các Điều 21.010, 21.013, 21.015, 21.067, 21.070 và 21.073 và phải tiếp tục đáp ứng các yêu cầu về tư cách pháp lý quy định tại Điều 21.020;
+Xác định nhãn mác của sản phẩm theo quy định tại chương Q.
+Cục HKVN cấp Giấy chứng nhận loại cho sản phẩm tàu bay nếu người làm đơn đáp ứng các điều kiện sau đây:
+ Chứng minh được năng lực đáp ứng các quy định tại Điều 21.023;
+Có văn bản cam kết theo quy định tại khoản b của Điều 21.040;
+Chứng minh rằng:
+Sản phẩm được phê chuẩn đáp ứng các cơ sở áp dụng cho việc cấp Giấy chứng nhận loại và quy định bảo vệ môi trường theo Điều 21.033 và Điều 21.035;
+Các tiêu chuẩn đủ điều kiện bay chưa được tuân thủ phải được bổ sung bằng các yếu tố đảm bảo mức an toàn tương đương;
+Không có đặc tính nào có thể gây mất an toàn cho sản phẩm khi sử dụng sản phẩm theo đúng mục đích đã phê chuẩn;
+Người làm đơn đã khẳng định bằng văn bản rằng sẵn sàng tuân thủ các quy định tại Điều 21.060
+Trong trường hợp Giấy chứng nhận loại cho tàu bay, động cơ hoặc cánh quạt, hoặc cả hai nếu lắp trên loại tàu bay đó cũng phải có Giấy chứng nhận loại tương ứng được ban hành theo quy định của Phần này.
+* NĂNG LỰC
+Các tổ chức đề nghị cấp Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải có Giấy chứng nhận tổ chức thiết kế được cấp theo các quy định của Chương J của Phần này để chứng minh năng lực của mình.
+Trong trường hợp không thể đáp ứng được các yêu cầu nêu tại khoản (a) của Điều này có thể đề nghị Cục HKVN cho phép sử dụng các kinh nghiệm thiết kế, nguồn nhân lực và các trình tự công việc cụ thể cần thiết để đảm bảo việc tuân thủ các quy định của Điều này đối với các sản phẩm là một trong những loại như sau:
+Máy bay hoặc tàu bay cánh quay siêu nhẹ, tàu lượn hoặc tàu lượn có động cơ, khinh khí cầu;
+Máy bay nhỏ đáp ứng các nội dung sau:
+Một động cơ pit-tông, làm mát tuần hoàn hở và có công suất cất cánh tối đa nhỏ hơn 250 mã lực;
+Cấu hình thông thường;
+Kết cấu và vật liệu thông thường;
+Bay theo quy tắc bay bằng mắt trong điều kiện không có băng;
+Tối đa 4 chỗ ngồi kể cả người lái và tải trọng cất cánh tối đa nhỏ hơn 3000 lb (1361kg);
+Bay trong điều kiện không có tăng áp ca bin;
+Hệ thống điều khiển không có trợ lực;
+Thực hiện các động tác nhào lộn cơ bản với giới hạn hệ số quá tải là +6/-3;
+Động cơ pit-tông;
+Động cơ hoặc cánh quạt được cấp Giấy chứng nhận loại theo tiêu chuẩn đủ điều kiện bay của tầu lượn có động cơ;
+Cánh quạt có biến cự cố định hoặc thay đổi.
+*  ĐIỀU KIỆN CẤP, CÔNG NHẬN GIẤY CHỨNG NHẬN LOẠI
+Giấy chứng nhận loại được cấp, công nhận khi:
+Tàu bay, động cơ và cánh quạt phù hợp với các hình vẽ, tính năng hoạt động và đặc tính thiết kế đáp ứng được các yêu cầu của tiêu chuẩn đủ điều kiện bay áp dụng;
+Thực hiện tốt các công việc thử nghiệm, bay kiểm chứng theo yêu cầu của việc phê chuẩn tàu bay, động cơ và cánh quạt được quy định tại các tiêu chuẩn đủ điều kiện bay áp dụng;
+Người đề nghị cấp, công nhận Giấy chứng nhận loại đã nộp đủ phí và lệ phí theo quy định.
+Người đề nghị cấp, công nhận Giấy chứng nhận loại chịu mọi chi phí trong quá trình kiểm tra cấp, thừa nhận Giấy chứng nhận loại.
+Hồ sơ đề nghị cấp Giấy chứng nhận loại và Giấy chứng nhận loại hạn chế phải được thực hiện theo mẫu biểu và cách thức theo quy định.
+*  CÁC ĐIỀU KIỆN ĐẶC BIỆT
+Cục HKVN sẽ quy định chi tiết các đặc tính kỹ thuật đặc biệt, điều kiện đặc biệt đối với sản phẩm khi các quy định đủ điều kiện bay hiện hành không quy định các tiêu chuẩn an toàn phù hợp cho sản phẩm đó trong các trường hợp sau:
+Sản phẩm hoàn toàn mới lạ hoặc có đặc tính thiết kế khác thường so với các thực tế thiết kế đang làm cơ sở cho các tiêu chuẩn đủ điều kiện bay hiện hành;
+Mục đích sử dụng của sản phẩm hoàn toàn khác với thông thường;
+Kinh nghiệm từ các sản phẩm tương tự đang trong khai thác hoặc từ các sản phẩm có đặc tính thiết kế tương tự cho thấy các điều kiện mất an toàn có thể phát sinh.
+Các điều kiện đặc biệt sẽ bao gồm các các tiêu chuẩn an toàn tương đương với mức an toàn quy định trong các tiêu chuẩn đủ điều kiện bay của Phần này nhằm đảm bảo mức an toàn cần thiết.
+*  CƠ SỞ CĂN CỨ CHO VIỆC CẤP GIẤY CHỨNG NHẬN LOẠI
+Các cơ sở căn cứ cho việc cấp Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải được công bố và bao gồm:
+Tiêu chuẩn đủ điều kiện bay áp dụng, công nhận hoặc thừa nhận có hiệu lực tại thời điểm đề nghị cấp Giấy chứng nhận loại quy định tại Phần 3, trừ khi:
+Cục HKVN có yêu cầu khác; hoặc
+Tổ chức đề nghị cấp Giấy chứng nhận lựa chọn việc tuân thủ với các sửa đổi có hiệu lực sau so với tiêu chuẩn đủ điều kiện bay hiện hành, hoặc theo yêu cầu tại Điểm (c) và (d) của Điều này.
+Các điều kiện đặc biệt theo quy định tại khoản (a) của Điều 21.030, nếu có.
+Cơ sở căn cứ được công bố cho đề nghị cấp Giấy chứng nhận loại của các tàu bay hoặc tàu bay cánh quay có tải trọng cất cánh tối đa trên 5700 kg có giá trị trong thời hạn 5 năm; Cơ sở căn cứ được công bố cho đề nghị cấp Giấy chứng nhận loại cho tất cả các tàu bay khác có giá trị trong thời hạn 3 năm trừ khi người đề nghị cấp Giấy chứng nhận loại có đề nghị khoảng thời gian dài hơn, tại thời điểm nộp đơn, để có thể thực hiện công việc thiết kế, chế tạo và thử nghiệm.
+Trong trường hợp Giấy chứng nhận loại không được cấp hoặc sẽ không được cấp trong khoảng thời gian quy định tại Khoản (b); người làm đơn có thể:
+Nộp lại đơn đề nghị cấp Giấy chứng nhận loại và tuân thủ các quy định như đã nêu tại Khoản (a); hoặc
+Đề nghị kéo dài thời hạn của đơn đề nghị cấp Giấy chứng nhận loại lần thứ nhất và tuân thủ với tiêu chuẩn đủ điều kiện bay được áp dụng tại thời điểm, do người làm đơn lựa chọn, sau thời điểm mà Giấy chứng nhận loại đã có thể được cấp như quy định tại Khoản (b) đối với lần đề nghị trước.
+Nếu người làm đơn lựa chọn việc tuân thủ với sửa đổi của tiêu chuẩn đủ điều kiện bay sẽ có hiệu lực sau ngày nộp đơn, người làm đơn sẽ phải tuân thủ với các sửa đổi khác nữa nếu Cục HKVN nhận thấy các sửa đổi này có liên quan trực tiếp tới Giấy chứng nhận loại sẽ được cấp.
+*  CÁC YÊU CẦU VỀ BẢO VỆ MÔI TRƯỜNG VÀ ĐẶC TÍNH PHÊ CHUẨN
+Các yêu cầu về tiếng ồn đối với việc ban hành Giấy chứng nhận loại cho tàu bay được quy định theo các điều khoản trong Chương 1 của Phụ ước 16, quyển I phần II của Công ước Chi-ca-go, và:
+Đối với tàu bay phản lực cận âm: quyển I, phần II, chương 2, 3 và 4;
+Đối với tàu bay cánh quạt: quyển I, phần II, chương 3, 4, 5, 6 và 10;
+Đối với trực thăng: quyển I, phần II, chương 8 và 11;
+Đối với tàu bay vượt âm: quyển I, phần II, chương 12.
+Yêu cầu về khí thải đối với việc cấp Giấy chứng nhận loại cho tàu bay và động cơ được quy định trong Phụ ước 16 của Công ước Chi-ca-go:
+Ngăn ngừa thải nhiên liệu có chủ định: quyển II, phần II, chương 2;
+Khí thải của động cơ phản lực và động cơ lá cánh dùng cho tốc độ cận âm: quyển II, phần II, chương 2;
+Khí thải của động cơ phản lực và động cơ lá cánh dùng cho tốc độ vượt âm: quyển II, phần III, chương 3.
+Căn cứ vào Luật Hàng không dân dụng Việt Nam hoặc luật quốc tế đã được Việt Nam công nhận, người đề nghị được cấp Giấy chứng nhận loại phải chứng minh sự tuân thủ các quy định về tiếng ồn và theo quy định tại khoản (a) và (b) của Điều này.
+*  CÁC THAY ĐỔI YÊU CẦU PHẢI CẤP LẠI GIẤY CHỨNG NHẬN LOẠI
+Trong trường hợp có sự thay đổi lớn về thiết kế, công suất động cơ, nguồn tạo lực đẩy, tải trọng của sản phẩm tàu bay so với các đặc tính được nêu trong Giấy chứng nhận loại đã cấp và Cục HKVN thấy cần thiết phải tiến hành việc kiểm tra lại toàn bộ sự tuân thủ với các tiêu chuẩn đủ điều kiện bay áp dụng, người đề xuất thay đổi phải làm đơn đề nghị cấp mới Giấy chứng nhận loại. Trình tự cấp lại Giấy chứng nhận loại được áp dụng tương tự như trình tự cấp Giấy chứng nhận loại.
+*  TUÂN THỦ CÁC CƠ SỞ CẤP GIẤY CHỨNG NHẬN LOẠI VÀ YÊU CẦU VỀ BẢO VỆ MÔI TRƯỜNG
+Người làm đơn đề nghị được cấp Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải chứng minh sự tuân thủ các quy định cấp Giấy chứng nhận loại và các yêu cầu về bảo vệ môi trường và phải cung cấp Cục HKVN các bằng chứng về việc tuân thủ đó.
+Người làm đơn phải tuyên bố đã chứng minh việc tuân thủ các cơ sở căn cứ cho việc cấp Giấy chứng nhận loại và các yêu cầu về bảo vệ môi trường.
+Nếu người làm đơn có Giấy chứng nhận tổ chức thiết kế, việc tuyên bố nói tại khoản (b) trên đây phải được thực hiện theo quy định tại Chương J.
+* NGHĨA VỤ CỦA NGƯỜI CÓ GIẤY CHỨNG NHẬN LOẠI
+Người có Giấy chứng nhận loại hoặc Giấy chứng nhận loại hạn chế phải:
+Thực hiện các nghĩa vụ quy định tại các Điều 21.010, 21.013, 21.015, 21.067, 21.070 và 21.073 và phải tiếp tục đáp ứng các yêu cầu về tư cách pháp lý quy định tại Điều 21.020;
+Xác định nhãn mác của sản phẩm theo quy định tại chương Q.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

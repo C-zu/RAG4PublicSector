@@ -1,0 +1,9 @@
+Tên thủ tục: Khen thưởng chuyên đề
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||+ Trụ sở cơ quan hành chính.|
+|Trực tuyến|Không quy định||+ Trực tuyến|
+|Dịch vụ bưu chính|Không quy định||+ Dịch vụ bưu chính|

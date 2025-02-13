@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận quyền sử dụng mã số, mã vạch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp lại Giấy chứng nhận theo Mẫu số 13 Phụ lục ban hành kèm theo Nghị định số 74/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd4aec1e960098'">Mẫu số 13.docx</a>)
+- 01 Bản sao - Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc Quyết định thành lập đối với trường hợp thay đổi tên, địa chỉ;
+- 01 Bản chính - Bản chính Giấy chứng nhận (trừ trường hợp bị mất).

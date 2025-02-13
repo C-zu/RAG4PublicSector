@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại văn bản xác nhận thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được (Cấp bộ)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004428
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại văn bản xác nhận thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được (Cấp bộ)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính

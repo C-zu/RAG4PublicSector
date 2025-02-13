@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp gia hạn, điều chỉnh nội dung giấy phép xả nước thải vào công trình thủy lợi trừ xả nước thải với quy mô nhỏ và không chứa chất độc hại, chất phóng xạ thuộc thẩm quyền cấp phép của Bộ Nông nghiệp và PTNT
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|15 Ngày||15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|

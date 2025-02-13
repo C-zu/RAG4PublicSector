@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008525
+Số quyết định:
+1462/QĐ-BTC
+Tên thủ tục:
+Khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ của doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1:
+++ Người nộp thuế chuẩn bị số liệu, lập hồ sơ và gửi đến cơ quan thuế, chậm nhất là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.
++ Bước 2 : Cơ quan thuế thực hiện tiếp nhận:
+   ++ Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+  ++ Trường hợp tiếp nhận hồ sơ qua Cổng thông tin điện tử của Tổng cục Thuế, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+   +++ Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận việc người nộp thuế đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Tổng cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế
+   +++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của người nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0 Ngày làm việc||Không phải trả kết quả cho người nộp thuế.|
+|Trực tuyến|0 Ngày làm việc||Không phải trả kết quả cho người nộp thuế.|
+|Dịch vụ bưu chính|0 Ngày làm việc||Không phải trả kết quả cho người nộp thuế.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ phải nộp ngân sách nhà nước của doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ mẫu số 01/QT-LNCL ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế ([Mẫu 01.QT.LNCL.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefb03172664a28'))
+- 01 Bản chính + Phụ lục bảng phân bổ số lợi nhuận còn lại phải nộp cho các địa phương được hưởng nguồn thu đối với hoạt động kinh doanh xổ số điện toán theo mẫu 01-1/QT-LNCN (áp dụng đối với doanh nghiệp có hoạt động kinh doanh xổ số điện toán ) ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế. ([Mẫu 01.1.QT.LNCL.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfc5fe4632398c'))
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hồ sơ gửi đến cơ quan Thuế không có kết quả giải quyết.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||
+|122/2017/NĐ-CP|Nghị định 122/2017/NĐ-CP|13-11-2017||
+|138/2017/TT-BTC|Thông tư 138/2017/TT-BTC|25-12-2017||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

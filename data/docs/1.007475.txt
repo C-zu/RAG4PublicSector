@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007475
+Số quyết định:
+2083/QĐ-BTC
+Tên thủ tục:
+Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (Cấp mới)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Kế toán, kiểm toán
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ
+- Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+- Bước 3: Nộp lệ phí đối với cá nhân đủ điều kiện.
+- Bước 4: Cấp giấy chứng nhận đối người đủ điều kiện.
+- Bước 5: Công khai danh sách trên trang điện tử của Bộ Tài chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 1.200.000 Đồng Phí, lệ phí: 1.200.000đ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và đảm bảo đủ điều kiện.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 1.200.000 Đồng Phí, lệ phí: 1.200.000đ|- Nộp hồ sơ trực tiếp tại trụ sở Bộ Tài chính hoặc qua đường bưu điện - 15 ngày kể từ ngày nhận được hồ sơ hợp lệ và đảm bảo đủ điều kiện.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Đơn đề nghị cấp Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 01/ĐKHN ban hành kèm theo Thông tư 202/2012/TT-BTC ngày 19/11/2012. ([202-2012-TT-BTC_41741_1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6b4a9d7edfe4c'))
+- 01 Bản sao - Bản sao hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán.
+- 01 Bản chính - Giấy xác nhận về thời gian thực tế làm kiểm toán theo mẫu quy định tại Phụ lục số 04/ĐKHN ban hành kèm theo Thông tư 202/2012/TT-BTC hoặc tài liệu chứng minh về thời gian thực tế làm kiểm toán hoặc Bản giải trình kèm theo tài liệu chứng minh về thời gian thực tế làm kiểm toán. ([202-2012-TT-BTC_41741_1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedaa3fa73fd59e'))
+- 01 Bản chính - Bản thông tin cá nhân theo mẫu quy định tại Phụ lục số 05/ĐKHN ban hành kèm theo Thông tư 202/2012/TT-BTC. ([202-2012-TT-BTC_41741_1.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfcdcabb17e830'))
+- 01 Bản chính - Phiếu lý lịch tư pháp do cơ quan có thẩm quyền cấp trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+- 01 Bản sao - Bản sao Chứng chỉ kiểm toán viên.
+- 02 Bản chính - Hai ảnh màu cỡ 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+- 01 Bản sao - Bản sao Quyết định thôi việc hoặc Quyết định chấm dứt hợp đồng lao động tại nơi làm việc trước doanh nghiệp kiểm toán.
+- 01 Bản sao - Bản sao Giấy phép lao động tại Việt Nam của kiểm toán viên là người nước ngoài trừ trường hợp pháp luật lao động Việt Nam quy định không cần phải có giấy phép lao động.
+- 01 Bản chính - Tài liệu chứng minh giờ cập nhật kiến thức của kiểm toán viên tại các tổ chức nghề nghiệp quốc tế về kế toán, kiểm toán đối với trường hợp có tính giờ cập nhật kiến thức.
+ 2/ Số lượng hồ sơ: 01 (bộ)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Bộ Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hành nghề kiểm toán
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2011/QH12|Luật kiểm toán độc lập số 67/2011/QH12|29-03-2011|Quốc Hội|
+|17/2012/NĐ-CP|Nghị định số 17/2012/NĐ-CP|13-03-2012|Chính phủ|
+|202/2012/TT-BTC|- Thông tư 202/2012/TT-BTC của Bộ Tài chính Hướng dẫn về đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán.|19-11-2012|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Điều kiện đăng ký hành nghề kiểm toán:
++ Là kiểm toán viên.
++ Có thời gian thực tế làm kiểm toán từ đủ ba mươi sáu (36) tháng trở lên theo quy định.
++ Đủ giờ cập nhật kiến thức theo quy định của Bộ Tài chính.
+- Hồ sơ sao y phải đảm bảo đúng quy định về sao y, chứng thực.
+- Điều kiện đăng ký hành nghề kiểm toán:
++ Là kiểm toán viên.
++ Có thời gian thực tế làm kiểm toán từ đủ ba mươi sáu (36) tháng trở lên theo quy định.
++ Đủ giờ cập nhật kiến thức theo quy định của Bộ Tài chính.
+- Hồ sơ sao y phải đảm bảo đúng quy định về sao y, chứng thực.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

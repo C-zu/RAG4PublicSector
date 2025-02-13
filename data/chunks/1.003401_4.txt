@@ -1,0 +1,8 @@
+Tên thủ tục: Thu hồi Giấy phép sử dụng vật liệu nổ công nghiệp thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thu hồi
+- 01 Bản sao - Giấy giới thiệu kèm theo bản sao thẻ Căn cước công dân, Chứng minh nhân dân, Hộ chiếu, Chứng minh Công an nhân dân hoặc giấy chứng minh do Quân đội nhân dân cấp của người đến liên hệ.

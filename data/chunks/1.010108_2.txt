@@ -1,0 +1,26 @@
+Tên thủ tục: Quyết định chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh (đối với dự án không thuộc diện cấp Giấy chứng nhận đăng ký đầu tư) - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+Tổ chức/ cá nhân nộp hồ sơ tại Bộ phận TN&TKQ hoặc Trung tâm Hành chính công. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng Quản lý Đầu tư xử lý. Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn  
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn   
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ đủ điều kiện để thẩm định, trình lãnh đạo phòng xét duyệt nếu thấy cần thiết cần có Văn bản xin ý kiến các sở, ngành chuyên môn. 
+- Nếu hồ sơ không đủ điều kiện thẩm định dự án, báo cáo lãnh đạo phòng và làm văn bản trả lời khách hàng rồi chuyển hồ sơ cho bộ phận một cửa trả lại cho khách hàng.
+B5	Trình LĐ Ban xem xét và phát hành văn bản
+- Đối với Thông báo chuyển B14 để thực hiện
+B6	Tổng hợp ý kiến các sở, ngành
+Lập dự thảo báo cáo thẩm định về dự án đầu tư hoặc Văn bản thông báo trình LĐ Phòng xem xét.
+B7	Chuyển xin ý kiến các Trưởng và các Phó Ban
+B8	Tổng hợp hoàn thiện báo cáo thẩm định và dự thảo Quyết định, trình LĐ phòng xem xét ký nháy
+B9	Trình Trưởng ban xem xét
+B10	Phát hành và gửi văn bản cho UBND tỉnh.
+Nộp hồ sơ tại Bộ phận TN&TKQ của UBND tỉnh tại Trung tâm PVHCC tỉnh
+Hồ sơ gồm: Báo cáo thẩm định kèm dự thảo Quyết định và hồ sơ kèm theo
+B11	UBND tỉnh xem xét quyết định
+B12	Phát hành văn bản và chuyển về Bộ phận TN&TKQ Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh tại Trung tâm PVHCC tỉnh
+B13	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn

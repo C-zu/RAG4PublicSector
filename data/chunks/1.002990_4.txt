@@ -1,0 +1,10 @@
+Tên thủ tục: Kiểm định phương tiện phòng cháy và chữa cháy (thực hiện tại cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị kiểm định phương tiện phòng cháy và chữa cháy của đơn vị trực tiếp sản xuất, lắp ráp, hoán cải trong nước hoặc nhập khẩu phương tiện phòng cháy và chữa cháy (Mẫu số PC26); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec40201d5a1cca'">PC26-kiemdinh,capCN.docx</a>)
+- 01 Bản chính - Giấy chứng nhận xuất xứ hoặc xuất xưởng của phương tiện;
+- 01 Bản chính - Giấy chứng nhận chất lượng của phương tiện (nếu có);
+- 01 Bản chính - Tài liệu kỹ thuật của phương tiện đề nghị kiểm định.

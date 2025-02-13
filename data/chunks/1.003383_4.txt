@@ -1,0 +1,10 @@
+Tên thủ tục: Lấy ý kiến báo cáo ĐTM không thuộc thẩm quyền thẩm định và phê duyệt của Bộ Nông nghiệp và PTNT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn lấy ý kiến về báo cáo ĐTM của Chủ dự án thực hiện theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư số 18/2016/TT-BNNPTNT ngày 24/6/2016 của Bộ Nông nghiệp và Phát triển nông thôn quy định một số nội dung về đánh giá môi trường chiến lược, đánh giá tác động môi trường do Bộ Nông nghiệp và Phát triển nông thôn quản lý
+- 01 Bản chính Bản báo cáo ĐTM của dự án. Hình thức trang bìa, trang phụ bìa; cấu trúc và yêu cầu về nội dung của báo cáo đánh giá tác động môi trường thực hiện theo mẫu quy định tại các Phụ lục 2.2 và 2.3 ban hành kèm theo Thông tư số 27/2015/TT-BTNMT
+- 01 Bản chính Bản báo cáo nghiên cứu khả thi hoặc báo cáo dự án đầu tư hoặc tài liệu tương đương khác
+- 01 Bản chính Công văn lấy ý kiến về báo cáo ĐTM của Chủ dự án thực hiện theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư số 18/2016/TT-BNNPTNT ngày 24/6/2016 của Bộ Nông nghiệp và Phát triển nông thôn quy định một số nội dung về đánh giá môi trường chiến lược, đánh giá tác động môi trường do Bộ Nông nghiệp và Phát triển nông thôn quản lý (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbd4a4931435420'">PHỤ LỤC III.doc</a>)

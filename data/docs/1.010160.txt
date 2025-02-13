@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010160
+Số quyết định:
+510/QĐ-UBND
+Tên thủ tục:
+Điều chỉnh quyết định chủ trương đầu tư của Ban Quản lý KKT tỉnh Hà Tĩnh Khu kinh tế tỉnh Hà Tĩnh - BQL
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư tại Việt nam
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ, dự thảo văn bản xin ý kiến các đơn vị liên quan
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa.
+B5	Gửi hồ sơ cho cơ quan nhà nước có thẩm quyền liên quan để lấy ý kiến về những nội dung điều chỉnh.  Đối với dự án đầu tư quy định tại Khoản 3 Điều 32 Nghị định 118/2015/NĐ-CP, Ban Quản lý KKT tỉnh Hà Tĩnh lấy ý kiến của Bộ Kế hoạch và Đầu tư và cơ quan nhà nước có thẩm quyền liên quan đến nội dung điều chỉnh.
+B6	Dự thảo báo cáo thẩm định và dự thảo Quyết định điều chỉnh chủ trương đầu tư sau khi có ý kiến đóng góp từ các đơn vị có liên quan.
+B7	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC. Nếu hồ sơ không đủ điều kiện chuyển qua B10
+B8	Phê duyệt kết quả giải quyết TTHC
+B9	Phát hành văn bản và Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn
+B10	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|25 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|25 Ngày làm việc|Phí : 0 Đồng||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.26.01
+- 01 Bản chính Báo cáo tình hình triển khai dự án đầu tư đến thời điểm điều chỉnh, theo mẫu BM.ĐT.26.02
+- 01 Bản chính Quyết định của nhà đầu tư về việc điều chỉnh dự án đầu tư (đối với các trường hợp điều chỉnh nội dung quy định tại các Khoản 4, 5, 6, 7, 8 và 10 Điều 39 Luật Đầu tư)
+- 01 Bản chính Giải trình hoặc cung cấp giấy tờ liên quan đến việc điều chỉnh những nội dung quy định tại các Điểm b, c, d, đ, e, g Khoản 1 Điều 33 Luật Đầu tư (nếu có).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Ban Quản lý Khu kinh tế tỉnh - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp tại Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh (số 02A, Đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh) hoặc Bộ phận tiếp nhận và trả kết quả Ban Quản lý KKT tỉnh Hà Tĩnh (1. Địa chỉ Trụ sở chính tại xã Kỳ Lợi, thị xã Kỳ Anh; 2. Khối phố 5, thị trấn Tây Sơn, huyện Hương Sơn) - Qua đường bưu điện đến Trung tâm Phục vụ Hành chính công tỉnh Hà Tĩnh hoặc Ban Quản lý KKT tỉnh Hà Tĩnh - Qua mạng điện tử (Địa chỉ http://dichvucong.hatinh.gov.vn)
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản điều chỉnh quyết định chủ trương đầu tư của Ban Quản lý KCN, KCX, KCNC, KKT hoặc Văn bản thông báo từ chối điều chỉnh quyết định chủ trương đầu tư (nêu rõ lý do)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|67/2014/QH13|Luật đầu tư|26-11-2014|Bộ Tài chính|
+|118/2015/NĐ-CP|Nghị định 118/2015/NĐ-CP|12-11-2015||
+|16/2015/TT-BKHĐT|Thông tư 16/2015/TT-BKHĐT|18-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Đáp ứng nội dung thẩm định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

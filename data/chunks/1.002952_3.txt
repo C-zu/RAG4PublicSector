@@ -1,0 +1,8 @@
+Tên thủ tục: Đánh giá duy trì đáp ứng thực hành tốt cơ sở bán lẻ thuốc
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 500.000 Đồng Phí thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc GPP đối với các cơ sở bán lẻ tại cơ sở các địa bàn thuộc vùng khó khăn, miền núi, hải đảo: 500.000 VNĐ/cơ sở  Phí : 1.000.000 Đồng Phí thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc GPP: 1.000.000 VNĐ/cơ sở|30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|30 Ngày|Phí : 1.000.000 Đồng Phí thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc GPP : 1.000.000 VND/cơ sở  Phí : 500.000 Đồng Phí thẩm định điều kiện, tiêu chuẩn bán lẻ thuốc GPP đối với các cơ sở bán lẻ tại cơ sở các địa bàn thuộc vùng khó khăn, miền núi, hải đảo: 500.000 VND/cơ sở|30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|

@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009023
+Số quyết định:
+1402/QĐ-UBND_ĐT
+Tên thủ tục:
+Đăng ký giám sát việc giám hộ
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hộ tịch
+Trình tự thực hiện:
+Bước 1: Cá nhân hoặc pháp nhân nộp hồ sơ đăng ký giám sát việc giám hộ tại UBND cấp xã  nơi cư trú của người được giám hộ.
+Bước 2: Bộ phận Tiếp nhận và trả kết quả tiếp nhận, kiểm tra hồ sơ. Nếu hồ sơ đầy đủ, hợp lệ thì tiếp nhận hồ sơ và viết giấy tiếp nhận; nếu hồ sơ chưa đầy đủ, chưa hoàn thiện thì hướng dẫn người nộp hồ sơ bổ sung, hoàn thiện theo quy định.
+Bước 3: Bộ phận Tiếp nhận và trả kết quả chuyển hồ sơ cho công chức Tư pháp - hộ tịch. Công chức Tư pháp - hộ tịch kiểm tra và báo cáo UBND cấp xã đăng ký giám sát việc giám hộ. Trường hợp không đủ điều kiện, UBND cấp xã có văn bản từ chối và nêu rõ lý do; chuyển kết quả cho Bộ phận Tiếp nhận và trả kết quả. 
+Bước 4: Bộ phận Tiếp nhận và trả kết quả trả kết quả cho cá nhân, pháp nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và trả kết quả hoặc gửi qua hệ thống bưu chính.|
+|Dịch vụ bưu chính|2 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và trả kết quả hoặc gửi qua hệ thống bưu chính.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai đăng ký giám sát việc giám hộ (theo mẫu đính kèm) ([Tờ khai đăng ký giám sát việc giám hộ theo mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe86795f83fa231'))
+- 01 Bản chính 2. Văn bản thỏa thuận cử hoặc chọn người giám sát việc giám hộ (cá nhân hoặc pháp nhân) của những người thân thích của người được giám hộ (có chứng thực chữ ký của những người thân thích của người được giám hộ và phải có ý kiến đồng ý của người được cử hoặc chọn giám sát việc giám hộ).
+- 01 Bản sao 3. Bản sao trích lục đăng ký giám hộ
+- 01 Bản sao 4. Trường hợp người giám sát việc giám hộ là cá nhân thì phải có: Bản sao Hộ chiếu hoặc bản sao chứng minh nhân dân hoặc bản sao chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc bản sao thẻ căn cước công dân còn thời hạn sử dụng (có chứng thực hoặc cung cấp bản chính để đối chiếu)
+- 02 Bản sao 5. Trường hợp người giám sát việc giám hộ là pháp nhân thì phải có: * Bản sao Giấy tờ chứng minh là pháp nhân (Quyết định thành lập pháp nhân hoặc giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đầu tư hoặc điều lệ của pháp nhân...); Bản sao Quyết định bổ nhiệm hoặc bản sao Quyết định cử người đại diện theo pháp luật của pháp nhân (có chứng thực hoặc cung cấp bản chính để đối chiếu)
+- 01 Bản sao 6. Trường hợp người giám sát việc giám hộ là pháp nhân thì phải có: * Giấy tờ tùy thân của người đại diện theo pháp luật của pháp nhân: Bản sao Hộ chiếu hoặc bản sao chứng minh nhân dân hoặc bản sao chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc bản sao thẻ căn cước công dân còn giá trị sử dụng (có chứng thực hoặc cung cấp bản chính để đối chiếu)
+- 01 Bản chính 7. Người yêu cầu thực hiện thủ tục hành chính phải xuất trình Giấy tờ: Hộ chiếu hoặc chứng minh nhân dân hoặc thẻ căn cước công dân hoặc chứng minh quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng hoặc thẻ căn cước công dân hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Uỷ ban Nhân dân cấp xã, phường, thị trấn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc UBND cấp xã.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Trích lục đăng ký giám sát việc giám hộ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|91/2015/QH13|Bộ luật 91/2015/QH13|24-11-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Người giám sát việc giám hộ phải đảm bảo điều kiện theo quy định tại Khoản 3, Điều 51 Bộ luật Dân sự 2015
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đăng ký cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động
+- 01 Bản sao Bản sao có chứng thực (hoặc bản sao kèm bản chính để đối chiếu) một trong các loại giấy tờ sau: Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư, Quyết định thành lập (kèm theo bản sao Điều lệ hoạt động đối với các tổ chức hội, đoàn thể), Giấy phép hoạt động báo chí có chức năng, nhiệm vụ, ngành nghề cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động (doanh nghiệp gửi kèm bản in đã đóng dấu xác nhận của doanh nghiệp các thông tin về ngành nghề của doanh nghiệp được thông báo trên Cổng thông tin đăng ký doanh nghiệp quốc gia)

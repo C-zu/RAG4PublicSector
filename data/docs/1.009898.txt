@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009898
+Số quyết định:
+2974/QĐ-BCA-C07
+Tên thủ tục:
+Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thuộc loại 1, loại 2, loại 3, loại 4 và loại 9 bằng phương tiện giao thông cơ giới đường bộ, trên đường thủy nội địa (trừ vật liệu nổ công nghiệp) (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phòng cháy, chữa cháy
+Trình tự thực hiện:
+- Bước 1: Cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+- Bước 2: Cá nhân, tổ chức nộp hồ sơ cho Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh. Người đến nộp hồ sơ phải có giấy giới thiệu hoặc giấy ủy quyền, xuất trình thẻ Căn cước công dân hoặc Chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng. 
+- Bước 3: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản sao có công chứng, chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu).
++ Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy (Mẫu số PC03) giao cho người nộp hồ sơ 01 bản và lưu 01 bản; 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ (Mẫu số PC04) giao cho người nộp hồ sơ 01 bản và lưu 01 bản.
+Bước 4: Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh tổ chức kiểm tra an toàn về phòng cháy, chữa cháy đối với phương tiện vận chuyển hàng hóa nguy hiểm về cháy, nổ.
+Bước 5: Căn cứ theo ngày hẹn trên phiếu Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 Ngày làm việc||- Nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh hoặc Bộ phận Một cửa của Công an tỉnh hoặc Trung tâm phục vụ hành chính công của tỉnh (trường hợp đã đưa thủ tục ra tiếp nhận tại Trung tâm phục vụ hành chính công); - Trường hợp cấp lại Giấy phép khi có sự thay đổi liên quan đến nội dung của Giấy phép hoặc giấy phép bị mất, bị hỏng: không quá 03 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Trực tiếp|05 Ngày làm việc||- Trường hợp Giấy phép bị thu hồi hoặc bị tước quyền sử dụng: không quá 05 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|03 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có); - Trường hợp cấp lại Giấy phép khi có sự thay đổi liên quan đến nội dung của Giấy phép hoặc giấy phép bị mất, bị hỏng: không quá 03 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|05 Ngày làm việc||- Trực tuyến tại Cổng dịch vụ công (nếu có); - Trường hợp Giấy phép bị thu hồi hoặc bị tước quyền sử dụng: không quá 05 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|03 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. - Trường hợp cấp lại Giấy phép khi có sự thay đổi liên quan đến nội dung của Giấy phép hoặc giấy phép bị mất, bị hỏng: không quá 03 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Thông qua dịch vụ bưu chính công ích, qua dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật. - Trường hợp Giấy phép bị thu hồi hoặc bị tước quyền sử dụng: không quá 05 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ.
+- 01 Bản chính - Hồ sơ chứng minh sự thay đổi thông tin (trong trường hợp có thay đổi liên quan đến nội dung) hoặc giấy tờ, tài liệu chứng minh việc khắc phục vi phạm (trường hợp Giấy phép bị thu hồi hoặc bị tước quyền sử dụng).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Phòng cảnh sát phòng cháy, chữa cháy Công an tỉnh, thành phố trực thuộc Trung ương
+Cơ quan có thẩm quyền:
+Phòng cảnh sát phòng cháy, chữa cháy Công an tỉnh, thành phố trực thuộc Trung ương
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ, Biểu trưng hàng hoá nguy hiểm về cháy, nổ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|136/2020/NĐ-CP|Nghị định 136/2020/NĐ-CP|24-11-2020||
+|40/2013/QH13|Luật 40/2013/QH13|22-11-2013||
+|08/2001/L-CTN|Lệnh 08/2001/L-CTN|12-07-2001||
+|42/2020/NĐ-CP|Nghị định 42/2020/NĐ-CP|08-04-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Phương tiện giao thông cơ giới phải bảo đảm các điều kiện an toàn về phòng cháy, chữa cháy khi vận chuyển hàng hóa nguy hiểm về cháy, nổ theo quy định tại khoản 3 Điều 8 Nghị định số 136/2020/NĐ-CP; người điều khiển phương tiện, người làm việc trên phương tiện phải bảo đảm điều kiện quy định tại khoản 4 Điều 8 Nghị định số 136/2020/NĐ-CP hoặc đã khắc phục vi phạm (trường hợp Giấy phép bị thu hồi hoặc bị tước quyền sử dụng).
+Từ khóa:
+Cấp lại, Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ thuộc loại 1, loại 2, loại 3, loại 4 và loại 9 bằng phương tiện giao thông cơ giới đường bộ, trên đường thủy nội địa (trừ vật liệu nổ công nghiệp)
+Mô tả:
+Không có thông tin

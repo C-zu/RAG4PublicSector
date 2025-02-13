@@ -1,0 +1,16 @@
+Tên thủ tục: Đóng tạm thời cảng hàng không, sân bay trong trường hợp cải tạo, mở rộng, sửa chữa kết cấu hạ tầng
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002890
+Số quyết định:
+229/QĐ-BGTVT
+Tên thủ tục:
+Đóng tạm thời cảng hàng không, sân bay trong trường hợp cải tạo, mở rộng, sửa chữa kết cấu hạ tầng
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng không

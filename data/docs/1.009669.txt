@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009669
+Số quyết định:
+706/QĐ-BTNMT
+Tên thủ tục:
+Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình chưa vận hành cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước
+Trình tự thực hiện:
+1. Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ: 
+Trong thời hạn 05 ngày làm việc, kể từ ngày công trình bắt đầu vận hành, chủ giấy phép phải nộp hồ sơ tính tiền cấp quyền khai thác tài nguyên nước.
+Chủ giấy phép nộp 02 bộ hồ sơ tính tiền cấp quyền khai thác tài nguyên nước tới Trung tâm Phục vụ hành chính công cấp tỉnh hoặc Sở Tài nguyên và Môi trường tỉnh, thành phố trực thuộc trung ương qua dịch vụ bưu chính, nộp qua dịch vụ công trực tuyến hoặc nộp trực tiếp đối với các trường hợp thuộc thẩm quyền cấp giấy phép của Ủy ban nhân dân cấp tỉnh.
+ - Bước 2: Kiểm tra, thẩm định hồ sơ: 
++ Sở Tài nguyên và Môi trường có trách nhiệm xem xét, kiểm tra hồ sơ.
+Trường hợp hồ sơ không hợp lệ, trong thời hạn 05 ngày làm việc, Sở Tài nguyên và Môi trường trả lại hồ sơ kèm theo văn bản giải thích rõ lý do.
++ Trong thời hạn không quá 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm tổ chức thẩm định hồ sơ tính tiền cấp quyền, nếu cần thiết thì thành lập hội đồng thẩm định hồ sơ tính tiền cấp quyền khai thác tài nguyên nước. Kinh phí chi cho hoạt động thẩm định được lấy từ nguồn thu phí thẩm định hồ sơ đề nghị cấp giấy phép khai thác sử dụng tài nguyên nước. 
+Trường hợp hồ sơ không đủ điều kiện thì Sở Tài nguyên và Môi trường trả lại hồ sơ cho chủ giấy phép và thông báo rõ lý do; trường hợp phải bổ sung, chỉnh sửa để hoàn thiện thì Sở Tài nguyên và Môi trường gửi văn bản thông báo cho chủ giấy phép nêu rõ những nội dung cần bổ sung, hoàn thiện hồ sơ, thời gian bổ sung, hoàn thiện không tính vào thời gian thẩm định hồ sơ.
+Trường hợp công trình đã được phê duyệt tiền cấp quyền khai thác tài nguyên nước mà chỉ có sự thay đổi tên chủ giấy phép (cấp lại) và không có sự thay đổi các căn cứ tính tiền cấp quyền theo Quyết định phê duyệt tiền cấp quyền đã phê duyệt trước đó thì không phải điều chỉnh lại Quyết định phê duyệt tiền cấp quyền. Trong nội dung giấy phép cấp lại phải quy định rõ việc chủ giấy phép mới phải thực hiện các nghĩa vụ tài chính, trong đó có tiền cấp quyền khai thác tài nguyên nước đã được phê duyệt tại Quyết định phê duyệt tiền cấp quyền trước đó.
+- Bước 3: Phê duyệt tiền cấp quyền khai thác tài nguyên nước: 
+Trường hợp hồ sơ đủ điều kiện, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cấp tỉnh phê duyệt tiền cấp quyền khai thác tài nguyên nước.
+	- Bước 4: Trả kết quả: 
+Sau khi Ủy ban nhân dân cấp tỉnh ban hành quyết định phê duyệt tiền cấp quyền khai thác tài nguyên nước, Sở Tài nguyên và Môi trường gửi thông báo cho chủ giấy phép và Cục thuế địa phương nơi có công trình khai thác kèm theo quyết định phê duyệt tiền cấp quyền khai thác tài nguyên nước.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|||
+|Trực tuyến|20 Ngày làm việc|||
+|Dịch vụ bưu chính|20 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Bản kê khai tính tiền cấp quyền khai thác tài nguyên nước (Phụ lục III kèm theo Nghị định số 41/2021/NĐ-CP) với các nội dung chủ yếu sau: Chất lượng nguồn nước; loại nguồn nước, điều kiện khai thác, quy mô khai thác, thời gian khai thác, thời gian tính tiền, sản lượng khai thác cho từng mục đích sử dụng, giá tính tiền, mức thu tiền cho từng mục đích sử dụng; tính tiền cho từng mục đích sử dụng, tổng tiền cấp quyền khai thác, phương án nộp tiền cấp quyền khai thác và kèm theo các tài liệu để chứng minh. ([Phụ lục III.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecb4bee7486150'))
+- 02 Bản sao Giấy phép khai thác, sử dụng tài nguyên nước
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công cấp tỉnh hoặc Sở Tài nguyên và Môi trường tỉnh, thành phố trực thuộc trung ương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt tiền cấp quyền khai thác tài nguyên nước.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|15/2012/L-CTN|Lệnh 15/2012/L-CTN|02-07-2012||
+|201/2013/NĐ-CP|Nghị định 201/2013/NĐ-CP|27-11-2013||
+|82/2017/NĐ-CP|Nghị định 82/2017/NĐ-CP|17-07-2017||
+|41/2021/NĐ-CP|Nghị định 41/2021/NĐ-CP|30-03-2021||
+|85/2019/TT-BTC|Thông tư 85/2019/TT-BTC|29-11-2019||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

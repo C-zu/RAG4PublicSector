@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định thiết kế, dự toán xây dựng công trình
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc|Phí : Theo dự án Đồng Số phí thẩm định thiết kế bản vẽ thi công = chi phí xây dựng x mức thu. (theo Thông tư số 210/2016/TT-BTC ngày 11/10/2016 của Bộ Tài chính).||
+|Dịch vụ bưu chính|20 Ngày làm việc|Phí : Theo dự án Đồng Số phí thẩm định thiết kế bản vẽ thi công = chi phí xây dựng x mức thu. (theo Thông tư số 210/2016/TT-BTC ngày 11/10/2016 của Bộ Tài chính).||

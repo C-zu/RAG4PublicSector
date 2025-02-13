@@ -1,0 +1,14 @@
+Tên thủ tục: Cấp, cấp lại giấy xác nhận đăng ký nuôi trồng thủy sản lồng bè, đối tượng thủy sản nuôi chủ lực
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+6.3.1.1. Hồ sơ đăng ký bao gồm:
+- 01 Bản chính a) Đơn đăng ký theo Mẫu số 14 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc35f74add3bcec'">Mẫu số 14.docx</a>)
+- 01 Bản chính b) Sơ đồ mặt bằng vị trí ao/lồng nuôi có xác nhận của chủ cơ sở.
+
+
+6.3.1.2. Hồ sơ đăng ký lại bao gồm:
+- 01 Bản chính a) Đơn đăng ký lại theo Mẫu số 27.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fddd94ff9a147b4'">Mẫu số 27.docx</a>)
+- 01 Bản chính b) Bản chính giấy xác nhận đăng ký đã được cấp (trừ trường hợp bị mất);
+- 01 Bản sao c) Sơ đồ mặt bằng vị trí ao/lồng nuôi có xác nhận của chủ cơ sở (đối với trường hợp thay đổi quy mô sản xuất); trường hợp thay đổi chủ cơ sở phải có giấy tờ chứng minh sự thay đổi.

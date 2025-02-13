@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục điều chỉnh quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4a211b4092f50'">Mau 6 - TT 24 ĐỀ NGHỊ CHỈ ĐỊNH THỰC HIỆN HOẠT ĐỘNG.doc</a>)
+- 01 Bản chính Báo cáo về cơ sở vật chất, kỹ thuật, nhân lực (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec23fd429f081e'">02-PL1 Bao cao co so vat chat nhan luc.doc</a>)
+- 01 Bản chính Báo cáo hoạt động kiểm định, hiệu chuẩn, thử nghiệm đã thực hiện năm gần nhất. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feba97a2f8ca1d5'">Mau 4 - ND 105 BÁO CÁO HOẠT ĐỘNG KIỂM ĐỊNH, HIỆU CHUẨN, THỬ NGHIỆM.doc</a>)
+- 01 Bản chính Văn bản của người đứng đầu tổ chức đề nghị quy định về nội dung, hình thức, việc chế tạo, quản lý và sử dụng chứng chỉ chứng chỉ kiểm định, hiệu chuẩn, thử nghiệm.
+- 01 Bản chính Hồ sơ đề nghị chứng nhận chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2 (trường hợp đề nghị chỉ định kiểm định phương tiện đo nhóm 2). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe521447835c070'">Mẫu11.ĐNCNCĐL.doc</a>)
+- 01 Bản chính Hồ sơ đề nghị chứng nhận, cấp thẻ kiểm định viên đo lường (trường hợp đề nghị chỉ định kiểm định phương tiện đo nhóm 2). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9293758428e7a0'">Mẫu 12. ĐNCNKĐVĐL.docx</a>)
+- 01 Bản chính Danh mục hồ sơ của hệ thống quản lý đã thiết lập và duy trì đối với hoạt động kiểm định, hiệu chuẩn, thử nghiệm đề nghị chỉ định.

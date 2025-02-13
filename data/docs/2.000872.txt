@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000872
+Số quyết định:
+1291/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng có thời hạn
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+Chủ sở hữu xe máy chuyên dùng được tạm nhập, tái xuất thuộc các chương trình dự án của nước ngoài đầu tư tại Việt Nam, các dự án ODA đầu tư tại Việt Nam lập hồ sơ theo quy định và nộp tại Sở Giao thông vận tải nơi chủ sở hữu có trụ sở chính hoặc nơi đăng ký thường trú.
+Khi làm thủ tục đăng ký trực tiếp với cơ quan cấp đăng ký, chủ sở hữu xe máy chuyên dùng phải xuất trình chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu còn thời hạn để kiểm tra; trường hợp không chính chủ thì người được ủy quyền phải có giấy ủy quyền của chủ sở hữu theo quy định của pháp luật; người đại diện cho tổ chức phải có giấy giới thiệu của tổ chức đó.
+b) Giải quyết TTHC
+Sở Giao thông vận tải tiếp nhận, kiểm tra nội dung hồ sơ và thông báo cho chủ sở hữu trong thời gian tối đa 01 ngày làm việc kể từ ngày nhận được hồ sơ:
++ Trường hợp hồ sơ đăng ký chưa đầy đủ theo quy định thì Sở Giao thông vận tải hướng dẫn chủ sở hữu bổ sung, hoàn thiện lại;
++ Trường hợp hồ sơ đăng ký đầy đủ theo quy định thì Sở Giao thông vận tải có Giấy hẹn kiểm tra. Thời gian kiểm tra xe máy chuyên dùng không quá 05 ngày kể từ ngày viết giấy hẹn.
+
+Đối với trường hợp xe máy chuyên dùng đang hoạt động, tập kết ngoài địa phương cấp đăng ký thì Sở Giao thông vận tải nhận hồ sơ có văn bản đề nghị Sở Giao thông vận tải nơi có xe máy chuyên dùng đang hoạt động, tập kết kiểm tra xe máy chuyên dùng, thời hạn kiểm tra không quá 05 ngày kể từ ngày nhận được văn bản đề nghị.
+Sở Giao thông vận tải tổ chức kiểm tra xe máy chuyên dùng theo thời gian và địa điểm ghi trong giấy hẹn, việc kiểm tra xe máy chuyên dùng phải lập thành Biên bản kiểm tra xe máy chuyên.
+Trong thời hạn 03 ngày làm việc kể từ ngày kết thúc kiểm tra hoặc nhận được kết quả kiểm tra đối với trường hợp xe máy chuyên dùng đang hoạt động, tập kết ngoài địa phương cấp đăng ký: trường hợp kết quả kiểm tra các hạng mục trong Biên bản đạt yêu cầu, Sở Giao thông vận tải cấp Giấy chứng nhận đăng ký, biển số cho chủ sở hữu xe máy chuyên dùng và vào sổ quản lý đăng ký xe máy chuyên dùng; trường hợp kết quả kiểm tra không đạt yêu cầu thì thông báo cho chủ phương tiện và nêu rõ lý do.
+Hiệu lực của Giấy chứng nhận đăng ký có thời hạn xe máy chuyên dùng quy định tại khoản 2 Điều 5 Thông tư này được tính từ ngày cấp đăng ký đến hết thời hạn của Giấy phép đầu tư hoặc Giấy chứng nhận đăng ký đầu tư.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 200000 Đồng Lệ phí cấp mới giấy đăng ký kèm theo biển số 200.000 đồng/lần/phương tiện|03 ngày làm việc kể từ ngày kết thúc kiểm tra hoặc nhận được kết quả kiểm tra đối với trường hợp xe máy chuyên dùng đang hoạt động, tập kết ngoài địa phương cấp đăng ký|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đăng ký xe máy chuyên dùng theo mẫu; ([01.1Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd035c96f5884ec'))
+- 01 Bản sao Giấy phép đầu tư hoặc Giấy chứng nhận đăng ký đầu tư (bản sao và xuất trình bản chính để đối chiếu hoặc bản sao có chứng thực);
+- 01 Bản chính Bản chính giấy tờ xác định quyền sở hữu xe máy chuyên dùng (là một trong những giấy tờ sau): + Hợp đồng mua bán, cho tặng hoặc văn bản thừa kế theo quy định của pháp luật; + Hóa đơn bán hàng theo quy định của Bộ Tài chính; + Văn bản của cấp có thẩm quyền đồng ý thanh lý xe theo quy định của pháp luật; + Văn bản của bên cho thuê tài chính đồng ý cho bên thuê xe máy chuyên dùng được đăng ký quyền sở hữu theo quy định của pháp luật; + Quyết định tiếp nhận viện trợ của cơ quan có thẩm quyền theo quy định của pháp luật; + Quyết định xuất, bán hàng dự trữ quốc gia của cơ quan có thẩm quyền theo quy định của pháp luật.
+- 01 Bản chính Bản chính giấy tờ xác định nguồn gốc xe máy chuyên dùng (là một trong những giấy tờ sau): + Phiếu kiểm tra chất lượng xuất xưởng theo quy định của Bộ trưởng Bộ Giao thông vận tải đối với xe máy chuyên dùng sản xuất, lắp ráp trong nước. + Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng nhập khẩu hoặc thông báo miễn kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng nhập khẩu theo quy định của Bộ trưởng Bộ Giao thông vận tải đối với xe máy chuyên dùng nhập khẩu. + Giấy chứng nhận chất lượng xe cải tạo theo quy định của Bộ trưởng Bộ Giao thông vận tải đối với xe máy chuyên dùng đã qua cải tạo kèm theo Phiếu kiểm tra chất lượng xuất xưởng hoặc Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng nhập khẩu hoặc thông báo miễn kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe máy chuyên dùng nhập khẩu. Trường hợp thay thế tổng thành máy, khung xe phải có giấy tờ mua bán tổng thành máy hoặc khung xe thay thế theo quy định. Nếu tổng thành máy, khung xe thay thế được sử dụng từ các xe máy chuyên dùng đã được cấp đăng ký, phải có tờ khai thu hồi đăng ký, biển số theo mẫu số 1 của Phụ lục 2 ban hành kèm theo Thông tư 22/2019/TT-BGTVT. + Đối với xe máy chuyên dùng bị xử lý tịch thu sung quỹ nhà nước: * Quyết định tịch thu sung quỹ nhà nước của cấp có thẩm quyền theo quy định của pháp luật; * Hóa đơn bán tài sản tịch thu, sung quỹ nhà nước do Bộ Tài chính phát hành (trường hợp tài sản xử lý theo hình thức thanh lý); biên bản bàn giao tiếp nhận tài sản (trường hợp xử lý tài sản theo hình thức điều chuyển) theo quy định của pháp luật. + Đối với xe máy chuyên dùng có quyết định xử lý vật chứng * Quyết định xử lý vật chứng của Cơ quan điều tra, Viện kiểm sát nhân dân hoặc Tòa án nhân dân theo quy định của pháp luật; * Phiếu thu tiền hoặc giấy biên nhận tiền hoặc biên bản bàn giao theo quy định của pháp luật (nếu là người bị hại).
+- 01 Bản chính Trường hợp nhiều xe chung một giấy tờ xác định quyền sở hữu xe máy chuyên dùng, giấy tờ xác định nguồn gốc xe máy chuyên dùng (trường hợp xe máy chuyên dùng bị xử lý tịch thu sung quỹ nhà nước hoặc xe máy chuyên dùng có quyết định xử lý vật chứng) thi tổ chức, cá nhân khi đăng ký phải nộp bản chính và bản sao cho mỗi xe tại Sở Giao thông vận tải nơi đăng ký (trừ trường hợp xe máy chuyên dùng chưa đăng ký, khi di chuyển trên đường bộ phải được đăng ký tạm thời). Sở Giao thông vận tải nơi đăng ký có trách nhiệm xác nhận bằng văn bản với tổ chức, cá nhân đăng ký về việc đang lưu giữ bản chính.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Sở Giao thông vận tải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký có thời hạn xe máy chuyên dùng và biển số
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|22/2019/TT-BGTVT|Thông tư quy định về đăng ký xe máy chuyên dùng|12-06-2019|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

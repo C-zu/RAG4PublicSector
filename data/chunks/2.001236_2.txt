@@ -1,0 +1,14 @@
+Tên thủ tục: Công nhận tổ chức đủ điều kiện thực hiện khảo nghiệm thuốc bảo vệ thực vật
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Trình tự thực hiện: 
+- Bước 1: Tổ chức nộp hồ sơ đến Cục Bảo vệ thực vật.
+- Bước 2: Tiếp nhận, kiểm tra tính hợp lệ của hồ sơ:
++ Ngay sau khi nhận hồ sơ đối với trường hợp nộp hồ sơ trực tiếp;
++ Trong 02 ngày làm việc đối với hồ sơ gửi qua đường bưu điện.
+ Hồ sơ không hợp lệ thì trả lại và yêu cầu bổ sung, hoàn thiện hồ sơ.
+- Bước 3: Thẩm định, đánh giá hồ sơ: 
+Cục Bảo vệ thực vật thẩm định hồ sơ trong thời hạn 15 ngày làm việc. 
+- Bước 4: Ban hành Quyết định công nhận tổ chức đủ điều kiện thực hiện khảo nghiệm thuốc bảo vệ thực vật: Trong vòng 03 ngày làm việc.
+Trường hợp không đủ điều kiện, Cục Bảo vệ thực vật thông báo cho tổ chức bằng văn bản và nêu rõ lý do.

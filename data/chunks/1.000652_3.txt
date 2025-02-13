@@ -1,0 +1,9 @@
+Tên thủ tục: Cung cấp thông tin, dữ liệu ảnh viễn thám
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : Mức phí khai thác và sử dụng dữ liệu viễn thám quốc gia được quy định cụ thể tại Biểu mức thu phí khai thác và sử dụng dữ liệu viễn thám quốc gia Ban hành kèm thông tư số 39/2023/TT-BTC ngày 09 tháng 6 năm 2023 của Bộ trưởng Bộ Tài chính Quy định mức thu, chế độ thu, nộp, miễn, quản lý và sử dụng phí khai thác và sử dụng dữ liệu viễn thám quốc gia.|- 05 ngày làm việc, kể từ ngày nhận được Phiếu yêu cầu với đầy đủ thông tin theo quy định tại Phiếu yêu cầu (trừ trường hợp yêu cầu bổ sung thông tin trên Phiếu yêu cầu).|
+|Trực tuyến|5 Ngày làm việc|Phí : Mức phí khai thác và sử dụng dữ liệu viễn thám quốc gia được quy định cụ thể tại Biểu mức thu phí khai thác và sử dụng dữ liệu viễn thám quốc gia Ban hành kèm thông tư số 39/2023/TT-BTC ngày 09 tháng 6 năm 2023 của Bộ trưởng Bộ Tài chính Quy định mức thu, chế độ thu, nộp, miễn, quản lý và sử dụng phí khai thác và sử dụng dữ liệu viễn thám quốc gia.|- 05 ngày làm việc, kể từ ngày nhận được Phiếu yêu cầu với đầy đủ thông tin theo quy định tại Phiếu yêu cầu (trừ trường hợp yêu cầu bổ sung thông tin trên Phiếu yêu cầu).|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : Mức phí khai thác và sử dụng dữ liệu viễn thám quốc gia được quy định cụ thể tại Biểu mức thu phí khai thác và sử dụng dữ liệu viễn thám quốc gia Ban hành kèm thông tư số 39/2023/TT-BTC ngày 09 tháng 6 năm 2023 của Bộ trưởng Bộ Tài chính Quy định mức thu, chế độ thu, nộp, miễn, quản lý và sử dụng phí khai thác và sử dụng dữ liệu viễn thám quốc gia.|- 05 ngày làm việc, kể từ ngày nhận được Phiếu yêu cầu với đầy đủ thông tin theo quy định tại Phiếu yêu cầu (trừ trường hợp yêu cầu bổ sung thông tin trên Phiếu yêu cầu).|

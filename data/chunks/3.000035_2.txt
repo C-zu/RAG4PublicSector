@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Đối với cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số
++ Các công ty xổ số đủ điều kiện, tiêu chuẩn gửi hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh xổ số tới Bộ Tài chính.
++ Trong vòng 15 ngày làm việc kể từ ngày Bộ Tài chính nhận được đủ hồ sơ hợp lệ theo quy định, Bộ Tài chính cấp giấy chứng nhận đủ điều kiện kinh doanh xổ số cho Công ty, trường hợp từ chối Bộ Tài chính có văn bản thông báo rõ lý do từ chối.
+Đối với cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số
++ Công ty có đề nghị điều chỉnh hoặc cấp lại Giấy chứng nhận gửi hồ sơ đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh xổ số tới Bộ Tài chính.
++ Trong vòng 10 ngày làm việc kể từ ngày Bộ Tài chính nhận được đủ hồ sơ hợp lệ theo quy định, Bộ Tài chính cấp giấy chứng nhận đủ điều kiện kinh doanh xổ số cho Công ty, trường hợp từ chối Bộ Tài chính có văn bản thông báo rõ lý do từ chối.

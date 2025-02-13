@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009182
+Số quyết định:
+3710/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định Hồ sơ thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc Hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) đối với công trình cấp III, IV do quận, huyện quản lý.
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+Bước 1: Tổ chức, đơn vị hoàn thiện hồ sơ theo hướng dẫn.
+Bước 2: Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp huyện kiểm tra tính hợp lệ và đầy đủ của các giấy tờ có trong hồ sơ, yêu cầu bổ sung, hoàn thiện (nếu hồ sơ chưa đầy đủ, chưa hợp lệ); sau đó chuyển Phòng Quản lý đô thị hoặc phòng Kinh tế - Hạ tầng để phân công công chức chuyên môn xử lý.
+Bước 3: Công chức chuyên môn thụ lý hồ sơ:
+- Nếu hồ sơ không đạt theo yêu cầu thì hướng dẫn bổ sung bằng văn bản chuyển Bộ phận Tiếp nhận và trả kết quả để trả cho tổ chức, đơn vị trong thời gian không quá 03 ngày làm việc.
+- Nếu hồ sơ hợp lệ, tiến hành Thẩm định thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) công trình theo đúng quy định.
+- Dự thảo báo cáo kết quả thẩm định thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) công trình trình lãnh đạo phòng ký nháy, lập phiếu trình đề nghị phê duyệt Thẩm định trình lãnh đạo phòng ký chuyển lãnh đạo UBND cấp huyện xem xét ký duyệt. Riêng UBND quận Thanh Khê là Trưởng phòng Quản lý ký phê duyệt Báo cáo thẩm định.
+Bước 4: Lãnh đạo cấp huyện xem xét phê duyệt Báo cáo thẩm định thiết kế kỹ thuật và dự toán (công trình thiết kế ba bước) hoặc hồ sơ thiết kế bản vẽ thi công và dự toán (công trình thiết kế hai bước) công trình.
+Bước 5: Công chức chuyên môn chuyển kết quả giải quyết cho Bộ phận Tiếp nhận và trả kết quả để trả hồ sơ cho tổ chức.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Đối với công trình do Phòng Quản lý đô thị hoặc Phòng Kinh tế - Hạ tầng tự thẩm định: + Công trình cấp III: 30 ngày làm việc. +Các công trình còn lại: 20 ngày làm việc - Đối với công trình thuê đơn vị tư vấn thẩm tra: + Công trình cấp III: 15 ngày làm việc + Các công trình còn lại: 10 ngày làm việc|Phí : Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ trưởng Bộ tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định thiết kế kỹ thuật, phí thẩm định dự toán xây dựng|Cá nhân, tổ chức nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị thẩm định thiết kế và dự toán xây dựng công trình; ([To trinh tham dinh thiet ke va du toan dau tu xay dung.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc685cdbc490304'))
+- 01 Bản chính 2. Văn bản phê duyệt chủ trương và nguồn vốn thực hiện công trình kèm hồ sơ thiết kế cơ sở được phê duyệt;
+- 01 Bản chính 3. Quyết định phê duyệt, lựa chọn đơn vị tư vấn lập hồ sơ thiết kế kỹ thuật - dự toán, khảo sát địa chất, kiểm định chất lượng công trình (đối với các công trình có yêu cầu theo quy định);
+- 01 Bản chính 4. Hồ sơ thiết kế kỹ thuật và dự toán hoặc hồ sơ thiết kế bản vẽ thi công và dự toán công trình;
+- 01 Bản sao 5. Bản sao hồ sơ năng lực của tổ chức, cá nhân tham gia lập thiết kế, dự toán. Bản sao hồ sơ thiết kế cơ sở (nếu có);
+- 01 Bản sao 6. Bản sao Quyết định phê duyệt quy hoạch chi tiết đối với công trình có phê duyệt quy hoạch;
+- 01 Bản chính 7. Giấy Chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy, kèm theo hồ sơ đã được thẩm duyệt về phòng cháy và chữa cháy, báo cáo đánh giá tác động môi trường của cơ quan có thẩm quyền (đối với các công trình có yêu cầu theo quy định);
+- 01 Bản chính 8. Hồ sơ khảo sát địa chất, kiểm định chất lượng công trình do đơn vị tư vấn lập (đối với các công trình có yêu cầu theo quy định);
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Uỷ ban nhân dân huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp quận, huyện
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Kết quả thẩm định thiết kế kỹ thuật - dự toán, Kết quả thẩm định bản vẽ thi công - dự toán xây dựng công trình, kèm hồ sơ thiết kế - dự toán đã được thẩm định.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2016/TT-BXD|Quy định chi tiết và hướng dẫn một số nội dung về thẩm định, phê duyệt dự án và thiết kế, dự toán xây dựng công trình|30-06-2016||
+|15/2013/NĐ-CP|Nghị định 15/2013/NĐ-CP|06-02-2013|Chính phủ|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|59/2015/NĐ-CP|Nghị định 59/2015/NĐ-CP|18-06-2015|Chính phủ|
+|210/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định thiết kế kỹ thuật, phí thẩm định dự toán xây dựng|10-11-2016||
+|46/2015/NĐ-CP|nghị định|12-05-2015|Chính phủ|
+|68/2019/NĐ-CP|Nghị định|14-08-2019|Chính phủ|
+|15/2016/QĐ-UBND|Ban hành Quy định một số nội dung về mua sắm, quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|20-05-2016|UBND Thành phố Đà Nẵng|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

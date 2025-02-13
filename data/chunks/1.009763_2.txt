@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp nhà đầu tư nhận chuyển nhượng dự án đầu tư là tài sản bảo đảm đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bước 1: Bên nhận bảo đảm hoặc nhà đầu tư nhận chuyển nhượng dự án đầu tư nộp hồ sơ theo quy định tại khoản 3 Điều 49 Nghị định số 31/2021/NĐ-CP cho Ban Quản lý.
+- Bước 2: Ban Quản lý gửi hồ sơ cho cơ quan nhà nước có thẩm quyền theo quy định tại điểm b khoản 4 Điều 33 của Nghị định này để lấy ý kiến về những nội dung điều chỉnh dự án đầu tư.
+- Bước 3: Các cơ quan được lấy ý kiến có ý kiến về nội dung điều chỉnh dự án thuộc phạm vi quản lý nhà nước của cơ quan đó.
+- Bước 4: Ban Quản lý quyết định cháp thuận chủ trương điều chỉnh hoặc lập báo cáo thẩm định các nội dung điều chỉnh dự án đầu tư để trình Ủy ban nhân dân cấp tỉnh;
+- Bước 5: Ủy ban nhân dân cấp tỉnh quyết định chấp thuận điều chỉnh chủ trương đầu tư. 
+* Đối với dự án đầu tư đã được chấp thuận chủ trương đầu tư và đã đưa dự án vào khai thác, vận hành thì không phải thực hiện thủ tục chấp thuận điều chỉnh chủ trương đầu tư khi chuyển nhượng dự án đầu tư.
+* Đối với dự án đầu tư thực hiện trước ngày Luật Đầu tư có hiệu lực thi hành, thủ tục điều chỉnh dự án thực hiện theo quy định tại Điều 117 của Nghị định số 31/2021/NĐ-CP.

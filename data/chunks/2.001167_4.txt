@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại giấy phép thiết lập mạng xã hội trên mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1
+- 01 Bản chính Văn bản đề nghị cấp lại giấy phép (nêu rõ số giấy phép, ngày cấp của giấy phép đã cấp và lý do đề nghị cấp lại giấy phép)
+
+
+2
+- 01 Bản chính Trường hợp giấy phép bị hư hỏng thì gửi kèm theo bản giấy phép bị hư hỏng

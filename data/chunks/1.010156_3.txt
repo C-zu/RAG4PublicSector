@@ -1,0 +1,9 @@
+Tên thủ tục: Đổi Giấy chứng nhận đăng ký đầu tư cho dự án hoạt động theo Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc giấy tờ khác có giá trị pháp lý tương đương - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng||
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng||
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng||

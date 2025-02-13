@@ -1,0 +1,44 @@
+Tên thủ tục: Cấp Giấy phép kinh doanh vận tải bằng xe ô tô
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+* Điều kiện kinh doanh vận tải hành khách bằng xe ô tô
+- Điều kiện đối với xe ô tô kinh doanh vận tải hành khách
++ Phải thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo hợp đồng thuê phương tiện bằng văn bản của đơn vị kinh doanh vận tải hành khách bằng xe ô tô với tổ chức, cá nhân hoặc hợp đồng hợp tác kinh doanh theo quy định của pháp luật.
+Trường hợp xe đăng ký thuộc sở hữu của thành viên hợp tác xã phải có hợp đồng dịch vụ giữa thành viên với hợp tác xã, trong đó quy định hợp tác xã có quyền, trách nhiệm và nghĩa vụ quản lý, sử dụng, điều hành xe ô tô thuộc sở hữu của thành viên hợp tác xã;
++ Xe ô tô kinh doanh vận tải hành khách theo tuyến cố định phải có sức chứa từ 09 chỗ trở lên (kể cả người lái xe) và có niên hạn sử dụng như sau: Không quá 15 năm (tính từ năm sản xuất) đối với xe hoạt động trên tuyến cự ly trên 300 ki-lô-mét, không quá 20 năm (tính từ năm sản xuất) đối với xe hoạt động trên tuyến có cự ly từ 300 ki-lô-mét trở xuống;
++ Xe ô tô kinh doanh vận tải hành khách bằng xe buýt có niên hạn sử dụng không quá 20 năm (tính từ năm sản xuất);
++ Xe taxi phải có sức chứa dưới 09 chỗ (kể cả người lái) và có niên hạn sử dụng không quá 12 năm (tính từ năm sản xuất); không sử dụng xe cải tạo từ xe có sức chứa từ 09 chỗ trở lên thành xe ô tô dưới 09 chỗ (kể cả người lái xe) hoặc xe có kích thước, kiểu dáng tương tự xe từ 09 chỗ trở lên để kinh doanh vận tải hành khách bằng xe taxi;
++ Xe ô tô kinh doanh vận tải khách du lịch có niên hạn sử dụng không quá 15 năm (tính từ năm sản xuất). Xe ô tô kinh doanh vận tải hành khách theo hợp đồng có niên hạn sử dụng như sau: Không quá 15 năm (tính từ năm sản xuất) đối với xe hoạt động trên hành trình có cự ly trên 300 ki-lô-mét, không quá 20 năm (tính từ năm sản xuất) đối với xe hoạt động trên hành trình có cự ly từ 300 ki-lô-mét trở xuống.
+Riêng xe ô tô kinh doanh vận tải hành khách du lịch và xe ô tô kinh doanh vận tải hành khách theo hợp đồng có sức chứa dưới 09 chỗ (kể cả người lái) sử dụng hợp đồng điện tử có niên hạn sử dụng không quá 12 năm (tính từ năm sản xuất).
+- Trước ngày 01 tháng 7 năm 2021, xe ô tô kinh doanh vận tải hành khách có sức chứa từ 09 chỗ (kể cả người lái xe) trở lên phải lắp camera đảm bảo ghi, lưu trữ hình ảnh trên xe (bao gồm cả lái xe và cửa lên xuống của xe) trong quá trình xe tham gia giao thông. Dữ liệu hình ảnh được cung cấp cho cơ quan Công an, Thanh tra giao thông và cơ quan cấp giấy phép, bảo đảm giám sát công khai, minh bạch. Thời gian lưu trữ hình ảnh trên xe đảm bảo như sau:
++ Tối thiểu 24 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly đến 500 ki-lô-mét;
++ Tối thiểu 72 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly trên 500 ki-lô-mét.
+* Điều kiện kinh doanh vận tải hàng hóa bằng xe ô tô
+- Xe ô tô kinh doanh vận tải hàng hóa phải thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo hợp đồng thuê phương tiện bằng văn bản của đơn vị kinh doanh vận tải hàng hóa với tổ chức, cá nhân hoặc hợp đồng hợp tác kinh doanh theo quy định của pháp luật.
+Trường hợp xe đăng ký thuộc sở hữu của thành viên hợp tác xã phải có hợp đồng dịch vụ giữa thành viên với hợp tác xã, trong đó quy định hợp tác xã có quyền, trách nhiệm và nghĩa vụ quản lý, sử dụng, điều hành xe ô tô thuộc sở hữu của thành viên hợp tác xã.
+- Trước ngày 01 tháng 7 năm 2021, xe ô tô kinh doanh vận tải hàng hoá bằng công-ten-nơ, xe đầu kéo phải lắp camera đảm bảo ghi, lưu trữ hình ảnh của người lái xe trong quá trình xe tham gia giao thông. Dữ liệu hình ảnh được cung cấp cho cơ quan Công an, Thanh tra giao thông và cơ quan cấp giấy phép, bảo đảm giám sát công khai, minh bạch. Thời gian lưu trữ hình ảnh trên xe đảm bảo như sau:
++ Tối thiểu 24 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly đến 500 ki-lô-mét;
++ Tối thiểu 72 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly trên 500 ki-lô-mét.
+* Điều kiện kinh doanh vận tải hành khách bằng xe ô tô
+- Điều kiện đối với xe ô tô kinh doanh vận tải hành khách
++ Phải thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo hợp đồng thuê phương tiện bằng văn bản của đơn vị kinh doanh vận tải hành khách bằng xe ô tô với tổ chức, cá nhân hoặc hợp đồng hợp tác kinh doanh theo quy định của pháp luật.
+Trường hợp xe đăng ký thuộc sở hữu của thành viên hợp tác xã phải có hợp đồng dịch vụ giữa thành viên với hợp tác xã, trong đó quy định hợp tác xã có quyền, trách nhiệm và nghĩa vụ quản lý, sử dụng, điều hành xe ô tô thuộc sở hữu của thành viên hợp tác xã;
++ Xe ô tô kinh doanh vận tải hành khách theo tuyến cố định phải có sức chứa từ 09 chỗ trở lên (kể cả người lái xe) và có niên hạn sử dụng như sau: Không quá 15 năm (tính từ năm sản xuất) đối với xe hoạt động trên tuyến cự ly trên 300 ki-lô-mét, không quá 20 năm (tính từ năm sản xuất) đối với xe hoạt động trên tuyến có cự ly từ 300 ki-lô-mét trở xuống;
++ Xe ô tô kinh doanh vận tải hành khách bằng xe buýt có niên hạn sử dụng không quá 20 năm (tính từ năm sản xuất);
++ Xe taxi phải có sức chứa dưới 09 chỗ (kể cả người lái) và có niên hạn sử dụng không quá 12 năm (tính từ năm sản xuất); không sử dụng xe cải tạo từ xe có sức chứa từ 09 chỗ trở lên thành xe ô tô dưới 09 chỗ (kể cả người lái xe) hoặc xe có kích thước, kiểu dáng tương tự xe từ 09 chỗ trở lên để kinh doanh vận tải hành khách bằng xe taxi;
++ Xe ô tô kinh doanh vận tải khách du lịch có niên hạn sử dụng không quá 15 năm (tính từ năm sản xuất). Xe ô tô kinh doanh vận tải hành khách theo hợp đồng có niên hạn sử dụng như sau: Không quá 15 năm (tính từ năm sản xuất) đối với xe hoạt động trên hành trình có cự ly trên 300 ki-lô-mét, không quá 20 năm (tính từ năm sản xuất) đối với xe hoạt động trên hành trình có cự ly từ 300 ki-lô-mét trở xuống.
+Riêng xe ô tô kinh doanh vận tải hành khách du lịch và xe ô tô kinh doanh vận tải hành khách theo hợp đồng có sức chứa dưới 09 chỗ (kể cả người lái) sử dụng hợp đồng điện tử có niên hạn sử dụng không quá 12 năm (tính từ năm sản xuất).
+- Trước ngày 01 tháng 7 năm 2021, xe ô tô kinh doanh vận tải hành khách có sức chứa từ 09 chỗ (kể cả người lái xe) trở lên phải lắp camera đảm bảo ghi, lưu trữ hình ảnh trên xe (bao gồm cả lái xe và cửa lên xuống của xe) trong quá trình xe tham gia giao thông. Dữ liệu hình ảnh được cung cấp cho cơ quan Công an, Thanh tra giao thông và cơ quan cấp giấy phép, bảo đảm giám sát công khai, minh bạch. Thời gian lưu trữ hình ảnh trên xe đảm bảo như sau:
++ Tối thiểu 24 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly đến 500 ki-lô-mét;
++ Tối thiểu 72 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly trên 500 ki-lô-mét.
+* Điều kiện kinh doanh vận tải hàng hóa bằng xe ô tô
+- Xe ô tô kinh doanh vận tải hàng hóa phải thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo hợp đồng thuê phương tiện bằng văn bản của đơn vị kinh doanh vận tải hàng hóa với tổ chức, cá nhân hoặc hợp đồng hợp tác kinh doanh theo quy định của pháp luật.
+Trường hợp xe đăng ký thuộc sở hữu của thành viên hợp tác xã phải có hợp đồng dịch vụ giữa thành viên với hợp tác xã, trong đó quy định hợp tác xã có quyền, trách nhiệm và nghĩa vụ quản lý, sử dụng, điều hành xe ô tô thuộc sở hữu của thành viên hợp tác xã.
+- Trước ngày 01 tháng 7 năm 2021, xe ô tô kinh doanh vận tải hàng hoá bằng công-ten-nơ, xe đầu kéo phải lắp camera đảm bảo ghi, lưu trữ hình ảnh của người lái xe trong quá trình xe tham gia giao thông. Dữ liệu hình ảnh được cung cấp cho cơ quan Công an, Thanh tra giao thông và cơ quan cấp giấy phép, bảo đảm giám sát công khai, minh bạch. Thời gian lưu trữ hình ảnh trên xe đảm bảo như sau:
++ Tối thiểu 24 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly đến 500 ki-lô-mét;
++ Tối thiểu 72 giờ gần nhất đối với xe hoạt động trên hành trình có cự ly trên 500 ki-lô-mét.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

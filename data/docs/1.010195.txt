@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010195
+Số quyết định:
+909/QĐ-BNV
+Tên thủ tục:
+Thủ tục cấp bản sao và chứng thực tài liệu lưu trữ (Cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Văn thư và Lưu trữ nhà nước
+Trình tự thực hiện:
+Thủ tục cấp bản sao
+Bước 1: Độc giả có nhu cầu cấp bản sao tài liệu phải đăng ký vào Phiếu yêu cầu sao tài liệu;
+Bước 2: Sau khi độc giả điền đầy đủ các thông tin vào Phiếu yêu cầu sao tài liệu, viên chức Phòng đọc sẽ trình hồ sơ cho người đứng đầu Lưu trữ lịch sử cấp tỉnh phê duyệt;
+Bước 3: Viên chức Phòng đọc ghi vào Sổ đăng ký phiếu yêu cầu sao tài liệu và tiến hành thực hiện sao tài liệu, sau đó trả bản sao tài liệu cho độc giả tại Phòng đọc.
+Thủ tục cấp chứng thực lưu trữ
+Bước 1: Độc giả có nhu cầu chứng thực lưu trữ phải đăng ký vào Phiếu yêu cầu chứng thực tài liệu;
+Bước 2: Sau khi độc giả điền đầy đủ các thông tin vào Phiếu yêu cầu chứng thực, viên chức Phòng đọc xác nhận thông tin về nguồn gốc, địa chỉ lưu trữ của tài liệu đang bảo quản tại Lưu trữ lịch sử cấp tỉnh, gồm: Tờ số, hồ sơ số, số mục lục hồ sơ, tên phông, số chứng thực được đăng ký trong Sổ chứng thực. Các thông tin về chứng thực tài liệu được thể hiện trên Dấu chứng thực;
+Bước 3: Viên chức Phòng đọc điền đầy đủ các thông tin vào Dấu chứng thực đóng trên bản sao, ghi ngày, tháng, năm chứng thực, trình người đứng đầu Lưu trữ lịch sử cấp tỉnh ký xác nhận và đóng dấu của Lưu trữ Lịch sử, sau đó trả bản chứng thực tài liệu cho độc giả tại Phòng đọc.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|01 Ngày làm việc|Phí : Đồng Thực hiện theo Thông tư số 275/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng tài liệu lưu trữ.|Thời hạn trả bản sao tài liệu và bản chứng thực tài liệu cho độc giả theo quy định của các Lưu trữ lịch sử cấp tỉnh, thành phố trực thuộc Trung ương.|
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ đối với cấp bản sao
+- 01 Bản chính Phiếu yêu cầu sao tài liệu (Mẫu số 08); ([08 Mau phieu yeu cau sao tai lieu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb6e48497afb6c0'))
+- 01 Bản chính Bản lưu bản sao tài liệu
+
+
+Thành phần, số lượng hồ sơ đối với cấp chứng thực lưu trữ
+- 01 Bản chính Phiếu yêu cầu chứng thực tài liệu (Mẫu số 09); ([09 Mau phieu yeu cau chung thuc tai lieu (cap tinh).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed068ec2b6c84a'))
+- 01 Bản chính Bản lưu bản chứng thực tài liệu.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm Lưu trữ lịch sử - Tỉnh Hậu Giang
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Lưu trữ lịch sử cấp tỉnh, thành phố trực thuộc trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Các hồ sơ, văn bản, tài liệu đã được sao và chứng thực tài liệu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|01/2011/QH13|Luật Lưu trữ|11-11-2011|Quốc Hội|
+|275/2016/TT-BTC|Thông tư 275/2016/TT-BTC|14-11-2016||
+|01/2013/NĐ-CP|Nghị định 01/2013/NĐ-CP|03-01-2013||
+|10/2014/TT-BNV|Thông tư 10/2014/TT-BNV|01-10-2014||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

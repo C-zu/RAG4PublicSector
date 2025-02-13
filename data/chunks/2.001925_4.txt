@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục giải quyết khiếu nại lần đầu tại cấp xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn khiếu nại hoặc bản ghi lời khiếu nại (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd53090a565558e'">Mẫu Thông tư 02-2016.docx</a>)
+- 01 Bản chính Các tài liệu khác có liên quan (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5a8abd9e7254a'">Mẫu Thông tư 07-2013.docx</a>)

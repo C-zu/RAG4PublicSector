@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép sử dụng tạm thời vỉa hè, lòng đường làm nơi để xe
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Thời gian tiếp nhận và trả hồ sơ: Trong giờ làm việc, từ thứ 2 đến thứ 6 hàng tuần (trừ ngày nghỉ lễ, tết theo quy định).|
+|Trực tuyến|05 Ngày làm việc|||

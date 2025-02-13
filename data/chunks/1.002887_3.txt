@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy phép sử dụng vật liệu nổ công nghiệp đối với tổ chức, doanh nghiệp làm dịch vụ nổ mìn
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ hoặc 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ đối với trường hợp cơ quan có thẩm quyền cần kiểm tra thực tế hiện trường, kho vật liệu nổ công nghiệp.|Phí : Theo quy định của Bộ Tài chính|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại Tổng cục Công nghiệp quốc phòng|
+|Trực tuyến|05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ hoặc 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ đối với trường hợp cơ quan có thẩm quyền cần kiểm tra thực tế hiện trường, kho vật liệu nổ công nghiệp.|Phí : Theo quy định của Bộ Tài chính|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại Tổng cục Công nghiệp quốc phòng|
+|Dịch vụ bưu chính|05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ hoặc 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ đối với trường hợp cơ quan có thẩm quyền cần kiểm tra thực tế hiện trường, kho vật liệu nổ công nghiệp.|Phí : Theo quy định của Bộ Tài chính|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp tại Tổng cục Công nghiệp quốc phòng|

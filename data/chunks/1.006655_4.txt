@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục chấp thuận xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ (cấp Huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính Đơn đề nghị chấp thuận xây dựng công trình theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9ecf0db1cac26'">Mẫu Đơn đề nghị xây dựng công trình trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ.docx</a>)
+- 01 Bản chính Bản chính hồ sơ thiết kế, trong đó có bình đồ, trắc dọc, trắc ngang, vị trí đoạn tuyến có xây dựng công trình, thể hiện đầy đủ tọa độ (theo hệ VN 2000), cao độ (theo mốc cao độ Hòn Dấu). Bản vẽ phải thể hiện đầy đủ vị trí các công trình hiện hữu nằm trong khu vực xây dựng công trình và khu vực ảnh hưởng bởi việc xây dựng công trình có xác nhận của đơn vị quản lý công trình ngầm hiện hữu, trong đó thành phần hồ sơ đính kèm theo các tập tin định dạng *.dwg và *.pdf hoặc tương tự nhằm phục vụ cập nhật dữ liệu (các tập tin không bắt buộc phải có trong thành phần hồ sơ); - Trường hợp hồ sơ thiết kế là hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công, đối với công trình xây lắp qua cầu, hầm hoặc các công trình đường bộ phức tạp khác, phải có Báo cáo kết quả thẩm tra thiết kế (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu); - Trường hợp công trình xây dựng trong phạm vi dải phân cách giữa đường bộ phải có thông tin về khoảng cách theo phương thẳng đứng từ công trình thiết yếu đến mặt đất, từ công trình đến mép ngoài dải phân cách giữa

@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010886
+Số quyết định:
+807/QĐ-UBND
+Tên thủ tục:
+Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/ điều chỉnh thiết kế xây dựng triển khai sau thiết kế cơ sở
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động xây dựng
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ: - Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. - Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý công việc hoặc Lãnh đạo phòng xử lý công việc.
+B4	Thẩm định hồ sơ:
+- Trong thời hạn 05 ngày kể từ tiếp nhận hồ sơ, trường hợp hồ sơ không đáp ứng yêu cầu theo quy định, dự thảo Văn bản thông báo không đủ điều kiện thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5
+- Trường hợp hồ sơ cần giải trình và bổ sung thêm về chuyên môn (các chỉnh sửa bổ sung của hồ sơ; lấy ý kiến phối hợp của các cơ quan, tổ chức khác có liên quan; bổ sung kết quả thẩm tra theo quy định tại  khoản 4 Điều 35 Nghị định số 15/2021/NĐ-CP), thông báo bằng văn bản cho tổ chức, cá nhân bổ sung, giải trình, (chuyển hồ sơ trên hệ thống sang mục bổ sung hồ sơ): 
++ Nếu không bổ sung giải trình được trong thời hạn 20 ngày thì dự thảo Văn bản thông báo không đủ điều kiện thẩm định. Chuyển sang thực hiện Bước 5
++ Nếu bổ sung, giải trình đầy đủ trong thời hạn 20 ngày thì dự thảo Văn bản thông báo về kết quả thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+- Trường hợp, hồ sơ đáp ứng yêu cầu dự thảo Văn bản thông báo về kết quả thẩm định trình lãnh đạo phòng ký nháy. Chuyển sang thực hiện Bước 5.
+B5	Trình xem xét kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký nháy trên văn bản để trình Lãnh đạo Sở phê duyệt;
+- Nếu không đồng ý: Nêu rõ lý do và chuyển cho cán bộ thụ lý. Chuyển lại thực hiện ở Bước 4.
+B6	Phê duyệt kết quả giải quyết TTHC:
+- Nếu đồng ý: Ký vào Văn bản thông báo không đủ điều kiện thẩm định hoặc Văn bản Báo cáo thẩm định; 
+- Nếu không đồng ý: Nêu rõ lý do và chuyển lại phòng chuyên môn xử lý.
+B7	Phát hành văn bản và trả kết quả cho Trung tâm Phục vụ hành chính công tỉnh
+B8	Trả kết quả cho tổ chức cá nhân
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Lệ phí : Đồng Theo quy định tại Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định thiết kế kỹ thuật, phí thẩm định dự toán xây dựng (từ ngày 01/01/2022 đến 31/6/2022: Bằng 50% mức thu phí quy định tại Biểu mức thu phí ban hành kèm theo Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)|- Đối với công trình cấp II, III: 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các công trình còn lại: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Trực tuyến|30 Ngày|Lệ phí : Đồng Theo quy định tại Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định thiết kế kỹ thuật, phí thẩm định dự toán xây dựng (từ ngày 01/01/2022 đến 31/6/2022: Bằng 50% mức thu phí quy định tại Biểu mức thu phí ban hành kèm theo Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)|- Đối với công trình cấp II, III: 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các công trình còn lại: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày|Lệ phí : Đồng Theo quy định tại Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định thiết kế kỹ thuật, phí thẩm định dự toán xây dựng (từ ngày 01/01/2022 đến 31/6/2022: Bằng 50% mức thu phí quy định tại Biểu mức thu phí ban hành kèm theo Thông tư số 210/2016/TT-BTC ngày 10/11/2016 của Bộ Tài chính)|- Đối với công trình cấp II, III: 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. - Đối với các công trình còn lại: 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình thẩm định Thiết kế xây dựng triển khai sau thiết kế cơ sở/điều chỉnh Thiết kế xây dựng triển khai sau thiết kế cơ sở ([To trinh Tham dinh thiet ke xay dung trien khai sau thiet ke co so.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5aa7165fd8460'))
+- 01 Bản chính, 01 Bản sao - Các văn bản pháp lý kèm theo, gồm: quyết định phê duyệt dự án đầu tư xây dựng công trình kèm theo Báo cáo nghiên cứu khả thi được phê duyệt; văn bản thông báo kết quả thẩm định của cơ quan chuyên môn về xây dựng và hồ sơ bản vẽ thiết kế cơ sở được đóng dấu xác nhận kèm theo (nếu có); báo cáo kết quả thẩm tra thiết kế xây dựng của Nhà thầu tư vấn thẩm tra được chủ đầu tư xác nhận (nếu có yêu cầu); văn bản thẩm duyệt thiết kế phòng cháy chữa cháy, kết quả thực hiện thủ tục về đánh giá tác động môi trường theo quy định của pháp luật về bảo vệ môi trường (nếu có yêu cầu) và các văn bản khác có liên quan
+- 01 Bản chính, 01 Bản sao - Hồ sơ khảo sát xây dựng được chủ đầu tư phê duyệt; hồ sơ thiết kế xây dựng của bước thiết kế xây dựng trình thẩm định;
+- 01 Bản chính, 01 Bản sao Hồ sơ thiết kế kỹ thuật, thiết kế bản vẽ thi công: Thuyết minh thiết kế; bản vẽ thiết kế
+- 01 Bản chính, 01 Bản sao 3.1. Mã số chứng chỉ năng lực hoạt động xây dựng của nhà thầu khảo sát, nhà thầu lập thiết kế xây dựng, nhà thầu thẩm tra
+- 01 Bản chính, 01 Bản sao 3.2. Mã số chứng chỉ hành nghề hoạt động xây dựng của các chức danh chủ nhiệm khảo sát xây dựng; chủ nhiệm, chủ trì các bộ môn thiết kế; chủ nhiệm, chủ trì thẩm tra; Giấy phép hoạt động xây dựng của nhà thầu nước ngoài
+- 01 Bản chính, 01 Bản sao Hồ sơ dự toán xây dựng (đối với các công trình sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công có yêu cầu thẩm định dự toán xây dựng)
+- 01 Bản chính, 01 Bản sao Giấy phép hoạt động xây dựng của nhà thầu nước ngoài (nếu có)
+- 01 Bản chính, 01 Bản sao Đối với điều chỉnh thiết kế triển khai sau thiết kế cơ sở ngoài các thành phần hồ sơ nêu trên, chủ đầu tư phải nộp báo cáo tình hình thực tế thi công xây dựng công trình (trường hợp công trình đã thi công xây dựng)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Xây dựng Hà Tĩnh
+Cơ quan có thẩm quyền:
+Sở Xây dựng Hà Tĩnh
+Địa chỉ tiếp nhận HS:
+Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh (Số 02A, đường Nguyễn Chí Thanh, thành phố Hà Tĩnh, tỉnh Hà Tĩnh).
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản thông báo kết quả thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|15/2021/NĐ-CP|Quản lý dự án đầu tư xây dựng|03-03-2021|Chính phủ|
+|700/QĐ-BXD|Quyết định số 700/QĐ-BXD ngày 08/6/2021 của Bộ trưởng Bộ Xây dựng về việc công bố thủ tục hành chính ban hành mới; Thủ tục hành chính được thay thế; Thủ tục hành chính bị bãi bỏ trong lĩnh vực hoạt động xây dựng thuộc phạm vi chức năng quản lý nhà nước của Bộ Xây dựng.|08-06-2021||
+|120/2021/TT-BTC|THÔNG TƯ 120/2021/TT-BTC NGÀY 24/12/2021 QUY ĐỊNH VỀ MỨC THU MỘT SỐ KHOẢN PHÍ, LỆ PHÍ NHẰM HỖ TRỢ, THÁO GỠ KHÓ KHĂN CHO ĐỐI TƯỢNG CHỊU ẢNH HƯỞNG BỞI DỊCH COVID-19 DO BỘ TRƯỞNG BỘ TÀI CHÍNH BAN HÀNH|24-12-2021|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Hồ sơ trình thẩm định phải bảo đảm tính pháp lý, phù hợp với nội dung đề nghị thẩm định. Hồ sơ trình thẩm định được xem là hợp lệ khi bảo đảm các nội dung quy định tại Điều 33 và khoản 3 Điều 37 Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ, đúng quy cách, được trình bày với ngôn ngữ chính là tiếng Việt và được người đề nghị thẩm định kiểm tra, xác nhận. Phần hồ sơ thiết kế kiến trúc trong hồ sơ thiết kế xây dựng (nếu có) cần tuân thủ quy định theo pháp luật về kiến trúc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

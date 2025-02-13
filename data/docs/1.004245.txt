@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004245
+Số quyết định:
+503/QĐ-BTTTT
+Tên thủ tục:
+Cấp đổi giấy phép hoạt động in xuất bản phẩm (cấp Trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+- Trong thời hạn 15 kể từ ngày cơ sở in có một trong các thay đổi về tên gọi, địa chỉ, thành lập chi nhánh, chia tách hoặc sáp nhập thì cơ sở in phải làm thủ tục đổi giấy phép hoạt động in xuất bản phẩm;
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Cục Xuất bản, In và Phát hành phải cấp đổi giấy phép; trường hợp không cấp đổi giấy phép phải có văn bản trả lời nêu rõ lý do.
+- Khi có sự thay đổi về người đứng đầu, cơ sở in xuất bản phẩm phải thực hiện theo quy định tại Khoản 7 Điều 32 Luật Xuất bản; trong trường hợp cơ sở in xuất bản phẩm có văn bản đề nghị cấp đổi giấy phép hoạt động in xuất bản phẩm, Cục Xuất bản, In và Phát hành có trách nhiệm cấp đổi giấy phép hoạt động in xuất bản phẩm.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp trực tiếp tại Cục Xuất bản, In và Phát hành|
+|Trực tuyến|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng dịch vụ công của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn).|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : 0 Đồng Không có|Nộp qua dịch vụ bưu chính (Địa chỉ Cục Xuất bản, In và Phát hành: Số 10 Đường Thành, phường Cửa Đông, quận Hoàn Kiếm, Hà Nội);|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đổi giấy phép hoạt động in xuất bản phẩm theo Mẫu số 18 ([Mẫu số 18- Đơn đề nghị cấp đổi ,cấp lại GPHĐ In.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb671223107ddc'))
+- 01 Bản sao Trường hợp thay đổi địa chỉ của mặt bằng sản xuất, cơ sở in xuất bản phẩm gửi kèm bản sao giấy chứng nhận quyền sử dụng đất hoặc hợp đồng hoặc các loại giấy tờ khác chứng minh về việc giao đất, thuê đất, thuê mặt bằng
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền:
+Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS:
+Cục Xuất bản, In và Phát hành Số 10 Đường Thành, Cửa Đông, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động in xuất bản phẩm.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|19/2012/QH13|Luật xuất bản|20-11-2012|Quốc Hội|
+|195/2013/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|21-11-2013|Chính phủ|
+|01/2020/TT-BTTTT|Thông tư 01/2020/TT-BTTTT|07-02-2020||
+|23/2023/TT-BTTTT|Thông tư sửa đổi, bổ sung một số điều của Thông tư số 01/2020/TT-BTTTT ngày 07 tháng 02 năm 2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều của Luật Xuất bản và Nghị định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xuất bản|31-12-2023|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

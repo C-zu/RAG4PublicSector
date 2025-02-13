@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy phép bưu chính (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đề nghị sửa đổi, bổ sung giấy phép bưu chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee567218bc22f2'">Phụ lục IV mau de nghi sua doi bo sung giay phep buu chinh.docx</a>)
+- 01 Bản chính - Tài liệu liên quan đến nội dung đề nghị sửa đổi, bổ sung giấy phép bưu chính;
+ Số lượng hồ sơ: 01 bộ là bản gốc

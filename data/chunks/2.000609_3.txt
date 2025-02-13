@@ -1,0 +1,9 @@
+Tên thủ tục: Thông báo tổ chức hội nghị, hội thảo, đào tạo về bán hàng đa cấp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 ngày làm việc kể từ ngày Sở Công Thương nhận được thông báo, Sở Công Thương không có yêu cầu sửa đổi, bổ sung.|
+|Trực tuyến|7 Ngày làm việc||07 ngày làm việc kể từ ngày Sở Công Thương nhận được thông báo, Sở Công Thương không có yêu cầu sửa đổi, bổ sung.|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc kể từ ngày Sở Công Thương nhận được thông báo, Sở Công Thương không có yêu cầu sửa đổi, bổ sung.|

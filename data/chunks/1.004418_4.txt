@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp cho doanh nghiệp giao nhận nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Văn bản đề nghị theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd87ff61b2887a8'">1.004418.docx</a>)
+- 01 Bản chính, 01 Bản sao Vận đơn hàng không thứ cấp của doanh nghiệp giao nhận nước ngoài

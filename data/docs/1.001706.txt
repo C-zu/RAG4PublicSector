@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001706
+Số quyết định:
+61/QĐ-BGTVT
+Tên thủ tục:
+Cấp lại Chấp thuận cơ sở đào tạo Thẩm tra viên an toàn giao thông đường bộ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân có nhu cầu nộp hồ sơ đến Cục Đường bộ Việt Nam.
+b) Giải quyết TTHC:
+- Cục Đường bộ Việt Nam tiếp nhận, kiểm tra hồ sơ:
++ Đối với trường hợp nộp trực tiếp: Sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận ngay hồ sơ; nếu không đúng quy định, hướng dẫn trực tiếp cho tổ chức, cá nhân đến nộp hồ sơ để hoàn thiện hồ sơ;
++ Đối với trường hợp nộp qua hệ thống bưu chính: Nếu hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày nhận hồ sơ, phải có văn bản hướng dẫn cho tổ chức, cá nhân đã nộp hồ sơ để hoàn thiện hồ sơ;
++ Đối với trường hợp nộp qua hệ thống dịch vụ công trực tuyến: Nếu hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày tổ chức, cá nhân kê khai và nộp hồ sơ, phải có văn bản hướng dẫn cho tổ chức, cá nhân đã nộp hồ sơ để hoàn thiện hồ sơ;
+- Cục Đường bộ Việt Nam tiến hành thẩm định hồ sơ, nếu đủ điều kiện, cấp Giấy chấp thuận hoặc cấp lại Giấy chấp thuận cơ sở đào tạo thẩm tra viên an toàn giao thông đường bộ. Trường hợp không cấp Giấy chấp thuận hoặc không cấp lại Giấy chấp thuận, phải có văn bản trả lời và nêu rõ lý do;
+- Việc trả Giấy chấp thuận cơ sở đào tạo, Giấy chấp thuận cơ sở đào tạo cấp lại được thực hiện tại Cục Đường bộ Việt Nam, hoặc qua dịch vụ bưu chính, hoặc qua hệ thống dịch vụ công trực tuyến theo yêu cầu của tổ chức, cá nhân có nhu cầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|7 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn đề nghị cấp lại Giấy chấp thuận cơ sở đào tạo thẩm tra viên an toàn giao thông đường bộ theo mẫu quy định. ([MẪU CÔNG VĂN ĐỀ NGHỊ CẤP LẠI GIẤY CHẤP THUẬN CƠ SỞ ĐÀO TẠO THẨM TRA VIÊN ATGT ĐƯỜNG BỘ.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde5d3bc18dbbae'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam
+Cơ quan có thẩm quyền:
+Cục Đường bộ Việt Nam
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chấp thuận cơ sở đào tạo thẩm tra viên an toàn giao thông đường bộ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|64/2016/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|01-07-2016|Chính phủ|
+|70/2022/NĐ-CP|Nghị định 70/2022/NĐ-CP|27-09-2022||
+|01/2024/NĐ-CP|Nghị định số 01/2024/NĐ-CP ngày 01 tháng 01 năm 2024 sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (đã được sửa đổi, bổ sung một số điều tại Nghị định số 100/2013/NĐ-CP ngày 03 tháng 9 năm 2013, Nghị định số 64/2016/NĐ-CP ngày 01 tháng 7 năm 2016, Nghị định số 125/2018/NĐ-CP ngày 19 tháng 9 năm 2018, Nghị định số 117/2021/NĐ-CP ngày 22 tháng 12 năm 2021, Nghị định số 70/2022/NĐ-CP ngày 27 tháng 9 năm 2022)|01-01-2024|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

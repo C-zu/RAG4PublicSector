@@ -1,0 +1,10 @@
+Tên thủ tục: Chấp thuận phương án bảo đảm an toàn giao thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị chấp thuận phương án bảo đảm an toàn giao thông theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec6f35b6221954'">33.docx</a>)
+- 01 Bản chính - Phương án thi công, thời gian, tiến độ thi công công trình, tổ chức hoạt động;
+- 01 Bản chính - Phương án bảo đảm an toàn giao thông;
+- 01 Bản sao - Bản sao bản vẽ bố trí mặt bằng tổng thể của công trình, phạm vi khu vực tổ chức thi công công trình, tổ chức hoạt động.

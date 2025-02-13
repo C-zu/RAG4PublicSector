@@ -1,0 +1,9 @@
+Tên thủ tục: Đánh giá, cấp giấy chứng nhận phù hợp cho công ty tàu biển theo Bộ luật quản lý an toàn Quốc tế (Bộ luật ISM)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - 01 (một) bản chính hoặc biểu mẫu điện tử giấy đề nghị theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9d89534f16c4e'">MẪU ĐỀ NGHỊ.docx</a>)
+- 01 Bản chính, 01 Bản sao - 01 (một) bản sao tài liệu hệ thống quản lý an toàn của công ty tàu biển (trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính) hoặc bản sao điện tử (trường hợp nộp hồ sơ qua cổng dịch vụ công trực tuyến) đối với trường hợp đánh giá sơ bộ hoặc lần đầu;
+- 01 Bản chính, 01 Bản sao - 01 (một) bản sao tài liệu chứng minh quyền sở hữu hoặc quản lý, thuê tàu trần và cam kết thực hiện toàn bộ các nghĩa vụ và trách nhiệm theo quy định của Bộ luật ISM nếu công ty không phải là chủ sở hữu tàu biển (trường hợp nộp hồ sơ trực tiếp hoặc qua hệ thống bưu chính) hoặc bản sao điện tử (trường hợp nộp hồ sơ qua cổng dịch vụ công trực tuyến) đối với trường hợp đánh giá sơ bộ hoặc lần đầu.

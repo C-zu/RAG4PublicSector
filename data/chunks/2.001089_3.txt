@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp mới giấy chứng nhận cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học cấp III
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|17 Ngày|Lệ phí : 9000000 Đồng (Theo quy định tại Thông tư số 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế.)|Nộp trực tiếp tại Cục Y tế dự phòng. 17 ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ|
+|Dịch vụ bưu chính|17 Ngày|Lệ phí : 9000000 Đồng (Theo quy định tại Thông tư số 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực y tế.)|17 ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ|

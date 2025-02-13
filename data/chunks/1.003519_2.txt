@@ -1,0 +1,11 @@
+Tên thủ tục: Phê duyệt dự án khuyến nông, thuyết minh dự án khuyến nông trung ương
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân có nhu cầu đăng ký chủ trì, chủ nhiệm dự án xây dựng hồ sơ và gửi 01 bộ hồ sơ (bản chính) về Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học Công nghệ và Môi trường) trực tiếp hoặc qua dịch vụ bưu chính công ích;
+Bước 2: Trong thời hạn 07 ngày làm việc kể từ ngày hết hạn nộp hồ sơ, cơ quan tiếp nhận hồ sơ tổ chức mở hồ sơ đăng ký để kiểm tra tính đầy đủ và tính hợp lệ của hồ sơ. Hồ sơ hợp lệ được đưa vào xem xét, đối với các hồ sơ không hợp lệ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản cho tổ chức, cá nhân trong thời hạn 05 ngày làm việc kể từ ngày kết thúc việc mở, kiểm tra hồ sơ. Kết quả mở hồ sơ được ghi thành biên bản theo quy định;
+Bước 3: Bộ Nông nghiệp và Phát triển nông thôn thành lập hội đồng đánh giá hồ sơ đăng ký chủ trì dự án khuyến nông trung ương. Hồ sơ đăng ký chủ trì dự án khuyến nông được đánh giá, chấm điểm tối đa là 100 điểm, theo các nhóm tiêu chí và thang điểm đánh giá. Hồ sơ được hội đồng kiến nghị lựa chọn là hồ sơ có tổng số điểm trung bình của các tiêu chí thấp nhất và phải đạt từ 70/100 điểm trở lên, trong đó không có tiêu chí nào có quá 1/3 số thành viên hội đồng có mặt cho điểm không (0 điểm);
+Bước 4: Trên cơ sở kiến nghị của hội đồng, Bộ Nông nghiệp và Phát triển nông thôn xem xét, phê duyệt, thông báo kết quả lựa chọn tổ chức chủ trì, cá nhân chủ nhiệm dự án khuyến nông trung ương;
+Bước 5: Tổ chức, cá nhân đã được phê duyệt hồ sơ chủ trì, chủ nhiệm dự án khuyến nông trung ương có nhu cầu  gửi bộ hồ sơ  dự án hoàn thiện về Bộ Nông nghiệp và Phát triển nông thôn (Trung tâm khuyến nông quốc gia) trực tiếp hoặc qua dịch vụ bưu chính công ích;
+Bước 6: Bộ Nông nghiệp và Phát triển nông thôn quyết định phê duyệt dự án khuyến nông trước ngày 30/11và giao tổ chức chủ trì, chủ nhiệm dự án thực hiện dự án theo phương thức giao nhiệm vụ hoặc đặt hàng theo quy định hiện hành.

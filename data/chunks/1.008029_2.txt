@@ -1,0 +1,6 @@
+Tên thủ tục: Thủ tục cấp lại biển hiệu phương tiện vận tải khách du lịch
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Đơn vị kinh doanh vận tải gửi đơn đề nghị cấp lại biển hiệu đến Sở Giao thông vận tải đã cấp biển hiệu cho phương tiện
+Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị cấp lại biển hiệu, Sở Giao thông vận tải xem xét, cấp lại biển hiệu cho phương tiện vận tải. Trường hợp từ chối, phải thông báo bằng văn bản hoặc qua địa chỉ giao dịch điện tử của đơn vị và nêu rõ lý do.

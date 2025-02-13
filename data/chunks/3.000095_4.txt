@@ -1,0 +1,14 @@
+Tên thủ tục: Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3faf8131ff55c'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)
+ Bảng kê thiết bị điện sử dụng
+
+
+Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha (Đối với khách hàng SX, KD, DV có công suất sử dụng cực đại ≥ 40kW)
+- 01 Bản chính Giấy đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea919827df3697'">02.PhieuDeNghiDichVuDienDungChung.docx</a>)
+- 01 Bản chính Bản đăng ký biểu đồ phụ tải
+- 01 Bản chính Bản đăng ký biểu đồ phụ tải (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd738834fb71f40'">BẢNG KÊ CÔNG SUẤT THIẾT BỊ SỬ DỤNG ĐIỆN.docx</a>)

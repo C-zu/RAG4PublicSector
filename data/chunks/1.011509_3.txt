@@ -1,0 +1,9 @@
+Tên thủ tục: Xác định nhiệm vụ khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước trên địa bàn tỉnh Thanh Hóa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|không quy định||Không quy định|
+|Trực tuyến|không quy định||Không quy định Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình)|
+|Dịch vụ bưu chính|không quy định||Không quy định|

@@ -1,0 +1,13 @@
+Tên thủ tục: Phê duyệt chương trình hỗ trợ thuốc miễn phí một phần không thuộc khoản viện trợ phi Chính phủ nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị phê duyệt chương trình hỗ trợ thuốc miễn phí một phần của cơ sở kinh doanh dược. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfa946cfb37994'">phụ lục.docx</a>)
+- 01 Bản chính 2. Nội dung chương trình hỗ trợ thuốc miễn phí một phần đề nghị phê duyệt (thực hiện theo mẫu quy định tại Phụ lục 02 ban hành kèm theo Thông tư số 31/2018/TT-BYT).
+- 01 Bản sao 3. Bản sao xác nhận hợp lệ Giấy chứng nhận đủ điều kiện kinh doanh dược của cơ sở kinh doanh dược.
+- 01 Bản sao 4. Bản sao có chứng thực Giấy phép hoạt động kèm phạm vi chuyên môn được duyệt của cơ sở khám bệnh, chữa bệnh tham gia chương trình.
+- 01 Bản sao 5. Bản sao có chứng thực Giấy đăng ký lưu hành hoặc giấy phép nhập khẩu của thuốc tại Việt Nam.
+- 01 Bản chính 6. Văn bản đồng ý tiếp nhận, tham gia chương trình hỗ trợ thuốc của cơ sở khám bệnh, chữa bệnh.
+- 01 Bản chính 7. Dự thảo Hợp đồng giữa cơ sở kinh doanh dược và cơ sở khám bệnh, chữa bệnh. Nội dung Hợp đồng phải bao gồm các thông tin tối thiểu quy định tại Phụ lục 03 ban hành kèm theo Thông tư số 31/2018/TT-BYT.

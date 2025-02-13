@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001087
+Số quyết định:
+1531/QĐ-BGTVT
+Tên thủ tục:
+Cấp phép thi công công trình đường bộ trên quốc lộ đang khai thác
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ đầu tư dự án hoặc nhà thầu nộp hồ sơ đề nghị Cấp phép thi công công trình đường bộ trên quốc lộ đang khai thác đến Khu Quản lý đường bộ hoặc Sở GTVT.
+b) Giải quyết TTHC:
+- Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì Khu Quản lý đường bộ hoặc Sở GTVT tiếp nhận hồ sơ; nếu không đúng quy định , hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ.
+ - Đối với trường hợp nộp qua hệ thống bưu chính hoặc bằng các hình thức phù hợp khác, Khu Quản lý đường bộ hoặc Sở GTVT tiếp nhận hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc kể từ ngày nhận hồ sơ phải có văn bản hướng dẫn cho tổ chức, cá nhân hoàn thiện.
+- Khu Quản lý đường bộ hoặc Sở GTVT tiến hành thẩm định hồ sơ, nếu đủ điều kiện cấp Giấy phép thi công. Trường hợp không cấp phép, có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Trong 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|7 Ngày làm việc||Trong 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp phép thi công công trình theo mẫu ([Mẫu3.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd35e8057ad260'))
+- 01 Bản chính Hồ sơ thiết kế bản vẽ thi công (trong đó có biện pháp tổ chức thi công bảo đảm an toàn giao thông) đã được cấp có thẩm quyền phê duyệt (bản chính)
+- 01 Bản sao Văn bản phê duyệt hoặc chấp thuận thiết kế của cơ quan quản lý đường bộ có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Khu Quản lý đường bộ, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép thi công
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|11/2010/NĐ-CP|Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|24-02-2010|Chính phủ|
+|50/2015/TT-BGTVT|Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ|23-09-2015|Bộ Giao thông vận tải|
+|06/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ|15-12-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Dự án công trình đường bộ được Cục Đường bộ Việt Nam xem xét chấp thuận. 
+- Có văn bản phê duyệt hoặc chấp thuận thiết kế của cơ quan quản lý đường bộ có thẩm quyền;
+- Có Biện pháp tổ chức thi công bảo đảm an toàn giao thông (được cấp có thẩm quyền phê duyệt
+Dự án công trình đường bộ được Cục Đường bộ Việt Nam xem xét chấp thuận. 
+- Có văn bản phê duyệt hoặc chấp thuận thiết kế của cơ quan quản lý đường bộ có thẩm quyền;
+- Có Biện pháp tổ chức thi công bảo đảm an toàn giao thông (được cấp có thẩm quyền phê duyệt
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

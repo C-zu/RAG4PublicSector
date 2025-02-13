@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao đối với môn Vũ đạo thể thao giải trí
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan cấp Giấy chứng nhận đủ điều kiện thông báo trực tiếp hoặc bằng văn bản những nội dung cần sửa đổi, bổ sung đến doanh nghiệp trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ.|
+|Trực tuyến|7 Ngày làm việc||07 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan cấp Giấy chứng nhận đủ điều kiện thông báo trực tiếp hoặc bằng văn bản những nội dung cần sửa đổi, bổ sung đến doanh nghiệp trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ.|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan cấp Giấy chứng nhận đủ điều kiện thông báo trực tiếp hoặc bằng văn bản những nội dung cần sửa đổi, bổ sung đến doanh nghiệp trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ.|

@@ -1,0 +1,16 @@
+Tên thủ tục: Hỗ trợ sản xuất rau an toàn tập trung chuyên canh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị hỗ trợ năm thứ nhất:
+- 01 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 01 ban hành kèm theo Nghị quyết số 185/2021/NQ-HĐND ngày 10/12/2021 của Hội đồng nhân dân tỉnh Thanh Hóa (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd6163643ada8d6'">Mẫu số 01.docx</a>)
+- 01 Bản chính - Quyết định phê duyệt dự án sản xuất rau an toàn tập trung chuyên canh của Chủ tịch Ủy ban nhân dân cấp huyện.
+- 01 Bản sao - Hợp đồng thuê kiểm soát chất lượng, biên bản kiểm soát, kết quả phân tích chất lượng mẫu sản phẩm hằng tháng (bản sao).
+- 01 Bản chính, 01 Bản sao - Giấy chứng nhận VietGAP trở lên (bản sao)
+
+
+- Hồ sơ đề nghị hỗ trợ từ năm thứ 2:
+- 01 Bản chính + Đơn đề nghị hỗ trợ: Mẫu số 01 ban hành kèm theo Nghị quyết số 185/2021/NQ-HĐND ngày 10/12/2021 của Hội đồng nhân dân tỉnh Thanh Hóa. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f881a9c8a975800'">Mẫu số 01.docx</a>)
+- 01 Bản sao + Hợp đồng thuê kiểm soát chất lượng, biên bản kiểm soát, kết quả phân tích chất lượng mẫu sản phẩm hằng tháng (bản sao).
+- 01 Bản sao + Giấy chứng nhận duy trì tiêu chuẩn VietGAP trở lên còn hiệu lực (bản sao).

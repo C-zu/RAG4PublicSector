@@ -1,0 +1,23 @@
+Tên thủ tục: Cho phép bán lẻ thuốc thuộc Danh mục thuốc hạn chế bán lẻ đối với cơ sở chưa được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược gửi hồ sơ về Sở Y tế tỉnh, thành phố trực thuộc trung ương nơi cơ sở đó đặt trụ sở.
+Bước 2: Sau khi nhận hồ sơ, Sở Y tế trả cho người đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phục lục I của Nghị định số 54/2017/NĐ-CP.
+a) Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, Sở Y tế:
+- Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược trong thời hạn 30 ngày kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ đối với trường hợp cơ sở vật chất, kỹ thuật và nhân sự đã được kiểm tra, đánh giá đáp ứng Thực hành tốt phù hợp với phạm vi kinh doanh, không phải tổ chức đánh giá thực tế tại cơ sở đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược.
+- Tổ chức đánh giá thực tế tại cơ sở đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược trong thời hạn 20 ngày, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ.
+b)Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 10 ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, Sở Y tế hồ sơ có văn bản gửi cơ sở đề nghị, trong đó phải nêu cụ thể các tài liệu, nội dung cần sửa đổi, bổ sung.
+Bước 3: Sau khi nhận hồ sơ sửa đổi, bổ sung, Sở Y tế trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 tại Phụ lục I ban hành kèm theo Nghị định 54/2017/NĐ-CP.
+a) Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Sở Y tế có văn bản thông báo cho cơ sở theo quy định tại điểm b Bước 2;
+b) Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Sở Y tế thực hiện theo quy định tại điểm a Bước 2.
+Bước 4: Sau khi đánh giá thực tế cơ sở, Sở Y tế có trách nhiệm:
+- Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược trong thời hạn 10  ngày làm việc, kể từ ngày hoàn thành việc đánh giá thực tế đối với trường hợp không có yêu cầu, khắc phục, sửa chữa;
+- Ban hành văn bản thông báo về các nội dung cần khắc phục, sửa chữa trong thời hạn 05 ngày làm việc, kể từ ngày hoàn thành việc đánh giá thực tế đối với trường hợp có yêu cầu, khắc phục, sửa chữa.
+Bước 5: Trong thời hạn 20 ngày, kể từ ngày nhận được văn bản thông báo và tài liệu chứng minh đã hoàn thành việc khắc phục, sửa chữa của cơ sở đề nghị, Sở Y tế cấp Giấy chứng nhận đủ điều kiện kinh doanh dược hoặc trả lời lý do chưa cấp.
+
+Trong thời hạn 06 tháng, kể từ ngày Sở Y tế có văn bản thông báo sửa đổi, bổ sung, cơ sở đề nghị phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Sau thời hạn trên, cơ sở không sửa đổi, bổ sung hoặc sau 12 tháng kể từ ngày nộp hồ sơ lần đầu mà hồ sơ bổ sung không đáp ứng yêu cầu thì hồ sơ đã nộp không còn giá trị.
+Bước 6: Trong thời hạn 05ngày làm việc, kể từ ngày cấp Giấy chứng nhận đủ điều kiện kinh doanh dược, Sở Y tế công bố, cập nhật trên Cổng thông tin điện tử của đơn vị các thông tin sau:
+a) Tên, địa chỉ cơ sở được cấp Giấy chứng nhận đủ điều kiện kinh doanh dược;
+b) Họ tên người chịu trách nhiệm chuyên môn về dược, số Chứng chỉ hành nghề dược;
+c) Số Giấy chứng nhận đủ điều kiện kinh doanh dược.

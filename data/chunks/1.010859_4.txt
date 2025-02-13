@@ -1,0 +1,8 @@
+Tên thủ tục: Hỗ trợ chi phí mua giống cây gai xanh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 01 ban hành kèm theo Nghị quyết số 116/2021/NQ-HĐND ngày 17/7/2021 của Hội đồng nhân dân tỉnh Thanh Hoá (bản chính); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf0f631bade006'">Mẫu đơn số 01.docx</a>)
+- 01 Bản chính - Hoá đơn theo quy định, Hợp đồng, Thanh lý hợp đồng mua bán giống của tổ chức, cá nhân trực tiếp trồng cây gai xanh với đơn vị cung cấp giống.

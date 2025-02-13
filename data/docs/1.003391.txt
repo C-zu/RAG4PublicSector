@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003391
+Số quyết định:
+2380/QĐ-BGTVT
+Tên thủ tục:
+Thủ tục cho phương tiện thủy nội địa vào cảng biển (trừ phương tiện thủy nội địa mang cấp VR-SB)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Trước khi phương tiện thủy nội địa vào cảng biển hoặc sau khi vào neo đậu an toàn, người làm thủ tục nộp, xuất trình cho Cảng vụ hàng hải các giấy tờ, tài liệu của phương tiện thủy theo quy định.
+- Trường hợp phương tiện thủy nội địa vào cảng biển và lưu lại trong khoảng thời gian không quá 72 giờ, không bốc, dỡ hàng hóa, không đón, trả hành khách và giấy tờ, tài liệu khi làm thủ tục rời cảng không thay đổi so với khi đến thì được làm thủ tục vào, rời vào lúc rời cảng.
+b) Giải quyết TTHC:
+- Chậm nhất 30 phút kể từ khi người làm thủ tục đã nộp và xuất trình đủ các giấy tờ theo quy định, Cảng vụ hàng hải hoàn thành thủ tục. Trường hợp không hoàn thành thủ tục phải trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 phút|Lệ phí : theo quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ trưởng Bộ Tài chính. Mức thu phí, lệ phí áp dụng tại cảng, bến thủy nội|Chậm nhất 30 phút, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định.|
+|Trực tuyến|30 phút|Lệ phí : theo quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ trưởng Bộ Tài chính. Mức thu phí, lệ phí áp dụng tại cảng, bến thủy nội|Trường hợp làm thủ tục điện tử: người làm thủ tục thực hiện khai báo, gửi hồ sơ thông qua Cổng thông tin điện tử và không phải nộp, xuất trình giấy tờ tại địa điểm làm thủ tục. Trường hợp giấy tờ khai báo, gửi qua Cổng thông tin điện tử không bảo đảm điều kiện của chứng từ điện tử hoặc không đủ dữ liệu điện tử để kiểm tra, đối chiếu, người làm thủ tục nộp, xuất trình tại địa điểm làm thủ tục. Chậm nhất 30 phút, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định.|
+|Dịch vụ bưu chính|30 phút|Lệ phí : theo quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ trưởng Bộ Tài chính. Mức thu phí, lệ phí áp dụng tại cảng, bến thủy nội|Chậm nhất 30 phút, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản khai chung (đối với phương tiện thủy nội địa) theo mẫu ([Mẫu Bản khai chung cho phương tiện thủy nội địa.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2bed0d944bc90'))
+- 01 Bản chính Danh sách hành khách (đối với phương tiện chở khách) theo mẫu ([Mẫu danh sách hành khách.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac095899c811e0'))
+- 01 Bản chính Giấy phép rời cảng
+- 01 Bản sao Các giấy tờ phải xuất trình (bản chính), bao gồm: Giấy chứng nhận đăng ký phương tiện thủy nội địa; Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện; Sổ Danh bạ thuyền viên; Bằng hoặc Giấy chứng nhận khả năng chuyên môn, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện; Hợp đồng vận chuyển hoặc hóa đơn xuất kho hoặc giấy vận chuyển hàng hóa (nếu có)
+- 01 Bản chính + Danh sách thuyền viên (đối với phương tiện thủy nội địa) theo mẫu; ([Mẫu Danh sách thuyền viên.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1cebd9dd6d697'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cảng vụ hàng hải, Văn phòng đại diện Cảng vụ Hàng hải
+Cơ quan có thẩm quyền:
+Cảng vụ hàng hải, Văn phòng đại diện Cảng vụ Hàng hải
+Địa chỉ tiếp nhận HS:
+Cảng vụ Hàng hải, Văn phòng đại diện Cảng vụ Hàng hải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vào cảng biển
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|95/2015/QH13|Hàng hải|25-11-2015|Quốc Hội|
+|58/2017/NĐ-CP|Quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải|10-05-2017|Chính phủ|
+|248/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí áp dụng tại cảng, bến thủy nội địa|11-11-2016|Bộ Tài chính|
+|74/2023/NĐ-CP|sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến phân cấp giải quyết thủ tục hành chính trong lĩnh vực hàng hải (có hiệu lực từ ngày 11/10/2024)|11-10-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

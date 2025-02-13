@@ -1,0 +1,9 @@
+Tên thủ tục: Đánh giá đồng thời thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước mà có tiềm ẩn yếu tố ảnh hưởng đến lợi ích quốc gia, quốc phòng, an ninh, môi trường, tính mạng, sức khỏe con người.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày làm việc||45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|45 Ngày làm việc||Nộp hồ sơ tại Cổng dịch vụ công trực tuyến của Sở Khoa học và Công nghệ|
+|Dịch vụ bưu chính|45 Ngày làm việc||45 ngày làm việc làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|

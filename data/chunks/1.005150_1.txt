@@ -1,0 +1,16 @@
+Tên thủ tục: Thay đổi tên gọi, Trưởng chi nhánh, địa chỉ trụ sở của chi nhánh tổ chức hòa giải thương mại nước ngoài tại Việt Nam từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005150
+Số quyết định:
+1956/QĐ-BTP
+Tên thủ tục:
+Thay đổi tên gọi, Trưởng chi nhánh, địa chỉ trụ sở của chi nhánh tổ chức hòa giải thương mại nước ngoài tại Việt Nam từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hòa giải thương mại

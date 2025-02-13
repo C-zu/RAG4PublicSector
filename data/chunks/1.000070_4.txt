@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép khai thác, sử dụng nước dưới đất đối với công trình có quy mô từ 3.000 m3/ngày đêm trở lên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp giấy phép theo Mẫu 03, Phụ lục I, Nghị định số 54/2024/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6ef91a4ad97b5'">Mẫu 03.doc</a>)
+- 01 Bản chính - Sơ đồ khu vực và vị trí công trình
+- 01 Bản chính - Báo cáo kết quả thăm dò đánh giá trữ lượng nước dưới đất đối với công trình có quy mô từ 200 m3/ngày đêm trở lên theo Mẫu 38, Phụ lục I Nghị định số 54/2024/NĐ-CP hoặc báo cáo hiện trạng khai thác đối với trường hợp công trình khai thác nước dưới đất đang hoạt động theo Mẫu 40, Phụ lục I Nghị định số 54/2024/NĐ-CP;
+- 01 Bản chính - Kết quả phân tích chất lượng nguồn nước không quá 6 tháng tính đến thời điểm nộp hồ sơ, đảm bảo mỗi tầng chứa nước khai thác tối thiểu 01 mẫu.
+- 01 Bản chính - Hồ sơ lấy ý kiến và văn bản tổng hợp tiếp thu, giải trình ý kiến cộng đồng (đối với trường hợp công trình khai thác nước dưới đất có quy mô khai thác từ 12.000 m3/ngày đêm trở lên).

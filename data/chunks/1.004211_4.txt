@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn/điều chỉnh giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng dưới 3000m3/ngày đêm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn hoặc điều chỉnh nội dung giấy phép: Mẫu 04 Nghị định số 02/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5bdc23608b760'">Mau 04.doc</a>)
+- 01 Bản chính Báo cáo hiện trạng khai thác, sử dụng nước dưới đất và tình hình thực hiện giấy phép. Trường hợp điều chỉnh giấy phép có liên quan đến quy mô công trình, số lượng giếng khai thác, mực nước khai thác thì phải nêu rõ phương án khai thác nước dưới đất: Mẫu 27 Nghị định số 02/2023/NĐ-CP (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febf271497ae1ca'">Mau 27.doc</a>)
+- 01 Bản chính Kết quả phân tích chất lượng nguồn nước không quá sáu (06) tháng tính đến thời điểm nộp hồ sơ.
+- 01 Bản chính Sơ đồ vị trí công trình khai thác nước dưới đất đối với trường hợp điều chỉnh giấy phép

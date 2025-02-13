@@ -1,0 +1,17 @@
+Tên thủ tục: Điều chỉnh nội dung dự án đầu tư trong Giấy chứng nhận đăng ký đầu tư (đối với trường hợp không điều chỉnh quyết định chủ trương đầu tư) - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Ban Quản lý Khu kinh tế tỉnh Hà Tĩnh - Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện cấp giấy chứng nhận đăng ký đầu tư (điều chỉnh) trình lãnh đạo phòng xem xét, ký nháy
+- Trường hợp, hồ sơ đủ điều kiện Dự thảo Giấy chứng nhận đăng ký đầu tư (điều chỉnh) trình lãnh đạo phòng xem xét, ký nháy
+B5	Lãnh đạo phòng chuyên môn xem xét, ký nháy  kết quả thực hiện tại Bước 4 
+B6	Lãnh đạo Ban xem xét, ký duyệt kết quả thẩm định hồ sơ của phòng CM.
+
+B7	Làm thủ tục phát hành văn bản và chuyển TTPVHCC
+B8	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn

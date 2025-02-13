@@ -1,0 +1,22 @@
+Tên thủ tục: Cho phép nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục cấm nhập khẩu để làm thiết bị điều khiển, vận hành, khai thác, kiểm tra hoạt động của một phần hoặc toàn bộ hệ thống, dây chuyền sản xuất
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Công nghiệp công nghệ thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản trả lời cho phép hoặc không cho phép nhập khẩu sản phẩm công nghệ thông tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2016/QĐ-TTg|Quyết định|06-05-2016|Thủ tướng Chính phủ|
+|11/2018/TT-BTTTT|Thông tư|15-10-2018|Bộ Thông tin và Truyền thông|

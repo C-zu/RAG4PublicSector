@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục xác nhận hoàn thành nghĩa vụ nộp thuế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ + Văn bản đề nghị xác nhận hoàn thành nghĩa vụ nộp thuế do người đại diện theo pháp luật của doanh nghiệp ký, đóng dấu (trường hợp người đại diện theo uỷ quyền ký thì phải có giấy uỷ quyền của người đại diện theo pháp luật) (01 bản chính), trong đó có các nội dung: ++ Tên người nộp thuế, mã số thuế; ++ Nội dung, mục đích, yêu cầu xác nhận; ++ Tài liệu chứng minh nội dung yêu cầu xác nhận (bản chụp).
+ + Giấy chứng nhận đăng ký kinh doanh (hoặc Giấy chứng nhận Đầu tư; Giấy chứng nhận thành lập doanh nghiệp; hoặc các Giấy tờ khác có giá trị tương đương quy định về việc thành lập doanh nghiệp): 01 bản chụp từ bản chính (có xác nhận, ký tên, đóng dấu của người nộp thuế);
+ + Giấy chứng nhận đăng ký mã số thuế: 01 bản chụp từ bản chính (có xác nhận, ký tên, đóng dấu của người nộp thuế);
+ + Tài liệu khác có liên quan đến nội dung xác nhận: 01 bản chụp từ bản chính (có xác nhận, ký tên, đóng dấu của người nộp thuế);

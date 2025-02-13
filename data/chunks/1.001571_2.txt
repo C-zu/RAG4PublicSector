@@ -1,0 +1,6 @@
+Tên thủ tục: Tự nguyện rút công nhận Bên thứ ba (TPE) (TTHC cấp trung ương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+TPE gửi yêu cầu tự nguyện rút công nhận TPE trong một số hoặc toàn bộ lĩnh vực hoạt động có liên quan đến Tổ thư ký thông qua thư điện tử.
+Tổ thư ký trình Ủy ban Hỗn hợp xem xét và ra quyết định về việc TPE rút tự nguyện công nhận.

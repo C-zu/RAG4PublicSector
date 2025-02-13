@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, bổ sung ấn chỉ kiểm định
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0||- Trường hợp cấp: từ ngày 23 đến ngày 30 của tháng cuối của mỗi quý - Trường hợp bổ sung: 15 ngày kể từ ngày nhận được phiếu đề nghị cung cấp ấn chỉ kiểm định bổ sung|
+|Trực tuyến|0||- Trường hợp cấp: từ ngày 23 đến ngày 30 của tháng cuối của mỗi quý - Trường hợp bổ sung: 15 ngày kể từ ngày nhận được phiếu đề nghị cung cấp ấn chỉ kiểm định bổ sung|
+|Dịch vụ bưu chính|0||- Trường hợp cấp: từ ngày 23 đến ngày 30 của tháng cuối của mỗi quý - Trường hợp bổ sung: 15 ngày kể từ ngày nhận được phiếu đề nghị cung cấp ấn chỉ kiểm định bổ sung|

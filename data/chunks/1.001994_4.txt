@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký xe máy chuyên dùng từ tỉnh, thành phố trực thuộc Trung ương khác chuyển đến
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai đăng ký xe máy chuyên dùng theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe57e3d0d383006'">Mau 8.doc</a>)
+- 01 Bản chính Bản chính Phiếu di chuyển đăng ký xe máy chuyên dùng đã được cấp theo quy định kèm theo hồ sơ xe máy chuyên dùng đã đăng ký

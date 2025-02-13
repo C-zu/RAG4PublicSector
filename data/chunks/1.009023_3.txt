@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký giám sát việc giám hộ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và trả kết quả hoặc gửi qua hệ thống bưu chính.|
+|Dịch vụ bưu chính|2 Ngày làm việc||Nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và trả kết quả hoặc gửi qua hệ thống bưu chính.|

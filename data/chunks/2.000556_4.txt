@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự (thực hiện tại cấp huyện)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP) gửi cơ quan Công an có thẩm quyền; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feafd2d6c7bae42'">Mẫu số 03-KDDK-ND56.docx</a>)
+- 01 Bản sao Bản sao hợp lệ các tài liệu chứng minh sự thay đổi của các thông tin ghi trên Giấy chứng nhận đủ điều kiện về an ninh, trật tự (nếu có);
+- 01 Bản chính Tài liệu quy định tại điểm b khoản 4 Điều 19 Nghị định số 96/2016/NĐ-CP hoặc tại điểm b khoản 3 Điều 1 Nghị định số 56/2023/NĐ-CP trong trường hợp thay đổi người đứng tên trong Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh;
+- 01 Bản chính Bản chính Giấy chứng nhận đủ điều kiện về an ninh, trật tự đã được cấp trước đó (nếu có).

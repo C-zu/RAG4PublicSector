@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng có thời hạn
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000872
+Số quyết định:
+1291/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng có thời hạn
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đường bộ

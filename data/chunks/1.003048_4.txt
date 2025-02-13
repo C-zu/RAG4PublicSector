@@ -1,0 +1,8 @@
+Tên thủ tục: Ký hợp đồng khám bệnh, chữa bệnh bảo hiểm y tế lần đầu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính I. Thành phần hồ sơ ký hợp đồng KCB BHYT quy định tại Điều 16 Nghị định số 146/2018/NĐ-CP ngày 17/10/2018, bao gồm: 1. Trường hợp ký hợp đồng khám bệnh, chữa bệnh lần đầu, hồ sơ gồm: a) Công văn đề nghị ký hợp đồng của cơ sở KCB. b) Bản sao giấy phép hoạt động KCB do cơ quan nhà nước có thẩm quyền cấp cho cơ sở KCB. c) Bản chụp có đóng dấu của cơ sở đối với quyết định phân hạng bệnh viện của cấp có thẩm quyền (nếu có) hoặc quyết định về tuyến chuyên môn kỹ thuật của cấp có thẩm quyền đối với cơ sở KCB ngoài công lập; d) Danh mục dịch vụ kỹ thuật y tế, danh mục thuốc, hóa chất, vật tư y tế được cấp có thẩm quyền phê duyệt (bằng văn bản hoặc file điện tử). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7da70da99ac2c'">phụ lục.docx</a>)
+- 01 Bản chính II. Nội dung hợp đồng KCB BHYT đối với cơ sở KCB BHYT quy định tại Điều 17 Nghị định số 75/2023/NĐ-CP Nội dung hợp đồng KCB BHYT được lập theo Mẫu số 7 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018. Tùy theo điều kiện của cơ sở KCB, cơ quan BHXH và cơ sở KCB thống nhất bổ sung nội dung trong Hợp đồng nhưng không trái quy định của pháp luật về BHYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc2918b768ac330'">Mẫu số 7.docx</a>)

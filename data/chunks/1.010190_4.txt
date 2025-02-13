@@ -1,0 +1,13 @@
+Tên thủ tục: Thẩm định, phê duyệt đồ án quy hoạch chi tiết (tỷ lệ 1/500) - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định đồ án quy hoạch, theo mẫu BM.QH.04.01
+- 01 Bản sao Thuyết minh nội dung đồ án bao gồm bản vẽ in màu thu nhỏ và đĩa CD lưu trữ toàn bộ hồ sơ đồ án quy hoạch
+- 01 Bản chính Dự thảo quy định quản lý theo đồ án quy hoạch
+- 01 Bản chính Dự thảo Quyết định phê duyệt đồ án
+- 01 Bản sao Bản vẽ quy hoạch in màu hoặc trắng đen đúng tỷ lệ quy định
+- 01 Bản chính Các văn bản pháp lý có liên quan; Đồ án quy hoạch phải có thỏa thuận của chính quyền địa phương (thị xã hoặc huyện) nơi có dự án
+- 01 Bản chính Hồ sơ pháp nhân và hồ sơ năng lực của tổ chức tư vấn lập quy hoạch xây dựng (bản sao có công chứng, chứng thực)

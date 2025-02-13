@@ -1,0 +1,9 @@
+Tên thủ tục: Xác nhận điều kiện chuyển nhượng quyền sử dụng đất và tài sản khác gắn liền với đất cho Chủ đầu tư dự án phát triển nhà ở đầu tư xây dựng để bán
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh Hà Tĩnh (Số 02A - đường Nguyễn Chí Thanh - thành phố Hà Tĩnh - tỉnh Hà Tĩnh).|
+|Trực tuyến|10 Ngày làm việc||Qua mạng điện tử: http://dichvucong.hatinh.gov.vn.|
+|Dịch vụ bưu chính|10 Ngày làm việc|||

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (xuất khẩu vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6a0225f8d5bb9'">Đơn đề nghị.docx</a>)
+- 01 Bản chính Báo cáo đánh giá an toàn
+- 01 Bản sao Bản sao quyết định thành lập tổ chức, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư hoặc giấy đăng ký hành nghề
+- 01 Bản sao Bản sao tài liệu của nhà sản xuất cung cấp thông tin như được khai trong phiếu khai báo vật liệu hạt nhân nguồn, vật liệu hạt nhân và thiết bị hạt nhân
+- 01 Bản sao Bản sao hợp đồng mua bán và văn bản thỏa thuận về việc chuyển giao, tiếp nhận nguồn phóng xạ giữa tổ chức, cá nhân xuất khẩu phía Việt Nam với tổ chức, cá nhân tiếp nhận nguồn ở nước ngoài
+- 01 Bản sao Bản sao giấy phép nhập khẩu của cơ quan có thẩm quyền nước nhập khẩu cấp cho tổ chức, cá nhân nhập khẩu đối với chất phóng xạ có mức nguy hiểm trên trung bình
+- 01 Bản chính Bản dịch các tài liệu tiếng nước ngoài
+- 01 Bản chính + Phiếu khai báo vật liệu hạt nhân nguồn (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c05c0275d946'">Phieu khai bao vat lieu hat nhan nguon.docx</a>)
+- 01 Bản chính Phiếu khai báo vật liệu hạt nhân (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd92146aa7df11e'">Phieu khai bao vat lieu hat nhan.docx</a>)
+- 01 Bản chính Phiếu khai báo thiết bị hạt nhân (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4fed8519799f9'">Phieu khai bao thiet bi hat nhan.docx</a>)

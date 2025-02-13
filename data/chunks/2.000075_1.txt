@@ -1,0 +1,16 @@
+Tên thủ tục: Đánh giá, cấp giấy chứng nhận phù hợp cho công ty tàu biển theo Bộ luật quản lý an toàn Quốc tế (Bộ luật ISM)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000075
+Số quyết định:
+877/QĐ-BGTVT
+Tên thủ tục:
+Đánh giá, cấp giấy chứng nhận phù hợp cho công ty tàu biển theo Bộ luật quản lý an toàn Quốc tế (Bộ luật ISM)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đăng kiểm

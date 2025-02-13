@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế thu nhập doanh nghiệp tạm tính đối với hoạt động khai thác, xuất bán dầu thô, khí thiên nhiên (trừ Lô 09.1)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính ++ Tờ khai thuế TNDN tạm tính đối với dầu khí Mẫu số 01/TNDN – DK hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thu. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2e776caef4d63'">Mẫu 01.TNDN.DK.doc</a>)
+- 01 Bản chính, 01 Bản sao ++ Phụ lục chi tiết nghĩa vụ thuế của các nhà thầu dầu khí Mẫu số 01/PL-DK hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe47904cb9b1f78'">mẫu 01.PL.DK (2).doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ).

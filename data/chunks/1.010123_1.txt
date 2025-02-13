@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục phê duyệt phương án bố trí, sắp xếp ngành nghề kinh doanh, sử dụng điểm kinh doanh tại chợ đối với chợ hạng 2, hạng 3.
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010123
+Số quyết định:
+2192/QĐ-UBND
+Tên thủ tục:
+Thủ tục phê duyệt phương án bố trí, sắp xếp ngành nghề kinh doanh, sử dụng điểm kinh doanh tại chợ đối với chợ hạng 2, hạng 3.
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công nghiệp địa phương

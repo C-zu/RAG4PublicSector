@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục thực hiện hoạt động đầu tư theo hình thức góp vốn, mua cổ phần, mua phần vốn góp đối với nhà đầu tư nước ngoài (BQL)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đăng ký góp vốn, mua cổ phần, mua phần vốn góp gồm những nội dung: thông tin về đăng ký doanh nghiệp của tổ chức kinh tế mà nhà đầu tư nước ngoài dự kiến góp vốn, mua cổ phần, mua phần vốn góp; ngành, nghề kinh doanh; danh sách chủ sở hữu, thành viên, cổ đông sáng lập, danh sách chủ sở hữu, thành viên, cổ đông là nhà đầu tư nước ngoài (nếu có); tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài trước và sau khi góp vốn, mua cổ phần, mua phần vốn góp vào tổ chức kinh tế; giá trị giao dịch dự kiến của hợp đồng góp vốn, mua cổ phần, mua phần vốn góp; thông tin về dự án đầu tư của tổ chức kinh tế (nếu có); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feae4fc8455046d'">Mẫu A.I.7.docx</a>)
+- 01 Bản sao - Bản sao giấy tờ pháp lý của cá nhân, tổ chức góp vốn, mua cổ phần, mua phần vốn góp và tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp;
+- 01 Bản chính - Văn bản thỏa thuận nguyên tắc về việc góp vốn, mua cổ phần, mua phần vốn góp giữa nhà đầu tư nước ngoài và tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp hoặc giữa nhà đầu tư nước ngoài với cổ đông hoặc thành viên của tổ chức kinh tế đó;
+- 01 Bản sao - Bản sao Giấy chứng nhận quyền sử dụng đất của tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp (đối với trường hợp quy định tại điểm b khoản 4 Điều 65 Nghị định số 31/2021/NĐ-CP.

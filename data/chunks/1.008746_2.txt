@@ -1,0 +1,15 @@
+Tên thủ tục: Thẩm định Thiết kế kỹ thuật, dự toán xây dựng công trình viễn thông
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Tổ chức, cá nhân hoàn thiện hồ sơ theo quy định của thủ tục này và nộp hồ sơ đến Sở Thông tin và Truyền thông.
+2. Bộ phận Một cửa của Sở Thông tin và Truyền thông tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
+- Trường hợp hồ sơ hợp lệ: Sở Thông tin và Truyền thông tiến hành thẩm định:
++ Nếu hồ sơ hợp lệ nhưng không đủ điều kiện thẩm định (Chưa có Quyết định phê duyệt dự án; không có thuyết minh đi kèm; chủ đầu tư và tư vấn thiết kế không ký vào hồ sơ trình thẩm định; tổng dự toán trình vượt quá quy mô đầu tư): Sở Thông tin và Truyền thông không tổ chức thẩm định mà có văn bản trả lại và nêu rõ lý do.
++ Nếu hồ sơ đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ban hành kết quả thẩm định thiết kế (bản PDF, ký số) và kết quả thẩm định Dự toán được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ. 
+Sau khi nhận được kết quả trên tài khoản của người nộp hồ sơ, tổ chức có trách nhiệm điều chỉnh Thiết kế kỹ thuật, dự toán chi tiết theo kết quả thẩm định của Sở Thông tin và Truyền thông. 
+Đại diện tổ chức đến nộp bản giấy (bản chính) của hồ sơ, văn bản, tài liệu qua các lần nộp sửa đổi, bổ sung hồ sơ Thiết kế kỹ thuật, dự toán (bản đã hiệu chỉnh theo kết quả Sở Thông tin và Truyền thông trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ) tại Bộ phận Một cửa. Sở Thông tin và Truyền thông sẽ kiểm tra, đối chiếu, ký, đóng dấu thẩm định và trả kết quả cho tổ chức nếu Thiết kế kỹ thuật, dự toán đem nộp đúng với Thiết kế kỹ thuật, dự toán đã được Sở Thông tin và Truyền thông thẩm định. 
++ Nếu hồ sơ không đạt yêu cầu: Sở Thông tin và Truyền thông sẽ ra thông báo đề nghị sửa đổi, bổ sung hoặc trả hồ sơ. Văn bản được gửi về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo đến địa chỉ thư điện tử của người nộp hồ sơ và thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Trường hợp tổ chức nộp lại hồ sơ sửa đổi, bổ sung mà không đầy đủ các thành phần theo quy định, không bảo đảm yêu cầu để thẩm định thì hồ sơ coi như không hợp lệ, Sở Thông tin và Truyền thông sẽ từ chối tiếp nhận hồ sơ sửa đổi, bổ sung của tổ chức.
+- Trường hợp hồ sơ không hợp lệ (không đáp ứng đầy đủ thành phần, số lượng hồ sơ theo yêu cầu của thủ tục): Bộ phận Một cửa sẽ gửi thông báo nêu lý do từ chối hồ sơ trên địa chỉ thư điện tử của người nộp hồ sơ, tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ, đồng thời thông báo bằng tin nhắn đến điện thoại di động của người nộp hồ sơ.
+Lưu ý: Mọi vướng mắc, tổ chức liên hệ địa chỉ thư điện tử motcua-stttt@danang.gov.vn; fax: 02363.840.124; điện thoại: 02363.881.888 (số máy lẻ 423) hoặc số tắt 1022 để được hướng dẫn thêm.

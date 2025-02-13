@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm sản xuất trong nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu công bố sản phẩm mỹ phẩm; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc57da46be2da04'">Mẫu phiếu CB.docx</a>)
+- 01 Bản chính Giấy ủy quyền của nhà sản xuất hoặc chủ sở hữu sản phẩm ủy quyền cho tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra thị trường được phân phối sản phẩm mỹ phẩm tại Việt Nam (áp dụng đối với mỹ phẩm sản xuất trong nước mà tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra thị trường không phải là nhà sản xuất).

@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thực hiện chế độ trợ cấp một lần đối với quân nhân, công nhân viên chức quốc phòng trực tiếp tham gia kháng chiến chống Mỹ cứu nước nhưng chưa được hưởng chế độ, chính sách của Đảng và Nhà nước (đối tượng cư trú ở địa phương khác không còn lưu giữ giấy tờ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định|Lệ phí : 0 Đồng|Cách thức thực hiện: Trực tiếp hoặc gửi hồ sơ đến UBND xã (phường) nơi sinh quán|

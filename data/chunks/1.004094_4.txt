@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp lại giấy phép tài nguyên nước (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp lại giấy phép (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb611bbf057bbc8'">Mẫu 09.doc</a>)
+- 01 Bản chính Tài liệu chứng minh lý do đề nghị cấp lại giấy phép
+- 01 Bản sao Giấy phép khai thác, sử dụng nước mặt (gia hạn, điềui chỉnh, cấp lại) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe10d0a2e7cf8ce'">Mẫu 16.doc</a>)
+- 01 Bản sao giấy phép khai thác, sử dụng nước biển (gia hạn, điều chỉnh, cấp lại) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8758f77fb9dc2'">Mẫu 18.doc</a>)
+- 01 Bản sao giấy phép khai thác, sử dụng nước dưới đất (gia hạn, điều chỉnh, cấp lại) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd976e6b6c43560'">Mẫu 14.doc</a>)

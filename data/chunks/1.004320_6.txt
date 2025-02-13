@@ -1,0 +1,50 @@
+Tên thủ tục: Cấp giấy phép kinh doanh dịch vụ viễn thông
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+1. Điều kiện về ngành nghề kinh doanh:
+Bản sao hợp lệ bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư đối với nhà đầu tư nước ngoài (hoặc bản sao hợp lệ giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13).
+Có Giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư kinh doanh dịch vụ viễn thông hoặc ghi tên và mã ngành, nghề kinh doanh dịch vụ viễn thông theo quy định tại Hệ thống ngành kinh tế Việt Nam.
+2. Điều kiện về tài chính:
+a) Doanh nghiệp có khả năng tài chính, để bảo đảm thực hiện giấy phép phù hợp với kế hoạch kinh doanh và kế hoạch kỹ thuật đề xuất;
+b) Doanh nghiệp không đang trong tình trạng chưa hoàn thành các nghĩa vụ tài chính theo quy định của pháp luật về viễn thông;
+c) Vốn đầu tư nước ngoài trong doanh nghiệp (nếu có) phải tuân thủ quy định tại các điều ước quốc tế mà Việt Nam là thành viên;
+d) Đối với doanh nghiệp đề nghị cấp phép thiết lập mạng viễn thông công cộng: ngoài quy định tại các điểm a, b, c khoản này, doanh nghiệp phải đáp ứng điều kiện về vốn pháp định và cam kết đầu tư theo quy định tại các Điều 19, 20, 21 Nghị định số 25/2011/NĐ-CP và Điều 13, Điều 14 Thông tư số 12/2013/TT-BTTTT;
+d) Đối với doanh nghiệp đề nghị cấp giấy phép cung cấp dịch vụ thông tin di động mặt đất: ngoài quy định tại các điểm a, b, c khoản này, doanh nghiệp phải tuân thủ quy định tại Điều 3 Nghị định số 25/2011/NĐ-CP.
+3. Điều kiện về tổ chức bộ máy và nhân lực:
+a) Doanh nghiệp không đang trong quá trình chia, tách, hợp nhất, sáp nhập, chuyển đổi, giải thể, phá sản theo quyết định đã được ban hành;
+b) Doanh nghiệp có tổ chức bộ máy và nhân lực phù hợp với kế hoạch kinh doanh, kế hoạch kỹ thuật và phương án bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin.
+4. Điều kiện về kỹ thuật, kinh doanh:
+Doanh nghiệp phải có kế hoạch kỹ thuật, kế hoạch kinh doanh:
+- Phù hợp với chiến lược, quy hoạch phát triển viễn thông quốc gia, quy hoạch tài nguyên viễn thông;
+- Khả thi và phù hợp với các quy định về kết nối, giá cước, tiêu chuẩn, quy chuẩn, chất lượng mạng và dịch vụ viễn thông;
+- Đối với doanh nghiệp đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông có sử dụng kho số viễn thông, có sử dụng tần số vô tuyến điện phải đảm bảo việc phân bổ kho số viễn thông, phân bổ tần số vô tuyến điện cho doanh nghiệp theo đề nghị trong hồ sơ phải khả thi. Điều kiện về tính khả thi khi phân bổ kho số viễn thông, tần số vô tuyến điện được quy định tại Điều 15 Thông tư 12/2013/TT-BTTTT ngày 13/5/2013
+5. Điều kiện về an toàn cơ sở hạ tầng viễn thông và an ninh thông tin:
+Doanh nghiệp có phương án bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin phù hợp với kế hoạch kỹ thuật và kế hoạch kinh doanh.
+6. Điều kiện bảo đảm thực hiện giấy phép
+Doanh nghiệp phải bảo đảm việc thực hiện giấy phép kinh doanh dịch vụ viễn thông theo quy định tại Điều 16 Thông tư 12/2013/TT-BTTTT ngày 13/5/2013.
+1. Điều kiện về ngành nghề kinh doanh:
+Bản sao hợp lệ bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư đối với nhà đầu tư nước ngoài (hoặc bản sao hợp lệ giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13).
+Có Giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đầu tư kinh doanh dịch vụ viễn thông hoặc ghi tên và mã ngành, nghề kinh doanh dịch vụ viễn thông theo quy định tại Hệ thống ngành kinh tế Việt Nam.
+2. Điều kiện về tài chính:
+a) Doanh nghiệp có khả năng tài chính, để bảo đảm thực hiện giấy phép phù hợp với kế hoạch kinh doanh và kế hoạch kỹ thuật đề xuất;
+b) Doanh nghiệp không đang trong tình trạng chưa hoàn thành các nghĩa vụ tài chính theo quy định của pháp luật về viễn thông;
+c) Vốn đầu tư nước ngoài trong doanh nghiệp (nếu có) phải tuân thủ quy định tại các điều ước quốc tế mà Việt Nam là thành viên;
+d) Đối với doanh nghiệp đề nghị cấp phép thiết lập mạng viễn thông công cộng: ngoài quy định tại các điểm a, b, c khoản này, doanh nghiệp phải đáp ứng điều kiện về vốn pháp định và cam kết đầu tư theo quy định tại các Điều 19, 20, 21 Nghị định số 25/2011/NĐ-CP và Điều 13, Điều 14 Thông tư số 12/2013/TT-BTTTT;
+d) Đối với doanh nghiệp đề nghị cấp giấy phép cung cấp dịch vụ thông tin di động mặt đất: ngoài quy định tại các điểm a, b, c khoản này, doanh nghiệp phải tuân thủ quy định tại Điều 3 Nghị định số 25/2011/NĐ-CP.
+3. Điều kiện về tổ chức bộ máy và nhân lực:
+a) Doanh nghiệp không đang trong quá trình chia, tách, hợp nhất, sáp nhập, chuyển đổi, giải thể, phá sản theo quyết định đã được ban hành;
+b) Doanh nghiệp có tổ chức bộ máy và nhân lực phù hợp với kế hoạch kinh doanh, kế hoạch kỹ thuật và phương án bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin.
+4. Điều kiện về kỹ thuật, kinh doanh:
+Doanh nghiệp phải có kế hoạch kỹ thuật, kế hoạch kinh doanh:
+- Phù hợp với chiến lược, quy hoạch phát triển viễn thông quốc gia, quy hoạch tài nguyên viễn thông;
+- Khả thi và phù hợp với các quy định về kết nối, giá cước, tiêu chuẩn, quy chuẩn, chất lượng mạng và dịch vụ viễn thông;
+- Đối với doanh nghiệp đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông có sử dụng kho số viễn thông, có sử dụng tần số vô tuyến điện phải đảm bảo việc phân bổ kho số viễn thông, phân bổ tần số vô tuyến điện cho doanh nghiệp theo đề nghị trong hồ sơ phải khả thi. Điều kiện về tính khả thi khi phân bổ kho số viễn thông, tần số vô tuyến điện được quy định tại Điều 15 Thông tư 12/2013/TT-BTTTT ngày 13/5/2013
+5. Điều kiện về an toàn cơ sở hạ tầng viễn thông và an ninh thông tin:
+Doanh nghiệp có phương án bảo đảm an toàn cơ sở hạ tầng viễn thông và an ninh thông tin phù hợp với kế hoạch kỹ thuật và kế hoạch kinh doanh.
+6. Điều kiện bảo đảm thực hiện giấy phép
+Doanh nghiệp phải bảo đảm việc thực hiện giấy phép kinh doanh dịch vụ viễn thông theo quy định tại Điều 16 Thông tư 12/2013/TT-BTTTT ngày 13/5/2013.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp gia hạn, điều chỉnh nội dung giấy phép xả nước thải vào công trình thủy lợi trừ xả nước thải với quy mô nhỏ và không chứa chất độc hại, chất phóng xạ thuộc thẩm quyền cấp phép của Bộ Nông nghiệp và PTNT
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003939
+Số quyết định:
+67/QĐ-BNN-TCTL
+Tên thủ tục:
+Cấp gia hạn, điều chỉnh nội dung giấy phép xả nước thải vào công trình thủy lợi trừ xả nước thải với quy mô nhỏ và không chứa chất độc hại, chất phóng xạ thuộc thẩm quyền cấp phép của Bộ Nông nghiệp và PTNT
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy lợi

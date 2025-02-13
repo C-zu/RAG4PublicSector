@@ -1,0 +1,9 @@
+Tên thủ tục: Công nhận và giao quyền quản lý cho tổ chức cộng đồng (thuộc địa bàn từ hai huyện trở lên)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|a) Công khai phương án: 03 ngày làm việc; b) Thẩm định hồ sơ, kiểm tra thực tế (nếu cần), ban hành quyết định công nhận và giao quyền quản lý cho tổ chức cộng: 60 ngày.|||
+|Trực tuyến|a) Công khai phương án: 03 ngày làm việc; b) Thẩm định hồ sơ, kiểm tra thực tế (nếu cần), ban hành quyết định công nhận và giao quyền quản lý cho tổ chức cộng: 60 ngày.|||
+|Dịch vụ bưu chính|a) Công khai phương án: 03 ngày làm việc; b) Thẩm định hồ sơ, kiểm tra thực tế (nếu cần), ban hành quyết định công nhận và giao quyền quản lý cho tổ chức cộng: 60 ngày.|||

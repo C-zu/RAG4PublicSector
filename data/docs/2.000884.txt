@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000884
+Số quyết định:
+1329/QĐ-BTP
+Tên thủ tục:
+Thủ tục chứng thực chữ ký trong các giấy tờ, văn bản (áp dụng cho cả trường hợp chứng thực điểm chỉ và trường hợp người yêu cầu chứng thực không thể ký, không thể điểm chỉ được)
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện, Cấp Xã
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Chứng thực
+Trình tự thực hiện:
++ Người yêu cầu chứng thực chữ ký/điểm chỉ/không thể ký, không thể điểm chỉ được phải xuất trình các giấy tờ phục vụ việc chứng thực chữ ký.
++ Trong trường hợp người yêu cầu chứng thực không thông thạo tiếng Việt thì phải có người phiên dịch. Người phiên dịch phải là người có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật, thông thạo tiếng Việt và ngôn ngữ mà người yêu cầu chứng thực sử dụng. Người phiên dịch do người yêu cầu chứng thực mời hoặc do cơ quan thực hiện chứng thực chỉ định. Thù lao phiên dịch do người yêu cầu chứng thực trả.
++ Người thực hiện chứng thực (hoặc người tiếp nhận hồ sơ trong trường hợp tiếp nhận tại bộ phận một cửa, một cửa liên thông) kiểm tra giấy tờ yêu cầu chứng thực, nếu thấy đủ giấy tờ theo quy định, tại thời điểm chứng thực, người yêu cầu chứng thực minh mẫn, nhận thức và làm chủ được hành vi của mình và việc chứng thực không thuộc các trường hợp không được chứng thực chữ ký thì yêu cầu người yêu cầu chứng thực ký/điểm chỉ trước mặt và thực hiện chứng thực như sau:
+* Ghi đầy đủ lời chứng chứng thực chữ ký theo mẫu quy định phía dưới chữ ký được chứng thực hoặc trang liền sau của trang giấy tờ, văn bản có chữ ký được chứng thực; Nếu hồ sơ tiếp nhận tại bộ phận một cửa, một cửa liên thông thì người tiếp nhận hồ sơ ký vào dưới lời chứng theo mẫu quy định và chuyển hồ sơ cho người thực hiện chứng thực.
+* Người thực hiện chứng thực ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.
+Đối với giấy tờ, văn bản có từ (02) hai tờ trở lên thì phải đóng dấu giáp lai. Trường hợp lời chứng được ghi tại tờ liền sau của trang có chữ ký thì phải đóng dấu giáp lai giữa giấy tờ, văn bản chứng thực chữ ký và trang ghi lời chứng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ. Trường hợp trả kết quả trong ngày làm việc tiếp theo thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực.|Phí : Đồng Tại UBND cấp xã, Phòng Tư pháp, Tổ chức hành nghề công chứng: 10.000 đồng/trường hợp (trường hợp được tính là một hoặc nhiều chữ ký trong một giấy tờ, văn bản).  Phí : USD Tại cơ quan đại diện: 10 USD/bản||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân/Căn cước công dân hoặc Hộ chiếu còn giá trị sử dụng.
+- 01 Bản chính + Giấy tờ, văn bản mà mình sẽ yêu cầu chứng thực chữ ký. Trường hợp chứng thực chữ ký trong giấy tờ, văn bản bằng tiếng nước ngoài, nếu người thực hiện chứng thực không hiểu rõ nội dung của giấy tờ, văn bản thì có quyền yêu cầu người yêu cầu chứng thực nộp kèm theo bản dịch ra tiếng Việt nội dung của giấy tờ, văn bản đó (bản dịch không cần công chứng hoặc chứng thực chữ ký người dịch, người yêu cầu chứng thực phải chịu trách nhiệm về nội dung của bản dịch).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban Nhân dân xã, phường, thị trấn., Phòng Tư Pháp, Tổ chức hành nghề công chứng, Cơ quan đại diện có thẩm quyền
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy tờ, văn bản được chứng thực chữ ký/điểm chỉ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|257/2016/TT-BTC|Thông tư 257/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|264/2016/TT-BTC|Thông tư 264/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|23/2015/NĐ-CP|Nghị định 23/2015/NĐ-CP|16-02-2015|Chính phủ|
+|226/2016/TT-BTC|Thông tư 226/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|01/2020/TT-BTP|Thông tư 01/2020/TT-BTP|03-03-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp không được chứng thực chữ ký:
++ Tại thời điểm chứng thực, người yêu cầu chứng thực chữ ký không nhận thức và làm chủ được hành vi của mình.
++ Người yêu cầu chứng thực chữ ký xuất trình Giấy chứng minh nhân dân hoặc Hộ chiếu không còn giá trị sử dụng hoặc giả mạo.
++ Giấy tờ, văn bản mà người yêu cầu chứng thực ký vào có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản có nội dung là hợp đồng, giao dịch; trừ Giấy ủy quyền trong các trường hợp Giấy ủy quyền: (1) ủy quyền về việc nộp hộ, nhận hộ hồ sơ, giấy tờ, trừ trường hợp pháp luật quy định không được ủy quyền; (2) ủy quyền nhận hộ lương hưu, bưu phẩm, trợ cấp, phụ cấp; (3) ủy quyền nhờ trông nom nhà cửa; (4) ủy quyền của thành viên hộ gia đình để vay vốn tại Ngân hàng chính sách xã hội;  hoặc trừ trường hợp pháp luật có quy định khác.
+Trường hợp không được chứng thực chữ ký:
++ Tại thời điểm chứng thực, người yêu cầu chứng thực chữ ký không nhận thức và làm chủ được hành vi của mình.
++ Người yêu cầu chứng thực chữ ký xuất trình Giấy chứng minh nhân dân hoặc Hộ chiếu không còn giá trị sử dụng hoặc giả mạo.
++ Giấy tờ, văn bản mà người yêu cầu chứng thực ký vào có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản có nội dung là hợp đồng, giao dịch; trừ Giấy ủy quyền trong các trường hợp Giấy ủy quyền: (1) ủy quyền về việc nộp hộ, nhận hộ hồ sơ, giấy tờ, trừ trường hợp pháp luật quy định không được ủy quyền; (2) ủy quyền nhận hộ lương hưu, bưu phẩm, trợ cấp, phụ cấp; (3) ủy quyền nhờ trông nom nhà cửa; (4) ủy quyền của thành viên hộ gia đình để vay vốn tại Ngân hàng chính sách xã hội;  hoặc trừ trường hợp pháp luật có quy định khác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

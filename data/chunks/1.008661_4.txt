@@ -1,0 +1,34 @@
+Tên thủ tục: Thẩm tra, phê duyệt quyết toán vốn đầu tư các dự án do do Sở Nông nghiệp và Phát triển nông thôn hoặc đơn vị trực thuộc Sở làm chủ đầu tư có tổng mức đầu tư dưới 500 triệu đồng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Hồ sơ pháp lý (bản chính hoặc bản do chủ đầu tư sao y bản chính):
+- 01 Bản chính - Tờ trình đề nghị phê duyệt quyết toán của chủ đầu tư (bản chính);
+- 01 Bản chính - Văn bản liên quan về chủ trương thực hiện, nguồn vốn đầu tư công trình
+- 01 Bản chính - Văn bản phê duyệt Báo cáo kinh tế kỹ thuật, dự toán - thiết kế bản vẽ thi công;
+- 01 Bản chính - Văn bản phê duyệt kết quả lựa chọn nhà thầu tư vấn khảo sát, thiết kế; thẩm tra; nhà thầu thi công;
+- 01 Bản chính - Hợp đồng xây dựng và các phụ lục hợp đồng (nếu có); các biên bản nghiệm thu khối lượng hoàn thành theo giai đoạn thanh toán; biên bản nghiệm thu khối lượng hoàn thành toàn bộ hợp đồng; bảng tính giá trị quyết toán hợp đồng (quyết toán A-B); biên bản thanh lý hợp đồng đối với trường hợp đã đủ điều kiện thanh lý hợp đồng theo quy định của pháp luật về hợp đồng; các tài liệu khác theo thỏa thuận trong hợp đồng liên quan đến nội dung thẩm tra, phê duyệt quyết toán dự án hoàn thành;
+- 01 Bản chính - Báo cáo quyết toán dự án hoàn thành (bản chính) theo quy định tại Thông tư số 10/2020/TT-BTC ngày 20 tháng 02 năm 2020 của Bộ trưởng Bộ Tài chính quy định về quyết toán dự án hoàn thành thuộc nguồn vốn nhà nước và có xác nhận của kho bạc.
+- 01 Bản chính - Kết luận thanh tra, biên bản kiểm tra, báo cáo kiểm toán của các cơ quan: Thanh tra, kiểm tra, kiểm toán nhà nước (nếu có).
+- 01 Bản chính 2. Hồ sơ dự toán - thiết kế được duyệt.
+- 01 Bản chính 3. Hồ sơ nghiệm thu, hoàn công:
+- 01 Bản chính - Biên bản bàn giao mặt bằng thi công;
+- 01 Bản chính - Biên bản nghiệm thu bộ phận công trình xây dựng, giai đoạn thi công xây dựng công trình (bản chính);
+- 01 Bản chính - Biên bản nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng để đưa vào sử dụng (bản chính);
+- 01 Bản chính - Văn bản chấp thuận kết quả nghiệm thu của cơ quan nhà nước có thẩm quyền (bản chính hoặc bản do chủ đầu tư sao y bản chính);
+- 01 Bản chính - Biên bản bàn giao công trình để đưa vào sử dụng;
+- 01 Bản chính - Giấy chứng nhận chất lượng của nhà sản xuất (trừ các công trình duy tu, sửa chữa), kết quả thí nghiệm vật liệu;
+- 01 Bản chính - Nhật ký công trình;
+- 01 Bản chính - Hồ sơ hoàn công.
+- 01 Bản chính 4. Hồ sơ quyết toán chi tiết:
+- 01 Bản chính - Biên bản nghiệm thu khối lượng hoàn thành kèm theo bản khối lượng chi tiết được xác nhận giữa A & B;
+- 01 Bản chính - Toàn bộ quyết toán chi tiết giá trị khối lượng xây dựng giữa A & B;
+- 01 Bản chính - Quyết định thành lập ban quản lý; Bảng quyết toán chi tiết chi phí quản lý dự án và các khoản chi phí khác, đính kèm chứng từ có liên quan;
+- 01 Bản chính - Hoá đơn, chứng từ mua bán vật tư, thiết bị hợp lệ, hợp pháp (trừ vật tư có trong Thông báo giá áp dụng trên địa bàn thành phố Đà Nẵng); biên lai thu các loại phí;
+- 01 Bản chính - Đĩa CD chứa thông tin dữ liệu về hồ sơ quyết toán (được thực hiện trên phần mềm Microsoft Excel và sử dụng phông chữ Times new Roman).
+ * Ghi chú:
+ - Mỗi phần hồ sơ đóng thành tập để thuận tiện kiểm tra, lưu trữ;
+ - Ngoài ra tuỳ đặc điểm của công trình mà đơn vị có trách nhiệm xuất trình các tài liệu có liên quan để phục vụ công tác thẩm tra quyết toán.
+ - Toàn bộ hồ sơ đến người có thẩm quyền quyết định phê duyệt quyết toán là bản chính hoặc bản do chủ đầu tư sao y bản chính.

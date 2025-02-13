@@ -1,0 +1,9 @@
+Tên thủ tục: Tự công bố lưu hành giống cây trồng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Bản tự công bố lưu hành giống cây trồng theo Phụ lục IV ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec0db1886d7976'">Phụ lục IV.docx</a>)
+- 01 Bản chính - Quy trình canh tác của giống do tổ chức, cá nhân tự công bố lưu hành giống cây trồng biên soạn.
+- 01 Bản chính - Bản công bố các thông tin về giống cây trồng theo Mẫu số 02.CN Phụ lục II ban hành kèm theo Nghị định số 94/2019/NĐ-CP ngày 13/12/2019. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9831f34c930d8'">Mẫu số 02.CN.doc</a>)

@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục điều chỉnh dự án đầu tư trong trường hợp nhà đầu tư nhận chuyển nhượng dự án đầu tư là tài sản bảo đảm đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của UBND cấp tỉnh hoặc Ban Quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 03 Bản sao - Văn bản đề nghị điều chỉnh dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4dd103163d553'">Mẫu A.I.11.c.docx</a>)
+- 01 Bản chính, 03 Bản sao - Hợp đồng chuyển nhượng dự án đầu tư giữa bên nhận bảo đảm và nhà đầu tư nhận chuyển nhượng;
+- 01 Bản chính, 03 Bản sao - Hợp đồng cho vay hoặc hợp đồng cấp tín dụng hoặc hợp đồng mua bán nợ (nếu có);
+- 01 Bản chính, 03 Bản sao - Hợp đồng hoặc văn bản xác nhận giao dịch bảo đảm (nếu có);
+- 01 Bản chính, 03 Bản sao - Văn bản xác nhận trúng đấu giá trong trường hợp bên nhận bảo đảm, cơ quan thi hành án dân sự bán đấu giá tài sản (nếu có);
+- 04 Bản sao - Bản sao tài liệu về tư cách pháp lý của nhà đầu tư chuyển nhượng và nhà đầu tư nhận chuyển nhượng;
+- 04 Bản sao - Bản sao Giấy chứng nhận đăng ký đầu tư; Quyết định chấp thuận chủ trương đầu tư; Quyết định chấp thuận nhà đầu tư (nếu có);
+- 04 Bản sao - Bản sao một trong các tài liệu sau của nhà đầu tư nhận chuyển nhượng: báo cáo tài chính 02 năm gần nhất hoặc báo cáo kiểm toán vốn chủ sở hữu của nhà đầu tư, cam kết hỗ trợ tài chính của công ty mẹ, cam kết hỗ trợ tài chính của tổ chức tài chính, bảo lãnh về năng lực tài chính của nhà đầu tư, tài liệu thuyết minh năng lực tài chính của nhà đầu tư;
+- 01 Bản chính, 03 Bản sao - Văn bản xác nhận của bên nhận bảo đảm về tình trạng pháp lý của tài sản bảo đảm.

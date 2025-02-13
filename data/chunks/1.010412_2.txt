@@ -1,0 +1,11 @@
+Tên thủ tục: Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải công nghiệp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Đối với cơ sở có tổng lượng nước thải trung bình trong năm tính phí từ 20m3/ngày trở lên:
+Hàng quý, chậm nhất là ngày 20 của tháng đầu tiên của quý tiếp theo, người nộp phí kê khai phí theo Mẫu số 02 ban hành kèm theo Nghị định số 53/2020/NĐ-CP ngày 05 tháng 5 năm 2020 của Chính phủ quy định phí bảo vệ môi trường đối với nước thải với Phòng Tài nguyên và Môi trường và nộp phí vào tài khoản “Tạm thu phí bảo vệ môi trường đối với nước thải công nghiệp” của Phòng Tài nguyên và Môi trường mở tại Kho bạc Nhà nước, nộp bổ sung số phí phải nộp theo Thông báo của Phòng Tài nguyên và Môi trường (nếu có) trong thời hạn 10 ngày kể từ khi có Thông báo.
+Phòng Tài nguyên và Môi trường thực hiện thẩm định tờ khai phí, trường hợp số phí bảo vệ môi trường phải nộp khác với số phí người nộp phí đã kê khai thì ra Thông báo nộp bổ sung theo Mẫu số 03 ban hành kèm theo Nghị định số 53/2020/NĐ-CP ngày 05/5/2020 của Chính phủ quy định phí bảo vệ môi trường đối với nước thải hoặc điều chỉnh giảm số phí phải nộp vào kỳ nộp phí tiếp theo.
+- Đối với cơ sở có tổng lượng nước thải trung bình trong năm tính phí dưới 20m3/ngày:
+Người nộp phí kê khai phí một lần với Phòng Tài nguyên và Môi trường khi mới bắt đầu hoạt động theo Mẫu số 02 ban hành kèm theo Nghị định số 53/2020/NĐ-CP ngày 05 tháng 5 năm 2020 của Chính phủ quy định phí bảo vệ môi trường đối với nước thải, thời gian khai chậm nhất là ngày 20 tháng liền sau tháng bắt đầu hoạt động.
+Nộp phí một lần cho cả năm theo Thông báo của Phòng Tài nguyên và Môi trường, thời hạn nộp phí chậm nhất là ngày 31 tháng 3 hàng năm. Trường hợp cơ sở bắt đầu hoạt động sau ngày 31 tháng 3 hàng năm thực hiện nộp phí theo Thông báo của Phòng Tài nguyên và Môi trường trong thời hạn 10 ngày kể từ khi có Thông báo.
+Phòng Tài nguyên và Môi trường thực hiện thẩm định tờ khai phí, trường hợp số phí bảo vệ môi trường phải nộp khác với số phí người nộp phí đã kê khai thì ra Thông báo nộp bổ sung theo Mẫu số 03 ban hành kèm theo Nghị định số 53/2020/NĐ-CP ngày 05 tháng 5 năm 2020 của Chính phủ quy định phí bảo vệ môi trường đối với nước thải hoặc điều chỉnh giảm số phí phải nộp vào kỳ nộp phí tiếp theo.

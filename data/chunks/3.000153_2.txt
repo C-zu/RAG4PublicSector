@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục liên thông đăng ký điều chỉnh đóng bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp và báo cáo tình hình sử dụng lao động
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Khai báo tăng giảm lao động và báo cáo tình hình sử dụng lao động
+Bước 1: Doanh nghiệp truy cập vào cổng DVCQG.
+Bước 2: Tìm kiếm và Chọn “Thủ tục liên thông đăng ký điều chỉnh đóng BHXH bắt buộc, BHYT, BHTN và báo cáo tình hình sử dụng lao động”.
+Bước 3: Chọn cơ quan gửi báo cáo lao động (Sở LĐTBXH hoặc Phòng LĐTBXH).
+Bước 4: Doanh ngiệp nhập biểu mẫu khai báo và gửi hồ sơ trên hệ thống BHXH.
+Bước 5: Cán bộ BHXH xử lý hồ sơ liên quan đến BHXH
+Bước 6: Cổng DVCQG lấy Dữ liệu Lao động từ hệ thống CSDL BHXH
+Bước 7: Cổng DVCQ tự động gửi báo cáo về hệ thống một cửa của địa phương theo kì báo cáo do Bộ LĐTBXH quy định.

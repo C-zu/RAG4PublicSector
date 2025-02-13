@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện buôn bán phân bón
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- 13 ngày làm việc đối với trường hợp cấp lại Giấy chứng nhận đủ điều kiện buôn bán phân bón thay đổi về địa điểm buôn bán phân bón (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân). - 05 ngày làm việc đối với trường hợp cấp lại Giấy chứng nhận bị mất, hư hỏng; thay đổi nội dung thông tin tổ chức, cá nhân ghi trên Giấy chứng nhận (kể từ ngày nhận đủ hồ sơ hợp lệ).|Phí : 200000 Đồng Phí thẩm định cấp lại giấy chứng nhận đủ điều kiện buôn bán phân bón: 200.000 đồng/01 cơ sở/lần.||
+|Trực tuyến|- 13 ngày làm việc đối với trường hợp cấp lại Giấy chứng nhận đủ điều kiện buôn bán phân bón thay đổi về địa điểm buôn bán phân bón (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân). - 05 ngày làm việc đối với trường hợp cấp lại Giấy chứng nhận bị mất, hư hỏng; thay đổi nội dung thông tin tổ chức, cá nhân ghi trên Giấy chứng nhận (kể từ ngày nhận đủ hồ sơ hợp lệ).|Phí : 200000 Đồng Phí thẩm định cấp lại giấy chứng nhận đủ điều kiện buôn bán phân bón: 200.000 đồng/01 cơ sở/lần.||
+|Dịch vụ bưu chính|- 13 ngày làm việc đối với trường hợp cấp lại Giấy chứng nhận đủ điều kiện buôn bán phân bón thay đổi về địa điểm buôn bán phân bón (kể từ ngày nhận đủ hồ sơ, không tính thời gian khắc phục nếu có của tổ chức, cá nhân). - 05 ngày làm việc đối với trường hợp cấp lại Giấy chứng nhận bị mất, hư hỏng; thay đổi nội dung thông tin tổ chức, cá nhân ghi trên Giấy chứng nhận (kể từ ngày nhận đủ hồ sơ hợp lệ).|Phí : 200000 Đồng Phí thẩm định cấp lại giấy chứng nhận đủ điều kiện buôn bán phân bón: 200.000 đồng/01 cơ sở/lần.||

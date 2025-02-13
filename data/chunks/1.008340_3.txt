@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế thu nhập cá nhân tháng/quý của tổ chức, cá nhân trả thu nhập thực hiện khấu trừ thuế đối với thu nhập từ đầu tư vốn, từ chuyển nhượng chứng khoán, từ bản quyền, từ nhượng quyền thương mại, từ trúng thưởng của cá nhân cư trú và cá nhân không cư trú; từ kinh doanh của cá nhân không cư trú; Tổ chức, cá nhân khi nhận chuyển nhượng vốn góp của cá nhân không cư trú
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không phải trả kết quả cho người nộp thuế|||
+|Trực tuyến|Không phải trả kết quả cho người nộp thuế|||
+|Dịch vụ bưu chính|Không phải trả kết quả cho người nộp thuế|||

@@ -1,0 +1,18 @@
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp hoạt động dịch vụ việc làm
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Doanh nghiệp được rút tiền ký quỹ trong các trường hợp sau đây:
+- Doanh nghiệp không được cấp giấy phép.
+- Doanh nghiệp bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép.
+- Doanh nghiệp đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác.
+- Doanh nghiệp gặp khó khăn, không đủ khả năng bồi thường cho người lao động, người sử dụng lao động do vi phạm quy định về dịch vụ việc làm sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật.
+Doanh nghiệp được rút tiền ký quỹ trong các trường hợp sau đây:
+- Doanh nghiệp không được cấp giấy phép.
+- Doanh nghiệp bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép.
+- Doanh nghiệp đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác.
+- Doanh nghiệp gặp khó khăn, không đủ khả năng bồi thường cho người lao động, người sử dụng lao động do vi phạm quy định về dịch vụ việc làm sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

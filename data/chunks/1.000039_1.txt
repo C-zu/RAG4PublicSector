@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục gia hạn tạm trú, cấp thị thực mới cho người nước ngoài đang tạm trú ở Việt Nam tại cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000039
+Số quyết định:
+3558/QĐ-BNG
+Tên thủ tục:
+Thủ tục gia hạn tạm trú, cấp thị thực mới cho người nước ngoài đang tạm trú ở Việt Nam tại cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Công tác lãnh sự

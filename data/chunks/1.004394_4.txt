@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 04 Bản sao Phương án kỹ thuật (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4e91952eac4f9'">Mẫu số 04.docx</a>)
+- 01 Bản chính, 04 Bản sao Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc541b496b43568'">Mẫu số 02.docx</a>)
+- 01 Bản chính, 04 Bản sao Phương án kinh doanh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdac2bb9db97798'">Mẫu số 03.docx</a>)

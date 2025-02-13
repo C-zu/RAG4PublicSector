@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002163
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Thông báo khai báo vũ khí thô sơ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+Bước 1: Cơ quan, tổ chức ở trung ương có nhu cầu khai báo vũ khí thô sơ nộp hồ sơ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an vào giờ hành chính các ngày làm việc trong tuần, qua Cổng dịch vụ công trực tuyến hoặc qua dịch vụ bưu chính.
+Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ. Nếu hồ sơ đủ điều kiện, thủ tục thì tiếp nhận hồ sơ, giao giấy biên nhận hoặc thông báo trên Cổng dịch vụ công trực tuyến cho người được cơ quan, tổ chức, doanh nghiệp giao nộp hồ sơ. Trường hợp hồ sơ đủ điều kiện nhưng thiếu thủ tục hoặc kê khai chưa đầy đủ, chính xác thì hướng dẫn bằng văn bản hoặc thông báo trên Cổng dịch vụ công trực tuyến ghi rõ thủ tục, nội dung cần bổ sung, kê khai. Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận hồ sơ và trả lời bằng văn bản hoặc thông báo trên Cổng dịch vụ công trực tuyến nêu rõ lý do không tiếp nhận hồ sơ.
+Bước 3: Căn cứ theo ngày hẹn trên giấy biên nhận hoặc thông báo trên Cổng dịch vụ công trực tuyến, cơ quan, tổ chức thực hiện khai báo vũ khí thô sơ đến nhận Thông báo xác nhận khai báo vũ khí thô sơ hoặc nhận qua Cổng dịch vụ công trực tuyến, qua dịch vụ bưu chính.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|||
+|Trực tuyến|3 Ngày làm việc|||
+|Dịch vụ bưu chính|3 Ngày làm việc|||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy giới thiệu
+- 01 Bản sao Bản sao hóa đơn hoặc bản sao phiếu xuất kho
+- 01 Bản sao Bản sao thẻ Căn cước công dân, Chứng minh nhân dân, Hộ chiếu hoặc Chứng minh Công an nhân dân của người đến liên hệ
+- 01 Bản sao Bản sao Giấy phép trang bị vũ khí thô sơ
+- 01 Bản chính Văn bản đề nghị của cơ quan, tổ chức, đơn vị nêu rõ số lượng, chủng loại, nước sản xuất; nhãn hiệu, số hiệu, ký hiệu (nếu có) của từng vũ khí thô sơ
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+Nộp hồ sơ trực tiếp tại cơ quan Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo xác nhận khai báo vũ khí thô sơ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|14/2017/QH14|Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|20-06-2017|Quốc Hội|
+|Thông tư 16/2018/TT-BCA|Quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|15-05-2018|Bộ Công an|
+|Thông tư 17/2018/TT-BCA|Quy định về trang bị vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ|15-05-2018|Bộ Công an|
+|Nghị định 79/2018/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|16-05-2018|Chính phủ|
+|45/2020/NĐ-CP|Nghị định 45/2020/NĐ-CP|08-04-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

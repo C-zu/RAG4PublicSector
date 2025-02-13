@@ -1,0 +1,19 @@
+Tên thủ tục: Cấp Giấy phép CITES xuất khẩu, tái xuất khẩu mẫu vật các loài động vật rừng, thực vật rừng nguy cấp, quý, hiếm và động vật, thực vật hoang dã nguy cấp thuộc các Phụ lục CITES
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd243fd25fe2766'">Mẫu số 12. Đề nghị cấp phép Cites.docx</a>)
+- 01 Bản sao + Bản sao tài liệu chứng minh mẫu vật có nguồn gốc hợp pháp.
+- 01 Bản chính - Trường hợp xuất khẩu, tái xuất khẩu mẫu vật không vì mục đích thương mại phục vụ nghiên cứu khoa học, quan hệ ngoại giao: + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ.
+- 01 Bản sao + Bản sao tài liệu chứng minh mẫu vật có nguồn gốc hợp pháp.
+- 01 Bản sao + Bản sao giấy phép nhập khẩu do Cơ quan quản lý CITES nước nhập khẩu cấp đối với mẫu vật loài thuộc Phụ lục I CITES
+- 01 Bản sao Bản sao bản ký kết về chương trình hợp tác nghiên cứu khoa học do cơ quan có thẩm quyền phê duyệt đối với trường hợp phục vụ nghiên cứu khoa học; hoặc văn bản xác nhận quà biếu, tặng ngoại giao do cơ quan có thẩm quyền xác nhận đối với trường hợp phục vụ quan hệ ngoại giao.
+- 01 Bản chính - Trường hợp xuất khẩu, tái xuất khẩu mẫu vật không vì mục đích thương mại phục vụ triển lãm không vì mục đích thương mại, biểu diễn xiếc: + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ.
+- 01 Bản sao + Bản sao tài liệu chứng minh mẫu vật có nguồn gốc hợp pháp.
+- 01 Bản sao + Bản sao quyết định cử đi tham dự triển lãm, biểu diễn xiếc ở nước ngoài của cơ quan có thẩm quyền hoặc giấy mời tham dự của tổ chức nước ngoài; bản sao giấy phép nhập khẩu do Cơ quan quản lý CITES nước nhập khẩu cấp đối với mẫu vật quy định tại Phụ lục I CITES.
+- 01 Bản chính - Trường hợp xuất khẩu, tái xuất khẩu mẫu vật săn bắn: + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ.
+- 01 Bản sao + Bản sao hồ sơ nguồn gốc hợp pháp của mẫu vật hoặc bản sao giấy phép, chứng chỉ mẫu vật săn bắn do cơ quan có thẩm quyền của nước có liên quan cấp.
+- 01 Bản chính - Trường hợp xuất khẩu, tái xuất khẩu mẫu vật tiền Công ước: + Đề nghị cấp giấy phép theo Mẫu số 12 ban hành kèm theo Nghị định số 06/2019/NĐ-CP ngày 22/01/2019 của Chính phủ.
+- 01 Bản sao + Bản sao hồ sơ chứng minh mẫu vật tiền Công ước; hoặc bản sao Giấy phép CITES nhập khẩu đối với trường hợp tái xuất khẩu mẫu vật.

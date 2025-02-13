@@ -1,0 +1,17 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu (đối với công trình xây dựng trên địa bàn thuộc trách nhiệm quản lý của UBND cấp huyện)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện: 
+- Tổ chức, cá nhân đề nghị thẩm định gửi hồ sơ đến bộ phận Tiếp nhận và Trả kết quả cấp huyện bằng một trong các cách thức sau:
++ Trực tiếp.
++ Qua dịch vụ bưu chính công ích.
++ Trực tuyến (cung cấp theo lộ trình) trên Cổng Dịch vụ công quốc gia, địa chỉ website https://dichvucong.gov.vn hoặc Cổng Dịch vụ công trực tuyến tỉnh Cà Mau, địa chỉ website http://dichvucong.camau.gov.vn (nếu đủ điều kiện theo quy định).
+- Thời gian tiếp nhận vào giờ hành chính các ngày làm việc trong tuần (trừ ngày nghỉ lễ theo quy định), cụ thể như sau:
++ Buổi sáng: Từ 07 giờ 00 phút đến 11 giờ 00 phút.
++ Buổi chiều: Từ 13 giờ 00 phút đến 17 giờ 00 phút.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc||Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Trực tuyến|15 Ngày làm việc||Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc||Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ|

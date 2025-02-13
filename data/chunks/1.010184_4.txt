@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định dự án/dự án điều chỉnh hoặc thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình đề nghị thẩm định dự án/ dự án điều chình hoặc thiết kế cơ sở/ thiết kế cơ sở điều chỉnh, theo mẫu BM.XD.07.01
+- 01 Bản chính Báo cáo nghiên cứu khả thi đầu tư xây dựng trong trường hợp thẩm định dự án/dự án điều chỉnh; hồ sơ thiết kế cơ sở (thuyết minh và bản vẽ) trong trường hợp thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh;
+- 01 Bản sao Các tài liệu, văn bản pháp lý có liên quan.

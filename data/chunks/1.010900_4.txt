@@ -1,0 +1,9 @@
+Tên thủ tục: Mở ngành đào tạo trình độ đại học, trình độ thạc sĩ hoặc trình độ tiến sĩ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị mở ngành đào tạo: tóm tắt quá trình xây dựng đề án, báo cáo khẳng định về việc bảo đảm đủ các điều kiện theo quy định để được mở ngành đào tạo và đề nghị cấp có thẩm quyền quyết định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedfde0a07407f7'">Mau xac nhan dieu kien thuc te_Phu luc III-TT02.docx</a>)
+- 01 Bản chính Đề án mở ngành đào tạo đã được thẩm định theo quy định tại Điều 9 Thông tư số 02/2022/TT-BGDĐT, bảo đảm đầy đủ các nội dung theo quy định tại Điều 8 Thông tư số 02/2022/TT-BGDĐT
+- 01 Bản chính Công văn của đại học chấp thuận về mặt chủ trương (đối với các đơn vị thành viên thuộc đại học khi mở ngành đào tạo thuộc lĩnh vực Sức khỏe và nhóm ngành Đào tạo giáo viên)

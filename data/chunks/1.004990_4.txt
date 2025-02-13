@@ -1,0 +1,35 @@
+Tên thủ tục: Cấp Giấy chứng nhận, tem kiểm định chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Kiểm tra bất thường
+- 01 Bản chính Hồ sơ kỹ thuật của phương tiện hoặc tổng thành, thiết bị, linh kiện
+- 01 Bản chính Giấy chứng nhận của phương tiện đang còn hiệu lực
+
+
+Đối với kiểm tra phương tiện hoán cải
+- 01 Bản chính Bản chính hoặc bản điện tử Đơn đăng ký kiểm tra theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe711d87bab395e'">1.004990.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Báo cáo kết quả kiểm tra hoặc báo cáo kết quả thử nghiệm theo quy định tại quy chuẩn kỹ thuật quốc gia tương ứng;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Ảnh chụp thể hiện rõ số hiệu, hình ảnh tổng thể thiết bị, phương tiện
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý tài liệu kỹ thuật của thiết bị, phương tiện theo mẫu quy định.
+
+
+Đối với kiểm tra sản phẩm nhập khẩu
+- 01 Bản chính Bản chính hoặc bản điện tử Đơn đăng ký kiểm tra theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde3201697b232e'">1.004990.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Báo cáo kết quả kiểm tra hoặc báo cáo kết quả thử nghiệm theo quy định tại quy chuẩn kỹ thuật quốc gia tương ứng
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Ảnh chụp thể hiện rõ số hiệu, hình ảnh tổng thể thiết bị, phương tiện
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý tài liệu kỹ thuật của thiết bị, phương tiện theo mẫu quy định.
+
+
+Đối với kiểm tra sản phẩm sản xuất, lắp ráp
+- 01 Bản chính Bản chính hoặc bản điện tử Đơn đăng ký kiểm tra theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0032d43ba9aba'">1.004990.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Báo cáo kết quả kiểm tra hoặc báo cáo kết quả thử nghiệm theo quy định tại quy chuẩn kỹ thuật quốc gia tương ứng;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Ảnh chụp thể hiện rõ số hiệu, hình ảnh tổng thể thiết bị, phương tiện.
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý tài liệu kỹ thuật của thiết bị, phương tiện theo mẫu quy định.
+
+
+Đối với kiểm tra định kỳ phương tiện
+- 01 Bản chính Bản chính hoặc bản điện tử Đơn đăng ký kiểm tra theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd158976876e5fc'">1.004990.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Báo cáo kết quả kiểm tra hoặc báo cáo kết quả thử nghiệm theo quy định tại quy chuẩn kỹ thuật quốc gia tương ứng
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao có giá trị pháp lý hoặc bản điện tử có giá trị pháp lý: Ảnh chụp thể hiện rõ số hiệu, hình ảnh tổng thể thiết bị, phương tiện

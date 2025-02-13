@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký hoạt động thử nghiệm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký hoạt động thử nghiệm (theo Mẫu); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd09b48f6ff3188'">Đơn đăng ký hoạt động thử nghiệm.docx</a>)
+- 01 Bản sao - Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+ - Danh sách thử nghiệm viên và các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên gồm: (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd29ad04029064'">Danh sách thử nghiệm viên.docx</a>)
+- 01 Bản sao Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 5 Nghị định 107/2016/NĐ-CP (theo Mẫu);
+- 01 Bản chính - Tài liệu chứng minh năng lực hoạt động thử nghiệm đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành:
+- 01 Bản sao + Bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận đối với trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 21 Nghị định 107/2016/NĐ-CP hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP;
+- 01 Bản sao + Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 21 Nghị định này hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 Nghị định 107/2016/NĐ-CP công nhận hoạt động thử nghiệm, nhưng đăng ký hoạt động thử nghiệm rộng hơn phạm vi được công nhận, tổ chức thử nghiệm nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận và các tài liệu, quy trình thử nghiệm, các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 5 Nghị định 107/2016/NĐ-CP đối với phạm vi chưa được công nhận . - Mẫu phiếu kết quả thử nghiệm;

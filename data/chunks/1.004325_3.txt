@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận lưu hành, tem lưu hành cho xe chở hàng bốn bánh có gắn động cơ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Cấp ngay sau khi kiểm tra đạt yêu cầu|Lệ phí : 50000 Đồng Lệ phí cấp giấy chúng nhận 50000 đồng/01 Giấy chứng nhận  Mức giá : 180000 Đồng Giá dịch vụ kiểm định 180000 đồng/xe||
+|Trực tuyến|Cấp ngay sau khi kiểm tra đạt yêu cầu|Lệ phí : 50000 Đồng Lệ phí cấp giấy chúng nhận 50000 đồng/01 Giấy chứng nhận  Mức giá : 180000 Đồng Giá dịch vụ kiểm định 180000 đồng/xe||
+|Dịch vụ bưu chính|Cấp ngay sau khi kiểm tra đạt yêu cầu|Lệ phí : 50000 Đồng Lệ phí cấp giấy chúng nhận 50000 đồng/01 Giấy chứng nhận  Mức giá : 180000 Đồng Giá dịch vụ kiểm định 180000 đồng/xe||

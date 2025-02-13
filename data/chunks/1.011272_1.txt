@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp Biển hiệu xe ô tô vận tải khách du lịch
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.011272
+Số quyết định:
+2444./QĐ- UBND
+Tên thủ tục:
+Cấp Biển hiệu xe ô tô vận tải khách du lịch
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ

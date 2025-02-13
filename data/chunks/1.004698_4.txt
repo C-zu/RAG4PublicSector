@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy phép kèm danh sách nhân viên được đề nghị; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9f78c02b71479'">1.004698_đề nghị.docx</a>)
+- 01 Bản chính - Bản khai cá nhân của người đề nghị cấp Giấy phép theo mẫu dán 01 ảnh màu chân dung kích thước 3 cm x 4 cm (đối với trường hợp gửi trực tiếp hoặc qua đường bưu chính hoặc bằng các hình thức phù hợp khác) hoặc ảnh màu chân dung kích thước 3 cm x 4 cm được số hóa (đối với trường hợp gửi trên môi trường điện tử). Ảnh chụp không quá 06 tháng kể từ ngày chụp tính đến ngày nộp hồ sơ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf38fda8e6f490'">1.004698_Đơn cá nhân.docx</a>)
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy phép lái xe cơ giới đường bộ phù hợp (đối với trường hợp nhân viên điều khiển phương tiện);
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Bản sao chứng chỉ chuyên môn theo quy định.

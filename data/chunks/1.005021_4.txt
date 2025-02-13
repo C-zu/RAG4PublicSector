@@ -1,0 +1,12 @@
+Tên thủ tục: Phê duyệt quy trình vận hành, khai thác bến bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị phê duyệt quy trình vận hành, khai thác bến theo mẫu (bản chính); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7d95ced6f1e6c'">22. Đơn đề nghị phê duyệt quy trình vận hành, khai thác bến theo mẫu.doc</a>)
+- 01 Bản chính Quyết định thành lập hoặc giấy cấp phép hoạt động của bến còn hiệu lực do cơ quan nhà nước có thẩm quyền cấp (bản sao công chứng);
+- 01 Bản chính Giấy chứng nhận đăng ký phương tiện thủy nội địa (bản sao công chứng);
+- 01 Bản chính Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện thủy nội địa còn hiệu lực (bản sao công chứng);
+- 01 Bản chính Dự thảo Quy trình vận hành, khai thác bến
+- 01 Bản chính Các tài liệu khác liên quan.

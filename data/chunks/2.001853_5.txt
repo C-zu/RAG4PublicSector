@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký đầu tư đối với dự án thuộc diện quyết định chủ trương đầu tư
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư
+Cơ quan có thẩm quyền:
+Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương., Quốc Hội, Thủ tướng Chính phủ
+Địa chỉ tiếp nhận HS:
+trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký đầu tư (theo mẫu số II.2 ban hành kèm theo Thông tư số 16/2015/TT-BKHĐT).
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|118/2015/NĐ-CP|Nghị định 118/2015/NĐ-CP|12-11-2015|Chính phủ|
+|16/2015/TT-BKHĐT|Thông tư 16/2015/TT-BKHĐT|18-11-2015|Bộ Kế hoạch và Đầu tư|
+|67/2014/QH13|Luật 67/2014/QH13 -Đầu tư|26-11-2014|Quốc Hội|

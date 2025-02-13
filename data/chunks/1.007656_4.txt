@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục công nhận hoạt động đại lý làm thủ tục hải quan
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị công nhận đủ điều kiện hoạt động đại lý làm thủ tục hải quan theo Mẫu số 04 ban hành kèm theo Thông tư số 12/2015/TT-BTC: 01 bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5b29927b78c85'">Mẫu số 04, 05 Thong tu 12.2015.TT-BTC.docx</a>)
+ - Hồ sơ đề nghị cấp mã số nhân viên đại lý làm thủ tục hải quan theo quy định tại khoản 1 Điều 9 Thông tư 12/2015/TT-BTC. Cụ thể như sau:
+- 01 Bản chính + Đơn đề nghị cấp mã số nhân viên đại lý làm thủ tục hải quan theo mẫu số 07 ban hành kèm Thông tư: 01 bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee865cbdc9b0d0'">22_2019_TT_BTC_PL.doc</a>)
+- 01 Bản sao + Bằng tốt nghiệp đại học, cao đẳng thuộc các chuyên ngành luật, kinh tế, kỹ thuật: 01 bản chụp
+- 01 Bản sao + Chứng chỉ nghiệp vụ khai hải quan: 01 bản chụp;
+- 01 Bản sao + Giấy chứng nhận hoàn thành khóa đào tạo bổ sung kiến thức pháp luật hải quan (Trường hợp Chứng chỉ nghiệp vụ khai hải quan quá thời hạn 05 năm kể từ ngày cấp): 01 bản chụp;
+- 01 Bản sao + Chứng minh nhân dân/Căn cước công dân (Trường hợp cơ sở dữ liệu quốc gia về dân cư chưa đưa vào vận hành): 01 bản chụp;
+- 01 Bản chính + Một (01) ảnh màu 2x3 được chụp trong thời gian 06 tháng.
+ Số lượng hồ sơ: 01 bộ

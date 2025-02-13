@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép khai thác, sử dụng nước dưới đất đối với công trình có lưu lượng trên 10m3/ngày đêm đến dưới 20m3/ngày đêm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính  Đơn đề nghị cấp giấy phép khai thác nước dưới đất (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfbf477fb936fc'">Mẫu 03.docx</a>)
+- 02 Bản chính  Sơ đồ khu vực và vị trí công trình khai thác nước dưới đất.
+- 02 Bản chính  Báo cáo kết quả thi công giếng khai thác nước dưới đất đối với công trình có lưu lượng nhỏ hơn 200 m3/ngày đêm (Mẫu 26 - Kèm theo Thông tư số 27/2014/TT-BTNMT ngày 30/5/2014) hoặc Báo cáo hiện trạng khai thác nước dưới đất đối với công trình khai thác nước dưới đất đang hoạt động (Mẫu 27 - Kèm theo Thông tư số 27/2014/TT-BTNMT ngày 30/5/2014) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec67e515e1163e'">Mẫu 26-27.docx</a>)

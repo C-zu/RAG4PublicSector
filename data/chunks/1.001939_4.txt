@@ -1,0 +1,25 @@
+Tên thủ tục: Đăng ký đóng, cấp thẻ BHYT đối với người chỉ tham gia BHYT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+1. Đối với người tham gia
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS) đối với người tham gia lần đầu hoặc có mã số BHXH nhưng chưa đủ thông tin. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe40b6f8512dd8c'">Mẫu TK1-TS.docx</a>)
+- 01 Bản chính Trường hợp người tham gia do ngân sách nhà nước hỗ trợ một phần mức đóng BHYT, người tham gia BHYT theo hộ gia đình nộp qua Cổng Dịch vụ công thì kê khai Tờ khai đăng ký đóng, cấp thẻ BHYT trên Cổng Dịch vụ công (Mẫu 01-TK) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1c79b40953c42'">Mẫu 01-TK.docx</a>)
+- 01 Bản chính, 01 Bản sao Trường hợp người tham gia là người đã hiến bộ phận cơ thể người theo quy định của pháp luật: bổ sung Giấy ra viện có ghi rõ "đã hiến bộ phận cơ thể".
+- 01 Bản chính Trường hợp người tham gia được hưởng quyền lợi BHYT cao hơn: bổ sung Giấy tờ chứng minh (nếu có) theo Phụ lục 03 (ban hành kèm theo Quyết định số 948/QĐ-BHXH ngày 05/6/2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5b792de75abfe'">Phụ lục 03.docx</a>)
+
+
+2. Đơn vị; UBND xã; Cơ sở trợ giúp xã hội, Cơ sở nuôi dưỡng, điều dưỡng thương binh và người có công/Cơ sở giáo dục nghề nghiệp thuộc ngành lao động, thương binh và xã hội; Tổ chức dịch vụ/Cơ sở giáo dục
+- 01 Bản chính Danh sách người chỉ tham gia BHYT (Mẫu D03-TS) kèm theo mẫu TK1-TS của người tham gia (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea655a340aab0d'">Mẫu D03-TS.docx</a>)
+- 01 Bản chính Giấy thanh toán thù lao cho tổ chức làm dịch vụ thu (Mẫu C66a-HD) tương ứng với số tiền nộp (đối với Tổ chức dịch vụ/Cơ sở giáo dục) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd835fd5d4c176e'">Mẫu C66a-HD.docx</a>)
+- 01 Bản chính Danh sách đối tượng tham gia BHYT (Mẫu số 2) đối với đối tượng do Bộ Lao động – Thương binh và xã hội quản lý (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe92a426fd78708'">Mẫu số 2_NĐ 146.docx</a>)
+
+
+3. Phòng/Tổ chế độ BHXH
+- 01 Bản chính Danh sách người chỉ tham gia BHYT (Mẫu D03-TS) đối với người tham gia BHYT do tổ chức BHXH đóng (kể cả đối tượng đang chờ ban hành quyết định hưởng hưu trí). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde29641781ed74'">Mẫu D03-TS.docx</a>)
+
+
+4. Trường hợp hoàn trả tiền đã đóng
+- 01 Bản chính, 01 Bản sao a) Đối với người tham gia: - Tờ khai tham gia, điều chỉnh thông tin BHXH, BHYT (Mẫu TK1-TS). - Văn bản chứng thực hoặc bản chụp kèm theo bản chính Giấy chứng tử đối với trường hợp chết (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0a0be71cd8d54'">Mẫu TK1-TS.docx</a>)
+- 01 Bản chính b) Đối với Tổ chức dịch vụ/Cơ sở giáo dục: Trường hợp hoàn trả tiền đóng BHYT cho nhiều người trong cùng đối tượng, lập danh sách đề nghị hoàn trả theo mẫu D03-TS. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdcbf9960368320'">Mẫu D03-TS.docx</a>)

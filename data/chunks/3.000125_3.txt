@@ -1,0 +1,10 @@
+Tên thủ tục: Trao đổi nguồn gen giống vật nuôi quý, hiếm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Chưa quy định- Kiểm tra tính đầy đủ của hồ sơ: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ.|||
+|Trực tiếp|- Thẩm định hồ sơ và quyết định trên cơ sở chấp thuận của Thủ tướng Chính phủ: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|Phí : 850.000 Đồng 01 nguồn gen/lần||
+|Trực tuyến|Chưa quy định|||
+|Dịch vụ bưu chính|Chưa quy định|||

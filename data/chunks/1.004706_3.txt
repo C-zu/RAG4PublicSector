@@ -1,0 +1,9 @@
+Tên thủ tục: Đóng tạm thời một phần kết cấu hạ tầng cảng hàng không, sân bay
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam xem xét, quyết định việc đóng tạm thời một phần kết cấu hạ tầng cảng hàng không, sân bay và gửi kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến người khai thác công trình thuộc kết cấu hạ tầng cảng hàng không, sân bay. Trong trường hợp không chấp thuận, Cục Hàng không Việt Nam phải có văn bản thông báo, nêu rõ lý do.|
+|Trực tuyến|10 Ngày||Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam xem xét, quyết định việc đóng tạm thời một phần kết cấu hạ tầng cảng hàng không, sân bay và gửi kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến người khai thác công trình thuộc kết cấu hạ tầng cảng hàng không, sân bay. Trong trường hợp không chấp thuận, Cục Hàng không Việt Nam phải có văn bản thông báo, nêu rõ lý do.|
+|Dịch vụ bưu chính|10 Ngày||Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam xem xét, quyết định việc đóng tạm thời một phần kết cấu hạ tầng cảng hàng không, sân bay và gửi kết quả trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến người khai thác công trình thuộc kết cấu hạ tầng cảng hàng không, sân bay. Trong trường hợp không chấp thuận, Cục Hàng không Việt Nam phải có văn bản thông báo, nêu rõ lý do.|

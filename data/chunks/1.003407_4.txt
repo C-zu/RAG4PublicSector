@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận kiểm dịch động vật, sản phẩm động vật trên cạn xuất khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký kiểm dịch theo mẫu 2 phụ lục 5 Thông tư 25/2016/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe99ee92ba19e9f'">Mẫu 2 PLV TT25.docx</a>)
+- 01 Bản chính - Yêu cầu vệ sinh thú y của nước nhập khẩu hoặc chủ hàng (nếu có);
+- 01 Bản chính - Mẫu Giấy chứng nhận kiểm dịch của cơ quan có thẩm quyền của nước nhập khẩu (nếu có).

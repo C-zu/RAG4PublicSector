@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008659
+Số quyết định:
+1114/QĐ-UBND_ĐT
+Tên thủ tục:
+Thẩm định, phê duyệt Hồ sơ mời thầu/Hồ sơ yêu cầu/Hồ sơ mời quan tâm
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý xây dựng công trình
+Trình tự thực hiện:
+Bước 1: Tổ chức nộp hồ sơ tại Bộ phận Tiếp nhận và trả kết quả của Sở Nông nghiệp và Phát triển nông thôn thành phố Đà Nẵng.
+Bước 2: Kiểm tra tính đầy đủ, hợp lệ của các giấy tờ có trong hồ sơ, yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, hợp lệ. 
+Bước 3: Sở Nông nghiệp và Phát triển nông thôn thực hiện thẩm định hồ sơ và Ban hành Quyết định phê duyệt nếu đáp ứng đầy đủ các quy định.
+Bước 4: Trả kết quả cho tổ chức.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|11 Ngày làm việc|Phí : 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Căn cứ điểm b, Khoản 3, Điều 9, Nghị định 63/2014/NĐ-CP ngày 26/6/2014 về quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu: Chi phí thẩm định hồ sơ mời thầu, hồ sơ yêu cầu: Chi phí: 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Chi phí thẩm định hồ sơ mời quan tâm: Chi phí: 0,03% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 30.000.000 đồng|- Thời gian thẩm định: 07 ngày làm việc - Thời gian phê duyệt: 04 ngày làm việc|
+|Trực tuyến|11 Ngày làm việc|Phí : 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Căn cứ điểm b, Khoản 3, Điều 9, Nghị định 63/2014/NĐ-CP ngày 26/6/2014 về quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu: Chi phí thẩm định hồ sơ mời thầu, hồ sơ yêu cầu: Chi phí: 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Chi phí thẩm định hồ sơ mời quan tâm: Chi phí: 0,03% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 30.000.000 đồng|- Thời gian thẩm định: 07 ngày làm việc - Thời gian phê duyệt: 04 ngày làm việc|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình đề nghị thẩm định, phê duyệt Hồ sơ mời thầu/Hồ sơ yêu cầu/Hồ sơ mời quan tâm của tổ chức;
+- 01 Bản chính 2. Quyết định phê duyệt dự án hoặc Quyết định của người đứng đầu chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án (trong trường hợp chưa xác định được chủ đầu tư đối với gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án)
+- 01 Bản chính 3. Quyết định phê duyệt dự án điều chỉnh (nếu có)
+- 01 Bản chính 4. Quyết định phê duyệt kế hoạch lựa chọn nhà thầu;
+- 01 Bản chính 5. Quyết định phê duyệt kế hoạch lựa chọn nhà thầu điều chỉnh (nếu có);
+- 01 Bản chính 6. Hiệp định, hợp đồng vay vốn (nếu có)
+- 01 Bản chính 7. Tài liệu về thiết kế kèm theo dự toán được duyệt đối với gói thầu xây lắp hoặc yêu cầu về đặc tính, thông số kỹ thuật của hàng hóa (nếu có) đối với gói thầu mua sắm hàng hóa hoặc điều khoản tham chiếu đối với gói thầu tư vấn
+- 01 Bản chính 8. Các văn bản về việc điều chỉnh các tài liệu nêu trên (nếu có)
+- 01 Bản chính 9. Văn bản cho phép thực hiện theo hình thức lựa chọn nhà thầu hạn chế hoặc chỉ định thầu (nếu có).
+- 01 Bản chính 10. Bản vẽ thiết kế thi công, dự toán hoặc chứng từ thẩm định giá được duyệt và các văn bản pháp lý khác có liên quan.
+- 01 Bản chính 11. Đĩa CD gồm các file: toàn bộ bản vẽ thiết kế thi công, hồ sơ mời thầu, tiên lượng mời thầu;
+- 01 Bản chính 12. Hồ sơ mời thầu/ Hồ sơ yêu cầu/ Hồ sơ mời quan tâm (đối với lựa chọn nhà thầu rộng rãi và hạn chế) có chữ ký và đóng dấu của Tổ chức.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Nông nghiệp và Phát triển nông thôn TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận Tiếp nhận và trả kết quả của Sở Nông nghiệp và Phát triển Nông thôn thành phố Đà Nẵng, Số 03 Lý Tự Trọng, P. Thạch Thang, Q. Hải Châu, TP. Đà Nẵng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|63/2014/NĐ-CP|Nghị định 63/2014/NĐ-CP|26-06-2014|Chính phủ|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|43/2013/QH13|Luật đấu thầu|26-11-2013|Quốc Hội|
+|01/2015/TT-BKHĐT|Thông tư 01/2015/TT-BKHĐT|14-02-2015||
+|03/2015/TT-BKHĐT|Thông tư 03/2015/TT-BKHĐT|06-05-2015||
+|19/2015/TT-BKHĐT|Thông tư 19/2015/TT-BKHĐT|27-11-2015||
+|11/2015/TT-BKHĐT|Thông tư 11/2015/TT-BKHĐT|27-10-2015||
+|15/2016/QĐ-UBND|Ban hành Quy định một số nội dung về mua sắm, quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|20-05-2016|UBND Thành phố Đà Nẵng|
+|12/2020/QĐ-UBND|Quy định nội dung về quản lý đầu tư và xây dựng trên địa bàn thành phố Đà Nẵng|11-05-2020|UBND Thành phố Đà Nẵng|
+|04/2017/TT-BKHĐT|Quy định chi tiết về lựa chọn nhà thầu qua Hệ thống mạng đấu thầu quốc gia|15-11-2017|Bộ Kế hoạch và Đầu tư|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

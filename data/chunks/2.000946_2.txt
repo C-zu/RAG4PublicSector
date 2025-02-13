@@ -1,0 +1,26 @@
+Tên thủ tục: Đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng trong các dự án phát triển nhà ở
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trực tiếp
+(1) Đối với chủ đầu tư dự án 
+- Sau khi hoàn thành công trình, chủ đầu tư dự án phát triển nhà ở có trách nhiệm gửi hồ sơ đến Sở Tài nguyên và Môi trường.
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định.
+(2). Trong thời hạn không quá 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm kiểm tra hiện trạng sử dụng đất, nhà ở và công trình đã xây dựng và điều kiện chuyển nhượng quyền sử dụng đất, bán nhà ở, công trình xây dựng của chủ đầu tư dự án.
+Sau khi hoàn thành việc kiểm tra, Sở Tài nguyên và Môi trường có trách nhiệm gửi thông báo cho chủ đầu tư dự án về kết quả kiểm tra; gửi thông báo kèm theo sơ đồ nhà, đất và công trình xây dựng không phải là nhà ở đã kiểm tra cho Văn phòng đăng ký đất đai để làm thủ tục đăng ký nhà, đất và công trình xây dựng không phải là nhà ở cho bên mua đối với các trường hợp đủ điều kiện theo quy định của pháp luật; đăng công khai kết quả kiểm tra trên trang thông tin điện tử của Ủy ban nhân dân cấp tỉnh, của Sở Tài nguyên và Môi trường nơi có đất.
+- Chủ đầu tư dự án nhà ở có trách nhiệm nộp 01 bộ hồ sơ đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất thay cho người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng không phải là nhà ở hoặc cung cấp hồ sơ cho bên mua để tự đi đăng ký 
+(3) Đối với người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng:
+Người nhận chuyển nhượng quyền sử dụng đất, mua nhà ở, công trình xây dựng nộp hồ sơ tại Văn phòng đăng ký quyền sử dụng đất cấp tỉnh hoặc cơ quan tiếp nhận hồ sơ theo quy định của Ủy ban nhân dân cấp tỉnh.
+Trường hợp nhận hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời gian tối đa 03 ngày, cơ quan tiếp nhận, xử lý hồ sơ phải thông báo và hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định.
+(4). Văn phòng đăng ký quyền sử dụng đất cấp tỉnh có trách nhiệm thực hiện các công việc sau:
+- Kiểm tra các giấy tờ pháp lý trong hồ sơ; xác nhận đủ điều kiện hay không đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất vào đơn đăng ký;
+- Gửi số liệu địa chính đến cơ quan thuế để xác định nghĩa vụ tài chính (nếu có);
+- Cập nhật thông tin vào hồ sơ địa chính, cơ sở dữ liệu đất đai (nếu có);
+- Chuẩn bị hồ sơ để trình cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất quy định tại Điều 37 của Nghị định này;
+- Yêu cầu chủ đầu tư dự án nộp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đã được cấp để chỉnh lý vào hồ sơ địa chính, cơ sở dữ liệu đất đai;
+- Trao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho người đề nghị cấp Giấy chứng nhận.
+(5) Văn phòng đăng ký quyền sử dụng đất trao Giấy chứng nhận cho người được cấp.
+Thực hiện thủ tục trên môi trường điện tử
+- Cơ quan tiếp nhận, giải quyết hồ sơ có trách nhiệm thực hiện các trình tự, thủ tục hành chính về đất đai theo quy định của pháp luật về đất đai; trường hợp cần phải kiểm tra, xác minh làm rõ hoặc do nguyên nhân khác mà không trả kết quả giải quyết hồ sơ theo đúng quy định về thời gian giải quyết thủ tục hành chính về đất đai thì cơ quan tiếp nhận hồ sơ, giải quyết thủ tục gửi thông báo bằng văn bản hoặc qua Cổng dịch vụ công hoặc qua tin nhắn SMS cho người yêu cầu, trong đó nêu rõ lý do.
+- Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất có trách nhiệm hoàn thành nghĩa vụ tài chính theo quy định của pháp luật bằng hình thức trực tiếp hoặc trực tuyến thông qua chức năng thanh toán của Cổng dịch vụ công.
+Việc trả kết quả giải quyết thủ tục hành chính được thực hiện tại cơ quan tiếp nhận hồ sơ hoặc qua dịch vụ bưu chính công ích hoặc tại địa điểm theo yêu cầu đối với trường hợp tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục đăng ký đất đai, tài sản khác gắn liền với đất.

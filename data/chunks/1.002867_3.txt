@@ -1,0 +1,8 @@
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu theo phương thức kiểm tra thông thường
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng Đồng|Nộp hồ sơ đến cơ quan kiểm tra nhà nước|
+|Trực tuyến|3 Ngày làm việc|Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng Đồng|Cổng thông tin một cửa quốc gia|

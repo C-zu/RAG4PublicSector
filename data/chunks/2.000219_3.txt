@@ -1,0 +1,15 @@
+Tên thủ tục: Đề nghị tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Tháng|Phí : 0 Đồng|Kể từ ngày nhận được đề nghị tuyển từ 500 người lao động Việt Nam trở lên|
+|Trực tiếp|01 Tháng|Phí : 0 Đồng|tối đa 01 tháng kể từ ngày nhận được đề nghị tuyển từ 100 đến dưới 500 người lao động Việt Nam|
+|Trực tiếp|15 Ngày làm việc|Phí : 0 Đồng|kể từ ngày nhận được đề nghị tuyển dưới 100 người lao động Việt Nam kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Trực tuyến|02 Tháng|Phí : 0 Đồng|Kể từ ngày nhận được đề nghị tuyển từ 500 người lao động Việt Nam trở lên|
+|Trực tuyến|01 Tháng|Phí : 0 Đồng|tối đa 01 tháng kể từ ngày nhận được đề nghị tuyển từ 100 đến dưới 500 người lao động Việt Nam|
+|Trực tuyến|15 Ngày làm việc|Phí : 0 Đồng|kể từ ngày nhận được đề nghị tuyển dưới 100 người lao động Việt Nam kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|
+|Dịch vụ bưu chính|02 Tháng|Phí : 0 Đồng|Kể từ ngày nhận được đề nghị tuyển từ 500 người lao động Việt Nam trở lên|
+|Dịch vụ bưu chính|01 Tháng|Phí : 0 Đồng|tối đa 01 tháng kể từ ngày nhận được đề nghị tuyển từ 100 đến dưới 500 người lao động Việt Nam|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 0 Đồng|kể từ ngày nhận được đề nghị tuyển dưới 100 người lao động Việt Nam kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.|

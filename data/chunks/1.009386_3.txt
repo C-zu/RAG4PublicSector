@@ -1,0 +1,9 @@
+Tên thủ tục: Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản bản tin (địa phương)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày|Phí : 0 Đồng|Nộp trực tiếp tại Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.|
+|Trực tuyến|15 Ngày|Phí : 0 Đồng|Nộp qua Cổng dịch vụ công: + Cổng dịch vụ công quốc gia (http://dichvucong.gov.vn); hoặc + Cổng dịch vụ công của Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.|
+|Dịch vụ bưu chính|15 Ngày|Phí : 0 Đồng|Nộp qua hệ thống bưu chính đến Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.|

@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh dược cho cơ sở kinh doanh thuốc phải kiểm soát đặc biệt thuộc thẩm quyền của Sở Y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dược theo Mẫu số 19 Phụ lục I tại Phụ lục II của Nghị định số 155/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2c8291a0d1620'">ND54_Mau 19_Phu luc I PLII.docx</a>)
+- 01 Bản chính Tài liệu kỹ thuật bao gồm Giấy chứng nhận đủ điều kiện kinh doanh dược hoặc Giấy chứng nhận Thực hành tốt tại địa điểm kinh doanh (nếu có) và các tài liệu kỹ thuật sau: a) Đối với cơ sở bán buôn thuốc, nguyên liệu làm thuốc: Tài liệu về địa điểm, kho bảo quản thuốc, nguyên liệu làm thuốc, trang thiết bị bảo quản, phương tiện vận chuyển, hệ thống quản lý chất lượng, tài liệu chuyên môn kỹ thuật và nhân sự theo nguyên tắc Thực hành tốt phân phối thuốc, nguyên liệu làm thuốc; b) Đối với cơ sở bán lẻ thuốc: Tài liệu về địa điểm, khu vực bảo quản, trang thiết bị bảo quản, tài liệu chuyên môn kỹ thuật và nhân sự theo nguyên tắc Thực hành tốt cơ sở bán lẻ thuốc. Đối với cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền: Tài liệu chứng minh việc đáp ứng quy định tại khoản 5 Điều 31 của Nghị định 54/2017/NĐ-CP theo quy định của Bộ trưởng Bộ Y tế;
+- 01 Bản chính Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu pháp lý chứng minh việc thành lập cơ sở.
+- 01 Bản chính Bản sao có chứng thực Chứng chỉ hành nghề dược.
+- 01 Bản chính Tài liệu thuyết minh cơ sở đáp ứng các biện pháp bảo đảm an ninh, không thất thoát thuốc phải kiểm soát đặc biệt theo Mẫu số 18 Phụ lục II của Nghị định 54/2017/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3fd450dd045cf'">ND54_Mau 18_Phu luc II.docx</a>)
+- 01 Bản chính Danh mục các thuốc và qui trình pha chế các thuốc đối với cơ sở bán lẻ là nhà thuốc nếu có tổ chức pha chế theo đơn thuốc phải kiểm soát đặc biệt.

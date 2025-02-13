@@ -1,0 +1,7 @@
+Tên thủ tục: Thay đổi định mức sử dụng điện
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Khảo sát
+Ký Biên bản thỏa thuận số hộ sử dụng điện chung công tơ

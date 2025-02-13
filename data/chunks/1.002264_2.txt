@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục công nhận bảo vật quốc gia đối với bảo tàng chuyên ngành thuộc Bộ, ngành, tổ chức chính trị, tổ chức chính trị-xã hội ở trung ương
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Bảo tàng chuyên ngành thuộc Bộ, ngành, tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương gửi văn bản đề nghị và Hồ sơ hiện vật đến người đứng đầu Bộ, ngành, tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương là đơn vị chủ quản của bảo tàng kèm theo ý kiến thẩm định bằng văn bản của Hội đồng khoa học của bảo tàng (hoặc các hội đồng khác của bảo tàng có liên quan đến hiện vật).
+- Trong thời hạn 10 ngày, kể từ ngày nhận được văn bản đề nghị, Hồ sơ hiện vật và các văn bản có liên quan, Bộ trưởng, người đứng đầu ngành, tổ chức chính trị, tổ chức chính trị - xã hội ở trung ương xem xét, quyết định việc gửi văn bản đề nghị, Hồ sơ hiện vật và các văn bản có liên quan đến Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
+- Trong thời hạn 30 ngày kể từ ngày nhận được văn bản đề nghị, Hồ sơ hiện vật và các văn bản có liên quan, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch giao Hội đồng giám định cổ vật thẩm định hiện vật và Hồ sơ hiện vật.
+- Trong thời hạn 10 ngày, kể từ ngày có kết quả thẩm định của Hội đồng giám định cổ vật, Cục trưởng Cục Di sản văn hóa báo cáo Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch xem xét, quyết định việc gửi văn bản đề nghị Hội đồng Di sản văn hóa quốc gia thẩm định hiện vật và Hồ sơ hiện vật.
+- Trong thời hạn 10 ngày, kể từ ngày có ý kiến thẩm định của Hội đồng Di sản văn hóa quốc gia, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch trình Thủ tướng Chính phủ xem xét, quyết định công nhận bảo vật quốc gia.

@@ -1,0 +1,48 @@
+Tên thủ tục: Cấp, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+(i) Đối với công ty chứng khoán:
++ Được cấp phép đầy đủ nghiệp vụ kinh doanh chứng khoán;
++ Đáp ứng các điều kiện về vốn điều lệ, vốn chủ sở hữu như sau:
+- Đối với hoạt động môi giới chứng khoán phái sinh: có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 800 tỷ đồng trở lên;
+- Đối với hoạt động tự doanh chứng khoán phái sinh: có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 600 tỷ đồng trở lên;
+- Đối với hoạt động tư vấn đầu tư chứng khoán phái sinh: có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 250 tỷ đồng trở lên;
+- Trường hợp đăng ký kinh doanh cả hoạt động môi giới chứng khoán phái sinh, tự doanh chứng khoán phái sinh và tư vấn đầu tư chứng khoán phái sinh, công ty chứng khoán phải có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 800 tỷ đồng trở lên;
++ Đáp ứng yêu cầu về kiểm soát nội bộ, quản trị rủi ro cho hoạt động kinh doanh chứng khoán theo quy định của pháp luật về hoạt động của công ty chứng khoán; 
++ Đáp ứng điều kiện về nhân sự: Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc) phụ trách nghiệp vụ và tối thiểu 05 nhân viên cho mỗi hoạt động kinh doanh chứng khoán phái sinh dự kiến đăng ký có chứng chỉ hành nghề chứng khoán phù hợp với quy định của pháp luật và chứng chỉ chuyên môn về chứng khoán phái sinh và thị trường chứng khoán phái sinh;
++ Có tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 12 tháng gần nhất; thực hiện trích lập đầy đủ các khoản dự phòng theo quy định của pháp luật;
++ Không có lỗ trong hai năm gần nhất; 
++ Ý kiến của tổ chức kiểm toán được chấp thuận tại báo cáo tài chính của năm tài chính gần nhất đã được kiểm toán và báo cáo tài chính bán niên gần nhất đã được soát xét (trường hợp đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh sau ngày 30 tháng 6) phải là chấp nhận toàn phần;
++ Không đang trong quá trình tổ chức lại, giải thể, phá sản; không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động theo quyết định của cơ quan có thẩm quyền.
+(ii) Đối với công ty quản lý quỹ đầu tư chứng khoán: 
++ Có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 25 tỷ đồng trở lên;
++ Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc) phụ trách nghiệp vụ và tối thiểu 05 nhân viên cho hoạt động tư vấn đầu tư chứng khoán phái sinh có chứng chỉ hành nghề chứng khoán và chứng chỉ chuyên môn về chứng khoán phái sinh và thị trường chứng khoán phái sinh; 
++ Có tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 12 tháng gần nhất; thực hiện trích lập đầy đủ các khoản dự phòng theo quy định của pháp luật;
++ Không có lỗ trong hai năm gần nhất; 
++ Ý kiến của tổ chức kiểm toán được chấp thuận tại báo cáo tài chính của năm tài chính gần nhất đã được kiểm toán và báo cáo tài chính bán niên gần nhất đã được soát xét (trường hợp đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh sau ngày 30 tháng 6) phải là chấp nhận toàn phần;
++ Không đang trong quá trình tổ chức lại, giải thể, phá sản; không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động theo quyết định của cơ quan có thẩm quyền.
+(i) Đối với công ty chứng khoán:
++ Được cấp phép đầy đủ nghiệp vụ kinh doanh chứng khoán;
++ Đáp ứng các điều kiện về vốn điều lệ, vốn chủ sở hữu như sau:
+- Đối với hoạt động môi giới chứng khoán phái sinh: có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 800 tỷ đồng trở lên;
+- Đối với hoạt động tự doanh chứng khoán phái sinh: có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 600 tỷ đồng trở lên;
+- Đối với hoạt động tư vấn đầu tư chứng khoán phái sinh: có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 250 tỷ đồng trở lên;
+- Trường hợp đăng ký kinh doanh cả hoạt động môi giới chứng khoán phái sinh, tự doanh chứng khoán phái sinh và tư vấn đầu tư chứng khoán phái sinh, công ty chứng khoán phải có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 800 tỷ đồng trở lên;
++ Đáp ứng yêu cầu về kiểm soát nội bộ, quản trị rủi ro cho hoạt động kinh doanh chứng khoán theo quy định của pháp luật về hoạt động của công ty chứng khoán; 
++ Đáp ứng điều kiện về nhân sự: Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc) phụ trách nghiệp vụ và tối thiểu 05 nhân viên cho mỗi hoạt động kinh doanh chứng khoán phái sinh dự kiến đăng ký có chứng chỉ hành nghề chứng khoán phù hợp với quy định của pháp luật và chứng chỉ chuyên môn về chứng khoán phái sinh và thị trường chứng khoán phái sinh;
++ Có tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 12 tháng gần nhất; thực hiện trích lập đầy đủ các khoản dự phòng theo quy định của pháp luật;
++ Không có lỗ trong hai năm gần nhất; 
++ Ý kiến của tổ chức kiểm toán được chấp thuận tại báo cáo tài chính của năm tài chính gần nhất đã được kiểm toán và báo cáo tài chính bán niên gần nhất đã được soát xét (trường hợp đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh sau ngày 30 tháng 6) phải là chấp nhận toàn phần;
++ Không đang trong quá trình tổ chức lại, giải thể, phá sản; không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động theo quyết định của cơ quan có thẩm quyền.
+(ii) Đối với công ty quản lý quỹ đầu tư chứng khoán: 
++ Có vốn điều lệ, có vốn chủ sở hữu tối thiểu từ 25 tỷ đồng trở lên;
++ Giám đốc (Tổng Giám đốc), Phó Giám đốc (Phó Tổng Giám đốc) phụ trách nghiệp vụ và tối thiểu 05 nhân viên cho hoạt động tư vấn đầu tư chứng khoán phái sinh có chứng chỉ hành nghề chứng khoán và chứng chỉ chuyên môn về chứng khoán phái sinh và thị trường chứng khoán phái sinh; 
++ Có tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 12 tháng gần nhất; thực hiện trích lập đầy đủ các khoản dự phòng theo quy định của pháp luật;
++ Không có lỗ trong hai năm gần nhất; 
++ Ý kiến của tổ chức kiểm toán được chấp thuận tại báo cáo tài chính của năm tài chính gần nhất đã được kiểm toán và báo cáo tài chính bán niên gần nhất đã được soát xét (trường hợp đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh chứng khoán phái sinh sau ngày 30 tháng 6) phải là chấp nhận toàn phần;
++ Không đang trong quá trình tổ chức lại, giải thể, phá sản; không đang trong tình trạng đình chỉ hoạt động, tạm ngừng hoạt động theo quyết định của cơ quan có thẩm quyền.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp chứng thư số cho tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số phải đáp ứng các điều kiện:
+1. Có giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng do Bộ Thông tin và Truyền thông cấp đang còn hiệu lực.
+2. Hệ thống kỹ thuật thực tế đảm bảo theo đúng hồ sơ cấp phép.
+3. Khóa công khai trên chứng thư số sẽ được cấp là duy nhất và cùng cặp với khóa bí mật của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số
+Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số phải đáp ứng các điều kiện:
+1. Có giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng do Bộ Thông tin và Truyền thông cấp đang còn hiệu lực.
+2. Hệ thống kỹ thuật thực tế đảm bảo theo đúng hồ sơ cấp phép.
+3. Khóa công khai trên chứng thư số sẽ được cấp là duy nhất và cùng cặp với khóa bí mật của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đề nghị cấp chứng thư số
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

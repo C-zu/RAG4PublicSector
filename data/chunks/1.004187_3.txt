@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với tuyến truyền dẫn vi ba
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Lệ phí : Đồng Lệ phí cấp giấy phép và Phí sử dụng tần số theo quy định của Bộ Tài chính|20 ngày làm việc hoặc tối đa không quá 6 tháng đối với trường hợp đặc biệt kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định|
+|Trực tuyến|20 Ngày|Lệ phí : Lệ phí cấp giấy phép và Phí sử dụng tần số theo quy định của Bộ Tài chính|20 ngày làm việc hoặc tối đa không quá 6 tháng đối với trường hợp đặc biệt kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định|
+|Dịch vụ bưu chính|20 Ngày|Lệ phí : Lệ phí cấp giấy phép và Phí sử dụng tần số theo quy định của Bộ Tài chính|20 ngày làm việc hoặc tối đa không quá 6 tháng đối với trường hợp đặc biệt kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định|

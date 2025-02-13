@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký hoạt động lần đầu cho tổ chức khoa học và công nghệ (Sở Khoa học và Công nghệ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Lệ phí : 3.000.000 Đồng|15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Lệ phí : 3.000.000 Đồng|15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục hỗ trợ phát triển sản xuất liên kết theo chuỗi giá trị
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị của chủ trì liên kết (theo Mẫu 1.1, phụ lục I, Nghị quyết 24/2022/NQ-HĐND ngày 12/11/2022 của HĐND tỉnh Nghệ An);
+- 01 Bản chính, 01 Bản sao Dự án/kế hoạch liên kết (theo Mẫu 1.2, phụ lục I, Nghị quyết 24/2022/NQ-HĐND ngày 12/11/2022 của HĐND tỉnh Nghệ An)
+- 01 Bản chính, 01 Bản sao Bản thỏa thuận cử đơn vị chủ trì liên kết đối với trường hợp các doanh nghiệp, hợp tác xã ký hợp đồng liên kết với nhau (theo Mẫu 1.3, phụ lục I, Nghị quyết 24/2022/NQ-HĐND ngày 12/11/2022 của HĐND tỉnh Nghệ An)
+- 01 Bản chính, 01 Bản sao Bản sao chụp các chứng nhận hoặc bản cam kết về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường (theo Mẫu 1.4, phụ lục I, Nghị quyết 24/2022/NQ-HĐND ngày 12/11/2022 của HĐND tỉnh Nghệ An)
+- 01 Bản chính, 01 Bản sao Bản sao chụp hợp đồng liên kết.

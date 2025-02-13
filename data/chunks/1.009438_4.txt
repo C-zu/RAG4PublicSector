@@ -1,0 +1,10 @@
+Tên thủ tục: Phê duyệt bản vẽ tổng mặt bằng trong phạm vi ranh giới dự án được giao đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị phê duyệt bản vẽ tổng mặt bằng;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử hồ sơ bản vẽ tổng mặt bằng, bao gồm: thuyết minh bản vẽ tổng mặt bằng và các bản vẽ có liên quan;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử chụp văn bản góp ý của các cơ quan, đơn vị liên quan;
+- 01 Bản sao - Bản sao hoặc bản sao điện tử văn bản giải trình các ý kiến góp ý của các cơ quan, đơn vị liên quan.

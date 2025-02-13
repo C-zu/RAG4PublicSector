@@ -1,0 +1,8 @@
+Tên thủ tục: Cho phép tái nhập khẩu sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục sản phẩm công nghệ thông tin đã hết thời hạn bảo hành sau khi đưa ra nước ngoài sửa chữa
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Phí : Không  Lệ phí : Không  Mức giá : Không|Tại Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Hà Nội|
+|Dịch vụ bưu chính|05 Ngày làm việc|Phí : Không  Lệ phí : Không  Mức giá : Không|Đến Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Hà Nội|

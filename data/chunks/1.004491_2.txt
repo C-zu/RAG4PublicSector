@@ -1,0 +1,10 @@
+Tên thủ tục: Kê khai giá thuốc sản xuất trong nước hoặc thuốc nước ngoài nhập khẩu vào Việt Nam
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở kê khai thuốc gửi hồ sơ Kê khai giá thuốc về Cơ quan tiếp nhận
+Bước 2: Cơ quan tiếp nhận tiếp nhận, kiểm tra hồ sơ và trả giấy tiếp nhận hồ sơ Kê khai giá thuốc.
+Bước 3: Cơ quan tiếp nhận công bố giá kê khai trên Cổng thông tin điện tử trong vòng 07 (bảy) ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định.
+Bước 4: Giá thuốc kê khai, kê khai lại đã được công bố được rà soát theo quy định tại Điều 134 Nghị định 54/2017/NĐ-CP sửa đổi theo quy định tại khoản 9 Điều 1 của Nghị định số 88/2023/NĐ-CP.
+Bước 5: Cơ quan quản lý nhà nước có văn bản yêu cầu các cơ sở kinh doanh dược thực hiện kê khai giá báo cáo về mức giá kê khai, kê khai lại phù hợp với mặt bằng giá kê khai của mặt hàng tương tự trên thị trường, phù hợp với biến động của yếu tố hình thành giá để phục vụ công tác bình ổn giá, quản lý nhà nước về giá, kiểm tra, thanh tra theo quy định của pháp luật;
+Trường hợp cơ quan quản lý nhà nước có thẩm quyền có văn bản yêu cầu cơ sở kinh doanh dược báo cáo về mức giá của mặt hàng thuốc do cơ sở đã kê khai, kê khai lại, trong thời hạn 30 ngày kể từ ngày có văn bản của cơ quan quản lý nhà nước có thẩm quyền, cơ sở phải có văn bản phản hồi báo cáo về mức giá kê khai phù hợp với mặt bằng giá kê khai của mặt hàng tương tự trên thị trường hoặc phù hợp với biến động của yếu tố hình thành giá hoặc điều chỉnh giá kê khai, kê khai lại phù hợp theo ý kiến của cơ quan quản lý nhà nước về giá thuốc. Sau thời hạn trên, nếu cơ sở kinh doanh dược không có văn bản phản hồi thì hồ sơ kê khai, kê khai lại đã nộp không còn giá trị

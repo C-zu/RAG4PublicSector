@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ Văn bản đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp. Doanh nghiệp thuộc Bộ Quốc phòng phải có văn bản đề nghị của Bộ Quốc phòng hoặc cơ quan được Bộ Quốc phòng giao nhiệm vụ quản lý vật liệu nổ công nghiệp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed65edae563133'">Mẫu số 03.docx</a>)
+ Bản sao văn bản giao nhiệm vụ sản xuất vật liệu nổ công nghiệp của Thủ tướng Chính phủ;
+ Hồ sơ liên quan đến cải tạo, nâng cấp hạ tầng và thiết bị sản xuất vật liệu nổ công nghiệp (nếu có);
+ Hồ sơ kỹ thuật của quá trình sửa chữa, phục hồi (nếu có).
+ Tài liệu chứng minh việc bảo đảm an toàn, chất lượng sản phẩm: bố trí mặt bằng; bố trí dây chuyền công nghệ; hệ thống điện, chống sét; giấy chứng nhận kiểm định các thiết bị có yêu cầu nghiêm ngặt về an toàn lao động, thiết bị đo; kết quả thử nghiệm các chỉ tiêu thuốc nổ; nghiệm thu về chất lượng công trình xây dựng;
+ Bản sao quyết định thành lập của cơ quan có thẩm quyền hoặc bản sao Giấy chứng nhận đăng ký doanh nghiệp
+ Bản sao quyết định phê duyệt dự án đầu tư xây dựng công trình sản xuất vật liệu nổ công nghiệp theo quy định của pháp luật về quản lý, đầu tư xây dựng;
+ Bản sao Giấy chứng nhận đủ điều kiện về an ninh, trật tự; văn bản thẩm duyệt, kiểm tra, nghiệm thu về phòng cháy và chữa cháy đối với nhà, công trình sản xuất, kho bảo quản vật liệu nổ công nghiệp
+ Bản sao quyết định của Bộ trưởng Bộ Công Thương công nhận kết quả đăng ký của sản phẩm và đưa sản phẩm vật liệu nổ công nghiệp vào danh mục vật liệu nổ công nghiệp được phép sản xuất, kinh doanh và sử dụng ở Việt Nam đối với vật liệu nổ công nghiệp mới sản xuất, sử dụng ở Việt Nam;
+ Bản sao quyết định phê duyệt báo cáo đánh giá tác động môi trường; bản sao Giấy xác nhận hoàn thành công trình bảo vệ môi trường
+ Giấy giới thiệu kèm theo bản sao thẻ Căn cước công dân, Chứng minh nhân dân, Hộ chiếu, Chứng minh Công an nhân dân hoặc giấy chứng minh do Quân đội nhân dân cấp của người đến liên hệ.

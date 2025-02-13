@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp mới Giấy chứng nhận đủ điều kiện hoạt động thí nghiệm chuyên ngành xây dựng (trong trường hợp: Cấp lần đầu hoặc Giấy chứng nhận hết hạn mà tổ chức hoạt động thí nghiệm chuyên ngành xây dựng có nhu cầu tiếp tục hoạt động)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Nộp hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng.|
+|Trực tuyến|20 Ngày||Nộp hồ sơ trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.|
+|Dịch vụ bưu chính|20 Ngày||Nộp hồ sơ thông qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công của tỉnh hoặc Bộ phận tiếp nhận và trả kết quả giải quyết TTHC của Sở Xây dựng.|

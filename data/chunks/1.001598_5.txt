@@ -1,0 +1,30 @@
+Tên thủ tục: Giải quyết hưởng trợ cấp nghỉ dưỡng sức, phục hồi sức khỏe sau ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Tiền trợ cấp., Danh sách giải quyết hưởng chế độ ốm đau, thai sản, trợ cấp DSPHSK (mẫu C70a-HD), Danh sách giải quyết hưởng chế độ ốm đau, thai sản, dưỡng sức, phục hồi sức khỏe.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|84/2015/QH13|Luật 84/2015/QH13|25-06-2015|Quốc Hội|
+|58/2014/QH13|Luật 58/2014/QH13 - Bảo hiểm xã hội|20-11-2014|Quốc Hội|
+|115/2015/NĐ-CP|Nghị định 115/2015/NĐ-CP - Quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc|11-11-2015|Chính phủ|
+|59/2015/TT-BLĐTBXH|Thông tư 59/2015/TT-BLĐTBXH - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật bảo hiểm xã hội về bảo hiểm xã hội bắt buộc|29-12-2015|Bộ Lao động - Thương binh và Xã hội|
+|143/2018/NĐ-CP|Nghị định 143/2018/NĐ-CP - Quy định chi tiết Luật bảo hiểm xã hội và Luật an toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam|15-10-2018|Chính phủ|
+|33/2016/NĐ-CP|Nghị định 33/2016/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân và người làm công tác cơ yếu hưởng lương như đối với quân nhân|10-05-2016|Chính phủ|
+|166/2016/NĐ-CP|Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp|24-12-2016|Chính phủ|
+|26/2017/TT-BLĐTBXH|Thông tư 26/2017/TT-BLĐTBXH-Quy định và hướng dẫn thực hiện chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp bắt buộc|20-09-2017|Bộ Lao động - Thương binh và Xã hội|
+|56/2017/TT-BYT|Thông tư 56/2017/TT-BYT - quy định chi tiết thi hành Luật bảo hiểm xã hội và Luật an toàn vệ sinh lao động thuộc lĩnh vực y tế|01-03-2018|Bộ Y tế|
+|88/2020/NĐ-CP|Nghị định 88/2020/NĐ-CP|28-07-2020||

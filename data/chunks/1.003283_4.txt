@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép tổ chức trại sáng tác điêu khắc (thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép (mẫu số 9 ban hành kèm theo Nghị định số 113/2013/NĐ-CP ngày 02 tháng 10 năm 2013 của Chính phủ về hoạt động mỹ thuật) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9a9496819dd4c0'">Mẫu số 9.ND113.2013.điêu khắc.docx</a>)
+- 01 Bản chính Đề án được cấp có thẩm quyền phê duyệt
+- 01 Bản chính Thể lệ

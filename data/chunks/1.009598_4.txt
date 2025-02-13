@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép bán buôn rượu trên địa bàn tỉnh, thành phố trực thuộc Trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao Đơn đề nghị cấp sửa đổi, bổ sung giấy phép bán buôn rượu theo biểu mẫu BM.LTHH.05.01
+- 01 Bản chính, 01 Bản sao Bản sao Giấy phép đã được cấp
+- 01 Bản chính, 01 Bản sao Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung

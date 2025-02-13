@@ -1,0 +1,11 @@
+Tên thủ tục: Công bố chuyển bến thủy nội địa thành cảng thủy nội địa trong trường hợp bến thủy nội địa có quy mô, thông số kỹ thuật phù hợp với cấp kỹ thuật cảng thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố chuyển bến thủy nội địa thành cảng thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc0c272893404e'">7.docx</a>)
+- 01 Bản chính - Văn bản thỏa thuận thông số kỹ thuật của cấp có thẩm quyền về nâng cấp bến thủy nội địa thành cảng thủy nội địa;
+- 01 Bản chính - Bản vẽ hoàn công của bến thủy nội địa;
+- 01 Bản chính - Bản vẽ mặt bằng công trình, vùng đất, vùng nước của bến thủy nội địa;
+- 01 Bản chính - Hồ sơ kiểm tra tính toán thực tế bến thủy nội địa do đơn vị tư vấn có tư cách pháp nhân kiểm định thực hiện.

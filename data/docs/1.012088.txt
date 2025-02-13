@@ -1,0 +1,91 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012088
+Số quyết định:
+689/QĐ-UBND.
+Tên thủ tục:
+Đăng ký tham gia tuyển chọn, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước (thẩm quyền giải quyết của Sở Khoa học và Công nghệ)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Bước 1: Căn cứ danh mục các nhiệm vụ khoa học và công nghệ đã được phê duyệt, điều kiện, thủ tục tham gia tuyển chọn được thông báo công khai trên cổng thông tin điện tử của Sở Khoa học và Công nghệ hoặc trên các phương tiện thông tin đại chúng khác trong thời gian 30 ngày làm việc để tổ chức và cá nhân tham gia tuyển chọn chuẩn bị hồ sơ đăng ký.
+Bước 2: Các tổ chức đăng ký tham gia tuyển chọn nộp hồ sơ đăng ký theo thời gian thông báo của Sở Khoa học và Công nghệ.
+Bước 3: Kết thúc thời hạn nhận hồ sơ đăng ký tuyển chọn, trong thời hạn 10 ngày làm việc, Sở Khoa học và Công nghệ tiến hành mở, kiểm tra và xác nhận tính hợp lệ của hồ sơ với sự tham dự của đại diện các cơ quan liên quan (nếu cần), đại diện tổ chức, cá nhân đăng ký tham gia tuyển chọn, giao trực tiếp (nếu đạt thực hiện bước tiếp theo, nếu không đạt Sở Khoa học và Công nghệ ra thông báo cho tổ chức, cá nhân)
+Bước 4: Sở Khoa học và công nghệ đề nghị UBND tỉnh thành lập Hội đồng tuyển chọn, giao trực tiếp tổ chức và cá nhân thực hiện nhiệm vụ khoa học và công nghệ trong thời gian 10 ngày kể từ khi kiểm tra hồ sơ hợp lệ. 
+Bước 5: Trong thời gian 10 ngày làm việc kể từ khi có quyết định thành lập Hội đồng, Sở Khoa học Công nghệ tổ chức họp Hội đồng đánh giá hồ sơ tuyển chọn, giao trực tiếp tổ chức và cá nhân thực hiện nhiệm vụ khoa học và công nghệ (nếu đạt thực hiện bước tiếp theo, nếu không đạt Sở Khoa học và Công nghệ ra thông báo cho tổ chức, cá nhân)
+Bước 6: Sở Khoa học và công nghệ thành lập tổ thẩm định kinh phí trong thời gian 3 ngày kể từ khi nhận hồ sơ đã được chỉnh sửa theo kết luận hội đồng.
+Bước 7: Sở Khoa học và công nghệ tổ chức họp Tổ thẩm định để thẩm định kinh phí trong thời gian 5 ngày làm việc kể từ ngày có quyết định thành lập.
+Bước 8: Sở Khoa học và Công nghệ trình UBND tỉnh  ký quyết định phê duyệt tổ chức chủ trì, cá nhân chủ nhiệm và kinh phí, phương thức, thời gian thực hiện nhiệm vụ khoa học và công nghệ trong thời gian 10 ngày làm việc kể từ ngày họp Tổ thẩm định.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|48 Ngày làm việc||- Kiểm tra tính hợp lệ: 10 ngày kể từ ngày kết thức thời hạn nhận hồ sơ - Trình UBND tỉnh thành lập Hội đồng: 10 ngày - Họp Hội động tuyển chọn, giao trực tiếp: 10 ngày - Thành lập Tổ thẩm định kinh phí: 3 ngày - Thẩm định kinh phí: 05 ngày - Trình UBND tỉnh phê duyệt kết quả: 10 ngày|
+|Trực tuyến|48 Ngày làm việc||https://dichvucong.phuyen.gov.vn/|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký chủ trì nghiệm thu nhiệm vụ khoa học & công nghệ cấp tỉnh (Biểu B1-1-Đơn). ([Biểu B1-1-ĐON.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd28865beaacd20'))
+- 01 Bản chính - Thuyết minh đề tài nghiên cứu ứng dụng và phát triển công nghệ (Biểu B1-2a-TMĐTCN). ([Biểu B1-2a-TMĐTCN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7d00f480b825e'))
+- 01 Bản chính - Thuyết minh đề tài nghiên cứu khoa học và xã hội nhân văn (Biểu B1-2b-TMĐTXH). ([Biểu B1-2b-TMĐTXH.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8c97159d760d6'))
+- 01 Bản chính - Thuyết minh dự án sản xuất thử nghiệm (Biểu B1-2c-TMDA). ([Biểu B1-2c-TMDA.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd797236ae97142'))
+- 01 Bản chính - Thuyết minh đề án khoa học (Biểu B1-2d-TMĐA). ([Biểu B1-2d-TMĐA.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed6cc3e0ca88f0'))
+- 01 Bản chính - Lý lịch hoạt động khoa học và công nghệ của tổ chức chủ trì (B1-3-LLTC). ([Biểu B1-3-LLTC.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdc22e466130e18'))
+- 01 Bản chính - Lý lịch khoa học của cá nhân đăng ký chủ nhiệm và tham gia (B1-4-LLCN). ([BiÓu B1-4-LLCN.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd21da844fc0dee'))
+- 01 Bản chính - Giấy xác nhận phối hợp nghiên cứu (B1-5-PHNC) ([BiÓu B1-5-PHNC.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec36ff2fccfa03'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp
+Cơ quan thực hiện:
+Sở Khoa học và Công nghệ - tỉnh Phú Yên
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt việc thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh.
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+- Các tổ chức khoa học và công nghệ có đăng ký hoạt động khoa học và công nghệ, có chức năng hoạt động phù hợp với lĩnh vực chuyên môn của nhiệm vụ khoa học và công nghệ có quyền tham gia đăng ký tuyển chọn hoặc được giao trực tiếp chủ trì thực hiện, trừ một trong các trường hợp sau đây:
++ Đến thời điểm nộp hồ sơ chưa hoàn trả đầy đủ kinh phí thu hồi theo hợp đồng thực hiện các dự án trước đây;
++ Nộp hồ sơ đánh giá nghiệm thu các nhiệm vụ khoa học và công nghệ cấp tỉnh khác chậm so với thời hạn kết thúc hợp đồng nghiên cứu trên 6 tháng mà không có ý kiến chấp thuận của Sở Khoa học và Công nghệ sẽ không được tham gia tuyển chọn, xét giao trực tiếp trong thời hạn một (01) năm kể từ ngày kết thúc hợp đồng.
++ Tổ chức chủ trì nhiệm vụ khoa học và công nghệ có sai phạm dẫn đến bị đình chỉ thực hiện nhiệm vụ hoặc sau khi kết thúc mà không triển khai ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ vào sản xuất, đời sống theo hợp đồng nghiên cứu khoa học và phát triển công nghệ và yêu cầu của bên đặt hàng, không được đăng ký tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 2 năm, tính từ thời điểm có kết luận của cơ quan có thẩm quyền.
++ Không thực hiện nghĩa vụ đăng ký, nộp lưu giữ các kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; không báo cáo ứng dụng kết quả của nhiệm vụ theo quy định sẽ không được đăng ký tuyển chọn, giao trực tiếp trong thời gian hai (01) năm.
+- Đối với cá nhân đăng ký làm chủ nhiệm nhiệm vụ khoa học và công nghệ phải đáp ứng đồng thời các yêu cầu:
++ Có trình độ đại học trở lên;
++ Có chuyên môn hoặc vị trí công tác phù hợp và đang hoạt động trong cùng lĩnh vực khoa học với nhiệm vụ trong ba (03) năm gần đây, tính đến thời điểm nộp hồ sơ;
++ Là người chủ trì hoặc tham gia chính xây dựng thuyết minh nhiệm vụ khoa học và công nghệ;
++ Có đủ khả năng trực tiếp tổ chức thực hiện và bảo đảm đủ thời gian để chủ trì thực hiện công việc nghiên cứu của nhiệm vụ khoa học và công nghệ
+- Cá nhân thuộc một trong các trường hợp sau đây không đủ điều kiện tham gia đăng ký tuyển chọn, xét giao trực tiếp làm chủ nhiệm nhiệm vụ khoa học và công nghệ:
++Đến thời điểm hết hạn nộp hồ sơ vẫn đang làm chủ nhiệm nhiệm vụ khoa học và công nghệ cấp tỉnh tại Phú Yên;
++ Cá nhân chủ nhiệm nhiệm vụ khoa học và công nghệ nộp hồ sơ đánh giá nghiệm thu cấp tỉnh chậm theo quy định hiện hành từ 6 tháng mà không có ý kiến chấp thuận của Sở Khoa học và Công nghệ sẽ không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian một (01) năm;
++ Cá nhân chủ nhiệm nhiệm vụ khoa học và công nghệ được đánh giá nghiệm thu ở mức “không đạt” mà không được Sở Khoa học và Công nghệ gia hạn thời gian thực hiện để hoàn chỉnh kết quả hoặc được gia hạn nhưng hết thời hạn cho phép vẫn chưa hoàn thành kết quả sẽ không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời hạn hai (02) năm kể từ thời điểm có kết luận của hội đồng đánh giá nghiệm thu cấp tỉnh;
++ Cá nhân chủ nhiệm nhiệm vụ khoa học và công nghệ các cấp có sai phạm dẫn đến bị đình chỉ thực hiện và truy cứu trách nhiệm hình sự sẽ không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời hạn năm (05) năm kể từ ngày có quyết định của cơ quan có thẩm quyền.
+- Các tổ chức khoa học và công nghệ có đăng ký hoạt động khoa học và công nghệ, có chức năng hoạt động phù hợp với lĩnh vực chuyên môn của nhiệm vụ khoa học và công nghệ có quyền tham gia đăng ký tuyển chọn hoặc được giao trực tiếp chủ trì thực hiện, trừ một trong các trường hợp sau đây:
++ Đến thời điểm nộp hồ sơ chưa hoàn trả đầy đủ kinh phí thu hồi theo hợp đồng thực hiện các dự án trước đây;
++ Nộp hồ sơ đánh giá nghiệm thu các nhiệm vụ khoa học và công nghệ cấp tỉnh khác chậm so với thời hạn kết thúc hợp đồng nghiên cứu trên 6 tháng mà không có ý kiến chấp thuận của Sở Khoa học và Công nghệ sẽ không được tham gia tuyển chọn, xét giao trực tiếp trong thời hạn một (01) năm kể từ ngày kết thúc hợp đồng.
++ Tổ chức chủ trì nhiệm vụ khoa học và công nghệ có sai phạm dẫn đến bị đình chỉ thực hiện nhiệm vụ hoặc sau khi kết thúc mà không triển khai ứng dụng kết quả nghiên cứu khoa học và phát triển công nghệ vào sản xuất, đời sống theo hợp đồng nghiên cứu khoa học và phát triển công nghệ và yêu cầu của bên đặt hàng, không được đăng ký tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian 2 năm, tính từ thời điểm có kết luận của cơ quan có thẩm quyền.
++ Không thực hiện nghĩa vụ đăng ký, nộp lưu giữ các kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước; không báo cáo ứng dụng kết quả của nhiệm vụ theo quy định sẽ không được đăng ký tuyển chọn, giao trực tiếp trong thời gian hai (01) năm.
+- Đối với cá nhân đăng ký làm chủ nhiệm nhiệm vụ khoa học và công nghệ phải đáp ứng đồng thời các yêu cầu:
++ Có trình độ đại học trở lên;
++ Có chuyên môn hoặc vị trí công tác phù hợp và đang hoạt động trong cùng lĩnh vực khoa học với nhiệm vụ trong ba (03) năm gần đây, tính đến thời điểm nộp hồ sơ;
++ Là người chủ trì hoặc tham gia chính xây dựng thuyết minh nhiệm vụ khoa học và công nghệ;
++ Có đủ khả năng trực tiếp tổ chức thực hiện và bảo đảm đủ thời gian để chủ trì thực hiện công việc nghiên cứu của nhiệm vụ khoa học và công nghệ
+- Cá nhân thuộc một trong các trường hợp sau đây không đủ điều kiện tham gia đăng ký tuyển chọn, xét giao trực tiếp làm chủ nhiệm nhiệm vụ khoa học và công nghệ:
++Đến thời điểm hết hạn nộp hồ sơ vẫn đang làm chủ nhiệm nhiệm vụ khoa học và công nghệ cấp tỉnh tại Phú Yên;
++ Cá nhân chủ nhiệm nhiệm vụ khoa học và công nghệ nộp hồ sơ đánh giá nghiệm thu cấp tỉnh chậm theo quy định hiện hành từ 6 tháng mà không có ý kiến chấp thuận của Sở Khoa học và Công nghệ sẽ không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời gian một (01) năm;
++ Cá nhân chủ nhiệm nhiệm vụ khoa học và công nghệ được đánh giá nghiệm thu ở mức “không đạt” mà không được Sở Khoa học và Công nghệ gia hạn thời gian thực hiện để hoàn chỉnh kết quả hoặc được gia hạn nhưng hết thời hạn cho phép vẫn chưa hoàn thành kết quả sẽ không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời hạn hai (02) năm kể từ thời điểm có kết luận của hội đồng đánh giá nghiệm thu cấp tỉnh;
++ Cá nhân chủ nhiệm nhiệm vụ khoa học và công nghệ các cấp có sai phạm dẫn đến bị đình chỉ thực hiện và truy cứu trách nhiệm hình sự sẽ không được tham gia đăng ký tuyển chọn, giao trực tiếp trong thời hạn năm (05) năm kể từ ngày có quyết định của cơ quan có thẩm quyền.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

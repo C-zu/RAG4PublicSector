@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007901
+Số quyết định:
+1531/QĐ-BTC
+Tên thủ tục:
+Thủ tục chấm dứt đại lý hoàn thuế đối với Ngân hàng thương mại
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hải quan
+Trình tự thực hiện:
++ Ngân hàng thương mại gửi Bộ Tài chính (Tổng cục Hải quan) công văn thông báo đề nghị chấm dứt việc làm đại lý hoàn thuế chậm nhất là 60 (sáu mươi) ngày trước ngày chấm dứt việc làm đại lý hoàn thuế.
++ Bộ Tài chính-TCHQ thực hiện đề nghị chấm dứt việc làm đại lý hoàn thuế GTGT của Ngân hàng thương mại hoặc Bộ Tài chính (Tổng cục Hải quan) có văn bản yêu cầu chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng Nhà nước và các đơn vị có liên quan;
++ Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Tổng cục Hải quan trình Bộ Tài chính có văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng nhà nước và các đơn vị có liên quan;
++ Ngân hàng thương mại tháo bỏ biển thông báo là ngân hàng đại lý hoàn thuế giá trị gia tăng cho người nước ngoài tại quầy làm thủ tục hoàn thuế khi chấm dứt bán hàng hoàn thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Tổng cục Hải quan trình Bộ Tài chính có văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng nhà nước và các đơn vị có liên quan|
+|Dịch vụ bưu chính|10 Ngày||Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Tổng cục Hải quan trình Bộ Tài chính có văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng nhà nước và các đơn vị có liên quan|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản xin/yêu cầu chấm dứt vai trò đại lý hoàn thuế GTGT của NHTM (bản chính);
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền:
+Bộ Tài chính
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Ngân hàng thương mại chấm dứt việc làm đại lý hoàn thuế và tháo bỏ biển thông báo là ngân hàng đại lý hoàn thuế giá trị gia tăng cho người nước ngoài tại quầy làm thủ tục hoàn thuế khi chấm dứt bán hàng hoàn thuế.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|21/2012/QH13|Luật 21/2012/QH13|20-11-2012|Quốc Hội|
+|83/2013/NĐ-CP|Nghị định 83/2013/NĐ-CP Quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật Sửa đổi, bổ sung một số điều của Luật Quản lý thuế|22-07-2013|Chính phủ|
+|215/2013/NĐ-CP|Nghị định 215/2013/NĐ-CP|23-12-2013|Chính phủ|
+|219/2013/TT-BTC|Hướng dẫn thi hành Luật Thuế giá trị gia tăng và Nghị định số 209/2013/NĐ-CP ngày 18/12/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật Thuế giá trị gia tăng;|31-12-2013|Bộ Tài chính|
+|13/2008/QH12|Luật thuế giá trị gia tăng số 13/2008/QH12 ngày 03/06/2008|03-06-2008|Quốc Hội|
+|31/2013/QH13|Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng số 31/2013/QH13 ngày 19/06/2013|19-06-2013|Quốc Hội|
+|78/2006/QH10|Luật Quản lý thuế số 78/2006/QH10 ngày 29/11/2006|29-11-2006|Quốc Hội|
+|72/2014/TT-BTC|Thông tư số 72/2014/TT-BTC ngày 30/5/2014 của Bộ Tài chính quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mang theo khi xuất cảnh|30-05-2014|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Ngân hàng thương mại đã được Bộ Tài chính có văn bản thông báo đủ điều kiện làm đại lý hoàn thuế, nếu chấm dứt việc làm đại lý hoàn thuế; Ngân hàng thương mại vi phạm các quy định về hoàn thuế GTGT tại Thông tư số 72/2014/TT-BTC ngày 30/5/2014 của Bộ Tài chính.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

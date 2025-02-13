@@ -1,0 +1,9 @@
+Tên thủ tục: Cung cấp thông tin về quy hoạch xây dựng thuộc thẩm quyền của UBND cấp tỉnh
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Các cơ quan, tổ chức, cá nhân có nhu cầu cung cấp thông tin quy hoạch bằng văn bản gửi 01 bộ hồ sơ qua mạng trực tuyến hoặc qua đường bưu điện hoặc nộp trực tiếp tại bộ phận tiếp nhận và trả hồ sơ của UBND cấp tỉnh.
+- Bộ phận tiếp nhận và trả kết quả của UBND cấp tỉnh tiếp nhận và kiểm tra nội dung và tính pháp lý của hồ sơ:                                                    
++ Trường hợp hồ sơ đầy đủ, hợp lệ thì viết giấy hẹn trao cho người nộp.
++ Trường hợp hồ sơ thiếu hoặc không hợp lệ thì công chức tiếp nhận hồ sơ hướng dẫn đầy đủ một lần để người nộp hoàn thiện hồ sơ.
+-  Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan quản lý quy hoạch xây dựng cấp tỉnh có trách nhiệm rà soát thông tin về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng, các thông tin khác liên quan đến quy hoạch và cung cấp thông tin quy hoạch cho cơ quan, tổ chức, cá nhân.

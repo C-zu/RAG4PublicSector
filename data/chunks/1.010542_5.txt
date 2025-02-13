@@ -1,0 +1,22 @@
+Tên thủ tục: Công bố nồng độ, hàm lượng trong nguyên liệu sản xuất trang thiết bị y tế, chất ngoại kiểm chứa chất ma túy và tiền chất.
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Cơ sở hạ tầng và Trang thiết bị y tế - Bộ Y tế
+Cơ quan có thẩm quyền:
+Bộ Y tế
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+công khai trên Cổng thông tin điện tử về quản lý trang thiết bị y tế các thông tin và hồ sơ công bố
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|98/2021/NĐ-CP|Nghị định về trang thiết bị y tế số 98/2021/NĐ-CP (link trên thư viện pl vì trên cơ sở dữ liệu về văn bản QPPL ko có)|08-11-2021|Chính phủ|
+|19/2021/TT-BYT|Thông tư 19/2021/TT-BYT quy định về mẫu văn bản, báo cáo thực hiện Nghị định 98/2021/NĐ-CP về quản lý trang thiết bị y tế do Bộ trưởng Bộ Y tế ban hành (link lấy từ thuvienphapluat.vn vì cơ sở dữ liệu về văn bản qppl ko có)|16-11-2021|Bộ Y tế|

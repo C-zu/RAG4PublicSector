@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục hỗ trợ doanh nghiệp có dự án thuộc ngành, nghề ưu đãi đầu tư, địa bàn ưu đãi đầu tư nhận chuyển giao công nghệ từ tổ chức khoa học và công nghệ.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||- Phê duyệt nhiệm vụ khoa học và công nghệ được hỗ trợ: Trong thời hạn 07 ngày làm việc kể từ khi có kết quả làm việc của hội đồng tư vấn xác định nhiệm vụ.|
+|Trực tiếp|5 Ngày làm việc||- Công bố công khai nhiệm vụ khoa học và công nghệ trên cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh: Trong thời hạn 05 ngày làm việc kể từ ngày phê duyệt nhiệm vụ khoa học và công nghệ được hỗ trợ.|
+|Dịch vụ bưu chính|07 Ngày làm việc||- Phê duyệt nhiệm vụ khoa học và công nghệ được hỗ trợ: Trong thời hạn 07 ngày làm việc kể từ khi có kết quả làm việc của hội đồng tư vấn xác định nhiệm vụ.|
+|Dịch vụ bưu chính|5 Ngày làm việc||- Công bố công khai nhiệm vụ khoa học và công nghệ trên cổng thông tin điện tử của Ủy ban nhân dân cấp tỉnh: Trong thời hạn 05 ngày làm việc kể từ ngày phê duyệt nhiệm vụ khoa học và công nghệ được hỗ trợ.|

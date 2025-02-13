@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007994
+Số quyết định:
+174/QĐ-BNN-BVTV
+Tên thủ tục:
+Cấp phép xuất khẩu giống cây trồng và hạt lai của giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành và không thuộc Danh mục nguồn gen giống cây trồng cấm xuất khẩu phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế không vì mục đích thương mại.
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Trồng trọt
+Trình tự thực hiện:
+- Bước 1: Tổ chức, cá nhân gửi hồ sơ đến Cục Trồng trọt. 
+- Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ.
+Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo cho tổ chức, cá nhân biết để bổ sung. 
+Trong thời hạn 90 ngày, kể từ ngày nhận được thông báo của Cục Trồng trọt, tổ chức, cá nhân có trách nhiệm nộp lại hồ sơ theo quy định.
+- Bước 3: Cấp phép xuất khẩu giống cây trồng
+Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Trồng trọt tổ chức thẩm định. Trường hợp đáp ứng đủ điều kiện, Cục Trồng trọt cấp Giấy phép xuất khẩu theo Mẫu số 03.XK Phụ lục VIII ban hành kèm theo Nghị định số 94/2019/NĐ-CP. Trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+- Bước 4: Đăng tải Giấy phép xuất khẩu giống cây trồng trên cổng thông tin điện tử của Cục Trồng trọt.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Cấp giấy phép xuất khẩu giống cây trồng: Thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|10 Ngày làm việc||Cấp giấy phép xuất khẩu giống cây trồng: Thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Cấp giấy phép xuất khẩu giống cây trồng: Thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị cấp phép xuất khẩu giống cây trồng theo Phụ lục III Nghị định số 130/2022/NĐ-CP. ([PL III Văn bản đề nghị cấp phép XK giống cây trồng.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb834775a1d2b30'))
+- 01 Bản sao - Tờ khai kỹ thuật (mỗi giống chỉ nộp một lần khi xuất khẩu lần đầu) theo Mẫu số 02.XK Phụ lục VIII Nghị định số 94/2019/NĐ-CP. ([Mẫu số 02.XK.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd76c3c1edd6828'))
+- 01 Bản sao - Bản sao thỏa thuận hợp tác bằng tiếng nước ngoài kèm theo bản dịch công chứng sang tiếng Việt đối với trường hợp xuất khẩu phục vụ nghiên cứu, khảo nghiệm, hợp tác quốc tế.
+- 01 Bản chính - Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm của đơn vị tổ chức đối với trường hợp xuất khẩu để tham gia hội chợ, triển lãm.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Trồng trọt - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xuất khẩu giống cây trồng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật số: 31/2018/QH14|Luật trồng trọt|19-11-2018|Quốc Hội|
+|Nghị định số : 94/2019/NĐ-CP|Nghị định số 94/2019/NĐ-CP ngày 13/12/2019 của Chính phủ quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác|13-12-2019|Chính phủ|
+|130/2022/NĐ-CP|Nghị định sửa đổi, bổ sung một số điều của Nghị định số 84/2019/NĐ-CP ngày 14 tháng 11 năm 2019 của Chính phủ quy định về quản lý phân bón, Nghị định số 94/2019/NĐ-CP ngày 13 tháng 12 năm 2019 của Chính phủ quy định chi tiết một số điều của Luật Trồng trọt về giống cây trồng và canh tác|31-12-2022|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

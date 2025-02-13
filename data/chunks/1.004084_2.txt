@@ -1,0 +1,12 @@
+Tên thủ tục: Thu hồi giấy chứng nhận đăng ký xe, biển số xe (thực hiện tại cấp huyện)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+Bước 2: Nộp hồ sơ đề nghị trực tiếp tại bộ phận tiếp nhận và trả kết quả trụ sở Công an cấp huyện hoặc qua dịch vụ bưu chính công ích hoặc khai báo thông tin qua Cổng dịch vụ công trực tuyến.
+Bước 3: Cán bộ tiếp nhận hồ sơ: Tiếp nhận thông tin (biển số xe và chủ xe) do chủ xe hoặc tổ chức, cá nhân được ủy quyền cung cấp hoặc thông tin khai báo trên Cổng dịch vụ công trực tuyến; nhận giấy chứng nhận đăng ký và biển số xe.
+Đối với xe sang tên chuyển quyền sở hữu: Kiểm tra, đối chiếu chứng từ chuyển quyền sở hữu xe đối với trường hợp thu hồi đăng ký, biển số xe để làm thủ tục đăng ký sang tên xe. 
+Bước 4: Thu hồi giấy chứng nhận đăng ký, biển số xe. 
+Trường hợp xe bị mất giấy chứng nhận đăng ký xe hoặc biển số xe hoặc mất cả giấy chứng nhận đăng ký xe và biển số xe, chủ xe phải có: Đơn trình bày rõ lý do bị mất. Lập 02 bản thông báo mất giấy chứng nhận đăng ký, biển số xe, ghi rõ họ tên, địa chỉ chủ xe, số máy, số khung, nhãn hiệu, loại xe (01 bản niêm yết công khai tại trụ sở, 01 bản lưu trong hồ sơ xe); thông báo trên hệ thống đăng ký, quản lý xe. Sau 30 ngày nếu không có khiếu nại, tố cáo thì giải quyết thu hồi giấy chứng nhận đăng ký, biển số xe. 
+Bước 5: Nhập thông tin trên hệ thống và in giấy chứng nhận thu hồi đăng ký, biển số xe 
+Bước 6: Trả giấy chứng nhận thu hồi đăng ký, biển số xe cho chủ xe.

@@ -1,0 +1,140 @@
+Tên thủ tục: Phê duyệt dự toán, thiết kế Phương án trồng rừng thay thế đối với trường hợp chủ dự án không tự trồng rừng thay
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Trường hợp 1: UBND tỉnh bố trí đất để trồng rừng thay thế
+
+1. Tiếp nhận hồ sơ.
+
+- Tiếp nhận hồ sơ trực tiếp từ tổ chức/cá nhân hoặc từ bưu điện hoặc qua Cổng dịch vụ công trực tuyến của tỉnh: http://dichvucong.hatinh.gov.vn
+
+2. Công chức TN&TKQ kiểm tra hồ sơ:
+
+- Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ, hẹn trả kết quả cho tổ chức, cá nhân và yêu cầu nộp phí, lệ phí cho Trung tâm (nếu có).
+
+- Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì hướng dẫn bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+
+Chuyển hồ sơ về Chi cục Kiểm lâm, Văn thư tiếp nhận hồ sơ, chuyển cho phòng Sử dụng và Phát triển rừng (SD&PTR) để xử lý.
+
+Duyệt hồ sơ và chuyển cho công chức xử lý.
+
+Xem xét, xử lý hồ sơ:
+
+- Nếu hồ sơ đủ điều kiện thì dự thảo Văn bản đề  nghị UBND tỉnh giao nhiệm vụ cho chủ đầu tư thực hiện trồng rừng thay thế kèm dự thảo Văn bản giao nhiệm vụ của UBND tỉnh, trình lãnh đạo phòng xem xét, lãnh đạo Chi cục ký nháy.
+
+- Nếu hồ sơ không đủ điều kiện thì tham mưu Văn bản thông báo hồ sơ không đủ điều kiện giải quyết (kèm hồ sơ), trình lãnh đạo phòng xem xét, ký nháy, lãnh đạo Chi cục ký duyệt, văn thư đóng dấu và chuyển sang Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B13.
+
+Xem xét, phê duyệt kết quả giải quyết tại bước B4.
+
+Đóng dấu, phát hành Văn bản và chuyển toàn bộ hồ sơ cho UBND tỉnh giải quyết (qua Trung tâm Phục vụ hành chính công tỉnh).
+
+UBND tỉnh xem xét giải quyết. Chuyển kết quả cho chủ đầu tư (bao gồm: Ban Quản lý rừng phòng hộ, Ban quản lý rừng đặc dụng, đơn vị vũ trang đối với trường hợp trồng rừng thay thế trên diện tích đất được giao cho Ban quản lý rừng phòng hộ, Ban quản lý rừng đặc dụng, đơn vị vũ trang quản lý hoặc Chi cục Kiểm lâm/Ban Quản lý dự án phát triển rừng cấp huyện đối với trường hợp trồng rừng thay thế trên diện tích đất được giao cho UBND cấp xã, hộ gia đình, cá nhân, cộng đồng dân cư quản lý).
+
+Xây dựng Dự toán, thiết kế phương án trồng rừng thay thế và gửi Dự toán, thiết kế phương án trồng rừng thay thế về Sở Nông nghiệp và Phát triển nông thôn.
+
+Thẩm định hồ sơ:
+
+- Nếu hồ sơ đủ điều kiện: lập dự thảo Báo cáo kết quả thẩm định Dự toán, thiết kế phương án trồng rừng thay thế kèm dự thảo Quyết định phê duyệt dự toán, thiết kế trồng rừng thay thế và dự thảo Văn bản thông báo thời gian, số tiền Chủ dự án phải nộp trình lãnh đạo phòng xem xét, lãnh đạo Chi cục ký nháy.
+
+- Nếu hồ sơ không đủ điều kiện: dự thảo Văn bản thông báo hồ sơ không đủ điều kiện giải quyết (kèm hồ sơ), trình lãnh đạo phòng xem xét, ký nháy, lãnh đạo Chi cục ký duyệt, văn thư đóng dấu và chuyển Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B10.
+
+ 
+
+Xem xét phê duyệt kết quả giải quyết tại bước B9.
+
+Đóng dấu, phát hành Văn bản và chuyển toàn bộ hồ sơ cho UBND tỉnh giải quyết (qua Trung tâm Phục vụ hành chính công tỉnh).
+
+UBND tỉnh xem xét giải quyết.
+
+Chuyển kết quả cho Sở Nông nghiệp và Phát triển nông thôn qua Trung tâm Phục vụ hành chính công tỉnh đồng thời kết thúc xử lý trên phần mềm dịch vụ công.
+
+Trả kết quả cho tổ chức, cá nhân.
+
+Tổ chức, cá nhân nộp tiền trồng rừng thay thế vào Quỹ Bảo vệ và Phát triển rừng tỉnh.
+Trường hợp 2: UBND tỉnh không còn quỹ đất quy hoạch phát triển rừng để trồng rừng thay thế
+
+ 
+
+1. Tiếp nhận hồ sơ.
+
+- Tiếp nhận hồ sơ trực tiếp từ tổ chức/cá nhân hoặc từ bưu điện hoặc qua Cổng dịch vụ công trực tuyến của tỉnh: http://dichvucong.hatinh.gov.vn
+
+2. Công chức TN&TKQ kiểm tra hồ sơ:
+
+- Nếu hồ sơ đầy đủ, hợp lệ thì làm thủ tục tiếp nhận hồ sơ, hẹn trả kết quả cho tổ chức, cá nhân và yêu cầu nộp phí, lệ phí cho Trung tâm (nếu có).
+
+- Nếu hồ sơ chưa đầy đủ hoặc không hợp lệ thì hướng dẫn bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+
+Chuyển hồ sơ về Chi cục Kiểm lâm, Văn thư tiếp nhận hồ sơ, chuyển cho phòng Sử dụng và Phát triển rừng (SD&PTR) để xử lý.
+
+Duyệt hồ sơ và chuyển cho công chức xử lý.
+
+Xem xét, xử lý hồ sơ:
+
+- Nếu hồ sơ đủ điều kiện: Dự thảo Văn bản đề nghị UBND tỉnh ban hành Văn bản đề nghị Bộ Nông nghiệp và Phát triển nông thôn chấp thuận việc nộp tiền trồng rừng thay thế về Quỹ Bảo vệ và Phát triển rừng Việt Nam, trong đó nêu rõ lý do không còn quỹ đất để trồng rừng thay thế (kèm hồ sơ) và dự thảo Văn bản của UBND tỉnh, trình lãnh đạo phòng xem xét, lãnh đạo Chi cục ký nháy. Tiếp tục thực hiện theo bước B5.
+
+- Nếu hồ sơ không đủ điều kiện: Dự thảo Văn bản thông báo hồ sơ không đủ điều kiện giải quyết (kèm hồ sơ), trình lãnh đạo phòng xem xét, lãnh đạo Chi cục ký nháy, văn thư đóng dấu và chuyển Trung tâm Phục vụ hành chính công tỉnh để trả cho tổ chức, cá nhân theo bước B11.
+
+Xem xét, phê duyệt kết quả giải quyết tại bước B4.
+
+Đóng dấu, phát hành Văn bản và chuyển toàn bộ hồ sơ cho UBND tỉnh xem xét, giải quyết (qua Trung tâm Phục vụ hành chính công tỉnh).
+
+UBND tỉnh xem xét giải quyết.
+
+Ban hành Văn bản đề nghị Bộ Nông nghiệp và Phát triển nông thôn (kèm hồ sơ theo mục 2.3.2b) gửi Bộ Nông nghiệp và Phát triển nông thôn, đồng thời chuyển cho Sở Nông nghiệp và Phát triển nông thôn qua Trung tâm Phục vụ hành chính công tỉnh để kết thúc xử lý trên phần mềm dịch vụ công.
+
+Bộ Nông nghiệp và Phát triển nông thôn xem xét, bố trí trồng rừng thay thế trên địa bàn tỉnh, thành phố khác:
+
+Ban hành Văn bản đề nghị UBND tỉnh nơi tiếp nhận trồng rừng thay thế xây dựng, phê duyệt dự toán, thiết kế trồng rừng.
+
+UBND tỉnh nơi tiếp nhận trồng rừng thay thế:
+
+Phê duyệt dự toán, thiết kế trồng rừng thay thế, gửi Bộ Nông nghiệp và Phát triển nông thôn
+
+Bộ Nông nghiệp và Phát triển nông thôn (hoặc cơ quan được ủy quyền) xem xét, xử lý:  Sau khi nhận được quyết định phê duyệt thiết kế, dự toán trồng rừng của UBND tỉnh nơi tiếp nhận trồng rừng thay thế thông báo bằng văn bản cho UBND tỉnh nơi đề nghị nộp tiền về thời gian và số tiền chủ dự án phải nộp để trồng rừng thay thế.
+
+Trả kết quả cho tổ chức, cá nhân.
+
+Tổ chức, cá nhân nộp tiền trồng rừng thay thế vào Quỹ Bảo vệ và Phát triển rừng tỉnh nơi tổ chức, cá nhân nộp hồ sơ.
+
+Quỹ Bảo vệ và Phát triển rừng tỉnh chuyển số tiền chủ dự án đã nộp về Quỹ Bảo vệ và Phát triển rừng Việt Nam để thực hiện trồng rừng tại địa phương khác.
+
+Quỹ Bảo vệ và Phát triển rừng Việt Nam điều chuyển tiền về Quỹ Bảo vệ và Phát triển rừng tỉnh nơi được lựa chọn trồng rừng thay thế.
+
+ 
+
+ 
+
+Cách thức thực hiện
+- Nộp hồ sơ trực tiếp hoặc qua đường bưu điện đến Trung tâm Phục vụ hành chính công tỉnh Hà Tĩnh;
+
+- Qua Cổng dịch vụ công trực tuyến http://dichvucong.hatinh.gov.vn.
+
+Thành phần hồ sơ
+1. Trường hợp UBND tỉnh bố trí đất để trồng rừng trên địa bàn
+
+Văn bản đề nghị chấp thuận nộp tiền trồng rừng thay thế theo mẫu biểu BM.LN.11.01; (bản chính)
+
+Văn bản của cơ quan Nhà nước có thẩm quyền chấp thuận chủ trương chuyển mục đích sử dụng rừng sang mục đích khác; (bản sao)
+
+Các tài liệu khác có liên quan (nếu có); (bản sao)
+
+2. Trường hợp UBND tỉnh không bố trí được đất để trồng rừng trên địa bàn
+
+Hồ sơ chủ dự án gửi Sở Nông nghiệp và Phát triển nông thôn:
+
+Văn bản đề nghị chấp thuận nộp tiền trồng rừng thay thế theo mẫu biểu BM.LN.11.01; (bản chính)
+
+Văn bản của cơ quan Nhà nước có thẩm quyền chấp thuận chủ trương chuyển mục đích sử dụng rừng sang mục đích khác. (bản sao)
+
+Các tài liệu khác có liên quan (nếu có). (bản sao)
+
+Hồ sơ UBND tỉnh gửi Bộ Nông nghiệp và Phát triển Nông thôn.
+
+Văn bản của UBND tỉnh đề nghị Bộ Nông nghiệp và Phát triển nông thôn chấp thuận việc nộp tiền trồng rừng thay thế về Quỹ Bảo vệ và Phát triển rừng Việt Nam, trong đó nêu rõ lý do không còn quỹ đất để trồng rừng thay thế; (bản chính)
+
+Văn bản đề nghị chấp thuận nộp tiền trồng rừng thay thế theo mẫu biểu BM.LN.11.01; (bản chính)
+
+Văn bản của cơ quan Nhà nước có thẩm quyền chấp thuận chủ trương chuyển mục đích sử dụng rừng sang mục đích khác (UBND tỉnh gửi Bộ NN và PTNT); (bản sao)
+
+Các tài liệu khác có liên quan (nếu có). (bản sao)

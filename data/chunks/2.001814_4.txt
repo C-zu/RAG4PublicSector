@@ -1,0 +1,12 @@
+Tên thủ tục: Chuyển nhượng quyền thăm dò khoáng sản (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị chuyển nhượng quyền thăm dò khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc4b4e13692b6c8'">Mẫu số 06 Đơn đề nghị chuyển nhượng thăm dò.docx</a>)
+- 01 Bản chính Hợp đồng chuyển nhượng quyền thăm dò khoáng sản
+- 01 Bản chính Báo cáo kết quả thăm dò khoáng sản đến thời điểm đề nghị chuyển nhượng quyền thăm dò khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec8afe4ec56a75'">Mẫu số 42 báo cáo hoạt động thăm dò.docx</a>)
+ Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu của giấy tờ sau:
+- 01 Bản sao - Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp của tổ chức, cá nhân nhận chuyển nhượng quyền thăm dò khoáng sản
+- 01 Bản sao - Các văn bản chứng minh việc tổ chức, cá nhân chuyển nhượng đã hoàn thành nghĩa vụ quy định gồm: Thực hiện đúng Giấy phép thăm dò khoáng sản, đề án thăm dò khoáng sản đã được chấp thuận; Báo cáo cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép xem xét, chấp thuận trong trường hợp thay đổi phương pháp thăm dò hoặc thay đổi khối lượng thăm dò có chi phí lớn hơn 10% dự toán; Bồi thường thiệt hại do hoạt động thăm dò gây ra; Thu thập, lưu giữ thông tin về khoáng sản và báo cáo kết quả thăm dò khoáng sản cho cơ quan quản lý nhà nước về khoáng sản; báo cáo các hoạt động khác cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật; Tổ chức, cá nhân chuyển nhượng quyền thăm dò khoáng sản đã thực hiện được ít nhất 50% dự toán của đề án thăm dò khoáng sản.

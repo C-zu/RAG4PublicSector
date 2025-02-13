@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009697
+Số quyết định:
+2165/QĐ-UBND
+Tên thủ tục:
+Lập, thẩm định, quyết định đầu tư chương trình, dự án đầu tư thuộc thẩm quyền của người đứng đầu cơ quan chủ quản
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức
+Trình tự thực hiện:
+B1	Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT tại Trung tâm Phục vụ hành chính công tỉnh. Cán bộ TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. 
+B2	Chuyển hồ sơ về phòng chuyên môn để giải quyết.
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý.
+B4	Thẩm định hồ sơ:
+- Trường hợp hồ sơ không đủ điều kiện thì dự thảo Văn bản thông báo hồ sơ không đủ điều kiện thẩm định trình lãnh đạo phòng xem xét, ký nháy, Lãnh đạo sở ký duyệt. 
+- Trường hợp, hồ sơ đáp ứng yêu cầu, làm văn bản lấy ý kiến thẩm định của Bộ kế hoạch và Đầu tư, Bộ Tài chính và các Sở ban ngành liên quan.
+B5	Làm thủ tục phát hành văn bản và:
++ Chuyển sang TTPVHCC để trả cho tổ chức, cá nhân nếu hồ sơ không đủ điều kiện. Chuyển sang thực hiện Bước 13.
++ Gửi văn bản đến Bộ Kế hoạch và Đầu tư, Bộ Tài chính và các sở, ban, ngành (nếu hồ sơ đủ điều kiện) Chuyển sang thực hiện B6.
+B6	Bộ KH&ĐT, Bộ TC và các Sở ban ngành liên quan góp ý thẩm định hồ sơ.
+	Lập Báo cáo thẩm định đầu tư chương trình, dự án đầu tư.
+B7	Tổng hợp ý kiến của Bộ KH&ĐT, Bộ TC và các ngành vào dự thảo Báo cáo thẩm định đầu tư chương trình, dự án đầu tư và Dự thảo Tờ trình đề nghị UBND tỉnh cấp Quyết định phê duyệt  đầu tư chương trình, dự án đầu tư kèm dự thảo Quyết định trình lãnh đạo phòng xem xét, ký nháy.
+B8	Lãnh đạo phòng chuyên môn xem xét, ký nháy.
+B9	Lãnh đạo Sở xem xét, ký duyệt kết quả thẩm định của phòng chuyên môn.
+B10	Làm thủ tục phát hành văn bản và chuyển kết quả kèm theo 01 bộ hồ sơ sang UBND tỉnh để giải quyết.
+B11	UBND tỉnh xem xét quyết định.
+B12	Nhận kết quả từ UBND tỉnh và chuyển sang Tung tâm PV HCC tỉnh để trả cho tổ chức, cá nhân.
+Cập nhật, theo dõi kết quả xử lý công việc.
+B13	Trả kết quả
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 0 Đồng|- Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh; - Qua Bưu điện; - Qua mạng điện tử theo quy trình trên dịch vụ công của tỉnh, tại địa chỉ: dichvucong.hatinh.gov.vn.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Tờ trình thẩm định chương trình, dự án theo mẫu BM.ODA.02.01; ([mẫu 3.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1d7d9d551526c'))
+- 02 Bản chính Báo cáo nghiên cứu khả thi chương trình, dự án;
+- 02 Bản sao Các tài liệu khác có liên quan.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền:
+Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS:
+Trung tâm hành chính công tỉnh Hà Tĩnh, số 02 A đường nguyễn Chí Thanh, TP hà Tĩnh, tỉnh Hà TĨnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định đầu tư chương trình, dự án của Cơ quan chủ quản.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|39/2019/QH14|Luật 39/2019/QH14|13-06-2019||
+|56/2020/NĐ-CP|Nghị định 56/2020/NĐ-CP|25-05-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

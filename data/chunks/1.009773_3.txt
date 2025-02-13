@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đổi Giấy chứng nhận đăng ký đầu tư (BQL)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Ban Quản lý cấp đổi Giấy chứng nhận đăng ký đầu tư cho nhà đầu tư trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính nhà nước.|
+|Dịch vụ bưu chính|Ban Quản lý cấp đổi Giấy chứng nhận đăng ký đầu tư cho nhà đầu tư trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

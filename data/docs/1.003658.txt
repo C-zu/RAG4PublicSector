@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003658
+Số quyết định:
+161/QĐ-BGTVT
+Tên thủ tục:
+Công bố lại hoạt động bến thủy nội địa
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Bến thủy nội địa phải công bố lại hoạt động trong các trường hợp sau:
++ Thay đổi quy mô, công năng của cảng, bến thủy nội địa;
++ Thay đổi vùng đất, vùng nước của cảng, bến thủy nội địa;
++ Thay đổi chủ cảng, bến thủy nội địa.
+- Trước khi đưa công trình bến thủy nội địa vào khai thác, chủ bến thủy nội địa nộp hồ sơ đề nghị công bố hoạt động đến Ủy ban nhân dân cấp huyện.
+b) Giải quyết TTHC:
+- Trường hợp nhận hồ sơ trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; trường hợp hồ sơ không đầy đủ theo quy định thì trả lại ngay và hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ; trường hợp nhận hồ sơ qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng các hình thức phù hợp khác, nếu hồ sơ không đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản tổ chức, cá nhân qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng các hình thức phù hợp khác, nêu rõ lý do và yêu cầu bổ sung, hoàn thiện hồ sơ;
+- Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Ủy ban nhân dân cấp huyện ban hành quyết định công bố hoạt động bến thủy nội địa.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : 100000 Đồng Phí Thẩm tra, thẩm định: 100.000 đồng/lần|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|5 Ngày làm việc|Phí : 100000 Đồng Phí Thẩm tra, thẩm định: 100.000 đồng/lần|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : 100000 Đồng Phí Thẩm tra, thẩm định: 100.000 đồng/lần|Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.|
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị công bố hoạt động
+- 01 Bản chính - Đơn đề nghị công bố lại hoạt động cảng, bến thủy nội địa theo mẫu; ([18.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefbd321ebd2b8b'))
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu văn bản của cơ quan có thẩm quyền về việc thay đổi vùng đất, vùng nước (đối với trường hợp Thay đổi vùng đất, vùng nước của bến thủy nội địa);
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao xuất trình bản chính để đối chiếu các văn bản chứng minh việc thay đổi chủ cảng, bến (đối với trường hợp Thay đổi chủ bến thủy nội địa).
+
+
+Hồ sơ đối với phần thay đổi kết cấu công trình của bến thủy nội địa:
+- 01 Bản sao - Bản sao có chứng thực quyết định phê duyệt báo cáo kinh tế - kỹ thuật của chủ đầu tư (đối với bến thủy nội địa có dự án đầu tư xây dựng) hoặc phương án khai thác bến thủy nội địa;
+- 01 Bản chính - Biên bản nghiệm thu hoàn thành công trình, bản vẽ hoàn công mặt bằng, mặt chiếu đứng, mặt cắt ngang công trình đối với bến thủy nội địa có dự án đầu tư xây dựng;
+- 01 Bản sao - Bản sao giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của kết cấu nổi, phương tiện, pông-tông hoặc phao neo thuộc diện phải đăng kiểm (nếu sử dụng kết cấu nổi, phương tiện, pông-tông làm cầu bến hoặc bến phao).
+
+
+Trường hợp gửi hồ sơ trực tuyến
+ (Trường hợp gửi hồ sơ trực tuyến, thành phần hồ sơ là bản chính hoặc bản sao điện tử các thành phần hồ sơ tương ứng theo quy định.).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Huyện
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện
+Địa chỉ tiếp nhận HS:
+Sở Giao thông vận tải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định công bố (công bố lại) hoạt động cảng (bến) thủy nội địa
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2021/NĐ-CP|Nghị định 08/2021/NĐ-CP|28-01-2021||
+|198/2016/TT-BTC|Thông tư 198/2016/TT-BTC|08-11-2016||
+|06/2024/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 08/2021/NĐ-CP ngày 28 tháng 01 năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa|25-01-2024|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

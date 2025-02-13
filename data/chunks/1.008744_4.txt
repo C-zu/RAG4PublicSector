@@ -1,0 +1,15 @@
+Tên thủ tục: Thẩm định, phê duyệt đề cương và dự toán chi tiết đối với hoạt động ứng dụng CNTT sử dụng kinh phí chi thường xuyên thuộc nguồn vốn NSNN
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình của cơ quan, đơn vị đề nghị phê duyệt đề cương và dự toán chi tiết (Mẫu KHTC 01); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cc449f0ea6ad'">To trinh ve viec phe duyet de cuong va du toan chi tiet (Mau KHTC 01).doc</a>)
+- 01 Bản chính 2. Đề cương và dự toán chi tiết (có xác nhận của Chủ đầu tư và Đơn vị tư vấn): Thực hiện theo khung hướng dẫn do Sở Thông tin và Truyền thông ban hành (đính kèm tại thành phần hồ sơ của thủ tục trên mạng);
+- 01 Bản chính 3. Quyết định công nhận đơn vị tư vấn lập đề cương và dự toán chi tiết (nếu có);
+- 01 Bản chính 4. Bản mềm dự toán của hồ sơ (file excel);
+- 01 Bản chính 5. Các tài liệu liên quan đến chủ trương đầu tư: Quyết định giao dự toán hoặc văn bản đồng ý chủ trương của cấp có thẩm quyền (UBND TP, UBND quận huyện,...).
+- 01 Bản chính * Bản điện tử: Tất cả đều có chữ ký số hoặc bản scan có chữ ký và đóng dấu đỏ của cơ quan trình hồ sơ.
+ * Lưu ý về số lượng hồ sơ (bản giấy) cần nộp:
+- 04 Bản chính - Đề cương và dự toán chi tiết (bản đã hiệu chỉnh theo kết quả Sở TT&TT trả về tài khoản điện tử trên Hệ thống Egov của người nộp hồ sơ): 04 bản.
+- 01 Bản chính - Tờ trình, Đề cương và dự toán chi tiết qua các lần sửa đổi, bổ sung: Mỗi lần sửa đổi, bổ sung nộp 01 bộ.

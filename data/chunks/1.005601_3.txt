@@ -1,0 +1,12 @@
+Tên thủ tục: Cho phép tổ chức, quản lý hội nghị, hội thảo quốc tế đối với các cơ quan, tổ chức Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tiếp|15 Ngày làm việc||Trường hợp cần ý kiến xác minh của Công an thì không quá 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|7 Ngày làm việc||kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Trực tuyến|15 Ngày làm việc||Trường hợp cần ý kiến xác minh của Công an thì không quá 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|7 Ngày làm việc||kể từ ngày nhận đủ hồ sơ theo quy định.|
+|Dịch vụ bưu chính|15 Ngày làm việc||Trường hợp cần ý kiến xác minh của Công an thì không quá 15 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.|

@@ -1,0 +1,19 @@
+Tên thủ tục: Thủ tục cấp, công nhận Giấy chứng nhận loại
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Giải quyết TTHC: Trong vòng 5 tháng kể từ khi nhận được hồ sơ đề nghị công nhận Giấy chứng nhận loại, Cục HKVN thực hiện các công việc kiểm tra, thử nghiệm cần thiết để công nhận Giấy chứng nhận loại cho loại tàu bay, động cơ và cánh quạt lần đầu được khai thác tại Việt Nam, bao gồm:
+3. Thẩm định các giới hạn duy trì tính đủ điều kiện bay theo quy định của tiêu chuẩn đủ điều kiện bay áp dụng;
+1. Thẩm định tính đầy đủ và hồ sơ đề nghị công nhận Giấy chứng nhận loại;
+2. Xem xét thừa nhận tiêu chuẩn đủ điều kiện bay áp dụng cho loại tàu bay, động cơ và cánh quạt được đề nghị thừa nhận Giấy chứng nhận loại trên cơ sở phù hợp với Phụ ước 8 của Công ước Chi-ca-go;
+4. Xác định các yêu cầu về bảo vệ môi trường áp dụng đối với loại tàu bay, động cơ và cánh quạt đề nghị được công nhận Giấy chứng nhận loại;
+5. Xem xét thừa nhận kết quả kiểm tra, thử nghiệm và việc bay thử cần thiết để kiểm chứng việc tuân thủ của loại tàu bay, động cơ và cánh quạt đối với các tiêu chuẩn đủ điều kiện bay áp dụng.
+Nộp hồ sơ TTHC:
+Người đề nghị cấp, công nhận hiệu lực Giấy chứng nhận loại nộp hồ sơ đề nghị đến Cục Hàng không Việt Nam
+Giải quyết TTHC: Trong vòng 10 tháng kể từ khi nhận được hồ sơ đề nghị cấp Giấy chứng nhận loại, Cục HKVN thực hiện các công việc kiểm tra, thử nghiệm cần thiết để cấp Giấy chứng nhận loại cho loại tàu bay, động cơ và cánh quạt được thiết kế, chế  tạo tại Việt Nam, bao gồm:
+1. Thẩm định tính đầy đủ và hồ sơ đề nghị cấp Giấy chứng nhận loại;
+2. Xác định tiêu chuẩn đủ điều kiện bay áp dụng cho loại tàu bay, động cơ và cánh quạt được đề nghị cấp Giấy chứng nhận loại để xác định căn cứ cho việc cấp Giấy chứng nhận loại cho loại tàu bay, động cơ và cánh quạt đó;
+3. Thẩm định các số liệu bản vẽ, danh mục các bản vẽ và các tính năng kỹ thuật cần thiết để xác định cấu hình và đặc tính thiết kế của sản phẩm chứng minh việc đáp ứng các tiêu chuẩn đủ điều kiện bay áp dụng, bao gồm cả thông tin về vật liệu và quy trình, phương pháp chế tạo, lắp ráp của sản phẩm để khẳng định tính phù hợp của sản phẩm;
+4. Thẩm định các giới hạn duy trì tính đủ điều kiện bay theo quy định của tiêu chuẩn đủ điều kiện bay áp dụng;
+5. Xác định các yêu cầu về bảo vệ môi trường áp dụng đối với loại tàu bay, động cơ và cánh quạt đề nghị được cấp Giấy chứng nhận loại;
+6. Thực hiện hoặc thuê tổ chức độc lập đủ khả năng thực hiện kiểm tra, thử nghiệm và bay thử cần thiết để kiểm chứng việc tuân thủ của loại tàu bay, động cơ và cánh quạt đối với các tiêu chuẩn đủ điều kiện bay áp dụng

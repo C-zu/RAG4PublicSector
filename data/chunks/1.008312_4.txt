@@ -1,0 +1,9 @@
+Tên thủ tục: Khai thuế tài nguyên đối với cơ sở khai thác tài nguyên
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao ++ Tờ khai thuế tài nguyên mẫu số 01/TAIN tại Phụ lục II ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế.
+- 01 Bản chính, 01 Bản sao ++ Phụ lục bảng phân bổ số thuế tài nguyên phải nộp cho các địa phương nơi được hưởng nguồn thu đối với hoạt động sản xuất thủy điện mẫu số 01-1/TAIN ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính (áp dụng đối với cơ sở sản xuất thủy điện có hồ thủy điện nằm trên nhiều tỉnh) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc5c215639001dc'">Mẫu 01.1.TAIN.doc</a>)
+- 01 Bản chính, 01 Bản sao + Số lượng hồ sơ: 01 (bộ)

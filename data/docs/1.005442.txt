@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005442
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại văn bản xác nhận thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được (cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính
+Trình tự thực hiện:
+Bước 1: Trường hợp văn bản xác nhận thông báo hoạt động bưu chính chính bị mất hoặc hư hỏng không sử dụng được và doanh nghiệp, tổ chức có nhu cầu được cấp lại thì gửi hồ sơ đến Sở Thông tin và Truyền thông.
+Bước 2: - Sau khi hồ sơ được tiếp nhận, Sở Thông tin và Truyền thông cấp lại giấy phép bưu chính trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+- Kết quả giải quyết thủ tục cấp lại văn bản xác nhận thông báo hoạt động bưu chính khi bị mất hoặc hư hỏng không sử dụng được được trả trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính công ích.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc|Phí : 500.000 Đồng Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính cho chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam khi bị mất hoặc hư hỏng không sử dụng được  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f984b9466c06060') Phí : 500.000 Đồng Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng đượchư hỏng không sử dụng được  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe69fe47d940af3')||
+|Trực tuyến|7 Ngày làm việc|Phí : 500.000 Đồng Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng đượchư hỏng không sử dụng được  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe69fe47d940af3') Phí : 500.000 Đồng Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính cho chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam khi bị mất hoặc hư hỏng không sử dụng được  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f984b9466c06060')|Nộp trực tuyến qua cổng dịch vụ công: Cổng dịch vụ công của Sở Thông tin và Truyền thông hoặc Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)|
+|Dịch vụ bưu chính|7 Ngày làm việc|Phí : 500.000 Đồng Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính cho chi nhánh, văn phòng đại diện của doanh nghiệp cung ứng dịch vụ bưu chính được thành lập theo pháp luật Việt Nam khi bị mất hoặc hư hỏng không sử dụng được  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f984b9466c06060') Phí : 500.000 Đồng Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc Trường hợp cấp lại Văn bản xác nhận thông báo hoạt động bưu chính nội tỉnh khi bị mất hoặc hư hỏng không sử dụng đượchư hỏng không sử dụng được  [25-btc.signed.pdf](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe69fe47d940af3')||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại văn bản xác nhận thông báo hoạt động bưu chính ([Mãu giay de nghi cap lai Văn ban XNTB.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea8756d62999f1'))
+ Số lượng hồ sơ: 01 bộ là bản gốc
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Sở Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản sao từ bản gốc của văn bản xác nhận thông báo hoạt động bưu chính đã được cấp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật Bưu chính số 49/2010/QH|Luật Bưu chính số 49/2010/QH ngày 28/6/2010|28-06-2010|Quốc Hội|
+|Nghị định số 47/2011/NĐ-CP|Nghị định số 47/2011/NĐ-CP|17-06-2011|Chính phủ|
+|Thông tư số 291/2016/TT-BTC|Thông tư số 291/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|25/2020/TT-BTC|Thông tư sửa đổi, bổ sung một số điều của Thông tư 219/2016-TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý phí thẩm định điều kiện hoạt động bưu chính|04-04-2020|Bộ Tài chính|
+|25/2022/NĐ-CP|Nghị định 25/2022/NĐ-CP|12-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Thông tư số 25/2020/TT-BTC ngày 14/4/2020 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 291/2016/TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính.

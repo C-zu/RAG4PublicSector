@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký giá của các doanh nghiệp thuộc phạm vi cấp tỉnh
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002217
+Số quyết định:
+2008/QĐ-BTC
+Tên thủ tục:
+Đăng ký giá của các doanh nghiệp thuộc phạm vi cấp tỉnh
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Quản lý giá

@@ -1,0 +1,8 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy phép thiết lập mạng xã hội trên mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị (nêu rõ nội dung, lý do cần sửa đổi, bổ sung)
+- 01 Bản chính Các tài liệu chứng minh có liên quan đến cơ quan cấp giấy phép

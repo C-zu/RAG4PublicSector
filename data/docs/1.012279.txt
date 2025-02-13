@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.012279
+Số quyết định:
+743/QĐ-BYT
+Tên thủ tục:
+Cấp lại giấy phép hoạt động khám bệnh, chữa bệnh
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Khám bệnh, chữa bệnh
+Trình tự thực hiện:
+Bước 1:
+Nộp 01 bộ hồ sơ đề nghị cấp lại giấy phép hoạt động và nộp phí theo quy định của pháp luật về phí, lệ phí cho cơ quan cấp giấy phép hoạt động.
+Bước 2:
+Sau khi nhận hồ sơ, cơ quan cấp giấy phép hoạt động trả cho cơ sở đề nghị phiếu tiếp nhận hồ sơ.
+Bước 3:
+Trong thời hạn 20 ngày, kể từ ngày ghi trên phiếu tiếp nhận hồ sơ, cơ quan cấp giấy phép hoạt động cấp lại giấy phép hoạt động và cập nhật thông tin về việc cấp lại giấy phép hoạt động trên cổng thông tin điện tử hoặc trang tin điện tử của cơ quan và trên Hệ thống thông tin về quản lý hoạt động khám bệnh, chữa bệnh
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : 1500000 Đồng không thu phí đối với trường hợp cấp sai do lỗi của cơ quan có thẩm quyền cấp|20 ngày kể từ ngày nhận đủ hồ sơ|
+|Trực tuyến|20 Ngày|Phí : 1500000 Đồng không thu phí đối với trường hợp cấp sai do lỗi của cơ quan có thẩm quyền cấp|20 ngày kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|20 Ngày|Phí : 1500000 Đồng không thu phí đối với trường hợp cấp sai do lỗi của cơ quan có thẩm quyền cấp|20 ngày kể từ ngày nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+Trường hợp 1: Trường hợp giấy phép hoạt động bị mất hoặc hư hỏng
+- 01 Bản chính Đơn theo Mẫu 02 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP ([Mẫu 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa86b7f6745b140'))
+- 01 Bản sao Bản sao bị mất hoặc bản gốc giấy phép hoạt động bị hư hỏng (nếu có)
+
+
+Trường hợp 2: Trường hợp sai sót thông tin
+- 01 Bản chính Đơn theo Mẫu 02 Phụ lục II ban hành kèm theo Nghị định số 96/2023/NĐ-CP ([Mẫu 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb880880ababed'))
+- 01 Bản chính, 01 Bản sao Tài liệu chứng minh nội dung, thông tin sai sót cần sửa lại
+- 01 Bản chính c) Bản gốc giấy phép hoạt động đã cấp.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Quản lý Khám chữa bệnh - Bộ Y tế, Cục Quản lý Môi trường Y tế - Bộ Y tế, Cục Quản lý Y, Dược cổ truyền - Bộ Y tế, Sở Y tế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép hoạt động khám bệnh, chữa bệnh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|59/2023/TT-BTC|Thông tư số 59/2023/TT-BTC ngày 30/8/2023 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp quản lý và sử dụng phí trong lĩnh vực y tế|30-08-2023|Bộ trưởng Bộ tài chính|
+|15/2023/QH15|Luật Khám, chữa bệnh|30-01-2023|Ủy ban thường vụ quốc hội|
+|96/2023/NĐ-CP|Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.|30-12-2023||
+
+Yêu cầu, điều kiện thực hiện:
+1. Các trường hợp cấp lại giấy phép hoạt động:
+a) Giấy phép hoạt động bị mất hoặc hư hỏng;
+b) Sai sót thông tin.
+2. Đáp ứng theo các điều kiện quy định tại Điều 40 đến Điều 58 Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.
+1. Các trường hợp cấp lại giấy phép hoạt động:
+a) Giấy phép hoạt động bị mất hoặc hư hỏng;
+b) Sai sót thông tin.
+2. Đáp ứng theo các điều kiện quy định tại Điều 40 đến Điều 58 Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

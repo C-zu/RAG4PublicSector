@@ -1,0 +1,13 @@
+Tên thủ tục: Phê duyệt dự án khuyến nông, thuyết minh dự án khuyến nông trung ương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đăng ký chủ trì dự án khuyến nông trung ương.
+- 01 Bản chính Tóm tắt hoạt động khuyến nông, chuyển giao tiến bộ kỹ thuật, công nghệ trong nông nghiệp của tổ chức đăng ký chủ trì dự án khuyến nông trung ương (Mẫu số 01 ban hành kèm theo Nghị định 83/NĐ-CP ngày 24/5/2018). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcd9ecb0392da88'">Mẫu số 01.docx</a>)
+- 01 Bản chính Lý lịch khoa học của cá nhân đăng ký chủ nhiệm dự án khuyến nông trung ương (Mẫu số 02 ban hành kèm theo Nghị định 83/NĐ-CP ngày 24/5/2018). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1e893976cd4fe'">Mẫu số 02.ND.2018.docx</a>)
+- 01 Bản chính Thuyết minh dự án khuyến nông trung ương (Mẫu số 03 ban hành kèm theo Nghị định 83/NĐ-CP ngày 24/5/2018 ). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefb55675503e54'">mẫu 03.NDD.2018.docx</a>)
+ Văn bản xác nhận phối hợp thực hiện dự án khuyến nông trung ương (Mẫu số 04 ban hành kèm theo Nghị định 83/NĐ-CP ngày 24/5/2018). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f9dff97b672d0c0'">Mẫu số 04.ND83.2018.docx</a>)
+- 01 Bản chính Văn bản xác nhận triển khai dự án khuyến nông trung ương tại địa phương (Mẫu số 05 ban hành kèm theo Nghị định 83/NĐ-CP ngày 24/5/2018). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf34066ee807bc'">Mẫu số 05.NDD.2018.docx</a>)
+- 01 Bản chính Cam kết đóng góp vốn đối ứng (nếu có).

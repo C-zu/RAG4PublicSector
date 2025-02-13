@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy phép bán lẻ sản phẩm thuốc lá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đề nghị cấp Giấy phép bán lẻ sản phẩm thuốc lá. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8b04b6ca67b4c'">Phụ lục 23.docx</a>)
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh và Giấy chứng nhận mã số thuế;
+- 01 Bản sao + Bản sao các văn bản giới thiệu của các thương nhân phân phối hoặc thương nhân bán buôn sản phẩm thuốc lá ghi rõ địa bàn dự kiến kinh doanh
+- 01 Bản chính, 01 Bản sao - Số lượng hồ sơ: 02 bộ, trong đó 01 bộ gửi cơ quan có thẩm quyền cấp phép, 01 bộ lưu tại doanh nghiệp hoặc hộ kinh doanh.

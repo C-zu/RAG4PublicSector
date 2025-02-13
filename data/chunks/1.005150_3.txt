@@ -1,0 +1,8 @@
+Tên thủ tục: Thay đổi tên gọi, Trưởng chi nhánh, địa chỉ trụ sở của chi nhánh tổ chức hòa giải thương mại nước ngoài tại Việt Nam từ tỉnh, thành phố trực thuộc Trung ương này sang tỉnh, thành phố trực thuộc Trung ương khác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ hợp lệ; trường hợp từ chối phải thông báo lý do bằng văn bản.|
+|Dịch vụ bưu chính|15 Ngày||Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ hợp lệ; trường hợp từ chối phải thông báo lý do bằng văn bản.|

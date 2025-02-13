@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục hải quan đối với trường hợp tạm nhập, tạm xuất các phương tiện chứa hàng hóa theo phương thức quay vòng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định||Đối với container rỗng có hoặc không có móc treo và bồn mềm lót trong container để chứa hàng lỏng: lựa chọn khai theo phương thức điện tử hoặc khai trên tờ khai giấy và nộp trực tiếp tại trụ sở cơ quan hành chính|
+|Trực tuyến|Không quy định||Trường hợp khác: Điện tử|

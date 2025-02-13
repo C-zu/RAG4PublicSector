@@ -1,0 +1,11 @@
+Tên thủ tục: Chứng nhận hợp quy, cấp lại giấy chứng nhận hợp quy áp dụng đối với sản phẩm sản xuất trong nước của các đơn vị đã có chứng chỉ chứng nhận hệ thống quản lý chất lượng sản phẩm và sản phẩm nhập khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chứng nhận hợp quy (Mẫu số 01 tại Phụ lục ban hành kèm theo Thông tư số 15/2018/TT-BTTTT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc292efab2b2494'">Mẫu đề nghị chứng nhận hợp quy.doc</a>)
+- 01 Bản chính - Giấy tờ chứng minh tư cách pháp nhân: Trường hợp tổ chức chưa có mã số doanh nghiệp hoặc cá nhân chưa có số định danh cá nhân, tổ chức, cá nhân nộp kèm theo hồ sơ bản sao có chứng thực hoặc bản sao kèm theo bản gốc để đối chiếu một trong các loại giấy tờ sau: + Giấy chứng nhận đăng ký kinh doanh; Quyết định/Giấy phép thành lập, Giấy chứng nhận đầu tư/Giấy phép đầu tư (đối với tổ chức chưa có mã số doanh nghiệp); + Chứng minh nhân dân/ hộ chiếu (đối với cá nhân chưa có số định danh cá nhân). Tổ chức, cá nhân chỉ nộp thành phần hồ sơ này khi thực hiện công bố hợp quy lần đầu hoặc các giấy tờ nêu trên có sự thay đổi
+- 01 Bản chính Kết quả đo kiểm sản phẩm của đơn vị đo kiểm quy định tại khoản 1 Điều 5 Thông tư số 30/2011/TT-BTTTT cấp cho tổ chức, cá nhân hoặc nhà sản xuất hoặc đại diện được ủy quyền của nhà sản xuất
+- 01 Bản chính Tài liệu kỹ thuật bằng tiếng Việt hoặc tiếng Anh của sản phẩm thể hiện đầy đủ các nội dung: Tên, ký hiệu và các thông tin kỹ thuật của sản phẩm, ảnh chụp bên ngoài, hãng sản xuất
+- 01 Bản sao Bản sao chứng chỉ chứng nhận hệ thống quản lý chất lượng sản phẩm còn hiệu lực

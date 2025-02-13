@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp đổi Giấy chứng nhận cơ sở bảo hành, bảo dưỡng ô tô (thuộc đối tượng của Nghị định 116/2017/NĐ-CP)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp đổi Giấy chứng nhận cơ sở bảo hành, bảo dưỡng ô tô theo mẫu (bản chính); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefb815e9902577'">02.1Mẫu.docx</a>)
+- 01 Bản sao - Giấy chứng nhận cơ sở bảo hành, bảo dưỡng ô tô đã được cấp (bản sao);
+- 01 Bản sao - Giấy tờ, tài liệu liên quan chứng minh nội dung thay đổi.

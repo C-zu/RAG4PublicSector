@@ -1,0 +1,10 @@
+Tên thủ tục: Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị điều chỉnh Giấy phép lập cơ sở bán lẻ (Mẫu số 05 Phụ lục ban hành kèm theo Nghị định). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb34e7e3ee9cac0'">05MĐ-Đơn điều chỉnh GPBL.doc</a>)
+- 01 Bản chính b) Trường hợp thay đổi tên, địa chỉ trụ sở chính: Bản sao Giấy phép kinh doanh ghi nhận nội dung điều chỉnh.
+- 01 Bản chính c) Trường hợp thay đổi địa chỉ của cơ sở bán lẻ: Bản sao văn bản của cơ quan có thẩm quyền cấp phường, xã, thị trấn xác nhận việc thay đổi địa chỉ.
+- 01 Bản chính d) Trường hợp giảm diện tích cơ sở bán lẻ: Các giấy tờ có liên quan.

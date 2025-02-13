@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép sử dụng thẻ đi lại của doanh nhân APEC (thẻ ABTC)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày làm việc||- 20 ngày làm việc đối với doanh nhân không thường trú tại Bắc Giang (kể từ ngày nhận đủ hồ sơ hợp lệ). - 05 ngày làm việc đối với cán bộ, công chức, viên chức; - 11 ngày làm việc đối với doanh nhân thường trú tại Bắc Giang;|
+|Trực tuyến|20 Ngày làm việc||- 20 ngày làm việc đối với doanh nhân không thường trú tại Bắc Giang (kể từ ngày nhận đủ hồ sơ hợp lệ). - 05 ngày làm việc đối với cán bộ, công chức, viên chức; - 11 ngày làm việc đối với doanh nhân thường trú tại Bắc Giang;|
+|Dịch vụ bưu chính|20 Ngày làm việc||- 20 ngày làm việc đối với doanh nhân không thường trú tại Bắc Giang (kể từ ngày nhận đủ hồ sơ hợp lệ). - 05 ngày làm việc đối với cán bộ, công chức, viên chức; - 11 ngày làm việc đối với doanh nhân thường trú tại Bắc Giang;|

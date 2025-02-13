@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007293
+Số quyết định:
+1573/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Thủ tục cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ
+- Cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ xem xét hồ sơ:
++ Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ có văn bản đề nghị tổ chức, cá nhân bổ sung hồ sơ theo quy định;
++ Trường hợp hồ sơ đáp ứng yêu cầu theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ thực hiện cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ.
++ Trường hợp từ chối cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ, cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : 3.000.000-5.000.000 Đồng Đối với các hợp đồng chuyển giao công nghệ đề nghị đăng ký sửa đổi, bổ sung thì phí thẩm định hợp đồng chuyển giao công nghệ được tính theo tỷ lệ bằng 0,1% (một phần nghìn) tổng giá trị của hợp đồng sửa đổi, bổ sung nhưng tối đa không quá 05 (năm) triệu đồng và tối thiểu không dưới 03 (ba) triệu đồng.|Nộp hồ sơ trực tiếp tại trụ sở cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ|
+|Trực tuyến|5 Ngày làm việc|Phí : 3.000.000-5.000.000 Đồng Đối với các hợp đồng chuyển giao công nghệ đề nghị đăng ký sửa đổi, bổ sung thì phí thẩm định hợp đồng chuyển giao công nghệ được tính theo tỷ lệ bằng 0,1% (một phần nghìn) tổng giá trị của hợp đồng sửa đổi, bổ sung nhưng tối đa không quá 05 (năm) triệu đồng và tối thiểu không dưới 03 (ba) triệu đồng.|Nộp hồ sơ tại Cổng thông tin điện tử của cơ quan đã cấp Giấy chứng nhận đăng ký chuyển giao công nghệ|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : 3.000.000-5.000.000 Đồng Đối với các hợp đồng chuyển giao công nghệ đề nghị đăng ký sửa đổi, bổ sung thì phí thẩm định hợp đồng chuyển giao công nghệ được tính theo tỷ lệ bằng 0,1% (một phần nghìn) tổng giá trị của hợp đồng sửa đổi, bổ sung nhưng tối đa không quá 05 (năm) triệu đồng và tối thiểu không dưới 03 (ba) triệu đồng.||
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Văn bản đề nghị đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ; ([Mẫu Văn bản đề nghị đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc16a369a342328'))
+- 01 Bản chính, 01 Bản sao + Bản gốc hoặc bản sao có chứng thực văn bản thỏa thuận gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ bằng tiếng Việt hoặc bản dịch sang tiếng Việt có công chứng hoặc chứng thực đối với văn bản thỏa thuận gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ bằng tiếng nước ngoài;
+- 01 Bản chính + Trong trường hợp trước ngày 01/7/2018, tổ chức, cá nhân chưa đăng ký hợp đồng chuyển giao công nghệ hoặc đã đăng ký tại cơ quan không phải là cơ quan mà tổ chức, cá nhân đề nghị cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ: Bản gốc hoặc bản sao có chứng thực hợp đồng chuyển giao công nghệ bằng tiếng Việt được gia hạn, sửa đổi, bổ sung hoặc bản dịch sang tiếng Việt có công chứng hoặc chứng thực đối với hợp đồng chuyển giao công nghệ bằng tiếng nước ngoài được gia hạn, sửa đổi, bổ sung;
+- 01 Bản sao + Bản sao Giấy Chứng nhận đăng ký đầu tư (hoặc Giấy Chứng nhận đăng ký doanh nghiệp hoặc Giấp phép kinh doanh,...) của các bên tham gia chuyển giao công nghệ; bản sao chứng minh thư nhân dân/thẻ căn cước công dân/hộ chiếu (còn thời hạn theo quy định) (đối với cá nhân).
+- 01 Bản sao + Bản sao chứng thực văn bản chấp thuận của cơ quan có thẩm quyền quyết định đầu tư đối với chuyển giao công nghệ có sử dụng vốn nhà nước;
+- 01 Bản chính + Bản gốc Giấy ủy quyền (trong trường hợp bên thứ ba được ủy quyền thực hiện thủ tục đề nghị đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Vụ Đánh giá, Thẩm định và Giám định công nghệ - Bộ Khoa học và Công nghệ, Bộ Quốc phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|02/2018/TT-BKHCN|Thông tư 02/2018/TT-BKHCN|15-05-2018|Bộ Khoa học và Công nghệ|
+|Thông tư 169/2016/TT-BTC|Thông tư 169/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định hợp đồng chuyển giao công nghệ|26-10-2016|Bộ Tài chính|
+|07/2017/QH14|Luật 07/2017/QH14-Luật chuyển giao công nghệ|19-06-2017|Quốc Hội|
+|76/2018/NĐ-CP|Nghị định 76/2018/NĐ-CP-Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ|15-05-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Trong thời hạn 90 ngày kể từ ngày ký văn bản thỏa thuận gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ, bên nhận công nghệ trong trường hợp chuyển giao công nghệ từ nước ngoài vào Việt Nam, chuyển giao công nghệ trong nước hoặc bên giao công nghệ trong trường hợp chuyển giao công nghệ từ Việt Nam ra nước ngoài thay mặt các bên phải gửi hồ sơ đến cơ quan có thẩm quyền cấp Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

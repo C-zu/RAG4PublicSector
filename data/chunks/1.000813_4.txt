@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký đất đai lần đầu đối với trường hợp được Nhà nước giao đất để quản lý (cấp tỉnh - trường hợp chưa thành lập VP đăng ký đất đai)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo Mẫu số 04a/ĐK (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4295cefc61626'">Mau so 04a-DK.pdf</a>)
+- 01 Bản sao 2. Văn bản của cơ quan nhà nước có thẩm quyền về việc giao đất để quản lý (nếu có);
+- 01 Bản sao 3. Sơ đồ hoặc trích đo địa chính thửa đất, khu đất được giao quản lý (nếu có).

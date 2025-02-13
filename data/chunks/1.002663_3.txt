@@ -1,0 +1,9 @@
+Tên thủ tục: Cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Nộp hồ sơ tại Bộ Thông tin và Truyền thông, 18 Nguyễn Du, Quận Hai Bà Trưng, Hà Nội|
+|Trực tuyến|5 Ngày làm việc||Nộp hồ sơ qua cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông|
+|Dịch vụ bưu chính|5 Ngày làm việc||Hồ sơ gửi qua đường bưu chính.|

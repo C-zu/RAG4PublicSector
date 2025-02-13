@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo 40.000 đồng/ 01 Giấy chứng nhận  Lệ phí : 90.000 Đồng riêng đối với xe ô tô con dưới 10 chỗ: 90.000 đồng/01 Giấy chứng nhận  Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe cơ giới, xe máy chuyên dùng cải tạo: 300.000 đồng/chiếc|- Nếu thiết kế đạt yêu cầu, sau 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ thiết kế, cơ quan thẩm định thiết kế cấp Giấy chứng nhận thẩm định thiết kế. Trường hợp không cấp, cơ quan thẩm định thiết kế thông báo bằng văn bản và nêu rõ lý do cho tổ chức, cá nhân sau 02 ngày làm việc, kể từ ngày có kết quả thẩm định.|
+|Trực tuyến|5 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo 40.000 đồng/ 01 Giấy chứng nhận  Lệ phí : 90.000 Đồng riêng đối với xe ô tô con dưới 10 chỗ: 90.000 đồng/01 Giấy chứng nhận  Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe cơ giới, xe máy chuyên dùng cải tạo: 300.000 đồng/chiếc||
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 40.000 Đồng Lệ phí cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo 40.000 đồng/ 01 Giấy chứng nhận  Lệ phí : 90.000 Đồng riêng đối với xe ô tô con dưới 10 chỗ: 90.000 đồng/01 Giấy chứng nhận  Mức giá : 300.000 Đồng Giá thẩm định thiết kế xe cơ giới, xe máy chuyên dùng cải tạo: 300.000 đồng/chiếc.|- Nếu thiết kế đạt yêu cầu, sau 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ thiết kế, cơ quan thẩm định thiết kế cấp Giấy chứng nhận thẩm định thiết kế. Trường hợp không cấp, cơ quan thẩm định thiết kế thông báo bằng văn bản và nêu rõ lý do cho tổ chức, cá nhân sau 02 ngày làm việc, kể từ ngày có kết quả thẩm định.|

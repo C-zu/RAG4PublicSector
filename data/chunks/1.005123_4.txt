@@ -1,0 +1,9 @@
+Tên thủ tục: Gia hạn giấy phép xây dựng công trình thiết yếu trong phạm vi đất dành cho đường sắt
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Đơn đề nghị theo mẫu quy định. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe204a100ccd624'">1.005123 mẫu đơn.docx</a>)
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử): Tiến độ tổng thể dự án được cấp có thẩm quyền phê duyệt;
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (khi thực hiện thủ tục hành chính trên môi trường điện tử):Tài liệu chứng minh lý do đề nghị gia hạn là một trong các tài liệu sau: (1) Biên bản bàn giao mặt bằng thi công xây dựng công trình trong trường hợp vướng mắc về mặt bằng thi công; (2) Biên bản xác nhận thiệt hại giữa chủ đầu tư và nhà thầu thi công xây dựng công trình trong trường hợp sự cố, thiên tai làm ảnh hưởng đến tiến độ thi công xây dựng công trình; (3) Quyết định điều chỉnh chủ trương đầu tư dự án hoặc quyết định điều chỉnh chương trình, dự án đầu tư xây dựng công trình trong trường hợp việc điều chỉnh dự án làm ảnh hưởng đến tiến độ thi công xây dựng công trình.

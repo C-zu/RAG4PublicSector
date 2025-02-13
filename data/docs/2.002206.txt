@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002206
+Số quyết định:
+336/QĐ-BTC
+Tên thủ tục:
+Thủ tục đăng ký mã số đơn vị có quan hệ với ngân sách
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tin học - Thống kê
+Trình tự thực hiện:
++ Bước 1: Đơn vị sử dụng ngân sách, đơn vị dự toán nộp hồ sơ đăng ký mã số cho Cơ quan tài chính (Cục Tin học và Thống kê tài chính; Sở Tài chính).
++ Bước 2: Cơ quan tài chính thực hiện kiểm tra tính hợp lệ của hồ sơ. 
+	Nếu hồ sơ đăng ký mã số ĐVQHNS đầy đủ, hợp lệ thì lập Giấy biên nhận hồ sơ đăng ký mã số ĐVQHNS theo mẫu số 09-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC ngày 17/11/2015 để gửi người nộp hồ sơ.   
+	Nếu hồ sơ hợp lệ nhưng không đầy đủ, Cơ quan tài chính vẫn tiếp nhận hồ sơ và đề nghị đơn vị bổ sung hồ sơ trong thời hạn 10 (mười) ngày làm việc kể từ ngày tiếp nhận hồ sơ. 
+	Nếu hồ sơ không hợp lệ, Cơ quan tài chính trả lại hồ sơ và hướng dẫn đơn vị hoàn chỉnh để nộp lại hồ sơ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Thời hạn Cơ quan tài chính cấp mã số ĐVHQNS và gửi thông báo cấp Giấy chứng nhận mã số ĐVQHNS điện tử cho đơn vị (lần đầu hoặc cấp lại) là 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp trực tiếp hoặc qua đường bưu chính|
+|Trực tuyến|02 Ngày làm việc||02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp hồ sơ qua Dịch vụ công trực tuyến đăng ký mã số ĐVQHNS.|
+|Dịch vụ bưu chính|3 Ngày làm việc||Thời hạn Cơ quan tài chính cấp mã số ĐVHQNS và gửi thông báo cấp Giấy chứng nhận mã số ĐVQHNS điện tử cho đơn vị (lần đầu hoặc cấp lại) là 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo phương thức nộp trực tiếp hoặc qua đường bưu chính|
+
+Thành phần hồ sơ:
+
+Hồ sơ đăng ký mã số ĐVQHNS cho các dự án đầu tư tại giai đoạn chuẩn bị đầu tư, gồm:
+- 01 Bản chính  Tờ khai đăng ký mã số ĐVQHNS dùng cho các dự án đầu tư ở giai đoạn chuẩn bị đầu tư theo mẫu số 02-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC. ([Mau 02.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4e2a361c373aa'))
+- 01 Bản sao  Bản sao hợp lệ Quyết định hoặc Văn bản thông báo của cấp có thẩm quyền phê duyệt chủ trương đầu tư dự án.
+
+
+ Trường hợp 1: Hồ sơ đăng ký mã số ĐVQHNS cho các đơn vị dự toán, đơn vị sử dụng ngân sách Nhà nước, gồm:
+- 01 Bản chính Tờ khai đăng ký mã số ĐVQHNS dùng cho đơn vị dự toán, đơn vị sử dụng ngân sách Nhà nước, đơn vị khác có quan hệ với ngân sách theo Mẫu số 01-MSNS-BTC kèm theo Thông tư số 185/2015/TT-BTC ([Mẫu số 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed98c6540fa9b5'))
+- 01 Bản chính Bảng thống kê đơn vị đề nghị cấp mã số ĐVQHNS (dùng cho đơn vị sử dụng ngân sách, đơn vị dự toán) theo mẫu số 07-MSNS-BTC kèm theo Thông tư số 185/2015/TT-BTC được xác nhận thông tin bởi cơ quan chủ quản hoặc bản sao hợp lệ văn bản thành lập đơn vị. ([Mẫu số 7.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed1a053c3fa79'))
+
+
+ Trường hợp 2: Hồ sơ đăng ký mã số ĐVQHNS cho các đơn vị khác có quan hệ với ngân sách, gồm:
+- 01 Bản chính  Tờ khai đăng ký mã số ĐVQHNS dùng cho đơn vị dự toán, đơn vị sử dụng ngân sách Nhà nước, đơn vị khác có quan hệ với ngân sách theo mẫu số 01-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC ([Mẫu số 1.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe481f9d16f6b79'))
+- 01 Bản sao  Bản sao hợp lệ các giấy tờ sau đây: • Văn bản thành lập đơn vị; • Các văn bản của cơ quan Nhà nước có thẩm quyền giao nhiệm vụ, kinh phí cho đơn vị.
+
+
+ Trường hợp 4: Hồ sơ đăng ký mã số ĐVQHNS cho các dự án đầu tư tại giai đoạn thực hiện dự án, gồm:
+- 01 Bản chính  Tờ khai đăng ký mã số ĐVQHNS dùng cho các dự án đầu tư ở giai đoạn thực hiện dự án theo mẫu số 03-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC. ([Mẫu số 3.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fbce7424ff869f8'))
+- 01 Bản sao  Bản sao hợp lệ một trong các giấy tờ sau đây: • Quyết định đầu tư dự án; • Quyết định phê duyệt báo cáo kinh tế - kỹ thuật đối với các dự án chỉ lập báo cáo kinh tế - kỹ thuật; • Các quyết định điều chỉnh dự án (nếu có).
+
+
+ Trường hợp 5: Đăng ký bổ sung thông tin chuyển giai đoạn dự án đầu tư, gồm:
+- 01 Bản chính  Thông báo chuyển giai đoạn dự án đầu tư theo mẫu số 04-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC. ([Mẫu số 4.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefe408e2a0935c'))
+- 01 Bản sao  Bản sao hợp lệ một trong các giấy tờ sau đây: • Quyết định đầu tư dự án; • Quyết định phê duyệt báo cáo kinh tế - kỹ thuật đối với các dự án chỉ lập báo cáo kinh tế - kỹ thuật; • Các quyết định điều chỉnh dự án (nếu có).
+
+
+ Trường hợp 6: Đăng ký thay đổi thông tin về mã số đơn vị có quan hệ với ngân sách
+- 01 Bản chính  Trường hợp đơn vị có quan hệ với ngân sách nếu có thay đổi các chỉ tiêu đăng ký mã số ĐVQHNS như tên đơn vị, tên dự án, tên chủ đầu tư, địa chỉ đơn vị, địa chỉ chủ đầu tư, tên cơ quan chủ quản cấp trên thì đơn vị gửi Thông báo đến Cơ quan tài chính nơi đã cấp mã số ĐVQHNS.  Nội dung Thông báo thực hiện theo Mẫu số 06-MSNS-BTC tại Phụ lục kèm theo Thông tư số 185/2015/TT-BTC. ([Thay đổi thông tin.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feeac7579c67b04'))
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Tin học và Thống kê tài chính - Bộ Tài chính, Sở Tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận mã số ĐVQHNS điện tử (Dùng cấp cho đơn vị dự toán, đơn vị sử dụng ngân sách, các đơn vị khác có quan hệ với ngân sách), Giấy chứng nhận mã số đơn vị có quan hệ với ngân sách sử dụng điện tử (Dùng cho các dự án đầu tư)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|27/2007/NĐ-CP|Nghị định 27/2007/NĐ-CP|23-02-2007|Chính phủ|
+|60/2003/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước|06-06-2003|Chính phủ|
+|185/2015/TT-BTC|Thông tư 185/2015/TT-BTC|17-11-2015|Cục Tin học và Thống kê tài chính - Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

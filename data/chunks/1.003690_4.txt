@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thông báo danh mục hoạt động tôn giáo đối với tổ chức có địa bàn hoạt động tôn giáo ở nhiều tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản thông báo (theo mẫu) và các tài liệu kèm theo (nếu có). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8c0e5ee7eb6c2'">Mẫu B30.docx</a>)

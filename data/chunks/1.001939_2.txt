@@ -1,0 +1,43 @@
+Tên thủ tục: Đăng ký đóng, cấp thẻ BHYT đối với người chỉ tham gia BHYT
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1. Lập, nộp hồ sơ
+1. Người tham gia lập hồ sơ theo quy định tại tiết 1 mục Thành phần hồ sơ
+a) Đối với người tham gia do tổ chức BHXH đóng BHYT: Nộp hồ sơ cho UBND xã hoặc cho cơ quan BHXH. Đối với người đang hưởng trợ cấp thất nghiệp: nộp hồ sơ cho cơ quan BHXH.
+b) Đối với người tham gia do ngân sách nhà nước đóng, (hỗ trợ 100% mức đóng BHYT): Nộp hồ sơ cho UBND xã. Trừ các trường hợp:
+- Người tham gia đã hiến bộ phận cơ thể người: nộp hồ sơ cho cơ quan BHXH;
+- Người tham gia do cơ quan, đơn vị quản lý: nộp hồ sơ cho đơn vị quản lý đối tượng.
+c) Đối với người được ngân sách nhà nước hỗ trợ một phần mức đóng BHYT: 
+- Trường hợp nộp hồ sơ cho Tổ chức dịch vụ hoặc cơ quan BHXH: Lập hồ sơ theo quy định tại tiết 1.1 điểm 1 Mục Thành phần hồ sơ và nộp cho tổ chức dịch vụ hoặc cơ quan BHXH.
+- Trường hợp nộp qua Cổng Dịch vụ công: Lập hồ sơ theo quy định tại tiết 1.2 điểm 1 Mục Thành phần hồ sơ và nộp trực tuyến trên Cổng Dịch vụ công.
+- Học sinh, sinh viên: Nộp hồ sơ cho cơ sở giáo dục.
+d) Người tham gia BHYT theo hộ gia đình: 
+- Trường hợp nộp hồ sơ cho Tổ chức dịch vụ hoặc cơ quan BHXH: Lập hồ sơ theo quy định tại tiết 1.1 điểm 1 Mục Thành phần hồ sơ và nộp cho tổ chức dịch vụ hoặc cơ quan BHXH trên toàn quốc.
+- Trường hợp nộp qua Cổng Dịch vụ công: Lập hồ sơ theo quy định tại tiết 1.2 điểm 1 Mục Thành phần hồ sơ và nộp trực tuyến trên Cổng Dịch vụ công.
+2. Đối với UBND xã: Nhận hồ sơ của người tham gia, lập hồ sơ theo quy định tại tiết 2 mục Thành phần hồ sơ và nộp hồ sơ như sau:
+a) Đối với người tham gia do tổ chức BHXH đóng: Nộp cho cơ quan BHXH.
+b) Đối với người tham gia do Bộ Lao động - Thương binh và Xã hội quản lý: nộp cho cơ quan Lao động - Thương binh và xã hội và cơ quan BHXH cấp huyện. 
+c) Các đối tượng còn lại nộp cho cơ quan BHXH.
+3. Cơ quan Lao động - Thương binh và xã hội: Nhận hồ sơ do UBND xã gửi đến, phối hợp với cơ quan BHXH rà soát, kiểm tra, đối chiếu, xác nhận số người tham gia, số tiền phải đóng của từng nhóm đối tượng.
+4. Cơ sở trợ giúp xã hội/Cơ sở nuôi dưỡng, điều dưỡng thương binh và người có công/Cơ sở giáo dục nghề nghiệp thuộc ngành Lao động - Thương binh và xã hội/cơ quan/đơn vị quản lý người chỉ tham gia BHYT: Nhận hồ sơ của người tham gia, lập hồ sơ theo quy định tại tiết 2 mục Thành phần hồ sơ và nộp cho cơ quan BHXH.
+5. Tổ chức dịch vụ: Nhận hồ sơ của người tham gia, thu tiền đóng thuộc trách nhiệm đóng của người tham gia BHYT và lập hồ sơ theo quy định tiết 2 mục Thành phần hồ sơ, nộp cho cơ quan BHXH.
+6. Cơ sở giáo dục: Nhận hồ sơ của học sinh, sinh viên, thu tiền đóng BHYT thuộc trách nhiệm đóng của học sinh, sinh viên; lập hồ sơ theo quy định tại tiết 2 mục Thành phần hồ sơ và nộp cho cơ quan BHXH.
+7. Phòng/Tổ chế độ BHXH: Nhận hồ sơ của người tham gia BHYT do tổ chức BHXH đóng (kể cả đối tượng đang chờ ban hành quyết định hưởng hưu trí) từ Bộ phận một cửa; lập hồ sơ theo quy định tại tiết 3 mục Thành phần hồ sơ chuyển cho Phòng/Tổ Quản lý Thu - Sổ, Thẻ
+8. Trường hợp hoàn trả: Người tham gia nộp hồ sơ theo quy định tại tiết 4 mục Thành phần hồ sơ cho Tổ chức dịch vụ (đối với người tham gia được ngân sách nhà nước hỗ trợ một phần mức đóng BHYT, người tham gia BHYT theo hộ gia đình); cơ sở giáo dục (đối với học sinh, sinh viên) hoặc cơ quan BHXH.
+Bước 2. Đóng tiền
+1. Người tham gia: 
+a) Người được ngân sách nhà nước hỗ trợ một phần mức đóng BHYT; người tham gia BHYT theo hộ gia đình: Đóng tiền cho tổ chức dịch vụ hoặc cho cơ quan BHXH;
+Trường hợp người tham gia nộp hồ sơ qua Cổng Dịch vụ công: Lập hồ sơ theo quy định tại tiết 1.2 điểm 1 Mục Thành phần hồ sơ và nộp trực tuyến trên Cổng Dịch vụ công.
+b) Học sinh, sinh viên: đóng tiền cho cơ sở giáo dục.
+2. Tổ chức dịch vụ: Thu tiền đóng BHYT phần thuộc trách nhiệm đóng của người tham gia; cấp biên lai thu tiền cho người tham gia theo quy định. Nộp số tiền đã thu của người tham gia cho cơ quan BHXH hàng ngày thông qua tài khoản ngân hàng hoặc hệ thống tiện ích thông minh.
+3. Cơ sở giáo dục: Nộp số tiền đã thu của Học sinh, sinh viên cho cơ quan BHXH hàng ngày thông qua tài khoản ngân hàng.
+4. Cơ quan Lao động – Thương binh và xã hội: Chuyển tiền đóng BHYT theo phân cấp hoặc phối hợp với cơ quan BHXH đề nghị cơ quan tài chính chuyển tiền đóng BHYT cho cơ quan BHXH theo quy định
+5. UBND xã/Cơ sở trợ giúp xã hội/Cơ sở nuôi dưỡng, điều dưỡng thương binh và người có công/Cơ sở giáo dục nghề nghiệp thuộc ngành Lao động - Thương binh và xã hội/cơ quan/đơn vị quản lý người chỉ tham gia BHYT: Chuyển tiền đóng BHYT theo phân cấp hoặc đề nghị cơ quan Lao động - Thương binh và xã hội hoặc cơ quan tài chính chuyển kinh phí đóng BHYT cho cơ quan BHXH.
+Bước 3.
+Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định
+Bước 4.
+Nhận kết quả, gồm: Thẻ BHYT; Quyết định hoàn trả và tiền hoàn trả (nếu có)
+Thời hạn giải quyết
+Kể từ ngày cơ quan BHXH nhận đủ hồ sơ theo quy định:
+Không quá 05 ngày; riêng đối với người hưởng trợ cấp thất nghiệp không quá 02 ngày.

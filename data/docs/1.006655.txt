@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006655
+Số quyết định:
+453/QĐ-UBND
+Tên thủ tục:
+Thủ tục chấp thuận xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ (cấp Huyện)
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+Bước 1. Tổ chức, đơn vị có nhu cầu xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ trên hệ thống đường bộ do Ủy ban nhân dân quận, huyện quản lý chuẩn bị 01 bộ hồ sơ đề nghị, nộp trực tiếp hoặc gửi qua hệ thống bưu chính đến Bộ phận tiếp nhận và trả kết quả của Ủy ban nhân dân quận, huyện.
+Quy định danh mục hệ thống hạ tầng giao thông đường bộ do Ủy ban nhân dân quận - huyện quản lý được cập nhật thường xuyên và đăng tải tại link:http://sgtvt.hochiminhcity.gov.vn/caicachhanhchinh/Lists/Posts/AllPosts.aspx?CategoryId=16 (Vào mục cải cách hành chính => các hạng mục phân cấp)
+Bước 2. Tiếp nhận, kiểm tra hồ sơ
+- Trường hợp nộp hồ sơ trực tiếp,
++  Trường hợp hồ sơ đầy đủ, hợp lệ: tiếp nhận và cấp biên nhận có hẹn ngày trả kết quả cho người nộp. 
++ Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ: hướng dẫn người nộp bổ sung, hoàn thiện.
+- Trường hợp nộp gián tiếp (qua hệ thống bưu chính hoặc các hình thức phù hợp khác), nếu thành phần hồ sơ chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, cơ quan có thẩm quyền thông báo bằng văn bản hướng dẫn hoàn thiện hồ sơ;
+Bước 3. Trong thời gian 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Ủy ban nhân dân quận, huyện cấp giấy chấp thuận xây dựng công trình có văn bản chấp thuận. Trường hợp từ chối phải có văn bản trả lời, nêu rõ lý do
+Bước 4. Chủ đầu tư dự án căn cứ ngày hẹn trên biên nhận liên hệ cơ quan có thẩm quyền cấp giấy chấp thuận xây dựng công trình nhận kết quả
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày làm việc||7 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|07 Ngày làm việc||7 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính Đơn đề nghị chấp thuận xây dựng công trình theo mẫu quy định ([Mẫu Đơn đề nghị xây dựng công trình trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd9ecf0db1cac26'))
+- 01 Bản chính Bản chính hồ sơ thiết kế, trong đó có bình đồ, trắc dọc, trắc ngang, vị trí đoạn tuyến có xây dựng công trình, thể hiện đầy đủ tọa độ (theo hệ VN 2000), cao độ (theo mốc cao độ Hòn Dấu). Bản vẽ phải thể hiện đầy đủ vị trí các công trình hiện hữu nằm trong khu vực xây dựng công trình và khu vực ảnh hưởng bởi việc xây dựng công trình có xác nhận của đơn vị quản lý công trình ngầm hiện hữu, trong đó thành phần hồ sơ đính kèm theo các tập tin định dạng *.dwg và *.pdf hoặc tương tự nhằm phục vụ cập nhật dữ liệu (các tập tin không bắt buộc phải có trong thành phần hồ sơ); - Trường hợp hồ sơ thiết kế là hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công, đối với công trình xây lắp qua cầu, hầm hoặc các công trình đường bộ phức tạp khác, phải có Báo cáo kết quả thẩm tra thiết kế (bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu); - Trường hợp công trình xây dựng trong phạm vi dải phân cách giữa đường bộ phải có thông tin về khoảng cách theo phương thẳng đứng từ công trình thiết yếu đến mặt đất, từ công trình đến mép ngoài dải phân cách giữa
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Ủy ban nhân dân cấp Huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Ủy ban nhân dân quận, huyện
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận xây dựng công trình hoặc văn bản không chấp thuận nêu rõ lý do
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|09/2014/QĐ-UBND|về việc ban hành Quy định về thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ trên địa bàn Thành phố Hồ Chí Minh|20-02-2014||
+|30/2018/QĐ-UBND|Sửa đổi, bổ sung một số điều tại Quyết định số 09/2014/QĐ-UBND ngày 20 tháng 02 năm 2014 của Ủy ban nhân dân thành phố quy định về thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ|04-09-2018||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,90 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001716
+Số quyết định:
+2105/QĐ-BKHCN
+Tên thủ tục:
+Cấp Giấy chứng nhận hoạt động lần đầu cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+- Văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ nộp hồ sơ đăng ký hoạt động văn phòng đại diện, chi nhánh tại Sở Khoa học và Công nghệ.
+- Sở Khoa học và Công nghệ tổ chức thẩm định hồ sơ:
++ Nếu văn phòng đại diện, chi nhánh đáp ứng các yêu cầu của quy định hiện hành, Sở Khoa học và Công nghệ cấp Giấy chứng nhận hoạt động cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ.
++ Trong trường hợp không cấp Giấy chứng nhận hoạt động cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ, Sở Khoa học và Công nghệ có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày làm việc|Phí : 3.000.000 Đồng|15 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 3.000.000 Đồng|15 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Đơn đăng ký hoạt động văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ (theo mẫu). ([Mẫu 14.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faa97363a2675b0'))
+- 01 Bản chính + Quyết định thành lập văn phòng đại diện, chi nhánh.
+- 01 Bản sao + Bản sao (có chứng thực hợp pháp) Giấy chứng nhận và Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ chủ quản.
+ + Hồ sơ của người đứng đầu văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ:
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) Quyết định bổ nhiệm của cơ quan, tổ chức có thẩm quyền.
+- 01 Bản chính * Lý lịch khoa học có xác nhận của cơ quan, tổ chức có thẩm quyền (theo mẫu). ([Mẫu 11.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc49378a273a3f4'))
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) các văn bằng đào tạo.
+ + Hồ sơ về trụ sở của văn phòng đại diện, chi nhánh: Phải có một trong các giấy tờ sau:
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất của tổ chức khoa học và công nghệ đối với địa điểm nơi đặt trụ sở văn phòng đại diện, chi nhánh;
+- 01 Bản sao * Bản sao (có chứng thực hợp pháp) giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất hoặc giấy tờ chứng minh quyền được phép cho thuê, cho mượn của bên cho thuê, cho mượn kèm theo hợp đồng thuê, mượn địa điểm làm trụ sở văn phòng đại diện, chi nhánh; trường hợp bản sao hợp đồng không có chứng thực hợp pháp, tổ chức có thể xuất trình bản chính để người tiếp nhận hồ sơ đối chiếu và ký xác nhận vào bản sao.
+ + Hồ sơ về nhân lực của văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ:
+- 01 Bản chính * Đối với văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ công lập và cơ sở giáo dục đại học: Bảng danh sách nhân lực được cơ quan quyết định thành lập hoặc quản lý trực tiếp xác nhận (theo mẫu). ([Mẫu 8 - bảng danh sách nhân lực.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f8b02d3e529a340'))
+ * Đối với văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ ngoài công lập và có vốn nước ngoài:
+- 01 Bản chính • Bảng danh sách nhân lực (theo mẫu). ([Mẫu 8 - bảng danh sách nhân lực.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe30059f92eb83d'))
+- 01 Bản chính, 01 Bản sao • Đối với nhân lực chính thức: Đơn đề nghị được làm việc chính thức (theo mẫu); bản sao các văn bằng đào tạo (có chứng thực hợp pháp). ([Mẫu 9 - Đơn làm việc chính thức.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7903bb6664b00'))
+- 01 Bản chính, 01 Bản sao • Đối với nhân lực kiêm nhiệm: Đơn đề nghị được làm việc kiêm nhiệm (theo mẫu); bản sao các văn bằng đào tạo (có chứng thực hợp pháp). ([Mẫu 10 - Đơn làm việc kiêm nhiệm.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda34ab2d2ab466'))
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Sở Khoa học và Công nghệ
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận hoạt động văn phòng đại diện/chi nhánh
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2014/NĐ-CP|Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật khoa học và công nghệ|27-01-2014|Chính phủ|
+|29/2013/QH13|Luật 29/2013/QH13|18-06-2013|Quốc Hội|
+|03/2014/TT-BKHCN|Thông tư 03/2014/TT-BKHCN-Hướng dẫn điều kiện thành lập và đăng ký hoạt động của tổ chức khoa học và công nghệ, văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ|31-03-2014|Bộ Khoa học và Công nghệ|
+|298/2016/TT-BTC|Thông tư 298/2016/TT-BTC- Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động về khoa học, công nghệ|15-11-2016|Bộ Tài chính|
+|15/2023/TT-BKHCN|Thông tư số 15/2023/TT-BKHCN - Sửa đổi, bổ sung một số điều của Thông tư số 32/2011/TT-BKHCN và Thông tư số 03/2014/TT-BKHCN|26-07-2023|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+- Lĩnh vực hoạt động của văn phòng đại diện, chi nhánh phải phù hợp với lĩnh vực hoạt động của tổ chức khoa học và công nghệ.
+
+- Việc thành lập văn phòng đại diện, chi nhánh được quy định trong Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ.
+
+- Văn phòng đại diện phải có ít nhất 02 (hai) người có trình độ cao đẳng trở lên; chi nhánh phải có ít nhất 03 (ba) người có trình độ đại học trở lên, trong đó ít nhất 01 (một) người có trình độ chuyên môn trong lĩnh vực chủ yếu xin đăng ký hoạt động. Người đứng đầu phải có trình độ đại học trở lên và làm việc chính thức tại văn phòng đại diện, chi nhánh.
+
+- Trụ sở văn phòng đại diện, chi nhánh:
+
+Trụ sở là nơi làm việc riêng biệt để giao dịch, liên lạc và được đặt trong lãnh thổ Việt Nam. Trụ sở có địa chỉ được xác định gồm số nhà, tên phố (ngõ phố) hoặc tên xã, phường, thị trấn, huyện, quận, thị xã, thành phố thuộc tỉnh, tỉnh, thành phố trực thuộc Trung ương; số điện thoại, số fax và địa chỉ thư điện tử (nếu có).
+- Lĩnh vực hoạt động của văn phòng đại diện, chi nhánh phải phù hợp với lĩnh vực hoạt động của tổ chức khoa học và công nghệ.
+
+- Việc thành lập văn phòng đại diện, chi nhánh được quy định trong Điều lệ tổ chức và hoạt động của tổ chức khoa học và công nghệ.
+
+- Văn phòng đại diện phải có ít nhất 02 (hai) người có trình độ cao đẳng trở lên; chi nhánh phải có ít nhất 03 (ba) người có trình độ đại học trở lên, trong đó ít nhất 01 (một) người có trình độ chuyên môn trong lĩnh vực chủ yếu xin đăng ký hoạt động. Người đứng đầu phải có trình độ đại học trở lên và làm việc chính thức tại văn phòng đại diện, chi nhánh.
+
+- Trụ sở văn phòng đại diện, chi nhánh:
+
+Trụ sở là nơi làm việc riêng biệt để giao dịch, liên lạc và được đặt trong lãnh thổ Việt Nam. Trụ sở có địa chỉ được xác định gồm số nhà, tên phố (ngõ phố) hoặc tên xã, phường, thị trấn, huyện, quận, thị xã, thành phố thuộc tỉnh, tỉnh, thành phố trực thuộc Trung ương; số điện thoại, số fax và địa chỉ thư điện tử (nếu có).
+Từ khóa:
+Cấp Giấy chứng nhận hoạt động lần đầu cho văn phòng đại diện, chi nhánh của tổ chức khoa học và công nghệ
+Mô tả:
+Không có thông tin

@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục cử đoàn ra
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Ngoại vụ - tỉnh Quảng Bình
+Cơ quan có thẩm quyền:
+UBND tỉnh Quảng Bình
+Địa chỉ tiếp nhận HS:
+Bộ phận Một cửa liên thông Sở Ngoại vụ, đường 23/8 - Tiểu khu 1, phường Đồng Phú, TP. Đồng Hới, Quảng Bình.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định hành chính.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|02/2008/TT-BNG|Hướng dẫnviệc cấp, gia hạn, sửa đổi, bổ sung hộ chiếu ngoại giao, hộ chiếu công vụ ở trong nước và ở nước ngoài theo Nghị định số 136/2007/NĐ-CP ngày 17/8/2007 của Chính phủ về xuất cảnh, nhập cảnh của công dân Việt Nam|04-02-2008|Bộ Ngoại giao|
+|94/2015/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 136/2007/NĐ-CP ngày 17 tháng 8 năm 2007 về xuất cảnh, nhập cảnh của công dân Việt Nam|16-10-2015|Bộ Công an|
+|136/2007/NĐ-CP|Nghị định 136/2007/NĐ-CP|17-08-2007|Chính phủ|
+|14/2018/QĐ-UBND|Quyết định số 14/2018/QĐ-UBND|30-05-2018|UBND tỉnh Quảng Bình|

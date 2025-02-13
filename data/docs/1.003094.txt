@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003094
+Số quyết định:
+2318/QĐ-BYT
+Tên thủ tục:
+Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu theo phương thức kiểm tra giảm
+Cấp thực hiện:
+Cơ quan khác
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn thực phẩm và Dinh dưỡng
+Trình tự thực hiện:
+Bước 1:
+Khi làm thủ tục hải quan, chủ hàng có trách nhiệm nộp hồ sơ theo quy định tại khoản 1 Điều 18 Nghị định số 15/2018/NĐ-CP của Chính phủ;
+Bước 2:
+Cơ quan hải có trách nhiệm chọn ngẫu nhiên tối đa 5% trên tổng số lô hàng nhập khẩu thuộc diện kiểm tra giảm trong vòng 01 (một) năm để kiểm tra hồ sơ theo quy định.
+Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan hải quan có trách nhiệm kiểm tra hồ sơ và thông quan hàng hóa. Trường hợp yêu cầu bổ sung hồ sơ thì phải nêu rõ lý do và căn cứ pháp lý của việc yêu cầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng Đồng|Nộp trực tiếp tại cơ quan Hải quan cửa khẩu.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản tự công bố sản phẩm theo quy định; ([Phu luc I mau 02 ND15.2018.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb7041b57815900'))
+- 03 Bản chính Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu liên tiếp theo phương thức kiểm tra thông thường hoặc bản sao chứng thực hoặc bản chính hợp pháp hóa lãnh sự một trong các Giấy chứng nhận GMP, HACCP, ISO 22000, IFS, BRC, FSSC 22000 hoặc tương đương còn hiệu lực tại thời điểm nộp;
+- 01 Bản chính Trong trường hợp sản phẩm có nguồn gốc thủy sản và động vật trên cạn, trừ các sản phẩm đã qua chế biến, bao gói sẵn, thì phải có giấy chứng nhận đáp ứng các quy định về an toàn thực phẩm do cơ quan có thẩm quyền của nước xuất khẩu cấp (bản chính).
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Hải quan cửa khẩu
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Hải quan cửa khẩu
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông quan hàng hóa
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2010/QH12|Luật 55/2010/QH12|17-06-2010|Quốc Hội|
+|279/2016/TT-BTC|Thông tư 279/2016/TT-BTC|14-11-2016|Bộ Tài chính|
+|15/2018/NĐ-CP|Nghị định 15/2018/NĐ-CP|02-02-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Điều 17. Áp dụng phương thức kiểm tra
+1. Kiểm tra giảm áp dụng đối với lô hàng, mặt hàng thuộc một trong các trường hợp sau đây:
+a) Đã được xác nhận đạt yêu cầu về an toàn thực phẩm bởi cơ quan, tổ chức có thẩm quyền của nước đã ký kết Điều ước quốc tế thừa nhận lẫn nhau trong hoạt động kiểm tra an toàn thực phẩm mà Việt Nam là thành viên; có kết quả kiểm tra của cơ quan có thẩm quyền nước xuất khẩu đối với lô hàng, mặt hàng phù hợp với quy định của pháp luật Việt Nam;
+b) Đã có 03 (ba) lần liên tiếp trong vòng 12 tháng đạt yêu cầu nhập khẩu theo phương thức kiểm tra thông thường;
+c) Được sản xuất trong các cơ sở áp dụng một trong các hệ thống quản lý chất lượng GMP, HACCP, ISO 22000, IFS, BRC, FSSC 22000 hoặc tương đương
+Điều 17. Áp dụng phương thức kiểm tra
+1. Kiểm tra giảm áp dụng đối với lô hàng, mặt hàng thuộc một trong các trường hợp sau đây:
+a) Đã được xác nhận đạt yêu cầu về an toàn thực phẩm bởi cơ quan, tổ chức có thẩm quyền của nước đã ký kết Điều ước quốc tế thừa nhận lẫn nhau trong hoạt động kiểm tra an toàn thực phẩm mà Việt Nam là thành viên; có kết quả kiểm tra của cơ quan có thẩm quyền nước xuất khẩu đối với lô hàng, mặt hàng phù hợp với quy định của pháp luật Việt Nam;
+b) Đã có 03 (ba) lần liên tiếp trong vòng 12 tháng đạt yêu cầu nhập khẩu theo phương thức kiểm tra thông thường;
+c) Được sản xuất trong các cơ sở áp dụng một trong các hệ thống quản lý chất lượng GMP, HACCP, ISO 22000, IFS, BRC, FSSC 22000 hoặc tương đương
+Từ khóa:
+An toàn thực phẩm và Dinh dưỡng
+Mô tả:
+Không có thông tin

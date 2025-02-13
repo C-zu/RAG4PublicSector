@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp Giấy phép lái xe quốc tế
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện:
+Cục Đường bộ Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép lái xe quốc tế..
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|29/2015/TT-BGTVT|Quy định về cấp, sử dụng giấy phép lái xe quốc tế|06-07-2015|Bộ Giao thông vận tải|
+|01/2021/TT-BGTVT|Thông tư 01/2021/TT-BGTVT|27-01-2021||
+|37/2023/TT-BTC|Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ được hoạt động trên các loại phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|07-06-2023|Bộ Tài chính|
+|63/2023/TT-BTC|Thông tư số 63/2023/TT-BTC ngày 16/10/2023 của Bộ trưởng Bộ Tài chính quy định sửa đổi, bổ sung một số điều của một số thông tư quy định về phí, lệ phí của Bộ Trưởng Bộ Tài chính nhằm khuyến khích sử dụng dịch vụ công trực tuyến (có hiệu lực kể từ ngày 01/01/2024 đến hết ngày 31/12/2025)|16-10-2023|Bộ trưởng Bộ tài chính|
+|05/2024/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư liên quan đến lĩnh vực vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ, phương tiện và người lái|31-03-2024|Bộ Giao thông vận tải|

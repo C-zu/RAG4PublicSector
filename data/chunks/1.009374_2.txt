@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy phép xuất bản bản tin (địa phương)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Cấp giấy phép xuất bản bản tin (địa phương)
+Cơ quan, tổ chức ở tỉnh, thành phố trực thuộc trung ương có nhu cầu xuất bản bản tin lập 01 bộ hồ sơ đề nghị cấp giấy phép xuất bản bản tin gửi trực tiếp, qua hệ thống bưu chính hoặc qua môi trường điện tử đến Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.
+Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền có trách nhiệm cấp giấy phép xuất bản bản tin; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.

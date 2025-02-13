@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thông báo danh mục hoạt động tôn giáo đối với tổ chức có địa bàn hoạt động tôn giáo ở nhiều tỉnh
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Ngay sau khi Ban Tôn giáo Chính phủ nhận được văn bản thông báo hợp lệ.|Phí : 0 Đồng Không quy định|Gửi văn bản thông báo trực tiếp tại Ban Tôn giáo Chính phủ; qua đường bưu chính hoặc thông qua dịch vụ công trực tuyến. Văn bản thông báo phải có xác nhận của Ban Tôn giáo Chính phủ.|
+|Trực tuyến|Ngay sau khi Ban Tôn giáo Chính phủ nhận được văn bản thông báo hợp lệ.|Phí : 0 Đồng Không quy định|Gửi văn bản thông báo trực tiếp tại Ban Tôn giáo Chính phủ; qua đường bưu chính hoặc thông qua dịch vụ công trực tuyến. Văn bản thông báo phải có xác nhận của Ban Tôn giáo Chính phủ.|
+|Dịch vụ bưu chính|Ngay sau khi Ban Tôn giáo Chính phủ nhận được văn bản thông báo hợp lệ.|Phí : 0 Đồng Không quy định|Văn bản thông báo phải có xác nhận của Ban Tôn giáo Chính phủ. Ngày tiếp nhận văn bản thông báo được tính theo ngày ghi trên dấu công văn đến.|

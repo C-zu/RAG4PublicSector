@@ -1,0 +1,10 @@
+Tên thủ tục: Cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản cam kết và đề nghị cho phép nhập khẩu hàng hóa thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu để nghiên cứu khoa học của thương nhân (Mẫu số 01 tại Phụ lục ban hành kèm theo Quyết định số 31/2019/QĐ-TTg) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedc5b74270f458'">Mẫu số 01.docx</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký đầu tư
+- 01 Bản sao Tài liệu kỹ thuật mô tả hàng hóa; tài liệu thể hiện nguồn gốc hàng hóa (hóa đơn, vận đơn, hợp đồng,...)
+- 01 Bản chính Quyết định phê duyệt dự án nghiên cứu khoa học, Đề cương đề án nghiên cứu khoa học hoặc tài liệu khác trong đó nêu rõ mục tiêu, nội dung, kết quả dự kiến và thời gian thực hiện hoạt động nghiên cứu khoa học; giải trình về chủng loại và số lượng hàng hóa cần nhập khẩu, thời hạn và biện pháp xử lý hàng hóa sau khi kết thúc quá trình nghiên cứu khoa học

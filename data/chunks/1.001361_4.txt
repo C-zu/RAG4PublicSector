@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xác nhận sử dụng mã nước ngoài hoặc ủy quyền sử dụng mã số, mã vạch
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ - Đơn đề nghị xác nhận sử dụng mã nước ngoài hoặc ủy quyền sử dụng mã số, mã vạch theo quy định tại Mẫu số 15 và Mẫu số 16 Phụ lục ban hành kèm theo Nghị định số 74/2018/NĐ-CP;
+ - Đối với xác nhận sử dụng mã số nước ngoài: Bản sao bằng chứng phía đối tác nước ngoài ủy quyền cho tổ chức được quyền sử dụng mã số, mã vạch dưới hình thức thư, hợp đồng ủy quyền, bằng chứng chứng minh đơn vị ủy quyền sở hữu hợp pháp mã số ủy quyền, danh mục sản phẩm tương ứng với mã ủy quyền...; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdfdb52a7a21b28'">Mẫu số 15.docx</a>)
+ - Đối với xác nhận ủy quyền sử dụng mã số, mã vạch: Bản sao hợp đồng hoặc thư ủy quyền sử dụng mã số, mã vạch kèm danh mục sản phẩm tương ứng mã số ủy quyền. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb2d14a7de3b2a'">Mẫu số 16.docx</a>)

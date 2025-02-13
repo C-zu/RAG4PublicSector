@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002130
+Số quyết định:
+1299/QĐ-BNN-KHCN
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Nông nghiệp
+Trình tự thực hiện:
+Bước1:Nộp và tiếp nhận hồ sơ
+- Tổ chức có nhu cầu cấp Giấychứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Nông nghiệp và Phát triển nông thônlập 01 bộ hồ sơ và nộp theo một trong các hình thức sau:
++Nộp hồ sơ trực tiếp tại trụ sở của các Tổng cục, Cục:các chứng chỉ,tài liệu chưa được chứng thực từ bản chính, thì phải xuất trình bản chính để đối chiếu.
++Nộp hồsơ qua đường bưu điện:bảnsao các chứng chỉ, tài liệu đã được chứng thực từ bản chính.
++ Nộp hồ sơ qua Cổng thông tin điện tử của các Tổng cục, Cục:thực hiện theo hình thức dịch vụ công trực tuyến.
+Bước 2: Thẩm xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận
+Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản yêu cầu tổ chức thử nghiệm sửa đổi bổ sung;
+Trường hợp hồ sơ đầy đủ, hợp lệ: trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ chịu trách nhiệm cấp Giấy chứng nhận cho tổ chức thử nghiệm theo quy định
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||Trả lời tính đầy đủ của hồ sơ|
+|Trực tiếp|10 Ngày làm việc||Cấp giấy chứng nhận sau khi nhận hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|05 Ngày làm việc||Trả lời tính đầy đủ của hồ sơ|
+|Trực tuyến|10 Ngày làm việc||Cấp Giấy chứng nhận kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|05 Ngày làm việc||Trả lời tính đầy đủ của hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc||Cấp Giấy chứng nhận kể từ ngày nhận hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Mẫu Phiếu kết quả thử nghiệm
+- 01 Bản chính - Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
+- 01 Bản chính Đơn đăng ký hoạt động thử nghiệm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP, ngày 1/7/2016 ([Mẫu số 01-04 NĐ107.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe65775cc8dd1ac'))
+- 01 Bản chính Danh sách thử nghiệm viên theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP, ngày 1/7/2016 và các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên gồm: bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành ([Mẫu số 01-04 NĐ107 (1).docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6c76877481967'))
+- 01 Bản chính Danh mục máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phục vụ hoạt động thử nghiệm đối với lĩnh vực thử nghiệm đăng ký theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định 107/2016/NĐ-CP, ngày 1/7/2016
+- 01 Bản chính Tài liệu chứng minh năng lực hoạt động thử nghiệm đáp ứng các yêu cầu quy định tại khoản 2 Điều 5 Nghị định 107/2016/NĐ-CP, ngày 1/7/2016, cụ thể như sau: Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 21 hoặc tổ chức công nhận nước ngoài quy định tại Điều 25 (Nghị định 107/2016/NĐ-CP, ngày 1/7/2016) công nhận hoạt động thử nghiệm, tổ chức thử nghiệm nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận. Trường hợp tổ chức thử nghiệm chưa được công nhận, tổ chức thử nghiệm nộp các tài liệu, quy trình thử nghiệm và các tài liệu khác liên quan để chứng minh năng lực hoạt động phù hợp với các yêu cầu của tiêu chuẩn tương ứng quy định tại khoản 2 Điều 5 Nghị định 107/2016/NĐ-CP, ngày 1/7/2016.
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Bộ Nông nghiệp và Phát triển nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký hoạt động thử nghiệm (thời hạn hiệu lực không quá: 05 năm).
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+a) Là tổ chức được thành lập theo quy định của pháp luật;
+b) Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+c) Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+d) Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp với lĩnh vực hoạt động thử nghiệm tương ứng
+a) Là tổ chức được thành lập theo quy định của pháp luật;
+b) Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+c) Có ít nhất 04 thử nghiệm viên chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn), được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025:2007 hoặc tiêu chuẩn quốc tế ISO/IEC 17025:2005 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với thử nghiệm chuyên ngành;
+d) Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp với lĩnh vực hoạt động thử nghiệm tương ứng
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

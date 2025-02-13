@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố đóng luồng đường thủy nội địa khi không có nhu cầu khai thác, sử dụng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố đóng luồng đường thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0dd84c09677b3'">28.docx</a>)
+- 01 Bản chính - Phương án thu hồi báo hiệu đường thủy nội địa do cơ quan, tổ chức, cá nhân quản lý luồng lập.

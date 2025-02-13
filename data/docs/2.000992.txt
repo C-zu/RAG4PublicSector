@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000992
+Số quyết định:
+1329/QĐ-BTP
+Tên thủ tục:
+Thủ tục chứng thực chữ ký người dịch mà người dịch là cộng tác viên dịch thuật của Phòng Tư pháp
+Cấp thực hiện:
+Cấp Huyện
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Chứng thực
+Trình tự thực hiện:
++ Người yêu cầu chứng thực chữ ký người dịch phải xuất trình các giấy tờ phục vụ việc chứng thực chữ ký người dịch.
++ Người thực hiện chứng thực (hoặc người tiếp nhận hồ sơ trong trường hợp tiếp nhận hồ sơ tại bộ phận một cửa, một cửa liên thông) kiểm tra giấy tờ do người yêu cầu chứng thực xuất trình, nếu thấy đủ giấy tờ theo quy định và giấy tờ, văn bản được dịch không thuộc các trường hợp giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch thì thực hiện chứng thực như sau:
+* Khi thực hiện chứng thực, người thực hiện chứng thực phải đối chiếu chữ ký của người dịch trên bản dịch với chữ ký mẫu trước khi thực hiện chứng thực; trường hợp nghi ngờ chữ ký trên bản dịch so với chữ ký mẫu thì yêu cầu người dịch ký trước mặt.
+* Ghi đầy đủ lời chứng chứng thực chữ ký người dịch theo mẫu quy định;
+* Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.
+Đối với bản dịch giấy tờ, văn bản có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu giấy tờ, văn bản có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ hoặc có thể kéo dài hơn theo thỏa thuận bằng văn bản với người yêu cầu chứng thực. Trường hợp trả kết quả trong ngày làm việc tiếp theo hoặc phải kéo dài thời gian theo thỏa thuận thì người tiếp nhận hồ sơ phải có phiếu hẹn ghi rõ thời gian (giờ, ngày) trả kết quả cho người yêu cầu chứng thực.|Phí : 10.000 Đồng 10.000 đồng/trường hợp|Nộp hồ sơ trực tiếp tại Phòng Tư pháp.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản dịch và giấy tờ, văn bản cần dịch.
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Phòng Tư Pháp
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy tờ, văn bản được chứng thực chữ ký người dịch
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2015/NĐ-CP|Nghị định 23/2015/NĐ-CP|16-02-2015|Chính phủ|
+|226/2016/TT-BTC|Thông tư 226/2016/TT-BTC|11-11-2016|Bộ Tài chính|
+|01/2020/TT-BTP|Thông tư 01/2020/TT-BTP|03-03-2020||
+
+Yêu cầu, điều kiện thực hiện:
+Giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch:
++ Giấy tờ, văn bản đã bị tẩy xóa, sửa chữa; thêm, bớt nội dung không hợp lệ.
++ Giấy tờ, văn bản bị hư hỏng, cũ nát không xác định được nội dung.
++ Giấy tờ, văn bản đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được dịch.
++ Giấy tờ, văn bản có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận chưa được hợp pháp hóa lãnh sự theo quy định tại Khoản 1 Điều 20 của Nghị định số 23/2015/NĐ-CP, trừ giấy hộ chiếu, thẻ căn cước, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ.
+Giấy tờ, văn bản không được dịch để chứng thực chữ ký người dịch:
++ Giấy tờ, văn bản đã bị tẩy xóa, sửa chữa; thêm, bớt nội dung không hợp lệ.
++ Giấy tờ, văn bản bị hư hỏng, cũ nát không xác định được nội dung.
++ Giấy tờ, văn bản đóng dấu mật của cơ quan, tổ chức có thẩm quyền hoặc không đóng dấu mật nhưng ghi rõ không được dịch.
++ Giấy tờ, văn bản có nội dung quy định tại Khoản 4 Điều 22 của Nghị định số 23/2015/NĐ-CP.
++ Giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận chưa được hợp pháp hóa lãnh sự theo quy định tại Khoản 1 Điều 20 của Nghị định số 23/2015/NĐ-CP, trừ giấy hộ chiếu, thẻ căn cước, thẻ cư trú, giấy phép lái xe, bằng tốt nghiệp, chứng chỉ và bảng điểm kèm theo bằng tốt nghiệp, chứng chỉ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

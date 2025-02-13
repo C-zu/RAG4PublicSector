@@ -1,0 +1,23 @@
+Tên thủ tục: Tiếp nhận, rà soát Biểu mẫu đăng ký giá thuộc thẩm quyền giải quyết của Sở Công Thương
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Công thương
+Cơ quan có thẩm quyền:
+Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương.
+Địa chỉ tiếp nhận HS:
+Bộ Công Thương
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Xác nhận được phép mua bán theo giá đã kê khai
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|177/2013/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá|14-11-2019|Chính phủ|
+|149/2016/NĐ-CP|Sửa đổi, bổ sung một số điều của Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giá|11-11-2016|Chính phủ|
+|08/2017/TT-BCT|Quy định về đăng ký giá, kê khai giá sữa và thực phẩm chức năng dành cho trẻ em dưới 06 tuổi|26-06-2017|Bộ Công thương|

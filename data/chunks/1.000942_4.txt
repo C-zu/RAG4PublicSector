@@ -1,0 +1,9 @@
+Tên thủ tục: Trả lại giấy phép nhận chìm (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Đơn đề nghị trả lại Giấy phép nhận chìm ở biển được lập theo Mẫu số 07 quy định tại Phụ lục của Nghị định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb3fb6bdd8fa60'">Mẫu số 12 nhận chìm.docx</a>)
+- 02 Bản chính Giấy phép nhận chìm ở biển đã được cấp (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe823dfb38831eb'">Mẫu số 7 nhận chìm.docx</a>)
+- 02 Bản chính Báo cáo tình hình, kết quả hoạt động nhận chìm ở biển; công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ theo quy định của pháp luật tính đến thời điểm đề nghị trả lại (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc076993da4b05c'">Mẫu số 14 nhận chìm (3).docx</a>)

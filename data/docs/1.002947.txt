@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002947
+Số quyết định:
+3279/QĐ-BNN-VP
+Tên thủ tục:
+Cấp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo vệ thực vật
+Trình tự thực hiện:
+- Bước 1: Tổ chức, cá nhân nộp hồ sơ đến Cục Bảo vệ thực vật.
+- Bước 2: Tiếp nhận, kiểm tra tính hợp lệ của hồ sơ trong thời hạn 02 ngày làm việc.
+Hồ sơ không hợp lệ thì trả lại hồ sơ và yêu cầu bổ sung, hoàn thiện hồ sơ.
+- Bước 3: Thẩm định hồ sơ và cấp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục V ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT).
++ Cục Bảo vệ thực vật tổ chức thẩm định, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn đưa thuốc bảo vệ thực vật vào Danh mục; cấp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật trong thời hạn 06 tháng. 
++ Hồ sơ chưa đáp ứng được quy định, Cục Bảo vệ thực vật thông báo cho tổ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ.
++ Trường hợp không cấp, Cục Bảo vệ thực vật trả lời cho tổ chức, cá nhân bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|06 tháng kể từ ngày nhận đầy đủ hồ sơ hợp lệ|Lệ phí : 9.000.000 Đồng đồng/lần|Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+|Trực tuyến|06 tháng kể từ ngày nhận đầy đủ hồ sơ hợp lệ|Lệ phí : 9.000.000 Đồng đồng/lần|Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+|Dịch vụ bưu chính|06 tháng kể từ ngày nhận đầy đủ hồ sơ hợp lệ|Lệ phí : 9.000.000 Đồng đồng/lần|Nộp hồ sơ - Trực tiếp - Bưu điện - Trực tuyến.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy chứng nhận đăng ký thuốc bảo vệ thực vật (theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT). ([Phụ lục II.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde619b37656c54'))
+- 01 Bản sao - Bản sao chụp Giấy phép khảo nghiệm đã được cấp.
+- 01 Bản chính - Mẫu nhãn thuốc.
+- 01 Bản chính - Bản chính kết quả khảo nghiệm hiệu lực sinh học, kết quả khảo nghiệm xác định thời gian cách ly và báo cáo tổng hợp kết quả khảo nghiệm (theo mẫu quy định tại Phụ lục VI, Phụ lục VII và Phụ lục XI ban hành kèm theo Thông tư số 21/2015/TT-BNNPTNT). ([Phụ lục VI.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc3a8a871187fe4') [Phu luc IX.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedf0afe2525de2') [phu luc VII.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3f7a6910f190e'))
+ Số lượng hồ sơ: 01 bản giấy và 01 bản điện tử định dạng word hoặc excel hoặc power point đối với mẫu nhãn.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Bảo vệ thực vật - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Bảo vệ thực vật
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký thuốc bảo vệ thực vật
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|21/2015/TT-BNNPTNT|Thông tư 21/2015/TT-BNNPTNT|08-06-2015||
+|41/2013/QH13|Luật 41/2013/QH13|25-11-2013||
+|33/2021/TT-BTC|Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong hoạt động kiểm dịch và bảo vệ thực vật thuộc lĩnh vực nông nghiệp|17-05-2021|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

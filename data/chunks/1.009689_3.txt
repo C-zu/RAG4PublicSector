@@ -1,0 +1,7 @@
+Tên thủ tục: Thẩm định danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật trong lựa chọn Nhà đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|37 Ngày||- Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh; - Qua Bưu điện; - Qua mạng điện tử theo quy trình trên dịch vụ công của tỉnh, tại địa chỉ: dichvucong.hatinh.gov.vn.|

@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Giấy chứng nhận kiểm dịch thực vật đối với các lô vật thể vận chuyển từ vùng nhiễm đối tượng kiểm dịch thực vật
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đăng ký kiểm dịch thực vật vận chuyển nội địa (theo mẫu qui định tại Phụ lục II ban hành kèm theo Thông tư 35/2015/TT-BNNPTNT). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd80f0cb2c57706'">Giay dkkdtv vcnd.docx</a>)

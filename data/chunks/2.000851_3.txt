@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép thành lập Công ty luật nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày|Phí : 20.000.000 Đồng Hai mươi triệu đồng|Trong thời hạn sáu mươi ngày, kể từ ngày nhận đủ hồ sơ và lệ phí, Bộ Tư pháp xem xét cấp Giấy phép thành lập công ty luật nước ngoài.|
+|Dịch vụ bưu chính|60 Ngày|Phí : 20.000.000 Đồng Hai mươi triệu đồng|Trong thời hạn sáu mươi ngày, kể từ ngày nhận đủ hồ sơ và lệ phí, Bộ Tư pháp xem xét cấp Giấy phép thành lập công ty luật nước ngoài.|

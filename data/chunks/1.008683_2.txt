@@ -1,0 +1,12 @@
+Tên thủ tục: Đăng ký thuế đối với trường hợp chuyển đổi mô hình hoạt động của tổ chức kinh tế và tổ chức khác (chuyển đơn vị độc lập thành đơn vị trực thuộc của một đơn vị chủ quản khác) – Đối với đơn vị trước chuyển đổi.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Đơn vị độc lập chuyển thành đơn vị trực thuộc của đơn vị chủ quản khác thì đơn vị đơn vị độc lập được chuyển đổi phải làm thủ tục chấm dứt hiệu lực mã số thuế với cơ quan thuế trước khi chuyển đổi theo quy định tại Điều 16, Điều 17 Thông tư 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính.
++Bước 2: Cơ quan thuế tiếp nhận:
++ Đối với hồ sơ chấm dứt hiệu lực mã số thuế bằng giấy:
+++ Đối với hồ sơ đăng ký thuế bằng giấy: 
+Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế: công chức thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ thay đổi thông tin đăng ký thuế, ghi rõ thời điểm nhận hồ sơ, số lượng tài liệu theo bảng kê danh mục hồ sơ thay đổi thông tin đăng ký thuế đối với trường hợp hồ sơ thay đổi thông tin đăng ký thuế nộp trực tiếp tại cơ quan thuế. Công chức thuế viết phiếu hẹn ngày trả kết quả thay đổi thông tin đăng ký thuế nếu thay đổi thông tin trên Giấy chứng nhận đăng ký thuế, thời hạn trả kết quả không được quá số ngày quy định của Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính.
+Trường hợp hồ sơ được gửi qua đường bưu chính: công chức thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+Công chức thuế kiểm tra hồ sơ đăng ký thuế, trường hợp cần bổ sung hồ sơ, cơ quan thuế phải thông báo cho người nộp thuế ngay trong ngày làm việc (đối với hồ sơ nộp trực tiếp tại cơ quan thuế); trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận hồ sơ (đối với hồ sơ gửi qua đường bưu chính).
+  ++ Trường hợp hồ sơ thay đổi thông tin đăng ký thuế điện tử: tiếp nhận hồ sơ đăng ký thuế được thực hiện theo quy định tại Thông tư số 110/2015/TT-BTC ngày 28/07/2015 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.

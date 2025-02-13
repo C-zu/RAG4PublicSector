@@ -1,0 +1,59 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ (hoặc Phiếu kiểm soát thu hoạch) cho lô nguyên liệu nhuyễn thể hai mảnh vỏ (UBND Tỉnh Hà Tĩnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: 
+- Trình tự:
+Tiếp nhận hồ sơ:
+Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở Nông nghiệp và Phát triển Nông thôn (NN&PTNT) tại Trung tâm Phục vụ hành chính công (PVHCC) tỉnh,  Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+- Trách nhiệm: Công chức TN&TKQ; Tổ chức/ cá nhân.
+- Thời gian:  Giờ hành chính
+- Biểu mấu/kết quả:  Mẫu 01; 02, 03 (nếu có), 06 và hồ sơ theo mục 2.3
+Bước 2: 
+- Trình tự:
+Chuyển hồ sơ cho Chi cục Quản lý chất lượng Nông Lâm sản và Thủy sản, Văn thư tiếp nhận hồ sơ, chuyển cho Lãnh đạo và phòng chuyên môn để xử lý.
+- Trách nhiệm: Công chức TN&TKQ hoặc nhân viên Bưu điện; Văn thư; Lãnh đạo; Phòng chuyên môn.
+- Thời gian: 04 giờ
+- Biểu mấu/kết quả: Mẫu 01, 05 và hồ sơ theo mục 2.3
+Bước 3: 
+- Trình tự:
+Thẩm định, xử lý hồ sơ:
++ Nhập thông tin vào sổ theo dõi thu hoạch;
++ Liên hệ với cơ sở xác nhận chính xác thời gian, địa điểm thu hoạch.
+- Trách nhiệm: Chuyên viên  được giao xử lý hồ sơ
+- Thời gian: 04 giờ
+- Biểu mấu/kết quả: Mẫu 05 và hồ sơ theo mục 2.3;
+Sổ theo dõi thu hoạch NT2MV.
+Bước 4: 
+- Trình tự:
+Tổ chức kiểm soát tại hiện trường, dự thảo kết quả:
++ Nếu đáp ứng yêu cầu: Dự thảo Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ (hoặc Phiếu kiểm soát thu hoạch) 
++ Nếu không đáp ứng yêu cầu: Dự thảo Văn bản thông báo không đủ điều kiện cấp Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ/ Phiếu kiểm soát thu hoạch có nêu rõ lý do.
+- Trách nhiệm: Chuyên viên  được giao xử lý hồ sơ 
+- Thời gian: 10 giờ
+- Biểu mấu/kết quả: Mẫu 05; Dự thảo Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ (hoặc Phiếu kiểm soát thu hoạch) hoặc Văn bản thông báo không đủ điều kiện cấp.
+Bước 5: 
+- Trình tự: Xem xét, ký nháy vào dự thảo kết quả thực hiện tại bước B4, trình Lãnh đạo Chi cục phê duyệt.
+- Trách nhiệm: Lãnh đạo  Phòng 
+- Thời gian: 02 giờ
+- Biểu mấu/kết quả: Mẫu 05; Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ (hoặc Phiếu kiểm soát thu hoạch) hoặc Văn bản thông báo không đủ điều kiện cấp đã ký nháy
+Bước 6: 
+- Trình tự: Xem xét, ký duyệt kết quả giải quyết tại bước B5.
+- Trách nhiệm: Lãnh đạo  Chi cục
+- Thời gian:02 giờ  
+- Biểu mấu/kết quả: Mẫu 05; Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ (hoặc Phiếu kiểm soát thu hoạch) hoặc Văn bản thông báo không đủ điều kiện cấp đã ký duyệt.
+Bước 7: 
+- Trình tự:	
+Phát hành văn bản và chuyển kết quả cho bộ phận TN&TKQ tại Trung tâm Phục vụ Hành chính công tỉnh.
++ Cập nhật kết quả, lưu hồ sơ.
+- Trách nhiệm: Văn thư; Chuyên viên được giao xử lý hồ sơ
+- Thời gian: 02 giờ	
+- Biểu mấu/kết quả: Mẫu 05, 06; Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ (hoặc Phiếu kiểm soát thu hoạch) hoặc Văn bản thông báo không đủ điều kiện cấp đã ký, đóng dấu.
+Bước 8: 
+- Trình tự: Trả kết quả cho tổ chức cá nhân
+- Trách nhiệm: Công chức TN&TKQ; Tổ chức, cá nhân
+- Thời gian:  Giờ hành chính  
+- Biểu mấu/kết quả: Mẫu 01, 06; Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ (hoặc Phiếu kiểm soát thu hoạch) hoặc Văn bản thông báo không đủ điều kiện cấp.
+* Trường hợp hồ sơ quá hạn xử lý, trong thời gian chậm nhất 01 ngày trước ngày hết hạn xử lý, cơ quan giải quyết TTHC ban hành phiếu xin lỗi và hẹn lại ngày trả kết quả chuyển sang Trung tâm Phục vụ Hành chính công tỉnh để gửi cho tổ chức, cá nhân.

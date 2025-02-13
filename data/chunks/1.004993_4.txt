@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận giáo viên dạy thực hành lái xe (trường hợp bị mất, bị hỏng, có sự thay đổi liên quan đến nội dung của Giấy chứng nhận giáo viên dạy thực hành lái xe)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdace5d91759724'">Mau 1 (1).docx</a>)
+- 01 Bản chính 01 ảnh màu cỡ 3 cm x 4 cm nền màu xanh, kiểu thẻ căn cước, được chụp trong thời gian không quá 06 tháng.

@@ -1,0 +1,40 @@
+Tên thủ tục: Thủ tục công chứng tính xác thực, tính hợp pháp của hợp đồng, giao dịch
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+10.1 Đối với người yêu cầu công chứng:
+- Người yêu cầu công chứng là cá nhân, tổ chức Việt Nam hoặc cá nhân, tổ chức nước ngoài.
+- Nếu người yêu cầu công chứng là tổ chức thì việc yêu cầu công chứng được thực hiện thông qua người đại diện theo pháp luật hoặc người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức đó.
+- Người yêu cầu công chứng phải có năng lực hành vi dân sự, xuất trình đủ các giấy tờ cần thiết liên quan đến việc công chứng và chịu trách nhiệm về tính chính xác, tính hợp pháp của các giấy tờ đó. Người yêu cầu công chứng không thông thạo tiếng Việt thì họ phải có người phiên dịch (đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ, thông thạo tiếng Việt và ngôn ngữ mà người yêu cầu công chứng sử dụng; người phiên dịch do người yêu cầu công chứng mới). Nghiêm cấm người yêu cầu công chứng thông tin, tài liệu sai sự thật; sử dụng giấy tờ, văn bản giả mạo hoặc bị tẩy xóa, sửa chữa trái pháp luật để yêu cầu công chứng. Năng lực hành vi dân sự được xác định theo quy định của pháp luật dân sự, cụ thể:
++ Người từ đủ 18 tuổi trở lên có năng lực hành vi dân sự đầy đủ, có quyền ký kết, thực hiện các giao dịch dân sự, trừ trường hợp bị mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự;
++ Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có tài sản riêng đảm bảo thực hiện nghĩa vụ có thể tự mình ký kết, thực hiện các giao dịch dân sự mà không cần sự đồng ý của người đại diện theo pháp luật, trừ trường hợp pháp luật có quy định khác;
++ Người đủ 6 tuổi đến chưa đủ 18 tuổi khi ký kết hợp đồng dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch nhằm phục vụ nhu cầu sinh hoạt hàng ngày hoặc pháp luật có quy định khác;
++ Người chưa đủ 6 tuổi thì không được quyền ký hợp đồng dân sự mà phảo thông qua người đại diện.
+10.2 Đối với người làm chứng:
+- Trong trường hợp pháp luật quy định việc công chứng phải có người làm chứng hoặc trong trường hợp pháp luật không quy định việc công chứng phải có người làm chứng nhưng người yêu cầu công chứng không đọc được hoặc không nghe được hoặc không ký và không điểm chỉ được thì phải có người làm chứng.
+ - Người làm chứng do người yêu cầu công chứng mời, nếu họ không mời được thì cán bộ lãnh sự chỉ định. Nghiêm cấm người làm chứng có hành vi gian dối, không trung thực.
+- Người làm chứng phải là người từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ và không có quyền, lợi ích hoặc nghĩa vụ về tài sản liên quan đến việc công chứng.
+10.3. Công chứng viên không được nhận và công chứng bản dịch trong các trường hợp sau đây:
+- Công chứng viên biết hoặc phải biết bản chính được cấp sai thẩm quyền hoặc không hợp lệ; bản chính giả;
+- Giấy tờ, văn bản được yêu cầu dịch đã bị tẩy xóa, sửa chữa, thêm, bớt hoặc bị hư hỏng, cũ nát không thể xác định rõ nội dụng;
+- Giấy tờ, văn bản được yêu cầu dịch thuộc bí mật nhà nước; giấy tờ, văn bản bị cấm phổ biến theo quy định của pháp luật.
+10.1 Đối với người yêu cầu công chứng:
+- Người yêu cầu công chứng là cá nhân, tổ chức Việt Nam hoặc cá nhân, tổ chức nước ngoài.
+- Nếu người yêu cầu công chứng là tổ chức thì việc yêu cầu công chứng được thực hiện thông qua người đại diện theo pháp luật hoặc người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức đó.
+- Người yêu cầu công chứng phải có năng lực hành vi dân sự, xuất trình đủ các giấy tờ cần thiết liên quan đến việc công chứng và chịu trách nhiệm về tính chính xác, tính hợp pháp của các giấy tờ đó. Người yêu cầu công chứng không thông thạo tiếng Việt thì họ phải có người phiên dịch (đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ, thông thạo tiếng Việt và ngôn ngữ mà người yêu cầu công chứng sử dụng; người phiên dịch do người yêu cầu công chứng mới). Nghiêm cấm người yêu cầu công chứng thông tin, tài liệu sai sự thật; sử dụng giấy tờ, văn bản giả mạo hoặc bị tẩy xóa, sửa chữa trái pháp luật để yêu cầu công chứng. Năng lực hành vi dân sự được xác định theo quy định của pháp luật dân sự, cụ thể:
++ Người từ đủ 18 tuổi trở lên có năng lực hành vi dân sự đầy đủ, có quyền ký kết, thực hiện các giao dịch dân sự, trừ trường hợp bị mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự;
++ Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có tài sản riêng đảm bảo thực hiện nghĩa vụ có thể tự mình ký kết, thực hiện các giao dịch dân sự mà không cần sự đồng ý của người đại diện theo pháp luật, trừ trường hợp pháp luật có quy định khác;
++ Người đủ 6 tuổi đến chưa đủ 18 tuổi khi ký kết hợp đồng dân sự phải được người đại diện theo pháp luật đồng ý, trừ giao dịch nhằm phục vụ nhu cầu sinh hoạt hàng ngày hoặc pháp luật có quy định khác;
++ Người chưa đủ 6 tuổi thì không được quyền ký hợp đồng dân sự mà phảo thông qua người đại diện.
+10.2 Đối với người làm chứng:
+- Trong trường hợp pháp luật quy định việc công chứng phải có người làm chứng hoặc trong trường hợp pháp luật không quy định việc công chứng phải có người làm chứng nhưng người yêu cầu công chứng không đọc được hoặc không nghe được hoặc không ký và không điểm chỉ được thì phải có người làm chứng.
+ - Người làm chứng do người yêu cầu công chứng mời, nếu họ không mời được thì cán bộ lãnh sự chỉ định. Nghiêm cấm người làm chứng có hành vi gian dối, không trung thực.
+- Người làm chứng phải là người từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ và không có quyền, lợi ích hoặc nghĩa vụ về tài sản liên quan đến việc công chứng.
+10.3. Công chứng viên không được nhận và công chứng bản dịch trong các trường hợp sau đây:
+- Công chứng viên biết hoặc phải biết bản chính được cấp sai thẩm quyền hoặc không hợp lệ; bản chính giả;
+- Giấy tờ, văn bản được yêu cầu dịch đã bị tẩy xóa, sửa chữa, thêm, bớt hoặc bị hư hỏng, cũ nát không thể xác định rõ nội dụng;
+- Giấy tờ, văn bản được yêu cầu dịch thuộc bí mật nhà nước; giấy tờ, văn bản bị cấm phổ biến theo quy định của pháp luật.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

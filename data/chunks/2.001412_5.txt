@@ -1,0 +1,26 @@
+Tên thủ tục: Thủ tục đăng ký tuyển sinh đào tạo cán bộ ngành quân sự cơ sở
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam
+Cơ quan thực hiện:
+Ban Tuyển sinh quân sự cấp huyện
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo kết quả xét duyệt hồ sơ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2005/QH11|Giáo dục|14-06-2005|Quốc Hội|
+|134/2006/NĐ-CP|Quy định chế độ cử tuyển vào các cơ sở giáo dục trình độ đại học, cao đẳng, trung cấp thuộc hệ thống giáo dục quốc dân|14-11-2006|Chính phủ|
+|44/2009/QH12|Sửa đổi, bổ sung một số điều của Luật Giáo dục|25-11-2009|Quốc Hội|
+|43/2009/QH12|Dân quân tự vệ|23-11-2009|Quốc Hội|
+|19/2008/QH12|Sửa đổi, bổ sung một số điều của Luật Sĩ quan quân đội nhân dân Việt Nam|03-06-2008|Quốc Hội|
+|72/2014/QH13|Sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam|27-11-2014|Quốc Hội|

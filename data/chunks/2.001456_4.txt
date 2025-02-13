@@ -1,0 +1,8 @@
+Tên thủ tục: Khen thưởng ngoài Ngành
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị có mối quan hệ trực tiếp với cá nhân, tổ chức kèm danh sách cá nhân, tập thể được đề nghị khen thưởng (mẫu số 02 quy định tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb75728567dbd78'">Mẫu số 02.docx</a>)
+- 01 Bản chính + Báo cáo thành tích đóng góp của cá nhân, tập thể đối với ngành Ngân hàng (mẫu số 21 quy định tại Thông tư số 17/2019/TT-NHNN ngày 31/10/2019). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd095985e69b6ca'">Mẫu số 21.docx</a>)

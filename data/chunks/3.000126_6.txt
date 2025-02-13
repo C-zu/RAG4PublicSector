@@ -1,0 +1,24 @@
+Tên thủ tục: Công nhận dòng, giống vật nuôi mới
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Mỗi dòng, giống vật nuôi mới chỉ được đặt một tên phù hợp bằng tiếng Việt.
+- Việc đặt tên dòng, giống vật nuôi mới phải bảo đảm không thuộc các trường hợp sau đây:
++ Trùng hoặc gây nhầm lẫn với tên dòng, giống vật nuôi đã được công nhận;
++ Chỉ bao gồm chữ số;
++ Vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.
++ Trùng với cách đọc hoặc cách viết tên của lãnh tụ, anh hùng dân tộc, danh nhân;
++ Sử dụng tên cơ quan nhà nước, đơn vị vũ trang nhân dân, tên của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội – nghề nghiệp, tổ chức xã hội, tổ chức xã hội – nghề nghiệp, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó.
+(Điều 29 Luật Chăn nuôi)
+- Mỗi dòng, giống vật nuôi mới chỉ được đặt một tên phù hợp bằng tiếng Việt.
+- Việc đặt tên dòng, giống vật nuôi mới phải bảo đảm không thuộc các trường hợp sau đây:
++ Trùng hoặc gây nhầm lẫn với tên dòng, giống vật nuôi đã được công nhận;
++ Chỉ bao gồm chữ số;
++ Vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.
++ Trùng với cách đọc hoặc cách viết tên của lãnh tụ, anh hùng dân tộc, danh nhân;
++ Sử dụng tên cơ quan nhà nước, đơn vị vũ trang nhân dân, tên của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội – nghề nghiệp, tổ chức xã hội, tổ chức xã hội – nghề nghiệp, trừ trường hợp có sự chấp thuận của cơ quan, đơn vị hoặc tổ chức đó.
+(Điều 29 Luật Chăn nuôi)
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

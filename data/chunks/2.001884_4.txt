@@ -1,0 +1,13 @@
+Tên thủ tục: Sửa đổi, bổ sung giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp dịch vụ trò chơi điện tử công cộng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Áp dụng cho chủ điểm là cá nhân
+- 01 Bản chính ĐƠN ĐỀ NGHỊ SỬA ĐỔI, BỔ SUNG GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ CÔNG CỘNG (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd104ffa4888d42'">Mẫu số 07. ĐƠN ĐỀ NGHỊ SỬA ĐỔI, BỔ SUNG GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG.docx</a>)
+- 01 Bản chính Các tài liệu có liên quan đến các thông tin thay đổi (nếu có)
+
+
+Áp dụng cho chủ điểm là tổ chức, doanh nghiệp
+- 01 Bản chính ĐƠN ĐỀ NGHỊ SỬA ĐỔI, BỔ SUNG GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM CUNG CẤP DỊCH VỤ TRÒ CHƠI ĐIỆN TỬ CÔNG CỘNG (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc61dbc049b6e44'">Mẫu số 08. ĐƠN ĐỀ NGHỊ SỬA ĐỔI, BỔ SUNG GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG ĐIỂM.docx</a>)
+- 01 Bản chính Các tài liệu có liên quan đến các thông tin thay đổi (nếu có)

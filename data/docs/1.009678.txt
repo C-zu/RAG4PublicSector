@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009678
+Số quyết định:
+3149/QD-UBND (Đặc thù)
+Tên thủ tục:
+Thẩm định, phê duyệt phương án ứng phó với tình huống khẩn cấp thuộc thẩm quyền của UBND cấp xã
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy lợi
+Trình tự thực hiện:
+Bước 1: Tiếp nhận hồ sơ:
+Tổ chức nộp hồ sơ tại Bộ phận TN&TKQ của UBND xã, công chức TN&TKQ kiểm tra hồ sơ:
+- Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả. 
+- Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ về bộ phận chuyên môn
+Bước 3: Công chức chuyên môn thẩm định hồ sơ; xác định đầy đủ, hợp pháp, hợp lý của hồ sơ đã nhận:
+- Trường hợp hồ sơ đáp ứng yêu cầu thì báo lãnh đạo UBND cấp xã tham mưu giấy mời kiểm tra thực địa.
+- Trường hợp nội dung hồ sơ chưa đáp ứng quy định thì tham mưu văn bản thông báo hướng dẫn với tổ chức, cá nhân gửi thông qua Bộ phận TN&TKQ để trả hồ sơ
+Bước 4: Kiểm tra tại thực địa:
+- Nếu kiểm tra thực địa đúng với nội dung hồ sơ thì tham mưu cho lãnh đạo UBND xã phê duyệt phương án
+- Trường hợp qua kiểm tra không đúng theo hồ sơ thì tham mưu văn bản từ chối phê duyệt.
+Bước 5: Hoàn thiện hồ sơ, biên bản kiểm tra thực địa, báo cáo lãnh đạo UBND xã đề nghị phê duyệt phương án hoặc dự thảo văn bản từ chối phê duyệt, trình lãnh đạo xã xem xét.
+Bước 6: Lãnh đạo UBND cấp xã ký phê duyệt phương án ứng phó với tình huống khẩn cấp hoặc Văn bản từ chối phê duyệt.
+Phát hành văn bản.
+Bước 7: Văn thư chuyển kết quả cho Bộ phận TN&TKQ quả để thông báo cho tổ chức, cá nhân đến nhận kết quả (hoặc trả qua dịch vụ Bưu chính công ích), vào sổ giao nhận kết quả, thu phí, lệ phí (nếu có)
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|20 Ngày||20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính Tờ trình đề nghị phê duyệt phương án ứng phó với tình huống khẩn cấp
+- 02 Bản chính Dự thảo phương án ứng phó với tình huống khẩn cấp
+- 02 Bản chính Báo cáo kết quả tính toán kỹ thuật
+- 02 Bản chính Văn bản góp ý kiến của các cơ quan, đơn vị liên quan
+- 02 Bản chính Các tài liệu liên quan khác kèm theo (nếu có).
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Ủy ban nhân dân xã
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Phương án được phê duyệt hoặc Văn bản từ chối phê duyệt phương án.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|114/2018/NĐ-CP|Nghị định 114/2018/NĐ-CP|04-09-2018|Chính phủ|
+|08/2017/QH14|Luật thủy lợi|19-06-2017|Quốc Hội|
+|4638/QĐ-BNN-TCTL|Quyết định số 4638/QĐ-BNN-TCTL, ngày 22/11/2018 của Bộ Nông nghiệp và Phát triển nông thôn về việc công bố thủ tục hành chính mới ban hành, thủ tục hành chính được sửa đổi, bổ sung lĩnh vực thủy lợi thuộc phạm vi chức năng quản lý của Bộ Nông nghiệp và Phát triển nông thôn|22-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,11 @@
+Tên thủ tục: Thông báo luồng đường thủy nội địa chuyên dùng
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân có luồng chuyên dùng gửi đơn đề nghị công bố thông báo luồng đến cơ quan có thẩm quyền sau:
+- Cục Đường thủy nội địa Việt Nam: thông báo lần đầu luồng chuyên dùng nối với luồng quốc gia;
+- Chi cục đường thủy nội địa khu vực: thông báo định kỳ, thường xuyên, và đột xuất luồng chuyên dùng nối với luồng quốc gia;
+- Sở Giao thông vận tải: thông báo lần đầu, định kỳ, thường xuyên và đột xuất luồng chuyên dùng nối với luồng địa phương.
+b) Giải quyết TTHC:
+Trong thời gian 03 ngày làm việc, kể từ ngày nhận được báo cáo của tổ chức, cá nhân có luồng chuyên dùng, cơ quan có trách nhiệm thông báo kiểm tra số liệu, thông báo luồng đường thủy nội địa.

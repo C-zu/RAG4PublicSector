@@ -1,0 +1,7 @@
+Tên thủ tục: Chấp thuận của cơ quan nhà nước có thẩm quyền đối với tổ chức kinh tế nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|25 Ngày||1. Cách thức thực hiện: Gửi văn bản đến Sở Tài nguyên và Môi trường. 2. Thời hạn giải quyết: - Trong thời hạn không quá 15 ngày kể từ ngày nhận được văn bản đề nghị, Sở Tài nguyên và Môi trường có trách nhiệm trình Ủy ban nhân dân cấp tỉnh. - Trong thời hạn không quá 10 ngày kể từ ngày nhận được hồ sơ do Sở Tài nguyên và Môi trường trình, Ủy ban nhân dân cấp tỉnh xem xét có văn bản chấp thuận hoặc trả lời tổ chức kinh tế về việc nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất.|

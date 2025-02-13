@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thẩm định hồ sơ đề nghị công nhận ngày truyền thống của các Bộ, ngành, địa phương
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1). Công văn đề nghị công nhận ngày truyền thống;
+- 01 Bản chính (2). Bản thuyết minh sự cần thiết, tính giáo dục, ý nghĩa của việc công nhận ngày truyền thống;
+- 01 Bản sao (3). Bản chụp các tài liệu chứng minh sự ra đời hoặc ngày diễn ra sự kiện đáng ghi nhớ.

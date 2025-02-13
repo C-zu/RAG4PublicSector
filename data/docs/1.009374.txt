@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009374
+Số quyết định:
+77/QĐ-BTTTT
+Tên thủ tục:
+Cấp giấy phép xuất bản bản tin (địa phương)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Báo chí
+Trình tự thực hiện:
+Cấp giấy phép xuất bản bản tin (địa phương)
+Cơ quan, tổ chức ở tỉnh, thành phố trực thuộc trung ương có nhu cầu xuất bản bản tin lập 01 bộ hồ sơ đề nghị cấp giấy phép xuất bản bản tin gửi trực tiếp, qua hệ thống bưu chính hoặc qua môi trường điện tử đến Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.
+Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền có trách nhiệm cấp giấy phép xuất bản bản tin; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày||Nộp trực tiếp tại Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.|
+|Trực tuyến|20 Ngày||Nộp qua Cổng dịch vụ công: + Cổng dịch vụ công quốc gia (http://dichvucong.gov.vn); hoặc + Cổng dịch vụ công của Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.|
+|Dịch vụ bưu chính|20 Ngày||Nộp qua hệ thống bưu chính đến Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.|
+
+Thành phần hồ sơ:
+
+Cấp giấy phép xuất bản bản tin (địa phương)
+- 01 Bản chính Tờ khai đề nghị cấp giấy phép xuất bản bản tin ([Mẫu số 10.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fecba6409f5b461'))
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý hoặc bản sao kèm bản chính để đối chiếu quyết định thành lập, giấy phép thành lập, giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ khác có giá trị pháp lý tương đương
+- 01 Bản chính Sơ yếu lý lịch của người chịu trách nhiệm xuất bản bản tin
+- 01 Bản chính Mẫu trình bày tên gọi bản tin có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép và bản dịch tiếng Việt được công chứng (đối với tên gọi bản tin thể hiện bằng tiếng nước ngoài)
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Thông tin và Truyền thông
+Cơ quan có thẩm quyền:
+Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Địa chỉ tiếp nhận HS:
+- Nộp trực tiếp và nộp qua hệ thống bưu chính đến địa chỉ Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền. - Nộp qua Cổng dịch vụ công: + Cổng dịch vụ công quốc gia (http://dichvucong.gov.vn); hoặc + Cổng dịch vụ công của Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép xuất bản bản tin
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|103/2016/QH13|Luật 103/2016/QH13|05-04-2016||
+|41/2020/TT-BTTTT|Thông tư 41/2020/TT-BTTTT|24-12-2020||
+
+Yêu cầu, điều kiện thực hiện:
+- Có người chịu trách nhiệm về việc xuất bản bản tin;
+- Tổ chức bộ máy hoạt động phù hợp bảo đảm cho việc xuất bản bản tin;
+- Xác định rõ tên bản tin, mục đích xuất bản và nội dung thông tin, đối tượng phục vụ, phạm vi phát hành, ngôn ngữ thể hiện, kỳ hạn xuất bản, khuôn khổ, số trang, số lượng, nơi in;
+- Có địa điểm làm việc chính thức và các điều kiện cần thiết bảo đảm cho việc xuất bản bản tin.
+- Có người chịu trách nhiệm về việc xuất bản bản tin;
+- Tổ chức bộ máy hoạt động phù hợp bảo đảm cho việc xuất bản bản tin;
+- Xác định rõ tên bản tin, mục đích xuất bản và nội dung thông tin, đối tượng phục vụ, phạm vi phát hành, ngôn ngữ thể hiện, kỳ hạn xuất bản, khuôn khổ, số trang, số lượng, nơi in;
+- Có địa điểm làm việc chính thức và các điều kiện cần thiết bảo đảm cho việc xuất bản bản tin.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

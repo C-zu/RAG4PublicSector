@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký xe tạm thời (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Giấy khai đăng ký xe (theo mẫu).
+- 01 Bản chính b) Hồ sơ theo quy định tại Điều 13 Thông tư số 58/2020/TT-BCA, ngày 16/6/2020 của Bộ Công an.
+ Khi cơ sở dữ liệu cơ quan đăng ký xe kết nối với cơ sở dữ liệu của các Bộ, ngành thì các giấy tờ nêu trên được thay thế bằng dữ liệu điện tử là căn cứ để cấp đăng ký, biển số xe.

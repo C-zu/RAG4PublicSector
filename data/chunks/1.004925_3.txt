@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp phép xuất khẩu loài thủy sản có tên trong Danh mục loài thủy sản cấm xuất khẩu hoặc trong Danh mục loài thủy sản xuất khẩu có điều kiện nhưng không đáp ứng đủ điều kiện (đối với mục đích nghiên cứu khoa học, hợp tác quốc tế)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc (chưa tính thời gian xin ý kiến Thủ tướng Chính phủ).|||
+|Trực tuyến|10 ngày làm việc (chưa tính thời gian xin ý kiến Thủ tướng Chính phủ).|||
+|Dịch vụ bưu chính|10 ngày làm việc (chưa tính thời gian xin ý kiến Thủ tướng Chính phủ).|||

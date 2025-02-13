@@ -1,0 +1,10 @@
+Tên thủ tục: (Cấp tỉnh) Thủ tục hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ do tổ chức, cá nhân tự đầu tư nghiên cứu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hỗ trợ kinh phí, mua kết quả nghiên cứu khoa học và phát triển công nghệ theo mẫu BM II.1 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcb73bc5dc19140'">BM II.1.docx</a>)
+- 01 Bản chính Thuyết minh về kết quả nghiên cứu khoa học và phát triển công nghệ theo mẫu BM II.2 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fed8717daed71e2'">BM II.2.docx</a>)
+- 01 Bản chính Bản thể hiện kết quả nghiên cứu khoa học và phát triển công nghệ được đưa vào ứng dụng, chuyển giao không quá 03 năm (Đối với trường hợp đề nghị hỗ trợ) theo mẫu BM II.3 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6bb93bac9467e'">BM II.3.docx</a>)
+- 01 Bản chính Bản kiến nghị của cơ quan, tổ chức về sự cần thiết mua và phương án quản lý, khai thác, chuyển giao kết quả nghiên cứu khoa học và phát triển công nghệ (Đối với trường hợp đề nghị mua) theo mẫu BM II.4 tại Phụ lục 2 ban hành kèm theo Thông tư số 14/2023/TT-BKHCN (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc21de59f94e87c'">BM II.4.docx</a>)

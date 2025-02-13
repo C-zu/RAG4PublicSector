@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục tuyển sinh theo chế độ cử tuyển đại học, cao đẳng, trung cấp chuyên nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|1. Tổ chức sơ tuyển và thí sinh làm hồ sơ, thực hiện xong trước ngày 25 tháng 6 hằng năm. 2. Xét duyệt và báo cáo đề nghị với các trường trước ngày 30 tháng 6 hằng năm. 3. Hội đồng tuyển sinh các trường thẩm định, báo cáo đề nghị với Ban Tuyển sinh quân sự Bộ Quốc phòng trước ngày 15 tháng 7 hằng năm. 4. Thẩm định và đề xuất danh sách đủ tiêu chuẩn cử tuyển xong trước ngày 10 tháng 8; tổng hợp, báo cáo Trưởng ban Tuyển sinh quân sự Bộ Quốc phòng xem xét, quyết định trước ngày 30 tháng 8 hằng năm.|Lệ phí : 0 Đồng|Cách thức thực hiện: Thí sinh làm hồ sơ theo mẫu quy định của Ban Tuyển sinh quân sự Bộ Quốc phòng nộp cho Ban Tuyển sinh cấp sư đoàn, cấp tỉnh và tương đương.|

@@ -1,0 +1,17 @@
+Tên thủ tục: Công bố hoạt động cảng thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố hoạt động cảng thủy nội địa theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ae1580474580'">24.docx</a>)
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu văn bản phê duyệt dự án đầu tư xây dựng cảng thủy nội địa của cơ quan có thẩm quyền;
+- 01 Bản sao - Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu giấy tờ về sử dụng đất để xây dựng cảng thủy nội địa do cơ quan có thẩm quyền cấp;
+- 01 Bản sao - Bản sao quyết định phê duyệt dự án hoặc thiết kế kỹ thuật công trình cảng thủy nội địa;
+- 01 Bản chính - Biên bản nghiệm thu hoàn thành công trình xây dựng đưa vào sử dụng; bản vẽ hoàn công mặt bằng, mặt chiếu đứng và mặt cắt ngang công trình cảng thủy nội địa;
+- 01 Bản chính - Biên bản nghiệm thu kết quả rà tìm vật chướng ngại trong vùng nước cảng; biên bản xác nhận thiết lập báo hiệu tại cảng;
+- 01 Bản sao - Bản sao giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của pông-tông, phao neo thuộc đối tượng phải đăng kiểm (nếu sử dụng pông-tông làm cầu cảng);
+- 01 Bản sao - Văn bản nghiệm thu về phòng cháy và chữa cháy của cơ quan có thẩm quyền theo quy định;
+- 01 Bản sao - Bản sao giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài (đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài);
+- 01 Bản sao - Bản sao quyết định công bố mở luồng chuyên dùng của cơ quan có thẩm quyền (nếu có) đối với trường hợp cảng thủy nội địa có luồng chuyên dùng.
+ (Trường hợp gửi hồ sơ trực tuyến, thành phần hồ sơ là bản chính hoặc bản sao điện tử các thành phần hồ sơ tương ứng theo quy định)

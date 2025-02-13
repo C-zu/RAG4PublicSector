@@ -1,0 +1,8 @@
+Tên thủ tục: Khai báo tạm trú cho người nước ngoài tại Việt Nam qua Trang thông tin điện tử
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Người khai báo tạm trú đăng ký tài khoản khai báo tạm trú tại Trang thông tin điện tử về khai báo tạm trú của Cơ quan Quản lý xuất nhập cảnh Công an cấp tỉnh nơi đặt cơ sở lưu trú (sau đây gọi là Trang thông tin điện tử) hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+Bước 2: Đăng nhập vào Trang thông tin điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an bằng tài khoản và mật khẩu đã được cấp.
+Bước 3: Người khai báo tạm trú thực hiện nhập và kiểm tra các thông tin khai báo về người nước ngoài hoặc chuyển tập tin nhập đính kèm theo mẫu được đăng tải trên Trang thông tin điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+Bước 4: Kiểm tra thông tin đã khai báo tạm trú trên hệ thống và hoàn thành việc khai báo tạm trú.

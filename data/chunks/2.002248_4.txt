@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký chuyển giao công nghệ (trừ trường hợp thuộc thẩm quyền của Bộ Khoa học và Công nghệ)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Văn bản đề nghị đăng ký chuyển giao công nghệ; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc59310ec3d9c44'">Mẫu Văn bản đề nghị đăng ký chuyển giao công nghệ.docx</a>)
+- 01 Bản chính, 01 Bản sao + Bản gốc hoặc bản sao có chứng thực văn bản giao kết chuyển giao công nghệ bằng tiếng Việt hoặc bản dịch sang tiếng Việt có công chứng hoặc chứng thực đối với văn bản giao kết chuyển giao công nghệ bằng tiếng nước ngoài;
+- 01 Bản sao + Bản sao Giấy Chứng nhận đăng ký đầu tư (hoặc Giấy Chứng nhận đăng ký doanh nghiệp hoặc Giấp phép kinh doanh,...) của các bên tham gia chuyển giao công nghệ;
+- 01 Bản chính + Giấy xác nhận tư cách pháp lý của người đại diện các bên tham gia hợp đồng;
+- 01 Bản sao + Bản sao chứng thực Văn bản chấp thuận của cơ quan có thẩm quyền quyết định đầu tư đối với chuyển giao công nghệ có sử dụng vốn nhà nước;
+- 01 Bản chính + Giấy ủy quyền (trong trường hợp ủy quyền cho bên thứ ba thực hiện thủ tục đăng ký hợp đồng chuyển giao công nghệ)

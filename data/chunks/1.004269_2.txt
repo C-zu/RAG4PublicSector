@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cung cấp dữ liệu đất đai (cấp tỉnh)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân có nhu cầu khai thác dữ liệu đất đai nộp phiếu yêu cầu hoặc gửi văn bản yêu cầu đến Văn phòng đăng ký đất đai hoặc nộp trên môi trường điện tử qua Cổng dịch vụ công cấp tỉnh. Đối với địa phương chưa xây dựng cơ sở dữ liệu đất đai, Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp xã có trách nhiệm cung cấp dữ liệu đất đai từ hồ sơ địa chính theo phân cấp quản lý hồ sơ địa chính;
+- Khi nhận được phiếu yêu cầu, văn bản yêu cầu hợp lệ của tổ chức, cá nhân, cơ quan cung cấp dữ liệu đất đai thực hiện việc cung cấp dữ liệu cho tổ chức, cá nhân có yêu cầu khai thác dữ liệu. Cơ quan cung cấp dữ liệu đất đai tiếp nhận, xử lý và thông báo nghĩa vụ tài chính (trường hợp phải thực hiện nghĩa vụ tài chính) cho tổ chức, cá nhân. Trường hợp từ chối cung cấp dữ liệu thì phải có văn bản trả lời nêu rõ lý do;
+- Sau khi tổ chức, cá nhân thực hiện xong nghĩa vụ tài chính, cơ quan cung cấp dữ liệu đất đai thực hiện cung cấp dữ liệu đất đai theo yêu cầu. Đối với các trường hợp khai thác dữ liệu cần phải tổng hợp, xử lý trước khi cung cấp cho tổ chức, cá nhân thì phải thực hiện bằng hình thức hợp đồng theo quy định của Bộ luật dân sự giữa cơ quan cung cấp dữ liệu đất đai và tổ chức, cá nhân có nhu cầu khai thác dữ liệu.

@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001053
+Số quyết định:
+1904/QĐ-LĐTBXH
+Tên thủ tục:
+Hưởng chế độ ốm đau
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bảo hiểm xã hội
+Trình tự thực hiện:
+Bước 1: Người lao động có trách nhiệm nộp hồ sơ theo quy định cho người sử dụng lao động nhưng không quá 45 ngày kể từ ngày trở lại làm việc.
+Bước 2: Người sử dụng lao động có trách nhiệm lập hồ sơ hưởng chế độ ốm đau gửi cho cơ quan bảo hiểm xã hội trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ từ người lao động.
+Bước 3: Cơ quan bảo hiểm xã hội phải giải quyết và tổ chức chi trả cho người lao động trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ theo quy định.
+Trường hợp cơ quan bảo hiểm xã hội không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||Trong 10 ngày kể từ ngày nhận đủ hồ sơ.|
+|Dịch vụ bưu chính|10 Ngày làm việc||Trong 10 ngày kể từ ngày nhận đủ hồ sơ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính hoặc bản sao giấy ra viện đối với người lao động hoặc con của người lao động điều trị nội trú. Trường hợp người lao động hoặc con của người lao động điều trị ngoại trú phải có giấy chứng nhận nghỉ việc hưởng bảo hiểm xã hội
+- 01 Bản chính Trường hợp người lao động hoặc con của người lao động khám bệnh, chữa bệnh ở nước ngoài thì hồ sơ quy định nêu trên được thay bằng bản dịch tiếng Việt của giấy khám bệnh, chữa bệnh do cơ sở khám bệnh, chữa bệnh ở nước ngoài cấp
+- 01 Bản chính Danh sách người lao động nghỉ việc hưởng chế độ ốm đau do người sử dụng lao động lập.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Bảo hiểm xã hội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Danh sách giải quyết hưởng chế độ ốm đau, thai sản, dưỡng sức, phục hồi sức khỏe.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|58/2014/QH13|Luật 58/2014/QH13 - Bảo hiểm xã hội|20-11-2014|Quốc Hội|
+|59/2015/TT-BLĐTBXH|Thông tư 59/2015/TT-BLĐTBXH - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật bảo hiểm xã hội về bảo hiểm xã hội bắt buộc|29-12-2015|Bộ Lao động - Thương binh và Xã hội|
+|143/2018/NĐ-CP|Nghị định 143/2018/NĐ-CP - Quy định chi tiết Luật bảo hiểm xã hội và Luật an toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam|15-10-2018|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+* Trường hợp được hưởng chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động hoặc điều trị thương tật do tai nạn lao động, bệnh nghề nghiệp phải nghỉ việc và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế.
+          - Người lao động phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.
+          * Trường hợp không giải quyết chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn phải nghỉ việc do tự hủy hoại sức khỏe do say rượu hoặc sử dụng chất ma túy, tiền chất ma túy theo Danh mục ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ ban hành các danh mục chất ma túy và tiền chất và Nghị định số 126/2015/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ sửa đổi, bổ sung Danh mục các chất ma túy và tiền chất ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013.
+          - Người lao động nghỉ việc điều trị lần đầu do tai nạn lao động, bệnh nghề nghiệp.
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động trong thời gian đang nghỉ phép hằng năm, nghỉ việc riêng, nghỉ không hưởng lương theo quy định của pháp luật lao động; nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+* Trường hợp được hưởng chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động hoặc điều trị thương tật do tai nạn lao động, bệnh nghề nghiệp phải nghỉ việc và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế.
+          - Người lao động phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.
+          * Trường hợp không giải quyết chế độ ốm đau:
+          - Người lao động bị ốm đau, tai nạn phải nghỉ việc do tự hủy hoại sức khỏe do say rượu hoặc sử dụng chất ma túy, tiền chất ma túy theo Danh mục ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ ban hành các danh mục chất ma túy và tiền chất và Nghị định số 126/2015/NĐ-CP ngày 19 tháng 7 năm 2013 của Chính phủ sửa đổi, bổ sung Danh mục các chất ma túy và tiền chất ban hành kèm theo Nghị định số 82/2013/NĐ-CP ngày 19 tháng 7 năm 2013.
+          - Người lao động nghỉ việc điều trị lần đầu do tai nạn lao động, bệnh nghề nghiệp.
+          - Người lao động bị ốm đau, tai nạn mà không phải là tai nạn lao động trong thời gian đang nghỉ phép hằng năm, nghỉ việc riêng, nghỉ không hưởng lương theo quy định của pháp luật lao động; nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

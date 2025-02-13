@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung thông tin thuốc theo hình thức phát hành tài liệu thông tin thuốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị xác nhận nội dung thông tin, quảng cáo thuốc theo Mẫu số 01 Phụ lục VI của Nghị định số 54/2017/NĐ-CP;, quảng cáo thuốc theo Mẫu số 01 Phụ lục VI của Nghị định số 54/2017/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7cceaadf5296d'">ND 54_Mau 01_Phuluc VI.docx</a>)
+- 02 Bản chính b) Mẫu thiết kế nội dung thông tin đề nghị xác nhận (Bản chính và được làm thành 02 (hai) bản);
+- 01 Bản sao c) Mẫu nhãn, tờ hướng dẫn sử dụng thuốc hiện hành đã được Bộ Y tế phê duyệt (Bản sao);
+- 01 Bản sao d) Tài liệu tham khảo có liên quan đến nội dung thông tin thuốc đề nghị xác nhận (nếu có) (Bản sao có đóng dấu của cơ sở đề nghị xác nhận nội dung thông tin thuốc đối với tài liệu do Bộ Y tế cấp hoặc bản sao có chứng thực đối với tài liệu không do Bộ Y tế cấp);
+- 01 Bản sao đ) Giấy phép thành lập văn phòng đại diện của công ty nước ngoài tại Việt Nam đối với cơ sở nước ngoài đứng tên đề nghị xác nhận nội dung thông tin thuốc (Bản sao có chứng thực) hoặc Giấy chứng nhận đủ điều kiện kinh doanh dược đối với cơ sở kinh doanh dược của Việt Nam đứng tên đề nghị xác nhận nội dung thông tin thuốc (Bản sao có đóng dấu của cơ sở đề nghị xác nhận nội dung thông tin thuốc) Miễn nộp Giấy chứng nhận đủ điều kiện kinh doanh dược do Bộ Y tế cấp đối với cơ sở kinh doanh dược của Việt Nam đứng tên đề nghị xác nhận nội dung thông tin thuốc;
+- 01 Bản sao e) Giấy ủy quyền của cơ sở đăng ký thuốc cho cơ sở đứng tên trên hồ sơ đề nghị xác nhận nội dung thông tin thuốc trong trường hợp ủy quyền (Bản chính hoặc bản sao có chứng thực).
+ (Yêu cầu đối với hồ sơ: Tài liệu được in trên khổ A4. Toàn bộ các tài liệu có trong hồ sơ phải có dấu giáp lai của cơ sở đề nghị xác nhận nội dung thông tin thuốc.) * Quy định cho mỗi hồ sơ đề nghị cấp giấy xác nhận nội dung thông tin thuốc theo hình thức phát hành tài liệu thông tin thuốc: a) 01 (một) mẫu thiết kế thông tin thuốc cho một thuốc; b) 01 (một) mẫu thiết kế thông tin thuốc cho 02 (hai) hay nhiều thuốc có cùng hoạt chất và đường dùng của cùng nhà sản xuất nhưng khác hàm lượng hoặc dạng bào chế.

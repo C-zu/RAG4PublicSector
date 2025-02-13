@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm tra, phê duyệt quyết toán vốn đầu tư các dự án do do Sở Nông nghiệp và Phát triển nông thôn hoặc đơn vị trực thuộc Sở làm chủ đầu tư có tổng mức đầu tư dưới 500 triệu đồng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quá 38 ngày làm việc|Lệ phí : Theo quy định tại Thông tư số 10/2020/TT-BTC ngày 20 tháng 02 năm 2020 của Bộ trưởng Bộ Tài chính quy định về quyết toán dự án hoàn thành thuộc nguồn vốn nhà nước.|Thời gian thẩm tra tối đa không quá 30 ngày làm việc, thời gian phê duyệt quyết toán tối đa không quá 08 ngày làm việc.|
+|Trực tuyến|Không quá 38 ngày làm việc|Lệ phí : Theo quy định tại Thông tư số 10/2020/TT-BTC ngày 20 tháng 02 năm 2020 của Bộ trưởng Bộ Tài chính quy định về quyết toán dự án hoàn thành thuộc nguồn vốn nhà nước.|Thời gian thẩm tra tối đa không quá 30 ngày làm việc, thời gian phê duyệt quyết toán tối đa không quá 08 ngày làm việc.|

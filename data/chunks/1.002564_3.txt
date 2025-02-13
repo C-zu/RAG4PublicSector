@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung quảng cáo hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : 1.000.000 Đồng (Theo Thông tư số 03/2013/TT-BTC ngày 08/01/2013 quy định phí thẩm định kinh doanh thương mại có điều kiện; thẩm định tiêu chuẩn, điều kiện hành nghề y, dược; lệ phí cấp giấy phép xuất, nhập khẩu trang thiết bị y tế, dược phẩm; cấp chứng chỉ hành nghề y; cấp giấy phép hoạt động đối với cơ sở khám, chữa bệnh.)|10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo dấu tiếp nhận công văn đến của cơ quan tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : 1.000.000 Đồng (Theo Thông tư số 03/2013/TT-BTC ngày 08/01/2013 quy định phí thẩm định kinh doanh thương mại có điều kiện; thẩm định tiêu chuẩn, điều kiện hành nghề y, dược; lệ phí cấp giấy phép xuất, nhập khẩu trang thiết bị y tế, dược phẩm; cấp chứng chỉ hành nghề y; cấp giấy phép hoạt động đối với cơ sở khám, chữa bệnh.)|10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo dấu tiếp nhận công văn đến của cơ quan tiếp nhận hồ sơ|

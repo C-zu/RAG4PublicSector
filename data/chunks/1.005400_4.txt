@@ -1,0 +1,9 @@
+Tên thủ tục: Sửa đổi, bổ sung Quyết định giao khu vực biển (cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản chính Đơn sửa đổi, bổ sung quyết định giao khu vực biển theo Mẫu số 04 ban hành kèm theo Nghị định số 11/2021/NĐ/CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe49bde785e16e6'">Mẫu 04.docx</a>)
+- 01 Bản chính Bản chính Quyết định giao khu vực biển đã được cấp
+- 01 Bản sao Bản sao văn bản được cơ quan nhà nước có thẩm quyền cấp hoặc xác nhận thể hiện nội dung quy định tại khoản 1 Điều 13 Nghị định số 11/2021/NĐ-CP

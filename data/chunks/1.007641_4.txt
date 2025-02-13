@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục kiểm tra khoản giảm giá đối với hàng nhập khẩu thuộc thẩm quyền của Tổng cục Hải quan.
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị trừ khoản giảm giá sau khi hoàn thành việc nhập khẩu và thanh toán cho toàn bộ hàng hóa thuộc hợp đồng: 01 bản chính;
+- 01 Bản sao - Hợp đồng mua bán hàng hóa: 01 bản chụp;
+- 01 Bản chính - Bảng kê theo dõi thực tế việc nhập khẩu hàng hóa theo mẫu số 01/GG/2015 Phụ lục II Thông tư số 39/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính đối với trường hợp hàng hóa trong cùng một hợp đồng được nhập khẩu theo nhiều chuyến (nhiều tờ khai) khác nhau: 01 bản chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcf5566215d1d34'">39_2015_TT_BTC_25_03_2015_dinhkem.doc</a>)
+- 01 Bản sao - Bảng công bố giảm giá của người bán: 01 bản chụp;
+ - Chứng từ thanh toán của toàn bộ hàng hóa thuộc hợp đồng mua bán: 01 bản chụp.
+ Số lượng hồ sơ: 01 bộ

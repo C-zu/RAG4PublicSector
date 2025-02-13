@@ -1,0 +1,8 @@
+Tên thủ tục: Thẩm định, phê duyệt Hồ sơ mời thầu/Hồ sơ yêu cầu/Hồ sơ mời quan tâm
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|11 Ngày làm việc|Phí : 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Căn cứ điểm b, Khoản 3, Điều 9, Nghị định 63/2014/NĐ-CP ngày 26/6/2014 về quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu: Chi phí thẩm định hồ sơ mời thầu, hồ sơ yêu cầu: Chi phí: 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Chi phí thẩm định hồ sơ mời quan tâm: Chi phí: 0,03% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 30.000.000 đồng|- Thời gian thẩm định: 07 ngày làm việc - Thời gian phê duyệt: 04 ngày làm việc|
+|Trực tuyến|11 Ngày làm việc|Phí : 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Căn cứ điểm b, Khoản 3, Điều 9, Nghị định 63/2014/NĐ-CP ngày 26/6/2014 về quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu: Chi phí thẩm định hồ sơ mời thầu, hồ sơ yêu cầu: Chi phí: 0,05% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 50.000.000 đồng. Chi phí thẩm định hồ sơ mời quan tâm: Chi phí: 0,03% giá gói thầu nhưng tối thiểu là 1.000.000 đồng và tối đa là 30.000.000 đồng|- Thời gian thẩm định: 07 ngày làm việc - Thời gian phê duyệt: 04 ngày làm việc|

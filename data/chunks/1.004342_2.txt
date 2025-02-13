@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trừ trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Doanh nghiệp đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng nộp hồ sơ đề nghị cấp Giấy phép tại Bộ Thông tin và Truyền thông.
+Bộ Thông tin và Truyền thông kiểm tra và thông báo cho doanh nghiệp nộp hồ sơ biết về tính hợp lệ của hồ sơ sau 03 ngày làm việc kể từ khi nhận được hồ sơ. Đối với hồ sơ không hợp lệ, Bộ Thông tin và Truyền thông có văn bản thông báo cho doanh nghiệp nộp hồ sơ và nêu rõ yếu tố không hợp lệ. Doanh nghiệp có quyền nộp lại hồ sơ bổ sung hoặc văn bản giải trình tính hợp lệ.
+Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với bộ, ngành có liên quan thẩm định và cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trừ kinh doanh sản phẩm, dịch vụ quy định tại điểm c, điểm d khoản 1 và điểm a khoản 2 Điều 41 của Luật an toàn thông tin mạng; trường hợp từ chối cấp thì phải thông báo bằng văn bản nêu rõ lý do.

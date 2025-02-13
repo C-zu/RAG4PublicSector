@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục xét cho phép sử dụng thẻ đi lại của Doanh nhân APEC (ABTC)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 ngày làm việc (15 ngày làm việc đối với trường hợp cần có thêm thời gian để xác minh thông tin).|||
+|Trực tuyến|10 ngày làm việc (15 ngày làm việc đối với trường hợp cần có thêm thời gian để xác minh thông tin).|||
+|Dịch vụ bưu chính|10 ngày làm việc (15 ngày làm việc đối với trường hợp cần có thêm thời gian để xác minh thông tin).|||

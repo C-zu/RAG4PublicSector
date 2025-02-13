@@ -1,0 +1,10 @@
+Tên thủ tục: Thẩm định báo cáo ĐTM thuộc thẩm quyền thẩm định và phê duyệt của Bộ Nông nghiệp và PTNT
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị thẩm định báo cáo ĐTM thực hiện.
+- 07 Bản chính báo cáo ĐTM của dự án bằng tiếng Việt. Hình thức trang bìa, trang phụ bìa; cấu trúc và yêu cầu về nội dung của báo cáo ĐTM lập theo mẫu quy định tại các Phụ lục 2.2 và 2.3 ban hành kèm theo Thông tư số 27/2015/TT-BTNMT
+- 01 Bản chính ản báo cáo nghiên cứu khả thi hoặc báo cáo dự án đầu tư hoặc tài liệu tương đương khác.
+- 01 Bản chính Văn bản đề nghị thẩm định báo cáo ĐTM thực hiện theo mẫu quy định tại Phụ lục 2.1 ban hành kèm theo Thông tư số 27/2015/TT-BTNMT

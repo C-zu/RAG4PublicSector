@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy phép lái tàu cho lái tàu trên các tuyến đường sắt đang khai thác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|125 Ngày|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy phép lái tàu: 100.000 đồng/01 lần cấp.|125 ngày kể từ ngày nhận hồ sơ đầy đủ, đúng theo quy định.|
+|Trực tuyến|125 Ngày|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy phép lái tàu: 100.000 đồng/01 lần cấp.|125 ngày kể từ ngày nhận hồ sơ đầy đủ, đúng theo quy định.|
+|Dịch vụ bưu chính|125 Ngày|Lệ phí : 100.000 Đồng Lệ phí cấp Giấy phép lái tàu: 100.000 đồng/01 lần cấp.|125 ngày kể từ ngày nhận hồ sơ đầy đủ, đúng theo quy định.|

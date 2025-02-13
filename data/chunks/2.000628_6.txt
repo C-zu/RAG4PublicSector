@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động chứng nhận
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức, doanh nghiệp đã được cấp Giấy đăng ký hoạt động chứng nhận chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương (còn hiệu lực) có nhu cầu bổ sung, mở rộng, thu hẹp phạm vi chứng nhận. 
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia, tiêu chuẩn quốc tế và hướng dẫn quốc tế cho mỗi loại hình tương ứng sau đây:
++ Tiêu chuẩn quốc gia TCVN ISO/IEC 17065:2013 hoặc tiêu chuẩn quốc tế ISO/IEC 17065:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với chứng nhận chuyên ngành và các hướng dẫn liên quan của Diễn đàn Công nhận Quốc tế (IAF) hoặc tiêu chuẩn tương ứng với yêu cầu của chương trình chứng nhận đặc thù đối với hoạt động chứng nhận sản phẩm, hàng hóa.
+- Trường hợp bổ sung lĩnh vực hoạt động chứng nhận, phải có ít nhất 02 chuyên gia chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) tương ứng với mỗi lĩnh vực chứng nhận đăng ký bổ sung, đáp ứng các điều kiện:
++ Có trình độ tốt nghiệp đại học trở lên và chuyên môn phù hợp đối với chương trình chứng nhận;
++ Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ năng đánh giá chứng nhận tương ứng tại cơ sở đào tạo do Bộ Khoa học và Công nghệ công bố hoặc thừa nhận theo quy định của pháp luật;
+Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ thuật chứng nhận sản phẩm chuyên ngành theo quy định của pháp luật chuyên ngành trong trường hợp có quy định;
++ Có kinh nghiệm làm việc 03 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và kinh nghiệm làm việc phù hợp với yêu cầu quy định của chương trình chứng nhận tương ứng;
++ Có kinh nghiệm đánh giá 04 cuộc trở lên, với ít nhất 20 ngày công đánh giá đối với chương trình chứng nhận tương ứng.
+Tổ chức, doanh nghiệp đã được cấp Giấy đăng ký hoạt động chứng nhận chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương (còn hiệu lực) có nhu cầu bổ sung, mở rộng, thu hẹp phạm vi chứng nhận. 
+- Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia, tiêu chuẩn quốc tế và hướng dẫn quốc tế cho mỗi loại hình tương ứng sau đây:
++ Tiêu chuẩn quốc gia TCVN ISO/IEC 17065:2013 hoặc tiêu chuẩn quốc tế ISO/IEC 17065:2012 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế đối với chứng nhận chuyên ngành và các hướng dẫn liên quan của Diễn đàn Công nhận Quốc tế (IAF) hoặc tiêu chuẩn tương ứng với yêu cầu của chương trình chứng nhận đặc thù đối với hoạt động chứng nhận sản phẩm, hàng hóa.
+- Trường hợp bổ sung lĩnh vực hoạt động chứng nhận, phải có ít nhất 02 chuyên gia chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) tương ứng với mỗi lĩnh vực chứng nhận đăng ký bổ sung, đáp ứng các điều kiện:
++ Có trình độ tốt nghiệp đại học trở lên và chuyên môn phù hợp đối với chương trình chứng nhận;
++ Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ năng đánh giá chứng nhận tương ứng tại cơ sở đào tạo do Bộ Khoa học và Công nghệ công bố hoặc thừa nhận theo quy định của pháp luật;
+Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về kỹ thuật chứng nhận sản phẩm chuyên ngành theo quy định của pháp luật chuyên ngành trong trường hợp có quy định;
++ Có kinh nghiệm làm việc 03 năm trở lên (kể từ thời điểm tốt nghiệp đại học) và kinh nghiệm làm việc phù hợp với yêu cầu quy định của chương trình chứng nhận tương ứng;
++ Có kinh nghiệm đánh giá 04 cuộc trở lên, với ít nhất 20 ngày công đánh giá đối với chương trình chứng nhận tương ứng.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục đăng ký cấp bổ sung thẻ chuyên gia tư vấn, thẻ chuyên gia đánh giá cho tổ chức tư vấn, tổ chức chứng nhận
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Giấy đăng ký cấp bổ sung thẻ chuyên gia theo Mẫu 10. GĐKBSCGTV/ĐG, Phụ lục I ban hành kèm theo Thông tư số 26/2014/TT-BKHCN; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd5fd3050493e8'">Phụ lục II.doc</a>)
+- 01 Bản chính - Danh sách chuyên gia đề nghị cấp thẻ kèm theo các chứng chỉ và tài liệu liên quan theo Mẫu 4. DSCGTV/ĐG Phụ lục I ban hành kèm theo Thông tư số 26/2014/TT-BKHCN. Trường hợp nộp hồ sơ trực tiếp, bản sao các chứng chỉ, tài liệu chưa được chứng thực thì phải có bản chính để đối chiếu. Trường hợp hồ sơ được gửi qua đường bưu điện, tổ chức tư vấn, chứng nhận phải nộp bản sao có chứng thực. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd84369d831af1c'">CẤP THẺ BỔ SUNG CHO CÁC CHUYÊN GIA TƯ VẤNĐÁNH GIÁ.doc</a>)

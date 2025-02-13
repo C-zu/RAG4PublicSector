@@ -1,0 +1,12 @@
+Tên thủ tục: Cấp lại Giấy phép hoạt động cho thuê lại lao động
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|27 Ngày làm việc||Đối với trường hợp doanh nghiệp thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép|
+|Trực tiếp|22 Ngày làm việc||Đối với trường hợp doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp (gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép, người đại diện theo pháp luật của doanh nghiệp); giấy phép bị mất; giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép|
+|Trực tuyến|27 Ngày làm việc||Đối với trường hợp doanh nghiệp thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép|
+|Trực tuyến|22 Ngày làm việc||Đối với trường hợp doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp (gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép, người đại diện theo pháp luật của doanh nghiệp); giấy phép bị mất; giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép|
+|Dịch vụ bưu chính|27 Ngày làm việc||Đối với trường hợp doanh nghiệp thay đổi địa chỉ trụ sở chính sang địa bàn cấp tỉnh khác so với nơi đã được cấp giấy phép|
+|Dịch vụ bưu chính|22 Ngày làm việc||Đối với trường hợp doanh nghiệp thay đổi một trong các nội dung của giấy phép đã được cấp (gồm: tên doanh nghiệp, địa chỉ trụ sở chính nhưng vẫn trên địa bàn cấp tỉnh đã cấp giấy phép, người đại diện theo pháp luật của doanh nghiệp); giấy phép bị mất; giấy phép bị hư hỏng không còn đầy đủ thông tin trên giấy phép|

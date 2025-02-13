@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp lại Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá theo Mẫu số 05.CN Phụ lục XII ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd92d8d698b96d0'">Mẫu số 05.docx</a>)
+- 01 Bản chính b) Bản chính Giấy chứng nhận cơ sở đủ điều kiện đăng kiểm tàu cá cũ trong trường hợp hư hỏng, thay đổi thông tin.

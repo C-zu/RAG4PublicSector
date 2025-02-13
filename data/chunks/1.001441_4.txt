@@ -1,0 +1,13 @@
+Tên thủ tục: Gia hạn Giấy phép lập cơ sở bán lẻ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị gia hạn Giấy phép lập cơ sở bán lẻ (Mẫu số 07 Phụ lục ban hành kèm theo Nghị định số 09/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe98b2de71cee31'">07MĐ-Đơn gia hạn GPBL.doc</a>)
+- 01 Bản chính b) Bản giải trình có nội dung:
+ + Địa điểm lập cơ sở bán lẻ: địa chỉ cơ sở bán lẻ; mô tả khu vực chung, có liên quan và khu vực sử dụng để lập cơ sở bán lẻ; giải trình việc đáp ứng điều kiện quy định tại điểm c khoản 1 Điều 22 Nghị định này; kèm theo tài liệu về địa điểm lập cơ sở bán lẻ;
+ + Kế hoạch kinh doanh tại cơ sở bán lẻ: trình bày kế hoạch kinh doanh và phát triển thị trường; nhu cầu về lao động; đánh giá tác động, hiệu quả kinh tế - xã hội của kế hoạch kinh doanh;
+ + Kế hoạch tài chính cho việc lập cơ sở bán lẻ: báo cáo kết quả hoạt động kinh doanh trên cơ sở báo cáo tài chính đã được kiểm toán của năm gần nhất trong trường hợp đã thành lập ở Việt Nam từ 01 năm trở lên; giải trình về vốn, nguồn vốn và phương án huy động vốn; kèm theo tài liệu về tài chính;
+- 01 Bản chính c) Tài liệu của cơ quan thuế chứng minh không còn nợ thuế quá hạn.
+- 01 Bản sao d) Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư dự án lập cơ sở bán lẻ (nếu có), Giấy phép kinh doanh.

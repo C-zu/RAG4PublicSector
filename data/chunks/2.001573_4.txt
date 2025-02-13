@@ -1,0 +1,18 @@
+Tên thủ tục: Chấm dứt hoạt động bán hàng đa cấp
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp doanh nghiệp chấm dứt hoạt động bán hàng đa cấp do Giấy chứng nhận đăng ký hoạt động bán hàng đa cấp hết hạn hoặc bị thu hồi
+- 01 Bản chính - Thông báo chấm dứt hoạt động bán hàng đa cấp theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec4fa2488d2790'">Mẫu số 06.docx</a>)
+- 01 Bản chính - Báo cáo theo Mẫu số 06a tại Phụ lục ban hành kèm theo Nghị định số 18/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa96c2b9efda650'">Mẫu số 06a.docx</a>)
+- 01 Bản sao - 01 bản sao giấy chứng nhận đăng ký doanh nghiệp điều chỉnh lần gần nhất hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản chính - 01 bản chính giấy chứng nhận đăng ký hoạt động bán hàng đa cấp;
+
+
+Trường hợp doanh nghiệp tự nguyện chấm dứt hoạt động bán hàng đa cấp
+- 01 Bản chính - Thông báo chấm dứt hoạt động bán hàng đa cấp theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định 40/2018/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd39a75f2e1bc22'">Mẫu số 06.docx</a>)
+- 01 Bản chính - Báo cáo theo Mẫu số 06a tại Phụ lục ban hành kèm theo Nghị định số 18/2023/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc8f791a8c50aa8'">Mẫu số 06a.docx</a>)
+- 01 Bản sao - 01 bản sao giấy chứng nhận đăng ký doanh nghiệp điều chỉnh lần gần nhất hoặc giấy tờ có giá trị pháp lý tương đương;
+- 01 Bản chính - 01 bản chính giấy chứng nhận đăng ký hoạt động bán hàng đa cấp;
+- 01 Bản sao - 01 bản sao quyết định về việc chấm dứt hoạt động bán hàng đa cấp của chủ doanh nghiệp tư nhân hoặc chủ sở hữu công ty trách nhiệm hữu hạn một thành viên; quyết định và biên bản họp về việc chấm dứt hoạt động bán hàng đa cấp của hội đồng thành viên nếu là công ty trách nhiệm hữu hạn hai thành viên trở lên, của đại hội đồng cổ đông nếu là công ty cổ phần, của các thành viên hợp danh nếu là công ty hợp danh;

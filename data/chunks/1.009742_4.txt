@@ -1,0 +1,19 @@
+Tên thủ tục: Thủ tục chấp thuận chủ trương đầu tư của Ủy ban nhân dân cấp tỉnh đối với dự án đầu tư xây dựng và kinh doanh sân gôn
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Hồ sơ đề nghị chấp thuận chủ trương đầu tư dự án đầu tư do cơ quan nhà nước có thẩm quyền lập bao gồm:
+- 01 Bản chính, 03 Bản sao + Tờ trình chấp thuận chủ trương đầu tư;
+- 01 Bản chính, 03 Bản sao + Đề xuất dự án đầu tư gồm các nội dung chủ yếu sau: mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư, địa điểm, thời hạn, tiến độ thực hiện, tác động, hiệu quả kinh tế - xã hội của dự án; thông tin về hiện trạng sử dụng đất tại địa điểm thực hiện dự án, điều kiện thu hồi đất đối với dự án thuộc diện thu hồi đất, dự kiến nhu cầu sử dụng đất (nếu có); đánh giá sơ bộ tác động môi trường (nếu có) theo quy định của pháp luật về bảo vệ môi trường; dự kiến hình thức lựa chọn nhà đầu tư và điều kiện đối với nhà đầu tư (nếu có); cơ chế, chính sách đặc biệt (nếu có). Trường hợp pháp luật về xây dựng quy định lập báo cáo nghiên cứu tiền khả thi thì cơ quan nhà nước có thẩm quyền được sử dụng báo cáo nghiên cứu tiền khả thi thay cho đề xuất dự án đầu tư (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc985966856c524'">Mẫu A.I.2.docx</a>)
+
+
+- Hồ sơ đề nghị chấp thuận chủ trương đầu tư dự án đầu tư do nhà đầu tư đề xuất bao gồm:
+- 01 Bản chính, 03 Bản sao + Văn bản đề nghị thực hiện dự án đầu tư, gồm cả cam kết chịu mọi chi phí, rủi ro nếu dự án không được chấp thuận; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc18e220e985784'">Mẫu A.I.1.docx</a>)
+- 01 Bản chính, 03 Bản sao + Tài liệu về tư cách pháp lý của nhà đầu tư;
+- 01 Bản chính, 03 Bản sao + Tài liệu chứng minh năng lực tài chính của nhà đầu tư gồm ít nhất một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu khác chứng minh năng lực tài chính của nhà đầu tư;
+- 01 Bản chính, 03 Bản sao + Đề xuất dự án đầu tư gồm các nội dung chủ yếu sau: nhà đầu tư hoặc hình thức lựa chọn nhà đầu tư, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ thực hiện, thông tin về hiện trạng sử dụng đất tại địa điểm thực hiện dự án và đề xuất nhu cầu sử dụng đất (nếu có), nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, tác động, hiệu quả kinh tế - xã hội của dự án, đánh giá sơ bộ tác động môi trường (nếu có) theo quy định của pháp luật về bảo vệ môi trường. Trường hợp pháp luật về xây dựng quy định lập báo cáo nghiên cứu tiền khả thi thì nhà đầu tư được nộp báo cáo nghiên cứu tiền khả thi thay cho đề xuất dự án đầu tư; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feeabb7e514a101'">Mẫu A.I.3.docx</a>)
+- 01 Bản chính, 03 Bản sao + Trường hợp dự án đầu tư không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nộp bản sao giấy tờ về quyền sử dụng đất hoặc tài liệu khác xác định quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+- 01 Bản chính, 03 Bản sao + Nội dung giải trình về công nghệ sử dụng trong dự án đầu tư đối với dự án thuộc diện thẩm định, lấy ý kiến về công nghệ theo quy định của pháp luật về chuyển giao công nghệ;
+- 01 Bản chính, 03 Bản sao + Hợp đồng BCC đối với dự án đầu tư theo hình thức hợp đồng BCC;
+- 01 Bản chính, 03 Bản sao + Tài liệu khác liên quan đến dự án đầu tư, yêu cầu về điều kiện, năng lực của nhà đầu tư theo quy định của pháp luật (nếu có).

@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký Nội quy lao động - BQL
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Thời hạn giải quyết: Trong thời hạn tối đa 07 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký nội quy lao động, nếu nội quy lao động có quy định trái với pháp luật thì Ban Quản lý Khu kinh tế thông báo, hướng dẫn sửa đổi, bổ sung và đăng ký lại chuyển đến trực tiếp (hoặc gửi qua Trung tâm Phục vụ hành chính công tỉnh) gửi cho người sử dụng lao động. Thời gian hoàn thiện hồ sơ không tính vào thời hạn giải quyết.|Phí : 0 Đồng||
+|Trực tuyến|Thời hạn giải quyết: Trong thời hạn tối đa 07 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký nội quy lao động, nếu nội quy lao động có quy định trái với pháp luật thì Ban Quản lý Khu kinh tế thông báo, hướng dẫn sửa đổi, bổ sung và đăng ký lại chuyển đến trực tiếp (hoặc gửi qua Trung tâm Phục vụ hành chính công tỉnh) gửi cho người sử dụng lao động. Thời gian hoàn thiện hồ sơ không tính vào thời hạn giải quyết.|Phí : 0 Đồng||
+|Dịch vụ bưu chính|Thời hạn giải quyết: Trong thời hạn tối đa 07 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký nội quy lao động, nếu nội quy lao động có quy định trái với pháp luật thì Ban Quản lý Khu kinh tế thông báo, hướng dẫn sửa đổi, bổ sung và đăng ký lại chuyển đến trực tiếp (hoặc gửi qua Trung tâm Phục vụ hành chính công tỉnh) gửi cho người sử dụng lao động. Thời gian hoàn thiện hồ sơ không tính vào thời hạn giải quyết.|Phí : 0 Đồng||

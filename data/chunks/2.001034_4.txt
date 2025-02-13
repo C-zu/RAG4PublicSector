@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp Giấy phép vận tải đường bộ quốc tế giữa Việt Nam và Trung Quốc loại A, B, C, E, F, G cho phương tiện của Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Trường hợp cấp giấy phép vận tải loại A, B, C, E hoặc F, G lần đầu trong năm:
+ - Đối với phương tiện thương mại:
+- 01 Bản chính + Giấy đề nghị cấp giấy phép theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdeaa7cff72c0cc'">Mẫu.docx</a>)
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký xe ô tô hoặc bản sao giấy hẹn nhận Giấy chứng nhận đăng ký xe ô tô của cơ quan cấp đăng ký hoặc bản sao từ sổ gốc của Giấy chứng nhận đăng ký xe ô tô. Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải phải xuất trình thêm bản sao một trong các giấy tờ sau: Hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh.
+ - Đối với xe công vụ gồm:
+- 01 Bản chính + Giấy đề nghị cấp giấy phép theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe72afbce189867'">Mẫu.docx</a>)
+- 01 Bản sao + Bản sao Giấy chứng nhận đăng ký xe ô tô;
+- 01 Bản sao + Bản sao thư mời của đối tác phía Trung Quốc nêu rõ tuyến đường, cửa khẩu và thời gian mời (trường hợp bản gốc không có tiếng Việt hoặc tiếng Anh thì phải kèm theo bản dịch tiếng Việt hoặc tiếng Anh);
+- 01 Bản sao + Bản sao quyết định cử đi công tác của cấp có thẩm quyền.
+
+
+* Trường hợp cấp giấy phép vận tải loại F, G lần thứ hai trở đi trong năm:
+- 01 Bản chính - Giấy chứng nhận đăng ký xe ô tô (xuất trình);

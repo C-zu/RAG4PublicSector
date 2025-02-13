@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ (sử dụng thiết bị X-quang chẩn đoán trong y tế)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tổ chức, cá nhân sử dụng thiết bị X-quang chẩn đoán trong y tế nộp hồ sơ cho Sở KH&CN địa phương
+Sở Khoa học và Công nghệ xem xét hồ sơ và tổ chức thẩm định:
++ Nếu đủ điều kiện theo quy định hiện hành, Sở Khoa học và Công nghệ cấp giấy phép tiến hành công việc bức xạ (sử dụng thiết bị X-quang chẩn đoán trong y tế).
++ Trong trường hợp không cấp giấy phép, Sở Khoa học và Công nghệ trả lời bằng văn bản và nêu rõ lý do.

@@ -1,0 +1,14 @@
+Tên thủ tục: Thông báo về việc sáp nhập công ty trong trường hợp sau sáp nhập công ty, công ty nhận sáp nhập không thay đổi nội dung đăng ký doanh nghiệp
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ tại Bộ phận TN&TKQ của Sở KH&ĐT tại Trung tâm Phục vụ hành chính công tỉnh. Công chức TN&TKQ kiểm tra hồ sơ:
++ Nếu hồ sơ đầy đủ thì làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
++ Nếu hồ sơ chưa đầy đủ thì yêu cầu tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+Bước 2: Chuyển hồ sơ về phòng Đăng ký dinh doanh để giải quyết.
+Bước 3: Thẩm định hồ sơ:
++ Nếu hồ sơ đủ điều kiện thì dự thảo Thông báo chấm dứt tồn tại của công ty bị sáp nhập trình lãnh đạo phòng ký duyệt và cập nhật thông tin trong cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp chuyển lãnh đạo phòng chấp thuận.
++ Nếu hồ sơ không đủ điều kiện: Dự thảo Thông báo sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp trình lãnh đạo phòng ký duyệt.
+Bước 4: Xem xét, phê duyệt kết quả thẩm định hồ sơ tại B3.
+Bước 5: Phát hành văn bản và chuyển kết quả sang Trung tâm PV HCC tỉnh để trả cho tổ chức/cá nhân.
+Bước 6: Trả kết quả cho tổ chức, cá nhân.

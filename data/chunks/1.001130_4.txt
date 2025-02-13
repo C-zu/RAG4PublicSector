@@ -1,0 +1,13 @@
+Tên thủ tục: Xin phép trao đổi thông tin, dữ liệu khí tượng thủy văn, giám sát biến đổi khí hậu với tổ chức quốc tế, tổ chức, cá nhân nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao + Tên, địa chỉ kèm theo 01 bản sao có chứng thực hoặc 01 bản sao chứng thực điện tử từ bản chính hoặc 01 bản sao kèm bản chính để đối chiếu: giấy tờ chứng minh tư cách pháp nhân đối với cơ quan, tổ chức, Chứng minh nhân dân/thẻ Căn cước công dân/số định danh cá nhân đối với cá nhân có nhu cầu trao đổi thông tin, dữ liệu khí tượng thủy văn, giám sát biến đổi khí hậu với tổ chức quốc tế, tổ chức, cá nhân nước ngoài theo quy định của pháp luật về dân sự;
+- 01 Bản chính + Mục đích trao đổi thông tin, dữ liệu với tổ chức quốc tế, tổ chức, cá nhân nước ngoài;
+- 01 Bản chính + Loại, số lượng thông tin, dữ liệu cụ thể được trao đổi với tổ chức quốc tế, tổ chức, cá nhân nước ngoài;
+- 01 Bản chính + Tên, địa chỉ của tổ chức quốc tế, tổ chức, cá nhân nước ngoài được trao đổi thông tin, dữ liệu;
+- 01 Bản chính + Thời gian trao đổi thông tin, dữ liệu;
+- 01 Bản chính + Hình thức trao đổi thông tin, dữ liệu;
+- 01 Bản chính + Thời hạn trao đổi thông tin, dữ liệu.

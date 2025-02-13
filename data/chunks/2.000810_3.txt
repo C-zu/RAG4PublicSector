@@ -1,0 +1,8 @@
+Tên thủ tục: Thu hồi chứng chỉ hành nghề luật sư trong trường hợp luật sư thuộc một trong các trường hợp quy định tại các điểm a, b, c, h, i khoản 1 Điều 18 của Luật luật sư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|15 Ngày||Hồ sơ được gửi trực tiếp hoặc thông qua hệ thống bưu chính đến Bộ Tư pháp. Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|
+|Dịch vụ bưu chính|15 Ngày||Hồ sơ được gửi trực tiếp hoặc thông qua hệ thống bưu chính đến Bộ Tư pháp. Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.|

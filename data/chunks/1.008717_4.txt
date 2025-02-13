@@ -1,0 +1,29 @@
+Tên thủ tục: Phê duyệt Hồ sơ dự toán; Thẩm định hoặc Thẩm định và Phê duyệt Hồ sơ Báo cáo kinh tế kỹ thuật, Báo cáo Kinh tế kỹ thuật điều chỉnh (Thuộc nguồn vốn sự nghiệp hoặc nguồn vốn ủy quyền quản lý của trung ương hoặc nguồn vốn ATGT)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính 1. Tờ trình Thẩm định hồ sơ BCKTKT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8e56fc9aba43c'">PL_KCHT-13-TT.docx</a>)
+ 2. Các văn bản pháp lý (do cơ quan có thẩm quyền cấp) (Bản chính hoặc bản sao có dấu của chủ đầu tư hoặc ủy quyền CĐT)
+- 01 Bản chính 2.1. Văn bản chấp thuận chủ trương đầu tư
+- 01 Bản chính 2.2. Văn bản thẩm duyệt phòng cháy chữa cháy (nếu có)
+- 01 Bản chính 2.3. Báo cáo đánh giá tác động môi trường (nếu có)
+- 01 Bản chính 2.4. Văn bản công nhận đơn vị KS, TK của cấp có thẩm quyền
+- 01 Bản chính 3. Báo cáo tổng hợp của chủ đầu tư
+- 01 Bản chính 4. Hồ sơ năng lực của nhà thầu KSXD, TVTK: (Bản chính hoặc bản sao có dấu của chủ đầu tư hoặc ủy quyền CĐT)
+- 01 Bản chính 4.1. Giấy chứng nhận đăng ký kinh doanh của nhà thầu KSXD, nhà thầu TKXD
+- 01 Bản chính 4.2. Hồ sơ năng lực của nhà thầu KSXD, nhà thầu TKXD (bảng thông tin kinh nghiệm và các văn bản pháp lý liên quan)
+- 01 Bản chính 4.3. Chứng chỉ hành nghề của chủ nhiệm KSXD, chủ nhiệm TKXD, các chủ trì TKXD, lập DTXD (kèm Bảng khai kinh nghiệm trong lĩnh vực tư vấn TKXD)
+- 01 Bản chính 4.4. Hợp đồng khảo sát, thiết kế xây dựng công trình
+ 5. Các hồ sơ khảo sát xây dựng phục vụ cho TKXD (Bản chính hoặc bản sao có dấu của chủ đầu tư hoặc ủy quyền CĐT)
+- 01 Bản chính 5.1. Quyết định phê duyệt NVKS
+- 01 Bản chính 5.2. Nhiệm vụ khảo sát xây dựng
+- 01 Bản chính 5.3. Phương án kỹ thuật khảo sát
+- 01 Bản chính 5.4. Báo cáo kết quả khảo sát
+- 01 Bản chính 5.5. Biên bản nghiệm thu kết quả khảo sát
+ 6. Hồ sơ thiết kế công trình (Bản chính và file)
+- 02 Bản chính 6.1. Thuyết minh và các bản vẽ TKXD
+- 02 Bản chính 6.2. Dự toán xây dựng công trình
+- 02 Bản chính 6.3. Chỉ dẫn kỹ thuật (Bắt buộc đối với công trình cấp II trở lên. Đối với công trình còn lại có thể được lập riêng hoặc quy định trong thuyết minh thiết kế)
+- 02 Bản chính Ghi chú: - Đối với hồ sơ trình lại do thiếu các văn bản pháp lý phải trình lại tờ trình (02 bản chính) (nội dung tờ trình nêu rõ danh mục bổ sung văn bản pháp lý); bổ sung các văn bản pháp lý còn thiếu kèm theo Công văn yêu cầu bổ sung hồ sơ của Sở GTVT (01 bản chính hoặc bản sao có dấu của chủ đầu tư ); không yêu cầu trình lại hồ sơ và các văn bản pháp lý đã trình trước đây. - Đối với hồ sơ trình lại do lựa chọn tư vấn thẩm tra yêu cầu trình lại tờ trình (02 bản chính ); bổ sung hồ sơ có đóng dấu của tư vấn thẩm tra kèm theo kết quả thẩm tra; Chứng chỉ hành nghề của cá nhân chủ trì TTTK (kèm Bảng khai kinh nghiệm trong lĩnh vực tư vấn TTTK); Công văn lựa chọn TVTT của Sở GTVT (01 bản chính hoặc bản sao có dấu của chủ đầu tư ); Văn bản chủ trươnglựa chọn TVTT của UBND TP (trường hợp UBND TP làm CĐT); không yêu cầu trình lại các văn bản đã trình trước đây. - Đối với hồ sơ trình lại do có những nội dung chưa đạt yêu cầu cần thẩm tra lại phải trình lại tờ trình và kèm hồ sơ đã chỉnh sửa (02 bản chính ) (nội dung tờ trình phải nêu rõ nội dung sửa đổi); bổ sung các văn bản còn thiếu (nếu có) kèm theo văn bản yêu cầu sửa đổi của Sở GTVT. - Trường hợp hồ sơ trình điều chỉnh, bổ sung yêu cầu bổ sung văn bản của cấp có thẩm quyền cho phép điều chỉnh, bổ sung.

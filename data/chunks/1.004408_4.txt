@@ -1,0 +1,30 @@
+Tên thủ tục: Thủ tục cấp, công nhận Giấy chứng nhận loại
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+(10) Một bản sao của các tài liệu sau:
+- 01 Bản chính Tài liệu hướng dẫn bảo dưỡng động cơ phụ;
+- 01 Bản chính Tài liệu tra cứu thiết bị lắp trên tàu bay (IPC);
+- 01 Bản chính Tài liệu hướng dẫn sửa chữa cấu trúc tàu bay (SRM);
+- 01 Bản chính Danh mục các cấu trúc khung sườn chính (SSI);
+- 01 Bản chính Tài liệu hướng dẫn quy trình xếp tải;
+- 01 Bản chính Tài liệu hướng dẫn cân và cân bằng tàu bay;
+- 01 Bản chính Tài liệu về kiểm tra không phá hủy (NDT).
+- 01 Bản chính Tài liệu hướng dẫn tiêu chuẩn thực hành (Practical Standards);
+- 01 Bản chính Tài liệu hướng dẫn khai thác bay (AFM)
+- 01 Bản chính Tài liệu hướng dẫn bảo dưỡng tàu bay (AMM);
+- 01 Bản chính Tài liệu hướng dẫn bảo dưỡng động cơ;
+- 01 Bản chính Tài liệu hướng dẫn bảo dưỡng cánh quạt;
+
+
+Bao gồm
+- 01 Bản chính (1) Bản vẽ 3 hình chiếu của tàu bay và các thông số cơ bản ban đầu cùng với các đặc tính, giới hạn hoạt động đề xuất;
+- 01 Bản chính (2) Bản vẽ tổng thể, mô tả các đặc tính thiết kế, đặc tính hoạt động và các giới hạn hoạt động đề xuất của động cơ hoặc cánh quạt đó;
+- 01 Bản chính (3) Tài liệu sơ đồ mạch điện;
+- 01 Bản chính (4) Tài liệu phân tích tải điện;
+- 01 Bản chính (5) Báo cáo của Hội động rà soát chương trình bảo dưỡng (MRBR) của nhà chế tạo;
+- 01 Bản chính (6) Tài liệu chương trình bảo dưỡng (MPD), bao gồm cả chương trình kiểm soát và phòng chống rỉ sét, chương trình bảo dưỡng cấu trúc tàu bay;
+- 01 Bản chính (7) Danh mục thiết bị cất cánh tối thiểu chính (MMEL);
+- 01 Bản chính (8) Giấy chứng nhận tiếng ồn;
+- 01 Bản chính (9) Giấy chứng nhận vô tuyến;

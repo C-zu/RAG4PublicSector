@@ -1,0 +1,13 @@
+Tên thủ tục: Cấp Giấy phép thành lập Văn phòng đại diện của Thương nhân nước ngoài tại Việt Nam - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép thành lập Văn phòng đại diện, theo mẫu BM.TM.01.01
+- 01 Bản sao Bản sao Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài
+- 01 Bản chính Văn bản của thương nhân nước ngoài cử/bổ nhiệm người đứng đầu Văn phòng đại diện
+- 01 Bản sao Bản sao báo cáo tài chính có kiểm toán hoặc văn bản xác nhận tình hình thực hiện nghĩa vụ thuế hoặc tài chính trong năm tài chính gần nhất hoặc giấy tờ có giá trị tương đương do cơ quan, tổ chức có thẩm quyền nơi thương nhân nước ngoài thành lập cấp hoặc xác nhận, chứng minh sự tồn tại và hoạt động của thương nhân nước ngoài trong năm tài chính gần nhất
+- 01 Bản sao Bản sao hộ chiếu hoặc giấy chứng minh nhân dân hoặc thẻ căn cước công dân (nếu là người Việt Nam) hoặc bản sao hộ chiếu (nếu là người nước ngoài) của người đứng đầu Văn phòng đại diện
+- 01 Bản sao Bản sao biên bản ghi nhớ hoặc thoả thuận thuê địa điểm hoặc bản sao tài liệu chứng minh thương nhân có quyền khai thác, sử dụng địa điểm để đặt trụ sở Văn phòng đại diện
+- 01 Bản sao Bản sao tài liệu về địa điểm dự kiến đặt trụ sở Văn phòng đại diện theo quy định tại Điều 28 Nghị định 07/2016/NĐ-CP và quy định pháp luật có liên quan

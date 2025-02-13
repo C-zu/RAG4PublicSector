@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp bị mất, bị hỏng, có sự thay đổi liên quan đến nội dung khác
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp lại giấy phép đào tạo lái xe ô tô và nêu rõ lý do hỏng, mất hoặc nội dung cần thay đổi

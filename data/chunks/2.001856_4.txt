@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố, công bố lại chất lượng dịch vụ viễn thông đối với các dịch vụ thuộc “Danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng"
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn về việc công bố chất lượng dịch vụ viễn thông (Phụ lục I ban hành kèm theo Thông tư số 33/2020/TT-BTTTT ngày 04/11/2020 của Bộ trưởng Bộ Thông tin và Truyền thông) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc6915ad44659d8'">MẪU CÔNG VĂN CÔNG BỐ CHẤT LƯỢNG DỊCH VỤ VIỄN THÔNG.docx</a>)
+- 01 Bản chính Bản công bố chất lượng dịch vụ viễn thông (mức chất lượng công bố không được trái với mức quy định của Quy chuẩn kỹ thuật quốc gia)(Phụ lục II ban hành kèm theo Thông tư số 08/2013/TT-BTTTT ngày 26/3/2013 của Bộ trưởng Bộ Thông tin và Truyền thông) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feaf69a2778f7b8'">MẪU BẢN CÔNG BỐ CHẤT LƯỢNG DỊCH VỤ VIỄN THÔNG.docx</a>)

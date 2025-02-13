@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.001826
+Số quyết định:
+1291/QĐ-BGTVT
+Tên thủ tục:
+Thu hồi Giấy chứng nhận đăng ký, biển số xe máy chuyên dùng
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC
+Chủ sở hữu xe máy chuyên dùng lập 01 (một) bộ hồ sơ theo quy định nộp tại Sở Giao thông vận tải nơi đã đăng ký
+Khi làm thủ tục đăng ký trực tiếp với cơ quan cấp đăng ký, chủ sở hữu xe máy chuyên dùng phải xuất trình chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu còn thời hạn để kiểm tra; trường hợp không chính chủ thì người được ủy quyền phải có giấy ủy quyền của chủ sở hữu theo quy định của pháp luật; người đại diện cho tổ chức phải có giấy giới thiệu của tổ chức đó.
+b) Giải quyết TTHC
+Sở Giao thông vận tải tiếp nhận hồ sơ, thu lại Giấy chứng nhận đăng ký, biển số, vào Sổ quản lý đăng ký xe máy chuyên dùng và trả lại hồ sơ đăng ký cho chủ sở hữu trong thời hạn không quá 02 ngày làm việc kể từ ngày nhận được hồ sơ
+Trường hợp cơ quan có thẩm quyền phát hiện có vi phạm quy định về cấp đăng ký, biển số, Sở Giao thông vận tải ra quyết định thu hồi Giấy chứng nhận đăng ký, biển số đã cấp và công bố trên Trang thông tin điện tử của Sở Giao thông vận tải.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc||02 ngày làm việc kể từ ngày nhận được hồ sơ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai thu hồi Giấy chứng nhận đăng ký xe máy chuyên dùng theo mẫu ([Mau 9.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6c60b6c1cc4de'))
+- 01 Bản chính Bản chính Giấy chứng nhận đăng ký xe máy chuyên dùng, biển số (trừ trường hợp bị mất)
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Sở Giao thông vận tải
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thu lại Giấy chứng nhận đăng ký, biển số, vào Sổ quản lý đăng ký xe máy chuyên dùng
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|188/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng|08-11-2016|Bộ Tài chính|
+|22/2019/TT-BGTVT|Thông tư quy định về đăng ký xe máy chuyên dùng|12-06-2019|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

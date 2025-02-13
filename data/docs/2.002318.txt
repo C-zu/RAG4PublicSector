@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002318
+Số quyết định:
+QĐ/0001/TNMT
+Tên thủ tục:
+Giao nộp, thu nhận dữ liệu về địa chất, khoáng sản
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Địa chất và khoáng sản
+Trình tự thực hiện:
+- Bước 1. Nộp hồ sơ
+Trung tâm Thông tin, Lưu trữ Địa chất - Tổng cục Địa chất và Khoáng sản Việt Nam, số 6 đường Nguyên Hồng, quận Đống Đa, Hà Nội tiếp nhận hồ sơ giao nộp dữ liệu về địa chất, khoáng sản hoặc nộp trực tuyến tại Cổng dịch vụ công trực tuyến Bộ Tài nguyên và Môi trường.
+- Bước 2. Kiểm tra hồ sơ
+Cơ quan tiếp nhận hồ sơ có trách nhiệm kiểm tra dữ liệu về địa chất, khoáng sản được giao nộp với các nội dung:
++ Tính đầy đủ, hợp lệ của các dữ liệu giao nộp theo kết quả đã được cơ quan có thẩm quyền nghiệm thu, phê duyệt, công bố hoặc công nhận, thông qua.
++ Tính thống nhất của dữ liệu ở dạng tài liệu in trên giấy với dữ liệu ở dạng điện tử.
++ Hình thức, quy cách các loại dữ liệu giao nộp.
+Trường hợp dữ liệu giao nộp đạt yêu cầu, Trung tâm  Thông tin, Lưu trữ Địa chất - Tổng cục Địa chất và Khoáng sản cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân theo Mẫu số 10 của Phụ lục 1 ban hành kèm theo Thông tư số 12/2013/TT-BTNMT ngày 05/6/2013. Trường hợp hồ sơ chưa đạt yêu cầu theo quy định, biên bản kiểm tra phải nêu rõ các yêu cầu sửa chữa, hoàn thiện. Trong trường hợp không thống nhất giữa bên giao và bên nhận, Trung tâm Thông tin Lưu trữ Địa chất báo cáo cơ quan có thẩm quyền để giải quyết.
+- Bước 3. Trả kết quả giải quyết thủ tục hành chính
+Cơ quan tiếp nhận hồ sơ trả kết quả  Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày|Phí : 0 Đồng|Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận dữ liệu, Trung tâm Thông tin Lưu trữ Địa chất hoàn thành việc kiểm tra và lập biên bản kiểm tra, cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân đã giao nộp dữ liệu|
+|Trực tuyến|10 Ngày|Phí : 0 Đồng|Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận dữ liệu, Trung tâm Thông tin Lưu trữ Địa chất hoàn thành việc kiểm tra và lập biên bản kiểm tra, cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân đã giao nộp dữ liệu|
+|Dịch vụ bưu chính|10 Ngày|Phí : 0 Đồng|Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận dữ liệu, Trung tâm Thông tin Lưu trữ Địa chất hoàn thành việc kiểm tra và lập biên bản kiểm tra, cấp Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản cho các tổ chức, cá nhân đã giao nộp dữ liệu|
+
+Thành phần hồ sơ:
+
+Các dữ liệu về địa chất, khoáng sản còn lại (trừ báo cáo địa chất)
+- 01 Bản chính Hình thức, quy cách các loại dữ liệu giao nộp được quy định tại các văn bản quy định riêng của từng loại
+
+
+Đối với báo cáo địa chất
+- 01 Bản chính Báo cáo địa chất là thông tin về địa chất, khoáng sản của một đề án, dự án nghiên cứu, điều tra cơ bản địa chất về khoáng sản; thăm dò khoáng sản đã được cơ quan có thẩm quyền phê duyệt hoặc xác nhận tính hợp pháp và giá trị thông tin trong báo cáo. Báo cáo địa chất bao gồm tài liệu tổng hợp, tài liệu nguyên thủy và các mẫu vật (nếu có)
+- 01 Bản chính Tài liệu tổng hợp gồm: thuyết minh và các tài liệu tổng hợp được trình bày dưới dạng phụ lục, bản đồ, ảnh minh họa thể hiện đầy đủ các kết quả thực hiện
+- 01 Bản chính Tài liệu nguyên thủy là các loại tài liệu được thu thập tại thực địa, bao gồm: các loại nhật ký, sổ thực địa, các loại bản đồ, thiết đồ, sơ đồ, ảnh chụp, băng, đĩa; các kết quả đo đạc
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Trung tâm Thông tin, Lưu trữ và Tạp chí địa chất - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Trung tâm Thông tin, Lưu trữ và Tạp chí địa chất - Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Số 6 đường Nguyên Hồng, quận Đống Đa, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận giao nộp dữ liệu về địa chất, khoáng sản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2010/QH12|Luật khoáng sản|17-11-2010|Quốc Hội|
+|73/2017/NĐ-CP|Về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường|14-06-2017|Chính phủ|
+|12/2013/TT-BTNMT|Thông tư 12/2013/TT-BTNMT|05-06-2013|Bộ Tài nguyên và Môi trường|
+
+Yêu cầu, điều kiện thực hiện:
+Không.
+Từ khóa:
+giao nộp; địa chất
+Mô tả:
+Không có thông tin

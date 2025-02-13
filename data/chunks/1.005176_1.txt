@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký thành lập, đăng ký thay đổi nội dung đăng ký hoạt động, tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã thông báo, chấm dứt hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh trên Giấy phép đầu tư, Giấy chứng nhận đầu tư (đồng thời là Giấy chứng nhận đăng ký kinh doanh) hoặc các giấy tờ có giá trị pháp lý tương đương, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh cùng tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt trụ sở chính
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005176
+Số quyết định:
+885/QĐ-BKHĐT
+Tên thủ tục:
+Đăng ký thành lập, đăng ký thay đổi nội dung đăng ký hoạt động, tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã thông báo, chấm dứt hoạt động đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh trên Giấy phép đầu tư, Giấy chứng nhận đầu tư (đồng thời là Giấy chứng nhận đăng ký kinh doanh) hoặc các giấy tờ có giá trị pháp lý tương đương, Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện do Cơ quan đăng ký đầu tư cấp đối với chi nhánh, văn phòng đại diện, địa điểm kinh doanh cùng tỉnh, thành phố trực thuộc trung ương nơi doanh nghiệp đặt trụ sở chính
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp

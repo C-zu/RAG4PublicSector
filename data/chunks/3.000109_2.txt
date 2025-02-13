@@ -1,0 +1,7 @@
+Tên thủ tục: Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1. Người nộp thuế (NNT) lập tờ khai đăng ký sử dụng dịch vụ T-VAN/đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/đăng ký ngừng sử dụng dịch vụ T-VAN, ký điện tử và gửi đến Cổng thông tin điện tử của Tổng cục Thuế qua tổ chức cung cấp dịch vụ T-VAN.
+Sau khi hoàn thành việc thực hiện đăng ký giao dịch điện tử với cơ quan thuế theo quy định, NNT phải thực hiện đăng ký với ngân hàng nơi mở tài khoản theo quy định của ngân hàng (đối với trường hợp đăng ký để thực hiện nộp thuế điện tử).
++ Bước 2. Tổng cục Thuế thực hiện tiếp nhận hồ sơ qua Cổng thông tin điện tử của Tổng cục Thuế, thực hiện kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

@@ -1,0 +1,9 @@
+Tên thủ tục: Giải thể doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ (do Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc giao quản lý)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Tối đa không quá 30 ngày làm việc, người có thẩm quyền quyết định giải thể công ty thành lập Hội đồng giải thể để thẩm định đề nghị giải thể doanh nghiệp.|Phí : 0 Đồng Không có|Trực tiếp tại trụ sở cơ quan hành chính nhà nước|
+|Trực tuyến|Tối đa không quá 30 ngày làm việc, người có thẩm quyền quyết định giải thể công ty thành lập Hội đồng giải thể để thẩm định đề nghị giải thể doanh nghiệp.|Phí : 0 Đồng Không có|Thông qua hệ thống tiếp nhận văn bản điện tử e-office|
+|Dịch vụ bưu chính|Tối đa không quá 30 ngày làm việc, người có thẩm quyền quyết định giải thể công ty thành lập Hội đồng giải thể để thẩm định đề nghị giải thể doanh nghiệp.|Phí : 0 Đồng Không có|Qua đường bưu điện|

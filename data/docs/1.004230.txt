@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004230
+Số quyết định:
+2264/QĐ-BTTTT
+Tên thủ tục:
+Cấp lại Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+- Doanh nghiệp có nhu cầu gửi hồ sơ về Bộ Thông tin và Truyền thông (Cục Phát thanh, truyền hình và thông tin điện tử).
+- Trong thời hạn 08 (tám) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông có trách nhiệm xét cấp lại Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền. Trường hợp không cấp Giấy phép, Bộ Thông tin và Truyền thông có văn bản trả lời nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|8 Ngày làm việc||08 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|8 Ngày làm việc||08 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ. Trên Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc Cổng Dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông (đối với các trường hợp có chứng thực điện tử) (https://dichvucong.mic.gov.vn).|
+|Dịch vụ bưu chính|8 Ngày làm việc||08 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị cấp lại Giấy phép gửi đến Bộ Thông tin và Truyền thông
+ Văn bản đề nghị phải nêu rõ số Giấy phép, ngày cấp của Giấy phép đã cấp và lý do đề nghị cấp lại Giấy phép. Trường hợp Giấy phép bị hư hỏng thì phải gửi kèm theo bản Giấy phép bị hư hỏng
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|103/2016/QH13|Luật 103/2016/QH13|05-04-2016||
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|06/2016/NĐ-CP|Nghị định 06/2016/NĐ-CP|18-01-2016|Chính phủ|
+|19/2016/TT-BTTTT|Thông tư 19/2016/TT-BTTTT|30-06-2016|Bộ Thông tin và Truyền thông|
+|71/2022/NĐ-CP|Nghị định 71/2022/NĐ-CP|01-10-2022||
+
+Yêu cầu, điều kiện thực hiện:
+- Trường hợp Giấy phép bị mất hoặc bị hư hỏng không còn sử dụng được, doanh nghiệp có Giấy phép gửi văn bản đề nghị cấp lại Giấy phép đến Bộ Thông tin và Truyền thông. Văn bản đề nghị phải nêu rõ số Giấy phép, ngày cấp của Giấy phép đã cấp và lý do đề nghị cấp lại Giấy phép. Trường hợp Giấy phép bị hư hỏng thì phải gửi kèm theo bản Giấy phép bị hư hỏng.
+- Trường hợp Giấy phép hết hiệu lực hoặc gia hạn Giấy phép hết hiệu lực thì doanh nghiệp thực hiện hồ sơ, thủ tục cấp lại Giấy phép áp dụng như hồ sơ, thủ tục cấp Giấy phép lần đầu quy định tại các Khoản 2, 3 Điều 12 Nghị định số 06/2016/NĐ-CP.
+- Trường hợp Giấy phép bị mất hoặc bị hư hỏng không còn sử dụng được, doanh nghiệp có Giấy phép gửi văn bản đề nghị cấp lại Giấy phép đến Bộ Thông tin và Truyền thông. Văn bản đề nghị phải nêu rõ số Giấy phép, ngày cấp của Giấy phép đã cấp và lý do đề nghị cấp lại Giấy phép. Trường hợp Giấy phép bị hư hỏng thì phải gửi kèm theo bản Giấy phép bị hư hỏng.
+- Trường hợp Giấy phép hết hiệu lực hoặc gia hạn Giấy phép hết hiệu lực thì doanh nghiệp thực hiện hồ sơ, thủ tục cấp lại Giấy phép áp dụng như hồ sơ, thủ tục cấp Giấy phép lần đầu quy định tại các Khoản 2, 3 Điều 12 Nghị định số 06/2016/NĐ-CP.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

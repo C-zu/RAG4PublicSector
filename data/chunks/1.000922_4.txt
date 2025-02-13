@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp Giấy phép điều chỉnh Giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đề nghị cấp Giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường (Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 54/2019/NĐ-CP ngày 19 tháng 6 năm 2019). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febe274c1c83ad7'">MS 01.docx</a>)

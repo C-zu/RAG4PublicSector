@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001329
+Số quyết định:
+5625/QĐ-BCA-C06
+Tên thủ tục:
+Đăng ký dấu nổi, dấu thu nhỏ, dấu xi (thực hiện tại cấp tỉnh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý con dấu
+Trình tự thực hiện:
+- Bước 1: Cơ quan, tổ chức, chức danh nhà nước có nhu cầu đăng ký dấu nổi, dấu thu nhỏ, dấu xi như con dấu đã cấp nộp hồ sơ về Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+- Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ
++ Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và gửi Giấy biên nhận hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công cho người được cơ quan, tổ chức, chức danh nhà nước cử liên hệ nộp hồ sơ. 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc không hợp lệ thì hướng dẫn và gửi Phiếu hướng dẫn hoàn thiện hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc gửi Cổng dịch vụ công cho người được cơ quan, tổ chức, chức danh nhà nước cử liên hệ nộp hồ sơ. 
++ Nếu hồ sơ không đủ điều kiện theo quy định tại Điều 5 Nghị định số 99/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về quản lý và sử dụng con dấu thì không tiếp nhận hồ sơ, thông báo lý do từ chối và gửi Thông báo về việc từ chối giải quyết hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công cho người được cơ quan, tổ chức, chức danh nhà nước cử liên hệ nộp hồ sơ.
+- Bước 3: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an tỉnh, thành phố trực thuộc trung ương trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Nộp hồ sơ, nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.|
+|Trực tuyến|3 Ngày làm việc||Nộp hồ sơ qua Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).|
+|Dịch vụ bưu chính|3 Ngày làm việc||Nộp hồ sơ, trả kết quả qua dịch vụ bưu chính tại bộ phận tiếp nhận hồ sơ của Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Hồ sơ đối với người được cử liên hệ nộp hồ sơ: Giấy giới thiệu hoặc Giấy ủy quyền.
+- 01 Bản chính Hồ sơ đối với cơ quan, tổ chức, chức danh nhà nước: Văn bản quy định cơ quan, tổ chức, chức danh nhà nước có chức năng cấp văn bằng, chứng chỉ và giấy tờ có dán ảnh hoặc niêm phong tài liệu của cơ quan có thẩm quyền.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh
+Cơ quan có thẩm quyền:
+Phòng cảnh sát quản lý hành chính về trật tự xã hội, Công an tỉnh
+Địa chỉ tiếp nhận HS:
+Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Con dấu và Giấy chứng nhận đăng ký mẫu con dấu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|99/2016/NĐ-CP|Nghị định 99/2016/NĐ-CP|01-07-2016|Chính phủ|
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+|56/2023/NĐ-CP|Nghị định 56/2023/NĐ-CP|24-07-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Cơ quan, tổ chức, chức danh nhà nước có chức năng cấp văn bằng, chứng chỉ và giấy tờ có dán ảnh hoặc niêm phong tài liệu theo quy định của pháp luật thì được phép sử dụng dấu nổi, dấu thu nhỏ hoặc dấu xi.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

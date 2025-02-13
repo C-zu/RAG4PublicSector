@@ -1,0 +1,13 @@
+Tên thủ tục: Hỗ trợ ứng dụng công nghệ cao trong nuôi tôm thẻ chân trắng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 03 Bản chính - Đơn đề nghị hỗ trợ: Mẫu số 1 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8bdc8e0a7bbf1'">Mẫu số 01.docx</a>)
+- 03 Bản chính - Báo cáo kết quả thực hiện: Mẫu số 2 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1465e64f40cbb'">Mẫu số 02.docx</a>)
+- 03 Bản sao - Giấy chứng nhận Đăng ký kinh doanh (đối với doanh nghiệp, hợp tác xã) hoặc Hợp đồng hợp tác (đối với tổ hợp tác) hoặc Chứng minh thư/căn cước công dân (đối với hộ gia đình, cá nhân) (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Giấy chứng nhận cơ sở đủ điều kiện nuôi trồng thủy sản (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Văn bản chứng minh diện tích nuôi tôm, kèm theo bản đồ hiện trạng khu đất (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Giấy chứng nhận VietGap hoặc GlobalGAP (bản sao công chứng hoặc chứng thực)
+- 03 Bản sao - Hợp đồng, biên bản nghiệm thu, thanh lý hợp đồng mua sắm máy móc, thiết bị; chuyển giao công nghệ (nếu có); chứng từ hợp pháp chứng minh chi phí đầu tư, gồm: chi phí mua sắm máy móc, thiết bị; chi phí chuyển giao công nghệ (nếu có); chi phí đầu tư xây dựng hạ tầng kỹ thuật (hệ thống điện; tư vấn thiết kế, xây dựng nhà bạt, nhà màng hoặc nhà kính); chi phí đào tạo, tập huấn kỹ thuật; chi phí chứng nhận VietGAP hoặc GlobalGAP (bản sao công chứng hoặc chứng thực)

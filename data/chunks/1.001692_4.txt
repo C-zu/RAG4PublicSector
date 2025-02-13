@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Chứng chỉ Thẩm tra viên an toàn giao thông đường bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình cấp chứng chỉ theo mẫu quy định; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feac48df5814b97'">MẪU TỜ TRÌNH CẤP CHỨNG CHỈ THẨM TRA VIÊN ATGT ĐƯỜNG BỘ.docx</a>)
+- 01 Bản chính Quyết định công nhận kết quả thi của học viên tham gia khóa đào tạo;
+- 02 Bản chính 02 ảnh màu của mỗi học viên đề nghị cấp chứng chỉ, ảnh cỡ 4 cm x 6 cm, nền màu xanh, kiểu thẻ căn cước, chụp trong thời gian không quá 06 tháng

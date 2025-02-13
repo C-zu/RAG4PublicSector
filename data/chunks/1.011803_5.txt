@@ -1,0 +1,22 @@
+Tên thủ tục: Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện
+Cơ quan có thẩm quyền:
+Chủ tịch Ủy ban nhân dân cấp huyện
+Địa chỉ tiếp nhận HS:
+- Trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả của UBND cấp huyện. - Qua hệ thống bưu chính đến Bộ phận Tiếp nhận và Trả kết quả của UBND cấp huyện. - Trực tuyến tại địa chỉ: http://dichvucong.nghean.gov.vn.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Quyết định của Chủ tịch UBND cấp huyện phê duyệt danh sách chủ sở hữu tàu cá được hưởng hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình. - Số tiền được hưởng hỗ trợ theo quy định của chủ sở hữu tàu cá.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2017/QH14|Luật Thủy sản|21-11-2017|Quốc Hội|
+|26/2019/NĐ-CP|nghị định 26/2019/NĐ-CP|08-03-2019|Chính phủ|

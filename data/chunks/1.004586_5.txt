@@ -1,0 +1,27 @@
+Tên thủ tục: Cấp, phân bổ địa chỉ IP
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Trung tâm Internet Việt Nam (VNNIC)
+Cơ quan có thẩm quyền:
+Trung tâm Internet Việt Nam (VNNIC)
+Địa chỉ tiếp nhận HS:
+- Nộp trực tuyến qua Cổng dịch vụ công của Bộ Thông tin và Truyền thông tại địa chỉ https://dichvucong.mic.gov.vn/ hoặc Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn/; - Trường hợp không có khả năng nộp trực tuyến, cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Internet Việt Nam, địa chỉ: Tòa nhà VNTA đường Dương Đình Nghệ, Cầu Giấy, Hà Nội.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định cấp, phân bổ địa chỉ IP
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|41/2009/QH12|Luật 41/2009/QH12|23-11-2009|Quốc Hội|
+|27/2018/NĐ-CP|Nghị định 27/2018/NĐ-CP|01-03-2018|Chính phủ|
+|24/2015/TT-BTTTT|Thông tư 24/2015/TT-BTTTT|18-08-2015||
+|72/2013/NĐ-CP|Nghị định 72/2013/NĐ-CP|16-07-2013||
+|150/2018/NĐ-CP|Nghị định 150/2018/NĐ-CP|07-11-2018||
+|21/2021/TT-BTTTT|Thông tư 21/2021/TT-BTTTT|08-12-2021||
+|20/2023/TT-BTC|Thông tư 20/2023/TT-BTC|13-04-2023||

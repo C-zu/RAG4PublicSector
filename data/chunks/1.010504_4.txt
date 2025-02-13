@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp Đổi phiếu kiểm soát thu hoạch sang Giấy chứng nhận xuất xứ cho lô nguyên liệu nhuyễn thể hai mảnh vỏ (UBND Tỉnh Hà Tĩnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Lưu ý khi nộp hồ sơ: + Nếu nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh, trường hợp yêu cầu bản sao thì kèm theo bản gốc để đối chiếu; + Nếu nộp hồ sơ qua Cổng dịch vụ công thì quét (Scan) từ bản chính; + Nếu nộp hồ sơ qua đường bưu điện thì nộp bản sao có chứng thực của cơ quan có thẩm quyền.
+- 01 Bản chính Phiếu kiểm soát thu hoạch theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2ab5b018f2929'">phiếu kiểm soát thu hoạch hai mãnh vỏ.docx</a>)

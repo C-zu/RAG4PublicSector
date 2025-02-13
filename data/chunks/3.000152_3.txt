@@ -1,0 +1,12 @@
+Tên thủ tục: Quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích khác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|66 Ngày làm việc|Phí : Đồng|66 ngày làm việc đối với thẩm quyền của Quốc hội. (Chưa kể thời gian làm việc của Quốc hội và Chính phủ).|
+|Trực tiếp|66 Ngày làm việc||66 ngày làm việc đối với thẩm quyền của Chính phủ. (Chưa kể thời gian làm việc của Chính phủ).|
+|Trực tiếp|48 Ngày làm việc||48 ngày đối với thẩm quyền của Hội đồng nhân dân cấp tỉnh. (Chưa kể thời gian làm việc của Hội đồng nhân dân cấp tỉnh.|
+|Dịch vụ bưu chính|66 Ngày làm việc||66 ngày làm việc đối với thẩm quyền của Quốc hội. (Chưa kể thời gian làm việc của Quốc hội và Chính phủ).|
+|Dịch vụ bưu chính|66 Ngày làm việc||66 ngày làm việc đối với thẩm quyền của Chính phủ. (Chưa kể thời gian làm việc của Chính phủ).|
+|Dịch vụ bưu chính|48 Ngày làm việc||48 ngày làm việc đối với thẩm quyền của Hội đồng nhân dân cấp tỉnh. (Chưa kể thời gian làm việc của Hội đồng nhân dân cấp tỉnhi).|

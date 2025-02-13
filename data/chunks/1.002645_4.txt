@@ -1,0 +1,43 @@
+Tên thủ tục: Đăng ký tàu biển tạm thời
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp chưa có giấy chứng nhận xóa đăng ký tàu biển, hồ sơ đăng ký bao gồm:
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'">08.1TK.doc</a>)
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển, Giấy chứng nhận phân cấp tàu biển hiện có của tàu (bản sao)
+
+
+Trường hợp chưa nộp phí, lệ phí, hồ sơ đăng ký bao gồm
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'">08.1TK.doc</a>)
+- 01 Bản chính Giấy chứng nhận xóa đăng ký tàu biển hoặc Giấy chứng nhận xóa đăng ký phương tiện thủy nội địa đối với phương tiện thủy nội địa cấp VR-SB (bản chính) đã qua sử dụng hoặc biên bản nghiệm thu bàn giao tàu đối với tàu biển được đóng mới (bản chính) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee830e34fd4dc9'">GCN xóa ĐK.docx</a>)
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài)
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển, Giấy chứng nhận phân cấp tàu biển hiện có của tàu (bản sao).
+
+
+Trường hợp nhận tàu đóng mới để đưa về nơi đăng ký trên cơ sở hợp đồng đóng tàu, hồ sơ đăng ký bao gồm
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'">08.1TK.doc</a>)
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận phân cấp tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'">08.1TK.doc</a>)
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận dung tích tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận phân cấp tàu biển (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+
+
+Trường hợp thử tàu đóng mới, hồ sơ đăng ký bao gồm:
+- 01 Bản chính Tờ khai đăng ký tàu biển theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3917b783427fd'">08.1TK.doc</a>)
+- 01 Bản chính Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương để chứng minh quyền sở hữu đối với tàu biển (bản chính, kèm bản dịch công chứng nếu hợp đồng viết bằng ngôn ngữ nước ngoài);
+- 01 Bản sao Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản sao Trường hợp chủ tàu là cá nhân còn phải nộp thêm giấy chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu); trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+- 01 Bản chính Bản số liệu dung tích của tàu.

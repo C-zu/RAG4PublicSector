@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục tổ chức cuộc thi người đẹp, người mẫu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị tổ chức cuộc thi người đẹp, người mẫu (Mẫu số 07 Phụ lục ban hành kèm theo Nghị định số 144/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc61fb9f14f0d80'">MS07.docx</a>)
+- 01 Bản chính - Đề án tổ chức cuộc thi (Mẫu số 08 Phụ lục ban hành kèm theo Nghị định số 144/2020/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe817edba30e687'">MS08.docx</a>)

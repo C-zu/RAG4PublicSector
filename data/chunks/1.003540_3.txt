@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định điều kiện bảo đảm an toàn thực phẩm cơ sở sản xuất, kinh doanh thủy sản có xuất khẩu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|13 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : 2.000.000 Đồng Phí thẩm định cấp giấy chứng nhận an toàn thực phẩm đối với cơ sở sản xuất kinh doanh thực phẩm nông, lâm, thủy sản do Cơ quan kiểm tra trung ương thực hiện: 2.000.000 đồng/lần cấp.|Hồ sơ gửi bằng một trong các hình thức sau: - Trực tiếp; - Theo đường bưu điện; - Thư điện tử; - Đăng ký trực tuyến.|
+|Trực tuyến|13 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : 2.000.000 Đồng Phí thẩm định cấp giấy chứng nhận an toàn thực phẩm đối với cơ sở sản xuất kinh doanh thực phẩm nông, lâm, thủy sản do Cơ quan kiểm tra trung ương thực hiện: 2.000.000 đồng/lần cấp.|Hồ sơ gửi bằng một trong các hình thức sau: Trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến (nếu có).|
+|Dịch vụ bưu chính|13 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.|Phí : 2.000.000 Đồng Phí thẩm định cấp giấy chứng nhận an toàn thực phẩm đối với cơ sở sản xuất kinh doanh thực phẩm nông, lâm, thủy sản do Cơ quan kiểm tra trung ương thực hiện: 2.000.000 đồng/lần cấp.|Hồ sơ gửi bằng một trong các hình thức sau: Trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến (nếu có).|

@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký, phê duyệt dự án JCM (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị đăng ký dự án JCM bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd2015b4d4b1f8e'">Mẫu 15 (1).docx</a>)
+- 01 Bản chính Đơn đề nghị đăng ký dự án JCM bằng tiếng Anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa26be76b4de2e0'">Mẫu 16 (1).docx</a>)
+- 01 Bản chính Dự thảo Tài liệu thiết kế dự án (PDD) bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8ea6b2d1441a0'">Mẫu 7 (1).docx</a>)
+- 01 Bản chính Dự thảo Tài liệu thiết kế dự án (PDD) bằng tiếng Anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe860f9ae338c6b'">Mẫu 8 (1).docx</a>)
+- 01 Bản chính Bảng kế hoạch giám sát (theo mẫu quy định tại Phụ lục 5 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0b11c091fb1b0'">Mẫu 9 (1).docx</a>)
+- 01 Bản chính Bảng kế hoạch giám sát (theo mẫu quy định tại Phụ lục 5a (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb918633fe6c34'">Mẫu 10 (1).docx</a>)
+- 01 Bản chính Phương thức liên lạc (MoC) bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe99bf6a03a156d'">Mẫu 11.docx</a>)
+- 01 Bản chính Phương thức liên lạc (MoC) bằng tiếng Anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fceeafb334584e4'">Mẫu 12 (1).docx</a>)
+- 01 Bản chính Báo cáo thẩm định PDD của TPE bằng tiếng Việt (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3011c50f2624f'">Mẫu 13 (1).docx</a>)
+- 01 Bản chính Báo cáo thẩm định PDD của TPE bằng tiếng Anh (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd147fda6e1708c'">Mẫu 14 (2).docx</a>)

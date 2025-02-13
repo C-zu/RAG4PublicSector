@@ -1,0 +1,9 @@
+Tên thủ tục: Phê duyệt nghiên cứu thử thuốc trên lâm sàng
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||30 ngày làm việc kể tử ngày nhận đủ hồ sơ|
+|Trực tuyến|30 Ngày làm việc||30 ngày làm việc kể tử ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|30 Ngày làm việc||30 ngày làm việc kể tử ngày nhận đủ hồ sơ|

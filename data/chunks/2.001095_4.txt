@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy chứng nhận an toàn sinh học đối với cây trồng biến đổi gen (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Một (01) đơn đăng ký cấp Giấy chứng nhận an toàn sinh học theo mẫu quy định tại Phụ lục 1 Thông tư số 08/2013/TT-BTNMT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd00b3a2ad4c896'">Phụ lục 1.docx</a>)
+- 010 Bản chính Mười (10) bản báo cáo kết quả khảo nghiệm được Bộ Nông nghiệp và Phát triển nông thôn công nhận đạt yêu cầu (trong đó, có một (01) bản chính và chín (09) bản sao) kèm theo một (01) bản sao văn bản của Bộ Nông nghiệp và Phát triển nông thôn công nhận kết quả khảo nghiệm
+- 010 Bản chính Mười (10) bản báo cáo đánh giá rủi ro của cây trồng biến đổi gen đối với môi trường và đa dạng sinh học (sau đây gọi tắt là Báo cáo đánh giá rủi ro) kèm theo tệp tin điện tử theo mẫu quy định tại Phụ lục 2 Thông tư số 08/2013/TT-BTNMT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9bc1b1aef3f2f'">Phụ lục 2-BDSH.docx</a>)
+- 01 Bản chính Một (01) tệp tin điện tử chứa thông tin về Báo cáo đánh giá rủi ro của cây trồng biến đổi gen đối với môi trường và đa dạng sinh học theo mẫu quy định tại Phụ lục 3 Thông tư số 08/2013/TT-BTNMT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdef7b938df4ae2'">Phụ lục 3.docx</a>)

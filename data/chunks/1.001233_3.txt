@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thay đổi nội dung Giấy đăng ký tham gia trợ giúp pháp lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|
+|Trực tuyến|05 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|5 Ngày làm việc||05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.|

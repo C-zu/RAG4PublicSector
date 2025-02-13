@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép lập cơ sở bán lẻ ngoài cơ sở bán lẻ thứ nhất thuộc trường hợp phải thực hiện thủ tục kiểm tra nhu cầu kinh tế (ENT)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp Giấy phép lập cơ sở bán lẻ (Mẫu số 04 Phụ lục ban hành kèm theo Nghị định). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f681539a4ac7e00'">04MĐ-Đơn cấp GPBL.doc</a>)
+- 01 Bản chính - Bản giải trình có nội dung: + Địa điểm lập cơ sở bán lẻ: địa chỉ cơ sở bán lẻ; mô tả khu vực chung, có liên quan và khu vực sử dụng để lập cơ sở bán lẻ; giải trình việc đáp ứng điều kiện quy định tại điểm c khoản 1 Điều 22 Nghị định số 09/2018/NĐ-CP; kèm theo tài liệu về địa điểm lập cơ sở bán lẻ; + Kế hoạch kinh doanh tại cơ sở bán lẻ: trình bày kế hoạch kinh doanh và phát triển thị trường; nhu cầu về lao động; đánh giá tác động, hiệu quả kinh tế - xã hội của kế hoạch kinh doanh; + Kế hoạch tài chính cho việc lập cơ sở bán lẻ: báo cáo kết quả hoạt động kinh doanh trên cơ sở báo cáo tài chính đã được kiểm toán của năm gần nhất trong trường hợp đã thành lập ở Việt Nam từ 01 năm trở lên; giải trình về vốn, nguồn vốn và phương án huy động vốn; kèm theo tài liệu về tài chính; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea4e99dc4e30c0'">09CV-Sở hỏi Bộ.doc</a>)
+- 01 Bản chính - Tài liệu của cơ quan thuế chứng minh không còn nợ thuế quá hạn.
+- 01 Bản chính Bản sao: Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư dự án lập cơ sở bán lẻ (nếu có), Giấy phép kinh doanh.
+- 01 Bản chính - Bản giải trình các tiêu chí ENT quy định tại điểm c, d và đ khoản 2 Điều 23 Nghị định số 09/2018/NĐ-CP.

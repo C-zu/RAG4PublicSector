@@ -1,0 +1,12 @@
+Tên thủ tục: Thủ tục cho phép nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Đối tượng thực hiện TTHC: Doanh nghiệp nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác.
+- Máy móc, thiết bị đã qua sử dụng nhập khẩu có tuổi thiết bị vượt quá quy định tại khoản 1 Điều 6 Quyết định số 18/2019/QĐ-TTg nhưng công suất (tính theo số lượng sản phẩm được tạo ra bởi máy móc, thiết bị trong một đơn vị thời gian) hoặc hiệu suất còn lại của máy móc, thiết bị vẫn đạt từ 85% trở lên so với công suất hoặc hiệu suất thiết kế và mức tiêu hao nguyên, vật liệu, năng lượng của máy móc, thiết bị không vượt quá 15% so với thiết kế.
+- Đối tượng thực hiện TTHC: Doanh nghiệp nhập khẩu máy móc, thiết bị đã qua sử dụng trong trường hợp khác.
+- Máy móc, thiết bị đã qua sử dụng nhập khẩu có tuổi thiết bị vượt quá quy định tại khoản 1 Điều 6 Quyết định số 18/2019/QĐ-TTg nhưng công suất (tính theo số lượng sản phẩm được tạo ra bởi máy móc, thiết bị trong một đơn vị thời gian) hoặc hiệu suất còn lại của máy móc, thiết bị vẫn đạt từ 85% trở lên so với công suất hoặc hiệu suất thiết kế và mức tiêu hao nguyên, vật liệu, năng lượng của máy móc, thiết bị không vượt quá 15% so với thiết kế.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

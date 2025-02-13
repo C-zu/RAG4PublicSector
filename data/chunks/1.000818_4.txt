@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký xác lập quyền sử dụng hạn chế thửa đất liền kề sau khi được cấp Giấy chứng nhận lần đầu và đăng ký thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề (trường hợp chưa thành lập VP đăng ký đất đai)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính (1) Đơn đăng ký biến động đất đai, tài sản gắn liền với đất theo Mẫu số 09/ĐK (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb4a8486ade1fe'">Mau so 09-DK.pdf</a>)
+- 01 Bản chính (2) Bản gốc Giấy chứng nhận đã cấp của một bên hoặc các bên liên quan;
+- 01 Bản chính (3) Hợp đồng hoặc văn bản thỏa thuận hoặc quyết định của Tòa án nhân dân về việc xác lập hoặc thay đổi, chấm dứt quyền sử dụng hạn chế thửa đất liền kề;
+- 01 Bản chính (4) Sơ đồ thể hiện vị trí, kích thước phần diện tích thửa đất mà người sử dụng thửa đất liền kề được quyền sử dụng hạn chế.
+- 01 Bản chính (5) Đối với trường hợp thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất mà có thay đổi thông tin về pháp nhân, địa chỉ trên Giấy chứng nhận đã cấp thì nộp bổ sung văn bản của cơ quan có thẩm quyền cho phép hoặc công nhận việc thay đổi thông tin pháp nhân.

@@ -1,0 +1,10 @@
+Tên thủ tục: Hồ sơ khám giám định để thực hiện chế độ tử tuất
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Giấy đề nghị khám giám định theo mẫu quy định tại Phụ lục 2 kèm theo Thông tư số 18/2022/TT-BYT. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7373a424c12d4'">Phụ lục 2.docx</a>)
+- 01 Bản chính, 01 Bản sao 2. Bản chính hoặc bản sao hợp lệ của một trong các giấy tờ sau đây: - Tóm tắt hồ sơ bệnh án; - Giấy xác nhận khuyết tật; - Giấy ra viện; - Sổ khám bệnh; - Phiếu khám bệnh; - Phiếu kết quả cận lâm sàng; - Đơn thuốc của cơ sở khám bệnh, chữa bệnh; - Hồ sơ bệnh nghề nghiệp; - Biên bản giám định y khoa lần gần nhất đối với người đã được khám giám định;
+- 01 Bản chính, 01 Bản sao 3. Bản chính hoặc bản sao hợp lệ giấy ra viện hoặc tóm tắt hồ sơ bệnh án quy định tại Phụ lục 3 và Phụ lục 4 ban hành kèm theo Thông tư này. Trường hợp người lao động không điều trị nội trú hoặc ngoại trú thì phải có giấy tờ về khám, điều trị thương tật phù hợp với thời điểm xảy ra tai nạn lao động và tổn thương đề nghị giám định. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa14022db5c7020'">Phụ lục 3 và 4.docx</a>)
+- 01 Bản chính Trường hợp người được giám định thuộc đối tượng quy định tại điểm c khoản 1 Điều 47 của Luật an toàn, vệ sinh lao động: Trong bản tóm tắt hồ sơ bệnh án phải ghi rõ tổn thương do tai nạn lao động không có khả năng điều trị ổn định;.

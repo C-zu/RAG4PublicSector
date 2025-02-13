@@ -1,0 +1,22 @@
+Tên thủ tục: Đăng ký làm ngân hàng thanh toán đối với ngân hàng thương mại
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
++ Có Giấy phép thành lập và hoạt động tại Việt Nam theo quy định của pháp luật;
++ Có vốn điều lệ trên 10.000 tỷ đồng;
++ Hoạt động kinh doanh có lãi trong 02 năm gần nhất;
++ Đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về ngân hàng;
++ Có hệ thống cơ sở vật chất, kỹ thuật bảo đảm thực hiện thanh toán giao dịch và kết nối với hệ thống của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam;
++ Có hệ thống thanh toán, bù trừ kết nối với hệ thống thanh toán, bù trừ của Ngân hàng Nhà nước Việt Nam;
++ Có hệ thống cơ sở vật chất, kỹ thuật để lưu giữ số liệu thông tin thanh toán giao dịch trong thời hạn ít nhất 10 năm và cung cấp được cho Ủy ban Chứng khoán Nhà nước hoặc Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam trong thời hạn 48 giờ khi có yêu cầu
++ Có Giấy phép thành lập và hoạt động tại Việt Nam theo quy định của pháp luật;
++ Có vốn điều lệ trên 10.000 tỷ đồng;
++ Hoạt động kinh doanh có lãi trong 02 năm gần nhất;
++ Đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về ngân hàng;
++ Có hệ thống cơ sở vật chất, kỹ thuật bảo đảm thực hiện thanh toán giao dịch và kết nối với hệ thống của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam;
++ Có hệ thống thanh toán, bù trừ kết nối với hệ thống thanh toán, bù trừ của Ngân hàng Nhà nước Việt Nam;
++ Có hệ thống cơ sở vật chất, kỹ thuật để lưu giữ số liệu thông tin thanh toán giao dịch trong thời hạn ít nhất 10 năm và cung cấp được cho Ủy ban Chứng khoán Nhà nước hoặc Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam trong thời hạn 48 giờ khi có yêu cầu
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

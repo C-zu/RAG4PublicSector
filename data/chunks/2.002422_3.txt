@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục cấp Giấy phép sử dụng vật liệu nổ công nghiệp lần đầu
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ tài chính|05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ tài chính|10 ngày làm việc, kể từ ngày nhận đủ hồ sơ đối với trường hợp cơ quan có thẩm quyền cần kiểm tra thực tế hiện trường, kho vật liệu nổ công nghiệp|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ tài chính|05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Đồng Theo quy định của Bộ tài chính|10 ngày làm việc, kể từ ngày nhận đủ hồ sơ đối với trường hợp cơ quan có thẩm quyền cần kiểm tra thực tế hiện trường, kho vật liệu nổ công nghiệp|

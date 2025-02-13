@@ -1,0 +1,13 @@
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký chuyển giao công nghệ
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Tổ chức, cá nhân (bên nhận công nghệ trong trường hợp chuyển giao công nghệ từ nước ngoài vào Việt Nam, chuyển giao công nghệ trong nước hoặc bên giao công nghệ trong trường hợp chuyển giao công nghệ từ Việt Nam ra nước ngoài) thay mặt các bên gửi hồ sơ đăng ký chuyển giao công nghệ đến cơ quan có thẩm quyền cấp Giấy chứng nhận đăng ký chuyển giao công nghệ trong các trường hợp sau:
++ Đối với chuyển giao công nghệ thông qua thực hiện dự án đầu tư: Bộ Khoa học và Công nghệ cấp Giấy chứng nhận đăng ký chuyển giao công nghệ đối với chuyển giao công nghệ của dự án đầu tư tại Việt Nam thuộc thẩm quyền quyết định chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ, bộ, cơ quan trung ương theo quy định của pháp luật về đầu tư, pháp luật về đầu tư công và dự án đầu tư ra nước ngoài.
++ Đối với chuyển giao công nghệ độc lập và hình thức khác theo quy định của pháp luật: Bộ Khoa học và Công nghệ cấp Giấy chứng nhận đăng ký chuyển giao công nghệ đối với chuyển giao công nghệ từ nước ngoài vào Việt Nam, chuyển giao công nghệ từ Việt Nam ra nước ngoài.
++ Đối với chuyển giao công nghệ thuộc trường hợp bí mật nhà nước trong lĩnh vực quốc phòng hoặc chuyển giao công nghệ thuộc trường hợp mua sắm tài sản từ nguồn ngân sách đặc biệt cho quốc phòng, Bộ Quốc phòng cấp Giấy chứng nhận đăng ký chuyển giao công nghệ.
+- Bộ Khoa học và Công nghệ hoặc Bộ Quốc phòng xem xét hồ sơ:
++ Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ hoặc Bộ Quốc phòng có văn bản đề nghị tổ chức, cá nhân bổ sung hồ sơ theo quy định;
++ Trường hợp hồ sơ đáp ứng yêu cầu theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Khoa học và Công nghệ hoặc Bộ Quốc phòng cấp Giấy chứng nhận đăng ký chuyển giao công nghệ.
++ Trường hợp hồ sơ có nội dung cần phải sửa đổi, bổ sung, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ theo quy định, Bộ Khoa học và Công nghệ hoặc Bộ Quốc phòng có văn bản đề nghị bên đăng ký chuyển giao công nghệ sửa đổi, bổ sung;
++ Trường hợp từ chối cấp Giấy chứng nhận đăng ký chuyển giao công nghệ, Bộ Khoa học và Công nghệ hoặc Bộ Quốc phòng có văn bản trả lời và nêu rõ lý do.

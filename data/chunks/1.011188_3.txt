@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục Chấp thuận xây dựng công trình thiết yếu, chấp thuận xây dựng cùng thời điểm với cấp giấy phép thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ của quốc lộ, đường bộ cao tốc đang khai thác thuộc phạm vi quản lý của Bộ Giao thông vận tải.
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 Ngày||07 ngày làm việc kể từ khi nhận được đủ hồ sơ hợp lệ.|

@@ -1,0 +1,9 @@
+Tên thủ tục: Thu hồi giấy chứng nhận đăng ký xe, biển số xe tại Công an cấp xã
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy chứng nhận đăng ký xe, biển số xe.
+- 01 Bản chính Trường hợp xe bị mất giấy chứng nhận đăng ký xe hoặc biển số xe hoặc mất cả giấy chứng nhận đăng ký xe và biển số xe, chủ xe phải có: Đơn trình bày rõ lý do bị mất.
+- 01 Bản chính Giấy tờ của người làm thủ tục.

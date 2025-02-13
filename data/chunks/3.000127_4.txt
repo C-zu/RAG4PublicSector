@@ -1,0 +1,12 @@
+Tên thủ tục: Công bố thông tin sản phẩm thức ăn bổ sung sản xuất trong nước
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị công bố thông tin sản phẩm.
+- 01 Bản chính - Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi.
+- 01 Bản chính - Hợp đồng thuê, gia công thức ăn chăn nuôi đối với trường hợp tổ chức, cá nhân thuê, gia công tại cơ sở sản xuất thức ăn chăn nuôi đã được cấp Giấy chứng nhận đủ điều kiện sản xuất thức ăn chăn nuôi.
+- 01 Bản chính - Tiêu chuẩn công bố áp dụng, văn bản thông báo tiếp nhận công bố hợp quy của sản phẩm.
+- 01 Bản chính - Phiếu kết quả thử nghiệm các chỉ tiêu chất lượng và an toàn của sản phẩm trong tiêu chuẩn công bố áp dụng và trong quy chuẩn kỹ thuật quốc gia tương ứng được cấp bởi các phòng thử nghiệm do Bộ Nông nghiệp và Phát triển nông thôn chỉ định hoặc thừa nhận.
+- 01 Bản chính - Mẫu của nhãn sản phẩm.

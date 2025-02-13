@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn Giấy phép thành lập Văn phòng đại diện của Thương nhân nước ngoài tại Việt Nam - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị gia hạn Giấy phép thành lập Văn phòng đại diện, theo mẫu BM.TM.04.01
+- 01 Bản sao Bản sao Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài
+- 01 Bản sao Bản sao báo cáo tài chính có kiểm toán hoặc văn bản xác nhận tình hình thực hiện nghĩa vụ thuế hoặc tài chính trong năm tài chính gần nhất hoặc giấy tờ có giá trị tương đương do cơ quan, tổ chức có thẩm quyền nơi thương nhân nước ngoài thành lập cấp hoặc xác nhận, chứng minh sự tồn tại và hoạt động của thương nhân nước ngoài trong năm tài chính gần nhất
+- 01 Bản sao Bản sao Giấy phép thành lập Văn phòng đại diện đã được cấp

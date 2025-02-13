@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.000747
+Số quyết định:
+1310/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục gia hạn hiệu lực của quyết định phê duyệt mẫu phương tiện đo
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+Bước 1: Một (01) tháng trước khi quyết định phê duyệt mẫu hết hiệu lực, cơ sở sản xuất, nhập khẩu phương tiện đo (sau đây gọi tắt là cơ sở) nếu có nhu cầu, lập và nộp hồ sơ theo quy định đến Tổng cục Tiêu chuẩn Đo lường Chất lượng (gọi tắt Tổng cục).
+Bước 2: Tổng cục tiếp nhận hồ sơ, xem xét, thẩm định theo quy định: 
+- Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục thông báo bằng văn bản cho cơ sở. 
+- Nếu hồ sơ đầy đủ, hợp lệ: Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận hồ sơ, Tổng cục sẽ ra quyết định gia hạn hiệu lực quyết định phê duyệt mẫu của cơ sở.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||07 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ|
+|Trực tuyến|7 Ngày làm việc||07 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|7 Ngày làm việc||07 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đề nghị gia hạn hiệu lực của quyết định phê duyệt mẫu phương tiện đo ([Mẫu 5. ĐNGHPDM.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc536f4c6aed050'))
+- 01 Bản sao Bản sao (có xác nhận sao y bản chính của cơ sở) quyết định phê duyệt mẫu.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Tổng cục Tiêu chuẩn Đo lường Chất lượng
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt mẫu phương tiện đo
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|23/2013/TT-BKHCN|Thông tư 23/2013/TT-BKHCN|26-09-2013|Bộ Khoa học và Công nghệ|
+|07/2019/TT-BKHCN|Thông tư 07/2019/TT-BKHCN|26-07-2019||
+
+Yêu cầu, điều kiện thực hiện:
+Không
+Từ khóa:
+Thủ tục gia hạn hiệu lực của quyết định phê duyệt mẫu phương tiện đo
+Mô tả:
+Không có thông tin

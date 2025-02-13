@@ -1,0 +1,45 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế phương tiện thủy nội địa và Giấy chứng nhận thẩm định thiết kế sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+* Đối với sao và thẩm định mẫu định hình, hồ sơ bao gồm:
+- 01 Bản chính - Giấy đề nghị sử dụng mẫu định hình phương tiện thủy nội địa theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa1e8d682b8f490'">Mẫu.docx</a>)
+
+
+* Đối với thẩm định thiết kế chuyển đổi tàu biển thành phương tiện thủy nội địa, hồ sơ thiết kế bao gồm:
+- 01 Bản chính - Giấy đề nghị thẩm định thiết kế theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc382c0410f2320'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - Các tài liệu sau: gồm bản tính, bản vẽ, thuyết minh và các tài liệu kỹ thuật (nếu có) theo quy định của quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật áp dụng cho phương tiện (01 bản sao điện tử có giá trị pháp lý (đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến) hoặc 03 bản chính (đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác).
+
+
+* Đối với thẩm định thiết kế mẫu định hình, hồ sơ thiết kế bao gồm:
+- 01 Bản chính - Giấy đề nghị thẩm định mẫu định hình phương tiện thủy nội địa theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc9d466afd68900'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - Các tài liệu sau: bản tính, bản vẽ, thuyết minh theo quy định của quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật áp dụng cho phương tiện (01 bản sao điện tử có giá trị pháp lý đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác).
+
+
+* Đối với thẩm định thiết kế phương tiện nhập khẩu, hồ sơ thiết kế bao gồm:
+- 01 Bản chính - Giấy đề nghị thẩm định thiết kế theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6d8842457ed6a'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - Các tài liệu sau: bản tính, bản vẽ, thuyết minh và các tài liệu kỹ thuật (nếu có) theo quy định của quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật áp dụng cho phương tiện và các tài liệu kỹ thuật của tổ chức nước ngoài cấp cho phương tiện (nếu có) (01 bản sao điện tử có giá trị pháp lý đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác). Các thuyết minh và bản tính của hồ sơ thiết kế phải sử dụng ngôn ngữ là tiếng Việt hoặc tiếng Anh có kèm theo bản dịch bằng tiếng Việt, các bản vẽ có thể sử dụng ngôn ngữ là tiếng Việt hoặc tiếng Anh;
+- 01 Bản sao - Hồ sơ xác định tuổi của phương tiện (Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý);
+- 01 Bản sao - Tờ khai hàng hóa nhập khẩu của tổ chức, cá nhân nhập khẩu đối với trường hợp phương tiện đã nhập khẩu về Việt Nam (Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý).
+
+
+* Đối với thẩm định thiết kế sản phẩm công nghiệp, hồ sơ thiết kế bao gồm:
+ - Trường hợp sản phẩm công nghiệp nhập khẩu, hồ sơ nộp bao gồm:
+- 01 Bản chính - Trường hợp sản phẩm công nghiệp được sản xuất, chế tạo trong nước
+- 01 Bản chính + Giấy đề nghị thẩm định thiết kế theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3f773603e957be00'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao + Các tài liệu sau: bản tính, bản vẽ, thuyết minh và các tài liệu kỹ thuật (nếu có) theo quy định của quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật áp dụng cho sản phẩm (01 bản sao điện tử có giá trị pháp lý đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác);
+- 01 Bản chính - Trường hợp sản phẩm công nghiệp nhập khẩu, thiết kế bao gồm:
+- 01 Bản chính + Giấy đề nghị thẩm định thiết kế theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4750d8458e086'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao + Các tài liệu sau: bản tính, bản vẽ, thuyết minh và các tài liệu kỹ thuật nước ngoài cấp cho phương tiện (nếu có) theo quy định của quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật áp dụng cho sản phẩm (01 bản sao điện tử có giá trị pháp lý đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác). Các thuyết minh và bản tính của hồ sơ thiết kế phải sử dụng ngôn ngữ là tiếng Việt hoặc tiếng Anh có kèm theo bản dịch bằng tiếng Việt, các bản vẽ có thể sử dụng ngôn ngữ là tiếng Việt hoặc tiếng Anh; tờ khai hàng hóa nhập khẩu của tổ chức, cá nhân nhập khẩu.
+
+
+* Đối với thẩm định thiết kế đóng mới, hoán cải, sửa đổi, lập hồ sơ, hồ sơ thiết kế bao gồm:
+- 01 Bản chính - Giấy đề nghị thẩm định thiết kế theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3febb5e79522b3fc'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - Các tài liệu sau: bản tính, bản vẽ, thuyết minh và các tài liệu kỹ thuật (nếu có) theo quy định của quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật áp dụng cho phương tiện (01 bản sao điện tử có giá trị pháp lý đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính (đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác). Đối với hồ sơ thiết kế do đơn vị thiết kế nước ngoài thiết kế hoặc chủ phương tiện là người nước ngoài hoặc thiết kế phương tiện đóng ở Việt Nam để xuất khẩu thì ngôn ngữ sử dụng trong thuyết minh, bản tính là tiếng Việt hoặc tiếng Anh có kèm theo bản dịch bằng tiếng Việt, ngôn ngữ sử dụng trong bản vẽ là tiếng Việt hoặc tiếng Anh;
+- 01 Bản sao - Hợp đồng đóng mới phương tiện hoặc các giấy tờ chứng minh phương tiện là tài sản hợp pháp của chủ phương tiện và chịu trách nhiệm trước pháp luật về tính hợp pháp của tài sản đó (đối với thiết kế lập hồ sơ của phương tiện đã đóng trong nước mà không có sự giám sát của đăng kiểm) (Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý);
+
+
+* Đối với thẩm định tài liệu hướng dẫn, hồ sơ bao gồm:
+- 01 Bản chính - Giấy đề nghị thẩm định tài liệu hướng dẫn theo mẫu quy định (01 bản chính hoặc biểu mẫu điện tử); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf73b200175754'">Mẫu.docx</a>)
+- 03 Bản chính, 01 Bản sao - Tài liệu hướng dẫn (01 bản sao điện tử có giá trị pháp lý đối với trường hợp nộp thông qua hệ thống dịch vụ công trực tuyến; hoặc 03 bản chính đối với trường hợp nộp trực tiếp hoặc qua hệ thống bưu chính hoặc hình thức phù hợp khác).

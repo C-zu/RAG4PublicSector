@@ -1,0 +1,23 @@
+Tên thủ tục: Thủ tục thực hiện việc kê khai tài sản thu nhập
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Cán bộ, công chức, viên chức
+Cơ quan thực hiện:
+Cơ quan hành chính nhà nước các cấp, Đơn vị sự nghiệp công lập thuộc cơ quan hành chính nhà nước
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản kê khai tài sản, thu nhập, Bản kê khai tài sản, thu nhập
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|55/2005/QH11|Luật|29-11-2005|Quốc Hội|
+|78/2013/NĐ-CP|Nghị định|17-07-2013|Chính phủ|
+|08/2013/TT-TTCP|Thông tư|31-10-2013|Thanh tra Chính phủ|

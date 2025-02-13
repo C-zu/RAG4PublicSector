@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục cấp lại và hiệu đính thông tin trên Giấy chứng nhận đăng ký đầu tư
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Kế hoạch và Đầu tư cấp lại Giấy chứng nhận đăng ký đầu tư. - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Kế hoạch và Đầu tư hiệu đính thông tin Giấy chứng nhận đăng ký đầu tư.|Phí : 0 Đồng Không có|- Trực tiếp tại trụ sở cơ quan hành chính.|
+|Dịch vụ bưu chính|- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Kế hoạch và Đầu tư cấp lại Giấy chứng nhận đăng ký đầu tư. - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Kế hoạch và Đầu tư hiệu đính thông tin Giấy chứng nhận đăng ký đầu tư.|Phí : 0 Đồng Không có|- Qua dịch vụ bưu chính công ích.|

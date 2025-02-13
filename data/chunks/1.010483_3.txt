@@ -1,0 +1,9 @@
+Tên thủ tục: Nhóm thủ tục giao lại đất, cho thuê đất đã giải phóng mặt bằng và cấp Giấy chứng nhận đối với trường hợp giao lại đất, cho thuê đất thông qua hình thức đấu giá quyền sử dụng đất
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quá 36 ngày làm việc đối với đất ở của hộ gia đình, cá nhân; 46 ngày đối với đất thực hiện dự án của tổ chức (kể cả thời gian Tổ chức, cá nhân thực hiện nghĩa vụ tài chính).|Lệ phí : - Lệ phí cấp Giấy chứng nhận quyền sử dụng đất được thanh toán tại thời điểm nhận Giấy chứng nhận quyền sử dụng đất. Mức thu theo quy định tại Điều 19 Quyết định số 76/2021/QĐ-UBND ngày 14/12/2021 của UBND tỉnh ban hành Quy định các loại phí, lệ phí trên địa bàn tỉnh. - Thực hiện nghĩa vụ tài chính theo quy định.||
+|Trực tuyến|Không quá 36 ngày làm việc đối với đất ở của hộ gia đình, cá nhân; 46 ngày đối với đất thực hiện dự án của tổ chức (kể cả thời gian Tổ chức, cá nhân thực hiện nghĩa vụ tài chính).|Lệ phí : - Lệ phí cấp Giấy chứng nhận quyền sử dụng đất được thanh toán tại thời điểm nhận Giấy chứng nhận quyền sử dụng đất. Mức thu theo quy định tại Điều 19 Quyết định số 76/2021/QĐ-UBND ngày 14/12/2021 của UBND tỉnh ban hành Quy định các loại phí, lệ phí trên địa bàn tỉnh. - Thực hiện nghĩa vụ tài chính theo quy định.||
+|Dịch vụ bưu chính|Không quá 36 ngày làm việc đối với đất ở của hộ gia đình, cá nhân; 46 ngày đối với đất thực hiện dự án của tổ chức (kể cả thời gian Tổ chức, cá nhân thực hiện nghĩa vụ tài chính).|Lệ phí : - Lệ phí cấp Giấy chứng nhận quyền sử dụng đất được thanh toán tại thời điểm nhận Giấy chứng nhận quyền sử dụng đất. Mức thu theo quy định tại Điều 19 Quyết định số 76/2021/QĐ-UBND ngày 14/12/2021 của UBND tỉnh ban hành Quy định các loại phí, lệ phí trên địa bàn tỉnh. - Thực hiện nghĩa vụ tài chính theo quy định.||

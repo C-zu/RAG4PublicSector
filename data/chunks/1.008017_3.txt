@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định, phê duyệt báo cáo kinh tế kỹ thuật công trình giao thông
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : Đồng Tùy theo từng dự án|15 ngày làm việc đối với Sở GTVT kể từ ngày nhận hồ sơ hợp lệ, (không kể thời gian bổ sung hồ sơ, thời gian bổ sung hồ sơ tối đa là 20 ngày).05 ngày làm việc đối với UBND tỉnh|
+|Trực tuyến|20 Ngày|Phí : Đồng Tùy dự án|15 ngày làm việc đối với Sở GTVT kể từ ngày nhận hồ sơ hợp lệ, (không kể thời gian bổ sung hồ sơ, thời gian bổ sung hồ sơ tối đa là 20 ngày).05 ngày làm việc đối với UBND tỉnh|
+|Dịch vụ bưu chính|20 Ngày|Phí : Đồng Tỳ theo từng dự án|15 ngày làm việc đối với Sở GTVT kể từ ngày nhận hồ sơ hợp lệ, (không kể thời gian bổ sung hồ sơ, thời gian bổ sung hồ sơ tối đa là 20 ngày).05 ngày làm việc đối với UBND tỉnh|

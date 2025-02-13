@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp thẻ bảo hiểm y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHYT của tổ chức, cá nhân đối với người tham gia BHYT và Danh sách đối tượng tham gia BHYT của tổ chức, cá nhân lập theo Mẫu số 2 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda6097adb148f2'">Mẫu số 2.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb4a949a8784d7'">Mẫu số 4.docx</a>)
+- 01 Bản chính Tờ khai tham gia, điều chỉnh thông tin BHYT của người tham gia BHYT theo hộ gia đình và Danh sách thành viên hộ gia đình tham gia BHYT lập theo Mẫu số 3 Phụ lục ban hành kèm theo Nghị định số 146/2018/NĐ-CP ngày 17/10/2018. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe696467c884518'">Mẫu số 3.docx</a>)

@@ -1,0 +1,28 @@
+Tên thủ tục: Đăng ký thêm con dấu (thực hiện tại cấp tỉnh)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
++ Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng một con dấu theo mẫu do cơ quan nhà nước có thẩm quyền quy định.
++ Trường hợp cần thiết phải sử dụng thêm con dấu như con dấu đã cấp (dấu ướt, dấu nổi, dấu thu nhỏ, dấu xi), thực hiện theo quy định sau đây:
++ Cơ quan, tổ chức, chức danh nhà nước sử dụng thêm dấu ướt phải được sự cho phép của cơ quan có thẩm quyền;
++ Cơ quan, tổ chức, chức danh nhà nước tự quyết định việc sử dụng thêm dấu nổi, dấu thu nhỏ, dấu xi;
++ Tổ chức kinh tế tự quyết định việc sử dụng thêm con dấu.
+- Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng một con dấu theo mẫu do cơ quan nhà nước có thẩm quyền quy định.
+- Trường hợp cần thiết phải sử dụng thêm con dấu như con dấu đã cấp (dấu ướt, dấu nổi, dấu thu nhỏ, dấu xi), thực hiện theo quy định sau đây:
+ + Cơ quan, tổ chức, chức danh nhà nước sử dụng thêm dấu ướt phải được sự cho phép của cơ quan có thẩm quyền;
++ Cơ quan, tổ chức, chức danh nhà nước tự quyết định việc sử dụng thêm dấu nổi, dấu thu nhỏ, dấu xi;
++ Tổ chức kinh tế tự quyết định việc sử dụng thêm con dấu.
++ Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng một con dấu theo mẫu do cơ quan nhà nước có thẩm quyền quy định.
++ Trường hợp cần thiết phải sử dụng thêm con dấu như con dấu đã cấp (dấu ướt, dấu nổi, dấu thu nhỏ, dấu xi), thực hiện theo quy định sau đây:
++ Cơ quan, tổ chức, chức danh nhà nước sử dụng thêm dấu ướt phải được sự cho phép của cơ quan có thẩm quyền;
++ Cơ quan, tổ chức, chức danh nhà nước tự quyết định việc sử dụng thêm dấu nổi, dấu thu nhỏ, dấu xi;
++ Tổ chức kinh tế tự quyết định việc sử dụng thêm con dấu.
+- Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng một con dấu theo mẫu do cơ quan nhà nước có thẩm quyền quy định.
+- Trường hợp cần thiết phải sử dụng thêm con dấu như con dấu đã cấp (dấu ướt, dấu nổi, dấu thu nhỏ, dấu xi), thực hiện theo quy định sau đây:
+ + Cơ quan, tổ chức, chức danh nhà nước sử dụng thêm dấu ướt phải được sự cho phép của cơ quan có thẩm quyền;
++ Cơ quan, tổ chức, chức danh nhà nước tự quyết định việc sử dụng thêm dấu nổi, dấu thu nhỏ, dấu xi;
++ Tổ chức kinh tế tự quyết định việc sử dụng thêm con dấu.
+Từ khóa:
+Đăng ký, quản lý con dấu
+Mô tả:
+Không có thông tin

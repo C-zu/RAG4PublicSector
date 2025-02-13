@@ -1,0 +1,6 @@
+Tên thủ tục: Xác nhận thay đổi thông tin đăng ký hoạt động cơ sở in (cấp Trung ương).
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Trước khi hoạt động, cơ sở in thuộc các bộ, tổ chức trung ương và cơ sở in thuộc các tổ chức doanh nghiệp do Nhà nước là chủ sở hữu thực hiện chế bản, in, gia công sau in sản phẩm không thuộc đối tượng phải có giấy phép hoạt động in thì phải gửi hồ sơ đăng ký hoạt động in tới Cục Xuất bản, In và Phát hành - Bộ Thông tin và Truyền thông.
+- Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký hoạt động của cơ sở in, Cục Xuất bản, In và Phát hành có trách nhiệm xác nhận đăng ký và cập nhật thông tin vào cơ sở dữ liệu quốc gia về hoạt động in; trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do.

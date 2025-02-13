@@ -1,0 +1,23 @@
+Tên thủ tục: Cấp giấy phép nuôi trồng thủy sản trong phạm vi bảo vệ công trình thuỷ lợi thuộc thẩm quyền cấp phép của UBND tỉnh.
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Sở Nông nghiệp và Phát triển Nông thôn
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nuôi trồng thủy sản trong phạm vi bảo vệ công trình thuỷ lợi.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2017/QH14|Luật 08/2017/QH14|19-06-2017|Quốc Hội|
+|67/2018/NĐ-CP|Nghị định 67/2018/NĐ-CP|14-05-2018|Chính phủ|
+|40/2023/NĐ-CP|Nghị định 40/2023/NĐ-CP sửa đổi Nghị định 67/2018/NĐ-CP hướng dẫn Luật Thủy lợi|27-06-2023|Chính phủ|

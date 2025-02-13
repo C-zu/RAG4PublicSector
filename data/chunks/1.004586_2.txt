@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp, phân bổ địa chỉ IP
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+1. Cơ quan, tổ chức, doanh nghiệp có nhu cầu thiết lập mạng kết nối với Internet; cấp, phân bổ lại địa chỉ IP hoặc thay đổi tên chủ thể đăng ký sử dụng địa chỉ IP thì chuẩn bị hồ sơ cấp, phân bổ địa chỉ IP theo quy định và nộp đến Trung tâm Internet Việt Nam.
+2. Trung tâm Internet Việt Nam tiếp nhận và giải quyết hồ sơ theo quy định.
+3. Trung tâm Internet Việt Nam thông báo về thu phí, lệ phí đăng ký địa chỉ IP cho cơ quan, tổ chức, doanh nghiệp (nếu có).
+4. Cơ quan, tổ chức, doanh nghiệp hoàn tất nộp phí, lệ phí.
+5. Trung Internet Việt Nam xử lý thủ tục cấp, phân bổ địa chỉ IP (hoặc IP và ASN).
+6. Trả kết quả: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ, phí, lệ phí đầy đủ, hợp lệ, Trung tâm Internet Việt Nam có trách nhiệm cấp, phân bổ địa chỉ IP cho cơ quan, tổ chức, doanh nghiệp theo mẫu quy định tại Phụ lục 10a ban hành kèm theo Thông tư số 21/2021/TT-BTTTT. 
+Trường hợp từ chối cấp, Trung tâm Internet Việt Nam phải thông báo bằng văn bản và nêu rõ lý do.

@@ -1,0 +1,16 @@
+Tên thủ tục: Thủ tục cấp giấy đăng ký lưu hành dược liệu
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.005039
+Số quyết định:
+3246/QĐ-BYT
+Tên thủ tục:
+Thủ tục cấp giấy đăng ký lưu hành dược liệu
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Y Dược cổ truyền

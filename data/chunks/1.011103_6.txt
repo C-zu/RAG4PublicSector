@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định thiết kế xây dựng triển khai sau thiết kế cơ sở/thiết kế xây dựng triển khai sau thiết kế cơ sở điều chỉnh (SCT)
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Hồ sơ trình thẩm định phải bảo đảm tính pháp lý, phù hợp với nội dung đề nghị thẩm định. Hồ sơ trình thẩm định được xem là hợp lệ khi bảo đảm các nội dung quy định tại Điều 33 và khoản 3 Điều 37 Nghị định số 15/2021/NĐ-CP ngày 03/3/2021 của Chính phủ, được sửa đổi bởi khoản 11 Điều 12 Nghị định số 35/2023/NĐ-CP ngày 20/6/2023 của Chính phủ, đúng quy cách, được trình bày với ngôn ngữ chính là tiếng Việt và được người đề nghị thẩm định kiểm tra, xác nhận. Phần hồ sơ thiết kế kiến trúc trong hồ sơ thiết kế xây dựng (nếu có) cần tuân thủ quy định theo pháp luật về kiến trúc.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

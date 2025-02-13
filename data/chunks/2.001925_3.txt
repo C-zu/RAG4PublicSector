@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục giải quyết khiếu nại lần đầu tại cấp xã
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|khác||Theo Điều 28 Luật Khiếu nại Thời hạn giải quyết khiếu nại lần đầu không quá 30 ngày, kể từ ngày thụ lý để giải quyết; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý để giải quyết. Ở vùng sâu, vùng xa đi lại khó khăn, thì thời hạn giải quyết khiếu nại lần đầu không quá 45 ngày, kể từ ngày thụ lý để giải quyết; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 60 ngày, kể từ ngày thụ lý để giải quyết|
+|Dịch vụ bưu chính|khác||Theo Điều 28 Luật Khiếu nại Thời hạn giải quyết khiếu nại lần đầu không quá 30 ngày, kể từ ngày thụ lý để giải quyết; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý để giải quyết. Ở vùng sâu, vùng xa đi lại khó khăn, thì thời hạn giải quyết khiếu nại lần đầu không quá 45 ngày, kể từ ngày thụ lý để giải quyết; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 60 ngày, kể từ ngày thụ lý để giải quyết|

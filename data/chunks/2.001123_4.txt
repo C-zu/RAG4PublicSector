@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd89b896f94f834'">Mau so 01.docx</a>)
+- 01 Bản sao Giấy chứng nhận hoặc công bố hợp chuẩn, hợp quy: bản sao có chứng thực, trường hợp bản sao không có chứng thực thì mang bản chính để đối chiếu;
+- 01 Bản chính, 01 Bản sao Tài liệu kỹ thuật mô tả chức năng của sản phẩm đề nghị nhập khẩu: bản sao, bằng tiếng Việt Nam hoặc tiếng Anh

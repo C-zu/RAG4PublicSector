@@ -1,0 +1,10 @@
+Tên thủ tục: Xác nhận thông tin về cư trú
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0.5 Ngày làm việc|Phí : 0 Đồng|- Nộp hồ sơ trực tiếp tại Công an cấp xã nơi thuận lợi, phù hợp không phụ thuộc vào nơi cư trú của công dân. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). Kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký cư trú có trách nhiệm cấp xác nhận thông tin về cư trú cho công dân trong thời hạn 01 ngày làm việc với trường hợp thông tin có trong Cơ sở dữ liệu quốc gia về dân cư.|
+|Trực tiếp|03 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký cư trú có trách nhiệm cấp xác nhận thông tin về cư trú cho công dân trong thời hạn 03 ngày làm việc với trường hợp cần xác minh; trường hợp từ chối giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.|
+|Trực tuyến|0.5 Ngày làm việc|Phí : 0 Đồng|- Nộp hồ sơ trực tuyến qua các cổng cung cấp dịch vụ công trực tuyến như: Trực tuyến qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, ứng dụng VNeID hoặc dịch vụ công trực tuyến khác theo quy định của pháp luật. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). Kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký cư trú có trách nhiệm cấp xác nhận thông tin về cư trú cho công dân trong thời hạn 01 ngày làm việc với trường hợp thông tin có trong Cơ sở dữ liệu quốc gia về dân cư.|
+|Trực tuyến|03 Ngày làm việc|Phí : 0 Đồng|Kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký cư trú có trách nhiệm cấp xác nhận thông tin về cư trú cho công dân trong thời hạn 03 ngày làm việc với trường hợp cần xác minh; trường hợp từ chối giải quyết xác nhận thông tin về cư trú thì phải trả lời bằng văn bản và nêu rõ lý do.|

@@ -1,0 +1,8 @@
+Tên thủ tục: Chấm dứt hoạt động của chi nhánh của tổ chức hòa giải thương mại nước ngoài tại Việt Nam
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Thông báo về việc chấm dứt hoạt động của chi nhánh; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0c5ad2666dbe9'">Mau so 20.TP-HGTM.docx</a>)
+- 01 Bản chính - Báo cáo về việc thanh toán xong các khoản nợ, nghĩa vụ tài sản khác, thanh lý các hợp đồng lao động, hoàn tất các vụ việc đã nhận.

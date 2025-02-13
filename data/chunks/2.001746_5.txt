@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp, điều chỉnh Giấy phép khai thác khoáng sản; cấp Giấy phép khai thác khoáng sản ở khu vực có dự án đầu tư xây dựng công trình (Cấp Trung ương)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Khoáng sản Việt Nam
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Ủy ban nhân dân các cấp
+Kết quả thực hiện:
+Giấy phép khai thác khoáng sản; Quyết định điều chỉnh giấy phép khai thác khoáng sản
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2010/QH12|Luật 60/2010/QH12|17-11-2010|Quốc Hội|
+|54/2014/TTLT-BTNMT-BTC|Thông tư liên tịch 54/2014/TTLT-BTNMT-BTC|09-09-2014|Bộ Tài chính|
+|27/2015/TT-BTNMT|Thông tư 27/2015/TT-BTNMT|29-05-2015|Bộ Tài nguyên và Môi trường|
+|191/2016/TT-BTC|Thông tư 191/2016/TT-BTC|08-11-2016|Bộ Tài chính|
+|158/2016/NĐ-CP|Nghị định 158/2016/NĐ-CP|29-11-2016|Chính phủ|
+|45/2016/TT-BTNMT|Thông tư 45/2016/TT-BTNMT|26-12-2016|Bộ Tài nguyên và Môi trường|

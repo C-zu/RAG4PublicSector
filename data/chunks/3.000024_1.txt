@@ -1,0 +1,16 @@
+Tên thủ tục: Đề nghị thanh toán chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+3.000024
+Số quyết định:
+1696/QĐ-BTP
+Tên thủ tục:
+Đề nghị thanh toán chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+Loại khác
+Lĩnh vực:
+Hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa

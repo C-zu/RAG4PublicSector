@@ -1,0 +1,16 @@
+Tên thủ tục: Thông báo lập chi nhánh, văn phòng đại diện ở nước ngoài (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.002070
+Số quyết định:
+885/QĐ-BKHĐT
+Tên thủ tục:
+Thông báo lập chi nhánh, văn phòng đại diện ở nước ngoài (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Thành lập và hoạt động của doanh nghiệp

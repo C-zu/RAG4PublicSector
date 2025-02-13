@@ -1,0 +1,15 @@
+Tên thủ tục: Đăng ký lưu hành mới chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Văn bản đề nghị đăng ký lưu hành mới theo Mẫu số 04 tại Phụ lục I ban hành kèm theo Nghị định số 155/2018/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4b9a410f2f570'">Mau 04 MTYT 5083.docx</a>)
+- 01 Bản sao 2. Giấy tờ về tư cách pháp nhân của cơ sở đăng ký, cơ sở sản xuất.
+- 01 Bản chính 3. Giấy ủy quyền thực hiện việc đăng ký lưu hành trừ trường hợp quy định tại điểm a khoản 1 Điều 20 Nghị định số 91/2016/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feab31682771211'">Phu luc VII MTYT 5083.docx</a>)
+- 01 Bản chính 4. Tài liệu kỹ thuật của chế phẩm đề nghị đăng ký gồm các nội dung theo quy định tại Phụ lục V ban hành kèm theo Nghị định số 91/2016/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefaf3184a1bcdf'">Phu luc V MTYT 5083.docx</a>)
+- 01 Bản chính, 01 Bản sao 5. Kết quả kiểm nghiệm thành phần và hàm lượng hoạt chất trong chế phẩm (được bổ sung cùng Phiếu trả lời kết quả khảo nghiệm).
+- 01 Bản chính, 01 Bản sao 6. Phiếu trả lời kết quả khảo nghiệm (được bổ sung sau khi Bộ Y tế có văn bản cho phép khảo nghiệm).
+- 01 Bản sao 7. Mẫu nhãn của chế phẩm.
+- 01 Bản chính 8. Giấy chứng nhận lưu hành tự do (đối với chế phẩm nhập khẩu). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fac386821103040'">Phu luc VIII MTYT 5083.docx</a>)
+- 01 Bản sao 9. Tài liệu, kết quả nghiên cứu về an toàn và hiệu lực hoặc khuyến cáo của Tổ chức Y tế thế giới hoặc các tổ chức quốc tế tương đương về việc sử dụng chế phẩm trong lĩnh vực gia dụng và y tế (đối với chế phẩm có chứa hoạt chất hoặc có dạng sản phẩm lần đầu tiên đăng ký tại Việt Nam).

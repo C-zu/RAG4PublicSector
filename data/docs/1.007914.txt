@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.007914
+Số quyết định:
+1927 /QĐ-UBND
+Tên thủ tục:
+Thẩm định lựa chọn giao doanh nghiệp/hợp tác xã quản lý chợ
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lưu thông hàng hóa trong nước
+Trình tự thực hiện:
+Bước 1. Sau khi Phương án chuyển đổi mô hình quản lý chợ được phê duyệt và thông báo công khai, các doanh nghiệp/hợp tác xã có nhu cầu tiếp nhận quản lý chợ nộp hồ sơ đăng ký được nhận chuyển giao quản lý chợ về Phòng Kinh tế - Hạ tầng huyện, Phòng Kinh tế thành phố (Cơ quan thường trực Ban chuyển đổi chợ cấp huyện).
+Bước 2. Trong thời hạn không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký đầy đủ và hợp lệ, Ban chuyển đổi chợ cấp huyện tổ chức xét chọn doanh nghiệp/hợp tác xã quản lý chợ trên địa bàn, trình Ban chuyển đổi chợ cấp tỉnh thẩm định.
+Bước 3. Trong thời hạn không quá 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ của Ban chuyển đổi chợ cấp huyện, Ban chuyển đổi chợ cấp tỉnh thẩm định, tổ chức đấu thầu theo Luật Đấu thầu (nếu có), trình UBND tỉnh xem xét, quyết định.
+Bước 4. Trả kết quả cho các doanh nghiệp/hợp tác xã được giao quản lý chợ qua đường bưu điện.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||30 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.|
+|Dịch vụ bưu chính|30 Ngày làm việc||30 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 010 Bản chính Công văn đề nghị chuyển giao quản lý chợ;
+- 010 Bản chính Hồ sơ năng lực của đơn vị gồm: + Giới thiệu về đơn vị: tên gọi, trụ sở làm việc, số tài khoản, nơi mở tài khoản, ngành nghề kinh doanh, năng lực tài chính, kinh nghiệm tổ chức quản lý kinh doanh; + Phương án giải quyết các nội dung, yêu cầu, điều kiện của Phương án chuyển đổi mô hình quản lý chợ đã được phê duyệt; + Quyền lợi, trách nhiệm của các đối tượng có liên quan trong thực hiện Phương án; + Các đề xuất, kiến nghị;
+- 010 Bản chính Phương án tổ chức quản lý chợ;
+- 010 Bản chính Các tài liệu khác có liên quan;
+- 010 Bản chính Cam kết tổ chức quản lý hoạt động chợ theo quy định hiện hành
+
+Đối tượng thực hiện:
+Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện:
+Phòng Kinh tế & Hạ tầng, Sở Công Thương - tỉnh Lạng Sơn
+Cơ quan có thẩm quyền:
+Sở Công Thương - tỉnh Lạng Sơn
+Địa chỉ tiếp nhận HS:
+Phòng Kinh tế - Hạ tầng huyện, Phòng Kinh tế thành phố
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+- Văn bản đề nghị phê duyệt Nội quy chợ của chủ thể quản lý chợ (do Trưởng Ban Quản lý chợ/Giám đốc doanh nghiệp, cá nhân quản lý chợ đề nghị);
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|28/2014/QĐ-UBND|BAN HÀNH QUY ĐỊNH VỀ QUY TRÌNH CHUYỂN ĐỔI MÔ HÌNH QUẢN LÝ CHỢ TRÊN ĐỊA BÀN TỈNH LẠNG SƠN|20-12-2014||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

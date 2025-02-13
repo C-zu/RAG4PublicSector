@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp Giấy phép lập cơ sở bán lẻ cho phép cơ sở bán lẻ được tiếp tục hoạt động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 02 Bản chính b) Bản giải trình cơ sở bán lẻ có nội dung: (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe7c60bba34b8b7'">10CV- Bộ trả lời Sở.doc</a>)
+- 02 Bản chính a) Đơn đề nghị cấp Giấy phép lập cơ sở bán lẻ (Mẫu số 08 Phụ lục ban hành kèm theo Nghị định số 09/2018/NĐ-CP) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd0ddf715c427a0'">08MĐ-Đơn cho phép CSBL được hoạt động.doc</a>)
+- 02 Bản chính b) Bản giải trình cơ sở bán lẻ có nội dung: (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd49209ede093e8'">09CV-Sở hỏi Bộ.doc</a>)
+ - Địa điểm lập cơ sở bán lẻ: địa chỉ cơ sở bán lẻ; mô tả khu vực chung, có liên quan và khu vực sử dụng để lập cơ sở bán lẻ; giải trình việc đáp ứng điều kiện quy định tại điểm c khoản 1 Điều 22 Nghị định số 09/2018/NĐ-CP; giải trình các tiêu chí ENT quy định tại các điểm c, d và đ khoản 2 Điều 23 Nghị định, trong trường hợp đề nghị cấp Giấy phép lập cơ sở bán lẻ cho cơ sở bán lẻ quy định tại khoản 1 Điều 23 Nghị định số 09/2018/NĐ-CP; kèm theo tài liệu về địa điểm lập cơ sở bán lẻ;
+ - Tình hình kinh doanh của cơ sở bán lẻ; kế hoạch kinh doanh và phát triển thị trường; nhu cầu về lao động; đánh giá tác động, hiệu quả kinh tế - xã hội của kế hoạch kinh doanh của cơ sở bán lẻ;
+ - Kết quả hoạt động kinh doanh của cơ sở bán lẻ trên cơ sở báo cáo tài chính đã được kiểm toán của năm gần nhất;
+ - Địa điểm lập cơ sở bán lẻ: địa chỉ cơ sở bán lẻ; mô tả khu vực chung, có liên quan và khu vực sử dụng để lập cơ sở bán lẻ; giải trình việc đáp ứng điều kiện quy định tại điểm c khoản 1 Điều 22 Nghị định số 09/2018/NĐ-CP; giải trình các tiêu chí ENT quy định tại các điểm c, d và đ khoản 2 Điều 23 Nghị định, trong trường hợp đề nghị cấp Giấy phép lập cơ sở bán lẻ cho cơ sở bán lẻ quy định tại khoản 1 Điều 23 Nghị định số 09/2018/NĐ-CP; kèm theo tài liệu về địa điểm lập cơ sở bán lẻ;
+ - Tình hình kinh doanh của cơ sở bán lẻ; kế hoạch kinh doanh và phát triển thị trường; nhu cầu về lao động; đánh giá tác động, hiệu quả kinh tế - xã hội của kế hoạch kinh doanh của cơ sở bán lẻ;
+ - Kết quả hoạt động kinh doanh của cơ sở bán lẻ trên cơ sở báo cáo tài chính đã được kiểm toán của năm gần nhất;
+- 02 Bản chính c) Báo cáo tổng hợp về kết quả hoạt động kinh doanh của tổ chức kinh tế trên cơ sở báo cáo tài chính đã được kiểm toán của năm gần nhất; kế hoạch tài chính; kèm theo tài liệu về tài chính;
+- 02 Bản chính d) Tài liệu của cơ quan thuế chứng minh không còn nợ thuế quá hạn;
+- 02 Bản sao đ) Bản sao: Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư dự án lập cơ sở bán lẻ (nếu có), Giấy phép kinh doanh (nếu có).

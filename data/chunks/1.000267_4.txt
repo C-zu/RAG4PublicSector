@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Bản công bố phù hợp Lao động hàng hải Phần I
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Bản công bố phù hợp Lao động hàng hải phần I của chủ tàu theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4825d33c2a28b'">Don de nghi.doc</a>)
+- 01 Bản sao Giấy chứng nhận đăng ký tàu biển (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe373697789f443'">GCN ĐK tàu biển.docx</a>)
+- 01 Bản chính văn bản của tổ chức, cá nhân cam kết chịu trách nhiệm về hoạt động của tàu thay cho người sở hữu tàu và đồng ý đảm nhận các nghĩa vụ và trách nhiệm của chủ tàu theo quy định của Công ước MLC 2006 (trong trường hợp chủ tàu không đồng thời là chủ sở hữu tàu).
+- 01 Bản sao hợp đồng thuê tàu
+- 01 Bản chính giấy ủy quyền theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feb82ba2c3970da'">Giay uy quyen.doc</a>)

@@ -1,0 +1,7 @@
+Tên thủ tục: Khai quyết toán phí, lệ phí khác thuộc ngân sách nhà nước.
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
++ Bước 1: Cơ quan, tổ chức được giao nhiệm vụ thu  phí, lệ phí thuộc Ngân sách Nhà nước nộp hồ sơ khai quyết toán phí, lệ phí cho cơ quan thuế quản lý trực tiếp chậm nhất là ngày thứ 90 (chín mươi), kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.
++ Bước 2. Cơ quan thuế tiếp nhận:
+Cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định đối sơ hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính. Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.

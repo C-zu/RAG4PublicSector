@@ -1,0 +1,20 @@
+Tên thủ tục: Thủ tục thay đổi, bổ sung phạm vi, lĩnh vực đánh giá sự phù hợp được chỉ định
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Điều kiện đối với tổ chức thử nghiệm được chỉ định
++ Đã được cấp giấy chứng nhận đăng ký hoạt động thử nghiệm theo quy định tại Nghị định số 107/2016/NĐ-CP, trong đó có lĩnh vực thử nghiệm đăng ký chỉ định;
++ Phải thực hiện việc thử nghiệm thành thạo hoặc so sánh liên phòng đối với phương pháp thử của sản phẩm, hàng hóa đăng ký chỉ định.
+Đối với các phép thử không có đơn vị tổ chức thử nghiệm thành thạo hoặc không thể thực hiện so sánh liên phòng do không có phòng thử nghiệm nào trong nước phân tích thì phải bổ sung hồ sơ phương pháp thử, xác nhận giá trị sử dụng của phương pháp thử và chất chuẩn để kiểm soát chất lượng thử nghiệm.
+- Điều kiện đối với tổ chức kiểm định, giám định, chứng nhận được chỉ định:   
+Đã được cấp giấy chứng nhận đăng ký hoạt động kiểm định, giám định, chứng nhận theo quy định tại Nghị định số 107/2016/NĐ-CP, trong đó có lĩnh vực kiểm định, giám định, chứng nhận đăng ký chỉ định.
+- Điều kiện đối với tổ chức thử nghiệm được chỉ định
++ Đã được cấp giấy chứng nhận đăng ký hoạt động thử nghiệm theo quy định tại Nghị định số 107/2016/NĐ-CP, trong đó có lĩnh vực thử nghiệm đăng ký chỉ định;
++ Phải thực hiện việc thử nghiệm thành thạo hoặc so sánh liên phòng đối với phương pháp thử của sản phẩm, hàng hóa đăng ký chỉ định.
+Đối với các phép thử không có đơn vị tổ chức thử nghiệm thành thạo hoặc không thể thực hiện so sánh liên phòng do không có phòng thử nghiệm nào trong nước phân tích thì phải bổ sung hồ sơ phương pháp thử, xác nhận giá trị sử dụng của phương pháp thử và chất chuẩn để kiểm soát chất lượng thử nghiệm.
+- Điều kiện đối với tổ chức kiểm định, giám định, chứng nhận được chỉ định:   
+Đã được cấp giấy chứng nhận đăng ký hoạt động kiểm định, giám định, chứng nhận theo quy định tại Nghị định số 107/2016/NĐ-CP, trong đó có lĩnh vực kiểm định, giám định, chứng nhận đăng ký chỉ định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

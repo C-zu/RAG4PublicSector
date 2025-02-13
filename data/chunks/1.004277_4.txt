@@ -1,0 +1,15 @@
+Tên thủ tục: Phê duyệt trữ lượng khoáng sản (cấp Trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị phê duyệt trữ lượng khoáng sản (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3987df1fe01e3'">Mẫu số 19 Đơn đề nghị phê duyệt trữ lượng ks.docx</a>)
+- 01 Bản chính tài liệu luận giải chỉ tiêu tính trữ lượng hoặc báo cáo khả thi của dự án đầu tư khai thác khoáng sản
+- 01 Bản chính biên bản nghiệm thu khối lượng, chất lượng công trình thăm dò khoáng sản đã thi công của tổ chức, cá nhân
+- 01 Bản chính báo cáo kết quả giám sát thi công đề án thăm dò khoáng sản
+ Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu đối với giấy tờ sau:
+- 01 Bản sao - Đề án thăm dò khoáng sản đã được thẩm định và Giấy phép thăm dò khoáng sản;
+- 01 Bản sao - Giấy phép khai thác khoáng sản trong trường hợp thăm dò nâng cấp trữ lượng khoáng sản trong khu vực được phép khai thác.
+- 01 Bản chính Báo cáo kết quả thăm dò khoáng sản hoặc báo cáo kết quả thăm dò nâng cấp trữ lượng khoáng sản, các phụ lục, bản vẽ và tài liệu nguyên thủy có liên quan; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2e47bd15afc35'">Mẫu số 39 báo cáo kết quả thăm dò ks.docx</a>)
+ Dữ liệu của tài liệu báo cáo kết quả thăm dò (Báo cáo kết quả thăm dò khoáng sản, các phụ lục, bản vẽ và tài liệu nguyên thủy có liên quan; phụ lục luận giải chỉ tiêu tạm thời tính trữ lượng khoáng sản hoặc báo cáo khả thi của dự án đầu tư khai thác khoáng sản; biên bản nghiệm thu khối lượng, chất lượng công trình thăm dò khoáng sản đã thi công của tổ chức, cá nhân; báo cáo kết quả giám sát thi công đề án thăm dò khoáng sản) ghi trên đĩa CD (01 bộ).

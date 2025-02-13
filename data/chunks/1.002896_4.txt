@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp do bị mất hoặc cấp đổi do bị hư hỏng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy đề nghị cấp lại (hoặc cấp đổi) Giấy phép sử dụng vật liệu nổ công nghiệp (bản chính) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feed96aa13e0295'">GIẤY ĐỀ NGHỊ SDVLNCN - mẫu 05.doc</a>)
+- 01 Bản sao Bản sao giấy tờ chứng minh đã nộp tiền lệ phí thẩm định cấp phép theo quy định
+- 01 Bản sao Hồ sơ, tài liệu khác có liên quan (nếu có) BQP

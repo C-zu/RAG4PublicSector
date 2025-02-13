@@ -1,0 +1,10 @@
+Tên thủ tục: Công nhận khu vực biển cấp tỉnh
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị công nhận khu vực biển được lập theo Mẫu số 01 của Nghị định số 11/2012/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6bd15ccfb8826'">Mẫu 01.docx</a>)
+- 01 Bản chính b) Bản chính hợp đồng cho thuê đất hoặc quyết định giao đất, cho thuê đất có mặt nước ven biển, mặt nước biển hoặc giấy chứng nhận quyền sử dụng đất có mặt nước ven biển, mặt nước biển (nếu có); văn bản cho phép tổ chức, cá nhân khai thác, sử dụng tài nguyên biển (nếu có) do cơ quan quản lý nhà nước có thẩm quyền cấp;
+- 01 Bản chính c) Bản chính Báo cáo tình hình sử dụng khu vực biển, công tác bảo vệ môi trường và việc thực hiện các nghĩa vụ tài chính của tổ chức, cá nhân tính đến thời điểm nộp hồ sơ đề nghị công nhận khu vực biển;
+- 01 Bản chính d) Sơ đồ khu vực biển đề nghị công nhận, trong đó thể hiện tọa độ các điểm góc của khu vực biển đề nghị giao được lập theo Mẫu số 05 của Nghị định số 11/2021/NĐ-CP. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5365e8d81d69c'">Mẫu số 05.docx</a>)

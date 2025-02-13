@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp phép thi công xây dựng biển quảng cáo tạm thời trong phạm vi hành lang an toàn đường bộ của quốc lộ đang khai thác đối với đoạn, tuyến quốc lộ thuộc phạm vi được giao quản lý
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|7 Ngày làm việc||Trong 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|7 Ngày làm việc||Trong 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|

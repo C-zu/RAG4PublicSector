@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003681
+Số quyết định:
+Quyết định số: 676/QĐ-BNN-TCTS
+Tên thủ tục:
+Xóa đăng ký tàu cá
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+a) Tổ chức, cá nhân nộp 01 bộ hồ sơ đến Cơ quan quản lý nhà nước về thủy sản cấp tỉnh;
+b) Trường hợp nộp hồ sơ trực tiếp: Cơ quan quản lý nhà nước về thủy sản cấp tỉnh kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ;
+c) Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn không quá 02 ngày làm việc, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh có văn bản thông báo rõ cho tổ chức, cá nhân bổ sung; 
+d) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cơ quan quản lý nhà nước về thủy sản cấp tỉnh cấp Giấy chứng nhận xóa đăng ký tàu cá theo Mẫu số 11.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT ngày 18/01/2022; bàn giao Giấy chứng nhận đăng ký tàu cá cũ đã cắt góc phía trên bên phải và hồ sơ đăng ký gốc của tàu cho chủ tàu. Trường hợp không cấp Giấy chứng nhận xóa đăng ký tàu cá, tàu công vụ thủy sản cơ quan có thẩm quyền trả lời bằng văn bản và nêu rõ lý do;
+đ) Cơ quan quản lý nhà nước về thủy sản cấp tỉnh trả kết quả trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có);
+e) Giấy chứng nhận xóa đăng ký tàu cá được cấp 01 bản chính cho chủ tàu;
+g) Đối với tàu cá bị phá hủy, phá dỡ hoặc chìm đắm không thể trục vớt được quy định tại điểm a khoản 1 Điều 72 Luật Thủy sản, chậm nhất 30 ngày kể từ ngày tàu cá bị phá hủy, phá dỡ hoặc chìm đắm, chủ tàu phải nộp lại bản chính Giấy chứng nhận đăng ký tàu cá cho cơ quan nơi tàu cá đăng ký (trừ trường hợp Giấy chứng nhận đăng ký tàu cá bị mất); Cơ quan đăng ký tàu cá xóa tên tàu cá trong sổ đăng ký tàu cá quốc gia;
+h) Đối với tàu cá mất tích được quy định tại điểm b khoản 1 Điều 72 Luật Thủy sản, cơ quan đăng ký tàu cá mất tích phải thông báo trên phương tiện thông tin đại chúng. Chậm nhất 30 ngày, sau thời hạn 01 năm kể từ ngày có thông báo, chủ tàu có tàu cá mất tích phải nộp lại bản chính Giấy chứng nhận đăng ký tàu cá cho cơ quan nơi tàu cá đăng ký (trừ trường hợp Giấy chứng nhận đăng ký tàu cá bị mất); Cơ quan đăng ký tàu cá xóa tên tàu cá trong sổ đăng ký tàu cá quốc gia.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Trực tuyến|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+|Dịch vụ bưu chính|03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp tại Cơ quan quản lý nhà nước về thủy sản cấp tỉnh hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (cổng thông tin một cửa quốc gia, dịch vụ công trực tuyến, phần mềm điện tử, email, fax) nếu có.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Tờ khai xóa đăng ký tàu cá theo Mẫu số 10.ĐKT Phụ lục XVI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 10.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcfd9aed435d5c8'))
+- 01 Bản chính b) Bản chính Giấy chứng nhận đăng ký tàu cá; trường hợp Giấy chứng nhận đăng ký tàu cá bị mất, chủ tàu phải khai báo và nêu rõ lý do.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cơ quan quản lý nhà nước về thủy sản cấp tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận xóa đăng ký tàu cá
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|23/2018/TT-BNNPTNT|Thông tư 23/2018/TT-BNNPTNT|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+|01/2022/TT-BNNPTNT|Thông tư 01/2022/TT-BNNPTNT|18-01-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Điều 72 Luật Thủy sản quy định:
+1. Tàu cá bị xóa đăng ký thuộc một trong các trường hợp sau đây:
+a) Tàu cá bị hủy, phá dỡ hoặc chìm đắm không thể trục vớt;
+b) Tàu cá bị mất tích sau 01 năm kể từ ngày thông báo chính thức trên phương tiện thông tin đại chúng;
+c) Tàu cá được xuất khẩu, bán, tặng cho, viện trợ;
+d) Theo đề nghị của chủ tàu cá.
+Điều 72 Luật Thủy sản quy định:
+1. Tàu cá bị xóa đăng ký thuộc một trong các trường hợp sau đây:
+a) Tàu cá bị hủy, phá dỡ hoặc chìm đắm không thể trục vớt;
+b) Tàu cá bị mất tích sau 01 năm kể từ ngày thông báo chính thức trên phương tiện thông tin đại chúng;
+c) Tàu cá được xuất khẩu, bán, tặng cho, viện trợ;
+d) Theo đề nghị của chủ tàu cá.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

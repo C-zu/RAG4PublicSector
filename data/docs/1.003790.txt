@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003790
+Số quyết định:
+2466/QĐ-BNN-VP
+Tên thủ tục:
+Cấp, cấp lại giấy phép nhập khẩu thủy sản sống đối với trường hợp không phải đánh giá rủi ro
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+4.1. Trình tự thực hiện: 
+a) Tổ chức, cá nhân gửi 01 bộ hồ sơ đến Cục Thủy sản;
+b) Trong thời hạn không quá 02 ngày làm việc kể từ khi nhận được hồ sơ,  Cục Thủy sản xem xét tính đầy đủ của hồ sơ; nếu hồ sơ chưa đầy đủ theo quy định,  Cục Thủy sản thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do;
+c) Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ,   Cục  Thủy sản cấp Giấy phép nhập khẩu thủy sản sống kèm theo Kế hoạch kiểm soát thủy sản sống được phê duyệt (đối với trường hợp quy định tại điểm a, điểm b khoản 2 Điều 4 Thông tư số 25/2018/TT/BNNPTNT ngày 15/11/2018) hoặc phương án xử lý sau khi kết thúc hội chợ, triển lãm được phê duyệt (đối với trường hợp quy định tại điểm c khoản 2 Điều 4 Thông tư số 25/2018/TT/BNNPTNT ngày 15/11/2018) theo Mẫu số 06 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT/BNNPTNT ngày 15/11/2018.
+d)  Cục Thủy sản trả Giấy phép nhập khẩu thủy sản sống trực tiếp tại nơi nhận hồ sơ hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia.|
+|Trực tuyến|07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia.|
+|Dịch vụ bưu chính|07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc dịch vụ công trực tuyến hoặc cơ chế một cửa quốc gia.|
+
+Thành phần hồ sơ:
+
+a) Hồ sơ đề nghị cấp phép nhập khẩu thủy sản sống để làm thực phẩm, làm cảnh, giải trí bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp phép theo Mẫu số 01 Phụ lục XIX ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe03bd36e3e9e4b'))
+- 01 Bản chính - Kế hoạch kiểm soát thủy sản sống nhập khẩu theo Mẫu số 03 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT-BNNPTNT; ([Mẫu số 03=2.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe42b6528e92ee2'))
+- 01 Bản chính - Bản chính Báo cáo kết quả nhập khẩu, vận chuyển, nuôi giữ thủy sản sống trong 12 tháng tính đến thời điểm nộp hồ sơ theo Mẫu số 03 Phụ lục XIX ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; bản sao biên bản kiểm tra của cơ quan quản lý nhà nước về thủy sản theo Mẫu số 07 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT-BNNPTNT (áp dụng đối với trường hợp tổ chức, cá nhân có hoạt động nhập khẩu bất kỳ thủy sản sống từ lần thứ hai trở đi). ([Mẫu số 03=2.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe62e5510e487cb'))
+
+
+b) Hồ sơ đề nghị cấp phép nhập khẩu thủy sản sống để nghiên cứu khoa học bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp phép theo Mẫu số 01 Phụ lục XIX ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd8976049ab834a'))
+- 01 Bản chính - Kế hoạch kiểm soát thủy sản sống nhập khẩu theo Mẫu số 03 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT-BNNPTNT; ([Mẫu số 03=2.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc005ca707df2cc'))
+- 01 Bản chính - Bản chính đề cương nghiên cứu khoa học đã được cơ quan có chức năng nghiên cứu khoa học hoặc cơ quan quản lý nhà nước phê duyệt.
+
+
+c) Hồ sơ đề nghị cấp phép nhập khẩu thủy sản sống để trưng bày tại hội chợ, triển lãm bao gồm:
+- 01 Bản chính - Đơn đề nghị cấp phép theo Mẫu số 01 Phụ lục XIX ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; ([Mẫu số 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0240cce36caee'))
+- 01 Bản chính - Bản chính giấy tờ chứng minh về việc tham gia hội chợ, triển lãm và phương án xử lý sau khi kết thúc hội chợ, triển lãm theo Mẫu số 05 Phụ lục ban hành kèm theo Thông tư số 25/2018/TT-BNNPTNT. ([Mẫu số 05.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd304bc7461d680'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Thủy sản - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép nhập khẩu thủy sản sống đối với trường hợp không phải đánh giá rủi ro
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|25/2018/TT-BNNPTNT|Thông tư 25/2018/TT-BNNPTNT|15-11-2018||
+|01/2022/TT-BNNPTNT|Thông tư 01/2022/TT-BNNPTNT|18-01-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

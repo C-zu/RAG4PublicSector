@@ -1,0 +1,10 @@
+Tên thủ tục: Gia hạn đăng ký lưu hành bộ xét nghiệm nhanh thực phẩm
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Doanh nghiệp nộp hồ sơ gia hạn đăng ký lưu hành về Cục An toàn thực phẩm (Cục ATTP).
+Bước 2: Cục ATTP nhận hồ sơ và cấp giấy hẹn trả lời kết quả sau khi nhận đủ hồ sơ hợp lệ và phí, lệ phí theo quy định của pháp luật.
+Bước 3: Trên cơ sở hồ sơ đề nghị gia hạn đăng ký lưu hành, các thông tin liên quan, quyết định:
+- Cho phép gia hạn đăng ký lưu hành: Cấp giấy gia hạn đăng ký lưu hành;
+- Không cho phép gia hạn đăng ký lưu hành: Thông báo cho tổ chức bằng văn bản, trong đó nêu rõ lý do không cho phép gia hạn đăng ký lưu hành.
+Bước 4: Trả kết quả cho doanh nghiệp đã nộp hồ sơ.

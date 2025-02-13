@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục tặng thưởng danh hiệu Chiến sỹ thi đua toàn quốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm theo danh sách cá nhân được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe14c7f51ae2e54'">Mẫu số 01.docx</a>)
+- 01 Bản chính + 02 báo cáo thành tích của cá nhân có xác nhận của đơn vị trình khen thưởng (mẫu số 03 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fead0399cc7ccd1'">Mẫu số 03.docx</a>)
+- 01 Bản chính + Văn bản đề nghị công nhận hiệu quả áp dụng và phạm vi ảnh hưởng của sáng kiến kèm tóm tắt sáng kiến toàn quốc của cá nhân (mẫu số 11, 12 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023) hoặc quyết định công nhận đề tài khoa học. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb9527ca1b3028'">Mẫu số 11.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd872162063412e'">Mẫu số 12.docx</a>)
+- 01 Bản chính + Biên bản họp kèm kết quả bỏ phiếu kín của Hội đồng Thi đua - Khen thưởng của đơn vị có tỷ lệ phiếu bầu từ 90% trở lên, tính trên tổng số thành viên của Hội đồng đơn vị (nếu thành viên Hội đồng vắng mặt thì lấy ý kiến bằng văn bản)

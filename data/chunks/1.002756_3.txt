@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp thị thực điện tử theo đề nghị của cơ quan, tổ chức
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tuyến|3 Ngày|Lệ phí : 25 USD + Thị thực có giá trị một lần: 25USD/thị thực điện tử.  Lệ phí : 50 USD + Thị thực có giá trị nhiều lần: 50USD/thị thực điện tử.|Nộp hồ sơ trực tuyến qua Trang thông tin cấp thị thực điện tử hoặc Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an. Không quá 03 ngày làm việc kể từ ngày Cục Quản lý xuất nhập cảnh nhận đủ thông tin đề nghị cấp thị thực điện tử và phí cấp thị thực điện tử.|

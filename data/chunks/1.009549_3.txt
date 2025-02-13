@@ -1,0 +1,8 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ thành viên do tăng, giảm vốn điều lệ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1046437cd36ee'">272-2016-TT-BTC.pdf</a>|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|
+|Dịch vụ bưu chính|10 Ngày làm việc|Lệ phí : Theo Thông tư 272/2016/TT-BTC Đồng  <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1046437cd36ee'">272-2016-TT-BTC.pdf</a>|Kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ|

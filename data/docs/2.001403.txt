@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001403
+Số quyết định:
+5625/QĐ-BCA-C06
+Tên thủ tục:
+Đăng ký mẫu con dấu mới (thực hiện tại cấp trung ương)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý con dấu
+Trình tự thực hiện:
+- Bước 1: Cơ quan, tổ chức, chức danh nhà nước có nhu cầu đăng ký mẫu con dấu mới nộp hồ sơ về Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an.
+- Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ
++ Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và gửi Giấy biên nhận hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công cho người được cơ quan, tổ chức, chức danh nhà nước cử liên hệ nộp hồ sơ. 
++ Nếu hồ sơ chưa đầy đủ thành phần hoặc không hợp lệ thì hướng dẫn và gửi Phiếu hướng dẫn hoàn thiện hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc gửi Cổng dịch vụ công cho người được cơ quan, tổ chức, chức danh nhà nước cử liên hệ nộp hồ sơ. 
++ Nếu hồ sơ không đủ điều kiện theo quy định tại Điều 5 Nghị định số 99/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về quản lý và sử dụng con dấu thì không tiếp nhận hồ sơ, thông báo lý do từ chối và gửi Thông báo về việc từ chối giải quyết hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công cho người được cơ quan, tổ chức, chức danh nhà nước cử liên hệ nộp hồ sơ.
+- Bước 3: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Cục Cảnh sát quản lý hành chính về trật tự xã hội trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Nộp hồ sơ, trả kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an.|
+|Trực tuyến|3 Ngày làm việc||Nộp hồ sơ qua Cổng dịch vụ công (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).|
+|Dịch vụ bưu chính|3 Ngày làm việc||Nộp hồ sơ, trả kết quả qua dịch vụ bưu chính.|
+
+Thành phần hồ sơ:
+
+Hồ sơ đối với cơ quan, tổ chức, chức danh nhà nước:
+- 01 Bản chính a) Đối với cơ quan, tổ chức, chức danh nhà nước sử dụng con dấu có hình Quốc huy: Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền.
+- 01 Bản chính b) Đối với cơ quan có chức năng quản lý nhà nước, cơ quan chuyên môn: Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền.
+- 01 Bản chính c) Đối với tổ chức sự nghiệp: - Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính d) Đối với Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ: - Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền; - Điều lệ hoạt động của tổ chức đã được cơ quan có thẩm quyền phê duyệt.
+- 01 Bản chính đ) Đối với tổ chức trực thuộc Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ: - Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền; - Văn bản quy định về tổ chức, hoạt động do cơ quan có thẩm quyền cấp cho tổ chức theo quy định của pháp luật; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính e) Đối với tổ chức tôn giáo: Quyết định công nhận tổ chức của cơ quan có thẩm quyền.
+- 01 Bản chính g) Đối với tổ chức trực thuộc tổ chức tôn giáo: - Quyết định của tổ chức tôn giáo về việc thành lập tổ chức tôn giáo trực thuộc; - Văn bản của cơ quan có thẩm quyền chấp thuận việc thành lập tổ chức tôn giáo trực thuộc; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính h) Đối với doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã; chi nhánh, văn phòng đại diện của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã: Giấy phép thành lập và hoạt động hoặc giấy đăng ký hoạt động hoặc giấy phép hoạt động của cơ quan có thẩm quyền cấp cho tổ chức theo quy định của pháp luật.
+- 01 Bản chính i) Đối với tổ chức trực thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã được thành lập, hoạt động theo quy định của pháp luật: - Quyết định thành lập của cơ quan có thẩm quyền; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+- 01 Bản chính k) Đối với tổ chức nước ngoài không có chức năng ngoại giao hoạt động hợp pháp tại Việt Nam: Giấy phép hoạt động của cơ quan có thẩm quyền Việt Nam.
+- 01 Bản chính l) Đối với tổ chức khác được thành lập, hoạt động theo quy định của pháp luật: Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền.
+
+
+Hồ sơ đối với người được cử liên hệ nộp hồ sơ: Giấy giới thiệu hoặc Giấy ủy quyền.
+- 01 Bản chính Giấy giới thiệu hoặc Giấy ủy quyền.
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS:
+Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Con dấu và Giấy chứng nhận đăng ký mẫu con dấu
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|99/2016/NĐ-CP|Về quản lý và sử dụng con dấu|01-07-2016|Thủ tướng Chính phủ|
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+|56/2023/NĐ-CP|Nghị định 56/2023/NĐ-CP|24-07-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+- Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng con dấu khi đã có quy định về việc được phép sử dụng con dấu trong văn bản quy phạm pháp luật hoặc quyết định của cơ quan có thẩm quyền; phải đăng ký mẫu con dấu trước khi sử dụng.
+- Việc sử dụng con dấu có hình Quốc huy phải được quy định tại luật, pháp lệnh, nghị định hoặc quyết định của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan, tổ chức hoặc được quy định trong điều ước quốc tế mà Việt Nam là thành viên.
+- Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng con dấu khi đã có quy định về việc được phép sử dụng con dấu trong văn bản quy phạm pháp luật hoặc quyết định của cơ quan có thẩm quyền; phải đăng ký mẫu con dấu trước khi sử dụng.
+- Việc sử dụng con dấu có hình Quốc huy phải được quy định tại luật, pháp lệnh, nghị định hoặc quyết định của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan, tổ chức hoặc được quy định trong điều ước quốc tế mà Việt Nam là thành viên.
+Từ khóa:
+Đăng ký, quản lý con dấu
+Mô tả:
+Không có thông tin

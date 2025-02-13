@@ -1,0 +1,26 @@
+Tên thủ tục: Khai quyết toán phụ thu đối với phần dầu lãi được chia của nhà thầu dầu khí khi giá dầu thô biến động tăng (trừ Lô 09.1)
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Hso gửi đến CQT không có kết quả giải quyết
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|100/2009/NĐ-CP|Nghị định 100/2009/NĐ-CP|04-11-2009||
+|80/2021/TT-BTC|Thông tư 80/2021/TT-BTC|29-09-2021||
+|126/2020/NĐ-CP|Nghị định 126/2020/NĐ-CP|19-10-2020||
+|22/2010/TT-BTC|Thông tư 22/2010/TT-BTC|13-02-2010||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||

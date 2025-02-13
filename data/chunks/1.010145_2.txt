@@ -1,0 +1,18 @@
+Tên thủ tục: Chuyển nhượng dự án đầu tư - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.  Thực hiện thao tác chuyển hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho cơ quan/phòng chuyên môn xử lý 
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý. 
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển B6 thực hiện
+B5.1 	Gửi hồ sơ cho cơ quan nhà nước có thẩm quyền liên quan để lấy ý kiến về những nội dung điều chỉnh đồng thời tổng hợp ý kiến.
+B5.2	Xem xét, quyết định điều chỉnh chủ trương đầu tư sau khi có ý kiến đóng góp từ các đơn vị có liên quan
+B6	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC.
+B7	Phê duyệt kết quả giải quyết TTHC
+B8	Phát hành văn bản và trả kết quả cho TTHC công
+B9	Trả kết quả cho tổ chức cá nhân. Thực hiện thao tác kết thúc hồ sơ trên phần mềm http://dichvucong.hatinh.gov.vn

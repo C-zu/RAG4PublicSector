@@ -1,0 +1,17 @@
+Tên thủ tục: Thẩm định dự án đầu tư xây dựng/Thiết kế cơ sở công trình viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ trình của cơ quan, đơn vị đề nghị thẩm định Dự án đầu tư xây dựng/Thiết kế cơ sở (Mẫu KHTC 05) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe872eb36647d69'">To trinh tham dinh du an dau tu xay dung hoac thiet ke co so.docx</a>)
+- 01 Bản chính 2. Quyết định phê duyệt chủ trương đầu tư kèm theo Báo cáo đề xuất chủ trương đã được cấp có thẩm quyền phê duyệt
+- 02 Bản chính 3. Báo cáo nghiên cứu khả thi đầu tư xây dựng trong trường hợp thẩm định dự án/dự án điều chỉnh; hồ sơ thiết kế cơ sở (thuyết minh và bản vẽ) trong trường hợp thẩm định thiết kế cơ sở/thiết kế cơ sở điều chỉnh
+- 01 Bản chính 4. Khái toán xây dựng công trình đối với công trình sử dụng vốn ngân sách nhà nước, vốn nhà nước ngoài ngân sách (có xác nhận của Chủ đầu tư, đơn vị tư vấn, chủ trì thiết kế)
+- 01 Bản chính 5. Nhiệm vụ khảo sát được cấp có thẩm quyền phê duyệt
+- 01 Bản chính 6. Hồ sơ khảo sát xây dựng
+- 01 Bản chính 7. Hồ sơ năng lực của Nhà thầu tư vấn lập hồ sơ:
+- 01 Bản chính - Thông tin năng lực của nhà thầu khảo sát, nhà thầu thiết kế xây dựng công trình
+- 01 Bản chính - Chứng chỉ hành nghề của các chức danh chủ nhiệm khảo sát, chủ nhiệm đồ án thiết kế, chủ trì thiết kế của nhà thầu thiết kế.
+- 01 Bản chính 8. Bản mềm dự toán của hồ sơ (file excel)
+- 01 Bản chính 9. Quyết định phê duyệt chủ trương đầu tư

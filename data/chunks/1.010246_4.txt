@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp, bổ sung ấn chỉ kiểm định
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Phiếu đề nghị cung cấp ấn chỉ kiểm định theo mẫu quy định (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee60712a5629d5'">MẪU PHIẾU ĐỀ NGHỊ CUNG CẤP.docx</a>)

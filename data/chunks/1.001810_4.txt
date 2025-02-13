@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh khai thác cảng biển
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Tờ khai đề nghị cấp Giấy chứng nhận theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe6b34bbe42f27b'">mẫu tờ khai.doc</a>)
+- 01 Bản chính, 01 Bản sao - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính Giấy chứng nhận đăng ký doanh nghiệp;
+- 01 Bản chính, 01 Bản sao - Danh sách các chức danh và hợp đồng lao động kèm theo bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính các văn bằng, chứng chỉ theo chức danh quy định tại khoản 2 Điều 6 nghị định 37/2017/NĐ-CP; đã được sửa đổi tại Khoản 2 Điều 5 Nghị định số 147/2018/NĐ-CP.
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính Phương án khai thác cảng biển của doanh nghiệp cảng.

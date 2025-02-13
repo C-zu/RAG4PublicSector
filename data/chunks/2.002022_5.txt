@@ -1,0 +1,24 @@
+Tên thủ tục: Giải thể doanh nghiệp trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc theo quyết định của Tòa án
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Kế hoạch và Đầu tư, Phòng Đăng ký kinh doanh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Trụ sở cơ quan
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp, Thông báo về việc doanh nghiệp đã giải thể/chấm dứt tồn tại
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|47/2019/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin doanh nghiệp, lệ phí đăng ký doanh nghiệp|05-08-2019|Bộ Tài chính|
+|59/2020/QH14|Luật Doanh nghiệp số 59/2020/QH14|17-06-2020||
+|01/2021/NĐ-CP|Nghị định số 01/2021/NĐ-CP của Chính phủ: Về đăng ký doanh nghiệp|04-01-2021||
+|01/2021/TT-BKHĐT|Hướng dẫn về đăng ký doanh nghiệp|16-03-2021|Bộ Kế hoạch và Đầu tư|

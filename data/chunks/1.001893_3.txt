@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố cơ sở kinh doanh có tổ chức kệ thuốc
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Phí : Không có thông tin  Lệ phí : Không có thông tin  Mức giá : Không có thông tin|Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Trực tuyến|5 Ngày làm việc|Phí : Không có thông tin  Lệ phí : Không có thông tin  Mức giá : Không có thông tin|Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|5 Ngày làm việc|Phí : Không có thông tin  Lệ phí : Không có thông tin  Mức giá : Không có thông tin|Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|

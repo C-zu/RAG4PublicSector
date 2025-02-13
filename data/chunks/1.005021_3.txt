@@ -1,0 +1,8 @@
+Tên thủ tục: Phê duyệt quy trình vận hành, khai thác bến bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Trong thời hạn 03 (ba) ngày làm việc kể từ ngày được nhận hồ sơ, nếu kiểm tra hồ sơ không đủ, Sở Giao thông vận tải trả lời bằng văn bản và yêu cầu bổ sung hồ sơ theo quy định. - Sở Giao thông vận tải thẩm định và ra quyết định phê duyệt sau 20 (hai mươi) ngày làm việc, kể từ ngày nhận đủ hồ sơ.|||
+|Dịch vụ bưu chính|Trong thời hạn 03 (ba) ngày làm việc kể từ ngày được nhận hồ sơ, nếu kiểm tra hồ sơ không đủ, Sở Giao thông vận tải trả lời bằng văn bản và yêu cầu bổ sung hồ sơ theo quy định. - Sở Giao thông vận tải thẩm định và ra quyết định phê duyệt sau 20 (hai mươi) ngày làm việc, kể từ ngày nhận đủ hồ sơ.|||

@@ -1,0 +1,16 @@
+Tên thủ tục: Công bố hợp quy dịch vụ bưu chính công ích
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001803
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Công bố hợp quy dịch vụ bưu chính công ích
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Bưu chính

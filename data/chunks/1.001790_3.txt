@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thực hiện chế độ một lần đối với đối tượng hạ sĩ quan, chiến sĩ quân đội theo Quyết định số 188/2007/QĐ-TTg (đối tượng cư trú ở địa phương khác không còn lưu giữ được giấy tờ)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|Không quy định|Lệ phí : 0 Đồng|Cách thức thực hiện: Trực tiếp đến UBND xã (phường) nộp hồ sơ|

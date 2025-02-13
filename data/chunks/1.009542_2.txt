@@ -1,0 +1,14 @@
+Tên thủ tục: Hợp nhất, sáp nhập quỹ thành viên
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Nộp hồ sơ
+Bước 1: Công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ thành viên đến UBCKNN.
+Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.	
+		Bước 4: Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận đủ hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ, UBCKNN ra quyết định chấp thuận hợp nhất, sáp nhập quỹ; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+		Lưu ý: Trường hợp hợp nhất, sáp nhập quỹ có kết hợp với chào bán chứng chỉ quỹ, quỹ phải tuân thủ các quy định về chào bán có liên quan.
+		Bước 5: Trong thời hạn 05 (năm) ngày kể từ ngày hoàn tất việc hợp nhất, sáp nhập, công ty quản lý quỹ đầu tư chứng khoán gửi hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký lập quỹ đối với quỹ hình thành sau hợp nhất hoặc hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký lập cho quỹ hình thành sau sáp nhập. 
+		Bước 6: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+		Bước 7: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 (bẩy) ngày, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầusửa đổi, bổ sung.
+		Bước 8: Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ hình thành sau hợp nhất, sáp nhập; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.

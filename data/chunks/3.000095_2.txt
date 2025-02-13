@@ -1,0 +1,7 @@
+Tên thủ tục: Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Tiếp nhận yêu cầu
+Khảo sát
+Lắp đặt nghiệm thu thiết bị đo đếm, ký Phụ lục hợp đồng hoặc ký HĐMBĐ mới

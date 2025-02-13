@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục đăng ký tàu bay mang quốc tịch Việt Nam
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc|Lệ phí : 1500000 Đồng Giấy chứng nhận đối với loại tàu bay dưới 5.700 kg  Lệ phí : 4500000 Đồng Giấy chứng nhận đối với loại tàu bay từ 5.700 kg trở lên|- Nộp hồ sơ trực tiếp; hoặc - Nộp hồ sơ trực tiếp; hoặc - Qua hệ thống bưu chính; - Trên môi trường điện tử; hoặc - Các hình thức phù hợp khác.|
+|Trực tuyến|5 Ngày làm việc|Phí : 4500000 Đồng Giấy chứng nhận đối với loại tàu bay từ 5.700 kg trở lên  Phí : 1500000 Đồng Giấy chứng nhận đối với loại tàu bay dưới 5.700 kg|- Nộp hồ sơ trực tiếp; hoặc - Qua hệ thống bưu chính; - Trên môi trường điện tử; hoặc - Các hình thức phù hợp khác.|
+|Dịch vụ bưu chính|5 Ngày làm việc|Lệ phí : 1500000 Đồng Giấy chứng nhận đối với loại tàu bay dưới 5.700 kg  Lệ phí : 4500000 Đồng Giấy chứng nhận đối với loại tàu bay từ 5.700 kg trở lên|- Nộp hồ sơ trực tiếp; hoặc - Qua hệ thống bưu chính; - Trên môi trường điện tử; hoặc - Các hình thức phù hợp khác.|

@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục bổ sung giấy phép tiến hành công việc bức xạ - Sử dụng thiết bị X-quang chẩn đoán trong y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị bổ sung Giấy phép tiến hành công việc bức xạ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd40576d5a6cb52'">Mau 7_Don sua doi, bo sung GP.doc</a>)
+- 01 Bản chính Bản gốc giấy phép cần bổ sung
+- 01 Bản chính Phiếu khai báo thiết bị bức xạ mới đối với trường hợp bổ sung thiết bị bức xạ (Mẫu kèm theo); kèm theo bản sao tài liệu của nhà sản xuất cung cấp các thông tin như trong phiếu khai báo (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdf7c565551a71a'">Mau 07_KB thiet bi x quang.doc</a>)
+- 01 Bản sao Báo cáo đánh giá an toàn đối với công việc bức xạ bổ sung (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3bfe81d1931b5'">Mau 05_PL5_BC su dung X quang y te.doc</a>)
+- 01 Bản sao Bản sao Chứng chỉ nhân viên bức xạ của nhân viên trong trường hợp nhân viên đảm nhiệm công việc bức xạ được bổ sung yêu cầu phải có Chứng chỉ nhân viên bức xạ theo quy định tại khoản 1 Điều 28 của Luật năng lượng nguyên tử (Trường hợp chưa có chứng chỉ, phải nộp hồ sơ đề nghị cấp Chứng chỉ nhân viên bức xạ theo quy định tại Điều 35 của Nghị định 142/2020/NĐ-CP cùng hồ sơ đề nghị bổ sung giấy phép)

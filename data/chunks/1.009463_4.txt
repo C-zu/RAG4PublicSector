@@ -1,0 +1,24 @@
+Tên thủ tục: Thỏa thuận về nội dung liên quan đến đường thủy nội địa đối với công trình không thuộc kết cấu hạ tầng đường thủy nội địa và các hoạt động trên đường thủy nội địa
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Đối với các hoạt động : Hoạt động thi công công trình (bao gồm hoạt động nạo vét vùng nước cảng, bến thủy nội địa, khu neo đậu); khai thác tài nguyên, khoáng sản; Khu vực nuôi trồng thủy sản, hải sản (bè cá, lồng cá, đăng, đáy cá, bãi nuôi trồng thủy sản, hải sản); tổ chức hoạt động vui chơi, giải trí, diễn tập, thể thao, lễ hội; họp chợ, làng nghề, thực hành đào tạo nghề, hồ sơ gồm:
+- 01 Bản chính - Đơn đề nghị thỏa thuận theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe25b38324f490d'">31.docx</a>)
+- 01 Bản chính - Bản vẽ thể hiện phạm vi khu vực hoạt động, phạm vi luồng và hành lang bảo vệ luồng, khoảng cách đến các công trình liên quan ở khu vực và phương án bố trí báo hiệu bảo đảm an toàn giao thông đường thủy nội địa;
+- 01 Bản chính - Bản vẽ các mặt cắt ngang và hồ sơ mốc để xác định phạm vi, cao trình nạo vét, khai thác tài nguyên, khoáng sản (đối với hoạt động nạo vét cải tạo vùng nước cảng, bến thủy nội địa, luồng chuyên dùng vào cảng, bến thủy nội địa, khu neo đậu; khai thác tài nguyên, khoáng sản).
+
+
+*) Bản vẽ khu vực xây dựng công trình trên hệ tọa độ quốc gia VN2000, hệ cao độ nhà nước. Trên bản vẽ thể hiện vị trí công trình và cao độ tự nhiên, địa hình, địa vật của sông, kênh đối với khu vực xây dựng công trình, các công trình liền kề (nếu có) và các tài liệu sau:
+- 01 Bản chính + Đối với cầu vĩnh cửu, cầu tạm: số liệu về kích thước khoang thông thuyền (vị trí, chiều rộng, chiều cao tĩnh không); mặt cắt dọc công trình thể hiện trên mặt cắt ngang sông, kênh;
+- 01 Bản chính + Đối với cầu quay, cầu cất, cầu phao, cầu nâng hạ, công trình thủy điện kết hợp giao thông: số liệu về khoang thông thuyền (vị trí, chiều rộng, chiều cao tĩnh không, chiều dài, độ sâu ngưỡng âu); phương án và công nghệ đóng, mở; bản vẽ thiết kế vị trí, vùng nước dự kiến bố trí cho phương tiện neo đậu khi chờ đợi qua công trình;
+- 01 Bản chính + Đối với đường ống, đường dây, công trình vượt qua luồng trên không: bản vẽ, các số liệu về chiều cao tĩnh không, thể hiện điểm cao nhất của đường ống, đường dây (điểm thấp nhất của đường dây điện, tính cả hành lang an toàn lưới điện), công trình vượt qua luồng;
+- 01 Bản chính + Đối với công trình ngầm, đường dây, đường ống dưới đáy luồng: bản vẽ thể hiện khoảng cách, cao trình đỉnh công trình đến cao trình đáy thiết kế luồng, phạm vi luồng và hành lang bảo vệ luồng đường thủy nội địa;
+- 01 Bản chính + Đối với công trình đập, thủy điện, thủy lợi: bình đồ và bản vẽ khu vực cảng, bến thủy nội địa hoặc khu vực chuyển tải tại thượng lưu và hạ lưu công trình; phương án bốc xếp, chuyển tải;
+- 01 Bản chính + Đối với công trình phục vụ quốc phòng, an ninh; công trình phong điện, nhiệt điện; bến phà, kè: bản vẽ thể hiện mặt bằng khu vực cảng; công trình kè, chỉnh trị khác; kích thước, kết cấu các cầu cảng, kè, công trình chỉnh trị khác và các công trình phụ trợ; vùng nước của cảng.
+
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thỏa thuận xây dựng công trình theo mẫu; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe31b176777f36d'">31.docx</a>)
+- 01 Bản chính - Bản vẽ mặt cắt công trình thể hiện trên mặt cắt ngang sông.
+- 01 Bản chính - Bản vẽ khu vực xây dựng công trình trên hệ tọa độ quốc gia VN2000, hệ cao độ nhà nước. Trên bản vẽ thể hiện vị trí công trình và cao độ tự nhiên, địa hình, địa vật của sông, kênh đối với khu vực xây dựng công trình, các công trình liền kề (nếu có) và các tài liệu kèm theo.

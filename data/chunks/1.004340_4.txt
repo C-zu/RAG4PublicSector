@@ -1,0 +1,8 @@
+Tên thủ tục: Đăng ký hoạt động xuất bản, phát hành xuất bản phẩm điện tử
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký hoạt động xuất bản, phát hành xuất bản phẩm điện tử; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5a7cd113fc3c8'">Mẫu số 43- Đơn ĐKHĐXB- PHXBP Điện tử.doc</a>)
+- 01 Bản sao Bản sao văn bản đồng ý của Cục Xuất bản, In và Phát hành về đề án hoạt động xuất bản, phát hành xuất bản phẩm điện tử.

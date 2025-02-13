@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trừ trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, trong đó nêu rõ loại hình sản phẩm, dịch vụ an toàn thông tin mạng sẽ kinh doanh;
+- 01 Bản sao Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư hoặc giấy tờ khác có giá trị tương đương;
+- 01 Bản chính Bản thuyết minh hệ thống thiết bị kỹ thuật bảo đảm phù hợp với quy định của pháp luật
+- 01 Bản chính Phương án kinh doanh gồm phạm vi, đối tượng cung cấp sản phẩm, dịch vụ, tiêu chuẩn, chất lượng sản phẩm, dịch vụ
+- 01 Bản sao Bản sao văn bằng hoặc chứng chỉ chuyên môn về an toàn thông tin của đội ngũ quản lý, điều hành, kỹ thuật.

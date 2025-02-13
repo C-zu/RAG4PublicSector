@@ -1,0 +1,8 @@
+Tên thủ tục: Gia hạn giấy phép thiết lập mạng viễn thông dùng riêng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Số lượng hồ sơ: 03 bộ (01 bộ là bản chính, 02 bộ là bản sao)
+- 01 Bản chính Đơn đề nghị gia hạn giấy phép thiết lập mạng viễn thông dùng riêng;
+- 01 Bản chính Báo cáo việc thực hiện giấy phép

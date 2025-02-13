@@ -1,0 +1,9 @@
+Tên thủ tục: Tên thủ tục: Cấp, cấp lại, gia hạn giấy phép nuôi trồng thủy sản trên biển đối với nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|90 ngày và 05 ngày làm việc đối với trường hợp cấp mới (chưa bao gồm thời gian xin ý kiến Thủ tướng Chính phủ - nếu có); 30 ngày đối với trường hợp cấp lại/gia hạn.||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Trực tuyến|90 ngày và 05 ngày làm việc đối với trường hợp cấp mới (chưa bao gồm thời gian xin ý kiến Thủ tướng Chính phủ - nếu có); 30 ngày đối với trường hợp cấp lại/gia hạn.||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Dịch vụ bưu chính|90 ngày và 05 ngày làm việc đối với trường hợp cấp mới (chưa bao gồm thời gian xin ý kiến Thủ tướng Chính phủ - nếu có); 30 ngày đối với trường hợp cấp lại/gia hạn.||Trực tiếp tại nơi nhận hồ sơ hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|

@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc viện trợ, viện trợ nhân đạo
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|60 Ngày||Trong thời hạn 60 (sáu mươi) ngày đối với các hồ sơ không yêu cầu dữ liệu lâm sàng|
+|Trực tiếp|90 Ngày||90 (chín mươi) ngày đối với các hồ sơ phải nộp dữ liệu lâm sàng theo quy định về áp dụng ACTD kể từ ngày nhận đủ hồ sơ hợp lệ|
+|Dịch vụ bưu chính|60 Ngày||Trong thời hạn 60 (sáu mươi) ngày đối với các hồ sơ không yêu cầu dữ liệu lâm sàng|
+|Dịch vụ bưu chính|90 Ngày||90 (chín mươi) ngày đối với các hồ sơ phải nộp dữ liệu lâm sàng theo quy định về áp dụng ACTD kể từ ngày nhận đủ hồ sơ hợp lệ|

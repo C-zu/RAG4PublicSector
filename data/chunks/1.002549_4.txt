@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất thuốc thú y
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký cấp giấy chứng nhận đủ điều kiện sản xuất thuốc thú y theo mẫu quy định tại Phụ lục XIX ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe60ef9714d0097'">PHỤ LỤC XIX.docx</a>)
+- 01 Bản chính Bản thuyết minh chi tiết về cơ sở vật chất, kỹ thuật sản xuất thuốc thú y theo mẫu quy định tại Phụ lục XXI ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5f83aeeacf5db'">PHỤ LỤC XXI.docx</a>)
+- 01 Bản chính - Danh mục các loại thuốc thú y, nguyên liệu sản xuất;
+- 01 Bản sao - Giấy chứng nhận đăng ký doanh nghiệp (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký);
+- 01 Bản sao - Chứng chỉ hành nghề sản xuất thuốc thú y đối với người trực tiếp quản lý sản xuất (bản chính hoặc bản sao có đóng dấu xác nhận của doanh nghiệp đăng ký).

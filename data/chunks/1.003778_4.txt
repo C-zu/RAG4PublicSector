@@ -1,0 +1,8 @@
+Tên thủ tục: Cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ cấp mới gồm:
+- 01 Bản chính Bản khai thông tin chung và Bản khai thông số kỹ thuật, khai thác theo mẫu 1g quy định tại Phụ lục II của Thông tư số 04/2021/TT-BTTTT (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe04633d81dfff7'">1.003778-Mẫu 1g TT04.docx</a>)
+- 01 Bản sao Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý của một trong các tài liệu sau: + Căn cước công dân hoặc Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn (đối với cá nhân đề nghị cấp giấy phép); hoặc + Giấy chứng nhận đăng ký hộ kinh doanh (đối với hộ kinh doanh đề nghị cấp giấy phép).

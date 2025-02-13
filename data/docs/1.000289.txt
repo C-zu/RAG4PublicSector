@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000289
+Số quyết định:
+215/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hàng Hải
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân nộp 01 (một) bộ hồ sơ trực tiếp tại Cục Hàng hải Việt Nam hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến.
+b) Giải quyết TTHC:
+- Cục Hàng hải Việt Nam nhận hồ sơ, kiểm tra thành phần, số lượng hồ sơ theo quy định, vào sổ và hẹn trả kết quả đúng quy định:
++ Trường hợp nộp trực tiếp, nếu hồ sơ không đầy đủ theo quy định thì trả lại hồ sơ và hướng dẫn cho tổ chức, cá nhân hoàn thiện lại hồ sơ theo quy định;
++ Trong trường hợp nhận hồ sơ qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến, nếu hồ sơ không đầy đủ theo quy định thì Cục Hàng hải Việt Nam thông báo bằng văn bản chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận được hồ sơ.
+- Chậm nhất 02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cục Hàng hải Việt Nam cấp GCNVHĐHTHH theo mẫu quy định. Trường hợp không đủ điều kiện cấp GCNVHĐHTHH theo quy định, Cục Hàng hải Việt Nam phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Phí : 150000 Đồng Phí, lệ phí|Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|2 Ngày làm việc|Phí : 150000 Đồng Phí, lệ phí|Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|2 Ngày làm việc|Phí : 150000 Đồng Phí, lệ phí|Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Thành phần hồ sơ:
+- 01 Bản chính, 01 Bản sao - Công văn của tổ chức hoa tiêu hàng hải hoặc đơn vị quản lý thuyền trưởng theo mẫu ([Mẫu công văn đề nghị cấp Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdee214943c0b52'))
+- 01 Bản chính, 01 Bản sao - Tờ khai theo mẫu ([Mẫu Tờ khai danh sách tàu biển, thời gian dẫn tàu an toàn, thời gian thực tập dẫn tàu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2fd7e10f6cba6'))
+- 01 Bản chính, 01 Bản sao - 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Hàng hải Việt Nam
+Cơ quan có thẩm quyền:
+Cục Hàng hải Việt Nam
+Địa chỉ tiếp nhận HS:
+Cục Hàng Hải Việt Nam
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|189/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải|08-11-2016|Bộ Tài chính|
+|27/2016/TT-BGTVT|Quy định về đào tạo, cấp, thu hồi Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải và Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải|12-10-2016|Bộ Giao thông vận tải|
+|54/2023/TT-BGTVT|Sửa đổi Thông tư 27/2016/TT-BGTVT quy định về đào tạo, cấp, thu hồi Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải và Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải|31-12-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

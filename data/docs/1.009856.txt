@@ -1,0 +1,100 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009856
+Số quyết định:
+546/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+Bước 1: Tổ chức đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ nộp hồ sơ đến Cục ATBXHN.
+Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cục ATBXHN kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí đối với hồ sơ hợp lệ hoặc thông báo bằng văn bản yêu cầu bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ.
+Bước 3: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí, Cục ATBXHN tổ chức thẩm định hồ sơ và cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+Trường hợp không cấp Giấy đăng ký hoạt động, Cục ATBXHN phải trả lời bằng văn bản và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 7.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Trực tuyến|30 Ngày|Phí : 7.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+|Dịch vụ bưu chính|30 Ngày|Phí : 7.000.000 Đồng Phí thẩm định để cấp giấy Đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.|30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí (nếu có).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp Giấy đăng ký hoạt động ([Mau 9_Don cap DKDV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3c011e6a4c500'))
+- 01 Bản sao Bản sao của một trong các loại giấy tờ sau: Quyết định thành lập tổ chức, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ, các loại giấy tờ khác có giá trị tương đương. Trường hợp giấy tờ bị thất lạc phải có xác nhận của cơ quan ban hành hoặc cấp loại giấy tờ đó
+- 01 Bản chính Phiếu khai báo nhân viên thực hiện dịch vụ (mẫu kèm theo), kèm theo Bản sao quyết định tuyển dụng hoặc hợp đồng lao động của tổ chức đề nghị cấp Giấy đăng ký hoạt động đối với nhân viên thực hiện dịch vụ ([Mau 15_KB thiet bi, nhan vien DV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe8fe387a9c281a'))
+- 01 Bản sao Bản sao Chứng chỉ hành nghề dịch vụ tương ứng với loại hình dịch vụ của các nhân viên thực hiện dịch vụ
+- 01 Bản chính Phiếu khai báo trang thiết bị phục vụ hoạt động dịch vụ tương ứng ([Mau 16_KB thiet bi thu hien DV - Copy.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefecab06064565'))
+- 01 Bản chính Báo cáo phân tích an toàn ([Mau 12_PL5_BC hoat dong DV.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdad4bfbf1c2aa0'))
+- 01 Bản chính Kế hoạch ứng phó sự cố bức xạ cấp cơ sở ([PL02_NoidungKHUPSC.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3faff9df2b01db00'))
+- 01 Bản sao Bản sao hợp đồng dịch vụ đọc liều chiếu xạ cá nhân của nhân viên thực hiện dịch vụ
+- 01 Bản sao Bản sao Giấy phép tiến hành công việc bức xạ sử dụng chất phóng xạ, thiết bị bức xạ đối với trường hợp tổ chức có sử dụng chất phóng xạ, thiết bị bức xạ trên mức miễn trừ khai báo, cấp giấy phép theo quy định tại Quy chuẩn kỹ thuật quốc gia QCVN 5:2010/BKHCN trong quy trình thực hiện dịch vụ
+- 01 Bản sao Tài liệu khác chứng minh điều kiện cơ sở vật chất, kỹ thuật đáp ứng yêu cầu tương ứng với loại hình dịch vụ theo quy định của Nghị định 142/2020/NĐ-CP.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Cục An toàn bức xạ và hạt nhân - Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+113 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|18/2008/QH12|LUẬT Năng lượng nguyên tử|03-06-2008|Quốc Hội|
+|287/2016/TT-BTC|Thông tư 287/2016/TT-BTC|15-11-2016|Bộ Tài chính|
+|142/2020/NĐ-CP|Nghị định 142/2020/NĐ-CP|09-12-2020||
+|02/2022/TT-BKHCN|Thông tư 02/2022/TT-BKHCN|25-02-2022|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức được thành lập, hoạt động theo quy định của pháp luật;
+- Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+- Có phòng thử nghiệm thiết bị bức xạ đáp ứng các yêu cầu sau:
++ Thiết kế che chắn bảo đảm an toàn bức xạ cho nhân viên bức xạ và công chúng;
++ Không tiến hành thử nghiệm đồng thời với hoạt động khác.
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; Nơi có khả năng gây nhiễm bẩn phóng xạ; Phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa – Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ; 
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định này. Trường hợp sử dụng nguồn phóng xạ Nhóm 1, Nhóm 2 theo Quy chuẩn kỹ thuật quốc gia QCVN 6:2010/BKHCN về An toàn bức xạ - phân nhóm và phân loại nguồn phóng xạ (sau đây gọi tắt là QCVN 6:2010/ BKHCN), kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định 142/2020/NĐ-CP.
+- Có thiết bị đo suất liều bức xạ; thiết bị này phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+	- Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+	- Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+- Tổ chức được thành lập, hoạt động theo quy định của pháp luật;
+- Có ít nhất hai người có chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử.
+- Có phòng thử nghiệm thiết bị bức xạ đáp ứng các yêu cầu sau:
++ Thiết kế che chắn bảo đảm an toàn bức xạ cho nhân viên bức xạ và công chúng;
++ Không tiến hành thử nghiệm đồng thời với hoạt động khác.
+- Bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường như sau:
++ Đối với nhân viên bức xạ: Liều hiệu dụng không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 20 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 50 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với da không vượt quá 500 mSv/năm theo loại hình công việc bức xạ cụ thể.
++ Đối với công chúng: Liều hiệu dụng không vượt quá 1 mSv/năm (lấy trung bình trong 5 năm kế tiếp nhau) và không vượt quá 5 mSv trong một năm bất kỳ trong giai đoạn này; Liều tương đương đối với thủy tinh thể của mắt không vượt quá 15 mSv/năm; Liều tương đương đối với da không vượt quá 50 mSv/năm đối với công chúng theo tình huống chiếu xạ cụ thể.
+- Thiết lập khu vực kiểm soát và khu vực giám sát như sau:
++ Khu vực kiểm soát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn hoặc bằng 6 mSv/năm; Nơi có khả năng gây nhiễm bẩn phóng xạ; Phòng điều khiển của lò phản ứng hạt nhân, thiết bị xạ trị, máy gia tốc, thiết bị chiếu xạ công nghiệp.
++ Khu vực giám sát: Nơi có mức liều chiếu xạ tiềm năng lớn hơn 1 mSv/năm và nhỏ hơn 6 mSv/năm.
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa – Dấu hiệu bổ sung;
+- Có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm các quy định về: tuân thủ quy trình làm việc và chỉ dẫn an toàn; sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân; trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ; 
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục II của Nghị định này. Trường hợp sử dụng nguồn phóng xạ Nhóm 1, Nhóm 2 theo Quy chuẩn kỹ thuật quốc gia QCVN 6:2010/BKHCN về An toàn bức xạ - phân nhóm và phân loại nguồn phóng xạ (sau đây gọi tắt là QCVN 6:2010/ BKHCN), kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 36 của Nghị định 142/2020/NĐ-CP.
+- Có thiết bị đo suất liều bức xạ; thiết bị này phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+	- Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+	- Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+Từ khóa:
+Thủ tục cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ
+Mô tả:
+Không có thông tin

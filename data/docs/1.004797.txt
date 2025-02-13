@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004797
+Số quyết định:
+3944/QĐ-BKHCN
+Tên thủ tục:
+Thủ tục đăng ký nghiên cứu sau tiến sĩ tại Việt Nam do Quỹ Phát triển khoa học và công nghệ Quốc gia hỗ trợ
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị tài trợ nghiên cứu sau Tiến sĩ tại Việt Nam cho Quỹ.
+Bước 2: Quỹ tiếp nhận và tổ chức đánh giá xét chọn hồ sơ.
+Bước 3: Thông báo quyết định tài trợ đối với hồ sơ được chấp nhận tài trợ.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Thời gian xử lý và thông báo kết quả xem xét hồ sơ đề nghị hỗ trợ của Quỹ tối đa là ba mươi (30) ngày làm việc kể từ khi Quỹ nhận được hồ sơ đăng ký.|
+|Dịch vụ bưu chính|30 Ngày làm việc||Thời gian xử lý và thông báo kết quả xem xét hồ sơ đề nghị hỗ trợ của Quỹ tối đa là ba mươi (30) ngày làm việc kể từ khi Quỹ nhận được hồ sơ đăng ký.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị hỗ trợ của người đăng ký thực hiện nghiên cứu sau tiến sĩ; ([Mẫu NCNLQG 01.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe976597ba7448a'))
+- 01 Bản chính - Lý lịch khoa học của người đăng ký thực hiện nghiên cứu sau tiến sỹ; ([Mẫu NCNLQG 02.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd918da611f2644'))
+- 01 Bản chính - Đơn đề nghị hỗ trợ của người bảo trợ nghiên cứu sau tiến sĩ; ([Mẫu NCNLQG 05.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde13b5d6fe6eb8'))
+- 01 Bản chính - Lý lịch khoa học của người bảo trợ;
+- 01 Bản sao - Bản sao Bằng Tiến sỹ;
+- 01 Bản chính - Các tài liệu chứng minh là nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập (nếu có);
+- 01 Bản chính - Thuyết minh đề cương nghiên cứu sau tiến sĩ và kế hoạch thực hiện các nội dung nghiên cứu có xác nhận của người bảo trợ;
+- 01 Bản chính - Dự toán kinh phí.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Quỹ Phát triển khoa học và công nghệ quốc gia - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền:
+Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định hỗ trợ kinh phí nghiên cứu sau tiến sĩ tại Việt Nam
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2014/NĐ-CP|Nghị định 40/2014/NĐ-CP|12-05-2014|Chính phủ|
+|09/2015/TT-BKHCN|Thông tư 09/2015/TT-BKHCN-Quy định quản lý hoạt động nâng cao năng lực khoa học và công nghệ quốc gia do Quỹ Phát triển khoa học và công nghệ quốc gia hỗ trợ|15-05-2015|Bộ Khoa học và Công nghệ|
+
+Yêu cầu, điều kiện thực hiện:
+Quỹ xem xét, hỗ trợ các nhà khoa học Việt Nam và nước ngoài đáp ứng đầy đủ các điều kiện sau đây thực hiện nghiên cứu sau tiến sĩ tại Việt Nam:
+- Có Bằng Tiến sĩ và là tác giả chính của ít nhất một (01) bài báo đăng trên tạp chí quốc tế có uy tín trong thời gian năm (05) năm tính đến thời điểm nộp hồ sơ. Quỹ ưu tiên xem xét đối với nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập;
+- Được một nhà khoa học của Việt Nam nhận bảo trợ thực hiện nghiên cứu sau tiến sĩ. Người bảo trợ nghiên cứu sau tiến sĩ phải đáp ứng đủ các tiêu chuẩn: i) Là tác giả chính của ít nhất một (01) bài báo khoa học đăng trên tạp chí ISI có uy tín trong thời gian năm (05) năm tính đến thời điểm nộp hồ sơ; ii) Không là người hướng dẫn nhà khoa học đề nghị hỗ trợ tại bậc đào tạo tiến sĩ;
+- Có tổ chức khoa học và công nghệ của Việt Nam nhận làm đơn vị chủ trì nghiên cứu sau tiến sĩ. Đơn vị chủ trì phải có đủ điều kiện cơ sở vật chất để triển khai nghiên cứu, đồng ý tiếp nhận người đến thực hiện nghiên cứu sau tiến sĩ và đồng ý hỗ trợ, tạo điều kiện, cho phép sử dụng trang thiết bị của đơn vị để triển khai nghiên cứu. Quỹ ưu tiên xem xét đối với trường hợp đơn vị chủ trì nghiên cứu sau tiến sĩ khác với đơn vị đào tạo tiến sĩ của nhà khoa học đề nghị hỗ trợ.
+Quỹ xem xét, hỗ trợ các nhà khoa học Việt Nam và nước ngoài đáp ứng đầy đủ các điều kiện sau đây thực hiện nghiên cứu sau tiến sĩ tại Việt Nam:
+- Có Bằng Tiến sĩ và là tác giả chính của ít nhất một (01) bài báo đăng trên tạp chí quốc tế có uy tín trong thời gian năm (05) năm tính đến thời điểm nộp hồ sơ. Quỹ ưu tiên xem xét đối với nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập;
+- Được một nhà khoa học của Việt Nam nhận bảo trợ thực hiện nghiên cứu sau tiến sĩ. Người bảo trợ nghiên cứu sau tiến sĩ phải đáp ứng đủ các tiêu chuẩn: i) Là tác giả chính của ít nhất một (01) bài báo khoa học đăng trên tạp chí ISI có uy tín trong thời gian năm (05) năm tính đến thời điểm nộp hồ sơ; ii) Không là người hướng dẫn nhà khoa học đề nghị hỗ trợ tại bậc đào tạo tiến sĩ;
+- Có tổ chức khoa học và công nghệ của Việt Nam nhận làm đơn vị chủ trì nghiên cứu sau tiến sĩ. Đơn vị chủ trì phải có đủ điều kiện cơ sở vật chất để triển khai nghiên cứu, đồng ý tiếp nhận người đến thực hiện nghiên cứu sau tiến sĩ và đồng ý hỗ trợ, tạo điều kiện, cho phép sử dụng trang thiết bị của đơn vị để triển khai nghiên cứu. Quỹ ưu tiên xem xét đối với trường hợp đơn vị chủ trì nghiên cứu sau tiến sĩ khác với đơn vị đào tạo tiến sĩ của nhà khoa học đề nghị hỗ trợ.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,9 @@
+Tên thủ tục: Mở ngành đào tạo trình độ đại học, trình độ thạc sĩ hoặc trình độ tiến sĩ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày làm việc||Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành (đủ hồ sơ hợp lệ) của cơ sở đào tạo.|
+|Trực tuyến|30 Ngày làm việc||Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành (đủ hồ sơ hợp lệ) của cơ sở đào tạo.|
+|Dịch vụ bưu chính|30 Ngày làm việc||Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành (đủ hồ sơ hợp lệ) của cơ sở đào tạo.|

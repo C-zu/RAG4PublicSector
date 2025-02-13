@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004160
+Số quyết định:
+1240/QĐ-BTNMT
+Tên thủ tục:
+Đăng ký tiếp cận nguồn gen
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Môi trường
+Trình tự thực hiện:
+Bước 1: Nộp đơn đăng ký tiếp cận nguồn gen
+Tổ chức, cá nhân nộp hồ sơ đăng ký tiếp cận nguồn gen tới Bộ Tài nguyên và Môi trường trực tiếp hoặc qua đường bưu điện tới Văn phòng tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường, số 10 đường Tôn Thất Thuyết, phường Mỹ Đình 2, quận Nam Từ Liêm, Thành phố Hà Nội. Hoặc nộp trực tuyến tại địa chỉ https://dichvucong.monre.gov.vn.
+
+Bước 2: Kiểm tra xem xét xác nhận đăng ký tiếp cận nguồn gen
+Bộ Tài nguyên và Môi trường có trách nhiệm thông báo bằng văn bản cho tổ chức, cá nhân đăng ký về việc xác nhận hoặc từ chối đăng ký, đồng thời nêu rõ lý do từ chối.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày||Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ đăng ký.|
+|Trực tuyến|10 Ngày||Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ đăng ký.|
+|Dịch vụ bưu chính|10 Ngày||Trong thời hạn 10 ngày, kể từ ngày nhận được hồ sơ đăng ký.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đăng ký tiếp cận nguồn gen theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 59/2017/NĐ-CP ngày 12 tháng 5 năm 2017; ([Mẫu số 02.docx- tiep can nguon gen.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec0602fc257aab'))
+- 01 Bản chính Văn bản chứng minh tư cách pháp nhân theo quy định pháp luật của quốc gia nơi tổ chức được thành lập; xuất trình bản chính, hoặc bản sao có chứng thực một trong các giấy tờ là hộ chiếu, chứng minh nhân dân, thẻ căn cước công dân hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của cá nhân đăng ký;
+- 01 Bản sao Đối với tổ chức, cá nhân nước ngoài đăng ký tiếp cận nguồn gen phải có văn bản hợp tác với tổ chức khoa học và công nghệ Việt Nam;
+- 01 Bản chính Đối với việc đăng ký tiếp cận nguồn gen thuộc chương trình, dự án, đề tài chung có sự tham gia của nhiều tổ chức, cá nhân phải có văn bản ủy quyền cho tổ chức, cá nhân đại diện để thực hiện đăng ký tiếp cận nguồn gen.
+ Số lượng hồ sơ: 01 bộ hồ sơ.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Bảo tồn thiên nhiên và Đa dạng sinh học - Bộ Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Bộ Tài nguyên và Môi trường
+Địa chỉ tiếp nhận HS:
+Tổ chức, cá nhân có nhu cầu đăng ký tiếp cận nguồn gen nộp hồ sơ trực tiếp hoặc qua đường bưu điện tới Văn phòng tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Bộ Tài nguyên và Môi trường, số 10 đường Tôn Thất Thuyết, phường Mỹ Đình 2, quận Nam Từ Liêm, Thành phố Hà Nội. Hoặc nộp trực tuyến tại địa chỉ https://dichvucong.monre.gov.vn.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản xác nhận hoặc từ chối đăng ký tiếp cận nguồn gen, đồng thời nêu rõ lý do.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|20/2008/QH12|Luật đa dạng sinh học|13-11-2008|Quốc Hội|
+|59/2017/NĐ-CP|Về quản lý tiếp cận nguồn gen và chia sẻ lợi ích từ việc sử dụng nguồn gen|12-04-2017|Chính phủ|
+|22/2023/NĐ-CP|Nghị định 22/2023/NĐ-CP|12-05-2023|Chính phủ|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức có tư cách pháp nhân theo quy định pháp luật của quốc gia nơi tổ chức được thành lập.
+Từ khóa:
+Đăng ký tiếp cận nguồn gen
+Mô tả:
+Không có thông tin

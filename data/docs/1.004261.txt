@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004261
+Số quyết định:
+995/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy phép vận tải qua biên giới
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường thủy nội địa
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+- Tổ chức, cá nhân gửi hồ sơ đề nghị cấp Giấy phép vận tải qua biên giới đến một trong các cơ quan có thẩm quyền cấp giấy phép:
++ Cục Đường thủy nội địa Việt Nam là cơ quan có thẩm quyền cấp Giấy phép vận tải qua biên giới cho phương tiện thủy hoạt động vận tải Nhóm 1 và Nhóm Đặc biệt.
++ Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương là cơ quan có thẩm quyền cấp Giấy phép vận tải qua biên giới cho phương tiện thủy thuộc quyền quản lý của địa phương Nhóm 1, 2 và Nhóm Đặc biệt.
+b) Giải quyết TTHC:
+- Cơ quan có thẩm quyền cấp giấy phép tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định thì cơ quan có thẩm quyền cấp giấy phép hướng dẫn hoàn thiện trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ đầy đủ theo quy định thì cơ quan có thẩm quyền cấp giấy phép trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến tổ chức, cá nhân. Trường hợp không cấp Giấy phép, cơ quan có thẩm quyền cấp giấy phép phải trả lời bằng văn bản và nêu rõ lý do.
+- Trường hợp Cục Đường thủy nội địa Việt Nam cấp Giấy phép vận tải qua biên giới cho phương tiện thủy hoạt động vận tải Nhóm 1 và Nhóm Đặc biệt có trách nhiệm thông báo cho Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương nơi phương tiện đăng ký. Trường hợp Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương cấp Giấy phép vận tải qua biên giới cho phương tiện thủy thuộc quyền quản lý của địa phương Nhóm 1, 2 và Nhóm Đặc biệt có trách nhiệm thông báo cho Cục Đường thủy nội địa Việt Nam.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|
+|Trực tuyến|3 Ngày làm việc||03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|
+|Dịch vụ bưu chính|3 Ngày làm việc||03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao - Bản chính hoặc biểu mẫu điện tử Đơn đề nghị cấp Giấy phép vận tải qua biên giới cho phương tiện theo mẫu quy định; ([Mẫu.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe05738810c9a25'))
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy chứng nhận đăng ký phương tiện;
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường;
+- 01 Bản chính, 01 Bản sao - Bản sao hoặc bản sao điện tử Giấy chứng nhận bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải hàng hóa dễ cháy, dễ nổ đối với người thứ ba; bản sao Giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của người kinh doanh vận tải hành khách đối với hành khách.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải
+Cơ quan có thẩm quyền:
+Cục Đường thủy nội địa Việt Nam, Sở Giao thông vận tải
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép vận tải qua biên giới
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|08/2012/TT-BGTVT|Hướng dẫn thực hiện một số điều của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia về vận tải thủy|23-03-2012|Bộ Giao thông vận tải|
+|13/2023/TT-BGTVT|Sửa đổi, bổ sung một số điều của các Thông tư hướng dẫn thực hiện một số điều của Hiệp định giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia về vận tải đường thủy|30-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

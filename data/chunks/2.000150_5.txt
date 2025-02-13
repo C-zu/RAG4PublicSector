@@ -1,0 +1,27 @@
+Tên thủ tục: Cấp lại Giấy phép bán lẻ sản phẩm thuốc lá
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp
+Cơ quan thực hiện:
+Phòng Công thương
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Huyện
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép bán lẻ sản phẩm thuốc lá (cấp lại)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|09/2012/QH13|Luật 09/2012/QH13|18-06-2012|Quốc Hội|
+|67/2013/NĐ-CP|Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá|27-06-2013|Chính phủ|
+|08/2018/NĐ-CP|Sửa đổi một số Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Công Thương|15-01-2018|Chính phủ|
+|106/2017/NĐ-CP|Nghị định 106/2017/NĐ-CP|14-09-2017|Chính phủ|
+|57/2018/TT-BCT|Thông tư 57/2018/TT-BCT|28-12-2018|Bộ Công thương|
+|17/2020/NĐ-CP|Nghị định 17/2020/NĐ-CP|05-02-2020||
+|28/2019/TT-BCT|Thông tư 28/2019/TT-BCT|15-11-2019||

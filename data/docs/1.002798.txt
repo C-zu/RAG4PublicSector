@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002798
+Số quyết định:
+60/QĐ-BGTVT
+Tên thủ tục:
+Phê duyệt phương án tổ chức giao thông trên đường cao tốc
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường bộ
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Chủ đầu tư hoặc nhà đầu tư chịu trách nhiệm lập phương án tổ chức giao thông trình cấp có thẩm quyền xem xét, phê duyệt trước khi đưa công trình vào khai thác, cụ thể:
+- Cục Đường bộ Việt Nam có trách nhiệm phê duyệt phương án, điều chỉnh phương án tổ chức giao thông trên đường cao tốc theo phân cấp, ủy quyền đối với đường cao tốc do Bộ Giao thông vận tải quản lý hoặc đường cao tốc do Bộ Giao thông vận tải là cơ quan có thẩm quyền đối với dự án đầu tư theo phương thức đối tác công tư; phê duyệt phương án, điều chỉnh phương án tổ chức giao thông đối với đường cao tốc do Doanh nghiệp thuộc Ủy ban quản lý vốn nhà nước tại doanh nghiệp quản lý, vận hành khai thác.
+- Cục Đường cao tốc Việt Nam có trách nhiệm phê duyệt phương án, điều chỉnh phương án tổ chức giao thông trên đường cao tốc theo phân cấp, ủy quyền đối với đường cao tốc do Bộ Giao thông vận tải quản lý hoặc đường cao tốc do Bộ Giao thông vận tải là cơ quan có thẩm quyền đối với dự án đầu tư theo phương thức đối tác công tư. 
+- Ủy ban nhân dân cấp tỉnh phê duyệt phương án, điều chỉnh phương án tổ chức giao thông trên đường cao tốc thuộc phạm vi quản lý.
+b) Giải quyết TTHC:
+- Cơ quan có thẩm quyền giải quyết tiếp nhận hồ sơ. Trường hợp hồ sơ chưa rõ ràng, chưa đầy đủ theo quy định, chậm nhất sau 02 ngày làm việc, kể từ ngày nhận hồ sơ phải có văn bản yêu cầu nhà đầu tư, chủ đầu tư bổ sung, hoàn thiện hồ sơ;
+- Cơ quan có thẩm quyền phê duyệt phương án tổ chức giao thông giao cơ quan quản lý đường cao tốc tiến hành thẩm định hồ sơ. Thời gian thẩm định không quá 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định. Sau khi có báo cáo thẩm định, nếu đủ điều kiện, ra quyết định phê duyệt phương án tổ chức giao thông trong thời hạn 03 (ba) ngày làm việc. Trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày làm việc||Thời gian thẩm định: không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tiếp|3 Ngày làm việc||Thời gian ra quyết định phê duyệt: 03 ngày làm việc, kể từ ngày có báo cáo thẩm định đủ điều kiện phê duyệt|
+|Trực tuyến|5 Ngày làm việc||Thời gian thẩm định: không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|3 Ngày làm việc||Thời gian ra quyết định phê duyệt: 03 ngày làm việc, kể từ ngày có báo cáo thẩm định đủ điều kiện phê duyệt|
+|Dịch vụ bưu chính|5 Ngày làm việc||Thời gian thẩm định: không quá 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|3 Ngày làm việc||Thời gian ra quyết định phê duyệt: 03 ngày làm việc, kể từ ngày có báo cáo thẩm định đủ điều kiện phê duyệt|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình phê duyệt (bản chính) theo mẫu. ([Mẫu Tờ trình phê duyệt.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2f1822b3568e2'))
+- 01 Bản chính Phương án tổ chức giao thông.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường cao tốc Việt Nam, Cục Đường bộ Việt Nam, Ủy ban nhân dân tỉnh và thành phố trực thuộc Trung ương
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Quyết định phê duyệt phương án tổ chức giao thông trên đường cao tốc
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|90/2014/TT-BGTVT|Hướng dẫn một số nội dung về quản lý, khai thác và bảo trì công trình đường cao tốc.|31-12-2014|Bộ Giao thông vận tải|
+|48/2023/TT-BGTVT|Thông tư số 48/2023/TT-BGTVT ngày 31 tháng 12 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 90/2014/TT-BGTVT ngày 31 tháng 12 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn một số nội dung về quản lý, khai thác và bảo trì công trình đường cao tốc|31-12-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.008683
+Số quyết định:
+1500/QĐ-BTC
+Tên thủ tục:
+Đăng ký thuế đối với trường hợp chuyển đổi mô hình hoạt động của tổ chức kinh tế và tổ chức khác (chuyển đơn vị độc lập thành đơn vị trực thuộc của một đơn vị chủ quản khác) – Đối với đơn vị trước chuyển đổi.
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thuế
+Trình tự thực hiện:
++ Bước 1: Đơn vị độc lập chuyển thành đơn vị trực thuộc của đơn vị chủ quản khác thì đơn vị đơn vị độc lập được chuyển đổi phải làm thủ tục chấm dứt hiệu lực mã số thuế với cơ quan thuế trước khi chuyển đổi theo quy định tại Điều 16, Điều 17 Thông tư 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính.
++Bước 2: Cơ quan thuế tiếp nhận:
++ Đối với hồ sơ chấm dứt hiệu lực mã số thuế bằng giấy:
+++ Đối với hồ sơ đăng ký thuế bằng giấy: 
+Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế: công chức thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ thay đổi thông tin đăng ký thuế, ghi rõ thời điểm nhận hồ sơ, số lượng tài liệu theo bảng kê danh mục hồ sơ thay đổi thông tin đăng ký thuế đối với trường hợp hồ sơ thay đổi thông tin đăng ký thuế nộp trực tiếp tại cơ quan thuế. Công chức thuế viết phiếu hẹn ngày trả kết quả thay đổi thông tin đăng ký thuế nếu thay đổi thông tin trên Giấy chứng nhận đăng ký thuế, thời hạn trả kết quả không được quá số ngày quy định của Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính.
+Trường hợp hồ sơ được gửi qua đường bưu chính: công chức thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+Công chức thuế kiểm tra hồ sơ đăng ký thuế, trường hợp cần bổ sung hồ sơ, cơ quan thuế phải thông báo cho người nộp thuế ngay trong ngày làm việc (đối với hồ sơ nộp trực tiếp tại cơ quan thuế); trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận hồ sơ (đối với hồ sơ gửi qua đường bưu chính).
+  ++ Trường hợp hồ sơ thay đổi thông tin đăng ký thuế điện tử: tiếp nhận hồ sơ đăng ký thuế được thực hiện theo quy định tại Thông tư số 110/2015/TT-BTC ngày 28/07/2015 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 Ngày làm việc||Trong thời hạn 02 (hai) ngày làm việc kể từ ngày cơ quan thuế nhận được hồ sơ chấm dứt hiệu lực mã số thuế của người nộp thuế, cơ quan thuế phải thực hiện Thông báo người nộp thuế ngừng hoạt động và đang làm thủ tục chấm dứt hiệu lực mã số thuế theo mẫu số 17/TB-ĐKT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính gửi cho người nộp thuế. Đồng thời chuyển trạng thái của người nộp thuế và các đơn vị trực thuộc của người nộp thuế về trạng thái "NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế" trên hệ thống ứng dụng đăng ký thuế.|
+|Trực tiếp|03 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc kể từ ngày người nộp thuế đã hoàn thành nghĩa vụ nộp thuế với cơ quan thuế và cơ quan hải quan hoặc cơ quan thuế hoàn thành việc chuyển toàn bộ nghĩa vụ thuế của đơn vị trực thuộc sang đơn vị chủ quản theo quy định, cơ quan thuế ban hành Thông báo chấm dứt hiệu lực mã số thuế theo mẫu số 18/TB-ĐKT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính gửi cho người nộp thuế.|
+|Trực tuyến|02 Ngày làm việc||Trong thời hạn 02 (hai) ngày làm việc kể từ ngày cơ quan thuế nhận được hồ sơ chấm dứt hiệu lực mã số thuế của người nộp thuế, cơ quan thuế phải thực hiện Thông báo người nộp thuế ngừng hoạt động và đang làm thủ tục chấm dứt hiệu lực mã số thuế theo mẫu số 17/TB-ĐKT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính gửi cho người nộp thuế. Đồng thời chuyển trạng thái của người nộp thuế và các đơn vị trực thuộc của người nộp thuế về trạng thái "NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế" trên hệ thống ứng dụng đăng ký thuế|
+|Trực tuyến|03 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc kể từ ngày người nộp thuế đã hoàn thành nghĩa vụ nộp thuế với cơ quan thuế và cơ quan hải quan hoặc cơ quan thuế hoàn thành việc chuyển toàn bộ nghĩa vụ thuế của đơn vị trực thuộc sang đơn vị chủ quản theo quy định, cơ quan thuế ban hành Thông báo chấm dứt hiệu lực mã số thuế theo mẫu số 18/TB-ĐKT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính gửi cho người nộp thuế.|
+|Dịch vụ bưu chính|02 Ngày làm việc||Trong thời hạn 02 (hai) ngày làm việc kể từ ngày cơ quan thuế nhận được hồ sơ chấm dứt hiệu lực mã số thuế của người nộp thuế, cơ quan thuế phải thực hiện Thông báo người nộp thuế ngừng hoạt động và đang làm thủ tục chấm dứt hiệu lực mã số thuế theo mẫu số 17/TB-ĐKT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính gửi cho người nộp thuế. Đồng thời chuyển trạng thái của người nộp thuế và các đơn vị trực thuộc của người nộp thuế về trạng thái "NNT ngừng hoạt động nhưng chưa hoàn thành thủ tục chấm dứt hiệu lực mã số thuế" trên hệ thống ứng dụng đăng ký thuế.|
+|Dịch vụ bưu chính|03 Ngày làm việc||Trong thời hạn 03 (ba) ngày làm việc kể từ ngày người nộp thuế đã hoàn thành nghĩa vụ nộp thuế với cơ quan thuế và cơ quan hải quan hoặc cơ quan thuế hoàn thành việc chuyển toàn bộ nghĩa vụ thuế của đơn vị trực thuộc sang đơn vị chủ quản theo quy định, cơ quan thuế ban hành Thông báo chấm dứt hiệu lực mã số thuế theo mẫu số 18/TB-ĐKT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính gửi cho người nộp thuế.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị chấm dứt hiệu lực mã số thuế mẫu số 24/ĐK-TCT ban hành kèm theo Thông tư số 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính ([mau24.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fcffe8b0cd96fa8'))
+- 01 Bản chính Giấy chứng nhận đăng ký thuế hoặc Thông báo mã số thuế (bản gốc); hoặc công văn giải trình mất Giấy chứng nhận đăng ký thuế hoặc Thông báo mã số thuế
+- 01 Bản sao Bản sao không yêu cầu chứng thực Quyết định chấm dứt hoạt động đơn vị trực thuộc, hoặc Thông báo chấm dứt hoạt động của đơn vị chủ quản, hoặc Quyết định thu hồi giấy chứng nhận đăng ký hoạt động đối với đơn vị trực thuộc của cơ quan có thẩm quyền
+- 01 Bản chính Văn bản xác nhận hoàn thành nghĩa vụ thuế đối với hoạt động xuất nhập khẩu của Tổng cục Hải quan nếu tổ chức có hoạt động xuất nhập khẩu
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện:
+Cục Thuế tỉnh
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Cơ quan thuế ban hành Thông báo người nộp thuế ngừng hoạt động và đang làm thủ tục chấm dứt hiệu lực mã số thuế theo mẫu số 17/TB-ĐKT ban hành kèm theo Thông tư 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính, Cơ quan thuế ban hành Thông báo chấm dứt hiệu lực mã số thuế mẫu số 18/TB-ĐKT ban hành kèm theo Thông tư 95/2016/TT-BTC ngày 28/6/2016 của Bộ Tài chính.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|78/2006/QH11|Luật|01-07-2007||
+|95/2016/TT-BTC|Hướng dẫn về đăng ký thuế|28-06-2016|Bộ Tài chính|
+|21/2012/QH12|Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế|20-11-2012|Quốc Hội|
+|110/2015/TT-BTC|Thông tư 110/2015/TT-BTC|28-07-2015||
+
+Yêu cầu, điều kiện thực hiện:
+Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng các quy định tại Thông tư số 110/2015/TT-BTC ngày 28/07/2015 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

@@ -1,0 +1,14 @@
+Tên thủ tục: Thủ tục xác định dự án đầu tư có hoặc không sử dụng công nghệ lạc hậu, tiềm ẩn nguy cơ gây ô nhiễm môi trường, thâm dụng tài nguyên (trừ trường hợp thuộc thẩm quyền giải quyết của Bộ Khoa học và Công nghệ)
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Nhà đầu tư lập 01 bộ hồ sơ đề nghị xác định công nghệ, gửi trực tiếp hoặc gửi qua đường bưu chính đến Trung tâm phục vụ hành chính công cấp tỉnh hoặc gửi trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh. 
+- Đối với hồ sơ chưa đầy đủ, chưa hợp lệ theo quy định, Trung tâm phục vụ hành chính công cấp tỉnh trả ngay lại hồ sơ cho nhà đầu tư và thông báo rõ về các văn bản cần sửa đổi, bổ sung để nhà đầu tư hoàn thiện hồ sơ trong trường hợp nhà đầu tư nộp hồ sơ trực tiếp. Trường hợp nhà đầu tư gửi hồ sơ trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh hoặc qua đường bưu chính, trong thời hạn 02 ngày làm việc kể từ ngày nhận hồ sơ, Sở Khoa học và Công nghệ có văn bản đề nghị nhà đầu tư sửa đổi, bổ sung, hoàn thiện hồ sơ.
+- Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ,
+hợp lệ, Sở Khoa học và Công nghệ có văn bản gửi Sở Tài nguyên và Môi trường, cơ quan quản lý chuyên ngành cùng cấp liên quan để lấy ý kiến phối hợp. Trường hợp cần thiết, Sở Khoa học và Công nghệ lấy thêm ý kiến tổ chức, chuyên gia độc lập để tham vấn về chuyên môn, xác định công nghệ của dự án đầu tư.
+- Trong thời hạn 15 ngày làm việc, cơ quan được lấy ý kiến phối hợp, tổ
+chức, chuyên gia độc lập có ý kiến bằng văn bản gửi Sở Khoa học và Công nghệ.
+- Đối với dự án đầu tư có quy mô lớn, công nghệ phức tạp, trong trường hợp cần thiết, trong thời hạn 20 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Sở Khoa học và Công nghệ quyết định thành lập Hội đồng tư vấn khoa học và công nghệ, tổ chức khảo sát thực tế để xác định công nghệ của dự án đầu tư.
+- Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đủ ý kiến của
+cơ quan phối hợp, hội đồng tư vấn khoa học và công nghệ, tổ chức, chuyên gia
+độc lập, Sở Khoa học và Công nghệ có ý kiến xác định công nghệ của dự án bằng văn bản gửi nhà đầu tư.

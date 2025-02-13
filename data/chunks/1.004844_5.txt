@@ -1,0 +1,22 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Đường sắt Việt Nam, UBND tỉnh Thái Nguyên, UBND Thành phố Hồ Chí Minh, UBND tỉnh Quảng Ninh, UBND Thành phố Hà Nội
+Cơ quan có thẩm quyền:
+Cục Đường sắt Việt Nam, UBND tỉnh Thái Nguyên, UBND Thành phố Hồ Chí Minh, UBND tỉnh Quảng Ninh, UBND Thành phố Hà Nội
+Địa chỉ tiếp nhận HS:
+Cục Đường sắt Việt Nam, Ủy ban nhân dân các tỉnh, thành phố: Hà Nội, Hồ Chí Minh, Quảng Ninh, Thái Nguyên;
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký phương tiện giao thông đường sắt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|198/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực đường thủy nội địa và đường sắt|08-11-2016|Bộ Tài chính|
+|14/2023/TT-BGTVT|Thông tư quy định về đăng ký phương tiện giao thông đường sắt, di chuyển phương tiện giao thông đường sắt trong trường hợp đặc biệt|30-06-2023|Bộ Giao thông vận tải|

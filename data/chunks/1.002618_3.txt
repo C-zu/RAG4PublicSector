@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|2 Ngày làm việc|Lệ phí : 0 Đồng|02 ngày làm việc, kể từ ngày nhận được đơn hoặc thông tin đăng ký. *Cách thức thực hiện: Người làm thủ tục gửi hồ sơ và nhận kết quả qua dịch vụ bưu chính hoặc trực tiếp tại trụ sở Biên phòng cửa khẩu biên giới đất liền hoặc qua Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn.|

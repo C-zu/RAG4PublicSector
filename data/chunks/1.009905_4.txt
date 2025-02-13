@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp Chứng nhận huấn luyện nghiệp vụ phòng cháy và chữa cháy
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+- Đối với cá nhân có nhu cầu được huấn luyện và cấp Chứng nhận huấn luyện nghiệp vụ phòng cháy, chữa cháy:
+- 01 Bản chính Văn bản đề nghị huấn luyện, kiểm tra, cấp chứng nhận huấn luyện (Mẫu số PC22 ban hành kèm theo Nghị định số 136/2020/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f25bee09e282'">PC22-huanluyen,kiemtrahuanluyen(tochuc).docx</a>)
+
+
+- Đối với cơ quan, tổ chức, cơ sở đề nghị cơ quan Công an hoặc cơ sở huấn luyện, hướng dẫn về nghiệp vụ phòng cháy, chữa cháy tổ chức huấn luyện:
+- 01 Bản chính + Văn bản đề nghị huấn luyện, kiểm tra, cấp chứng nhận huấn luyện (Mẫu số PC22 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd837281a3d1e34'">PC22-huanluyen,kiemtrahuanluyen(tochuc).docx</a>)
+- 01 Bản chính + Danh sách trích ngang lý lịch của người đăng ký tham gia huấn luyện.
+
+
+- Đối với cơ sở huấn luyện, hướng dẫn về nghiệp vụ phòng cháy, chữa cháy tổ chức huấn luyện:
+- 01 Bản chính + Văn bản đề nghị kiểm tra, cấp chứng nhận huấn luyện (Mẫu số PC21 ban hành kèm theo Nghị định số 136/2020/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe2542bfe1d9001'">PC21-kiemtrahuanluyen.docx</a>)
+- 01 Bản chính + Kế hoạch, chương trình nội dung huấn luyện;
+- 01 Bản chính + Danh sách trích ngang lý lịch của người được huấn luyện.

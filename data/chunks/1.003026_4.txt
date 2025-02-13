@@ -1,0 +1,14 @@
+Tên thủ tục: Gia hạn Giấy chứng nhận thực hành tốt sản xuất thuốc thú y (GMP)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký tái kiểm tra GMP theo phụ lục XXVIII Thông tư số 13/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc879244990f118'">PHỤ LỤC XXVIII.docx</a>)
+- 01 Bản chính - Báo cáo hoạt động, những thay đổi của cơ sở trong 05 năm triển khai GMP; mô tả thông tin cơ sở đã có biện pháp bảo vệ môi trường theo quy định của pháp luật;
+- 01 Bản chính - Báo cáo khắc phục các tồn tại trong kiểm tra lần trước;
+- 01 Bản chính - Báo cáo về huấn luyện, đào tạo của cơ sở;
+- 01 Bản chính - Danh mục thiết bị hiện có của cơ sở;
+- 01 Bản chính - Danh mục các mặt hàng đang sản xuất;
+- 01 Bản chính - Danh mục các quy trình thao tác chuẩn;
+- 01 Bản chính - Biên bản tự thanh tra và đánh giá của cơ sở trong đợt tự thanh tra gần nhất (trong vòng 03 tháng) về triển khai GMP.

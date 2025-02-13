@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp phép nhập khẩu thuốc viện trợ, viện trợ nhân đạo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn hàng nhập khẩu theo: - Mẫu số 24 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với sinh phẩm, thuốc hóa dược; - Mẫu số 25 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc hướng thần, thuốc tiền chất, thuốc dạng phối hợp có chứa dược chất gây nghiện, thuốc dạng phối hợp có chứa dược chất hướng thần, thuốc dạng phối hợp có chứa tiền chất; -Mẫu số 26 Phụ lục III tại Phụ lục II của Nghị định số 155/2018/NĐ-CP đối với thuốc dược liệu, thuốc cổ truyền; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdef72fd230fda2'">ND54_Mau 24_25_26 Phu luc III.docx</a>)
+- 01 Bản chính b) Bản chính văn bản của cơ sở nhận viện trợ, viện trợ nhân đạo, ghi rõ số lượng của từng loại thuốc nhận viện trợ, viện trợ nhân đạo và cam kết sử dụng thuốc đúng mục đích, đúng đối tượng;
+- 01 Bản sao c) Bản chính hoặc bản sao có chứng thực văn bản của cơ quan quản lý nhà nước có thẩm quyền phê duyệt sử dụng thuốc phục vụ chương trình y tế của Nhà nước đối với thuốc viện trợ nước ngoài thông qua các chương trình, dự án hoặc bản chính văn bản phê duyệt của cơ quan có thẩm quyền về việc thực hiện hoạt động khám, chữa bệnh nhân đạo đối với trường hợp thuốc viện trợ được các đoàn công tác khám bệnh, chữa bệnh nhân đạo của nước ngoài mang theo để phục vụ công tác khám bệnh, chữa bệnh nhân đạo;
+- 01 Bản sao d) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận sản phẩm dược;
+- 01 Bản chính đ) Hồ sơ chất lượng theo quy định của Bộ trưởng Bộ Y tế về áp dụng hồ sơ ACTD trong đăng ký thuốc hoặc tiêu chuẩn chất lượng và kết quả nghiên cứu tương đương sinh học;
+- 01 Bản chính e) Hồ sơ lâm sàng đối với các thuốc phải nộp hồ sơ lâm sàng theo quy định của Bộ trưởng Bộ Y tế về đăng ký thuốc; Miễn nộp tài liệu tại điểm này trong trường hợp thuốc đã từng được cấp phép nhập khẩu theo quy định tại Điều này và không có thay đổi thông tin liên quan đến chỉ định, liều dùng, đối tượng sử dụng.
+- 01 Bản chính g) Bản chính 01 bộ mẫu nhãn và tờ hướng dẫn sử dụng của thuốc ở nước sản xuất hoặc nước xuất khẩu, trừ trường hợp mẫu nhãn và tờ hướng dẫn sử dụng được đính kèm Giấy chứng nhận sản phẩm dược;
+- 02 Bản chính h) 02 bộ mẫu nhãn và tờ hướng dẫn sử dụng tiếng Việt có đóng dấu của cơ sở nhập khẩu;
+- 01 Bản sao i) Bản chính hoặc bản sao có chứng thực Giấy chứng nhận thực hành tốt sản xuất của tất cả các cơ sở tham gia sản xuất thuốc nhập khẩu trong trường hợp thuốc được sản xuất bởi nhiều cơ sở. Miễn nộp tại liệu tại điểm này trong trường hợp cơ sở sản xuất đã được xác nhận đạt nguyên tắc, tiêu chuẩn thực hành tốt sản xuất trên Giấy chứng nhận sản phẩm dược;
+ k) Miễn các tài liệu quy định tại d, đ, e, g, h và i đối với trường hợp nhập khẩu thuốc quy định tại điểm a, b Khoản 1 Điều này nhưng phải có văn bản cam kếtvề việc thuốc được cấp phép lưu hành tại nước sản xuất hoặc nước là thành viên của ICH hoặc Australia và trong văn bản của cơ sở nhận viện trợ ghi rõ danh sách người bệnh có nhu cầu sử dụng thuốc đối với trường hợp thuốc được viện để sử dụng cho người bệnh cụ thể đang điều trị tại cơ sở khám bệnh, chữa bệnh theo đề nghị của cơ sở khám bệnh, chữa bệnh.
+ Giấy tờ trong hồ sơ đề nghị cấp phép nhập khẩu thuốc: theo quy định tại Điều 76 Nghị định số 54/2017/NĐ-CPvà các khoản 40, 41, 42 Điều 4; khoản 42 Điều 5 Nghị định số 155/2018/NĐ-CP.

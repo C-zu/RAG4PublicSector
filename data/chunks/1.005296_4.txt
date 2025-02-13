@@ -1,0 +1,11 @@
+Tên thủ tục: Thủ tục đăng ký tài trợ của nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập được sử dụng các phòng thí nghiệm trọng điểm quốc gia và các phòng thí nghiệm khác do Quỹ Phát triển khoa học và công nghệ Quốc gia hỗ trợ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị hỗ trợ (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd898ed8d1d5e5c'">Mẫu NCNLQG 15.doc</a>)
+- 01 Bản chính Lý lịch khoa học (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd918542ed074ec'">Mẫu NCNLQG 02.doc</a>)
+- 01 Bản chính Tài liệu chứng minh là nhà khoa học trẻ tài năng không thuộc tổ chức khoa học và công nghệ công lập
+- 01 Bản chính Thuyết minh nêu rõ ý nghĩa, sự cần thiết sử dụng các phòng thí nghiệm trọng điểm quốc gia và các phòng thí nghiệm khác
+- 01 Bản chính Dự toán kinh phí (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3bc548ebc459d'">Mẫu NCNLQG 16.doc</a>)

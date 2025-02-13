@@ -1,0 +1,9 @@
+Tên thủ tục: Mua quyển hóa đơn
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Đơn vị có nhu cầu mua hóa đơn có văn bản đề nghị mua hóa đơn, gửi đến cơ quan tài chính (Sở Tài chính hoặc Phòng Tài chính - Kế hoạch cấp huyện) nơi đơn vị đóng trụ sở.
+Bước 2: Sau khi nhận được hồ sơ mua hóa đơn của đơn vị, cơ quan tài chính phải kiểm tra, nếu đúng đối tượng quy định thì bán hóa đơn cho đơn vị (đối với trường hợp mua hóa đơn lần đầu) hoặc căn cứ vào tình hình quản lý sử dụng hóa đơn lần trước của đơn vị để xem xét, quyết định số lượng quyển hóa đơn bán (đối với trường hợp mua hóa đơn các lần tiếp theo).
+Ghi chú: Người được cơ quan cử đi mua hóa đơn phải xuất trình các giấy tờ có liên quan đến việc mua hóa đơn cho cơ quan tài chính; cụ thể:
+- Giấy giới thiệu kèm theo công văn đề nghị được mua hóa đơn do người đứng đầu cơ quan ký, đóng dấu: 01 bản chính;
+- Chứng minh nhân dân hoặc thẻ căn cước hoặc hộ chiếu (còn trong thời hạn sử dụng theo quy định của pháp luật) của người trực tiếp mua hóa đơn; Trường hợp cơ quan tài chính truy xuất được dữ liệu về người được cơ quan cử đến mua hóa đơn từ Cơ sở dữ liệu quốc gia về dân cư thì không phải xuất trình các giấy tờ này.

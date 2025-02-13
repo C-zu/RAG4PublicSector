@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký dấu nổi, dấu thu nhỏ, dấu xi (thực hiện tại cấp tỉnh)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||Nộp hồ sơ, nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.|
+|Trực tuyến|3 Ngày làm việc||Nộp hồ sơ qua Cổng Dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).|
+|Dịch vụ bưu chính|3 Ngày làm việc||Nộp hồ sơ, trả kết quả qua dịch vụ bưu chính tại bộ phận tiếp nhận hồ sơ của Phòng Cảnh sát quản lý hành chính về trật tự xã hội - Công an tỉnh, thành phố trực thuộc Trung ương.|

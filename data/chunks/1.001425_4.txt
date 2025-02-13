@@ -1,0 +1,16 @@
+Tên thủ tục: Nghiệm thu về phòng cháy và chữa cháy (thực hiện tại cấp tỉnh)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Văn bản đề nghị kiểm tra kết quả nghiệm thu về phòng cháy, chữa cháy (Mẫu số PC11 ban hành kèm theo Nghị định số 136/2020/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd01ef1c567949c'">PC11-kiemtra,nghiemthu.docx</a>)
+- 01 Bản chính - Báo cáo của chủ đầu tư, chủ phương tiện về tình hình kết quả thi công, kiểm tra, kiểm định, thử nghiệm và nghiệm thu các hệ thống, thiết bị và giải pháp phòng cháy, chữa cháy.
+- 01 Bản sao - Bản sao Giấy chứng nhận hoặc văn bản thẩm duyệt thiết kế về phòng cháy, chữa cháy kèm theo hồ sơ đã được đóng dấu thẩm duyệt của cơ quan Cảnh sát phòng cháy, chữa cháy.
+- 01 Bản sao - Bản sao Giấy chứng nhận kiểm định phương tiện phòng cháy, chữa cháy.
+- 01 Bản chính - Các biên bản thử nghiệm, nghiệm thu từng phần và nghiệm thu tổng thể hệ thống phòng cháy, chữa cháy.
+- 01 Bản chính - Các bản vẽ hoàn công hệ thống phòng cháy, chữa cháy và các hạng mục liên quan đến phòng cháy, chữa cháy phù hợp với hồ sơ thiết kế đã được thẩm duyệt.
+- 01 Bản chính - Tài liệu, quy trình hướng dẫn vận hành, bảo dưỡng các thiết bị, hệ thống phòng cháy, chữa cháy và các hệ thống liên quan đến phòng cháy, chữa cháy của công trình, phương tiện giao thông cơ giới.
+- 01 Bản chính - Văn bản nghiệm thu hoàn thành các hạng mục, hệ thống liên quan đến phòng cháy, chữa cháy.
+- 01 Bản sao - Bản sao Giấy xác nhận đủ điều kiện kinh doanh dịch vụ phòng cháy, chữa cháy của đơn vị tư vấn giám sát (nếu có), đơn vị thi công, lắp đặt hệ thống phòng cháy, chữa cháy.
+ Các văn bản, tài liệu có trong hồ sơ phải có xác nhận của chủ đầu tư, chủ phương tiện, đơn vị tư vấn giám sát, đơn vị thi công. Nếu hồ sơ bằng tiếng nước ngoài phải dịch ra tiếng Việt.

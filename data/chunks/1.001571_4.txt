@@ -1,0 +1,7 @@
+Tên thủ tục: Tự nguyện rút công nhận Bên thứ ba (TPE) (TTHC cấp trung ương)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Yêu cầu qua thư điện tử bao gồm các thông tin sau: + Tên của TPE muốn tự nguyện rút công nhận; + Chữ ký điện tử của người đại diện; + Các lĩnh vực tự nguyện rút công nhận; + Thời điểm việc tự nguyện rút công nhận có hiệu lực.

@@ -1,0 +1,10 @@
+Tên thủ tục: Thủ tục gia hạn mã số nhân viên đại lý làm thủ tục hải quan
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Lập hồ sơ:
+
+Nhân viên đại lý làm thủ tục hải quan có mã số đã hết thời hạn hiệu lực để làm thủ tục hải quan và không thuộc các trường hợp bị thu hồi mã số nhân viên đại lý làm thủ tục hải quan. Nhân viên đại lý làm thủ tục hải quan lập hồ sơ đề nghị gia hạn mã số nhân viên đại lý làm thủ tục hải quan gửi Tổng cục Hải quan.
+Bước 2: Gia hạn mã số nhân viên đại lý làm thủ tục hải quan:
+
+Tổng cục Hải quan tiếp nhận, kiểm tra hồ sơ và điều kiện theo quy định; Tổng cục trưởng Tổng cục Hải quan thực hiện gia hạn mã số nhân viên đại lý làm thủ tục hải quan. Trường hợp không đủ điều kiện thì có văn bản trả lời doanh nghiệp.

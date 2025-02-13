@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004223
+Số quyết định:
+1545/QĐ-BTNMT
+Tên thủ tục:
+Cấp giấy phép khai thác, sử dụng nước dưới đất đối với công trình có quy mô dưới 3.000m3/ngày đêm
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Tài nguyên nước
+Trình tự thực hiện:
+- Bước 1: Nộp hồ sơ:
+Tổ chức, cá nhân đề nghị cấp phép nộp 01 bộ hồ sơ trực tiếp hoặc thông qua dịch vụ bưu chính viễn thông hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại cổng dịch vụ công đến Bộ phận Một cửa hoặc Trung tâm Phục vụ hành chính công của Ủy ban nhân dân cấp tỉnh hoặc Sở Tài nguyên và Môi trường (đối với trường hợp địa phương chưa thành lập Bộ phận một cửa hoặc Trung tâm Phục vụ hành chính công), sau đây gọi tắt là Bộ phận Một cửa.
+- Bước 2: Tiếp nhận, kiểm tra hồ sơ:
+Bộ phận Một cửa có trách nhiệm tiếp nhận hồ sơ, kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ.
++ Trường hợp hồ sơ không hợp lệ, Bộ phận Một cửa trả lại hồ sơ và thông báo rõ lý do cho tổ chức, cá nhân đề nghị cấp phép. 
++ Trường hợp hồ sơ hợp lệ, Bộ phận Một cửa chuyển hồ sơ cho Sở Tài nguyên và Môi trường để tổ chức thẩm định.
+- Bước 3: Thẩm định hồ sơ và quyết định cấp phép:
+Kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tài nguyên và Môi trường có trách nhiệm gửi thông báo nộp phí thẩm định cho tổ chức, cá nhân đề nghị cấp phép và thẩm định hồ sơ; nếu cần thiết thì kiểm tra thực tế hiện trường, lập hội đồng thẩm định báo cáo, tổ chức lấy ý kiến các cơ quan, tổ chức, cá nhân có liên quan.
+Đối với công trình thăm dò, khai thác nước dưới đất nằm trong phạm vi bảo vệ công trình thuỷ lợi thì Sở Tài nguyên và Môi trường thực hiện lấy ý kiến bằng văn bản của cơ quan nhà nước quản lý công trình thủy lợi về tác động của việc khai thác nước dưới đất của công trình đề nghị cấp phép đến an toàn công trình thủy lợi. 
++ Trường hợp đủ điều kiện cấp phép, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cấp tỉnh cấp phép; trường hợp không đủ điều kiện để cấp phép thì trả lại hồ sơ cho tổ chức, cá nhân đề nghị cấp phép và thông báo rõ lý do bằng văn bản.
++ Trường hợp phải bổ sung, chỉnh sửa để hoàn thiện báo cáo, Sở Tài nguyên và Môi trường gửi văn bản thông báo cho tổ chức, cá nhân đề nghị cấp phép nêu rõ những nội dung cần bổ sung, hoàn thiện báo cáo. 
+Thời gian bổ sung, hoàn thiện báo cáo không tính vào thời gian thẩm định báo cáo. Thời gian thẩm định sau khi báo cáo được bổ sung hoàn chỉnh là 24 ngày.
++ Trường hợp phải lập lại báo cáo, Sở Tài nguyên và Môi trường gửi văn bản thông báo cho tổ chức, cá nhân đề nghị cấp phép nêu rõ những nội dung báo cáo chưa đạt yêu cầu, phải làm lại và trả lại hồ sơ đề nghị cấp phép.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : theo Quy định của UBND cấp tỉnh|- Thời hạn kiểm tra hồ sơ: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, Bộ phận Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định báo cáo: Trong thời hạn 42 ngày, kể từ ngày nhận đủ hồ sơ, Sở Tài nguyên và Môi trường có trách nhiệm thẩm định báo cáo. - Thời gian bổ sung, hoàn thiện báo cáo không tính vào thời gian thẩm định báo cáo. Thời gian thẩm định sau khi báo cáo được bổ sung hoàn chỉnh là 24 ngày.|
+|Trực tuyến|45 Ngày|Phí : Đồng theo Quy định của UBND cấp tỉnh|- Thời hạn kiểm tra hồ sơ: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, Bộ phận Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định báo cáo: Trong thời hạn 42 ngày, kể từ ngày nhận đủ hồ sơ, Sở Tài nguyên và Môi trường có trách nhiệm thẩm định báo cáo. - Thời gian bổ sung, hoàn thiện báo cáo không tính vào thời gian thẩm định báo cáo. Thời gian thẩm định sau khi báo cáo được bổ sung hoàn chỉnh là 24 ngày.|
+|Dịch vụ bưu chính|45 Ngày|Phí : theo Quy định của UBND cấp tỉnh|- Thời hạn kiểm tra hồ sơ: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ, Bộ phận Một cửa có trách nhiệm xem xét, kiểm tra hồ sơ. - Thời hạn thẩm định báo cáo: Trong thời hạn 42 ngày, kể từ ngày nhận đủ hồ sơ, Sở Tài nguyên và Môi trường có trách nhiệm thẩm định báo cáo. - Thời gian bổ sung, hoàn thiện báo cáo không tính vào thời gian thẩm định báo cáo. Thời gian thẩm định sau khi báo cáo được bổ sung hoàn chỉnh là 24 ngày.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp giấy phép theo Mẫu 03, Phụ lục I Nghị định số 54/2024/NĐ-CP; ([Mẫu 03.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fea844bec2e4380'))
+- 01 Bản chính - Sơ đồ khu vực và vị trí công trình khai thác nước dưới đất;
+- 01 Bản chính - Báo cáo kết quả thăm dò đánh giá trữ lượng nước dưới đất đối với công trình có quy mô từ 200 m3/ngày đêm trở lên theo Mẫu 38, Phụ lục I Nghị định số 54/2024/NĐ-CP hoặc báo cáo kết quả thi công giếng khai thác đối với công trình có quy mô nhỏ hơn 200 m3/ngày đêm trong trường hợp chưa có công trình khai thác theo Mẫu 39, Phụ lục I Nghị định số 54/2024/NĐ-CP; báo cáo hiện trạng khai thác đối với trường hợp công trình khai thác nước dưới đất đang hoạt động theo Mẫu 40, Phụ lục I Nghị định số 54/2024/NĐ-CP; ([Mẫu 38.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee56585486916f') [Mẫu 39.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4a95e21b79323') [Mẫu 40.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe828bf0c0dc6b8'))
+- 01 Bản chính - Kết quả phân tích chất lượng nguồn nước không quá 6 tháng tính đến thời điểm nộp hồ sơ, đảm bảo mỗi tầng chứa nước khai thác tối thiểu 1 mẫu.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Sở Tài nguyên và Môi trường
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Sở Tài nguyên và Môi trường; trường hợp địa phương đã tổ chức Bộ phận Một cửa hoặc Trung tâm Phục vụ hành chính công thì thực hiện việc tiếp nhận hồ sơ và trả kết quả qua Bộ phận Một cửa hoặc Trung tâm Phục vụ hành chính công theo quyết định của Ủy ban nhân dân cấp tỉnh
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Kết quả của thủ tục Cấp giấy phép khai thác nước dưới đất đối với công trình có quy mô dưới 3.000m3/ngày đêm theo Mẫu 21 Phụ lục I Nghị định số 54/2024/NĐ-CP.
+Căn cứ pháp lý:
+Không có thông tin
+Yêu cầu, điều kiện thực hiện:
+- Việc khai thác tài nguyên nước phù hợp với Quy hoạch về tài nguyên nước; quy hoạch ngành quốc gia, quy hoạch tỉnh, quy hoạch có tính chất kỹ thuật, chuyên ngành có nội dung khai thác, sử dụng tài nguyên nước; khả năng đáp ứng của nguồn nước; khai thác nước dưới đất phù hợp với quy định liên quan đến vùng cấm, vùng hạn chế khai thác nước dưới đất theo quy định tại Điều 31 của Luật Tài nguyên nước; 
+- Bảo đảm các yêu cầu về bảo vệ, khai thác, sử dụng tài nguyên nước và phòng, chống và khắc phục tác hại do nước gây ra theo quy định của Luật Tài nguyên nước;
+- Bảo đảm thông tin, số liệu sử dụng để lập báo cáo đầy đủ, chính xác.
+- Việc khai thác tài nguyên nước phù hợp với Quy hoạch về tài nguyên nước; quy hoạch ngành quốc gia, quy hoạch tỉnh, quy hoạch có tính chất kỹ thuật, chuyên ngành có nội dung khai thác, sử dụng tài nguyên nước; khả năng đáp ứng của nguồn nước; khai thác nước dưới đất phù hợp với quy định liên quan đến vùng cấm, vùng hạn chế khai thác nước dưới đất theo quy định tại Điều 31 của Luật Tài nguyên nước; 
+- Bảo đảm các yêu cầu về bảo vệ, khai thác, sử dụng tài nguyên nước và phòng, chống và khắc phục tác hại do nước gây ra theo quy định của Luật Tài nguyên nước;
+- Bảo đảm thông tin, số liệu sử dụng để lập báo cáo đầy đủ, chính xác.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

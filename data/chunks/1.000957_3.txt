@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp Giấy phép tạm nhập, tái xuất theo hình thức khác
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày||- 5 ngày làm việc, kể từ ngày Bộ Công Thương nhận được hồ sơ đầy đủ, đúng quy định. - Riêng đối với hàng hóa chưa được phép lưu hành, sử dụng tại Việt Nam, thời hạn cấp Giấy phép là 3 ngày làm việc, kể từ ngày Bộ Công Thương nhận được văn bản đồng ý việc tạm nhập, tái xuất của Bộ, cơ quan ngang Bộ có thẩm quyền quản lý hàng hóa đó.|
+|Trực tuyến|5 Ngày||- 5 ngày làm việc, kể từ ngày Bộ Công Thương nhận được hồ sơ đầy đủ, đúng quy định. - Riêng đối với hàng hóa chưa được phép lưu hành, sử dụng tại Việt Nam, thời hạn cấp Giấy phép là 3 ngày làm việc, kể từ ngày Bộ Công Thương nhận được văn bản đồng ý việc tạm nhập, tái xuất của Bộ, cơ quan ngang Bộ có thẩm quyền quản lý hàng hóa đó.|
+|Dịch vụ bưu chính|5 Ngày||- 5 ngày làm việc, kể từ ngày Bộ Công Thương nhận được hồ sơ đầy đủ, đúng quy định. - Riêng đối với hàng hóa chưa được phép lưu hành, sử dụng tại Việt Nam, thời hạn cấp Giấy phép là 3 ngày làm việc, kể từ ngày Bộ Công Thương nhận được văn bản đồng ý việc tạm nhập, tái xuất của Bộ, cơ quan ngang Bộ có thẩm quyền quản lý hàng hóa đó.|

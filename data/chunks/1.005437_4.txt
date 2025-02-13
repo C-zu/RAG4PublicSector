@@ -1,0 +1,9 @@
+Tên thủ tục: Đăng ký tham gia và thay đổi, bổ sung thông tin đã đăng ký trên Hệ thống giao dịch điện tử về tài sản công của tổ chức, cá nhân tham gia mua, thuê tài sản, nhận chuyển nhượng, thuê quyền khai thác tài sản công
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đăng ký bên mua, thuê (do Hệ thống giao dịch điện tử về tài sản công tạo ra trong quá trình đăng ký trên Hệ thống): 01 bản chính;
+- 01 Bản sao - Quyết định thành lập hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp và Giấy chứng minh nhân dân hoặc hộ chiếu của người đại diện theo pháp luật (trong trường hợp bên mua là doanh nghiệp): 01 bản sao;
+- 01 Bản sao - Chứng minh nhân dân hoặc thẻ căn cước công dân hoặc hộ chiếu (trong trường hợp bên mua là cá nhân): 01 bản sao. Trường hợp cơ quan quản lý, vận hành Hệ thống giao dịch điện tử về tài sản công truy xuất được dữ liệu về người mua từ Cơ sở dữ liệu quốc gia về dân cư thì không phải gửi kèm giấy tờ này.

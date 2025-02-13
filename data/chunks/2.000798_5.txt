@@ -1,0 +1,24 @@
+Tên thủ tục: Thủ tục mở và sử dụng tài khoản tại Kho bạc Nhà nước
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Kho bạc nhà nước cấp Huyện
+Cơ quan có thẩm quyền:
+Kho bạc nhà nước cấp Huyện
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Đồng ý mở tài khoản.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|60/2003/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước|06-06-2003|Chính phủ|
+|59/2003/TT-BTC|Thông tư Hướng dẫn thực hiện Nghị định số 60/2003/NĐ-CP ngày 6 tháng 6 năm 2003 của Chinh phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách Nhà nước|23-06-2003|Bộ Tài chính|
+|128/2004/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Kế toán áp dụng trong lĩnh vực kế toán nhà nước|31-05-2004|Chính phủ|
+|30/2005/QĐ-BTC|Về việc ban hành Chế độ mở và sử dụng tài khoản tại Kho bạc Nhà nước|26-05-2005|Bộ Tài chính|

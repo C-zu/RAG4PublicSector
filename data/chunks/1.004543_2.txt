@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp giấy xác nhận nội dung thông tin thuốc theo hình thức phát hành tài liệu thông tin thuốc
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+Bước 1: Cơ sở đề nghị xác nhận nội dung thông tin thuốc theo hình thức phát hành tài liệu thông tin thuốc nộp hồ sơ đến Bộ Y tế (Cục Quản lý Dược/Cục Quản lý Y, Dược cổ truyền).
+Bước 2: Trong thời hạn 10 (mười) ngày, kể từ ngày nhận đủ hồ sơ, Bộ Y tế (Cục Quản lý Dược) cấp Giấy xác nhận theo Mẫu số 05 Phụ lục VI của Nghị định số 54/2017/NĐ-CP. Trường hợp không cấp giấy xác nhận, Cục Quản lý Dược phải trả lời bằng văn bản và nêu rõ lý do không cấp.
+Bước 3: Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, trong thời hạn 10 (mười) ngày kể từ ngày nhận đủ hồ sơ, Bộ Y tế (Cục Quản lý Dược/Cục Quản lý Y, Dược cổ truyền) có văn bản đề nghị cơ sở sửa đổi, bổ sung nêu cụ thể, chi tiết những tài liệu, nội dung cần sửa đổi, bổ sung.
+Bước 4: Trong thời hạn 90 (chín mươi) ngày, kể từ ngày Bộ Y tế (Cục Quản lý Dược/Cục Quản lý Y, Dược cổ truyền) có văn bản thông báo sửa đổi, bổ sung, cơ sở phải nộp hồ sơ sửa đổi, bổ sung theo yêu cầu. Nếu quá thời hạn trên, hồ sơ đã nộp không còn giá trị.
+Bước 5: Trong thời hạn 10 (mười) ngày, kể từ ngày nhận được hồ sơ sửa đổi, bổ sung theo yêu cầu, Bộ Y tế (Cục Quản lý Dược/Cục Quản lý Y, Dược cổ truyền) cấp giấy xác nhận theo Mẫu số 05 Phụ lục VI của Nghị định số 54/2017/NĐ-CP hoặc trả lời không cấp giấy xác nhận bằng văn bản và nêu rõ lý do.

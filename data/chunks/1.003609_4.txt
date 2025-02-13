@@ -1,0 +1,10 @@
+Tên thủ tục: Cấp giấy phép hoạt động kinh doanh nhập khẩu xuất bản phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép hoạt động kinh doanh nhập khẩu xuất bản phẩm (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0935ac3ca700a'">Mẫu số 22- Đơn đề nghị cấp, cấp lại GPHĐKDNKXBP.doc</a>)
+- 01 Bản sao Bản sao có chứng thực một trong các loại giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đầu tư theo quy định của pháp luật
+- 01 Bản chính, 01 Bản sao Sơ yếu lý lịch của người đứng đầu cơ sở nhập khẩu xuất bản phẩm kèm theo bản sao có chứng thực văn bằng do cơ sở đào tạo chuyên ngành cấp hoặc giấy chứng nhận bồi dưỡng kiến thức nghiệp vụ phát hành xuất bản phẩm do Bộ Thông tin và Truyền thông cấp; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd3f9cb4dd7f89a'">Mẫu số 06- Sơ yếu lý lịch.doc</a>)
+- 01 Bản chính Danh sách nhân viên thẩm định nội dung sách đối với trường hợp kinh doanh nhập khẩu sách

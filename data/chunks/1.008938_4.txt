@@ -1,0 +1,11 @@
+Tên thủ tục: Đăng ký hoạt động của Trung tâm tư vấn, hỗ trợ hôn nhân và gia đình có yếu tố nước ngoài
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Tờ khai đăng ký hoạt động theo mẫu quy định;
+- 01 Bản sao 2. Bản sao quyết định thành lập Trung tâm;
+- 01 Bản chính 3. Giấy tờ chứng minh địa điểm đặt trụ sở của Trung tâm;
+- 01 Bản chính 4. Phiếu lý lịch tư pháp của người dự kiến đứng đầu Trung tâm được cấp chưa quá 03 tháng, tính đến ngày nhận hồ sơ;
+- 01 Bản sao 5. Bản sao quy chế hoạt độngbảo đảm nguyên tắc phi lợi nhuận của Trung tâm.

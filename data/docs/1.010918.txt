@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010918
+Số quyết định:
+3191/QĐ-BCA
+Tên thủ tục:
+Đăng ký tạm thời xe mô tô, xe gắn máy (kể cả xe máy điện) tại Công an cấp xã được phân cấp đăng ký xe
+Cấp thực hiện:
+Cấp Xã
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng ký, quản lý phương tiện giao thông đường bộ
+Trình tự thực hiện:
+Bước 1: Chủ xe đăng nhập cổng dịch vụ công kê khai các thông tin vào Giấy khai đăng ký xe tạm thời điện tử (theo mẫu số 01B/58) để làm thủ tục đăng ký xe tạm thời. Trường hợp trực tiếp đến cơ quan đăng ký xe kê khai giấy khai đăng ký xe (mẫu số 01).
+Bước 2: Cán bộ đăng ký xe truy cập hệ thống đăng ký, quản lý xe, kiểm tra, đối chiếu thông tin Giấy khai đăng ký tạm thời điện tử và tài liệu đính kèm theo quy định hoặc hồ sơ đăng ký tạm (chủ xe trực tiếp nộp cho cơ quan đăng ký xe). 
+Trường hợp thông tin sai, không đầy đủ thì thông báo qua tin nhắn điện thoại hoặc địa chỉ thư điện tử cho chủ xe để chủ xe truy cập cổng dịch vụ công hiệu chỉnh lại thông tin, bổ sung hồ sơ còn thiếu. Trường hợp thông tin đúng, đầy đủ thì thông báo qua tin nhắn hoặc địa chỉ thư điện tử cho chủ xe để chủ xe truy cập cổng dịch vụ công nộp lệ phí đăng ký tạm thời qua ngân hàng, kho bạc hoặc tổ chức cung ứng dịch vụ trung gian thanh toán. 
+Bước 3: Sau khi nhận kết quả nộp lệ phí đăng ký tạm thời của chủ xe, cán bộ đăng ký xe trình lãnh đạo duyệt hồ sơ đăng ký xe tạm thời; lãnh đạo duyệt, ký số Giấy khai đăng ký xe tạm thời điện tử; thông báo cho chủ xe in Giấy chứng nhận đăng ký xe tạm thời điện tử từ cổng dịch vụ công hoặc địa chỉ thư điện tử của chủ xe.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Trực tiếp tại trụ sở Công an cấp xã được phân cấp đăng ký xe. Thời gian: Từ thứ 2 đến thứ 7 (theo quy định của Thủ tướng Chính phủ). Cấp ngay giấy chứng nhận đăng ký xe tạm thời sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ.|
+|Trực tuyến|0 Ngày làm việc|Phí : Đồng Thu theo Thông tư số 229/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ.|+ Nộp hồ sơ trực tuyến qua Cổng Dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an. Cấp ngay giấy chứng nhận đăng ký xe tạm thời sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Giấy khai đăng ký xe (Mẫu số 01 ban hành kèm theo Thông tư số 58/2020/TT-BCA) ([Mẫu số 1 Giay khai đăng ký xe.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd5e0f72270996c'))
+- 01 Bản chính Hồ sơ theo quy định tại Điều 13 Thông tư số 58/2020/TT-BCA, ngày 16/6/2020 của Bộ Công an.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Công an Xã
+Cơ quan có thẩm quyền:
+Công an Xã
+Địa chỉ tiếp nhận HS:
+Công an cấp xã; Cổng Dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy chứng nhận đăng ký xe tạm thời, Biển số xe tạm thời
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Thông tư số 229/2016/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ|11-11-2016||
+|23/2008/QH12|Luật Giao thông|13-11-2008|Quốc Hội|
+|58/2020/TT-BCA|Thông tư 58/2020/TT-BCA|16-06-2020||
+|15/2022/TT-BCA|Thông tư 15/2022/TT-BCA|06-04-2022||
+
+Yêu cầu, điều kiện thực hiện:
+Thực hiện tại Công an cấp xã có số lượng trung bình 03 năm liền kề gần nhất, đã đăng ký mới từ 250 xe mô tô, xe gắn máy (kể cả xe máy điện) trở lên trong 01 năm của cơ quan, tổ chức, cá nhân có trụ sở hoặc nơi thường trú tại địa bàn cấp xã (trừ các quận, thành phố thuộc thành phố trực thuộc trung ương; các thành phố thuộc tỉnh nơi Phòng Cảnh sát giao thông đặt trụ sở và cấp xã nơi Công an cấp huyện đặt trụ sở) và đảm bảo các điều kiện cơ sở vật chất, nhân lực theo quy định.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

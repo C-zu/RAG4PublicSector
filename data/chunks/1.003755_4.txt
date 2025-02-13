@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp, cấp lại thẻ, dấu kỹ thuật đăng kiểm viên tàu cá
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính a) Đơn đề nghị cấp/cấp lại thẻ, dấu kỹ thuật đăng kiểm viên tàu cá theo Mẫu số 03.ĐKV Phụ lục XI ban hành kèm theo Thông tư số 01/2022/TT-BNNPTNT; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feef117ad1aba26'">Mẫu số 03.docx</a>)
+- 01 Bản sao b) Bản sao Giấy chứng nhận bồi dưỡng nghiệp vụ đăng kiểm viên tàu cá hạng I hoặc hạng II hoặc hạng III (đối với trường hợp cấp lần đầu);
+- 01 Bản chính c) 02 ảnh màu (3 x 4 cm).

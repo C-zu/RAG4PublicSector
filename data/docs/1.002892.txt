@@ -1,0 +1,99 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002892
+Số quyết định:
+6184/QĐ-BQP
+Tên thủ tục:
+Thủ tục cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp sau khi hết thời hạn
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ
+Trình tự thực hiện:
+- Tổ chức, doanh nghiệp nộp hồ sơ cho Tổng cục Công nghiệp quốc phòng (số 28A Điện Biên Phủ, Ba Đình, Hà Nội);
+
+- Tổng cục Công nghiệp quốc phòng thẩm định, cấp Giấy phép sử dụng vật liệu nổ công nghiệp cho tổ chức, doanh nghiệp hoặc có văn bản trả lời trong trường hợp không cấp.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc|Lệ phí : Theo quy định của Bộ Tài chính (không áp dụng đối với đơn vị quân đội không phải là doanh nghiệp phục vụ thi công các công trình quốc phòng, an ninh)|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+|Dịch vụ bưu chính|05 Ngày làm việc|Lệ phí : Theo quy định của Bộ Tài chính (không áp dụng đối với đơn vị quân đội không phải là doanh nghiệp phục vụ thi công các công trình quốc phòng, an ninh)|Cách thức thực hiện : Gửi hồ sơ qua đường bưu điện hoặc nộp trực tiếp 05 (năm) ngày làm việc, kể từ ngày nhận đủ hồ sơ|
+
+Thành phần hồ sơ:
+
+- Đối với các tổ chức, doanh nghiệp khác:
+- 01 Bản chính + Giấy đề nghị cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp (bản chính). ([GIẤY ĐỀ NGHỊ SDVLNCN - mẫu 05.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbc362be5274c6'))
+- 01 Bản chính + Báo cáo kết quả sử dụng vật liệu nổ công nghiệp trong thời hạn hiệu lực của giấy phép đã cấp lần trước;
+- 01 Bản sao + Bản sao quyết định thành lập đơn vị hoặc bản sao Giấy chứng nhận đăng ký doanh nghiệp còn hiệu lực;
+- 01 Bản sao + Bản sao Giấy chứng nhận đủ điều kiện về an ninh, trật tự đối với doanh nghiệp. Giấy xác nhận đủ điều kiện an toàn, an ninh do cơ quan bảo vệ an ninh cấp đối với đơn vị Quân đội không phải là doanh nghiệp;
+- 01 Bản sao + Bản sao Giấy phép thăm dò, khai thác khoáng sản, dầu khí đối với doanh nghiệp hoạt động khoáng sản, dầu khí; bản sao quyết định trúng thầu thi công công trình, bản sao hợp đồng nhận thầu hoặc văn bản ủy quyền, giao nhiệm vụ thực hiện hợp đồng thi công công trình của tổ chức quản lý doanh nghiệp còn hiệu lực; bản sao văn bản giao nhiệm vụ của cơ quan, đơn vị trực thuộc Bộ Quốc phòng đối với các nhiệm vụ khác cần sử dụng vật liệu nổ công nghiệp;
+- 01 Bản sao + Bản sao thiết kế, bản vẽ thi công các hạng mục công trình xây dựng, thiết kế khai thác mỏ có sử dụng vật liệu nổ công nghiệp đối với công trình quy mô công nghiệp; phương án thi công, khai thác đối với hoạt động xây dựng, khai thác thủ công;
+- 01 Bản chính + Thiết kế hoặc phương án nổ mìn được lãnh đạo tổ chức, doanh nghiệp ký duyệt. Trường hợp nổ mìn trong khu vực dân cư, cơ sở khám bệnh, chữa bệnh, khu vực có di tích lịch sử - văn hóa, bảo tồn thiên nhiên, công trình an ninh, quốc phòng hoặc công trình quan trọng khác của quốc gia, khu vực bảo vệ khác theo quy định của pháp luật phải có văn bản đồng ý của Ủy ban nhân dân cấp tỉnh hoặc cơ quan quản lý; đồng thời, thiết kế hoặc phương án nổ mìn phải có phê duyệt của cơ quan cấp Giấy phép sử dụng vật liệu nổ công nghiệp;
+- 01 Bản sao + Bản sao văn bản nghiệm thu hoặc kiểm tra định kỳ về phòng cháy và chữa cháy đối với kho vật liệu nổ công nghiệp và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật;
+- 01 Bản sao + Bản sao hợp đồng nguyên tắc thuê kho, phương tiện vận chuyển vật liệu nổ công nghiệp với tổ chức, doanh nghiệp có kho, phương tiện vận chuyển vật liệu nổ công nghiệp hoặc bản sao hợp đồng nguyên tắc với tổ chức được phép kinh doanh vật liệu nổ công nghiệp để cung ứng vật liệu nổ công nghiệp đến công trình theo hộ chiếu nổ mìn đối với trường hợp tổ chức, doanh nghiệp đề nghị cấp phép sử dụng vật liệu nổ công nghiệp không có kho hoặc không có phương tiện vận chuyển;
+- 01 Bản chính + Quyết định bổ nhiệm người chỉ huy nổ mìn của chỉ huy đơn vị hoặc lãnh đạo doanh nghiệp và danh sách thợ mìn, người được giao quản lý kho vật liệu nổ công nghiệp, người phục vụ (bảo vệ, bốc dỡ và vận chuyển tại kho, vị trí trung chuyển vật liệu nổ công nghiệp và tại khu vực nổ mìn); giấy phép lao động của người nước ngoài làm việc có liên quan đến sử dụng vật liệu nổ công nghiệp (nếu có); bản sao chứng chỉ chuyên môn, giấy chứng nhận huấn luyện về kỹ thuật an toàn trong hoạt động vật liệu nổ công nghiệp của người chỉ huy nổ mìn, thợ mìn, thủ kho vật liệu nổ công nghiệp, người phục vụ;
+- 01 Bản sao + Bản sao giấy tờ chứng minh đã nộp tiền lệ phí thẩm định cấp phép theo quy định;
+- 01 Bản chính, 01 Bản sao Hồ sơ, tài liệu khác có liên quan (nếu có) BQP
+
+
+- Đối với tổ chức, doanh nghiệp làm dịch vụ nổ mìn:
+- 01 Bản chính + Giấy đề nghị cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp (bản chính). ([GIẤY ĐỀ NGHỊ SDVLNCN - mẫu 05.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fec1fe352b91071'))
+- 01 Bản chính + Báo cáo kết quả sử dụng vật liệu nổ công nghiệp trong thời hạn hiệu lực của giấy phép đã cấp lần trước;
+- 01 Bản chính + Thiết kế hoặc phương án nổ mìn được lãnh đạo tổ chức, doanh nghiệp ký duyệt. Trường hợp nổ mìn trong khu vực dân cư, cơ sở khám bệnh, chữa bệnh, khu vực có di tích lịch sử - văn hóa, bảo tồn thiên nhiên, công trình an ninh, quốc phòng hoặc công trình quan trọng khác của quốc gia, khu vực bảo vệ khác theo quy định của pháp luật phải có văn bản đồng ý của Ủy ban nhân dân cấp tỉnh hoặc cơ quan quản lý; đồng thời, thiết kế hoặc phương án nổ mìn phải có phê duyệt của cơ quan cấp Giấy phép sử dụng vật liệu nổ công nghiệp;
+- 01 Bản sao + Bản sao văn bản nghiệm thu hoặc kiểm tra định kỳ về phòng cháy và chữa cháy đối với kho vật liệu nổ công nghiệp và điều kiện bảo đảm an toàn theo tiêu chuẩn, quy chuẩn kỹ thuật;
+- 01 Bản sao + Bản sao hợp đồng nguyên tắc thuê kho, phương tiện vận chuyển vật liệu nổ công nghiệp với tổ chức, doanh nghiệp có kho, phương tiện vận chuyển vật liệu nổ công nghiệp hoặc bản sao hợp đồng nguyên tắc với tổ chức được phép kinh doanh vật liệu nổ công nghiệp để cung ứng vật liệu nổ công nghiệp đến công trình theo hộ chiếu nổ mìn đối với trường hợp tổ chức, doanh nghiệp đề nghị cấp phép sử dụng vật liệu nổ công nghiệp không có kho hoặc không có phương tiện vận chuyển;
+- 01 Bản chính + Quyết định bổ nhiệm người chỉ huy nổ mìn của chỉ huy đơn vị hoặc lãnh đạo doanh nghiệp và danh sách thợ mìn, người được giao quản lý kho vật liệu nổ công nghiệp, người phục vụ (bảo vệ, bốc dỡ và vận chuyển tại kho, vị trí trung chuyển vật liệu nổ công nghiệp và tại khu vực nổ mìn); giấy phép lao động của người nước ngoài làm việc có liên quan đến sử dụng vật liệu nổ công nghiệp (nếu có); bản sao chứng chỉ chuyên môn, giấy chứng nhận huấn luyện về kỹ thuật an toàn trong hoạt động vật liệu nổ công nghiệp của người chỉ huy nổ mìn, thợ mìn, thủ kho vật liệu nổ công nghiệp, người phục vụ;
+- 01 Bản sao + Bản sao Giấy phép dịch vụ nổ mìn do cơ quan có thẩm quyền cấp;
+- 01 Bản sao + Bản sao hợp đồng dịch vụ nổ mìn giữa tổ chức, doanh nghiệp hoạt động dịch vụ nổ mìn với tổ chức, cá nhân có nhu cầu;
+- 01 Bản sao + Bản sao giấy tờ chứng minh đã nộp tiền lệ phí thẩm định cấp phép theo quy định;
+- 01 Bản chính, 01 Bản sao Hồ sơ, tài liệu khác có liên quan (nếu có) BQP
+
+
+- Đối với đơn vị quân đội không phải là doanh nghiệp phục vụ thi công các công trình quốc phòng, an ninh:
+- 01 Bản chính + Giấy đề nghị cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp (bản chính). ([GIẤY ĐỀ NGHỊ SDVLNCN - mẫu 05.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd617880f02f23e'))
+- 01 Bản chính + Giấy xác nhận đủ điều kiện về an ninh, an toàn do cơ quan bảo vệ an ninh cấp (bản chính);
+- 01 Bản chính + Báo cáo kết quả sử dụng vật liệu nổ công nghiệp trong thời hạn hiệu lực của giấy phép đã cấp lần trước;
+- 01 Bản sao Hồ sơ, tài liệu khác có liên quan (nếu có) BQP
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Tổng cục Công nghiệp Quốc phòng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+28A Điện Biên Phủ, Ba Đình, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép sử dụng vật liệu nổ công nghiệp hoặc văn bản trả lời đối với trường hợp không cấp
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|14/2017/QH14|Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ|20-06-2017|Quốc Hội|
+|71/2018/NĐ-CP|Nghị định 71/2018/NĐ-CP - Quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ về vật liệu nổ công nghiệp và tiền chất thuốc nổ|15-05-2018|Thủ tướng Chính phủ|
+|85/2018/TT-BQP|quy định về quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Quốc phòng.|23-06-2018|Bộ Quốc phòng|
+
+Yêu cầu, điều kiện thực hiện:
+Tổ chức, doanh nghiệp sử dụng vật liệu nổ công nghiệp phải bảo đảm đủ điều kiện sau:
+-	Được thành lập theo quy định của pháp luật, có đăng ký doanh nghiệp hoặc đăng ký hoạt động ngành, nghề, lĩnh vực cần sử dụng vật liệu nổ công nghiệp;
+-	Có hoạt động khoáng sản, dầu khí hoặc công trình xây dựng, công trình nghiên cứu, thử nghiệm hoặc thực hiện nhiệm vụ do Thủ tướng Chính phủ giao cần sử dụng vật liệu nổ công nghiệp;
+-	Có kho, công nghệ, thiết bị, phương tiện, dụng cụ phục vụ hoạt động sử dụng vật liệu nổ công nghiệp bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật; trường hợp không có kho, phương tiện vận chuyển, phải có hợp đồng thuê bằng văn bản với tổ chức được phép bảo quản, vận chuyển vật liệu nổ công nghiệp;
+-	Địa điểm sử dụng vật liệu nổ công nghiệp phải bảo đảm điều kiện về an ninh, trật tự, phòng cháy và chữa cháy, vệ sinh môi trường; bảo đảm khoảng cách an toàn đối với công trình, đối tượng cần bảo vệ theo tiêu chuẩn, quy chuẩn kỹ thuật và các quy định có liên quan;
+-	Người quản lý, chỉ huy nổ mìn, thợ mìn và người khác có liên quan đến sử dụng vật liệu nổ công nghiệp phải bảo đảm điều kiện về an ninh, trật tự; có trình độ chuyên môn tương xứng với vị trí, chức trách đảm nhiệm, được huấn luyện về kỹ thuật an toàn, phòng cháy và chữa cháy, ứng phó sự cố trong các hoạt động liên quan đến sử dụng vật liệu nổ công nghiệp;
+-	Quy mô sử dụng thuốc nổ trong 01 quý từ 500 kg trở lên, trừ trường hợp sử dụng thuốc nổ để thử nghiệm, thăm dò, đánh giá địa chất.
+Tổ chức, doanh nghiệp sử dụng vật liệu nổ công nghiệp phải bảo đảm đủ điều kiện sau:
+-	Được thành lập theo quy định của pháp luật, có đăng ký doanh nghiệp hoặc đăng ký hoạt động ngành, nghề, lĩnh vực cần sử dụng vật liệu nổ công nghiệp;
+-	Có hoạt động khoáng sản, dầu khí hoặc công trình xây dựng, công trình nghiên cứu, thử nghiệm hoặc thực hiện nhiệm vụ do Thủ tướng Chính phủ giao cần sử dụng vật liệu nổ công nghiệp;
+-	Có kho, công nghệ, thiết bị, phương tiện, dụng cụ phục vụ hoạt động sử dụng vật liệu nổ công nghiệp bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật; trường hợp không có kho, phương tiện vận chuyển, phải có hợp đồng thuê bằng văn bản với tổ chức được phép bảo quản, vận chuyển vật liệu nổ công nghiệp;
+-	Địa điểm sử dụng vật liệu nổ công nghiệp phải bảo đảm điều kiện về an ninh, trật tự, phòng cháy và chữa cháy, vệ sinh môi trường; bảo đảm khoảng cách an toàn đối với công trình, đối tượng cần bảo vệ theo tiêu chuẩn, quy chuẩn kỹ thuật và các quy định có liên quan;
+-	Người quản lý, chỉ huy nổ mìn, thợ mìn và người khác có liên quan đến sử dụng vật liệu nổ công nghiệp phải bảo đảm điều kiện về an ninh, trật tự; có trình độ chuyên môn tương xứng với vị trí, chức trách đảm nhiệm, được huấn luyện về kỹ thuật an toàn, phòng cháy và chữa cháy, ứng phó sự cố trong các hoạt động liên quan đến sử dụng vật liệu nổ công nghiệp;
+-	Quy mô sử dụng thuốc nổ trong 01 quý từ 500 kg trở lên, trừ trường hợp sử dụng thuốc nổ để thử nghiệm, thăm dò, đánh giá địa chất.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

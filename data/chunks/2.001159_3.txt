@@ -1,0 +1,8 @@
+Tên thủ tục: Thông báo lưu trú
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|0 Giờ||- Trực tiếp tại cơ quan đăng ký cư trú hoặc địa điểm tiếp nhận thông báo lưu trú do cơ quan đăng ký cư trú quy định; Tiếp nhận ngay khi công dân thông báo lưu trú.|
+|Trực tuyến|0 Giờ||- Thông qua số điện thoại hoặc hộp thư điện tử do cơ quan đăng ký cư trú thông báo hoặc niêm yết; - Thông qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, ứng dụng VNeID hoặc dịch vụ công trực tuyến khác Tiếp nhận ngay khi công dân thông báo lưu trú.|

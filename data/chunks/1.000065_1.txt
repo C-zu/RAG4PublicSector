@@ -1,0 +1,16 @@
+Tên thủ tục: Chuyển loại rừng đối với khu rừng do Ủy ban nhân dân cấp tỉnh quyết định thành lập
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.000065
+Số quyết định:
+4868/QĐ-BNN-TCLN
+Tên thủ tục:
+Chuyển loại rừng đối với khu rừng do Ủy ban nhân dân cấp tỉnh quyết định thành lập
+Cấp thực hiện:
+Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Lâm nghiệp

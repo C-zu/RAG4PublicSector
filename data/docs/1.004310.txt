@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004310
+Số quyết định:
+52/QĐ-BGTVT
+Tên thủ tục:
+Cấp các Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đăng kiểm
+Trình tự thực hiện:
+a) Nộp hồ sơ TTHC:
+Tổ chức, cá nhân hoàn thiện hồ sơ theo quy định và nộp hồ sơ cho Cục Đăng kiểm Việt Nam hoặc các Chi cục Đăng kiểm trực thuộc Cục Đăng kiểm Việt Nam (gọi tắt chung là Cơ quan Đăng kiểm).
+b) Giải quyết TTHC:
+Cơ quan Đăng kiểm tiếp nhận hồ sơ, kiểm tra thành phần hồ sơ: Nếu hồ sơ chưa đầy đủ thành phần theo quy định thì trả lời bằng văn bản hướng dẫn tổ chức, cá nhân hoàn thiện lại; Nếu hồ sơ đầy đủ thành phần theo quy định thì tiến hành kiểm tra theo địa điểm và thời gian do tổ chức, cá nhân yêu cầu.
+Cơ quan Đăng kiểm thực hiện kiểm tra: Nếu kết quả kiểm tra chưa đạt yêu cầu thì trả lời bằng văn bản cho tổ chức, cá nhân để hoàn thiện; Nếu kết quả kiểm tra đạt yêu cầu thì tiến hành cấp các Giấy chứng nhận đối với từng loại công trình biển tương ứng.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|Giấy chứng nhận được cấp trong vòng 03 ngày làm việc kể từ khi hoàn thành kiểm tra lần đầu, định kỳ và trong vòng 01 ngày làm việc kể từ khi hoàn thành kiểm tra hàng năm, trung gian, dưới nước/trên đà và bất thường.|
+|Trực tuyến|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|Giấy chứng nhận được cấp trong vòng 03 ngày làm việc kể từ khi hoàn thành kiểm tra lần đầu, định kỳ và trong vòng 01 ngày làm việc kể từ khi hoàn thành kiểm tra hàng năm, trung gian, dưới nước/trên đà và bất thường.|
+|Dịch vụ bưu chính|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000VNĐ/Giấy chứng nhận|Giấy chứng nhận được cấp trong vòng 03 ngày làm việc kể từ khi hoàn thành kiểm tra lần đầu, định kỳ và trong vòng 01 ngày làm việc kể từ khi hoàn thành kiểm tra hàng năm, trung gian, dưới nước/trên đà và bất thường.|
+
+Thành phần hồ sơ:
+
+i. Đối với kiểm tra lần đầu, hồ sơ bao gồm:
+- 01 Bản chính Giấy đề nghị kiểm tra theo mẫu ([phuluc3.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe153e2b4bf688d'))
+ - Đối với công trình biển chế tạo mới, hoán cải và công trình biển nhập khẩu, thay đổi tổ chức đăng kiểm ngay sau khi chế tạo mới hoặc hoán cải, hồ sơ kỹ thuật bao gồm:
+- 01 Bản chính, 01 Bản sao + Hồ sơ thiết kế đã được thẩm định (bản chính hoặc bản sao chụp)
+- 01 Bản chính, 01 Bản sao + Hồ sơ kiểm tra trong quá trình chế tạo mới hoặc hoán cải (bản chính hoặc bản sao chụp)
+ - Đối với công trình biển đang khai thác được nhập khẩu, thay đổi tổ chức đăng kiểm, hồ sơ kỹ thuật bao gồm:
+- 01 Bản chính + Hồ sơ thiết kế
+- 01 Bản chính, 01 Bản sao + Hồ sơ đăng kiểm hiện có của công trình biển (bản chính hoặc bản sao chụp)
+
+
+ii. Đối với công trình biển kiểm tra hằng năm, trung gian, dưới nước/trên đà, bất thường và định kỳ, hồ sơ bao gồm
+- 01 Bản chính, 01 Bản sao Giấy đề nghị kiểm tra theo mẫu (bản chính hoặc bản sao chụp trong trường hợp hồ sơ nộp qua fax hoặc email). ([phuluc3.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fde96e59e0e0002'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Các Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển (công trình biển)
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|40/2005/QH11|Hàng hải Việt Nam|14-06-2005|Quốc Hội|
+|102/2008/TT-BTC|Hướng dẫn chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy chứng nhận bảo đảm chất lượng, an toàn kỹ thuật đối với máy móc, thiết bị, phương tiện giao thông vận tải.|11-11-2008|Bộ Tài chính|
+|33/2011/TT-BGTVT|Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển do Bộ Giao thông vận tải ban hành|19-04-2011|Bộ Giao thông vận tải|
+|32/2011/TT-BGTVT|Sửa đổi, bổ sung một số điều của Quy định về đăng kiểm tàu biển Việt Nam ban hành kèm theo Quyết định số 51/2005/QĐ-BGTVT ngày 12 tháng 10 năm 2005 của Bộ trưởng Bộ Giao thông vận tải|19-04-2011|Bộ Giao thông vận tải|
+|165/2013/TT-BTC|Quy định mức thu, chế độ thu, nộp, quản lý, sử dụng phí trong lĩnh vực đăng kiểm tàu biển, công trình biển; phí đánh giá, chứng nhận hệ thống quản lý an toàn, an ninh tàu biển, công trình biển và phí phê duyệt, kiểm tra, đánh giá và chứng nhận lao động hàng hải thuộc phạm vi giám sát của Cục Đăng kiểm Việt Nam|15-11-2013|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+Công trình biển được cấp giấy chứng nhận phải thoả mãn các yêu cầu của tiêu chuẩn, quy chuẩn kỹ thuật của Việt Nam và các công ước quốc tế mà Việt Nam là thành viên có liên quan đến an toàn kỹ thuật và bảo vệ môi trường tương ứng với từng loại công trình biển quy định tại Phụ lục I ban hành kèm theo Thông tư số 33/2011/TT-BGTVT của Bộ trưởng Bộ Giao thông vận tải ngày 19/4/2011Quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện, thiết bị thăm dò, khai thác và vận chuyển dầu khí trên biển.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

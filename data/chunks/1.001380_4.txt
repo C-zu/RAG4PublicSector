@@ -1,0 +1,26 @@
+Tên thủ tục: Cấp Giấy chứng nhận xuất xứ hàng hoá (C/O) cấp sau
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+ 1. Hồ sơ đăng ký thương nhân gồm:
+- 01 Bản chính - Đăng ký mẫu chữ ký của người được ủy quyền ký Đơn đề nghị cấp C/O và con dấu của thương nhân (Mẫu số 01 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fef5c04f73701e5'">mẫu 01.docx</a>)
+- 01 Bản sao - Giấy chứng nhận đăng ký doanh nghiệp (bản sao có dấu sao y bản chính của thương nhân);
+- 01 Bản chính - Danh mục các cơ sở sản xuất của thương nhân (Mẫu số 02 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4f3715a2c7980'">mẫu 02.docx</a>)
+- 01 Bản chính - Đơn đề nghị thay đổi nơi cấp C/O (Mẫu số 03 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe95456826117ef'">mẫu 03.docx</a>)
+ 2. Hồ sơ đề nghị cấp C/O bao gồm:
+ 2.1. Đối với thương nhân đề nghị cấp C/O lần đầu hoặc cho sản phẩm mới xuất khẩu lần đầu hoặc cho sản phẩm không cố định (thay đổi về định mức số lượng, định mức trọng lượng, mã số HS, trị giá và nguồn cung nguyên liệu đối với cả nguyên liệu đầu vào hoặc sản phẩm đầu ra mỗi lần cấp Giấy chứng nhận xuất xứ hàng hóa), hồ sơ đề nghị cấp C/O gồm:
+- 01 Bản chính a) Đơn đề nghị cấp C/O được kê khai hoàn chỉnh và hợp lệ (Mẫu số 04 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP); (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd83105d6f5e536'">mẫu 04.docx</a>)
+- 01 Bản chính b) Mẫu C/O tương ứng đã được khai hoàn chỉnh;
+- 01 Bản chính c) Bản in tờ khai hải quan xuất khẩu. Trường hợp hàng xuất khẩu không phải khai báo tờ khai hải quan theo quy định của pháp luật sẽ không phải nộp bản sao tờ khai hải quan;
+- 01 Bản sao d) Bản sao hoá đơn thương mại (có đóng dấu sao y bản chính của thương nhân);
+- 01 Bản sao đ) Bản sao vận tải đơn hoặc bản sao chứng từ vận tải tương đương (có đóng dấu sao y bản chính của thương nhân) trong trường hợp thương nhân không có vận tải đơn. Thương nhân được xem xét không cần nộp chứng từ này trong trường hợp xuất khẩu hàng hóa có hình thức giao hàng không sử dụng vận tải đơn hoặc chứng từ vận tải khác theo quy định của pháp luật hoặc thông lệ quốc tế;
+- 01 Bản chính e) Bảng kê khai chi tiết hàng hóa xuất khẩu đạt tiêu chí xuất xứ ưu đãi theo mẫu tương ứng do Bộ Công Thương quy định tại Thông tư số 05/2018/TT-BCT ngày 03/4/2018 quy định về xuất xứ hàng hóa (sau đây gọi là Thông tư số 05/2018/TT-BCT);
+- 01 Bản chính g) Bản khai báo xuất xứ của nhà sản xuất hoặc nhà cung cấp nguyên liệu có xuất xứ hoặc hàng hóa có xuất xứ được sản xuất trong nước theo mẫu do Bộ Công Thương quy định trong trường hợp nguyên liệu đó được sử dụng cho một công đoạn tiếp theo để sản xuất ra một hàng hóa khác (Phụ lục X ban hành kèm theo Thông tư số 05/2018/TT-BCT);
+- 01 Bản sao h) Bản sao Quy trình sản xuất hàng hóa (có đóng dấu sao y bản chính của thương nhân).
+ Trong trường hợp cần thiết, Tổ chức cấp C/O yêu cầu thương nhân đề nghị cấp C/O nộp bổ sung các chứng từ thương mại dưới dạng bản sao (đóng dấu sao y bản chính của thương nhân) liên quan đến nguyên liệu nhập khẩu hoặc nguyên liệu mua bán/sản xuất trong nước.
+ 2.2. Đối với thương nhân sản xuất và xuất khẩu các sản phẩm cố định (không thay đổi về định mức số lượng, định mức trọng lượng, mã số HS, trị giá và nguồn cung nguyên liệu đối với nguyên liệu đầu vào và sản phẩm đầu ra),
+ - Trong lần đề nghị cấp C/O đầu tiên, hồ sơ bao gồm các chứng từ đã liệt kê tại mục 2.1.
+ - Từ lần đề nghị cấp C/O tiếp theo, hồ sơ chỉ cần bao gồm chứng từ theo quy định từ điểm a đến điểm đ, mục 2.1. Các chứng từ trong hồ sơ đề nghị cấp C/O nêu tại các điểm e, điểm g và điểm h, mục 2.1 có giá trị trong thời hạn 2 năm kể từ ngày thương nhân nộp cho Tổ chức cấp C/O. Trong trường hợp có sự thay đổi liên quan các chứng từ này trong thời hạn 2 năm, thương nhân phải cập nhật cho Tổ chức cấp C/O.
+ 2.3. Trong trường hợp chưa có các chứng từ nêu tại điểm c và điểm đ mục 2.1, thương nhân đề nghị cấp C/O có thể được nợ các chứng từ này nhưng không quá 15 ngày làm việc kể từ ngày được cấp C/O. Sau thời hạn này nếu thương nhân không bổ sung chứng từ, Tổ chức cấp C/O yêu cầu thu hồi hoặc hủy C/O theo quy định tại Điều 22 Nghị định số 31/2018/NĐ-CP.

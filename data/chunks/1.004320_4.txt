@@ -1,0 +1,25 @@
+Tên thủ tục: Cấp giấy phép kinh doanh dịch vụ viễn thông
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Hồ sơ đề nghị cấp giấy phép cung cấp dịch vụ viễn thông bao gồm:
+- 01 Bản chính, 02 Bản sao Đơn đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông (Cấp giấy phép cung cấp dịch vụ viễn thông) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4618c9e87a1f8'">Mẫu số 01.doc</a>)
+- 01 Bản chính, 02 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư đối với nhà đầu tư nước ngoài (hoặc bản sao hợp lệ giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13)
+- 01 Bản chính, 02 Bản sao Điều lệ của doanh nghiệp;
+- 01 Bản chính, 02 Bản sao Kế hoạch kinh doanh trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fb5300634ea03a8'">Mẫu số 04.doc</a>)
+- 02 Bản chính, 02 Bản sao Kế hoạch kỹ thuật trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdb60ec866109f4'">Mẫu số 05.doc</a>)
+
+
+Hồ sơ đề nghị cấp giấy phép thiết lập mạng viễn thông công cộng bao gồm:
+- 01 Bản chính, 04 Bản sao Văn bản cam kết thực hiện giấy phép. Số lượng hồ sơ: 05 bộ (01 bộ bản gốc và 04 bộ bản sao) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe0d56ac39ed9cf'">Mẫu số 07.doc</a>)
+- 01 Bản chính, 02 Bản sao Đơn đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông (Cấp giấy phép thiết lập mạng viễn thông công cộng) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc09a862a063394'">Mẫu số 01.doc</a>)
+- 01 Bản chính, 02 Bản sao Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư đối với nhà đầu tư nước ngoài (hoặc bản sao hợp lệ giấy chứng nhận, giấy phép tương đương hợp lệ khác được cấp trước ngày có hiệu lực của Luật đầu tư số 67/2014/QH13 và Luật doanh nghiệp số 68/2014/QH13)
+- 01 Bản chính, 02 Bản sao Điều lệ của doanh nghiệp;
+- 01 Bản chính, 02 Bản sao Văn bản xác nhận vốn pháp định theo (Quy định tại khoản 2 hoặc khoản 4 Điều 13 Thông tư 12/2013/TT-BTTTT ngày 13/5/2013);
+- 01 Bản chính, 02 Bản sao Kế hoạch kinh doanh trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe730753263f76b'">Mẫu số 04.doc</a>)
+- 01 Bản chính, 02 Bản sao Kế hoạch kỹ thuật trong 05 (năm) năm đầu tiên kể từ ngày được cấp giấy phép; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fee080219d229c3'">Mẫu số 05.doc</a>)
+
+
+Bao gồm
+- 01 Bản chính, 04 Bản sao Số lượng hồ sơ: 05 bộ (01 bộ bản gốc và 04 bộ bản sao).

@@ -1,0 +1,16 @@
+Tên thủ tục: Đăng ký Điều lệ vận chuyển của hãng hàng không Việt Nam
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+2.001037
+Số quyết định:
+52/QĐ-BGTVT
+Tên thủ tục:
+Đăng ký Điều lệ vận chuyển của hãng hàng không Việt Nam
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC không được luật giao cho địa phương quy định hoặc quy định chi tiết
+Lĩnh vực:
+Hàng không

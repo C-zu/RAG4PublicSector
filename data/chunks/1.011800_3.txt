@@ -1,0 +1,8 @@
+Tên thủ tục: Khám giám định phúc quyết mức độ khuyết tật đối với trường hợp người khuyết tật hoặc đại diện người khuyết tật (cá nhân, cơ quan, tổ chức) không đồng ý với kết luận của Hội đồng Giám định y khoa đã ban hành Biên bản khám giám định
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|95 Ngày làm việc|Phí : Đồng (Căn cứ Thông tư 243/2016/TT-BTC ngày 11/11/2016 quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy giám định y khoa)|95 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|
+|Dịch vụ bưu chính|95 Ngày làm việc|Phí : Đồng (Căn cứ Thông tư 243/2016/TT-BTC ngày 11/11/2016 quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp giấy giám định y khoa)|95 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ|

@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.003770
+Số quyết định:
+2466/QĐ-BNN-VP
+Tên thủ tục:
+Xác nhận cam kết hoặc chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu (theo yêu cầu)
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Thủy sản
+Trình tự thực hiện:
+Nộp hồ sơ, nhận kết quả: Tổ chức, cá nhân có nhu cầu xác nhận cam kết hoặc chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu nộp 01 bộ hồ sơ và nhận kết quả giải quyết thủ tục hành chính đồng thời với các thủ tục cấp Giấy chứng nhận an toàn thực phẩm cho lô hàng thực phẩm thủy sản xuất khẩu theo quy định tại Thông tư số 48/2013/TT-BNNPTNT ngày 12/11/2013 của Bộ Nông nghiệp và Phát triển nông thôn về kiểm tra, chứng nhận an toàn thực phẩm thủy sản xuất khẩu về Cục Chất lượng, chế biến và phát triển thị trường (Trung tâm Chất lượng, Chế biến và phát triển thị trường vùng).
+Trình tự thực hiện:
+Cục Chất lượng, chế biến và phát triển thị trường (Trung tâm Chất lượng, Chế biến và phát triển thị trường vùng) thực hiện kiểm tra, xác nhận cam kết hoặc chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu theo các nội dung sau:
+- Đối chiếu thông tin về tàu đánh bắt nguồn lợi thủy sản và các thông tin khác (quốc gia có tàu mang cờ, khối lượng, chủng loại thủy sản) trong Giấy chứng nhận nguồn gốc thủy sản khai thác do cơ quan thẩm quyền nước xuất khẩu cấp cho lô nguyên liệu nhập khẩu vào Việt Nam với các thông tin sau:
+Danh sách tàu cá vi phạm khai thác thủy sản bất hợp pháp của cơ quan thẩm quyền nước xuất khẩu hoặc tổ chức quản lý nghề cá khu vực được cơ quan thẩm quyền nước nhập khẩu công nhận;
+Danh sách tàu cá có đăng ký và được cấp phép khai thác thủy sản (bao gồm thông tin về: Loài thủy sản, khu vực, mùa vụ khai thác) của tổ chức quản lý nghề cá khu vực được cơ quan thẩm quyền nước nhập khẩu công nhận (đối với quốc gia có tàu cá mang cờ là thành viên của tổ chức này);
+- Đối chiếu về khối lượng, chủng loại nguyên liệu thủy sản khai thác nhập khẩu để chế biến xuất khẩu với thông tin về lô hàng nhập khẩu được Cơ quan Thú y kiểm tra, chứng nhận kiểm dịch khi nhập khẩu vào Việt Nam;
+- Đối chiếu về khối lượng, chủng loại nguyên liệu thủy sản khai thác nhập khẩu để chế biến xuất khẩu với hồ sơ thống kê xác nhận cam kết sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu và hồ sơ giám sát trong quá trình kiểm tra, chứng nhận an toàn thực phẩm lô hàng thủy sản khai thác xuất khẩu;
+- Đối chiếu các quy định khác của cơ quan thẩm quyền nước nhập khẩu, Giấy xác nhận cam kết, chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu hoặc theo yêu cầu của tổ chức nghề cá khu vực.
+Trong thời hạn 02 ngày làm việc sau khi kết thúc kiểm tra, cơ quan thẩm quyền xác nhận cam kết hoặc chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu nếu lô hàng đáp ứng các quy định tại Thông tư số 21/2018/TT-BNNPTNT. Trường hợp không xác nhận cam kết hoặc chứng nhận, cơ quan thẩm quyền trả lời bằng văn bản, nêu rõ lý do.
+Trả kết quả: Cơ quan thẩm quyền thực hiện xác nhận cam kết hoặc chứng nhận sản phẩm trả kết quả trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có) cho tổ chức, cá nhân đề nghị.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|02 ngày làm việc sau khi kết thúc kiểm tra.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Trực tuyến|02 ngày làm việc sau khi kết thúc kiểm tra.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+|Dịch vụ bưu chính|02 ngày làm việc sau khi kết thúc kiểm tra.||Trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường mạng (nếu có).|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính, 01 Bản sao a) Bản chính hoặc bản sao Giấy chứng nhận nguồn gốc thủy sản khai thác do cơ quan thẩm quyền của nước có tàu cá mang cờ cấp;
+ b) Giấy xác nhận cam kết hoặc chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu theo Mẫu số 03 hoặc Mẫu số 04 Phụ lục III ban hành kèm theo Thông tư số 21/2018/TT-BNNPTNT hoặc giấy khác có nội dung tương đương theo yêu cầu của cơ quan thẩm quyền ([Mẫu số 3 TT 21 hoac mau 4.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fca210f04c64298'))
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện:
+Cục Chất lượng, Chế biến và Phát triển thị trường - Bộ NN-PTNT
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy xác nhận cam kết hoặc chứng nhận sản phẩm thủy sản xuất khẩu có nguồn gốc từ thủy sản khai thác nhập khẩu đã ký và đóng dấu.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|Luật 18/2017/QH14|Luật 18/2017/QH14|21-11-2017|Quốc Hội|
+|21/2018/TT-BNNPTNT|Thông tư 21/2018/TT-BNNPTNT|15-11-2018|Bộ Nông nghiệp và Phát triển nông thôn|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

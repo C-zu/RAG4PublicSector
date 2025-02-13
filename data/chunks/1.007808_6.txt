@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục kiểm tra và xác định trước xuất xứ hàng hóa xuất khẩu, nhập khẩu
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+Người khai hải quan có trách nhiệm gửi các chứng từ này đến Hệ thống xử lý dữ liệu điện tử hải quan.Trường hợp hệ thống xử lý dữ liệu điện tử hải quan chưa đáp ứng, người khai hải quan nộp 01 bản chính hồ sơ đề nghị đến Tổng cục Hải quan.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

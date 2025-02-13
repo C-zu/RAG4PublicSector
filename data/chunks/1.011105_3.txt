@@ -1,0 +1,9 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu hoàn thành công trình của cơ quan chuyên môn về xây dựng tại địa phương (SCT)
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|20 Ngày|Phí : Đồng chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+|Trực tuyến|20 Ngày|Phí : Đồng chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|
+|Dịch vụ bưu chính|20 Ngày|Phí : Đồng chi phí để thực hiện được tính trong tổng mức đầu tư và do Chủ đầu tư thanh toán theo thực tế|20 ngày kể từ ngày tiếp nhận hồ sơ đề nghị kiểm tra công tác nghiệm thu.|

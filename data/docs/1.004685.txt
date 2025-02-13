@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004685
+Số quyết định:
+994/QĐ-BGTVT
+Tên thủ tục:
+Cấp Giấy phép kết nối các tuyến đường sắt
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Đường sắt
+Trình tự thực hiện:
+Nộp hồ sơ TTHC:
+Tổ chức, cá nhân có nhu cầu cấp giấy phép kết nối lập 01 bộ hồ sơ đề nghị, nộp trực tiếp hoặc gửi qua hệ thống bưu chính hoặc gửi trên môi trường mạng (nộp tệp tin chứa bản chụp chính hồ sơ, tài liệu và thực hiện trên địa chỉ website: https://dichvucong.mt.gov.vn) đến cơ quan có thẩm quyền cấp giấy phép:
+- Cục Đường sắt Việt Nam đối với các tuyến đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia;
+- Ủy ban nhân dân cấp tỉnh đối với:
++ Các tuyến đường sắt đô thị trên địa bàn quản lý;
++ Các tuyến đường sắt đô thị đi qua địa giới hành chính hai tỉnh trở lên trong trường hợp vị trí kết nối trên địa bàn quản lý.
+Giải quyết TTHC:
+- Trường hợp nộp hồ sơ trực tiếp, nếu thành phần hồ sơ chưa đầy đủ theo quy định, cơ quan có thẩm quyền có trách nhiệm hướng dẫn bổ sung hồ sơ và trả kết quả trong ngày làm việc;
+- Trường hợp nộp hồ sơ qua đường bưu điện hoặc thực hiện qua môi trường mạng, nếu thành phần hồ sơ chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, cơ quan có thẩm quyền thông báo bằng văn bản hướng dẫn hoàn thiện hồ sơ;
+- Thời gian giải quyết hồ sơ: 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền cấp phép kết nối. Trường hợp không cấp phép phải có văn bản nêu rõ lý do.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|10 Ngày làm việc||10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|10 Ngày làm việc||10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp giấy phép kết nối của chủ đầu tư theo mẫu quy định ([11-Mẫu đơn đề nghị .doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fab694c8f63cd60'))
+- 01 Bản chính, 01 Bản sao Bản chính hoặc bản sao được chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có giá trị pháp lý (đối với thực hiện thủ tục hành chính trên môi trường mạng) các tài liệu sau: - Quyết định đầu tư dự án có các tuyến đường sắt đề xuất kết nối; - Hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công các công trình kèm theo Quyết định phê duyệt theo quy định của pháp luật; - Phương án tổ chức thi công kết nối các công trình và biện pháp bảo đảm an toàn thi công; - Phương án tổ chức chạy tàu trên tuyến đường sắt đã được kết nối và giải pháp bảo đảm an toàn giao thông sau khi kết nối.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Bộ Giao thông vận tải, Ủy ban nhân dân cấp Tỉnh
+Cơ quan có thẩm quyền:
+Bộ Giao thông vận tải, Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+- Bộ Giao thông vận tải đối với các tuyến đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia; - Ủy ban nhân dân cấp tỉnh đối với: + Các tuyến đường sắt đô thị trên địa bàn quản lý; + Các tuyến đường sắt đô thị với tuyến đường sắt đô thị đi qua địa giới hành chính hai tỉnh trở lên trong trường hợp vị trí kết nối trên địa bàn quản lý.
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Giấy phép kết nối các tuyến đường sắt
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|26/2018/TT-BGTVT|Quy định điều kiện, trình tự, thủ tục thực hiện kết nối ray đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia; việc kết nối ray các tuyến đường sắt đô thị|14-05-2018|Bộ Giao thông vận tải|
+|11/2023/TT-BGTVT|Thông tư sửa đổi Thông tư 26/2018/TT-BGTVT quy định điều kiện, trình tự, thủ tục thực hiện kết nối ray đường sắt đô thị, đường sắt chuyên dùng với đường sắt quốc gia; việc kết nối ray các tuyến đường sắt đô thị|28-06-2023|Bộ Giao thông vận tải|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

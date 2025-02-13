@@ -1,0 +1,19 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu đưa công trình vào sử dụng - BQL
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+B1	Tiếp nhận hồ sơ
+a. Trường hợp hồ sơ đã đầy đủ, hợp lệ thì chuyên viên nhận hồ sơ và trao giấy biên nhận hồ sơ cho người nộp hồ sơ; Lập phiếu theo dõi quá trình xử lý công việc.
+b. Trường hợp hồ sơ thiếu hoặc không đầy đủ thì chuyên viên tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung cho kịp thời.
+B2	Chuyển hồ sơ cho phòng chuyên môn xử lý.   
+B3	Duyệt hồ sơ, chuyển cho chuyên viên xử lý.  
+B4	Chuyên viên phòng chuyên môn thẩm định hồ sơ: 
+- Nếu hồ sơ hợp lệ tiến hành xử lý hồ sơ, thành lập đoàn kiểm tra thực địa công trình.
+- Nếu hồ sơ không hợp lệ báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa để trả lại. (Cơ quan tiếp nhận hồ sơ chỉ được yêu cầu sửa đổi, bổ sung 01 lần).  
+B5	Triển khai kế hoạch kiểm tra công tác nghiệm thu thực tế tại công trình
+- Nếu Công trình đủ điều kiện, tiến hành xử lý hồ sơ, dự thảo Văn bản chấp thuận kết quả nghiệm thu của chủ đầu tư hoặc 
+- Nếu Công trình chưa đủ điều kiện, báo cáo lãnh đạo phòng và làm Văn bản trả lời chuyển hồ sơ cho bộ phận một cửa để trả lại.. 
+B6	Xem xét, trình lãnh đạo cơ quan phê duyệt kết quả giải quyết TTHC.
+B7	Phê duyệt kết quả giải quyết TTHC
+B8	Phát hành văn bản và chuyển về Bộ phận tiếp nhận và trả kết quả
+B9	Trả kết quả cho tổ chức cá nhân.  Thực hiện thao tác trả hồ sơ trên phần mềm: http://dichvucong.hatinh.gov.vn

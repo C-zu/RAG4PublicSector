@@ -1,0 +1,7 @@
+Tên thủ tục: Cấp lại Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Số lượng 01 bộ hồ sơ
+- 01 Bản chính Đơn đề nghị cấp lại Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng (Mẫu số 02 – Phụ lục II, Ban hành kèm theo Thông tư số 10/2022/TT-BTTTT ngày 20/07/2022 của Bộ trưởng Bộ Thông tin và Truyền thông). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe3924c4351d7bb'">Mau so 02.docx</a>)

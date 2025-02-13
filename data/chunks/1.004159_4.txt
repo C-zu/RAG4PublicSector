@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp giấy xác nhận đăng ký hoạt động phát hành xuất bản phẩm
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trường hợp nộp hồ sơ qua dịch vụ công trực tuyến, thành phần hồ sơ quy định tại mục a,b,c là bản sao chứng thực điện tử.
+- 01 Bản chính Đơn đề nghị đăng ký/đăng ký lại hoạt động phát hành xuất bản phẩm theo Mẫu số 35 (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fead0f7c80fbe8b'">Mẫu số 35- Đơn ĐNĐK Đk lại HĐPH.doc</a>)
+- 01 Bản sao Bản sao giấy tờ sở hữu trụ sở hoặc hợp đồng thuê, mượn trụ sở để làm địa điểm kinh doanh (a);
+- 01 Bản sao Bản sao giấy tờ chứng minh được phép thường trú tại Việt Nam do cơ quan có thẩm quyền của Việt Nam cấp cho người đứng đầu cơ sở phát hành có quốc tịch nước ngoài (b);
+- 01 Bản sao Bản sao văn bằng hoặc chứng chỉ bồi dưỡng kiến thức, nghiệp vụ về phát hành xuất bản phẩm của người đứng đầu cơ sở phát hành do cơ sở đào tạo, bồi dưỡng chuyên ngành phát hành xuất bản phẩm cấp (c).
+ trừ trường hợp khi đã hoàn thành việc liên thông cơ sở dữ liệu chuyên ngành giữa các bộ, ngành, địa phương, cơ sở phát hành xuất bản phẩm không phải nộp thành phần hồ sơ quy định tại mục a,b,,c

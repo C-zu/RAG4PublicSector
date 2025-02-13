@@ -1,0 +1,11 @@
+Tên thủ tục: Thừa nhận quy trình khảo nghiệm và công nhận thức ăn chăn nuôi của nước xuất khẩu
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị thừa nhận quy trình khảo nghiệm và công nhận thức ăn chăn nuôi của nước xuất khẩu (theo Mẫu số 11.TĂCN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi). (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbf6dd9391d942'">Mẫu số 11.docx</a>)
+- 01 Bản chính - Bản mô tả về năng lực của cơ sở khảo nghiệm thức ăn chăn nuôi theo quy định tại khoản 3 Điều 37 của Luật Chăn nuôi do cơ sở khảo nghiệm của nước xuất khẩu cung cấp.
+- 01 Bản chính - Quy trình khảo nghiệm thức ăn chăn nuôi theo nội dung quy định tại Mẫu 08.TACN Phụ lục I ban hành kèm theo Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi do cơ sở khảo nghiệm của nước xuất khẩu cung cấp. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe5d6981dc0a284'">Mẫu số 08.docx</a>)
+- 01 Bản chính - Báo cáo kết quả khảo nghiệm thức ăn chăn nuôi theo các nội dung trong quy trình khảo nghiệm và các tài liệu kỹ thuật khác có liên quan do cơ sở khảo nghiệm của nước xuất khẩu cung cấp.
+ Trường hợp hồ sơ là bản bằng chữ nước ngoài thì phải có bản dịch ra tiếng Việt có xác nhận của tổ chức, cá nhân thực hiện thủ tục hành chính hoặc bản dịch ra tiếng Việt, được công chứng

@@ -1,0 +1,10 @@
+Tên thủ tục: Miễn trừ áp dụng biện pháp phòng vệ thương mại
+Nội dung: Trình tự thực hiện (các bước thực hiện)
+
+Trình tự thực hiện:
+- Trong thời hạn 30 ngày kể từ ngày Cơ quan điều tra thông báo việc tiếp nhận hồ sơ miễn trừ, tổ chức, cá nhân nộp trực tuyến 01 bộ hồ sơ đề nghị miễn trừ áp dụng biện pháp phòng vệ thương mại (sau đây gọi tắt là hồ sơ miễn trừ).
+- Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ miễn trừ, Cơ quan điều tra phòng vệ thương mại thông báo cho tổ chức, cá nhân về tính đầy đủ và hợp lệ của hồ sơ.
+- Trong trường hợp hồ sơ miễn trừ chưa đầy đủ và hợp lệ, Cơ quan điều tra phòng vệ thương mại thông báo bằng văn bản cho tổ chức, cá nhân nộp hồ sơ để bổ sung.
+- Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được thông báo yêu cầu bổ sung của Cơ quan điều tra, các đối tượng đề nghị miễn trừ có trách nhiệm cung cấp đầy đủ và chính xác những nội dung được yêu cầu bổ sung.
+- Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ miễn trừ đầy đủ và hợp lệ, Bộ Công Thương xem xét ra Quyết định miễn trừ áp dụng biện pháp phòng vệ thương mại. Trong trường hợp không miễn trừ áp dụng biện pháp phòng vệ thương mại, Cơ quan điều tra có trách nhiệm thông báo cho tổ chức, cá nhân về lý do không miễn trừ áp dụng biện pháp phòng vệ thương mại.
+- Cơ quan điều tra có trách nhiệm gửi Quyết định miễn trừ áp dụng biện pháp phòng vệ thương mại bằng văn bản cho tổ chức, cá nhân nộp hồ sơ miễn trừ, Bộ Tài chính, Tổng cục Hải quan và công khai quyết định miễn trừ trên Cổng thông tin điện tử của Bộ Công Thương, trang thông tin điện tử của Cơ quan điều tra.

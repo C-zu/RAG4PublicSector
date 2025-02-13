@@ -1,0 +1,12 @@
+Tên thủ tục: Hoàn thuế theo Hiệp định tránh đánh thuế hai lần
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị hoàn thuế (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe33ee377e62e75'">58. Hoan thue theo hiep dinh tranh danh thue hai lan_Phuong 2302.doc</a>)
+- 01 Bản chính Bản gốc GCN cư trú của nước cư trú do cơ quan thuế cấp (ghi rõ là đối tượng cư trú trong năm tính thuế nào);
+- 01 Bản sao Bản sao ĐKKD và/hoặc GCN đăng ký thuế do nước cư trú cấp trong trường hợp là tổ chức kinh doanh; hoặc bản sao ĐKKD và/hoặc giấy phép hành nghề, GCN đăng ký thuế do nước cư trú cấp và hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam trong trường hợp là cá nhân hành nghề độc lập; hoặc bản sao HĐLĐ và hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam trong trường hợp là cá nhân hành nghề phụ thuộc
+- 01 Bản sao Bản sao hợp đồng kinh tế, hợp đồng cung cấp dịch vụ, hợp đồng đại lý, hợp đồng uỷ thác, hợp đồng chuyển giao công nghệ, chứng từ chứng minh cho việc DN điều hành trực tiếp phương tiện vận tải (trong trường hợp DN vận tải quốc tế) hay HĐLĐ ký với tổ chức, cá nhân Việt Nam, GCN tiền gửi tại Việt Nam, GCN góp vốn vào Công ty tại Việt Nam (tuỳ theo loại thu nhập trong từng trường hợp cụ thể)
+- 01 Bản chính Chứng từ nộp thuế có xác nhận của kho bạc nhà nước hoặc cơ quan thuế khi thu tiền thuế; hoặc bản sao chứng từ nộp thuế và giấy xác nhận của Kho bạc Nhà nước nơi tổ chức, cá nhân nộp thuế về số thuế đã nộp
+- 01 Bản chính Xác nhận của tổ chức, cá nhân Việt Nam ký kết hợp đồng về thời gian và tình hình hoạt động thực tế theo hợp đồng

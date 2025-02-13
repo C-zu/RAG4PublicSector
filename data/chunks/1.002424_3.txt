@@ -1,0 +1,9 @@
+Tên thủ tục: Công bố cơ sở đủ điều kiện phân loại trang thiết bị y tế
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 3.000.000 Đồng Phí thẩm định Điều kiện kinh doanh thuộc lĩnh vực trang thiết bị y tế|Sau 03 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Trực tuyến|3 Ngày làm việc|Phí : 3.000.000 Đồng Phí thẩm định Điều kiện kinh doanh thuộc lĩnh vực trang thiết bị y tế|Sau 03 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 3.000.000 Đồng Phí thẩm định Điều kiện kinh doanh thuộc lĩnh vực trang thiết bị y tế|Sau 03 ngày làm việc kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ|

@@ -1,0 +1,17 @@
+Tên thủ tục: Cấp Giấy phép thi công lắp đặt bảng quảng cáo trong phạm vi đất dành cho đường bộ
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính 1. Đơn đề nghị theo mẫu Phụ lục KCHT-07 hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc7dfbe5b218a50'">PL_KCHT-07.docx</a>)
+- 01 Bản chính 2. Văn bản cam kết về việc tháo dỡ, di chuyển hoặc cải tạo công trình đã lắp đặt trả lại mặt bằng để Nhà nước xây dựng công trình công cộng hoặc nâng cấp mở rộng nền mặt đường; không được yêu cầu bồi thường và phải chịu hoàn toàn trách nhiệm kinh phí liên quan.
+- 01 Bản chính 3. Văn bản chấp thuận thi công công trình thiết yếu của cơ quan quản lý đường bộ có thẩm quyền (đối với thi công lắp đặt công trình thiết yếu)
+- 01 Bản chính 4. Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công hoặc hồ sơ thiết kế kỹ thuật thi công được cấp có thẩm quyền phê duyệt.
+- 01 Bản chính 5. Biện pháp đảm bảo an toàn công trình giao thông đường bộ và các công trình hạ tầng kỹ thuật khác hiện có trên đường bộ
+- 01 Bản chính 6. Biện pháp bảo đảm an toàn giao thông trong suốt thời gian thi công có xác nhận của Ban Quản lý dự án (trường hợp các công trình đơn giản, không có thiết kế tổ chức thi công)
+- 01 Bản chính 7. Báo cáo đánh giá tác động môi trường do Sở Tài nguyên và Môi trường Đà Nẵng thẩm định (đối với công trình quy định lập báo cáo đánh giá tác động môi trường) hoặc Biện pháp đảm bảo vệ sinh môi trường (đối với công trình không quy định lập báo cáo đánh giá tác động môi trường)
+- 01 Bản chính 8. Hồ sơ thiết kế - dự toán hoàn trả nguyên trạng mặt bằng do cơ quan cấp phép thẩm định và phê duyệt đối với các công trình có chiều dài mặt bằng hoàn trả lớn hơn 10,5m.
+- 01 Bản chính 9. Hợp đồng xây lắp (Nếu chủ đầu tư là pháp nhân có chức năng thi công và tự thi công thì không cần thủ tục này).
+- 01 Bản chính 10. Riêng trường hợp các tuyến đường đang triển khai thi công để cải tạo, nâng cấp, sửa chữa hoặc đã hoàn thành nhưng chưa bàn giao các tổ chức, cá nhân có nhu cầu thi công phải bổ sung thêm văn bản thống nhất của chủ đầu tư quản lý dự án cải tạo, nâng cấp, sửa chữa tuyến đường đó.
+- 01 Bản chính 11. Giấy phép xây dựng công trình quảng cáo của Sở Xây dựng (đối với trường hợp loại bảng quảng cáo phải có giấy phép xây dựng công trình quảng cáo theo quy định tại Khoản 2 Điều 31 Luật Quảng cáo số 16/2012/QH13 và quảng cáo lắp đặt trong phạm vi đất dành cho đường bộ (các trụ bảng, pano, hộp đèn quảng cáo lắp đặt trên dải phân cách, vỉa hè)

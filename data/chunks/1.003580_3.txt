@@ -1,0 +1,8 @@
+Tên thủ tục: Công bố cơ sở xét nghiệm đạt tiêu chuẩn an toàn sinh học cấp I, cấp II
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc||3 ngày làm việc|
+|Dịch vụ bưu chính|3 Ngày làm việc||3 ngày làm việc|

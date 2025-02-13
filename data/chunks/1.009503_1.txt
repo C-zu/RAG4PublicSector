@@ -1,0 +1,16 @@
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ đóng, quỹ bất động sản do tăng vốn
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.009503
+Số quyết định:
+12/QĐ-BTC
+Tên thủ tục:
+Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ đóng, quỹ bất động sản do tăng vốn
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Chứng khoán

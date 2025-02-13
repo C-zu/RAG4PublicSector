@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004104
+Số quyết định:
+1360/QĐ-BTTTT
+Tên thủ tục:
+Công bố chất lượng dịch vụ phát thanh, truyền hình
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+1. Đơn vị cung cấp dịch vụ gửi hồ sơ công bố chất lượng dịch vụ phát thanh, truyền hình đến Cục Phát thanh, truyền hình và thông tin điện tử.
+2. Trong thời hạn năm (05) ngày kể từ khi nhận được hồ sơ công bố chất lượng dịch vụ của đơn vị cung cấp dịch vụ, Cục Phát thanh, truyền hình và thông tin điện tử có trách nhiệm:
+a) Ban hành “Bản tiếp nhận công bố chất lượng dịch vụ phát thanh, truyền hình” trong trường hợp hồ sơ phù hợptheo mẫu tại Phụ lục IV của Thông tư này;
+b) Trả lời đơn vị cung cấp dịch vụ bằng văn bản, nêu rõ lý do không ban hành “Bản tiếp nhận công bố chất lượng dịch vụ phát thanh, truyền hình” trong trường hợp hồ sơ không phù hợp.
+3. Sau khi được cấp “Bản tiếp nhận công bố chất lượng dịch vụ phát thanh, truyền hình”, đơn vị cung cấp dịch vụ có trách nhiệm:
+a) Công bố “Bản công bố chất lượng dịch vụ phát thanh, truyền hình” và “Danh mục các chỉ tiêu chất lượng dịch vụ phát thanh, truyền hình” trên trang thông tin điện tử của đơn vị theo quy định tại Điều 8 Thông tư này;
+b) Niêm yết “Bản công bố chất lượng dịch vụ phát thanh, truyền hình” và “Danh mục các chỉ tiêu chất lượng dịch vụ phát thanh, 
+truyền hình” tại nơi dễ dàng đọc được ở tất cả các điểm giao dịch.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày||05 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|5 Ngày||05 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Công văn về việc công bố chất lượng dịch vụ phát thanh, truyền hình ([Phụ lục I.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe4c3ae889dc1f2'))
+- 01 Bản chính Bản công bố chất lượng dịch vụ phát thanh, truyền hình ([Phụ lục II.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fc02d75597e8e20'))
+- 01 Bản chính Danh mục các chỉ tiêu chất lượng dịch vụ phát thanh, truyền hình. ([Phụ lục III.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe433a4f766d17e'))
+
+Đối tượng thực hiện:
+Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền:
+Cục Phát thanh, truyền hình và thông tin điện tử
+Địa chỉ tiếp nhận HS:
+Cục Phát thanh, truyền hình và thông tin điện tử Số 115 Trần Duy Hưng, Cầu Giấy, Hà Nội
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Bản tiếp nhận công bố chất lượng dịch vụ phát thanh, truyền hình
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|72/2013/NĐ-CP|Nghị định 72/2013/NĐ-CP|15-07-2013|Chính phủ|
+|24/2016/TT-BTTTT|Quy định về quản lý chất lượng dịch vụ phát thanh, truyền hình|15-11-2016|Bộ Thông tin và Truyền thông|
+
+Yêu cầu, điều kiện thực hiện:
+Không có thông tin
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

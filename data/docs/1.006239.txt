@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.006239
+Số quyết định:
+2008/QĐ-BTC
+Tên thủ tục:
+Đăng ký giá của các doanh nghiệp thuộc danh sách đăng ký giá tại Bộ Tài chính.
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Quản lý giá
+Trình tự thực hiện:
+Bước 1: Tổ chức, cá nhân thực hiện đăng ký giá theo quy định tại Điều 6 Nghị định số 177/2013/NĐ-CP bằng việc lập Biểu mẫu đăng ký giá (sau đây gọi tắt là Biểu mẫu) và gửi cho Bộ Tài chính (Cục Quản lý giá) tiếp nhận Biểu mẫu (sau đây gọi tắt là Cơ quan tiếp nhận Biểu mẫu).
+Bước 2: 
+	a) Đối với Biểu mẫu gửi trực tiếp:
+	- Trường hợp Biểu mẫu có đủ thành phần, số lượng theo quy định, cán bộ tiếp nhận Biểu mẫu đóng dấu công văn đến có ghi ngày, tháng, năm vào Biểu mẫu và trả ngay 01 bản Biểu mẫu cho tổ chức, cá nhân đến nộp trực tiếp; đồng thời chuyển ngay 01 bản Biểu mẫu đến lãnh đạo cơ quan và các phòng, ban nghiệp vụ theo thẩm quyền trong ngày làm việc hoặc đầu giờ của ngày làm việc tiếp theo để thực hiện rà soát;
+	- Trường hợp Biểu mẫu không đủ thành phần, số lượng theo quy định, cán bộ tiếp nhận Biểu mẫu ghi rõ lý do trả lại, các nội dung cần bổ sung và trả lại ngay Biểu mẫu cho tổ chức, cá nhân đến nộp trực tiếp.
+b) Đối với Biểu mẫu gửi qua đường công văn, fax, thư điện tử:
+	- Khi nhận được Biểu mẫu, cán bộ tiếp nhận kiểm tra thành phần, số lượng Biểu mẫu, trường hợp Biểu mẫu có đủ thành phần, số lượng theo quy định, cán bộ tiếp nhận đóng dấu công văn đến có ghi ngày, tháng, năm vào Biểu mẫu và chuyển ngay theo đường bưu điện 01 bản Biểu mẫu cho tổ chức, cá nhân; đồng thời, chuyển ngay 01 bản Biểu mẫu đến lãnh đạo cơ quan, phòng, ban nghiệp vụ theo thẩm quyền để thực hiện rà soát ngay trong ngày làm việc hoặc đầu giờ của ngày làm việc tiếp theo;
+	- Trường hợp Biểu mẫu không đủ thành phần, số lượng theo quy định, tối đa không quá 02 ngày làm việc kể từ ngày nhận được Biểu mẫu, cơ quan tiếp nhận Biểu mẫu thông báo qua đường công văn, fax, thư điện tử yêu cầu tổ chức, cá nhân nộp bổ sung thành phần, số lượng Biểu mẫu. Ngày tổ chức, cá nhân nộp đủ thành phần, số lượng Biểu mẫu được tính là ngày tiếp nhận Biểu mẫu, cán bộ tiếp nhận đóng dấu công văn đến có ghi ngày, tháng, năm tiếp nhận vào Biểu mẫu.
+c) Hết thời hạn 05 ngày làm việc kể từ ngày tiếp nhận Biểu mẫu quy định tại điểm a, điểm b khoản này, nếu cơ quan tiếp nhận Biểu mẫu không có ý kiến yêu cầu tổ chức, cá nhân giải trình về các nội dung của Biểu mẫu thì tổ chức, cá nhân được mua, bán theo mức giá đăng ký.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|05 Ngày làm việc||- Hết thời hạn 05 ngày làm việc kể từ ngày tiếp nhận Biểu mẫu theo quy định, nếu cơ quan tiếp nhận Biểu mẫu không có ý kiến yêu cầu tổ chức, cá nhân giải trình về các nội dung của Biểu mẫu thì tổ chức, cá nhân được mua, bán theo mức giá đăng ký.. - Trường hợp Biểu mẫu có nội dung chưa rõ hoặc cần phải giải trình về các yếu tố hình thành giá tăng hoặc giảm làm cho mức giá đăng ký tăng hoặc giảm thì tổ chức, cá nhân giải trình và gửi văn bản giải trình đến cơ quan tiếp nhận Biểu mẫu tối đa không quá 10 ngày làm việc kể từ ngày cơ quan tiếp nhận Biểu mẫu thông báo bằng văn bản yêu cầu tổ chức, cá nhân giải trình cho đến ngày cơ quan tiếp nhận Biểu mẫu nhận văn bản giải trình của tổ chức, cá nhân tính theo dấu công văn đến của cơ quan tiếp nhận Biểu mẫu hoặc ngày gửi ghi trong thư điện tử của tổ chức, cá nhân.|
+|Trực tuyến|05 Ngày làm việc||- Hết thời hạn 05 ngày làm việc kể từ ngày tiếp nhận Biểu mẫu theo quy định, nếu cơ quan tiếp nhận Biểu mẫu không có ý kiến yêu cầu tổ chức, cá nhân giải trình về các nội dung của Biểu mẫu thì tổ chức, cá nhân được mua, bán theo mức giá đăng ký.. - Trường hợp Biểu mẫu có nội dung chưa rõ hoặc cần phải giải trình về các yếu tố hình thành giá tăng hoặc giảm làm cho mức giá đăng ký tăng hoặc giảm thì tổ chức, cá nhân giải trình và gửi văn bản giải trình đến cơ quan tiếp nhận Biểu mẫu tối đa không quá 10 ngày làm việc kể từ ngày cơ quan tiếp nhận Biểu mẫu thông báo bằng văn bản yêu cầu tổ chức, cá nhân giải trình cho đến ngày cơ quan tiếp nhận Biểu mẫu nhận văn bản giải trình của tổ chức, cá nhân tính theo dấu công văn đến của cơ quan tiếp nhận Biểu mẫu hoặc ngày gửi ghi trong thư điện tử của tổ chức, cá nhân.|
+|Dịch vụ bưu chính|05 Ngày làm việc||- Hết thời hạn 05 ngày làm việc kể từ ngày tiếp nhận Biểu mẫu theo quy định, nếu cơ quan tiếp nhận Biểu mẫu không có ý kiến yêu cầu tổ chức, cá nhân giải trình về các nội dung của Biểu mẫu thì tổ chức, cá nhân được mua, bán theo mức giá đăng ký.. - Trường hợp Biểu mẫu có nội dung chưa rõ hoặc cần phải giải trình về các yếu tố hình thành giá tăng hoặc giảm làm cho mức giá đăng ký tăng hoặc giảm thì tổ chức, cá nhân giải trình và gửi văn bản giải trình đến cơ quan tiếp nhận Biểu mẫu tối đa không quá 10 ngày làm việc kể từ ngày cơ quan tiếp nhận Biểu mẫu thông báo bằng văn bản yêu cầu tổ chức, cá nhân giải trình cho đến ngày cơ quan tiếp nhận Biểu mẫu nhận văn bản giải trình của tổ chức, cá nhân tính theo dấu công văn đến của cơ quan tiếp nhận Biểu mẫu hoặc ngày gửi ghi trong thư điện tử của tổ chức, cá nhân.|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Biểu mẫu đăng ký giá theo hướng dẫn tại Phụ lục số 01 ban hành kèm theo Thông tư số 56/2014/TT-BTC (trong đó các nội dung về Công văn gửi Biểu mẫu đăng ký giá; Bảng đăng ký giá cụ thể và Thuyết minh cơ cấu tính giá hàng hóa, dịch vụ đăng ký giá). ([Dang ky gia.docx](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fefd9619f353194'))
+- 01 Bản chính + 01 phong bì có dán tem, ghi rõ: tên, địa chỉ của tổ chức, cá nhân, họ tên và số điện thoại của người trực tiếp có trách nhiệm của đơn vị;
+
+Đối tượng thực hiện:
+Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Cục Quản lý giá - Bộ tài chính
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Lưu hồ sơ hoặc văn bản trả lời trong trường hợp Biểu mẫu đăng ký giá có nội dung chưa rõ hoặc cần phải giải trình về các yếu tố hình thành giá tăng hoặc giảm.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|177/2013/NĐ-CP|Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá|14-11-2019|Chính phủ|
+|11/2012/QH13|Luật 11/2012/QH13 - Giá|20-06-2012|Quốc Hội|
+|56/2014/TT-BTC|Thông tư 56/2014/TT-BTC|28-04-2014|Bộ Tài chính|
+
+Yêu cầu, điều kiện thực hiện:
+- Khi hoàng hóa, dịch vụ thuộc Danh mục quy định tại khoản 02 Điều 15 của Luật Giá có biến động bất thường;
+- Khi mặt bằng giá biến động ảnh hưởng đến ổn định kinh tế - xã hội.
+- Khi hoàng hóa, dịch vụ thuộc Danh mục quy định tại khoản 02 Điều 15 của Luật Giá có biến động bất thường;
+- Khi mặt bằng giá biến động ảnh hưởng đến ổn định kinh tế - xã hội.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

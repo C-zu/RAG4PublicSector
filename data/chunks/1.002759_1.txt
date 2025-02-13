@@ -1,0 +1,16 @@
+Tên thủ tục: Cấp lại, đổi, điều chỉnh thông tin trên sổ BHXH, thẻ BHYT
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.002759
+Số quyết định:
+1318/QĐ-BHXH
+Tên thủ tục:
+Cấp lại, đổi, điều chỉnh thông tin trên sổ BHXH, thẻ BHYT
+Cấp thực hiện:
+Cấp Bộ, Cấp Tỉnh, Cấp Huyện
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Cấp sổ BHXH, thẻ BHYT

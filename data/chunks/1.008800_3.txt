@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm (do UBND cấp huyện thực hiện) - Đã bãi bỏ tại Quyết định số 1816/QĐ-UBND
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cấp lại do Giấy chứng nhận bị mất hoặc bị hỏng|
+|Trực tiếp|15 Ngày làm việc|Phí : 500.000 Đồng Đối với cơ sở sản xuất khác  Phí : 500.000 Đồng Đối với cơ sở sản xuất nhỏ lẻ  Phí : 1.000.000 Đồng Đối với cơ sở kinh doanh|Trường hợp cơ sở thay đổi địa điểm sản xuất; thay đổi, bổ sungquy trình sản xuất và khi Giấy chứng nhận hết hiệu lực|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cơ sở thay đổi tên cơ sở nhưng không thay đổi chủ cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh|
+|Trực tiếp|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cơ sở thay đổi chủ cơ sở nhưng không thay đổi tên cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh|
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cấp lại do Giấy chứng nhận bị mất hoặc bị hỏng|
+|Trực tuyến|15 Ngày làm việc|Phí : 500.000 Đồng Đối với cơ sở sản xuất khác  Phí : 500.000 Đồng Đối với cơ sở sản xuất nhỏ lẻ  Phí : 1.000.000 Đồng Đối với cơ sở kinh doanh|Trường hợp cơ sở thay đổi địa điểm sản xuất; thay đổi, bổ sungquy trình sản xuất và khi Giấy chứng nhận hết hiệu lực|
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cơ sở thay đổi tên cơ sở nhưng không thay đổi chủ cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh|
+|Trực tuyến|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cơ sở thay đổi chủ cơ sở nhưng không thay đổi tên cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cấp lại do Giấy chứng nhận bị mất hoặc bị hỏng|
+|Dịch vụ bưu chính|15 Ngày làm việc|Phí : 500.000 Đồng Đối với cơ sở sản xuất khác  Phí : 500.000 Đồng Đối với cơ sở sản xuất nhỏ lẻ  Phí : 1.000.000 Đồng Đối với cơ sở kinh doanh|Trường hợp cơ sở thay đổi địa điểm sản xuất; thay đổi, bổ sungquy trình sản xuất và khi Giấy chứng nhận hết hiệu lực|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cơ sở thay đổi tên cơ sở nhưng không thay đổi chủ cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh|
+|Dịch vụ bưu chính|3 Ngày làm việc|Phí : 0 Đồng Không thu phí|Trường hợp cơ sở thay đổi chủ cơ sở nhưng không thay đổi tên cơ sở, địa chỉ, địa điểm và toàn bộ quy trình sản xuất, mặt hàng kinh doanh|

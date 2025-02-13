@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.004588
+Số quyết định:
+941/QĐ-BTTTT
+Tên thủ tục:
+Tiếp nhận công bố hợp quy đối với sản phẩm chuyên ngành công nghệ thông tin và truyền thông sản xuất trong nước bắt buộc phải công bố hợp quy
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Viễn thông và Internet
+Trình tự thực hiện:
+Tổ chức, cá nhân thực hiện công bố hợp quy theo trình tự sau:
+Bước 1: Tự đánh giá sự phù hợp của sản phẩm với quy chuẩn tương ứng theo các bước:
++ Kiểm tra tính phù hợp của kết quả đo kiểm để đảm bảo kết quả đo kiểm của đơn vị đo kiểm có đủ thẩm quyền theo quy định tại khoản 2, Điều 5 Thông tư số 30/2011/TT-BTTTT được sửa đổi, bổ sung tại khoản 1, Điều 1 Thông tư số 15/2018/TT-BTTTT.
++ Tự đánh giá sự phù hợp của mẫu sản phẩm trên cơ sở so sánh kết quả đo kiểm với các chỉ tiêu của Quy chuẩn kỹ thuật tương ứng.
+Bước 2: Đăng ký mẫu dấu hợp quy (Phụ lục VI Thông tư số 30/2011/TT-BTTTT).
+Bước 3: Lập hồ sơ đăng ký công bố hợp quy theo quy định tại khoản 1 Điều 17 của Thông tư 30/2011/TT-BTTTT được sửa đổi tại khoản 4 Điều 1 Thông tư số 10/2020/TT-BTTTT và gửi hồ sơ đến cơ quan tiếp nhận công bố hợp quy.
+Bước 4: Tổ chức, cá nhân được Thông báo tiếp nhận Bản công bố hợp quy trong thời gian năm (05) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Trường hợp không tiếp nhận Bản công bố hợp quy, cơ quan tiếp nhận hồ sơ có trách nhiệm thông báo bằng văn bản cho tổ chức, cá nhân đăng ký công bố hợp quy về những nội dung chưa phù hợp để hoàn thiện và thực hiện lại việc đăng ký công bố hợp quy.
+Tổ chức, cá nhân phải thực hiện lại việc công bố hợp quy trong các trường hợp sau:
++ Thiết kế kỹ thuật của sản phẩm, hàng hóa đã công bố hợp quy thay đổi làm thay đổi chỉ tiêu kỹ thuật của sản phẩm.
++  Nội dung của hồ sơ công bố hợp quy đã đăng ký có sự thay đổi.
+Trình tự thực hiện công bố hợp quy lại giống như đăng ký công bố hợp quy lần đầu.
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|5 Ngày|Lệ phí : 150.000 Đồng Thông tư số 183/2016/TT-BTC ngày 08/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy đăng ký công bố hợp chuẩn, hợp quy|Năm (05) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+|Trực tuyến|5 Ngày|Lệ phí : 150.000 Đồng Thông tư số 183/2016/TT-BTC ngày 08/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy đăng ký công bố hợp chuẩn, hợp quy|Năm (05) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+|Dịch vụ bưu chính|5 Ngày|Lệ phí : 150.000 Đồng Thông tư số 183/2016/TT-BTC ngày 08/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy đăng ký công bố hợp chuẩn, hợp quy|Năm (05) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định|
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Bản công bố hợp quy. ([Mẫu Bản công bố hợp quy.doc](https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd47634c3eb19b8'))
+- 01 Bản sao -Trường hợp tổ chức chưa có mã số doanh nghiệp hoặc cá nhân chưa có số định danh cá nhân, tổ chức, cá nhân nộp kèm theo hồ sơ công bố hợp quy bản sao một trong các loại giấy tờ sau: + Giấy chứng nhận đăng ký kinh doanh; Quyết định/Giấy phép thành lập, Giấy chứng nhận đầu tư/Giấy phép đầu tư (đối với tổ chức chưa có mã số doanh nghiệp); + Chứng minh nhân dân/hộ chiếu (đối với cá nhân chưa có số định danh cá nhân). Tổ chức, cá nhân chỉ nộp thành phần hồ sơ này khi thực hiện công bố hợp quy lần đầu hoặc các giấy tờ nêu trên có sự thay đổi
+- 01 Bản chính, 01 Bản sao - Mẫu dấu hợp quy khi thực hiện công bố hợp quy lần đầu hoặc khi mẫu dấu hợp quy có sự thay đổi.
+- 01 Bản chính, 01 Bản sao - Báo cáo tự đánh giá gồm các thông tin sau: + Tên tổ chức, cá nhân; địa chỉ; điện thoại, fax. +Tên sản phẩm, hàng hóa. + Hãng sản xuất. + Số hiệu quy chuẩn kỹ thuật. + Số, ngày cấp kết quả đo kiểm sản phẩm. Kết quả đo kiểm này phải được cấp bởi đơn vị đo kiểm phục vụ hoạt động công bố hợp quy quy định tại khoản 2 Điều 5 Thông tư số 30/2011/TT-BTTTT được sửa đổi, bổ sung tại khoản 1, Điều 1 Thông tư số 15/2018/TT-BTTTT cấp cho tổ chức, cá nhân thực hiện báo cáo tự đánh giá. + Kết luận sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật. + Cam kết chất lượng sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, hàng hóa và kết quả tự đánh giá.
+
+Đối tượng thực hiện:
+Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện:
+Cục Viễn thông
+Cơ quan có thẩm quyền:
+Bộ Thông tin và Truyền thông
+Địa chỉ tiếp nhận HS:
+Địa chỉ do Cục Viễn thông đăng tải trên Trang thông tin điện tử của Cục Viễn thông: vnta.gov.vn
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo tiếp nhận bản công bố hợp quy
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|42/2009/QH12|Luật 42/2009/QH12|23-11-2009||
+|68/2006/QH11|Luật 68/2006/QH11|29-06-2006||
+|05/2007/QH12|Luật 05/2007/QH12|21-11-2007||
+|127/2007/NĐ-CP|Nghị định 127/2007/NĐ-CP|01-08-2007||
+|132/2008/NĐ-CP|Nghị định 132/2008/NĐ-CP|31-12-2008||
+|25/2011/NĐ-CP|Nghị định 25/2011/NĐ-CP|06-04-2011||
+|30/2011/TT-BTTTT|Thông tư 30/2011/TT-BTTTT|31-10-2011||
+|15/2018/TT-BTTTT|Thông tư 15/2018/TT-BTTTT|15-11-2018|Bộ Thông tin và Truyền thông|
+|74/2018/NĐ-CP|Nghị định 74/2018/NĐ-CP|15-05-2018||
+|154/2018/NĐ-CP|Nghị định 154/2018/NĐ-CP|09-11-2018||
+
+Yêu cầu, điều kiện thực hiện:
+- Tổ chức, cá nhân gửi văn bản đến Cục Viễn thông đăng ký mẫu dấu hợp quy kèm theo bản điện tử (file) mẫu dấu hợp quy. Dấu hợp quy phải được thiết kế theo quy định tại khoản 1, 2 Điều 19 và Phụ lục VI Thông tư số 30/2011/TT-BTTTT.
+- Cách thể hiện dấu hợp quy:
++ Dấu hợp quy có thể được phóng to hoặc thu nhỏ nhưng phải đảm bảo đúng tỷ lệ và nhận biết được bằng mắt thường.
++ Màu sắc của dấu hợp quy do tổ chức, cá nhân tự chọn, nhưng phải được thể hiện cùng một màu, bảo đảm rõ ràng, dễ thấy và bền vững. Không được in thêm bất kỳ ký tự, hình ảnh, hoa văn khác trong phạm vi dấu hợp quy. Trường hợp in dấu hợp quy lên các chất liệu khác để gắn hoặc dán thì phải lựa chọn chất liệu sao cho chỉ sử dụng được một lần, không thể bóc ra gắn lại.
++ Tổ chức, cá nhân sau khi công bố hợp quy tự thể hiện dấu hợp quy bằng cách in, gắn hoặc dán dấu hợp quy trực tiếp trên sản phẩm hoặc trên bao bì hoặc nhãn gắn trên sản phẩm ở vị trí dễ thấy, dễ đọc, đồng thời có thể được in trong tài liệu kỹ thuật kèm theo.
+- Sử dụng dấu hợp quy: Tổ chức, cá nhân chỉ được phép sử dụng dấu hợp quy sau khi đã đăng ký mẫu dấu hợp quy tại cơ quan tiếp nhận công bố hợp quy.
+- Tổ chức, cá nhân gửi văn bản đến Cục Viễn thông đăng ký mẫu dấu hợp quy kèm theo bản điện tử (file) mẫu dấu hợp quy. Dấu hợp quy phải được thiết kế theo quy định tại khoản 1, 2 Điều 19 và Phụ lục VI Thông tư số 30/2011/TT-BTTTT.
+- Cách thể hiện dấu hợp quy:
++ Dấu hợp quy có thể được phóng to hoặc thu nhỏ nhưng phải đảm bảo đúng tỷ lệ và nhận biết được bằng mắt thường.
++ Màu sắc của dấu hợp quy do tổ chức, cá nhân tự chọn, nhưng phải được thể hiện cùng một màu, bảo đảm rõ ràng, dễ thấy và bền vững. Không được in thêm bất kỳ ký tự, hình ảnh, hoa văn khác trong phạm vi dấu hợp quy. Trường hợp in dấu hợp quy lên các chất liệu khác để gắn hoặc dán thì phải lựa chọn chất liệu sao cho chỉ sử dụng được một lần, không thể bóc ra gắn lại.
++ Tổ chức, cá nhân sau khi công bố hợp quy tự thể hiện dấu hợp quy bằng cách in, gắn hoặc dán dấu hợp quy trực tiếp trên sản phẩm hoặc trên bao bì hoặc nhãn gắn trên sản phẩm ở vị trí dễ thấy, dễ đọc, đồng thời có thể được in trong tài liệu kỹ thuật kèm theo.
+- Sử dụng dấu hợp quy: Tổ chức, cá nhân chỉ được phép sử dụng dấu hợp quy sau khi đã đăng ký mẫu dấu hợp quy tại cơ quan tiếp nhận công bố hợp quy.
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

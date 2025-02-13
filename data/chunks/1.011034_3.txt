@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục thẩm định và phê duyệt đồ án/đồ án điều chỉnh quy hoạch chi tiết xây dựng các dự án trong khu công nghiệp
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|40 Ngày|Lệ phí : Đồng Theo Thông tư 20/2019/TT-BXD của Bộ Xây dựng|(cụ thể: không quá 25 ngày đối với việc thẩm định đồ án/đồ án điều chỉnh và không quá 15 ngày đối với việc phê duyệt đồ án/đồ án điều chỉnh) kể từ ngày nhận hồ sơ hợp lệ|
+|Trực tuyến|40 Ngày|Lệ phí : Đồng Theo Thông tư 20/2019/TT-BXD của Bộ Xây dựng|(cụ thể: không quá 25 ngày đối với việc thẩm định đồ án/đồ án điều chỉnh và không quá 15 ngày đối với việc phê duyệt đồ án/đồ án điều chỉnh) kể từ ngày nhận hồ sơ hợp lệ|
+|Dịch vụ bưu chính|40 Ngày|Lệ phí : Đồng Theo Thông tư 20/2019/TT-BXD của Bộ Xây dựng|(cụ thể: không quá 25 ngày đối với việc thẩm định đồ án/đồ án điều chỉnh và không quá 15 ngày đối với việc phê duyệt đồ án/đồ án điều chỉnh) kể từ ngày nhận hồ sơ hợp lệ|

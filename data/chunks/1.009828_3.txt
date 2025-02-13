@@ -1,0 +1,9 @@
+Tên thủ tục: Thủ tục cấp giấy phép tiến hành công việc bức xạ - Sản xuất, chế biến chất phóng xạ
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|45 Ngày|Phí : 26.000.000 Đồng + Thẩm định cấp giấy phép chế biến chất phóng xạ: 26.000.000 đồng/1 cơ sở  Phí : 60.000.000 Đồng + Thẩm định cấp giấy phép sản xuất chất phóng xạ: 60.000.000 đồng/1 cơ sở|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Trực tuyến|45 Ngày|Phí : 26.000.000 Đồng + Thẩm định cấp giấy phép chế biến chất phóng xạ: 26.000.000 đồng/1 cơ sở  Phí : 60.000.000 Đồng + Thẩm định cấp giấy phép sản xuất chất phóng xạ: 60.000.000 đồng/1 cơ sở|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|
+|Dịch vụ bưu chính|45 Ngày|Phí : 26.000.000 Đồng + Thẩm định cấp giấy phép chế biến chất phóng xạ: 26.000.000 đồng/1 cơ sở  Phí : 60.000.000 Đồng + Thẩm định cấp giấy phép sản xuất chất phóng xạ: 60.000.000 đồng/1 cơ sở|45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí.|

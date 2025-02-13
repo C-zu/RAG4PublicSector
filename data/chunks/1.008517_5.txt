@@ -1,0 +1,23 @@
+Tên thủ tục: Chấm dứt hiệu lực mã số thuế đối với trường hợp chuyển đổi mô hình hoạt động của tổ chức kinh tế và tổ chức khác (Chuyển đơn vị phụ thuộc thành đơn vị độc lập hoặc ngược lại) - Đối với đơn vị trước chuyển đổi (Cấp cục Thuế/chi cục Thuế).
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Cơ quan thuế
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Cục thuế, Chi cục Thuế
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Thông báo người nộp thuế ngừng hoạt động và đang làm thủ tục chấm dứt hiệu lực mã số thuế theo mẫu số 17/TB-ĐKT và Thông báo chấm dứt hiệu lực mã số thuế mẫu số 18/TB-ĐKT ban hành kèm theo Thông tư số 105/2020/TT-BTC ngày 03/12/2020 của Bộ Tài chính; Thông báo gửi cho đơn vị chủ quản, đơn vị phụ thuộc theo mẫu số 35/TB-ĐKT ban hành kèm theo Thông tư số 105/2020/TT-BTC ngày 03/12/2020 của Bộ Tài chính; Thông báo về việc chuyển nghĩa vụ thuế của người nộp thuế mẫu số 39/TB-ĐKT ban hành kèm theo Thông tư số 105/2020/TT-BTC ngày 03/12/2020 của Bộ Tài chính
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|38/2019/QH14|Luật 38/2019/QH14|13-06-2019||
+|105/2020/TT-BTC|Thông tư 105/2020/TT-BTC|03-12-2020||
+|19/2021/TT-BTC|Thông tư 19/2021/TT-BTC|18-03-2021||

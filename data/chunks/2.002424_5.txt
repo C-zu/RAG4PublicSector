@@ -1,0 +1,25 @@
+Tên thủ tục: Kiểm tra công tác nghiệm thu khi hoàn thành thi công xây dựng công trình
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện:
+Ban Quản lý Khu công nghệ cao và các khu công nghiệp TP.Đà Nẵng
+Cơ quan có thẩm quyền:
+Không có thông tin
+Địa chỉ tiếp nhận HS:
+Bộ phận tiếp nhận và trả kết quả Ban Quản lý
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Không có thông tin
+Kết quả thực hiện:
+Văn bản chấp thuận kết quả nghiệm thu.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|50/2014/QH13|Luật xây dựng|18-06-2014|Quốc Hội|
+|48/VBHN-VPQH|hợp nhất Luật Xây dựng|10-12-2018|Văn phòng Quốc hội|
+|10/2017/QĐ-UBND|Ban hành Quy chế quản lý quy hoạch, kiến trúc Khu công nghệ cao Đà Nẵng|23-03-2017|Ủy ban nhân dân cấp Tỉnh|
+|06/2021/NĐ-CP|Nghị định 06/2021/NĐ-CP|26-01-2021||
+|10/2021/QĐ-UBND|Ban hành Quy định về phân công, phân cấp, ủy quyền trách nhiệm quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn thành phố Đà Nẵng|01-06-2021||

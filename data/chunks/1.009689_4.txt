@@ -1,0 +1,9 @@
+Tên thủ tục: Thẩm định danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật trong lựa chọn Nhà đầu tư
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Tờ trình của bên mời thầu về kết quả đánh giá hồ sơ đề xuất về kỹ thuật
+- 01 Bản chính Báo cáo kết quả đánh giá hồ sơ đề xuất về kỹ thuật;
+- 01 Bản sao Bản sao các hồ sơ, tài liệu: HSMT, biên bản đóng thầu, mở thầu, hồ sơ đề xuất về kỹ thuật của các nhà đâu tư và các tài liệu liên quan cần thiết khác.

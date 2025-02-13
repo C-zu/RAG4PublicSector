@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp bổ sung năng định Giấy phép nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Đơn đề nghị cấp bổ sung năng định kèm danh sách nhân viên được đề nghị; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa20993b79b0580'">1.002840_năng định.docx</a>)
+- 01 Bản sao - Bản sao giấy phép lái xe cơ giới đường bộ phù hợp (đối với trường hợp nhân viên điều khiển phương tiện) và 01 ảnh màu chân dung kích thước 3 cm x 4 cm (đối với trường hợp gửi trực tiếp hoặc qua đường bưu chính hoặc bằng các hình thức phù hợp khác) hoặc ảnh màu chân dung kích thước 3 cm x 4 cm được số hóa (đối với trường hợp gửi trên môi trường điện tử). Ảnh chụp không quá 06 tháng kể từ ngày chụp tính đến ngày nộp hồ sơ);
+- 01 Bản sao - Bản sao hoặc bản sao điện tử Chứng chỉ chuyên môn theo quy định.

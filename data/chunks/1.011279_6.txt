@@ -1,0 +1,12 @@
+Tên thủ tục: Xác nhận xe thuộc đối tượng không chịu phí sử dụng đường bộ
+Nội dung: Yêu cầu, điều kiện thực hiện (các yêu cầu, quy định cần thực hiện)
+
+Yêu cầu, điều kiện thực hiện:
+- Xe kinh doanh vận tải thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã kinh doanh vận tải (sau đây gọi chung là doanh nghiệp) tạm dừng lưu hành liên tục từ 30 ngày trở lên.
+- Xe ô tô của doanh nghiệp không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ (chỉ được cấp Giấy chứng nhận kiểm định và không cấp Tem kiểm định theo quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ của Bộ Giao thông vận tải), chỉ sử dụng trong phạm vi Trung tâm sát hạch lái xe, nhà ga, cảng, khu khai thác khoáng sản, nông, lâm, ngư nghiệp, công trường xây dựng (giao thông, thủy lợi, năng lượng).
+- Xe kinh doanh vận tải thuộc doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã kinh doanh vận tải (sau đây gọi chung là doanh nghiệp) tạm dừng lưu hành liên tục từ 30 ngày trở lên.
+- Xe ô tô của doanh nghiệp không tham gia giao thông, không sử dụng đường thuộc hệ thống giao thông đường bộ (chỉ được cấp Giấy chứng nhận kiểm định và không cấp Tem kiểm định theo quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ của Bộ Giao thông vận tải), chỉ sử dụng trong phạm vi Trung tâm sát hạch lái xe, nhà ga, cảng, khu khai thác khoáng sản, nông, lâm, ngư nghiệp, công trường xây dựng (giao thông, thủy lợi, năng lượng).
+Từ khóa:
+Không có thông tin
+Mô tả:
+Không có thông tin

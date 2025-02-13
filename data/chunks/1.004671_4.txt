@@ -1,0 +1,7 @@
+Tên thủ tục: Thủ tục thẩm định sản phẩm quảng cáo theo yêu cầu của tổ chức, cá nhân
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị thẩm định sản phẩm quảng cáo. (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9dbe653a0ba89'">mẫu số 01 thông tư 10-2013-TT-BVHTTDL.doc</a>)

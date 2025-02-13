@@ -1,0 +1,18 @@
+Tên thủ tục: Cấp, cấp lại giấy phép nuôi trồng thủy sản trên biển cho tổ chức, cá nhân Việt Nam (đối với khu vực biển ngoài 06 hải lý, khu vực biển giáp ranh giữa các tỉnh, thành phố trực thuộc trung ương, khu vực biển nằm đồng thời trong và ngoài 06 hải lý)
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Trong trường hợp cấp lại/gia hạn:
+- 01 Bản chính a) Đơn đề nghị cấp lại/gia hạn Giấy phép theo Mẫu số 15 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda82d587c918e8'">Mẫu số 15-PL1.docx</a>)
+- 01 Bản chính b) Báo cáo Kết quả sản xuất theo Mẫu số 16 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fa5417f7f7665f0'">Mẫu số 16-PL1.docx</a>)
+- 01 Bản chính c) Báo cáo kết quả bảo vệ môi trường được cơ quan nhà nước có thẩm quyền thẩm định theo quy định;
+- 01 Bản sao d) Bản sao chứng thực Quyết định giao khu vực biển (đối với trường hợp gia hạn Giấy phép);
+- 01 Bản sao đ) Bản sao văn bản của cơ quan nhà nước có thẩm quyền thể hiện nội dung thay đổi, bổ sung thông tin của tổ chức, cá nhân (đối với trường hợp cấp lại Giấy phép).
+
+
+Trong trường hợp cấp mới:
+- 01 Bản chính a) Đơn đăng ký theo Mẫu số 15 Phụ lục I ban hành kèm theo Nghị định số 37/2024/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe9206ad514a50e'">Mẫu số 15-PL1.docx</a>)
+- 01 Bản chính b) Bản thuyết minh dự án nuôi trồng thủy sản theo Mẫu số 30.NT Phụ lục III ban hành kèm theo Nghị định số 26/2019/NĐ-CP; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fda98d15e2f3494'">Mẫu số 30.docx</a>)
+- 01 Bản chính c) Báo cáo đánh giá tác động môi trường nuôi trồng thủy sản hoặc bản cam kết bảo vệ môi trường và kế hoạch bảo vệ môi trường được cơ quan có thẩm quyền thẩm định theo quy định
+- 01 Bản chính d) Sơ đồ khu vực biển kèm theo tọa độ các điểm góc của khu vực biển đề nghị giao

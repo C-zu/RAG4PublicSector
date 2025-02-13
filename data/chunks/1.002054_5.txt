@@ -1,0 +1,32 @@
+Tên thủ tục: Đăng ký biến động đối với trường hợp chuyển từ hình thức thuê đất trả tiền hàng năm sang thuê đất trả tiền một lần cho cả thời gian thuê hoặc từ giao đất không thu tiền sử dụng đất sang hình thức thuê đất hoặc từ thuê đất sang giao đất có thu tiền sử dụng đất
+Nội dung: Đối tượng thực hiện, các cơ quan liên quan, và căn cứ pháp lý
+
+Đối tượng thực hiện:
+Người Việt Nam định cư ở nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện:
+Văn phòng đăng ký quyền sử dụng đất cấp tỉnh
+Cơ quan có thẩm quyền:
+Ủy ban nhân dân cấp Tỉnh
+Địa chỉ tiếp nhận HS:
+Không có thông tin
+Cơ quan được ủy quyền:
+Không có thông tin
+Cơ quan phối hợp:
+Cơ quan thuế, Kho bạc
+Kết quả thực hiện:
+Giấy chứng nhận quyền sử dụng đất quyền sở hữu nhà ở và tài sản khác gắn liền với đất tài sản khác gắn liền với đất, Ghi vào sổ địa chính và lập hồ sơ để Nhà nước quản lý.
+Căn cứ pháp lý:
+|Số ký hiệu|Trích yếu|Ngày ban hành|Cơ quan ban hành|
+|--|--|--|-|
+|02/2015/TT-BTNMT|Thông tư 02/2015/TT-BTNMT|27-01-2015|Bộ Tài nguyên và Môi trường|
+|45/2013/QH13|Luật 45/2013/QH13|29-11-2013|Quốc Hội|
+|43/2014/NĐ-CP|Nghị định 43/2014/NĐ-CP|15-05-2014|Chính phủ|
+|23/2014/TT-BTNMT|Thông tư 23/2014/TT-BTNMT|19-05-2014|Bộ Tài nguyên và Môi trường|
+|24/2014/TT-BTNMT|Thông tư 24/2014/TT-BTNMT|19-05-2014|Bộ Tài nguyên và Môi trường|
+|01/2017/NĐ-CP|Nghị định 01/2017/NĐ-CP|06-01-2017|Chính phủ|
+|09/2021/TT-BTNMT|Thông tư 09/2021/TT-BTNMT|30-06-2021||
+|148/2020/NĐ-CP|Nghị định 148/2020/NĐ-CP|18-12-2020||
+|33/2017/TT-BTNMT|Thông tư 33/2017/TT-BTNMT|29-09-2017||
+|10/2023/NĐ-CP|Nghị định 10/2023/NĐ-CP|03-04-2023||
+|85/2019/TT-BTC|Thông tư 85/2019/TT-BTC|29-11-2019||
+|14/2023/TT- BTNMT|Thông tư số|16-10-2023|Bộ Tài nguyên và Môi trường|

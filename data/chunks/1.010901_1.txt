@@ -1,0 +1,16 @@
+Tên thủ tục: Sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+Nội dung: Chi tiết thủ tục (Mã, số quyết định, tên, tên, cấp thực hiện, loại, lĩnh vực của thủ tục)
+
+Chi tiết thủ tục hành chính:
+Mã thủ tục:
+1.010901
+Số quyết định:
+882/QĐ-BTTTT
+Tên thủ tục:
+Sửa đổi, bổ sung văn bản xác nhận thông báo hoạt động bưu chính
+Cấp thực hiện:
+Cấp Bộ
+Loại thủ tục:
+TTHC được luật giao quy định chi tiết
+Lĩnh vực:
+Bưu chính

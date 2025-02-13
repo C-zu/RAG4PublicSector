@@ -1,0 +1,7 @@
+Tên thủ tục: Phê duyệt lần đầu danh mục kỹ thuật của các cơ sở khám bệnh, chữa bệnh thuộc thẩm quyền quản lý của Sở Y tế
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính - Công văn đề nghị phê duyệt danh mục kỹ thuật. - Biên bản họp Hội đồng chuyên môn kỹ thuật đối với các trường hợp cần thành lập Hội đồng chuyên môn để thẩm định một phần hoặc toàn bộ danh mục kỹ thuật tại cơ sở khám bệnh, chữa bệnh. - Danh mục kỹ thuật đề nghị phê duyệt bao gồm: + Các kỹ thuật mà cơ sở khám bệnh, chữa bệnh đang thực hiện; đang tổ chức triển khai thực hiện theo tuyến chuyên môn kỹ thuật của cơ sở mình; + Các kỹ thuật của tuyến trên mà cơ sở khám bệnh, chữa bệnh đang thực hiện; đang tổ chức triển khai thực hiện; + Hồ sơ mô tả năng lực của cơ sở khám bệnh, chữa bệnh về cơ sở vật chất, nhân lực, thiết bị y tế; hiệu quả kinh tế - xã hội và phương án triển khai thực hiện kỹ thuật. Bảng danh mục kỹ thuật đề nghị phê duyệt phải được trình bày theo đúng kết cấu (viết đúng chuyên khoa, số thứ tự kỹ thuật, tên kỹ thuật) của Danh mục kỹ thuật quy định tại Khoản 1 Điều 4 Thông tư 43/2013/TT-BYT.

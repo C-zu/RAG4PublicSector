@@ -1,0 +1,9 @@
+Tên thủ tục: Cấp phép thi công xây dựng biển quảng cáo tạm thời trong phạm vi hành lang an toàn đường bộ của quốc lộ đang khai thác đối với đoạn, tuyến quốc lộ thuộc phạm vi được giao quản lý
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Đơn đề nghị cấp phép thi công công trình biển quảng cáo tạm thời theo mẫu (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3feda208de1af701'">Mẫu1.doc</a>)
+- 01 Bản sao Văn bản chấp thuận xây dựng biển quảng cáo tạm thời của cơ quan quản lý đường bộ có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+- 01 Bản chính 02 bộ Hồ sơ thiết kế bản vẽ thi công, trong đó có biện pháp tổ chức thi công bảo đảm an toàn giao thông đã được cấp có thẩm quyền phê duyệt (bản chính)

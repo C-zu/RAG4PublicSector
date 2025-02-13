@@ -1,0 +1,8 @@
+Tên thủ tục: Thủ tục công nhận hạng cơ sở lưu trú du lịch: hạng 4 sao, 5 sao đối với khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|30 Ngày|Phí : 3.500.000 Đồng 3.500.000 đồng/hồ sơ (Thông tư số 34/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính)*.|Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du lịch chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch thẩm định và ra quyết định công nhận hạng cơ sở lưu trú du lịch; trường hợp không công nhận, phải thông báo bằng văn bản và nêu rõ lý do.|
+|Dịch vụ bưu chính|30 Ngày|Phí : 3.500.000 Đồng 3.500.000 đồng/hồ sơ (Thông tư số 34/2018/TT-BTC ngày 30 tháng 3 năm 2018 của Bộ trưởng Bộ Tài chính)*.|Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du lịch chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch thẩm định và ra quyết định công nhận hạng cơ sở lưu trú du lịch; trường hợp không công nhận, phải thông báo bằng văn bản và nêu rõ lý do.|

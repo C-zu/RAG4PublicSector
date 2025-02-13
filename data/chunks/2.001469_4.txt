@@ -1,0 +1,15 @@
+Tên thủ tục: Thủ tục tặng thưởng Bằng khen của Thống đốc
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách tập thể, cá nhân được đề nghị khen thưởng (mẫu số 01 tại Thông tư số 25/2023/TT-NHNN) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe1de5563aa31d3'">Mẫu số 01.docx</a>)
+- 01 Bản chính + Báo cáo tóm tắt thành tích của cá nhân được đề nghị khen thưởng (mẫu số 08, 09 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023); Báo cáo thành tích lưu tại đơn vị (mẫu số 03 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdd72d578fd7328'">Mẫu số 03.docx</a>)
+- 01 Bản chính + Đối với khen thưởng đột xuất và khen thưởng chuyên đề: Báo cáo thành tích của cá nhân được đề nghị khen thưởng (mẫu số 07, 08 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe34b074cea7f6a'">Mẫu số 08 (báo cáo thành tích).docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe114541b7bf274'">Mẫu số 07.docx</a>)
+- 01 Bản chính + Biên bản họp Hội đồng Thi đua - Khen thưởng của đơn vị. Trừ các trường hợp xét khen thưởng theo thủ tục đơn giản được thực hiện theo quy định tại Điều 85 của Luật Thi đua, khen thưởng
+- 01 Bản chính * Đối với tập thể
+- 01 Bản chính + Tờ trình đề nghị khen thưởng của Thủ trưởng đơn vị kèm danh sách tập thể được đề nghị khen thưởng (mẫu số 01 Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd1426551a03acc'">Mẫu số 01.docx</a>)
+- 01 Bản chính + Báo cáo tóm tắt thành tích của tập thể được đề nghị khen thưởng (mẫu số 10 tại Thông tư số 25/2023/TT-NHNN ngày 31 tháng 12 năm 2023). Báo cáo thành tích lưu tại đơn vị (mẫu số 02 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fedac0038527d8d'">Mẫu số 02 (áp dụng đối với tập thể).docx</a>)
+- 01 Bản chính + Đối với khen thưởng đột xuất và khen thưởng chuyên đề: Báo cáo thành tích của tập thể được đề nghị khen thưởng (mẫu số 07, 08 tại Nghị định số 98/2023/NĐ-CP ngày 31 tháng 12 năm 2023) (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fdbe7fecf4e2eea'">Mẫu số 07.docx</a> <a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe963d884679ee2'">Mẫu số 08 (báo cáo thành tích).docx</a>)
+- 01 Bản chính + Biên bản họp Hội đồng Thi đua - Khen thưởng đơn vị. Trừ các trường hợp xét khen thưởng theo thủ tục đơn giản được thực hiện theo quy định tại Điều 85 của Luật Thi đua, khen thưởng

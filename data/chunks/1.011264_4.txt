@@ -1,0 +1,11 @@
+Tên thủ tục: Cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị thẩm định thiết kế (bản chính) theo mẫu BM.PTNL.53.01; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fe95d3e738465cc'">Giay de nghi tham dinh thiet ke xe co gioi cai tao.doc</a>)
+- 04 Bản chính - Thuyết minh thiết kế kỹ thuật xe cơ giới (bản chính) theo mẫu quy định tại mục A; (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd4a7c21b9ac812'">Thuyet minh thiet ke kỹ thuật mục A.doc</a>)
+- 04 Bản chính Bản vẽ kỹ thuật (bản chính) theo quy định tại mục B (<a href="https://csdl.dichvucong.gov.vn/web/jsp/download_file.jsp?ma='3fd121cbca2c758c'">Bản vẽ kỹ thuật mục B.doc</a>)
+- 04 Bản sao + Tài liệu thông số, tính năng kỹ thuật của xe cơ giới cải tạo và các tổng thành, hệ thống cải tạo, thay thế (có bản sao xác nhận của cơ sở thiết kế);
+- 04 Bản sao + Bản sao có xác nhận của cơ sở thiết kế của một trong các giấy tờ sau: Giấy đăng ký xe ô tô; Phiếu sang tên, di chuyển (đối với trường hợp đang làm thủ tục sang tên, di chuyển); Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu hoặc giấy tờ chứng nhận đã hoàn thành thủ tục nhập khẩu (đối với xe cơ giới đã qua sử dụng được phép nhập khẩu, chưa có biển số đăng ký).

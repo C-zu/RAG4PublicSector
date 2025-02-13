@@ -1,0 +1,7 @@
+Tên thủ tục: Sang tên chủ sở hữu xe máy chuyên dùng trong cùng một tỉnh, thành phố
+Nội dung: Cách thức thực hiện (Hình thức nộp hồ sơ, Thời hạn giải quyết, phí, lệ phí nộp hồ sơ, mô tả của hồ sơ)
+
+Cách thức thực hiện:
+|Hình thức nộp|Thời hạn giải quyết|Phí, lệ phí|Mô tả|
+|--|--|--|-|
+|Trực tiếp|3 Ngày làm việc|Lệ phí : 50000 Đồng 50.000 đồng/lần/phương tiện|03 ngày làm việc kể từ ngày kết thúc kiểm tra.|

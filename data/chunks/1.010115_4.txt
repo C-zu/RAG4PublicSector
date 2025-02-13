@@ -1,0 +1,10 @@
+Tên thủ tục: Điều chỉnh nội dung dự án đầu tư trong Giấy chứng nhận đăng ký đầu tư (đối với trường hợp không điều chỉnh quyết định chủ trương đầu tư) - BQL
+Nội dung: Thành phần hồ sơ, các giấy tờ cần thiết (loại giấy tờ, số lượng bản chính bản sao, mẫu đơn tờ khai)
+
+Thành phần hồ sơ:
+
+Bao gồm
+- 01 Bản chính Văn bản đề nghị điều chỉnh dự án đầu tư, theo mẫu BM.ĐT.08.01
+- 01 Bản chính Báo cáo tình hình triển khai dự án đầu tư đến thời điểm đề nghị điều chỉnh dự án đầu tư; BM.ĐT.08.02
+- 01 Bản chính Quyết định về việc điều chỉnh dự án đầu tư của nhà đầu tư
+- 01 Bản chính Tài liệu quy định tại các điểm b, c, d, đ và e Khoản 1 Điều 33 của Luật Đầu tư liên quan đến các nội dung điều chỉnh.
